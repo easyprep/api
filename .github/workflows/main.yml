@@ -25,7 +25,7 @@ jobs:
       - name: Select GH-Pages Branch
         run: |
           git pull
-          set +e
+          set -e
           {
             git checkout "gh-pages"
             echo "Swtched to GH Pages Branch"
@@ -35,7 +35,6 @@ jobs:
             git rm -rf . 
             git checkout master -- .gitignore
           }
-          set -e
 
       - name: Push To GH-Pages
         run: |
