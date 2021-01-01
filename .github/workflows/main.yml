@@ -52,7 +52,7 @@ jobs:
           if git status | grep 'new file\|modified'
           then
               set -e
-              git commit -m "Auto Updated $(date -Is)"
+              git commit -m "Auto Updated at: $(date -Is)"
               git push origin "$gh_pages_branch"
           else
               set -e
