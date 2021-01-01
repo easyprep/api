@@ -47,11 +47,14 @@ jobs:
       - name: Run Build Script
         run: |
           git checkout master
-          git checkout gh-pages -- status.json
-          mkdir dist
-          mv status.json dist/status.json
+          git checkout gh-pages -- .
           npm run build
           git checkout gh-pages
+        env:
+          api_url: ${{secrets.API_URL}}
+          api_payload: ${{secrets.API_PAYLOAD}}
+          data_map: ${{secrets.DATA_MAP}}
+          my_name_scape: ${{secrets.MY_NAME_SCAPE}}
 
       - name: Push To GH-Pages Branch
         run: |

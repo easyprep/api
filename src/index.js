@@ -22,6 +22,7 @@ let status = {
 let statusFilePath = path.join(currDir, '/status.json');
 console.log(statusFilePath);
 try {
+  fs.copyFileSync('status.json', statusFilePath);
   status = require('../' + statusFilePath);
 } catch (e) {
   console.log(e);
