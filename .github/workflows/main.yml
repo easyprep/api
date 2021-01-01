@@ -50,9 +50,9 @@ jobs:
           git checkout gh-pages -- .
           {
             mkdir dist
-            mv status.json dist/
-            mv -r questions/* dist/questions/
-            mv -r quizzes/* dist/quizzes/
+            cp status.json dist/
+            cp -r questions/* dist/questions/
+            cp -r quizzes/* dist/quizzes/
           } || {
             echo 'Status.json Not Found'
           }
