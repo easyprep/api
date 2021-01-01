@@ -15,6 +15,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with: fetch-depth: 0
 
       - name: Install Dependancies
         run: npm ci
@@ -34,7 +35,7 @@ jobs:
 
       - name: Select GH-Pages Branch
         run: |
-          git pull --rebase=true
+          # git pull --rebase=true
           set +e
           if git branch -a | grep "remotes/origin/${gh_pages_branch}"
           then
@@ -45,7 +46,7 @@ jobs:
             set-e
             echo "Created: ${gh_pages_branch} Branch"
             git checkout -b "$gh_pages_branch"
-            git rm -rf . 
+            git rm -rf .
             git checkout "$master_branch" -- .gitignore
           fi
 
@@ -61,16 +62,31 @@ jobs:
       #     data_map: ${{secrets.DATA_MAP}}
       #     my_name_scape: ${{secrets.MY_NAME_SCAPE}}
 
-      - name: Push To GH-Pages Branch
+      # - name: Push To GH-Pages Branch
+      #   run: |
+      #     # cp -r dist/* .
+      #     git add .
+      #     set +e
+      #     if git status | grep 'new file\|modified'
+      #     then
+      #         set -e
+      #         git commit -m "Auto Updated at: $(date -Is)"
+      #         git push origin "$gh_pages_branch"
+      #     else
+      #         set -e
+      #         echo "No changes to commit"
+      #     fi
+      #     echo "Finish"
+
+      - name: Push To master Branch
         run: |
-          # cp -r dist/* .
           git add .
           set +e
           if git status | grep 'new file\|modified'
           then
               set -e
               git commit -m "Auto Updated at: $(date -Is)"
-              git push origin "$gh_pages_branch"
+              git push origin "$master_branch"
           else
               set -e
               echo "No changes to commit"

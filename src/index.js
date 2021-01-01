@@ -6,7 +6,7 @@ const axios = require('axios').default;
 const uuid = require('uuid').v5;
 const ts = new Date().getTime();
 
-let currDir = 'dist';
+let currDir = 'docs';
 let quesDir = path.join(currDir + '/questions');
 fs.mkdirSync(quesDir, { recursive: true });
 
@@ -22,7 +22,6 @@ let status = {
 let statusFilePath = path.join(currDir, '/status.json');
 console.log(statusFilePath);
 try {
-  fs.copyFileSync('status.json', statusFilePath);
   status = require('../' + statusFilePath);
 } catch (e) {
   console.log(e);
