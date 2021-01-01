@@ -47,7 +47,9 @@ jobs:
       - name: Run Build Script
         run: |
           git checkout master
-          git checkout gh-pages -- dist/*
+          git checkout gh-pages -- status.json
+          mkdir dist
+          mv status.json dist/status.json
           npm run build
           git checkout gh-pages
 
