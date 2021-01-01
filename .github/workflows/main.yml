@@ -15,15 +15,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+        # with:
+        #   fetch-depth: 0
 
       - name: Install Dependancies
         run: npm ci
 
       - name: Run Build Script
         run: |
-          git checkout gh-pages -- dist
+          git pull
+          git checkout gh-pages -- dist/*
           npm run build
         env:
           api_url: ${{secrets.API_URL}}
