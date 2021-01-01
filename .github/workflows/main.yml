@@ -21,14 +21,13 @@ jobs:
       - name: Build
         run: npm start
 
-      - name: Setup Github Account
-        run: |
-          git config user.email "nka.debug@gmail.com"
-          git config user.name "nkadebug"
+      # - name: Setup Github Account
+      #   run: |
+      #     git config user.email "nka.debug@gmail.com"
+      #     git config user.name "nkadebug"
 
       - name: Select GH-Pages Branch
         run: |
-          # git pull
           {
             git checkout "gh-pages"
             echo "Swtched to GH Pages Branch"
