@@ -47,15 +47,7 @@ jobs:
       - name: Run Build Script
         run: |
           git checkout master
-          git checkout gh-pages -- .
-          {
-            mkdir dist
-            cp status.json dist/
-            cp -r questions/* dist/questions/
-            cp -r quizzes/* dist/quizzes/
-          } || {
-            echo 'Status.json Not Found'
-          }
+          git checkout gh-pages -- dist
           npm run build
           git checkout gh-pages
         env:
@@ -66,7 +58,7 @@ jobs:
 
       - name: Push To GH-Pages Branch
         run: |
-          cp -r dist/* .
+          # cp -r dist/* .
           git add .
           set +e
           if git status | grep 'new file\|modified'
