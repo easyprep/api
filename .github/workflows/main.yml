@@ -1,0 +1,40 @@
+name: Build & Deploy
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "*/10 * * * *"
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install Dependancies
+        run: npm ci
+
+      - name: Build
+        run: npm start
+
+      - name: Setup Github Account
+        run: |
+          git config user.email "nka.debug@gmail.com"
+          git config user.name "nkadebug"
+      - name: Select GH-Pages Branch
+        run: |
+          git checkout -b gh-pages
+          git rm -rf .
+          git checkout master -- .gitignore
+
+      - name: Push To GH-Pages
+        run: |
+          cp dist/* .
+          git add .
+          git commit -m "Auto Updated $(date)"
+          git push origin gh-pages
+
+      - name: Completed
+        run: echo "Job Done Successfully"
