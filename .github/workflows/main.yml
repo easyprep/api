@@ -48,6 +48,14 @@ jobs:
         run: |
           git checkout master
           git checkout gh-pages -- .
+          {
+            mkdir dist
+            mv status.json dist/
+            mv -r questions/* dist/questions/
+            mv -r quizzes/* dist/quizzes/
+          } || {
+            echo 'Status.json Not Found'
+          }
           npm run build
           git checkout gh-pages
         env:
