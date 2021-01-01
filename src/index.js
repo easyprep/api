@@ -47,7 +47,9 @@ axios.post(url, qs.stringify(payload)).then(function ({ data }) {
       nq[key] = q[map[key]] || '';
     }
     nq.labels = ['Current Affairs', nq.created_at.split(' ')[0]];
-    let indexPath = nq.labels.join('/');
+    let indexPath = nq.labels
+      .map((a) => a.toLowerCase().replace(/[^a-zA-Z0-9]+/g, '-'))
+      .join('/');
     if (!indexData[indexPath]) indexData[indexPath] = {};
     indexData[indexPath][nq.id] = new Date(nq.created_at).getTime();
     fs.writeFileSync(
