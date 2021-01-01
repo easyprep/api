@@ -23,20 +23,20 @@ jobs:
         run: npm start
 
       - name: Setup Github Account
-        run: git config user.name $GITHUB_ACTOR
+        run: git config user.name "$GITHUB_ACTOR"
 
       - name: Select GH-Pages Branch
         run: |
           git pull --rebase=true
           set +e
-          if git branch -a | grep 'remotes/origin/${gh_pages_branch}'
+          if git branch -a | grep "remotes/origin/${gh_pages_branch}"
           then
             set -e
-            echo 'Exists: ${gh_pages_branch} Branch'
+            echo "Exists: ${gh_pages_branch} Branch"
             git checkout $gh_pages_branch
           else
             set-e
-            echo 'Created: ${gh_pages_branch} Branch'
+            echo "Created: ${gh_pages_branch} Branch"
             git checkout -b $gh_pages_branch 
             git rm -rf . 
             git checkout $master_branch -- .gitignore
