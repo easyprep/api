@@ -1,3 +1,5 @@
 const fs = require('fs');
-fs.mkdirSync("dist");
-fs.writeFileSync("dist/index.json", JSON.stringify({ ts: new Date().toJSON() }, null, 4));
+let dt = new Date();
+let currDir = "dist/" + dt.toJSON().split("T")[0];
+fs.mkdirSync(currDir, { recursive: true });
+fs.writeFileSync(currDir + "/index-" + dt.getTime() + ".json", JSON.stringify({ ts: new Date().toJSON() }, null, 4));
