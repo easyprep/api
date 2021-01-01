@@ -25,9 +25,9 @@ jobs:
           git config user.name "nkadebug"
       - name: Select GH-Pages Branch
         run: |
-          git checkout gh-pages
-          git rm -rf .
-          git checkout master -- .gitignore
+          git checkout "gh-pages"
+          # git rm -rf .
+          # git checkout master -- .gitignore
 
       - name: Push To GH-Pages
         run: |
