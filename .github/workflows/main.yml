@@ -19,8 +19,8 @@ jobs:
       - name: Install Dependancies
         run: npm ci
 
-      - name: Run Build Script
-        run: npm start
+      # - name: Run Build Script
+      #   run: npm start
 
       - name: Setup Github Account
         run: |
@@ -43,6 +43,13 @@ jobs:
             git rm -rf . 
             git checkout "$master_branch" -- .gitignore
           fi
+
+      - name: Run Build Script
+        run: |
+          git checkout master
+          git checkout gh-pages -- dist
+          npm run build
+          git checkout gh-pages
 
       - name: Push To GH-Pages Branch
         run: |
