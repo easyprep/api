@@ -12,6 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Install Dependancies
         run: npm ci
@@ -24,8 +26,7 @@ jobs:
       - run: git branch -a
       - name: Select GH-Pages Branch
         run: |
-          git pull
-
+          # git pull
           set +e
           if git branch -a | grep 'remotes/origin/gh-pages'
           then
