@@ -31,10 +31,15 @@ jobs:
 
       - name: Push To GH-Pages
         run: |
-          cp dist/* .
+          cp -r dist/* .
           git add .
-          git commit -m "Auto Updated $(date)"
-          git push origin gh-pages
-
-      - name: Completed
-        run: echo "Job Done Successfully"
+          if git status | grep 'new file\|modified'
+          then
+              set -e
+              git commit -m "Auto Updated $(date)"
+              git push origin gh-pages
+          else
+              set -e
+              echo "No changes since last run"
+          fi
+          echo "finish"
