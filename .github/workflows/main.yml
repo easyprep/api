@@ -58,4 +58,4 @@ jobs:
               set -e
               echo "No changes to commit"
           fi
-          echo "finish"
+          echo "Finish"
