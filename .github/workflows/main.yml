@@ -25,6 +25,7 @@ jobs:
       - name: Select GH-Pages Branch
         run: |
           git pull
+          git branch -a
           git checkout "gh-pages"
           # git checkout -b "gh-pages" 
           # git rm -rf . 
