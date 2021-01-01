@@ -23,8 +23,8 @@ jobs:
 
       - name: Run Build Script
         run: |
-        git checkout gh-pages -- dist
-        npm run build
+          git checkout gh-pages -- dist
+          npm run build
         env:
           api_url: ${{secrets.API_URL}}
           api_payload: ${{secrets.API_PAYLOAD}}
