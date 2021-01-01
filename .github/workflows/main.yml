@@ -16,11 +16,11 @@ jobs:
       - name: Install Dependancies
         run: npm ci
 
-      - name: Build
+      - name: Run Build Script
         run: npm start
 
       - name: Setup Github Account
-        run: git config user.name ${{ github.actor }}
+        run: git config user.name $GITHUB_ACTOR
 
       - name: Select GH-Pages Branch
         run: |
@@ -39,7 +39,7 @@ jobs:
             git checkout master -- .gitignore
           fi
 
-      - name: Push To GH-Pages
+      - name: Push To GH-Pages Branch
         run: |
           cp -r dist/* .
           git add .
