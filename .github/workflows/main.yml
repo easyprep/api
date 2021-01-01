@@ -24,7 +24,7 @@ jobs:
 
       - name: Select GH-Pages Branch
         run: |
-          git pull
+          git pull --rebase=true
           set +e
           if git branch -a | grep 'remotes/origin/gh-pages'
           then
