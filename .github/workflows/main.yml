@@ -23,7 +23,7 @@ jobs:
 
       - name: Trial 01
         run: |
-          echo ${{ github.repository }}
+          echo ${{ github.actor }}
 
       - name: Setup Github Account
         run: |
