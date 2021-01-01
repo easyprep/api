@@ -34,14 +34,13 @@ jobs:
           then
             set -e
             echo "Exists: ${gh_pages_branch} Branch"
-            git checkout gh-pages
+            git checkout "$gh_pages_branch"
             mkdir docs
             cp ./status.json ./docs/status.json
             cp -r ./questions ./docs/questions
             cp -r ./quizzes ./docs/quizzes
-            git checkout master
+            git checkout "$master_branch"
             npm run build
-            git checkout gh-pages
             git checkout "$gh_pages_branch"
           else
             set-e
