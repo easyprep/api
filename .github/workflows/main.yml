@@ -15,8 +15,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
+
+      - run: |
+        git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
 
       - name: Install Dependancies
         run: npm ci
@@ -28,34 +29,53 @@ jobs:
 
       - name: Run Build Script
         run: |
-          git pull
-          git checkout gh-pages -- docs
-          npm run build
+          set +e
+          if git branch -a | grep "remotes/origin/${gh_pages_branch}"
+          then
+            set -e
+            echo "Exists: ${gh_pages_branch} Branch"
+            git checkout gh-pages
+            mkdir docs
+            cp ./status.json ./docs/status.json
+            cp -r ./questions ./docs/questions
+            cp -r ./quizzes ./docs/quizzes
+            git checkout master
+            npm run build
+            git checkout gh-pages
+            git checkout "$gh_pages_branch"
+          else
+            set-e
+            npm run build
+            echo "Created: ${gh_pages_branch} Branch"
+            git checkout -b "$gh_pages_branch"
+            git rm -rf .
+            git checkout "$master_branch" -- .gitignore
+          fi
         env:
           api_url: ${{secrets.API_URL}}
           api_payload: ${{secrets.API_PAYLOAD}}
           data_map: ${{secrets.DATA_MAP}}
           my_name_scape: ${{secrets.MY_NAME_SCAPE}}
 
-      - name: Select GH-Pages Branch
-        run: |
-          set +e
-          if git branch -a | grep "remotes/origin/${gh_pages_branch}"
-          then
-            set -e
-            echo "Exists: ${gh_pages_branch} Branch"
-            git checkout -f "$gh_pages_branch"
-          else
-            set-e
-            echo "Created: ${gh_pages_branch} Branch"
-            git checkout -b "$gh_pages_branch"
-            git rm -rf .
-            git checkout "$master_branch" -- .gitignore
-          fi
+      # - name: Select GH-Pages Branch
+      #   run: |
+      #     set +e
+      #     if git branch -a | grep "remotes/origin/${gh_pages_branch}"
+      #     then
+      #       set -e
+      #       echo "Exists: ${gh_pages_branch} Branch"
+      #       git checkout "$gh_pages_branch"
+      #     else
+      #       set-e
+      #       echo "Created: ${gh_pages_branch} Branch"
+      #       git checkout -b "$gh_pages_branch"
+      #       git rm -rf .
+      #       git checkout "$master_branch" -- .gitignore
+      #     fi
 
       - name: Push To GH-Pages Branch
         run: |
-          # cp -r dist/* .
+          cp -r docs/* .
           git add .
           set +e
           if git status | grep 'new file\|modified'
