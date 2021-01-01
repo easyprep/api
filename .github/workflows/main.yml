@@ -26,7 +26,7 @@ jobs:
 
       - name: Select GH-Pages Branch
         run: |
-          git pull
+          # git pull
           {
             git checkout "gh-pages"
             echo "Swtched to GH Pages Branch"
