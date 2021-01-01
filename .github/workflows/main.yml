@@ -12,8 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
 
       - name: Install Dependancies
         run: npm ci
@@ -26,6 +24,7 @@ jobs:
 
       - name: Select GH-Pages Branch
         run: |
+          git pull
           {
             git checkout "gh-pages"
             echo "Swtched to GH Pages Branch"
