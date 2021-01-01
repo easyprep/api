@@ -29,8 +29,10 @@ jobs:
           git pull
           {
             git checkout "gh-pages"
+            echo "Swtched to GH Pages Branch"
           } || {
             git checkout -b "gh-pages" 
+            echo "Created and Swtched to GH Pages Branch"
             git rm -rf . 
             git checkout master -- .gitignore
           }
