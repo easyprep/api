@@ -45,7 +45,7 @@ jobs:
           else
             set-e
             npm run build
-            echo "Created: ${gh_pages_branch} Branch"
+            echo "Created: ${gh_pages_branch} Branch "
             git checkout -b "$gh_pages_branch"
             git rm -rf .
             git checkout "$master_branch" -- .gitignore
