@@ -25,11 +25,20 @@ jobs:
       - name: Select GH-Pages Branch
         run: |
           git pull
-          git branch -a
-          git checkout "gh-pages"
-          # git checkout -b "gh-pages" 
-          # git rm -rf . 
-          # git checkout master -- .gitignore
+
+          set +e
+          if git branch -a | grep 'remotes/origin/gh-pages'
+          then
+            set -e
+            git checkout "gh-pages"
+            echo 'Exists'
+          else
+            set-e
+            git checkout -b "gh-pages" 
+            git rm -rf . 
+            git checkout master -- .gitignore
+            echo 'Created'
+          fi
 
       - name: Push To GH-Pages
         run: |
