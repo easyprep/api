@@ -21,7 +21,7 @@ jobs:
 
       - name: Setup Github Account
         run: git config user.name ${{ github.actor }}
-
+      - run: git branch -a
       - name: Select GH-Pages Branch
         run: |
           git pull
