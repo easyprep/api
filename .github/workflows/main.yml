@@ -27,13 +27,13 @@ jobs:
           git pull
           set -e
           {
-            git checkout "gh-pages"
-            echo "Swtched to GH Pages Branch"
-          } || {
             git checkout -b "gh-pages" 
             echo "Created and Swtched to GH Pages Branch"
             git rm -rf . 
             git checkout master -- .gitignore
+          } || {
+            git checkout "gh-pages"
+            echo "Swtched to GH Pages Branch"
           }
 
       - name: Push To GH-Pages
