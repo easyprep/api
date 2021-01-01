@@ -16,7 +16,7 @@ const map = JSON.parse(process.env.data_map);
 const name_scape = process.env.my_name_scape;
 
 let status = {
-  fetchCount: 10,
+  fetchCount: 1000,
   lastIdFetched: 0,
 };
 let statusFilePath = path.join(currDir, '/status.json');
