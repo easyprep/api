@@ -12,8 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-        with:
-          fetch-depth: 0
 
       - name: Install Dependancies
         run: npm ci
@@ -23,22 +21,22 @@ jobs:
 
       - name: Setup Github Account
         run: git config user.name ${{ github.actor }}
-      - run: git branch -a
+
       - name: Select GH-Pages Branch
         run: |
-          # git pull
+          git pull
           set +e
           if git branch -a | grep 'remotes/origin/gh-pages'
           then
             set -e
+            echo 'Exists: gh-pages Branch'
             git checkout "gh-pages"
-            echo 'Exists'
           else
             set-e
+            echo 'Created: gh-pages Branch'
             git checkout -b "gh-pages" 
             git rm -rf . 
             git checkout master -- .gitignore
-            echo 'Created'
           fi
 
       - name: Push To GH-Pages
