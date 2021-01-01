@@ -25,11 +25,14 @@ jobs:
       - name: Select GH-Pages Branch
         run: |
           git pull
+          set +e
           {
             git checkout "gh-pages"
+            -e
             echo "Swtched to GH Pages Branch"
           } || {
             git checkout -b "gh-pages" 
+            -e
             echo "Created and Swtched to GH Pages Branch"
             git rm -rf . 
             git checkout master -- .gitignore
