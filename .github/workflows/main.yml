@@ -47,7 +47,7 @@ jobs:
       - name: Run Build Script
         run: |
           git checkout master
-          git checkout gh-pages -- dist
+          git checkout gh-pages -- dist || echo "New Branch"
           npm run build
           git checkout gh-pages
         env:
