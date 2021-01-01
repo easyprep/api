@@ -27,14 +27,13 @@ jobs:
       - name: Select GH-Pages Branch
         run: |
           git pull
-          git checkout "gh-pages"
-          # git rm -rf .
-          # git checkout master -- .gitignore
+          git checkout "gh-pages" || git checkout -b "gh-pages" && git rm -rf . && git checkout master -- .gitignore
 
       - name: Push To GH-Pages
         run: |
           cp -r dist/* .
           git add .
+          set +e
           if git status | grep 'new file\|modified'
           then
               set -e
