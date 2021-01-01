@@ -21,6 +21,11 @@ jobs:
       - name: Install Dependancies
         run: npm ci
 
+      - name: Setup Github Account
+        run: |
+          git config user.name "$GITHUB_ACTOR"
+          git config user.email "${GITHUB_ACTOR}@bots.github.com"
+
       - name: Run Build Script
         run: |
           git pull
@@ -31,11 +36,6 @@ jobs:
           api_payload: ${{secrets.API_PAYLOAD}}
           data_map: ${{secrets.DATA_MAP}}
           my_name_scape: ${{secrets.MY_NAME_SCAPE}}
-
-      - name: Setup Github Account
-        run: |
-          git config user.name "$GITHUB_ACTOR"
-          git config user.email "${GITHUB_ACTOR}@bots.github.com"
 
       - name: Select GH-Pages Branch
         run: |
