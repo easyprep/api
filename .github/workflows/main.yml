@@ -19,8 +19,13 @@ jobs:
       - name: Install Dependancies
         run: npm ci
 
-      # - name: Run Build Script
-      #   run: npm start
+      - name: Run Build Script
+        run: npm run build
+        env:
+          api_url: ${{secrets.API_URL}}
+          api_payload: ${{secrets.API_PAYLOAD}}
+          data_map: ${{secrets.DATA_MAP}}
+          my_name_scape: ${{secrets.MY_NAME_SCAPE}}
 
       - name: Setup Github Account
         run: |
@@ -44,17 +49,17 @@ jobs:
             git checkout "$master_branch" -- .gitignore
           fi
 
-      - name: Run Build Script
-        run: |
-          git checkout master
-          # git checkout gh-pages -- dist
-          npm run build
-          git checkout gh-pages
-        env:
-          api_url: ${{secrets.API_URL}}
-          api_payload: ${{secrets.API_PAYLOAD}}
-          data_map: ${{secrets.DATA_MAP}}
-          my_name_scape: ${{secrets.MY_NAME_SCAPE}}
+      # - name: Run Build Script
+      #   run: |
+      #     git checkout master
+      #     # git checkout gh-pages -- dist
+      #     npm run build
+      #     git checkout gh-pages
+      #   env:
+      #     api_url: ${{secrets.API_URL}}
+      #     api_payload: ${{secrets.API_PAYLOAD}}
+      #     data_map: ${{secrets.DATA_MAP}}
+      #     my_name_scape: ${{secrets.MY_NAME_SCAPE}}
 
       - name: Push To GH-Pages Branch
         run: |
