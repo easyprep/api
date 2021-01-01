@@ -22,9 +22,7 @@ jobs:
         run: npm start
 
       - name: Setup Github Account
-        run: |
-          # git config user.email "nka.debug@gmail.com"
-          git config user.name ${{ github.actor }}
+        run: git config user.name ${{ github.actor }}
 
       - name: Select GH-Pages Branch
         run: |
