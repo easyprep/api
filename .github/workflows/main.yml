@@ -37,9 +37,11 @@ jobs:
             git checkout "$gh_pages_branch"
             find . -type f | echo "Before Build Files Count - $(wc -l)"
             mkdir docs
-            cp ./status.json ./docs/status.json
-            cp -r ./questions ./docs/questions
-            cp -r ./quizzes ./docs/quizzes
+            # mkdir docs/questions
+            # mkdir docs/quizzes
+            mv ./status.json ./docs/status.json
+            mv ./questions ./docs/questions
+            mv ./quizzes ./docs/quizzes
             git checkout "$master_branch"
             npm run builder && npm run indexer
             git checkout "$gh_pages_branch"

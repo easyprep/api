@@ -5,7 +5,7 @@ function indexDir(path) {
         let newPath = path + "/" + file;
         let stats = fs.statSync(newPath);
         if (stats.isDirectory()) {
-            indexData[file] = `${stats.mtimeMs}/dir`;
+            indexData[file] = stats.mtimeMs;
             indexDir(newPath);
         } else {
             if (file.indexOf("index.") == -1) {
