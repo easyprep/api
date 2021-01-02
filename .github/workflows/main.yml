@@ -38,7 +38,7 @@ jobs:
             find . -type f | echo "Before Build Files Count - $(wc -l)"
             mkdir docs
             cp ./status.json ./docs/status.json
-            # cp -r ./questions ./docs/questions
+            cp -r ./questions ./docs/questions
             cp -r ./quizzes ./docs/quizzes
             git checkout "$master_branch"
             npm run build
