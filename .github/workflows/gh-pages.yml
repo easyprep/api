@@ -2,8 +2,13 @@ name: Build Index
 on:
   push:
     branches:
-      - "gh-pages"
+      - gh-pages
 jobs:
+  skipci:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "[skip ci] ${{ contains(github.event.head_commit.message, '[skip ci]') }}"
+
   build_index:
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -31,8 +36,8 @@ jobs:
           if git status | grep 'new file\|modified'
           then
               set -e
-              git commit -m "Auto Updated by Indexer at- $(date -Is)"
-              git push origin "$gh_pages_branch"
+              git commit -m "Auto Updated at- $(date -Is) [skip ci]"
+              git push origin "gh-pages"
           else
               set -e
               echo "No changes to commit"
