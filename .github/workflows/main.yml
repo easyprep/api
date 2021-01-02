@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - gh-pages
   schedule:
     - cron: "*/10 * * * *"
 jobs:
@@ -12,7 +13,7 @@ jobs:
     env:
       master_branch: master
       gh_pages_branch: gh-pages
-
+    if: github.ref == "refs/heads/master"
     steps:
       - uses: actions/checkout@v2
 
@@ -74,3 +75,9 @@ jobs:
               echo "No changes to commit"
           fi
           echo "Finish"
+  build_index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    if: github.ref == "refs/heads/gh-pages"
+    steps:
+      - run: echo "Ref - ${{ github.ref }}"
