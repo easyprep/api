@@ -17,6 +17,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - run: |
+          echo "github.ref - ${github.ref}"
           git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
 
       - name: Install Dependancies
@@ -66,7 +67,7 @@ jobs:
           if git status | grep 'new file\|modified'
           then
               set -e
-              git commit -m "Auto Updated at: $(date -Is)"
+              git commit -m "Auto Updated at- $(date -Is)"
               git push origin "$gh_pages_branch"
           else
               set -e
