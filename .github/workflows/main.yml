@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - run: |
-          echo "github.ref - ${github.ref}"
+          echo "Ref - ${{ github.ref }}"
           git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
 
       - name: Install Dependancies
@@ -34,7 +34,7 @@ jobs:
           if git branch -a | grep "remotes/origin/${gh_pages_branch}"
           then
             set -e
-            echo "Exists: ${gh_pages_branch} Branch"
+            echo "Exists- ${gh_pages_branch} Branch"
             git checkout "$gh_pages_branch"
             find . -type f | echo "Before Build Files Count - $(wc -l)"
             mkdir docs
