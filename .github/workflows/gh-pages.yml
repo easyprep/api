@@ -1,0 +1,40 @@
+name: Build Index
+on:
+  push:
+    branches:
+      - "gh-pages"
+jobs:
+  build_index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    if: contains(github.event.head_commit.message, 'Auto Updated by Indexer at') == false
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git fetch --no-tags --prune --depth=1 origin +refs/heads/*:refs/remotes/origin/*
+
+      - name: Setup Github Account
+        run: |
+          git config user.name "$GITHUB_ACTOR"
+          git config user.email "${GITHUB_ACTOR}@bots.github.com"
+
+      - name: Build Index
+        run: |
+          git checkout gh-pages
+          git checkout master -- src/indexer.js
+          node src/indexer.js
+
+      - name: Push To GH-Pages Branch
+        run: |
+          git add .
+          set +e
+          if git status | grep 'new file\|modified'
+          then
+              set -e
+              git commit -m "Auto Updated by Indexer at- $(date -Is)"
+              git push origin "$gh_pages_branch"
+          else
+              set -e
+              echo "No changes to commit"
+          fi
+          echo "Finish"
