@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "start": "nodemon src/index.js --ignore dist/*",
-        "build": "node src/index.js",
+        "builder": "node src/index.js",
+        "indexer": "node src/indexer.js",
         "push": "git add . && git commit -m Update && git push origin master"
     },
     "repository": {

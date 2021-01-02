@@ -2,8 +2,7 @@ name: Build & Deploy
 on:
   push:
     branches:
-      - "master"
-      - "gh-pages"
+      - master
   schedule:
     - cron: "0 * * * *"
 jobs:
@@ -13,7 +12,6 @@ jobs:
     env:
       master_branch: master
       gh_pages_branch: gh-pages
-    if: contains(github.ref, 'master')
     steps:
       - uses: actions/checkout@v2
 
@@ -43,13 +41,13 @@ jobs:
             cp -r ./questions ./docs/questions
             cp -r ./quizzes ./docs/quizzes
             git checkout "$master_branch"
-            npm run build
+            npm run builder && npm run indexer
             git checkout "$gh_pages_branch"
             find . -type f | echo "After Build Files Count - $(wc -l)"
           else
             set-e
-            npm run build
-            echo "Created: ${gh_pages_branch} Branch"
+            npm run builder && npm run indexer
+            echo "Created- ${gh_pages_branch} Branch"
             git checkout -b "$gh_pages_branch"
             git rm -rf .
             git checkout "$master_branch" -- .gitignore
@@ -75,9 +73,3 @@ jobs:
               echo "No changes to commit"
           fi
           echo "Finish"
-  build_index:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    if: contains(github.ref, 'gh-pages')
-    steps:
-      - run: echo "Ref - ${{ github.ref }}"

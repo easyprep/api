@@ -19,4 +19,4 @@ function indexDir(path) {
     }
 }
 
-indexDir("quizzes");
+indexDir("docs/quizzes");
