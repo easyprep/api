@@ -4,7 +4,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: "*/10 * * * *"
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
@@ -37,7 +37,7 @@ jobs:
             git checkout "$gh_pages_branch"
             mkdir docs
             cp ./status.json ./docs/status.json
-            cp -r ./questions ./docs/questions
+            # cp -r ./questions ./docs/questions
             cp -r ./quizzes ./docs/quizzes
             git checkout "$master_branch"
             npm run build
