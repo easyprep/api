@@ -37,7 +37,11 @@ payload.quesids = ids.join();
 axios.post(url, qs.stringify(payload)).then(function ({ data }) {
   let baseUrl = url.split('/')[2];
   let indexData = {};
-  if (!data.questions) return;
+  if (!data.questions) {
+    console.log('New Questions: 0');
+    return;
+  }
+  console.log('New Questions: ' + data.questions.length);
   data.questions.forEach(function (q) {
     status.lastIdFetched = parseInt(q.id);
     let nq = {
@@ -57,7 +61,6 @@ axios.post(url, qs.stringify(payload)).then(function ({ data }) {
       JSON.stringify(nq, null, 2)
     );
   });
-  console.log(data);
   status.fetchCount = data.questions.length < 100 ? 100 : 1000;
   status.lastFetchCount = data.questions.length;
   status.lastUpdatedAt = new Date().toJSON();
