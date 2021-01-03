@@ -36,7 +36,7 @@ jobs:
             echo "Exists- ${gh_pages_branch} Branch"
             git checkout "$gh_pages_branch"
             find . -type f | echo "Before Build Files Count - $(wc -l)"
-            mkdir docs
+            mkdir -p docs
             mv ./status.json ./docs/status.json
             mv ./questions ./docs/questions
             mv ./quizzes ./docs/quizzes
