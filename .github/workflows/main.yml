@@ -50,8 +50,8 @@ jobs:
             echo "Created- ${gh_pages_branch} Branch"
             git checkout -b "$gh_pages_branch"
             git rm -rf .
-            echo node_modules > .gitignore
-            # git checkout "$master_branch" -- .gitignore
+            # echo node_modules > .gitignore
+            git checkout "$master_branch" -- .gitignore
           fi
         env:
           api_url: ${{secrets.API_URL}}
@@ -61,7 +61,7 @@ jobs:
 
       - name: Push To GH-Pages Branch
         run: |
-          # cp -r docs/* .
+          cp -r docs/* .
           git add .
           set +e
           if git status | grep 'new file\|modified'
