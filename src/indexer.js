@@ -23,7 +23,10 @@ indexDir('docs/quizzes');
 console.time();
 let qIndex = [];
 fs.readdirSync('docs/questions').forEach(function (file) {
-  qIndex.push({ id: file.split('.')[0], ts: fs.statSync(file).mtimeMs });
+  qIndex.push({
+    id: file.split('.')[0],
+    ts: fs.statSync('docs/questions/' + file).mtimeMs,
+  });
 });
 console.timeLog();
 fs.writeFileSync('docs/questions/index2.json', JSON.stringify(qIndex, null, 2));
