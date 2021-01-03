@@ -25,7 +25,12 @@ let qdir = 'docs/questions/';
 var qIndex = fs
   .readdirSync(qdir)
   .map(function (v) {
-    return { name: v, time: fs.statSync(qdir + v).mtimeMs };
+    return {
+      name: v,
+      time: new Date(
+        JSON.parse(fs.readFileSync(qdir + v, 'utf8')).updated_at
+      ).getTime(),
+    };
   })
   .sort(function (a, b) {
     return a.time - b.time;
