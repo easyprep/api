@@ -21,13 +21,25 @@ function indexDir(path) {
 
 indexDir('docs/quizzes');
 console.time();
-let qIndex = [];
-fs.readdirSync('docs/questions').forEach(function (file) {
-  qIndex.push({
-    id: file.split('.')[0],
-    ts: fs.statSync('docs/questions/' + file).mtimeMs,
+let qdir = 'docs/questions';
+var qIndex = fs
+  .readdirSync(qdir)
+  .map(function (v) {
+    return { name: v, time: fs.statSync(qdir + v).mtime.getTime() };
+  })
+  .sort(function (a, b) {
+    return a.time - b.time;
+  })
+  .map(function (v) {
+    return v.name.split('.')[0];
   });
-});
 console.timeLog();
-fs.writeFileSync('docs/questions/index2.json', JSON.stringify(qIndex, null, 2));
+fs.mkdirSync('docs/qi', { recursive: true });
+let chunk = 1000;
+for (let i = 0; i < Math.ceil(qIndex.length / chunk); i++) {
+  fs.writeFileSync(
+    `docs/qi/${i + 1}.json`,
+    JSON.stringify(qIndex.slice(i * chunk, (i + 1) * chunk), null, 2)
+  );
+}
 console.timeEnd();
