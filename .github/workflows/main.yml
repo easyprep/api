@@ -50,7 +50,6 @@ jobs:
             echo "Created- ${gh_pages_branch} Branch"
             git checkout -b "$gh_pages_branch"
             git rm -rf .
-            # echo node_modules > .gitignore
             git checkout "$master_branch" -- .gitignore
           fi
         env:
