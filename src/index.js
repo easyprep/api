@@ -37,6 +37,7 @@ payload.quesids = ids.join();
 axios.post(url, qs.stringify(payload)).then(function ({ data }) {
   let baseUrl = url.split('/')[2];
   let indexData = {};
+  if (!data.questions) return;
   data.questions.forEach(function (q) {
     status.lastIdFetched = parseInt(q.id);
     let nq = {
