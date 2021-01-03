@@ -21,7 +21,7 @@ function indexDir(path) {
 
 indexDir('docs/quizzes');
 console.time();
-let qdir = 'docs/questions';
+let qdir = 'docs/questions/';
 var qIndex = fs
   .readdirSync(qdir)
   .map(function (v) {
@@ -34,7 +34,7 @@ var qIndex = fs
     return v.name.split('.')[0];
   });
 console.timeLog();
-fs.mkdirSync('docs/qi', { recursive: true });
+fs.mkdirSync('docs/qi/', { recursive: true });
 let chunk = 1000;
 for (let i = 0; i < Math.ceil(qIndex.length / chunk); i++) {
   fs.writeFileSync(
