@@ -4,7 +4,7 @@ function indexDir(path) {
   fs.readdirSync(path).forEach(function (file) {
     let newPath = path + '/' + file;
     let stats = fs.statSync(newPath);
-    if (stats.isDirectory() && newPath != 'quizzes/current-affairs') {
+    if (stats.isDirectory() && newPath != 'docs/quizzes/current-affairs') {
       indexData[file] = stats.mtimeMs;
       indexDir(newPath);
     } else {
