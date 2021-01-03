@@ -56,7 +56,7 @@ axios.post(url, qs.stringify(payload)).then(function ({ data }) {
       JSON.stringify(nq, null, 2)
     );
   });
-
+  console.log(data);
   status.fetchCount = data.questions.length < 100 ? 100 : 1000;
   status.lastUpdatedAt = new Date().toJSON();
   fs.writeFileSync(statusFilePath, JSON.stringify(status, null, 2));
