@@ -121,6 +121,7 @@ function indexer(indexData) {
   }
 
   if (init) {
+    console.log('First Run');
     fs.writeFileSync(dataFilePath, JSON.stringify({ indexData }, null, 2));
   } else {
     let ctimeMs = fs.statSync(dataFilePath).ctimeMs.toFixed(0);
@@ -131,6 +132,7 @@ function indexer(indexData) {
       JSON.stringify({ indexData, prev: newDataFileName }, null, 2)
     );
     mainIndexData.splice(1, 0, newDataFileName);
+    console.log('Last Index:', newDataFileName);
   }
   fs.writeFileSync(mainIndexFilePath, JSON.stringify(mainIndexData, null, 2));
 }
