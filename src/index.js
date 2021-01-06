@@ -57,7 +57,7 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
 
                 delete qJson.source;
 
-                let qPath = path.join(quesDir, qJson.id);
+                let qPath = path.join(quesDir, qJson.id.substr(0, 2), qJson.id.substr(2, 2), qJson.id.substr(4, 2));
                 fs.mkdirSync(qPath, { recursive: true });
 
                 fs.writeFileSync(
