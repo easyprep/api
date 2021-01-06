@@ -33,7 +33,7 @@ let q = {
     excludeFirst: true
 }
 
-axios.post(apiKey, qs.stringify(q)).then(function ({ data }) {
+axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
 
     console.log(data.data.length - 1);
 
