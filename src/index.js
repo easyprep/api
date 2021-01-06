@@ -34,6 +34,8 @@ let q = {
     limit: status.limit
 }
 
+console.time();
+
 axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
 
     console.log(data.data.length - 1);
@@ -69,7 +71,10 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
     console.timeEnd();
 
 })
-    .catch(e => console.log(e));
+    .catch(e => {
+        console.log(e);
+        console.timeEnd();
+    });
 
 // let baseUrl = url.split('/')[2];
 // let indexData = {};
