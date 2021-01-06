@@ -14,7 +14,7 @@ const apiUrl = process.env.api_url;
 const apiKey = process.env.api_key;
 
 let status = {
-    startDate: "2017-01-01",
+    lastDate: "2017-01-01",
     limit: 10,
 };
 
@@ -28,9 +28,10 @@ try {
 
 let q = {
     apiKey,
-    startDate: status.startDate,
-    startId: status.startId,
-    excludeFirst: true
+    startDate: status.lastDate,
+    startId: status.lastId,
+    excludeFirst: true,
+    limit: status.limit
 }
 
 axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
@@ -56,8 +57,8 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
                     JSON.stringify(qJson, null, 2)
                 );
 
-                status.startDate = qJson.updated_at;
-                status.startId = qJson.id;
+                status.lastDate = qJson.updated_at;
+                status.lastId = qJson.id;
 
             }
         });
