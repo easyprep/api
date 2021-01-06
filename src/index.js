@@ -111,78 +111,26 @@ function indexer(indexData) {
   fs.mkdirSync(indexFilesPath, { recursive: true });
   let dataFilePath = path.join(indexFilesPath, '/data.json');
   let init = !fs.existsSync(dataFilePath);
+
+  let mainIndexFilePath = path.join(indexFilesPath, '/index.json');
+  let mainIndexData;
+  try {
+    mainIndexData = require('../' + mainIndexFilePath);
+  } catch (e) {
+    mainIndexData = ['data.json'];
+  }
+
   if (init) {
     fs.writeFileSync(dataFilePath, JSON.stringify({ indexData }, null, 2));
   } else {
     let ctimeMs = fs.statSync(dataFilePath).ctimeMs.toFixed(0);
     let newDataFileName = `data-${ctimeMs}.json`;
-    console.log(newDataFileName);
     fs.renameSync(dataFilePath, path.join(indexFilesPath, newDataFileName));
     fs.writeFileSync(
       dataFilePath,
       JSON.stringify({ indexData, prev: newDataFileName }, null, 2)
     );
-    let mainIndexFilePath = path.join(indexFilesPath, '/index.json');
-    let mainIndexData = [newDataFileName];
-    if (fs.existsSync(mainIndexFilePath)) {
-      mainIndexData = require('../' + mainIndexFilePath);
-      mainIndexData.push(newDataFileName);
-    }
-    fs.writeFileSync(mainIndexFilePath, JSON.stringify(mainIndexData, null, 2));
+    mainIndexData.splice(1, 0, newDataFileName);
   }
+  fs.writeFileSync(mainIndexFilePath, JSON.stringify(mainIndexData, null, 2));
 }
-
-// let baseUrl = url.split('/')[2];
-// let indexData = {};
-// if (!data.questions) {
-//     console.log('New Questions: 0');
-//     return;
-// }
-// console.log('New Questions: ' + data.questions.length);
-
-// data.questions.forEach(function (q) {
-//     status.lastIdFetched = parseInt(q.id);
-//     let nq = {
-//         id: uuid(`${baseUrl}.${q.id}`, name_scape),
-//     };
-//     for (let key in map) {
-//         nq[key] = q[map[key]] || '';
-//     }
-//     nq.labels = ['Current Affairs', nq.created_at.split(' ')[0]];
-//     let indexPath = nq.labels
-//         .map((a) => a.toLowerCase().replace(/[^a-zA-Z0-9]+/g, '-'))
-//         .join('/');
-//     if (!indexData[indexPath]) indexData[indexPath] = {};
-//     indexData[indexPath][nq.id] = new Date(nq.created_at).getTime();
-//     fs.writeFileSync(
-//         path.join(quesDir, nq.id + '.json'),
-//         JSON.stringify(nq, null, 2)
-//     );
-// });
-// status.fetchCount = data.questions.length < 100 ? 100 : 1000;
-// status.lastFetchCount = data.questions.length;
-// status.lastUpdatedAt = new Date().toJSON();
-// fs.writeFileSync(statusFilePath, JSON.stringify(status, null, 2));
-
-// let qIndex = [];
-// fs.readdirSync(quesDir).forEach(function (file) {
-//     qIndex.push(file.split('.')[0]);
-// });
-// fs.writeFileSync(path.join(quesDir, '/index.json'), JSON.stringify(qIndex));
-
-// for (let key in indexData) {
-//     let indexFileDir = path.join(currDir, '/quizzes/', key);
-//     let indexFilePath = path.join(indexFileDir + '/index.json');
-//     let indexFileData = {};
-
-//     try {
-//         indexFileData = require('../' + indexFilePath);
-//     } catch (e) { }
-
-//     if (indexData[key]) {
-//         indexFileData = { ...indexFileData, ...indexData[key] };
-//         fs.mkdirSync(indexFileDir, { recursive: true });
-//         fs.writeFileSync(indexFilePath, JSON.stringify(indexFileData, null, 2));
-//     }
-// }
-// });
