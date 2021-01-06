@@ -15,7 +15,7 @@ const apiKey = process.env.api_key;
 
 let status = {
   lastDate: '2021-01-01',
-  limit: 10,
+  limit: 1000,
 };
 
 let statusFilePath = path.join(currDir, '/status.json');
