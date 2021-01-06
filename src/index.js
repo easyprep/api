@@ -59,7 +59,7 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
 
                 let qPath = path.join(
                     quesDir,
-                    qJson.id.substr(0, 6).split("").map((a, i) => (i % 2 == 0 ? "/" + a : a)).join(""),
+                    qJson.id.split("-")[0].split("").map((a, i) => (i % 2 == 0 ? "/" + a : a)).join(""),
                     qJson.id
                 );
 
