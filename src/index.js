@@ -23,7 +23,7 @@ let statusFilePath = path.join(currDir, '/status.json');
 try {
     status = require('../' + statusFilePath);
 } catch (e) {
-    console.log(e);
+    // console.log(e);
 }
 
 let q = {
@@ -67,7 +67,8 @@ axios.post(apiKey, qs.stringify(q)).then(function ({ data }) {
 
     console.timeEnd();
 
-});
+})
+    .catch(e => console.log(e));
 
 // let baseUrl = url.split('/')[2];
 // let indexData = {};
