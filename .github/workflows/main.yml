@@ -41,12 +41,12 @@ jobs:
             mv ./questions ./docs/questions
             mv ./quizzes ./docs/quizzes
             git checkout "$master_branch"
-            npm run builder && npm run indexer
+            npm run builder
             git checkout "$gh_pages_branch"
             find . -type f | echo "After Build Files Count - $(wc -l)"
           else
             set-e
-            npm run builder && npm run indexer
+            npm run builder
             echo "Created- ${gh_pages_branch} Branch"
             git checkout -b "$gh_pages_branch"
             git rm -rf .
