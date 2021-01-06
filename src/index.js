@@ -51,6 +51,9 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
 
                 let qJson = {};
                 qArr.forEach((a, j) => (qJson[keys[j]] = a));
+
+                console.log(qJson.source);
+
                 delete qJson.source;
 
                 let qPath = path.join(quesDir, qJson.id);
