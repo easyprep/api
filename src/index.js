@@ -13,8 +13,6 @@ fs.mkdirSync(quesDir, { recursive: true });
 const apiUrl = process.env.api_url;
 const apiKey = process.env.api_key;
 
-let firstRun = false;
-
 let status = {
   lastDate: '2021-01-01',
   limit: 1000,
@@ -22,11 +20,8 @@ let status = {
 
 let statusFilePath = path.join(currDir, '/status.json');
 
-try {
+if (fs.existsSync(statusFilePath)) {
   status = require('../' + statusFilePath);
-} catch (e) {
-  firstRun = true;
-  // console.log(e);
 }
 
 let q = {
@@ -39,7 +34,7 @@ let q = {
 
 //console.log(q);
 
-console.time();
+console.time('Run Time');
 
 axios
   .post(apiUrl, qs.stringify(q))
@@ -94,15 +89,16 @@ axios
       path.join(currDir, 'index.json'),
       JSON.stringify({ err: data.err, msg: data.msg }, null, 2)
     );
-    console.timeEnd();
+    console.timeEnd('Run Time');
   })
   .catch((e) => {
     console.log(e);
+
     fs.writeFileSync(
       path.join(currDir, 'index.json'),
       JSON.stringify({ err: true, msg: 'Network Error' }, null, 2)
     );
-    console.timeEnd();
+    console.timeEnd('Run Time');
   });
 
 function indexer(indexData) {
@@ -112,13 +108,13 @@ function indexer(indexData) {
 
   let mainIndexFilePath = path.join(indexFilesPath, '/index.json');
   let mainIndexData;
-  try {
+  if (fs.existsSync(mainIndexFilePath)) {
     mainIndexData = require('../' + mainIndexFilePath);
-  } catch (e) {
+  } else {
     mainIndexData = ['data.json'];
   }
 
-  if (firstRun) {
+  if (!fs.existsSync(dataFilePath)) {
     console.log('First Run');
     fs.writeFileSync(dataFilePath, JSON.stringify({ indexData }, null, 2));
   } else {
