@@ -39,7 +39,7 @@ jobs:
             mkdir -p docs
             mv ./status.json ./docs/status.json
             mv ./questions ./docs/questions
-            mv ./quizzes ./docs/quizzes
+            # mv ./quizzes ./docs/quizzes
             git checkout "$master_branch"
             npm run builder
             git checkout "$gh_pages_branch"
