@@ -33,7 +33,7 @@ let q = {
     excludeFirst: true
 }
 
-axios.post(url, qs.stringify(q)).then(function ({ data }) {
+axios.post(apiKey, qs.stringify(q)).then(function ({ data }) {
 
     console.log(data.data.length - 1);
 
@@ -62,7 +62,7 @@ axios.post(url, qs.stringify(q)).then(function ({ data }) {
             }
         });
 
-        fs.writeFileSync('status.json', JSON.stringify(status, null, 4));
+        fs.writeFileSync(statusFilePath, JSON.stringify(status, null, 4));
     }
 
     console.timeEnd();
