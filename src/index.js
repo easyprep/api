@@ -44,8 +44,6 @@ console.time();
 axios
   .post(apiUrl, qs.stringify(q))
   .then(function ({ data }) {
-    console.log(data.data.length - 1);
-
     if (data.err) {
       console.error(data.msg);
     } else {
@@ -55,8 +53,6 @@ axios
         if (i) {
           let qJson = {};
           qArr.forEach((a, j) => (qJson[keys[j]] = a));
-
-          //console.log(qJson.source);
 
           delete qJson.source;
 
