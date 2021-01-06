@@ -14,7 +14,7 @@ const apiUrl = process.env.api_url;
 const apiKey = process.env.api_key;
 
 let status = {
-    lastDate: "2017-01-01",
+    lastDate: "2021-01-01",
     limit: 10,
 };
 
@@ -33,6 +33,8 @@ let q = {
     excludeFirst: true,
     limit: status.limit
 }
+
+console.log(q);
 
 console.time();
 
