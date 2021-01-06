@@ -13,6 +13,8 @@ fs.mkdirSync(quesDir, { recursive: true });
 const apiUrl = process.env.api_url;
 const apiKey = process.env.api_key;
 
+let firstRun = false;
+
 let status = {
   lastDate: '2021-01-01',
   limit: 1000,
@@ -23,6 +25,7 @@ let statusFilePath = path.join(currDir, '/status.json');
 try {
   status = require('../' + statusFilePath);
 } catch (e) {
+  firstRun = true;
   // console.log(e);
 }
 
@@ -34,7 +37,7 @@ let q = {
   limit: status.limit,
 };
 
-console.log(q);
+//console.log(q);
 
 console.time();
 
@@ -53,7 +56,7 @@ axios
           let qJson = {};
           qArr.forEach((a, j) => (qJson[keys[j]] = a));
 
-          console.log(qJson.source);
+          //console.log(qJson.source);
 
           delete qJson.source;
 
@@ -110,7 +113,6 @@ function indexer(indexData) {
   let indexFilesPath = path.join(currDir, '/index');
   fs.mkdirSync(indexFilesPath, { recursive: true });
   let dataFilePath = path.join(indexFilesPath, '/data.json');
-  let init = !fs.existsSync(dataFilePath);
 
   let mainIndexFilePath = path.join(indexFilesPath, '/index.json');
   let mainIndexData;
@@ -120,7 +122,7 @@ function indexer(indexData) {
     mainIndexData = ['data.json'];
   }
 
-  if (init) {
+  if (firstRun) {
     console.log('First Run');
     fs.writeFileSync(dataFilePath, JSON.stringify({ indexData }, null, 2));
   } else {
