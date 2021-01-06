@@ -110,7 +110,7 @@ function indexer(indexData) {
             dataFilePath,
             JSON.stringify({ indexData, prev: newName }, null, 2)
         );
-        let mainIndexFilePath = path.join(indexFilesPath, '/index.');
+        let mainIndexFilePath = path.join(indexFilesPath, '/index.json');
         let mainIndexData = [];
         if (fs.existsSync(mainIndexFilePath)) {
             mainIndexData = require('./' + mainIndexFilePath);
