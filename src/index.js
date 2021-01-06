@@ -52,7 +52,7 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
                 fs.mkdirSync(qPath, { recursive: true });
 
                 fs.writeFileSync(
-                    path.join(qpath, "/index.json"),
+                    path.join(qPath, "/index.json"),
                     JSON.stringify(qJson, null, 2)
                 );
 
