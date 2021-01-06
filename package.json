@@ -7,6 +7,7 @@
         "start": "nodemon src/index.js --ignore dist/*",
         "builder": "node src/index.js",
         "indexer": "node src/indexer.js",
+        "clean": "rm -rr docs",
         "push": "git add . && git commit -m Update && git push origin master"
     },
     "repository": {

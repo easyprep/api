@@ -30,7 +30,7 @@ let q = {
     apiKey,
     startDate: status.lastDate,
     startId: status.lastId,
-    excludeFirst: true,
+    excludeFirst: false,
     limit: status.limit
 }
 
@@ -59,7 +59,8 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
 
                 let qPath = path.join(
                     quesDir,
-                    qJson.id.replace(/-/g, "").split("").map((a, i) => (i % 2 == 0 ? "/" + a : a)).join("")
+                    qJson.id.substr(0, 6).split("").map((a, i) => (i % 2 == 0 ? "/" + a : a)).join(""),
+                    qJson.id.substr(6, 30)
                 );
 
                 fs.mkdirSync(qPath, { recursive: true });
@@ -107,18 +108,19 @@ function indexer(indexData) {
             JSON.stringify({ indexData }, null, 2)
         );
     } else {
-        let ctimeMs = fs.statSync(dataFilePath).ctimeMs();
-        let newName = `data-${ctimeMs}.json`;
-        fs.renameSync(path.join(indexFilesPath, '/', newName));
+        let ctimeMs = fs.statSync(dataFilePath).ctimeMs.toFixed(0);
+        let newDataFileName = `data-${ctimeMs}.json`;
+        console.log(newDataFileName);
+        fs.renameSync(dataFilePath, path.join(indexFilesPath, newDataFileName));
         fs.writeFileSync(
             dataFilePath,
-            JSON.stringify({ indexData, prev: newName }, null, 2)
+            JSON.stringify({ indexData, prev: newDataFileName }, null, 2)
         );
         let mainIndexFilePath = path.join(indexFilesPath, '/index.json');
-        let mainIndexData = [];
+        let mainIndexData = [newDataFileName];
         if (fs.existsSync(mainIndexFilePath)) {
-            mainIndexData = require('./' + mainIndexFilePath);
-            mainIndexData.push(newName);
+            mainIndexData = require('../' + mainIndexFilePath);
+            mainIndexData.push(newDataFileName);
         }
         fs.writeFileSync(mainIndexFilePath, JSON.stringify(mainIndexData, null, 2));
     }
