@@ -18,7 +18,7 @@ let status = {
   limit: 1000,
 };
 
-let statusFilePath = path.join(currDir, '/status.json');
+let statusFilePath = path.join(currDir, '/.status.json');
 
 try {
   status = require('../' + statusFilePath);
