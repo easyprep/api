@@ -45,6 +45,7 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
     if (data.err) {
         console.error(data.msg);
     } else {
+        let indexData = {};
         let keys = data.data[0];
         data.data.forEach((qArr, i) => {
             if (i) {
@@ -64,6 +65,11 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
                     JSON.stringify(qJson, null, 2)
                 );
 
+                indexData[qJson.id] = {
+                    updated_at: qJson.updated_at,
+                    labels: qJson.labels
+                }
+
                 status.lastDate = qJson.updated_at;
                 status.lastId = qJson.id;
 
@@ -71,6 +77,11 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
         });
 
         fs.writeFileSync(statusFilePath, JSON.stringify(status, null, 4));
+
+        if (Object.keys(indexData).length) {
+            indexer(indexData);
+        }
+
     }
 
     console.timeEnd();
@@ -80,6 +91,34 @@ axios.post(apiUrl, qs.stringify(q)).then(function ({ data }) {
         console.log(e);
         console.timeEnd();
     });
+
+function indexer(indexData) {
+    let indexFilesPath = path.join(currDir, '/index');
+    fs.mkdirSync(indexFilesPath, { recursive: true });
+    let dataFilePath = path.join(indexFilesPath, "/data.json");
+    let init = !fs.existsSync(dataFilePath);
+    if (init) {
+        fs.writeFileSync(
+            dataFilePath,
+            JSON.stringify({ indexData }, null, 2)
+        );
+    } else {
+        let ctimeMs = fs.statSync(dataFilePath).ctimeMs();
+        let newName = `data-${ctimeMs}.json`;
+        fs.renameSync(path.join(indexFilesPath, '/', newName));
+        fs.writeFileSync(
+            dataFilePath,
+            JSON.stringify({ indexData, prev: newName }, null, 2)
+        );
+        let mainIndexFilePath = path.join(indexFilesPath, '/index.');
+        let mainIndexData = [];
+        if (fs.existsSync(mainIndexFilePath)) {
+            mainIndexData = require('./' + mainIndexFilePath);
+            mainIndexData.push(newName);
+        }
+        fs.writeFileSync(mainIndexFilePath, JSON.stringify(mainIndexData, null, 2));
+    }
+}
 
 // let baseUrl = url.split('/')[2];
 // let indexData = {};
