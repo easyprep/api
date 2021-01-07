@@ -4,7 +4,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: "*/10 * * * *"
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
@@ -36,10 +36,12 @@ jobs:
             echo "Exists- ${gh_pages_branch} Branch"
             git checkout "$gh_pages_branch"
             find . -type f | echo "Before Build Files Count - $(wc -l)"
+            # ** Must match with src/index.js **
             mkdir -p docs
-            mv ./status.json ./docs/status.json
+            mv ./_config ./docs/_config
             mv ./questions ./docs/questions
-            mv ./index ./docs/index
+            mv ./indexfiles ./docs/indexfiles
+            # ** -- **
             git checkout "$master_branch"
             npm run builder
             git checkout "$gh_pages_branch"
