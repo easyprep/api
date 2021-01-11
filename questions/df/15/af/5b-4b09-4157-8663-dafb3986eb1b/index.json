@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:14:04.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "df15af5b-4b09-4157-8663-dafb3986eb1b",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The LCM of two numbers is 520 and their HCF is 4. If one of the number is 52, then the other number is :",
+  "option1": 40,
+  "option2": 42,
+  "option3": 50,
+  "option4": 52,
+  "option5": "",
+  "answer": 40,
+  "explanation": "∵ First Number $latex \\\\times$ Second Number = HCF $latex \\\\times$ LCM\r\n=> 52 $latex \\\\times$ Second Number = 4 $latex \\\\times$ 520\r\n$latex => Second\\\\ Number\\\\ = \\\\frac{4\\\\times 520}{52} = 40&s=1$\r\nHence option [A] is correct answer."
+}

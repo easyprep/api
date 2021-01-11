@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:23:49.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "026185e8-9e81-4b72-8314-a3211f098d43",
+  "labels": "current-affairs,2018-03-25",
+  "question": "12 kg of rice costing 30 Rs. per kg is mixed with 8 kg of rice costing 40 Rs. per kg. The average per kg price of mixed rice is:",
+  "option1": "34 Rs",
+  "option2": "35 Rs",
+  "option3": "37 Rs",
+  "option4": "38 Rs",
+  "option5": "",
+  "answer": "34 Rs",
+  "explanation": "Total cost price of 20 kg of mixed rice $latex = (12\\\\times 30 + 8 \\\\times 40) = 680Rs.$\r\n∴ Average per kg price $latex = \\\\frac{680}{20} = 34Rs.&s=1$\r\nHence option [A] is the right answer."
+}

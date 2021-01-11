@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:49:02.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "e8621fe2-144e-41e2-8050-648b27e98514",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Product of two co-prime numbers is 117. Then their LCM is :",
+  "option1": 9,
+  "option2": 13,
+  "option3": 39,
+  "option4": 117,
+  "option5": "",
+  "answer": 117,
+  "explanation": "HCF of two prime numbers = 1\r\n∴ Product of numbers = 117 (Their LCM)\r\n117 = 13 $latex \\\\times$ 9 where 13 & 9 are co-prime. \r\nLCM (13, 9) = 117.\r\nHence option [D] is correct answer."
+}

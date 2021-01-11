@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T17:01:45.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "d1cff362-276f-4a9f-85b7-4066b86d388b",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A bicycle, marked at 2000 Rs, is sold with two successive discounts of 20% and 10%. An additional discount of 5% is offered for cash payment, then what would be the selling price at cash payment :",
+  "option1": "1368 Rs.",
+  "option2": "1468 Rs.",
+  "option3": "1568 Rs.",
+  "option4": "1668 Rs.",
+  "option5": "",
+  "answer": "1368 Rs.",
+  "explanation": "Single equivalent discount for two successive discounts of 20% and 10%\r\n$latex = \\\\left ( 20+10-\\\\frac{20\\\\times 10}{100} \\\\right )\\\\% = 28\\\\%&s=1$\r\nNow single discount for 28% and 5%\r\n$latex = \\\\left ( 28+5-\\\\frac{28\\\\times 5}{100} \\\\right )\\\\% = \\\\left ( 33-1.4 \\\\right )\\\\% = 31.6\\\\%&s=1$\r\n∴ Required SP at cash payment = (100 - 31.6)% of 2000 Rs. \r\n$latex = \\\\frac{2000\\\\times 68.4}{100} = 1368\\\\ Rs.&s=1$\r\nHence option [A] is correct answer"
+}

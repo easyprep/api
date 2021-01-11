@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T19:44:26.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "cec2f57f-5998-415a-bfb8-f135077fb3f7",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The marked price of a watch was Rs. 720/-. A man bought the same for Rs. 550.80, after getting two successive discount, the first art 10%. What was the second discount rate?",
+  "option1": 0.14,
+  "option2": 0.15,
+  "option3": 0.12,
+  "option4": 0.18,
+  "option5": "",
+  "answer": 0.15,
+  "explanation": "Marked price = Rs. 720\r\nActual price = Rs. 550.80\r\nFirst discount = 10%\r\nLet the second discount be x%\r\nThen, we can write 720(1 - 0.10)(1 - 0.01x) = 550.80\r\n$latex =>$720 $latex \\\\times$ 0.9(1 - 0.01x) = 550.80\r\n$latex =>$648(1 - 0.01x) = 550.80\r\n$latex => 1-0.01x=\\\\frac{550.8}{648}&s=1$\r\n$latex =>0.01x=1-\\\\frac{550.8}{648}&s=1$\r\n$latex =>x=\\\\frac{1-0.85}{0.01}&s=1$\r\n$latex =>x=0.15\\\\times 100$\r\n$latex =>x=15$\r\nHence option [B] is the right answer."
+}

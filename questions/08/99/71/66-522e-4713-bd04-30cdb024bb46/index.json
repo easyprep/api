@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:30:54.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "08997166-522e-4713-bd04-30cdb024bb46",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average monthly expenditure of a family is 2200 Rs. during first three months, 2550 Rs. during next four months and 3120 Rs. During last five months of the year. If the total saving during the year was 1260 Rs. What is the average monthly income?",
+  "option1": "1260 Rs.",
+  "option2": "1280 Rs.",
+  "option3": "2805 Rs",
+  "option4": "2850 Rs",
+  "option5": "",
+  "answer": "2805 Rs",
+  "explanation": "Total expenditure of the year = (3 $latex \\\\times$ 2200 + 4 $latex \\\\times$ 2550 + 5 $latex \\\\times$ 3120) Rs.\r\n= (6600 + 10200 + 15600) Rs.\r\n= 32400 Rs.\r\n∴ Total income of the year $latex = 32400 + 1260 = 33660 Rs.&s=1$\r\n∴ Average monthly income $latex = \\\\frac{33660}{12} = 2805 Rs.&s=1$\r\nHence option [C] is correct answer."
+}

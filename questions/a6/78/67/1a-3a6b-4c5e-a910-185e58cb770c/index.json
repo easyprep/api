@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:15:13.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "a678671a-3a6b-4c5e-a910-185e58cb770c",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Out of 20 boys, 6 are each of 1 m 15 cm height, 8 are of 1 m 10 cm and rest of 1 m 12 cm. The what is the average height of all of them?",
+  "option1": "1 m 12 cm",
+  "option2": "1 m 12.1 cm",
+  "option3": "1 m 21 cm",
+  "option4": "1 m 21.1 cm",
+  "option5": "",
+  "answer": "1 m 12.1 cm",
+  "explanation": "Average height of all 20 boys = \r\n$latex = \\\\frac{6\\\\times 1.15 + 8\\\\times 1.1 + 6\\\\times 1.12}{20}&s=1$\r\n$latex = \\\\frac{6.9+8.8+6.72}{20} = \\\\frac{22.42}{20}&s=1$\r\n= 1 m 12.1 cm \r\nHence option [B] is correct answer."
+}

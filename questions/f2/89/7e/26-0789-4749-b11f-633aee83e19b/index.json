@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:42:28.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "f2897e26-0789-4749-b11f-633aee83e19b",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A certain sum of money yields 1261 Rs. as compound interest for 3 years at 5% per annum. The sum is :",
+  "option1": "7500 Rs",
+  "option2": "8400 Rs",
+  "option3": "8000 Rs",
+  "option4": "9000 Rs",
+  "option5": "",
+  "answer": "8000 Rs",
+  "explanation": "Let the principal be x Rs. Now, \r\n$latex C.I. = P\\\\left [ \\\\left ( 1+\\\\frac{R}{100} \\\\right )^{T} - 1 \\\\right ]&s=1$\r\n$latex => 1261 = x\\\\left [ \\\\left ( 1+\\\\frac{5}{100} \\\\right )^{3} - 1 \\\\right ]&s=1$\r\n$latex => 1261 = x\\\\left ( \\\\frac{9261}{8000} - 1 \\\\right )&s=1$\r\n$latex => 1261 = x\\\\left ( \\\\frac{9261-8000}{8000} \\\\right ) = \\\\frac{1261x}{8000}&s=1$\r\n$latex => x = \\\\frac{1261\\\\times 8000}{1261} = 8000 Rs.&s=1$\r\nHence option [C] is correct answer."
+}

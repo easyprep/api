@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:06:30.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "06ce15cc-f665-475d-a5aa-ff61759e5f36",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of all the numbers between 6 and 50 which are divisible by 5 is :",
+  "option1": 22,
+  "option2": 27.5,
+  "option3": 28.5,
+  "option4": 30,
+  "option5": "",
+  "answer": 27.5,
+  "explanation": "Required numbers are : 10, 15, 20, 25, 30, 35, 40, 45. \r\nTotal Sum of these numbers is 220.\r\n$latex Now,\\\\ Average = \\\\frac{220}{8} = 27.5&s=1$\r\nHence option [B] is correct answer."
+}

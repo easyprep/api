@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:25:00.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "bd0b9825-b8f9-4fe8-984f-3f13be032853",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of 30 numbers is 40 and that of other 40 numbers is 30. The average of all the numbers is :",
+  "option1": "$latex 34$",
+  "option2": "$latex 34\\frac{2}{7}&s=1$",
+  "option3": "$latex 34.5$",
+  "option4": "$latex 35$",
+  "option5": "",
+  "answer": "$latex 34\\frac{2}{7}&s=1$",
+  "explanation": "Average of all numbers = \r\n$latex = \\\\frac{30\\\\times 40 + 40\\\\times 30}{70}&s=1$\r\n$latex = \\\\frac{2400}{70} = 34\\\\frac{2}{7}&s=1$\r\nHence option [B] is correct answer"
+}

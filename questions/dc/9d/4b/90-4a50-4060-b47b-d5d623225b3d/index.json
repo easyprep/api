@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:26:23.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "dc9d4b90-4a50-4060-b47b-d5d623225b3d",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The least multiple of 13, which on dividing by 4, 5, 6, 7 and 8 leaves remainder 2 in each case is :",
+  "option1": 840,
+  "option2": 842,
+  "option3": 2520,
+  "option4": 2522,
+  "option5": "",
+  "answer": 2522,
+  "explanation": "LCM of 4, 5, 6, 7 and 8 = 840.\r\nLet require number be 840 K + 2 which is multiple of 13.\r\nLeast value of K for which (840 K + 2) is divisible by 13 is K = 3\r\n∴ Require Number = 840 $latex \\\\times$ 3 + 2 = 2520 + 2 = 2522.\r\nHence option [D] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T22:37:06.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "57a9fe07-2169-4854-a8cf-6aee3a270890",
+  "labels": "current-affairs,2018-03-25",
+  "question": "A man swims downstream a distance of 15 km in 1 hour. If the speed of the current is 5 km/hr, the time taken by the man to swim the same distance upstream is :",
+  "option1": "1 hour 30 minutes",
+  "option2": "45 minutes",
+  "option3": "2 hour 30 minutes",
+  "option4": "3 hours",
+  "option5": "",
+  "answer": "3 hours",
+  "explanation": "Let the speed of man in still water be x km/hr. \r\n$latex \\\\therefore \\\\frac{15}{x+5} = 1&s=1$\r\n$latex => x+5 = 15$\r\n$latex => x = 10km/hr$\r\n∴ Time taken in swimming upstream = \r\n$latex = \\\\frac{15}{10-5} = 3 hours&s=1$\r\nHence option [D] is correct answer."
+}

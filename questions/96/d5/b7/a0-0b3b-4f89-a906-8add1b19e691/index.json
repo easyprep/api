@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T17:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "96d5b7a0-0b3b-4f89-a906-8add1b19e691",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of 8 numbers is 27. If each of the numbers is multiplies by 8, find the average of new set of numbers.",
+  "option1": 216,
+  "option2": 316,
+  "option3": 938,
+  "option4": 1138,
+  "option5": "",
+  "answer": 216,
+  "explanation": "If each item is multiplied by 8, their average gets multiplied by 8. \r\n∴ Required average = 8 $latex \\\\times$ 27 = 216.\r\nHence option [A] is correct answer."
+}

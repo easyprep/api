@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T17:23:46.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "27bf08c5-48fd-4826-97fb-64823d9c8764",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A dealer buys a car listed at 200000 Rs. at successive discounts of 5% and 10%. If he sells the car for 179550, then his profit is :",
+  "option1": 0.04,
+  "option2": 0.05,
+  "option3": 0.09,
+  "option4": 0.1,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "Equivalent discount\r\n$latex = 10+5-\\\\frac{10\\\\times 5}{100} = 14.5\\\\%&s=1$\r\n∴ CP = 85.5% of 200000\r\n$latex = \\\\left ( \\\\frac{85.5\\\\times 200000}{100} \\\\right )= 171000\\\\ Rs.&s=1$\r\nSP = 179550 Rs. \r\nGain = (179550 - 171000) = 8550 Rs. \r\n$latex \\\\therefore Gain\\\\ \\\\% = \\\\frac{8550}{171000}\\\\times 100 = 5\\\\%&s=1$\r\nHence option [B] is correct answer."
+}

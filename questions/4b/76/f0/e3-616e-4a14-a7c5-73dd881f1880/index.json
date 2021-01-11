@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T00:03:50.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "4b76f0e3-616e-4a14-a7c5-73dd881f1880",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A boat running downstream covers a distance of 20 km in 2 hrs while it covers the same distance upstream in 5 hrs. Then speed of the both in still water is",
+  "option1": "10 km/hr",
+  "option2": "8 km/hr",
+  "option3": "7 km/hr",
+  "option4": "9 km/hr",
+  "option5": "",
+  "answer": "7 km/hr",
+  "explanation": "Let the speed of boat in still water be x kmph and that of stream be y kmph.\r\n$latex \\\\therefore \\\\frac{20}{x+y} = 2&s=1$\r\n$latex => x+y = 10$ …….(1)\r\n$latex \\\\frac{20}{x-y} = 5&s=1$\r\n$latex => x-y = 4$............(2)\r\nOn adding, 2x = 14 kmph = 7 kmph\r\nHence option [C] is the right answer."
+}

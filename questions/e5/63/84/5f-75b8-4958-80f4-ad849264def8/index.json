@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T00:16:01.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "e563845f-75b8-4958-80f4-ad849264def8",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The speed of a boat in still water is 10 km/hr. It covers (upstream) a distance of 45 km in 6 hours. The speed (in km/hr) of the stream is :",
+  "option1": "3.5 kmph",
+  "option2": "4 kmph",
+  "option3": "5 kmph",
+  "option4": "2.5 kmph",
+  "option5": "",
+  "answer": "2.5 kmph",
+  "explanation": "Upstream speed of boat = $latex \\\\frac{Distance}{Time}=\\\\frac{45}{6}=\\\\frac{15}{2}&s=1$\r\n                       =7.5 kmph\r\nSpeed Of Current = 10-7.5 = 2.5 kmph\r\nHence option [D] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T13:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "d42fd38a-d88c-44fa-8edd-09272d1541f1",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The compound interest on 5000 Rs. for 3 years at 10% per annum will amount to :",
+  "option1": "1565 Rs.",
+  "option2": "1600 Rs.",
+  "option3": "1654 Rs.",
+  "option4": "1655 Rs.",
+  "option5": "",
+  "answer": "1655 Rs.",
+  "explanation": "$latex \\\\because CI = p\\\\left [ \\\\left ( 1+\\\\frac{R}{100} \\\\right )^{T}-1 \\\\right ]&s=1$\r\n$latex = 5000\\\\left [ \\\\left ( 1+\\\\frac{10}{100} \\\\right )^{3}-1 \\\\right ]&s=1$\r\n$latex = 5000\\\\left [ \\\\left ( \\\\frac{11}{10} \\\\right )^{3}-1 \\\\right ]&s=1$\r\n$latex => CI = \\\\frac{5000\\\\times 331}{1000} = 1655\\\\ Rs.&s=1$\r\nHence option [D] is correct answer."
+}

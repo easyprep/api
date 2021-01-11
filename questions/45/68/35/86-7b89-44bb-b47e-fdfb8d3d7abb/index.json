@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T20:57:10.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "45683586-7b89-44bb-b47e-fdfb8d3d7abb",
+  "labels": "current-affairs,2018-03-26",
+  "question": "If ABC is an equilateral triangle and P, Q, R respectively denote the middle points of AB, BC, CA then",
+  "option1": "PQR must be a right angled triangle",
+  "option2": "PQR must be an equilateral triangle",
+  "option3": "PQ + QR + PR = AB",
+  "option4": "PQ + QR + PR = 2AB",
+  "option5": "",
+  "answer": "PQR must be an equilateral triangle",
+  "explanation": "The line segments joining the mid points of the sides of a triangle form four triangles, each of which is similar to the original triangle. \r\nSo PQR must be an equilateral triangle."
+}

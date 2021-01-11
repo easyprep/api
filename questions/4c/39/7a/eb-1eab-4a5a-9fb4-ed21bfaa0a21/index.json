@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:56:39.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "4c397aeb-1eab-4a5a-9fb4-ed21bfaa0a21",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Of the three numbers, second is twice the first and is also thrice the third. If the average of the three numbers is 66, find the largest number.",
+  "option1": 16,
+  "option2": 18,
+  "option3": 15,
+  "option4": 7,
+  "option5": "",
+  "answer": 18,
+  "explanation": "Let the the first number be x\r\nThen, second number = 2x and third number = $latex \\\\frac{2x}{3}&s=1$.\r\n$latex =>x+2x+\\\\frac{2x}{3}=66\\\\times 3$\r\n$latex =>3x+6x+2x=198$\r\n$latex =>x=\\\\frac{198}{11}=1&s=1$\r\nHence option [B] is the right answer."
+}

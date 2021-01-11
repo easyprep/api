@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:01:28.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "a58e1c76-f711-41c6-94d6-ab780e08fd24",
+  "labels": "current-affairs,2018-03-26",
+  "question": "At what percent per annum will Rs. 3000/- amounts to Rs. 3993/- in 3 years if the interest is compounded annually?",
+  "option1": 0.13,
+  "option2": 0.1,
+  "option3": 0.09,
+  "option4": 0.11,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "P = Rs. 3000 , A = Rs. 3993 , n = 3 years\r\n$latex A = p \\\\left ( 1+\\\\frac{r}{100} \\\\right )^{n}&s=1$\r\n$latex \\\\therefore \\\\left ( 1 + \\\\frac{r}{100} \\\\right )^{n} = \\\\frac{A}{P}&s=1$\r\n$latex =>\\\\left ( 1+\\\\frac{r}{100} \\\\right )^{3} = \\\\frac{3993}{3000} = \\\\frac{1331}{1000}&s=1$\r\n$latex =>\\\\left ( 1+\\\\frac{r}{100} \\\\right )^{3} = \\\\left ( \\\\frac{11}{10} \\\\right )^{3}&s=1$\r\n$latex =>1+\\\\frac{r}{100} = \\\\frac{11}{10}&s=1$\r\n$latex =>\\\\frac{r}{100} = \\\\frac{11}{10}-1&s=1$\r\n$latex => \\\\frac{r}{100} = \\\\frac{1}{10}&s=1$\r\n$latex => r = \\\\frac{100}{10} = 10\\\\%&s=1$\r\nHence option [B] is the right ansewr."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T22:19:31.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "099b5de7-014f-4ff1-b6b4-a48888b06320",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The side QR of an equilateral triangle PQR is produced to the point S in such a way that QR = RS and P is joined to S. Then the measure of ∠PSR is :",
+  "option1": "45°",
+  "option2": "30°",
+  "option3": "15°",
+  "option4": "60°",
+  "option5": "",
+  "answer": "30°",
+  "explanation": "<img class=\\\"alignright\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/06/For-question-No.-6.gif\\\" width=\\\"165\\\" height=\\\"151\\\" />∠PRQ = 60°\r\n∠PRS = 180° - 60° = 120°\r\n=&gt;∠PSR + ∠RPS = 60°\r\nAs RS = PR\r\n∴ ∠PSR = ∠RPS\r\n∴ ∠PSR = $latex \\\\frac{60^{\\\\circ}}{2}&s=1$ $latex = 30^{\\\\circ}$\r\nHence option [B] is the right answer."
+}

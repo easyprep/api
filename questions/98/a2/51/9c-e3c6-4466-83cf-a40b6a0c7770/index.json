@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T16:00:55.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "98a2519c-e3c6-4466-83cf-a40b6a0c7770",
+  "labels": "current-affairs,2018-03-25",
+  "question": "If x*y = 3x + 2y, Then 2*3 + 3*4 is equal to :",
+  "option1": 38,
+  "option2": 18,
+  "option3": 29,
+  "option4": 32,
+  "option5": "",
+  "answer": 29,
+  "explanation": "$latex \\\\because x * y = 3x + 2y$\r\n$latex 2*3+3*4 = 3\\\\times 2+2\\\\times 3+3\\\\times 3+2\\\\times 4$\r\n$latex = 6+6+9+8 = 29$\r\nHence option [C] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T19:55:41.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "5b037f7a-16c5-41be-bb46-d4269290d782",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The marked price of an article is Rs. 500. It is sold at successive discount of 20% and 10%. The selling price of the article (in rupees) is :",
+  "option1": 360,
+  "option2": 400,
+  "option3": 350,
+  "option4": 375,
+  "option5": "",
+  "answer": 360,
+  "explanation": "Equilant discount of successive discount of 20% and 10% \r\n$latex =\\\\left ( 20+10-\\\\frac{20\\\\times 10}{100} \\\\right )&s=1$%=28%\r\n∴ Selling price = (100 - 28)% of Rs. 500 = 72% of 500 \r\n$latex =\\\\frac{500\\\\times 72}{100}=Rs. 360&s=1$\r\nHence option [A] is the right answer."
+}

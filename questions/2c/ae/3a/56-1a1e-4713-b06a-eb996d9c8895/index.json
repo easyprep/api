@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:37:51.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "2cae3a56-1a1e-4713-b06a-eb996d9c8895",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The least number, which when divided by 12, 15, 20 or 54 leaves a remainder of 4 in each case is :",
+  "option1": 450,
+  "option2": 454,
+  "option3": 540,
+  "option4": 544,
+  "option5": "",
+  "answer": 544,
+  "explanation": "LCM of 15, 12, 20, 54 = 540\r\nThen number = 540 + 4 = 544 (4 being Remainder)\r\nHence option [D] is correct answer."
+}

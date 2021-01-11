@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T17:29:03.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "1253766d-579e-4abd-bc1e-f84652b59b17",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The marked price of watch was 820 Rs. A man bought the watch for 570.72 Rs. after getting two successive discounts, of which the first was 20%, then the second discount was :",
+  "option1": 0.11,
+  "option2": 0.13,
+  "option3": 0.15,
+  "option4": 0.18,
+  "option5": "",
+  "answer": 0.13,
+  "explanation": "Total discount = (820 - 570.72) = 249.28 Rs. \r\nFirst discount $latex = 820\\\\times \\\\frac{20}{100} = 164\\\\ Rs.&s=1$\r\n∴ Second discount = (249.28 - 164) = 85.28 Rs.\r\nPrice of the article after first discount = (820 - 164) = 656 Rs. \r\nIf the second discount be x%, then x% of 656 = 85.28\r\n$latex => x = \\\\frac{85.28\\\\times 100}{656} = 13\\\\%&s=1$\r\nHence option [B] is correct answer."
+}

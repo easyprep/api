@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T21:22:49.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "d11a12b5-e4ed-4e50-a23c-afa09c5d4966",
+  "labels": "current-affairs,2018-03-25",
+  "question": "How many numbers are between 100 to 200?",
+  "option1": 100,
+  "option2": 101,
+  "option3": 99,
+  "option4": "None",
+  "option5": "",
+  "answer": 101,
+  "explanation": "This question is very easy, here we can get the numbers between 100 to 200 just by this simple calculation, (200-100) + 1 = 101. Here we have added 1 from outside because if in series 100 would  be not added then we will do (200 - 100), but here in quesion 100 is added in our series so we have add 1."
+}

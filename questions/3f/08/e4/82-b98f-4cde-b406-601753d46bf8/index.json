@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T13:26:09.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "3f08e482-b98f-4cde-b406-601753d46bf8",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A sum of 8000 Rs. will amount to 8820 Rs. in 2 years if the interest is calculated every year. The rate of compound interest is :",
+  "option1": 0.03,
+  "option2": 0.05,
+  "option3": 0.06,
+  "option4": 0.07,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "If the rate of CI be r% per annum, then \r\n$latex A = P \\\\left ( 1+\\\\frac{R}{100} \\\\right )^{T}&s=1$\r\n$latex => 8820 = 8000\\\\left ( 1+\\\\frac{r}{100} \\\\right )^{2}&s=1$\r\n$latex => \\\\frac{8820}{8000} = \\\\left ( 1+\\\\frac{r}{100} \\\\right )^{2}&s=1$\r\n$latex => \\\\frac{441}{400} = \\\\left ( \\\\frac{21}{20} \\\\right )^{2} = \\\\left ( 1+\\\\frac{r}{100} \\\\right )^{2}&s=1$\r\n$latex => 1+\\\\frac{r}{100} = \\\\frac{21}{20}&s=1$\r\n$latex => \\\\frac{r}{100} = \\\\frac{21}{20}-1 = \\\\frac{1}{20}&s=1$\r\n$latex => r = \\\\frac{1}{20}\\\\times 100 = 5\\\\%\\\\ per\\\\ annum&s=1$\r\nHence option [B] is correct answer."
+}

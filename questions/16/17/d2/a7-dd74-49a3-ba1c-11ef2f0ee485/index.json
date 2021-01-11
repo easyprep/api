@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:57:54.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "1617d2a7-dd74-49a3-ba1c-11ef2f0ee485",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The product of two numbers is 2028 and their HCF is 13. The number of such pairs is :",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 2,
+  "explanation": "Here, HCF = 13\r\nLet the numbers be 13x and 13y, where x and y are prime to each other. \r\nNow, 13x $latex \\\\times$ 13y = 2028\r\n$latex => xy = \\\\frac{2028}{13\\\\times 13} = 12&s=1$\r\nThe opposite pairs are : (1, 12), (3, 4), (2, 6)\r\nBut the 2 and 6 are not co-prime. \r\nSo, required no. of pairs = 2\r\nHence option [B] is correct answer."
+}

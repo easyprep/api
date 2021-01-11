@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T20:07:20.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "0131208e-541a-41ee-ad80-28bc125398da",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of three numbers is 7 and that is of first two numbers is 4, then what is the third number?",
+  "option1": 15,
+  "option2": 13,
+  "option3": 7,
+  "option4": 4,
+  "option5": "",
+  "answer": 13,
+  "explanation": "The sum of three numbers is 7 $latex \\\\times$ 3 = 21, \r\nand the sum of first two numbers is 2 $latex \\\\times$ 4 = 8\r\nThen the third number is 21 - 8 = 13. \r\nHence option [B] is the right answer."
+}

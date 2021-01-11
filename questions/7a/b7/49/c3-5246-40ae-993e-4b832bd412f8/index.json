@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:00:23.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "7ab749c3-5246-40ae-993e-4b832bd412f8",
+  "labels": "current-affairs,2018-03-26",
+  "question": "At what rate per cent per annum will a sum of 1000 Rs. amounts to 1102.50 Rs. in 2 years at compound interest?",
+  "option1": 0.05,
+  "option2": 0.055,
+  "option3": 0.06,
+  "option4": 0.065,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "$latex A = P(1 + \\\\frac{R}{100})^{T}&s=1$\r\nLet rate be \\'<b>r</b>\\'\r\n$latex => \\\\frac{1102.50}{1000} = (1 + \\\\frac{r}{100})^{2}&s=1$\r\n$latex => \\\\frac{11025}{10000} = (1 + \\\\frac{r}{100})^{2}&s=1$\r\n$latex => (\\\\frac{105}{100})^{2} = (1 + \\\\frac{r}{100})^{2}&s=1$\r\n$latex => 1 + \\\\frac{r}{100} = \\\\frac{105}{100}&s=1$\r\n$latex => \\\\frac{r}{100} = \\\\frac{5}{100}&s=1$\r\n$latex => r = 5\\\\%&s=1$\r\nHence option [A] is correct answer."
+}

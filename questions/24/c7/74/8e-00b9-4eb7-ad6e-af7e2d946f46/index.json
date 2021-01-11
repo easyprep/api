@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "24c7748e-00b9-4eb7-ad6e-af7e2d946f46",
+  "labels": "current-affairs,2018-03-25",
+  "question": "What is the average of following series 1.11, 0.01, 0.101, 0.001, 0.11 ?",
+  "option1": 0.1164,
+  "option2": 0.1264,
+  "option3": 0.2554,
+  "option4": 0.2664,
+  "option5": "",
+  "answer": 0.2664,
+  "explanation": "Required average $latex = \\\\frac{1.11+0.01+0.101+0.001+0.11}{5}&s=1$\r\n$latex = \\\\frac{1.332}{5} = 0.2664&s=1$\r\nHence option [D] is correct answer."
+}

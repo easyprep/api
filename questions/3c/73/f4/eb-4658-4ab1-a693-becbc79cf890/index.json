@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:32:22.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "3c73f4eb-4658-4ab1-a693-becbc79cf890",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A certain sum amounts to 5832 Rs. in 2 years at 8% per annum compound interest, the sum is :",
+  "option1": "5000 Rs",
+  "option2": "5400 Rs",
+  "option3": "5200 Rs",
+  "option4": "5280 Rs",
+  "option5": "",
+  "answer": "5000 Rs",
+  "explanation": "$latex 5832 = P \\\\left ( 1+\\\\frac{8}{100} \\\\right )^{2}&s=1$\r\n$latex => 5832 = P \\\\left ( 1+\\\\frac{2}{25} \\\\right )^{2}&s=1$\r\n$latex => 5832 = P\\\\times \\\\frac{27}{25}\\\\times \\\\frac{27}{25}&s=1$\r\n$latex => P = \\\\frac{5832\\\\times 25\\\\times 25}{27\\\\times 27} = 5000 Rs.&s=1$\r\nHence option [A] is correct answer."
+}

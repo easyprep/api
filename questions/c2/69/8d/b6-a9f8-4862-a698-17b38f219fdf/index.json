@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:11:09.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "c2698db6-a9f8-4862-a698-17b38f219fdf",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average monthly salary of all the employees in an industry is 12000 Rs. The average salary of male employees is 15000 Rs. and that of female employees is 8000 Rs. What is the ratio of male employees to female employees?",
+  "option1": "2 : 5",
+  "option2": "3 : 4",
+  "option3": "4 : 3",
+  "option4": "5 : 2",
+  "option5": "",
+  "answer": "4 : 3",
+  "explanation": "Let, Male employees = x and Female employees = y \r\n∴ (x + y) 12000 = x $latex \\\\times $ 15000 + y $latex \\\\times$ 8000\r\n=> (x + y) $latex \\\\times$ 12 = 15x + 8y\r\n=> 12x + 12y = 15x + 8y\r\n=> 3x = 4y\r\n$latex => \\\\frac{x}{y} = \\\\frac{4}{3}&s=1$\r\n=> x : y = 4 : 3\r\nHence option [C] is correct answer."
+}

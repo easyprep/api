@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:32:48.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "86437b0d-85e1-4c5a-98a4-443f2c50ae31",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Six tables and twelve chairs were bought for 7800 Rs. If the average price of a table is 750 Rs. Then what would be the average price of a chair?",
+  "option1": "150 Rs",
+  "option2": "175 Rs",
+  "option3": "250 Rs",
+  "option4": "275 Rs",
+  "option5": "",
+  "answer": "275 Rs",
+  "explanation": "Average cost of a chair = x Rs., \r\nthen, x $latex \\\\times$ 12 + 6 $latex \\\\times$ 750 = 7800\r\n=> 12x = 7800 - 4500 = 3300\r\n$latex => x = \\\\frac{3300}{12} = 275\\\\ Rs.&s=1$\r\nHence option [D] is correct answer."
+}

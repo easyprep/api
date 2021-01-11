@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T20:06:57.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "4b052dd0-0085-4953-991e-413b50298d3e",
+  "labels": "current-affairs,2018-03-26",
+  "question": "An item is marked for Rs. 240 for sale. If two successive discounts of 10% and 5% are allowed on the sale price, the selling price of the article will be:",
+  "option1": "Rs. 34.80",
+  "option2": "Rs. 36",
+  "option3": "Rs. 204",
+  "option4": "Rs. 205.20",
+  "option5": "",
+  "answer": "Rs. 205.20",
+  "explanation": "A single discount equal to the two successive discounts\r\n$latex =\\\\left ( 10+5-\\\\frac{10\\\\times 5}{100} \\\\right )&s=1$% =14.5%\r\n∴ Selling price of the article = 85.5% of Rs. 240\r\n$latex =>\\\\frac{85.5\\\\times 240}{100}&s=1$=₹205.20\r\nHence option [D] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T19:32:31.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "3e4dcf28-eb83-4a73-9ecf-485754f9b74d",
+  "labels": "current-affairs,2018-03-26",
+  "question": "Applied to a bill for 100000 Rs. the difference between a discount of 40% and two successive discounts of 36% and 4% is :",
+  "option1": "2500 Rs",
+  "option2": "1440 Rs.",
+  "option3": "4000 Rs.",
+  "option4": "3500 Rs.",
+  "option5": "",
+  "answer": "1440 Rs.",
+  "explanation": "Successive discount of 36% and 4% is overall equals to  = $latex \\\\left ( 36+4-\\\\frac{36\\\\times 4}{100} \\\\right )\\\\%&s=1$\r\n= 38.56%\r\n∴ Percentage difference = 40 - 38.56 = 1.44%\r\nDifference between discount = 1.44% of 100000 \r\n$latex =>\\\\frac{1.44\\\\times 100000}{100}&s=1$ $latex = 1440 Rs.$\r\nHence option [B] is the right answer."
+}

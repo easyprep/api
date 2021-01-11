@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:47:04.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "1bf35867-b4e3-4385-ab5b-efbf2db2a032",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of 10 numbers is 7. If each number is multiplied by 12, then the average of the new set of numbers will be :",
+  "option1": 19,
+  "option2": 84,
+  "option3": 82,
+  "option4": 7,
+  "option5": "",
+  "answer": 84,
+  "explanation": "If each number is multiplied by a certain number, then the average is also multiplied by that number. \r\n∴ Required average  $latex = 7\\\\times 12 = 84$\r\nHence option [B] is the right answer."
+}

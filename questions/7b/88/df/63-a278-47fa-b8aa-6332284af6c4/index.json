@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:29:13.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "7b88df63-a278-47fa-b8aa-6332284af6c4",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Total weekly emoluments of the workers of a factory is 1534 Rs. Average weekly emolument of a worker is 118 Rs. The number of workers in the factory is :",
+  "option1": 12,
+  "option2": 13,
+  "option3": 14,
+  "option4": 16,
+  "option5": "",
+  "answer": 13,
+  "explanation": "Numbers of workers in the factory =\r\n$latex = \\\\frac{1534}{118} = 13&s=1$\r\nHence option [B] is the right answer."
+}

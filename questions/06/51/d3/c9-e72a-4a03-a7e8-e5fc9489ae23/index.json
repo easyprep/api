@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T21:47:00.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "0651d3c9-e72a-4a03-a7e8-e5fc9489ae23",
+  "labels": "current-affairs,2018-03-25",
+  "question": "If a number k35624 is divisible by 11, than what will be the value of k?",
+  "option1": 2,
+  "option2": 5,
+  "option3": 7,
+  "option4": 6,
+  "option5": "",
+  "answer": 6,
+  "explanation": "There are several methods to get the answer but here we will discuss best and shortest way. As per the divisibility rule of 11, the difference of sum of the digits at odd places and sum of the digits at  even places must be 0, 11, 22, 33.... etc.  </br>=>   (4+6+3)-(2+5+k)=0/11/22...  </br> =>              (13)-(7+k)=0                                [since 11/22... are not possible] </br> =>                    13-7-k=0 </br> =>                             k=6 </br> So option (d) is right answer."
+}

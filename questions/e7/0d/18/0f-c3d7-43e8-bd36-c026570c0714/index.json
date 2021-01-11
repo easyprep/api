@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T23:55:55.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "e70d180f-c3d7-43e8-bd36-c026570c0714",
+  "labels": "current-affairs,2018-03-25",
+  "question": "A man can swim at the rate of 4 km/hr in still water. If the speed of the water is 2 km/hr, then the time taken by him to swim 10 km upstream is :",
+  "option1": "$latex 2\\frac{1}{2} hrs&s=1$",
+  "option2": "$latex 3\\frac{1}{2} hrs&s=1$",
+  "option3": "$latex 4 hrs$",
+  "option4": "$latex 5 hrs$",
+  "option5": "",
+  "answer": "$latex 5 hrs$",
+  "explanation": "Rate upstream = 4 - 2 = 2 km/hr\r\n∴ Required Time $latex = \\\\frac{10}{2} = 5 hours&s=1$\r\nHence option [D] is correct answer."
+}

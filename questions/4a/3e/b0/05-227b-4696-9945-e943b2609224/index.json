@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:15:41.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "4a3eb005-227b-4696-9945-e943b2609224",
+  "labels": "current-affairs,2018-03-26",
+  "question": "In how may years will Rs. 2000 amounts to Rs. 2420 at 10% per annum compound interest?",
+  "option1": "2.5 years",
+  "option2": "1.5 years",
+  "option3": "2 years",
+  "option4": "3 years",
+  "option5": "",
+  "answer": "2 years",
+  "explanation": "According to question, \r\n$latex 2420=2000\\\\left ( 1+\\\\frac{10}{100} \\\\right )^{t}&s=1$\r\n$latex =>\\\\frac{2420}{2000}=\\\\left ( \\\\frac{11}{10} \\\\right )^{t}&s=1$\r\n$latex =>\\\\frac{121}{100}=\\\\left ( \\\\frac{11}{10} \\\\right )^{t}&s=1$\r\n$latex =>\\\\left ( \\\\frac{11}{10} \\\\right )^{2}=\\\\left ( \\\\frac{11}{10} \\\\right )^{t}&s=1$\r\n∴ t = 2 years\r\nHence option [C] is the right answer."
+}

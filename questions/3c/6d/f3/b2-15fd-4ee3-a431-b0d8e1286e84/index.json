@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:04:23.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "3c6df3b2-15fd-4ee3-a431-b0d8e1286e84",
+  "labels": "current-affairs,2018-03-26",
+  "question": "800 Rs. at 5% per annum compounded annually will amount to 882 Rs. in :",
+  "option1": "1 year",
+  "option2": "2 years",
+  "option3": "3 years",
+  "option4": "4 years",
+  "option5": "",
+  "answer": "2 years",
+  "explanation": "$latex A = P\\\\left ( 1+\\\\frac{R}{100} \\\\right )^{T}&s=1$\r\n$latex => 882 = 800\\\\left ( 1+\\\\frac{5}{100} \\\\right )^{T}&s=1$\r\n$latex => \\\\frac{882}{800} = \\\\left ( \\\\frac{21}{20} \\\\right )^{T}&s=1$\r\n$latex => \\\\frac{441}{400} = \\\\left ( \\\\frac{21}{20} \\\\right )^{2}= \\\\left ( \\\\frac{21}{20} \\\\right )^{T}&s=1$\r\n∴ T = 2 years\r\nHence option [B] is correct answer."
+}

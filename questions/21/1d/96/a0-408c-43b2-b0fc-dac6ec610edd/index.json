@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T21:07:53.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "211d96a0-408c-43b2-b0fc-dac6ec610edd",
+  "labels": "current-affairs,2018-03-26",
+  "question": "G is the centroid in the equilateral △ ABC. If AB = 10 cm then length of AG is :",
+  "option1": "$latex \\frac{20\\sqrt{3}}{3}cm&amp;s=1$",
+  "option2": "$latex 10\\sqrt{3}cm$",
+  "option3": "$latex \\frac{10\\sqrt{3}}{3}cm&amp;s=1$",
+  "option4": "$latex 5\\sqrt{3}cm$",
+  "option5": "",
+  "answer": "$latex \\frac{10\\sqrt{3}}{3}cm&amp;s=1$",
+  "explanation": "<img class=\\\"alignright\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/06/Question-no.-13.gif\\\" />AB = 10cm\r\nBD = 5 cm\r\n∠ADB = 90°\r\n∴ AD = $latex \\\\sqrt{AB^{2} - BD^{2}}$\r\n$latex =&gt; \\\\sqrt{10^{2}-5^{2}} = \\\\sqrt{100-25}$\r\n$latex =&gt; \\\\sqrt{75} = 5\\\\sqrt{3}cm$\r\n$latex AG =$ $latex \\\\frac{2}{3}&amp;s=1$ $latex AD=$ $latex \\\\frac{2}{3}\\\\times 5\\\\sqrt{3}&amp;s=1$\r\n$latex = \\\\frac{10\\\\sqrt{3}}{3}cm&amp;s=1$\r\nHence option [C] is the right answer."
+}

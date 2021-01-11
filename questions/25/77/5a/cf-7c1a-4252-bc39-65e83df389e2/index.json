@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T23:45:24.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "25775acf-7c1a-4252-bc39-65e83df389e2",
+  "labels": "current-affairs,2018-03-25",
+  "question": "A person can row a distance of one km upstream in ten minutes and downstream in four minutes. What is the speed of the stream?",
+  "option1": "4 km/hr",
+  "option2": "4.5 km/hr",
+  "option3": "5.6 km/hr",
+  "option4": "9 km/hr",
+  "option5": "",
+  "answer": "4.5 km/hr",
+  "explanation": "Speed in still water = x km/hr\r\nSpeed of current = y km/hr\r\n$latex \\\\therefore x + y = \\\\frac{1}{\\\\frac{4}{60}} = 15&s=1$\r\n$latex x-y = \\\\frac{1}{\\\\frac{10}{60}} = 6&s=1$\r\n∴ Speed of current =\r\n$latex = \\\\frac{1}{2}\\\\left [ \\\\left ( x+y \\\\right )-\\\\left ( x-y \\\\right ) \\\\right ]&s=1$\r\n$latex = \\\\frac{1}{2}(15-6) = \\\\frac{9}{2} = 4.5 km/hr&s=1$\r\nHence option [B] is correct answer."
+}

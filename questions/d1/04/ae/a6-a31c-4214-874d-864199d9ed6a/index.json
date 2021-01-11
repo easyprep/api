@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:53:46.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "d104aea6-a31c-4214-874d-864199d9ed6a",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF and LCM of two number are 13 and 455 respectively. If one of the number is lies between 75 and 125, then that number is :",
+  "option1": 78,
+  "option2": 91,
+  "option3": 104,
+  "option4": 117,
+  "option5": "",
+  "answer": 91,
+  "explanation": "HCF = 13\r\nLet the numbers be 13x and 13y, where x and y are co-prime to each other.\r\n∴ LCM = 13xy\r\n∴ 13xy = 455\r\n$latex \\\\therefore xy = \\\\frac{455}{13} = 35 = 5\\\\times 7&s=1$\r\n∴ Numbers are 13 $latex \\\\times$ 5 = 65 and 13 $latex \\\\times$ 7 = 91\r\nHence option [B] is correct answer"
+}

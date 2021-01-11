@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T22:33:16.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "2356a951-1ef4-44b7-8566-9dcb26d9c0e9",
+  "labels": "current-affairs,2018-03-26",
+  "question": "If the orthocentre and the centroid of a triangle are the same, then the triangle is:",
+  "option1": "Obtuse angled",
+  "option2": "Right angled",
+  "option3": "Scalene",
+  "option4": "Equilateral",
+  "option5": "",
+  "answer": "Equilateral",
+  "explanation": "In equilateral triangle orthocentre and centroid lie at the same point.\r\nHence option [D] is the right answer.\r\n<img class=\\\"\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/06/For-question-No.-2.gif\\\" width=\\\"162\\\" height=\\\"162\\\""
+}

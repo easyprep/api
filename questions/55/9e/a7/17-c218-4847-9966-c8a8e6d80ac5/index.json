@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T20:25:55.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "559ea717-c218-4847-9966-c8a8e6d80ac5",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Find the average of all prime numbers between 20 and 40.",
+  "option1": 29,
+  "option2": 120,
+  "option3": 31,
+  "option4": 30,
+  "option5": "",
+  "answer": 30,
+  "explanation": "There are four prime numbers between 20 and 40 and they are 23, 29, 31, 37. \r\nSo now we have to find the average of these four numbers : \r\n= $latex \\\\frac{23 + 29 + 31 + 37}{4}= 30.&s=1$  \r\nOption (D) is the correct answer"
+}

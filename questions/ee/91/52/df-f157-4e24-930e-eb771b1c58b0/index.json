@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:19:01.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "ee9152df-f157-4e24-930e-eb771b1c58b0",
+  "labels": "current-affairs,2018-03-26",
+  "question": "In what time will Rs. 1000 becomes Rs. 1331 at 10% per annum compounded annually?",
+  "option1": "2 years",
+  "option2": "3 years",
+  "option3": "3.5 years",
+  "option4": "2.5 years",
+  "option5": "",
+  "answer": "3 years",
+  "explanation": "Let the required time be n years, Then,\r\n$latex 1331=1000\\\\left ( 1+\\\\frac{10}{100} \\\\right )^{n}&s=1$\r\n$latex =>\\\\frac{1331}{1000}=\\\\left ( \\\\frac{10+1}{10} \\\\right )^{n}&s=1$\r\n$latex =>\\\\left ( \\\\frac{11}{10} \\\\right )^{n}=\\\\left ( \\\\frac{11}{10} \\\\right )^{3}&s=1$\r\n$latex =>n=3$\r\nHence option [B] is the right answer."
+}

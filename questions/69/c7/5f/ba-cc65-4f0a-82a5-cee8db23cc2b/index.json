@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:31:38.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "69c75fba-cc65-4f0a-82a5-cee8db23cc2b",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The single discount equal to three consecutive discounts of 10%, 12% and 5% is :",
+  "option1": 0.09,
+  "option2": 0.11,
+  "option3": 0.2476,
+  "option4": 0.2627,
+  "option5": "",
+  "answer": 0.2476,
+  "explanation": "Single equivalent discount for 10% and 12%.\r\n$latex = \\\\left ( 10+12-\\\\frac{10\\\\times 12}{100} \\\\right )\\\\% = 20.8\\\\%&s=1$\r\nSingle equivalent discount for 20.8% and 5%. \r\n$latex = \\\\left ( 20.8+5-\\\\frac{20.8\\\\times 5}{100} \\\\right )\\\\% = 24.76\\\\%&s=1$\r\nHence option [C] is correct answer."
+}

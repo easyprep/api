@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T14:53:31.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "b79fd29a-086e-4875-9116-dcd0d9a63add",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A principal of 10000 Rs. after 2 years compounded annually, the rate of interest being 10% per annum during the first year and 12% per annum during the second year will amount is :",
+  "option1": "11320 Rs",
+  "option2": "12000 Rs.",
+  "option3": "12320 Rs.",
+  "option4": "12500 Rs",
+  "option5": "",
+  "answer": "12320 Rs.",
+  "explanation": "$latex A = P\\\\left ( 1+\\\\frac{r_{1}}{100} \\\\right )\\\\left ( 1+\\\\frac{r_{2}}{100} \\\\right )&s=1$\r\n$latex = 10000\\\\left ( 1+\\\\frac{10}{100} \\\\right )\\\\left ( 1+\\\\frac{12}{100} \\\\right )&s=1$\r\n$latex = 10000\\\\times \\\\frac{11}{10}\\\\times \\\\frac{28}{25}&s=1$\r\n$latex = 12320\\\\ Rs.$\r\nHence option [C] is correct answer."
+}

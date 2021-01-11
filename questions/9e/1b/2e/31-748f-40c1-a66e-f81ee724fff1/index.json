@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T23:37:32.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "9e1b2e31-748f-40c1-a66e-f81ee724fff1",
+  "labels": "current-affairs,2018-03-25",
+  "question": "A boat goes 20 km downstream in one hour and the same distance upstream in two hours. The speed of the boat in still water is:",
+  "option1": "5 km/hr",
+  "option2": "7.5 km/hr",
+  "option3": "10 km/hr",
+  "option4": "15 km/hr",
+  "option5": "",
+  "answer": "15 km/hr",
+  "explanation": "Let the speed of boat in still water be x km/hr and the rate of stream be y km/hr.\r\n∴ Downstream rate = (x + y) km/hr\r\nand upstream rate = (x - y) km/hr\r\n$latex Now, \\\\frac{20}{x + y} = 1&s=1$\r\n$latex => x + y = 20 .......\\\\left ( 1 \\\\right )$\r\n$latex and \\\\frac{20}{x-y} = 2&s=1$\r\n$latex => x - y = 10 .......\\\\left ( 2 \\\\right )$\r\nFrom (1) and (2) we have \r\nx = 15 km/hr.\r\nHence option [D] is correct answer."
+}

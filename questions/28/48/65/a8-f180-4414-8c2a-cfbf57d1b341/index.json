@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T21:43:46.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "284865a8-f180-4414-8c2a-cfbf57d1b341",
+  "labels": "current-affairs,2018-03-25",
+  "question": "What will be the value of k if, a number 42573k is divisible by 72?",
+  "option1": 4,
+  "option2": 5,
+  "option3": 6,
+  "option4": 7,
+  "option5": "",
+  "answer": 6,
+  "explanation": "s per the rules of divisibility, if given number 42573k is divisible by 72 (divisor) then this number should be divisible by 9 and 8 both. So it is clear that option (b) and (d) can not be right answers,  since unit digit can\\'t be odd number to be divisible by 8. Now option (a) and (c) can be tried out. Thus we can easily get the value of k=6. Hence option (c) is correct answer."
+}

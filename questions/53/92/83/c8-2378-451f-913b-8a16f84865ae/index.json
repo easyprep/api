@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:22:45.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "539283c8-2378-451f-913b-8a16f84865ae",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF of two numbers is 15 and their LCM is 225. If one of the number is 75, then the other number is :",
+  "option1": 45,
+  "option2": 60,
+  "option3": 90,
+  "option4": 105,
+  "option5": "",
+  "answer": 45,
+  "explanation": "∵ First Number $latex \\\\times$ Second Number = HCF $latex \\\\times$ LCM\r\n=> 75 $latex \\\\times$ Second Number = 15 $latex \\\\times$ 225\r\nSecond Number $latex = \\\\frac{15\\\\times 225}{75} = 45&s=1$\r\nHence option [A] is correct answer."
+}

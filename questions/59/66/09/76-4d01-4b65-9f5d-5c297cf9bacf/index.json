@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T18:28:06.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "59660976-4d01-4b65-9f5d-5c297cf9bacf",
+  "labels": "current-affairs,2018-03-26",
+  "question": "List price of an article at a show room is 2000 Rs. And it is being sold at successive discounts of 20% and 10% . Its net selling price will be :",
+  "option1": "1400 Rs",
+  "option2": "1440 Rs.",
+  "option3": "1900 Rs.",
+  "option4": "1700 Rs.",
+  "option5": "",
+  "answer": "1440 Rs.",
+  "explanation": "Equivalent discount for successive discounts of 20% and 10%\r\n$latex = \\\\left ( 20+10-\\\\frac{20\\\\times 10}{100} \\\\right )\\\\% = 28\\\\%&s=1$\r\n∴ Net selling price = 72% of 2000\r\n$latex = \\\\frac{72\\\\times 2000}{100}&s=1$ $latex = 1440 Rs.$\r\nHence option [B] is the right answer."
+}

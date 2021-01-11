@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:21:19.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "f298130e-6ee7-4f18-a0d9-701e2f70fd0b",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The smallest number, which when divided by 12 and 16 leaves remaining 5 and 9 respectively, is :",
+  "option1": 29,
+  "option2": 39,
+  "option3": 41,
+  "option4": 55,
+  "option5": "",
+  "answer": 41,
+  "explanation": "Here because, 12 - 5 = 7, 16 - 9 = 7\r\nSince required number = LCM of 12 and 16 - 7\r\n= 48 - 7 = 41.\r\nHence option [C] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T18:16:00.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "560b2bd1-dc56-487d-9994-861f10e24480",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A person paid 17000 Rs for a motor car after a single discount of 15%. If he is given successive discounts of 5% and 10% then how much he would pay?",
+  "option1": "17000 Rs",
+  "option2": "17010 Rs",
+  "option3": "17100 Rs",
+  "option4": "18900 Rs",
+  "option5": "",
+  "answer": "17100 Rs",
+  "explanation": "Let \\'x\\' be the marked price \r\nSingle discount = 15%\r\n=> 100 - 15 = 85\r\n85% of x = 17000\r\n$latex \\\\therefore x = \\\\frac{17000}{85}\\\\times 100 = 20000 Rs.&s=1$\r\n∴ Required SP = \r\n$latex = 20000\\\\times \\\\frac{95}{100}\\\\times \\\\frac{90}{100}&s=1$\r\n$latex = 180\\\\times 95 = 17100 Rs. &s=1$\r\nHence option [C] is correct answer."
+}

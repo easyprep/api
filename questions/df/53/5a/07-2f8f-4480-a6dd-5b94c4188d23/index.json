@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T20:03:30.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "df535a07-2f8f-4480-a6dd-5b94c4188d23",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The equivalent single discount for two successive discount of 15% and 10% is:",
+  "option1": 0.205,
+  "option2": 0.235,
+  "option3": 0.2,
+  "option4": 0.25,
+  "option5": "",
+  "answer": 0.235,
+  "explanation": "Trick : Equivalent discount = <br/>$latex = \\\\left ( 15+10-\\\\frac{15\\\\times 10}{100} \\\\right )&s=1$% = 23.5%\r\nHence option [B] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:17:25.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "8bcf5245-97e9-45ff-b6ba-a8e423b398a2",
+  "labels": "current-affairs,2018-03-26",
+  "question": "In what time will 10000 Rs. amount to 13310 Rs. at 20% per annum compounded half yearly?",
+  "option1": "$latex 3years$",
+  "option2": "$latex 2\\frac{1}{2}years&s=1$",
+  "option3": "$latex 2years$",
+  "option4": "$latex 1\\frac{1}{2}years&s=1$",
+  "option5": "",
+  "answer": "$latex 1\\frac{1}{2}years&s=1$",
+  "explanation": "The rate of interest is compounded half yearly,\r\n∴ r = 10% per half year\r\nLet time $latex = \\\\frac{T}{2}years &s=1$ = half years\r\nAccording to the question,\r\n$latex Amount = P \\\\left ( 1+\\\\frac{R}{100} \\\\right )^{t}&s=1$\r\n$latex => 13310 = 10000\\\\left ( 1+\\\\frac{10}{100} \\\\right )^{T}&s=1$\r\n$latex => \\\\frac{13310}{10000} = \\\\left ( \\\\frac{11}{10} \\\\right )^{T}&s=1$\r\n$latex => \\\\left ( \\\\frac{11}{10} \\\\right )^{T} = \\\\frac{1331}{1000} = \\\\left ( \\\\frac{11}{10} \\\\right )^{3}&s=1$\r\n=> T = 3 half years $latex = 1\\\\frac{1}{2} years&s=1$\r\nHence option [D] is correct answer."
+}

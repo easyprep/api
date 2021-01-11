@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T18:09:29.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "351e525a-2fe2-4478-9722-8f351076f6c5",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The marked price of a clock is 160 Rs, after two successive discounts a customer buys it for 122.40 Rs. If first discount is 10%, then what would be the second discount:",
+  "option1": 0.1,
+  "option2": 0.12,
+  "option3": 0.15,
+  "option4": 0.18,
+  "option5": "",
+  "answer": 0.15,
+  "explanation": "Given that the list Price = 160 Rs.\r\nAfter 10% discount Selling Price $latex = \\\\frac{90}{100}\\\\times 160 = 144 Rs.&s=1$\r\nNow, Let the other discount = x%\r\n$latex \\\\therefore \\\\frac{100-x}{100}\\\\times 144 = 122.40 Rs. &s=1$\r\n$latex => 100-x = \\\\frac{12240}{144}&s=1$\r\n$latex => 100 - x = 85$\r\n$latex => x = 100 - 85 = 15\\\\%$\r\nHence option [C] is correct answer."
+}

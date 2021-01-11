@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T21:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "2cfc3e3a-2796-4b6a-94a8-a1b0a23d9620",
+  "labels": "current-affairs,2018-03-25",
+  "question": "From 434079, what number should be subtracted so that it can be divisible by 137?",
+  "option1": 173,
+  "option2": 63,
+  "option3": 97,
+  "option4": "Answer can not be determined",
+  "option5": "",
+  "answer": 63,
+  "explanation": "For get the correct answer we have to divide 434079 by 137 and then the obtained remainder 63 which is right answer so option (b) is the right answer."
+}

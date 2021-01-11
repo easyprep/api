@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:19:34.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "878dea4a-acdc-48dc-b2fa-0cce8c2e2a7b",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If the students of a class can be grouped exactly into 6 or 8 or 10, then the minimum number of students in the class must be :",
+  "option1": 60,
+  "option2": 120,
+  "option3": 180,
+  "option4": 240,
+  "option5": "",
+  "answer": 120,
+  "explanation": "Because the required number of students = LCM of 6, 8, 10 = 120.\r\nHence option [B] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T20:22:14.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "d5e6b165-9fcc-4f10-bd1c-eb997498e0a9",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Find the average of first 30 multiples of 5.",
+  "option1": 75,
+  "option2": 75.5,
+  "option3": 76,
+  "option4": 76.5,
+  "option5": "",
+  "answer": 75.5,
+  "explanation": "The average of first 30 multiples of 5 : \r\n$latex 5\\\\times \\\\frac{(1+2+3+.....+30)}{30} = \\\\frac{50\\\\times 30\\\\times 31}{30\\\\times 2} = 76.5&s=1$\r\nOption (b) is the right answer."
+}

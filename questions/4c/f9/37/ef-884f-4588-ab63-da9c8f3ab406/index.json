@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:27:25.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "4cf937ef-884f-4588-ab63-da9c8f3ab406",
+  "labels": "current-affairs,2018-03-26",
+  "question": "Two successive discounts of 10% and 5% are equivalent to a single discount of :",
+  "option1": 0.14,
+  "option2": 0.1425,
+  "option3": 0.145,
+  "option4": 0.15,
+  "option5": "",
+  "answer": 0.145,
+  "explanation": "Single equivalent discount = \r\n$latex = \\\\left ( 10+5-\\\\frac{10\\\\times 5}{100} \\\\right )\\\\% = 14.5\\\\%&s=1$\r\nHence option [C] is correct answer."
+}

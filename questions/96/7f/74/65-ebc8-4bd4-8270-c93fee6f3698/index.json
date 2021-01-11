@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:24:50.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "967f7465-ebc8-4bd4-8270-c93fee6f3698",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Find the HCF of 84, 121, 140",
+  "option1": 10,
+  "option2": 14,
+  "option3": 6,
+  "option4": 12,
+  "option5": "",
+  "answer": 14,
+  "explanation": "$latex \\\\because 84=2^{2}\\\\times 3\\\\times 7 $\r\n$latex 126=2\\\\times3^{2}\\\\times7 $\r\nand $latex 140=2^{2}\\\\times 5\\\\times 7 $\r\n$latex \\\\therefore HCF = 2\\\\times 7=14 $\r\nHence option [B] Is the right answer."
+}

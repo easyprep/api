@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T16:44:10.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "cdf3b043-454a-4371-8e9d-bb7c5a62db94",
+  "labels": "current-affairs,2018-03-25",
+  "question": "If a * b  = 2a - 3b + ab, then 3 * 5 + 5 * 3 is equal to :",
+  "option1": 28,
+  "option2": 26,
+  "option3": 22,
+  "option4": 24,
+  "option5": "",
+  "answer": 22,
+  "explanation": "Give that a * b  = 2a - 3b + ab\r\n$latex => 3 * 5 = 2\\\\times 3 - 3\\\\times 5 + 3\\\\times 5  = 6$\r\n$latex => 5 * 3 = 2\\\\times 5 - 3\\\\times 3 + 3\\\\times 5  = 10 - 9 + 15 = 16$\r\nTherefore, $latex 3 * 5 + 5 * 3 = 6 + 16 = 22$\r\nHence option [C] is the rigth answer."
+}

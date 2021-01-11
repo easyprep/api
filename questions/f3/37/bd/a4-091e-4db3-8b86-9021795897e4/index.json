@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T21:18:20.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "f337bda4-091e-4db3-8b86-9021795897e4",
+  "labels": "current-affairs,2018-03-25",
+  "question": "In the set of {300, 301, 302, ...., 498, 499, 500}, How many numbers will be divisible by 3?",
+  "option1": 200,
+  "option2": 66,
+  "option3": 67,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 67,
+  "explanation": "The very first number in this series {300, 301, 302, ...., 498, 499, 500} is 300 and last number is 498, so now we have to calculate the total numbers from 300 to 498, are divisible by 3 (498-300/3) + 1  = 67, here we added 1 because 498 and 300 both are divisible by 3. So the right answer is option (c)"
+}

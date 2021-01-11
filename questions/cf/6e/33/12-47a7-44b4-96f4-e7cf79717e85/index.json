@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T14:56:53.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "cf6e3312-47a7-44b4-96f4-e7cf79717e85",
+  "labels": "current-affairs,2018-03-26",
+  "question": "In what time will 1000 Rs. amounts to 1331 Rs. at 20% per annum, compounded half yearly?",
+  "option1": "$latex 1\\ years$",
+  "option2": "$latex 1\\frac{1}{2}\\ years&s=1$",
+  "option3": "$latex 2\\ years$",
+  "option4": "$latex 2\\frac{1}{2}\\ years&s=1$",
+  "option5": "",
+  "answer": "$latex 1\\frac{1}{2}\\ years&s=1$",
+  "explanation": "Let the required time be t years. Interest is compounded half yearly. \r\n∴ Time = 2t half years and rate = 10%\r\n$latex \\\\therefore 1000\\\\left ( 1+\\\\frac{10}{100} \\\\right )^{2t} = 1331&s=1$\r\n$latex => \\\\left ( \\\\frac{11}{10} \\\\right )^{2t} = \\\\frac{1331}{1000}&s=1$\r\n$latex => \\\\left ( \\\\frac{11}{10} \\\\right )^{2t} = \\\\left ( \\\\frac{11}{10} \\\\right )^{3}&s=1$\r\n$latex => 2t = 3,\\\\ t = \\\\frac{3}{2}\\\\ years\\\\ or\\\\ 1\\\\frac{1}{2}\\\\ years&s=1$\r\nHence option [B] is correct answer."
+}

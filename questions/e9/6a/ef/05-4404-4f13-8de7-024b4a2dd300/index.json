@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T21:37:30.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "e96aef05-4404-4f13-8de7-024b4a2dd300",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Numbers between 1 to 1000 which are divisible by 7?",
+  "option1": 777,
+  "option2": 142,
+  "option3": 143,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 142,
+  "explanation": "Because to get numbers between 1 to 1000 which are divisible by 7 can be calculated very easily just only by dividing 1000 by 7, 1000/7=142.8571, so 142 numbers are there between 1 to 1000 are  divisible by 7, thus option (b) is the right answer."
+}

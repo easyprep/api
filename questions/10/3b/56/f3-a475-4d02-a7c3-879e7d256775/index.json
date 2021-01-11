@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "103b56f3-a475-4d02-a7c3-879e7d256775",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The compound interest on Rs. 10000 in 2 years at 4% per annum, the interest being compounded half-yearly, is:",
+  "option1": "Rs. 912.86",
+  "option2": "Rs. 828.82",
+  "option3": "Rs. 824.32",
+  "option4": "Rs. 636.80",
+  "option5": "",
+  "answer": "Rs. 824.32",
+  "explanation": "$latex A=10000\\\\left ( 1+\\\\frac{2}{100} \\\\right )^{4}&s=1$\r\n$latex =>10000\\\\left ( \\\\frac{51}{50} \\\\right )^{4}&s=1$\r\n$latex =>10000\\\\left ( 1.08243216 \\\\right )=10824.3216$\r\nSince Interest = 10824.3216 - 10000 = Rs.824.32\r\nHence option [C] is the right answer."
+}

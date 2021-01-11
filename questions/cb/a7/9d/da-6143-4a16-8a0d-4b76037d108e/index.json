@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "cba79dda-6143-4a16-8a0d-4b76037d108e",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A sum of money on compound interest amounts to Rs. 10648 in 3 years and Rs. 9680 in 2 years. The rate of interest per annum is :",
+  "option1": 0.2,
+  "option2": 0.05,
+  "option3": 0.1,
+  "option4": 0.15,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "Let the sum be Rs. P and rate of interest be R% per annum. Then, \r\n$latex P\\\\left ( 1+\\\\frac{R}{100} \\\\right )^{2} = 9680    .........(1)&s=1$\r\n$latex P\\\\left ( 1+\\\\frac{R}{100} \\\\right )^{3} = 10648    ......(2)&s=1$\r\nOn dividing equation (2) by (1) :\r\n$latex 1+\\\\frac{R}{100} = \\\\frac{10648}{9680}&s=2$\r\n$latex => \\\\frac{R}{100} = \\\\frac{10648}{9680} - 1&s=2$\r\n$latex => \\\\frac{R}{100} =\\\\frac{10648 - 9680}{9680}&s=2$\r\n$latex => \\\\frac{R}{100} = \\\\frac{968}{9680} = \\\\frac{1}{10}&s=2$\r\n$latex => R = \\\\frac{1}{10}\\\\times 100 = 10\\\\%&s=1$\r\nHence option [C] is the right ansewr."
+}

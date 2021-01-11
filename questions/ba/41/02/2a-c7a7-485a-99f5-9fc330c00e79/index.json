@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T18:11:39.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "ba41022a-c7a7-485a-99f5-9fc330c00e79",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The difference between a discount of 40% on 500 Rs. and two successive discounts of 36% and 4% on the same amount is :",
+  "option1": "7.20 Rs.",
+  "option2": "2.00 Rs.",
+  "option3": "1.93 Rs",
+  "option4": "0 Rs",
+  "option5": "",
+  "answer": "7.20 Rs.",
+  "explanation": "Single equivalent discount of two successive discounts of 36% and 4% \r\n$latex = 36+4-\\\\frac{36\\\\times 4}{100}&s=1$\r\n= 40 - 1.44 = 38.56\r\nPercentage difference = 40 - 38.56 = 1.44\r\n∴ Required Difference = \r\n$latex = 500\\\\times \\\\frac{1.44}{100} = 7.20 Rs.&s=1$\r\nHence option [A] is correct answer."
+}

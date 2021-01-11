@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:51:47.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "0206ed76-9ff6-43eb-95bb-112fd9a552aa",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF of two numbers is 96 and their LCM is 1296. If one of the number is 864, then the other number is :",
+  "option1": 132,
+  "option2": 135,
+  "option3": 140,
+  "option4": 144,
+  "option5": "",
+  "answer": 144,
+  "explanation": "First Numebr $latex \\\\times$ Second Number = HCF $latex \\\\times$ LCM\r\n=> 864 $latex \\\\times$ Second Number = 96 $latex \\\\times$ 1296\r\n$latex => Second\\\\ Number = \\\\frac{96\\\\times 1296}{864} = 144&s=1$\r\nHence option [D] is correct answer."
+}

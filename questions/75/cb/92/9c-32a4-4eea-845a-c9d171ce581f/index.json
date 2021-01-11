@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T17:39:09.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "75cb929c-32a4-4eea-845a-c9d171ce581f",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of 100 numbers is 44. The average of these 100 numbers and four other new numbers is 50. The average of four new numbers will be :",
+  "option1": 24,
+  "option2": 176,
+  "option3": 200,
+  "option4": 800,
+  "option5": "",
+  "answer": 200,
+  "explanation": "Sum of four new numbers = 50 $latex \\\\times$ 104 - 100 $latex \\\\times$ 44\r\n= 5200 - 4400 = 800\r\n∴ Average $latex = \\\\frac{800}{4} = 200&s=1$\r\nHence option [C] is correct answer."
+}

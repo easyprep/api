@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T17:26:24.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "c4b608e1-16db-49ac-9962-076600cffab7",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The marked price of a T.V. is 16000 Rs. After getting two successive discounts it is sold for 11400 Rs. If the first discount is 5%, then the rate of second discount is :",
+  "option1": 0.15,
+  "option2": 0.2,
+  "option3": 0.25,
+  "option4": 0.3,
+  "option5": "",
+  "answer": 0.25,
+  "explanation": "After a discount of 5% SP\r\n$latex = \\\\frac{95\\\\times 16000}{100} = 15200\\\\ Rs.&s=1$\r\nLet the second discount be x%. \r\n∴ x% of 15200 = (15200 - 11400)\r\n$latex => \\\\frac{x\\\\times 15200}{100} = 3800&s=1$\r\n$latex => x = \\\\frac{3800\\\\times 100}{15200} = 25&s=1$\r\n∴ Second Discount = 25%\r\nHence option [C] is correct answer."
+}

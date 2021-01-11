@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T23:00:52.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "2fa3218c-f04e-42ea-a2d2-dd1a285e8290",
+  "labels": "current-affairs,2018-03-25",
+  "question": "A man rows upstream 36 km and downstream 48 km taking 6 hrs each time. The speed of the current is :",
+  "option1": "0.5 km/hr",
+  "option2": "1 km/hr",
+  "option3": "1.5 km/hr",
+  "option4": "2 km/hr",
+  "option5": "",
+  "answer": "1 km/hr",
+  "explanation": "Rate downstream of boat $latex = \\\\frac{48}{6}  = 8\\\\:km/hr&s=1$\r\nRate upstream $latex = \\\\frac{36}{6}  = 6\\\\:km/hr&s=1$\r\n∴ Speed of current $latex = \\\\frac{1}{2}(Rate\\\\: downstream - Rate\\\\: upstream)&s=1$\r\n$latex = \\\\frac{1}{2}(8-6)=1&s=1\\\\:km/hr$\r\nHence option [B] is correct answer."
+}

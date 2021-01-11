@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T23:06:51.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "a5e7bfa5-3784-4b84-b80c-25f811c1a2e1",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The speed of a stream is 3 km/hr and the speed of a man in still water is 5 km/hr. The time taken by the man to swim 26 km downstream is :",
+  "option1": "$latex 13 hrs$",
+  "option2": "$latex 5\\frac{1}{5}hrs&s=1$",
+  "option3": "$latex 3\\frac{1}{4}hrs&s=1$",
+  "option4": "$latex 8\\frac{2}{3}hrs&s=1$",
+  "option5": "",
+  "answer": "$latex 3\\frac{1}{4}hrs&s=1$",
+  "explanation": "$latex \\\\mathbf{3\\\\frac{1}{4}hrs}&s=1$</b><br />\r\n$latex Time = \\\\frac{Distance}{Rate Downstream}&s=1$\r\n$latex = \\\\frac{26}{5+3} = \\\\frac{13}{4} = 3\\\\frac{1}{4} hours&s=1$\r\nHence option [C] is correct answer."
+}

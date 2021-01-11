@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:27:30.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "8bc444c3-ef00-4d86-b393-705b9c13bafe",
+  "labels": "current-affairs,2018-03-25",
+  "question": "4 boys and 3 girls spent 120 Rs. on the average, of which boys spent 150 Rs. on the average. Then what would be the average amount spent by the girls is :",
+  "option1": "60 Rs",
+  "option2": "80 Rs",
+  "option3": "90 Rs",
+  "option4": "100 Rs",
+  "option5": "",
+  "answer": "80 Rs",
+  "explanation": "Total expenditure $latex = 120 \\\\times 7 = 840\\\\ Rs.$\r\nTotal expenditure of 4 boys $latex = 150 \\\\times 4 = 600\\\\ Rs.$\r\nTotal expenditure of 3 girls $latex = 840 - 600 = 240\\\\ Rs.$\r\n∴ Their average expenditure $latex = \\\\frac{240}{3} = 80\\\\ Rs.&s=1$\r\nHence option [B] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T22:36:52.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "b46d4607-d310-45f5-ad39-1e5f6a9a62d3",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The in-radius of an equilateral traingle is of length 3 cm. Then the length of each of its medians is :",
+  "option1": "4 cm",
+  "option2": "9 cm",
+  "option3": "9.5 cm",
+  "option4": "12 cm",
+  "option5": "",
+  "answer": "9 cm",
+  "explanation": "<img class=\\\"alignright\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/06/For-question-No.-1.gif\\\" width=\\\"141\\\" height=\\\"154\\\" />In the equilateral triangle centroid, incentre, orthocentre, coincide at the same point.\r\n∴ Height $latex \\\\div$ 3 = in radius\r\n∴ Height = Median = 3$latex \\\\times$3 = 9 cm\r\nHence option [B] is the right answer."
+}

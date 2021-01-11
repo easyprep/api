@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:35:12.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "f0d62fd5-d1e0-429c-8961-0e112e82ff70",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Let the least number of six digit which when divided by 4, 6, 10 and 15 leaves in each case same remainder 2 be N. The sum of digit in N is :",
+  "option1": 3,
+  "option2": 4,
+  "option3": 5,
+  "option4": 6,
+  "option5": "",
+  "answer": 5,
+  "explanation": "LCM of 4, 6, 10, 15 = 60\r\nLeast number of 6 digits = 100000\r\nThe leats number of 6 digits which is exactly divisible by 60 = 100000 + (60 - 40) = 100020\r\n∴ Required Number = 100020 + 2 = 100022\r\nHence, the sum of digits = 1 + 0 + 0 + 0 + 2 + 2 = 5\r\nHence option [C] is correct answer."
+}

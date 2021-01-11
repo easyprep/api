@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T20:54:37.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "ca1e9f73-20de-4df3-b679-02a051e3113e",
+  "labels": "current-affairs,2018-03-25",
+  "question": "When a natural number x is divided by 9235, then we get the quotient 888 and the remainder 222, so the value of x is ____?",
+  "option1": 820090,
+  "option2": 8200920,
+  "option3": 8200680,
+  "option4": 8200902,
+  "option5": "",
+  "answer": 8200902,
+  "explanation": "Because we know that : Dividend = Divisior * Quotient + Remainder Let Dividend is x, then to this above expression </br>=> x = 9235 * 888 + 222 </br>=> x = 8200680 + 222 </br>=> x = 8200902 </br>Hence option (d) is correct answer."
+}

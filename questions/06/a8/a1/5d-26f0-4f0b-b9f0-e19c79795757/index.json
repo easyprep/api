@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T16:47:08.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "06a8a15d-26f0-4f0b-b9f0-e19c79795757",
+  "labels": "current-affairs,2018-03-25",
+  "question": "If a * b = 2 (a + b), then 5 * 2 is equal to :",
+  "option1": 20,
+  "option2": 3,
+  "option3": 10,
+  "option4": 14,
+  "option5": "",
+  "answer": 14,
+  "explanation": "Given that \r\n$latex a * b = 2 (a + b)$\r\n$latex \\\\therefore 5 * 2 = 2 (5 + 2)$\r\n$latex = 2\\\\times 7 = 14$\r\nHence option [D] is the rigth answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T22:26:56.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "3e6b9176-c8c4-4460-9eca-8d70ca36b7ec",
+  "labels": "current-affairs,2018-03-25",
+  "question": "What will be the correct value of x+y, if a number 653xy is perfectly divisible by 80?",
+  "option1": 2,
+  "option2": 3,
+  "option3": 4,
+  "option4": 6,
+  "option5": "",
+  "answer": 6,
+  "explanation": "Because we know that 80=8*10 or 80=16*5. Now y that is unit digit in number must be zero. Therefore 653xy=653x0, and 653x0 will be definitely divisible by 16 or we can say that 653x is must be divisible by 8. Thus last three digits numbers 53x must be divisible by 8, and at x=6, 53x is  perfectly divisible by 8. So x+y=6+0=0"
+}

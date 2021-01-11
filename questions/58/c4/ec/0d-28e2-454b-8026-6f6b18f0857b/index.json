@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T20:24:54.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "58c4ec0d-28e2-454b-8026-6f6b18f0857b",
+  "labels": "current-affairs,2018-03-26",
+  "question": "For an equilateral triangle, the ratio of the in-radius and the ex-radius is:",
+  "option1": "$latex 1 : 3$",
+  "option2": "$latex 1 : \\sqrt{3}$",
+  "option3": "$latex 1 : \\sqrt{2}$",
+  "option4": "$latex 1 : 2$",
+  "option5": "",
+  "answer": "$latex 1 : 2$",
+  "explanation": "In-radius $latex = \\\\frac{side}{2\\\\sqrt{3}}&s=1$\r\nCircum-radius $latex = \\\\frac{side}{\\\\sqrt{3}}&s=1$\r\n∴ Required ratio $latex = \\\\frac{side}{2\\\\sqrt{3}} : \\\\frac{side}{\\\\sqrt{3}}&s=1$\r\n$latex = \\\\sqrt{3} : 2\\\\sqrt{3} = 1 : 2$\r\nHence option [D] is the right answer."
+}

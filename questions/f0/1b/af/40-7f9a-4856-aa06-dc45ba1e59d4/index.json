@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T18:58:01.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "f01baf40-7f9a-4856-aa06-dc45ba1e59d4",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A single discount equivalent to the successive discounts of 10%, 20% and 25% is",
+  "option1": 0.46,
+  "option2": 0.6,
+  "option3": 0.55,
+  "option4": 0.45,
+  "option5": "",
+  "answer": 0.46,
+  "explanation": "Single of discount for successive discounts 10% and 20%\r\n$latex = \\\\left ( 20+10-\\\\frac{20\\\\times 10}{100} \\\\right )\\\\% = 28\\\\%&s=1$\r\n∴ Equivalent discount for discounts 28% and 25%\r\n$latex = \\\\left ( 28+25-\\\\frac{28\\\\times 25}{100} \\\\right )\\\\% = 53-7 = 46\\\\%&s=1$\r\nHence option [A] is the right answer."
+}

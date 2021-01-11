@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:07:35.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "25293266-10f4-4fbb-ae3b-4b2010789c1c",
+  "labels": "current-affairs,2018-03-27",
+  "question": "LCM of two numbers is 2079 and their HCF is 27. If one of the number is 189, the other number is :",
+  "option1": 189,
+  "option2": 216,
+  "option3": 297,
+  "option4": 584,
+  "option5": "",
+  "answer": 297,
+  "explanation": "$latex \\\\because Second\\\\ Number = \\\\frac{HCF\\\\times LCM}{First\\\\ Number}&s=1$\r\n$latex = \\\\frac{27\\\\times 2079}{189} = 297&s=1$\r\nHence option [C] is correct answer."
+}

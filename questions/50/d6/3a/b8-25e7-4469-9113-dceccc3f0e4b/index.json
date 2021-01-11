@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T17:42:52.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "50d63ab8-25e7-4469-9113-dceccc3f0e4b",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The mean of 9 observations is 16. One more observation is included and the new mean becomes 17. The 10th observation is :",
+  "option1": 9,
+  "option2": 16,
+  "option3": 26,
+  "option4": 30,
+  "option5": "",
+  "answer": 26,
+  "explanation": "Mean of ten observations - Mean if nine observations = Tenth observation\r\n= 10 $latex \\\\times$ 17 - 16 $latex \\\\times$ 9\r\n= 170 - 144 = 26\r\nHence option [C] is correct answer."
+}

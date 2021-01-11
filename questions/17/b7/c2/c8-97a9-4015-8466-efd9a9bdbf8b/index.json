@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:04:38.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "17b7c2c8-97a9-4015-8466-efd9a9bdbf8b",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF of two numbers is 8. Which one of the following can never be their LCM?",
+  "option1": 24,
+  "option2": 48,
+  "option3": 56,
+  "option4": 60,
+  "option5": "",
+  "answer": 60,
+  "explanation": "HCF of two numbers is 8. \r\nThis means 8 is a factor common to both the numbers. \r\nLCM is common multiple for the two numbers. \r\nSo, the required answer is 60, Hence option [D] is correct answer"
+}

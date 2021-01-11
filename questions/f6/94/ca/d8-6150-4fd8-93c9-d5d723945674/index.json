@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:37:24.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "f694cad8-6150-4fd8-93c9-d5d723945674",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average weight of five persons sitting in a boat is 38 kg. The average weight of the boat and the persons sitting in the boat is 52 kg. What is the weight of the boat?",
+  "option1": "242 kg",
+  "option2": "232 kg",
+  "option3": "122 kg",
+  "option4": "228 kg",
+  "option5": "",
+  "answer": "122 kg",
+  "explanation": "Weight of the boat =\r\n$latex = 6\\\\times 52 - 5\\\\times 38$\r\n$latex = 312 - 190 = 122 kg$\r\nHence option [C] is the right answer."
+}

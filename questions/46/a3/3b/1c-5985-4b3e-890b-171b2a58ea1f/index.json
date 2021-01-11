@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T20:40:20.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "46a33b1c-5985-4b3e-890b-171b2a58ea1f",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The age of A, B and C is 32 years, 36 years and 46 years. What is the average age of A, B and C:",
+  "option1": 35,
+  "option2": 32,
+  "option3": 36,
+  "option4": 38,
+  "option5": "",
+  "answer": 38,
+  "explanation": "The sum of age of A, B and C = 32 + 36 + 46 = 114 years\r\nHence The average age is 114 $latex \\\\div$ 3 = 38 years. \r\n∴ Option (d) is correct."
+}

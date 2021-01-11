@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T00:17:49.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "493e6420-6b43-4377-ba7b-0f55653bf6bd",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A boatman rows 1 km in 5 minutes, along the stream and 6 km in 1 hour against the stream. The speed of the strean is :",
+  "option1": "12 km/hr",
+  "option2": "10 km/hr",
+  "option3": "6 km/hr",
+  "option4": "3 km/hr",
+  "option5": "",
+  "answer": "3 km/hr",
+  "explanation": "Speed of current = $latex \\\\frac{Rate Downstream - Rate Upstream }{2}&s=1$\r\n$latex =>\\\\frac{1}{2}\\\\left ( 12-6 \\\\right )&s=1$\r\n$latex =>\\\\frac{1}{2}\\\\times 6=3 km/hr&s=1$\r\nHence option [D] is the right answer."
+}

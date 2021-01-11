@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:13:50.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "1dcb5f87-64c1-42dc-90dd-efac3cf4c0d1",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The principal, which will amount to Rs. 270.40 in 2 years at the rate of 4% per annum compound interest, is",
+  "option1": "Rs. 220",
+  "option2": "Rs. 250",
+  "option3": "Rs. 225",
+  "option4": "Rs. 200",
+  "option5": "",
+  "answer": "Rs. 250",
+  "explanation": "Let the principal be Rs.P. \r\n$latex \\\\therefore 270.40=P\\\\left ( 1+\\\\frac{4}{100} \\\\right )^{2}&s=1$\r\n$latex =>270.40=P\\\\left ( 1+0.04 \\\\right )^{2}&s=1$\r\n$latex =>P=\\\\frac{270.40}{1.04\\\\times 1.04}=Rs. 250&s=1$\r\nHence option [B] is the right answer."
+}

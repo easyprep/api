@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T20:19:26.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "022c02da-648b-49dc-ae63-812b447d76f7",
+  "labels": "current-affairs,2018-03-26",
+  "question": "If △ABC is an isosceles triangles with ∠C = = 90° and AC = 5 cm, then AB is:",
+  "option1": "$latex 5\\sqrt{2}cm$",
+  "option2": "$latex 2.5 cm$",
+  "option3": "$latex 5 cm$",
+  "option4": "$latex 10 cm$",
+  "option5": "",
+  "answer": "$latex 5\\sqrt{2}cm$",
+  "explanation": "<img class=\\\"\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/07/Que.-1.gif\\\" width=\\\"159\\\" height=\\\"153\\\" />\r\nAC = BC = 5 cm\r\n∴ AB $latex =\\\\sqrt{AC^{2}+BC^{2}}$\r\n$latex = \\\\sqrt{5^{2}+5^{2}} = \\\\sqrt{50} = 5\\\\sqrt{2} cm$\r\nHence option [A] is the right answer."
+}

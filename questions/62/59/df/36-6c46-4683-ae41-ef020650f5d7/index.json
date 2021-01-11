@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T17:17:12.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "6259df36-6c46-4683-ae41-ef020650f5d7",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The difference between a discount of 40% on 500 Rs. and two successive discounts of 30% and 10% on the same amount is :",
+  "option1": "0 Rs.",
+  "option2": "10 Rs.",
+  "option3": "15 Rs.",
+  "option4": "20 Rs.",
+  "option5": "",
+  "answer": "15 Rs.",
+  "explanation": "Single equivalent discount of two consecutive discount of 30%  and 10%.\r\n$latex = 30+10-\\\\frac{30\\\\times 10}{100} = 37\\\\%&s=1$\r\n∴ Required difference  = 40% of 500 - 37% of 500\r\n$latex = 500\\\\times \\\\frac{3}{100} = 15\\\\ Rs.&s=1$\r\nHence option [C] is correct answer."
+}

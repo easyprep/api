@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:20:45.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "94dd2670-310e-4e6e-96a5-cc36fb71e3ff",
+  "labels": "current-affairs,2018-03-25",
+  "question": "There are two groups A and B of a class, consisting of 42 and 28 students respectively. If the average weight of group A is 25 kg and that of group B is 40 kg, find the average weight of whole class?",
+  "option1": "30 kg",
+  "option2": "31 kg",
+  "option3": "42 kg",
+  "option4": "45 kg",
+  "option5": "",
+  "answer": "31 kg",
+  "explanation": "Average weight of both groups = \r\n$latex = \\\\frac{42\\\\times25 + 28\\\\times 40}{42+28}&s=1$\r\n$latex = \\\\frac{1050 + 1120}{70} = \\\\frac{2170}{70} = 31 kg.&s=1$\r\nHence option [B] is correct answer."
+}

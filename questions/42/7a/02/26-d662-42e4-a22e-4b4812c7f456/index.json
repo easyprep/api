@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:29:08.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "427a0226-d662-42e4-a22e-4b4812c7f456",
+  "labels": "current-affairs,2018-03-26",
+  "question": "If the rate of interest be 4% per annum for first year, 5% per annum for second year and 6% per annum for third year, then the compound interest of 10000 Rs. for 3 years will be :",
+  "option1": "1575.20 Rs.",
+  "option2": "1600 Rs",
+  "option3": "1625 Rs",
+  "option4": "2000 Rs",
+  "option5": "",
+  "answer": "1575.20 Rs.",
+  "explanation": "Amount = \r\n$latex = P\\\\left ( 1+\\\\frac{R_{1}}{100} \\\\right )\\\\left ( 1+\\\\frac{R_{2}}{100} \\\\right )\\\\left ( 1+\\\\frac{R_{3}}{100} \\\\right )&s=1$\r\n$latex = 10000\\\\left ( 1+\\\\frac{4}{100} \\\\right )\\\\left ( 1+\\\\frac{5}{100} \\\\right )\\\\left ( 1+\\\\frac{6}{100} \\\\right )&s=1$\r\n$latex = 10000\\\\times \\\\frac{26}{25}\\\\times \\\\frac{21}{20}\\\\times \\\\frac{53}{50}&s=1$\r\n$latex A = 11575.2Rs.$\r\n$latex \\\\therefore C.I. = \\\\left ( 11575.2-10000 \\\\right ) = 1575.2Rs.$\r\nHence option [A] is correct answer."
+}

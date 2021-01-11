@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T23:51:35.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "84db51c9-976c-4d50-81d0-9fef4b427166",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Speed of a boat along and against the current are 12 km/hr and 8 km/hr respectively. Then the speed of the current in km/hr is :",
+  "option1": 2,
+  "option2": 3,
+  "option3": 4,
+  "option4": 5,
+  "option5": "",
+  "answer": 2,
+  "explanation": "Speed of current $latex = \\\\frac{1}{2}(Rate downstream - Rate Upstream)&s=1$\r\n$latex = \\\\frac{1}{2}(12-8) = 2 km/hr&s=1$\r\nHence option [A] is correct answer."
+}

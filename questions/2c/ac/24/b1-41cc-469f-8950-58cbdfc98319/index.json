@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T22:29:31.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "2cac24b1-41cc-469f-8950-58cbdfc98319",
+  "labels": "current-affairs,2018-03-26",
+  "question": "If in a triangle, the circumcentre, incentre, centroid and orthocentre coincide, then the triangle is :",
+  "option1": "Rigth angled",
+  "option2": "Equilateral",
+  "option3": "Isosceles",
+  "option4": "Acute angled",
+  "option5": "",
+  "answer": "Equilateral",
+  "explanation": "In an equilateral triangle, centroid, incentre etc lie at the same point.\r\nHence option [C] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:28:57.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "4f54d07e-069f-49f7-89cf-3795ec35b877",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF and LCM of two numbers is 18 and 378 respectively. If one of the number is 54, then the other number is",
+  "option1": 144,
+  "option2": 196,
+  "option3": 126,
+  "option4": 236,
+  "option5": "",
+  "answer": 126,
+  "explanation": "Second Number $latex =\\\\frac{HCF\\\\times LCM}{First Number }&s=1$\r\n$latex =\\\\frac{18\\\\times 378}{54} = 126&s=1$\r\nHence option [C] is the right answer."
+}

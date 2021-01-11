@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:29:01.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "9e663229-0f95-48ac-a7be-5730eadd99c6",
+  "labels": "current-affairs,2018-03-25",
+  "question": "A library has an average number of 510 visitor on Sunday and 240 on other days. The average number of visitors per day in a month of 30 days beginning with Sunday is :",
+  "option1": 285,
+  "option2": 290,
+  "option3": 295,
+  "option4": 300,
+  "option5": "",
+  "answer": 285,
+  "explanation": "That month will have 5 sundays. \r\n∴ Required average = \r\n$latex = \\\\frac{5 \\\\times 510 + 25 \\\\times 240}{30}&s=1$\r\n$latex = \\\\frac{2550+6000}{30}&s=1$\r\n$latex = \\\\frac{8550}{30} = 285&s=1$\r\nHence option [A] is correct answer."
+}

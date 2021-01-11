@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T19:37:46.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "55651b65-e5ac-4405-acc3-823771adfedf",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The marked price of a watch is 1000 Rs. If a retailer buys this watch at 810 Rs. after getting two successive discounts of 10% and another rate which is illegible. What should be the second discount rate?",
+  "option1": 0.075,
+  "option2": 0.1,
+  "option3": 0.08,
+  "option4": 0.12,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "Price after 10% first discount = $latex 1000\\\\times \\\\frac{100-10}{100}&s=1$\r\n$latex => 1000\\\\times \\\\frac{90}{100} = 900 Rs.&s=1$\r\nPrice after second discount = 810 Rs.  (Given)\r\n∴ Second discount = 900 - 810 = 90 Rs. \r\n∴ Percentage of second discount = $latex \\\\frac{90\\\\times 100}{900} = 10\\\\%&s=1$\r\nHence option [B] is the right answer."
+}

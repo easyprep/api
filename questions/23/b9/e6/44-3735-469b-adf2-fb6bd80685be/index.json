@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T21:13:43.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "23b9e644-3735-469b-adf2-fb6bd80685be",
+  "labels": "current-affairs,2018-03-26",
+  "question": "ABC is an equilateral triangle and CD is the internal bisector of ∠C. If DC is produced to E such that AC = CE, then ∠CAE is equal to :",
+  "option1": "15°",
+  "option2": "45°",
+  "option3": "30°",
+  "option4": "60°",
+  "option5": "",
+  "answer": "15°",
+  "explanation": "<img class=\\\"alignright\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/06/Question-no.-12.gif\\\" />∠BCD = ∠DCA = 30°\r\n∠DCE = 180°\r\n∴ ∠ACE = 180° - 30° = 150°\r\nAC = CE\r\n∴ ∠CAE = ∠CEA = $latex \\\\frac{30^{\\\\circ}}{2}&s=1$ $latex = 15^{\\\\circ}$\r\nHence option [A] is the right answer."
+}

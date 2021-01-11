@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T14:18:27.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "ed0f7cd7-d80e-487f-896c-ed499e4fe704",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A sum of 3200 Rs. invested at 10% per annum compounded quarterly amounts to 3362 Rs. Compute the time period.",
+  "option1": "$latex \\frac{1}{2}\\ year&s=1$",
+  "option2": "$latex \\frac{3}{4}\\ year&s=1$",
+  "option3": "$latex 1\\ years$",
+  "option4": "$latex 2\\ years$",
+  "option5": "",
+  "answer": "$latex \\frac{1}{2}\\ year&s=1$",
+  "explanation": "$latex A = P \\\\left ( 1+\\\\frac{R}{100} \\\\right )^{T}&s=1$\r\n$latex => \\\\frac{3362}{3200} = \\\\left ( 1+\\\\frac{10}{400} \\\\right )^{4t}&s=1$\r\n$latex => \\\\frac{1681}{1600} = \\\\left ( \\\\frac{41}{40} \\\\right )^{4t}&s=1$\r\n$latex => \\\\left ( \\\\frac{41}{40} \\\\right )^{2} = \\\\left ( \\\\frac{41}{40} \\\\right )^{4t}&s=1$\r\n$latex => 4t = 2,\\\\ t = \\\\frac{1}{2}\\\\ year&s=1$\r\nHence option [A] is correct answer."
+}

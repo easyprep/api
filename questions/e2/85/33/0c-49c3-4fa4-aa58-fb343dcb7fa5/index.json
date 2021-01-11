@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T17:19:44.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "e285330c-49c3-4fa4-aa58-fb343dcb7fa5",
+  "labels": "current-affairs,2018-03-25",
+  "question": "There are 100 students in 3 sections A, B and C of a class. The average marks of all the three sections was 84. The average of B and C was 87.5 and the average marks of students in A section was :",
+  "option1": 20,
+  "option2": 25,
+  "option3": 30,
+  "option4": 35,
+  "option5": "",
+  "answer": 20,
+  "explanation": "Numbers of students in section A = x\r\n∴ Numbers of students in section B and C = (100 - x)\r\n∴ x $latex \\\\times$ 70 + (100 - x) $latex \\\\times$ 87.5 = 84 $latex \\\\times$ 100\r\n=> 70x + 87.5 $latex \\\\times$ 100 - 87.5x = 8400\r\n=> 8750 - 17.5x = 8400\r\n=> 17.5x = 8750 - 8400\r\n$latex => x = \\\\frac{350}{17.5} = 20&s=1$\r\nHence option [A] is correct answer."
+}

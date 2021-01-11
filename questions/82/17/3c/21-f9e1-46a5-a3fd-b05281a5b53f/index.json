@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T20:02:28.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "82173c21-f9e1-46a5-a3fd-b05281a5b53f",
+  "labels": "current-affairs,2018-03-25",
+  "question": "If the average temprature of Monday, Tuesday and Wednesday was 40° c and that Tuesday, Wednesday and thrusday was 41° c, if the temprature of thrusday is 38° c, then what was the temprature on Monday?",
+  "option1": "28° c",
+  "option2": "35° c",
+  "option3": "42° c",
+  "option4": "48° c",
+  "option5": "",
+  "answer": "35° c",
+  "explanation": "The sum of temprature of (M+T+W) = 40 $latex \\\\times$ 3 = 120° c. ……(1)\r\nThe sum of temprature of (T+W+Th) = 41 $latex \\\\times$ 3 = 123° c. …(2)\r\nand given that Thrusdau temprature is 38° c ………………(3)\r\nTo substract the equation (3) into (2): (T+W) = 123 - 38 = 85° c\r\nHence monday\\'s temprature is 120 - 85 = 35° c"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T17:32:23.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "9cd4ab73-e7de-45f1-96f1-05ac4d6dd434",
+  "labels": "current-affairs,2018-03-26",
+  "question": "An article is listed at 900 Rs. and two successive discounts of 8% and 8% are given on it. How much would the seller gain or lose, if he gives a single discount of 16%, instead of two discounts?",
+  "option1": "Gain of 4.76 Rs.",
+  "option2": "Gain of 5.76 Rs.",
+  "option3": "Loss of 4.76 Rs",
+  "option4": "Loss of 5.76 Rs",
+  "option5": "",
+  "answer": "Loss of 5.76 Rs",
+  "explanation": "Equivalent discount for two successive discounts of 8% and 8%\r\n$latex = \\\\left ( 8+8-\\\\frac{8\\\\times 8}{100} \\\\right )\\\\%&s=1$\r\n$latex = \\\\left ( 16-0.64 \\\\right )\\\\% = 15.36\\\\%$\r\n∴ SP = (100 - 15.36)% of 900\r\n$latex = \\\\left ( \\\\frac{84.60\\\\times 900}{100} \\\\right ) = 761.76\\\\ Rs.&s=1$\r\nFor a single discount of 16%, SP = 84% of 900\r\n$latex = \\\\left ( \\\\frac{84\\\\times 900}{100} \\\\right ) = 756\\\\ Rs.&s=1$\r\nCertainly seller will lose in this case. \r\n∴ Lose = (761.76 - 756) = 5.76 Rs.\r\nHence option [D] is correct answer."
+}

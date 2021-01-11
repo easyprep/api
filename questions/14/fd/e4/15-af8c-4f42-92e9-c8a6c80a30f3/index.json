@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T19:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "14fde415-af8c-4f42-92e9-c8a6c80a30f3",
+  "labels": "current-affairs,2018-03-26",
+  "question": "Successive discount of 10% and 20% are equivalent to a single discount of :",
+  "option1": 0.12,
+  "option2": 0.28,
+  "option3": 0.3,
+  "option4": 0.15,
+  "option5": "",
+  "answer": 0.28,
+  "explanation": "Successive discount of x% and y% = $latex \\\\left ( x+y-\\\\frac{x\\\\times y}{100} \\\\right )&s=1$%\r\n∴ Required discount = $latex \\\\left ( 20+10-\\\\frac{20\\\\times 10}{100} \\\\right )&s=1$%\r\n$latex =>30-2=28$%\r\nHence option [B] is the right answer."
+}

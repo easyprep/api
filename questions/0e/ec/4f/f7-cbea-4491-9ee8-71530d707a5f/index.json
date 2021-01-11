@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T17:06:21.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "0eec4ff7-cbea-4491-9ee8-71530d707a5f",
+  "labels": "current-affairs,2018-03-26",
+  "question": "An article listed at 800 Rs. is sold at successive discounts of 25% and 15%. The buyer desires to sell it off at a profit of 20% after allowing a 10% discount. What would be his list price?",
+  "option1": "600 Rs.",
+  "option2": "620 Rs.",
+  "option3": "640 Rs.",
+  "option4": "680 Rs",
+  "option5": "",
+  "answer": "680 Rs",
+  "explanation": "Effective discount\r\n$latex = 25+15-\\\\frac{25\\\\times 15}{100}&s=1$\r\n$latex = 40-3.75 = 36.25\\\\%$\r\n∴ CP = (100 - 36.25)% of 800\r\n$latex = \\\\frac{63.75\\\\times 800}{100} = 510\\\\ Rs.&s=1$\r\n∴ To gain 20%, \r\n$latex SP = \\\\left ( \\\\frac{120\\\\times 510}{100} \\\\right ) = 612\\\\ Rs.&s=1$\r\nLet the list price be x Rs. \r\n∴ 90% of x = 612 Rs. \r\n$latex => \\\\frac{90x}{100} = 612&s=1$\r\n$latex x = \\\\frac{61200}{90} = 680\\\\ Rs.&s=1$\r\nHence option [D] is correct answer"
+}

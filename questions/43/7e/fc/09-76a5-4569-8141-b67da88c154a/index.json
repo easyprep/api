@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T22:24:40.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "437efc09-76a5-4569-8141-b67da88c154a",
+  "labels": "current-affairs,2018-03-26",
+  "question": "If ABC is an equilateral triangle and D is a point on BC such that AD ⊥ BC, then :",
+  "option1": "AB : BD = 2 : 1",
+  "option2": "AB : BD = 1 : 2",
+  "option3": "AB : BD = 1 : 1",
+  "option4": "AB : BD = 3 : 2",
+  "option5": "",
+  "answer": "AB : BD = 2 : 1",
+  "explanation": "<img class=\\\"alignright\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/06/For-question-No.-5.gif\\\" width=\\\"159\\\" height=\\\"159\\\" />Let AB = 2x units\r\n=&gt; BD=DC = x units\r\n∴ AB : BD = 2 : 1\r\nHence option [A] is the right answer."
+}

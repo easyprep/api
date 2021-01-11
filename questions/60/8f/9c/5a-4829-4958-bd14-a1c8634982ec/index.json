@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:33:29.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "608f9c5a-4829-4958-bd14-a1c8634982ec",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average marks of 32 boys of the section A of class 10th is 60 whereas the average marks of 40 boys of section B of class 10th is 33. The average marks for both the sections combined together is:",
+  "option1": "$latex 44$",
+  "option2": "$latex 45\\frac{1}{2}&s=1$",
+  "option3": "$latex 45$",
+  "option4": "$latex 46\\frac{1}{2}&s=1$",
+  "option5": "",
+  "answer": "$latex 45$",
+  "explanation": "Required average $latex = \\\\frac{32\\\\times 60 + 33\\\\times 40}{72}&s=1$\r\n$latex = \\\\frac{1920+1320}{72} = \\\\frac{3240}{72} = 45&s=1$\r\nHence option [C] is the right answer."
+}

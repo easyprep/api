@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:27:58.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "d538abb4-b0ae-411d-a023-c1a0908e085d",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF and product of two numbers are 15 and 6300 respectively. The number of possible pairs of the number is :",
+  "option1": 3,
+  "option2": 1,
+  "option3": 4,
+  "option4": 2,
+  "option5": "",
+  "answer": 2,
+  "explanation": "Let the number be 15x and 15y, where x and y are co-prime. \r\nSince 15x $latex \\\\times $15y = 6300\r\n$latex => xy = \\\\frac{6300}{15\\\\times 15} = 28&s=1$\r\nSo, two pairs are (7, 4) and (14, 2)\r\nHence the right option is [D]"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:55:49.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "9d4ec068-b298-4f4c-bd16-979e9c1bbf78",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF of two numbers is 23 and the other two factors of their LCM are 13 and 14. The larger of the two numbers is :",
+  "option1": 276,
+  "option2": 299,
+  "option3": 322,
+  "option4": 345,
+  "option5": "",
+  "answer": 322,
+  "explanation": "Let the numbers be 23x and 23y where x and y are co-prime to each other. \r\n∴ LCM = 23xy\r\nAs given, \r\n23xy = 23 $latex \\\\times$ 13 $latex \\\\times$ 14\r\n∴ x = 13, y = 14\r\n∴ The larger number = 23y = 23 $latex \\\\times$ 14 = 322\r\nHence option [C] is correct answer."
+}

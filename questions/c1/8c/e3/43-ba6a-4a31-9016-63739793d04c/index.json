@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:42:17.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "c18ce343-ba6a-4a31-9016-63739793d04c",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average income of 40 persons is 4200 Rs. and that of an other 35 persons is 4000 Rs. The average income of the whole group is :",
+  "option1": "$latex 4108 \\frac{1}{3}Rs.&s=1$",
+  "option2": "$latex 4106 \\frac{2}{3}Rs.&s=1$",
+  "option3": "$latex 4100 Rs.$",
+  "option4": "$latex 4106 \\frac{1}{3}Rs.&s=1$",
+  "option5": "",
+  "answer": "$latex 4106 \\frac{2}{3}Rs.&s=1$",
+  "explanation": "Average income of whole group =\r\n$latex = \\\\frac{4200\\\\times 40+4000\\\\times 35}{75}&s=1$\r\n$latex = \\\\frac{168000+140000}{75}&s=1$\r\n$latex = \\\\frac{308000}{75} = 4106\\\\frac{2}{3}Rs.&s=1$\r\nHence option [B] is the right answer."
+}

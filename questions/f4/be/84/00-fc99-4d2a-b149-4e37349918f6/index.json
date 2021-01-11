@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T13:18:29.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "f4be8400-fc99-4d2a-b149-4e37349918f6",
+  "labels": "current-affairs,2018-03-26",
+  "question": "In what time 8000 Rs. will amount to 9261 Rs. at 10% per annum compound interest, when the interest is compounded half yearly?",
+  "option1": "1.5 years",
+  "option2": "2 years",
+  "option3": "2.5 years",
+  "option4": "3 years",
+  "option5": "",
+  "answer": "1.5 years",
+  "explanation": "Interest is compounded half yearly. \r\n∴ Rate of interest = 5%\r\n$latex Time = \\\\frac{n}{2}\\\\ years&s=1$\r\n$latex \\\\because A = P(1 + \\\\frac{R}{100})^{T}&s=1$\r\n$latex => 9261 = 8000 (1 + \\\\frac{5}{100})^{n}&s=1$\r\n$latex => \\\\frac{9261}{8000} = (\\\\frac{21}{20})^{n}&s=1$\r\n$latex => (\\\\frac{21}{20})^{3} = (\\\\frac{21}{20})^{n}&s=1$\r\n$latex => n = 3\\\\ half\\\\ years$\r\n$latex = \\\\frac{3}{2}\\\\ years = 1\\\\frac{1}{2}\\\\ years&s=1$\r\nHence option [A] is correct answer."
+}

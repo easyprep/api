@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T19:12:43.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "7f32dc75-4b5b-4d35-93df-a8883eaef244",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of x numbers is y and average of y numbers is x. Then the average of all the numbers taken together is:",
+  "option1": "$latex \\frac{xy}{x+y}&s=1$",
+  "option2": "$latex \\frac{x+y}{2xy}&s=1$",
+  "option3": "$latex \\frac{x^{2}+y^{2}}{x+y}&s=1$",
+  "option4": "$latex \\frac{2xy}{x+y}&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{2xy}{x+y}&s=1$",
+  "explanation": "Sum of x numbers = xy\r\nSum of y numbers = xy\r\n∴ Required Average $latex = \\\\frac{xy+xy}{x+y} = \\\\frac{2xy}{x+y}&s=1$\r\nHence option [D] is the right answer"
+}

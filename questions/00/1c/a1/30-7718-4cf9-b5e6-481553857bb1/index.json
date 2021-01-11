@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:11:44.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "001ca130-7718-4cf9-b5e6-481553857bb1",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The product of two numbers is 2160 and their HCF is 12. Number of such possible pairs is :",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 2,
+  "explanation": "HCF = 12\r\nNumbers = 12x and 12y \r\nwhere x and y are prime to each other\r\n$latex \\\\therefore 12x \\\\times 12y = 2160$\r\n$latex => xy = \\\\frac{2160}{12\\\\times 12} = 15&s=1$\r\n$latex \\\\because  15 = 3\\\\times 5,\\\\  1\\\\times 15$\r\nPossible pairs = (36, 60) and (12, 80)\r\nHence option [B] is correct answer."
+}

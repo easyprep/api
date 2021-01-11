@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T18:05:07.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "38c7ba10-5f1c-4771-8b81-1311b1bc6138",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A shopkeeper allows three types of successive discounts as\r\n(i) 35% and 5%, (ii) 30% and 10%, (iii) 25% and 15%\r\nWhich discount is the best for a purchaser?",
+  "option1": "First",
+  "option2": "Second",
+  "option3": "Third",
+  "option4": "All are equal",
+  "option5": "",
+  "answer": "First",
+  "explanation": "(i) Equivalent discount\r\n$latex = \\\\left ( 35+5-\\\\frac{35\\\\times 5}{100} \\\\right )\\\\%&s=1$\r\n$latex = 40-1.75 = 38.25%$\r\n(ii) Equivalent discount\r\n$latex = \\\\left ( 30+10-\\\\frac{30\\\\times 10}{100} \\\\right )\\\\%&s=1$\r\n$latex = 40-3 = 37%$\r\n(iii) Equivalent discount\r\n$latex = \\\\left ( 25+15-\\\\frac{25\\\\times 15}{100} \\\\right )\\\\%&s=1$\r\n$latex = 40-3.75 = 36.25%$\r\nNow we can easily say that first discount is best.\r\nHence option [A] is our answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:04:19.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "9b09957e-3fe4-4769-9c86-17e31a261fc9",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and that of B and C be 43 kg, Then the weight of B is :",
+  "option1": "17 kg",
+  "option2": "20 kg",
+  "option3": "25 kg",
+  "option4": "31 kg",
+  "option5": "",
+  "answer": "31 kg",
+  "explanation": "Weight of B = (A + B)\\'s weight + (B + C)\\'s weight - (A + B + C)\\'s weight\r\n= 40 $latex \\\\times$ 2 + 43 $latex \\\\times$ 2 - 45 $latex \\\\times$ 3\r\n= 80 + 86 - 135 = 31 kg.\r\nHence option [D] is correct answer."
+}

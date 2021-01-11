@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T23:30:42.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "da9505ae-d58d-450a-bd34-a11e54070cdd",
+  "labels": "current-affairs,2018-03-25",
+  "question": "A boat goes 12 km downstream and comes back to the starting point in 3 hours. If the speed of the current is 3 km/hr, then the speed (in km/hr) of the boat in still water is :",
+  "option1": 6,
+  "option2": 8,
+  "option3": 9,
+  "option4": 12,
+  "option5": "",
+  "answer": 9,
+  "explanation": "Let the speed of boat in still water be x km/hr then, \r\n$latex \\\\frac{12}{x+3}+\\\\frac{12}{x-3} = 3&s=1$\r\n$latex => 12\\\\left ( \\\\frac{x-3+x+3}{(x+3)(x-3)} \\\\right ) = 3&s=1$\r\n$latex => 4\\\\times 2x = x^{2}-9$\r\n$latex => x^{2}-8x-9 = 0$\r\n$latex => x^{2}-9x+x-9 = 0$\r\n$latex => x(x-9)+1(x-9) = 0$\r\n$latex => (x-9)(x+1) = 0$\r\n$latex => x = 9, x\\\\neq -1.$ Because speed cannot be negative.\r\nHence speed of boat in still water is 9 km/hr.\r\nHence option [C] is correct answer."
+}

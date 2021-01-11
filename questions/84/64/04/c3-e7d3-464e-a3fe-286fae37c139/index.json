@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T18:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "846404c3-e7d3-464e-a3fe-286fae37c139",
+  "labels": "current-affairs,2018-03-26",
+  "question": "The difference between a single discount of 30% on 550 Rs. and two successive discounts of 20% and 10% on the same amount is :",
+  "option1": "Nill",
+  "option2": "11 Rs.",
+  "option3": "22 Rs.",
+  "option4": "44 Rs.",
+  "option5": "",
+  "answer": "11 Rs.",
+  "explanation": "Case I : A single discount of 30%\r\nCase II : Two successive discounts of 20% and 10%\r\nSingle equivalent discount\r\n$latex = \\\\left ( 20+10-\\\\frac{20\\\\times 10}{100} \\\\right )\\\\%  = 28\\\\%&s=1$\r\nDifference $latex = \\\\left ( 30 - 28 \\\\right )\\\\% = 2\\\\%$\r\n∴ Required Difference = 2% of 550\r\n$latex = \\\\frac{2\\\\times 550}{100} = 11\\\\  Rs.&s=1$\r\nHence option [B] is correct answer."
+}

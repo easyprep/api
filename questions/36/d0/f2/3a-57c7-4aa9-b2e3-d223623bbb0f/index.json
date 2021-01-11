@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:46:29.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "36d0f23a-57c7-4aa9-b2e3-d223623bbb0f",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The least number which when divided by 4, 6, 8, 12 and 16 leaves a remainder of 2 in each case is :",
+  "option1": 46,
+  "option2": 48,
+  "option3": 50,
+  "option4": 56,
+  "option5": "",
+  "answer": 48,
+  "explanation": "Because LCM of 4, 6, 8, 12 and 16 is 48 \r\n∴ Required number = 48 + 2 = 50\r\nHence option [C] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:52:18.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "9d281d2f-0cc8-42c8-88a1-c66b44992dab",
+  "labels": "current-affairs,2018-03-26",
+  "question": "Two successive discounts of 20% and 20% are equivalent to a single discount of :",
+  "option1": 0.34,
+  "option2": 0.36,
+  "option3": 0.4,
+  "option4": 0.42,
+  "option5": "",
+  "answer": 0.36,
+  "explanation": "Single equivalent discount = \r\n$latex = \\\\left ( 20+20-\\\\frac{20\\\\times 20}{100} \\\\right )\\\\% = 36\\\\%&s=1$\r\nHence option [B] is correct answer.<"
+}

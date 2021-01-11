@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:00:45.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "c2c29a48-5275-4a99-b9bf-6a2a6fac4c93",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The LCM of three different numbers is 120. Which of the following cannot be their HCF?",
+  "option1": 8,
+  "option2": 12,
+  "option3": 24,
+  "option4": 35,
+  "option5": "",
+  "answer": 35,
+  "explanation": "LCM = 2 $latex \\\\times$ 2 $latex \\\\times$ 2 $latex \\\\times$ 3 $latex \\\\times$ 5\r\nHence, HCF = 4, 8, 12 or 24\r\nAccording to question, \r\n35 cannot be HCF of 120.\r\nHence option [D] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T13:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "13b498bb-f924-48ba-8dda-353a47a84780",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Which is the least number which when double will be exactly divisible by 12, 18, 21 and 30?",
+  "option1": 196,
+  "option2": 630,
+  "option3": 1260,
+  "option4": 2520,
+  "option5": "",
+  "answer": 630,
+  "explanation": "The LCM of 12, 18, 21, 30 is 1260.\r\n∴ The required Number = \r\n$latex = \\\\frac{1260}{2} = 630&s=1$\r\nHence option [B] is correct answer."
+}

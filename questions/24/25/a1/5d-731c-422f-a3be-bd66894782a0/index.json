@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T20:10:40.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "2425a15d-731c-422f-a3be-bd66894782a0",
+  "labels": "current-affairs,2018-03-25",
+  "question": "There are two sections A and B of a class, consisting of 42 and 52 students respectively. If the average weight of section A is 40 kg and that of section B is 45 kg find the average weight of the whole class.",
+  "option1": 40,
+  "option2": 42.24,
+  "option3": 42,
+  "option4": 42.76,
+  "option5": "",
+  "answer": 42.76,
+  "explanation": "Total weight of (42+52) students = (42 $latex \\\\times$ 40 + 52 $latex \\\\times$ 45) = 1680 + 2340 = 4020\r\nAverage weight of the whole class =  $latex \\\\frac{4020}{94}&s=1$$latex = 42.76 kg$\r\nOption (d) is the correct answer."
+}

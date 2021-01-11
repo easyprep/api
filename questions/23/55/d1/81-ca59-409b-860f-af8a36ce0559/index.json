@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T15:35:17.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "2355d181-ca59-409b-860f-af8a36ce0559",
+  "labels": "current-affairs,2018-03-26",
+  "question": "At what rate per annum will 32000 Rs. yield a compound interest of 5044 Rs. in 9 months interest being compounded quarterly ?",
+  "option1": 0.2,
+  "option2": 0.32,
+  "option3": 0.5,
+  "option4": 0.8,
+  "option5": "",
+  "answer": 0.2,
+  "explanation": "Let the rate of CI be R per cent per annum.\r\n$latex \\\\therefore CI = P\\\\left [ \\\\left ( 1+\\\\frac{R}{100} \\\\right )^{T} - 1 \\\\right ]&s=1$\r\n$latex => 5044 = 32000\\\\left [ \\\\left ( 1+\\\\frac{R}{400} \\\\right )^{3} - 1 \\\\right ]&s=1$\r\n[∵ Interest is compounded quarterly]\r\n$latex => \\\\frac{5044}{32000} = \\\\left ( 1+\\\\frac{R}{400} \\\\right )^{3} - 1&s=1$\r\n$latex => \\\\left ( 1+\\\\frac{R}{400} \\\\right )^{3} - 1 = \\\\frac{1261}{8000}&s=1$\r\n$latex => \\\\left ( 1+\\\\frac{R}{400} \\\\right )^{3} = 1+\\\\frac{1261}{8000}&s=1$\r\n$latex => \\\\left ( 1+\\\\frac{R}{400} \\\\right )^{3} = \\\\frac{9261}{8000} = \\\\left ( \\\\frac{21}{20} \\\\right )^{3}&s=1$\r\n$latex => 1+\\\\frac{R}{400} = \\\\frac{21}{20} => \\\\frac{R}{400} = \\\\frac{21}{20}-1&s=1$\r\n$latex => \\\\frac{R}{400} = \\\\frac{1}{20}&s=1$\r\n$latex => R = \\\\frac{400}{20} = 20\\\\%&s=1$\r\nHence option [A] is correct answer."
+}

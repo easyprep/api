@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T18:08:49.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "d023d6d1-6ce1-4b22-beca-0d7a8fe7b0b4",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The average of 30 numbers is 15. The average of the first 18 number is 10 and that of next 11 numbers is 20. The last number is :",
+  "option1": 50,
+  "option2": 52,
+  "option3": 56,
+  "option4": 60,
+  "option5": "",
+  "answer": 50,
+  "explanation": "Let the last number be x. \r\nAccording to the question, \r\n18 $latex \\\\times$ 10 + 11 $latex \\\\times$ 20 + x = 30 $latex \\\\times$ 15\r\n=> 180 + 220 + x = 450\r\n=> 400 + x = 450\r\n=> x = 450 - 400 = 50\r\nHence option [A] is correct answer."
+}

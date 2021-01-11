@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T22:29:05.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "666f99a2-7a08-481f-8778-25bf48d1357b",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Which of the following number is perfectly divisible by 132?",
+  "option1": 31218,
+  "option2": 78520,
+  "option3": 38148,
+  "option4": 52020,
+  "option5": "",
+  "answer": 38148,
+  "explanation": "A number will divisible by 132 if that number is divisible by 3, 4, and 11. (132=3*4*11) First we look at option (a), because it is not divisible by 4 so it can not be correct. Now in option (b) since it is not divisible by 3, so it is also wrong, and again when we check option (c), in option (c)  38148 is perfectly divisible by 3, 4 and 11 also and option (d) is not divisible by 11, so option (c) is our answer."
+}

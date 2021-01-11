@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T16:17:20.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "c0226b3f-0ef3-455e-b63c-23c76eec9b92",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A sum becomes Rs. 1352 in 2 years at 4% per annum compound interest. The sum is :",
+  "option1": "Rs. 1250",
+  "option2": "Rs. 1270",
+  "option3": "Rs. 1245",
+  "option4": "Rs. 1225",
+  "option5": "",
+  "answer": "Rs. 1250",
+  "explanation": "Let the sum be Rs. x \r\n$latex \\\\therefore 1352=x\\\\left ( 1+\\\\frac{4}{100} \\\\right )^{2}&s=1$\r\n$latex =>1352=x\\\\left ( 1+\\\\frac{1}{25} \\\\right )^{2}&s=1$\r\n$latex =>1352=x\\\\left ( \\\\frac{26}{25} \\\\right )^{2}&s=1$\r\n$latex =>x=\\\\frac{1352\\\\times 25\\\\times 25}{26\\\\times 26}&s=2$\r\n$latex =>x=Rs. 1250$\r\nHence option [A] is the right answer."
+}

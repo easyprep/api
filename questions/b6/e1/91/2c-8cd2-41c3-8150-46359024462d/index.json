@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:18:53.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "b6e1912c-8cd2-41c3-8150-46359024462d",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The LCM of two numbers is 4 times their HCF. The sum of LCM and HCF is 125. If one of the number is 100, then the other number is :",
+  "option1": 5,
+  "option2": 25,
+  "option3": 100,
+  "option4": 125,
+  "option5": "",
+  "answer": 25,
+  "explanation": "Let LCM be L and HCF be H, then L = 4H (Given)\r\n$latex \\\\therefore H + 4H = 125$\r\n$latex => 5H = 125$\r\n$latex => H = 25$\r\n$latex \\\\therefore L = 4 \\\\times 25 = 100$\r\n$latex \\\\therefore Second\\\\ Number\\\\ = \\\\frac{L\\\\times H}{First Number}&s=1$\r\n$latex = \\\\frac{100\\\\times 25}{100} = 25&s=1$\r\nHence option [B] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-24T21:29:51.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "a5f8a4fe-e56c-4086-87e0-8ce24e10ce49",
+  "labels": "current-affairs,2018-03-25",
+  "question": "Including both the extreme values (55 and 555), How many numbers are there between from 55 to 555 are divisible by 5?",
+  "option1": 100,
+  "option2": 111,
+  "option3": 101,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 101,
+  "explanation": "The sequence of this series is as follows 55, 60, 65, 70, 75, ……, 545, 550, 555. Now we can easily get the numbers between 55 to 555 which are divisible by 5 are (555-55/5)+1=101, here we  added 1 from outside because in questin it said that both the extreme values are added in our particular series. So option (c) is right answer."
+}

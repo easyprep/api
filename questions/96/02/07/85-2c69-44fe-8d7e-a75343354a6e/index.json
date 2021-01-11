@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-25T00:00:51.000Z",
+  "updated_at": "2021-01-06T08:24:21.596Z",
+  "id": "96020785-2c69-44fe-8d7e-a75343354a6e",
+  "labels": "current-affairs,2018-03-26",
+  "question": "A boy can swim in still water at a speed of 10 km/hr. If the speed of the current would have been 5kmph, then the boy could swim 60 km",
+  "option1": "upstream in 6 hours",
+  "option2": "downstream in 4 hours",
+  "option3": "downstream in 12 hours",
+  "option4": "upstream in 4 hours",
+  "option5": "",
+  "answer": "downstream in 4 hours",
+  "explanation": "Rate downstream = 10 + 5 = 15 kmph\r\nRate upstream = 10 - 5 = 5 kmph\r\nTime taken in swimming 60 km downstream = $latex \\\\frac{60}{15} = 4hours&s=1$\r\nTime taken in swimming 60 km upstream = $latex \\\\frac{60}{5} = 12hours&s=1$\r\nFrom, given options, boy can swim 60km downstream in 4 hrs.\r\nSo option [B] is the right answer."
+}
