@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-06-07T22:39:55.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "a89762ba-cf60-48b7-b754-b46050cdd91a",
+  "labels": "current-affairs,2017-06-08",
+  "question": "What is the current repo rate, as per 2nd bi-monthly monetary policy review for 2017-18 of the Reserve Bank of India (RBI)?",
+  "option1": 0.065,
+  "option2": 0.0675,
+  "option3": 0.0655,
+  "option4": 0.0625,
+  "option5": "",
+  "answer": 0.0625,
+  "explanation": "As per second bi-monthly monetary and credit policy review for 2017-18 of the Reserve Bank of India (RBI), the policy repo rate under the liquidity adjustment facility (LAF) remain unchanged at 6.25%. Consequently, the reverse repo rate under the LAF remains at 6.0%, Cash Reserve Ratio (CRR) remains at 4% and the Marginal Standing Facility (MSF) rate and the Bank Rate at 6.50%.Though, the Central bank has cut the Statutory Liquidity Ratio (SLR) by 0.5%. It has projected inflation in the range of 2% to 3.5% for first half of 2017-18 and 3.5% to 4.5% for the second half. It has also cut the growth projection for current fiscal to 7.3% from 7.4%."
+}

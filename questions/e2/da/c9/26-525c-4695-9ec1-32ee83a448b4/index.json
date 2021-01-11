@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-07T23:40:48.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "e2dac926-525c-4695-9ec1-32ee83a448b4",
+  "labels": "current-affairs,2017-07-08",
+  "question": "Indus OS has partnered with which Indian Bank to launch an OS-integrated UPI payment platform?",
+  "option1": "Dena Bank",
+  "option2": "State Bank of India (SBI)",
+  "option3": "Punjab National Bank (PNB)",
+  "option4": "YES Bank",
+  "option5": "",
+  "answer": "YES Bank",
+  "explanation": "Indus OS, the domestic android-based mobile operating system, has partnered with YES Bank to launch an OS-integrated UPI payment platform in India. Through this partnership, Indian users with Indus OS will be able to use this UPI payment platform on SMS/ messaging, dialler interface and on third party apps like WhatsApp. The platform is expected to launch in this quarter."
+}

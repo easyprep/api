@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-06-05T23:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "0c192f4d-104a-4984-b20a-3af3e650837f",
+  "labels": "current-affairs,2017-06-06",
+  "question": "What is the India's GDP growth rate in 2018, as per latest World Bank's Global Economic Prospects (GEP) report?",
+  "option1": 0.075,
+  "option2": 0.077,
+  "option3": 0.072,
+  "option4": 0.076,
+  "option5": "",
+  "answer": 0.075,
+  "explanation": "The World Bank (WB) in its latest report “Global Economic Prospects (GEP)” has projected India’s GDP growth rate at 7.5% in 2018 and 7.7% in 2019.  As per the report, the World Bank has also projected a strong 7.2% growth rate for India in FY 2017 against 6.8% growth in 2016, as India is recovering from the temporary adverse effects of demonetisation. However, World Bank has maintained its forecast for global growth in 2017 and 2018 unchanged at 2.7% and 2.9% respectively, as manufacturing and trade are picking up and confidence is improving."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-06-04T13:38:37.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "e7afe693-8773-40b9-a796-5241e4ee9851",
+  "labels": "current-affairs,2017-06-05",
+  "question": "The researchers of which IIT institute has developed a wireless technology \"AmbuSens\" to monitor hospital-bound patients?",
+  "option1": "IIT Kharagpur",
+  "option2": "IIT Madras",
+  "option3": "IIT Varanasi",
+  "option4": "IIT Roorkee",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "The researchers at IIT Kharagpur has developed a wireless technology ‘AmbuSens‘ for remote monitoring of patients’ condition ferried in ambulances. The technology will allow doctors to monitor ECG, heart-rate, temperature and blood-pressure of patients moving in ambulances and fitted with wireless sensors. This will help doctors to advise technicians travelling with the patient to deal with the situation.  The web interface of the AmbuSens system provides an easy-to-use graphical interface for doctors and paramedics alike with data visualisation tools such as real-time ECG graph. It can be accessed from internet-enabled laptops, tablets and smartphones."
+}

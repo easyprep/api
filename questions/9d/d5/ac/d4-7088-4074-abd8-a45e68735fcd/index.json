@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-23T23:47:39.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "9dd5acd4-7088-4074-abd8-a45e68735fcd",
+  "labels": "current-affairs,2017-07-24",
+  "question": "Which of the following is not a correct statement?",
+  "option1": "Sundarbans delta is home to the largest mangrove forest in the world",
+  "option2": "India is world's largest mica producer",
+  "option3": "Easter Island is only land area that is antipodal to India",
+  "option4": "India's largest saltwater lake is located in Gujarat",
+  "option5": "",
+  "answer": "India's largest saltwater lake is located in Gujarat",
+  "explanation": "Fourth is an incorrect statement. Rest are correct statements."
+}

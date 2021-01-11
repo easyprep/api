@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-13T23:30:26.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "c3545bc5-ca9d-46a3-9ba5-6a60b6357c38",
+  "labels": "current-affairs,2017-07-14",
+  "question": "The Indian Railways has launched which virtual server to optimise server usage and faster connectivity?",
+  "option1": "RailSagar",
+  "option2": "RailCloud",
+  "option3": "RailSilver",
+  "option4": "RailBharat",
+  "option5": "",
+  "answer": "RailCloud",
+  "explanation": "The Indian Railways has recently launched a virtual server “RailCloud” with an inbuilt security system to optimise server usage and faster connectivity. The technology is developed by rail PSU RailTel at an estimated cost of approx Rs 53 crore. The RailCloud technology enables maximising the usage of available server and storage resulting in accommodation of bigger data and more applications within same server space. It will cover all management related to various services like human resources, health and hospital, signal assets, freight and logistics and energy among others. Beside this, the first IT application on RailCloud “Nivaran-Grievance Portal” was also launched. Nivaran is a platform for resolution of service-related grievances of serving and former railway employees."
+}

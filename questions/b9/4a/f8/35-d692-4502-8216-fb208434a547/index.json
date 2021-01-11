@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-05-18T23:19:23.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "b94af835-d692-4502-8216-fb208434a547",
+  "labels": "current-affairs,2017-05-19",
+  "question": "What is the India's GDP growth forecast for 2017, as per recently revised UN \"World Economic Situation and Prospects (WESP) as of mid-2017\" report?",
+  "option1": 0.079,
+  "option2": 0.077,
+  "option3": 0.073,
+  "option4": 0.071,
+  "option5": "",
+  "answer": 0.073,
+  "explanation": "According to recently revised United Nations “World Economic Situation and Prospects (WESP) as of mid- 2017” report, India’s GDP growth forecast  has been downward from 7.7% to 7.3% in fiscal 2017. Earlier, the January edition of UN report had not taken into consideration the impact of the demonetisation policy on India’s economic growth. However, the revised report projected that India will achieve an impressive 7.9% GDP growth in fiscal 2018, revising upwards its January estimates when it had said India’s growth will be 7.6% next year. Though, the report warned that stressed balance sheets in banking sector will have an adverse effect on investment rebound in India."
+}

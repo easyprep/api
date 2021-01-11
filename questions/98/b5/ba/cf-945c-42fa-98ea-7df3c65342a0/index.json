@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-19T23:15:16.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "98b5bacf-945c-42fa-98ea-7df3c65342a0",
+  "labels": "current-affairs,2017-07-20",
+  "question": "Which mobile app has been launched by UIDAI to carry unique identification profile on mobile?",
+  "option1": "mAadhaar app",
+  "option2": "myAadhaar app",
+  "option3": "dAadhaar app",
+  "option4": "uAadhaar app",
+  "option5": "",
+  "answer": "mAadhaar app",
+  "explanation": "The Unique Identification Authority of India (UIDAI) has recently launched mAadhaar app for mobile users that will allow users to carry unique identification profile on mobile. A user can download Aadhaar number profile through their smartphones and will therefore not require hard copies of the card, wherever applicable. It allow users to carry their Aadhaar demographic information, i.e. name, date of birth, gender, address and the photograph linked with their Aadhaar number, on their smartphones. Currently, the app is  available for Android users and will soon be available for iOS users.  A user can not only carry Aadhaar data on their mobiles as an identification proof, but one can also lock/ unlock their biometric details linked to Aadhaar to secure their personal data.  Besides this, mAadhaar app users can also update their profile via QR code and share eKYC details with service providers such as telecommunications companies."
+}

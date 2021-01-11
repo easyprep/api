@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-05-11T16:27:09.000Z",
+  "updated_at": "2021-01-06T08:24:09.729Z",
+  "id": "f4e1f8c5-4039-4711-9c5a-d7a59d996fa5",
+  "labels": "current-affairs,2017-05-12",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>First human like appearance was in <em>Australopithecus</em></li>\r\n<li>First known Homo species is <em>Homo heidelbergensis</em></li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "both",
+  "option4": "none",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "First known Homo species is Homo habilis."
+}
