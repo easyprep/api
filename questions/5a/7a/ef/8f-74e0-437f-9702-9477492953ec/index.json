@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T15:33:26.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "5a7aef8f-74e0-437f-9702-9477492953ec",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If a shirt costs 64 Rs. After 20% is allowed, what was its original price?",
+  "option1": "76.80 Rs.",
+  "option2": "80 Rs.",
+  "option3": "86.80 Rs.",
+  "option4": "88 Rs",
+  "option5": "",
+  "answer": "80 Rs.",
+  "explanation": "If the original cost of shirt be x, then\r\n$latex x\\\\times \\\\frac{80}{100} = 64&s=1$\r\n$latex => x = \\\\frac{64\\\\times 100}{80} = 80 Rs.&s=1$\r\nHence option [B] is the right answer."
+}

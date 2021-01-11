@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T21:14:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "9aada041-9c1f-4aee-8e8b-bff8fb3c9084",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Three pipes A, B and C can fill a tank in 6 hours, 9 hours and 12 hours respectively. B and C are opened for half an hour, then A is also opened. The time taken by the three pipes together to fill the remaining part of the tank is :",
+  "option1": "2 hours",
+  "option2": "2.5 hours",
+  "option3": "3 hours",
+  "option4": "3.5 hours",
+  "option5": "",
+  "answer": "2.5 hours",
+  "explanation": "Part of the tank filled by pipe B and C in half an hour\r\n$latex = \\\\frac{1}{2}\\\\left ( \\\\frac{1}{9}+\\\\frac{1}{12} \\\\right )&s=1$\r\n$latex = \\\\frac{1}{2}\\\\left ( \\\\frac{4+3}{36} \\\\right ) = \\\\frac{7}{72}&s=1$\r\nRemaining part $latex = 1- \\\\frac{7}{72} = \\\\frac{72-7}{72} = \\\\frac{65}{72}&s=1$\r\nPart of the tank filled by three pipes in an hour\r\n$latex = \\\\frac{1}{6}+\\\\frac{1}{9}+\\\\frac{1}{12}&s=1$\r\n$latex = \\\\frac{6+4+3}{36} = \\\\frac{13}{36}&s=1$\r\n∴ Time to fill remaining part \r\n$latex = \\\\frac{65}{72}\\\\times \\\\frac{36}{13} = \\\\frac{5}{2} = 2\\\\frac{1}{2}\\\\ hours&s=1$\r\nHence option [B] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T13:15:00.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "14be48a1-dc39-46b0-8644-51c7bc9c8492",
+  "labels": "current-affairs,2018-03-30",
+  "question": "If x can finish a job in 4 hours and y can finish the same job in 8 hours independently, then they together will finish the job in :",
+  "option1": "120 minutes",
+  "option2": "140 minutes",
+  "option3": "150 minutes",
+  "option4": "160 minutes",
+  "option5": "",
+  "answer": "160 minutes",
+  "explanation": "(x + y)\\'s 1 day\\'s work $latex = \\\\frac{1}{4}+\\\\frac{1}{8} = \\\\frac{2+1}{8} = \\\\frac{3}{8}&s=1$\r\n∴ Required Time $latex = \\\\frac{8}{3}\\\\ hours&s=1$\r\n$latex = \\\\left ( \\\\frac{8}{3}\\\\times 60 \\\\right )\\\\ minutes&s=1$\r\n$latex = 160\\\\ minutes$\r\nHence option [D] is correct answer."
+}

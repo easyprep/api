@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T17:24:51.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "9c3452c0-99f2-4662-bd8c-545ed8dbc7f1",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If two items of A is equal to three times of B and also equal to four times of C, then A : B : C is :",
+  "option1": "2 : 3 : 5",
+  "option2": "3 : 4 : 2",
+  "option3": "4 : 6 : 3",
+  "option4": "6 : 4 : 3",
+  "option5": "",
+  "answer": "6 : 4 : 3",
+  "explanation": "According to the question, \r\n$latex 2A = 3B$\r\n$latex => B = \\\\frac{2}{3}A&s=1$\r\nand $latex 2A = 4C$\r\n$latex => C = \\\\frac{1}{2}A&s=1$\r\n$latex \\\\therefore A : B : C = A : \\\\frac{2}{3}A : \\\\frac{1}{2}A&s=1$\r\n$latex = 1 : \\\\frac{2}{3}: \\\\frac{1}{2} = 6:4:3&s=1$\r\nHence option [D] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T21:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "cac28f36-1a31-4c9c-9b37-64dfc580fc62",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Pipe A can fill an empty tank in 6 hours and pipe B in 8 hours. If both the pipes are opened and after 2 hours pipe A is closed, how much time B will take to fill the remaining tank?",
+  "option1": "$latex 2\\tfrac{1}{3}\\ hours&s=1$",
+  "option2": "$latex 3\\tfrac{1}{3}\\ hours&s=1$",
+  "option3": "$latex 2\\tfrac{2}{5}\\ hours&s=1$",
+  "option4": "$latex 7\\tfrac{1}{2}\\ hours&s=1$",
+  "option5": "",
+  "answer": "$latex 3\\tfrac{1}{3}\\ hours&s=1$",
+  "explanation": "Part of the tank filled by pipe A and B in 2 hours\r\n$latex = 2\\\\left ( \\\\frac{1}{6}+\\\\frac{1}{8} \\\\right )&s=1$\r\n$latex = 2\\\\left ( \\\\frac{4+3}{24} \\\\right ) = \\\\frac{7}{12}&s=1$\r\nRemaining part $latex = 1-\\\\frac{7}{12} = \\\\frac{5}{12}&s=1$\r\nThis part is filled by pipe B. \r\n∴ Required Time $latex = \\\\frac{5}{12}\\\\times 8 = \\\\frac{10}{3} = 3\\\\frac{1}{3}\\\\ hours&s=1$\r\nHence option [B] is correct answer."
+}

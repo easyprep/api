@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T23:11:51.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "2dd4a92b-cbd0-4203-b07d-51e70b3ce91b",
+  "labels": "current-affairs,2018-03-29",
+  "question": "The circular measure of an angle of an isoceles triangle is 5π/9. Circular measure of one of the other angles must be",
+  "option1": "$latex \\frac{4\\pi }{9}&s=1$",
+  "option2": "$latex \\frac{2\\pi }{9}&s=1$",
+  "option3": "$latex \\frac{5\\pi }{9}&s=1$",
+  "option4": "$latex \\frac{5\\pi }{18}&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{2\\pi }{9}&s=1$",
+  "explanation": "Sum of remaining two angles = $latex \\\\pi -\\\\frac{5\\\\pi }{9}=\\\\frac{4\\\\pi}{9}&s=1$\r\n∴ Each angle = $latex \\\\frac{1}{2}\\\\times \\\\frac{4\\\\pi }{9}=\\\\frac{2\\\\pi }{9}&s=1$\r\nHence option [B] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:02:59.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d624275c-c7b2-47ad-b35f-b266ce995d05",
+  "labels": "current-affairs,2018-03-29",
+  "question": "In how many years will a sum of 3000 Rs. yield a simple interest of 1080 Rs. at 12% per annum ?",
+  "option1": "2 years",
+  "option2": "2.5 years",
+  "option3": "3 years",
+  "option4": "3.5 years",
+  "option5": "",
+  "answer": "3 years",
+  "explanation": "$latex Time = \\\\frac{SI\\\\times 100}{Princ.\\\\times Rate}&s=1$\r\n$latex = \\\\frac{1080\\\\times 100}{3000\\\\times 12} = 3\\\\ years&s=1$\r\nHence option [C] is correct answer.<"
+}

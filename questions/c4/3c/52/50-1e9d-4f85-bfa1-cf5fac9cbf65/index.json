@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T17:43:20.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "c43c5250-1e9d-4f85-bfa1-cf5fac9cbf65",
+  "labels": "current-affairs,2018-03-27",
+  "question": "When 335 is added to 5A7, the result is 8B2, 8B2 is divisible by 3, What is the largest possible value of A?",
+  "option1": 1,
+  "option2": 4,
+  "option3": 2,
+  "option4": 8,
+  "option5": "",
+  "answer": 4,
+  "explanation": "5  A  7 +  3  3  5  =  8  B  2\r\n=> A - 1, 2, 3, 4, 5 & B - 5, 6, 7, 8, 9\r\nand 8B2 is exactly divisible by 3\r\n∴ 8 + B + 2 = Multiple of 3 \r\n∴ B = 5 or 8 and A = 1 or 4\r\nHence option [B] is the right answer."
+}

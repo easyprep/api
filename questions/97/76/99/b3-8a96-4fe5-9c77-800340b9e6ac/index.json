@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T13:27:12.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "977699b3-8a96-4fe5-9c77-800340b9e6ac",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A sum of money at some rate of simple interest amounts to 2900 Rs. in 8 years and to 3000 Rs. in 10 years. The rate of interest per annum is :",
+  "option1": 0.02,
+  "option2": 0.025,
+  "option3": 0.03,
+  "option4": 0.04,
+  "option5": "",
+  "answer": 0.02,
+  "explanation": "Principal + interest for 8 years = 2900 Rs…………(I)\r\nPrincipal + interest for 10 years = 3000 Rs……..…(II)\r\nSubtracting equation (I) from (II) \r\nInterest for 2 years = 100 Rs. \r\n∴ Interest for 8 years = 400 Rs. \r\nFrom equation (I), \r\nPrincipal = (2900 - 400) = 2500 Rs. \r\n$latex \\\\therefore Rate = \\\\frac{SI\\\\times 100}{Princ.\\\\times Time}&s=1$\r\n$latex = \\\\frac{400\\\\times 100}{8\\\\times 2500} = 2\\\\%&s=1$\r\nHence option [A] is correct answer."
+}

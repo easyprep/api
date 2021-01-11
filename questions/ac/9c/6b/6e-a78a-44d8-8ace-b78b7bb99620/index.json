@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T19:35:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "ac9c6b6e-a78a-44d8-8ace-b78b7bb99620",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If 20% of A = 50% of B, Then what per cent of A is B ?",
+  "option1": 0.15,
+  "option2": 0.25,
+  "option3": 0.3,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.4,
+  "explanation": "20% of A = 50% of B\r\n$latex => 2A = 5B$\r\n$latex => A = \\\\frac{5B}{2}&s=1$\r\nLet B is x% of A.\r\n$latex \\\\therefore \\\\frac{5B}{2}\\\\times \\\\frac{x}{100} = B&s=1$\r\n$latex => x = \\\\frac{200}{5} = 40\\\\%&s=1$\r\nHence option [D] is the correct answer."
+}

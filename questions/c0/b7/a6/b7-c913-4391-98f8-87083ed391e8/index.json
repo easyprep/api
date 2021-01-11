@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:33:11.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "c0b7a6b7-c913-4391-98f8-87083ed391e8",
+  "labels": "current-affairs,2018-03-30",
+  "question": "If A and B together can complete a work in 12 days, B and C together in 15 days and C and A together in",
+  "option1": "20 days",
+  "option2": "24 days",
+  "option3": "25 days",
+  "option4": "30 days",
+  "option5": "",
+  "answer": "20 days",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}&s=1$\r\n(B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{15}&s=1$\r\n(C + A)\\'s 1 day\\'s work $latex = \\\\frac{1}{20}&s=1$\r\nOn adding all above equations, \r\n2(A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}+\\\\frac{1}{15}+\\\\frac{1}{20}&s=1$\r\n$latex = \\\\frac{5+4+3}{60} = \\\\frac{1}{5}&s=1$\r\n∴ (A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{10}&s=1$\r\n∴ B\\'s 1 day\\'s work $latex = \\\\frac{1}{10}-\\\\frac{1}{20} = \\\\frac{2-1}{20} = \\\\frac{1}{20}&s=1$\r\n∴ B alone can do the work in 20 days. \r\nHence option [A] is correct answer."
+}

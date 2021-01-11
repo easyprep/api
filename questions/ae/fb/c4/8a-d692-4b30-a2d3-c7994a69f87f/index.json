@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T15:57:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "aefbc48a-d692-4b30-a2d3-c7994a69f87f",
+  "labels": "current-affairs,2018-03-28",
+  "question": "A fan is listed at 150 Rs. and a discount of 20% is given. The the selling price is :",
+  "option1": "110 Rs.",
+  "option2": "120 Rs.",
+  "option3": "150 Rs.",
+  "option4": "180 Rs.",
+  "option5": "",
+  "answer": "120 Rs.",
+  "explanation": "S.P. of the fan $latex = \\\\frac{150\\\\times 80}{100}&s=1$\r\n$latex = 120 Rs.$\r\nHence option [B] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:56:07.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4349b56d-7082-4a8a-ae1a-03f1bb22ab10",
+  "labels": "current-affairs,2018-03-27",
+  "question": "There are two pumps to fill a tank with water. First pump can fill the empty tank in 8 hours, while the second in 10 hours, If both the pumps are opened at the same time and kept open for 4 hours, the part of the tank that will be filled up is :",
+  "option1": "$latex \\frac{2}{5}&s=1$",
+  "option2": "$latex \\frac{1}{5}&s=1$",
+  "option3": "$latex \\frac{9}{10}&s=1$",
+  "option4": "$latex \\frac{1}{10}&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{9}{10}&s=1$",
+  "explanation": "Part of the tank filled in an hour by both pumps\r\n$latex = \\\\frac{1}{8}+\\\\frac{1}{10} = \\\\frac{5+4}{40} = \\\\frac{9}{40}&s=1$\r\n∴ Part of the tank filled in 4 hours\r\n$latex = \\\\frac{4\\\\times 9}{40} = \\\\frac{9}{10}&s=1$\r\nHence option [C] is correct answer."
+}

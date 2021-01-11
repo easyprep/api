@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:25:25.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "85c707c6-ab36-4729-bb53-45e806c0c866",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B together can complete a work in 8 days and B and C together in 12 days. All of the three together can complete the work in 6days. In how much time will A and C together complete the work?",
+  "option1": 20,
+  "option2": 8,
+  "option3": 12,
+  "option4": 10,
+  "option5": "",
+  "answer": 8,
+  "explanation": "Let A and C complete the work in x days\r\n(A+B)\\'s one day\\'s work= $latex \\\\frac{1}{8}&s=1$\r\n(B+C)\\'s one day\\'s work= $latex \\\\frac{1}{12}&s=1$\r\n(C+A)\\'s one day\\'s work= $latex \\\\frac{1}{x}&s=1$\r\nThen (A+B+B+C+C+A)\\'s one day\\'s work = $latex \\\\frac{1}{8}+\\\\frac{1}{12}+\\\\frac{1}{x}&s=1$\r\n2(A+B+C)\\'s one day\\'s work = $latex \\\\frac{3x+2x+24}{24x}&s=1$\r\n(A+B+C)\\'s 1 day\\'s work = $latex \\\\frac{5x+24}{24x\\\\times 2}&s=1$\r\nAccording to the question (A+B+C)\\'s 1 day\\'s work = $latex \\\\frac{1}{6}&s=1$\r\n$latex =>\\\\frac{1}{6} = \\\\frac{5x+24}{24x\\\\times 2}&s=1$\r\n$latex => 30x + 144 = 48x$\r\n∴ x = $latex \\\\frac{144}{18}&s=1$ = 8 days\r\n∴ option [B] is the right answer"
+}

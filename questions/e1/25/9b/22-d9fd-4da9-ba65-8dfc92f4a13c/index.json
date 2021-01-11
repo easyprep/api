@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:55:50.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "e1259b22-d9fd-4da9-ba65-8dfc92f4a13c",
+  "labels": "current-affairs,2018-03-30",
+  "question": "The percentage expenses on various items during book production and sale. \r\n<img src=\"http://www.gktoday.in/wp-content/uploads/2016/06/Statistics-and-data-interpr.gif\">\r\n<br/>\r\nIf the 'Printing -Cost' is 17500 RS. The royalty paid is :",
+  "option1": "6300 Rs.",
+  "option2": "7500 Rs.",
+  "option3": "8750 Rs",
+  "option4": "3150 Rs",
+  "option5": "",
+  "answer": "7500 Rs.",
+  "explanation": "35% total cost = Rs. 17500\r\n∴15% of total cost = $latex Rs. \\\\frac{17500\\\\times 15}{35} = Rs. 7500$"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:02:01.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "b0856841-4811-4227-86f5-da91aa430e92",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B can do a work in 12 days, B and C in 15 days and C and A in 20 days. If A, B and C work together, they will complete the work in :",
+  "option1": "$latex 15\\frac{2}{3}&s=1$ days",
+  "option2": "5 days",
+  "option3": "10 days",
+  "option4": "$latex 7\\frac{5}{6}&s=1$ days",
+  "option5": "",
+  "answer": "10 days",
+  "explanation": "According to question, \r\nA and B can do a work in 12 days\r\n∴ (A + B)\\'s one day\\'s work $latex = \\\\frac{1}{12}&s=1$\r\nSimilarly, (B + C)\\'s one day\\'s work $latex = \\\\frac{1}{15}&s=1$\r\nand (C + A)\\'s one day\\'s work $latex = \\\\frac{1}{20}&s=1$\r\nOn adding all three, \r\n∴ 2 (A + B + C)\\'s one day\\'s work $latex = \\\\frac{1}{12}+ \\\\frac{1}{15}+ \\\\frac{1}{20}&s=1$\r\n$latex = \\\\frac{10+8+6}{120} = \\\\frac{1}{5}&s=1$\r\nand (A + B + C)\\'s one day\\'s work $latex = \\\\frac{1}{10}&s=1$\r\n∴ A, B and C together can complete the work in 10 days."
+}

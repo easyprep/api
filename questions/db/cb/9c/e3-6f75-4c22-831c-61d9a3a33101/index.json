@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:56:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "dbcb9ce3-6f75-4c22-831c-61d9a3a33101",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If the cost price is 95% of the selling price. What is the profit percent?",
+  "option1": 0.04,
+  "option2": 0.0475,
+  "option3": 0.05,
+  "option4": 0.0526,
+  "option5": "",
+  "answer": 0.0526,
+  "explanation": "If the cost price be Rs x, Then \r\nS.P = $latex \\\\frac{100}{95}x&s=2$=Rs. $latex \\\\frac{20}{19}x&s=2$\r\n∴Gain = $latex \\\\frac{20x}{19}-x=Rs. \\\\frac{x}{19}&s=2$\r\n∴ Gain percent =$latex \\\\frac{\\\\frac{x}{19}}{x}\\\\times 100=5.26&s=2$%\r\nHence option [D] is the right answer."
+}

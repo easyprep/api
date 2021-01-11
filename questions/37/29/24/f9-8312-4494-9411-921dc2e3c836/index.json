@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T13:18:14.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "372924f9-8312-4494-9411-921dc2e3c836",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A man lent 60000 Rs. partly at 5% and the rest at 4% simple interest. If the total annual interest is 2560 Rs. the money lent at 4% was :",
+  "option1": 30000,
+  "option2": 40000,
+  "option3": 44000,
+  "option4": 45000,
+  "option5": "",
+  "answer": 44000,
+  "explanation": "Let the amount lent at 4% be x \r\n∴ Amount lent at 5% = (60000 - x)\r\nAccording to the question, \r\n$latex \\\\frac{(60000-x)\\\\times 5\\\\times 1}{100}+\\\\frac{x\\\\times 4\\\\times 1}{100} = 2560&s=1$\r\n$latex => 300000-5x+4x = 256000$\r\n$latex => x = 300000 - 256000 = 44000\\\\ Rs.$\r\nHence option [C] is correct answer."
+}

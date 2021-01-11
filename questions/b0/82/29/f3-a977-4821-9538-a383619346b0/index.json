@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:37:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "b08229f3-a977-4821-9538-a383619346b0",
+  "labels": "current-affairs,2018-03-30",
+  "question": "The pie chart drawn belown shows the expenses of a family on various items and its savings during the year 2001. Study the graph and answer the question.\r\n\r\n<img src=\"http://www.gktoday.in/wp-content/uploads/2016/07/pie-chart.gif\">\r\n<br/>\r\nThe total savings of the family for the year were equal to the expenditure on :",
+  "option1": "Food",
+  "option2": "Housing",
+  "option3": "Clothing",
+  "option4": "Other items including transport",
+  "option5": "",
+  "answer": "Housing",
+  "explanation": "∵ Expenditure on housing = Savings = 15%"
+}

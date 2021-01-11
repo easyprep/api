@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T15:43:04.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "cb37c204-7d03-4882-86ec-81549130871f",
+  "labels": "current-affairs,2018-03-28",
+  "question": "A merchant purchases a wrist watch for 450 Rs. and fixes its list price in such a way that after allowing a discount of 10%, he earns a profit of 20%. Then the list price of the watch is :",
+  "option1": "550 Rs",
+  "option2": "600 Rs",
+  "option3": "650 Rs",
+  "option4": "700 Rs",
+  "option5": "",
+  "answer": "600 Rs",
+  "explanation": "If the marked price of watch be x, then \r\n$latex x \\\\times \\\\frac{90}{100} = \\\\frac{450\\\\times 120}{100}&s=1$\r\n$latex => x = \\\\frac{450\\\\times 120}{90} = 600 Rs.&s=1$\r\nHence option [B] is the right answer."
+}

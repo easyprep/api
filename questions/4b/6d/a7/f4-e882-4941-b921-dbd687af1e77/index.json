@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-05-18T23:05:13.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4b6da7f4-e882-4941-b921-dbd687af1e77",
+  "labels": "current-affairs,2018-05-19",
+  "question": "What is the India's GDP growth forecast for 2018-19, as per latest UN World Economic Situation and Prospects (WESP) report 2018?",
+  "option1": 0.075,
+  "option2": 0.076,
+  "option3": 0.077,
+  "option4": 0.073,
+  "option5": "",
+  "answer": 0.076,
+  "explanation": "As per latest UN World Economic Situation and Prospects (WESP) report of mid 2018, India’s economy is projected to grow 7.6% in fiscal year 2018-19 and 7.5% for FY 18. This is a substantial recovery from the 6.7% growth India registered in fiscal year 2017. As per report, India is gaining momentum among major economies and although capital spending has shown signs of revival, a more widespread and sustained recovery in private investment remains a crucial challenge. The prediction is largely in line with 2018 Economic Survey that pegged growth at 7% to 7.5% in 2018-19. The Central Statistics Office (CSO) estimates 2017-18 GDP growth at 6.6% compared with 7.1% in the previous year."
+}

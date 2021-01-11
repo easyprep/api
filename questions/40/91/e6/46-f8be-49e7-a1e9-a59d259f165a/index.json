@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T12:47:01.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4091e646-f8be-49e7-a1e9-a59d259f165a",
+  "labels": "current-affairs,2018-03-30",
+  "question": "Ronald and Elan are working on an assignment. Ronald takes 6 hours to type 32 pages on a computer, while Elan takes 5 hours to type 40 pages. How much time will they take working together on two different computers to type an assignment of 110 pages ?",
+  "option1": "7 hours 30 minutes",
+  "option2": "8 hours",
+  "option3": "8 hours 15 minutes",
+  "option4": "8 hours 25 minutes",
+  "option5": "",
+  "answer": "8 hours 15 minutes",
+  "explanation": "Ronald\\'s 1 hour\\'s work $latex = \\\\frac{32}{6}=\\\\frac{16}{3}\\\\ pages&s=1$\r\nPages typed in 6 hrs. = 32, Pages typed in 1 hr $latex = \\\\frac{32}{6}&s=1$\r\nElan\\'s 1 hour\\'s work = 8 pages\r\n1 hour\\'s work of the both $latex = \\\\frac{16}{3}+8 = \\\\frac{40}{3}\\\\ pages&s=1$\r\n∴ Required Time $latex = \\\\frac{110\\\\times 3}{40} = \\\\frac{33}{4}\\\\ hours = 8\\\\ hours\\\\ 15\\\\ minutes&s=1$\r\nHence option [C] is correct answer"
+}

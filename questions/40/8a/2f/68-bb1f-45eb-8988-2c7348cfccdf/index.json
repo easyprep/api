@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:08:03.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "408a2f68-bb1f-45eb-8988-2c7348cfccdf",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B can do a piece of work in 12 days. B and C in 8 days and C and A in 6 days. How long would B take to do the same work alone ?",
+  "option1": "24 days",
+  "option2": "32 days",
+  "option3": "40 days",
+  "option4": "48 days",
+  "option5": "",
+  "answer": "48 days",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}&s=1$……….(I)\r\n(B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{8}&s=1$…….….(II)\r\n(C + A)\\'s 1 day\\'s work $latex = \\\\frac{1}{6}&s=1$……….(III)\r\nOn adding, \r\n2(A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}+\\\\frac{1}{8}+\\\\frac{1}{6} = \\\\frac{2+3+4}{24} = \\\\frac{9}{24}&s=1$\r\n∴ (A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{9}{24\\\\times 2} = \\\\frac{9}{48}&s=1$……….(IV)\r\nOn subtracting (III) from (IV), \r\nB\\'s 1 day\\'s work $latex = \\\\frac{9}{48} - \\\\frac{1}{6}&s=1$\r\n$latex = \\\\frac{9-8}{48} = \\\\frac{1}{48}&s=1$\r\n∴ B can complete the work in 48 days.\r\nHence option [D] is correct answer."
+}

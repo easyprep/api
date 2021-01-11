@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T22:30:49.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "401d3822-5104-4c9c-b2b0-c08602b1e36f",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A pipe can fill a tank in 'x' hours and another pipe can empty it in 'y' hours (y > x). If both the pipes are open, in how many hours will the tank be filled?",
+  "option1": "(y - x) hours",
+  "option2": "(x - y) hours",
+  "option3": "$latex \\frac{xy}{y-x} hours &s=1$",
+  "option4": "$latex \\frac{xy}{x-y} hours &s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{xy}{y-x} hours &s=1$",
+  "explanation": "Part of the tank filled in 1 hour = $latex \\\\frac{1}{x}&s=1$\r\nPart of the tank emptyied in 1 hour = $latex \\\\frac{1}{y}&s=1$\r\nPart of the tank filled in 1 hour when both are opened = $latex \\\\frac{1}{x}-\\\\frac{1}{y}= \\\\frac{y-x}{xy}&s=1$\r\n∴ Tank will be filled in $latex \\\\frac{xy}{y-x}&s=1$ hours\r\nHence option [C] is the right answer"
+}

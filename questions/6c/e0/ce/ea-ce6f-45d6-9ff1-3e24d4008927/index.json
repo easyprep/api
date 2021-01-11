@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T22:50:10.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6ce0ceea-ce6f-45d6-9ff1-3e24d4008927",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Two pipes can fill a tank in 15 hours and 20 hours resoectively, while the third can empty it in 30 hours. If all the pipes are opened simultaneously, the empty tank will be filled in :",
+  "option1": "12 hours",
+  "option2": "10 hours",
+  "option3": "15 hours",
+  "option4": "15.5 hours",
+  "option5": "",
+  "answer": "12 hours",
+  "explanation": "Part of the tank filled in 1 hour when all three pipes are opened simultaneously = $latex \\\\frac{1}{15}+\\\\frac{1}{20}-\\\\frac{1}{30}&s=1$\r\n$latex =\\\\frac{4+3-2}{60}=\\\\frac{5}{60}=\\\\frac{1}{12}&s=1$\r\nHence, the tank will be filled in 12 hours.\r\nSo option [A] is the right answer."
+}

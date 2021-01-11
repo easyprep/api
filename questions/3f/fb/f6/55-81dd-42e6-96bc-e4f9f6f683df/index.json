@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:33:06.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "3ffbf655-81dd-42e6-96bc-e4f9f6f683df",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A and B travel the same distance at speed of 9 km/hr and 10 km/hr respectively. If A takes 36 minutes more than B, the distance travelled by each is :",
+  "option1": "48 km",
+  "option2": "54 km",
+  "option3": "60 km",
+  "option4": "66 km",
+  "option5": "",
+  "answer": "54 km",
+  "explanation": "Let the distance between A and B be x km, then \r\n$latex \\\\frac{x}{9} - \\\\frac{x}{10} = \\\\frac{36}{60} = \\\\frac{3}{5}&s=1$\r\n$latex => \\\\frac{x}{90} = \\\\frac{3}{5}&s=1$\r\n$latex => x = \\\\frac{3}{5}\\\\times 90 = 54 km.&s=1$\r\nHence option [B] is correct answer"
+}

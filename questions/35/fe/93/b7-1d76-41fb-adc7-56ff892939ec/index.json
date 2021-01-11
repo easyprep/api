@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T16:03:39.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "35fe93b7-1d76-41fb-adc7-56ff892939ec",
+  "labels": "current-affairs,2018-03-30",
+  "question": "The percentage expenses on various items during book production and sale. \r\n<img src=\"http://www.gktoday.in/wp-content/uploads/2016/06/Statistics-and-data-interpr.gif\">\r\n<br/>\r\n\r\nThe central angle corresponding to the sector on \"Printing Cost\" is more than that of \"Acvertisement Charges\" by:",
+  "option1": "54.8°",
+  "option2": "61.2°",
+  "option3": "72°",
+  "option4": "60°",
+  "option5": "",
+  "answer": "61.2°",
+  "explanation": "Difference in per cent expensses on printing cost and advertisement charges = (35 - 18)% = 17%\r\nNow, 1% = 3.6%\r\n∴ 17% = 3.6°$latex \\\\times$17=61.2°"
+}

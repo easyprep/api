@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:47:26.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "48f562ba-c08b-425c-8e3f-d896c3770d31",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If the diagonals of two squares are in the ratio of 2 : 5, there area will be in the ratio of",
+  "option1": "4 : 25",
+  "option2": "4 : 5",
+  "option3": "4 : 2",
+  "option4": "$latex \\sqrt{2} : \\sqrt{5}$",
+  "option5": "",
+  "answer": "4 : 25",
+  "explanation": "Let diagonals be 2x and 5x. \r\n$latex \\\\therefore \\\\frac{A1}{A2} = \\\\frac{\\\\frac{1}{2}\\\\times (2x)^{2}}{\\\\frac{1}{2}\\\\times (5x)^{2}} = \\\\frac{4}{25}&s=2$\r\n=> 4 : 25\r\nHence option [A] is the right answer."
+}

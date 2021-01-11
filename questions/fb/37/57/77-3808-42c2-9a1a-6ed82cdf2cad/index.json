@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:23:21.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "fb375777-3808-42c2-9a1a-6ed82cdf2cad",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A can do as much work as B and C together can do. A and B can together do a piece of work in 9 hours 36 minutes and C can do it in 48 hours. The time that B needs to do the work alone, is :",
+  "option1": "12 hours",
+  "option2": "18 hours",
+  "option3": "24 hours",
+  "option4": "30 hours",
+  "option5": "",
+  "answer": "24 hours",
+  "explanation": "9 hours 36 minutes = \r\n$latex = 9+\\\\frac{36}{60} = 9\\\\frac{3}{5}\\\\ hours = \\\\frac{48}{5}\\\\ hours&s=1$\r\n(A + B)\\'s 1 hour\\'s work $latex = \\\\frac{5}{48}&s=1$\r\nC\\'s 1 hour\\'s work $latex = \\\\frac{1}{48}&s=1$\r\n(A + B + C)\\'s 1 hour\\'s work $latex = \\\\frac{5}{48} + \\\\frac{1}{48} =  \\\\frac{1}{8}&s=1$…………(I)\r\nA\\'s 1 hour\\'s work = (B + C)\\'s 1 hour\\'s work…………(II)\r\nFrom equation (I) and (II), \r\n2$latex \\\\times&s=1$(A\\'s 1 hour\\'s work) = $latex \\\\frac{1}{8}&s=1$\r\nA\\'s 1 hour\\'s work = $latex \\\\frac{1}{16}&s=1$\r\n∴ B\\'s 1 hour\\'s work $latex =  \\\\frac{5}{48} - \\\\frac{1}{16}&s=1$\r\n$latex = \\\\frac{5-3}{48} = \\\\frac{1}{24}&s=1$\r\n∴ B alone will finish the work in 24 hours.\r\nHence option [C] is correct answer."
+}

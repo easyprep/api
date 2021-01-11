@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T13:10:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "39437284-821f-4f2b-a71c-139482af6292",
+  "labels": "current-affairs,2018-03-30",
+  "question": "Three men A, B and C working together can do a job in 6 hours less time then A alone, in 1 hour less time than B alone and in one half the time needed by C when working alone. Then A and B together can do the job in :",
+  "option1": "$latex \\frac{2}{3}\\ hour&s=1$",
+  "option2": "$latex \\frac{3}{4}\\ hour&s=1$",
+  "option3": "$latex \\frac{3}{2}\\ hour&s=1$",
+  "option4": "$latex \\frac{4}{3}\\ hour&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{4}{3}\\ hour&s=1$",
+  "explanation": "Let A, B and C together do the work in x hours. \r\n∴ Time taken by A  = (x + 6) hours\r\nTime taken by B  = (x + 1) hours\r\nTime taken by C  = 2x hours\r\n$latex \\\\therefore \\\\frac{1}{x+6}+\\\\frac{1}{x+1}+\\\\frac{1}{2x} = \\\\frac{1}{x}&s=1$\r\n$latex => \\\\frac{1}{x+6}+\\\\frac{1}{x+1} = \\\\frac{1}{x} - \\\\frac{1}{2x} = \\\\frac{1}{2x}&s=1$\r\n$latex => \\\\frac{1}{x+6}+\\\\frac{1}{x+1} = \\\\frac{1}{2x}&s=1$\r\n$latex => \\\\frac{1}{x+6} = \\\\frac{1}{2x} - \\\\frac{1}{x+1} = \\\\frac{x+1-2x}{2x(x+1)}&s=1$\r\n$latex => \\\\frac{1}{x+6} = \\\\frac{1-x}{2x^{2}+2x}&s=1$\r\n$latex => 2x^{2}+2x = x + 6 - x^{2} - 6x$\r\n$latex => 3x^{2}+7x-6 = 0$\r\n$latex => 3x^{2}+9x-2x-6 = 0$\r\n$latex => 3x(x+3)-2(x+3) = 0$\r\n$latex => (3x-2)(x+3) = 0$\r\n$latex => 3x - 2 = 0\\\\ as \\\\ x+3 \\\\neq  0$\r\n$latex => x = \\\\frac{2}{3}&s=1$\r\n∴ Time taken by A $latex = 6+\\\\frac{2}{3} = \\\\frac{18+2}{3} = \\\\frac{20}{3}\\\\ hours&s=1$\r\nTime taken by B $latex = 1+\\\\frac{2}{3} = \\\\frac{5}{3}\\\\ hours&s=1$\r\n∴ (A + B)\\'s 1 day\\'s work $latex = \\\\frac{3}{20} + \\\\frac{3}{5} = \\\\frac{3+12}{20} = \\\\frac{15}{20} = \\\\frac{3}{4}&s=1$\r\n∴ Required Time $latex = \\\\frac{4}{3}\\\\ hours&s=1$\r\nHence option [D] is correct answer."
+}

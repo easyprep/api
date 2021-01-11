@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T19:46:07.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "b5f06fc3-8529-473a-92a9-14603fc0c600",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A man rides at the rate of 18 km/hr, but stops for 6 minutes to change horses at the end of every 7th km. The time that he will take to cover a distance of 90 km is :",
+  "option1": "6 hours",
+  "option2": "6 hours 12 minutes",
+  "option3": "6 hours 18 minutes",
+  "option4": "6 hours 24 minutes",
+  "option5": "",
+  "answer": "6 hours 12 minutes",
+  "explanation": "90 km = 12 $latex \\\\times$ 7 km + 6 km.\r\nTo cover 7 km total time taken = $latex \\\\frac{7}{18}&s=1$ hours + 6 min. = $latex \\\\frac{88}{3}\\\\ min.&s=1$ \r\nSo, (12 $latex \\\\times$ 7 km) would be covered in $latex \\\\left ( 12\\\\times \\\\frac{88}{3} \\\\right )&s=1$ minutes and remaining 6 km is $latex \\\\frac{6}{18}&s=1$ hours or 20 miutes.\r\n∴ Total time $latex = \\\\frac{1056}{3}+20 = \\\\frac{1116}{3\\\\times 60} = 6\\\\frac{1}{5} \\\\ hours&s=1$\r\n= 6 hours 12 minutes. \r\nHence option [B] is correct answer."
+}

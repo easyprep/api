@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T22:16:52.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "90640d06-4c9c-48d1-9b6f-4741239408d7",
+  "labels": "current-affairs,2018-03-29",
+  "question": "The measure of the angles of a triangle are in the ratio 2 : 7 : 11. Measures of angles are :",
+  "option1": "$latex 16^{\\circ}, 56^{\\circ}, 88^{\\circ}$",
+  "option2": "$latex 18^{\\circ}, 63^{\\circ}, 99^{\\circ}$",
+  "option3": "$latex 20^{\\circ}, 70^{\\circ}, 90^{\\circ}$",
+  "option4": "$latex 25^{\\circ}, 175^{\\circ}, 105^{\\circ}$",
+  "option5": "",
+  "answer": "$latex 18^{\\circ}, 63^{\\circ}, 99^{\\circ}$",
+  "explanation": "Let the measure of three angles of triangle are 2x, 7x and 11x respectively.\r\n$latex \\\\therefore 2x + 7x + 11x = 180^{\\\\circ}$\r\n$latex => 20x = 180^{\\\\circ}$\r\n$latex => x = \\\\frac{180}{20} = 9^{\\\\circ}&s=1$\r\n∴ First angle $latex = 2x = 2 \\\\times 9 = 18^{\\\\circ}$\r\nSecond Angle $latex = 7x = 7 \\\\times 9 = 63^{\\\\circ}$\r\nThird Angle $latex = 11x = 11 \\\\times 9 = 99^{\\\\circ}$\r\nHence option [B] is correct answer."
+}

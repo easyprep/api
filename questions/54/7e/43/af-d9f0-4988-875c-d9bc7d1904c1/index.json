@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T16:32:45.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "547e43af-d9f0-4988-875c-d9bc7d1904c1",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The product of two number is 9375 and the quotient, when the larger one is divided by the smaller, is 15. The sum of the numbers is :",
+  "option1": 380,
+  "option2": 395,
+  "option3": 400,
+  "option4": 425,
+  "option5": "",
+  "answer": 400,
+  "explanation": "Let the numbers be x and y and x is greater than y. \r\nAs given, xy = 9375 …….. (I)\r\nAgain, $latex \\\\frac{x}{y} = 15&s=1$\r\n$latex => x = 15y$\r\n∴ From equation (I), \r\n15y $latex \\\\times$ y = 9375\r\n$latex => y^{2} = \\\\frac{9375}{15} = 625&s=1$\r\n$latex => y = \\\\sqrt{625} = 25$\r\n∴ x = 15y = 15 $latex \\\\times$ 25 = 375\r\n∴ x + y = 375 + 25 = 400\r\nHence option [C] is right answer."
+}

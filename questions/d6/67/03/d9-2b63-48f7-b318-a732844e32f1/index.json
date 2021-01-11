@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:44:02.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d66703d9-2b63-48f7-b318-a732844e32f1",
+  "labels": "current-affairs,2018-03-30",
+  "question": "The pie chart drawn belown shows the expenses of a family on various items and its savings during the year 2001. Study the graph and answer the question.\r\n\r\n<img src=\"http://www.gktoday.in/wp-content/uploads/2016/07/pie-chart.gif\">\r\n<br/>\r\n\r\nIf the total income of the family was 100000 Rs., how much money was spent on the education of the children?",
+  "option1": "23000 Rs",
+  "option2": "15000 Rs",
+  "option3": "12000 Rs",
+  "option4": "10000 Rs",
+  "option5": "",
+  "answer": "12000 Rs",
+  "explanation": "Expenditure on the education of the children\r\n$latex = 12\\\\% of 100000 Rs.$\r\n$latex = \\\\frac{12\\\\times 100000}{100}Rs.&s=1$\r\n$latex = 12000 Rs.$\r\nHence option [C] is the right answer."
+}

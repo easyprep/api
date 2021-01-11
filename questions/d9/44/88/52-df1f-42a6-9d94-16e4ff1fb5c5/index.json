@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:58:15.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d9448852-df1f-42a6-9d94-16e4ff1fb5c5",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A sum of 1600 Rs. gives a simple interest of 252 Rs. in 2 years and 3 months. The rate of the interest per annum is :",
+  "option1": "$latex 8\\%$",
+  "option2": "$latex 6\\%$",
+  "option3": "$latex 7\\%$",
+  "option4": "$latex 5\\frac{1}{2}\\%$",
+  "option5": "",
+  "answer": "$latex 7\\%$",
+  "explanation": "Principal  = 1600 Rs. \r\nT = 2 years 3 months\r\n$latex = \\\\left ( 2+\\\\frac{3}{12} \\\\right )yrs. = \\\\left ( 2+\\\\frac{1}{4} \\\\right )yrs.  = \\\\frac{9}{4}yrs.&s=1$\r\nS.I = 252 Rs. \r\nR = % rate of interest per annum \r\n$latex => R = \\\\frac{100\\\\times S.I.}{P\\\\times t}&s=1$\r\n$latex = \\\\frac{100 \\\\times 252}{1600 \\\\times \\\\frac{9}{4}} = 7\\\\%&s=1$\r\nRate of interest = 7% per annum\r\nHence option [C] is the right answer."
+}

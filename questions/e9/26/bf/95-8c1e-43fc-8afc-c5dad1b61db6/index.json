@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T22:16:24.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "e926bf95-8c1e-43fc-8afc-c5dad1b61db6",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Three taps A, B and C together can fill an empty cistern in 10 minutes. The tap A alone can fill it in 30 minutes and the tap B alone in 40 minutes. How long will the tap C alone take to fill it?",
+  "option1": "40 minutes",
+  "option2": "32 minutes",
+  "option3": "16 minutes",
+  "option4": "24 minutes",
+  "option5": "",
+  "answer": "24 minutes",
+  "explanation": "Part of the cistern filled by taps A, B and C in 1 minutes = $latex \\\\frac{1}{10}&s=1$\r\nPart of the cistern filled by taps A and B in 1 minutes = $latex \\\\frac{1}{30}+\\\\frac{1}{40}=\\\\frac{4+3}{120}=\\\\frac{7}{120}&s=1$\r\n∴ Part of the cistern filled by tap C in 1 minute = \r\n$latex = \\\\frac{1}{10}-\\\\frac{7}{120} = \\\\frac{12-7}{120} = \\\\frac{5}{120} = \\\\frac{1}{24}&s=1$\r\n∴ Tap C will fill the cistern in 24 minutes.\r\nHence option [D] is the right answer."
+}

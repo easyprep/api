@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:27:02.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "1f17c8cb-f8f2-4a26-af8d-f44a972eacdc",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A train starts from a place A at 6 am and arrives at another place B at 4.30pm on the same day. If the speed of the train is 40 km/hr, find the distance travelled by the train?",
+  "option1": "230 km",
+  "option2": "320 km",
+  "option3": "400 km",
+  "option4": "420 km",
+  "option5": "",
+  "answer": "420 km",
+  "explanation": "$latex Time = 10\\\\frac{1}{2}hours&s=1$\r\n$latex = \\\\frac{21}{2}hours&s=1$\r\n$latex Speed = 40km/h$\r\n$latex Distance = Speed \\\\times Time$\r\n$latex = 40\\\\times \\\\frac{21}{2} = 420 km&s=1$\r\nHence option [D] is correct answer"
+}

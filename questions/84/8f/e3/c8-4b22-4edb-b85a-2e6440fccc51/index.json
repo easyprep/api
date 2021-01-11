@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:57:20.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "848fe3c8-4b22-4edb-b85a-2e6440fccc51",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A paricular job can be completed by a team of 10 men in 12 days. The same job can be completed by a team of 10 women in 6 days.  How many days are needed to complete the job if the two teams work together?",
+  "option1": "18 days",
+  "option2": "9 days",
+  "option3": "6 days",
+  "option4": "4 days",
+  "option5": "",
+  "answer": "4 days",
+  "explanation": "According to the question, \r\n10 men\\'s one day\\'s work $latex = \\\\frac{1}{12}&s=1$\r\n∴ 1 man one day\\'s work $latex = \\\\frac{1}{12\\\\times 10} = \\\\frac{1}{120}&s=1$\r\nSimilarly, \r\n1 woman one day\\'s work $latex = \\\\frac{1}{6\\\\times 10} = \\\\frac{1}{60}&s=1$\r\n∴ (1 man + 1 woman)\\'s one day\\'s work $latex =  \\\\frac{1}{120}+\\\\frac{1}{60}&s=1$\r\n$latex = \\\\frac{1+2}{120} = \\\\frac{3}{120} = \\\\frac{1}{40}&s=1$\r\n∴ (10 man + 10 woman)\\'s one day\\'s work $latex =  \\\\frac{10}{40} = \\\\frac{1}{4}&s=1$\r\nTherefore, both the team can finish the whole work in 4 days.\r\nHence option [D] is the right answer."
+}

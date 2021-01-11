@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T19:41:30.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "8544ee86-fa47-4837-bd4a-ce674531bc7b",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A speed of 30.6 km/hr is the same as :",
+  "option1": "8.5 m/sec",
+  "option2": "10 m/sec",
+  "option3": "12 m/sec",
+  "option4": "15.5 m/sec",
+  "option5": "",
+  "answer": "8.5 m/sec",
+  "explanation": "$latex = 30.6\\\\ km/hr$\r\n$latex = \\\\left ( 30.6\\\\times \\\\frac{5}{18} \\\\right )m/s&s=1$\r\n$latex = 8.5\\\\ m/s$\r\nHence option [A] is correct answer."
+}

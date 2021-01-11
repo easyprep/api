@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T23:04:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "eb6cdac3-e472-4195-be4d-fbc96697c6bb",
+  "labels": "current-affairs,2018-03-29",
+  "question": "In circular measure, the value of the angle 11°15' is :",
+  "option1": "$latex \\frac{\\pi^{c}}{16}&s=1$",
+  "option2": "$latex \\frac{\\pi^{c}}{8}&s=1$",
+  "option3": "$latex \\frac{\\pi^{c}}{4}&s=1$",
+  "option4": "$latex \\frac{\\pi^{c}}{12}&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{\\pi^{c}}{16}&s=1$",
+  "explanation": "$latex => 11\\\\textdegree$ + $latex \\\\frac{15\\\\textdegree}{60}&s=1$\r\n$latex => 11\\\\textdegree$ + $latex \\\\frac{1}{4}&s=1$ = $latex \\\\frac{45\\\\textdegree}{4}&s=1$\r\n$latex =>$ [180° = π Radian]\r\n$latex \\\\therefore \\\\frac{45^{\\\\circ}}{4} = \\\\frac{\\\\pi}{180}\\\\times \\\\frac{45}{4}=\\\\frac{\\\\pi^{c}}{16}&s=1$\r\nHence option [A] is correct answer."
+}

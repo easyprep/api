@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T13:13:39.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d7fa0ee6-9144-4d1b-a2bc-d45ed6e15606",
+  "labels": "current-affairs,2018-03-29",
+  "question": "1000 Rs. is invested at 5% per annum simple interest. If the interest is added to the principal after every 10 years, the amount will become 2000 Rs. after :",
+  "option1": "$latex 15\\ years$",
+  "option2": "$latex 16\\frac{2}{3}\\ years&s=1$",
+  "option3": "$latex 18\\ years$",
+  "option4": "$latex 20\\ years$",
+  "option5": "",
+  "answer": "$latex 16\\frac{2}{3}\\ years&s=1$",
+  "explanation": "$latex \\\\mathbf{16\\\\frac{2}{3}}\\\\ years&s=1$</b><br />\r\nAfter 10 years\r\n$latex SI = \\\\frac{1000\\\\times 5\\\\times 10}{100} = 500\\\\ Rs.&s=1$\r\nPrincipal for 11th year = 1000 + 500 = 1500 Rs. \r\n$latex \\\\therefore T = \\\\frac{SI\\\\times 100}{P\\\\times R} = \\\\frac{500\\\\times 100}{1500\\\\times 5}&s=1$\r\n$latex = \\\\frac{20}{3}\\\\ years = 6\\\\frac{2}{3}\\\\ years&s=1$\r\n∴ Total time $latex = 10+6\\\\frac{2}{3} = 16\\\\frac{2}{3}\\\\ years&s=1$\r\nHence option [B] is correct answer."
+}

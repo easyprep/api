@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:24:56.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "10cb7225-0534-441b-b902-c10cb303d600",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B can separately do a piece of work in 6 days and 12 days respectively. How long will they together take to do the work?",
+  "option1": "4 days",
+  "option2": "6 days",
+  "option3": "9 days",
+  "option4": "18 days",
+  "option5": "",
+  "answer": "4 days",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{6}+\\\\frac{1}{12} = \\\\frac{2+1}{12} = \\\\frac{1}{4}&s=1$\r\n∴ A and B together will complete the work in 4 days.\r\nHence option [A] is correct answer."
+}

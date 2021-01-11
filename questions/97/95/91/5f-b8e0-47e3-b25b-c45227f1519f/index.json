@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:36:09.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "9795915f-b8e0-47e3-b25b-c45227f1519f",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The LCM of two numbers is 864 and their HCF is 144. If one of the number is 288, the other number is :",
+  "option1": 144,
+  "option2": 432,
+  "option3": 1296,
+  "option4": 576,
+  "option5": "",
+  "answer": 432,
+  "explanation": "Required number = $latex \\\\frac{HCF\\\\times LCM}{First number}&s=1$\r\n$latex =\\\\frac{864\\\\times 144}{288} = 432&s=1$\r\nSo the second number is 432.\r\nHence option [B] is the right answer."
+}

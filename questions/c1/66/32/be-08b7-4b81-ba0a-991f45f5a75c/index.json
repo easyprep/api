@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T15:21:34.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "c16632be-08b7-4b81-ba0a-991f45f5a75c",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A lends Rs. 2500 to B and certain sum to C at the same time at 7% annual simple interest. If after 4 years, A altogether receives Rs. 1120 as interest from B and C, the sum lent to C is :",
+  "option1": 6500,
+  "option2": 1500,
+  "option3": 4000,
+  "option4": 1000,
+  "option5": "",
+  "answer": 1500,
+  "explanation": "Let the sum lent to C be x\r\nAccording to the question,\r\n$latex => \\\\frac{2500\\\\times 7\\\\times 4}{100}+\\\\frac{x\\\\times 7\\\\times 4}{100}=1120&s=1$\r\n$latex =>2500\\\\times 28 + 28x = 112000$\r\n$latex => 2500 + x = 4000$\r\n$latex => x = 4000-2500 = 1500$\r\nHence option [B] is the right answer."
+}

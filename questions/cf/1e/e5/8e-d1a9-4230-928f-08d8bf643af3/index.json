@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T21:15:48.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "cf1ee58e-d1a9-4230-928f-08d8bf643af3",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The sixth term of the sequence 11, 13, 17, 19, 23, __, 29 is :",
+  "option1": 19,
+  "option2": 22,
+  "option3": 24,
+  "option4": 25,
+  "option5": "",
+  "answer": 25,
+  "explanation": "The sequence is based on the following rule :\r\n$latex 11\\\\xrightarrow{+2}13\\\\xrightarrow{+4}17\\\\xrightarrow{+2}19\\\\xrightarrow{+4}23\\\\xrightarrow{+2}\\\\underline{25}\\\\xrightarrow{+4}29$\r\nHence, the sixth term is 25."
+}

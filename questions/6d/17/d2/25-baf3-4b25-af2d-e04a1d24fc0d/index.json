@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:07:54.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6d17d225-baf3-4b25-af2d-e04a1d24fc0d",
+  "labels": "current-affairs,2018-03-29",
+  "question": "The speed of a bus is 72 km/hr. The distance covered by the bus in 5 seconds is :",
+  "option1": "50 m",
+  "option2": "60 m",
+  "option3": "74.5 m",
+  "option4": "100 m",
+  "option5": "",
+  "answer": "100 m",
+  "explanation": "Speed of Bus = 72 km/h\r\n$latex = \\\\left ( \\\\frac{72\\\\times 5}{18} \\\\right )m/s&s=1$\r\n$latex = 20 m/s$\r\n∴ Required distance = 20 $latex \\\\times$ 5 = 100 metre\r\nHence option [D] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-05-06T19:27:34.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "746e246e-8e50-4fd0-a6e5-42df53b44427",
+  "labels": "current-affairs,2018-05-07",
+  "question": "NITI Aayog has collaborated with which company to develop precision agriculture using Artificial Intelligence?",
+  "option1": "Tata",
+  "option2": "IBM",
+  "option3": "Reliance",
+  "option4": "Infosys",
+  "option5": "",
+  "answer": "IBM",
+  "explanation": "On May 5, the NITI Aayog and IBM have signed a Statement of Intent (SoI) to develop a crop yield prediction model using Artificial Intelligence (AI) to provide real time advisory to farmers in Aspirational Districts. The purpose of the partnership is to work together towards use of technology to provide insights to farmers to improve crop productivity, soil yield, control agricultural inputs with the overarching goal of improving farmers’ incomes. The first phase of the project will focus on developing the model for 10 Aspirational Districts across the States of Assam, Bihar, Jharkhand, Madhya Pradesh, Maharashtra, Rajasthan and Uttar Pradesh. The scope of this project is to introduce and make available climate-aware cognitive farming techniques and identifying systems of crop monitoring, early warning on pest/disease outbreak based on advanced AI innovations."
+}

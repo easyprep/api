@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-06-03T22:28:29.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "8cbdaf5e-8f35-4bfd-b865-77b4159de320",
+  "labels": "current-affairs,2018-06-04",
+  "question": "The India Meteorological Department (IMD) has launched a new EPS to predict severity and intensity of weather. What does \"EPS\" stands for?",
+  "option1": "Ensemble Prediction Systems",
+  "option2": "Enable Prediction Systems",
+  "option3": "Epact Prediction Systems",
+  "option4": "Emanate Prediction Systems",
+  "option5": "",
+  "answer": "Ensemble Prediction Systems",
+  "explanation": "The India Meteorological Department (IMD) has launched a new Ensemble Prediction Systems (EPS) to provide probabilistic weather forecasts up to the next 10 days. According to IMD, these new systems shall improve upon deterministic forecasts that are prone to high margins of error. These systems also use a higher resolution 12 km grid scale, instead of the 23 km resolution that has been in use till now. The forecast related to the intensity of the weather will also be more accurate and colour coded. The new model has been developed jointly by Indian Institute of Tropical Meteorology and National Centre for Medium-Range Weather Forecasting. With this new model, India joins the US with a model that predicts with a 12 km resolution. Only the \\'European Center for Medium Range Weather Forecast\\' has a better 9-kilometer resolution. Better forecasts lead to better management agriculture and water resources. It also helps promote tourism, solar and wind energy."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:21:28.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "f687dadf-c435-4687-a463-fa9f842feeac",
+  "labels": "current-affairs,2018-03-27",
+  "question": "From four corners of a square sheet of side 4 cm, four pieces each in the shape of arc of a circle with radius 2 cm, are cut out. The area of the remaining portion is:",
+  "option1": "(4 - 2π) sq. cm.",
+  "option2": "(16 - 4π) sq. cm.",
+  "option3": "(8 - π) sq. cm.",
+  "option4": "(16 - 8π) sq. cm",
+  "option5": "",
+  "answer": "(16 - 4π) sq. cm.",
+  "explanation": "<img class=\\\"alignright\\\" src=\\\"http://www.gktoday.in/wp-content/uploads/2016/07/ScreenClip.png\\\" width=\\\"81\\\" height=\\\"80\\\" />\r\nArea of sectors $latex = \\\\pi\\\\times r^{2} = 4\\\\pi cm^{2}$\r\n=&gt; Area of square = 4 $latex \\\\times $ 4 = 16 sq.cm.\r\n∴ Area of the remaining portion = (16 - 4π) sq.cm.\r\nHence option [B] is the right answer."
+}

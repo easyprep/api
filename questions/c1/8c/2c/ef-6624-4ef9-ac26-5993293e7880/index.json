@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T13:02:31.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "c18c2cef-6624-4ef9-ac26-5993293e7880",
+  "labels": "current-affairs,2018-03-29",
+  "question": "The simple interest on 7300 Rs. from 11 May, 1987 to 10 september, 1987 (both days included) at 5% per annum is :",
+  "option1": "103 Rs.",
+  "option2": "123 Rs.",
+  "option3": "200 Rs",
+  "option4": "223 Rs",
+  "option5": "",
+  "answer": "123 Rs.",
+  "explanation": "Time from 11 May to 10 September, 1987\r\n= 21 + 30 + 31 + 31 + 10 = 123 days\r\n$latex \\\\therefore Time = 123\\\\ days = \\\\frac{123}{365}\\\\ year&s=1$\r\n$latex \\\\therefore SI = \\\\frac{7300\\\\times 123\\\\times 5}{365\\\\times 100} = 123\\\\ Rs.&s=1$\r\nHence option [B] is correct answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T21:19:39.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "5e43b586-ac5f-4566-9753-2e9cb66bc47d",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The wrong term in the sequence 7, 28, 63, 124, 215, 342, 511 is :",
+  "option1": 28,
+  "option2": 7,
+  "option3": 215,
+  "option4": 124,
+  "option5": "",
+  "answer": 28,
+  "explanation": "The given sequence is based on the following pattern :\r\n$latex 2^{3}-1 = 7$\r\n$latex 3^{3}-1 = \\\\underline{26} , 28(not)$\r\n$latex 4^{3}-1 = 63$\r\n$latex 5^{3}-1 = 125-1 = 124$\r\n$latex 6^{3}-1 = 216-1 = 215$ and so on. \r\n∴ The wrong term is = 28."
+}

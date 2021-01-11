@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T17:12:54.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "e09c3dcc-20b2-436e-940a-be1159dbf8bc",
+  "labels": "current-affairs,2018-03-28",
+  "question": "A man bought an old typewriter for Rs.1200 and spent Rs. 200 on its repair. He sold it for Rs. 1680. His profit percent is :",
+  "option1": 0.2,
+  "option2": 0.1,
+  "option3": 0.08,
+  "option4": 0.16,
+  "option5": "",
+  "answer": 0.2,
+  "explanation": "Total cost of typewriter = Rs. (1200+200) = Rs.1400.\r\nS.P= Rs.1680\r\nProfit = Rs.(1680-1400) = Rs.280\r\nHence profit % = $latex \\\\frac{280}{1400}\\\\times 100= 20$%\r\nSo option [A] is correct."
+}

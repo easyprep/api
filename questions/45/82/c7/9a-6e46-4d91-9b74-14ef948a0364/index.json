@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T15:01:36.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4582c79a-6e46-4d91-9b74-14ef948a0364",
+  "labels": "current-affairs,2018-03-29",
+  "question": "At some rate of simple interest, A lent Rs. 6000 to B for 2 years and Rs. 1500 to C for 4 years and received Rs. 900 as interest from both of them together. The rate of interest per annum was:",
+  "option1": 0.05,
+  "option2": 0.1,
+  "option3": 0.06,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "If rate of interest be R% p.a. then, \r\n$latex S.I. = \\\\frac{Principal\\\\times Time\\\\times Rate}{100}&s=1$\r\n$latex \\\\therefore \\\\frac{6000\\\\times 2\\\\times R}{100}+\\\\frac{1500\\\\times 4\\\\times R}{100}=900&s=1$\r\n$latex =>120R+60R=900$\r\n$latex =>180R=900$\r\n$latex =>R=\\\\frac{900}{180}=&s=1$ 5%\r\nHence option [A] is the right answer"
+}

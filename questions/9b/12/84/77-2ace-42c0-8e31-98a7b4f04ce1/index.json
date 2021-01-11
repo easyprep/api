@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T16:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "9b128477-2ace-42c0-8e31-98a7b4f04ce1",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A number, when divided by 119, leaves a remainder of 19. If it is divided by 17, it will leave a remainder of :",
+  "option1": 2,
+  "option2": 7,
+  "option3": 10,
+  "option4": 19,
+  "option5": "",
+  "answer": 2,
+  "explanation": "On dividing the given number by 119, let k be the quotient and 19 as remainder.\r\nThen, number = 119k + 19\r\n$latex = 17\\\\times 7k+17\\\\times 1+2$\r\n$latex = 17\\\\left ( 7k+1 \\\\right )+2$\r\nHence, the given number when divided by 17, gives (7k + 1) as quotient and 2 as remainder. Hence option [A] is right answer."
+}

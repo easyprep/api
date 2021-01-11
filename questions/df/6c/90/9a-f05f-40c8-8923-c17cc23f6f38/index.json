@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T23:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "df6c909a-f05f-40c8-8923-c17cc23f6f38",
+  "labels": "current-affairs,2018-03-28",
+  "question": "Find the missing number of the sequence:\r\n\"3, 14, 25, 36, 47, ?\"",
+  "option1": 1111,
+  "option2": 1113,
+  "option3": 1114,
+  "option4": "None of these",
+  "option5": "",
+  "answer": "None of these",
+  "explanation": "$latex 3\\\\xrightarrow{+11}14\\\\xrightarrow{+11}25\\\\xrightarrow{+11}36\\\\xrightarrow{+11}47\\\\xrightarrow{+11}58$\r\n∴ Missing number in the sequence = 58.\r\nSo option [D] is the right answer."
+}

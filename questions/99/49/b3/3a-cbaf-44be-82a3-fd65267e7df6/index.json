@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:46:35.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "9949b33a-cbaf-44be-82a3-fd65267e7df6",
+  "labels": "current-affairs,2018-03-30",
+  "question": "The pie chart drawn belown shows the expenses of a family on various items and its savings during the year 2001. Study the graph and answer the question.\r\n\r\n<img src=\"http://www.gktoday.in/wp-content/uploads/2016/07/pie-chart.gif\">\r\n<br/>\r\n\r\n If the total income for the year was 100000 Rs. the difference of the expensses (in rupees) between housing and transport was:",
+  "option1": "7000 Rs",
+  "option2": "10000 Rs",
+  "option3": "15000 Rs",
+  "option4": "12000 Rs",
+  "option5": "",
+  "answer": "10000 Rs",
+  "explanation": "The percentage difference in expenditure on housing and transport = (15 - 5) % = 10%\r\nThe required difference  $latex = 10\\\\% of 100000$\r\n$latex = 10000 Rs.$\r\nHence option [B] is the right answer."
+}

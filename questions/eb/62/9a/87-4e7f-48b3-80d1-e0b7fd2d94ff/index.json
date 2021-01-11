@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T15:38:16.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "eb629a87-4e7f-48b3-80d1-e0b7fd2d94ff",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The cost price of a radio is 600 Rs. The 5% of the cost price is charged towards transportation. After adding that, if the net profit to be made is 15%, then the selling price of the radio must be :",
+  "option1": "664.50 Rs.",
+  "option2": "684.50 Rs.",
+  "option3": "704.50 Rs",
+  "option4": "724.50 Rs",
+  "option5": "",
+  "answer": "724.50 Rs",
+  "explanation": "Actual C.P. of radio = \r\n$latex = 600 + \\\\frac{600\\\\times 5}{100} = 630 Rs.&s=1$\r\n∴ Required S.P. = \r\n$latex = \\\\frac{630\\\\times 115}{100} = 724.50 Rs.&s=1$\r\nHence option [D] is the right answer."
+}

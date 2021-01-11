@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T22:56:35.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "88e76d47-c804-4e6a-ab51-336004957bc9",
+  "labels": "current-affairs,2018-03-28",
+  "question": "What will come in the place of question mark, in this series 2, 7, 14, 23, ?, 47",
+  "option1": 28,
+  "option2": 31,
+  "option3": 34,
+  "option4": 38,
+  "option5": "",
+  "answer": 34,
+  "explanation": "The given series is based on the following pattern :\r\n$latex 2\\\\xrightarrow{+5}7\\\\xrightarrow{+7}14\\\\xrightarrow{+9}23\\\\xrightarrow{+11}\\\\underline{34}\\\\xrightarrow{+13}47$\r\n∴ ? = 34\r\nHence option [C] is the correct answer"
+}

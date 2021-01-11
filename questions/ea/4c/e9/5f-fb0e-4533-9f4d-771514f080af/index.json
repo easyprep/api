@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:10:54.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "ea4ce95f-fb0e-4533-9f4d-771514f080af",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The length of a rectangular garden is 12 metres and its breadth is 5 metres. Find the length of the diagonal of a square garden having the same area as that of the rectangular garden :",
+  "option1": "$latex 8\\sqrt{15} m$",
+  "option2": "$latex 13 m$",
+  "option3": "$latex 2\\sqrt{30} m$",
+  "option4": "$latex \\sqrt{13} m$",
+  "option5": "",
+  "answer": "$latex 2\\sqrt{30} m$",
+  "explanation": "Area of the rectangular garden $latex = 12 \\\\times 5 = 60 m^{2}$ \r\nArea of the square garden $latex = 60 m^{2}$\r\n∴ Side of the square garden $latex = \\\\sqrt{60} m^{2}$\r\n∴ Diagonal of the square garden $latex = \\\\sqrt{2}\\\\times Side$\r\n$latex = \\\\sqrt{2}\\\\times \\\\sqrt{60} = \\\\sqrt{120}= \\\\sqrt{4\\\\times 30}$\r\n$latex = 2\\\\sqrt{30}m$\r\nHence option [C] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T21:01:13.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "14d61711-c85a-4b3d-8b9b-8f93909e1f9a",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Two pipes A and B can separately fill a tank in 2 hours and 3 hours respectively. If both the pipes are opened simultaneously in the empty tank, then the tank will be filled in:",
+  "option1": "1 hour 12 minutes",
+  "option2": "1 hour 15 minutes",
+  "option3": "1 hour 20 minutes",
+  "option4": "2 hours 30 minutes",
+  "option5": "",
+  "answer": "1 hour 12 minutes",
+  "explanation": "Part of the tank filled by pipe A and B in 1 hour\r\n$latex = \\\\frac{1}{2}+\\\\frac{1}{3}=\\\\frac{3+2}{6} = \\\\frac{5}{6}\\\\ parts&s=1$\r\n∴ Required Time $latex = \\\\frac{6}{5}\\\\ hours&s=1$\r\n$latex = 1\\\\ hour\\\\ \\\\frac{1}{5}\\\\times 60 = 12\\\\ minutes.&s=1$\r\nHence option [A] is correct answer."
+}

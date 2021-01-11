@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:51:26.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "673946ff-2d75-41c0-9d31-a7903fb11ba9",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A pipe can fill a tank in x hours and another can empty it in y hours. In how many hours they can together fill it (where y > x) :",
+  "option1": "$latex x-y\\ hours$",
+  "option2": "$latex y-x\\ hours$",
+  "option3": "$latex \\frac{xy}{y-x}\\ hours&s=1$",
+  "option4": "$latex \\frac{xy}{x-y}\\ hours&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{xy}{y-x}\\ hours&s=1$",
+  "explanation": "When both pipes are opened simultaneously, part of the tank filled in 1 hour\r\n$latex = \\\\frac{1}{x}-\\\\frac{1}{y}=\\\\frac{y-x}{xy}&s=1$\r\n∴ Required time $latex = \\\\frac{xy}{y-x}\\\\ hours&s=1$\r\nHence option [C] is correct answer."
+}

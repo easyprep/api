@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:40:56.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6d735dfa-e72b-4207-a7ae-fe7b8c71a1b4",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A man walking at the rate of 5 km/hr. crosses a bridge in 15 minutes. The length of the bridge (in meters) is:",
+  "option1": "1000 m",
+  "option2": "1250 m",
+  "option3": "600 m",
+  "option4": "750 m",
+  "option5": "",
+  "answer": "1250 m",
+  "explanation": "Speed of the man = 5 km/hr\r\n$latex = 5\\\\times \\\\frac{1000}{60}m/min = \\\\frac{250}{3}m/min&s=1$\r\nTime taken to cross the bridge = 15 minutes\r\nLength of the bridge = Speed $latex \\\\times$ Time\r\n$latex = \\\\frac{250}{3}\\\\times 15m = 1250m&s=1$\r\nHence option [B] is the right answer."
+}

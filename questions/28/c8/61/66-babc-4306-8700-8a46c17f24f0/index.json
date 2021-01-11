@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T13:21:31.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "28c86166-babc-4306-8700-8a46c17f24f0",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A sum of money amounts to 850 Rs. in 3 years and to 925 Rs. in 4 years at some rate of simple interest. The sum is :",
+  "option1": "550 Rs",
+  "option2": "600 Rs",
+  "option3": "625 Rs",
+  "option4": "700 Rs",
+  "option5": "",
+  "answer": "625 Rs",
+  "explanation": "Interest for 1 year= (925 - 850) = 75 Rs. \r\n∴ If a sum becomes $latex a_{1}$ in $latex t_{1}$ years and $latex a_{2}$ in $latex t_{2}$ years then rate of interest\r\n$latex = \\\\frac{100(a_{2}-a_{1})}{a_{1}t_{2} - a_{1}t_{1}}\\\\%&s=1$\r\n$latex = \\\\frac{100(925-850)}{850\\\\times 4- 3\\\\times 925} = \\\\frac{7500}{625} = 12\\\\%&s=1$\r\n$latex \\\\therefore Principal = \\\\frac{SI\\\\times 100}{Time\\\\times Rate}&s=1$\r\n$latex = \\\\frac{75\\\\times 100}{1\\\\times 12} = 625\\\\ Rs.&s=1$\r\nHence option [C] is correct answer."
+}

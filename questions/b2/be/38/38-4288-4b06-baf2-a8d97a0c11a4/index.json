@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T13:03:26.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "b2be3838-4288-4b06-baf2-a8d97a0c11a4",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B together can complete a piece of work in 18 days, B and C in 24 days and A and C in 36 days. In how many days, will all of them together complete the work?",
+  "option1": "10 days",
+  "option2": "12 days",
+  "option3": "15 days",
+  "option4": "16 days",
+  "option5": "",
+  "answer": "16 days",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{18}&s=1$\r\n(B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{24}&s=1$\r\n(C + A)\\'s 1 day\\'s work $latex = \\\\frac{1}{36}&s=1$\r\nOn adding, \r\n2(A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{18}+\\\\frac{1}{24}+\\\\frac{1}{36} = \\\\frac{4+3+2}{72} = \\\\frac{1}{8}&s=1$\r\n∴ (A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{16}&s=1$\r\n∴ A, B and C together will complete the work in 16 days.\r\nHence option [D] is correct answer."
+}

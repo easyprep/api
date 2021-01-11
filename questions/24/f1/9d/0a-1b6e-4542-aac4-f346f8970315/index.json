@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T19:39:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "24f19d0a-1b6e-4542-aac4-f346f8970315",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If a : b = c : d = e : f = 1 : 2, then (3a + 5c + 7e) : (3b + 5d + 7f) is equal to:",
+  "option1": "1 : 2",
+  "option2": "1 : 4",
+  "option3": "2 : 1",
+  "option4": "8 : 7",
+  "option5": "",
+  "answer": "1 : 2",
+  "explanation": "$latex \\\\frac{a}{b} = \\\\frac{c}{d} = \\\\frac{e}{f} = \\\\frac{1}{2}&s=1$\r\n$latex \\\\therefore \\\\frac{3a}{3b} = \\\\frac{5c}{5d} = \\\\frac{7e}{7f} = \\\\frac{1}{2}&s=1$\r\n$latex \\\\therefore \\\\frac{3a+5c+7e}{3b+5d+7f} = \\\\frac{1}{2} = 1  : 2&s=1$\r\nHence option [A] is the right answer"
+}

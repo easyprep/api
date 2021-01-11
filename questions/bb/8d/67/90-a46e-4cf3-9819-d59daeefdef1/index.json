@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:14:33.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "bb8d6790-a46e-4cf3-9819-d59daeefdef1",
+  "labels": "current-affairs,2018-03-28",
+  "question": "A salesman expects a gain of 13% on his cost price. If in a month his sale was 791000 Rs. , what was his profit?",
+  "option1": "85659 Rs",
+  "option2": "97786 Rs",
+  "option3": "88300 Rs",
+  "option4": "91000 Rs",
+  "option5": "",
+  "answer": "91000 Rs",
+  "explanation": "Cost price $latex = \\\\frac{791000\\\\times 100}{113} = 700000Rs. &s=1$\r\n$latex \\\\therefore Gain = 791000 - 700000 = 91000 Rs.$\r\nHence option [D] is the right answer."
+}

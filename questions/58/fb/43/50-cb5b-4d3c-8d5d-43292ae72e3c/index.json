@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T17:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "58fb4350-cb5b-4d3c-8d5d-43292ae72e3c",
+  "labels": "current-affairs,2018-03-29",
+  "question": "Motor-cyclist P started his journey at a speed of 30 km/hr. After 30 minutes, motor cyclist Q started from the same place but with a speed of 40 km/hr. How much time will Q take to overtake P?",
+  "option1": "$latex 1\\ hours$",
+  "option2": "$latex \\frac{3}{8}\\ hours&s=1$",
+  "option3": "$latex \\frac{3}{2}\\ hours&s=1$",
+  "option4": "$latex 2\\ hours$",
+  "option5": "",
+  "answer": "$latex \\frac{3}{2}\\ hours&s=1$",
+  "explanation": "Distance covered by motor cyclist P in 30 minutes. \r\n$latex = 30\\\\times \\\\frac{1}{2} = 15\\\\ km&s=1$\r\nRelative Speed = 40 - 30 = 10 km/hr\r\n∴ Required Speed = Time taken to cover is km at 10 km/hr\r\n$latex = \\\\frac{15}{10} = \\\\frac{3}{2}\\\\ hours&s=1$\r\nHence option [C] is correct answer."
+}

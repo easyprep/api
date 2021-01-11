@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T23:49:55.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "cd140670-fef5-41b5-8869-31ac17d4edaa",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The missing term in the sequence 0, 3, 8, 15, 24, …, 48 is:",
+  "option1": 30,
+  "option2": 39,
+  "option3": 35,
+  "option4": 36,
+  "option5": "",
+  "answer": 35,
+  "explanation": "$latex 0\\\\xrightarrow{+3}3\\\\xrightarrow{+5}8\\\\xrightarrow{+7}15\\\\xrightarrow{+9}24\\\\xrightarrow{+11}35\\\\xrightarrow{+13}48$\r\nMissing no. = 35\r\nHence option [C] is the right answer."
+}

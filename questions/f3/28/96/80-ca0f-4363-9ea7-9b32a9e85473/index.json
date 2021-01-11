@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T14:54:07.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "f3289680-ca0f-4363-9ea7-9b32a9e85473",
+  "labels": "current-affairs,2018-03-28",
+  "question": "What would be the squre root of 0.0009",
+  "option1": 0.003,
+  "option2": 0.03,
+  "option3": 0.09,
+  "option4": 0.0003,
+  "option5": "",
+  "answer": 0.03,
+  "explanation": "$latex \\\\because \\\\sqrt{0.0009}=\\\\sqrt{\\\\frac{9}{10000}}=\\\\frac{3}{100}=0.03&s=2$\r\nHence option [B] is the right answer."
+}

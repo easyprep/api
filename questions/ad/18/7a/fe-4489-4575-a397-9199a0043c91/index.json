@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:01:25.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "ad187afe-4489-4575-a397-9199a0043c91",
+  "labels": "current-affairs,2018-03-28",
+  "question": "An item when sold for 1690 Rs. earned 30% profit on the cost price. Then the cost price is :",
+  "option1": "130 Rs.",
+  "option2": "507 Rs.",
+  "option3": "630 Rs.",
+  "option4": "1300 Rs",
+  "option5": "",
+  "answer": "1300 Rs",
+  "explanation": "If the C.P. be x, then \r\n$latex = \\\\frac{x\\\\times 130}{100} = 1690&s=1$\r\n$latex => x = \\\\frac{1690\\\\times 100}{130} = 1300 Rs.&s=1$\r\nHence option [D] is the right answer."
+}

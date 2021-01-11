@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T19:37:52.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "24f9cd52-2dc3-4986-a3b2-3f10887e4f0f",
+  "labels": "current-affairs,2018-03-27",
+  "question": "30% of x is 72. The value of x is :",
+  "option1": 240,
+  "option2": 216,
+  "option3": 280,
+  "option4": 640,
+  "option5": "",
+  "answer": 240,
+  "explanation": "30% of x is 72\r\n$latex \\\\therefore x = \\\\frac{72\\\\times 100}{30} = 240&s=1$\r\nHence option [A] is the correct answer."
+}

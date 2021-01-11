@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:25:17.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "1dba672e-1532-47fe-ac25-aae81e6ce727",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If p% of p is 36, then p is equal to :",
+  "option1": 15,
+  "option2": 60,
+  "option3": 600,
+  "option4": 3600,
+  "option5": "",
+  "answer": 60,
+  "explanation": "p% of p = 36\r\n$latex =>\\\\frac{p}{100}\\\\times p=36&s=1$\r\n$latex => p^{2}=3600&s=1$\r\n$latex => p = 60$\r\nHence option [B] is correct."
+}

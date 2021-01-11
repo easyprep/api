@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T23:02:19.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "ebbde97c-4cb7-49f9-a8ce-d8d6d06d6cc8",
+  "labels": "current-affairs,2018-03-28",
+  "question": "In the sequence of number 0, 7, 26, 63, ……, 215, 342 the missing term is :",
+  "option1": 125,
+  "option2": 134,
+  "option3": 124,
+  "option4": 114,
+  "option5": "",
+  "answer": 124,
+  "explanation": "The given series is based on the following pattern :\r\n$latex 1^{3}-1 = 0$\r\n$latex 2^{3}-1 = 7$\r\n$latex 3^{3}-1 = 26$\r\n$latex 4^{3}-1 = 63$\r\n$latex 5^{3}-1 = \\\\underline{124}$\r\n$latex 6^{3}-1 = 215$\r\n$latex 7^{3}-1 = 352$\r\nHence the missing term is 124."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:44:55.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6a52a1cb-8fdd-4a31-bb58-2435a741fe7c",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A sum of money lent out at simple interest amounts to 720 Rs. after 2 years and to 1020 Rs. after a further period of 5 years. The sum is :",
+  "option1": "500 Rs.",
+  "option2": "600 Rs.",
+  "option3": "700 Rs.",
+  "option4": "710 Rs.",
+  "option5": "",
+  "answer": "600 Rs.",
+  "explanation": "Principal + SI for 2 years = 720 Rs. ……(I)\r\nPrincipal + SI for 7 years = 1020 Rs. ……(II)\r\nSubtracting equation (I) from (II), \r\nS.I. for 5 years = (1020 - 720) = 300 Rs.\r\n∴ S.I. for 2 years $latex = 300\\\\times \\\\frac{2}{5} = 120 Rs.&s=1$\r\n∴ Principal = (720 - 120) = 600 Rs.\r\nHence option [B] is correct answer."
+}

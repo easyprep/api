@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T17:32:32.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6b01dc66-db53-4939-8624-605d30bd62c4",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If a : b : c = 7 : 3 : 5, then (a + b + c) : (2a + b - c) is equal to :",
+  "option1": "1 : 2",
+  "option2": "2 : 3",
+  "option3": "3 : 4",
+  "option4": "5 : 4",
+  "option5": "",
+  "answer": "5 : 4",
+  "explanation": "$latex a : b :  c = 7 : 3 : 5$\r\n$latex => \\\\frac{a}{7} = \\\\frac{b}{3} = \\\\frac{c}{5} = k (let)$\r\n$latex => a = 7k, b = 3k, c = 5k$\r\nNow $latex (a + b + c) : (2a + b - c)$\r\n$latex = (7k + 3k + 5k) : (2\\\\times 7k + 3k - 5k)$\r\n$latex = 15k : 12k = 5 : 4$\r\nHence option [D] is correct answer."
+}

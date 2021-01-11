@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:03:11.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "3eba0d2c-ca6a-4c9d-a2b3-68fa1eb24053",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If x is 80% of y, what percent of y is x?",
+  "option1": 0.75,
+  "option2": 1.25,
+  "option3": 0.8,
+  "option4": 1,
+  "option5": "",
+  "answer": 1.25,
+  "explanation": "According to question, \r\n$latex y = \\\\frac{100\\\\times 100}{80} of x&s=1$\r\n$latex \\\\therefore y = 125\\\\% of x$\r\nHence option [B] is the correct answer."
+}

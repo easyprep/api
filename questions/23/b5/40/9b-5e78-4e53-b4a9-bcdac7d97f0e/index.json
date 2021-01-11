@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:46:15.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "23b5409b-5e78-4e53-b4a9-bcdac7d97f0e",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Pipe P and Q can fill a tank in 10 and 12 hours respectively and C can empty it in 6 hours. If all the three are opened at 7 am, at what time will one-fourth of the tank be filled?",
+  "option1": "1899-12-30T04:38:50.000Z",
+  "option2": "1899-12-30T05:38:50.000Z",
+  "option3": "1899-12-30T16:38:50.000Z",
+  "option4": "1899-12-30T17:38:50.000Z",
+  "option5": "",
+  "answer": "1899-12-30T16:38:50.000Z",
+  "explanation": "Part of tank filled in 1 hour when all three pipes are opened\r\n$latex = \\\\frac{1}{10}+\\\\frac{1}{12}-\\\\frac{1}{6}&s=1$\r\n$latex = \\\\frac{6+5-10}{60} = \\\\frac{1}{60}&s=1$\r\n∴ The tank will be filled in 60 hours. \r\n∴ One fourth of the tank will be filled in 15 hours so the tank will be filled at 10 pm.\r\nHence option [C] is correct answer."
+}

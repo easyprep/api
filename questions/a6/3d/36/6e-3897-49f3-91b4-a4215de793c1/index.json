@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T16:56:24.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "a63d366e-3897-49f3-91b4-a4215de793c1",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A number being divided by 52 gives remainder 45. If the number is divided by 13, the remainder will be :",
+  "option1": 5,
+  "option2": 6,
+  "option3": 7,
+  "option4": 12,
+  "option5": "",
+  "answer": 6,
+  "explanation": "Here, 52 is a multiple of 13. Hence, the required remainder is obtained on dividing 45 by 13. \r\n∵ Required remainder = 6. Hence option [B] is correct answer"
+}

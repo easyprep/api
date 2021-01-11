@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:53:56.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "601ef061-5c86-4e90-b8a6-e4970e78b750",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If a:b=5:7, find (3a+5b):(5a-2b)",
+  "option1": "50:9",
+  "option2": "40:9",
+  "option3": "1899-12-31T20:49:50.000Z",
+  "option4": "1899-12-31T10:49:50.000Z",
+  "option5": "",
+  "answer": "1899-12-31T20:49:50.000Z",
+  "explanation": "$latex \\\\because \\\\frac{a}{b}=\\\\frac{5}{7}&S=2$\r\n$latex \\\\therefore \\\\frac{\\\\left ( 3a+5b \\\\right )}{5a-2b}=\\\\frac{3\\\\left ( \\\\frac{a}{b} \\\\right )+5}{5\\\\left ( \\\\frac{a}{b} \\\\right )-2}&S=2$\r\n$latex =>\\\\frac{3\\\\times \\\\frac{5}{7}+5}{5\\\\times \\\\frac{5}{7}-2}=\\\\frac{50}{11}&S=2$\r\n$latex =>a:b=50:11 $\r\nHence option [C] is the right answer."
+}

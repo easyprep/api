@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T13:16:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "9ba16b7d-7dc4-4236-b71a-cf099cf68b6d",
+  "labels": "current-affairs,2018-03-30",
+  "question": "15 men take 20 days to complete a job working 8 hours a day. The number of hours a day should 20 men take to complete the job in 12 days :",
+  "option1": "5 hours",
+  "option2": "10 hours",
+  "option3": "15 hours",
+  "option4": "18 hours",
+  "option5": "",
+  "answer": "10 hours",
+  "explanation": "$latex M_{1}D_{1}T_{1} = M_{2}D_{2}T_{2}$\r\n$latex => 15\\\\times 20\\\\times 8 = 20\\\\times 12\\\\times T_{2}$\r\n$latex => T_{2} = \\\\frac{15\\\\times 20\\\\times 8}{20\\\\times 12} = 10\\\\ hours&s=1$\r\nHence option [B] is correct answer.<"
+}

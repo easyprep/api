@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T16:48:10.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d12e3bd2-b29b-4cb3-b10a-38c1ed651653",
+  "labels": "current-affairs,2018-03-27",
+  "question": "In a division problem, the divisor is 4 times the quotient and 3 times the remainder. If remainder is 4, then the dividend is :",
+  "option1": 12,
+  "option2": 30,
+  "option3": 36,
+  "option4": 40,
+  "option5": "",
+  "answer": 40,
+  "explanation": "Remainder = 4\r\n=> Divisor = 3 $latex \\\\times$ 4 = 12\r\nAgain, divisor = 4 $latex \\\\times$ quotient\r\n=> 4 $latex \\\\times$ quotient = 12\r\n$latex => Quotient = \\\\frac{12}{4} = 3&s=1$\r\n$latex => Dividend = 3\\\\times 12 + 4 = 40$\r\nHence option [D] is correct answer."
+}

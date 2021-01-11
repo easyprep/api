@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T12:58:20.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "8f9eb733-f6fe-45e2-bed6-28f1b2a51149",
+  "labels": "current-affairs,2018-03-30",
+  "question": "If A and B together can complete a piece of work in 20 days, B and C in 10 days and C and A in 12 days, then A, B and C together can complete the same work in :",
+  "option1": "$latex 4\\frac{2}{7}\\ days&s=1$",
+  "option2": "$latex \\frac{7}{60}\\ days&s=1$",
+  "option3": "$latex 8\\frac{4}{7}\\ days&s=1$",
+  "option4": "$latex 30\\ days$",
+  "option5": "",
+  "answer": "$latex 8\\frac{4}{7}\\ days&s=1$",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{20}&s=1$\r\n(B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{10}&s=1$\r\n(C + A)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}&s=1$\r\nOn adding, \r\n2(A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{20}+\\\\frac{1}{10}+\\\\frac{1}{12} = \\\\frac{3+6+5}{60} = \\\\frac{7}{30}&s=1$\r\n∴ (A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{7}{60}&s=1$\r\n∴ Hence, the work will be completed in $latex \\\\frac{60}{7} = 8\\\\frac{4}{7}\\\\ days&s=1$.\r\nHence option [C] is correct answer."
+}

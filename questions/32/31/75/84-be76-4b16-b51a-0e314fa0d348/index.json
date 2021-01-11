@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:56:51.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "32317584-be76-4b16-b51a-0e314fa0d348",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A lent 5000 Rs. to B for 2 years and 3000 Rs. to C for 4 years on simple interest at the same rate of interest and received 2200 Rs. in all from both as interest. The rate of interest per annum is :",
+  "option1": "$latex 7\\frac{1}{8}\\%&s=1$",
+  "option2": 0.1,
+  "option3": 0.07,
+  "option4": 0.05,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "Let the rate of the interest per annum be r%\r\nAccording to the question, \r\n$latex \\\\frac{5000\\\\times 2\\\\times r}{100}+\\\\frac{3000\\\\times 4\\\\times r}{100} = 2200&s=1$\r\n$latex => 100r +120r = 2200&s=1$\r\n$latex => 220r = 2200&s=1$\r\n$latex => r = \\\\frac{2200}{220} = 10\\\\%&s=1$\r\nHence option [B] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:22:44.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "37e01ced-95a1-44e3-b55b-89c9309d240d",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A train covers a distance of 10 km in 12 minutes. If its speed is decreased by 5 km/hr, the time taken by it to cover the same distance will be :",
+  "option1": "10 minutes",
+  "option2": "11 minutes 20 sec",
+  "option3": "13 minutes",
+  "option4": "13 minutes 20 sec",
+  "option5": "",
+  "answer": "13 minutes 20 sec",
+  "explanation": "Speed of train $latex = \\\\frac{Distance}{Time}&s=1$\r\n$latex =\\\\frac{10}{\\\\frac{12}{60}}km/h&s=1$\r\n$latex =\\\\frac{10\\\\times 60}{12} = 50km/h&s=1$\r\nNew Speed $latex = 45km/h&s=1$\r\n∴ Required Time $latex = \\\\frac{10}{45}hour&s=1$\r\n$latex = \\\\frac{2}{9}\\\\times 60 minutes&s=1$\r\n$latex = \\\\frac{40}{3} minutes&s=1$\r\n$latex = 13 minutes 20 seconds$\r\nHence option [D] is correct answer."
+}

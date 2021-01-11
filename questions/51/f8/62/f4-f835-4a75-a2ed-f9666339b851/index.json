@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T12:55:14.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "51f862f4-f835-4a75-a2ed-f9666339b851",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A can do a piece of work in 12 days, and B in 15 days. They work together for 5 days and then B left. The days taken A to finish the remaining work is :",
+  "option1": "3 days",
+  "option2": "5 days",
+  "option3": "10 days",
+  "option4": "121 days",
+  "option5": "",
+  "answer": "5 days",
+  "explanation": "Work done by A and B in 5 days\r\n$latex = 5\\\\left ( \\\\frac{1}{12}+\\\\frac{1}{15} \\\\right ) = 5\\\\left ( \\\\frac{5+4}{60} \\\\right )&s=1$\r\n$latex = 5\\\\times \\\\frac{9}{60} = \\\\frac{9}{12} = \\\\frac{3}{4}&s=1$\r\nRemaining work $latex = 1-\\\\frac{3}{4} = \\\\frac{1}{4}&s=1$\r\n∴ Time taken by A $latex = \\\\frac{1}{4}\\\\times 12 = 3\\\\ days&s=1$\r\nHence option [A] is correct answer.<"
+}

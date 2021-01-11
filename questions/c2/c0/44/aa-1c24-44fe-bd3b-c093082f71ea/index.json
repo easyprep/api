@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "c2c044aa-1c24-44fe-bd3b-c093082f71ea",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B together can do a piece of work in 10 days, while B and C together can do it in 12 days and C and A together in 15 days. In how many days C would complete it alone?",
+  "option1": "24 days",
+  "option2": "30 days",
+  "option3": "40 days",
+  "option4": "60 days",
+  "option5": "",
+  "answer": "40 days",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{10}&s=1$......(I)\r\n(B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}&s=1$......(II)\r\n(C + A)\\'s 1 day\\'s work $latex = \\\\frac{1}{15}&s=1$......(III)\r\nOn adding all the equations, \r\n2 (A +B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{10} + \\\\frac{1}{12} + \\\\frac{1}{15} = \\\\frac{6+5+4}{60} = \\\\frac{1}{4}&s=1$\r\n∴ (A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{8}&s=1$......(IV)\r\nNow, C\\'s 1 day\\'s work = (A + B + C)\\'s 1 day\\'s work - (A + B)\\'s 1 day\\'s work \r\n$latex = \\\\frac{1}{8}-\\\\frac{1}{10}=\\\\frac{5-4}{40}=\\\\frac{1}{40}&s=1$\r\nHence C will finish the work in 40 days. So option [C] is correct answer."
+}

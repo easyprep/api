@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T17:03:07.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6ea9d527-c01f-41d5-ad43-57df37c85628",
+  "labels": "current-affairs,2018-03-28",
+  "question": "A milkman bought 70 liters of milk for Rs. 630 and added 5 liters of water. If he sells it at Rs. 9.00 per liter, his profit percent is :",
+  "option1": "$latex 8\\frac{1}{5}$%",
+  "option2": "$latex 7$%",
+  "option3": "$latex 8\\frac{2}{5}$%",
+  "option4": "$latex 7\\frac{1}{7}$%",
+  "option5": "",
+  "answer": "$latex 7\\frac{1}{7}$%",
+  "explanation": "C.P of 75 liters of mixtures of milk and water = Rs. 630.\r\nS.P of 75 liters of mixtures of milk and waete = $latex 9\\\\times 75$=Rs. 675.\r\nGain %= $latex \\\\frac{45}{630}\\\\times 100= \\\\frac{50}{7}= 7\\\\frac{1}{7}&s=2$ %\r\nHence option [D] is the right answer."
+}

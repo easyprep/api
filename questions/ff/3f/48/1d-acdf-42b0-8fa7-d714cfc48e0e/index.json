@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:12:46.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "ff3f481d-acdf-42b0-8fa7-d714cfc48e0e",
+  "labels": "current-affairs,2018-03-29",
+  "question": "Walking at the rate of 4 km an hour, a man covers a certain distance in 3 hours 45 minutes. If he covers the same distance on cycle, cycling at the rate of 16.5 km/hr, the time taken by him is :",
+  "option1": "45.55 minutes",
+  "option2": "54.55 minutes",
+  "option3": "55.44 minutes",
+  "option4": "55.45 minutes",
+  "option5": "",
+  "answer": "54.55 minutes",
+  "explanation": "Distance covered on foot $latex = 4\\\\times 3\\\\frac{3}{4}km = 15km&s=1$\r\n∴ Time taken on cycle $latex = \\\\frac{Distance}{Speed} = \\\\frac{15}{16.5}hour&s=1$\r\n$latex = \\\\frac{15\\\\times 60}{16.5}minutes&s=1$\r\n$latex = 54.55 minutes$\r\nHence option [B] is correct answer"
+}

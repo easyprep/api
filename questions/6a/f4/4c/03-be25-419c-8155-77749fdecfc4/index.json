@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:48:08.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6af44c03-be25-419c-8155-77749fdecfc4",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A man crosses a road 250 meters wide in 75 seconds. His speed in km/hr is:",
+  "option1": 12.5,
+  "option2": 15,
+  "option3": 10,
+  "option4": 12,
+  "option5": "",
+  "answer": 12,
+  "explanation": "$latex Speed = \\\\frac{Distance }{Time}=\\\\frac{250}{75}&s=1$\r\n$latex =\\\\frac{10}{3}m/s=\\\\frac{10}{3}\\\\times \\\\frac{18}{5}km/hr&s=1$\r\n$latex =2\\\\times 6 km/hr= 12 km/hr$\r\nHence option [D] is the right answer."
+}

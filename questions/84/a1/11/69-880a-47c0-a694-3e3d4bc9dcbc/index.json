@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:30:16.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "84a11169-880a-47c0-a694-3e3d4bc9dcbc",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The length of a plot is five times its breadth. A playground measuring 245 square meters occupies half of the total area of the plot. What is the length of the plot?",
+  "option1": "$latex 5\\sqrt{2} m$",
+  "option2": "$latex 175\\sqrt{2} m$",
+  "option3": "$latex 35\\sqrt{2} m$",
+  "option4": "$latex 490 m$",
+  "option5": "",
+  "answer": "$latex 35\\sqrt{2} m$",
+  "explanation": "Let breadth of plot = x m\r\n∴ lenght = 5x m\r\nAs per the question, \r\n$latex \\\\frac{5x^{2}}{2} = 245&s=1$\r\n$latex => x^{2} = \\\\frac{245\\\\times 2}{5} = 98&s=1$\r\n$latex => x = 7 \\\\sqrt{2} m$\r\n$latex \\\\therefore length = 5\\\\times 7\\\\sqrt{2} = 35\\\\sqrt{2}m$\r\nHence option [C] is the right answer."
+}

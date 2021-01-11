@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:10:16.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d3077443-90e6-4d99-a7ba-2abac86a1d57",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If A : B = 3 : 4, B : C = 5 : 7 and C : D = 8 : 9 then A : D is equal to",
+  "option1": "10 : 21",
+  "option2": "21 : 10",
+  "option3": "3 : 7",
+  "option4": "7 : 3",
+  "option5": "",
+  "answer": "10 : 21",
+  "explanation": "$latex A : D = \\\\frac{A}{D} = \\\\frac{A}{B}\\\\times \\\\frac{B}{C}\\\\times \\\\frac{C}{D}&s=1$\r\n$latex = \\\\frac{3}{4}\\\\times \\\\frac{5}{7}\\\\times \\\\frac{8}{9}&s=1$\r\n$latex => \\\\frac{10}{21} = 10 : 21&s=1$\r\nHence option [A] is the right answer."
+}

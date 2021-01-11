@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T22:13:46.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "f61981a8-ca41-47e9-a9a9-1d3296260d59",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If pipes, A and B, together can fill a tank in 20 minutes and A alone can fill in 30 minutes. Then pipe B alone can fill the tank in :",
+  "option1": "51 minutes",
+  "option2": "60 minutes",
+  "option3": "61 minutes",
+  "option4": "62 minutes",
+  "option5": "",
+  "answer": "60 minutes",
+  "explanation": "Because according to the question, part of the tank filled by pipe B in\r\n$latex 1\\\\ minute\\\\ = \\\\frac{1}{20}-\\\\frac{1}{30}= \\\\frac{3-2}{60}= \\\\frac{1}{60}&s=1$\r\nHence pipe B alone can fill the tank in 60 minutes, and option [B] is correct answer."
+}

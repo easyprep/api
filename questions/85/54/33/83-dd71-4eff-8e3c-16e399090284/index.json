@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T19:44:30.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "85543383-dd71-4eff-8e3c-16e399090284",
+  "labels": "current-affairs,2018-03-27",
+  "question": "65g is what per cent of 2 kg?",
+  "option1": "$latex \\frac{13}{8}&s=1$",
+  "option2": "$latex \\frac{65}{2}&s=1$",
+  "option3": "$latex \\frac{13}{4}&s=1$",
+  "option4": "$latex \\frac{15}{8}&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{13}{4}&s=1$",
+  "explanation": "Required Percentage = \r\n$latex = \\\\frac{65}{2000}\\\\times 100 = \\\\frac{13}{4}&s=1$\r\nHence option [C] is the correct answer"
+}

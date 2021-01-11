@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T17:07:36.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "ac69c4af-888f-4c35-afba-b2a94e88ba37",
+  "labels": "current-affairs,2018-03-28",
+  "question": "On selling a chair for Rs. 651, There is a  loss of 7%. The cost price of that chair is :",
+  "option1": "Rs. 744",
+  "option2": "Rs. 751",
+  "option3": "Rs. 793",
+  "option4": "Rs. 700",
+  "option5": "",
+  "answer": "Rs. 700",
+  "explanation": "Let the C.P of chair be \\'x\\'\r\n$latex \\\\because \\\\left ( 100-7 \\\\right )%x =651$\r\n$latex \\\\because x=\\\\frac{651}{93}\\\\times 100=Rs.700&s=2$\r\nHence option [D] is the right answer."
+}

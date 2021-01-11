@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:20:09.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "e42b26f3-9356-4274-811a-a173bd8bdc14",
+  "labels": "current-affairs,2018-03-29",
+  "question": "Two man start together to walk a certain distance, one at 4 km/hr and another at 3 km/hr. The former arrives half an hour before the latter. Find the distance.",
+  "option1": "6 km",
+  "option2": "7 km",
+  "option3": "8 km",
+  "option4": "9 km",
+  "option5": "",
+  "answer": "6 km",
+  "explanation": "If the required distance be x km, then \r\n$latex \\\\frac{x}{3} - \\\\frac{x}{4} = \\\\frac{1}{2}&s=1$\r\n$latex => \\\\frac{4x-3x}{12} = \\\\frac{1}{2}&s=1$\r\n$latex => \\\\frac{x}{12} = \\\\frac{1}{2}&s=1$\r\n$latex => x = 6 km$\r\nHence option [A] is correct answer."
+}

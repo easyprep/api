@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:33:29.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "a157f5b1-609b-420d-ab90-aa560c8ef731",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If a : b = 7 : 9  and b : c = 15 : 7, then what is a : c?",
+  "option1": "7 : 15",
+  "option2": "3 : 5",
+  "option3": "5 : 3",
+  "option4": "7 : 21",
+  "option5": "",
+  "answer": "5 : 3",
+  "explanation": "a : c = (a : b) $latex \\\\times$ (b : c)\r\n$latex = \\\\frac{7}{9}\\\\times \\\\frac{15}{7} = \\\\frac{15}{9} = 5 : 3&s=1$\r\nHence option [C] is the right answer"
+}

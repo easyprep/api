@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T19:27:50.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "10ee278b-c3fb-4f4e-ad2f-ca308955ced5",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A train covers a certain distance in 210 minutes at a speed of 60  km/hr. The time taken by the train, to covers the same distance at a speed of 80  km/hr is :",
+  "option1": "$latex 3\\frac{5}{8}\\ hours&s=1$",
+  "option2": "$latex 2\\frac{5}{8}\\ hours&s=1$",
+  "option3": "$latex 4\\frac{5}{8}\\ hours&s=1$",
+  "option4": "$latex 3\\ hours$",
+  "option5": "",
+  "answer": "$latex 2\\frac{5}{8}\\ hours&s=1$",
+  "explanation": "Speed of train = 60 km/hr\r\nTime $latex = 210\\\\ minutes = \\\\frac{210}{60} = \\\\frac{7}{2}\\\\ hours&s=1$\r\nDistance covered $latex = 60\\\\times \\\\frac{7}{2} = 210\\\\ km&s=1$\r\nTime taken at 80 km/hr $latex = \\\\frac{210}{80} = \\\\frac{21}{8} = 2\\\\frac{5}{8}\\\\ hours&s=1$\r\nHence option [B] is correct answer."
+}

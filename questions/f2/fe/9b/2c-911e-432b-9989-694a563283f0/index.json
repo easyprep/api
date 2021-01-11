@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "f2fe9b2c-911e-432b-9989-694a563283f0",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF of two numbers is 16 and their LCM is 160. If one of the number is 32, then the other number is:",
+  "option1": 96,
+  "option2": 48,
+  "option3": 112,
+  "option4": 80,
+  "option5": "",
+  "answer": 80,
+  "explanation": "We know that, First number $latex \\\\times$ Second number = LCM $latex \\\\times$ HCF\r\n$latex =>$Second Number $latex =\\\\frac{16\\\\times 160}{32}=80&s=1$\r\nHence option [D] is the right answer."
+}

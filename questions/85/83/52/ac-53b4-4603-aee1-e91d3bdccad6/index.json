@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T19:58:02.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "858352ac-53b4-4603-aee1-e91d3bdccad6",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A train 200 m long running at 36 km/hr takes 55 seconds to cross a bridge. The length of the bridge is :",
+  "option1": "300 m",
+  "option2": "325 m",
+  "option3": "350 m",
+  "option4": "375 m",
+  "option5": "",
+  "answer": "350 m",
+  "explanation": "Speed of train = 36 km/hr\r\n$latex = 36\\\\times \\\\frac{5}{18} = 10\\\\ m/sec.&s=1$\r\nIf the length of the bridge be x metre, then\r\n$latex 10 = \\\\frac{200+x}{55}&s=1$\r\n$latex => 200+x = 550$\r\n$latex => x = 550-200 = 350\\\\ metre$\r\nHence option [C] is correct answer."
+}

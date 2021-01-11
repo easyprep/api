@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T13:08:04.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "90398d68-a647-4834-862b-b980031d9292",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A person deposited 400 Rs. for 2 years, 550 Rs. for 4 years and 1200 Rs. for 6 years. He received the total simple interest of 1020 Rs. The rate of interest per annum is :",
+  "option1": 0.05,
+  "option2": 0.1,
+  "option3": 0.15,
+  "option4": 0.2,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "Let the rate of interest be R per cent per annum. \r\n$latex \\\\therefore \\\\frac{400\\\\times 2\\\\times R}{100}+\\\\frac{500\\\\times 4\\\\times R}{100} + \\\\frac{1200\\\\times 6\\\\times R}{100} = 1020&s=1$\r\n$latex => 8R+22R+72R = 1020$\r\n$latex => 102R = 1020$\r\n$latex => R = \\\\frac{1020}{102} = 10\\\\%&s=1$\r\nHence option [B] is correct answer."
+}

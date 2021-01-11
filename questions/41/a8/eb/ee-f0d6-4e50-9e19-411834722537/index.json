@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:30:32.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "41a8ebee-f0d6-4e50-9e19-411834722537",
+  "labels": "current-affairs,2018-03-27",
+  "question": "2 is what percent of 50?",
+  "option1": 4,
+  "option2": 2.5,
+  "option3": 2,
+  "option4": 5,
+  "option5": "",
+  "answer": 4,
+  "explanation": "Let 2 be x% of 50\r\n$latex => x \\\\% of 50 = 2$\r\n$latex => \\\\frac{x}{100}\\\\times 50=2&s=1$\r\n$latex =>\\\\frac{x}{2}=2&s=1$\r\n∴ x = 4\r\nHence option [A] is the right answer."
+}

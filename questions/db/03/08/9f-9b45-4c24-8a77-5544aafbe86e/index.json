@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:21:25.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "db03089f-9b45-4c24-8a77-5544aafbe86e",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If there is a profit of 20% on the cost price of an article, the percentage of profit calculated on its selling price will be:",
+  "option1": "$latex 16\\frac{2}{3}\\%&s=1$",
+  "option2": "$latex 20$",
+  "option3": "$latex 24$",
+  "option4": "$latex 8\\frac{1}{3}\\%&s=1$",
+  "option5": "",
+  "answer": "$latex 16\\frac{2}{3}\\%&s=1$",
+  "explanation": "If the cost price is 100 Rs. Then selling price = 120 Rs. \r\nand gain = 20 Rs. \r\nRequired gain % $latex = \\\\frac{20}{120}\\\\times 100&s=1$\r\n$latex = \\\\frac{50}{3} = 16\\\\frac{2}{3}\\\\%&s=1$\r\nHence option [A] is the right answer."
+}

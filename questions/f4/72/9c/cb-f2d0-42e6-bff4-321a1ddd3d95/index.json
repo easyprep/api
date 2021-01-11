@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T16:17:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "f4729ccb-f2d0-42e6-bff4-321a1ddd3d95",
+  "labels": "current-affairs,2018-03-27",
+  "question": "How many natural numbers divisible by 7 are there between 3 and 200?",
+  "option1": 27,
+  "option2": 28,
+  "option3": 29,
+  "option4": 36,
+  "option5": "",
+  "answer": 28,
+  "explanation": "Number just greater than 3 which is divisible by 7 = 7\r\nNumber just smaller than 200 which is divisible by 7 = 196\r\nHere, a = 7, a<sub>n</sub> = 196, d = 7, n = 8\r\n∴ a<sub>n</sub> = a + (n - 1)d\r\n=> 196 = 7 + (n - 1) $latex \\\\times$ 7\r\n$latex => n - 1 = \\\\frac{196 - 7}{7} = 27&s=1$\r\n=> n = 27 + 1 = 28\r\nHence option [B] is right answer."
+}

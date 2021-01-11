@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T13:08:04.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "e1aad238-002f-49ea-a747-1e26086fda46",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B working separately can do a piece of work in 9 and 15 days respectively. If they work for a day alternately, with A beginning, then the work will be complete in :",
+  "option1": "9 days",
+  "option2": "10 days",
+  "option3": "11 days",
+  "option4": "12 days",
+  "option5": "",
+  "answer": "11 days",
+  "explanation": "A\\'s 1 day\\'s work $latex = \\\\frac{1}{9}&s=1$\r\nB\\'s 1 day\\'s work $latex = \\\\frac{1}{15}&s=1$\r\nWork done in first 2 days = A\\'s 1 day\\'s work + B\\'s 1 day\\'s work \r\n$latex = \\\\frac{1}{9}+\\\\frac{1}{15} = \\\\frac{5+3}{45} = \\\\frac{8}{45}&s=1$\r\n∴ Work done in first 10 days $latex = \\\\frac{8\\\\times 5}{45} = \\\\frac{8}{9}&s=1$\r\nRemaining work $latex  = 1-\\\\frac{8}{9} = \\\\frac{1}{9}&s=1$\r\nNow it is turn of \\'A\\' for the eleventh day.\r\n∴ Time taken by \\'A\\' in doing $latex \\\\frac{1}{9}&s=1$ work $latex = \\\\frac{1}{9}\\\\times 9 = 1\\\\ day&s=1$\r\n$latex \\\\therefore Required\\\\ Time\\\\ = 10+1=11\\\\ days$\r\nHence option [C] is correct answer."
+}

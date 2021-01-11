@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T19:26:27.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "2e8f8e15-4e96-4b59-934e-1460a11ffe5c",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The least number of five digits which has 123 as a factor is :",
+  "option1": 10063,
+  "option2": 10037,
+  "option3": 10086,
+  "option4": 10081,
+  "option5": "",
+  "answer": 10086,
+  "explanation": "The smallest number of 5 digits = 10000\r\nRemainder on dividing 10000 by 123 = 37\r\n∴ Required number = 10000 + (123 - 37) = 10086\r\nHence option [C] is the right answer."
+}

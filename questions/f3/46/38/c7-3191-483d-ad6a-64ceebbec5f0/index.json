@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "f34638c7-3191-483d-ad6a-64ceebbec5f0",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A can complete a work in 'm' days and B can complete it in 'n' days. How many days will it take to complete the work if both A and B work together ?",
+  "option1": "$latex (m+n)\\ days$",
+  "option2": "$latex \\left ( \\frac{1}{m}\\times \\frac{1}{n} \\right )\\ days&s=1$",
+  "option3": "$latex \\left ( \\frac{m+n}{mn} \\right )\\ days&s=1$",
+  "option4": "$latex \\left ( \\frac{mn}{m+n} \\right )\\ days&s=1$",
+  "option5": "",
+  "answer": "$latex \\left ( \\frac{mn}{m+n} \\right )\\ days&s=1$",
+  "explanation": "A\\'s 1 day\\'s work $latex = \\\\frac{1}{m}&s=1$\r\nB\\'s 1 day\\'s work $latex = \\\\frac{1}{n}&s=1$\r\n∴ (A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{m} + \\\\frac{1}{n} = \\\\frac{n+m}{mn} = \\\\frac{m+n}{mn}&s=1$\r\n∴ Required Time $latex = \\\\frac{mn}{m+n}&s=1$\r\nHence option [D] is correct answer"
+}

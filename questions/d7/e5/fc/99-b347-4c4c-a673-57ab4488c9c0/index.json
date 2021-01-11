@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T21:00:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d7e5fc99-b347-4c4c-a673-57ab4488c9c0",
+  "labels": "current-affairs,2018-03-28",
+  "question": "Find the mean propotional to 6 and 24;",
+  "option1": 16,
+  "option2": 12,
+  "option3": 8,
+  "option4": 20,
+  "option5": "",
+  "answer": 12,
+  "explanation": "Mean propotional between 6 and 24 = $latex \\\\sqrt{6\\\\times 24}=\\\\sqrt{144}=12 $\r\nHence option [B] is the right answer."
+}

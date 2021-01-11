@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-05-31T23:12:43.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "51414dfe-5d3b-4e61-86ce-845783603de0",
+  "labels": "current-affairs,2018-06-01",
+  "question": "What is the India's GDP growth forecast for 2018, as per latest Moody's Investors Service report \"Global Macro Outlook: 2018-19\"?",
+  "option1": 0.075,
+  "option2": 0.073,
+  "option3": 0.074,
+  "option4": 0.072,
+  "option5": "",
+  "answer": 0.073,
+  "explanation": "The latest report of Moody’s Investors Service has cut India’s GDP growth forecast to 7.3% in 2018 from the previous estimate of 7.5% due to higher oil prices and tighter financial conditions. However, Moody\\'s maintained its 2019 growth forecast at 7.5%. The report \\\"Global Macro Outlook: 2018-19\\\" stated that the Indian economy is in cyclical recovery led by both investment and consumption. However, higher oil prices and tighter financial conditions will weigh on the pace of acceleration. The private investment cycle will continue to make a gradual recovery, as twin balance-sheet issues - impaired assets at banks and corporates - slowly get addressed through deleveraging and the application of the Insolvency and Bankruptcy Code."
+}

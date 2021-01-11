@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T17:49:12.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "750f067e-5e4b-48c0-bc26-d24273ef3568",
+  "labels": "current-affairs,2018-03-28",
+  "question": "94 is divided into two parts in such a way that the fifth part of the first and the eighth part of the second are in the ratio 3 : 4. The first part is :",
+  "option1": 28,
+  "option2": 30,
+  "option3": 36,
+  "option4": 40,
+  "option5": "",
+  "answer": 30,
+  "explanation": "First part = x \r\nand second part = 94 - x\r\n$latex \\\\therefore \\\\frac{\\\\frac{x}{5}}{\\\\frac{94-x}{8}} = \\\\frac{3}{4}&s=1$\r\n$latex => \\\\frac{x}{5}\\\\times \\\\frac{8}{\\\\left ( 94-x \\\\right )}= \\\\frac{3}{4}&s=1$\r\n$latex => 32x = 15\\\\times 94 - 15x$\r\n$latex => 47x = 15\\\\times 94$\r\n$latex => x = \\\\frac{15\\\\times 94}{47} = 30&s=1$\r\nHence option [B] is correct answer."
+}

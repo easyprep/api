@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T23:50:50.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4cdfecbb-d439-4753-9e2e-241f285c1ea2",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The next term of the sequence 1, 2, 5, 26, … is:",
+  "option1": 152,
+  "option2": 677,
+  "option3": 50,
+  "option4": 47,
+  "option5": "",
+  "answer": 677,
+  "explanation": "The series is based on following pattern :\r\n$latex \\\\left ( 1 \\\\right )^{2}+1=2$\r\n$latex \\\\left ( 2 \\\\right )^{2}+1=5$\r\n$latex \\\\left ( 5 \\\\right )^{2}+1=26$\r\n$latex \\\\left ( 26 \\\\right )^{2}+1=677$\r\nTherefore, the next number of this series will be 677.\r\nHence option [B] is correct."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T18:49:52.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "38602b02-e4f1-4ac4-a553-a5af13fc97d1",
+  "labels": "current-affairs,2018-03-29",
+  "question": "Sriya with her family travelled from Bolpur to Suri by car at a speed of 40 km/hr and returned to Bolpur at a speed of 50 km/hr. The average speed for the whole journey is :",
+  "option1": "$latex 44\\frac{4}{9}&s=1$ km/hr",
+  "option2": "$latex 44.78&s=1$ km/hr",
+  "option3": "$latex 45\\frac{1}{2}&s=1$ km/hr",
+  "option4": "$latex 45&s=1$ km/hr",
+  "option5": "",
+  "answer": "$latex 44\\frac{4}{9}&s=1$ km/hr",
+  "explanation": "Average speed of journey = \r\n$latex = \\\\left ( \\\\frac{2xy}{x+y} \\\\right )\\\\ km/hr&s=1$\r\n$latex = \\\\frac{2\\\\times 40\\\\times 50}{40+50} = \\\\frac{400}{9} = 44\\\\tfrac{4}{9}\\\\ km/hr&s=1$\r\nHence option [A] is correct answer."
+}

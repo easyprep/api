@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T16:12:41.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "bab5141e-a86b-4020-8fa3-bf1f15c4e4a3",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A number when divided by 296 gives a remainder 75. When the same number is divided by 37, the remainder will be :",
+  "option1": 1,
+  "option2": 2,
+  "option3": 8,
+  "option4": 11,
+  "option5": "",
+  "answer": 1,
+  "explanation": "Let number be x. \r\n∴ x =  296 $latex \\\\times$ Q + 75 where Q is the quotient and can have the value 1, 2, 3 etc. \r\n= 37 $latex \\\\times$ 8 $latex \\\\times$ Q + 37 $latex \\\\times$ 2 + 1\r\n= 37 (8Q + 2) + 1\r\nThus we see that the remainder is 1.\r\nHence option [A] is right answer."
+}

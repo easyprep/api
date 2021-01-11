@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:24:34.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "aea81e87-af6f-48ab-a9e9-da16c2fd0afb",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B together can do a piece of work in 10 days. A alone can do it in 30 days. The time in which B alone can do it is :",
+  "option1": 10,
+  "option2": 12,
+  "option3": 20,
+  "option4": 15,
+  "option5": "",
+  "answer": 15,
+  "explanation": "(A+B)\\'s 1 day\\'s work = $latex \\\\frac{1}{10}&s=1$\r\nA\\'s 1 day\\'s work = $latex \\\\frac{1}{30}&s=1$\r\n∴ B\\'s 1 day\\'s work = $latex \\\\frac{1}{10}-\\\\frac{1}{30}&s=1$\r\n=$latex \\\\frac{3-1}{30}=\\\\frac{2}{30}=\\\\frac{1}{15}&s=1$\r\nHence, B, alone can complete the work in 15 days"
+}

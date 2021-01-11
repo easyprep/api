@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:59:12.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "bba80965-ffd3-47f1-8bf5-b6bd2a621708",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The length of the diagonal of a square is 'a' cm. Which of the following represents the area of the square (in sq.cm) ?",
+  "option1": "$latex \\frac{a^{2}}{4}&s=1$",
+  "option2": "$latex \\frac{a}{\\sqrt{2}}&s=1$",
+  "option3": "2a",
+  "option4": "$latex \\frac{a^{2}}{2}&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{a^{2}}{2}&s=1$",
+  "explanation": "$latex Side = \\\\frac{Diagonal}{\\\\sqrt{2}}&s=1$ $latex = \\\\frac{a}{\\\\sqrt{2}}&s=1$\r\n$latex \\\\therefore Area = (Side)^{2}&s=1$\r\n$latex = \\\\left ( \\\\frac{a}{\\\\sqrt{2}} \\\\right )^{2} sq.cm = \\\\frac{a^{2}}{2} sq.cm&s=1$\r\nHence option [D] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T21:23:50.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "76496da7-980a-4921-9d49-4192be32e370",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The next term in the sequence -1, 6, 25, 62, 123, 214, __ is :",
+  "option1": 341,
+  "option2": 342,
+  "option3": 343,
+  "option4": "None of these",
+  "option5": "",
+  "answer": 341,
+  "explanation": "The sequence is based on the following pattern :\r\n$latex 1^{3}-2 = 1-2 = -1$\r\n$latex 2^{3}-2 = 8-2 = 6$\r\n$latex 3^{3}-2 = 27-2 = 25$\r\n$latex 4^{3}-2 = 64-2 = 62$\r\n$latex 5^{3}-2 = 125-2 = 123$\r\n$latex 6^{3}-2 = 216-2 = 214$\r\n$latex 7^{3}-2 = 343-2 = \\\\underline{341}$\r\nHence option [A] is the correct answer."
+}

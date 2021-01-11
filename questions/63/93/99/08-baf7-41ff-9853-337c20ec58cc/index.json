@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:33:14.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "63939908-baf7-41ff-9853-337c20ec58cc",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The product of two numbers is 216.  If the HCF is 6, then their LCM is :",
+  "option1": 46,
+  "option2": 48,
+  "option3": 36,
+  "option4": 76,
+  "option5": "",
+  "answer": 36,
+  "explanation": "Let the numbers be 6x and 6y where x and y are prime to each other.\r\n$latex \\\\therefore 6x \\\\times 6y = 216$\r\n$latex => xy = \\\\frac{216}{6\\\\times 6} = 6&s=1$\r\n$latex \\\\therefore LCM = 6xy = 6 \\\\times 6 = 36$\r\nHence option [C] is the right answer."
+}

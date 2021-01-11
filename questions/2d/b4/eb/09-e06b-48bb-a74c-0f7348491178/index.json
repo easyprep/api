@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:44:22.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "2db4eb09-e06b-48bb-a74c-0f7348491178",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A car travelling at a speed of 40 km/hour can complete a journey in 9 hours. How long will it take to travel the same distance at 60 km/hour?",
+  "option1": "4 hours",
+  "option2": "4.5 hours",
+  "option3": "3 hours",
+  "option4": "6 hours",
+  "option5": "",
+  "answer": "6 hours",
+  "explanation": "Total distance covered = speed $latex \\\\times$ Time\r\n=40$latex \\\\times$9 = 360km/hr\r\nThe required time at 60 kmph = 360$latex \\\\div$60=6 hours.\r\nHence option [D] is the right answer."
+}

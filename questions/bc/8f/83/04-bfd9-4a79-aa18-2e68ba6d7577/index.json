@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:10:30.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "bc8f8304-bfd9-4a79-aa18-2e68ba6d7577",
+  "labels": "current-affairs,2018-03-28",
+  "question": "By selling a car for 64000 Rs., Mr. Rao lost 20%. Then the cost price of the car is:",
+  "option1": "84000 Rs",
+  "option2": "80000 Rs",
+  "option3": "76800 Rs",
+  "option4": "72000 Rs",
+  "option5": "",
+  "answer": "80000 Rs",
+  "explanation": "Cost price =\r\n$latex = \\\\frac{64000\\\\times 100}{80}&s=1$\r\n= 80000 Rs.\r\nHence option [B] is the right answer."
+}

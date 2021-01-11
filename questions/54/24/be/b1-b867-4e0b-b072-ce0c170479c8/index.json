@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:00:20.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "5424beb1-b867-4e0b-b072-ce0c170479c8",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The LCM of two numbers is 1820 and their HCF is 26. If one number is 130 then the other number is :",
+  "option1": 1264,
+  "option2": 1690,
+  "option3": 364,
+  "option4": 70,
+  "option5": "",
+  "answer": 364,
+  "explanation": "Given that :\r\nLCM of two numbers = 1820\r\nHCF of those numbers = 26\r\nand one of the number is 130, hence another number is : <br/>$latex \\\\frac{1820\\\\times26}{130}=364&s=1$\r\nHence option [C] is the right answer."
+}

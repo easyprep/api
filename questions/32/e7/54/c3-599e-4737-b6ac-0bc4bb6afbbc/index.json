@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:21:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "32e754c3-599e-4737-b6ac-0bc4bb6afbbc",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A sum of money amounts to 5200 Rs. in 5 years and to 5680 Rs. in 7 years at simple interest. The rate of interest per annum is :",
+  "option1": 0.03,
+  "option2": 0.04,
+  "option3": 0.05,
+  "option4": 0.06,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "P + SI for 5 years = 5200…………(I)\r\nP + SI for 7 years = 5680…………(II)\r\nOn subtracting equation (I) from (II) \r\nSI for 2 years = 480\r\n∴ SI for 1 years = 240\r\n∴ From equation (I), \r\nP + 5 $latex \\\\times$ 240 = 5200\r\n$latex => P = 5200 - 1200 = 4000 Rs.$\r\n$latex \\\\therefore R = \\\\frac{SI\\\\times 100}{T\\\\times P}&s=1$\r\n$latex = \\\\frac{240\\\\times 100}{1\\\\times 4000} = 6\\\\%&s=1$\r\nHence option [D] is correct answer."
+}

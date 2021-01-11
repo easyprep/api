@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:41:26.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "fd5309c0-740f-424e-908a-2416fa7034d1",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The diagonal of a square A is (a+b). The diagonal of a square whose are is twice the area of square A, is",
+  "option1": "$latex \\sqrt{2}(a-b)$",
+  "option2": "$latex \\sqrt{2}(a+b)$",
+  "option3": "$latex 2(a+b)^{2}$",
+  "option4": "$latex 2(a+b)$",
+  "option5": "",
+  "answer": "$latex \\sqrt{2}(a+b)$",
+  "explanation": "Area of the square A = $latex \\\\frac{\\\\left ( diagonal \\\\right )^{2}}{2}= \\\\frac{\\\\left ( a+b \\\\right )^{2}}{2}&s=1$\r\nArea of the new square \r\n$latex = \\\\frac{\\\\left ( a+b \\\\right )^{2}}{2}\\\\times 2 = \\\\left ( a+b \\\\right )^{2}&s=1$\r\n$latex => side = (a+b)$\r\n$latex \\\\therefore Diagonal = \\\\sqrt{2}\\\\times side$\r\n$latex = \\\\sqrt{2}(a+b)$\r\nHence option [B] is the right answer."
+}

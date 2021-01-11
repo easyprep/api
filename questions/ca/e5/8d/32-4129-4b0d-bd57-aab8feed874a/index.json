@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:05:46.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "cae58d32-4129-4b0d-bd57-aab8feed874a",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A alone can complete a work in 12 days. A and B together can complete it in 8 days. How long will B alone take to complete the work?",
+  "option1": "20 days",
+  "option2": "24 days",
+  "option3": "16 days",
+  "option4": "18 days",
+  "option5": "",
+  "answer": "24 days",
+  "explanation": "A\\'s one day\\'s work $latex = \\\\frac{1}{12}&s=1$\r\n(A + B)\\'s one day\\'s work $latex = \\\\frac{1}{8}&s=1$\r\n∴ B\\'s one day\\'s work = \r\n$latex = \\\\frac{1}{8} - \\\\frac{1}{12} = \\\\frac{3-2}{24} = \\\\frac{1}{24}&s=1$\r\n∴ B alone can do the work in 24 days. \r\nHence option [B] is the right answer"
+}

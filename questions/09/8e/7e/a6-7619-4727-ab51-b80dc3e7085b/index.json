@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "098e7ea6-7619-4727-ab51-b80dc3e7085b",
+  "labels": "current-affairs,2018-03-29",
+  "question": "What annual instalment will discharge a debt of 6450 Rs. due in 4 years at 5% simple interest?",
+  "option1": "1500 Rs",
+  "option2": "1835 Rs",
+  "option3": "1935 Rs",
+  "option4": "1950 Rs",
+  "option5": "",
+  "answer": "1500 Rs",
+  "explanation": "Let each instalment be x. Then, \r\n$latex \\\\because \\\\left ( x+\\\\frac{x\\\\times 5\\\\times 1}{100} \\\\right ) + \\\\left ( x+\\\\frac{x\\\\times 5\\\\times 2}{100} \\\\right ) + \\\\left ( x+\\\\frac{x\\\\times 5\\\\times 3}{100} \\\\right ) + x = 6450&s=1$\r\n$latex => \\\\left ( x+\\\\frac{x}{20} \\\\right )+\\\\left ( x+\\\\frac{x}{10} \\\\right )+\\\\left ( x+\\\\frac{3x}{20} \\\\right )+x = 6450&s=1$\r\n$latex => \\\\frac{21x}{20}+\\\\frac{11x}{10}+\\\\frac{23x}{20}+x = 6450&s=1$\r\n$latex => \\\\frac{21x+22x+23x+20x}{20} = 6450&s=1$\r\n$latex => \\\\frac{86x}{20} = 6450&s=1$\r\n$latex => x = \\\\frac{6450\\\\times 20}{86} = 1500 Rs.&s=1$\r\nHence option [A] is correct answer"
+}

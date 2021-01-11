@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:26:33.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "de17eed5-3f65-48d6-a4fe-f437719629da",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A can do a work in 6 days and B in 9 days. How many days will both take together to complete the work?",
+  "option1": "5.4 days",
+  "option2": "7.5 days",
+  "option3": "3.6 days",
+  "option4": "3 days",
+  "option5": "",
+  "answer": "3.6 days",
+  "explanation": "According to question. A can finish the whole work in 6 days.\r\n∴ A\\'s one day\\'s work =$latex \\\\frac{1}{6}&s=1$\r\nSimiliarly, B\\'s one day\\'s work =$latex \\\\frac{1}{9}&s=1$\r\n(A+B)\\'s one day\\'s work = $latex \\\\left ( \\\\frac{1}{6}+\\\\frac{1}{9} \\\\right )=\\\\left ( \\\\frac{3+2}{18} \\\\right )=\\\\frac{5}{18}&s=1$\r\nTherefore, (A+B) can finish the whole work in $latex \\\\frac{18}{5}&s=1$ days i.e. 3.6 days.\r\nHence option [C] is the right answer."
+}

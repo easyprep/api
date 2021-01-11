@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:06:24.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "0d561557-6b6b-4229-8a1e-0a97aec6470e",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A work can be completed by P and Q in 12 days, Q and R in 15 days, R and P in 20 days. In how many days P alone can complete the work ?",
+  "option1": "10 days",
+  "option2": "20 days",
+  "option3": "30 days",
+  "option4": "60 days",
+  "option5": "",
+  "answer": "30 days",
+  "explanation": "(P + Q)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}&s=1$……….(I)\r\n(Q + R)\\'s 1 day\\'s work $latex = \\\\frac{1}{15}&s=1$…….….(II)\r\n(R + P)\\'s 1 day\\'s work $latex = \\\\frac{1}{20}&s=1$……….(III)\r\nOn adding, \r\n2(P + Q + R)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}+\\\\frac{1}{15}+\\\\frac{1}{20} = \\\\frac{5+4+3}{60} = \\\\frac{1}{5}&s=1$\r\n∴ (P + Q + R)\\'s 1 day\\'s work $latex = \\\\frac{1}{5\\\\times 2} = \\\\frac{1}{10}&s=1$……….(IV)\r\n∴ P\\'s 1 day\\'s work $latex = \\\\frac{1}{10}-\\\\frac{1}{15} = \\\\frac{3-2}{20} = \\\\frac{1}{30}&s=1$\r\n∴ P alone will complete the work in 30 days.\r\nHence option [C] is correct answer."
+}

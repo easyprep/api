@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T17:55:04.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "bcd5ae6c-7364-4808-9578-2f8b1a7e1ede",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A car travels at a speed of 60 km/hr and covers a particular distance in one hour. How long will it take for another car to cover the same distance at 40 km/hr?",
+  "option1": "$latex 1\\ hours$",
+  "option2": "$latex \\frac{3}{2}\\ hours&s=1$",
+  "option3": "$latex 2\\ hours$",
+  "option4": "$latex \\frac{5}{2}\\ hours&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{3}{2}\\ hours&s=1$",
+  "explanation": "Distance = Speed $latex \\\\times$ Time = 60 km\r\nTime taken at 40 km/hr $latex = \\\\frac{60}{40} = \\\\frac{3}{2}\\\\ hours&s=1$\r\nHence option [B] is correct answer"
+}

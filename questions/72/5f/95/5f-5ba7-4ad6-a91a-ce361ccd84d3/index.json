@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T12:53:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "725f955f-5ba7-4ad6-a91a-ce361ccd84d3",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B can do a piece of work in 10 days. B and C can do it in 12 days. A and C can do it in 15 days. How long will A take to do it alone?",
+  "option1": "20 days",
+  "option2": "24 days",
+  "option3": "30 days",
+  "option4": "40 days",
+  "option5": "",
+  "answer": "24 days",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{10}&s=1$\r\n(B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}&s=1$\r\n(C + A)\\'s 1 day\\'s work $latex = \\\\frac{1}{15}&s=1$\r\nOn adding, \r\n2(A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{10}+\\\\frac{1}{12}+\\\\frac{1}{15} = \\\\frac{6+5+4}{60} = \\\\frac{1}{4}&s=1$\r\n∴ (A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{8}&s=1$\r\n∴ A\\'s 1 day\\'s work $latex = \\\\frac{1}{8}-\\\\frac{1}{12} = \\\\frac{3-2}{24} = \\\\frac{1}{24}&s=1$\r\n∴ A alone will complete the work in 24 days. \r\nHence option [B] is correct answer."
+}

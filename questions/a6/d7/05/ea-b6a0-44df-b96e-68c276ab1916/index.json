@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:24:45.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "a6d705ea-b6a0-44df-b96e-68c276ab1916",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The perimeter of five squares are 24 cm, 32 cm, 40 cm, 76 cm and 80 cm respectively. The perimeter of another square equal in area to sum of the ares of these squares is:",
+  "option1": "62 cm",
+  "option2": "124 cm",
+  "option3": "31 cm",
+  "option4": "961 cm",
+  "option5": "",
+  "answer": "124 cm",
+  "explanation": "Side of the squares are 6 cm, 8 cm, 10 cm,  19 cm and 20 cm respectively. \r\nSum of their areas $latex =\\\\left ( 6^{2}+8^{2}+10^{2}+19^{2}+20^{2} \\\\right ) cm^{2}$\r\n$latex = (36 + 64 + 100 + 361 + 400) cm^{2}$\r\n$latex = 961 cm^{2}$\r\n∴ Area of largest other square $latex = 961 cm^{2}$\r\n= Its side $latex = \\\\sqrt{961} = 31 cm$\r\n∴ Required perimeter = 4 $latex \\\\times$ 31 = 124 cm.\r\nHence option [B] is the right answer."
+}

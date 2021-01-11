@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:10:32.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "7758d6eb-6174-4fa1-8de8-bcd14aa07622",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Which of the following fractions are equal to 35% and 1.6%",
+  "option1": "$latex \\frac{6}{20}&s=1$ and $latex \\frac{2}{125}&s=1$",
+  "option2": "$latex \\frac{7}{20}&s=1$ and $latex \\frac{2}{125}&s=1$",
+  "option3": "$latex \\frac{7}{20}&s=1$ and $latex \\frac{2}{120}&s=1$",
+  "option4": "$latex \\frac{7}{20}&s=1$ and $latex \\frac{4}{125}&s=1$",
+  "option5": "",
+  "answer": "$latex \\frac{7}{20}&s=1$ and $latex \\frac{2}{125}&s=1$",
+  "explanation": "$latex (1) 35 \\\\% = \\\\frac{35}{100}&s=1$$latex =\\\\frac{7}{20}&s=1$\r\n$latex (2) 1.6 \\\\% = \\\\frac{16}{1000}&s=1$$latex =\\\\frac{2}{125}&s=1$\r\nHence option [B] is the right answer.<"
+}

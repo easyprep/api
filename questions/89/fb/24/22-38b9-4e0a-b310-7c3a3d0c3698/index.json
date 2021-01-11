@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:59:17.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "89fb2422-38b9-4e0a-b310-7c3a3d0c3698",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If 0.75:x::5:8, Then find x",
+  "option1": 1.6,
+  "option2": 0.46,
+  "option3": 1.2,
+  "option4": 0.48,
+  "option5": "",
+  "answer": 1.2,
+  "explanation": "we know that :-\r\nProduct of means = Product of extremes \r\nThus, a:b::c:d<=>$latex \\\\left ( b\\\\times c \\\\right )=\\\\left ( a\\\\times d \\\\right )$\r\nSo in this question we can write:\r\n$latex 5\\\\times x=8\\\\times 0.75$\r\n$latex \\\\therefore 5x=6$\r\n$latex => x=\\\\frac{6}{5}=1.2&s=2$"
+}

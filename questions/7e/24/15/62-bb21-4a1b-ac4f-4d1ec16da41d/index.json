@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T23:35:03.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "7e241562-bb21-4a1b-ac4f-4d1ec16da41d",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The next number of the sequence 3, 5, 9, 17, 33 …. is :",
+  "option1": 49,
+  "option2": 60,
+  "option3": 65,
+  "option4": 50,
+  "option5": "",
+  "answer": 65,
+  "explanation": "$latex 3\\\\xrightarrow{+2}5\\\\xrightarrow{+4=2^{2}}9\\\\xrightarrow{+8 = 2^{3}}17\\\\xrightarrow{+16= 2^{4}}33\\\\xrightarrow{+32 = 2^{5}}\\\\underline{65}&s=1$\r\n∴ The next term in the sequence will be 65.\r\nHence option [C] is the right answer."
+}

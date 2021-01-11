@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:14:15.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4502bb17-bf8c-4fba-84e9-d83e9141ad56",
+  "labels": "current-affairs,2018-03-29",
+  "question": "Manoj deposited 29400 Rs. for 6 years at a simple interest. He got 4200 Rs. as interest after 6 years. The annual rate of interest was :",
+  "option1": "$latex 2\\frac{8}{21}\\%&s=1$",
+  "option2": "$latex 2\\frac{7}{20}\\%&s=1$",
+  "option3": "$latex 3\\frac{8}{21}\\%&s=1$",
+  "option4": "$latex 4\\frac{8}{21}\\%&s=1$",
+  "option5": "",
+  "answer": "$latex 2\\frac{8}{21}\\%&s=1$",
+  "explanation": "$latex \\\\mathbf{2\\\\frac{8}{21}\\\\%}&s=1$</b><br />\r\n$latex 4200 = \\\\frac{29400\\\\times 6\\\\times R}{100}&s=1$\r\n$latex => R = \\\\frac{4200}{294\\\\times 6} = \\\\frac{50}{21} = 2\\\\frac{8}{21}\\\\%&s=1$\r\nHence option [A] is correct answer.<"
+}

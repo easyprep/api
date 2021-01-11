@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:15:59.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "5d71acdd-7d31-4e68-864a-171963701fcb",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A takes three times as long B and C together to do a job. B takes four times as long as A and C together to do the work. If all the three, working together can complete the job in 24 days, then the number of days, A alone will take to finish the job is :",
+  "option1": "90 days",
+  "option2": "95 days",
+  "option3": "96 days",
+  "option4": "100 days",
+  "option5": "",
+  "answer": "96 days",
+  "explanation": "Let time taken by B and C = x days\r\n∴ Time taken by A = 3x days\r\n∴ Part of work done by A, B and C in 1 day\r\n$latex = \\\\frac{1}{x}+\\\\frac{1}{3x} = \\\\frac{3+1}{3x} = \\\\frac{4}{3x}&s=1$\r\n$latex \\\\therefore \\\\frac{4}{3x} = \\\\frac{1}{24}&s=1$\r\n$latex => 3x = 4\\\\times 24&s=1$\r\n$latex => x = \\\\frac{4\\\\times 24}{3} = 32\\\\ days&s=1$\r\n∴ Time taken by A = 32 $latex \\\\times$ 3 = 96 days. \r\nHence option [C] is correct answer."
+}

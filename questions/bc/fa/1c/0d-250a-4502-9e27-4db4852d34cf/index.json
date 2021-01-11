@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T21:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "bcfa1c0d-250a-4502-9e27-4db4852d34cf",
+  "labels": "current-affairs,2018-03-28",
+  "question": "Given below is a finite sequence of numbers with an unknown x : 0, 1, 1, 2, 3, 5, 8, 13, x, 34 the value of x is :",
+  "option1": 17,
+  "option2": 19,
+  "option3": 20,
+  "option4": 21,
+  "option5": "",
+  "answer": 21,
+  "explanation": "In the given sequence, (starting from the third number) the succeding number is sum of two just precceding numbers. i.e.,\r\n$latex 1 = 0 + 1$\r\n$latex 2 = 1 + 1$\r\n$latex 3 = 1 + 2$\r\n$latex \\\\therefore x = 8 + 13 = \\\\underline{21}$\r\nHence option [D] is the correct answer."
+}

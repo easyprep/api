@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:01:34.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "1d534169-cd8a-4fc3-bc47-b46616ca949f",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A, B and C can complete a piece of work in 12, 24 and 36 days respectively. In how many days will they together complete the same work?",
+  "option1": "$latex 4\\ days$",
+  "option2": "$latex 5\\frac{6}{11}\\ days&s=1$",
+  "option3": "$latex 6\\ days$",
+  "option4": "$latex 6\\frac{6}{11}\\ days&s=1$",
+  "option5": "",
+  "answer": "$latex 6\\frac{6}{11}\\ days&s=1$",
+  "explanation": "(A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{12}+\\\\frac{1}{24}+\\\\frac{1}{36}&s=1$\r\n$latex = \\\\frac{6+3+2}{72} = \\\\frac{11}{72}&s=1$\r\n∴ (A + B + C) together will complete the work in $latex \\\\frac{72}{11}= 6\\\\frac{6}{11}\\\\ days&s=1$\r\nHence option [D] is correct answer.<"
+}

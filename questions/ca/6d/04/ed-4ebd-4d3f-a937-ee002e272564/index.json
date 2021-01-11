@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T21:29:16.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "ca6d04ed-4ebd-4d3f-a937-ee002e272564",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A cistern is provided with two pipes A and B. A can fill it in 20 minutes and B can empty it in 30 minutes. If A and B be kept open alternately for one minute each, how soon will the cistern be filled?",
+  "option1": "110 minutes",
+  "option2": "115 minutes",
+  "option3": "120 minutes",
+  "option4": "121 minutes",
+  "option5": "",
+  "answer": "115 minutes",
+  "explanation": "Part of the tank filled in first two minutes $latex = \\\\frac{1}{20}-\\\\frac{1}{30} = \\\\frac{3-2}{60} = \\\\frac{1}{60}&s=1$\r\n∴ Part of tank filled in 114 minutes $latex = \\\\frac{57}{60} = \\\\frac{19}{20}&s=1$\r\n∴ Remaining part of cistern will be filled in 115th minute. \r\nHence option [B] is correct answer."
+}

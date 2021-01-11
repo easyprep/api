@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T15:03:20.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "7df99572-e6be-4c87-9671-6189283e7aae",
+  "labels": "current-affairs,2018-03-29",
+  "question": "Rs. 500 was invested at 12% per annum simple interest and a certain sum of money invested at 10% per annum simple interest. If the sum of the interest on both the sum after 4 years is Rs. 480, the latter sum of money is :",
+  "option1": 550,
+  "option2": 450,
+  "option3": 750,
+  "option4": 600,
+  "option5": "",
+  "answer": 600,
+  "explanation": "Simple interest gained from Rs. 500 = $latex \\\\frac{500\\\\times 12\\\\times 4}{100}=&s=1$ $latex Rs. 240$\r\nLet the other principal be x. \r\nS.I. gained = Rs. (480 - 240) = Rs. 240\r\n$latex \\\\therefore \\\\frac{x\\\\times 10\\\\times 4}{100}=&s=1$ $latex 240$\r\n$latex =>x=\\\\frac{240\\\\times 100}{40}=&s=1$ $latex 600$\r\nHence option [D] is the right answer."
+}

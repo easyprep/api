@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:48:21.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6fd927af-0bee-4f75-a3b7-8dac07c35226",
+  "labels": "current-affairs,2018-03-28",
+  "question": "By selling an article for Rs. 960 a man incure a loss of 4% what was the cost price?",
+  "option1": "Rs. 1000",
+  "option2": "Rs. 784",
+  "option3": "Rs. 498.4",
+  "option4": "Rs. 300",
+  "option5": "",
+  "answer": "Rs. 1000",
+  "explanation": "C.P of article = $latex \\\\frac{100}{100-loss percent}\\\\times S.P &s=1$\r\n$latex =\\\\frac{100}{96}\\\\times 960=1000&s=1$"
+}

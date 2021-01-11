@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-04-05T22:56:11.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "0add59c3-f637-49c6-ae6e-8c697e99f671",
+  "labels": "current-affairs,2018-04-06",
+  "question": "What is the India's position in the world in terms of risk of cyber threats in 2017, as per latest report by security solutions provider Symantec?",
+  "option1": "1st",
+  "option2": "3rd",
+  "option3": "4th",
+  "option4": "2nd",
+  "option5": "",
+  "answer": "3rd",
+  "explanation": "India is emerged as the 3rd most vulnerable country in terms of risk of cyber threats, such as malware, spam and ransomware, in 2017, as per latest report by security solutions provider \\'Symantec\\'. The list is topped by U.S., followed by China. The global threat ranking is based on 8 metrics: malware, spam, phishing, bots, network attacks, web attacks, ransomware and cryptominers. According to Internet Security Threat Report, India continues to be 2nd most impacted by spam and bots, 3rd most impacted by network attacks, and 4th most impacted by ransomware. The report also pointed out that with the threat landscape becoming more diverse, attackers are working harder to discover new avenues of attack and cover their tracks while doing so."
+}

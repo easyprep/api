@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "43b55e36-e7b3-42af-9965-e7a750310fcd",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The diffrence of the areas of two squares drawn on two line segments of different lengths is 32 sq.cm. Find the length of the greater line segment if one is longer than the other by 2 cm.",
+  "option1": "16 cm",
+  "option2": "11 cm",
+  "option3": "9 cm",
+  "option4": "7 cm",
+  "option5": "",
+  "answer": "9 cm",
+  "explanation": "Let the length of the smaller line segment = x cm.\r\nThe length of largest line segment = (x+2) cm. \r\nAccording to the question $latex \\\\left ( x+2 \\\\right )^{2}-x^{2}=32$\r\n$latex =>x^{2}+4x+4-x^{2}=32$\r\n$latex =>4x=32-4=28$\r\n$latex =>x=\\\\frac{28}{4}=7&s=1$\r\nTherefore The required lenght = x+2 = 7+2 = 9 cm.\r\nHence option [D] is the right answer."
+}

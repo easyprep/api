@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T14:52:58.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "d3097962-be1f-4e2a-b203-5545aa0c3f6f",
+  "labels": "current-affairs,2018-03-29",
+  "question": "What sum of money will amount to 520 Rs. in 5 years and to 568 Rs. in 7 years at simple interest?",
+  "option1": "220 Rs",
+  "option2": "400 Rs",
+  "option3": "120 Rs",
+  "option4": "510 Rs",
+  "option5": "",
+  "answer": "400 Rs",
+  "explanation": "Simple interest for 2 years = (568 - 520) Rs. = 48 Rs.\r\n∴ Interest for 5 years =\r\n$latex = \\\\frac{48}{2}\\\\times 5 = 120 Rs. &s=1$\r\nPrincipal = (520 - 120) = 400 Rs.\r\nHence option [B] is the right answer"
+}

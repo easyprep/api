@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T19:32:51.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "fe75bdae-2383-4d4a-836f-4efc0d534173",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A man travelled a distance of 80 km in 7 hrs partly on foot at the rate of 8 km/hr and partly on bicycle at 16 km/hr. The distance travelled on the foot is :",
+  "option1": "32 km",
+  "option2": "36 km",
+  "option3": "44 km",
+  "option4": "48 km",
+  "option5": "",
+  "answer": "32 km",
+  "explanation": "Journey on foot = x km\r\nJourney on cycle = (80 - x) km\r\n$latex \\\\therefore \\\\frac{x}{8}+\\\\frac{80-x}{16} = 7&s=1$\r\n$latex => \\\\frac{2x+80-x}{16} = 7&s=1$\r\n$latex => x+80=16\\\\times 7 = 112$\r\n$latex => x = 112-80 = 32km$\r\nHence option [A] is correct answer."
+}

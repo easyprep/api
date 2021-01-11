@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T16:51:45.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "73e67af3-5357-4410-aa13-6a365c6bf2a8",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The divisor is 25 times the quotient and 5 times the remainder. If the quotient is 16, the dividend is :",
+  "option1": 400,
+  "option2": 480,
+  "option3": 6400,
+  "option4": 6480,
+  "option5": "",
+  "answer": 6480,
+  "explanation": "Quotient = 16\r\nDivisor = 25 $latex \\\\times $ 16 = 400 and remainder = 80\r\n∵ Dividend = Divisor $latex \\\\times $ quotient + remainder\r\n= 400 $latex \\\\times $ 16 + 80\r\n= 6400 + 80 = 6480\r\nHence option [D] is correct answer."
+}

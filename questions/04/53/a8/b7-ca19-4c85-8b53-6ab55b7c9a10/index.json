@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:17:47.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "0453a8b7-ca19-4c85-8b53-6ab55b7c9a10",
+  "labels": "current-affairs,2018-03-28",
+  "question": "A man purchased a bedsheet for 450 Rs. and sold it at a gain of 10% calculated on the selling price. The selling price of the bedsheet was:",
+  "option1": "480 Rs",
+  "option2": "460 Rs",
+  "option3": "500 Rs",
+  "option4": "475 Rs",
+  "option5": "",
+  "answer": "500 Rs",
+  "explanation": "Let the SP of the bedsheet be x Rs.\r\n$latex \\\\therefore 450+\\\\frac{10\\\\times x}{100} = x&s=1$\r\n$latex => x- \\\\frac{x}{10} = 450&s=1$\r\n$latex => \\\\frac{9x}{10} = 450&s=1$\r\n$latex => x = \\\\frac{450\\\\times 10}{9} = 500 Rs.&s=1$\r\nHence option [C] is the right answer."
+}

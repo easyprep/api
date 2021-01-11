@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:16:49.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "700b0e0a-9592-4e92-b992-70ade34f7704",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A kite in the shape of a square with a diagonal 32 cm attached to an equilateral triangle of the base 8 cm. Approximately how much paper has been used to make it?",
+  "option1": "$latex 539.217 cm^{2}$",
+  "option2": "$latex 538.721 cm^{2}$",
+  "option3": "$latex 540.712 cm^{2}$",
+  "option4": "$latex 539.712 cm^{2}$",
+  "option5": "",
+  "answer": "$latex 539.712 cm^{2}$",
+  "explanation": "Area of paper = Area of square + Area of equilateral triangle\r\n$latex = \\\\frac{1}{2}(diagonal)^{2} + \\\\frac{\\\\sqrt{3}}{4}\\\\times (side)^{2}&s=1$ \r\n$latex = \\\\frac{1}{2}\\\\times 32 \\\\times 32 + \\\\frac{\\\\sqrt{3}}{4}\\\\times8 \\\\times 8&s=1$\r\n$latex = 512 + 16 \\\\times 1.732$\r\n$latex = 512 +27.712 = 539.712 cm^{2}$ [∴ Diagonal of a square = $latex \\\\sqrt{2} \\\\times side$]\r\nHence option [D] is the right answer."
+}

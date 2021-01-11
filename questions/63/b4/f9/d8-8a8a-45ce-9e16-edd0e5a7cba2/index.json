@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T16:37:54.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "63b4f9d8-8a8a-45ce-9e16-edd0e5a7cba2",
+  "labels": "current-affairs,2018-03-28",
+  "question": "Krishna bought a camera and paid 20% less than its original price. He sold it at 40% profit on the price he had paid. The percentage of profit earned by Krishna on the original price was",
+  "option1": 0.15,
+  "option2": 0.12,
+  "option3": 0.22,
+  "option4": 0.32,
+  "option5": "",
+  "answer": 0.12,
+  "explanation": "Let the original price be x Rs. \r\n$latex = \\\\frac{80}{100}\\\\times x = \\\\frac{4x}{5}Rs. &s=1$\r\n$latex SP = \\\\frac{4x}{5}\\\\times \\\\frac{140}{100} = \\\\frac{28x}{25}Rs.&s=1$\r\nGain on original price = \r\n$latex \\\\frac{28x}{25} - x = \\\\frac{3x}{25}&s=1$\r\n$latex \\\\therefore Gain \\\\%= \\\\frac{3x}{\\\\frac{25}{x}\\\\times 100} = 12\\\\%&s=1$\r\nHence option [B] is the right answer."
+}

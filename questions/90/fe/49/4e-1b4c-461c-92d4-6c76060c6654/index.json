@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T21:11:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "90fe494e-1b4c-461c-92d4-6c76060c6654",
+  "labels": "current-affairs,2018-03-28",
+  "question": "The next number of the sequence 2, 6, 12, 20, 30, 42, 56, __ is :",
+  "option1": 60,
+  "option2": 64,
+  "option3": 70,
+  "option4": 72,
+  "option5": "",
+  "answer": 72,
+  "explanation": "The given sequence is based on the following pattern :\r\n$latex 2\\\\xrightarrow{+4}6\\\\xrightarrow{+6}12\\\\xrightarrow{+8}20\\\\xrightarrow{+10}30\\\\xrightarrow{+12}42\\\\xrightarrow{+14}56\\\\xrightarrow{+16}\\\\underline{72}$\r\n∴ Required number = 72."
+}

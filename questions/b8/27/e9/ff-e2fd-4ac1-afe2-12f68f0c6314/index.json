@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T18:06:14.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "b827e9ff-e2fd-4ac1-afe2-12f68f0c6314",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A journey takes 4 hours 30 minutes at a speed of 60 km/hr. If the speed is 15 m/s, then the journey will take :",
+  "option1": "5 hours",
+  "option2": "5 hours 30 minutes",
+  "option3": "6 hours",
+  "option4": "6 hours 25 minutes",
+  "option5": "",
+  "answer": "5 hours",
+  "explanation": "$latex 60\\\\ km/hr = 60\\\\times \\\\frac{5}{18}\\\\ m/s = \\\\frac{50}{3}\\\\ m/s&s=1$\r\n$latex \\\\therefore\\\\ Speed \\\\propto \\\\frac{1}{Time}&s=1$\r\n$latex => S_{1}\\\\times T_{1} = S_{2}\\\\times T_{2}$\r\n$latex => \\\\frac{50}{3}\\\\times \\\\frac{9}{2} = 15\\\\times T_{2}&s=1$\r\n$latex => 75 = 15\\\\times T_{2}$\r\n$latex => T_{2} = \\\\frac{75}{15} = 5\\\\ hours&s=1$\r\nHence option [A] is correct answer."
+}

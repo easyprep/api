@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T15:07:31.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "f0757267-df43-46d4-afd6-45c206901f0e",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B together can complete a piece of work in 72 days, B and C together can complete it in 120 days, and A and C together in 90 days. In what time can A alone complete the work?",
+  "option1": "150 days",
+  "option2": "80 days",
+  "option3": "100 days",
+  "option4": "120 days",
+  "option5": "",
+  "answer": "120 days",
+  "explanation": "(A+B)\\'s 1 day\\'s work = $latex \\\\frac{1}{72}&s=1$\r\n(B+C)\\'s 1 day\\'s work = $latex \\\\frac{1}{120}&s=1$\r\n(C+A)\\'s 1 day\\'s work = $latex \\\\frac{1}{90}&s=1$\r\nAdding all three, 2(A+B+C)\\'s 1 days work = $latex \\\\frac{1}{72}+\\\\frac{1}{120}+\\\\frac{1}{90}&s=1$\r\n$latex => \\\\frac{5+3+4}{360}=\\\\frac{12}{360}=\\\\frac{1}{30}&s=1$\r\n∴ (A+B+C)\\'s 1 day\\'s work = $latex \\\\frac{1}{60}&s=1$\r\nNow, A\\'s 1 day\\'s work = (A+B+C)\\'s 1 day\\'s work - (B+C)\\'s 1 day\\'s work \r\n$latex =>\\\\frac{1}{60}-\\\\frac{1}{120}=\\\\frac{2-1}{120}=\\\\frac{1}{120}&s=1$\r\n∴ A alone can comlete the work in 120 days.\r\nHence option [D] is correct"
+}

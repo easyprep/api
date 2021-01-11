@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:03:26.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "2c549237-498f-4276-bc97-fc1c76fc9e96",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If a : b = 5 : 7 and c : d = 2a :  3b, then ac : bd is:",
+  "option1": "20 : 38",
+  "option2": "50 : 151",
+  "option3": "50 : 147",
+  "option4": "10 : 21",
+  "option5": "",
+  "answer": "50 : 147",
+  "explanation": "$latex \\\\frac{a}{b} = \\\\frac{5}{7},  \\\\frac{c}{d} = \\\\frac{2a}{3b}&s=1$\r\n$latex => \\\\frac{a}{b}\\\\times\\\\frac{c}{d} = \\\\frac{5}{7}\\\\times\\\\frac{2a}{3b}&s=1$\r\n$latex => \\\\frac{ac}{bd} = \\\\frac{10}{21}\\\\times\\\\frac{5}{7}&s=1$\r\n$latex => \\\\frac{ac}{bd} = \\\\frac{50}{147}= 50 : 147&s=1$\r\nHence option [C] is the right answer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:39:59.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "05f19cba-1eb4-436a-a742-9ca924d03aa4",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF of two numbers is 15 and their LCM is 300. If one of the number is 60, the other is:",
+  "option1": 75,
+  "option2": 65,
+  "option3": 50,
+  "option4": 100,
+  "option5": "",
+  "answer": 75,
+  "explanation": "Because, First number $latex \\\\times$ Second number = LCM $latex \\\\times$ HCF\r\n∴ Second Number = $latex \\\\frac{15\\\\times 300}{60}=75&s=1$\r\nHence option [A] is the right answer."
+}

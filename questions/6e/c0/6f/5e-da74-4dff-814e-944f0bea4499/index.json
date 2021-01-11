@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T22:46:16.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "6ec06f5e-da74-4dff-814e-944f0bea4499",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Two pipes A and B can fill a tank in 20 minutes and 30 minutes respectively. If both pipes are opened together, the time taken to fill the tank is:",
+  "option1": "15 minutes",
+  "option2": "25 minutes",
+  "option3": "50 minutes",
+  "option4": "12 minutes",
+  "option5": "",
+  "answer": "12 minutes",
+  "explanation": "Part of the tank filled by both pipes in one minute = $latex \\\\frac{1}{20}+\\\\frac{1}{30}&s=1$\r\nRequired time = $latex \\\\frac{1}{\\\\frac{1}{20}+\\\\frac{1}{30}}=\\\\frac{20\\\\times 30}{50}=\\\\frac{60}{5}&s=2$ \r\n∴ Required time = 12 Minutes \r\nHence option [D] is the right answer."
+}

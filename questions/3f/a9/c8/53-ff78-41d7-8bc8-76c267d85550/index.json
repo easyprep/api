@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T17:28:53.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "3fa9c853-ff78-41d7-8bc8-76c267d85550",
+  "labels": "current-affairs,2018-03-27",
+  "question": "A number when divided by 899 gives a remainder 63. If the same number is divided by 29, then the remainder will be :",
+  "option1": 2,
+  "option2": 4,
+  "option3": 5,
+  "option4": 10,
+  "option5": "",
+  "answer": 5,
+  "explanation": "Required remainder = remainder got when 63 is divided by 29 = 5.\r\nHence option [C] is correct answer."
+}

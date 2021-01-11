@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:35:42.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4fc90395-341a-490b-ad6e-2e9791483073",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A train is moving with the speed of 180 km/hr. Its speed (in m/s) is :",
+  "option1": 5,
+  "option2": 30,
+  "option3": 40,
+  "option4": 50,
+  "option5": "",
+  "answer": 50,
+  "explanation": "Speed = 180 km/hr\r\n$latex = \\\\frac{180\\\\times 5}{18} = 50m/s&s=1$\r\n$latex  \\\\left [ \\\\because 1km/hr = \\\\frac{5}{18} m/s \\\\right ]&s=1$\r\nHence option [D] is correct answer."
+}

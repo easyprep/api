@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T22:20:18.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "9691a6ff-76a4-4573-8c74-4c3f775934bf",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Two pipes can fill a cistern separately in 10 hours and 15 hours. They can together fill the cistern in",
+  "option1": "9 hours",
+  "option2": "7 hours",
+  "option3": "6 hours",
+  "option4": "8 hours",
+  "option5": "",
+  "answer": "6 hours",
+  "explanation": "Part of the cistern filled by both pipes in 1 hour = $latex \\\\frac{1}{10}+\\\\frac{1}{15} = \\\\frac{3+2}{30} = \\\\frac{1}{6}&s=1$\r\n∴ The cistern will be filled in 6 hours, hence option [C] is the right answer."
+}

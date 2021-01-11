@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:46:24.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "901715e3-d900-4a5e-a540-31a1b4b01fb3",
+  "labels": "current-affairs,2018-03-28",
+  "question": "Find the fourth proportional to 5, 9, 12, ….",
+  "option1": 21.3,
+  "option2": 21.6,
+  "option3": 20.16,
+  "option4": 20.06,
+  "option5": "",
+  "answer": 21.6,
+  "explanation": "Let the fourth proportional to 5, 9, 12 be x.\r\nThen 5:9::12:x<=>$latex 5\\\\times x=9\\\\times 12 $\r\n$latex =>x=\\\\frac{9\\\\times 12}{5}=21.6&s=2$\r\nHence the fourth proportional to 5, 9, 12 is 21.6"
+}

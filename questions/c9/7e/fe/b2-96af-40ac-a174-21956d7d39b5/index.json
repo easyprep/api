@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:01:06.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "c97efeb2-96af-40ac-a174-21956d7d39b5",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The LCM of two numbers is 30 and their HCF is 5. One of the numbers is 10. The other is:",
+  "option1": 20,
+  "option2": 15,
+  "option3": 5,
+  "option4": 25,
+  "option5": "",
+  "answer": 15,
+  "explanation": "Because, First number $latex \\\\times$ Second number = LCM $latex \\\\times$ HCF\r\nLet the Second Number be x.\r\n∴ 10x = 30 $latex \\\\times$ 5\r\n$latex =>x=\\\\frac{30\\\\times 5}{10}=15&s=1$\r\nHence option [B] is the right answer."
+}

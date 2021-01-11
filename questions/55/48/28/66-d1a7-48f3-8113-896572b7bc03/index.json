@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:07:04.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "55482866-d1a7-48f3-8113-896572b7bc03",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If 80% of A = 50% of B and B = x% of A, then the value of x is :",
+  "option1": 150,
+  "option2": 300,
+  "option3": 160,
+  "option4": 400,
+  "option5": "",
+  "answer": 160,
+  "explanation": "According to the question, \r\n$latex A\\\\times \\\\frac{80}{100} = B\\\\times \\\\frac{50}{100}&s=1$\r\n$latex \\\\therefore B = \\\\frac{A\\\\times 80}{50} = 1.6A&s=1$\r\n$latex \\\\therefore B = 160\\\\% of A$\r\n$latex \\\\therefore x = 160$\r\nHence option [C] is the correct answer."
+}

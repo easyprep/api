@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:38:43.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "fd819914-828c-4c90-a439-ccb6c63ed23f",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF of two numbers 12906 and 14818 is 487. Their LCM is :",
+  "option1": 600129,
+  "option2": 800172,
+  "option3": 400086,
+  "option4": 200043,
+  "option5": "",
+  "answer": 400086,
+  "explanation": "Because product of two numbers = HCF $latex \\\\times$ LCM\r\n$latex =>$ 12906 $latex \\\\times$ 14818 = LCM $latex \\\\times$ 478\r\n$latex => LCM$ = $latex \\\\frac{12906\\\\times 14818}{478}=400086&s=1$\r\nHence option [C] is the right answer."
+}

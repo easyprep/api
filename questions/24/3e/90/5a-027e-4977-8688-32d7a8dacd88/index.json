@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T14:44:49.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "243e905a-027e-4977-8688-32d7a8dacd88",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B together can do a work in 8 days, B and C together in 6 days, while C and A together in 10 days, if they all work together, then the work will be completed in :",
+  "option1": "$latex 4\\tfrac{4}{9}days&s=1$",
+  "option2": "$latex 3\\tfrac{3}{4}days&s=1$",
+  "option3": "$latex 5\\tfrac{5}{47}days&s=1$",
+  "option4": "$latex 3\\tfrac{3}{7}days&s=1$",
+  "option5": "",
+  "answer": "$latex 5\\tfrac{5}{47}days&s=1$",
+  "explanation": "(A + B)\\'s 1 day\\'s work $latex = \\\\frac{1}{8}&s=1$.......(i)\r\n(B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{6}&s=1$.......(ii)\r\n(C + A)\\'s 1 day\\'s work $latex = \\\\frac{1}{10}&s=1$.......(iii)\r\nOn adding all above equations, \r\n2(A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{1}{8}+\\\\frac{1}{6}+\\\\frac{1}{10}&s=1$\r\n$latex => \\\\frac{15+20+12}{120} = \\\\frac{47}{120}&s=1$\r\n∴ (A + B + C)\\'s 1 day\\'s work $latex = \\\\frac{47}{240}&s=1$\r\n∴ A, B and C together will finish the work in $latex \\\\frac{240}{47} = 5\\\\tfrac{5}{47}days&s=1$\r\nHence option [C] is correct answer"
+}

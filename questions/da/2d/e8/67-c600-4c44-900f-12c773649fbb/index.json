@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T23:40:03.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "da2de867-c600-4c44-900f-12c773649fbb",
+  "labels": "current-affairs,2018-03-28",
+  "question": "1+2 + 3 + … + 49 + 50 + 49 + 48 + … + 3 + 2 + 1 is equal to:",
+  "option1": 5000,
+  "option2": 2525,
+  "option3": 1250,
+  "option4": 2500,
+  "option5": "",
+  "answer": 2500,
+  "explanation": "Required Sum = \r\n$latex 2\\\\left ( \\\\frac{x\\\\left ( x+1 \\\\right )}{2} \\\\right )+50&s=1$\r\n$latex =>\\\\frac{2\\\\times 49\\\\times 50}{2}+50=2500&s=1$\r\nHence option [D] is the right answer."
+}

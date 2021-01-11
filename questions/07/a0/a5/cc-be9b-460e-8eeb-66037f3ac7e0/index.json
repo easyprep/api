@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T17:17:13.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "07a0a5cc-be9b-460e-8eeb-66037f3ac7e0",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The smallest number to be added to 1000, so that 45 divides the sum exactly, is :",
+  "option1": 10,
+  "option2": 20,
+  "option3": 35,
+  "option4": 80,
+  "option5": "",
+  "answer": 35,
+  "explanation": "$latex 1000 = \\\\left ( 45\\\\times 22 \\\\right )+10$\r\n$latex \\\\therefore 45-10 = 35\\\\ to \\\\ be \\\\ added.$\r\nSo, the smallest number to be added to 1000 to make the sum exactly divisible by 45 is 35, Hence option [C] is correct answer."
+}

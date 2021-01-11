@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T14:34:34.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "940984e2-88ed-4ce9-8f36-04374d83dd4e",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The HCF and LCM of two numbers are 12 and 336 respectively. If one of the number is 84, the other is :",
+  "option1": 48,
+  "option2": 36,
+  "option3": 96,
+  "option4": 76,
+  "option5": "",
+  "answer": 48,
+  "explanation": "First Number $latex \\\\times$ Second Number = HCF $latex \\\\times$ LCM\r\n=> 84 $latex \\\\times$ second number  = 12 $latex \\\\times$ 336\r\nSince second number = $latex \\\\frac{12\\\\times 336}{84} = 48&s=1$\r\nHence option [A] is the right answer."
+}

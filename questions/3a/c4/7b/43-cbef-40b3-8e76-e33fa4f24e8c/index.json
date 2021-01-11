@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T20:14:34.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "3ac47b43-cbef-40b3-8e76-e33fa4f24e8c",
+  "labels": "current-affairs,2018-03-27",
+  "question": "If 8% of x is the same as 4% of y, then 20% of x is the same as:",
+  "option1": "80% of y",
+  "option2": "6% of y",
+  "option3": "10% of y",
+  "option4": "50% of y",
+  "option5": "",
+  "answer": "10% of y",
+  "explanation": "$latex \\\\frac{8x}{100}=\\\\frac{4y}{100}&s=1$\r\n$latex => y = 2x$\r\nHence, 20% of x is equals to 10% of y.\r\nHence option [C] is the right answer."
+}

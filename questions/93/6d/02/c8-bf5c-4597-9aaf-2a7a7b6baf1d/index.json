@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:15:51.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "936d02c8-bf5c-4597-9aaf-2a7a7b6baf1d",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If m : n = 3  : 2, then (4m + 5n) : (4m - 5n) is equal to:",
+  "option1": "9 : 1",
+  "option2": "11 : 1",
+  "option3": "4 : 9",
+  "option4": "9 : 4",
+  "option5": "",
+  "answer": "11 : 1",
+  "explanation": "Given, \r\n$latex \\\\frac{m}{n} = \\\\frac{3}{2}&s=1$\r\n$latex \\\\therefore \\\\frac{4m+5n}{4m-5n} = \\\\frac{4\\\\left ( \\\\frac{m}{n} \\\\right )+5}{4\\\\left ( \\\\frac{m}{n} \\\\right )-5}&s=1$\r\n$latex = \\\\frac{4\\\\times\\\\frac{3}{2}+5}{4\\\\times\\\\frac{3}{2}-5}&s=1$\r\n$latex = \\\\frac{6+5}{6-5} = 11 : 1&s=1$\r\nHence option [B] is the right answer."
+}

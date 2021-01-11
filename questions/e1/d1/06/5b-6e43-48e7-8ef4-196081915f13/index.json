@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T17:55:55.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "e1d1065b-6e43-48e7-8ef4-196081915f13",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The smallest number of five digits exactly divisible by 476 is:",
+  "option1": 10476,
+  "option2": 47600,
+  "option3": 10472,
+  "option4": 10000,
+  "option5": "",
+  "answer": 10472,
+  "explanation": "The smallest number of 5 digits = 10000\r\nNow, $latex \\\\frac{10000}{476} = 21&s=1$, and remainder is 4.\r\n∴ Required number = 10000 + (476 - 4) = 10000 + 472 = 10472\r\nHence option [C] is the correct answer."
+}

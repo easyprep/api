@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T15:14:38.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4bba96a7-1f52-44f4-a4b3-7a819d935917",
+  "labels": "current-affairs,2018-03-27",
+  "question": "The breadth of a rectangular hall is three-fourth of its length. If the area of the floor is 768 sq. m., then the difference between the length and breadth of the hall is:",
+  "option1": "32 meters",
+  "option2": "12 meters",
+  "option3": "8 meters",
+  "option4": "24 meters",
+  "option5": "",
+  "answer": "8 meters",
+  "explanation": "Let the length of rectangular hall = x metre\r\n∴ Breadth $latex = \\\\left ( \\\\frac{3}{4}\\\\times x \\\\right )metres&s=1$\r\nArea of rectangular = Length $latex \\\\times$ Breadth\r\n$latex = x \\\\times \\\\frac{3}{4}x sq. m. = \\\\frac{3}{4}x^{2}m^{2}&s=1$\r\nAccording to the question,\r\n$latex \\\\therefore \\\\frac{3}{4} x^{2} = \\\\frac{768\\\\times 4}{3}&s=1$\r\n$latex x = \\\\sqrt{\\\\frac{768\\\\times 4}{3}} = 32 m&s=1$\r\n∴ length = 32 m and Breadth = 24 m\r\n∴ Required difference = 32 - 24 = 8 m\r\nHence option [C] is the right answer."
+}

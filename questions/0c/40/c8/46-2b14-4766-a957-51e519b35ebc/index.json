@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:38:33.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "0c40c846-2b14-4766-a957-51e519b35ebc",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A boy goes to his school from his house at a speed of 3 km/hr and returns at a speed of 2 km/hr. If he takes 5 hours in going and coming, the distance between his house and school is:",
+  "option1": "6.5 km",
+  "option2": "5.5 km",
+  "option3": "5 km",
+  "option4": "6 km",
+  "option5": "",
+  "answer": "6 km",
+  "explanation": "Let the required distance be x km. \r\nThen, \r\n$latex \\\\frac{x}{3}+\\\\frac{x}{2} = 5&s=1$\r\n$latex => \\\\frac{2x+3x}{6} = 5&s=1$\r\n$latex => 5x = 6 \\\\times 5$\r\n$latex \\\\therefore x = \\\\frac{6\\\\times 5}{5} = 6 km.&s=1$\r\nHence option [D] is the right answer."
+}

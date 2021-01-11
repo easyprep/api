@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T20:39:45.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "4af4b7f9-014e-409f-aac3-4cf47d99813f",
+  "labels": "current-affairs,2018-03-29",
+  "question": "A man travelled a certain distance by train at the rate of 25 kmph. and walked back at the rate of 4 kmph. If the whole journey took 5 hours 48 minutes, the distance was:",
+  "option1": "15 km",
+  "option2": "20 km",
+  "option3": "25 km",
+  "option4": "30 km",
+  "option5": "",
+  "answer": "20 km",
+  "explanation": "Let the distance be x km.\r\nTotal time = 5 hours 48 minutes\r\n$latex = 5+\\\\frac{48}{60} = \\\\left ( 5+\\\\frac{4}{5} \\\\right )hours&s=1$\r\n$latex = \\\\frac{29}{5}hours&s=1$\r\n$latex \\\\therefore \\\\frac{x}{25}+\\\\frac{x}{4} = \\\\frac{29}{5}&s=1$\r\n$latex => \\\\frac{4x+25x}{100} = \\\\frac{29}{5}&s=1$\r\n$latex => 5\\\\times 29x = 29\\\\times 100$\r\n$latex => x = \\\\frac{29\\\\times 100}{5\\\\times 29} = 20km.&s=1$\r\nHence option [B] is the right answer."
+}

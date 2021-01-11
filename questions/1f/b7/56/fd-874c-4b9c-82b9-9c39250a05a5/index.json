@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-28T13:24:49.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "1fb756fd-874c-4b9c-82b9-9c39250a05a5",
+  "labels": "current-affairs,2018-03-29",
+  "question": "800 Rs. becomes 956 Rs. in 3 years at certain rate of simple interest. If the rate of interest is increased by 4%, what amount will 800 Rs. become in 3 years?",
+  "option1": "1020.80 Rs",
+  "option2": "1025 Rs",
+  "option3": "1050 Rs",
+  "option4": "1052 Rs",
+  "option5": "",
+  "answer": "1052 Rs",
+  "explanation": "SI = 956 - 800 = 156 Rs. \r\n$latex \\\\therefore Rate = \\\\frac{SI\\\\times 100}{Prin.\\\\times Time}&s=1$\r\n$latex = \\\\frac{156\\\\times 100}{800\\\\times 3} = 6.5\\\\%\\\\ per\\\\ annum&s=1$\r\n∴ New rate = 10.5%\r\n$latex \\\\therefore SI = \\\\frac{PRT}{100}&s=1$\r\n$latex = \\\\frac{800\\\\times 3\\\\times 10.5}{100} = 252\\\\ Rs.&s=1$\r\n∴ Amount = 800 + 252 = 1052 Rs.\r\nHence option [D] is correct answer."
+}

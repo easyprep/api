@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T22:37:06.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "503ba472-0250-4773-beb9-4d58fc665f1b",
+  "labels": "current-affairs,2018-03-27",
+  "question": "Two pipes A and B can separately fill a cistern in 60 minutes and 75 minutes respectively. There is a third pipe in the bottom of the cistern to empty it. If all the three pipes are simultaneously opened, then the cistern is full in 50 minutes. In how much time the third pipe alone can empty the cistern?",
+  "option1": "100 minutes",
+  "option2": "120 minutes",
+  "option3": "90 minutes",
+  "option4": "110 minutes",
+  "option5": "",
+  "answer": "100 minutes",
+  "explanation": "Let the third pipe empty the cistern in x minutes.\r\nPart of cistren filled in 1 minute when all three pipes are opened simultaneously \r\n$latex = \\\\frac{1}{60} + \\\\frac{1}{75} - \\\\frac{1}{x}&s=1$\r\nAccording to the question, \r\n$latex = \\\\frac{1}{60} + \\\\frac{1}{75} - \\\\frac{1}{x} = \\\\frac{1}{50}&s=1$\r\n$latex => \\\\frac{1}{x} = \\\\frac{1}{60} + \\\\frac{1}{75} - \\\\frac{1}{50}&s=1$\r\n$latex =>\\\\frac{5+4-6}{300}= \\\\frac{3}{300}&s=1$\r\n$latex => \\\\frac{1}{x} = \\\\frac{3}{300}&s=1$\r\n$latex \\\\therefore x = \\\\frac{300}{3} = 100 minutes&s=1$\r\nHence option [A] is the right answer."
+}

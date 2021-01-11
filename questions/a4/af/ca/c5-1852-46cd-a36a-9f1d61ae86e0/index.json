@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-27T20:55:39.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "a4afcac5-1852-46cd-a36a-9f1d61ae86e0",
+  "labels": "current-affairs,2018-03-28",
+  "question": "If a:b=5:9 and b:c=6:11; Then Find a:b:c",
+  "option1": "1899-12-29T23:45:01.000Z",
+  "option2": "1899-12-29T23:48:01.000Z",
+  "option3": "1899-12-30T04:57:01.000Z",
+  "option4": "1899-12-30T04:57:03.000Z",
+  "option5": "",
+  "answer": "1899-12-29T23:45:01.000Z",
+  "explanation": "$latex \\\\because a:b=5:9, b:c=6:11=6\\\\times \\\\frac{9}{6}:11\\\\times \\\\frac{9}{6}=9:\\\\frac{33}{2}&s=2$\r\n$latex \\\\therefore a:b:c=5:9:\\\\frac{33}{2}=10:18:33&s=2$\r\nHence option [A] is the right answer."
+}

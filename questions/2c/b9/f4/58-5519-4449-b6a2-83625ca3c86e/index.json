@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-26T19:49:15.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "2cb9f458-5519-4449-b6a2-83625ca3c86e",
+  "labels": "current-affairs,2018-03-27",
+  "question": "0.01 is what per cent of 0.1?",
+  "option1": "$latex \\frac{1}{100}&s=1$",
+  "option2": "$latex \\frac{1}{10}&s=1$",
+  "option3": 100,
+  "option4": 10,
+  "option5": "",
+  "answer": 10,
+  "explanation": "Let $latex x\\\\%\\\\times 0.1 = 0.01$\r\n$latex => \\\\frac{x}{100}\\\\times 0.1 = 0.01&s=1$\r\n$latex => x = \\\\frac{0.01\\\\times 100}{0.1} = 10&s=1$\r\nHence option [D] is the correct answer."
+}

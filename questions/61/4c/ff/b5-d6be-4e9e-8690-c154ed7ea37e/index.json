@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-29T13:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:22.862Z",
+  "id": "614cffb5-d6be-4e9e-8690-c154ed7ea37e",
+  "labels": "current-affairs,2018-03-30",
+  "question": "A and B together can dig a trench in 12 days, which A alone can dig in 28 days, B alone can dig it in :",
+  "option1": "20 days",
+  "option2": "21 days",
+  "option3": "22 days",
+  "option4": "23 days",
+  "option5": "",
+  "answer": "21 days",
+  "explanation": "B\\'s 1 day\\'s work = (A + B)\\'s 1 day\\'s work -  A\\'s 1 day\\'s work\r\n$latex \\\\therefore \\\\frac{1}{12}-\\\\frac{1}{28} = \\\\frac{7-3}{84}&s=1$\r\n$latex = \\\\frac{4}{84} = \\\\frac{1}{21}&s=1$\r\n∴ Required time = 21 days.\r\nHence option [B] is correct answer."
+}
