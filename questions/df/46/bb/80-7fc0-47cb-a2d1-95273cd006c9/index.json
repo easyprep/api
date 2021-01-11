@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T20:43:12.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "df46bb80-7fc0-47cb-a2d1-95273cd006c9",
+  "labels": "current-affairs,2018-01-03",
+  "question": "1 gm of which of the following will produce maximum ATPs?",
+  "option1": "Protein",
+  "option2": "Carbohydrate",
+  "option3": "Fats",
+  "option4": "Minerals",
+  "option5": "",
+  "answer": "Fats",
+  "explanation": "Fats are slowest but most energy-efficient source of food. Each gram of fat provides more energy on oxidation (and thus more ATPs)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-06T17:14:31.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "9af20e04-aa2e-4f97-912a-4deb9ec65314",
+  "labels": "current-affairs,2018-01-07",
+  "question": "Which among the following is an incorrect statement regarding Money Bill?",
+  "option1": "It can be introduced only in Lok Sabha",
+  "option2": "It can be introduced only on the recommendation of the President",
+  "option3": "The Rajya Sabha is given 1 months time period to make recommendation on a Money Bill",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "The Rajya Sabha is given 1 months time period to make recommendation on a Money Bill",
+  "explanation": "A money bill must be returned to the Lok Sabha within 14 days or the bill is deemed to have passed both houses in the form it was originally passed by the Lok Sabha."
+}

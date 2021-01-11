@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-07T16:02:11.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "34525a09-7307-4e7b-825e-0f2a206ff232",
+  "labels": "current-affairs,2018-01-08",
+  "question": "Which among the following sentence is true?",
+  "option1": "RBI introduced Repos & Reverse Repos in 1992",
+  "option2": "RBI Introduced Repos in 1992 & Reverse Repos in 1996",
+  "option3": "RBI introduced Repos & Reverse Repos in 1996",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "RBI Introduced Repos in 1992 & Reverse Repos in 1996",
+  "explanation": ""
+}

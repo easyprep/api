@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-03T20:54:26.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "8616d522-2b68-4ac0-a40c-f39b15e0ea32",
+  "labels": "current-affairs,2018-01-04",
+  "question": "Open market Operation by RBI are the part of its ?",
+  "option1": "Fiscal Policy",
+  "option2": "Credit Policy",
+  "option3": "Income Policy",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Credit Policy",
+  "explanation": "Open Market Operations refer to the purchase and sale of the Government securities (G-Secs) by RBI from / to market. The objective of Open Market Operations is to adjust the rupee liquidity conditions in the economy on a durable basis.\r\nWhen RBI sells government security in the markets, the banks purchase them. When the banks purchase Government securities, they have a reduced ability to lend to the industrial houses or other commercial sectors. This reduced surplus cash, contracts the rupee liquidity and consequently credit creation / credit supply. When RBI purchases the securities, the commercial banks find them with more surplus cash and this would create more credit in the system.\r\nThus, in the case of excess liquidity, RBI resorts to sale of G-secs to suck out rupee from system. Similarly, when there is a liquidity crunch in the economy, RBI buys securities from the market, thereby releasing liquidity."
+}

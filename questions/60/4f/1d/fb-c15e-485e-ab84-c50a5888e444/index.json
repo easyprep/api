@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-03T21:22:15.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "604f1dfb-c15e-485e-ab84-c50a5888e444",
+  "labels": "current-affairs,2018-01-04",
+  "question": "Which among the following is incorrect regarding the Indian Depository Receipts?",
+  "option1": "They are derivative instruments",
+  "option2": "They have shares as the underlying assets",
+  "option3": "They are non-negotiable Financial instruments",
+  "option4": "They are negotiable financial instruments",
+  "option5": "",
+  "answer": "They are non-negotiable Financial instruments",
+  "explanation": "Global Depository Receipts (GDRs) and American depository receipts (ADRs) &amp; Indian Depository Receipts all are negotiable instruments."
+}

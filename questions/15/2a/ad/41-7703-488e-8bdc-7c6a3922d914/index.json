@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-05T17:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "152aad41-7703-488e-8bdc-7c6a3922d914",
+  "labels": "current-affairs,2018-01-06",
+  "question": "Which among the following is correct ?",
+  "option1": "Oxidation takes place at Cathode and Reduction Takes Place at Anode",
+  "option2": "Oxidation takes place at Anode and Reduction Takes place at Cathode",
+  "option3": "Both Oxidation and Reduction takes place at cathode",
+  "option4": "Both Oxidation and Reduction takes place at Anode",
+  "option5": "",
+  "answer": "Oxidation takes place at Anode and Reduction Takes place at Cathode",
+  "explanation": "In an electrochemical cell, the half cell where oxidation takes place is known as oxidation half cell and the half cell where reduction takes place is known as reduction half cell. Oxidation takes place at anode which is negatively charged and reduction takes place at cathode which is positively charged."
+}

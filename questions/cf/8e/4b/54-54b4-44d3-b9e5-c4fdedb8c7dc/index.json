@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-03T15:37:02.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "cf8e4b54-54b4-44d3-b9e5-c4fdedb8c7dc",
+  "labels": "current-affairs,2018-01-04",
+  "question": "Which among the following is <strong>incorrect</strong> regarding the chemical nature of Diamond &amp; Graphite?",
+  "option1": "Density of Diamond is higher than that of Graphite",
+  "option2": "Diamond is chemically unreactive while graphite is mild reactive",
+  "option3": "Both Diamond and Graphite are good conductors of electricity",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both Diamond and Graphite are good conductors of electricity",
+  "explanation": "Diamond is bad conductor of electrcity"
+}

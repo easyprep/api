@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-04T22:21:12.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "72d33656-cdf7-485f-8dac-81f9b1c5544a",
+  "labels": "current-affairs,2018-01-05",
+  "question": "Who decides the reasonableness of the restrictions placed on Fundamental rights in India?",
+  "option1": "Parliament",
+  "option2": "Courts",
+  "option3": "President",
+  "option4": "Prime minister",
+  "option5": "",
+  "answer": "Courts",
+  "explanation": "Fundamental Rights guaranteed by the Constitution are not absolute and certain restrictions can be imposed by the state according to the procedure established by law. However, these restrictions must be reasonable and not arbitrary. The reasonableness of the restrictions is decided by courts."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T18:55:50.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "1491e56e-b177-4650-8e2a-16bb57702a44",
+  "labels": "current-affairs,2018-01-03",
+  "question": "During the process of Osmosis the solvent travels from _______ ?",
+  "option1": "Concentrated solution to dilute solution",
+  "option2": "Dilute solution to the concentrated solution",
+  "option3": "Solvent does not travel in osmosis",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Concentrated solution to dilute solution",
+  "explanation": "Osmosis is a process by which molecules of a solvent tend to pass through a semipermeable membrane from a more concentrated solution into a less concentrated one making both the sides equal."
+}

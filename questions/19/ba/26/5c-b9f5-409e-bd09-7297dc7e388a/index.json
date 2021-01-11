@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-07T17:52:57.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "19ba265c-b9f5-409e-bd09-7297dc7e388a",
+  "labels": "current-affairs,2018-01-08",
+  "question": "\"We command” is a literal meaning of which of the following ?",
+  "option1": "Habeas corpus",
+  "option2": "quo warranto",
+  "option3": "mandamus",
+  "option4": "certiorari",
+  "option5": "",
+  "answer": "mandamus",
+  "explanation": "Mandamus means “we command”.  This writ is a command issued by court to a public official, public body, corporation, inferior court, tribunal or government asking them to perform their duties which they have refused to perform."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T17:51:51.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "1ce71a3e-3a38-44ec-88fe-16475e432af5",
+  "labels": "current-affairs,2018-01-03",
+  "question": "Which among the following defines ‘revenue deficit’?",
+  "option1": "revenue expenditure minus revenue receipts",
+  "option2": "revenue receipts minus revenue expenditure",
+  "option3": "revenue expenditure plus revenue receipts",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "revenue expenditure minus revenue receipts",
+  "explanation": "Revenue deficit is the excess of total revenue expenditure of the government over its total revenue receipts. It is related to only revenue expenditure and revenue receipts of the government. Alternatively, the shortfall of total revenue receipts compared to total revenue expenditure is defined as revenue deficit."
+}

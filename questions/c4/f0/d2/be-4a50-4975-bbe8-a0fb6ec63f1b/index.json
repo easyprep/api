@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T21:03:34.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "c4f0d2be-4a50-4975-bbe8-a0fb6ec63f1b",
+  "labels": "current-affairs,2018-01-10",
+  "question": "The blood pressure is denoted as following?",
+  "option1": "Systolic Pressure / Diastolic Pressure",
+  "option2": "Diastolic Pressure / Systolic Pressure",
+  "option3": "Venous Pressure / Systolic Pressure",
+  "option4": "Systolic Pressure / Pulse Pressure",
+  "option5": "",
+  "answer": "Systolic Pressure / Diastolic Pressure",
+  "explanation": "Blood Pressure is expressed in two numbers. The higher number is known as Systolic Pressure, or the amount of force (as measured in millimetres of mercury) that is exerted against the artery walls during a heartbeat (contraction). The lower number in the Diastolic pressure, which does the force exist while the heart is resting between beats."
+}

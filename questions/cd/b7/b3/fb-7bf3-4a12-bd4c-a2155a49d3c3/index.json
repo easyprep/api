@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-07T17:15:25.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "cdb7b3fb-7bf3-4a12-bd4c-a2155a49d3c3",
+  "labels": "current-affairs,2018-01-08",
+  "question": "Find out the correct pairs among the below three: \r\n<ol>\r\n<li>Thiamine – Beri Beri</li>\r\n<li>Vitamin D – Rickets</li>\r\n<li>Vitamin K –Sterility</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "1 & 2 only",
+  "option4": "2003-01-01T18:30:00.000Z",
+  "option5": "",
+  "answer": "1 & 2 only",
+  "explanation": "1 &amp; 2 only ARE CORRECT sterility is related to Vitamin E , Vitamin K is related to Blood Coagulation"
+}

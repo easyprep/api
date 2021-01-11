@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T17:52:44.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "2d1b86f3-50a7-4610-9612-3fc8baba6775",
+  "labels": "current-affairs,2018-01-10",
+  "question": "What does an “Epicenter” of an earthquake means ?",
+  "option1": "point of initial rupture",
+  "option2": "point at ground level directly above the point of initial rupture",
+  "option3": "Circle of earthquake disturbances",
+  "option4": "geographical area affected by earthquake",
+  "option5": "",
+  "answer": "point at ground level directly above the point of initial rupture",
+  "explanation": "point of initial rupture is called Hypocenter"
+}

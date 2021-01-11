@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-08T16:49:40.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "1ef97ba3-d260-4c0d-8f65-2d7f921cd809",
+  "labels": "current-affairs,2018-01-09",
+  "question": "On which of the following the jet Engine works?",
+  "option1": "Conservation of energy",
+  "option2": "Conservation of Linear Momentum",
+  "option3": "Conservation of Mass",
+  "option4": "Conservation of Angular momentum",
+  "option5": "",
+  "answer": "Conservation of Linear Momentum",
+  "explanation": "Conservation of Linear Momentum law says that if no external force acts on a system, then its total linear momentum remains conserved. In equation form, Momentum=mass*velocity. To increase the momentum of an object, we need to either increase its mass or velocity or both.\r\n<ul>\r\n<li>Rockets work on law of conservation of momentum. As momentum in one direction is given to the rocket’s exhaust gases, momentum in the other direction is given to the rocket itself.</li>\r\n</ul>"
+}

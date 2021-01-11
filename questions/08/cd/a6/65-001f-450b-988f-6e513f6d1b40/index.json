@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-04T21:40:36.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "08cda665-001f-450b-988f-6e513f6d1b40",
+  "labels": "current-affairs,2018-01-05",
+  "question": "The speed of Sound is maximum in which of the following ?",
+  "option1": "Air at zero degree C",
+  "option2": "Air at 100 degree C",
+  "option3": "Water",
+  "option4": "At all places it is maximum",
+  "option5": "",
+  "answer": "Water",
+  "explanation": "In a given ideal gas the speed of sound depends only on its temperature. The speed of sound in still air at 0 degrees Celsius is 331.5 m / s. It depends on the temperature and material. Since sound is transferred easily through densely packed molecules, it is faster in denser substances. Thus the speed of sound increases with the stiffness of the material."
+}

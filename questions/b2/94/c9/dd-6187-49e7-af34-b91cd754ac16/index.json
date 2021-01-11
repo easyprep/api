@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-05T17:05:59.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "b294c9dd-6187-49e7-af34-b91cd754ac16",
+  "labels": "current-affairs,2018-01-06",
+  "question": "Which among the following statements about Ozone is INCORRECT?",
+  "option1": "It is found in the upper atmosphere filters potentially damaging ultraviolet light from reaching the Earth’s surface",
+  "option2": "It is lighter than oxygen that is why it is found in the upper atmosphere",
+  "option3": "It is an allotrope of oxygen",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "It is lighter than oxygen that is why it is found in the upper atmosphere",
+  "explanation": "Ozone is heavier than oxygen yet is found in upper atmosphere,"
+}

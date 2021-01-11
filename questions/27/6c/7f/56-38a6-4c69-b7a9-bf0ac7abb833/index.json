@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T18:54:09.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "276c7f56-38a6-4c69-b7a9-bf0ac7abb833",
+  "labels": "current-affairs,2018-01-10",
+  "question": "Which among the following statement is correct about Fluorescence?",
+  "option1": "High Energy Photon is absorbed and low energy photon is emitted",
+  "option2": "Low Energy Photon is absorbed and high energy photon is emitted",
+  "option3": "High Energy Photon is absorbed and electron is emitted",
+  "option4": "Low Energy Photon is absorbed and electron is emitted",
+  "option5": "",
+  "answer": "High Energy Photon is absorbed and electron is emitted",
+  "explanation": "Fluorescence is the emission of light by a substance that has absorbed light or other electromagnetic radiation. It is a form of luminescence. In most cases, the emitted light has a longer wavelength, and therefore lower energy, than the absorbed radiation. High Energy Photon is absorbed and electron is emitted."
+}

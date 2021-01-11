@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-07T18:03:10.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "22345df8-b74c-48b0-830f-c56d8c5c05c7",
+  "labels": "current-affairs,2018-01-08",
+  "question": "Which of the following are the members of the electoral college electing the president?",
+  "option1": "Elected members of Rajya Sabha",
+  "option2": "Elected members of Rajya Sabha & Lok Sabha",
+  "option3": "Elected members of the Rajya Sabha , Lok Sabha and State Assemblies",
+  "option4": "Elected members of Rajya Sabha, Lok Sabha , state assemblies and assemblies of Union Territories",
+  "option5": "",
+  "answer": "Elected members of the Rajya Sabha , Lok Sabha and State Assemblies",
+  "explanation": "The President is indirectly elected by means of an electoral college which consist of the elected members of both the houses of parliament and the Legislative assemblies of the States of India and the Union territories of Delhi, and Puducherry."
+}

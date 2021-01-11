@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-05T20:10:56.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "3d63f123-3ed9-4ba7-89e0-58456c22cfd9",
+  "labels": "current-affairs,2018-01-06",
+  "question": "Which of the following system is maintained by Reserve Bank of India against printing of notes?",
+  "option1": "Proportional reserve system",
+  "option2": "Minimum Reserve System",
+  "option3": "Proportional Gold Reserve System",
+  "option4": "Proportional currency Reserve System",
+  "option5": "",
+  "answer": "Minimum Reserve System",
+  "explanation": "Originally, the assets of the Issue department were to consist of not less than 2/5<sup>th</sup> of the Gold or sterling securities, provided Gold was NOT less than Rs. 40 Crores in value. Remaining 3/5<sup>th</sup> of the assets might be rupee coins. This was called <strong>Proportional Reserve System</strong>. The system changed in 1956.\r\n\r\nSince then, RBI is required to maintain a Gold and Foreign Exchange Reserves of Rs. 200 Crore of which at least Rs. 115 Crore should be in Gold. This is called <strong>Minimum Reserve System</strong>. This system continues till date."
+}

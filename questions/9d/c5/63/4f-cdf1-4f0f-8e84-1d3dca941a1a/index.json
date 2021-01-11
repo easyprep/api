@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T19:11:59.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "9dc5634f-cdf1-4f0f-8e84-1d3dca941a1a",
+  "labels": "current-affairs,2018-01-03",
+  "question": "The primary part of Liquefied Petroleum Gas LPG is ______?",
+  "option1": "Butane",
+  "option2": "Methane",
+  "option3": "Propane",
+  "option4": "Butane or Propane",
+  "option5": "",
+  "answer": "Butane or Propane",
+  "explanation": "LPG consists mainly of propane, propylene, butane, and butylene in various mixtures. The primary gas can be either Propane or Butane."
+}

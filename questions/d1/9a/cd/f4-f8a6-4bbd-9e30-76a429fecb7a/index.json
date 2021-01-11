@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-08T15:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "d19acdf4-f8a6-4bbd-9e30-76a429fecb7a",
+  "labels": "current-affairs,2018-01-09",
+  "question": "Which among the following correctly denotes Reserve Money",
+  "option1": "Currency in circulation",
+  "option2": "Currency in Circulation + Other deposits of the General Public with RBI",
+  "option3": "Currency in circulation + Other deposits of the general Public with RBI + Cash held with the banks",
+  "option4": "Currency in circulation + Other deposits of the general Public with RBI + Cash held with the banks + Banker’s Deposits with RBI",
+  "option5": "",
+  "answer": "Currency in circulation + Other deposits of the general Public with RBI + Cash held with the banks + Banker’s Deposits with RBI",
+  "explanation": ""
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-07T21:33:51.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "9ed45e4e-c916-487f-a46c-28bb1d1f98bb",
+  "labels": "current-affairs,2018-01-08",
+  "question": "The following nuclear reaction makes the Sun a great source of energy ?",
+  "option1": "Nuclear Fusion",
+  "option2": "Nuclear Fission",
+  "option3": "Nuclear magnetic resonance",
+  "option4": "thorium fuel cycle",
+  "option5": "",
+  "answer": "Nuclear Fusion",
+  "explanation": "Nuclear fusion is a reaction in which two or more atomic nuclei are combined to form one or more different atomic nuclei and subatomic particles and a great amount of energy is released. Nuclear fusion activity happens in sun. In sun 4 hydrogen molecules combine to form helium."
+}

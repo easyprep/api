@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-08T20:54:05.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "adaedd9c-6c31-40e8-866b-515a3a355243",
+  "labels": "current-affairs,2018-01-09",
+  "question": "Which among the following is a Progressive Tax?",
+  "option1": "Customs duty",
+  "option2": "Development Surcharge",
+  "option3": "Income tax",
+  "option4": "Sales tax",
+  "option5": "",
+  "answer": "Income tax",
+  "explanation": "In progressive taxation, the tax liability increases with individual or entity income. This is based on principle of “ability to pay”. Under this system, lowest income people are generally exempted while highest income people pay highest taxes. Income Tax is thus an example of progressive tax. Progressive taxation results in redistribution of income from rich to poor."
+}

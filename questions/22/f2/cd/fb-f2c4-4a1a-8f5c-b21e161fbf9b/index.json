@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T21:50:28.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "22f2cdfb-f2c4-4a1a-8f5c-b21e161fbf9b",
+  "labels": "current-affairs,2018-01-03",
+  "question": "Which of the following waves can be used to measure the speed of a approaching car?",
+  "option1": "Light waves",
+  "option2": "Micro waves",
+  "option3": "Radio waves",
+  "option4": "Sound waves",
+  "option5": "",
+  "answer": "Radio waves",
+  "explanation": "Radio waves are a type of electromagnetic radiation with wavelengths in the electromagnetic spectrum longer than infrared light. Radio waves have frequencies as high as 300 gigahertz to as low as 30 hertz. It is used to measure the speed of an approaching car."
+}

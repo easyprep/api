@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T14:24:14.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "c3f1a7d3-c185-475a-8ebf-c9c0bba2c097",
+  "labels": "current-affairs,2018-01-10",
+  "question": "Which among the following imposes a greater burden (relative to resources) on the poor than on the rich ?",
+  "option1": "Progressive tax",
+  "option2": "Regressive Tax",
+  "option3": "Lump Sum tax",
+  "option4": "Proportional tax",
+  "option5": "",
+  "answer": "Regressive Tax",
+  "explanation": "A regressive tax is the one in which tax rate decreases as the amount subject to taxation increases; and the tax rate progresses from high to low. The lowest amount is subject to higher taxation and this leads to individuals with low income bear the highest burden of regressive taxes. Such tax does not take into account the ability to pay."
+}

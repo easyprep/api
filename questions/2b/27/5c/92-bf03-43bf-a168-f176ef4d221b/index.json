@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-08T16:56:08.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "2b275c92-bf03-43bf-a168-f176ef4d221b",
+  "labels": "current-affairs,2018-01-09",
+  "question": "A person who is pulling a bucket filled with water falls behind with the sudden break of the rope. Which of the following laws of Newton comes into action?",
+  "option1": "First Law",
+  "option2": "Second law",
+  "option3": "Third law",
+  "option4": "First and third law",
+  "option5": "",
+  "answer": "Third law",
+  "explanation": "The newtons third law states that for every action there is equal and opposite reaction. SO a person pulling a bucketfilled with water falls behind with sudden break in rope as it is the reaction force for the action of breaking of rope."
+}

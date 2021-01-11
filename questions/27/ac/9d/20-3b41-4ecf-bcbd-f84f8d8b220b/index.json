@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-03T23:32:41.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "27ac9d20-3b41-4ecf-bcbd-f84f8d8b220b",
+  "labels": "current-affairs,2018-01-04",
+  "question": "In which of the following situation Lunar eclipse occurs?",
+  "option1": "Sun between earth & Moon",
+  "option2": "Earth between Sun & Moon",
+  "option3": "Moon between Earth & Sun",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Earth between Sun & Moon",
+  "explanation": "A lunar eclipse occurs when the Moon moves into the Earth's shadow. This can occur only when the Sun, Earth, and Moon are exactly or very closely aligned (in syzygy), with Earth between the other two. A lunar eclipse can occur only on the night of a full moon."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T21:55:34.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "c4c17079-9c83-467a-9d86-542b3df540ab",
+  "labels": "current-affairs,2018-01-03",
+  "question": "Steam at 100 degree centigrade causes more severe burns. Which of the following phenomena will you use to explain this?",
+  "option1": "Specific heat",
+  "option2": "Latent heat",
+  "option3": "Fusion",
+  "option4": "Fission",
+  "option5": "",
+  "answer": "Latent heat",
+  "explanation": "Latent heat is energy released or absorbed, by a body or a thermodynamic system, during a constant-temperature process. So steam at 100 degree centigrade causes more severe burns."
+}

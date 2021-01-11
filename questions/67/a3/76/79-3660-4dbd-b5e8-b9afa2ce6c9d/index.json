@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T19:03:43.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "67a37679-3660-4dbd-b5e8-b9afa2ce6c9d",
+  "labels": "current-affairs,2018-01-03",
+  "question": "Which of the following is a standard for environmental management systems to be implemented in any business?",
+  "option1": "ISO 9000",
+  "option2": "ISO 19011",
+  "option3": "ISO 14000",
+  "option4": "ISO 15000",
+  "option5": "",
+  "answer": "ISO 14000",
+  "explanation": "<ol>\r\n<li>ISO 4217 – Currency Codes</li>\r\n<li>ISO 14000 – Environmental management</li>\r\n<li>ISO 9000 – Quality Management</li>\r\n</ol>\r\nPlease note that ISO 10303 is known as “STEP”, which stands for “Standard for the Exchange of Product model data”."
+}

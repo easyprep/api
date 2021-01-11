@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T21:06:53.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "fb08995e-42fc-4630-a6be-da946e7c6cb7",
+  "labels": "current-affairs,2018-01-10",
+  "question": "Newton-meters per second is represented as follows?",
+  "option1": "Ohm",
+  "option2": "Volt",
+  "option3": "Watt",
+  "option4": "Calorie",
+  "option5": "",
+  "answer": "Watt",
+  "explanation": "one watt is the rate at which work is done when an object is moved at a speed of one meter per second against a force of one Newton."
+}

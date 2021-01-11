@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T21:27:05.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "eb30bd01-f74e-4288-9088-d097bb03d522",
+  "labels": "current-affairs,2018-01-03",
+  "question": "Which among the following sentence is correct reason behind the blue color of ocean water?",
+  "option1": "Water molecules absorb all other colors except blue",
+  "option2": "Impurities in Sea water reflect the blue light",
+  "option3": "Water molecules scatter the blue light",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Water molecules scatter the blue light",
+  "explanation": "Water molecules scatter the blue light by absorbing the light waves and then rapidly re-emitting the light waves in different directions. That is why there are mostly blue wavelengths that are reflected back to our eyes."
+}

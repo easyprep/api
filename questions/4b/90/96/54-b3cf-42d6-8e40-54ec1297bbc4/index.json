@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T20:03:51.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "4b909654-b3cf-42d6-8e40-54ec1297bbc4",
+  "labels": "current-affairs,2018-01-03",
+  "question": "Among typhoid, hysteria, measles &amp; influenza which is / are not contagious disease(s)?",
+  "option1": "Hysteria only",
+  "option2": "Hysteria & Measles",
+  "option3": "Hysteria, Typhoid & Measles",
+  "option4": "All are contagious diseases",
+  "option5": "",
+  "answer": "Hysteria only",
+  "explanation": "Among typhoid, hysteria, measles &amp; influenza, only Hysteria is not a contagious disease. A contagious disease is a subset category of transmissible diseases, which are transmitted to other persons."
+}

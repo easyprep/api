@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-04T18:30:31.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "a0fbb4cf-5f2b-43da-99a6-3d5ecdc0b069",
+  "labels": "current-affairs,2018-01-05",
+  "question": "Which of the following authorities lays down a priority of inheritance which places the wife, followed by daughters immediately after sons?",
+  "option1": "Brihaspati",
+  "option2": "Yajnavalkya",
+  "option3": "Narada",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Yajnavalkya",
+  "explanation": "Yajnavalkya lists widow after son and daughters following her in case of no son"
+}

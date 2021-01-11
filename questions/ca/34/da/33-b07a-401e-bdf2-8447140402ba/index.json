@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-08T16:58:56.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "ca34da33-b07a-401e-bdf2-8447140402ba",
+  "labels": "current-affairs,2018-01-09",
+  "question": "On which of the following Inertia of an object depends ?",
+  "option1": "Bulk",
+  "option2": "Size",
+  "option3": "Shape",
+  "option4": "Mass",
+  "option5": "",
+  "answer": "Mass",
+  "explanation": "Inertia is the resistance experienced by an object to any change in its velocity. This includes changes to the object's speed, or direction of motion. Inertia of rest, Inertia of motion are the examples."
+}

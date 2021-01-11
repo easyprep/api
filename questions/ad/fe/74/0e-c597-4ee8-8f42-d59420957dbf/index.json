@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-05T16:00:29.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "adfe740e-c597-4ee8-8f42-d59420957dbf",
+  "labels": "current-affairs,2018-01-06",
+  "question": "Which among the following is most electronegative element?",
+  "option1": "Chlorine",
+  "option2": "FLourine",
+  "option3": "Bromine",
+  "option4": "All of them have same electronegativity",
+  "option5": "",
+  "answer": "FLourine",
+  "explanation": "Electronegativity is an atoms relative ability to remove an electron pair in the formation of a covalent bond. I.e. an atoms ability to steal a pair of electrons from the outer ring of another atom to make a covalent bond, (like a contract to share electons in order to fill there outer shells and become stable)\r\nAcross the periodic table (left to right) this gets harder to do due to an increase in attraction forces between the nuclear charge and the outer electons. Therefore across the periodic table ‘more’ electronegativity energy is required to remove those electrons.\r\nDown the periodic table, from top to bottom attraction forces between the electrons in the outer shell and the central nuclear charge decreases (shielding effect of sub levels and increased atomic radius), this make it easier for the electrons to be stolen, so there is less electronegativity required.\r\nFluorine is the highest and furthest to the right, making it the most electronegative.\r\n(Helium and Neon etc have full outer shells so arent involved in covalent bonds)"
+}

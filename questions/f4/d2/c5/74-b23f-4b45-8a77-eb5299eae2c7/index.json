@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-04T14:57:39.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "f4d2c574-b23f-4b45-8a77-eb5299eae2c7",
+  "labels": "current-affairs,2018-01-05",
+  "question": "Most of the times, it is the economic policy adopted by a government before recession, which determines what type of recession it is; a wrongly calibrated economic policies leading to L-shape recessions, the worst of all. Which is correct regarding L ?",
+  "option1": "L-shape recession is a recession that goes down and then stays there for a long period of time without a recovery",
+  "option2": "L-shape recession goes down slowly and then stays there for a few years before recovering",
+  "option3": "L-shape recession goes down slowly and then stays there for many years before recovering",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "L-shape recession is a recession that goes down and then stays there for a long period of time without a recovery",
+  "explanation": "Option-2 is for U-shape recession\r\nOption-3 is for V-shape recession"
+}

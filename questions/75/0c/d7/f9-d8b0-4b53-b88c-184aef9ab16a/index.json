@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T17:18:58.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "750cd7f9-d8b0-4b53-b88c-184aef9ab16a",
+  "labels": "current-affairs,2018-01-10",
+  "question": "Which among the following is the standard map projection for nautical purposes (suitable for showing sea routes)?",
+  "option1": "Mercator projection",
+  "option2": "Cassini projection",
+  "option3": "Gnomonic projection",
+  "option4": "Polyconic Projection",
+  "option5": "",
+  "answer": "Mercator projection",
+  "explanation": ""
+}

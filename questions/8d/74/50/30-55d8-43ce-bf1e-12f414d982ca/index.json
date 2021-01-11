@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T18:09:11.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "8d745030-55d8-43ce-bf1e-12f414d982ca",
+  "labels": "current-affairs,2018-01-03",
+  "question": "South Africa has 3 capitals. Which among the following sentences is correct regarding the three capitals of South Africa?",
+  "option1": "Cape Town is the legislative capital; Pretoria is the administrative capital; and Bloemfontein is the judicial capital",
+  "option2": "Cape Town is the administrative capital; Pretoria is the judicial capital; and Bloemfontein is the legislative capital",
+  "option3": "Cape Town is the judiciary capital; Pretoria is the administrative capital; and Bloemfontein is the legislative capital",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Cape Town is the legislative capital; Pretoria is the administrative capital; and Bloemfontein is the judicial capital",
+  "explanation": "South Africa has 3 capitals. Cape Town, as the seat of Parliament, is the legislative capital; Pretoria, as the seat of the President and Cabinet, is the administrative capital; and Bloemfontein, as the seat of the Supreme Court of Appeal, is the judicial capital, while the Constitutional Court of South Africa sits in Johannesburg."
+}

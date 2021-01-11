@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-03T23:15:00.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "fbb1bd1a-6d2a-4c93-a88e-3b1c6a1955af",
+  "labels": "current-affairs,2018-01-04",
+  "question": "Which among the following is true regarding cyclones?",
+  "option1": "rotate counter clockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere",
+  "option2": "rotate clockwise in the Northern Hemisphere and counter clockwise in the Southern Hemisphere",
+  "option3": "may rotate in any direction in any hemisphere",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "rotate counter clockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere",
+  "explanation": "<strong>For cyclones:</strong>\r\nPressure Condition at the centre: Low\r\nPattern of wind direction in Northern hemisphere: Anti-clock wise\r\nPattern of wind direction in Southern hemisphere: Clock wise\r\n<strong>For Anti cyclones:</strong>\r\nPressure Condition at the centre: high\r\nPattern of wind direction in Northern hemisphere: clock wise\r\nPattern of wind direction in Southern hemisphere: Anti clock wise"
+}

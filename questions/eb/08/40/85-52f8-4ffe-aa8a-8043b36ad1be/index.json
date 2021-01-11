@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T19:08:24.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "eb084085-52f8-4ffe-aa8a-8043b36ad1be",
+  "labels": "current-affairs,2018-01-10",
+  "question": "Most part of the Cosmic rays that impinge on earth’s atmosphere are __?",
+  "option1": "Electrons",
+  "option2": "Protons",
+  "option3": "Neutrons",
+  "option4": "Gamma rays",
+  "option5": "",
+  "answer": "Protons",
+  "explanation": "Almost 90% of all the incoming cosmic ray particles are protons, almost 10% are helium nuclei (alpha particles), and slightly under 1% are heavier elements and electrons (beta minus particles)"
+}

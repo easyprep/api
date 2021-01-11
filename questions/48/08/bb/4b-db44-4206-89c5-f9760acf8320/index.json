@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-03T16:23:37.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "4808bb4b-db44-4206-89c5-f9760acf8320",
+  "labels": "current-affairs,2018-01-04",
+  "question": "A genetic code specifies how many kinds of amino acids?",
+  "option1": 12,
+  "option2": 15,
+  "option3": 20,
+  "option4": 25,
+  "option5": "",
+  "answer": 20,
+  "explanation": "<span class=\\\"st\\\">There are as <em>many</em> as 100 thousand <em>kinds</em> of proteins that constitute the body, and these comprise only 20 <em>kinds of amino acids</em> in various combinations."
+}

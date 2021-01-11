@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-06T22:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "158eb1c4-60f0-43d1-854b-61350e5b1b10",
+  "labels": "current-affairs,2018-01-07",
+  "question": "Which among the following is NOT correctly matched?",
+  "option1": "ISO 14000 – environmental management systems",
+  "option2": "ISO 15022 – Securities Trading",
+  "option3": "ISO 9000 – Computers",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "ISO 9000 – Computers",
+  "explanation": "ISO 9000 is a family of standards for quality management systems and not particularly related to computers"
+}

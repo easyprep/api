@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-03T17:32:25.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "7f869894-ca83-40b8-a8e8-17ae2952bdc9",
+  "labels": "current-affairs,2018-01-04",
+  "question": "Who among the following can suspend the fundamental rights?",
+  "option1": "Parliament",
+  "option2": "President",
+  "option3": "Prime minister",
+  "option4": "Supreme court",
+  "option5": "",
+  "answer": "President",
+  "explanation": "During national emergency, all the basic freedoms guaranteed by article 19 automatically get suspended. During emergency, President can suspend all other fundamental rights also except Article 20 (protection in respect of conviction for offences) and Article 21 (Protection of life and personal liberty). Such suspension needs parliamentary approval."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-02T23:21:33.000Z",
+  "updated_at": "2021-01-06T08:24:14.143Z",
+  "id": "3508caff-c0a8-4f35-b6dd-4127629a69df",
+  "labels": "current-affairs,2018-01-03",
+  "question": "The provision of extra liquidity to an illiquid but a presumably solvent bank by the central bank. This function is performed by which of the following ?",
+  "option1": "Lender of Last Resort",
+  "option2": "Offer Angel",
+  "option3": "Depository bank",
+  "option4": "None of the bank",
+  "option5": "",
+  "answer": "Lender of Last Resort",
+  "explanation": "RBI is known as Lender of Last Resort because, banks are supposed to meet their shortfalls of cash from other sources and if the other sources don’t meet the demand, then they approach RBI."
+}
