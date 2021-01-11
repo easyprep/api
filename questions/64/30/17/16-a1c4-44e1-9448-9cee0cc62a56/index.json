@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:08:03.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "64301716-a1c4-44e1-9448-9cee0cc62a56",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is not a payment card technology?",
+  "option1": "Magnetic Stripe Card",
+  "option2": "Smart Card",
+  "option3": "Fleet Card",
+  "option4": "All of them are payment card technologies",
+  "option5": "",
+  "answer": "All of them are payment card technologies",
+  "explanation": "EMV is a payment method based upon a technical standard. It is for smart payment cards and for payment terminals and automated teller machines which can accept them. EMV originally stood for \"Europay, Mastercard, and Visa\", the three companies which created the standard. The Magnetic strip cards,smart cards and Fleet cards are the different technologies available."
+}

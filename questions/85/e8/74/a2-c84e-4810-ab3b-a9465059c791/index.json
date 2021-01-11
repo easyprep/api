@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:29:08.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "85e874a2-c84e-4810-ab3b-a9465059c791",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What do we call a storage device where the access time is effectively independent of the location of the data?",
+  "option1": "Direct Access Storage Device",
+  "option2": "Secondary Storage Device",
+  "option3": "Primary Storage Device",
+  "option4": "Gateway Device",
+  "option5": "",
+  "answer": "Direct Access Storage Device",
+  "explanation": "A direct-access storage device is a secondary storage device. It is the place where \"each physical record has a discrete location and a unique address\". IBM coined the term DASD as a shorthand describing hard disk drives, magnetic drums, and data cells."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:36:30.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "005fa348-f2a5-4721-a822-7be3f17493e4",
+  "labels": "current-affairs,2017-12-09",
+  "question": "The slogan \"Write once, run anywhere\" is related to which of the following programming languages?",
+  "option1": "COBOL",
+  "option2": "Java",
+  "option3": "HTML",
+  "option4": "XML",
+  "option5": "",
+  "answer": "Java",
+  "explanation": "Write once, run anywhere (WORA) slogan was given by Sun Microsystems to illustrate the cross-platform benefits of the Java language. The idea was that Java Programme could be developed on any device, then compiled into a standard bytecode and then could be run on any device which is equipped with Java virtual machine (JVM)."
+}

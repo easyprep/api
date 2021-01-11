@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:31:09.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d3d394fc-a3c6-4d0d-b856-f045f82a8ce9",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What do we call the pictorial representation that uses predefined symbols to describe either the logic of a computer program or the data flow and processing steps of a system?",
+  "option1": "Algorithm",
+  "option2": "Flow Chart",
+  "option3": "Block diagram",
+  "option4": "Loop",
+  "option5": "",
+  "answer": "Flow Chart",
+  "explanation": ""
+}

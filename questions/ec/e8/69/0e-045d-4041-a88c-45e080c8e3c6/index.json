@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:12:10.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "ece8690e-045d-4041-a88c-45e080c8e3c6",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Any piece of data can be returned in a constant time, regardless of its physical location and whether or not it is related to the previous piece of data using which of the following?",
+  "option1": "RAM",
+  "option2": "ROM",
+  "option3": "CPU",
+  "option4": "Network interface card",
+  "option5": "",
+  "answer": "RAM",
+  "explanation": "Random-access memory or RAM is a form of computer memory which is used to store the working data and machine code. The RAM make sure the data is returned instantly when asked for."
+}

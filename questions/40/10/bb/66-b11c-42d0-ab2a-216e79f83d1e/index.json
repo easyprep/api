@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:47:11.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "4010bb66-b11c-42d0-ab2a-216e79f83d1e",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which of the following company owns/ uses the Virtual Hard Disk (.vhd) format for Virtual PC?",
+  "option1": "IBM",
+  "option2": "Micro soft",
+  "option3": "Intel",
+  "option4": "Google",
+  "option5": "",
+  "answer": "Micro soft",
+  "explanation": "Virtual hard disk (VHD) is a disk image file format for storing the complete contents of a hard drive. It is developed by Microsoft."
+}

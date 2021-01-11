@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:03:54.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "387a091a-8d7b-4f6c-bfc7-fce0d243a3f6",
+  "labels": "current-affairs,2017-12-09",
+  "question": "A file which has not been altered, compressed, or manipulated in any way by the computer is called?",
+  "option1": "temp file",
+  "option2": "raw file",
+  "option3": "permanent file",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "raw file",
+  "explanation": "A raw file is a collection of unprocessed data. This is a file which is not altered or manipulated. It is the original file that is generated initially."
+}

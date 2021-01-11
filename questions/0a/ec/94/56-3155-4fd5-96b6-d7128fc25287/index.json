@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:51:16.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "0aec9456-3155-4fd5-96b6-d7128fc25287",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is a high-level language used to develop software applications in compact, efficient code that can be run on different types of computers with minimal change?",
+  "option1": "FORTRAN",
+  "option2": "C",
+  "option3": "COBOL",
+  "option4": "ALGOL",
+  "option5": "",
+  "answer": "COBOL",
+  "explanation": "COBOL is a high level labguage used to develop software applications in compact. It is compiled English-like computer programming language designed for business use. It object-oriented since 2002."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T03:40:05.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "1b0a2c6b-beba-45e0-bc39-e5edd2ed7176",
+  "labels": "current-affairs,2017-12-07",
+  "question": "Which among the following scientists is known for laws of planetary motion?",
+  "option1": "Newton",
+  "option2": "Kepler",
+  "option3": "Galileo",
+  "option4": "Faraday",
+  "option5": "",
+  "answer": "Kepler",
+  "explanation": "Kepler proposed Laws of planetary motion. These three laws describes the behavior of planets in the heliocentric model;\r\nThe three laws of Kepler can be stated as follows:\r\n<ol>\r\n<li>Law of orbits: All planets move in elliptical orbits with the Sun situated at one of the foci of the ellipse</li>\r\n<li>Law of areas: The line that joins any planet to the sun sweeps equal areas in equal intervals of time.</li>\r\n<li>Law of periods: The Square of the time period of revolution of a planet is proportional to the cube of the semi-major axis of the ellipse traced out by the planet. The law of areas can be understood as a consequence of conservation of angular momentum which is valid for any central force</li>\r\n</ol>"
+}

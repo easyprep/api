@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T02:48:33.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "7a3fdc93-bbb4-48b0-9955-f6bb01e323eb",
+  "labels": "current-affairs,2017-12-09",
+  "question": "With respect to the President of India, which among the following statements is / are correct? <ol> <li>A person who has been president of India is eligible for immediate re-election</li> <li>A person cannot hold the office of president of India for more than two consecutive terms</li> </ol> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The second statement is not correct because President of India can be re-elected to office for any number of terms."
+}

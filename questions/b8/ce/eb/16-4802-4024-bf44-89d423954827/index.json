@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:13:58.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "b8ceeb16-4802-4024-bf44-89d423954827",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which Microsoft-based technology was built to link desktop applications to the World Wide Web? <br />",
+  "option1": "Active Channel",
+  "option2": "Active Desktop",
+  "option3": "ActiveX",
+  "option4": "None of  the above",
+  "option5": "",
+  "answer": "ActiveX",
+  "explanation": "ActiveX is a software framework created by Microsoft that adapts its earlier Component Object Model (COM) and Object Linking and Embedding (OLE) technologies for content downloaded from a network, particularly from the World Wide Web. It is used till IE11 but not Microsoft Edge."
+}

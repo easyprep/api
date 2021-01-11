@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:27:13.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "fa748801-b276-41f4-bbbd-923590ed3ca9",
+  "labels": "current-affairs,2017-12-09",
+  "question": "32 bit operations were introduced for the first time by Microsoft in ________?",
+  "option1": "windows 9.5",
+  "option2": "windows 3.0",
+  "option3": "windows 3.11",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "windows 3.11",
+  "explanation": "Windows 3.11 was released on November 8, 1993. It added many feature improvements over Windows 3.1. 32 bit operations were introduced for the first time by Microsoft."
+}

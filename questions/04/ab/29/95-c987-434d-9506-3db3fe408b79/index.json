@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-02T23:34:28.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "04ab2995-c987-434d-9506-3db3fe408b79",
+  "labels": "current-affairs,2017-12-03",
+  "question": "Which of the following rocks found in Oceanic crust?",
+  "option1": "Granite",
+  "option2": "Basalt",
+  "option3": "Igneous rocks",
+  "option4": "Metamorphic rocks",
+  "option5": "",
+  "answer": "Basalt",
+  "explanation": "Basalt is the type of rock found in Oceanic crust.\r\nIgneous, metamorphic and sedimentary rocks are found in continental crust.\r\nGranite is an example of igneous rocks."
+}

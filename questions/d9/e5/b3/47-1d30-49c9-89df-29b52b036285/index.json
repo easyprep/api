@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-03T00:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d9e5b347-1d30-49c9-89df-29b52b036285",
+  "labels": "current-affairs,2017-12-04",
+  "question": "If a match live commentary in Delhi commences at 10.00 am, at what time the viewer at London should tune into?",
+  "option1": "4.00 a.m.",
+  "option2": "4.30 a.m.",
+  "option3": "4.45 a.m.",
+  "option4": "4.50 a.m",
+  "option5": "",
+  "answer": "4.30 a.m.",
+  "explanation": "GMT is 5.30 hours behind IST"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-01T18:33:12.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "5af7fd14-e61e-49c4-a695-a7cc84f5cdf1",
+  "labels": "current-affairs,2017-12-02",
+  "question": "Which of the following disciplines attempts spatial synthesis?",
+  "option1": "History",
+  "option2": "Geography",
+  "option3": "Polity",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Geography",
+  "explanation": "Geography as a discipline attempts spatial synthesis. Spatial synthesis includes any of the formal techniques which study entities using their topological, geometric, or geographic properties\r\nTemporal Synthesis can be described as \\'\\'automated construction\\'\\' of a system whereby we develop a temporary specification and then try to prove it. For example  history attempts temporal synthesis."
+}

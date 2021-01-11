@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:45:22.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "623031ae-bab6-4a85-96a8-08682464c891",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which of the following device is a volatile storage?",
+  "option1": "RAM",
+  "option2": "Hard disk",
+  "option3": "Magnetic Tape",
+  "option4": "Floppy disk",
+  "option5": "",
+  "answer": "RAM",
+  "explanation": "RAM is a temporary memory in a computer. Random-access memory is a form of computer memory that can be read and changed in any order, typically used to store working data and machine code. So it is a very volatile storage."
+}

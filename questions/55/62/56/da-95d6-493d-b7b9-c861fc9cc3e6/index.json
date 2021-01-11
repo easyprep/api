@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-11-27T23:47:35.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "556256da-95d6-493d-b7b9-c861fc9cc3e6",
+  "labels": "current-affairs,2017-11-28",
+  "question": "Which bank has recently launched ripple-powered instant payment service for retail and corporate customers?",
+  "option1": "HDFC Bank",
+  "option2": "SBI",
+  "option3": "Axis Bank",
+  "option4": "ICICI Bank",
+  "option5": "",
+  "answer": "Axis Bank",
+  "explanation": "Private sector lender Axis Bank has recently launched instant international payment services using Ripple\\'s enterprise blockchain technology solution for retail and corporate customers. The bank has launched a service for its retail customers in India to receive payments from RAKBANK in UAE and for its corporate customers in India to receive payments from Standard Chartered Bank in Singapore. Ripple makes international remittances faster and transparent for customers while ensuring security and improving efficiencies. The transactions reach their destination account in minutes, with the certainty of settlement, and with end-to-end visibility over the journey of the payment."
+}

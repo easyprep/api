@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:21:02.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "482aa123-f995-446c-820d-123c2a523b1a",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What would be the number of bytes, transferred at the rate of 1 Kilobit per second?",
+  "option1": 100,
+  "option2": 108,
+  "option3": 125,
+  "option4": 140,
+  "option5": "",
+  "answer": 125,
+  "explanation": "kilobit per second (symbol kbit/s or kb/s, often abbreviated \"kbps\") is a unit of data transfer. The rate equal to 1,000 bits per second. It is 125 bytes per second."
+}

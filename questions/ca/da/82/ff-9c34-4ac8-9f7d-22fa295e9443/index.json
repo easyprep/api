@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:47:28.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "cada82ff-9c34-4ac8-9f7d-22fa295e9443",
+  "labels": "current-affairs,2017-12-09",
+  "question": "First microprocessors were used in which of the following?",
+  "option1": "Computers",
+  "option2": "Calculators",
+  "option3": "Telephones",
+  "option4": "Printers",
+  "option5": "",
+  "answer": "Calculators",
+  "explanation": "The first microprocessors that emerged in the early 1970s were used for electronic calculators, using binary-coded decimal (BCD) arithmetic on 4-bit words."
+}

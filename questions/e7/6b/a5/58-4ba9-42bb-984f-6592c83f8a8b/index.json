@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T21:09:53.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "e76ba558-4ba9-42bb-984f-6592c83f8a8b",
+  "labels": "current-affairs,2017-12-07",
+  "question": "At which among the following temperatures, the indicator of Celsius and Fahrenheit thermometers will show the same reading?",
+  "option1": "-40°C",
+  "option2": "-65°C",
+  "option3": "-25°C",
+  "option4": "-32°C",
+  "option5": "",
+  "answer": "-40°C",
+  "explanation": "The formulas for converting between degree Celsius and degree Fahrenheit are: °F = (°C * 9/5) + 32 =&gt; °C = (°F - 32) * 5/9 To find the temperature when both are equal, we use an old algebra trick and just set ºF = ºC and solve one of the equations.<br />\r\n     °C = (°C * 9/5) + 32\r\n=&gt;°C - (°C * 9/5) = 32\r\n=&gt;-4/5 * °C = 32\r\n=&gt;°C = -32 * 5/4\r\n=&gt;°C = -40\r\nOR<br />\r\n      °F = (°F * 9/5) + 32\r\n=&gt;°F - (°F * 9/5) = 32\r\n=&gt;-4/5 * °F = 32\r\n=&gt;°F = -32 * 5/4\r\n=&gt;°F = -40"
+}

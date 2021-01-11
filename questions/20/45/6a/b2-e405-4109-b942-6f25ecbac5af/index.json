@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T03:28:37.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "20456ab2-e405-4109-b942-6f25ecbac5af",
+  "labels": "current-affairs,2017-12-09",
+  "question": "In which of the following ecosystems, the pyramid of biomass is ‘inverted’ in shape?",
+  "option1": "Pond ecosystem",
+  "option2": "Grassland ecosystem",
+  "option3": "Forest ecosystem",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Pond ecosystem",
+  "explanation": "Biomass is the amount of living material in an organism. The pyramids of biomass represent the relationship between different trophic levels in terms of biomass. In grassland and forest ecosystems, there is generally a gradual decrease in biomass of organisms at successive trophic levels from the producers to the consumers. Their pyramid of biomass is upright. In aquatic ecosystem the producers are small organisms with least biomass and the biomass gradually increase towards the apex of the pyramid. Thus the pyramid of biomass of aquatic ecosystems is inverted in shape."
+}

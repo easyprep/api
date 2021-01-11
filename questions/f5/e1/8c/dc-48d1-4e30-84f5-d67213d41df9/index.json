@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T15:23:45.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "f5e18cdc-48d1-4e30-84f5-d67213d41df9",
+  "labels": "current-affairs,2017-12-07",
+  "question": "What can be the maximum number of members in a legislative assembly of a state in India?",
+  "option1": 400,
+  "option2": 500,
+  "option3": 450,
+  "option4": 550,
+  "option5": "",
+  "answer": 500,
+  "explanation": "The Legislative assembly of each state cannot have number of members more than 500 and less than 60. However, there are three exceptions to this viz. Sikkim (32), Goa (40) and Mizoram (40)"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:25:23.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "538b6317-e649-4b09-bb40-87ab5c0a1c1d",
+  "labels": "current-affairs,2017-12-09",
+  "question": "ADSL data communications technology uses which of the following for faster data transmission?",
+  "option1": "Voiceband modem",
+  "option2": "Wireless Modem",
+  "option3": "Copper telephone Lines",
+  "option4": "Sockets",
+  "option5": "",
+  "answer": "Copper telephone Lines",
+  "explanation": "Asymmetric digital subscriber line (ADSL) is a type of digital subscriber line (DSL) technology. It is a data communications technology that enables faster data transmission using copper telephone lines than a conventional voiceband modem can provide."
+}

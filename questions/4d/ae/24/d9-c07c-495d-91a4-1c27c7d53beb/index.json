@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:09:27.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "4dae24d9-c07c-495d-91a4-1c27c7d53beb",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following can be called an electronic check ? <br />",
+  "option1": "Debit card",
+  "option2": "Smart card",
+  "option3": "Credit card",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Debit card",
+  "explanation": "Electronic cheek is a form of payment system. In this funds from customer’s account are transferred to the merchants account over the ACH (Automated clearing House) network. Debit card is one such payment as the customers funds are transferred."
+}

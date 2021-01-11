@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:16:55.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d47cf53a-291f-4f90-b2b4-de82af620549",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What is the full form of ADSL?",
+  "option1": "Automatic Digital Subscriber Line",
+  "option2": "Asymmetric Direct Subscriber Line",
+  "option3": "Asymmetric Digital Subscriber Line",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Asymmetric Digital Subscriber Line",
+  "explanation": "Asymmetric digital subscriber line (ADSL) is a type of digital subscriber line technology. It is a data communications technology which enables faster data transmission. It uses copper telephone lines."
+}

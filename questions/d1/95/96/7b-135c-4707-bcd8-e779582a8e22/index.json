@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:56:34.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d195967b-135c-4707-bcd8-e779582a8e22",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What is HTTP 404?",
+  "option1": "An error message indicating server not found",
+  "option2": "An error message indicating moved permanently",
+  "option3": "An error message indicating forbidden",
+  "option4": "An error message indicating server found",
+  "option5": "",
+  "answer": "An error message indicating server not found",
+  "explanation": "The HTTP 404, 404 Not Found, 404, Page Not Found, or Server Not Found error message is Hypertext Transfer Protocol standard response code. In computer network communications it indicates that the browser was able to communicate with a given server but server cant find it."
+}

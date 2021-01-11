@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:25:01.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "ef97c85a-f168-4ede-8b84-29c0b317d47e",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What do we call the automatic execution of high-priority computer programs that have been designed to pre-empt the use of computer resources?",
+  "option1": "Foreground processing.",
+  "option2": "Background processing.",
+  "option3": "Black processing",
+  "option4": "White processing",
+  "option5": "",
+  "answer": "Foreground processing.",
+  "explanation": ""
+}

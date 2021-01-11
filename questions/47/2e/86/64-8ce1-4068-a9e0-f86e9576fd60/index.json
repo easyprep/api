@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:27:01.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "472e8664-8ce1-4068-a9e0-f86e9576fd60",
+  "labels": "current-affairs,2017-12-09",
+  "question": "While working on Microsoft Word, which among the following is the command for “Undo”?",
+  "option1": "Cntrl +A",
+  "option2": "Cntrl +Z",
+  "option3": "Cntrl +Y",
+  "option4": "Cntrl +C",
+  "option5": "",
+  "answer": "Cntrl +Z",
+  "explanation": "Undo is an interaction technique which is implemented in many computer programs. Cntrl +Z is the is for Undo in Microsoft word."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:21:14.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "69229070-da0e-4971-9f44-71c8ca9d5dd7",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Most of the internet banking sites provide which of the following feature to reduce the risk of keystroke logging for the password entry?",
+  "option1": "Virtual keyboard",
+  "option2": "Finger Touching",
+  "option3": "Touch screen",
+  "option4": "ShapeWriter",
+  "option5": "",
+  "answer": "Virtual keyboard",
+  "explanation": "Keystroke logging, often referred to as keylogging is the action of recording (logging) the keys struck on a keyboard. It is typically a covert thing, so that person using the keyboard is unaware that their actions are being monitored. Data can then be retrieved by the person operating the logging program. Virtual Keyboard reduces the risk of keystroke logging for the password entry."
+}

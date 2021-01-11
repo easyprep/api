@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "433f4e10-0805-4494-92a0-2ad1f55867f4",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which of the following is a suitable term for any programmable content of a hardware device configurations and data for application-specific integrated circuits (ASICs), programmable logic devices, etc?",
+  "option1": "Hardware",
+  "option2": "Software",
+  "option3": "Firmware",
+  "option4": "Malware",
+  "option5": "",
+  "answer": "Firmware",
+  "explanation": "A firmware refers to a computer programme which is \\\"embedded\\\" in a hardware device and is an essential part of the hardware. It is sometimes also called embedded software. One example is a TV remote set which has a software embedded that can understand and control the TV. TV itself has its own firmware on its motherboard."
+}

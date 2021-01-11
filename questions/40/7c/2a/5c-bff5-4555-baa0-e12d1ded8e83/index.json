@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:00:27.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "407c2a5c-bff5-4555-baa0-e12d1ded8e83",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is not a security / privacy risk?",
+  "option1": "Spam",
+  "option2": "Virus",
+  "option3": "Hacking",
+  "option4": "Phishing",
+  "option5": "",
+  "answer": "Spam",
+  "explanation": "Spam is any kind of unwanted, unsolicited digital communications. They are sent in bulk. The Spam today is becoming a serious threat."
+}

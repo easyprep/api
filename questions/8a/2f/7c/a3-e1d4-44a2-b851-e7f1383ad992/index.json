@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-05T03:21:32.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "8a2f7ca3-e1d4-44a2-b851-e7f1383ad992",
+  "labels": "current-affairs,2017-12-06",
+  "question": "How much of longitude account for one hour?",
+  "option1": "10 degree",
+  "option2": "15 degree",
+  "option3": "20 degree",
+  "option4": "25 degree",
+  "option5": "",
+  "answer": "15 degree",
+  "explanation": "1 hour is equal to 15 degress. 360 degrees is equal to 24 hours and when we divide 360 by 24 we get each hour equal to 15 degree."
+}

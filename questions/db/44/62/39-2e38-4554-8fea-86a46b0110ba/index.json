@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T21:05:01.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "db446239-2e38-4554-8fea-86a46b0110ba",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Consider the following: \r\n1. C \r\n2. C++ \r\n3. COBOL \r\nWhich among the above is/ are high-level languages (HLL)?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": ""
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:49:28.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "fd14e4e5-e4f9-4360-af17-fc99c50e53bd",
+  "labels": "current-affairs,2017-12-09",
+  "question": "In a computer file systems which among the following is top or first in hierarchy?",
+  "option1": "root directory",
+  "option2": "parent directory",
+  "option3": "home directory",
+  "option4": "working directory",
+  "option5": "",
+  "answer": "root directory",
+  "explanation": "In computer systems (particularly UNIX and UNIX like OS), root directory is the first and top-most directory in the hierarchy."
+}

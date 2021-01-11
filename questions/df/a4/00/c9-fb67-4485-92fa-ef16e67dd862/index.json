@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:37:48.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "dfa400c9-fb67-4485-92fa-ef16e67dd862",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What do we call a CPU that is designed specifically to handle the communications processing task with main purpose is to off-load communications processing task from the host computer so that the host computer can be dedicated for applications and data processing jobs?",
+  "option1": "Backend processor",
+  "option2": "Front-end processor",
+  "option3": "Node processor",
+  "option4": "File Server",
+  "option5": "",
+  "answer": "Front-end processor",
+  "explanation": "A front end processor (FEP), or a communications processor, is a small-sized computer. It interfaces to the host computer a number of networks. They are SNA, or a number of peripheral devices, such as terminals, disk units, printers and tape units. a CPU that is designed specifically to handle the communications processing task with main purpose is to off-load communications and processing task."
+}

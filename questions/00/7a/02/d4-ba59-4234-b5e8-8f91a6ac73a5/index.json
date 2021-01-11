@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-05T20:03:23.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "007a02d4-ba59-4234-b5e8-8f91a6ac73a5",
+  "labels": "current-affairs,2017-12-06",
+  "question": "In genetics, the Reverse transcriptase helps in which among the following transcriptions?",
+  "option1": "Single stranded DNA into double stranded DNA",
+  "option2": "Single stranded RNA into double stranded DNA",
+  "option3": "Single Stranded RNA into double stranded RNA",
+  "option4": "Double Stranded DNA into single stranded RNA",
+  "option5": "",
+  "answer": "Single stranded RNA into double stranded DNA",
+  "explanation": "Reverse transcriptase helps in Single Stranded RNA into double stranded RNA transcriptions. Reverse transcriptase (RT), also known as RNA-dependent DNA polymerase. It is used to generate complementary DNA (cDNA) from an RNA template."
+}

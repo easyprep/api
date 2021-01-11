@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-04T21:30:13.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "29cc3f1e-469b-4c44-bc22-dd9cf87a1544",
+  "labels": "current-affairs,2017-12-05",
+  "question": "The asteroid belt is a region of the Solar System located roughly between the orbits of which among the following planets?",
+  "option1": "Earth & Mars",
+  "option2": "Mars & Jupiter",
+  "option3": "Jupiter and Saturn",
+  "option4": "Saturn and Pluto",
+  "option5": "",
+  "answer": "Mars & Jupiter",
+  "explanation": "There is a large gap in between the orbits of Mars and Jupiter. This gap is occupied by a large number of small objects that revolve around the Sun. These are called asteroids."
+}

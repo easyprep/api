@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T17:10:47.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "ca0b8797-6090-42a9-acd5-a9d5d979e1a6",
+  "labels": "current-affairs,2017-12-07",
+  "question": "In Context with the computer terminology, how many bits are there in a nibble?",
+  "option1": 2,
+  "option2": 4,
+  "option3": 8,
+  "option4": 16,
+  "option5": "",
+  "answer": 4,
+  "explanation": "Nibble is equal to 4 bits. It is half an octet. It is also known as half-byte or tetrade. The nibble is often called a semi-octet, quadbit, or quartet. A nibble has sixteen possible values."
+}

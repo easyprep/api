@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-05T00:48:56.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d3c319ff-947b-4831-8377-b670f2913d07",
+  "labels": "current-affairs,2017-12-06",
+  "question": "What is the maximum strength of a legislative assembly in India as prescribed by Constitution?",
+  "option1": 300,
+  "option2": 400,
+  "option3": 500,
+  "option4": 600,
+  "option5": "",
+  "answer": 500,
+  "explanation": "The constitution has fixed the maximum strength of a legislative assembly at 500 and minimum strength at 60. It means that its strength varies from 60 to 500 depending on the population size of the state. However, in case of Arunachal Pradesh, Sikkim and Goa, the minimum number is fixed at 30 and in case of Mizoram and Nagaland, it is 40 and 46 respectively."
+}

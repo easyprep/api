@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:20:26.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "8d8c1ce5-0d0e-4c08-a8a6-7b80097e765b",
+  "labels": "current-affairs,2017-12-09",
+  "question": "An Autoresponder is a_______on mail server that automatically replies to e-mails? <br />",
+  "option1": "command",
+  "option2": "Software",
+  "option3": "Program",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Program",
+  "explanation": "An autoresponder is a computer program that automatically answers e-mail sent to it. They can be very simple or quite complex. The first autoresponders were created within mail transfer agents that found they could not deliver an e-mail to a given address."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-10T04:37:08.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d31f594b-0d0f-4bef-b1ec-6fb6d340de64",
+  "labels": "current-affairs,2017-12-11",
+  "question": "What is the correct chronological order of setting up of the following Commissions?\r\n<ol>\r\n<li>Macdonell Commission</li>\r\n<li>First Industrial Commission</li>\r\n<li>First Fiscal commission</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "2003-01-01T18:30:00.000Z",
+  "option2": "2001-02-02T18:30:00.000Z",
+  "option3": "2003-01-31T18:30:00.000Z",
+  "option4": "2002-01-02T18:30:00.000Z",
+  "option5": "",
+  "answer": "2003-01-01T18:30:00.000Z",
+  "explanation": "<ul>\r\n<li>Macdonell Commission 1901 was the famine commission appointed by Lord Curzon.</li>\r\n<li><strong>First Industrial Commission:</strong> In 1916 an Industrial Commission was appointed to find out means for giving encouragement for the growth of Indian industries. The report of the commission was submitted in 1918.  </li>\r\n<li><strong>First Fiscal Commission :</strong> Indian Fiscal Commission was established in 1919 and it recommended tariff protection for certain industries. As a follow up to the recommendations to this commission ,a tariff board was established in 1923 and in 1924,the Steel Industry of India was given protection.</li>\r\n</ul>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-04T00:34:10.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "c97e1dda-87c5-41e7-8ba4-e0250812783e",
+  "labels": "current-affairs,2017-12-05",
+  "question": "Which of the following Union Territories have Rajya Sabha members?\r\n<ol>\r\n<li>Delhi</li>\r\n<li>Puducherry</li>\r\n<li>Lakshadweep</li>\r\n<li>Andaman &amp; Nicobar Islands</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "Among all the union territories only Delhi and Puducherry have representation in Rajya Sabha."
+}

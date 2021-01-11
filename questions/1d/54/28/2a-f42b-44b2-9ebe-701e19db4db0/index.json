@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:03:20.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "1d54282a-f42b-44b2-9ebe-701e19db4db0",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is an example of “Card not present transaction” in context with the Credit / Debit Cards?",
+  "option1": "A person paying a restaurant bill by giving details of his credit card",
+  "option2": "A person making an online purchase using his / her credit card",
+  "option3": "A person making a purchase using mobile banking",
+  "option4": "Both 2 & 3",
+  "option5": "",
+  "answer": "Both 2 & 3",
+  "explanation": "A card not present transaction is a payment card transaction made where the cardholder is not physically present the card for a merchant's visual examination at the time that an order is given and payment effected. A person using credit card online or using mobile banking can use this kind."
+}

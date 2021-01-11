@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:15:30.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "28fc6962-4434-4ead-af5e-0d2e4eee56e8",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What is the name of the digital circuit that performs arithmetic and logical operations in computers?",
+  "option1": "Arithmetic Logic Unit",
+  "option2": "Digital comparator",
+  "option3": "Multiplexer",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Arithmetic Logic Unit",
+  "explanation": "An arithmetic-logic unit (ALU) is the part of the circuit that performs Arithmetic nad logical operations. It is the part of a computer processor (CPU). In some processors, the ALU is divided into two units, an arithmetic unit (AU) and a logic unit (LU)."
+}

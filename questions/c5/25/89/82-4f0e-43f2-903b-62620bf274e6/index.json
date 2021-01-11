@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T15:26:23.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "c5258982-4f0e-43f2-903b-62620bf274e6",
+  "labels": "current-affairs,2017-12-07",
+  "question": "Which of the following bacteria forms an endosymbiotic nitrogen fixing association with roots of legumes that helps in Nitrogen Fixation?",
+  "option1": "Clostridium",
+  "option2": "Rhizobium",
+  "option3": "Salmonella",
+  "option4": "Staphylococcus",
+  "option5": "",
+  "answer": "Rhizobium",
+  "explanation": "Rhizobium Found in roots of legumes, like Peas, grams, Pulses etc, where it fixes atmospheric nitrogen as ammonia, which is then converted into useful amino acid."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:25:33.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "821a6927-c478-47f9-b298-88b3f1d51309",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Microsoft first introduced an operating environment named Windows in which year?",
+  "option1": 1977,
+  "option2": 1980,
+  "option3": 1985,
+  "option4": 1990,
+  "option5": "",
+  "answer": 1985,
+  "explanation": "Microsoft introduced an operating system named Windows on November 20, 1985. It is a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs)."
+}

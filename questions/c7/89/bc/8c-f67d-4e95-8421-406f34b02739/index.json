@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T16:46:51.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "c789bc8c-f67d-4e95-8421-406f34b02739",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What is used in most programs that is a part of a program and guides the user through certain steps?",
+  "option1": "Software",
+  "option2": "Wizard",
+  "option3": "Wiki",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Wizard",
+  "explanation": "A software wizard or setup assistant refers to a user interface type that presents a user with a sequence of dialog boxes that lead the user through a series of well-defined steps. Tasks that are complex, infrequently performed, or unfamiliar may be easier to perform using a wizard."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T22:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "cee97458-e36e-4d6d-86bd-a78e6688b26a",
+  "labels": "current-affairs,2017-12-07",
+  "question": "Which among the following can be measured with Anemometer?",
+  "option1": "Water Velocity",
+  "option2": "Wind Velocity",
+  "option3": "Relative Humidity",
+  "option4": "Absolute Humidity",
+  "option5": "",
+  "answer": "Wind Velocity",
+  "explanation": "An anemometer is a device which used for measuring wind speed and direction. The term is derived from the Greek word anemos, which means wind, and it is used to describe any wind speed instrument used in meteorology."
+}

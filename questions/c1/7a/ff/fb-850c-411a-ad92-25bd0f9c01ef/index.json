@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T16:49:33.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "c17afffb-850c-411a-ad92-25bd0f9c01ef",
+  "labels": "current-affairs,2017-12-09",
+  "question": "A generic name for Intel processors released after the original 8086 processor is ______? <br />",
+  "option1": "Pentium",
+  "option2": "x86",
+  "option3": "Pentium 286",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "x86",
+  "explanation": "x86 refers to the instruction set architectures developed by Intel based on the Intel 8086 microprocessor. As of now, most of the personal computers and laptops sold are based on the x86 architecture."
+}

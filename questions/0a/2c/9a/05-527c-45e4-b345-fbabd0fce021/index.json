@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:05:21.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "0a2c9a05-527c-45e4-b345-fbabd0fce021",
+  "labels": "current-affairs,2017-12-09",
+  "question": "The word bandwidth is also used to mean ________?",
+  "option1": "width of the data cable",
+  "option2": "amount of data transferred",
+  "option3": "number of the computers on a particular network",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "amount of data transferred",
+  "explanation": "Bandwidth refers to the amount of data that can be transmitted in a fixed amount of time. For digital devices, the bandwidth is usually expressed in bits per second(bps) or bytes per second."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:50:07.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d0f4e220-a1b5-4f48-a14f-aed209cf67a8",
+  "labels": "current-affairs,2017-12-09",
+  "question": "While browsing internet, what do we call the area of storage that compensates for the different speeds of data flow or timings of events by temporarily holding a block of data that is waiting to be processed?",
+  "option1": "Cache",
+  "option2": "Buffer",
+  "option3": "Flash",
+  "option4": "Trash",
+  "option5": "",
+  "answer": "Buffer",
+  "explanation": "Buffering refers to downloading a certain amount of data before starting to play the music or movie. It manages the downloading data and temporarily holds the data as well."
+}

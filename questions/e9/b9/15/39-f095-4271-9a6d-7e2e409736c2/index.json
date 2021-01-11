@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:09:29.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "e9b91539-f095-4271-9a6d-7e2e409736c2",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is the most common source of Viruses to the hard disk of your computer?",
+  "option1": "Incoming Email",
+  "option2": "Outgoing Email",
+  "option3": "CD ROMs",
+  "option4": "Websites",
+  "option5": "",
+  "answer": "Incoming Email",
+  "explanation": "Incoming emails is the most common source of Viruses to the hard disk of a computer. Hackers are using e mail for attacking a computer. The incoming email is the most vulnerable way."
+}

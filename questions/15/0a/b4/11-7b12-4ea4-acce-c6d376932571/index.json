@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T16:36:27.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "150ab411-7b12-4ea4-acce-c6d376932571",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Alerts are mostly appear in ______?",
+  "option1": "Check box",
+  "option2": "Combo box",
+  "option3": "Dialog box",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Dialog box",
+  "explanation": "A dialog box is a small area on a screen through which the user interacts with the computer. User is either asked to provide information or commands using this. The alerts also appear in this."
+}

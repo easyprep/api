@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T16:07:59.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "2286fbc2-1793-4225-803c-d0ae9c1741c1",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following gas is used as reference to calculate “Global Warming Potential (GWP)“?<br />",
+  "option1": "Carbon Dioxide",
+  "option2": "Methane",
+  "option3": "Ozone",
+  "option4": "Nitrogen Di-oxide",
+  "option5": "",
+  "answer": "Carbon Dioxide",
+  "explanation": "Global-warming potential (GWP) is a relative measure of how much heat a greenhouse gas traps in the atmosphere. It compares the amount of heat trapped by a certain mass of the gas in question to the amount of heat trapped by a similar mass of carbon dioxide."
+}

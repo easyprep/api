@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:12:22.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "4f0e0a01-8519-403a-8c7a-b8e9e1cb25a6",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is used for removing a software bug / defect which is available for free of cost from the software provider? <br />",
+  "option1": "Version",
+  "option2": "update",
+  "option3": "help",
+  "option4": "patch",
+  "option5": "",
+  "answer": "patch",
+  "explanation": "A patch is a collective name of all the changes to a computer program aimed to update, fix, or improve it including addressing the security vulnerabilities and other bugs."
+}

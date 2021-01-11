@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:26:48.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "78643666-1c31-4a09-931b-7038fa072af2",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What is the use of Digitizer as an input device?",
+  "option1": "To Convert graphic and pictorial data into binary inputs",
+  "option2": "To convert graphic and pictorial data into analog inputs",
+  "option3": "Debuging",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "To Convert graphic and pictorial data into binary inputs",
+  "explanation": "A digitizer is the device which improves touch accuracy is embedded in the screens of tablets and smart phones. Other devices use a digitizer device such as a stylus to allow users to specify locations on the display more precisely. There are three types of touch-screen digitizers: passive, active and dual."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-07T16:29:45.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "d4e280d8-b060-4513-b764-db18c84c227d",
+  "labels": "current-affairs,2017-12-08",
+  "question": "On around which among the following dates, Earth is at it’s farthest from the Sun?<br />",
+  "option1": "2021-01-03T18:30:00.000Z",
+  "option2": "2021-07-03T18:30:00.000Z",
+  "option3": "2021-06-20T18:30:00.000Z",
+  "option4": "2021-12-21T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-07-03T18:30:00.000Z",
+  "explanation": "Perihelion is the point when Earth is closest to Sun and it occurs around 3rd January. The distance is 147.5 million kms.\r\nAphelion is the point when Earth is farthest from the Sun and it occurs on July 4. The distance is 152.5 million Kms."
+}

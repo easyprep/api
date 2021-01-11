@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:44:43.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "61d5c0d5-da8b-4d6d-9590-009d7294ff48",
+  "labels": "current-affairs,2017-12-09",
+  "question": "One kilobyte has _____?",
+  "option1": "1000 bytes",
+  "option2": "128 bytes",
+  "option3": "1024 bytes",
+  "option4": "1036 bytes",
+  "option5": "",
+  "answer": "1024 bytes",
+  "explanation": "The kilobyte is equal to 1024 bytes (210 B), a common usage. The usage of the metric prefix kilo for binary multiples rose convenient, because 1024 is approximately 1000."
+}

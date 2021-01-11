@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T16:39:25.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "e4e295d1-a7f3-433a-95bd-aa9ca93bb56b",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which of the following languages are directly executable by a computer's CPU?",
+  "option1": "Machine Language",
+  "option2": "High Language",
+  "option3": "Assembly Language",
+  "option4": "Second generation Language",
+  "option5": "",
+  "answer": "Machine Language",
+  "explanation": "Machine languages are directly executable by a computer\\'s CPU."
+}

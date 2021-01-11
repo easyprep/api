@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:22:03.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "16bd6241-af06-4d04-9328-ca36f496718f",
+  "labels": "current-affairs,2017-12-09",
+  "question": "DDL is used to define the structure of a database, including the tables, columns, and data types that it contains. Its full form is?",
+  "option1": "Data Definition Language",
+  "option2": "Data Definition Link",
+  "option3": "Determination Language.",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Data Definition Language",
+  "explanation": "A data definition or data description language (DDL) is a syntax similar to a computer programming language for defining data structures, especially database schemas. DDL statements create and modify database objects such as tables, indexes, and users. Common DDL statements are CREATE, ALTER, and DROP."
+}

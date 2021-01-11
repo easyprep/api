@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:03:15.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "666de53c-19e7-4b40-afa4-89edc2bda539",
+  "labels": "current-affairs,2017-12-09",
+  "question": "When some unidentified / unknown person / firm sends you mail in a trustworthy /lucrative way asking for sensitive banks and online payment information, this is a case of __?",
+  "option1": "Spam",
+  "option2": "Hacking",
+  "option3": "Phishing",
+  "option4": "Vishing",
+  "option5": "",
+  "answer": "Phishing",
+  "explanation": "Phishing is a cybercrime in which a target or targets are contacted by email, telephone or text message by someone. They pose as a legitimate institution to lure individuals into providing sensitive data. They take information like banking and credit card details, and passwords."
+}

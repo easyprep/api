@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-03T00:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "35e00944-42b1-434e-a7b3-5ea277d428f6",
+  "labels": "current-affairs,2017-12-04",
+  "question": "What is the radius of earth?",
+  "option1": "5300 km",
+  "option2": "6370 km",
+  "option3": "10000 km",
+  "option4": "8330 km",
+  "option5": "",
+  "answer": "6370 km",
+  "explanation": "Approximate distance from Earth’s center to its surface is known as Earth radius which is 6,370 km."
+}

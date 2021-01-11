@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:55:07.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "dc6e7021-4a02-43b9-a07a-934a1ca9139c",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What do we call an input/output device on a computer, reserved for communication between the computer operator or maintenance engineer and the computer?",
+  "option1": "EDP Device",
+  "option2": "Console",
+  "option3": "Jokey",
+  "option4": "Link Device",
+  "option5": "",
+  "answer": "Console",
+  "explanation": "A console is an input/output device on a computer, reserved for communication between the computer operator or maintenance engineer and the computer. It is not a platform like PC."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T16:34:17.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "bc213740-1c21-4614-b647-b1c7889776ac",
+  "labels": "current-affairs,2017-12-09",
+  "question": "The performance of a hard drive or other storage device, meaning how long it takes to locate a file is called ?",
+  "option1": "Response Time",
+  "option2": "Access Time",
+  "option3": "Quick Time",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Access Time",
+  "explanation": "Access time (or Hard Disk Access Time) is the total elapsed time between the initiation of a particular request for data and receipt of the first bit of that data."
+}

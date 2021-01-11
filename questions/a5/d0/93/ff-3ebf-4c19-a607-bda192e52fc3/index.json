@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T03:28:36.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "a5d093ff-3ebf-4c19-a607-bda192e52fc3",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is measured by Dobson unit ?",
+  "option1": "Ozone concentration",
+  "option2": "Thermal conductivity",
+  "option3": "Soil moisture",
+  "option4": "Radiation",
+  "option5": "",
+  "answer": "Ozone concentration",
+  "explanation": "Dobson is the most common unit for measuring ozone concentration. One Dobson unit is the number of molecules of ozone that would be required to create a layer of pure ozone 0.01 millimetres thick at a temperature of 0 degree Celsius and pressure of 1 atmosphere."
+}

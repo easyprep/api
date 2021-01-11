@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T02:48:33.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "6f55e071-9f05-4384-aea5-3bcaa5546c68",
+  "labels": "current-affairs,2017-12-09",
+  "question": "A judge of Supreme Court of India can be removed from office by which / whom among the following?",
+  "option1": "Parliament by law",
+  "option2": "Judges of supreme court by Majority",
+  "option3": "President on a resolution by parliament",
+  "option4": "President on his/ her own discretion",
+  "option5": "",
+  "answer": "President on a resolution by parliament",
+  "explanation": "A Judge of the Supreme Court (and also High Court) can be removed from his position by President only on the ground of proved misbehaviour or incapacity. The power for investigation and proof of such misbehaviour or incapacity is vested in the parliament. Each house, in order to remove the judge, will have to pass a resolution which is supported by 2/3rd of members present and voting and majority of the total membership of the house {absolute + special majority}"
+}

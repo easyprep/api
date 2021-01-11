@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:14:58.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "399131b1-eeef-425b-80af-6ae0a90ea32a",
+  "labels": "current-affairs,2017-12-09",
+  "question": "The terms Goodput, Throughput and Maximum throughput are most closely associated with which among the following in computers?",
+  "option1": "Bit Rate",
+  "option2": "Response Time",
+  "option3": "Command Line Interface",
+  "option4": "Random memory",
+  "option5": "",
+  "answer": "Bit Rate",
+  "explanation": "The bit rate is the number of bits that are conveyed or processed per unit of time in computing and telecommunication. For example 1 kbit/s refers to 1000 bits/s while 1MBPS means one million bits per second. One byte per second (1 B/s) corresponds to 8 bit/s."
+}

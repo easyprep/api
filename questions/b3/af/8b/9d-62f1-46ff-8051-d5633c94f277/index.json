@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:16:12.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "b3af8b9d-62f1-46ff-8051-d5633c94f277",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following is the time period during which a computer is malfunctioning or not operating correctly due to machine failures?",
+  "option1": "Down time",
+  "option2": "Up time",
+  "option3": "Response time",
+  "option4": "Run time",
+  "option5": "",
+  "answer": "Down time",
+  "explanation": "Downtime is the time period when a system is unavailable. Downtime or outage duration refers to a period of time that a system fails to perform its primary function."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:10:55.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "b4a57089-0697-4b71-96e2-62ae373103c4",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which of the following was used in programming the first computers?",
+  "option1": "Object code",
+  "option2": "Source code",
+  "option3": "Machine Language",
+  "option4": "Assembly Language",
+  "option5": "",
+  "answer": "Machine Language",
+  "explanation": "Machine Language or Machine code is a strictly numerical language which is intended to run as fast as possible. This was used in the first computers."
+}

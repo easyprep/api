@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-07T17:56:30.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "482be1c0-9fbe-4d3d-aef9-edc396a935e7",
+  "labels": "current-affairs,2017-12-08",
+  "question": "A session of the Lok Sabha is prorogued by order of which of the following?",
+  "option1": "Prime minister",
+  "option2": "President",
+  "option3": "Speaker",
+  "option4": "Leader of the house",
+  "option5": "",
+  "answer": "President",
+  "explanation": "Prorogation is end of a session. A prorogation puts an end to a session. The time between the Prorogation and reassembly is called Recess. Prorogation is end of session and not the dissolution of the house in case of Lok Sabha, as Rajya Sabha does not dissolve.\r\nWhile adjournment is done by presiding officers (speaker / deputy speaker in Lok Sabha and Chairman / Deputy chairman in Rajya Sabha), prorogation is done by President. Dissolution of Lok Sabha is also done by president."
+}

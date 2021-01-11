@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:02:33.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "f65f4a56-7f65-4cde-ac59-c0acac767258",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Structured Query Language (SQL) is used in the following? <br />",
+  "option1": "Create Databases",
+  "option2": "Create & Modify Databases",
+  "option3": "Create, Modify & Query Databases",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Create, Modify & Query Databases",
+  "explanation": "Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to create, modify and query Databases."
+}

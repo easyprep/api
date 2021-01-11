@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:06:36.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "1660f9c9-99b3-451f-b570-83556be8e642",
+  "labels": "current-affairs,2017-12-09",
+  "question": "NetBIOS was introduced in 1983 by which company as an improvement to the standard BIOS used by Windows-based computers?",
+  "option1": "Dell",
+  "option2": "IBM",
+  "option3": "Compaq",
+  "option4": "SyteK Inc",
+  "option5": "",
+  "answer": "SyteK Inc",
+  "explanation": "Sytek Inc. which is now known as Hughes LAN Systems Inc. had created the NetBIOS protocol in 1983, later used by Microsoft to make its early networks."
+}

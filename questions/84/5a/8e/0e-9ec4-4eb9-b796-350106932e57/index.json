@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T20:42:53.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "845a8e0e-9ec4-4eb9-b796-350106932e57",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Dynamic Adhoc Wireless Networks (DAWN) usually come under ___?",
+  "option1": "2G",
+  "option2": "3G",
+  "option3": "4G",
+  "option4": "5G",
+  "option5": "",
+  "answer": "5G",
+  "explanation": "The DAWN Dynamic Ad-hoc Wireless Networks project is developing a general theory of complex and dynamic wireless communication networks. It comes under 5G."
+}

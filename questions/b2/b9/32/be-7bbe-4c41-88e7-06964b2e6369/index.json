@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-05T03:16:56.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "b2b932be-7bbe-4c41-88e7-06964b2e6369",
+  "labels": "current-affairs,2017-12-06",
+  "question": "What is the focal length of a concave lense with number -5D?",
+  "option1": "5 cm",
+  "option2": "10 cm",
+  "option3": "15 cm",
+  "option4": "20 cm",
+  "option5": "",
+  "answer": "20 cm",
+  "explanation": "The focal length is the distance from the center of the lens to the principal foci (or focal points) of the lens. For a while diverging lenses always have negative focal lengths. The focal length for 5D lens in 20cm."
+}

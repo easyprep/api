@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T15:15:54.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "220300fd-1792-4202-9ed0-56ca0f7af3c8",
+  "labels": "current-affairs,2017-12-07",
+  "question": "On which of the following rates Reserve Bank of India provides loan to scheduled commercial banks?",
+  "option1": "Repo Rate",
+  "option2": "Reverse Repo rate",
+  "option3": "Credit Rate",
+  "option4": "Bank rate",
+  "option5": "",
+  "answer": "Bank rate",
+  "explanation": "Bank Rate is defined as the rate at which Central Bank gives loans to other domestic banks like commercial banks, cooperative banks, development banks etc. The loans are generally given on a short-term basis. It is the way the Central Bank manages the economic activity in the country."
+}

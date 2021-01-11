@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-02T04:39:20.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "e7159ecc-f245-44a9-a19e-42f9917ca206",
+  "labels": "current-affairs,2017-12-03",
+  "question": "Which of the following is the least dense planet among all the planets?",
+  "option1": "Earth",
+  "option2": "Uranus",
+  "option3": "Jupiter",
+  "option4": "Saturn",
+  "option5": "",
+  "answer": "Saturn",
+  "explanation": "Saturn is the least dense among all the planets. Its density is less than that of water."
+}

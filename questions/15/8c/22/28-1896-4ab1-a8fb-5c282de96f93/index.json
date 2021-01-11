@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:30:29.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "158c2228-1896-4ab1-a8fb-5c282de96f93",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which among the following are not Objects in Access Database? <br />",
+  "option1": "Table",
+  "option2": "Form",
+  "option3": "Query",
+  "option4": "Pivot table",
+  "option5": "",
+  "answer": "Pivot table",
+  "explanation": "Databases in Access are composed of four objects: tables, queries, forms, and reports. Microsoft Access Pivot Table Database allowed to select one row heading, one column heading, and one filter field. It has been removed in Access 2016."
+}

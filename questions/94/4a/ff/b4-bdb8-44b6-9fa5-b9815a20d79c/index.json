@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:38:02.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "944affb4-bdb8-44b6-9fa5-b9815a20d79c",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Most of the internet sites now a days use CSS primarily to enable the separation of document content (written in HTML or a similar markup language) from document presentation, including elements such as the layout, colors, and fonts. What is full form? <br />",
+  "option1": "Cascading Style Software",
+  "option2": "Clear Style Sheet",
+  "option3": "Cascading Style Sheet",
+  "option4": "Common Style Sheet",
+  "option5": "",
+  "answer": "Cascading Style Sheet",
+  "explanation": ""
+}

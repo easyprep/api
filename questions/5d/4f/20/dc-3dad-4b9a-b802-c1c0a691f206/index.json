@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T03:28:37.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "5d4f20dc-3dad-4b9a-b802-c1c0a691f206",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What is the direction of flow of energy in an ecosystem?",
+  "option1": "Unidirectional",
+  "option2": "Bidirectional",
+  "option3": "Multidirectional",
+  "option4": "Cyclic",
+  "option5": "",
+  "answer": "Unidirectional",
+  "explanation": "The energy enters the plants from the sun through the photosynthesis process. This energy is then passed on from one organism to another in a food chain. The flow of energy in the ecosystem is unidirectional because the energy lost as heat from the living organisms of a food chain cannot be reused by plants in photosynthesis. During the transfer of energy through successive trophic levels in an ecosystem, there is a loss of energy all along the path."
+}

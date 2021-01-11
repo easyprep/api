@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:28:30.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "f4d271b0-9c2f-4bd4-a47a-8e45fa72c92f",
+  "labels": "current-affairs,2017-12-09",
+  "question": "A GUID is a 128-bit (16 byte) number used by software programs to uniquely identify the location of a data object. What is correct full form?",
+  "option1": "Graphical User Identifier",
+  "option2": "Globally Unique Identifier",
+  "option3": "Globally Unique Internet",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Globally Unique Identifier",
+  "explanation": ""
+}

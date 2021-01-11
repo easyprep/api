@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T02:48:33.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "b1a0cabd-ffab-40ee-9a84-564d04c45c9e",
+  "labels": "current-affairs,2017-12-09",
+  "question": "The Supreme Court of India has the powers to:\r\n<ol>\r\n<li>Review and reverse its own judgments</li>\r\n<li>Increase or decrease its own sanctioned strength of judges</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "First statement is correct and comes from article 137. Second statement is not correct. The parliament of India has power to make laws, organizing jurisdiction and powers of supreme court. The number of judges can be increased or decreased by the parliament. There was a Provision in our constitution originally that there will be a CJ and 7 other judges. This number was raised to 10 in 1956, 13 in 1960, 17 in 1977, 25 in 1985."
+}

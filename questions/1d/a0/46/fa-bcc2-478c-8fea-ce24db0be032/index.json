@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T03:28:36.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "1da046fa-bcc2-478c-8fea-ce24db0be032",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which of the following are some important pollutants released by steel industry in India? <ol> <li>Oxides of sulphur</li> <li>Oxides of nitrogen</li> <li>Carbon monoxide</li> <li>Carbon dioxide</li> </ol> Select the correct answer using the code given below",
+  "option1": "1, 3 and 4 only",
+  "option2": "2 and 3 only",
+  "option3": "1 and 4 only",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2, 3 and 4",
+  "explanation": "In steel furnace, coke reacts with iron ore, releasing iron and generating CO and CO2 gases. Due to use of coal, pollutants such as SOx and NOx are released, thus all are correct options."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-04T21:13:18.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "92d2f9d8-0679-44cf-9086-ed73eed3fc7a",
+  "labels": "current-affairs,2017-12-05",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Badminton</li>\r\n<li>Bowling</li>\r\n<li>Golf</li>\r\n<li>Table Tennis</li>\r\n</ol>\r\nThe sporting event “Singapore Open” is related to which among the above?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": ""
+}

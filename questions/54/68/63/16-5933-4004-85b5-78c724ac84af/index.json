@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T17:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "54686316-5933-4004-85b5-78c724ac84af",
+  "labels": "current-affairs,2017-12-09",
+  "question": "A DSLAM is a device used by Internet Service Providers (ISPs) to route incoming DSL connections to the Internet. What is its correct full form?",
+  "option1": "Digital Subscriber Line Access Multiplexer",
+  "option2": "Digital Subscriber Line Access Multiplier",
+  "option3": "Digital Service Line Access Multiplexer",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Digital Subscriber Line Access Multiplexer",
+  "explanation": "A digital subscriber line access multiplexer is a network device which is located in telephone exchanges. It connects multiple customer digital subscriber line interfaces to a high-speed digital communications channel using multiplexing techniques."
+}

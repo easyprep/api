@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-06T21:56:43.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "cda813e1-5125-4cb2-844b-7b9e7c2fc50d",
+  "labels": "current-affairs,2017-12-07",
+  "question": "A no-confidence motion against the Union Government can be initiated in which among the following ?",
+  "option1": "ONLY Lok Sabha",
+  "option2": "ONLY Rajya Sabha",
+  "option3": "Either Lok Sabha or Rajya Sabha",
+  "option4": "ONLY Lok Sabha with prior consent of President",
+  "option5": "",
+  "answer": "ONLY Lok Sabha",
+  "explanation": "Council of Ministers is collectively responsible to Lok Sabha and it remains in office till it enjoys confidence of majority of the members in Lok Sabha. Thus, a motion of no-confidence is moved to remove the council of ministers and thus oust the government from office.\r\nFollowing are conditions of No-confidence motion:\r\n<ul>\r\n<li>No-confidence motion can be moved only in Lok Sabha {or state assembly as the case may be}. It is not allowed in Rajya Sabha {or state legislative council}</li>\r\n<li>It is moved against the entire Council of Ministers and not individual ministers or private members.</li>\r\n<li>It needs support of at least 50 members when introduced in Lok Sabha.</li>\r\n</ul>"
+}

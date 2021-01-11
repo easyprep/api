@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-02T04:08:32.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "29d82361-431b-494c-a5a0-a22e68b5f2b0",
+  "labels": "current-affairs,2017-12-03",
+  "question": "Which of the following is the value of Hubble constant?",
+  "option1": "73 kilometers per second per mega parsec",
+  "option2": "75 kilometers per second per mega parsec",
+  "option3": "77 kilometers per second per mega parsec",
+  "option4": "69 kilometers per second per mega parsec",
+  "option5": "",
+  "answer": "73 kilometers per second per mega parsec",
+  "explanation": "The expansion rate of the universe is called the Hubble Constant. Currently the best measured value of the Hubble Constant is about 73 kilometers per second per mega parsec."
+}

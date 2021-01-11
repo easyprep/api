@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T18:48:23.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "4975bc41-413f-4652-b600-d61ca8b3bad9",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Which of the following transforms input data into output data?",
+  "option1": "Peripherals",
+  "option2": "RAM",
+  "option3": "ROM",
+  "option4": "CPU",
+  "option5": "",
+  "answer": "CPU",
+  "explanation": "Input data is transformed into output by central processing unit- CPU. It is the electronic circuit in a computer that executes the instructions that make up a program. It performs operations specified by the instructions."
+}

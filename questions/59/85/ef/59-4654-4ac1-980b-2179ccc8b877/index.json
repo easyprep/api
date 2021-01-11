@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-08T19:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:11.289Z",
+  "id": "5985ef59-4654-4ac1-980b-2179ccc8b877",
+  "labels": "current-affairs,2017-12-09",
+  "question": "What is the name of the proposed software application that would allow users of automated teller machines (ATMs) to alert the police of a forced cash withdrawal by entering their personal identification number (PIN) in reverse order?",
+  "option1": "ATM SafetyPIN",
+  "option2": "ATM SafetyPro",
+  "option3": "ATM SafetyCode",
+  "option4": "ATM SafetySign",
+  "option5": "",
+  "answer": "ATM SafetyPIN",
+  "explanation": "ATM Safetypin is the proposed software application that would allow users of automated teller machines (ATMs) to alert the police of a forced cash withdrawal by entering their personal identification number (PIN) in reverse order."
+}
