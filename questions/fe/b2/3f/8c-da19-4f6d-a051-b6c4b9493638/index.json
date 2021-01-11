@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:39.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "feb23f8c-da19-4f6d-a051-b6c4b9493638",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following lapse on prorogue of a house in Indian Parliament?\r\n<ol>\r\n<li>Pending Motions</li>\r\n<li>Pending Resolutions</li>\r\n<li>Pending Bills</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Prorogation is one of two ways in which the President, using powers conferred upon him by Art 85 of the Constitution, may terminate a session of Parliament. [The second way is by Dissolution, which ends the life of Lok Sabha and brings on an election.] When the House is prorogued, all pending notices, motions and resolutions lapse, but Bills — as per Article 107(3) — don’t."
+}

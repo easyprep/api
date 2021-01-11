@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "0fc1f8cb-9648-4ebd-8ada-65fd473113b7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to Indian Parliament, the Rajya Sabha member __:\r\n<ol>\r\n<li>Holds the office for five years</li>\r\n<li>Not eligible for re-election</li>\r\n<li>Not eligible to become Prime Minister</li>\r\n<li>Cannot be disqualified except on grounds of proven misbehaviour or incapacity</li>\r\n</ol>\r\nWhich among the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3 & 4",
+  "option3": "Only 4",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "<ul>\r\n<li>First statement is incorrect because Constitution has not fixed the term of office of members of the Rajya Sabha. Via, Representation of the People Act (1951), the term of office of a member of the Rajya Sabha shall be six years.</li>\r\n<li>Second statement is incorrect because MPs can get re-elected.</li>\r\n<li>Third statement is incorrect.</li>\r\n<li>Fourth statement is also incorrect. There are certain disqualification grounds for MPs as per 10<sup>th</sup> schedule. </li>\r\n</ul>"
+}

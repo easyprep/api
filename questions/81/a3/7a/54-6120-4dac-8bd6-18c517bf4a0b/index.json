@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "81a37a54-6120-4dac-8bd6-18c517bf4a0b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In India, President acts in accordance with the advice tendered by the Council of Ministers. Such an act by president on advice by Ministers can be __:<br> 1. Known by filing an RTI application to President<br> 2. Inquired by Supreme Court of India<br> 3. Debated only in a joint session of Parliament<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "Constitution in Article 74(2) mentains that the question if any, and if so what, advice was tendered by Ministers to the President shall not be inquired into in any court. Thus second statement is incorrect. First is also incorrect and same section was used to reject such requests. Third statement is incorrect and is my own imagination to confuse you."
+}

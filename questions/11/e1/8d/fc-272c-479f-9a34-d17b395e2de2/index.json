@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "11e18dfc-272c-479f-9a34-d17b395e2de2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>There cannot be more than 500 members in a Legislative Assembly (Vidhan Sabha) of a state</li>\r\n<li>There cannot be more than 300 members in a Legislative Council (Vidhan Parishad) of state</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Legislative Assembly (Vidhan Sabha) of a state consists of not more than 500 and not less than 60 members (Legislative Assembly of Sikkim has 32 members vide Article 371F of the Constitution) chosen by direct election from territorial constituencies in the state. Legislative Council (Vidhan Parishad) of a state comprises not more than one-third of total number of members in legislative assembly of the state and in no case less than 40 members (Legislative Council of Jammu and Kashmir has 36 members vide Section 50 of the Constitution of Jammu and Kashmir). (This means max 167 )"
+}

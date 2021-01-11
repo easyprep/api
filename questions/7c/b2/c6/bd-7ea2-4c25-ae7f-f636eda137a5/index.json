@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "7cb2c6bd-7ea2-4c25-ae7f-f636eda137a5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following comparisons of the Finance Bill and Appropriation Bills is / are correct?\r\n<ol>\r\n<li>While Finance Bills are presented before budget, Appropriation bill is presented after budget</li>\r\n<li>While Finance Bill is treated as Money Bill, Appropriation Bill is generally treated as an ordinary bill</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<strong>Finance Bill</strong> : Finance Bill is a secret bill introduced in Lok Sabha every year immediately after the presentation of the General Budget to give effect to the financial proposals of the Government of India for the following financial year. Finance Bills are treated as Money Bills as they substantially deal with amendments to various tax laws.<br /><strong>Appropriation Bill :</strong> An Appropriation Bill is introduced in Lok Sabha immediately after adoption of the relevant demands for grants. Such Bills are categorised as Money Bills as they seek to authorise appropriation from the Consolidated Fund of India, of all moneys required to meet the grants made by the House and the expenditure charged on the Consolidated Fund of India."
+}

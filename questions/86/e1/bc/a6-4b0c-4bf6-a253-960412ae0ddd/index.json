@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "86e1bca6-4b0c-4bf6-a253-960412ae0ddd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about 'e-Courts project' in India: <ol> <li>The project aims to assist district and taluka courts with new technologies</li> <li>National Informatics Centre is the implementing agency for the project</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The e-Courts scheme aims ICT enablement of the lower courts across the country in their functioning. The project envisages deployment of hardware, software and networking to assist district and taluka courts in streamlining their day to day functioning"
+}

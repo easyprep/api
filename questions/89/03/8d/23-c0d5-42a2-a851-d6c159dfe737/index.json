@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "89038d23-c0d5-42a2-a851-d6c159dfe737",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. India has a single integrated judiciary while USA has dual court system<br> 2. Supreme Court of India adjudicates on matters related to Union List as well as State List<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both statements in this question are correct. Indian Constitution provides single integrated judiciary with the Supreme Court at the top. In USA there is Dual court system where federal laws enforced by the federal courts while state laws are enforced by state courts."
+}

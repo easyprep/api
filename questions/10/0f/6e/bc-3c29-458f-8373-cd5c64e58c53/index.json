@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "100f6ebc-3c29-458f-8373-cd5c64e58c53",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In which of the following circumstances, an ordinary bill will lapse if it is pending in Rajya Sabha?\r\n<ol>\r\n<li>It has been not passed by Lok Sabha and Lok Sabha gets dissolved</li>\r\n<li>It has been passed by Lok Sabha and Lok Sabha gets dissolved</li>\r\n<li>It is pending in Rajya Sabha for more than six months, and has already been passed in Lok Sabha</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "If the Bill is pending in Rajya Sabha and has NOT been passed by the Lok Sabha yet, shall NOT lapse if the Lok Sabha gets dissolved. 107(4). If the bill is pending in Lok Sabha, or passed by Lok Sabha but pending in Rajya Sabha , shall lapse if the Lok Sabha gets dissolved. A bill pending in other house for more than 6 months is deemed to be rejected but does not mean that a bill gets lapsed. (108). The bill which gets lapses due to dissolution of the Lok Sabha, gets Lapses and in such case no joint sitting is called. (108)."
+}

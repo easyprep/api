@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "86ef3464-a571-48e7-a4c2-640b68eb5ac7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A member of parliament wants to ask a question with both of the following parameters:\r\n<ol>\r\n<li>The member wants to get a written reply</li>\r\n<li>The member wants to ask supplementary question on the written reply</li>\r\n</ol>\r\nIn which among the following categories, question of the member will be placed?",
+  "option1": "Starred Question",
+  "option2": "Unstarred Question",
+  "option3": "Short Notice Question",
+  "option4": "None of the above A, B or C is correct",
+  "option5": "",
+  "answer": "None of the above A, B or C is correct",
+  "explanation": "A Starred Question is one to which a member desires an oral answer from the Minister in the House and is required to be distinguished by him/her with an asterisk. Answer to such a question may be followed by supplementary questions by members. An Unstarred Question is one to which written answer is desired by the member and is deemed to be laid on the Table of the House by Minister. Thus it is not called for oral answer in the House and no supplementary question can be asked thereon. A member may give a notice of question on a matter of public importance and of urgent character for oral answer at a notice less than 15 days prescribed as the minimum period of notice for asking a question in ordinary course. Such a question is known as ‘Short Notice Question’. The above two parameters (given in question) don\\'t come under any of them. A starred question (distinguished by an asterisk) requires an oral answer and hence supplementary questions can follow. An unstarred question, on the other hand, requires a written answer and hence, supplementary questions cannot follow. A short notice question is one that is asked by giving a notice of less than ten days. It is answered orally."
+}

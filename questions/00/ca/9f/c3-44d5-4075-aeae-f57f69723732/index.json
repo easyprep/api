@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "00ca9fc3-44d5-4075-aeae-f57f69723732",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to Disaster Management in India, consider the following statements:\r\n<ol>\r\n<li>While the National Disaster Management Authority is headed by President, State Disaster Management Authority is headed by Governor</li>\r\n<li>While the National Disaster Response Fund is at the disposal of the President, State Disaster Response Fund is at the disposal of the Governor</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Prime Minister is the chairman of National Disaster Management Authority, while the Chief Minister is the Chairman of State Disaster Management Authority. Second statement is also not correct. The National fund is at the disposal of a high level committee of the Union Ministry (which includes Finance, Home and Agriculture Ministers). Similarly, state fund is at disposal of the state executive."
+}

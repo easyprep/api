@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "ed4cb26a-509a-413a-b23d-e891e056f506",
+  "labels": "current-affairs,2018-08-04",
+  "question": "President of India has absolute veto over: <ol> <li>state bills reserved by governor</li> <li>constitutional amendment bills</li> <li>money bills</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "In case of constitutional amendment bill, the president is bound to give assent to the bill. In case of money bill president can withhold the bill but cannot send it for reconsideration of the parliament"
+}

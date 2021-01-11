@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-04T19:43:15.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "c94336ce-c534-414a-b176-704c5f51c451",
+  "labels": "current-affairs,2018-07-05",
+  "question": "Taxonomically, tomato and potato belong to same __:",
+  "option1": "Family",
+  "option2": "Genus",
+  "option3": "Species",
+  "option4": "Order",
+  "option5": "",
+  "answer": "Family",
+  "explanation": "Potato (<em>Solanum tuberosum</em>) and tomato (<em>Lycopersicum esculentum</em>) both belong to family Solanaceae, which is commonly called as the “potato family”. Many plants belonging to this family are sources of vegetables, fruits etc."
+}

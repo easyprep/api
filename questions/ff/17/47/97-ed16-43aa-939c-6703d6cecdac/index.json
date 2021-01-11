@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "ff174797-ed16-43aa-939c-6703d6cecdac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Both Speaker of Lok Sabha and Chairman of Rajya Sabha are members of respective house</li>\r\n<li>Both Speaker of Lok Sabha and Chairman of Rajya Sabha can exercise casting vote in case of a deadlock in respective house</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Speaker is a member of the House, but Chairman (VP) is not a member of the House. But like the Speaker, the Chairman also cannot vote in the first instance. He too can cast a vote in the case of an equality of votes"
+}

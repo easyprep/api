@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "df60215f-cedc-40da-ab3c-d6fc26c9032f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>If a person is not qualified to vote, he cannot contest elections of Lok Sabha or Rajya Sabha</li>\r\n<li>To contest parliamentary elections, a person must be registered as a voter in same constituency from which he / she is contesting</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "In case of Lok Sabha, if the seat is reserved for SC, a non-SC voter can not be elected to that seat; if the seat is reserved for ST, a non-ST voter can not be elected to that seat. He must be from these categories however; he may be a voter registered from any other constituency within India. However, in case of autonomous districts of Assam, Sikkim, ST seat for Lakshadweep, the elector should be enrolled as a voter in the same constituency."
+}

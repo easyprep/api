@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "6a0f0f9d-abaa-4861-8f37-d62674fb0412",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following can be introduced only in the Lok Sabha?\r\n<ol>\r\n<li>Motion of No-confidence</li>\r\n<li>Money Bills</li>\r\n<li>Constitution amendment Bills</li>\r\n<li>Cut motion</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "No Confidence Motion is governed by Rule 198 of Lok Sabha. The article 75 in constituton mentions that the Council of Minister has to be collectively responsible to Lok Sabha. Second statement is also correct.A Money Bill can be introduced in Lok Sabha only. If any question arises whether a Bill is a Money Bill or not, the decision of Speaker thereon is final. Bills seeking to amend provisions of the Constitution as per article 368 are called by the title ‘Constitution Amendment Bills’. These Bills can be introduced in either House of Parliament. Cut motions are called on Lok sabha only."
+}

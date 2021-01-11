@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "4b197fb5-38f9-4a74-ac66-21f8fa1cd2e5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Annual Report of the State Finance Commission is mandated to be laid on the table in the State legislature<br> 2. The courts have been barred from adjudicating the dispute in the Panchayat elections<br> Which among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "If there is a dispute in the Panchayat elections, the Courts have NO jurisdiction over them. This means that the Panchayat election can be questioned only in the form of an election petition presented to an authority which the State legislature by law can prescribe."
+}

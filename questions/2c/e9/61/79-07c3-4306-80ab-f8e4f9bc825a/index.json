@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:39.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "2ce96179-07c3-4306-80ab-f8e4f9bc825a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The ultimate approval to reduce the salary and allowances of Chief Justice of India comes from__?",
+  "option1": "President",
+  "option2": "Parliament",
+  "option3": "Supreme Court itself",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Parliament",
+  "explanation": "The salary of Supreme Court judges is charged on Consolidated Fund of India and it is a nonvotable charge. The salary can be reduced only if there is a state of financial emergency in the country. Financial emergency is declared by president and it must be approved by parliament within 2 months."
+}

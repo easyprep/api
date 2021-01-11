@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:39.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "75a138c5-69e1-46ec-a6c3-0c889da65f3d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following items of the state list is / are <strong><em>not </em></strong>applicable to Delhi?\r\n<ol>\r\n<li>Public order</li>\r\n<li>Police</li>\r\n<li>Land</li>\r\n<li>Education</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "<strong>Police &amp; Public Order</strong>\r\nDelhi police does not fall under Delhi state government; it reports directly to Union Home Ministry. \r\n<strong>Land matters:</strong>\r\nThe files related to land acquisition come to the Chief Secretary of state, but the Delhi Development Authority (DDA) files goes to Lieutenant Governors who is the chairman of DDA.\r\n<strong>Education</strong>\r\nEducation comes under Delhi government. Power with Delhi government includes Jal Board, Power, Transport, PWD, Health (minus health and sanitation, which is with MCD), and Education (minus some primary schools)."
+}

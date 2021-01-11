@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-06-30T00:27:59.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "84c3258d-4585-4a7b-a699-e629cdc71106",
+  "labels": "current-affairs,2018-07-01",
+  "question": "The Union Government has launched a mobile application \"ReUnite\" for which purpose?",
+  "option1": "To track and trace bank defaulters",
+  "option2": "To track and trace missing children",
+  "option3": "to track and trace Sagarmala project",
+  "option4": "to track and trace Swachh Bharat Abhiyan",
+  "option5": "",
+  "answer": "To track and trace missing children",
+  "explanation": "On June 29, Suresh Prabhu, the Union Minister of Commerce &amp; Industry and Civil Aviation, launched a mobile application \\\"ReUnite\\\" in New Delhi to track and trace missing and abandoned children in India. The app is multiuser where parents and citizens can upload pictures of children, and provide detailed description like name, birth mark, address, report to the police station, search and identify missing kids. The photographs will not be saved in the mobile phone’s physical memory. Amazon Rekognition, web facial recognition service, is being used to identify missing kids. The app is available for both Android and iOS."
+}

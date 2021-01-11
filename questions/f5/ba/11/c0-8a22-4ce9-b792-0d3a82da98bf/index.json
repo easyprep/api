@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "f5ba11c0-8a22-4ce9-b792-0d3a82da98bf",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the advisory jurisdiction of the Supreme Court, consider the following statements:\r\n<ol>\r\n<li>It is binding on the Supreme Court to give its opinion on any matter referred to it by the President</li>\r\n<li>The opinion given by the Supreme Court on a reference under advisory jurisdiction is not binding on the government</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The SC is not bound except in matters of some pre-constitution treaty etc. second statement is correct."
+}

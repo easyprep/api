@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "02da7584-0d84-4ef9-9423-31842bbccbf0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol> <li>Decision of Speaker to certify a bill as money bill</li> <li>Constitutional amendment bill</li> <li>A law&nbsp;enacted and&nbsp;included&nbsp;in the&nbsp;Ninth Schedule</li> <li>Decision of President on matters related to disqualification of MPs</li> </ol> Which of the above is/are subject to judicial review?",
+  "option1": "Only 2 & 3",
+  "option2": "Only 1 & 4",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 1, 3 & 4",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "First and fourth are not subject to judicial review"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "568d2def-e68f-45de-981d-d20b38e34065",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is incorrect?",
+  "option1": "A person can be appointed as cabinet minister even if he is not a member of legislature at the time of appointment",
+  "option2": "Cabinet is headed by the head of the State",
+  "option3": "The Council of Ministers are collectively responsible to the Lok Sabha",
+  "option4": "The lower house of the Parliament can be dissolved by the President",
+  "option5": "",
+  "answer": "Cabinet is headed by the head of the State",
+  "explanation": "Second statement is incorrect because Cabinet is headed by Prime Minister who is the head of government. Head of State is President. All other statements are correct"
+}

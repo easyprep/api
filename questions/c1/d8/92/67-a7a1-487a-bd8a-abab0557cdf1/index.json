@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "c1d89267-a7a1-487a-bd8a-abab0557cdf1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:<br> 1. Population<br> 2. Area<br> 3. Demography<br> 4. Forest Cover<br> Which among the following is the decreasing order of the weight given by 14th finance commission in the formula to determine how much different states will get from tax devolution?",
+  "option1": "1 2 3 4",
+  "option2": "1 3 2 4",
+  "option3": "2 1 3 4",
+  "option4": "2 4 1 3",
+  "option5": "",
+  "answer": "1 3 2 4",
+  "explanation": "Highest weight of 50 per cent is given to distance from the highest per capita income district, followed by population (1971 census) at 17.5 per cent, demography (2011 census) at 10 per cent, area at 15 per cent and forest cover at 7.5 per cent."
+}

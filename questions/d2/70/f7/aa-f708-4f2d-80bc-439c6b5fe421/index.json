@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "d270f7aa-f708-4f2d-80bc-439c6b5fe421",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Vice-President of India: <ol> <li>Vice-President is neither an elected nor nominated member of Rajya Sabha</li> <li>Vice-President of India can be removed from the office only by a process of impeachment for the violation of the Constitution</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because No ground has been mentioned in the constitution for the removal of Vice-President. Vice-President can be removed from office by a resolution of the Council of States passed by a majority of all the then members of the Council and agreed to the House of the People."
+}

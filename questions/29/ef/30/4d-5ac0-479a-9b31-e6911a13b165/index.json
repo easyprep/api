@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:38.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "29ef304d-5ac0-479a-9b31-e6911a13b165",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following provisions is / are found in the 74th Constitutional Amendment Act?\r\n<ol>\r\n<li>Constitution and Composition of a municipality</li>\r\n<li>Personnel system in a Municipality</li>\r\n<li>Relations between elected members (executive) of a municipality and bureaucracy</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "74th amendment act has to do with the Constitution and Composition of a municipality only. The rest two options given in this question are left to the states to decide about them by law."
+}

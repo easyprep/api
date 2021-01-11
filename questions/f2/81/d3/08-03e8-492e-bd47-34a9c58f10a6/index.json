@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "f281d308-03e8-492e-bd47-34a9c58f10a6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements in context with Legislative procedures at Centre:\r\n<ol>\r\n<li>A Money bill can be referred to a Joint Committee of the Houses</li>\r\n<li>A motion for introduction of a Finance Bill or an Appropriation Bill in either house of Parliament</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "The motion for introduction of a Finance Bill or an Appropriation Bill is not opposed. A Money Bill cannot be introduced in Rajya Sabha nor can it be referred to a Joint Committee of the Houses. Thus both statements are incorrect."
+}

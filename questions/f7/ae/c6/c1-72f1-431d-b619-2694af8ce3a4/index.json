@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "f7aec6c1-72f1-431d-b619-2694af8ce3a4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Prime Minister of India is <strong>NOT</strong> the chairman for which of the following government bodies?\r\n<ol>\r\n<li>National Development Council </li>\r\n<li>Zonal Councils</li>\r\n<li>Interstate council</li>\r\n<li>National Integration Council</li>\r\n</ol>\r\n Select the correct option from codes given below:",
+  "option1": "2 Only",
+  "option2": "2 and 4 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 4 Only",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Prime Minister is not the chairman of Zonal Councils.The Union Home Minister is the chairman of Zonal councils in India."
+}

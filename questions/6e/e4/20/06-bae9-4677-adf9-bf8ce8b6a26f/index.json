@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "6ee42006-bae9-4677-adf9-bf8ce8b6a26f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Who among the following can be removed only in like manner and on the like grounds as a Judge of the Supreme Court?\r\n<ol>\r\n<li>Chief Election Commissioner</li>\r\n<li>Other Election Commissioner</li>\r\n<li>Comptroller and Auditor General of India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "all of them",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "The Election Commissioner can be removed by the President on recommendation of Chief Election Commissioner. Article 324 (5) says Provided further that any other Election Commissioner a Regional Commissioner shall not be removed from office except on the recommendation of the Chief Election Commissioner."
+}

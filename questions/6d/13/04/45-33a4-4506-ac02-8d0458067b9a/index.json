@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "6d130445-33a4-4506-ac02-8d0458067b9a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The state legislature in the bicameral states is consisted of __?<br> 1. Governor<br> 2. State Assembly<br> 3. Legislative Council<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "In unicameral states, state legislature consists of the governor and the legislative assembly. In bicameral, all three."
+}

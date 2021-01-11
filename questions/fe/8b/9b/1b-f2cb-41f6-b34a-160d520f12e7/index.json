@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:39.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "fe8b9b1b-f2cb-41f6-b34a-160d520f12e7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Singing of the National Anthem is one of the fundamental duties of citizens of India<br> 2. No one can be compelled to sing the National Anthem<br> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Supreme Court, in Surya Vs Union of India (1992) case, ruled that fundamental duties are not enforceable through judicial remedies by court. In Vijoy Immanuel Vs State of Kerala (1987), the Supreme Court overruled the decision of Kerala High Court and decided that though to Constitution provides it to be the duty of citizen to respect the National Anthem, it does not provide that singing of the National Anthem is part of such respect. Even a person, while standing during the singing of National Anthem (without himself singing it) can show respect to the National Anthem"
+}

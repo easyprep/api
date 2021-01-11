@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "02d3fb81-9a22-4013-9b88-f08f21a1f390",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A bill related is deemed to be a money bill when it is related to the money matters of __?\r\n<ol>\r\n<li>Central Government</li>\r\n<li>State Government</li>\r\n<li>Local Government</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "1, 2 & 3",
+  "option4": "Only 1 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Any bill that deals in Money Matters is a Money bill. But when a bill shall not be deemed to be a Money Bill by reason only that it provides for the imposition of fines or penalties or for the demand or payment of fees for licenses or fees for service rendered, or by reason that it provides for the imposition, abolition, remission, alteration or regulation of any tax by any local authority or body for local purposes. So bill related to Local matters are NOT Money Bills."
+}

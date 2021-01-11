@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "c9e9388b-0d6b-4ca9-9887-076b4993da5a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In India, who among the following are elected by proportional representation by single transferable vote?<br> 1. Members of Lok Sabha<br> 2. Members of Rajya Sabha<br> 3. Members of State Legislative Assembly<br> 4. Members of State Legislative Council<br> 5. President<br> 6. Vice-President<br> Choose the correct option from the codes given below:",
+  "option1": "1, 2, 3, 4, 6",
+  "option2": "2006-02-04T18:30:00.000Z",
+  "option3": "2, 4, 5, 6",
+  "option4": "2, 4, 5,",
+  "option5": "",
+  "answer": "2, 4, 5, 6",
+  "explanation": "Members of Lok Sabha and State Legislative Assembly are directly elected by citizens of India."
+}

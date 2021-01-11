@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "f81f3ea4-b2e9-4225-b558-bf49492ed388",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following cases: <ol> <li>Change in procedure for election of President</li> <li>Change in Provisions of High Court</li> <li>Amendment in Fundamental Duties</li> <li>Amendment in Directive Principles</li> </ol> In which of the above cases, the amendment requires to be ratified by not less than one-half of the State Legislatures?",
+  "option1": "3 & 4 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "In other two cases, it can be amended by parliament with special majority."
+}

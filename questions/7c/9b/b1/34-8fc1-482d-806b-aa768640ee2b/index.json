@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:58.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "7c9bb134-8fc1-482d-806b-aa768640ee2b",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>In India, President is a part of both Parliament as well as Legislature</li>\r\n<li>In United States, President is part of both American congress as well as Senate</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "India’s parliament is constituted on the basis of principle of “Bicameralism”, so it has two chambers. The two houses are Lok Sabha and Rajya Sabha. As the name suggests, Lok Sabha is the House of the People and Rajya Sabha is the council of States. The members of Lok Sabha are directly elected by the people. The members of Rajya Sabha are elected by the “Members of State Assemblies”. In India, the Parliament comprises President, Lok Sabha and Rajya Sabha but the President is NOT a Part of the legislature. This is in line with the British parliamentary system where the Parliament is comprised of Monarch, House of Lords and House of Commons. Though, this is in contrast with the Parliament of the United States (Congress), where President is NOT a part of the American Congress. If President is NOT a part of the legislature, how his/ her participation in legislature is ensured? This has been done by making the President a Part of the Parliament. President is the Chief Executive Authority and Executive power is co-extensive with the legislative power."
+}

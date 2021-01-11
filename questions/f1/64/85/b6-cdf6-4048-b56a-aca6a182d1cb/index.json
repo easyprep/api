@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "f16485b6-cdf6-4048-b56a-aca6a182d1cb",
+  "labels": "current-affairs,2018-07-07",
+  "question": "The structure of the Indian constitution is Federal in form and unitary in spirit. Which among the following is / are features of federalism in India? <br> 1. Dual judiciary<br> 2. Division of powers between central government and state governments<br> 3. Equality of state representation<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "India does not have a dual judiciary. We have an integrated judiciary. The second statement in this question is correct as Part XI of the Indian constitution defines the power distribution between the federal government (the Centre) and the States in India. This part is divided between legislative and administrative powers. The legislative section is divided into three lists: Union list, States list and Concurrent list. We further note that the Federalism in India has a strong bias towards the Union Government. There <strong>is no equality of state representation.</strong> Representation in the Parliament can vary widely from one state to another depending on a number of factors including demography and total land area."
+}

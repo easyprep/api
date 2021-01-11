@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:58.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "99469d0c-18b0-4aaf-ba93-0659a6cbd15b",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>An ordinance-making power of the President of India is not a discretionary power.</li>\r\n<li>An ordinance promulgated by president cannot be retrospective in nature.</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect because an ordinance promulgated by president can be retrospective in nature."
+}

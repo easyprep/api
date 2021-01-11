@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-06-24T16:04:18.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "4010b391-e2de-402f-b448-2500e4482b68",
+  "labels": "current-affairs,2018-06-25",
+  "question": "Which country's researchers have developed the world's smallest computer \"Michigan Micro Mote\"?",
+  "option1": "United States",
+  "option2": "China",
+  "option3": "Japan",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "Researchers at the University of Michigan (UM) in the US have developed the world\\'s smallest computer \\\"Michigan Micro Mote\\\". It measures just 0.3 mm and could help find new ways to monitor and treat cancer. In addition to the RAM and photovoltaics, the new micro computing device has processors and wireless transmitters and receivers. Since they are too small to have conventional radio antennae, they receive and transmit data with visible light. A base station provides light for power and programming, and it receives the data. Designed as a precision temperature sensor, the computer can report temperatures in minuscule regions - such as a cluster of cells - with an error of about 0.1 degrees Celsius. The system is very flexible and could be re-imagined for a variety of purposes. The device can help in oncology research. The study was presented at the 2018 Symposia on VLSI Technology and Circuits on June 21."
+}

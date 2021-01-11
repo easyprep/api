@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "90dc2190-9ba3-4466-aa4d-53ffbe19a1fd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Adjournment and Prorogation: <ol> <li>While the adjournment is done by the presiding officer of the House, prorogation is done by the president</li> <li>While adjournment terminates session of the House, prorogation terminates sitting of the House</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because adjournment terminates a sitting and not a session of the House, whereas prorogation not only terminates a sitting but also a session of the House."
+}

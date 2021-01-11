@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "7e8be645-a6ee-4eae-a11c-b72b13e0fb6f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to Judges of Supreme Court and High Courts, consider the following statements: <ol> <li>They are appointed through the Collegium System</li> <li>Impeachment can be moved against them only on grounds of incapacity or proved misbehaviour or violation of the constitution.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Both the statements are incorrect. Second statement is incorrect because impeachment can be moved against them only on grounds of incapacity or proved misbehaviour. It is different as in case of president where impeachment process is on the grounds of violation of the constitution. First statement is incorrect because only Supreme Court judges are appointed through collegium system, while appointment of judges of High Courts has different procedure."
+}

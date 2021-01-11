@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "053771df-e744-4bc0-b229-1f046724ff3d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The governor of a state in India is empowered to make appointments of which of the following?\r\n<ol>\r\n<li>Chief Minister of state</li>\r\n<li>Chief justice of state high courts</li>\r\n<li>Tribal Welfare ministers in certain states</li>\r\n<li>Advocate general of state</li>\r\n<li>State election commissioner</li>\r\n</ol>\r\nSelect the correct options from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 3 & 4",
+  "option3": "Only 1, 3, 4 and 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "Only 1, 3, 4 and 5",
+  "explanation": "<ul>\r\n<li>Governor appoints the chief minister and other ministers. They also hold office during his pleasure.</li>\r\n<li>Governor also appoints a Tribal Welfare minister in the states of Bihar, Madhya Pradesh and Odisha.</li>\r\n<li>Governor appoints the advocate general and determines his remuneration. Advocate general holds office during the pleasure of the governor.</li>\r\n<li>The Governor appoints state election commissioner but this office is not under his pleasure. State election commissioner can be removed only in like manner and on the like grounds as a judge of a high court.</li>\r\n<li>Governor appoints the chairman and members of the state public service commission. However, they can be removed only by the president and not by a governor.</li>\r\n</ul>"
+}

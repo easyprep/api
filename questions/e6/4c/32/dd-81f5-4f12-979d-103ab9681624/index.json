@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "e64c32dd-81f5-4f12-979d-103ab9681624",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following Bills: <ol> <li>Money bill</li> <li>Financial Bill of category A</li> <li>Financial Bill of category B</li> </ol> Which of the above can be introduced only in Lok Sabha?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Financial bill of category B can be introduced in either House of the Parliament. &nbsp;Money Bills are those Bills which contain only provisions dealing with all or any of the matters specified in sub-clauses (a) to (f) of clause (1) of article 110 of the Constitution. Money Bills and Financial Bills of Category A can be introduced only in the Lok Sabha."
+}

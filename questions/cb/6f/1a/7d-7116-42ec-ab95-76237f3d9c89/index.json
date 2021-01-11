@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "cb6f1a7d-7116-42ec-ab95-76237f3d9c89",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Parliament can make laws on matters enumerated in state list when: <ol> <li>Rajya Sabha passes a resolution supported by two-thirds of the members present and voting</li> <li>National Emergency is in operation</li> <li>President Rule is imposed in a state</li> <li>a state requests the parliament to enact laws</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 3 Only",
+  "explanation": "Fourth option is incorrect because a single state cannot quest parliament to make law on state subject. It can be done when the legislatures of two or more states pass resolutions requesting the Parliament to enact laws. Beside above given conditions, parliament can also make laws on matters enumerated in state list, if parliament thinks that the particular matter is of importance for implementing the international treaties. For such changes parliament requires simple majority in Lok Sabha."
+}

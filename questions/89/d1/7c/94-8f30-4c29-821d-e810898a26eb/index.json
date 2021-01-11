@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "89d17c94-8f30-4c29-821d-e810898a26eb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The President submits his/her resignation in writing addressed to the Chief Justice of India</li> <li>The impeachment process for president can be initiated in any House of the parliament</li> <li>The notice for moving the resolution for impeachment must be supported by 50 members of Lok Sabha and 50 members of Rajya Sabha</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the President submits his resignation in writing addressed to the Vice-President. Third statement is incorrect because the notice for moving the resolution for impeachment must be signed not less than one-fourth of the total number of members of the House in which the process begins."
+}

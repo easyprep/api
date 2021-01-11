@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "76ded27e-39db-48d4-9d86-81d8e25c7e99",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With the proclamation of the President's Rule in a State<br> 1. Parliament assumes the power to legislate on the subjects in the State list for that state<br> 2. Fundamental rights under Article 19 automatically get suspended in the state<br> Which among the above is / are correct statements?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "Second statement is incorrect because Article 19 automatically get suspended under proclamation of National Emergency and not under President's Rule."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "53dbf9f4-f8ad-4386-a1f6-7b55e5755338",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the legislative procedure in bicameral states of India, consider the following statements:\r\n<ol>\r\n<li>If the legislative council rejects an ordinary bill earlier passed by State Assembly, the assembly is forced to pass the bill again</li>\r\n<li>The legislative council can not reject a money bill</li>\r\n<li>If the legislative council does not return the money bill is 14 days, the bill is deemed to be passed on both houses</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "If the council passes the bill without amendments or the assembly accepts the amendments suggested by the council, the bill is deemed to have been passed by both the Houses and the same is sent to the governor for his assent. On the other hand, if the assembly rejects the amendments suggested by the councilor the council rejects the bill altogether or the council does not take any action for three months, then the assembly may pass the bill again and transmit the same to the council. If the council rejects the bill again or passes the bill with amendments not acceptable to the assembly or does not pass the bill within one month, then the bill is deemed to have been passed by both the Houses in the form in which it was passed by the assembly for the second time. Thus, in states of India, the ultimate power of passing an ordinary bill is vested in the assembly. The council can detain or delay the bill for a period of four months (3+1 months). That is why council is called a dilatory house."
+}

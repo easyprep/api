@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "0d0764d0-d1a4-46b1-89cd-0f9916b1f7f6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with respect to Indian Judiciary:\r\n<ol>\r\n<li>High Courts enjoy power of original jurisdiction in civil cases but not in criminal cases</li>\r\n<li>The writ jurisdiction of high court is wider than that of the Supreme Court</li>\r\n<li>Capital punishment awarded by a sessions court or an additional sessions court can be executed only after confirmation from Supreme Court</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "1 and 2 Only",
+  "option2": "3 Only",
+  "option3": "1, 2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 and 2 Only",
+  "explanation": "Third statement is incorrect because capital punishment awarded by a sessions court or an additional sessions court can be executed even after confirmation from High Courts. (Confirmation from high court is mandatory for execution of capital punishment issued by lower courts)"
+}

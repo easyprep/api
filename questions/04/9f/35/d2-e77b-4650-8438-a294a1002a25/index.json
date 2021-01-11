@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "049f35d2-e77b-4650-8438-a294a1002a25",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following committees of parliament considers the question of contempt of the House?",
+  "option1": "Select Committee",
+  "option2": "Committee on privileges",
+  "option3": "Committee on petitions",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Committee on privileges",
+  "explanation": "Both Lok Sabha and Rajya Sabha have their Committee on Privileges. The Lok Sabha committee has 15 members, while the Rajya Sabha committee has 10 members. The members are nominated by the Speaker / Chairman as the case may be. The functions of this committee are semi-judicial in nature including examination of breach of privileges of the House. The committee recommends appropriate action."
+}

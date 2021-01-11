@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "55051b93-2efd-49c9-8284-88d4e1ccc7fe",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following statements is / are correct?\r\n<ol>\r\n<li>If there is a deadlock between the two houses on a Money Bill, there cannot be a joint sitting</li>\r\n<li>A constitution amendment bill must be passed by the two houses separately</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "To resolve a deadlock between the two Houses, in case of an ordinary legislation, the Constitution provides for the joint sitting of both Houses.<br />As regards a Constitution amendment Bill, it has been provided in the Constitution that such a Bill has to be passed by the specific majority, as prescribed under article 368 of the Constitution, by both Houses. There is, therefore, no provision for resolving a deadlock between the two Houses in regard to a Constitution amendment Bill.<br />In case of money bill, there is no question of a joint sitting."
+}

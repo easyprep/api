@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "417100fd-3ad3-4db7-a62e-74a347302b1e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following must be approved by the Public Accounts Committee before being submitted to the Lok Sabha for voting?",
+  "option1": "Supplementary grant",
+  "option2": "Exceptional grant",
+  "option3": "Token grant",
+  "option4": "Excess grant",
+  "option5": "",
+  "answer": "Excess grant",
+  "explanation": "Excess Grant is granted when money has been spent in a year in excess of the amount granted in budget for that year for a particular service. It is voted by the Lok Sabha after the financial year. Before the demands for excess grants are submitted to the Lok Sabha for voting, they must be approved by the Public Accounts Committee of Parliament"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "44d0852a-161f-488f-8e8b-e76d7aa3bdec",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The first-past-the-post system, currently used in India to elect members of Parliament, is criticized on many grounds. Consider the following statements in this context:\r\n<ol>\r\n<li>In first-past-the-post system, a party or coalition can win a majority in Parliament without necessarily getting a majority of the votes</li>\r\n<li>First-past-the-post system does not ensure that every vote counts</li>\r\n</ol>\r\nWhich of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Major point in criticism is that in a multi-cornered polity, a party or coalition can win a majority in Parliament without necessarily getting a majority of the votes. Every time this comes up for discussion, ideas such as proportional representation are thrown up. The PR system recommends allocation of seats in proportion to the votes secured by a party. So, if party X secured 20% vote and party Y got 46% of the total popular vote, they would be entitled to 20 and 46 seats respectively in a house of 100. So the PR system, in one way can ensure that every vote counts. Thus both statements are correct."
+}

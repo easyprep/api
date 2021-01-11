@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:38.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "03ca4d6e-6758-4ece-8927-fe5e34853f86",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about the Finance Commission in India?\r\n<ol>\r\n<li>The qualifications for the chairman and other members of the finance commission are laid down in the constitution</li>\r\n<li>The recommendations of the finance commission are binding on neither parliament nor president</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The first statement is incorrect because it is the Finance Commission Act of 1951, which states the terms of qualification, appointment and disqualification, the term, eligibility and powers of the Finance Commission. Second statement is correct. The recommendations made by the Finance Commission are only of advisory nature and hence, not binding on the government. It is up to the Union government to implement its recommendations on granting money to the states."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:38.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "2c501734-2b38-413d-bda7-68d99ff78906",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following observations is / are correct?<br />\r\n<ol>\r\n<li>In proportional representation systems,  all votes contribute to the result</li>\r\n<li>Proportional representation is not possible in single party system</li>\r\n</ol>\r\nChoose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both the given statements are correct. Proportional representation systems were more loosely associated with multi-party system. Its not necessary in two party system and not possible when there is only one party."
+}

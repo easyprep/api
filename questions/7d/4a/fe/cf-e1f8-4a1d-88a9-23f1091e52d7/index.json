@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:38.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "7d4afecf-e1f8-4a1d-88a9-23f1091e52d7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. While Public health and sanitation is a subject matter of Union List, Population control and family planning has been kept in concurrent list<br> 2. Both Union Public Service Commission and State Public Service Commission come under Union List<br> Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Public health and sanitation; hospitals and dispensaries are in state list. So first statement is incorrect."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:58.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "131aa157-663c-4778-bd3e-5721fa6034a4",
+  "labels": "current-affairs,2018-07-07",
+  "question": "The president of India can summon joint session of the Parliament in case of a deadlock between the Lok Sabha and the Rajya Sabha during the passage of which of the following?\r\n<ol>\r\n<li>Ordinary Legislation</li>\r\n<li>Money Bill</li>\r\n<li>Constitution Amendment Bill</li>\r\n</ol>\r\nSelect the correct answer using the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<p class=\\\"Explanation\\\">Joint sitting is called in the following situation:\r\n<p class=\\\"Explanation\\\">1. Bill has been passed by one House and transmitted to the other House and it is rejected by the other House\r\n<p class=\\\"Explanation\\\">2. Both houses have finally disagreed as to the amendments to be made in the Bill\r\n<p class=\\\"Explanation\\\">3. More than 6 months elapse from the date of the reception of the Bill by the other House without the Bill being passed by it.\r\n<p class=\\\"Explanation\\\">Please note that if there is a deadlock between the two houses on a Constitution amendment Bill, there cannot be a joint sitting. In case of Money bills, the rejection of Rajya Sabha is immaterial."
+}

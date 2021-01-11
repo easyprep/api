@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "d6fa72e1-22f1-4033-aa70-9a05f0a0eeb8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In India, the Governors of the states are:\r\n<ol>\r\n<li>appointed by the president</li>\r\n<li>nominees of central government</li>\r\n<li>paid emoluments from Consolidated Fund of State</li>\r\n</ol>\r\nWhich of the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The governor is neither directly elected by the people nor indirectly elected by a specially constituted electoral college as is the case with the president. He is appointed by the president by warrant under his hand and seal. So, he is a nominee of the Central government. But the office of the Governor is an independent constitutional office and is not under the control of or subordinate to the Central government. The salary of the governor comes from consolidated fund of state."
+}

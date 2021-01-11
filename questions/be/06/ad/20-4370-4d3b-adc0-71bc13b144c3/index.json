@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "be06ad20-4370-4d3b-adc0-71bc13b144c3",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Which of the following is / are correct statements regarding the Fundamental Rights in India?\r\n<ol>\r\n<li>They are enforceable via court</li>\r\n<li>They are immune to amendment power of the parliament</li>\r\n<li>All of them can be suspended / abrogated in some circumstances</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "In the above question, only statement 1 is correct. The fundamental rights are not immune to amendment power of the parliament and can be amended. Similarly, some of them get suspended in some circumstances not all."
+}

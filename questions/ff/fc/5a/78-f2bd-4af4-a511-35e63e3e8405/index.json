@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "fffc5a78-f2bd-4af4-a511-35e63e3e8405",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Consider the following differences between writ of Mandamus and Writ of prohibition:\r\n<ol>\r\n<li>While writ of prohibition demands inaction, Mandamus commands action</li>\r\n<li>While writ of prohibition is applicable against both judicial and administrative authorities, writ of Mandamus is applicable only against administrative bodies</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<table border=\\\"1px solid #000\\\" width=\\\"100%\\\">\r\n<tbody>\r\n<tr>\r\n<td width=\\\"49%\\\"><strong>Mandamus</strong></td>\r\n<td width=\\\"50%\\\"><strong>Prohibition</strong></td>\r\n</tr>\r\n<tr>\r\n<td width=\\\"49%\\\">Demands action</td>\r\n<td width=\\\"50%\\\">Demands inaction</td>\r\n</tr>\r\n<tr>\r\n<td width=\\\"49%\\\">applicable against both judicial and administrative authorities</td>\r\n<td width=\\\"50%\\\">Applicable only against body exercising public functions of a judicial or quasi-judicial nature.</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

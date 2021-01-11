@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "4bf8df0c-38af-4d0d-8960-e1befeaa2aa1",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Which among the following parts of Constitution of India refer to the responsibility of the state towards international peace and security?\r\n<ol>\r\n<li>Directive Principles of State Policy</li>\r\n<li>Emergency provisions</li>\r\n<li>Preamble</li>\r\n<li>Fundamental Duties</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1",
+  "option4": "Only 1 & 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "To promote international peace and security and maintain just and honorable relations between nations; to foster respect for international law and treaty obligations, and to encourage settlement of international disputes by arbitration (Article 51)."
+}

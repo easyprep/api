@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "7b5d149b-18b5-4483-90ba-6dfed611db61",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements with respect to emergency provisions in India?\r\n<ol>\r\n<li>Fundamental Rights under article 19 can be suspended only under national emergency declared on grounds of war, external aggression and armed rebellion</li>\r\n<li>Enforcement of all the fundamental rights can be suspended for a period specified by president during national emergency.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Both the statements are incorrect<br />44<sup>th</sup> amendment act of 1978 restricted the scope of article 358 due to which fundamental rights under article 19 gets automatically suspended only on grounds of War or external aggression and not on grounds of armed rebellion.<br />Article 359 empowers the President to suspend the enforcement of all fundamental rights (except those guaranteed by article 20 and article 21) for period as specified by president during national emergency on ground on war, external aggression and armed rebellion.The restriction on article 359 over article 20 and 21 was on account of 44<sup>th</sup> amendment act 1978."
+}

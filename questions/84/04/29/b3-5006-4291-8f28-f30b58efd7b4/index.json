@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "840429b3-5006-4291-8f28-f30b58efd7b4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the Anti-Defection law was making news. Which of the following is / are correct statement(s) about this law?\r\n<ol>\r\n<li>The power to decide disqualification on grounds of defection is vested in the hands of President of India</li>\r\n<li>The decision regarding disqualification arising out of defection is not subject to judicial review</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because the power to decide the cases of such disqualification is vested in the hands of the Speaker of the state legislative assembly or the presiding officer of the House under the anti-defection law. Second statement is incorrect because the decision regarding disqualification arising out of defection is subject to judicial review."
+}

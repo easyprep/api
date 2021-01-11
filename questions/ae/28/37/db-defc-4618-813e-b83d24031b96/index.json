@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "ae2837db-defc-4618-813e-b83d24031b96",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following committees have members from both Lok Sabha and Rajya Sabha?\r\n<ol>\r\n<li>Estimates Committee</li>\r\n<li>Committee on Subordinate Legislation</li>\r\n<li>Public Accounts Committee</li>\r\n<li>Committee on Public Undertakings</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "Only 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "Estimates Committee - 30 members from Lok Sabha<br />The Committee on Public Undertakings is a Parliamentary Committee consisting of 22 Members? Fifteen elected by the Lok Sabha and seven by the Rajya Sabha<br />The Committee on subordinate legislations in Rajya Sabha shall consist of fifteen members who shall be nominated by the Chairman.<br />The Committees on Subordinate Legislation of Lok Sabha consists of members from Lok Sabha Only.<br />Public Account Committee - 22 members, 15 from Lok Sabha and 7 from Rajya Sabha."
+}

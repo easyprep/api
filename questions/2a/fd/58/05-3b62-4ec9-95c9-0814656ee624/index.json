@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "2afd5805-3b62-4ec9-95c9-0814656ee624",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What provisions have been made in the constitution to safeguard and ensure the dependent and impartial functioning of the Supreme Court?\r\n<ol>\r\n<li>Executive has no absolute discretion in the appointment of judges</li>\r\n<li>The salaries, allowances and pensions of the judges can neither be voted nor can be discussed in parliament</li>\r\n<li>Conduct of the Judges while discharging of their normal duties can not be discussed in parliament</li>\r\n</ol>\r\nChoose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Thr first statement is correct. Although executive has a say in the appointments because judges of Supreme Court are appointed by the President, who works on advice of executive only. But along with that the judiciary itself has to be consulted. Thus, there is no “absolute” discretion of the executive in this matter.<br />The second statement is partially correct. Though these charges are non-votable but they can be discussed in parliament.<br />Third statement is correct. The constitution prohibits any discussion in Parliament or in a State Legislature with respect to the conduct of the judges of the Supreme Court in the discharge of their normal duty. However, during removal process, it can be discussed."
+}

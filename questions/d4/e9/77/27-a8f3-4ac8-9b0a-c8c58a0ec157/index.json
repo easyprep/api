@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "d4e97727-a8f3-4ac8-9b0a-c8c58a0ec157",
+  "labels": "current-affairs,2018-07-07",
+  "question": "With respect to the rights provided to minorities in Indian constitution, consider the following statements:\r\n<ol>\r\n<li>Article 30 defines minority as any section of citizens having a distinct language, script and culture</li>\r\n<li>Article 30 provides right to establish and administer their educational institutions to both linguistic as well as religious minorities</li>\r\n</ol>\r\nWhich of the above is/ are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<strong>Article 30 defines minority as any section of citizens having a distinct language, script and culture</strong> <br />This is not a correct statement. This definition is part of article 29. <br /><strong>Article 30 provides right to establish and administer their educational institutions to both linguistic as well as religious minorities</strong> <br />This is a correct statement. Further note that fundamental right of administration of a minority educational institution (MEI) under Article 30, on its terms and language, is absolute. But it does not mean that it also includes a right to misuse the minority institutions. In fact in number of decisions, SC has said that no right is absolute and unregulated. However, no restrictions can be imposed on this right akin to the restrictions under Article 19 (2) to (6)."
+}

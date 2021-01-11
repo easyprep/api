@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "8ada3e4d-c149-4185-8a78-36a2fb9b3dca",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Public Accounts Committee consists of members from both houses of the parliament</li> <li>Committee on Public Undertakings consists of members of Lok Sabha Only</li> <li>Estimates Committee consists of members from Rajya Sabha only</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect because Committee on Public undertakings consists of members from both houses of the Parliament. Estimates committee consists of members from Lok Sabha only."
+}

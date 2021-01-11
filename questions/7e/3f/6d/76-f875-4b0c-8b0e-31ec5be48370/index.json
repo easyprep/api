@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "7e3f6d76-f875-4b0c-8b0e-31ec5be48370",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>A High Court can issue a writ to another High Court</li>\r\n<li>High Court can issue a writ against itself in its judicial capacity</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "A High Court can issue a writ against itself in its administrative capacity but not against itself in judicial capacity. This implies that a High Court can issue certiorari to a tribunal situated within its jurisdiction. A High Court cannot issue a writ to another High Court. A bench of a High Court cannot issue a writ to another bench of the same High Court."
+}

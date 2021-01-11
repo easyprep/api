@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "8acbc1e6-a554-4f3a-a6c7-6e2ce85abec2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A Panchayati Raj Institution at district / intermediate or Village level exists in which of the following states of India?  \r\n<ol>\r\n<li>Mizoram</li>\r\n<li>Nagaland</li>\r\n<li>Meghalaya</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "In Delhi, Meghalaya, Manipur and Nagaland, there does not exist Panchayati Raj institution at any of the three levels. In Daman and Diu &amp; Dadra &amp; Nagar Haveli, it does not exist on intermediate level. In Pondicherry , it does not exist on District level."
+}

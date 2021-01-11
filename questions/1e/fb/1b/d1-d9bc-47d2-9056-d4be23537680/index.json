@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "1efb1bd1-d9bc-47d2-9056-d4be23537680",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following observations about the judges of higher judiciary is / are correct?\r\n<ol>\r\n<li>The judges of the high court of the states in India are appointed by the Governor of the state just as the judges of the Supreme Court are appointed by the president</li>\r\n<li>Judges of both High Court and Supreme court in India are provided with the Security of Tenure</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The first statement is incorrect because Judges in a High Court are appointed by the President of India in consultation with the Chief Justice of India and the governor of the state. The second statement is correct. The judges of the Supreme Court and High Courts have been given the security of the tenure. Once appointed, they continue to remain in office till they reach the age of retirement which is 65 years in the case of judges of Supreme Court (Art. 124(2)) and 62 years in the case of judges of the High Courts (Art. 217(1)). They cannot be removed from the office except by an order of the President and that too on the ground of proven misbehavior and incapacity."
+}

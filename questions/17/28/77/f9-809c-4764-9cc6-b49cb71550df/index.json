@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "172877f9-809c-4764-9cc6-b49cb71550df",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Members of parliament in India:\r\n<ol>\r\n<li>must be citizen of India</li>\r\n<li>are nominated, directly elected as well as indirectly elected members</li>\r\n<li>possess right to speak in any house of the parliament</li>\r\n<li>posses right to vote in any house of parliament</li>\r\n</ol>\r\nWhich of the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "A Minister who is a Member of Lok Sabha has the right to speak in and   otherwise to take part in the proceedings of Rajya Sabha but has no right to vote in Rajya Sabha and vice versa."
+}

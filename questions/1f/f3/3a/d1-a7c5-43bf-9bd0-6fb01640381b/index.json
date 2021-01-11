@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "1ff33ad1-a7c5-43bf-9bd0-6fb01640381b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Finance Commission</li>\r\n<li>Central Vigilance Commission</li>\r\n<li>Election Commission</li>\r\n<li>Central Information Commission</li>\r\n<li>University Grants Commission</li>\r\n</ol>\r\nWhich among the above have been established by parliament by law other than constitutional law?",
+  "option1": "2003-01-01T18:30:00.000Z",
+  "option2": "2004-02-02T18:30:00.000Z",
+  "option3": "2005-03-03T18:30:00.000Z",
+  "option4": "2005-02-03T18:30:00.000Z",
+  "option5": "",
+  "answer": "2005-02-03T18:30:00.000Z",
+  "explanation": "<em>Election commission and Finance Commission are Constitutional Bodies</em>"
+}

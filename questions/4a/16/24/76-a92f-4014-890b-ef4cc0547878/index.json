@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "4a162476-a92f-4014-890b-ef4cc0547878",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Who among the following appoints / elect the Pro Tem speaker in India?",
+  "option1": "President",
+  "option2": "Prime Minister",
+  "option3": "Lok Sabha members",
+  "option4": "Members of Parliament",
+  "option5": "",
+  "answer": "President",
+  "explanation": "The Lok Sabha speaker needs to quit the office before the first meeting of the newly elected Lok Sabha. At this point of time, a speaker <u>Pro Tem is appointed by the President</u>. Speaker Pro Tem presides over the first sitting of the newly-elected Lok Sabha and administers oath to the new members. His officer ceases to exist when new Speaker is elected by the House."
+}

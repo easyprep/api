@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:38.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "217af563-ac7d-40e2-aa0e-b42c895bc2a1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Attorney General and Solicitor General of India?\r\n<ol>\r\n<li>They are highest law officers of Union and States respectively</li>\r\n<li>They are appointed by the President of India</li>\r\n<li>They can tender the legal advice to government of India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "<ul>\r\n<li><strong>They are highest law officers of Union and States respectively: </strong>This is incorrect statement. Attorney General is the highest law officer of the country, while the Advocate General is the highest law officer of a State in India. Solicitor General is the second highest law officer of India.</li>\r\n<li><strong>They are appointed by the President of India: </strong>This is incorrect. While, the AG is appointed by the President under article 76, the SG is appointed by the Cabinet Committee on Appointments , the Constitution does not talk about the appointment of SG. However, there are rules such as Law Officers (Conditions of Service) Rules, 1972, which talk about the terms, tenure, salary etc. Of the Law officers of India including SG and Additional SG.</li>\r\n<li><strong>They can tender the legal advice to government of India: </strong>This is a correct statement. Government of India can seek (and they can tender) legal advice.</li>\r\n</ul>"
+}

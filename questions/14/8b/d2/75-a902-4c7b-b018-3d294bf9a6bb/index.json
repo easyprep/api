@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "148bd275-a902-4c7b-b018-3d294bf9a6bb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Speaker of Lok Sabha once taken up that office __:\r\n<ol>\r\n<li>needs to resign from the political party which he / she belongs</li>\r\n<li>can be removed from the office only in a manner that is similar to a judge of Supreme Court</li>\r\n</ol>\r\nWhich among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<ul>\r\n<li>First statement is not correct in case of India, while correct in case of UK. In our country, Speaker is not required to break away from his political party.</li>\r\n<li>The second statement is not correct. Speaker of Lok Sabha can be removed only by a resolution passed by the Lok Sabha by an absolute majority (ie, a majority of the total members of the House). The motion of removal must be supported by at least 50 members.</li>\r\n</ul>"
+}

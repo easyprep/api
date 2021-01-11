@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "a906c91e-c4b6-405c-8c1b-bf02f59b7245",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following participate(s) in election of Vice President of India? <ol> <li>Elected members of Lok Sabha and Rajya Sabha</li> <li>Nominated members of Lok Sabha and Rajya Sabha</li> <li>Elected members of State/UT legislative assemblies</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 and 2 Only",
+  "option2": "1 Only",
+  "option3": "1, 2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 and 2 Only",
+  "explanation": "Electoral College for election of vice president consists of members of both the houses of parliament (elected+nominated).It differs from that of Electoral College of presidential election which consists of elected members of both houses of parliament and state legislative assemblies."
+}

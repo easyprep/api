@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "06b31db3-2e35-48af-b185-2c7db09b1f09",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about a Constitutional Amendment Bill: <ol> <li>It can be introduced only in Lok Sabha</li> <li>It can be introduced either by a minister or by a private member</li> <li>It requires prior permission of president before being introduced</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because it can be introduced in either House of Parliament. Third statement is incorrect because it does not require prior permission of President before being introduced in the Parliament."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "9efd5840-9291-4d87-b4b1-1d83ff6c4d4a",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Alteration of boundaries of states in India is a statutory legislative activity, while changing the name of a state amounts to Constitutional Amendment</li>\r\n<li>The state legislatures have final say in the alternation of their boundaries</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "The second clause of first statement is wrong. The second statement is incorrect because states are asked for their view and they can put their view in stipulated time. However, even if a state says no, parliament has power to alter the boundaries. Thus final say is of Parliament."
+}

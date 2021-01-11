@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "666b1dad-8ed4-4d60-be3c-2a2b4017e90d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with respect to amendments in Indian Constitution: <ol> <li>The procedure laid down for its amendment is on the pattern of Constitution of USA</li> <li>For amendment in the federal provisions of the Constitution, the bill must also be ratified by the legislatures of half of the states by absolute majority.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because the procedure for amendment is on the pattern of Constitution of South Africa. Second statement is incorrect because it requires simple majority in state legislatures to ratify a constitutional amendment bill if changes in federal provisions are required."
+}

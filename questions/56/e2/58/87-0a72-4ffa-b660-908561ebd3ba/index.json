@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "56e25887-0a72-4ffa-b660-908561ebd3ba",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following courts come under Right to Information (RTI) Act in India?\r\n<ol>\r\n<li>Supreme Court of India</li>\r\n<li>High Courts of Indian States</li>\r\n<li>Subordinate Judiciary</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 3",
+  "option2": "Only 2 & 3",
+  "option3": "1, 2 & 3",
+  "option4": "Only 1",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "SC and HC are also covered under RTI along with subordinate judiciary."
+}

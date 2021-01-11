@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "be0572d1-aa48-4a52-b245-b763cd7050a4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about parliamentary privileges enjoyed by the houses and members of the Parliament: <ol> <li>The courts are prohibited from inquiring the proceedings of a house or its committees.</li> <li>No member of parliament can be arrested during the session of Parliament in civil cases or under preventive detention</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect because members of parliament can be arrested under preventive detention during the session of Parliament.&nbsp;"
+}

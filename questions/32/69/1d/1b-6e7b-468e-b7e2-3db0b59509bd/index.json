@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:37.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "32691d1b-6e7b-468e-b7e2-3db0b59509bd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the ordinance promulgating powers of Governor, consider the following statements?\r\n<ol>\r\n<li>Governor can promulgate an ordinance in a bicameral state only when both the houses are not in session</li>\r\n<li>Governor needs prior sanction of the president before promulgating an ordinance</li>\r\n</ol>\r\nWhich of the above is / are correct statements?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "First statement is not correct because governor can promulgate an ordinance when\r\n<ul>\r\n<li>the legislative assembly (in case of a unicameral legislature) is not in session</li>\r\n<li>(in case of a bicameral legislature) when both the Houses of the state legislature are not in session</li>\r\n<li>when either of the two Houses of the state legislature is not in session.</li>\r\n</ul>\r\nThe last provision implies that an ordinance can be promulgated by the governor when only one House (in case of a bicameral legislature) is in session because a law can be passed by both the Houses and not by one House alone. He cannot make an ordinance without the instructions from the President in certain cases but not all cases."
+}

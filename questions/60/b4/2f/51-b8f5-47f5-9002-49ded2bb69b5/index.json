@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "60b42f51-b8f5-47f5-9002-49ded2bb69b5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "If the President issues Proclamation of emergency at a time when Lok Sabha has been dissolved, what happens to such proclamation?",
+  "option1": "It cannot be effected till Lok Sabha is constituted again",
+  "option2": "It can be effected with approval from Rajya Sabha",
+  "option3": "It can be effected with approval of Vice President",
+  "option4": "President cannot issue proclamation of emergency when Lok Sabha is dissolved",
+  "option5": "",
+  "answer": "It can be effected with approval from Rajya Sabha",
+  "explanation": "When National emergency is proclaimed in such a case, Rajya Sabha needs to approve it first.Then whenever Lok Sabha constitutes, it has to pass the resolution for the same within 30 days from its first meeting."
+}

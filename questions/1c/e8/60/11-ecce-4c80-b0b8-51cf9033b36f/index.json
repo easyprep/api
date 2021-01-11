@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:58.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "1ce86011-ecce-4c80-b0b8-51cf9033b36f",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Distinct provisions for the education of children from 0 to 6 years have been provided in which of the following parts of Indian Constitution?\r\n<ol>\r\n<li>Fundamental Rights</li>\r\n<li>Fundamental duties</li>\r\n<li>Directive principles of State Policy</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Article 45 says - The State shall endeavour to provide early childhood care and education for all children until they complete the age of six years. The Eighty-sixth Constitutional Amendment Act has split the age group 0-14 years into two clear categories and these separate ages cover their interests under separate Articles in the Constitution. Article 21A as a fundamental right for age group 6-14 years and Article 45 a Directive Principle of State Policy for age of 0-6 years. Further, the amended Article 51A also says that \\\"who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years.\\\". So only DPSP enshrines these provisions."
+}

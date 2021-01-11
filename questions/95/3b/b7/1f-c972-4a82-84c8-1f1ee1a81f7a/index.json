@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "953bb71f-c972-4a82-84c8-1f1ee1a81f7a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>The Parliament of India is empowered to extend as well as curtail the jurisdiction of the Supreme Court</li>\r\n<li>The Parliament of India has no say in making rules for regulating the practice and procedure of the Supreme Court</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "First statement is not correct because parliament can extend but cannot curtail the jurisdiction and powers of the Supreme Court. Second statement is also incorrect because as per article 145, Subject to the provisions of any law made by Parliament, the Supreme Court may from time to time, with the approval of the President, make rules for regulating generally the practice and procedure of the Court. Thus, parliament has a say in this."
+}

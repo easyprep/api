@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "36de5324-a981-4816-afc2-37a2f2a5399d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "How the pardoning power of the Governor is different from President in India?\r\n<ol>\r\n<li>While President can pardon a death sentence given under central as well as state laws, Governor can pardon only in case of state law</li>\r\n<li>While president can pardon a sentence by Military Court, Governor has no such powers</li>\r\n</ol>\r\nSelect the correct option from codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Governor cannot pardon a death sentence. Even if a state law prescribes for death sentence, the power to grant pardon lies with the President and not the governor. But, the governor can suspend, remit or commute a death sentence. He does not possess any such power."
+}

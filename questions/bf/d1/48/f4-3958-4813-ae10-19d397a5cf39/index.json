@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "bfd148f4-3958-4813-ae10-19d397a5cf39",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following matches:\r\n<ol>\r\n<li>Tenth Schedule - provisions regarding anti-defection</li>\r\n<li>Seventh Schedule - allocates power and functions between Union and States</li>\r\n<li>Third Schedule - has forms of oaths or affirmations by constitutional office bearers</li>\r\n</ol>\r\nWhich among the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The seventh schedule of the constitution allocates the power and functions between union and states consist of union list, state list and concurrent list."
+}

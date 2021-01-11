@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "6e2a9a50-1d8a-40e1-8778-97f67a78c83b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements with respect to the political parties in India?\r\n<ol>\r\n<li>Every Political Party that is registered with Election Commission is called as recognized political party</li>\r\n<li>The election symbol of a \"state\" party is same throughout India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "All political parties must register themselves with the EC. However, not all parties that are registered with the EC are \\'recognised\\' by it. They have to fulfil certain criteria before they gain recognition, either as a state party or as a national party. The criteria for recognition are\r\n<ol>\r\n<li>Either that the party has been conducting its activities for a continuous period of five years</li>\r\n<li>Or that the party has got at least 4% of the votes polled in elections to the state assembly or the lok sabha in a particular state.</li>\r\n</ol>\r\nIncidentally, for computing this vote share, votes polled by a party in seats where it has forfeited its deposit are not taken into account. This is to discourage the practice of parties putting up non-serious candidates all over the state merely to meet the 4% cut-off. A party that meets the 4% criterion in a particular state is recognised as a \\'state party\\' in that state. To gain recognition as a national party, a party must be recognised as a state party in at least four states. Recognition is not a permanent thing. Parties that have once been recognised can be de-recognised, if they fail to meet the relevant criterion in subsequent elections. The main advantage of a party being recognised by the EC is that, it gains exclusive use of an election symbol for all its candidates. If it is a state party, a symbol is reserved for the use of that party all across the state. Similarly, if it is a national party, all its candidates anywhere in India will have the exclusive right to use the symbol allotted to the party. Thus parties like the BJP, the Congress, CPM and BSP, which are recognised as national parties, will have the same symbol anywhere in India. On the other hand, a TDP candidate outside Andhra Pradesh will not be entitled to the symbol reserved for the TDP in AP. In fact, the TDP in AP has the same symbol as the Samajwadi Party in UP."
+}

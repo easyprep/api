@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T23:11:33.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "c2cf0232-e206-46ff-88a0-f7e8592c5188",
+  "labels": "current-affairs,2018-07-07",
+  "question": "The Ministry of Coal has launched which mobile app to curb illegal coal mining activity in the coalfield areas of the country?",
+  "option1": "Khan Dost",
+  "option2": "Khan Prahari",
+  "option3": "Khan Saviour",
+  "option4": "Khan Rakshak",
+  "option5": "",
+  "answer": "Khan Prahari",
+  "explanation": "The Ministry of Coal has launched the Coal Mine Surveillance &amp; Management System (CMSMS) and ‘Khan Prahari’ mobile application in New Delhi. The basic purpose of CMSMS is reporting, monitoring and taking suitable action on unauthorised coal mining activities. The CMSMS is a Web-based GIS application through which location of sites for unauthorised mining can be detected. The basic platform used in the system is of Ministry of Electronics &amp; Information Technology’s (MeiTY) map which provides village level information. The leasehold boundary of all the coal mines will be displayed on this map. The system will use satellite data to detect changes by which unauthorised mining activity extending beyond the allotted lease area can be detected and suitable action can be taken on it. The ‘Khan Prahari’ app uses space technology to curb illegal coal mining activity in the coalfield areas of the country, and provides people with a platform where they can report such incidents. One can upload geo-tagged photographs of the incident along with textual information directly to the system."
+}

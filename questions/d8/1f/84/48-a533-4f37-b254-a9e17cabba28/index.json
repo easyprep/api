@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "d81f8448-a533-4f37-b254-a9e17cabba28",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are functions of the Committee on Estimates?\r\n<ol>\r\n<li>To suggest alternative policies to bring efficiency and economy in administration</li>\r\n<li>To bring out the cases of illegal, irregular, unauthorised expenses</li>\r\n<li>To check improper usage and wastage and extravagance in public expenditure</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The first statement is obviously correct. Second statement is also correct as this committee along with public accounts committee, and committee on public undertakings bring out the cases of illegal or improper use and wastage and prodigality in public expenditure. But the third statement is NOT correct. The financial committees examine the public expenditure <u>after it has been incurred by the Executive<em>.</em></u> So they can NOT check the extravagance. What all they do is post mortem."
+}

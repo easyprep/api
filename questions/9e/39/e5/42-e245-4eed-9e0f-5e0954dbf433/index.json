@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "9e39e542-e245-4eed-9e0f-5e0954dbf433",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In the context of Indian Parliament, consider the following statements about Committee on Estimates: <ol> <li>The committee consists of elected members only from Lok Sabha</li> <li>The committee examines the report of the Comptroller and Auditor General (CAG) of India</li> <li>The chairman of the Committee is appointed by the Speaker from among-st its members</li> </ol> Which of the above statements is/are correct?",
+  "option1": "3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1 and 3 Only",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 3 Only",
+  "explanation": "Second statement is incorrect because report of CAG is examined by the <strong>Public Accounts Committee</strong> (PAC)."
+}

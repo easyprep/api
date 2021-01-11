@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:36.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "d9173da0-d15a-44d7-8050-c8e862c83704",
+  "labels": "current-affairs,2018-08-04",
+  "question": "To enact a law on a state list subject, the Parliament of India requires prior __:\r\n<ol>\r\n<li>Authorization from Rajya Sabha</li>\r\n<li>Sanction from President</li>\r\n<li>Resolution to be passed in Lok Sabha</li>\r\n<li>Resolution to be passed by half of the state assemblies</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 4",
+  "option4": "Only 1, 3 & 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The above provision related to statement 1 has been enshrined in the Article 249. As per this article, the resolution has to be passed by two thirds of the members present and voting that it is necessary or expedient in the national interest in the Council of States and NOT the Lok Sabha. Rest all statements are incorrect."
+}

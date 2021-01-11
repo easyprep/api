@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "337bd7b1-438d-4a71-b493-40d42c3eb3aa",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>The jurisdiction of the Supreme Court can not be enlarged beyond what is fixed by constitution</li>\r\n<li>All administrative expenses of the Supreme Court, including salaries of servants of Supreme Court is charged from Consolidated Fund of India</li>\r\n<li>Court fee charged by Supreme Court of India makes a part of Consolidated Fund of India</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "The statement 1 is not correct as according to article 138(1) of the constitution Parliament can enlarge the jurisdiction and powers of the Supreme Court with regard to any matters in Union List. At the same time, the jurisdiction with regard to any other matter can be enlarged by a special agreement of Government of India and Government of any State.<br />The second and third statements are correct. The administrative expenses of the Supreme Court, including all salaries, allowances and pensions payable to or in respect of the officers and servants of the Court, shall be charged upon the Consolidated Fund of India, and any fees or other moneys taken by the Court shall form part of that Fund. { Article 146(3)}"
+}

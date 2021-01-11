@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:41.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "6f738df6-1422-4867-88ed-0ca6c62ace36",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>The disputes entertained by the Supreme Court of India with respect to Inter-state water disputes come under its original jurisdiction</li>\r\n<li>One can directly approach the Supreme Court for enforcement of the fundamental rights of an aggrieved citizen</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The disputes entertained by the Supreme Court of India with respect to Inter-state water disputes don’t come under original disputes. They are entertained as Special Leave Petitions as judiciary is barred from Interstate disputes. The second statement is correct"
+}

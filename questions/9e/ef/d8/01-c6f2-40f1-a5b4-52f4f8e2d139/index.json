@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-01T02:47:09.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "9eefd801-c6f2-40f1-a5b4-52f4f8e2d139",
+  "labels": "current-affairs,2018-07-02",
+  "question": "Which of the following apps have been launched by government in June 2018 to track and trace missing and abandoned children in India?",
+  "option1": "ReUnite",
+  "option2": "Scout",
+  "option3": "Rummage",
+  "option4": "Pathway",
+  "option5": "",
+  "answer": "ReUnite",
+  "explanation": "Union Minister Suresh Prabhu has launched a mobile application called ReUnite; helps to track and trace missing and abandoned children in India. It also uses Amazon Rekognition, web facial recognition service to identify missing kids."
+}

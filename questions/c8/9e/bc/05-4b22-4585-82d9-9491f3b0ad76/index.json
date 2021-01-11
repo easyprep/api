@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:38.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "c89ebc05-4b22-4585-82d9-9491f3b0ad76",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. While Finance Commission is a Constitutional body, the Planning Commission is a non-statutory institution<br> 2. The scope of the Finance Commission is limited to a review of the revenue segment of the budget while the Planning Commission takes an overall review embracing both capital and revenue requirements of the States.<br> Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "It is alleged that Planning Commission (India) (PC) which is neither a constitutional nor a statutory body has usurped the role of Finance Commission(FC). PC has restricted FC's role to mere recommend grants to states on revenue account only under article 275 of Indian constitution. Finance Commission assesses the non-plan requirements of the State Governments and recommends a share in the net yield from the Central and Grants-in-aid. The divisible sum of Central taxes is distributed inter se among the states based on independent criteria."
+}

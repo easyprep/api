@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "edb1d446-f897-4818-af18-8d6349c3ac95",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following judges tender their resignations to President of India?\r\n<ol>\r\n<li>A judge of High Court</li>\r\n<li>A judge of Supreme Court</li>\r\n<li>Chief Justice of a High Court</li>\r\n<li>Chief Justice of Supreme Court</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 3 & 4",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All the above give resignation to President."
+}

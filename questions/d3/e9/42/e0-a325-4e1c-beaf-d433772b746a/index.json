@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "d3e942e0-a325-4e1c-beaf-d433772b746a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>The chairman of the Central Administrative Tribunal is either a sitting or a retired judge of a High Court</li>\r\n<li>The provisions of Administrative Tribunals Act don't apply to armed forces</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The provisions of the Administrative Tribunals Act, 1985 do not apply to the following:\r\n<ul>\r\n<li>Members of paramilitary forces</li>\r\n<li>Armed forces of the Union</li>\r\n<li>Officers or employees of the Supreme Court</li>\r\n<li>Persons appointed to the Secretariat Staff of either House of Parliament or the Secretariat staff of State/Union Territory Legislatures.</li>\r\n<li>The CAT is headed by a chairman who must be either a sitting or a retired Judge of a High Court.</li>\r\n</ul>"
+}

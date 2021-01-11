@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-02T23:26:30.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "402b7be8-52b9-4db1-86d8-d7f761ecd338",
+  "labels": "current-affairs,2018-08-03",
+  "question": "What is the current repo rate, as per 3rd bi-monthly monetary policy review for of 2018-19 of the Reserve Bank of India (RBI)?",
+  "option1": 0.065,
+  "option2": 0.06,
+  "option3": 0.0625,
+  "option4": 0.0675,
+  "option5": "",
+  "answer": 0.065,
+  "explanation": "The Monetary Policy Committee (MPC) of the Reserve Bank of India (RBI) hiked policy repo rate by 25 basis points to 6.50% in its third bi-monthly monetary policy review of 2018-19. Repo rate is the rate at which the RBI lends money to commercial banks in the event of any shortfall of funds. Reverse repo rate, the rate at which the Reserve Bank borrows money from commercial banks within the country, was adjusted to 6.25%. Accordingly, the Marginal Standing Facility (MSF) rate and the Bank Rate too stand adjusted at 6.75%.  This time too, RBI has maintained neutral stance with an objective of achieving the medium-term target for headline inflation of 4 per cent while supporting growth."
+}

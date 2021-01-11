@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:40.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "a066c5bb-b6b0-4eee-893b-ce4ab0cd15c8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, PAC and CAG were making news. In this context, consider the following statements:\r\n<ol>\r\n<li>Public Accounts Committee examines the CAG report before it is presented in parliament</li>\r\n<li>Public Account Committee examines the demands of grants before the budget is presented in the parliament</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "With reference to first statement, the Public Accounts Committee examines the report of the Comptroller and Auditor-General of India after it is laid before the Parliament. Second statement is also incorrect."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:58.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "8cb83c5c-0164-4656-9e2f-fcdcb40134be",
+  "labels": "current-affairs,2018-07-07",
+  "question": "Consider the following comparisons of President and Vice-President of India:\r\n<ol>\r\n<li>Both President and Vice-President are parts of Indian Parliament</li>\r\n<li>Both President and Vice-President are elected by same electoral college</li>\r\n<li>Doubt and dispute arising out of election of President and as well as Vice President can be challenged only in the Supreme Court</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "<ul>\r\n<li><strong>Both President and Vice-President are parts of Indian Parliament: </strong>This is an incorrect statement because vice-president is not part of Indian Parliament.  The Constitution of India provides for a bicameral Parliament consisting of the President and two Houses known as the Council of States (Rajya Sabha) and the House of the People (Lok Sabha).</li>\r\n<li><strong>Both President and Vice-President are elected by same Electoral College</strong> : This is obviously incorrect because the Electoral College is different for election of President and Vice-President of India.</li>\r\n<li><strong>Doubt and dispute arising out of election of President and as well as Vice President can be challenged only in the Supreme Court: </strong>This is a correct statement.</li>\r\n</ul>"
+}

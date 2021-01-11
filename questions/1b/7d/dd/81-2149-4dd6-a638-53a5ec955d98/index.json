@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "1b7ddd81-2149-4dd6-a638-53a5ec955d98",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following resolutions/motions/bills require simple majority to be passed in the parliament? <ol> <li>No confidence motion</li> <li>Money Bill</li> <li>Removal of Chief Election Commissioner</li> <li>Creation of one or more new All India Services</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Only 1 and 2 are correct<br> For Creation of one or more new All India Services, the resolution must be passed by Rajya Sabha supported by not less than 2/3 of the members present and voting and then presented to Lok Sabha. The Chief Election Commissioner can be removed from office only through impeachment by parliament."
+}

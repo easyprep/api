@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-02T23:34:16.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "72bf23c5-02e1-4f95-9856-3368f07d5bb0",
+  "labels": "current-affairs,2018-08-03",
+  "question": "Which union ministry has launched a desktop software 'e-Aksharayan' to enable editing of text printed on scanned documents?",
+  "option1": "Ministry of Human Resource Development",
+  "option2": "Ministry of Electronics and Information Technology",
+  "option3": "Ministry of Information and Broadcasting",
+  "option4": "Ministry of Science and Technology",
+  "option5": "",
+  "answer": "Ministry of Electronics and Information Technology",
+  "explanation": "The Ministry of Electronics and Information Technology (MeitY) has launched a desktop software \\'e-Aksharayan\\' for converting any scanned or printed Indian language documents into a fully editable text format in Unicode encoding. The text can be also saved separately. The application is free of cost and supports editing in 7 Indian languages viz. Hindi, Bangla, Malayalam, Gurmukhi, Tamil, Kannada & Assamese."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "1181fbd3-1dd4-47d8-89aa-4b6f967b771c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with respect to the Ordinance making power of the President of India:<br> 1. The president of India can promulgate an ordinance only when both houses of parliament are in session<br> 2. An ordinance promulgated when either Lok Sabha or Rajya Sabha is in session is void<br> Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "President can promulgate an ordinance only when both the Houses of Parliament are not in session or when either of the two Houses of Parliament is not in session. An ordinance can also be issued when only one House is in session because a law can be passed by both the Houses and not by one House alone. An ordinance made when both the Houses are in session is void."
+}

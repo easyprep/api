@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "402cb15a-b59e-49d4-af01-a8c8a5532b3f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with respect to the Lok Sabha: <ol> <li>Lok Sabha must meet at least thrice each year with no more than four-month gap between sessions</li> <li>Question of disqualification on Ground of Defection is decided by the Speaker for MPs from Lok Sabha</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because Lok Sabha must meet at least twice with no more than six month between sessions"
+}

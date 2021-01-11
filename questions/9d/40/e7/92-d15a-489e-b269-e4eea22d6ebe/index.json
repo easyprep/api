@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "9d40e792-d15a-489e-b269-e4eea22d6ebe",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is incorrect about a Constitutional Amendment Bill?",
+  "option1": "President can withhold his assent to the bill but cannot return the bill for reconsideration of the parliament",
+  "option2": "There is no provision for joint sitting of the two Houses of parliament for passage of the bill",
+  "option3": "A constitutional amendment bill sometimes requires to be ratified by the state legislatures",
+  "option4": "A bill which seeks to amend the constitution does not require prior permission of president to be introduced in the parliament",
+  "option5": "",
+  "answer": "President can withhold his assent to the bill but cannot return the bill for reconsideration of the parliament",
+  "explanation": "First statement is incorrect because president can neither withhold his assent to the bill nor return the bill for reconsideration of the Parliament. Third statement is correct because a constitutional amendment bill which seeks to amend the federal character of the constitution requires to be ratified by the state legislatures"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "9aa9d7b1-10c5-405b-a810-e1fe61559eff",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following authorities: <ol> <li>Attorney General of India</li> <li>Comptroller and Auditor General of India</li> <li>Chief Justice of India</li> </ol> Which of the above hold(s) the office during the pleasure of President?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Chief Justice of India can be removed from office by President only on the ground of proved misbehaviour or incapacity. The power for investigation and proof of such misbehaviour or incapacity is vested in the parliament. Each house, in order to remove the judge, will have to pass a resolution which is supported by 2/3rd of members present and voting and majority of the total membership of the house {absolute + special majority}. Similarly, CAG can&nbsp;only be removed from office in like manner and on like grounds as a Judge of the Supreme Court."
+}

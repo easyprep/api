@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:39.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "a09c226a-233b-421b-a627-ec9f127d721c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following provisions of the constitution of India can be enforced by writs?<br> 1. Fundamental Rights<br> 2. Fundamental Duties<br> 3. Directive Principles of State Policy<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "DPSP and Fundamental duties are not <em>enforceable by law.</em>"
+}

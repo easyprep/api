@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:39.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "77fcfea0-44b2-484a-a8ff-9ef1c32e0680",
+  "labels": "current-affairs,2018-08-04",
+  "question": "To resolve the deadlock upon which of the following bills, a joint session of the Parliament can be summoned?\r\n<ol>\r\n<li>Constitutional amendment bill</li>\r\n<li>Ordinary bill</li>\r\n<li>Money bill</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The President can call joint sessions of the parliament if a bill passed by one House is rejected by the other House or if the amendments proposed to a bill by one House are not acceptable to the other House, does not take any action on a bill remitted to it for six months. The deadlock over a bill in a joint sitting is resolved by present and voting. Since the Lok Sabha has a larger membership in a joint sitting generally the will of the Lok Sabha prevails. After the passage of the bill in a joint sitting it is presented to the President for his assent. But no joint sitting can be summoned to resolve a deadlock in case of a Money bill or a Constitutional Amendment bill."
+}

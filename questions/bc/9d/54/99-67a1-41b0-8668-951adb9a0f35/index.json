@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:39.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "bc9d5499-67a1-41b0-8668-951adb9a0f35",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Vote on Account:<br> 1. consists only expenditure<br> 2. is generally obtained by an interim Government<br> 3. permits withdrawal of money from Public Account of India<br> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The Indian Constitution says that all revenues received by the Union government are to be put into the Consolidated Fund of India. Since Parliament is not able to vote the entire budget before the commencement of the new financial year (like now, with elections round the corner), is necessary to keep enough money at the government’s disposal to allow it to run the administration. A special provision is, therefore, made for a ‘vote-on-account’ by which the government obtains the vote of Parliament for a sum sufficient to incur expenditure for a part of the year. This sanction of Parliament for withdrawal of money from the Consolidated Fund of India to meet the government’s expenses is generally known as a vote-on-account."
+}

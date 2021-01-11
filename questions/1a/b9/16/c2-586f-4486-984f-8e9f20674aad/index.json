@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "1ab916c2-586f-4486-984f-8e9f20674aad",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following office holders can be removed only by president of India?\r\n<ol>\r\n<li>Chairman of state public service commission</li>\r\n<li>Governor of the state</li>\r\n<li>State election commissioner</li>\r\n</ol>\r\nWhich of the above can be removed only by the President?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Governor of a state holds the office during the pleasure of the President. Chairman of state public service commission and state election commissioner though appointed by Governor of the state but can be removed only by the President."
+}

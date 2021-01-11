@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-07-06T20:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:24.480Z",
+  "id": "193da40d-cff2-45b7-b947-a67b689b7ee1",
+  "labels": "current-affairs,2018-07-07",
+  "question": "The High Courts in India have been empowered to issue writs against violation of which of the following?\r\n<ol>\r\n<li>Fundamental Rights</li>\r\n<li>Ordinary Law</li>\r\n<li>Directive Principles</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The power to issue writs for the enforcement of fundamental rights has been given by the Constitution to the Supreme Court and also to the High Courts. (Articles 32 and 226). Supreme Court, however, can issue writs under Article 32 only for the enforcement of the fundamental rights, whereas the High Courts acting under Article 226 can issue writs for enforcing fundamental rights as well as for redress of any injury or illegality arising out of violation of ordinary law."
+}
