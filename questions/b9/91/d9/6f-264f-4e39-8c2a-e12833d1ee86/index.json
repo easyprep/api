@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-15T22:01:15.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "b991d96f-264f-4e39-8c2a-e12833d1ee86",
+  "labels": "current-affairs,2017-12-16",
+  "question": "Consider the following statements:1. To execute an arbitrage deal, one has to simultaneously enter into deals in two markets where the price differential exists2. There are Mutual funds, which can help in arbitrage for the investorsWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Arbitrage is an investment strategy aimed at capturing the price differential between two or more markets to earn a risk-free profit. To execute an arbitrage deal, one has to simultaneously enter into deals in two markets where the price differential exists. The second statement is correct and Mutual funds come to the rescue of those who intend to take the arbitrage route but lack the expertise. The schemes here aim to make risk-free profits, by capturing the price differentials across markets arising out of the inefficiencies of the markets."
+}

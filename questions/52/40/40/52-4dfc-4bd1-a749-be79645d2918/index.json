@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T20:31:34.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "52404052-4dfc-4bd1-a749-be79645d2918",
+  "labels": "current-affairs,2017-12-20",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Dispersion</li>\r\n<li>Total Internal Reflection</li>\r\n<li>Refraction</li>\r\n</ol>\r\n<br />What gives natural diamond it's sparkle?",
+  "option1": 1,
+  "option2": "1,2",
+  "option3": "1,2,3",
+  "option4": "2,3",
+  "option5": "",
+  "answer": "1,2,3",
+  "explanation": "The sparkling of diamond is because of Dispersion, Refraction and Total Internal reflection. All of them gives the diamond a sparkling effect."
+}

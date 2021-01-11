@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-20T15:50:24.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "24b7f604-9d90-4aea-98eb-0adafc8a432b",
+  "labels": "current-affairs,2017-12-21",
+  "question": "Speed of sound is maximum in which among the following?",
+  "option1": "Solids",
+  "option2": "liquids",
+  "option3": "Gases",
+  "option4": "Vaccum",
+  "option5": "",
+  "answer": "Solids",
+  "explanation": "The speed of sound decreases when we go from solid to gaseous state."
+}

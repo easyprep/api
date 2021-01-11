@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-15T17:32:40.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "d0d8b3e8-93bb-487e-8e28-8404901f6dc7",
+  "labels": "current-affairs,2017-12-16",
+  "question": "What is the maximum gap / interval between two sessions of parliament?",
+  "option1": "30 days",
+  "option2": "50 days",
+  "option3": "6 months",
+  "option4": "12 months",
+  "option5": "",
+  "answer": "6 months",
+  "explanation": "From time to time, the sessions of the parliament are called upon by president. According to constitution, the maximum gap between two sessions cannot be more than six months. Thus, in each year, there must be two sessions of parliament. However, there are usually three sessions viz. Budget session (between February to May), Monsoon Session (between July to September) and Winter Session (Between November to December)."
+}

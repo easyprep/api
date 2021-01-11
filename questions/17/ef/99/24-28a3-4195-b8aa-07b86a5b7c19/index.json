@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T21:01:49.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "17ef9924-28a3-4195-b8aa-07b86a5b7c19",
+  "labels": "current-affairs,2017-12-20",
+  "question": "On which among the following dates Earth may be on Perihelion (Closest to Sun)?",
+  "option1": "2021-01-03T18:30:00.000Z",
+  "option2": "2021-06-20T18:30:00.000Z",
+  "option3": "2021-03-21T18:30:00.000Z",
+  "option4": "2021-12-20T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-01-03T18:30:00.000Z",
+  "explanation": "The point in the orbit where the planet is closest to the Sun is called \\\"perihelion\\\". The point where the planet is farthest from the Sun is called \\\"aphelion\\\"."
+}

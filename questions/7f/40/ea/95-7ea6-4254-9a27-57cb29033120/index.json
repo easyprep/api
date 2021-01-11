@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-16T17:36:09.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "7f40ea95-7ea6-4254-9a27-57cb29033120",
+  "labels": "current-affairs,2017-12-17",
+  "question": "If in a closed room , the door of a refrigerator is kept open for some time , the temperature of room will ?",
+  "option1": "Increase",
+  "option2": "Decrease",
+  "option3": "Remains same",
+  "option4": "First decrease then become stable",
+  "option5": "",
+  "answer": "Increase",
+  "explanation": "A refrigerator is like a heat engine. It extracts heat from low temperature reservoir and transfer it to high temperature. If a refrigerator's door is kept open, then room will become hot, because then refrigerator exhaust more heat into the room than earlier."
+}

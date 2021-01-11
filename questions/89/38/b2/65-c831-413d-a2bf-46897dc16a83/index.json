@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-14T16:55:41.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "8938b265-c831-413d-a2bf-46897dc16a83",
+  "labels": "current-affairs,2017-12-15",
+  "question": "What is the approximate ratio of parts of Indian Coast belonging to Peninsular India to that belonging to Andaman, Nicobar, and Lakshadweep Islands?",
+  "option1": "2:1",
+  "option2": "2.5:1",
+  "option3": "3:1",
+  "option4": "3.5:1",
+  "option5": "",
+  "answer": "2.5:1",
+  "explanation": "Total Coast - 7,517 kilometres,\r\nPeninsular India - 5,423 kilometres,\r\nAndaman, Nicobar, and Lakshadweep Islands- 2,094 kilometres.\r\n5423÷2094 - 2.59<br />"
+}

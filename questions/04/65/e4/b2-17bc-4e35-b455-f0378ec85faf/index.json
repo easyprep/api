@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T18:22:27.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "0465e4b2-17bc-4e35-b455-f0378ec85faf",
+  "labels": "current-affairs,2017-12-20",
+  "question": "Ad Valorem Tax is levied on the basis of which among the following?",
+  "option1": "Volume",
+  "option2": "Value",
+  "option3": "Production",
+  "option4": "Export",
+  "option5": "",
+  "answer": "Value",
+  "explanation": "Ad valorem tariff is calculated on the basis of the value of the imported good, expressed as a percentage of such value. For example, an ad valorem tariff of 10% on an imported car worth US$ 10000 would lead to a requirement to pay US$ 1000 as customs duty."
+}

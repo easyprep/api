@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T21:46:18.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "a7abb57f-7ed3-4944-8b03-6f0ae567861c",
+  "labels": "current-affairs,2017-12-20",
+  "question": "The time required by earth in 360 degree rotation to make a star return to the same position is called …………day?",
+  "option1": "Solar Day",
+  "option2": "Sidereal Day",
+  "option3": "Real Day",
+  "option4": "Synodic day",
+  "option5": "",
+  "answer": "Sidereal Day",
+  "explanation": "The spinning of the earth on its polar axis is in fact takes 23 hours, 56 minutes and 4.09 seconds for rotation through the 360 degree. This is called sidereal day. During the time needed by the Earth to complete a rotation around its axis (a sidereal day), the Earth moves a short distance (approximately 1°) along its orbit around the sun. So, after a sidereal day, the Earth still needs to rotate a small additional angular distance before the sun reaches its highest point. A solar day is, therefore, nearly 4 minutes longer than a sidereal day.<br />  <br />"
+}

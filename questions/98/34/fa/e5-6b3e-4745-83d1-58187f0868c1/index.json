@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-21T21:02:26.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "9834fae5-6b3e-4745-83d1-58187f0868c1",
+  "labels": "current-affairs,2017-12-22",
+  "question": "Which among the following is used by Reserve Bank of India for “sterilization of the Capital Inflows”?<br />",
+  "option1": "Base Rate System",
+  "option2": "CRAR Obligations",
+  "option3": "Open Market Operations",
+  "option4": "Credit Authorization Scheme",
+  "option5": "",
+  "answer": "Open Market Operations",
+  "explanation": "Open Market Operations refer to the purchase and sale of the Government securities (G-Secs) by RBI from / to market. The objective of Open Market Operations is to adjust the rupee liquidity conditions in the economy on a durable basis.\r\nWhen RBI sells government security in the markets, the banks purchase them. When the banks purchase Government securities, they have a reduced ability to lend to the industrial houses or other commercial sectors. This reduced surplus cash, contracts the rupee liquidity and consequently credit creation / credit supply. When RBI purchases the securities, the commercial banks find them with more surplus cash and this would create more credit in the system.\r\nThus, in the case of excess liquidity, RBI resorts to sale of G-secs to suck out rupee from system. Similarly, when there is a liquidity crunch in the economy, RBI buys securities from the market, thereby releasing liquidity."
+}

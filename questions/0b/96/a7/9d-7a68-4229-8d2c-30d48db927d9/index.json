@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T18:41:10.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "0b96a79d-7a68-4229-8d2c-30d48db927d9",
+  "labels": "current-affairs,2017-12-20",
+  "question": "Birth rate is number of births per ………….of the population during one year.",
+  "option1": 100,
+  "option2": 1000,
+  "option3": 10000,
+  "option4": 100000,
+  "option5": "",
+  "answer": 1000,
+  "explanation": "Births are usually measured using the birth rate i.e. the number of live births per 1,000 people. Deaths are usually measured using the death rate i.e. the number of deaths per 1,000 people. Migrations is the movement of people in and out of an area. Births and deaths are the natural causes of population change. The difference between the birth rate and the death rate of a country is called the natural growth rate"
+}

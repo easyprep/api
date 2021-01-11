@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-20T16:00:52.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "aa2e25a2-941c-4d2a-a08c-6120012d4b82",
+  "labels": "current-affairs,2017-12-21",
+  "question": "Which compound of mercury is used as antiseptic?",
+  "option1": "Mercuric sulphide",
+  "option2": "Mercuric oxide",
+  "option3": "Mercuric chloride",
+  "option4": "Mercuric iodide",
+  "option5": "",
+  "answer": "Mercuric chloride",
+  "explanation": "Mercury chloride (HgCl2) is a highly toxic compound that volatizes slightly at ordinary temperature and appreciably at 100 degrees C. It is corrosive to mucous membranes and used as a topical antiseptic and disinfectant."
+}

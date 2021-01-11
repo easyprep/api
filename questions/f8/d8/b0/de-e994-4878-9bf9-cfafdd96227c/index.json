@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-21T23:44:23.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "f8d8b0de-e994-4878-9bf9-cfafdd96227c",
+  "labels": "current-affairs,2017-12-22",
+  "question": "Consider the following statements about a Non-Banking Financial Company (NBFC):\r\n<ol>\r\n<li>An NBFC cannot accept demand deposits;</li>\r\n<li>An NBFC is not a part of the payment and settlement system</li>\r\n<li>An NBFC cannot issue cheques drawn on itself</li>\r\n<li>Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation is not available for NBFC depositors</li>\r\n</ol>\r\nWhich among the above is/ are correct statements?",
+  "option1": 1,
+  "option2": "1,2",
+  "option3": "1,2,3",
+  "option4": "1,2,3,4",
+  "option5": "",
+  "answer": "1,2,3,4",
+  "explanation": ""
+}

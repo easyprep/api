@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-16T18:54:01.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "ead5299c-3715-4faf-b13d-11667499fff9",
+  "labels": "current-affairs,2017-12-17",
+  "question": "What is the maximum life of an ordinance promulgated by President of India?",
+  "option1": "6 months",
+  "option2": "7.5 months",
+  "option3": "8 months",
+  "option4": "10 months",
+  "option5": "",
+  "answer": "7.5 months",
+  "explanation": "Article 123 of the Indian constitution empowers the President to promulgate ordinances. This mechanism has been devised to enable the executive to deal with a situation that may suddenly and immediately arise when the Parliament is not in session (either one or both houses). As maximum gap between two session of a house can be 6 months therefore maximum life of a ordinance can be 6 months and 6 weeks, which is roughly 7.5 months."
+}

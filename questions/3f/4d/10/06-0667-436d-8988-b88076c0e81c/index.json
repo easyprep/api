@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-21T00:51:37.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "3f4d1006-0667-436d-8988-b88076c0e81c",
+  "labels": "current-affairs,2017-12-22",
+  "question": "On which planet, due to its clockwise (east to west) rotation on the axis, the Sun rises in the west and sets in the east ?",
+  "option1": "Mercury",
+  "option2": "Venus",
+  "option3": "Earth",
+  "option4": "Mars",
+  "option5": "",
+  "answer": "Venus",
+  "explanation": "Venus rotates on its polar axis backwards compared to Earth, so a Venus sunrise occurs in the west and sunset in the east."
+}

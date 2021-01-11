@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-21T21:31:13.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "922d3657-dc2b-4c9e-82d2-2905a3459535",
+  "labels": "current-affairs,2017-12-22",
+  "question": "In Economy, the Gini coefficient deals with which among the following?",
+  "option1": "Income / Population Ratio",
+  "option2": "Variation in Economic Growth",
+  "option3": "Distribution of wealth",
+  "option4": "National income by type of income",
+  "option5": "",
+  "answer": "Distribution of wealth",
+  "explanation": "Gini coefficient represents the income distribution of a country’s residents. It was developed by the Italian statistician and sociologist Corrado Gini. It measures the inequality. The coefficient ranges from zero to one, with zero representing perfect equality and one showing perfect inequality. The higher is the Gini Coefficient, more is gap between rich and poor in a country. If the value of Gini Coefficient is 1, it implies that all wealth of that country belongs to one person and everybody else is poor. The 0 value of Gini Coefficient implies that all people have exactly equal wealth. Practically, the Gini Coefficient value falls between 0 and 1 for all the countries."
+}

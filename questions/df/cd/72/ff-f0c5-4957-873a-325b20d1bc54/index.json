@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-20T17:01:56.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "dfcd72ff-f0c5-4957-873a-325b20d1bc54",
+  "labels": "current-affairs,2017-12-21",
+  "question": "Which among the following is NOT taken into account while choosing an orbit of the Satellite?",
+  "option1": "Earth’s radius",
+  "option2": "Gravitational force of the earth",
+  "option3": "Mass of the satellite",
+  "option4": "Distance from Earth",
+  "option5": "",
+  "answer": "Mass of the satellite",
+  "explanation": "Mass of satellite is not taken into account while choosing an orbit of the satellite. Gravity place a key role. The radius of earth, distance from earth are taken into consideration."
+}

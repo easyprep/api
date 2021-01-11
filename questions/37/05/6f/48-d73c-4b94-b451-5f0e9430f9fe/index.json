@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-22T17:37:27.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "37056f48-d73c-4b94-b451-5f0e9430f9fe",
+  "labels": "current-affairs,2017-12-23",
+  "question": "In India the Parliament is made up of ___:\r\n<ol>\r\n<li>Lok Sabha</li>\r\n<li>Rajya Sabha</li>\r\n<li>President</li>\r\n<li>Vice President</li>\r\n<li>Lok Sabha Speaker</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "1,2",
+  "option2": "1,2,3",
+  "option3": "1,2,3,4",
+  "option4": "1,2,3,4,5",
+  "option5": "",
+  "answer": "1,2,3",
+  "explanation": "India has a bicameral parliament made of President, Rajya Sabha (Upper House / Council of States) and Lok Sabha (Lower House / House of People). While Rajya Sabha represents states and union territories, Lok Sabha represents people of India."
+}

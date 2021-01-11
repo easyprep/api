@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-22T16:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "6b97ade5-3fe5-4bf5-8aaf-87697da7c3d9",
+  "labels": "current-affairs,2017-12-23",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Chile is the largest producer of Copper in the World</li>\r\n<li>”Chileanisation of copper” refers to the process used in Chile for Copper extraction</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?<br />",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The First statement is correct. Chile is the largest producer of Copper in world. The second statement is incorrect. Chileanisation of copper refers to the nationalization of some Chile copper mines that began in 1950`s and lasted in three phases."
+}

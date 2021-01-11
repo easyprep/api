@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-15T21:56:33.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "a3ba22dd-9653-4238-a0a6-7fe4580b6577",
+  "labels": "current-affairs,2017-12-16",
+  "question": "Consider the following:1. Dated Securities2. T-Bills3. Certificates of Deposit (CDs)4. Municipal Bonds\r\nThe Individuals in India can invest in which among the above?",
+  "option1": 1,
+  "option2": "1,2",
+  "option3": "1,2,3",
+  "option4": "1,2,3,4",
+  "option5": "",
+  "answer": "1,2,3,4",
+  "explanation": ""
+}

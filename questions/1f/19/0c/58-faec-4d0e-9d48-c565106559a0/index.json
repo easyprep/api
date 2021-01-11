@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T23:48:24.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "1f190c58-faec-4d0e-9d48-c565106559a0",
+  "labels": "current-affairs,2017-12-20",
+  "question": "How many members of Rajya Sabha are nominated by President of India?",
+  "option1": 2,
+  "option2": 10,
+  "option3": 12,
+  "option4": 15,
+  "option5": "",
+  "answer": 12,
+  "explanation": "Rajya Sabha is the upper house of parliament which represents the states and union territories. Its membership is fixed to maximum 250 members of which 238 are elected by the representatives of states and union territories while 12 members are nominated by President on account of their excellence in literature, science, art or social service"
+}

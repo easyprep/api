@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-20T15:53:50.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "761438f3-ca4d-4bd3-8a4b-cc11bc0a6d6b",
+  "labels": "current-affairs,2017-12-21",
+  "question": "Which among the following gas is abundant on atmosphere of Mars ?",
+  "option1": "Carbon Dioxide",
+  "option2": "Nitrogen",
+  "option3": "Argon",
+  "option4": "Carbon Monoxide",
+  "option5": "",
+  "answer": "Carbon Dioxide",
+  "explanation": "The Curiosity rover sent by NASA which landed on Mars on August 6, 2012 with the aim to explore the Red Planet has confirmed that its air is made mostly of carbon dioxide with hints of other gases"
+}

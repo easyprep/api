@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-12T13:45:06.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "793c53f5-b8c6-469d-be46-4aaf13b84823",
+  "labels": "current-affairs,2017-12-13",
+  "question": "In which among the following years, RMS Titanic sank?",
+  "option1": 1911,
+  "option2": 1912,
+  "option3": 1913,
+  "option4": 1914,
+  "option5": "",
+  "answer": 1912,
+  "explanation": "RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in 15 April 1912, after it collided with an iceberg during its maiden voyage from Southampton to New York City."
+}

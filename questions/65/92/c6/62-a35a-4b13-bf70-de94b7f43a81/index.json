@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T17:29:23.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "6592c662-a35a-4b13-bf70-de94b7f43a81",
+  "labels": "current-affairs,2017-12-20",
+  "question": "Which among the following kinds of lenses are used to treat Astigmatism?",
+  "option1": "Convex Lens",
+  "option2": "Concave Lens",
+  "option3": "Bifocal Lens",
+  "option4": "Cylindrical",
+  "option5": "",
+  "answer": "Cylindrical",
+  "explanation": "Astigmatism is due to imperfect spherical nature of eye lens. The focal length of eye lens is in two orthogonal directions become different so they cannot see objects in two orthogonal directions simultaneously. This defect in direction can be removed by using cylindrical lens in a particular direction.<br />  <br />"
+}

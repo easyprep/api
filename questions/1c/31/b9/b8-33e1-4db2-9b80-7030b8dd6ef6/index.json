@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-12T18:31:19.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "1c31b9b8-33e1-4db2-9b80-7030b8dd6ef6",
+  "labels": "current-affairs,2017-12-13",
+  "question": "Which of the following is / are correct statements about Co-enzymes?\r\n<ol>\r\n<li>They assist in biochemical transformations</li>\r\n<li>They are organic molecules comprising C,H,O and N</li>\r\n<li>Most of Co-enzymes are Proteins</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Co-enzymes are either organic or inorganic. They are non proteinous and linked to proteins. Vitamins that work as enzymes are called Co-enzymes<br />"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-21T16:29:02.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "f883eb16-56bc-4c91-8972-cb437411d0c6",
+  "labels": "current-affairs,2017-12-22",
+  "question": "Chandrashekhar Limit, postulated by Dr S. Chandrashekhar posts a limit of mass of which among the following?",
+  "option1": "Neutron Star",
+  "option2": "White Dwarf",
+  "option3": "Steller Black Hole",
+  "option4": "Young stellar object",
+  "option5": "",
+  "answer": "White Dwarf",
+  "explanation": "In 1931, the astrophysicist Subrahmanyan Chandrasekhar theorised that a star would not form a stable white dwarf at the end of its life if its mass was greater than 1.44 times the solar mass (1.44 Ms). This is known as the Chandrasekhar limit, above which the white dwarf will explode as what is called a “Type 1a supernova”. This work fetched Chandrasekhar the Nobel Prize in 1983.<br />"
+}

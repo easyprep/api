@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-10T22:49:01.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "e55b65c9-d45b-4a3f-a6e8-3824f73d1421",
+  "labels": "current-affairs,2017-12-11",
+  "question": "When a tube light breaks, a cracking sound is produced because ____?",
+  "option1": "Pressure inside the lamp is less than atmospheric pressure",
+  "option2": "Pressure inside the lamp is more than atmospheric pressure",
+  "option3": "The lamp is filled with reactive gases",
+  "option4": "The lamp is filled with mercury vapour",
+  "option5": "",
+  "answer": "Pressure inside the lamp is less than atmospheric pressure",
+  "explanation": "A fluorescent lamp tube is filled with a gas containing low pressure mercury vapor and argon, xenon, neon, or krypton. The pressure inside the lamp is around 0.3% of atmospheric pressure."
+}

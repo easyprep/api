@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-14T17:58:30.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "7fb2c662-6b54-451d-8c1b-234a87750618",
+  "labels": "current-affairs,2017-12-15",
+  "question": "Consider the following statements about Bodo Language:\r\n<ol>\r\n<li>It is an official language of Assam</li>\r\n<li>It is one of the 22 Languages of 8th Schedule of Constitution of India</li>\r\n<li>It is written in Devanagari Script</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All the given statements are correct. Bodo was used to be written in Latin script earlier but now Devnagari script is used. It has its own lost script called Deodhai. It is one of the 22 scheduled languages and is currently official language of Assam (Bodoland) along with Assamese and Bengali (in Barak Valley)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-10T22:50:04.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "fe8ed2ee-436a-42e0-a13f-1fef8abe37dd",
+  "labels": "current-affairs,2017-12-11",
+  "question": "Which gas is used in making of Vanaspati ghee from vegetable oils?",
+  "option1": "N2",
+  "option2": "NO2",
+  "option3": "H2",
+  "option4": "Ne",
+  "option5": "",
+  "answer": "H2",
+  "explanation": "Vanaspati ghee is manufactured from vegetable oil by a process called ‘hydrogenation’. By passing hydrogen gas. Vegetable Oil contains unsaturated fatty acids; upon hydrogenation it is converted into saturated fatty acids to form vanaspati ghee."
+}

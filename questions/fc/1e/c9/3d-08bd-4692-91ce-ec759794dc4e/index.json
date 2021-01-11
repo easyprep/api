@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T18:52:36.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "fc1ec93d-08bd-4692-91ce-ec759794dc4e",
+  "labels": "current-affairs,2017-12-20",
+  "question": "\"Bad money (if not limited in quantity) drives good money out of circulation\". Which law in economics says this?",
+  "option1": "Keynes’ law",
+  "option2": "Wagner’s law",
+  "option3": "Gresham’s law",
+  "option4": "Grimm’s law",
+  "option5": "",
+  "answer": "Gresham’s law",
+  "explanation": "Gresham's law states that \"bad money drives out good\". For example, if there are two forms of commodity money in circulation, which are accepted by law as having similar face value, the more valuable commodity will gradually disappear from circulation."
+}

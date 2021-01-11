@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-10T23:47:35.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "b23cb589-720f-45b0-8f91-c47aba6e8a88",
+  "labels": "current-affairs,2017-12-11",
+  "question": "Bring out the only correct statement in context with Uranium: <br />",
+  "option1": "Both U-235 and U-238 are fissile but only U-235 can sustain chain reactions",
+  "option2": "Only U-235 is fissile and can sustain chain reaction but U-238 is fertile",
+  "option3": "U-238 can be used in chain reactions only after extracting U-235 from it",
+  "option4": "Uranium enrichment is a process where concentration of U-238 is increased using some chemical processes",
+  "option5": "",
+  "answer": "Only U-235 is fissile and can sustain chain reaction but U-238 is fertile",
+  "explanation": "<p class=\\\"answer\\\"><span style=\\\"font-size: 13.5pt; color: black;\\\">C is not correct because U-238 will support chain reactions after it is converted to plutonium-239. D is also incorrect because its concentration of U-235 that matters."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-14T20:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "129a7ecc-40fb-4847-b054-847db4b81d5a",
+  "labels": "current-affairs,2017-12-15",
+  "question": "The rate at which RBI purchases or rediscounts bills of exchange of commercial banks is called?",
+  "option1": "Repo rate",
+  "option2": "Reverse repo rate",
+  "option3": "Bank rate",
+  "option4": "Base rate",
+  "option5": "",
+  "answer": "Bank rate",
+  "explanation": "Bank Rate refers to the official interest rate at which RBI will provide loans to the banking system which includes commercial / cooperative banks, development banks etc. Such loans are given out either by direct lending or by rediscounting (buying back) the bills of commercial banks and treasury bills. Thus, bank rate is also known as discount rate. Bank rate is used as a signal by the RBI to the commercial banks on RBI’s thinking of what the interest rates should be.\r\nBank Rate and Repo Rate seem to be similar terms because in both of them RBI lends to the banks. However, Repo Rate is a short-term measure and it refers to short-term loans and used for controlling the amount of money in the market. On the other hand, Bank Rate is a long-term measure and is governed by the long-term monetary policies of the RBI. In broader term, bank rate is the rate of interest which a central bank charges on the loans and advances that it extends to commercial banks and other financial intermediaries. RBI uses this tool to control the money supply.<br />"
+}

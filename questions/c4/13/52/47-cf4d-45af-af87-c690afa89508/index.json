@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T21:07:21.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "c4135247-cf4d-45af-af87-c690afa89508",
+  "labels": "current-affairs,2017-12-20",
+  "question": "What is the amount of Iron in Earth (percentage in total mass)?",
+  "option1": 0.245,
+  "option2": 0.346,
+  "option3": 0.393,
+  "option4": 0.424,
+  "option5": "",
+  "answer": 0.346,
+  "explanation": "The iron makes up about 34.6% of Earth's mass and 5.2% of Earth's crust. The other metals there are aluminium, silicon etc. The abundant metal Iron is truly one of Earth's essential building blocks."
+}

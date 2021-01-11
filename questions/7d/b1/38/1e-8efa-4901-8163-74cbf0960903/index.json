@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-10T22:25:55.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "7db1381e-8efa-4901-8163-74cbf0960903",
+  "labels": "current-affairs,2017-12-11",
+  "question": "Which among the following is a Noble Gas?",
+  "option1": "Nitrogen",
+  "option2": "Hydrogen",
+  "option3": "Oxygen",
+  "option4": "Helium",
+  "option5": "",
+  "answer": "Helium",
+  "explanation": "The noble gases are the chemical elements in group 18 of the periodic table. They are the most stable due to having the maximum number of valence electrons their outer shell can hold. This chemical series contains helium, neon, argon, krypton, xenon, and radon."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-21T18:51:22.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "8030ac7c-d281-4a3a-9559-fd5d2b465829",
+  "labels": "current-affairs,2017-12-22",
+  "question": "A bill initiated by which among the following is a Government Bill?",
+  "option1": "Member of Parliament from Ruling Party / Coalition",
+  "option2": "Minister",
+  "option3": "Member of parliament from opposition party",
+  "option4": "Either 1 or 2",
+  "option5": "",
+  "answer": "Minister",
+  "explanation": "If a bill is introduced in the house by a minister, it is called government bill or public bill. If the bill is introduced by any other member than a minister, it is called private member bill.  A private member bill can be introduced by both ruling party and opposition MPs.<br />"
+}

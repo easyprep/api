@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-20T16:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "802b1efc-b35d-41d1-8210-e76db3088223",
+  "labels": "current-affairs,2017-12-21",
+  "question": "Hydraulic Brakes work on which principle?",
+  "option1": "Pascal’s Principle",
+  "option2": "Archimedes Principle",
+  "option3": "Newton’s Laws",
+  "option4": "Casini’s Laws",
+  "option5": "",
+  "answer": "Pascal’s Principle",
+  "explanation": "In 1647 the French scientist Blaise Pascal (1623–1662) discovered that water exerts the same pressure in all directions. This statement is known as Pascal’s Principle.\r\nPascal’s law states that increase in pressure at a point in the enclosed liquid in equilibrium is transmitted equally in all directions in liquid and to the Walls of the container. The working of hydraulic lift, hydraulic press and hydraulic brakes are based on Pascal’s law."
+}

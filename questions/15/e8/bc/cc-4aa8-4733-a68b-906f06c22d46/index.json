@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-12T19:34:18.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "15e8bccc-4aa8-4733-a68b-906f06c22d46",
+  "labels": "current-affairs,2017-12-13",
+  "question": "What is the number of Galilean moons of Jupiter discovered by Galileo Galilei in January 1610?",
+  "option1": 2,
+  "option2": 3,
+  "option3": 4,
+  "option4": 5,
+  "option5": "",
+  "answer": 4,
+  "explanation": "Four satellites of Jupiter Io, Europa, Ganymede and Callisto are popularly referred to as the Galilean moons. This is because these moons were discovered by astronomer Galileo Galilei in January 1610."
+}

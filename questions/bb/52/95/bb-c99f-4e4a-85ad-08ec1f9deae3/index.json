@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-14T20:48:31.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "bb5295bb-c99f-4e4a-85ad-08ec1f9deae3",
+  "labels": "current-affairs,2017-12-15",
+  "question": "Where do the Commercial Banks keep the liquid assets under the Statutory Liquidity Ratio?",
+  "option1": "With RBI",
+  "option2": "With other banks",
+  "option3": "In the Market",
+  "option4": "With Themselves",
+  "option5": "",
+  "answer": "With Themselves",
+  "explanation": "The banks and other financial institutions in India have to keep a fraction of their total net time and demand liabilities in the form of liquid assets such as G-secs, precious metals, approved securities etc. The Ratio of these liquid assets to the total demand and time liablities is called Statutory Liquidity Ratio. \r\nComponents of SLR include cash in hand, gold owned by the bank, balance with RBI, Net balance in current account &amp; Investment in Government securities. SLR has to be maintained at the close of business on every day.\r\nCRR and SLR have been the traditional instruments of Reserve Bank of India’s monetary control policy. CRR indicates the quantum of cash that banks are required to keep with the Reserve Bank as a proportion of their net demand and time liabilities (NDTL). SLR prescribes the amount of money that banks must invest in securities issued by the government. This is not kept with RBI but with banks themselves.<br /> <br />"
+}

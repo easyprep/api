@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-20T20:49:48.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "bd9c0c8a-e225-4ba9-8bce-e2b4c988bfec",
+  "labels": "current-affairs,2017-12-21",
+  "question": "Which among the following has the power to legislate on the matters which are neither in the Union List, nor in the State list nor in the Concurrent list of the Constitution of India?",
+  "option1": "Parliament",
+  "option2": "State Legislatures",
+  "option3": "Both State legislatures and Parliament",
+  "option4": "Neither Parliament nor State legislature",
+  "option5": "",
+  "answer": "Parliament",
+  "explanation": "The subjects which are not enlisted in Union/ State/ Concurrent List are called Residuary subjects. The power to legislate on residuary subjects lies with the parliament."
+}

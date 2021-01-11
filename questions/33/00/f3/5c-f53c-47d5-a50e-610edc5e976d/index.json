@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-16T18:32:31.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "3300f35c-f53c-47d5-a50e-610edc5e976d",
+  "labels": "current-affairs,2017-12-17",
+  "question": "Which of the following is / are permanent houses?\r\n<ol>\r\n<li>Legislative Council</li>\r\n<li>Upper House of Parliament</li>\r\n<li>Municipal Council</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "<strong>Legislative Council</strong>\r\nLegislative council is the upper house of the state legislature in India. These are permanent houses as every two years, one-third of the total number of members \\\"retire\\\" in rotation and the house is not dissolved.\r\n<strong>Upper House of Parliament</strong>\r\nRajya Sabha is also a permanent house and is never dissolved. Its 2/3<sup>rd</sup> members retire every two years.\r\n<strong>Municipal Council</strong>\r\nMunicipal Councils are not permanent. They are constituted after local body elections."
+}

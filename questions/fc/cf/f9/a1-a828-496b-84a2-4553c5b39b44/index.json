@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-11T21:33:30.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "fccff9a1-a828-496b-84a2-4553c5b39b44",
+  "labels": "current-affairs,2017-12-12",
+  "question": "The Core inflation is different from the general inflation because of the following?",
+  "option1": "Core Inflation is caused by the supply Shock in certain essential commodities",
+  "option2": "Core Inflation is the sudden increase in certain items of food grains",
+  "option3": "Core Inflation is the inflation rate of a particular basket of commodities",
+  "option4": "Core Inflation is just a misnomer",
+  "option5": "",
+  "answer": "Core Inflation is the inflation rate of a particular basket of commodities",
+  "explanation": "Core Inflation is the rate of inflation calculated to exclude certain items that are subject to sudden and short-lived price movements, mainly food and energy. Core inflation is considered a better indicator of overall long-term than un-adjusted headline inflation."
+}

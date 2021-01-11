@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-22T17:23:30.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "6f348982-4977-419f-89b4-da2757d37dd3",
+  "labels": "current-affairs,2017-12-23",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Central Government</li>\r\n<li>State Governments</li>\r\n</ol>\r\nWhich among the above can levy the taxes on agricultural revenues?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "By default, agricultural income is exempted from taxation and not included under total income. The Central Government can’t impose or levy tax on agricultural income. The exemption clause is mentioned under Section 10 (1) of the Income Tax Act, 1961.\r\nHowever, state governments can charge agricultural tax. As of the latest amendment, income from agriculture, if within INR 50000 in a financial year, will not be accounted for tax purposes. Anything above that will be taxable as per the applicable rates."
+}

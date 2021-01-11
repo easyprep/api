@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-19T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:12.458Z",
+  "id": "dd8abe12-5b7a-4312-af76-4dffaa9b3689",
+  "labels": "current-affairs,2017-12-20",
+  "question": "The use of SIM cards is mandatory in which among the following kind of mobile services?",
+  "option1": "GSM",
+  "option2": "CDMA",
+  "option3": "CDMA 2000",
+  "option4": "UMTS",
+  "option5": "",
+  "answer": "GSM",
+  "explanation": "The use of SIM cards is mandatory in GSM. The Global System for Mobile Communications is a standard developed by the European Telecommunications Standards Institute to describe the protocols for second-generation digital cellular networks used by mobile devices such as mobile phones and tablets. It was first deployed in Finland in December 1991."
+}
