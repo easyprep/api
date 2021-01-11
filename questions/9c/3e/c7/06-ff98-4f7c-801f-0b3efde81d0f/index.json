@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-05-08T00:08:30.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "9c3ec706-ff98-4f7c-801f-0b3efde81d0f",
+  "labels": "current-affairs,2017-05-09",
+  "question": "Which committee has been constituted by the Insolvency and Bankruptcy Board of India (IBBI) to lay down technical standards for performance of core services?",
+  "option1": "R B Barman committee",
+  "option2": "Nand Lal Sarda committee",
+  "option3": "Pulak Ghosh committee",
+  "option4": "V G Kannan committee",
+  "option5": "",
+  "answer": "R B Barman committee",
+  "explanation": "The Insolvency and Bankruptcy Board of India (IBBI) has constituted a technical Committee in accordance with Regulation 14 of the IBBI (Information Utilities) Regulations, 2017. The committee will be headed by Dr. R. B. Barman, who is the chairman of National Statistical Commission (NSC). The committee shall give its recommendation for laying down Technical Standards for the performance of core services like the Application Programming Interface, standard terms of service, registration of users, unique identifier for each record and each user, etc."
+}

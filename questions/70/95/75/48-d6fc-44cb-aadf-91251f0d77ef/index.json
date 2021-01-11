@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-02-03T14:01:56.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "70957548-d6fc-44cb-aadf-91251f0d77ef",
+  "labels": "current-affairs,2017-02-04",
+  "question": "Which of the following statements is / are correct with respect to Carbon Credits? <br />1. Certified Emission Reduction (CER) certificate is an titlement of Carbon Credits<br />2. Transfer of carbon credits is taxable in India<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Finance Bill 2017 has proposed to levy a tax of 10% on income earned on transfer of carbon credits.  Carbon credits are an incentive given to an industrial undertaking for reduction in emission of GHGs (green house gases), including carbon dioxide, which is done through several ways such as by switching over to wind and solar energy, or installation of energy-efficient machinery. The Kyoto Protocol commits certain developed countries to reduce their GHG emissions, and for this they will be given carbon credits. A reduction in emissions entitles the entity to a credit in the form of a Certified Emission Reduction (CER) certificate. The CER is tradeable and its holder can transfer it to an entity that needs carbon credits to overcome an unfavourable position on the same. Many Indian companies hold such CERs."
+}

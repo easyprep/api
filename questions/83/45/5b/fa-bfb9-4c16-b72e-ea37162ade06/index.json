@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-27T19:08:21.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "83455bfa-bfb9-4c16-b72e-ea37162ade06",
+  "labels": "current-affairs,2017-03-28",
+  "question": "Consider the following statements in context with the election of Secretary General of the United Nations:\r\n<ol>\r\n<li>A person can become secretary general of United Nations for not more than 2 times</li>\r\n<li>The appointment of Secretary General is done by the United Nations Security Council</li>\r\n<li>A person from either permanent members or non-permanent members only can become a secretary general</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "1. A person can become secretary general of United Nations for not more than 2 times This is an incorrect statement. There are no specific criteria for the post, but over the years, it has become accepted that the post shall be held for one or two terms of five years, that the post shall be appointed on the basis of geographical rotation, and that the Secretary-General shall not originate from one of the five permanent Security Council member states 2. The appointment of Secretary General is done by the United Nations Security Council This is also a wrong statement. The Secretary-General is appointed by the General Assembly, after being recommended by the Security Council, where the permanent members have veto power. 3. A person from either permanent members or non-permanent members only can become a secretary general This is also a wrong statement."
+}

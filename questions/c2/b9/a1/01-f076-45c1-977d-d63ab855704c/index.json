@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-04-02T19:18:11.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "c2b9a101-f076-45c1-977d-d63ab855704c",
+  "labels": "current-affairs,2017-04-03",
+  "question": "Which city has become the first Indian city to offer 1Gbps wired broadband internet service?",
+  "option1": "Chennai",
+  "option2": "Hyderabad",
+  "option3": "Bangaluru",
+  "option4": "Kochi",
+  "option5": "",
+  "answer": "Hyderabad",
+  "explanation": "The Atria Convergence Technologies (ACT) Fibrenet has recently launched 1 Gigabit per second wired broadband internet service in Hyderabad. With this launch, Hyderabad has become the India\\'s first ‘Giga-enabled’.  ACT Fibrenet uses fiber optic technology and its 1 Gbps offering is 400 times faster than the average internet speed of 2.5 megabits per second in India.  Giga speeds will allow downloads from the internet faster than transferring data from a USB drive and will be available for Rs 5,999 per month."
+}

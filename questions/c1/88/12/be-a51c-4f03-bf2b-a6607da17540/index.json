@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-05-02T22:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "c18812be-a51c-4f03-bf2b-a6607da17540",
+  "labels": "current-affairs,2017-05-03",
+  "question": "What is the India’s GDP forecast for 2017, as per latest UN report “The Economic and Social Survey of Asia and the Pacific 2017”?",
+  "option1": 0.071,
+  "option2": 0.075,
+  "option3": 0.072,
+  "option4": 0.074,
+  "option5": "",
+  "answer": 0.071,
+  "explanation": "The UN Economic and Social Commission for Asia and the Pacific (ESCAP) has released its annual flagship report \\'The Economic and Social Survey of Asia and the Pacific 2017\\' on May 1, 2017. As per the report, India is expected to achieve 7.1% GDP growth rate in 2017, as re-monetisation restores consumption, and infrastructure spending increases. The report stated that India\\'s growth would edge up to 7.5% in 2018. Though, it warned that the country faces heightened risks related to the concentration of bad loans in the public sector banks."
+}

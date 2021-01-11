@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-01-31T16:37:51.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "d2dd94be-d507-4679-b0a7-e8d88dfc1e05",
+  "labels": "current-affairs,2017-02-01",
+  "question": "Which of the following is / are fund managers for National Pension System (NPS) currently:\r\n<ol>\r\n<li>HDFC Pension Fund</li>\r\n<li> Kotak Pension Fund</li>\r\n<li>Reliance Capital Pension</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "At present, there are only seven NPS fund managers viz. HDFC Pension Fund, ICICI Prudential Pension, Kotak Pension Fund, LIC Pension Fund,  Reliance Capital Pension, SBI Pension Fund and UTI Retirement Solutions."
+}

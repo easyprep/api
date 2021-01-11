@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-26T16:05:50.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "3d65a3f2-2c28-4727-a649-499450ebe107",
+  "labels": "current-affairs,2017-03-27",
+  "question": "Which among the following fertilizers is least likely to affect the Soil pH?",
+  "option1": "Urea",
+  "option2": "Rock Phosphate",
+  "option3": "Ammonia",
+  "option4": "Muriate of potash",
+  "option5": "",
+  "answer": "Muriate of potash",
+  "explanation": "In comparison to N and P, the K fertilizers are least likely to affect the soil pH. Also note that among N, P and K, Nitrogen is the main nutrient affecting soil pH. Nitrogen fertilizers can make soil more acidic as well as more alkaline."
+}

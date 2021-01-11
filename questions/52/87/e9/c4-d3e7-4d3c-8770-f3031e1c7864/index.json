@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-04-08T23:14:53.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "5287e9c4-d3e7-4d3c-8770-f3031e1c7864",
+  "labels": "current-affairs,2017-04-09",
+  "question": "The Union Government has launched CPS programme to deal with autonomous unmanned vehicles. What does 'CPS' stands for?",
+  "option1": "Cyber Physical Science",
+  "option2": "Cyber Physical Systems",
+  "option3": "Cyber Physical Security",
+  "option4": "Cyber Physical Securitization",
+  "option5": "",
+  "answer": "Cyber Physical Systems",
+  "explanation": "The Department of Science and Technology (DST) has launched Cyber Physical Systems (CPS) programme to deal with self-driven cars, autonomous unmanned vehicles and aircraft navigation systems. The CPS is an interdisciplinary field that deals with the deployment of computer-based systems that do things in the physical world. For instance, the self-driven cars produced by Google and Tesla."
+}

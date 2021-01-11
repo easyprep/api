@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-29T13:00:18.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "aeb5b0ec-1170-4f99-9a77-6efe45df746e",
+  "labels": "current-affairs,2017-03-30",
+  "question": "Recently, the Cabinet has approved merge of 5 associate banks of SBI with the parent bank SBI. What will be the approximate market share of the banking giant produced via this merger?",
+  "option1": 0.1,
+  "option2": 0.15,
+  "option3": 0.2,
+  "option4": 0.25,
+  "option5": "",
+  "answer": 0.25,
+  "explanation": "Union Cabinet has approved the proposal for merger of State Bank of Bikaner & Jaipur (SBBJ), State Bank of Patiala (SBP), State Bank of Mysore (SBM), State Bank of Travancore (SBT), and State Bank of Hyderabad (SBH) with the parent, State Bank of India. This merger will create a banking giant, having 1/4 of market share in India’s banking sector (in terms of loans and deposits), with an asset base of about Rs 40 lakh crore from Rs 23 lakh crore."
+}

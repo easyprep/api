@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-27T19:08:21.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "80a8581e-f2ed-4ecd-937d-5c6231f28ff1",
+  "labels": "current-affairs,2017-03-28",
+  "question": "Which of the following is NOT a correct statement with respect to Freedom of speech and expression in India?",
+  "option1": "It is enshrined in Part III of the Constitution",
+  "option2": "It is not an absolute right to express one's thoughts freely",
+  "option3": "It can not be curtailed by legislation",
+  "option4": "It can be suspended in emergency",
+  "option5": "",
+  "answer": "It can not be curtailed by legislation",
+  "explanation": "Since this right is not absolute, it can be curtailed by legislation by parliament. During emergency, Article 19 is eclipsed by the superior right of the State to enact laws abrogating freedoms of a citizen (under Article 358). The suspension of Article 19 continues so long as the proclamation of such emergency is in operation1 and automatically revives when the proclamation cases to operate."
+}

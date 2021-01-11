@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-29T13:00:18.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "62efc5f5-2c60-4dfa-b2c5-3a4b6d065fff",
+  "labels": "current-affairs,2017-03-30",
+  "question": "The stocks of which of the following banks are not considered for calculation of \"Bank NIFTY\"?",
+  "option1": "Kotak Mahindra Bank",
+  "option2": "Punjab National Bank",
+  "option3": "Yes Bank",
+  "option4": "Bank of India",
+  "option5": "",
+  "answer": "Bank of India",
+  "explanation": "The Bank Index commonly known as \\\"NIFTY BANK\\\" or \\\"Bank NIFTY\\\" was launched by India Index Service and Product Limited (IISL) in the year 2000. The index has 12 most liquid and large capitalised stocks from the banking sector which trade on the National Stock Exchange (NSE). It provides investors and market intermediaries a benchmark that captures the capital market performance of Indian Banking sector.  At present (June, 2018) , these banks include HDFC Bank, Kotak bank, State Bank Of India, ICICI Bank, Axis Bank, INDUSIND Bank, Yes Bank, Bank of Baroda, RBL Bank, Punjab National Bank And Federal Bank."
+}

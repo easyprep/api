@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-29T13:00:18.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "f86dfaca-f1fe-48ff-b6e4-2ad6739eb09e",
+  "labels": "current-affairs,2017-03-30",
+  "question": "Which of the following rates is used by banks in India as a reference to price the rupee loans and advances?",
+  "option1": "Bank Rate",
+  "option2": "Base Rate",
+  "option3": "MCLR Rate",
+  "option4": "Repo Rate",
+  "option5": "",
+  "answer": "MCLR Rate",
+  "explanation": "As per RBI guidelines, all rupee loans & advances disbursed and credit limits renewed from 9/2/2017 onwards are to be priced with reference to the above MCLR rates."
+}

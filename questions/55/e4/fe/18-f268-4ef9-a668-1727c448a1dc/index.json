@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-02-23T23:40:22.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "55e4fe18-f268-4ef9-a668-1727c448a1dc",
+  "labels": "current-affairs,2017-02-24",
+  "question": "Which union ministery has launched the Botnet Cleaning and Malware Analysis Centre (BCMAC) for analysis of malware and botnets that affect networks and systems?",
+  "option1": "Ministry of Science and Technology",
+  "option2": "Ministry of Electronics and Information Technology",
+  "option3": "Ministry of Information and Broadcasting",
+  "option4": "Ministry of Earth Sciences",
+  "option5": "",
+  "answer": "Ministry of Electronics and Information Technology",
+  "explanation": "The Ministry of Electronics and Information Technology (MeitY) has launched Cyber Swachhta Kendra - Botnet Cleaning and Malware Analysis Centre (BCMAC) to provide free anti-virus to computers and mobile phones for removing malicious softwares. This is a part of Digital India initiative and is operated by the Indian Computer Emergency Response Team (CERT-In) under provisions of Section 70B of the Information Technology Act, 2000. The Centre aims to enhance coordination between the Government and industry in order to encourage cyber hygiene among all end-users and to create a secure and safe internet ecosystem in India."
+}

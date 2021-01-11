@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-02-03T14:15:42.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "4a89d58d-183c-4ff4-b0ae-b514344c4b33",
+  "labels": "current-affairs,2017-02-04",
+  "question": "In terms of IT jargon, a \"Daemon\" represents__:",
+  "option1": "A computer virus",
+  "option2": "A background process in computers",
+  "option3": "A software needed to run  certain programmes",
+  "option4": "An input hardware",
+  "option5": "",
+  "answer": "A background process in computers",
+  "explanation": "Daemon stands for disk and execution monitor (daemon) which is a background process run to perform admin changes or monitor services."
+}

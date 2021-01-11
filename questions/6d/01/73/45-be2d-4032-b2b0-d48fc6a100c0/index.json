@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-02-02T11:22:58.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "6d017345-be2d-4032-b2b0-d48fc6a100c0",
+  "labels": "current-affairs,2017-02-03",
+  "question": "The share of direct taxes in India's tax kitty peaked in 2009-10 at 60% and thereafter, it has consistently fallen. Which of the following is the most appropriate reason for the same?",
+  "option1": "There was a substantial reduction in direct tax rates in the country",
+  "option2": "The consumption pattern and economic growth were affected by economic recession",
+  "option3": "The share of indirect taxes increased substantially",
+  "option4": "None of the above is an appropriate reason",
+  "option5": "",
+  "answer": "The share of indirect taxes increased substantially",
+  "explanation": "In October 2018, a Time series data released by the Central Board of Direct Taxes (CBDT) showed that the share of direct taxes in total taxes rose every year through the first decade of this century — going from 36.31% in 2000-01 to 60.78% in 2009-10. Thereafter it has fallen mainly because of rise of \\\"service tax\\\" collections in the country. Service Tax is now subsumed in GST. \r\nIndirect taxes are said to be regressive in nature as they do not distinguish between poor and rich, and therefore, higher proportion of indirect taxes in total tax collection is not considered ideal."
+}

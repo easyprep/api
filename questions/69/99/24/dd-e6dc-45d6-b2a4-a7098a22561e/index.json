@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-11T00:00:28.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "699924dd-e6dc-45d6-b2a4-a7098a22561e",
+  "labels": "current-affairs,2017-03-12",
+  "question": "Which company has become the first Indian power utility to successfully deploy tele-protection service using Line-Differential Relay (LDR) over an IP/MPLS network?",
+  "option1": "Tata Power-DDL",
+  "option2": "Adani Power",
+  "option3": "Jindal Steel and Power",
+  "option4": "Reliance Power",
+  "option5": "",
+  "answer": "Tata Power-DDL",
+  "explanation": "The Tata Power Delhi Distribution Limited (TATA Power-DDL) has become the first Indian power utility to successfully implement teleprotection service using Line-Differential Relay (LDR) over an IP/MPLS network because of the deal with Nokia. The Nokia IP/MPLS technology has improved the reliability, scalability, security and efficiency of power distribution.  The Nokia’s enhanced system will allow Tata Power-DDL to receive nearly instant updates of any fault in its infrastructure and reroute power through alternative lines to minimize the disruption to the end consumer. The system connects all grid stations and ensures there is tele-protection and in case there is a fault, then it can be addressed immediately. Apart from the network upgradation, Nokia’s system also provides more traditional business applications such as Customer Relationship Management (CRM), Enterprise Resource Planning (ERP) and video surveillance systems."
+}

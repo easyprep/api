@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-04-06T23:36:11.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "a427fb6f-34fe-4320-bb1c-62ff25c9b75c",
+  "labels": "current-affairs,2017-04-07",
+  "question": "Who has won the 2016 ACM A.M. Turing Award?",
+  "option1": "Michael Stonebraker",
+  "option2": "Martin E. Hellman",
+  "option3": "Leslie Lamport",
+  "option4": "Tim Berners-Lee",
+  "option5": "",
+  "answer": "Tim Berners-Lee",
+  "explanation": "Sir Timothy John Berners-Lee, a professor at Massachusetts Institute of Technology and the University of Oxford, has been bestowed with the 2016 ACM A.M. Turing Award for inventing the World Wide Web (WWW), the first web browser, and the fundamental protocols and algorithms allowing the Web to scale. The ACM Turing Award is often referred to as the “Nobel Prize of Computing,” which is presented by the Association for Computing Machinery (ACM) to an individual selected for contributions of a technical nature made to the computing community. The annual award carries a $1 million prize, with financial support provided by Google Inc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-03-29T23:58:07.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "4d73f239-fa0e-455a-baae-a99d41820f66",
+  "labels": "current-affairs,2017-03-30",
+  "question": "Truecaller has partnered with which bank to launch its UPI-based mobile payment service \"Truecaller Pay\"?",
+  "option1": "HDFC Bank",
+  "option2": "ICICI Bank",
+  "option3": "State Bank of India",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "Truecaller has partnered with ICICI Bank to launch its new Unified Payments Interface (UPI)-based mobile payment service “Truecaller Pay” for Indian Truecaller users. The users will be able to create their unique Virtual Payment Address (VPA) in the app and can instantly send or receive money using any UPI supported bank or an UPI ID or via mobile numbers registered with BHIM App. It can be used to transfer money, recharge phone as well as pay postpaid phone bills. The non-ICICI bank users can register on to Truecaller Pay app as well."
+}

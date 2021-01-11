@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-02-23T23:34:08.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "b3ac412c-c200-44d4-977d-9bcac5752f1d",
+  "labels": "current-affairs,2017-02-24",
+  "question": "What is the India's GDP forecast for FY 17, as per latest report by the International Monetary Fund (IMF)?",
+  "option1": 0.072,
+  "option2": 0.068,
+  "option3": 0.066,
+  "option4": 0.07,
+  "option5": "",
+  "answer": 0.066,
+  "explanation": "According to the annual report of International Monetary Fund, India’s GDP growth has been projected to 6.6% in FY 17 due to the strains that have emerged in the economy as a result of temporary disruptions caused by demonetisation. It expects growth to rebound to 7.2% in FY18."
+}

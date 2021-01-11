@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-05-02T23:03:42.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "d6cfacbf-6a44-4d95-8681-17c77061a6a4",
+  "labels": "current-affairs,2017-05-03",
+  "question": "Which state has become the first Indian state to use Automated Weather Stations (AWS) for farmers?",
+  "option1": "Kerala",
+  "option2": "Punjab",
+  "option3": "Assam",
+  "option4": "Maharashtra",
+  "option5": "",
+  "answer": "Maharashtra",
+  "explanation": "The Maharashtra government has recently launched the state’s first Automated Weather Stations (AWS) at Dongargaon in Nagpur. With this, the state has become the first Indian state to install first-of-its-kind service for farmers. Around 2,065 such weather stations will also  install at the village/mandal level across Maharashtra. The AWS will be helpful in measuring the wind direction, wind speed, air temperature, relative humidity, and record the amount of rainfall. The gathered information will be shared among the farmers by making them available on Mahavedh portal (Maharashtra agriculture weather information network) as well as on the Skymet mobile application."
+}

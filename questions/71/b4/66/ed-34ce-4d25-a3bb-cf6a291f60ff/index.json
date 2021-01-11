@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-01-31T16:26:50.000Z",
+  "updated_at": "2021-01-06T08:24:08.793Z",
+  "id": "71b466ed-34ce-4d25-a3bb-cf6a291f60ff",
+  "labels": "current-affairs,2017-02-01",
+  "question": "Apart from Google, which of the following is a correct set of subsidiaries of Alphabet Inc.?",
+  "option1": "Calico, DeepMind, Nest Labs, Waymo",
+  "option2": "Calico, Softimage, NetCarta, Firefly",
+  "option3": "DeepMind, NestLabs, Instagram, Whatsapp",
+  "option4": "Calico, Instagram, Nest Labs, Waymo",
+  "option5": "",
+  "answer": "Calico, DeepMind, Nest Labs, Waymo",
+  "explanation": "<ul>\r\n<li>Calico, DeepMind, Nest Labs, Waymo are subsidiaries of Alphabet Inc. whose major subsidiary is Google. </li>\r\n<li>Softimage, NetCarta and Firefly are subsidiaries of Microsoft. </li>\r\n<li>Instagram and Whatsapp are subsidiaries of Facebook. </li>\r\n</ul>"
+}
