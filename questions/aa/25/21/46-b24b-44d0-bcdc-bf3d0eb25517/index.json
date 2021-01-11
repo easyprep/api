@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T16:47:22.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "aa252146-b24b-44d0-bcdc-bf3d0eb25517",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Which among the following disease has the minimum incubation period, comparing to other ones?",
+  "option1": "Small Pox",
+  "option2": "Influenza",
+  "option3": "Measles",
+  "option4": "Mumps",
+  "option5": "",
+  "answer": "Influenza",
+  "explanation": "Influenza (1-2 days) , rest are 6-15 days"
+}

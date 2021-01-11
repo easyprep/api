@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T22:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "946db64e-805f-48ec-9424-e20150e3c723",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Which among the following correctly represents a Parsec?",
+  "option1": "0.326 Light Years",
+  "option2": "3.261 Light Years",
+  "option3": "32.61 Light Years",
+  "option4": "3.026 Light Years",
+  "option5": "",
+  "answer": "3.261 Light Years",
+  "explanation": "One parsec is approximately equal to 31 trillion kilometres (19 trillion miles), or 210,000 astronomical units, and equates to about 3.3 light-years."
+}

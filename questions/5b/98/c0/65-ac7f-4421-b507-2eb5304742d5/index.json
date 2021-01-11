@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T23:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "5b98c065-ac7f-4421-b507-2eb5304742d5",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Which among the following property of the matter is studied in “Rheology”?",
+  "option1": "Gravitation",
+  "option2": "Viscosity",
+  "option3": "Magnetic Properties",
+  "option4": "Entropy",
+  "option5": "",
+  "answer": "Viscosity",
+  "explanation": "Rheology is the study of the flow of matter, primarily in a liquid or gas state. It is related to Viscosity. In the science of rheology, a fluid's changes are measured when there are actual forces (mechanical shear or pump pressure) induced."
+}

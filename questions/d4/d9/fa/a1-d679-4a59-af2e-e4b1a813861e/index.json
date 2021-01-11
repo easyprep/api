@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-01T22:40:03.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "d4d9faa1-d679-4a59-af2e-e4b1a813861e",
+  "labels": "current-affairs,2018-02-02",
+  "question": "Which among the following gas is used as reference to calculate “<strong>Global Warming Potential (GWP)</strong>“?",
+  "option1": "Carbon Dioxide",
+  "option2": "Methane",
+  "option3": "Ozone",
+  "option4": "Nitrogen Di-oxide",
+  "option5": "",
+  "answer": "Carbon Dioxide",
+  "explanation": "Global warming potential (GWP) is defined as the heat absorbed by the greenhouse gas in the atmosphere, as a multiple of the heat that would be absorbed by the same mass of CO2. GWP is 1 for CO2. For other gases it depends on the gas and circumstances."
+}

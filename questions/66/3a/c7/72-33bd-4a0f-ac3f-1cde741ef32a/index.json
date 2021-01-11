@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T22:19:39.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "663ac772-33bd-4a0f-ac3f-1cde741ef32a",
+  "labels": "current-affairs,2018-01-24",
+  "question": "Which among the following states has highest population density?",
+  "option1": "Maharastra",
+  "option2": "Bihar",
+  "option3": "West Bengal",
+  "option4": "Uttar Pradesh",
+  "option5": "",
+  "answer": "Bihar",
+  "explanation": "The population density of India in 2011 was 382 per sq.km. Bihar with 1,106 population persons per sq.km is most thickly populated state followed by West Bengal (1,028) and Kerala (860)."
+}

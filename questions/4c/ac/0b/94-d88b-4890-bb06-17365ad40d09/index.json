@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T20:52:12.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "4cac0b94-d88b-4890-bb06-17365ad40d09",
+  "labels": "current-affairs,2018-01-24",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>If a commodity has a low price, it shall tend to keep low price elasticity</li>\r\n<li>The price elasticity of rice is less than price elasticity of Wheat </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "Both rice and Wheat are necessities and demand is inelastic"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-29T00:15:44.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "13e223b7-2184-46fe-8c7c-f36eaa35b57b",
+  "labels": "current-affairs,2018-01-30",
+  "question": "What is the number of the Chromosomes affected by <strong>Turner syndrome</strong>?",
+  "option1": 44,
+  "option2": 45,
+  "option3": 46,
+  "option4": 47,
+  "option5": "",
+  "answer": 45,
+  "explanation": "Chromosomes number 45 is affected by Turner syndrome. Turner syndrome is a condition which affects only females. It results when one of the X chromosomes (sex chromosomes) is missing or partially missing."
+}

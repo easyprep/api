@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T14:08:43.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "2ed746ea-27cf-470d-8be6-f6c67e88dab1",
+  "labels": "current-affairs,2018-01-25",
+  "question": "What fraction of Body’s calcium is stored in Bones and teeth?",
+  "option1": 0.85,
+  "option2": 0.9,
+  "option3": 0.94,
+  "option4": 0.99,
+  "option5": "",
+  "answer": 0.99,
+  "explanation": "99% of body’s calcium is stored in Bones and teeth. The remainder of the calcium is present in blood, extracellular fluid, muscle, and other tissues. It plays a role in mediating vascular contraction and vasodilation, muscle contraction, nerve transmission, and glandular secretion."
+}

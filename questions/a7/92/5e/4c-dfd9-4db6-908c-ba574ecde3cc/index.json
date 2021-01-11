@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T17:33:35.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "a7925e4c-dfd9-4db6-908c-ba574ecde3cc",
+  "labels": "current-affairs,2018-01-25",
+  "question": "One Torr is equivalent to how many mm of Mercury?",
+  "option1": "1 mm",
+  "option2": "10 mm",
+  "option3": "100 mm",
+  "option4": "0.1 mm",
+  "option5": "",
+  "answer": "1 mm",
+  "explanation": "The torr is a unit of pressure based on an absolute scale. It is equal to 1 mm of mercury."
+}

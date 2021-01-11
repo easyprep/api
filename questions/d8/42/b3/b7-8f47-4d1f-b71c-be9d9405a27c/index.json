@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T00:04:45.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "d842b3b7-8f47-4d1f-b71c-be9d9405a27c",
+  "labels": "current-affairs,2018-01-25",
+  "question": "\"Svedberg Unit” is a unit of _________?",
+  "option1": "Concentration",
+  "option2": "Size",
+  "option3": "Density",
+  "option4": "Time",
+  "option5": "",
+  "answer": "Time",
+  "explanation": "Svedberg unit (S/ Sv) is a unit for sedimentation coefficients. It offers a measure of size of the particle based on sedimentation rate under acceleration. It calculates how fast the particle settles to the bottom of the solution. Svedberg unit is a measure of time (exactly 10−13 seconds)."
+}

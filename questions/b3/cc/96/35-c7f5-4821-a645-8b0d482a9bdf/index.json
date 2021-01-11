@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T22:34:28.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "b3cc9635-c7f5-4821-a645-8b0d482a9bdf",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Which among the following waves are most commonly used in the Night Vision Devices?",
+  "option1": "Microwaves",
+  "option2": "Infra Red Waves",
+  "option3": "Ultra Violet Waves",
+  "option4": "Radio Waves",
+  "option5": "",
+  "answer": "Infra Red Waves",
+  "explanation": "Infrared waves are used in the night vision apparatus such as night vision goggles. Active infrared night-vision combines infrared illumination of spectral range 700–1,000 nm (just below the visible spectrum of the human eye) with CCD cameras sensitive to this light."
+}

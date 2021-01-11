@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T21:42:25.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "a8315880-95c5-404f-838b-eeda26c1ee50",
+  "labels": "current-affairs,2018-01-25",
+  "question": "Which among the following crops would enrich the Nitrogen content in the soil?",
+  "option1": "Potato",
+  "option2": "Sorghum",
+  "option3": "Sunflower",
+  "option4": "Pea",
+  "option5": "",
+  "answer": "Pea",
+  "explanation": "Pea contains azatobactor, azolla in their roots. This type of symbiotic bacteria is responsible for nitrogen fixing. It helps to fix the atmospheric nitrogen to soil."
+}

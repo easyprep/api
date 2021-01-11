@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T19:17:06.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "e925d3a9-432c-4b5e-8df9-37af45e5339d",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>All kinds of Color Blindness are result of Genetic disorders </li>\r\n<li>All kinds of Night Blindness are result of malnutrition </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 are correct",
+  "explanation": "Not all kinds of Color Blindness are a result of Genetic disorders however, usually it is passed down from parents. Similarly night blindness may also exist from birth, or be caused by injury or malnutrition."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T22:45:03.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "b10e5d24-181a-45f5-adf6-b97edf5b5099",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Consider the following advantages of the Optic Fibers and the Copper wires: \r\n<ol>\r\n<li>Optic Fibers are NOT susceptible to the electrical interference </li>\r\n<li>Optic Fibers can be used to transmit more signals that Copper Wires </li>\r\n<li>Optic Fibers can carry a signal over a single fiber, unlike the electricity which requires a pair of Copper wires. </li>\r\n</ol>\r\nWhich among the above stand correct ?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "All 1, 2 & 3 are correct",
+  "option4": "Only 3 is correct",
+  "option5": "",
+  "answer": "All 1, 2 & 3 are correct",
+  "explanation": "Optic Fibers are NOT susceptible to the electrical interference .Optic Fibers can be used to transmit more signals that Copper Wires .Optic Fibers can carry a signal over a single fiber, unlike the electricity which requires a pair of Copper wires. So all the three are correct."
+}

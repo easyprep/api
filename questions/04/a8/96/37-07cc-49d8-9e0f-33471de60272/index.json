@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T18:27:18.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "04a89637-07cc-49d8-9e0f-33471de60272",
+  "labels": "current-affairs,2018-01-25",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Reserve Bank of India </li>\r\n<li>Insurance Regulatory Development Authority </li>\r\n<li>Securities Exchange Board of India </li>\r\n<li>Pension Fund Regulatory Development Authority </li>\r\n<li>Life Insurance Corporation of India. </li>\r\n</ol>\r\nIn the above, how many are considered to be financial regulators?",
+  "option1": 2,
+  "option2": 3,
+  "option3": 4,
+  "option4": 5,
+  "option5": "",
+  "answer": 4,
+  "explanation": "LIC is not a Financial Regulator."
+}

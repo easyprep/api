@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-26T22:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "c2f2152c-6720-4e97-8fe9-ea0cfb2a2c40",
+  "labels": "current-affairs,2018-01-27",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Inflation</li>\r\n<li>Interest Rates</li>\r\n</ol>\r\nWhich among the above are affected by the Open Market Operations conducted by the Reserve Bank of India?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both of them",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Both of them",
+  "explanation": "RBI conducts Open market operations by way of sale or purchase of government securities (g-secs) to adjust money supply conditions. RBI sells g-secs to suck out liquidity from the system and buys back g-secs to infuse liquidity into the system. These operations are often conducted on a day-to-day basis in a manner that balances inflation while helping banks continue to lend. The RBI uses OMO along with other monetary policy tools such as repo rate, cash reserve ratio and statutory liquidity ratio to adjust the quantum and price of money in the system. OMO impact liquidity and thus affects both supply of credit and interest rates in markets. This is because liquidity has a bearing on both interest rates and inflation rates."
+}

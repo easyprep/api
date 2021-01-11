@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T22:16:55.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "80af5217-eb9a-46b9-a25b-7f2f3d0a48cd",
+  "labels": "current-affairs,2018-01-28",
+  "question": "\"Internet escrow ” is a term most commonly related to which of the following?",
+  "option1": "E-commerce",
+  "option2": "Software Development",
+  "option3": "Privacy Security",
+  "option4": "Database Management",
+  "option5": "",
+  "answer": "E-commerce",
+  "explanation": "Escrow is a financial instrument whereby an asset is held by a third party on behalf of two other parties that are in the process of completing a transaction. E commerce hold the asset of a merchant before it is sold to a customer. So it is Internet escrow."
+}

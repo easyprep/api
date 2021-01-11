@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T14:06:39.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "1b548059-357d-466d-92bc-c31fa7e01376",
+  "labels": "current-affairs,2018-01-25",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Sodium </li>\r\n<li>Potassium </li>\r\n</ol>\r\nWhich among the above plays vital role in restoring the body fluid?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1& 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1& 2",
+  "explanation": "Potassium and sodium are electrolytes needed for the body to function normally and help maintain fluid and blood volume in the body. To restore balance, the sodium-potassium pump transfers sodium back to the extracellular fluid and water follows. Every cycle of the sodium-potassium pump involves the movement of three sodium ions out of a cell, in exchange for two potassium ions into a cell."
+}

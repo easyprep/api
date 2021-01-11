@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T23:35:11.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "5bf3600c-f1f2-4f69-b3b9-4d42a2b91a25",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Which among the following correctly defines <strong>Global 200</strong>?",
+  "option1": "An annual list of top ranking 200 companies released by Forbes Magazine",
+  "option2": "List of 200 World Heritage Sites released by UNESCO",
+  "option3": "List of 200 Cities which are of strategic importance",
+  "option4": "List of 200 Ecoregions identified by the World Wildlife Fund (WWF) as priorities for conservation",
+  "option5": "",
+  "answer": "List of 200 Ecoregions identified by the World Wildlife Fund (WWF) as priorities for conservation",
+  "explanation": "The Global 200 is the list of ecoregions which is identified by World Wildlife Fund (WWF) as priorities for conservation. The conservation status of critical or endangered, vulnerable, and relatively stable or intact are assigned to each region."
+}

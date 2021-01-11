@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-28T22:31:30.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "b5c54f4c-d6b4-40e3-a743-1132326a40cf",
+  "labels": "current-affairs,2018-01-29",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>India is largest producer of Pulses </li>\r\n<li>India is largest Consumer of Pulses </li>\r\n<li>India is largest importer of Pulses </li>\r\n</ol>\r\nWhich among the above statements hold correct?<br />",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "all 1, 2 & 3",
+  "option5": "",
+  "answer": "all 1, 2 & 3",
+  "explanation": ""
+}

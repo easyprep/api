@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-01T15:10:56.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "13844e03-c1b2-414e-8138-4f8e993d523a",
+  "labels": "current-affairs,2018-02-02",
+  "question": "In computers, what is the function of <strong>Kernel</strong>?",
+  "option1": "Holding the chip in place",
+  "option2": "Communication between hardware and software components",
+  "option3": "Maintaining Computer File System",
+  "option4": "Maintaining Software configuration",
+  "option5": "",
+  "answer": "Communication between hardware and software components",
+  "explanation": ""
+}

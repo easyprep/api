@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T22:19:37.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "4ba1bd07-6b64-476a-83cb-c5e4d9624ccc",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Which among the following is the essential character of the ADSL Internet Connections?",
+  "option1": "High Download Rate , Low upload Rate",
+  "option2": "High Upload rate, Low download Rate",
+  "option3": "Use of voice spectrum of the telephone lines",
+  "option4": "Use of cable television infrastructure.",
+  "option5": "",
+  "answer": "High Download Rate , Low upload Rate",
+  "explanation": "ADSL - asymmetric digital subscriber line is a type of broadband communications technology used for connecting to the Internet. ADSL allows more data to be sent over existing copper telephone lines. It is characterized by High download rate and low upload rate."
+}

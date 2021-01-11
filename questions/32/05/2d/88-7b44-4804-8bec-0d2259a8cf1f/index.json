@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T17:59:26.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "32052d88-7b44-4804-8bec-0d2259a8cf1f",
+  "labels": "current-affairs,2018-01-25",
+  "question": "India has abundant resources of the Non-coking coals as compared to the coking coals. Consider the following statements: \r\n<ol>\r\n<li>The Coking Coal has higher amount of Ash while Non-coking coal has higher amount of Sulfur</li>\r\n<li>Coking coal is used in thermal power plants while non-coking coal is used in steel plants</li>\r\n</ol>\r\nWhich among the above is / are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 & 2",
+  "option4": "neither 1 nor 2",
+  "option5": "",
+  "answer": "neither 1 nor 2",
+  "explanation": "Coking Coal or Metallurgical coal is used in manufacturing steel, where carbon must be as volatile-free and ash-free as possible. Coking coal is also heated to produce coke, a hard porous material which is used to blast in furnaces for the extraction of iron from the iron ore.\r\nNon Coking Coal does not have any caking properties and it is mainly used as thermal coal for power generation. It has a higher ash content and also used in industries like cement, fertilizer, glass, ceramic, paper, chemical and brick manufacturing."
+}

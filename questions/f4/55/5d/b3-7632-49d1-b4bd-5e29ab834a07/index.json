@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-28T14:53:51.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "f4555db3-7632-49d1-b4bd-5e29ab834a07",
+  "labels": "current-affairs,2018-01-29",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Vegetables</li>\r\n<li>Plantation Crops</li>\r\n<li>Spices </li>\r\n<li>Fruits </li>\r\n</ol>\r\nWhich among the following is the correct order of decreasing volumes of their production in India?<br />",
+  "option1": "1, 2, 3, 4",
+  "option2": "1, 4, 2, 3,",
+  "option3": "1, 4, 3, 2,",
+  "option4": "4, 1, 2, 3,",
+  "option5": "",
+  "answer": "1, 4, 2, 3,",
+  "explanation": "Decreasing Order of Horticulture Production- Vegetables--Fruits--Plantation Crops--Spices"
+}

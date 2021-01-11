@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T17:20:05.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "b5a0f581-aff2-4a3d-8fe0-8019dabac5c1",
+  "labels": "current-affairs,2018-01-28",
+  "question": "GPRS is kept in which of the following generations of mobile telephony?",
+  "option1": "1G",
+  "option2": "2G",
+  "option3": "2.5G",
+  "option4": "3G",
+  "option5": "",
+  "answer": "2.5G",
+  "explanation": "GPRS provides data rates of 56–114 kbit/sec. The 2G cellular technology combined with GPRS is sometimes described as 2.5G which represents it as a transition between 2G and 3G."
+}

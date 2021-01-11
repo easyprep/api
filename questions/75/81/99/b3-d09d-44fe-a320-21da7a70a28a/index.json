@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T18:23:34.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "758199b3-d09d-44fe-a320-21da7a70a28a",
+  "labels": "current-affairs,2018-01-24",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>Both HELINA &amp; Namica are future antitank missiles of India</li>\r\n<li>Both HELINA and Namica are versions of Nag Missile </li>\r\n</ol>\r\nWhich among the above statements is / are correct?<br />",
+  "option1": "only 1 is correct",
+  "option2": "only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both of them are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "HELINA is Helicopter Nag and it is a version of missile. But NAMICA is Nag Missile Carrier."
+}

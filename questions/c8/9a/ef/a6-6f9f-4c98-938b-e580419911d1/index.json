@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-28T19:52:21.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "c89aefa6-6f9f-4c98-938b-e580419911d1",
+  "labels": "current-affairs,2018-01-29",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>MIBOR (Mumbai Interbank Offer Rate) was launched as overnight money market rate by Bombay Stock Exchange</li>\r\n<li>MIBOR is used as bench mark rate for Interest Rate Swaps, Forward Rate Agreements, Floating Rate Debentures and Term Deposits</li>\r\n</ol>\r\nWhich among the above statements hold correct?<br />",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Neither of the two",
+  "option4": "Both of them",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Please note that MIBOR was released by NSE and NOT BSE"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-26T16:06:39.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "b8cd2f65-cd0e-4a2f-9f03-52b8ad6c0208",
+  "labels": "current-affairs,2018-01-27",
+  "question": "Many a times we read in the financial newspapers about a term “Derivative”. In this context, consider the following statements: \r\n<ol>\r\n<li>A derivative is an instrument which is settled at a Future Rate only. </li>\r\n<li>The Value of this instrument gets derived from the change of the Interest Rates &amp; Foreign Exchange Rates </li>\r\n<li>In India, a Derivative can be traded in exchanges only. </li>\r\n</ol>\r\nWhich among the above statements is / are correct?<br />",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": ""
+}

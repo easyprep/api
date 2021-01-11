@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-28T13:59:08.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "9ccb6855-33b5-4b60-93e9-5e15dd789137",
+  "labels": "current-affairs,2018-01-29",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Minor Irrigation Scheme: CCA less than 2000 Hectares </li>\r\n<li>Medium Irrigation Scheme : CCA more than 2000 Hectares but less than 10000 Hectares </li>\r\n<li>Major Irrigation Scheme : CCA more than 10000 Hectares </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "all are correct",
+  "option4": "all are incorrect",
+  "option5": "",
+  "answer": "all are correct",
+  "explanation": "[contentmirror item=6500]"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T17:15:36.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "734a5f2a-9d4b-428c-889f-9daf41bb63ea",
+  "labels": "current-affairs,2018-01-24",
+  "question": "Which among the following is the fuel used in fast breeder test reactor at Kalpakkam?",
+  "option1": "Plutonium",
+  "option2": "Uranium",
+  "option3": "Thorium",
+  "option4": "Uranium 238",
+  "option5": "",
+  "answer": "Thorium",
+  "explanation": "Please note that Kamini is the only reactor in the world to use Uranium-233 type fuel, which is converted from Thorium. Our country has large deposits of thorium resource but a limited one of uranium resource. To effectively utilise the available resources in the country, India has devised a three-stage nuclear power programme. The first stage involves utilisation of the available natural uranium in the country for power generation in Pressurised Heavy Water Reactors (PHWRs). The second stage involves power generation by the utilisation of plutonium obtained from reprocessing the spent PHWR fuel in Fast Breeder Reactors (FBRs). The reactor cores of the FBRs will have depleted uranium as blanket material initially to facilitate a faster growth of capacity addition. The FBRs will later have thorium as blanket material to generate uranium 233 for deployment in the Th-233U cycle based reactor systems of the third stage of our nuclear power programme. Thorium-based fuels are reprocessed using the THOREX process, which is similar to the PUREX process for uranium and plutonium. Kamini uses indigenously developed mixed uranium-plutonium carbide fuel core in which the Uranium 233 is developed using the Thorium. So among the given options Thorium is the answer."
+}

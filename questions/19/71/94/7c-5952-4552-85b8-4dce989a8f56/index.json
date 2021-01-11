@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T22:39:31.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "1971947c-5952-4552-85b8-4dce989a8f56",
+  "labels": "current-affairs,2018-01-28",
+  "question": "What do we call the part of the “DTH Satellite dish” that converts the signals from electromagnetic or radio waves to electrical signals ?",
+  "option1": "Orthomode transducer (OMT)",
+  "option2": "Low-noise block converter (LNB)",
+  "option3": "Block upconverter (BUC)",
+  "option4": "Parabolic Dish",
+  "option5": "",
+  "answer": "Low-noise block converter (LNB)",
+  "explanation": "A low-noise block downconverter (LNB) is the receiving device mounted on satellite dishes which are used for satellite TV reception. They collects the radio waves from the dish and converts them to a signal which is sent through a cable to the receiver inside the building."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-25T19:13:07.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "40528492-6fd6-476c-89b0-a0867b56bf7c",
+  "labels": "current-affairs,2018-01-26",
+  "question": "At which of the following places water would boil at lowest temperature?",
+  "option1": "Delhi",
+  "option2": "Shimla",
+  "option3": "Kochi",
+  "option4": "Jodhpur",
+  "option5": "",
+  "answer": "Shimla",
+  "explanation": "Shimla is the place among the options where water boils at low temperature. At higher altitudes, air pressure is lower. When atmospheric pressure is lower, such as at a higher altitude, it takes less energy to bring water to the boiling point. Less energy means less heat, which means water will boil at a lower temperature at a higher altitude."
+}

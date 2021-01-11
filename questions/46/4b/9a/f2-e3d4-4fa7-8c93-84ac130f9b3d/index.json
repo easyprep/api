@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T00:39:50.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "464b9af2-e3d4-4fa7-8c93-84ac130f9b3d",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Which among the following is not a Government scheme / project to enhance financial Inclusion?",
+  "option1": "Pradhan Mantri Jan Dhan Yojana",
+  "option2": "Bharat Financial Inclusion",
+  "option3": "BSBDA",
+  "option4": "Aadhaar Enabled Payment System",
+  "option5": "",
+  "answer": "Bharat Financial Inclusion",
+  "explanation": "Bharat Financial Inclusion is not a scheme / project but a Non-Banking Financial Company which was merged in IndusInd Bank."
+}

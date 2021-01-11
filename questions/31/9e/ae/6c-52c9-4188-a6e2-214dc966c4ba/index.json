@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-24T19:51:13.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "319eae6c-52c9-4188-a6e2-214dc966c4ba",
+  "labels": "current-affairs,2018-01-25",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>Asian Brown Cloud is a layer of air pollution that covers parts of northern Indian Ocean, India, and Pakistan</li>\r\n<li>Asian Brown Cloud is a permanent phenomena</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "Asian Brown Cloud is generally visible over Indian Ocean and parts of South Asian between January and March. It’s not permanent phenomena and is created by airborne particles and pollutants from combustion such as wood fires, cars, and factories, biomass burning and industrial processes with incomplete burning."
+}

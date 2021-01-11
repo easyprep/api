@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-01T15:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "f2e6a804-315d-455c-ba0f-cdd9702091c1",
+  "labels": "current-affairs,2018-02-02",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Near Infrared </li>\r\n<li>Mid Infrared </li>\r\n<li>Far Infrared</li>\r\n</ol>\r\nWhich among the following is the correct order of increasing wavelength of the above?",
+  "option1": "1,2,3",
+  "option2": "3,2,1",
+  "option3": "2,1,3",
+  "option4": "3,1,2",
+  "option5": "",
+  "answer": "1,2,3",
+  "explanation": "The correct order of increasing wavelength is Near Infrared &gt; Mid Infrared &gt; Far Infrared."
+}

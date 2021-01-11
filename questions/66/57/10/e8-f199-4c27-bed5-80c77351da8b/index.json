@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-27T18:52:38.000Z",
+  "updated_at": "2021-01-06T08:24:16.819Z",
+  "id": "665710e8-f199-4c27-bed5-80c77351da8b",
+  "labels": "current-affairs,2018-01-28",
+  "question": "Consider the following Mughal Emperors: \r\n<ol>\r\n<li>Babur</li>\r\n<li>Humayun </li>\r\n<li>Akbar </li>\r\n<li>Jahangir </li>\r\n</ol>\r\nWho among the above had written their biographies?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "Only 1 & 4",
+  "option5": "",
+  "answer": "Only 1 & 4",
+  "explanation": "Babu and janagir wrote their Biographies. Akbar’s biography Akbarnama is written Abu Fazal. Humayun’s biography Humayunama is written by Gulbadan Begum."
+}
