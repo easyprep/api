@@ -53,6 +53,7 @@ jobs:
             git checkout -b "$gh_pages_branch"
             git rm -rf .
             git checkout "$master_branch" -- .gitignore
+            mkdir -p docs
           fi
         env:
           api_url: ${{secrets.API_URL}}

@@ -96,13 +96,20 @@ function createIndexFile(folder, json, limit) {
 
     } else {
         let data = json.data.slice(limit, json.data.length);
-        let prev = 'index-' + new Date().getTime() + '.' + getMicSecTime() + '.json';
+        let prev = 'index-' + new Date().getTime() + '.json';
 
         json.data = json.data.slice(0, limit);
         fs.writeFileSync(folder + '/' + prev, JSON.stringify(json, null, 2));
-
+        syncWait(1);
+        // setTimeout(function () {
         createIndexFile(folder, { type: "_file", prev, data }, limit);
+        // }, 1);
     }
+}
+
+function syncWait(ms) {
+    const end = Date.now() + ms
+    while (Date.now() < end) continue
 }
 
 function getMicSecTime() {
