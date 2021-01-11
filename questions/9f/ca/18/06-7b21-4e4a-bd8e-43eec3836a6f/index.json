@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-26T16:23:45.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "9fca1806-7b21-4e4a-bd8e-43eec3836a6f",
+  "labels": "current-affairs,2017-12-27",
+  "question": "The only planet that shows phases is _________?",
+  "option1": "Earth",
+  "option2": "Venus",
+  "option3": "Jupiter",
+  "option4": "Saturn",
+  "option5": "",
+  "answer": "Venus",
+  "explanation": "Through a small telescope, it is possible to see Venus undergo phases, just like the Moon. This occurs because, from our point of view on Earth, we see only the parts of Venus that are illuminated by sunlight at any given time. However, unlike the Moon, though, Venus is usually brighter to our view in its crescent phase than in its full phase."
+}

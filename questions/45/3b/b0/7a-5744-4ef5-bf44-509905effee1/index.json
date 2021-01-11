@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T16:56:08.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "453bb07a-5744-4ef5-bf44-509905effee1",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Which among the following is true about conduction, convection and radiation mode of transfer of heat?",
+  "option1": "A Medium is required for conduction but not required for convection and radiation",
+  "option2": "A medium is required for conduction, convection and radiation",
+  "option3": "A medium is required for conduction and convection but not required for radiation",
+  "option4": "A medium is not required for conduction and convectio, radiation",
+  "option5": "",
+  "answer": "A medium is required for conduction and convection but not required for radiation",
+  "explanation": "A medium is required for conduction and convection but not required for radiation. The radiation can occur even in vaccum but not the others. The conduction can travel through solid. The convection process needs liquid and gas."
+}

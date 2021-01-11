@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T16:35:23.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "910fc2a1-7879-49e1-88c5-be43ef61122b",
+  "labels": "current-affairs,2017-12-28",
+  "question": "The value of acceleration due to gravity is __________?",
+  "option1": "Minimum at equator and maximum at poles",
+  "option2": "maximum at equator and minimum at poles",
+  "option3": "equal at poles and equator",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Minimum at equator and maximum at poles",
+  "explanation": "The value of acceleration due to gravity is maximum at equator. This is because the distance from the center is minimum at the equator."
+}

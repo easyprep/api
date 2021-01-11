@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-25T15:34:00.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "796a008d-1719-4718-96b9-6d6517ac51de",
+  "labels": "current-affairs,2017-12-26",
+  "question": "A pendulum is taken to Moon, what will happen to its time period?",
+  "option1": "Increases",
+  "option2": "Decreases",
+  "option3": "Remains constant",
+  "option4": "Either increase or decrease",
+  "option5": "",
+  "answer": "Increases",
+  "explanation": "When the simple pendulum is taken to the moon, value of gravitational constant g will decrease and thus, its time period will increase."
+}

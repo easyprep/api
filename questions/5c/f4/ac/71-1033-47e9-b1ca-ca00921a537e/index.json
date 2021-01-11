@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T15:43:18.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "5cf4ac71-1033-47e9-b1ca-ca00921a537e",
+  "labels": "current-affairs,2017-12-24",
+  "question": "Approximately how much time does a Sun ray take reaching Earth?",
+  "option1": "400 seconds",
+  "option2": "500 seconds",
+  "option3": "600 seconds",
+  "option4": "700 seconds",
+  "option5": "",
+  "answer": "500 seconds",
+  "explanation": "Light travels at a speed of 299,792 km per second. It takes 500 seconds for light to travel from the Sun to the Earth. This distance called 1 Astronomical Unit."
+}

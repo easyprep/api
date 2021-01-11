@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-24T00:19:53.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "b3b8765e-dd2c-42d7-9570-8050cb70d491",
+  "labels": "current-affairs,2017-12-25",
+  "question": "Who can remove the Chief Justice of Supreme Court?",
+  "option1": "Parliament by resolution",
+  "option2": "Judges of supreme court by Majority",
+  "option3": "President on a resolution by parliament",
+  "option4": "President on his/ her own discretion",
+  "option5": "",
+  "answer": "President on a resolution by parliament",
+  "explanation": "A Judge of the Supreme Court (and also High Court) can be removed from his position by President only on the ground of proved misbehaviour or incapacity. The power for investigation and proof of such misbehaviour or incapacity is vested in the parliament. Each house, in order to remove the judge, will have to pass a resolution which is supported by 2/3rd of members present and voting and majority of the total membership of the house {absolute + special majority}"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T15:16:16.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "35d06146-7659-42e3-aad7-11824395fe08",
+  "labels": "current-affairs,2017-12-28",
+  "question": "During which of the following events the distance between Sun and Earth is maximum? <br />",
+  "option1": "Aphelion",
+  "option2": "Perhelion",
+  "option3": "Summer Solsitice",
+  "option4": "Winter Solsitice",
+  "option5": "",
+  "answer": "Aphelion",
+  "explanation": "Earth is closest to the sun (perihelion), around 3rd January\r\nEarth is farthest from the sun (aphelion), around 4th July"
+}

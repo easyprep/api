@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-28T00:53:56.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "66603dea-23bc-4d13-ba37-eb057742acfe",
+  "labels": "current-affairs,2017-12-29",
+  "question": "What is the maximum number of candidates an EVM machine can support?",
+  "option1": 36,
+  "option2": 56,
+  "option3": 64,
+  "option4": 72,
+  "option5": "",
+  "answer": 64,
+  "explanation": "Electronic voting machines can handle only 16 candidate choices per machine. If there are more than 16 candidates, four EVMs can be connected in series to a single master controller to handle 64 candidates."
+}

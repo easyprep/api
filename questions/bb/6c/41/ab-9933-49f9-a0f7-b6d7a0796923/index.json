@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-25T14:45:18.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "bb6c41ab-9933-49f9-a0f7-b6d7a0796923",
+  "labels": "current-affairs,2017-12-26",
+  "question": "One Nautical Mile is equivalent to how many meters?",
+  "option1": 1552,
+  "option2": 1652,
+  "option3": 1752,
+  "option4": 1852,
+  "option5": "",
+  "answer": 1852,
+  "explanation": "One Nautical Mile is equivalent to in 1852. A nautical mile measures distance and a knot measures speed. A nautical mile is based on the circumference of the earth, and is equal to one minute of latitude."
+}

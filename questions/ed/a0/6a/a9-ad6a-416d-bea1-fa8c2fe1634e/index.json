@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T15:11:26.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "eda06aa9-ad6a-416d-bea1-fa8c2fe1634e",
+  "labels": "current-affairs,2017-12-28",
+  "question": "What is the distance between consecutive longitudes at poles?",
+  "option1": "0 km",
+  "option2": "10 km",
+  "option3": "15 km",
+  "option4": "20 km",
+  "option5": "",
+  "answer": "0 km",
+  "explanation": "The distance between two consecutive longitudes(91 degree E and 92 degree E) at the Poles is 0 km. The distance between two consecutive meridians of longitude is equal to 111 km only at equator. The distance between two consecutive parallels of latitude is equal to about 111 km."
+}

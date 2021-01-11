@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T17:52:45.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "1d8ebe31-c87b-448b-aa00-68aba484a6ef",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Who can appoint and remove the members of the State Public Service Commission?",
+  "option1": "Governor can appoint and remove",
+  "option2": "Governor can appoint and President can remove",
+  "option3": "Governor can appoint and parliament can remove",
+  "option4": "Governor can appoint and assembly can remove",
+  "option5": "",
+  "answer": "Governor can appoint and President can remove",
+  "explanation": "The Governor of the state appoints the members of the State Public Service Commission whereas they can only be removed by the President of India."
+}

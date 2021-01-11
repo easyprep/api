@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T20:27:37.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "34ab4e23-4f1f-42bf-8cde-3f1f31459bde",
+  "labels": "current-affairs,2017-12-24",
+  "question": "What is the use of Venturimeter?",
+  "option1": "to measure subdivisions of scale",
+  "option2": "to measure wavelength of radio wave",
+  "option3": "To measure friction",
+  "option4": "to measure rate of flow of fluids",
+  "option5": "",
+  "answer": "to measure rate of flow of fluids",
+  "explanation": "A Venturimeter is the device used to measure rate of flow of fluids. This device is based on the principle of Bernoulli's Equation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T21:02:45.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "f14eb5cc-c062-48e6-b7e2-b2e012d07aa2",
+  "labels": "current-affairs,2017-12-28",
+  "question": "What is the correct decreasing order of sizes of different soil sizes of Sand, Gravel, Clay &amp; Silt?",
+  "option1": "Gravel, Sand,Silt, Clay",
+  "option2": "Silt, Sand, Gravel Clay",
+  "option3": "Gravel, Silt, Sand , Clay",
+  "option4": "Clay,Gravel, Silt, Sand ,",
+  "option5": "",
+  "answer": "Gravel, Sand,Silt, Clay",
+  "explanation": "Gravel is larger than other partlicles. The clay is the smallest. Sand is larger than silt and clay. So option A is the correct answer."
+}

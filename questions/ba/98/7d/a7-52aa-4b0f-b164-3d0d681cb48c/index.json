@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T23:11:01.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "ba987da7-52aa-4b0f-b164-3d0d681cb48c",
+  "labels": "current-affairs,2017-12-24",
+  "question": "The amendment of the constitution can be initiated in which of the following?<br />\r\n<ol>\r\n<li>Lok Sabha </li>\r\n<li>Rajya Sabha </li>\r\n<li>State Assemblies </li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 or 2",
+  "option3": "Only 1 or 3",
+  "option4": "1 or 2 or 3",
+  "option5": "",
+  "answer": "Only 1 or 2",
+  "explanation": "A constitution amendment bill can be introduced in any house of the parliament. A bill for the purpose of amendment of constitution can NOT be introduced in any state legislature."
+}

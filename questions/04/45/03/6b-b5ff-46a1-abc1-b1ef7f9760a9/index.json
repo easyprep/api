@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-28T15:53:52.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "0445036b-b5ff-46a1-abc1-b1ef7f9760a9",
+  "labels": "current-affairs,2017-12-29",
+  "question": "How much time does a ray of light take while reaching from Moon to Earth ?",
+  "option1": "8 minutes",
+  "option2": "8 seconds",
+  "option3": "1 minute",
+  "option4": "1 second",
+  "option5": "",
+  "answer": "1 second",
+  "explanation": "Moonlight takes approximately 1.26 seconds to reach Earth's surface. Moon generally don’t emit light. It reflects light of the sun."
+}

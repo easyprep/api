@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-29T20:42:01.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "aca1e313-2dc8-4694-bfac-d766b8e08975",
+  "labels": "current-affairs,2017-12-30",
+  "question": "In the parliament terminology, what is the meaning of <b>Closure</b>?",
+  "option1": "end of session of parliament",
+  "option2": "end of proceedings of a day",
+  "option3": "end of debate on a motion",
+  "option4": "starting of a session",
+  "option5": "",
+  "answer": "end of debate on a motion",
+  "explanation": "The closure motion is a motion moved by a member of parliament to cut short the debate on a matter before the House. If the motion is approved by the House, debate is stopped forthwith and the matter is put to vote."
+}

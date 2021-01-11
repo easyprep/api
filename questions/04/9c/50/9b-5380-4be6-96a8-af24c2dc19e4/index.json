@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-30T18:04:41.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "049c509b-5380-4be6-96a8-af24c2dc19e4",
+  "labels": "current-affairs,2017-12-31",
+  "question": "In which among the following processes Myoglobin is used?",
+  "option1": "Catalysis of Biochemical reaction in muscles",
+  "option2": "Storing oxygen in muscle till needed for energy production",
+  "option3": "Muscle formation",
+  "option4": "Bone formation",
+  "option5": "",
+  "answer": "Storing oxygen in muscle till needed for energy production",
+  "explanation": "Myoglobin is distantly related to hemoglobin. It is a small protein found in heart and skeletal muscles that binds oxygen. It stores the oxygen in muscle till it is needed for energy production."
+}

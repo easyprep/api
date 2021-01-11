@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T23:51:03.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "fdcce026-b520-4b6e-8882-4b36b0583f27",
+  "labels": "current-affairs,2017-12-24",
+  "question": "What is the minimum years of age for candidate for office of the vice president?",
+  "option1": 25,
+  "option2": 30,
+  "option3": 35,
+  "option4": 38,
+  "option5": "",
+  "answer": 35,
+  "explanation": "As per article 66, the candidate contesting for election of Vice-President of India should fulfill the below conditions:\r\n<ul>\r\n<li>He must be a citizen of India</li>\r\n<li>He must have completed age of 35 years</li>\r\n<li>He cannot hold an office for profit.</li>\r\n<li>He must be qualified to become a member of Rajya Sabha.</li>\r\n</ul>"
+}

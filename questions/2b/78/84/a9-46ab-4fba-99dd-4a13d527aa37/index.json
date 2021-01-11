@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-22T20:51:45.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "2b7884a9-46ab-4fba-99dd-4a13d527aa37",
+  "labels": "current-affairs,2017-12-23",
+  "question": "Which among the following is major component of Gobar Gas?",
+  "option1": "Butane",
+  "option2": "Ethane",
+  "option3": "Propane",
+  "option4": "Metahne",
+  "option5": "",
+  "answer": "Metahne",
+  "explanation": "Gobar Gas or Biogas is mostly methane (CH<sub>4</sub>) and carbon dioxide (CO<sub>2</sub>) and may have small amounts of hydrogen sulfide (H<sub>2</sub>S), moisture and siloxanes."
+}

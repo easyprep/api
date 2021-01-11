@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-22T20:45:28.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "481f21bd-d0bb-4e3d-97ec-45b22b25ed60",
+  "labels": "current-affairs,2017-12-23",
+  "question": "Potassium permanganate is used to purify water. Which among the following properties of Potassium permanganate helps in this work?",
+  "option1": "sterilizing",
+  "option2": "oxidizing",
+  "option3": "reducing",
+  "option4": "leaching",
+  "option5": "",
+  "answer": "oxidizing",
+  "explanation": "Potassium permanganate is a point-of-entry treatment method that oxidizes dissolved iron, manganese, and hydrogen sulfide into solid particles that are filtered out of the water. It can also be used to control iron bacteria growth in wells."
+}

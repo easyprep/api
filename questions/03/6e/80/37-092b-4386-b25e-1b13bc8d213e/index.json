@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-25T15:43:20.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "036e8037-092b-4386-b25e-1b13bc8d213e",
+  "labels": "current-affairs,2017-12-26",
+  "question": "If there is a change in Bank rate , which among the following is affected_________?",
+  "option1": "Market Interest Rates",
+  "option2": "Cash Reserve Ratio",
+  "option3": "Statutory Liquidity Ratio",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Market Interest Rates",
+  "explanation": "Bank Rate refers to the official interest rate at which RBI will provide loans to the banking system which includes commercial / cooperative banks, development banks etc. Such loans are given out either by direct lending or by rediscounting (buying back) the bills of commercial banks and treasury bills. Thus, bank rate is also known as discount rate. Bank rate is used as a signal by the RBI to the commercial banks on RBI’s thinking of what the interest rates should be.\r\n\r\nWhen RBI increases the bank rate, the cost of borrowing for banks rises and this credit volume gets reduced leading to decline in supply of money. Thus, increase in Bank rate reflects tightening of RBI monetary policy."
+}

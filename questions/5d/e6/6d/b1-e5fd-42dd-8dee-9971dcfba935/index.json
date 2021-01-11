@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-26T16:48:20.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "5de66db1-e5fd-42dd-8dee-9971dcfba935",
+  "labels": "current-affairs,2017-12-27",
+  "question": "A cataclysmic nuclear explosion caused by the accretion of hydrogen onto the surface of a white dwarf star, would be termed as ___?",
+  "option1": "Nova",
+  "option2": "Nebula",
+  "option3": "Neutron star",
+  "option4": "Pulsar",
+  "option5": "",
+  "answer": "Nova",
+  "explanation": "A nova is a transient astronomical event that causes the sudden appearance of a bright, apparently \"new\" star, that slowly fades over time. It is caused by a nuclear explosion, caused by the accretion of hydrogen onto the surface of a white dwarf."
+}

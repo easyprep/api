@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-28T01:32:17.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "259cfee6-709b-43c0-afc7-2c83b1837270",
+  "labels": "current-affairs,2017-12-29",
+  "question": "What is the minimum number of the judges to decide an issue involving the interpretation of the constitution or any presidential reference?",
+  "option1": 5,
+  "option2": 7,
+  "option3": 10,
+  "option4": 15,
+  "option5": "",
+  "answer": 5,
+  "explanation": "A division bench comprises 2-3 judges while constitution bench consists of at least five or more judges of the court. Such a bench is set up to decide substantial questions of law with regard to the interpretation of the constitution. The origin of constitution bench emanates from Article 143. When President of India seeks Supreme Court’s opinion on a question of fact or law under Article 143 of the Constitution, then also a Constitution bench is set up."
+}

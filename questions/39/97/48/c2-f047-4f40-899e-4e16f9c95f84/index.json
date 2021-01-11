@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-25T19:47:33.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "399748c2-f047-4f40-899e-4e16f9c95f84",
+  "labels": "current-affairs,2017-12-26",
+  "question": "Who make the electoral college for election of the Vice President of India?",
+  "option1": "Only members of Parliament",
+  "option2": "Members of Parliament & members of Legislative Assemblies",
+  "option3": "Members of Parliament, Members of Legislative assemblies and Members of legislative councils",
+  "option4": "Members of Rajya Sabha only",
+  "option5": "",
+  "answer": "Only members of Parliament",
+  "explanation": "Like Presidential election, election of vice president is held via system of proportional representation by means of the single transferable vote {indirect election}. However, Vice President is elected by Lok Sabha and Rajya Sabha MPs. The MLAs or MLCs have no role to play here. This sounds to be an anomaly but it is justified by giving logic that Vice President works as president of the whole country in rare occasions when President is not available. In normal circumstances, his work is to preside the Rajya Sabha."
+}

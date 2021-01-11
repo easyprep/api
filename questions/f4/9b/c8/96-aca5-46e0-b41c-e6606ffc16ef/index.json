@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-26T16:46:19.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "f49bc896-aca5-46e0-b41c-e6606ffc16ef",
+  "labels": "current-affairs,2017-12-27",
+  "question": "What name has been given to the places around and between two gravitationally bound bodies where a third object could stay stationary relative to the other two?",
+  "option1": "Lagrangian point",
+  "option2": "Ephemeris",
+  "option3": "Lissajous",
+  "option4": "Apside",
+  "option5": "",
+  "answer": "Lagrangian point",
+  "explanation": "Lagrange point is position in space where combined gravitational forces of two large bodies, such as Earth and sun or Earth and moon, equal centrifugal force felt by a much smaller third body. The interaction of these forces creates point of equilibrium where spacecraft may be “parked” to make observation. These points are named after Joseph-Louis Lagrange, an 18th-century mathematician. There are 5 such points between earth and sun namely – L1, L2, L3, L4 and L5. In these orbits, the satellite requires very little energy to maintain its orbit and it will not be eclipsed from the sun"
+}

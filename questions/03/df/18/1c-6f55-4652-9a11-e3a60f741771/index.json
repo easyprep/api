@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T01:52:40.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "03df181c-6f55-4652-9a11-e3a60f741771",
+  "labels": "current-affairs,2017-12-24",
+  "question": "If earth stops rotating, the impact on weight of a body will be minimum on which among the following places?",
+  "option1": "Equator",
+  "option2": "North pole",
+  "option3": "Tropic of cancer",
+  "option4": "Tropic of Capricorn",
+  "option5": "",
+  "answer": "North pole",
+  "explanation": "If the earth stops rotating, then the impact of weight of a body will be minimum on the Poles. The maximum weight will be a t equator. If the earth stops rotating then there would be no centrifugal force whose direction is away from the core. Thus the force due to gravity is not minimised at all and this in turn increases an object's weight at the equator."
+}

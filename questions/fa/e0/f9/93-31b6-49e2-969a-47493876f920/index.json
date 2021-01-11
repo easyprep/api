@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-26T14:49:03.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "fae0f993-31b6-49e2-969a-47493876f920",
+  "labels": "current-affairs,2017-12-27",
+  "question": "What is the upper limit of election expense in a parliamentary constituency?",
+  "option1": "10 lakhs",
+  "option2": "25 lakhs",
+  "option3": "70 lakhs",
+  "option4": "1 cr",
+  "option5": "",
+  "answer": "70 lakhs",
+  "explanation": "As per the current norms, the maximum limit of election expenses per candidate is as follows:\r\nLok Sabha Constituencies\r\n<ul>\r\n<li>70 Lakh for all States except Arunachal Pradesh, Goa and Sikkim.</li>\r\n<li>54 Lakh for Arunachal Pradesh, Goa and Sikkim = 54.00 Lakhs</li>\r\n<li>70 Lakh for NCT of Delhi</li>\r\n<li>54 Lakh for other Union Territories.</li>\r\n</ul>\r\nAssembly Constituencies\r\n<ul>\r\n<li>28 Lakh for bigger states and NCT of Delhi</li>\r\n<li>20 Lakh for smaller states and UTs.</li>\r\n</ul>"
+}

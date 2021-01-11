@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-24T23:54:33.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "b565c837-7af1-479b-a870-941ba440bbbb",
+  "labels": "current-affairs,2017-12-25",
+  "question": "RBI uses the policy instrument Reverse Repo for which of the following reasons?\r\n<ol>\r\n<li>To increase the liquidity of commercial banks</li>\r\n<li>To absorb liquidity from commercial banks</li>\r\n<li>To reduce the fiscal deficit of central Government</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "1 & 2",
+  "option2": "2 & 3",
+  "option3": "1, 2 & 3",
+  "option4": "1 & 3",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "Reverse repo rate is the rate of interest at which the RBI borrows funds from other banks in the short term. This is done by RBI selling government bonds / securities to banks with the commitment to buy them back at a future date. The banks use the reverse repo facility to deposit their short-term excess funds with the RBI and earn interest on it. RBI can reduce liquidity in the banking system by increasing the rate at which it borrows from banks. Hiking the repo and reverse repo rate ends up reducing the liquidity and pushes up interest rates.\r\n\r\nWhen the RBI increases the Reverse Repo, it means that now the RBI will provide extra interest on the money which it borrows from the banks. An increase in reverse repo rate means that banks earn higher returns by lending to RBI. This indicates a hike in the deposit rates."
+}

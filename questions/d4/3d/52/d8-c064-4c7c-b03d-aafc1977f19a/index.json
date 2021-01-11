@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-25T15:31:19.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "d43d52d8-c064-4c7c-b03d-aafc1977f19a",
+  "labels": "current-affairs,2017-12-26",
+  "question": "Which antigen is present in O blood group?",
+  "option1": "Either A or B",
+  "option2": "Both A and B",
+  "option3": "Neither A nor B",
+  "option4": "O",
+  "option5": "",
+  "answer": "Neither A nor B",
+  "explanation": "There are no antigens present in Blood group O. It has both anti-A and anti-B antibodies in the plasma and also some special “anti-A,B” antibodies. Blood group AB has both A and B antigens, but no antibodies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T23:01:17.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "d9dcca0b-840f-487f-ae59-8415ae0a9374",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Which among the following disease is called by Yersinia pestis?",
+  "option1": "Leprosy",
+  "option2": "Anthrax",
+  "option3": "Plague",
+  "option4": "Dengue",
+  "option5": "",
+  "answer": "Plague",
+  "explanation": "Plague is an infectious disease caused by Yersinia pestis bacteria. It is usually found in small mammals and their fleas. The disease is transmitted between animals via their fleas. As it is a zoonotic bacterium, it can also transmit from animals to humans."
+}

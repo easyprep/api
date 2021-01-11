@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-30T15:23:13.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "1774c9d9-41c7-432c-aa20-f512ca9f9106",
+  "labels": "current-affairs,2017-12-31",
+  "question": "Amazon river is the largest river in the world by volume and has the largest drainage basin in the world. This accounts for approximately what fraction of the world’s total river flow?",
+  "option1": 0.1,
+  "option2": 0.2,
+  "option3": 0.3,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.2,
+  "explanation": "Amazon river is the largest river in the world by volume and has the largest drainage basin in the world. This accounts for approximately 20% of the world’s total river flow. The Amazon River flows in South America."
+}

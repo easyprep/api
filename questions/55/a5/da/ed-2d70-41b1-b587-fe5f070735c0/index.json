@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-25T20:50:36.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "55a5daed-2d70-41b1-b587-fe5f070735c0",
+  "labels": "current-affairs,2017-12-26",
+  "question": "What fraction of Rajya Sabha members retire after every two years?",
+  "option1": "2021-02-02T18:30:00.000Z",
+  "option2": "2021-01-02T18:30:00.000Z",
+  "option3": "2021-01-01T18:30:00.000Z",
+  "option4": "2021-01-05T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-01-02T18:30:00.000Z",
+  "explanation": "Rajya Sabha is a permanent House and is not subject to dissolution.  However, one-third Members of Rajya Sabha retire after every second year."
+}

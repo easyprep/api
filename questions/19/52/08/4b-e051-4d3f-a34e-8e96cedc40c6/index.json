@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T17:37:53.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "1952084b-e051-4d3f-a34e-8e96cedc40c6",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Ohm is a unit of measuring _________?",
+  "option1": "Resistance",
+  "option2": "Voltage",
+  "option3": "Current",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Resistance",
+  "explanation": "The ohm is the SI unit of electrical resistance. Electrical resistance of an object is the measure of its obstruction to the flow of electric current. It mainly depends on the material it is made of, cross sectional area of a conductor, length and temperature. The resistance of a conductor of unit cross-sectional area and unit length is known as Resistivity. The unit of resistivity is ohm-metre."
+}

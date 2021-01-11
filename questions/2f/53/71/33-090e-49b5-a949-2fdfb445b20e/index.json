@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T15:55:53.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "2f537133-090e-49b5-a949-2fdfb445b20e",
+  "labels": "current-affairs,2017-12-24",
+  "question": "Which among the following dates would normally represent a Winter Solstice in Northern Hemisphere?",
+  "option1": "2021-12-25T18:30:00.000Z",
+  "option2": "2021-01-13T18:30:00.000Z",
+  "option3": "2021-12-20T18:30:00.000Z",
+  "option4": "2021-01-23T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-12-20T18:30:00.000Z",
+  "explanation": "The winter solstice is on December 21 in the Northern hemisphere. The summer solstice is on June 21."
+}

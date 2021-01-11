@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T15:18:30.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "c6d7bf50-28db-44f2-a0d0-2123ca1bb860",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Which among the following is the average Orbital speed of the Earth around the Sun?",
+  "option1": "18.5 km / sec",
+  "option2": "29.7 km/s",
+  "option3": "31.5 km/s",
+  "option4": "33.6 km/s",
+  "option5": "",
+  "answer": "29.7 km/s",
+  "explanation": "The orbital speed of the Earth around the Sun averages about 30 km/s (108,000 km/h), which is fast enough to cover the planet\\'s diameter (about 12,700 km) in seven minutes, and the distance to the Moon of 384,000 km in four hours"
+}

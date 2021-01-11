@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-24T00:53:34.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "f85a8991-4700-4698-a5c0-3581045826ec",
+  "labels": "current-affairs,2017-12-25",
+  "question": "Which among the following is not found in RNA?",
+  "option1": "Adenine",
+  "option2": "Guanine",
+  "option3": "Thymine",
+  "option4": "All of them",
+  "option5": "",
+  "answer": "Thymine",
+  "explanation": "Ribonucleic acid or RNA is a polymeric molecule essential in various biological roles in coding, decoding, regulation and expression of genes. Each nucleotide in RNA contains a ribose sugar, and attached to adenine (A), cytosine (C), guanine (G), or uracil (U)."
+}

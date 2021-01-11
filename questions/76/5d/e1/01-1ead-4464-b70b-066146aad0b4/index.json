@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-26T22:05:19.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "765de101-1ead-4464-b70b-066146aad0b4",
+  "labels": "current-affairs,2017-12-27",
+  "question": "Which among the following is the major objective of NASA’s Kepler mission?",
+  "option1": "To search for habitable planets",
+  "option2": "To search for earth like planets",
+  "option3": "To search for alien life",
+  "option4": "To search for potentially dangerous objects in space",
+  "option5": "",
+  "answer": "To search for earth like planets",
+  "explanation": "The Kepler Mission is specifically designed to survey the Milky Way galaxy to discover hundreds of Earth-size and smaller planets. It is to find out habitable zone and determine the fraction of the hundreds of billions of stars in our galaxy that might have such planets."
+}

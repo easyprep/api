@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-24T18:22:13.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "e120018c-54b2-46c1-a855-be3f68709aa8",
+  "labels": "current-affairs,2017-12-25",
+  "question": "Which among the following is responsible for depletion of Ozone?",
+  "option1": "Carbon monoxide",
+  "option2": "Carbon dioxide",
+  "option3": "Chlorofluoro carbon",
+  "option4": "Mercuric oxide",
+  "option5": "",
+  "answer": "Chlorofluoro carbon",
+  "explanation": "Ozone molecules got destroyed when the chlorine and bromine atoms come into contact with ozone in the atmospheric layer of stratosphere. CFC (Chlorofluoro carbon) slowly moves upward to the stratosphere and are broken up by ultraviolet radiation, which releases chlorine atoms."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-30T16:35:22.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "0afa973a-1241-4258-9e8a-bdf4999da215",
+  "labels": "current-affairs,2017-12-31",
+  "question": "Which among the following is incorrect regarding NPA (Non Performing Assets)?",
+  "option1": "They are loans given by a bank of financial institution where the borrower defaults or delays interest or principle amount",
+  "option2": "Banks are not allowed to book any income from NPAs",
+  "option3": "A loan repayment which is delayed beyond 1 year has to be identified as NPA",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "A loan repayment which is delayed beyond 1 year has to be identified as NPA",
+  "explanation": "A loan repayment which is delayed beyond  180 days has to be identified as NPA"
+}

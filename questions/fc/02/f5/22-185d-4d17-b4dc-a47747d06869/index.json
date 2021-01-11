@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-30T16:58:34.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "fc02f522-185d-4d17-b4dc-a47747d06869",
+  "labels": "current-affairs,2017-12-31",
+  "question": "Enteric fermentation is fermentation that takes place in the digestive systems of ruminant animals. It is one of the reasons for increased ________emissions?",
+  "option1": "Carbondioxide",
+  "option2": "Methane",
+  "option3": "Ammonia",
+  "option4": "Sulphur",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Enteric fermentation is a digestive process that takes place in the digestive systems of ruminant animals by which carbohydrates are broken down by microorganisms into simple molecules for absorption into the bloodstream of an animal."
+}

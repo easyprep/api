@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T17:40:19.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "cfa9a80f-a7bd-4911-a904-c344b5edc53a",
+  "labels": "current-affairs,2017-12-24",
+  "question": "Which among the following is used to listen and record underwater sounds?",
+  "option1": "Altimeter",
+  "option2": "SONAR",
+  "option3": "Hydrophone",
+  "option4": "RADAR",
+  "option5": "",
+  "answer": "Hydrophone",
+  "explanation": "A hydrophone is a microphone designed to be used underwater for recording or listening to underwater sound. The hydrophones are based on a piezoelectric transducer. They generate an electric potential when subjected to a pressure change, such as a sound wave."
+}

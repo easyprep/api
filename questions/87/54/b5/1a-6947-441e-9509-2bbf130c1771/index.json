@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T20:39:06.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "8754b51a-6947-441e-9509-2bbf130c1771",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Which line marks the boundary of the zone where the Sun never sets during June solstice and never rises during December Solstice?",
+  "option1": "Antarctic Circle",
+  "option2": "Arctic Circle",
+  "option3": "Tropic of Cancer",
+  "option4": "Tropic of Capricorn",
+  "option5": "",
+  "answer": "Arctic Circle",
+  "explanation": "The Arctic Circle is an imaginary line around the arctic. It's defined as the latitude above which the sun does not set on the day of the summer solstice and never rises during the December Solstice. This is because the arctic and Antarctic circle have sunlight for 6 months continuously."
+}

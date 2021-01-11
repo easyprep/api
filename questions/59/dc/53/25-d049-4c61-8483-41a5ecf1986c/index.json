@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-26T19:33:39.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "59dc5325-d049-4c61-8483-41a5ecf1986c",
+  "labels": "current-affairs,2017-12-27",
+  "question": "Which among the following is not directly controlled by RBI?",
+  "option1": "Bank rate",
+  "option2": "Base rate",
+  "option3": "Repo rate",
+  "option4": "Cash Reserve Ratio",
+  "option5": "",
+  "answer": "Base rate",
+  "explanation": "Base Rate is the minimum lending rate that banks can charge their customers from July 1, 2010. Prior to this all lending rates were pegged to a Bank’s Prime Lending Rate or PLR. The banks were charging the customers an interest rate which was either above PLR or below PLR, thus PLR serving as an anchor rate. From July 1, 2010, the Base Rate has not only replaced the PLR as a benchmark rate but has also become the new floor rate below which no bank can lend."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-23T17:43:17.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "d41e6239-016f-43b4-8a91-65395d412a1c",
+  "labels": "current-affairs,2017-12-24",
+  "question": "Which among the following is measured using a Vernier Caliper?",
+  "option1": "Dimensions",
+  "option2": "Time",
+  "option3": "Sound",
+  "option4": "Temperature",
+  "option5": "",
+  "answer": "Dimensions",
+  "explanation": "The Vernier caliper has a main scale and a sliding vernier scale which can measure nearest to 0.02 mm. It can be used to measure internal and the external dimensions of an object by using the smaller jaws at the top and the main jaws respectively. By using stems depth can be measured."
+}

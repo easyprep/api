@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T16:41:26.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "457c8156-9248-4741-b351-91d351da70e9",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Which of the following term denotes the internal reaction force per unit area developed as a result of applied external force ?",
+  "option1": "Stress",
+  "option2": "Friction",
+  "option3": "Moment of Inertia",
+  "option4": "tension",
+  "option5": "",
+  "answer": "Stress",
+  "explanation": "Stress is the force acting per unit area. It is the internal force reaction per unit area developed as a result of external force."
+}

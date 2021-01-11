@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-26T14:37:56.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "639a6f3e-018b-47af-9790-713a91c5babd",
+  "labels": "current-affairs,2017-12-27",
+  "question": "A gene is a functional unit of ___?",
+  "option1": "Life",
+  "option2": "Cell",
+  "option3": "DNA",
+  "option4": "Chromosomes",
+  "option5": "",
+  "answer": "Chromosomes",
+  "explanation": "A gene is a functional unit of chromosomes. They are made up of DNA. Some genes also act as instructions to make molecules called proteins. However, not all genes code for proteins."
+}

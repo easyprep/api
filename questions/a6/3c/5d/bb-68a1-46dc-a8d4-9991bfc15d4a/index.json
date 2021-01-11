@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-29T20:33:23.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "a63c5dbb-68a1-46dc-a8d4-9991bfc15d4a",
+  "labels": "current-affairs,2017-12-30",
+  "question": "The power to decide an election petition in India is vested in the ________ ?",
+  "option1": "Parliament",
+  "option2": "Supreme court",
+  "option3": "High Courts",
+  "option4": "President",
+  "option5": "",
+  "answer": "High Courts",
+  "explanation": "Parliament has enacted Section 80-A of the Representation of the People Act, 1951 providing that the \"High Court\" shall be the authority for presentment of election petitions under Article 329(b) of the Constitution."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-24T18:11:25.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "1af4b476-1338-48a7-8e8d-a957a4ffdd35",
+  "labels": "current-affairs,2017-12-25",
+  "question": "Which among the following is the main constituent of Biogas?",
+  "option1": "Methane",
+  "option2": "Ethane",
+  "option3": "Propane",
+  "option4": "Butane",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Biogas comprises primarily methane (CH4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulphide (H2S), moisture and siloxanes."
+}

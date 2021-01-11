@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-30T17:14:57.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "c33845e0-3958-4cd3-bedb-e27ee675aef0",
+  "labels": "current-affairs,2017-12-31",
+  "question": "What is the approximate height of a Geostationary satellite ?",
+  "option1": "981 km",
+  "option2": "15000 kms",
+  "option3": "35000 kms",
+  "option4": "5000 kms",
+  "option5": "",
+  "answer": "35000 kms",
+  "explanation": "The geostationary satellites are at about 35000 km. They remain at same place when seen from earth as they have the same rotational and revolutionary speed as that of the earth."
+}

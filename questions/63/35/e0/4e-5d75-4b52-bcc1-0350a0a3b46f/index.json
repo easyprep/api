@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T17:06:12.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "6335e04e-5d75-4b52-bcc1-0350a0a3b46f",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Which among the following is true about Total Internal Reflection?",
+  "option1": "A ray passing from rarer to denser medium and not able to pass to denser medium at an angle greater than critical angle",
+  "option2": "A ray passing from denser to rarer medium and not able to pass to rarer medium at an angle greater than critical angle",
+  "option3": "A ray passing from either denser to rarer medium or rarer to denser medium and not able to pass any medium at an angle smaller than critical angle",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "A ray passing from denser to rarer medium and not able to pass to rarer medium at an angle greater than critical angle",
+  "explanation": "A ray passing from denser to rarer medium and not able to pass to rarer medium at an angle greater than critical angle. Critical angle is the angle in which the incident ray is 90 degrees to that of the refracted ray."
+}

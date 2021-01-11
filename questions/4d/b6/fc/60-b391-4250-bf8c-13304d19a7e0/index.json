@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-12-27T17:36:06.000Z",
+  "updated_at": "2021-01-06T08:24:13.511Z",
+  "id": "4db6fc60-b391-4250-bf8c-13304d19a7e0",
+  "labels": "current-affairs,2017-12-28",
+  "question": "Equal volumes of all gases contain equal number of molecules under similar conditions of temperature and pressure. Which law says this ?",
+  "option1": "Boyle\\'s law",
+  "option2": "Charles law",
+  "option3": "Avogadro’s Law",
+  "option4": "Bhor\\'s law",
+  "option5": "",
+  "answer": "Avogadro’s Law",
+  "explanation": "Avogadro's law says that under the same conditions of temperature and pressure, equal volumes of different gases contain an equal number of molecules. This empirical relation can be derived from the kinetic theory of gases under the assumption of a perfect (ideal) gas."
+}
