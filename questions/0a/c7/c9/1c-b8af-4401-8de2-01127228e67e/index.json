@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:24.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "0ac7c91c-b8af-4401-8de2-01127228e67e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is produced when we pass chlorine into slaked lime?",
+  "option1": "DDT",
+  "option2": "Baking Powder",
+  "option3": "Bleaching Powder",
+  "option4": "Gypsum",
+  "option5": "",
+  "answer": "Bleaching Powder",
+  "explanation": "Bleaching powder is made by passing Cl2 into slaked lime. Though bleaching powder is often written as Ca(OCl)<sub>2</sub> , it is <u>really a mixture and not a compound. </u>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "8513d3ce-6864-4d89-b203-827a2acfbcf7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <br>1. In osmosis process, the solvent moves from an area of low water potential to an area of high water potential <br>2. In reverse osmosis, external pressure is applied to reverse the flow of solvent<br> Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "In the normal osmosis process, the solvent naturally moves from an area of low solute concentration (high water potential), through a membrane, to an area of high solute concentration (low water potential). The movement of a pure solvent is driven to reduce the free energy of the system by equalizing solute concentrations on each side of a membrane, generating osmotic pressure. Applying an external pressure to reverse the natural flow of pure solvent, thus, is reverse osmosis."
+}

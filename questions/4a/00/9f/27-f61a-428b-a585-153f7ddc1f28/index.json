@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "4a009f27-f61a-428b-a585-153f7ddc1f28",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The alpha radiation is not used in radiotherapy because:",
+  "option1": "It is an ionizing radiation",
+  "option2": "It is unable to penetrate human skin",
+  "option3": "It is toxic to human tissues",
+  "option4": "It is not cost effective",
+  "option5": "",
+  "answer": "It is unable to penetrate human skin",
+  "explanation": "The alpha particles have very large atomic volume and hence do not penetrate human skin."
+}

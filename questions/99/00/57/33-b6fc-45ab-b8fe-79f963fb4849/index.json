@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:24.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "99005733-b6fc-45ab-b8fe-79f963fb4849",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to nuclear energy production, what is the use of boiling water in a boiling water reactor (BWR)?<br> 1. As a coolant<br> 2. As a neutron moderator<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The boiling water reactor (BWR) uses demineralized water as a coolant and neutron moderator."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:39.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "db70e2ed-45f4-4d6e-b4ba-67c736dd5fdd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol> <li>Fructose</li> <li>Sucrose</li> <li>Lactose</li> </ol> Which of the above are disaccharides?",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "A disaccharide is a sugar (a carbohydrate) composed of two monosaccharides. It is formed when two sugars are joined together and a molecule of water is removed. Sucrose is a disaccharide made up of 50% glucose and 50% fructose. Lactose is a disaccharide molecule; a sugar composed of galactose and glucose that is found in milk."
+}

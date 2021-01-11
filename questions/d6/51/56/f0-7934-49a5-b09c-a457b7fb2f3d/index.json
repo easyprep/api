@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "d65156f0-7934-49a5-b09c-a457b7fb2f3d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Chlorophyll:<br> 1. is found only in higher plants<br> 2. absorbs green light of the spectrum to produce energy<br> 3. a magnesium containing protein<br> Which among the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Chlorophyll absorbs light most strongly in the blue portion of the electromagnetic spectrum, followed by the red portion. Conversely, it is a poor absorber of green and near-green portions of the spectrum, hence the green color of chlorophyll-containing tissues. At the center of the chlorin ring is a magnesium ion. At the time of its discovery in the early 1900s, this was the first time that this element had been detected in living tissue."
+}

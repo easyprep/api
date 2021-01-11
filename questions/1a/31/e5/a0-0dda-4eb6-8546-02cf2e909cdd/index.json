@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:38.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "1a31e5a0-0dda-4eb6-8546-02cf2e909cdd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with the heavenly bodies, which among the following shows &#8220;lighthouse effect&#8221;?",
+  "option1": "Quasar",
+  "option2": "White Dwarf",
+  "option3": "Red Giant",
+  "option4": "Pulsar",
+  "option5": "",
+  "answer": "Pulsar",
+  "explanation": "Pulsar emit radio (electromagnetic) signals at regular interval of time. Pulsars are a kind of neutron stars and the emission is detectable when the source of beam of the electromagnetic waves is towards Earth. This is known as Light house effect and is gives a pulsed nature to pulsars."
+}

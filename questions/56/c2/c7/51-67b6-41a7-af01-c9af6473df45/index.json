@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:36.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "56c2c751-67b6-41a7-af01-c9af6473df45",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Glucose</li>\r\n<li>Light</li>\r\n<li>CO2</li>\r\n<li>Water</li>\r\n<li>Oxygen</li>\r\n</ol>\r\nWhich among the above are essential for photosynthesis?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 3 & 4",
+  "option4": "Only 3, 4 & 5",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "Photosynthesis requires light, carbon dioxide and water and produces oxygen and glucose."
+}

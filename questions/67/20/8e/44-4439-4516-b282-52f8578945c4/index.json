@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:42.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "67208e44-4439-4516-b282-52f8578945c4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>A chromosome consists of DNA, which consists of genes</li>\r\n<li>Most of the human DNA codes for proteins</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The entire chromosome consists of DNA. However, less than 3% of the DNA actually consists of genes. There are thought to be about 30,000 genes in humans. Less than 3% of human DNA codes for proteins. Most of the DNA in eukaryotic chromosomes consists of repetitive sequences that never get transcribed."
+}

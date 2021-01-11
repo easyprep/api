@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "ed545971-3ad1-4256-9c18-2938517b38de",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements with respect to the speed of light in various media is / are correct?\r\n<ol>\r\n<li>It is greater in vacuum in comparison to glass</li>\r\n<li>It is greater in hot glass in comparison to cold glass</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Both 1 & 2 are incorrect",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Speed of light, c, is defined only for a perfect vacuum. If light travels through something that has mass, such as air or glass, the velocity is reduced. The velocity of light in these materials is given as c/n, where n is called the refractive index of the material. A perfect vacuum has an index of refraction equal to unity, but almost all other materials have an index greater than one. Window glass has a refractive index of approximately n=1.5, so light travels with a velocity of about 2/3 c in glass. Air has an index of 1.0003, so the speed of light in air is nearly the same as in vacuum, but just a little slower. As a rule of thumb, materials which have higher density have larger refractive indices. If the density of a material changes with temperature, the speed of light in that material will also change. Have you ever seen “heat waves” coming off an object that is hot? This is due to hot air rising and bending the light rays that travel past the object. Hot air has a lower density than cold air, so light travels faster in hot air than in cold air. As the hot air mixes with the surrounding cold air, the light goes slightly faster in the hot regions, and this causes the distortion. So, the speed of light can be indirectly affected by temperature, but only if the medium the light is travelling through changes density."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c9fcf70b-fe69-46f6-b65a-7480ad27da5f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Antibiotic resistance: <ol> <li>Antibiotics are medicines used to prevent and treat bacterial infections</li> <li>India&#8217;s Red Line campaign aims to curb irrational use of antibiotics</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Antibiotic resistance is an example of natural selection. It can be result of overuse of antibiotics and can be induced by horizontal gene transfer. India launched Red Line campaign to curb irrational use of antibiotics."
+}

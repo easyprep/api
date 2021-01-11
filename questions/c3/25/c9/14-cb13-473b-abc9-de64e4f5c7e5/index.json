@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:21.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c325c914-cb13-473b-abc9-de64e4f5c7e5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In Human body, liver is one of the most important organs. What functions are done by Liver?<br> 1. storing amino acids that were absorbed in the capillaries of the small intestine<br> 2. detoxifying harmful substances such as alcohol or nicotine<br> 3. synthesizing bile salts that emulsify lipids<br> 4. breaking down peptides into amino acids<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 , 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 , 2 & 3",
+  "explanation": "The liver does not break down peptides into amino acids. This function is done in stomach and duodenum."
+}

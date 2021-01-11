@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "ebba4980-9c98-4f3e-bef4-1ab5234ed168",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following comparisons of the Antigens and Antibody:<br> 1.Antigen is generally protein, antibody is generally not protein<br> 2.For a vaccine to work, it needs to induce the body to produce antigens against the cause of the disease<br> Which among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "This is a very fundamental question. Antigen is a protein or sugar (carbohydrate) contained on the surface of a cell, foreign object or infectious organism that the immune system can recognize and decide to attack. The immune system identifies antigens as being &#8216;self&#8217; (normal to the body) or foreign (not normally found in the body). In normal animals, the immune system only attacks foreign antigens (e.g. antibodies should only be produced against foreign antigens). Antibody is a protein made by a B cell that binds to a very specific antigen. Each different B cell (plasma cell) makes only one type of antibody and this antibody is very specific for a particular antigen. When an antibody finds a foreign antigen, it binds to the antigen and then calls other inflammatory cells over to kill it. The second statement has been tweaked. For a vaccine to work, it needs to induce the body to produce antibodies against the cause of the disease. The mechanism by which vaccination works is complex and involves many chemical and cellular reactions within and between the immune system cells of the body. Basically, the role of vaccination is to expose the naïve immune system (immune system that has not yet been exposed to the foreign proteins/sugars &#8211; termed antigens &#8211; contained on attacking organisms) to viral and bacterial antigens contained within the vaccine so that, in the future, if the body gets attacked by a related virus / bacteria the immune system will recognize (remember) the antigens contained on these infectious disease organisms and activate very quickly (within hours as opposed to weeks with an unvaccinated, inexperienced immune system) to kill them. By having a large, mature immune response activate more rapidly, the hope is that the invading disease-causing organisms will be neutralized more quickly (before they get to replicate or invade deep into the body), thereby resulting in only mild, if any, clinical disease."
+}

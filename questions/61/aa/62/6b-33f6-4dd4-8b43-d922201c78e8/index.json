@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:33.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "61aa626b-33f6-4dd4-8b43-d922201c78e8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Concentrated Solar Power (CSP) and Photovoltaic Panels (PV): <ol> <li>While CSP method generates direct current (DC), PV method produces alternating current (DC)</li> <li>While CSP method utilizes Sun&rsquo;s heat to generate electricity, PV method does not use Sun&rsquo;s heat to generate electricity</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<u>First statement is incorrect</u> because CSP method generates alternating current (AC), while PV method produces direct electric current (DC). <u>Second statement is correct</u> because While CSP method utilizes Sun&rsquo;s heat to produce electricity, PV method use light energy to produce electricity."
+}

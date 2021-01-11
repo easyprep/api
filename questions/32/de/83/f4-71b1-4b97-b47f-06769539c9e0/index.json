@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "32de83f4-71b1-4b97-b47f-06769539c9e0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements?\r\n<ol>\r\n<li>Natural Uranium mostly contains U-238, which is NOT a fissile material</li>\r\n<li>If U-238 is exposed to fast neutrons, it converts in U-235, which is a fissile material</li>\r\n<li>Exposing Fast Neutrons to U-238 to convert it into U-235 is called Uranium Enrichment</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "In this question, ONLY the first statement is correct. Rest two incorrect statements. Natural uranium mostly contains U238 and only 0.7 per cent of U235. It is only U235 that can be split using a slow neutron beam, producing enormous amounts of heat, to boil water, generate steam and run a turbine like in any other power station. Whereas U238 is not fissile, however, some of U238 converts itself into plutonium (Pu239), if exposed to fast neutrons. This new element, Pu239, can be easily burnt to produce power or to make nuclear weapons. If we mix 25-30 per cent of plutonium with U238 and expose it to fast neutrons in a reactor, the plutonium will burn and give us about 20 times more power than the natural uranium reactors now in operation. Meanwhile, some of the U238 in the fuel would absorb some fast neutrons and get converted again into plutonium. Since roughly 1.1 kg of plutonium comes out of the spent fuel due to this conversion, for every 1 kg that was initially put in the fuel rod, such reactors are called breeder reactors. Since fast neutrons are used to trigger the chain reaction, such reactors are called fast breeder reactors. Additionally, if we cover the reactor core with a blanket of either U238 or thorium, then this blanket captures some of the fast neutrons coming out of the core, which would have escaped and been wasted. On reprocessing this irradiated blanket, we could recover either Pu239 or U233."
+}

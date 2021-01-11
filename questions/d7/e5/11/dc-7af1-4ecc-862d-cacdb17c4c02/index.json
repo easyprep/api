@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:24.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "d7e511dc-7af1-4ecc-862d-cacdb17c4c02",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:<br> 1. Cylinder<br> 2. Spark Plug<br> 3. Piston<br> Which of the above is / are used in Diesel engine?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "A diesel engine is an internal combustion engine that uses the heat of compression to initiate ignition to burn the fuel that has been injected into the combustion chamber. As opposed to spark-ignition engine such as petrol engine, which uses a spark plug to ignite an air fuel mixture."
+}

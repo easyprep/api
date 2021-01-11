@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:37.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "b2e02adf-5186-4940-a47c-f53bb7c63bf1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "When you throw a ball with an angle to the horizontal (projectile); the ball has __:",
+  "option1": "Uniform velocity in horizontal direction but uniform acceleration in vertical direction",
+  "option2": "Uniform acceleration in horizontal direction but uniform velocity in vertical direction",
+  "option3": "Uniform acceleration in both horizontal and vertical directions",
+  "option4": "Uniform velocity in both horizontal and vertical directions",
+  "option5": "",
+  "answer": "Uniform velocity in horizontal direction but uniform acceleration in vertical direction",
+  "explanation": "The motion of a projectile is two dimensional motion consisting of (i) horizontal motion and (ii) vertical motion. Hence, at any instant, the velocity of a projectile has two components (i) horizontal component and (ii) vertical component. The horizontal component remains unchanged throughout the flight as there is no acceleration in horizontal direction. The vertical component is continuously affected by the force of gravity. Thus, the horizontal motion is uniform motion but the vertical motion is uniformly accelerated motion.)"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "d6b1e70d-0e30-4b3f-bd43-62ddccc93771",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following elements are liquid at or near room temperature? <ol> <li>Cesium</li> <li>Mercury</li> <li>Gallium</li> <li>Francium</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "1, 2 & 3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Four metals that are liquid at or near room temperature are: mercury, cesium, gallium, and francium."
+}

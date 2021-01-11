@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:27.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "61407fe0-6493-4bae-8dbf-add222e68275",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In which among the following, the speed of sound would be maximum?",
+  "option1": "Dry air at 0°C",
+  "option2": "Dry air at 30°C",
+  "option3": "Humid air at 0°C",
+  "option4": "Humid air at 30°C",
+  "option5": "",
+  "answer": "Humid air at 30°C",
+  "explanation": "The speed of sound in a medium depends on temperature of the medium. The speed of sound decreases when we go from solid to gaseous state. In any medium as we increase the temperature the speed of sound increases.. The speed of sound will be highest in humid air at 30°C."
+}

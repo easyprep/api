@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:26.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "0a305756-6596-4b9d-9784-d30251c11c33",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong>Navigation Satellite System</strong> : <strong>Country</strong><br> 1. BeiDou : Japan<br> 2. GLONASS : Russia<br> 3. Quasi-Zenith: Europian Union<br> Which of the above pairs is/are correctly matched?",
+  "option1": "2 Only",
+  "option2": "1 and 3 Only",
+  "option3": "1,2 and 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "GLONASSis a Russia&#039;s global navigation system. Fully operational worldwide.<br> Galileo is a global system being developed by theEuropean Unionand other partner countries, planned to be operational by 2016 (and fully deployed by 2020).<br> Beidouis a People&#039;s Republic of China&#039;s regional system, currently limited to Asia and the West Pacific.<br> COMPASSis a People&#039;s Republic of China&#039;s global system, planned to be operational by 2020.<br> IRNSSis a India&#039;s regional navigation system, covering India and Northern Indian Ocean.<br> QZSS is a Japanese regional system covering Asia andOceania."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:21.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "a2572209-b283-4cc8-b2db-efe8e42c3157",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following disease(s) are vector borne?<br />1. Chikungunya<br />2. Japanese Encephalitis (JE)<br />3. Lymphatic Filariasis<br />4. Kala-azar<br />5. Tse-tse<br />Choose the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 2, 3 & 5",
+  "option3": "Only 2, 3, 4 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": "Vector borne diseases are that which results from an infection transmitted to humans and other animals by blood-feeding anthropods, such as mosquitoes, ticks, and fleas. Some of them are Chikungunya, Japanese Encephalitis (JE), Lymphatic Filariasis, Kala-azar, Tse-tse."
+}

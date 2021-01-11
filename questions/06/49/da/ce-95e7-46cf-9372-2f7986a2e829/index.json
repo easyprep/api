@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "0649dace-95e7-46cf-9372-2f7986a2e829",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Sound waves, which among the following is / are correct statements?<br> 1. The frequency determines the pitch of a sound, and the amplitude determines the intensity (or loudness)<br> 2. Frequency is proportional to amplitude<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The frequency determines the pitch of a sound, and the amplitude determines the intensity (or loudness). Pitch and loudness are independent. A sound can be soft and low pitched, soft and high pitched, loud and low pitched, or loud and high pitched; there’s no connection."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:37.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "df424273-c0b1-4265-b832-ebca9668be8a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "When you place a cup of hot tea on a metal table in a room; the cup of tea will lose heat by which of the following methods?\r\n<ol>\r\n<li>Conduction</li>\r\n<li>Convection</li>\r\n<li>Radiation</li>\r\n<li>Evaporation</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 2, 3 & 4",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "In this question; the correct answer would involve all ways as the table is made of metal. What if the table was of wood? In that case, we could simply opt out Conduction. Basically, when it comes to conducting heat, not all substances are created equal. Metals and stone are considered good conductors since they can speedily transfer heat, whereas materials like wood, paper, air, and cloth are poor conductors of heat."
+}

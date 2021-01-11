@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "a34e35e4-0fdf-451c-8846-a7aa8b12c063",
+  "labels": "current-affairs,2018-08-04",
+  "question": "On the cellular level, the most important hazard due the use of persistent chemical DDT is that:",
+  "option1": "It gets accumulated in the cytoplasm and hinders in metabolism",
+  "option2": "It dissolves in the cell membrane and makes the cells to leak",
+  "option3": "It binds with the cell membrane and makes it impermeable",
+  "option4": "It changes the pattern of chemical bonds in the Chromosomes",
+  "option5": "",
+  "answer": "It dissolves in the cell membrane and makes the cells to leak",
+  "explanation": "The plasma membrane is made up mostly of lipids (fats). Remember that DDT is fat soluble, and so it will dissolve easily into the plasma membrane. In order to get into the plasma membrane, the DDT must open up the membrane slightly to make room for itself. DDT, unfortunately, opens up the membrane a little too much and causes the cell to leak. On the other hand, DDT is soluble in lipids (fats). This means that once an animal ingests a little DDT, it will mix in with its fat. And as we all know, all organisms (including human beings) have a certain amount of residual fat in their bodies. Once DDT gets in there, it tends to stay."
+}

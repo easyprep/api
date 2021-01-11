@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:38.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "b4cffe21-8e32-418b-84a9-e65beb89982c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following diseases: <ol> <li>Cholera</li> <li>Malaria</li> <li>Tuberculosis</li> <li>Sleeping sickness</li> </ol> Which of the above diseases are caused by protozoan?",
+  "option1": "1 & 4 Only",
+  "option2": "1 & 2 Only",
+  "option3": "2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "2 & 4 Only",
+  "explanation": "Sleeping sickness is caused by two germs (protozoa), Trypanosoma brucei rhodesiense and Trypanosomoa brucei gambiense. Malaria is a mosquito-borne infectious disease affecting humans and other animals caused by parasitic protozoans."
+}

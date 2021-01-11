@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:39.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "2395c983-777a-4570-866d-14b10234df56",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Consider the following differences between bacteria and virus: <ol> <li>While ribosomes are present in bacteria, they are absent in virus</li> <li>While nucleus is present in bacteria, it is absent in virus</li> </ol> &nbsp;&nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "A virus is a small infectious agent that replicates only inside the living cells of other organisms. Bacteria constitute a large domain of prokaryotic microorganisms.&nbsp;While bacteria are unicellular, viruses have no cells."
+}

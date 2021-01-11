@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:39.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "23b84ffc-595e-4fe0-80b2-bb40a594e9da",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>The lowest boiling point among alkanes is of methane</li>\r\n<li>The boiling point of butane is equal to melting point of water</li>\r\n<li>The most produced organic compound in the world is Ethylene</li>\r\n<li>Of all the fossil fuels, natural gas causes minimum pollution</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 3 & 4",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "<ul>\r\n<li>There is a rise in boiling and melting points of alkanes with respect to increase in length of the chain C1 to c4 are in gaseous state at room temperature, c5 to c12 are liquid. C20 onwards, alkanes are solids at room temperature.</li>\r\n<li>Butane boils at o°C</li>\r\n<li>Natural Gas primarily contains Methane (CH4) and the bye products are ethane, propane, butane and pentanes. Ethane is primarily used for production of Ethylene which is most produced organic compound in the world and is an important plant hormone. Alkanes from pentane to Octane are refined into petrol (Gasolene) Alkanes from Nonane to Hexadecane are refined to Diesel and Kerosene.</li>\r\n<li>The alkanes above hexadecane are refined into fuel oil and lubricating oil.</li>\r\n</ul>"
+}

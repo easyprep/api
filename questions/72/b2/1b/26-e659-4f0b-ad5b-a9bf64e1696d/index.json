@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "72b21b26-e659-4f0b-ad5b-a9bf64e1696d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are features of the Crazy balls?\r\n<ol>\r\n<li>Higher elasticity</li>\r\n<li>Higher resilience</li>\r\n<li>Higher viscosity</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Rubber is a common viscoelastic material which means it is both viscous and elastic. Further, Rubber is also characterized by another property called resilience. Resilience is the ability of a material to absorb energy when it is deformed elastically, and release that energy upon unloading. Higher the resilience, higher is the bounce in a rubber ball, which means higher elasticity and lesser viscosity. We note here that the butadiene rubber has higher resilience property, followed by natural rubber."
+}

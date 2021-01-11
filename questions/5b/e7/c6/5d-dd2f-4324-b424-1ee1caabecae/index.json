@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "5be7c65d-dd2f-4324-b424-1ee1caabecae",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are features of the Stainless Steel?\r\n<ol>\r\n<li>It essentially has carbon content</li>\r\n<li>It is stainless because of presence of nickel</li>\r\n<li>It is not 100% recyclable</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Steel is an alloy of iron, with carbon, which may contribute up to 2.1% of its weight. Stainless steel has Chromium which makes is hard to get corrugated. Stainless steel is resistant to rusting and corrosion because of its chromium content. Stainless steel usually contains 70-90 per cent Iron, 12-20 per cent chromium and 0.1 to 0.7 per cent carbon. Nickel and Molybdenum may also be added to obtain an improved variety of stainless steel. It is 100% recyclable."
+}

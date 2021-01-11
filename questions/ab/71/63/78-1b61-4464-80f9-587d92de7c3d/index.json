@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:36.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "ab716378-1b61-4464-80f9-587d92de7c3d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following disease(s) is/are caused by bacterial infection? <ol> <li>Tuberculosis</li> <li>Dengue</li> <li>Japanese encephalitis</li> <li>Chickenpox</li> <li>Diphtheria</li> <li>Jaundice</li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 and 3 Only",
+  "option2": "1 & 5 Only",
+  "option3": "1, 5 & 6 Only",
+  "option4": "1, 2, 3, 4, 5 and 6",
+  "option5": "",
+  "answer": "1 & 5 Only",
+  "explanation": "Tuberculosis is a disease caused by bacterial infection which mainly affects lungs. BCG vaccine protects against tuberculosis.<br> Dengu fever is a mosquito-borne viral infection transmitted by the Aedes mosquitoes, which normally bites during the day time.It mainly effects liver of the body.No vaccination available for it.<br> Diphtheria is caused by bacterial infection is usually spread between people by direct contact or through the air effecting mainly throat and sometimes the tonsils in the body.Vaccination is available for it.<br> Chickenpox, also known as varicella, is a highly contagious disease caused by the viral infection and mainly damages nervous system of the body.Vaccination is available for it.<br> Japanese encephalitis is a mosquito-borne viral disease mainly effecting liver of the body.Vaccination is available for it.<br> Jaundice is a viral disease caused by hepatitis C virus which leads to inflamation of liver increasing excretion of bilirubin"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:42.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "04fea1e7-17ae-428d-a873-03a58c447e83",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Seeds__:<br> 1. always contain cotyledon<br> 2. are not found in conifers, bryophytes and ferns<br> 3. contain the gametophyte<br> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Seeds contain the embryo (and not gametophyte) and the food for the embryo, the endosperm (in monocots) or thecotyledon (in dicots). All plants do not produce seeds; for example, bryophytes and the ferns do not. Conifers do produce seeds. They are located on cones."
+}

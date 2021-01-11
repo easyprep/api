@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:21.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "a7c32c26-c087-4836-bea2-adce8e0a6d58",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following keep changing for a body in uniform circular motion? <br> 1. Speed<br> 2. Amplitude<br> 3. Velocity<br> 4. Acceleration<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "Only 1 & 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "Uniform circular motion denotes the motion of an object in a circle at a constant speed. An object moves in a circle constantly changes its direction. Velocity and acceleration changes but the speed does not change."
+}

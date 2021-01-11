@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:27.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "f98b42e5-fd80-42fa-bfa1-517a7e44379b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the International Energy Agency (IEA) said that by 2030, natural gas will be the world’s second largest energy fuel, after oil. Which of the following is/ are correct statements regarding Natural Gas?\r\n<ol>\r\n<li>It is at present most clean fossil fuel</li>\r\n<li>It poses almost no risks of Green House warming</li>\r\n<li>It is a major feedstock for the production of ammonia</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "<p class=\\\"Explanation\\\">Even though it is cleaner than coal and oil, it still contributes a large amount of carbon dioxide to greenhouse gases. By itself natural gas is mostly methane, which is 21 times more dangerous for greenhouse warming than carbon dioxide so any leakage of the gas (from animals, landfills, melting tundra, etc) contributes strongly to greenhouse emissions."
+}

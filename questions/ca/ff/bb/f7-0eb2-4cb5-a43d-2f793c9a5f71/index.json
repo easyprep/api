@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "caffbbf7-0eb2-4cb5-a43d-2f793c9a5f71",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Two Flat mirrors are placed at an angle of 60° from each other. How many images will be formed of a Candle placed in between them?",
+  "option1": "Three",
+  "option2": "Four",
+  "option3": "Five",
+  "option4": "Six",
+  "option5": "",
+  "answer": "Five",
+  "explanation": "Number of images = (360÷angle) &#8211; 1 <ul> <li>If the mirrors are placed at parallel to each other , the images will be infinite in numbers</li> <li>If the mirrors are placed at an angle of 90° with each other , 3 images will be produced.</li> </ul> The more we decrease the angle between the two mirrors from 90°, the more will be number of images. <ul> <li>At 60° the number of images is 5&#8242;</li> <li>At 30°, the number of images will be 11.</li> </ul> This concept is the principle of working of the Kaleidoscopes that operate on multiple reflection, several mirrors are attached together. The three mirrors if set at 45° from each other, creates eight duplicate images of the objects, six at 60°, and four at 90°."
+}

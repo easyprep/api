@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:32.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "dd7d3917-c996-4e53-bf42-4695f45f67ba",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Chandrasekhar limit postulated by Nobel laureate S. Chandrasekhar, consider the following statements:\r\n<ol>\r\n<li>The Chandrasekhar limit means that a star would not form a stable white dwarf at the end of its life if its mass was smaller than 1.44 times the solar mass</li>\r\n<li>Below the Chandrasekhar limit, the white dwarf will explode as what is called a “Type 1a supernova”</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "In 1931, the astrophysicist Subrahmanyan Chandrasekhar theorised that a star would not form a stable white dwarf at the end of its life if its mass was greater than 1.44 times the solar mass (1.44 Ms). This is known as the Chandrasekhar limit, above which the white dwarf will explode as what is called a “Type 1a supernova”. This work fetched Chandrasekhar the Nobel Prize in 1983. In a recent work published in the latest issue of Physical Review Letters, Banibrata Mukhopadhyay and Upasana Basu, astrophysicists at the Indian Institute of Science (IISc), Bangalore, have shown that white dwarfs with very high magnetic fields (greater than about 2 x 1013 gauss, or 20 trillion gauss) in their cores can breach this limit and grow into much bigger and brighter white dwarfs. Significantly, the Nobel laureate had not included the effect of magnetic field in arriving at his result. The new finding leads the authors to postulate the existence of a “Super-Chandrasekhar limit” of 2.58 Ms for such highly magnetised white dwarfs beyond which these too will explode."
+}

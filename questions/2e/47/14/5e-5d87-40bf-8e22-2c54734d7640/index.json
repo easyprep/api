@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "2e47145e-5d87-40bf-8e22-2c54734d7640",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Atomic clocks are must reliable time keepers as of now. What gives them such reliability?",
+  "option1": "Atomic Clocks keep time by the oscillation of the nucleus of an atom and its  surrounding electrons",
+  "option2": "Atomic clocks work on radioactive disintegration of the nuclei in atoms",
+  "option3": "Atomic clocks work on vibration of atoms when electricity is passed through them",
+  "option4": "None of them is a correct reason",
+  "option5": "",
+  "answer": "Atomic Clocks keep time by the oscillation of the nucleus of an atom and its  surrounding electrons",
+  "explanation": "Normal clocks and watches work on either mechanical or electronic control systems. These systems are not very accurate as they can be affected by many factors. On the other hand, atomic clocks keep time by the oscillation of the nucleus of an atom and its surrounding electrons. The mass of the nucleus and the gravity and electrostatic “spring” between the positively charged nucleus and the electrons set the oscillation frequencies. This oscillation is not directly analogous to the time keeping of normal clocks, but both types of clocks use oscillations to keep track of time. Atomic clocks are more reliable time keepers because their oscillations are not subject to change according to environmental factors such as humidity that would decrease the accuracy of normal clocks. A common misconception is that the atomic clock works on radioactive disintegration of the nuclei. These clocks do not keep time according to atomic decay. In quartz clocks, the vibrations of a quartz crystal are controlled and used to measure time. The quartz vibrates at the rate of 32,768 Hz when electricity is passed through it."
+}

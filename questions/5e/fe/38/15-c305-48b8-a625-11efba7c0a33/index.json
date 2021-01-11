@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "5efe3815-c305-48b8-a625-11efba7c0a33",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following comparisons of Local Area Network (LAN) and Wide Area Network (WAN) is / are correct?\r\n<ol>\r\n<li>The maximum speed of data transfer of LAN is much lesser than a WAN</li>\r\n<li>A printer can be shared on a LAN but not a WAN</li>\r\n<li>LAN uses the Ethernet standard, while a WAN uses the T1 standard</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "The first statement is incorrect because data can be transferred much faster on LAN. <br />Second statement is incorrect because now a days, a printer can be shared both over LAN and WAN.<br />Third statement is correct."
+}

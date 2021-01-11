@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:32.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c3cb1e1e-3e20-46b6-8b76-e776a474af93",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The pointer or arrow of the magnetized needle of a compass indicates which among the following?",
+  "option1": "Geographic North Pole",
+  "option2": "Magnetic North Pole",
+  "option3": "Geo-magnetic North Pole",
+  "option4": "Magnetic South Pole",
+  "option5": "",
+  "answer": "Magnetic South Pole",
+  "explanation": "The north pole of a magnet in a compass points north because it is attracted to the Earth&#8217;s magnetic south pole, which is located near Earth&#8217;s geographic north pole. The geographic north pole of earth corresponds to magnetic south pole and geographic south pole of earth corresponds to magnetic north pole. The direction in which a compass needle points is known as magnetic north. This is not exactly the direction of the North Magnetic Pole. Instead, the compass aligns itself to the local geomagnetic field, which varies in a complex manner over the Earth&#8217;s surface. The angular difference between magnetic north and true north (defined in reference to the Geographic North Pole), at any particular location on the Earth’s surface, is called the magnetic declination. Most map coordinate systems are based on true north, and magnetic declination is often shown on map legends so that the direction of true north can be determined from north as indicated by a compass."
+}

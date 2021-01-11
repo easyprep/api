@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "a0eb671b-f7f3-4ce3-9d02-d6c7dde0234d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Stars closer to the horizon would appear to twinkle more than others normally. What could be the possible explanation to this?\r\n<ol>\r\n<li>Atmosphere is dense at Horizons</li>\r\n<li>The energy produced from stars keep varying</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "Stars seem to twinkle or change their brightness all the time. In fact, most stars shine with a steady light. The movement of air (sometimes called turbulence) in the Earth’s atmosphere causes the starlight to get slightly bent as it travels from the distant star through the atmosphere to us on the ground. Some of the light reaches us directly but some gets bent slightly. This gives the illusion of twinkling. Stars closer to the horizon appear to twinkle more than others. This is because the atmosphere is a lot denser near the horizon than between the Earth and a star higher in the sky. The second statement has nothing to do with the twinkling."
+}

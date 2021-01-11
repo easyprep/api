@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:30.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "eed9afb7-71e4-4db3-bb28-65e60186487c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "On heating a pure silicon circular disc with a circular hole at the centre, the diameter of the hole:",
+  "option1": "will expand",
+  "option2": "will contract",
+  "option3": "will remain constant",
+  "option4": "may expand or contract",
+  "option5": "",
+  "answer": "will contract",
+  "explanation": "Pure silicon has a negative coefficient of thermal expansion for temperatures&nbsp;and hence it shows contraction effect."
+}

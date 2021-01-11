@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:26.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "3a0484e3-1909-4d32-b701-33ad65b2c6ae",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong> Mines in India : Metals extracted</strong> <ol> <li>Malajkhand :Copper</li> <li>Jaduguda :Uranium</li> <li>Kolar :Diamond</li> </ol> Which of the above pairs is/are correctly matched?",
+  "option1": "2 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1,2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 and 2 Only",
+  "explanation": "Kolar mines are Gold mines."
+}

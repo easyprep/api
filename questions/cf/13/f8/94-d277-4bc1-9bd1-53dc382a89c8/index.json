@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:36.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "cf13f894-d277-4bc1-9bd1-53dc382a89c8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, Germany rolled out world’s first hydrogen-powered train.  Hydrogen fuel cell can provide powerful and nearly clean source of energy, but there are several challenges that make them difficult means of energy production. Which of the following is / are correct statements in this context? \r\n<ol>\r\n<li>The technologies to free hydrogen from other elements are not cost effective </li>\r\n<li>Hydrogen fuel is difficult to store and move around</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Major problem associated with Hydrogen fuell cell is with extracting and storing of hydrogen on safety backgrounds as it has high energy content. Beside this, hydrogen requires atleast twice energy as electricity to that of the tonnage of coal, twice to that of nuclear plants to provide an equivalent unit of work. Most of today\\'s hydrogen is produced from natural gas, which is only an interim solution since it discards 30% of the energy in one valuable but depletable fuel (natural gas) to obtain 70% of another (hydrogen).The challenge is to develop more appropriate methods based on sustainable energy sources, methods that do not employ electricity as an intermediate step in extraction of hydrogen."
+}

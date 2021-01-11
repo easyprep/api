@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "a64181dc-2bb2-4460-a5f7-8becff1376e7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Glucose, Fructose and Galactose have a common molecular formula C6H12O6. Which among the following make them different?<br> 1. Different arrangements of atoms<br> 2. Different shapes<br> 3. Not all three are soluble in water<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "All three (glucose, fructose and galactose) contain 6 oxygen atoms, 6 carbon atoms and 12 hydrogen atoms. However, all are arranged differently and have different shapes. All three are soluble in water"
+}

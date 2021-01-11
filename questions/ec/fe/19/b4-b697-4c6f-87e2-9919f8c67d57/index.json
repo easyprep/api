@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:28.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "ecfe19b4-b697-4c6f-87e2-9919f8c67d57",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Radioactivity, which among the following is called an isomeric transition?",
+  "option1": "Alpha emission",
+  "option2": "Gamma emission",
+  "option3": "Beta emission",
+  "option4": "X-Ray emission",
+  "option5": "",
+  "answer": "Gamma emission",
+  "explanation": "An isomeric transition is a radioactive decay process that involves emission of a gamma ray from an atom where the nucleus is in an excited metastable state, referred to in its excited state, as a nuclear isomer. The emission of a gamma ray from an excited nuclear state allows the nucleus to lose energy and reach either a lower energy state, sometimes its ground state. In certain cases, the excited nuclear state following a nuclear reaction or other type of radioactive decay, has a half live that is more than 100 to 1000 times longer than the average 10-12 seconds, and this excited state is referred to as a metastable nuclear excited state. Some nuclei are able to stay in this metastable excited state for minutes, hours, days, or occasionally far longer, before undergoing gamma decay, in which they undergo radioactive decay with primary emission of a gamma ray."
+}

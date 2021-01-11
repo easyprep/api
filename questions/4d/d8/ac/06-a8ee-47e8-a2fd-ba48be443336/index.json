@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:36.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "4dd8ac06-a8ee-47e8-a2fd-ba48be443336",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Which of the following rocks are most likely to contain fossils? <ol> <li>Limestone</li> <li>Granite</li> <li>Shale</li> <li>Marble</li> </ol> &nbsp; Select the correct option from codes given below:",
+  "option1": "1 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "1, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 3 Only",
+  "explanation": "Granite is an example of igneous rock that is formed due to crystallization of magma under deep seated condition and hence it completely lacks fossils.&nbsp; Sandstone, shale, and limestones are sedimentary rocks that are formed due to disintegration of earlier rocks. These contain fossils. Marble is an example of metamorphic rock. Metamorphic rocks are formed due to recrystallisation of any kind of rock."
+}

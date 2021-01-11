@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:34.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "a39b15b0-555d-4868-85a0-ac95b24e34f0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol> <li>Sulphur Dioxide (SO<sub>2</sub>)</li> <li>Carbon Dioxide&nbsp; (CO<sub>2</sub>)</li> <li>Nitrogen Dioxide (NO<sub>2</sub>)</li> <li>Respirable Suspended Particulate Matter (RSPM)</li> <li>Suspended Particulate Matter (SPM)</li> </ol> Which of the above are included under the National Air Quality Monitoring Programme (NAQMP)?",
+  "option1": "Only 1, 2, 3 & 4",
+  "option2": "Only 2, 3, 4 & 5",
+  "option3": "Only 1, 3, 4 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "Only 1, 3, 4 & 5",
+  "explanation": "Under N.A.M.P., four air pollutants&nbsp;viz., Sulphur Dioxide (SO2), Oxides of Nitrogen as NO2, Suspended Particulate Matter (SPM) and Respirable Suspended Particulate Matter (RSPM / PM10) have been identified for regular monitoring at all the locations."
+}

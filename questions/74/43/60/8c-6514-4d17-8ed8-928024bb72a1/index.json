@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "7443608c-6514-4d17-8ed8-928024bb72a1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The International Astronomical Union (IAU) considers an object to be a dwarf planet if:\r\n<ol>\r\n<li>It orbits a star</li>\r\n<li>It has enough mass for its gravity to overcome external forces to acquire a near-spherical shape</li>\r\n<li>It doesn’t have bigger objects in its neighbourhood</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "(1) A planet is a celestial body that (a) is in orbit around the Sun, (b) has sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium (nearly round) shape, and (c) has cleared the neighborhood around its orbit. (2) A “dwarf planet” is a celestial body that (a) is in orbit around the Sun, (b) has sufficient mass for its self-gravity to overcome rigid body forces so that it assumes a hydrostatic equilibrium (nearly round) shape, (c) has not cleared the neighborhood around its orbit, and (d) is not a satellite. (3) All other objects, except satellites, orbiting the Sun shall be referred to collectively as “Small Solar System Bodies.”"
+}

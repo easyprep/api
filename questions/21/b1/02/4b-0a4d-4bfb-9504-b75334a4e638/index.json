@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:26.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "21b1024b-0a4d-4bfb-9504-b75334a4e638",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between hydrogen bomb and nuclear bomb: <ol> <li>While hydrogen bomb uses fusion in a chain reaction, nuclear bomb are based on nuclear fission.</li> <li>Hydrogen bomb is more powerful than nuclear bomb.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "A&nbsp;hydrogen&nbsp;bomb, or a&nbsp;thermonuclear bomb, uses fusion&nbsp;in a chain reaction when compared to nuclear bomb which uses fission. A hydrogen bomb can be 100 times more dangerous than nuclear bomb."
+}

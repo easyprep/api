@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "02bd4a24-ad62-483b-ac18-b68ade6d3019",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify a plant with the information given in the below statements:<br> 1. This plant is a Pteridophyte and has a symbiotic relationship with a cyanobacterium, thus capable of nitrogen fixation.<br> 2. Due to high capability to use the atmospheric nitrogen for growth, it has been termed a &#8220;super plant&#8221; which makes it a notorious weed.<br> 3. However, it has been used for thousands of years in China/ South East Asia as a green manure for improving per hectare gain of rice<br> 4. The myth, that when this plant is in bloom, no mosquito can cross its covering to the water in the water body to lay eggs has earned it a name called &#8220;Mosquito Fern&#8221;.<br> Select the correct option:",
+  "option1": "Water hyacinth",
+  "option2": "Azolla",
+  "option3": "Marsilea",
+  "option4": "Nostoc",
+  "option5": "",
+  "answer": "Azolla",
+  "explanation": "Azolla due to this specific capability is known to have been responsible for the Azolla Event that took place some 49-50 million years ago, in the Eocene."
+}

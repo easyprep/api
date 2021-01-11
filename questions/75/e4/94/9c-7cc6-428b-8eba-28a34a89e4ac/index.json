@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "75e4949c-7cc6-428b-8eba-28a34a89e4ac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is a correct definition of the Closed Fuel Cycle?",
+  "option1": "Preparation of fuel and subsequent processes during reactor operation",
+  "option2": "Closed Fuel Cycle refers to the process of separating the spent fuel",
+  "option3": "Closed Fuel cycle is the process in which spent fuel is reprocessed",
+  "option4": "Closed Fuel cycle is the process in which spent fuel is NOT reprocessed",
+  "option5": "",
+  "answer": "Closed Fuel cycle is the process in which spent fuel is reprocessed",
+  "explanation": "The nuclear fuel cycle or Nuclear Fuel Chain is the progression of nuclear fuel through a series of differing stages. It has two parts: 1.Front End: It includes the preparation of the fuel and steps in the service period in which the fuel is used during reactor operation. 2.Back End: Which includes the steps to safely manage, contain, and either reprocess or dispose of spent nuclear fuel. When the spent fuel is reprocessed, it is a closed Fuel Cycle. When the spent Fuel is not reprocessed, it is an open fuel Cycle."
+}

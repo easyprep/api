@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:29.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "05e1e580-1ece-44e8-83e4-b25d9f417226",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following popular services:<br />1. Wi-Fi<br />2. Bluetooth<br />3. GPS<br />3. FM Radio broadcast<br />Which among the above fall within the UHF band of Radio spectrum?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "<img src=\\\"https://www.gktoday.in/wp-content/uploads/2019/05/ScreenClip17.png\\\">\r\nThe above table solves the question. We note that maximum number of the popular services such as FM radio broadcast, television broadcast, PMR, DVB-T, MRI, PMR, television broadcast, microwave oven, GPS, mobile phone communication (GSM, UMTS, 3G, HSDPA), cordless phones (DECT), WLAN (Wi-Fi 802.11 b/g/n), Bluetooth falls in the <strong>VHF and UHF Band</strong> of the Radio Spectrum. This portion is called “Sweetspot” and is highly sought after."
+}

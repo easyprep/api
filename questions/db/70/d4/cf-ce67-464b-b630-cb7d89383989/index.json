@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "db70d4cf-ce67-464b-b630-cb7d89383989",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, the NFC or Near Field communications is becoming popular with reference to IT &amp; Communication. Which among the following statements is / are correct in this context?\r\n<ol>\r\n<li>NFC uses magnetic fields to connect devices</li>\r\n<li>It’s a short range wireless technology that works within a few centimetres</li>\r\n<li>It is generally safe for financial transactions</li>\r\n<li>It has a very high data transfer rate</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 & 3",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 2, & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "NFC, OR Near Field communications is a technology that uses magnetic fields to connect devices. It is a short range wireless technology that can work up till a few centimetres. It is very fast and takes just a second to connect to a NFC-ready device when within range. It can be used for financial transactions, sharing content, streaming multimedia, initiating multiplayer gaming, pairing Bluetooth and to read various NFC tags for identification, coupons, advertisements and so on. Google’s recently launched &#8216;Wallet&#8217; is a great example that highlights the growth of mobile payments via NFC. Devices such as Samsung&#8217;s Nexus S, most of the Blackberry OS7 range and new Nokia Symbian range have NFC integrated. Smartphones that use NFC technology transmit data via extremely short range electromagnetic radio fields at distances of 4 cm (1.6 inches) or less. NFC-ready phones protect your credit card information by using a special chip known as the secure element that encrypts your card information when it communicates with an NFC-enabled terminal on the merchant’s end. Even if a hacker were able to get close enough to intercept the information, it would appear as useless gibberish. The secure element also isolates your credit and debit card information and stores it so that only the mobile wallet can access it. No passcode; no mobile wallet access. Finally, to put consumer minds even more at ease; even if a thief were theoretically able to circumvent all the safeguards put in place, your financial institutions still protect you from fraudulent activity. Low data transfer rate is one drawback"
+}

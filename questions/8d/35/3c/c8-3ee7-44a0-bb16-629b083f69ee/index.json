@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:37.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "8d353cc8-3ee7-44a0-bb16-629b083f69ee",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Raman Scattering and Rayleigh scattering: <ol> <li>While Raman scattering is all about &nbsp;elastic scattering&nbsp;of&nbsp;light, Rayleigh scattering of light is all about inelastic scattering of light</li> <li>While Raman scattering leads to change frequency, Rayleigh scattering leads to unchanged frequency</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because Raman scattering talks about inelastic scattering of light whereas Rayleigh scattering of light talks about elastic scattering of light."
+}

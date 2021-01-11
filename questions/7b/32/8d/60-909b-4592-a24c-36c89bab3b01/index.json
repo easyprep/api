@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:30.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "7b328d60-909b-4592-a24c-36c89bab3b01",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between the IPv6 and IPv4:<br> 1. IPv4 uses 32 bits in every address while IPv6 used 64 bits in every address<br> 2. The availability of addresses will become almost double when there is a transition from IPv4 to IPv6<br> Which among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "Both the given statements are incorrect in this question. In IPv4 there are 32 bits in every address. This means that there can be approximately 4 billion unique IP addresses. The IPv6 uses 128 Bit Address. The upgradation from the 32 bit to 128 bit is exponentially larger that the address size of IPv4. In IPv4 Address : 4,294,967,296 addresses available. In IPv6 Address : 40,282,366,920,938,463,463,374,607,431,768,211,456 addresses available."
+}

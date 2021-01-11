@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:38.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "1bc83012-9d7b-4cab-9cf2-21543ca19787",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following elements play important role in Biological Nitrogen Fixation?<br> 1. Iron<br> 2. Molybdenum<br> 3. Phosphorous<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Iron, Molybdenum as well as Phosphorous play important role in BNF. Nitrogen fixation needs an enzyme called nitrogenase. The nitrogenase enzyme has two kinds of proteins viz. Iron Protein, and Iron-Molybdenum protein. Similarly, Leguminous plants that are NZ fixing will usually require more P than similar plants supplied fertilizer N. Nodules are an important P sink, and commonly have the highest concentration of that element in the plant. This is because of the high energy cost of N2 fixation and the cost of building and maintaining functioning nodules."
+}

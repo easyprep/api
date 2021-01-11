@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:33.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "9a2a2243-f15e-4333-a4d3-82e2156b0188",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs: <ol> <li>H3N8 - Dog flu</li> <li>H5N1 - Bird flu</li> <li>H7N7 - Horse flu</li> </ol> Which of the above is/are correctly matched?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All are correctly matched.&nbsp;"
+}

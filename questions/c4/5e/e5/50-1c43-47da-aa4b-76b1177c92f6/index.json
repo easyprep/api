@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c45ee550-1c43-47da-aa4b-76b1177c92f6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following will be the consequence of destruction of all beta cells in the pancreas?",
+  "option1": "Glucagon secretion will stop and blood glucose levels will increase",
+  "option2": "Glucagon secretion will stop and blood glucose levels will decrease",
+  "option3": "Glucagon secretion will stop and digestive enzymes will be secreted",
+  "option4": "Insulin secretion will stop and blood glucose levels will increase",
+  "option5": "",
+  "answer": "Insulin secretion will stop and blood glucose levels will increase",
+  "explanation": "Beta cells secrete insulin. Destruction of beta cells in the pancreas will halt the production of insulin. Therefore, eliminate answer choices (A), (B) and (C). This will lead to an increase in blood glucose levels."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:41.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "8f8b2b66-d115-46a4-9b59-180d8c812bce",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Which of the following can be used as coolant in a nuclear reactor? <ol> <li>Carbon dioxide</li> <li>Liquid sodium</li> <li>Helium (He) gas</li> </ol> &nbsp;Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "A&nbsp;nuclear reactor coolant&nbsp;is a coolant used to remove heat from the nuclear reactor core and transfer it to electrical generators and the environment. Carbon dioxide, Helium and Liquid Sodium can be used as coolant in a nuclear reactor."
+}

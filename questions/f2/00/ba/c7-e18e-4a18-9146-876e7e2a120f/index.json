@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "f200bac7-e18e-4a18-9146-876e7e2a120f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A LED lamp produces 300 lumens of light per watt, which makes it about 20 times as efficient as an incandescent lamp and four times as efficient as the fluorescent tube. What is the reason for this?",
+  "option1": "Electricity is directly converted to light particles in LED",
+  "option2": "The resistance of the filaments used in LED is very small",
+  "option3": "Presence of mercury in LED lamp makes it efficient",
+  "option4": "Materials used for LED production have very high refractive indices",
+  "option5": "",
+  "answer": "Electricity is directly converted to light particles in LED",
+  "explanation": "A light-emitting diode consists of a number of layered semiconductor materials. In the LED, electricity is directly converted into light particles, photons, leading to efficiency gains compared to other light sources where most of the electricity is converted to heat and only a small amount into light. In incandescent bulbs, as well as in halogen lamps, electric current is used to heat a wire filament, making it glow. In fluorescent lamps (previously referred to as low-energy lamps, but with the advent of LED lamps that label has lost its meaning) a gas discharge is produced creating both heat and light."
+}

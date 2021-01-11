@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:25.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "47ac0a3e-9510-4361-8239-99fd5051d68a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, the &#8220;dynamic brake system&#8221; is becoming popular in modern railways. The dynamic brake system coverts Kinetic energy to__:",
+  "option1": "Potential energy",
+  "option2": "Electricity",
+  "option3": "Sound energy",
+  "option4": "Magnetic energy",
+  "option5": "",
+  "answer": "Electricity",
+  "explanation": "Modern engines also have, additionally, dynamic brake system which works on the principle of converting kinetic energy of the moving train to electricity making the electric motors to work as generators."
+}

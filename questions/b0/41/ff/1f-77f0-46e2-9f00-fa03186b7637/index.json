@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:41.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "b041ff1f-77f0-46e2-9f00-fa03186b7637",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The exceptionally low melting point of mercury can be explained on the basis of which of the following explanations? <br />1. Mercury has completely filled-up atomic orbitals<br />2. In mercury, the binding energy of outer electrons (towards nucleus) is highest and no electron is available to participate in metallic bond formation<br />Choose the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Mercury belongs to the zinc group of elements in the periodic table, which comprises zinc, cadmium and mercury. They all have completely filled-up atomic orbitals. It becomes difficult to knock out these electron(s) from their orbitals and form metallic bonds. With its filled shell electron configuration it is very reluctant to form bonds even with other mercury atoms."
+}

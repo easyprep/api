@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "fcec5897-ea5a-432b-b5a0-2edaff311b33",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the 4G Technology, which among the following statements is / are correct ?<br> 1. LTE, WiMax and HSPA+ are the three technologies that come the aegis of 4G<br> 2. While 2G and 3G work for both voice and data, 4G works only for Data Transfer<br> 3. In comparison to 2G and 3G, 4G works using a wider frequency range<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "1, 2 & 3",
+  "option4": "Only 1 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Though, 3G is still far from seeing mass adoption, there are already talks of 4G arriving in India next year. LTE, WiMax and HSPA+ are the three technologies that come the aegis of 4G because of their ability to transfer fast data. What matters the most here is that 2G and 3G work for both voice and data while 4G works only for data transfer. The noticeable improvement that 4G would offer over 3G is better coverage area and higher browsing speeds of up to 100mbps (depending upon the device used). Since it works using a wider frequency range of 2 &#8211; 8Ghz, data transfer speeds are not that affected by number of users. For 4G a whole set of new devices across categories will be required to be launched in India as there is no device in the market that can actually utilize 4G connectivity."
+}

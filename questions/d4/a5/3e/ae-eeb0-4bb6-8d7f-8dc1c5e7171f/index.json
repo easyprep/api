@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:39.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "d4a53eae-eeb0-4bb6-8d7f-8dc1c5e7171f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with India&#8217;s nuclear programme, the available global uranium resources can sustain the projected expansion of nuclear power if__:",
+  "option1": "India adopts closed fuel cycle approach",
+  "option2": "India adopts open fuel cycle approach",
+  "option3": "India uses all its available Uranium",
+  "option4": "India uses all its available Thorium",
+  "option5": "",
+  "answer": "India adopts closed fuel cycle approach",
+  "explanation": "If spent fuel is not reprocessed, the fuel cycle is referred to as an open fuel cycle (or a once-through fuel cycle); if the spent fuel is reprocessed, it is referred to as a closed fuel cycle. India&#8217;s nuclear programme is oriented towards maximising the energy potential of available uranium resources and the utilisation of the large thorium reserve. Available global uranium resources cannot sustain the projected expansion of nuclear power without adopting the closed fuel cycle approach."
+}

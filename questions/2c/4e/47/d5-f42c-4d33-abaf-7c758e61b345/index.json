@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:41.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "2c4e47d5-f42c-4d33-abaf-7c758e61b345",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Fruits ripen faster when kept in a / an __:",
+  "option1": "rice container",
+  "option2": "wheat container",
+  "option3": "open container",
+  "option4": "refrigerator",
+  "option5": "",
+  "answer": "rice container",
+  "explanation": "The primary reason why fruits ripen quicken when stored in a rice container is due to ethylene accumulation. Differences in the rate of ripening between fruits kept in a rice container and a wheat container might be due to the differences in carbon dioxide emission and self heating nature of these grains. Both wheat and rice grains (esp. brown rice) when not completely milled, still actively respire, thus releasing carbon dioxide and energy. Carbon dioxide is a known inducer of ethylene biosynthesis in a number of fruits e.g. tomato. Rice grains without a husk typically have no dormancy and thus respire more at normal storage conditions. Most wheat grains have moderate to high dormancy periods and respire less at normal storage conditions. This is the reason why fruits stored in a rice container ripen faster than the ones stored in a wheat container"
+}

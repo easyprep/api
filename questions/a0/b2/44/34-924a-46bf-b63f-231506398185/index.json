@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:26.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "a0b24434-924a-46bf-b63f-231506398185",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following provides potential energy to an object?",
+  "option1": "Its momentum",
+  "option2": "It's position",
+  "option3": "It's acceleration",
+  "option4": "It's shape",
+  "option5": "",
+  "answer": "It's position",
+  "explanation": "The potential energy is defined as the energy that is stored in an object due to its position. Various types of potential energy include the gravitational potential energy (depends on its mass and its distance from the center of other object's mass), the elastic potential energy, the electric potential energy."
+}

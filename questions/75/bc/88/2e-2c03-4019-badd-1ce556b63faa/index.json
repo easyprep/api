@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "75bc882e-2c03-4019-badd-1ce556b63faa",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Relative to its original position, an element occupies the following positions in the periodic table on the given emissions:\r\n<ol>\r\n<li>One place behind if it is a gamma particle radiation</li>\r\n<li>Two place behind if its alpha particle radiation</li>\r\n<li>One place ahead if its beta radiation</li>\r\n</ol>\r\nSelect the correct statements from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "None of them is correct statement",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "<strong>Gamma Radiation: <br /></strong> No change in position in the periodic table. During gamma emission, the mass number and atomic number remain unchanged and hence no new element is formed. <br /><strong>Beta Radiation: <br /></strong> It occupies one place ahead in periodic table, relative to its original position. When the nucleus of an element ejects a ? particle, its mass number remains the same, but its atomic number increases by one a.m.u.and hence its position is one place ahead in the periodic table, as compared to its original position. <br /><strong>Alpha Radiation: <br /></strong> It occupies two places behind in the periodic table, relative to its original position. When a radioactive nucleus ejects an ?-particle, its mass number decreases by 4 a.m.u. and atomic number by 2 a.m.u, such that it occupies a position, two places behind in periodic table as compared to its original position."
+}

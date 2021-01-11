@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:25.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "8f7a113c-09aa-41b5-b4e6-25d9acdb9c6f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are 4G technologies?\r\n<ol>\r\n<li>Ultra Mobile Broadband (UMB)</li>\r\n<li>Mobile Broadband Wireless Access (MBWA)</li>\r\n<li>iBurst</li>\r\n<li>Orthogonal frequency-division multiplexing (OFDM)</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "4G is the fourth generation of broadband cellular network technology, which must provide capabilities defined by International Telecommunication Union in International Mobile Telecommunications Advanced. 4G system includes Ultra Mobile Broadband (UMB), Mobile Broadband Wireless Access (MBWA), iBurst, Orthogonal frequency-division multiplexing (OFDM)."
+}

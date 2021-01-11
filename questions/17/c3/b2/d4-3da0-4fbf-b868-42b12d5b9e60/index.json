@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:25.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "17c3b2d4-3da0-4fbf-b868-42b12d5b9e60",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is the difference between GSLV and PSLV?<br> 1. While PSLV is designed mainly to deliver the earth-observation satellites, GSLV is designed mainly to deliver the communication-satellites<br> 2. While PSLV is a three stage vehicle, GSLV is four stage vehicle<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "While PSLV is a four stage vehicle, GSLV is three stage vehicle. You may <a href=\"http://www.thehindu.com/sci-tech/science/what-is-the-difference-between-gslv-and-pslv/article6742299.ece\">read this</a> if you want."
+}

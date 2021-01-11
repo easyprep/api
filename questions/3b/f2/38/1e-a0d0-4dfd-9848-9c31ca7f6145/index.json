@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:36.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "3bf2381e-a0d0-4dfd-9848-9c31ca7f6145",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to the harmful impacts made by toxic substances on human bodies, consider the following:\r\n<ol>\r\n<li>Cadmium causes damage to the lungs</li>\r\n<li>Mercury causes loss of appetite</li>\r\n<li>Selenium causes skin disease</li>\r\n</ol>\r\nWhich of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Selenium in large doses causes growth inhibition, and may also cause skin discoloration, bad teeth, and some psychological and gastrointestinal problems.Mercury poisoning of water results in weakness, loss of appetite, insomnia, indigestion, diarrhea, gum inflammation, irritability, memory loss, muscle tremors and brain damage. Cadmium poisoning has been associated with kidney disease, hypertension, and possibly genetic mutation."
+}

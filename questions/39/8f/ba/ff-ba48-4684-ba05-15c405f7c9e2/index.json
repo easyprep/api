@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:32.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "398fbaff-ba48-4684-ba05-15c405f7c9e2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the birth and death of stars, consider the following general observations:\r\n<ol>\r\n<li>The fate of a star after its nuclear fuel burns out, depends on the mass it was born with</li>\r\n<li>When the star exhausts its nuclear fuel, gravity causes it to collapse &amp; shrink</li>\r\n<li>White dwarfs are one of the densest forms of matter in the universe, next only to black holes</li>\r\n</ol>\r\nWhich among the above observations is / are correct?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The fate of a star after its nuclear fuel burns out depends on the mass it was born with. Stars with a lot of mass become neutron stars or black holes. A low- or medium-mass star (less than about five times the solar mass, Ms) will become a white dwarf. When such sun-like medium-mass stars are generating energy by nuclear fusion of hydrogen in their cores, there is a delicate balance between gravity that pulls the star matter inward and the pressure of hot gas in the core that pushes outward. When the star exhausts its fuel, gravity wins and the star begins to collapse, resulting in a dense object called white dwarf, which is about as massive as the sun but only slightly bigger then the earth. Its density is about 200,000 times that of the earth. White dwarfs are one of the densest forms of matter in the universe, next only to black holes. (Frontline)"
+}

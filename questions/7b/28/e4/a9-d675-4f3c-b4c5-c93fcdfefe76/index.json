@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:31.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "7b28e4a9-d675-4f3c-b4c5-c93fcdfefe76",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Despite having significant availability of Thorium in India, use of Thorium in production of energy has been full of certain challenges. Consider the following statements in this context:\r\n<ol>\r\n<li>The fissile isotope of Thorium is available in very insignificant amount</li>\r\n<li>Thorium absorbs the neutrons, so it can be more efficiently used in Fast Breeder Reactors</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "While it is true that Thorium can be used to produce nuclear energy, it should be noted that Thorium cannot be used directly. Thorium does not contain any fissile isotope, hence it cannot be used in a reactor alone. It can be used with added fissile material that can be either enriched Uranium, Plutonium or Uranium-233 (obtained after irradiation of Thorium). Thorium absorbs the neutrons, which can more efficiently produce more Plutonium in Fast Breeder Reactor for a faster growth. Therefore, using Thorium in the first, or an early part of second stage of nuclear power programme will adversely affect the rate of growth of nuclear power generation capacity in the initial periods. Due to these reasons, large scale deployment of Thorium is to be postponed till the later part of the second stage. Thorium is to be introduced only at an optimal point during operation of Fast Breeder Reactors in the second stage. Thorium, for power generation is to be used mainly in the third stage. The time taken for large scale thorium deployment is around 3 &#8211; 4 decades after the commercial operation of Fast Breeder Reactors with short doubling time. All efforts towards technology development and demonstration are made, so that a mature technology is available in time. The third stage of Indian nuclear power programme contemplates making use of Uranium-233 to fuel Uranium-233 – Thorium based reactors, which can provide energy independence to the country for several centuries. Thorium is a naturally occurring radioactive chemical element and it plays a pivotal role in Indian Nuclear power programme. The Government has notified Thorium as Prescribed Substance under the Atomic Energy Act 1962. The Government has also notified Atomic Energy (Working of the Mines, Minerals and Handling of Prescribed Substances) Rules 1984 under which no person shall mine, mill, process and/or handle any ore mineral or other material from which any one or more of the Prescribed Substances can be extracted, without obtaining a license and except in accordance with the terms and conditions of such license."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "93231d86-5f5c-4557-abce-7e0a97793198",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to Direct to Home (DTH) satellite transmission, what is the difference between C-Band transmission and Ku-Band Transmission?<br> 1. The uplink and downlink Frequency range of the C-Band is much smaller than the Ku-Band<br> 2. A larger disc is needed for Ku-Band transmissions compared to C-band transmissions<br> 3. C-band is generally not interfered with the microwave links and other technologies<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "1 & 2 are correct",
+  "option3": "2 & 3 are correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The first statement is correct because the frequency used in C-band is smaller ( 3.7 – 4.2 GHz Uplink) than the Ku-Band (10.95-14.5 GHz). The other two statements are incorrect, please note the following: Due to low frequency, there is lesser possibility of disturbance from heavy rain fade in the C-Band, while in Ku-Band, due to high frequency, there is an attenuation in signal and that is why most of us find unable to view TVs during rains. Ku-Band manages with the smaller discs, compared to the larger discs used for C-Band transmission."
+}

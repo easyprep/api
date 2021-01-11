@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:32.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "23064faa-4e6e-4396-8a73-90478fab5671",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What do you call the phenomenon when Moon blocks the light coming from a star?",
+  "option1": "Eclipse",
+  "option2": "Occultation",
+  "option3": "Transit",
+  "option4": "Blockage",
+  "option5": "",
+  "answer": "Occultation",
+  "explanation": "When two heavenly bodies apparently cross each other’s path as seen from the Earth, there are 3 possibilities: 1.Eclipse: It occurs when two heavenly objects having apparently the same size cross each other. Eg: During the eclipse of sun, even though the Moon is much smaller, it appears to be of the same size as the Sun, because it is nearer to us. Therefore, it can completely hide the Sun behind it. 2.Occultation: It occurs when an apparently larger heavenly object covers an apparently smaller one. Eg: When Moon blocks the light coming from a star. 3.Transit: It occurs when an apparently smaller object traverses in front of an apparently larger one. Eg: Inferior planets Mercury and Venus can occasionally cross the Sun’s disc when viewed from the Earth."
+}

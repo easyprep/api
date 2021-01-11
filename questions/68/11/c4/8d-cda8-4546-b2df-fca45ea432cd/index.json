@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "6811c48d-cda8-4546-b2df-fca45ea432cd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the satellites in the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:\r\n<ol>\r\n<li>IRNSS consists of seven satellites in a constellation</li>\r\n<li>All the satellites will be placed in geostationary orbit</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The IRNSS consist of seven satellites in a constellation. Out of seven satellites three satellites will be place in geostationary orbit and remaining four will be placed in geosynchronous orbit. The objective of the IRNSS is to provide positioning service over Indian region with absolute position accuracy better than 20 meters. The IRNSS provides two services namely Standard Positioning Service (SPS) for civilian users and restricted services for strategic users."
+}

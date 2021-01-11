@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "b6559d1c-f54a-4fa4-937a-bcdb5563e938",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In comparison to Gasoline, Diesel:<br> 1. offers low volumetric energy density<br> 2. is cheap all over the world<br> 3. releases more CO2 in environment<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "Diesel is not cheaper than gasoline or petrol in all European and North American countries. In fact, it is generally more expensive compared to gasoline. Diesel is artificially cheaper in India due to subsidy as it is believed to be generally used by farmers and truck and bus fleets (local and intercity buses owned by state governments). When burned, Diesel offers a net heating value of 43.1 MJ/kg as opposed to 43.2 MJ/kg for gasoline. However, due to the higher density, diesel offers a higher volumetric energy density at 35.86 MJ/L (128 700 BTU/US gal) vs. 32.18 MJ/L (115 500 BTU/US gal) for gasoline, some 11% higher, which should be considered when comparing the fuel efficiency by volume. The CO2 emissions from diesel are 73.25 g/MJ, just slightly lower than for gasoline at 73.38 g/MJ."
+}

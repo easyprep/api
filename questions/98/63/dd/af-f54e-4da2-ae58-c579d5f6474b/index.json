@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "9863ddaf-f54e-4da2-ae58-c579d5f6474b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, the Optical fibres have become popular for usage in data transmissions. What advantages is / are offered by the Optical Fibres?\r\n<ol>\r\n<li>Transmission via optical fibres is immune to electromagnetic interference</li>\r\n<li>Optical fibres can transmit data at a faster speed in comparison to metals</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The difference between a fibre optic communication system and other types of communication is that signals are transmitted as light in optic communication. Conventional electronic communication relies on electrons passing through wires. Since fibres transmit signals as light rather than current (as in other cables), they are immune to electromagnetic interference which causes noisy data transmission in wires. Because of this, they are used where data security is critical. As no shielding is required against electromagnetic interference, they are smaller and more flexible, which makes installation much easier than metal cables. Fibre optic cable is more efficient than other cables as it has lower attenuation, mainly because light is not radiated out in the way that electricity is radiated from copper cables. Non-conductive nature of fibres avoid spark hazards and damage to electronic equipment from power surges. They can transmit signals at higher speeds or over long distances. Copper wires are adequate for the vast bulk of computer data transmission over point to point links and local area networks. They react differently to tension as they are elastic and copper is inelastic. Optical fibres can be used to sense, illuminate, deliver laser power, display and image as well as to communicate. One disadvantage is that they are more expensive than other cables."
+}

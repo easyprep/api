@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:34.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "6a9e7d1c-8247-4e6d-aa7c-3cf97ce3e1b4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statement about the Panama Disease, which was recently in news: <ol> <li>It is a destructive soil-borne bacterial disease</li> <li>The disease is observed in Banana plants</li> <li>The disease is confined to tropics</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<u>First statement is incorrect</u> because the disease is a soil borne fungal disease. It invades the banana plant through the roots. It was in news because it has caused serious damages to banana crops across Kerala. <u>Third statement is also incorrect</u> because the disease is not confined to tropics."
+}

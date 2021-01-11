@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:34.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "1ec7a7e5-42b6-4be7-81f9-5fe335d74f20",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following insects show a four stage metamorphosis viz. egg, larva, pupa, and adult in their lifecycles?\r\n<ol>\r\n<li>Housefly</li>\r\n<li>Butterfly</li>\r\n<li>Moths</li>\r\n<li>Cockroach</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Insects have two common types of metamorphosis. Grasshoppers, crickets, dragonflies, and cockroaches have incomplete metamorphosis. The young (called a nymph) usually look like small adults but without the wings. Butterflies, moths, beetles, flies and bees have complete metamorphosis. The young (called a larva instead of a nymph) is very different from the adults. It also usually eats different types of food. There are four stages in the metamorphosis of butterflies, moths and housefly viz. egg, larva, pupa, and adult."
+}

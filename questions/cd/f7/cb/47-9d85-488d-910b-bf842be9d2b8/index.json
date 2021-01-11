@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:37.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "cdf7cb47-9d85-488d-910b-bf842be9d2b8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Rosetta&nbsp;mission: <ol> <li>It is a space probe built by &nbsp;Japan Aerospace exploration Agency (JAXA)</li> <li>The mission aims at study of comet</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because it is a space probe built by the European Space Agency. Second statement is correct."
+}

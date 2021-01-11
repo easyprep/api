@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:38.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "d08947f0-033c-42f1-b9b2-fe9ce28a11b4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Cloud seeding is an artificial way to induce moisture in the clouds through chemicals so as to cause a rainfall. Which of the following chemicals are dumped onto the clouds to bring rain shower? <ol> <li>Silver Iodide</li> <li>Dry Ice</li> <li>Potassium iodide</li> <li>Liquid propane</li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All of the above given chemicals are used in cloud seeding."
+}

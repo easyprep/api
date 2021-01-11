@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:28.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "838b85ad-d2a5-4e96-a0b9-1b740521f426",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent decades, breeder reactors are of research interest. Which among the following statements with this reference is / are correct?\r\n<ol>\r\n<li>A breeder reactor produces more fissionable material than it burns</li>\r\n<li>Breeder reactors are known for low fuel efficiency</li>\r\n<li>Breeder reactors can be helpful in controlling nuclear waste</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "A breeder reactor is a nuclear reactor that generates more fissile material than it consumes. Also, the controlled chain reaction helps in controlling the nuclear waste. Second statement is incorrect because breeder reactors are said to have high fuel efficiency."
+}

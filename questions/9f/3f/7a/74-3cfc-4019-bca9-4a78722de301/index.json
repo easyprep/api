@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:36.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "9f3f7a74-3cfc-4019-bca9-4a78722de301",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with respect to types of cell division: <ol> <li>While in mitosis cell divide is asexual reproduction, meiosis is sexual reproduction</li> <li>While in mitosis number of chromosomes reduce to half, in meiosis number of chromosome remain same</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because in case of mitosis the number of chromosome remain same on division, whereas in case of meiosis the number of chromosome reduces to half.<br> Kindly note the differences in mitosis and meiosis:<br> While mitosis is a type of asexual production existing in organisms, Meiosis is a type of sexual production existing in plants, animals and humans.<br> Number of chromosomes remains same in case of mitosis division, whereas it reduces to half in case of meiosis.<br> No gamete formation takes place in mitosis, whereas gamete formation takes place in case of meiosis division.<br> In case of mitosis only two daughter cells are produced identical to each, whereas in case of meiosis it gets reduced to 2 daughter cells in each of 4 identical cells."
+}

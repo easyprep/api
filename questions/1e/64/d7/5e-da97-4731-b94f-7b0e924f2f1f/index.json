@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "1e64d75e-da97-4731-b94f-7b0e924f2f1f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "How the Aplastic Anemia is different from Sickle Cell Anaemia?\r\n<ol>\r\n<li>While Aplastic anaemia is non-genetic, Sickle Cell Anaemia is a genetic disease</li>\r\n<li>While Aplastic anaemia is caused due to mutation of a protein, Sickle Cell Anaemia is caused due to changes in Bone Marrow</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Aplastic anaemia is a condition where bone marrow does not produce sufficient new cells to replenish blood cells. The condition, per its name, involves both aplasia and anaemia. Typically, anaemia refers to low red blood cell counts, but aplastic anaemia patients have lower counts of all three blood cell types: red blood cells, white blood cells, and platelets, termed pancytopenia. Sickle-cell disease (SCD), or sickle-cell anaemia (or anaemia, SCA) or drepanocytosis, is an autosomal recessive genetic blood disorder with overdominance, characterized by red blood cells that assume an abnormal, rigid, sickle shape. Sickling decreases the cells’ flexibility and results in a risk of various complications. The sickling occurs because of a mutation in the haemoglobin gene."
+}

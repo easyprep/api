@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:27.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "21bc32c4-4d64-4202-995d-a22fc4e36af3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is are correct statements?\r\n<ol>\r\n<li>Bats, Dogs as well as Dolphins can perceive the frequency range of more than 20,000 Hz</li>\r\n<li>Bats detect the obstacles in their path by receiving the reflected infrasonic waves</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Human audible range is from 12-16 Hz to 20000 Hz. In Dogs, it is within the range of approximately 40 Hz to 60,000 Hz. The Dog whistles are blown at around 22-25000 Hz, which seem silent to us but can bring a dog in action, thus used in their training. Bats use the concept of echolocation and their frequency range is between 20 Hz and 120,000 Hz. Dolphins range anything between 0.25 to 150 kHz. The second statement is not correct because Bats detect the obstacles in their path by receiving the reflected ultrasonic waves."
+}

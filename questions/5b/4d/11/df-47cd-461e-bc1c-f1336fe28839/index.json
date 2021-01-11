@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:24.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "5b4d11df-47cd-461e-bc1c-f1336fe28839",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following Radio frequencies are used around the world in air navigational system?",
+  "option1": "Very Low Frequency (VLF)",
+  "option2": "Very High Frequency (VHF)",
+  "option3": "Tetrahertz Radiation (THF)",
+  "option4": "Ultra High Frequency (UHF)",
+  "option5": "",
+  "answer": "Very High Frequency (VHF)",
+  "explanation": "VHF (Very High Frequency) omnidirectional radio range (VOR), is a short-range radio navigation system for aircraft, enabling aircraft to determine their position and stay on course by receiving radio signals transmitted by a network of fixed ground radio beacons, with a receiver unit. Uses radio frequencies in the very high frequency (VHF) band from 108 to 117.95 MHz. VOR is the standard air navigational system in the world, used by both commercial and general aviation."
+}

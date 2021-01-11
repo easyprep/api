@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "084e8d0d-0ad3-4515-9665-ac861ea07b5c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following comparisons of the Haemophilia A and haemophilia B is / are correct?\r\n<ol>\r\n<li>While Haemophilia A is a genetic disease, Haemophilia B is a rare non-genetic disease</li>\r\n<li>While in Haemophilia A person bleeds for longer time, in Haemophilia B, a person bleeds more profoundly</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Haemophilia is group of hereditary genetic disorders that impair the body’s ability to control blood clotting or coagulation, which is used to stop bleeding when a blood vessel is broken. Haemophilia A is a recessive X-linked genetic disorder involving a lack of functional clotting Factor VIII and represents 80% of haemophilia cases. Haemophilia B is a recessive X-linked genetic disorder involving a lack of functional clotting Factor IX. It comprises approximately 20% of haemophilia cases. Haemophilia C is an autosomal genetic disorder (i.e. not X-linked) involving a lack of functional clotting Factor XI. Haemophilia C is not completely recessive: heterozygous individuals also show increased bleeding."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "02080890-fd11-4a35-a98b-e27d0299b9af",
+  "labels": "current-affairs,2018-08-04",
+  "question": "When a body is in Uniform Circular Motion, there is no change in ___:<br> 1. Speed<br> 2. Amplitude<br> 3. Velocity<br> 4. Acceleration<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Uniform circular motion describes the motion of a body traversing a circular path at constant speed. The distance of the body from the axis of rotation remains constant at all times. Though the body&#8217;s speed is constant, its velocity is not constant: velocity, a vector quantity, depends on both the body&#8217;s speed and its direction of travel. This changing velocity indicates the presence of acceleration; this centripetal acceleration is of constant magnitude and directed at all times towards the axis of rotation. This acceleration is, in turn, produced by a centripetal force which is also constant in magnitude and directed towards the axis of rotation."
+}

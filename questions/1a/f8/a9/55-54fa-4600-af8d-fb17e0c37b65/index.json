@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "1af8a955-54fa-4600-af8d-fb17e0c37b65",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp;Identify the element with the help of given information: <ol> <li>It was the first element to be discovered with a spectroscope</li> <li>It remains liquid at room temperature</li> <li>It reacts violently with water so it is kept under a layer of kerosene or mineral oil</li> <li>It is the softest known metal on earth</li> </ol> &nbsp;Select the correct answer from options given below:",
+  "option1": "Cesium",
+  "option2": "Mercury",
+  "option3": "Gold",
+  "option4": "Tin",
+  "option5": "",
+  "answer": "Cesium",
+  "explanation": "All given properties are of Cesium.<br> Cesium was the first element to be discovered with a spectroscope. Cesium is the softest known metal on earth. It remains liquid at room temperature. Since it reacts violently with water, it is kept under a layer of kerosene or mineral oil."
+}

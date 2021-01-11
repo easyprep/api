@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:41.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "b825ed28-a446-419e-b64b-a7295936c0fd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Magnetic Resonance Imaging (MRI) is considered a better imaging technology than CAT scan because:<br> 1. MRI does not include invasive radiations<br> 2. MRI is a nonionizing diagnostic technique<br> 3. MRI does not make the Hydrogen atoms resonate in body tissues<br> 4. MRI can effectively differentiate between healthy and diseased tissues<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3 are correct",
+  "option2": "Only 1, 2 & 4 are correct",
+  "option3": "Only 2, 3 & 4 are correct",
+  "option4": "Only 1 & 2 are correct",
+  "option5": "",
+  "answer": "Only 1, 2 & 4 are correct",
+  "explanation": "Magnetic resonance imaging (MRI), sometimes called nuclear magnetic resonance imaging (NMR), is a noninvasive, nonionizing diagnostic technique. It is useful in detecting small tumors, blocked blood vessels, or damaged vertebral discs. Because it does not involve the use of radiation, it can often be used in cases where X-rays would be dangerous. Large magnets beam energy through the body, causing hydrogen atoms in the body to resonate. This produces energy in the form of tiny electrical signals. A computer detects these signals, which vary in different parts of the body and according to whether an organ is healthy or not. The variation enables a picture to be produced on a screen and interpreted by a medical specialist. What distinguishes MRI from computerized X-ray scanners is that most X-ray studies cannot distinguish between a living body and a cadaver, while MRI “sees” the difference between life and death in great detail. More specifically, it can discriminate between healthy and diseased tissues with more sensitivity than conventional radiographic instruments like X-rays or CAT scans."
+}

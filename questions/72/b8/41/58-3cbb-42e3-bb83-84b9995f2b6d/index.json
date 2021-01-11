@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:38.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "72b84158-3cbb-42e3-bb83-84b9995f2b6d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between cyanobacteria and bacteria: <ol> <li>While cyanobacteria possess chlorophyll, most bacteria do not contain chlorophyll</li> <li>Both cyanobacteria and bacteria possess the ability to fix nitrogen</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Both cyanobacteria and bacteria reproduce through asexual methods. Both possess saprophytic mode of life. Both possess the ability to fix nitrogen. The main difference between the two is that cyanobacteria possess chlorophyll while most bacteria do not."
+}

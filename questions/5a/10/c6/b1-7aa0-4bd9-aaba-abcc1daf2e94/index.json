@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "5a10c6b1-7aa0-4bd9-aaba-abcc1daf2e94",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A motorboat directed upstream is seen to be at rest from the bank of a river. Which among the following is / are correct statement in this context?<br> 1. In terms of Physics, the engine of the boat is doing work<br> 2. In terms of Physics, the engine of the boat is not doing any work<br> 3. If the engine stops, no work will be done<br> 4. If engine stops, boat will gain kinetic energy<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 1, 3 & 4",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 2 & 4",
+  "option5": "",
+  "answer": "Only 2 & 4",
+  "explanation": "Work is said to be done, when a force or its component causes displacement in the direction of force. The conditions for doing work include: <ol> <li>There must be a force or component of force acting on a body.</li> <li>The force or its component must produce displacement in its own direction.</li> </ol> The mathematical expression for work when displacement is produced in its own direction is W = F × S, where, W is the work done, F is the force applied and ‘S’ is the displacement in the direction of force. When the force acts at an angle to the direction of displacement of body, this expression becomes W = F cos ? × S, where W is the work done, F cos ? is the component of force acting in the direction of displacement and ‘S’ is the displacement of the body. Since the boat is stationary, work , which is a product of a force and the distance an object moves as a result of the force; is not being done by Engine. The third statement is not correct. If the engine stops, water will do work by taking the boat along with it. The fourth statement is correct because the boat will move along with water which has kinetic energy."
+}

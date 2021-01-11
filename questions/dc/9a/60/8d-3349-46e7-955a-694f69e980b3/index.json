@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:37.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "dc9a608d-3349-46e7-955a-694f69e980b3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are components of the Producer Gas?\r\n<ol>\r\n<li>Carbon Monoxide (CO)</li>\r\n<li>Hydrogen (H2)</li>\r\n<li>Methane (CH4)</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Producer gas is created out of the biomass gasification i.e. incomplete combustion of biomass resulting in production of combustible gases consisting of Carbon Monoxide (CO), Hydrogen (H2) and traces of Methane (CH4). Producer gas can be used to run internal combustion engines (both compression and spark ignition) in vehicles; as a substitute for furnace oil in direct heat applications; produce methanol in an economically viable way."
+}

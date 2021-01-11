@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:38.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "47f6c486-c7e5-4548-aba6-1b07786a14e2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following pairs: <ol> <li>Pig flu -  H1N1</li> <li>Dog flu -  H3N8</li> <li>Camel flu -  H6N1</li> </ol> &nbsp; Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "H6N1&nbsp;is related to bird flu. Camel flu is also known as Middle East respiratory syndrome&nbsp;(MERS). It is caused by the&nbsp;MERS-corona virus&nbsp;(MERS-CoV). MERS-CoV is a&nbsp;betacoronavirus&nbsp;derived from bats."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "781d63a1-c3bf-4dfc-890b-4b80a12e0a2d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements are correct about Ebola?\r\n<ol>\r\n<li>The Ebola virus can only be passed through body fluid</li>\r\n<li>Fruit bats or flying foxes are natural hosts of the Ebola virus</li>\r\n<li>There are five strains of Ebola virus out of which four can make people sick</li>\r\n<li>The Ebola virus is named after a river</li>\r\n</ol>\r\nSelect the correct statements from the codes given below:",
+  "option1": "Only 1, 2 & 4",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All of the above statements are correct in this question. The Ebola virus can only be passed through the body fluid. It may be possible through tears, but the most infectious are blood, stool, and vomit. Bodily fluids also include breast milk, urine, semen, and saliva. Fruit bats are considered to be natural hosts of the Ebola virus. There are five strains of Ebola virus. Four of the five strains can make people, monkeys, gorillas, and chimpanzees sick. The fifth virus causes disease in those animals but not in people. The strain in the current outbreak is the most lethal one. Ebola is named after Ebola River in Republic of Congo. The outbreak in the Democratic Republic of Congo happened in a village near the Ebola River."
+}

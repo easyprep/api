@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:38.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "99aaff7f-d3c8-4b69-8f5c-b05a75801e3f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The frequency range of Ultra High Frequency (UHF) is __?",
+  "option1": "3 to 10 Megahertz",
+  "option2": "3 to 30 Megahertz",
+  "option3": "300 to 3000 Megahertz",
+  "option4": "300 to 30000 Megahertz",
+  "option5": "",
+  "answer": "300 to 3000 Megahertz",
+  "explanation": "Ultra High Frequency (UHF) designates the ITU radio frequency range of electromagnetic waves between 300 Megahertz to 3 GHz (3,000 Megahertz)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "78903e87-61a6-4337-87da-6d0b389388ac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following orbits are more prone to harms of space debris or space Junk in comparison to others?",
+  "option1": "Polar Sun Synchronous Orbit",
+  "option2": "Low Earth Orbit",
+  "option3": "Geosynchronous orbit",
+  "option4": "Geostationary Orbit",
+  "option5": "",
+  "answer": "Geostationary Orbit",
+  "explanation": "Because, there is only one Geostationary orbit."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:20.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "70212c92-8ee5-4061-a5c0-857e64c53037",
+  "labels": "current-affairs,2018-08-04",
+  "question": "How Potato and Sweet Potato are similar to each other?\r\n<ol>\r\n<li>Both are underground stems</li>\r\n<li>Both belong to same plant family</li>\r\n<li>Both originated in Central America</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 & 3 are correct",
+  "option3": "Only 1 & 3 are correct",
+  "option4": "None is correct",
+  "option5": "",
+  "answer": "None is correct",
+  "explanation": "First statement is incorrect because Potato is swollen underground stem whereas sweet potato is swollen root. Second statement in incorrect because they are from distant families. Third statement is also incorrect. Sweet Potato originated in Central America, Potato in Peru."
+}

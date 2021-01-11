@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:34.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "7a5b8f7c-c535-42df-baaa-9255f9409400",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Escherichia coli?\r\n<ol>\r\n<li>It is one of the bacteria found in human intestine</li>\r\n<li>It helps in the synthesis of some important vitamins</li>\r\n<li>It can grow in either the presence or absence of oxygen</li>\r\n<li>It is used in production of human Insulin</li>\r\n</ol>\r\nSelect the correct statements from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "1, 2, 3 & 4",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "There are approximately 100 strains of E. coli, most of which are beneficial. First two statements are correct. Third statement is also correct as E Coli is a Facultative anaerobes i.e. organisms that can grow in either the presence or absence of oxygen. The fourth statement is also correct and notable point. It has been used for production of Human Insulin because it replicates fast, easily, low cost and is a fairly stable bacterium."
+}

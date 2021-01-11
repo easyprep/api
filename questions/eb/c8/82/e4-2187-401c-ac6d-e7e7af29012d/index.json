@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:24.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "ebc882e4-2187-401c-ac6d-e7e7af29012d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, the XBRL is becoming increasingly important for all stages of business reporting and analysis. What advantages is/ are offered by XBRL?<br> 1. It provides faster handling of data<br> 2. It is foolproof to abuse of information<br> 3. Near real-time disclosure of information helps in better quality of decision making<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Dimension based taxonomy has been designed and notified as per a revised Schedule VI. The Ministry has mandated the following select class of companies to file their balance sheets and profit and loss account in the XBRL mode for the financial year commencing on or after 1st April, 2011: <ul> <li>all companies listed with any Stock Exchange(s) in India and their Indian subsidiaries; or</li> <li>all companies having paid-up capital of five crore rupees and above; or</li> <li>all companies having turnover of one hundred crore rupees and above; or</li> <li>all companies who were required to file their financial statements for FY 2010-11, using XBRL mode.However, banking companies, insurance companies, power companies and non-banking financial companies are exempted from the purview of XBRL. Over 26,000 companies have filed their financial reports for 2011-12 using the XBRL mode.</li> </ul>"
+}

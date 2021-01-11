@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "2bc25790-5c98-4ba2-90cb-1f8a00d9f394",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to the measurements of the acceleration g due to the gravity of the Earth, different values of g are found at different?\r\n<ol>\r\n<li>Depths</li>\r\n<li>Altitudes</li>\r\n<li>Longitudes</li>\r\n<li>Latitudes</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1& 2",
+  "option2": "1, 2 & 3",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The above all four options are correct because Earth is not an exactly spherical body."
+}

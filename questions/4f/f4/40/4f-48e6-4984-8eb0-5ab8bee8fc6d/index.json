@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "4ff4404f-48e6-4984-8eb0-5ab8bee8fc6d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about the Millimeter waves, sometimes seen in news?\r\n<ol>\r\n<li>These are among the highest radio frequency band</li>\r\n<li>They have higher wavelength than Microwaves</li>\r\n<li>They are most notably used in security appliances</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Millimeter Waves correspond to the EHF Band which runs the range of frequencies from 30 to 300 gigahertz, above which electromagnetic radiation is considered to be low (or far) infrared light, also referred to as terahertz radiation. This band has a wavelength of ten to one millimetre. The Microwaves have wavelength of from as long as one meter to as short as one millimeter, or equivalently, with frequencies between 300 MHz (0.3 GHz) and 300 GHz. Thus statement 2 is incorrect."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:24.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "d8123244-999d-4e52-a82a-b89acec52cac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Total Internal Reflection would happen only if __:\r\n<ol>\r\n<li>A ray travels from denser to rarer medium</li>\r\n<li>A ray travels from rarer to denser medium</li>\r\n<li>The angle of incidence in denser medium is greater than the critical angle</li>\r\n<li>The angle of incidence in rarer medium is greater than the critical angle</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1& 3",
+  "option2": "2 & 3",
+  "option3": "1 & 4",
+  "option4": "2 & 4",
+  "option5": "",
+  "answer": "1& 3",
+  "explanation": "For a ray of light to suffer total internal reflection, the necessary conditions are as follows:\r\n<ol>\r\n<li>The ray must travel from a denser to a rarer medium.</li>\r\n<li>The angle of incidence in denser medium should be greater than the critical angle.</li>\r\n</ol>"
+}

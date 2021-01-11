@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c4cad769-54cf-4b13-8562-95c1580a3acb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are advantages of the Radio Frequency Identification (RFID), a fast emerging commercial technology?\r\n<ol>\r\n<li>The RFID tags can be installed inside the body of animals to keep a track on them</li>\r\n<li>The RFID tags can be installed &amp; read easily in liquids and metal products also</li>\r\n<li>There is no impact of mobile phone towers on working of RFID technology</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 2 & 3 are correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "RFID tags are very simple to install/inject inside the body of animals, thus helping to keep a track on them. This is useful in animal husbandry and on poultry farms. The installed RFID tags give information about the age, vaccinations and health of the animals. So statement 1 is correct. Statement 2 &amp; 3 are incorrect. It is difficult for an RFID reader to read the information in case of RFID tags installed in liquids and metal products. The problem is that the liquid and metal surfaces tend to reflect the radio waves, which makes the tags unreadable. The tags have to be placed in various alignments and angles for taking proper reading. This is a tedious task when the work involves big firms. Interference has been observed if devices such as forklifts and walkie-talkies are in the vicinity of the distribution centres. The presence of mobile phone towers has been found to interfere with RFID radio waves. Wal-Mart, the retail sector giant, has installed billions of RFID tags in their products throughout the world and they have encountered such problems."
+}

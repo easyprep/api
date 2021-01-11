@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c2e08e5a-8c79-4f2f-a8fd-f0ae40a066a0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following appear giving different colours mainly due to the phenomenon of interference?\r\n<ol>\r\n<li>A soap bubble</li>\r\n<li>Rainbow</li>\r\n<li>Oil slick on wet road</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "There are two layers in thin films such as oil slick on the wet road, or a soap bubble (internal and external). When light is falls on a soap bubble, it is reflected twice, once from outer side and again from inner side. This causes an interference in which the crests of the waves almost match with the troughs (destructive interference) and thus we see the different colors. This appears same as rainbow is caused by light being reflected once in droplets of water. In a double rainbow, a second arc may be seen above and outside the primary arc, and has the order of its colors reversed (red faces inward toward the other rainbow, in both rainbows). This second rainbow is caused by light reflecting twice inside water droplets. But here is what exactly takes place in the soap bubble: As light impinges on the film: 1.some of it reflects off of the outer surface 2.some of it enters the film and reemerges after reflecting off the second surface 3.some of it enters the film and reemerges after bouncing back and forth between the two surfaces from 1 to n times"
+}

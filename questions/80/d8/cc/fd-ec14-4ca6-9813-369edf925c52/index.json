@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:26.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "80d8ccfd-ec14-4ca6-9813-369edf925c52",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following diseases: <ol> <li>Tuberculosis</li> <li>Diphtheria</li> <li>Measles</li> <li>Malaria</li> </ol> Which of the above disease(s) is/are covered under &ldquo;Mission Indradhanush&rdquo; by Government of India?",
+  "option1": "1 and 4 Only",
+  "option2": "1, 2 and 3 Only",
+  "option3": "2, 3 and 4 Only",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2 and 3 Only",
+  "explanation": "Mission Indradhanush aims to cover all those children by 2020 who are either unvaccinated, or are partially vaccinated against seven vaccine preventable diseases which include diphtheria, whooping cough, tetanus, polio, tuberculosis, measles and hepatitis B."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:33.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "5e8a444c-02d9-4d61-a180-ff984b0fe8c9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements regarding the <strong>International Thermonuclear Experimental Reactor (ITER)</strong> project?\r\n<ol>\r\n<li>It is being built in Japan</li>\r\n<li>It is based on generating electricity with help of nuclear fusion</li>\r\n<li>It has India as one of its execution members</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "<u>First statement is incorrect</u> because the project is being built at South France. The project is funded and run by seven member entities—the European Union, India, Japan, China, Russia, South Korea and the United States."
+}

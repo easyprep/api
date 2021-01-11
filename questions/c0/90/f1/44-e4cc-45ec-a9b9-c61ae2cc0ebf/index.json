@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c090f144-e4cc-45ec-a9b9-c61ae2cc0ebf",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are functions of Insulin in our body?\r\n<ol>\r\n<li>Preventing absorption of glucose from the blood</li>\r\n<li>Facilitation of storing of glucose as glycogen</li>\r\n<li>Prevention of use of fat for deriving energy</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Insulin activates the absorption of glucose from the blood by the cells of the muscle, liver and fat tissues. It also facilitates the storing of glucose as glycogen in the liver and muscle. Besides this, it prevents the use of fat for deriving energy. Insulin is released in the body in two phases. The first phase involves the rapid release of a large amount of insulin in response to an increased level of glucose in the blood produced from the digestion of food. These high levels of insulin in the body induce the cells of the liver and muscles to absorb glucose from the blood. This results in a reduction in the blood glucose level. With the reduction of blood glucose level, insulin secretion also decreases. The second phase refers to the small amount of insulin continuously secreted by the beta cells, which is not dependent on the level of sugar. The body needs this small amount of insulin, as the liver keeps on releasing the stored sugar even when we are not eating. This ensures a constant supply of energy. Insulin secreted in these ways enters the blood plasma and bind with beta globulin (a protein). Globulins are of two types, alpha and beta globulins, and are concerned with the circulation of lipids, vitamins and hormones throughout the body. When the blood plasma comes into contact with the liver and muscle cells, the insulin bounded to the beta globulins interact with the receptors (protein molecules) embedded in plasma membrane or cytoplasm of the cells. This in turn helps the passage of glucose into the cells. In the absence of insulin, the absorption of glucose gets impaired due to which the body tends to use the stored fats to get energy. But, in the process the harmful byproducts, ketones are generated. On the other hand, since the body cannot absorb and utilize glucose in the absence of insulin, the blood glucose level increases."
+}

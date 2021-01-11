@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:41.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "249c9ec2-2300-4e1b-bce1-b61895856463",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With peculiar cells in human body, which of the following is / are correct observations?\r\n<ol>\r\n<li>While Sperms and Red Blood Corpuscles (RBCs) have no nuclei; muscle cells have more than one nuclei</li>\r\n<li>RBCs cannot divide and multiply by themselves</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The first statement is partially correct. Sperm has a nucleus. RBC has no nucleus. Muscle cells have more than one nuclei. Skeletol Muscles have multiple cells because they can be able to generate more protein. But Cardiac and smooth muscle tissue only have one nucleus in their cell. The second statement is correct. The RBCs cannot divide and only sustain their numbers by stem cells dividing to make more such cells."
+}

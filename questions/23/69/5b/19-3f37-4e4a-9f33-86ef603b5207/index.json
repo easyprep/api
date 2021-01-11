@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:28.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "23695b19-3f37-4e4a-9f33-86ef603b5207",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following carbon isotopes are used in Carbon dating?<br> 1. C12<br> 2. C13<br> 3. C14<br> Choose the correct option from the codes given below:",
+  "option1": "Only 3",
+  "option2": "Only 1 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Carbon Dating is a method to determine the age of plants and fossils. Of the three isotopes, C14 is radioactive in nature and has a half-life (decays to half the strength) of 5,730 years. Scientists measure the strength of C14 in the plant or fossil, and compare it with the expected strength of C14 in the atmosphere, to compute the age. Also known as radio carbon dating, this technique was developed by Willard Libby in 1949. He was awarded the Nobel Prize in Chemistry in 1960. When plants fix atmospheric carbon dioxide (CO2) into organic material during photosynthesis they incorporate a quantity of 14C that approximately matches the level of this isotope in the atmosphere (a small difference occurs because of isotope fractionation, but this is corrected after laboratory analysis. After plants die or they are consumed by other organisms (for example, by humans or other animals) the 14C fraction of this organic material declines at a fixed exponential rate due to the radioactive decay of 14C. Comparing the remaining 14C fraction of a sample to that expected from atmospheric 14C allows the age of the sample to be estimated. In carbon dating we calculate the 14C/12C or 14C/13C ratio. While the amount of carbon-12 or carbon-13 remains constant, carbon-14 is unstable and decays with its half-life of 5,700 years."
+}

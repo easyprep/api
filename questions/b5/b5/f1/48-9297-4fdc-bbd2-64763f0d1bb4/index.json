@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:41.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "b5b5f148-9297-4fdc-bbd2-64763f0d1bb4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Consider the following differences between Ku band C band: <ol> <li>C band satellites are good for large bandwidth requirement, whereas Ku band is good for lower bandwidth requirement</li> <li>Ku band operates better with smaller satellite dish, whereas C band operates better with larger satellite dish</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:39.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "deebbf15-c817-47e4-b617-47a40683c546",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Ribosomes contain: <ol> <li>DNA</li> <li>RNA</li> <li>Protein</li> </ol> &nbsp;Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "Ribosomes do not contain DNA. They contain RNA and Protein. DNA is found within the nucleus, mitochondria and chloroplasts."
+}

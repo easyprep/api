@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:42.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "678b9f38-6b1c-4703-be78-4780372f8d95",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Both endoplasmic reticulum and Golgi Bodies are associated with protein synthesis<br> 2. Both bacterial cells and animal cells have ribosomes<br> Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements. Both bacterial cells and animal cells have ribosomes and plasma membranes made of phospholipids. Bacterial cells do not have nuclear membranes and vacuoles. On the other hand animal cells don&#8217;t have cell walls. Cell walls of Bacteria is made of peptidoglycan."
+}

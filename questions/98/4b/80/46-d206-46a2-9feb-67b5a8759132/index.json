@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:30.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "984b8046-d206-46a2-9feb-67b5a8759132",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Silica gel&nbsp;is&nbsp;used&nbsp;in a&nbsp;transformer: <ol> <li>as a coolant</li> <li>to &nbsp;remove the moisture from air</li> <li>to decrease the dielectric strength of transformer oil</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Silica gel is used in a transformer for the absorption of moisture from air during breathing out of the transformer. If the relative water moisture content is increased, then this leads to the decrease of the dielectric strength of mineral oil. The result is that the breakdown voltage drastically reduced in the range of 20-50% of relative water content."
+}

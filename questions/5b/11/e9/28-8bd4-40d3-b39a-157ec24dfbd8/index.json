@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "5b11e928-8bd4-40d3-b39a-157ec24dfbd8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The pulling sensation when we stand near a running train can be explained on the basis of ___:",
+  "option1": "Archimedes Principle",
+  "option2": "Bernoulli's law",
+  "option3": "Avogadro's Hypothesis",
+  "option4": "Newton's Third Law of motion",
+  "option5": "",
+  "answer": "Bernoulli's law",
+  "explanation": "It is just a feeling, we are actually being pushed towards the moving train by the atmosphere surrounding us. The reason can be explained with the help of &#8220;Bernoulli&#8217;s law&#8221;. When a train is stationary, the pressure at points in surrounding area would be uniform and at atmospheric pressure. As the train starts and gains momentum, the increasing velocity of the train depletes the pressure at the points in the area at close proximity to the train. Now the pressure at these points is less than atmospheric pressure. The points at an area farther away from the train are at same atmospheric pressure as before. It has to be noted that, the velocity of the train affects pressure of the areas closer to the train and not of those a little far away. Naturally, air from the points at atmospheric pressure (relatively high) would rush towards the low pressure area (the area immediately surrounding the train) or towards the train. Thus a person standing near a moving train will actually be pushed towards the train by the gush of wind destined to the low pressure area."
+}

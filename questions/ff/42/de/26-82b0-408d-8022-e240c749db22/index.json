@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "ff42de26-82b0-408d-8022-e240c749db22",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What happens to the boiling point of water when a common table salt is added to it?",
+  "option1": "The boiling point remains same",
+  "option2": "The Boiling point increases",
+  "option3": "The Boiling point decreases",
+  "option4": "The Boiling point first increases then decreases",
+  "option5": "",
+  "answer": "The Boiling point increases",
+  "explanation": "Adding salt increases the boiling point of water because of a phenomenon called boiling point elevation. The boiling point of water is increased slightly, but not enough that we notice the temperature difference."
+}

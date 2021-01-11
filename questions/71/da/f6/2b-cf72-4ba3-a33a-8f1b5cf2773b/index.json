@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:26.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "71daf62b-cf72-4ba3-a33a-8f1b5cf2773b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The radio reception improves slightly during the night. What could be the possible reason(s) for this? <br> 1.Sunlight affects radio broadcasts to some extent during the day<br> 2.Magnetic field of the earth acts with reduced intensity during the night, thereby reducing its impact on broadcasts<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The ionization rate in the ionosphere at night is different than in day time because of the solar UV radiation. The absence of the sun at night enhances the reflection characteristics of the ionosphere. That is why the radio reception improves slightly during the night."
+}

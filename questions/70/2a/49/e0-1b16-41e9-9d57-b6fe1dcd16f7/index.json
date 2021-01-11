@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:26.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "702a49e0-1b16-41e9-9d57-b6fe1dcd16f7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to supercritical fluid, consider the following statements:\r\n<ol>\r\n<li>Supercritical fluid is neither a solid, liquid, nor gases but rather a liquid–like gas</li>\r\n<li>Surface tension in supercritical fluid is comparatively higher</li>\r\n<li>Carbon dioxide and water are the most commonly used supercritical fluids</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "<p class=\\\"Explanation\\\">Only statements 1 &amp; 3 are correct. Supercritical fluid is neither a solid, liquid, nor gases but rather a liquid –like gas. There is no surface tension in a supercritical fluid, as there is no liquid/gas phase boundary. Carbon dioxide and water are the most commonly used supercritical fluids, being used for decaffeination and power generation, respectively."
+}

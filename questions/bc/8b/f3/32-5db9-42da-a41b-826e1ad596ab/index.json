@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:30.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "bc8bf332-5db9-42da-a41b-826e1ad596ab",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The speed of an artificial satellite depends upon:\r\n<ol>\r\n<li>Mass of the satellite</li>\r\n<li>Radius of orbit for the satellite</li>\r\n<li>Mass of the central body about which the satellite orbits</li>\r\n<li>Gravitational constant</li>\r\n</ol>\r\nSelect the correct option from codes given below:",
+  "option1": "Only 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "V=√ GM/r<br />G is the Gravitational constant<br />M is the mass of the central body about which the satellite orbits<br />R is the Radius of orbit for the satellite<br />V is the velocity of satellite"
+}

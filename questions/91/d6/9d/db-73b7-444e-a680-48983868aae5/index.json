@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:22.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "91d69ddb-73b7-444e-a680-48983868aae5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "An object is executing uniform circular motion. Which of the following quantities remain(s) constant during the object&#8217;s motion?",
+  "option1": "Velocity and acceleration",
+  "option2": "Speed and velocity",
+  "option3": "Speed and acceleration",
+  "option4": "Speed only",
+  "option5": "",
+  "answer": "Speed only",
+  "explanation": "The velocity of an object undergoing uniform circular motion is always changing (because the direction is always changing). Further, since the acceleration is centripetal, it must always point toward the center of the circle; so, as the object moves around the circle, the acceleration vector is also constantly changing direction. Notice that for an object in uniform circular motion, both the velocity and the acceleration are changing because the directions of these vectors are always changing, even though their magnitudes stay the same. In this question, only speed remains unchanged."
+}

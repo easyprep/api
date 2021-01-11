@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:39.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "6121ac47-9f93-43b7-9c0e-d910be3a48fc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>A tennis ball and a football can have equal kinetic energy if they have equal velocities</li>\r\n<li>A horse and a dog are running with the same speed; both have same kinetic energy</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "A light and a heavy body can have equal kinetic energy if they have different velocities i.e. light body is moving with high speed and heavy body is moving with low speed. A horse and a dog are running with the same speed. The horse will possess more kinetic energy because the mass of horse is more than the mass of the dog. And Kinetic energy =1/2mv<sup>2</sup>."
+}

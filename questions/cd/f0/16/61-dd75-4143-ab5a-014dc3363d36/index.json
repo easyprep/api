@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:37.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "cdf01661-dd75-4143-ab5a-014dc3363d36",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Cartosat-2 is a micro satellite which aims to facilitate weather forecasting &amp; cyclone prediction</li> <li>ScatSat-1 is an earth observation satellite in a sun-synchronous orbit</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u> because Cartosat-2 is an earth observation satellite in a sun-synchronous orbit. Second <u>statement is incorrect</u> because ScatSat-1 is a micro satellite which aims to facilitate weather forecasting &amp; cyclone prediction."
+}

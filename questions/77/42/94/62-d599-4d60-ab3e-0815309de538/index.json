@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:24.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "77429462-d599-4d60-ab3e-0815309de538",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following by-products of mineral fuels combustion can cause cancer?\r\n<ol>\r\n<li>Oxides of nitrogen</li>\r\n<li>Carbon monoxide</li>\r\n<li>Polycyclic hydrocarbons</li>\r\n<li>Lead</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 3 & 4",
+  "option4": "Only 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "Polycyclic aromatic hydrocarbon have been identified as Carcinogens. Lead is also in IARC Group 2B carcinogens. Submicroscopic particles of lead compounds produced from the combustion of leaded gasoline can be found at concentrations exceeding 1000 per cm3 in auto exhaust, so both the answer 3 &amp; 4 are correct."
+}

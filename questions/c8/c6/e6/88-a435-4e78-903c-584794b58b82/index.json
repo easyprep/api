@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:31.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "c8c6e688-a435-4e78-903c-584794b58b82",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following compounds are monosaccharides?\r\n<ol>\r\n<li>Glucose</li>\r\n<li>Fructose</li>\r\n<li>Galactose</li>\r\n<li>Sucrose</li>\r\n<li>Lactose</li>\r\n<li>Cellulose</li>\r\n<li>Starch</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1, 3, 4 & 5",
+  "option2": "2, 4, 6 & 7",
+  "option3": "2, 3, 4 & 5",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Sucrose and Lactose are Disaccharides, whereas Cellulose and Starch are Polysaccharides. Oligosaccharides are carbohydrates made of maximum of 10 Monosaccharides."
+}

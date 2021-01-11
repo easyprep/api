@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:32.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "933c406d-8f2d-4a61-82bd-a162be5dc526",
+  "labels": "current-affairs,2018-08-04",
+  "question": "MESSENGER spacecraft was send by NASA to study the planet Mercury. Which of the following information are confirmed by the space craft about the planet? <ol> <li>The planet has very low amount of Carbon.</li> <li>It has high iron content.</li> <li>The&nbsp;planet is plummeted by impacts from micrometeorites.</li> <li>The planet has concentrations of Uranium</li> </ol> Select the correct code from options given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "<u>First statement is incorrect</u> because Mercury has huge amount of carbon accumulated on its surface. <u>Second statement is incorrect</u> because iron is rare on Mercury&#039;s surface."
+}

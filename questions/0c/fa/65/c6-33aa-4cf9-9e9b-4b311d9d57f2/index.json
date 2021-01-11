@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "0cfa65c6-33aa-4cf9-9e9b-4b311d9d57f2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "While choosing for a material for an electric fuse, what should be taken care of __?<br> 1. The material should have a low melting point<br> 2. The material should have a low resistance<br> 3. The fuse should be connected in parallel to the main switch<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 1 & 3 are correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 & 2 are correct",
+  "explanation": "Electrical fuse is a type of low melting point and low resistance resistor that acts as a sacrificial device to provide over current protection, of either the load or source circuit. It’s essential component is a metal wire or strip that melts when too much current flows, which interrupts the circuit in which it is connected. Short circuit, overloading, mismatched loads or device failure are the prime reasons for excessive current. The fuse is arranged in series to carry all the current passing through the protected circuit. The resistance of the element generates heat due to the current flow. The size and construction of the element is (empirically) determined so that the heat produced for a normal current does not cause the element to attain a high temperature. If too high a current flows, the element rises to a higher temperature and either directly melts, or else melts a soldered joint within the fuse, opening the circuit."
+}

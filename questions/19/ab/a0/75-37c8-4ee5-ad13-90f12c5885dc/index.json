@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:30.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "19aba075-37c8-4ee5-ad13-90f12c5885dc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Sound velocity is usually larger in solids than in liquids and gases because:",
+  "option1": "solids are more elastic than liquids and gases",
+  "option2": "solids are less elastic than liquids and gases",
+  "option3": "volumetric expansion coefficients of liquids and gases are higher than solids",
+  "option4": "frequency of sound waves decreases in solids due to Doppler shift",
+  "option5": "",
+  "answer": "solids are more elastic than liquids and gases",
+  "explanation": "A substance is labelled more elastic if it offers greater resistance to deformation than other bodies, so that it can be stretched less than others."
+}

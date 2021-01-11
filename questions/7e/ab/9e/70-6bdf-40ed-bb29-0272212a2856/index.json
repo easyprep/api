@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:27.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "7eab9e70-6bdf-40ed-bb29-0272212a2856",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In which among the following respects, the white Portland cement is different from the ordinary gray Portland cement?<br> 1. The amount of chromium, manganese, iron compounds is significantly less in white cement in comparison to gray cement<br> 2. The setting behaviour and strength development of white cement is significantly improved from gray cement<br> 3. Gypsum is used in the making of white cement and not in gray cement<br> 4. Production of white cement consumes significantly more energy in comparison to gray cement<br> Which among the above statements is / are correct?",
+  "option1": "Only 2, 3 & 4",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 2 & 4",
+  "option4": "Only 1 & 4",
+  "option5": "",
+  "answer": "Only 1 & 4",
+  "explanation": "<span style=\"font-family: Bookman Old Style\"><u><span style=\"color: #000000\">Second statement is incorrect</span></u><span style=\"color: #000000\"> because setting behaviour and strength development of white cement is almost equivalent to grey cement. </span><u><span style=\"color: #000000\">Third statement is incorrect</span></u><span style=\"color: #000000\"> because Gypsum</span><b> </b><span style=\"color: #000000\">is used in the making of both white cement and ordinary grey cement.</span></span> &nbsp;"
+}

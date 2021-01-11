@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:35.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "d841c046-3385-4ac1-961c-335da91897b7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "We generally read about the &#8220;good&#8221; and &#8220;bad&#8221; fats. What must a fat contain to be classed as a &#8220;good&#8221; fat?",
+  "option1": "At least one C=C double bond",
+  "option2": "A hydrocarbon chain longer than 100 carbons",
+  "option3": "No C=C double bonds",
+  "option4": "A hydrocarbon chain shorter than 100 carbons",
+  "option5": "",
+  "answer": "At least one C=C double bond",
+  "explanation": "If a fat/lipid contains at least on C=C double bond, it is classified as an unsaturated fat, and will usually be liquid at room temperature. Triglyceride molecules consist of one molecule of glycerol bonded to three fatty acids by ester bonds. Each fatty acid contains an &#8220;R&#8221; group which is a hydrocarbon chain which determines whether the fat is saturated or unsaturated."
+}

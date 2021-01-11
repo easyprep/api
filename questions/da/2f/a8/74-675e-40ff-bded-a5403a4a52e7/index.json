@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:25.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "da2fa874-675e-40ff-bded-a5403a4a52e7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following lie in the Tetra hertz frequency?",
+  "option1": "Visible Light and Infra Red",
+  "option2": "Infra Red and Microwaves",
+  "option3": "Microwaves and Radio Waves",
+  "option4": "Visible Light and Ultraviolet light",
+  "option5": "",
+  "answer": "Infra Red and Microwaves",
+  "explanation": "The range of the tera hertz radiation frequency is from roughly 0.1 THz to 10 THz. It is higher than the frequency of radio waves and microwaves, but lower than the frequency of infrared light."
+}

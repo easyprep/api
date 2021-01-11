@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:29.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "93be9f1b-1420-4c7c-8b6e-68949a57bf0e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct about the fuse used in electric supply?\r\n<ol>\r\n<li>It is connected in parallel to the main switch</li>\r\n<li>It is made up of a material which has a low melting point</li>\r\n<li>It is made up of a material which has high resistance</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 1 & 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The fuse is arranged in series to carry all the current passing through the protected circuit. Fuse is typically of low resistance. The resistance of the element generates heat due to the current flow. The size and construction of the element is (empirically) determined so that the heat produced for a normal current does not cause the element to attain a high temperature. If too high a current flows, the element rises to a higher temperature and either directly melts, or else melts a soldered joint within the fuse, opening the circuit."
+}

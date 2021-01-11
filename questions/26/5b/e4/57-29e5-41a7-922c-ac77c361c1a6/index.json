@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "265be457-29e5-41a7-922c-ac77c361c1a6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A cardboard is placed on a glass of water, and a ten paise coin is placed on the cardboard. If the cardboard is flicked suddenly in the direction parallel to its surface, then the cardboard flies away, but the coin falls in the glass. <br> The behaviour of the coin can be explained by which among the following properties?",
+  "option1": "Momentum",
+  "option2": "Acceleration",
+  "option3": "Inertia",
+  "option4": "Friction",
+  "option5": "",
+  "answer": "Inertia",
+  "explanation": "Inertia is the property of matter that is why it continues in its existing state of either rest or motion. It can be changed by an external force. Here in the question the coin falls in the glass even after the cardboard is flicked because it maintains its rest position by the nature of inertia."
+}

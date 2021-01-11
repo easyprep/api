@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:25.000Z",
+  "updated_at": "2021-01-06T08:24:29.066Z",
+  "id": "b8fd47f2-8457-4ab9-892b-a93a976f300d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about the BrahMos Missile which was in news recently?\r\n<ol>\r\n<li>It is a short range supersonic cruise missile.</li>\r\n<li>It has been designed and developed by a joint venture of India and USA.</li>\r\n<li>It uses pulsejet engine for combustion of fuel.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is wrong because BrahMos is a result of joint venture of Russia and India.Third statement is wrong because it uses ramjet engine for fuel combustion.While in ramjet engines continous combustion occurs, inpulsejet engines combustion occurs as intermittent or inpulses."
+}
