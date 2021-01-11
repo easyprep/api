@@ -21,8 +21,13 @@ module.exports = function (arr, limit) {
     createFolderIndex(labelsDir, Object.keys(indexData));
 
     Object.keys(indexData).forEach(key => {
+        let labels = key.split(',');
+        let cai = labels.indexOf('current-affairs');
+        if (cai > -1) {
+            labels.splice(cai + 1, 1, ...labels[cai + 1].split('-'));
+        }
 
-        let folder = path.join(labelsDir, ...(key.split(',')));
+        let folder = path.join(labelsDir, ...labels);
 
         fs.mkdirSync(folder, { recursive: true });
 
@@ -45,14 +50,17 @@ module.exports = function (arr, limit) {
 
 function createFolderIndex(labelsDir, arr) {
     //console.log(arr);
-    let indexData = {
-        '/': ['current-affairs']
-    };
+    let indexData = {};
 
-    arr.filter(a => a.indexOf('current-affairs') == -1).forEach(labels => {
-        console.log(labels);
+    arr.forEach(labels => {
+        //console.log(labels);
         labels = ',' + labels;
         labels = labels.split(',');
+        let cai = labels.indexOf('current-affairs');
+        if (cai > -1) {
+            labels.splice(cai + 1, 1, ...labels[cai + 1].split('-'));
+        }
+        //console.log(labels);
         labels.forEach((label, i) => {
             if (i) {
                 let p = labels.slice(0, i).join('/') + '/';
@@ -65,6 +73,8 @@ function createFolderIndex(labelsDir, arr) {
             }
         });
     });
+
+    console.log(indexData);
 
     for (let key in indexData) {
 
