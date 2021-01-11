@@ -1,50 +1,144 @@
+const path = require('path');
 const fs = require('fs');
-function indexDir(path) {
-  let indexData = {};
-  fs.readdirSync(path).forEach(function (file) {
-    let newPath = path + '/' + file;
-    let stats = fs.statSync(newPath);
-    if (stats.isDirectory() && newPath != 'docs/quizzes/current-affairs') {
-      indexData[file] = stats.mtimeMs;
-      indexDir(newPath);
-    } else {
-      if (file.indexOf('index.') == -1) {
-        indexData[file] = `${stats.mtimeMs}`;
-      }
-    }
-  });
-  if (JSON.stringify(indexData) !== '{}') {
-    fs.writeFileSync(path + '/index.json', JSON.stringify(indexData));
-    console.log({ path, indexData });
-  }
+
+let currDir = "docs";
+let labelsDir = path.join(currDir, 'labels');
+fs.mkdirSync(labelsDir, { recursive: true });
+const getLastItem = thePath => thePath.substring(thePath.lastIndexOf('/') + 1);
+
+module.exports = function (arr, limit) {
+    let indexData = {};
+
+    arr.forEach(q => {
+        if (!indexData[q.labels]) {
+            indexData[q.labels] = [];
+        }
+        indexData[q.labels].push({ id: q.id, updated_at: q.updated_at });
+    });
+
+    createFolderIndex(labelsDir, Object.keys(indexData));
+
+    Object.keys(indexData).forEach(key => {
+
+        let folder = path.join(labelsDir, ...(key.split(',')));
+
+        fs.mkdirSync(folder, { recursive: true });
+
+        let json = {
+            type: "_file",
+            prev: null,
+            data: []
+        };
+
+        if (fs.existsSync(folder + '/index.json')) {
+            json = JSON.parse(fs.readFileSync(folder + '/index.json'));
+        }
+
+        json.data = [...json.data, ...indexData[key]];
+
+        createIndexFile(folder, json, limit);
+
+    });
 }
 
-indexDir('docs/quizzes');
-console.time();
-let qdir = 'docs/questions/';
-var qIndex = fs
-  .readdirSync(qdir)
-  .map(function (v) {
-    return {
-      name: v,
-      time: new Date(
-        JSON.parse(fs.readFileSync(qdir + v, 'utf8')).updated_at
-      ).getTime(),
-    };
-  })
-  .sort(function (a, b) {
-    return a.time - b.time;
-  })
-  .map(function (v) {
-    return v.name.split('.')[0];
-  });
-console.timeLog();
-fs.mkdirSync('docs/qi/', { recursive: true });
-let chunk = 1000;
-for (let i = 0; i < Math.ceil(qIndex.length / chunk); i++) {
-  fs.writeFileSync(
-    `docs/qi/${i + 1}.json`,
-    JSON.stringify(qIndex.slice(i * chunk, (i + 1) * chunk), null, 2)
-  );
+function createFolderIndex(labelsDir, arr) {
+    //console.log(arr);
+    let indexData = {};
+    arr.forEach(labels => {
+        labels = ',' + labels;
+        labels = labels.split(',');
+        labels.forEach((label, i) => {
+            //console.log(label, i);
+            if (i) {
+                let p = labels.slice(0, i).join('/') + '/';
+                //console.log(p);
+                // p = p.join('/');
+                if (!indexData[p]) {
+                    indexData[p] = [];
+                }
+                if (indexData[p].indexOf(label) == -1) {
+                    indexData[p].push(label);
+                }
+            }
+        });
+    });
+    //console.log(indexData);
+    for (let key in indexData) {
+
+        let filePath = path.join(labelsDir, key);
+        fs.mkdirSync(filePath, { recursive: true });
+        filePath = path.join(filePath, 'index.json');
+
+        let json = {
+            type: '_folder',
+            data: []
+        };
+
+        if (fs.existsSync(filePath)) {
+            json = JSON.parse(fs.readFileSync(filePath));
+        }
+
+        indexData[key].forEach(label => {
+            if (json.data.indexOf(label) == -1) {
+                json.data.push(label);
+            }
+        });
+
+        fs.writeFileSync(filePath, JSON.stringify(json, null, 2));
+    }
 }
-console.timeEnd();
+
+function createIndexFile(folder, json, limit) {
+
+    if (json.data.length <= limit) {
+
+        fs.writeFileSync(folder + '/index.json', JSON.stringify(json, null, 2));
+
+    } else {
+        let data = json.data.slice(limit, json.data.length);
+        let prev = 'index-' + new Date().getTime() + '.' + getMicSecTime() + '.json';
+
+        json.data = json.data.slice(0, limit);
+        fs.writeFileSync(folder + '/' + prev, JSON.stringify(json, null, 2));
+
+        createIndexFile(folder, { type: "_file", prev, data }, limit);
+    }
+}
+
+function getMicSecTime() {
+    var hrTime = process.hrtime();
+    return (hrTime[1] / 1000000).toFixed(3).split('.')[1];
+}
+
+// function createIndexFile(filePath, arr, prev, limit) {
+
+//     if (fs.existsSync(filePath)) {
+
+//         let json = JSON.parse(fs.readFileSync(filePath));
+//         let room = limit - json.data.length;
+
+//         let arr1 = arr.slice(0, room);
+//         let arr2 = arr.slice(room, arr.length);
+
+//         if (room) {
+//             json.data = [...json.data, ...arr1];
+//             fs.writeFileSync(filePath, JSON.stringify(json, null, 2));
+//             console.log('updated: ', filePath);
+//         }
+
+//         let prevFileName = filePath.split('.json')[0] + "." + fs.statSync(filePath).ctimeMs.toFixed(3) + '.json'
+//         fs.renameSync(filePath, prevFileName);
+
+//         createIndexFile(filePath, arr2, getLastItem(prevFileName), limit);
+//         return;
+
+//     } else {
+//         console.log('created: ', filePath);
+//         fs.writeFileSync(filePath, JSON.stringify({ data: arr.slice(0, limit), prev }, null, 2));
+//         if (arr.length > limit) {
+//             createIndexFile(filePath, arr.slice(limit, arr.length), null, limit);
+//             return;
+//         }
+
+//     }
+// }

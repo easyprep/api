@@ -4,10 +4,10 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start": "nodemon src/index.js --ignore dist/*",
-        "builder": "node src/index.js",
+        "start": "npx nodemon src/fetcher.js --ignore docs",
+        "fetcher": "node src/fetcher.js",
         "indexer": "node src/indexer.js",
-        "clean": "rm -rr docs",
+        "clean": "rm -rf docs",
         "push": "git add . && git commit -m Update && git push origin master"
     },
     "repository": {
