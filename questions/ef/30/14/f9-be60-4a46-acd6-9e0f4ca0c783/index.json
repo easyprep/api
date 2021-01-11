@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-10T22:46:47.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "ef3014f9-be60-4a46-acd6-9e0f4ca0c783",
+  "labels": "current-affairs,2018-01-11",
+  "question": "We have read that the writing in the Indus valley Civilization was Boustrophedon. This means that ______?",
+  "option1": "It was written left to right",
+  "option2": "It was written right to left",
+  "option3": "It was written left to right and right to left in alternate lines",
+  "option4": "It was written up to down",
+  "option5": "",
+  "answer": "It was written left to right and right to left in alternate lines",
+  "explanation": "Boustrophedon is a type of bi-directional text, mostly seen in ancient manuscripts and other inscriptions. Every other line of writing is flipped or reversed, with reversed letters."
+}

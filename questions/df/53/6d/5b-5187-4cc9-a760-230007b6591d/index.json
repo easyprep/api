@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-13T18:23:37.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "df536d5b-5187-4cc9-a760-230007b6591d",
+  "labels": "current-affairs,2018-01-14",
+  "question": "What fraction of seats in the private schools are reserved for weaker sections of the society under the Right to Education Act?",
+  "option1": 0.1,
+  "option2": 0.25,
+  "option3": 0.3,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.25,
+  "explanation": "Right of Children to Free and Compulsory Education Bill, 2008 which was passed by the parliament seeks to reserve 25% of seats in the private schools for weaker sections of the society."
+}

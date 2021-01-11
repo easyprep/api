@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-10T18:53:26.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "51d45720-9eb6-4235-9ab7-c3d61723a317",
+  "labels": "current-affairs,2018-01-11",
+  "question": "Arrange the following in correct chronological order of their years of establishment? (RBI, SBI, IFCI, ICICI, NABARD, UTI)",
+  "option1": "RBI, SBI, IFCI, ICICI, NABARD, UTI",
+  "option2": "RBI, IFCI, ICICI,SBI, NABARD, UTI",
+  "option3": "RBI, IFCI, NABARD,ICICI,SBI, UTI",
+  "option4": "RBI, IFCI,ICICI,SBI, UTI, NABARD",
+  "option5": "",
+  "answer": "RBI, IFCI,ICICI,SBI, UTI, NABARD",
+  "explanation": "RBI (1935),\r\nIFCI 1948,\r\nICICI January 1955,\r\nSBI July 1955,\r\nUTI 1964,\r\nNABARD 1982"
+}

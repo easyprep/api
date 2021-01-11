@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T21:31:31.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "d55accf6-32bd-4f66-b6d3-579c1e831288",
+  "labels": "current-affairs,2018-01-10",
+  "question": "What would be the percentage of Glucose in the Urine of a healthy person?",
+  "option1": "less than 1%",
+  "option2": "More than 1%",
+  "option3": "More than 0.1%",
+  "option4": 0,
+  "option5": "",
+  "answer": 0,
+  "explanation": "The percentage of Glucose in the Urine of a healthy person is zero. A higher measurement could be a sign of a health problem. Diabetes is the most common cause of elevated glucose levels in humans."
+}

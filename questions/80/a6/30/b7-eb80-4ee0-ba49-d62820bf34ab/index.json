@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-15T22:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "80a630b7-eb80-4ee0-ba49-d62820bf34ab",
+  "labels": "current-affairs,2018-01-16",
+  "question": "While opening a new account in a bank , a customer tenders along with the account opening form, relevant documents and a proper introduction &amp; initial deposit. Which among the following is correct about initial deposit?",
+  "option1": "Initial deposit is a must to open an account and must be as cash",
+  "option2": "Initial deposit is a must to open an account and must be as Cheque",
+  "option3": "Initial deposit is a must to open an account and can be either cheque or Cash",
+  "option4": "Initial deposit is not required in some situation",
+  "option5": "",
+  "answer": "Initial deposit is not required in some situation",
+  "explanation": "The Zero balance account can be opened."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-11T16:29:22.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "162c552e-e662-43d8-8268-04788b23c58f",
+  "labels": "current-affairs,2018-01-12",
+  "question": "Leap second is always ____ ?",
+  "option1": "positive one-second adjustment",
+  "option2": "negative one-second adjustment",
+  "option3": "positive or negative one-second adjustment",
+  "option4": "two second adjustment",
+  "option5": "",
+  "answer": "positive or negative one-second adjustment",
+  "explanation": "A leap second is a one-second adjustment that is occasionally applied to Coordinated Universal Time. It is to accommodate the difference between precise time and imprecise observed solar time."
+}

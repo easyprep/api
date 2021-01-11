@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-16T16:42:20.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "7a2057b8-afe9-4a02-a91d-cac26b7a0bbe",
+  "labels": "current-affairs,2018-01-17",
+  "question": "Which among the following enzyme plays an important role in adding the building blocks to the primer in a sequence determined by the DNA template?",
+  "option1": "Helicase",
+  "option2": "Primase",
+  "option3": "Polymerase",
+  "option4": "Diastase",
+  "option5": "",
+  "answer": "Polymerase",
+  "explanation": "Polymerase enzyme plays an important role in adding the building blocks to the primer in a sequence determined by the DNA template. It synthesizes long chains of polymers or nucleic acids."
+}

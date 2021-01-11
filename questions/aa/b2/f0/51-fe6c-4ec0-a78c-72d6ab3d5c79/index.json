@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-10T21:43:09.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "aab2f051-fe6c-4ec0-a78c-72d6ab3d5c79",
+  "labels": "current-affairs,2018-01-11",
+  "question": "For which of the commodities the unit bpd is used in international trade?",
+  "option1": "Meat & Livestock",
+  "option2": "Precious Metals",
+  "option3": "Industrial metals",
+  "option4": "Crude oil",
+  "option5": "",
+  "answer": "Crude oil",
+  "explanation": "Its barrel per day , amount of crude oil (measured in barrels) produced or consumed by an entity in one day. One barrel 42 gallons"
+}

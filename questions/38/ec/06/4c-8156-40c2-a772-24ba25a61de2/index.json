@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-10T00:04:52.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "38ec064c-8156-40c2-a772-24ba25a61de2",
+  "labels": "current-affairs,2018-01-11",
+  "question": "The interpretation of the Constitution falls within the domain of the Constitutional Bench of the Supreme Court. At least how many members are required for this bench?",
+  "option1": 2,
+  "option2": 3,
+  "option3": 5,
+  "option4": 7,
+  "option5": "",
+  "answer": 5,
+  "explanation": "Most cases in Supreme Court are heard by a division bench comprising of two or three judges. However, a constitution bench consists of at least 5 or more judges to decide substantial questions of law with regard to the interpretation of the constitution in a case. Provision for Constitution bench is in Article 143."
+}

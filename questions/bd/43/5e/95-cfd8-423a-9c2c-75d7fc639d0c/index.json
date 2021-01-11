@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-12T18:44:17.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "bd435e95-cfd8-423a-9c2c-75d7fc639d0c",
+  "labels": "current-affairs,2018-01-13",
+  "question": "What is the name of world’s first greenhouse-gas-monitoring satellite?",
+  "option1": "ICESat",
+  "option2": "Jason-1",
+  "option3": "Ibuki",
+  "option4": "NPOESS",
+  "option5": "",
+  "answer": "Ibuki",
+  "explanation": "Ibuki is the world's first satellite dedicated to greenhouse-gas-monitoring. It was manufactured by Mitsubishi Electric and launched in 2009. It measures the densities of CO2 and CH4 on the Earth's atmosphere."
+}

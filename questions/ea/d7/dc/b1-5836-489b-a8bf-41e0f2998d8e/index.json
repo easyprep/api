@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-16T16:19:31.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "ead7dcb1-5836-489b-a8bf-41e0f2998d8e",
+  "labels": "current-affairs,2018-01-17",
+  "question": "Consider the following types of Plants: \r\n<ol>\r\n<li>Calcicoles</li>\r\n<li>Calcifuges</li>\r\n<li>Calcareous </li>\r\n</ol>\r\nWhich among the above plants grow in most acidic soils?",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": "1 & 3",
+  "option5": "",
+  "answer": 2,
+  "explanation": "A calcifuge is a plant that does not tolerate alkaline (basic) soil. The word is derived from the Latin 'to flee from chalk'. Calcifuges plants include, rhododendrons, heaths, and azaleas. They grow in acid soils with low calcium. These plants are also described as ericaceous, as the prototypical calcifuge is the genus Erica."
+}

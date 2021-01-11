@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-14T15:43:47.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "30e56edf-c791-490b-b54b-17878245a38e",
+  "labels": "current-affairs,2018-01-15",
+  "question": "Android operating system which is a mobile operating system running on the Linux kernel belongs to which of the following?",
+  "option1": "Google",
+  "option2": "Yahoo",
+  "option3": "Android Inc.",
+  "option4": "Microsoft",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Android's kernel is based on the Linux kernel's long-term support (LTS) branches It belongs to Google. As of 2020, Android uses versions 4.4, 4.9 or 4.14 of the Linux kernel."
+}

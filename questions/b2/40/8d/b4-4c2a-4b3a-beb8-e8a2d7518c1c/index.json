@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-10T16:29:27.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "b2408db4-4c2a-4b3a-beb8-e8a2d7518c1c",
+  "labels": "current-affairs,2018-01-11",
+  "question": "Which among the following is not correctly matched?",
+  "option1": "38th parallel : North Korea – South Korea",
+  "option2": "Siegfried Line – Germany : France",
+  "option3": "Maginot Line – France : Germany",
+  "option4": "49th parallel : USA – Mexico",
+  "option5": "",
+  "answer": "49th parallel : USA – Mexico",
+  "explanation": "49th parallel : USA - Canada"
+}

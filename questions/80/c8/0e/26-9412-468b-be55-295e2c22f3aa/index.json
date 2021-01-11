@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-15T22:46:43.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "80c80e26-9412-468b-be55-295e2c22f3aa",
+  "labels": "current-affairs,2018-01-16",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Cheque</li>\r\n<li>Bill of exchange</li>\r\n<li> Promissory Note </li>\r\n</ol>\r\nWhich among the above 3 instruments can be crossed?",
+  "option1": "1 only",
+  "option2": "3 only",
+  "option3": "1 & 2 only",
+  "option4": "all of them",
+  "option5": "",
+  "answer": "1 & 2 only",
+  "explanation": "a Promissory note can not be crossed"
+}

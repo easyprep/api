@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-10T20:54:25.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "e4d176b6-3775-4b19-af39-b287d7a60a70",
+  "labels": "current-affairs,2018-01-11",
+  "question": "Which of the following is / are correct statements?\r\n<ol>\r\n<li>The first sitting of the Union parliament was held in 1952</li>\r\n<li>The idea of concurrent list has been borrowed from Australia</li>\r\n<li>Salaries of Judges of Supreme Court are drawn from Consolidated Fund of India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The first sitting of the Union parliament was held in May, 1952. The idea of concurrent list has been borrowed from Australia. Salaries of Judges of Supreme Court are drawn from Consolidated Fund of India."
+}

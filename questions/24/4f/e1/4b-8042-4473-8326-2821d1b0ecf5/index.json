@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-13T14:23:14.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "244fe14b-8042-4473-8326-2821d1b0ecf5",
+  "labels": "current-affairs,2018-01-14",
+  "question": "Which among the following statements is not correct ?",
+  "option1": "All money bills  originate in Lok Sabha Only",
+  "option2": "Resolution of removal of Vice President can originate in Rajya Sabha Only",
+  "option3": "Resolution to create new all India services can be initiated in Lok Sabha Only",
+  "option4": "No confidence motion against council of Ministers is exclusive power of Lok Sabha",
+  "option5": "",
+  "answer": "Resolution to create new all India services can be initiated in Lok Sabha Only",
+  "explanation": "Resolution to create new all India services can be initiated in Rajya Sabha only and Parliament can enact this only after Rajya Sabha passes this by two third majority."
+}

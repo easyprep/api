@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T22:24:15.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "d3e8bfd3-a4b3-4823-bb11-3f40a225c0a3",
+  "labels": "current-affairs,2018-01-10",
+  "question": "Which among the following is correct statement?",
+  "option1": "Cooperative Banks are fully controlled by RBI",
+  "option2": "Cooperative Banks are partially controlled by RBI",
+  "option3": "Cooperative Banks are Not controlled by RBI",
+  "option4": "Cooperative Banks are fully controlled by Banking Regulation Act 194",
+  "option5": "",
+  "answer": "Cooperative Banks are partially controlled by RBI",
+  "explanation": "The commercial banks are governed by banking regulation act 1949, but only some sections of this act apply to cooperative Banks. So RBI has partial control over cooperative banks"
+}

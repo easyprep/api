@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-11T21:37:50.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "f3e3f079-1e12-487d-99b6-a805805be3f2",
+  "labels": "current-affairs,2018-01-12",
+  "question": "Consider the following incidences: \r\n<ol>\r\n<li>Foundation of Muslim league</li>\r\n<li>Jallianwalla Bagh Massacre</li>\r\n<li>Khilafat Movement </li>\r\n<li>Civil Disobedience Movement</li>\r\n</ol>\r\nArrange the above in Correct Chronological order:",
+  "option1": "1,2,3,4",
+  "option2": "1,3,2,4",
+  "option3": "2,1,3,4",
+  "option4": "2,4,1,3",
+  "option5": "",
+  "answer": "1,2,3,4",
+  "explanation": "Muslim league 1906,\r\nJallianwallla Bagh 13.4.1919,\r\nKhilafat Movement 1919-1924,\r\nCivil Disobedience 1930"
+}

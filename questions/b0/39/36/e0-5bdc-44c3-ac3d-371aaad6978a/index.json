@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-13T19:04:05.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "b03936e0-5bdc-44c3-ac3d-371aaad6978a",
+  "labels": "current-affairs,2018-01-14",
+  "question": "Which among the following Bill will not be lapsed , in the event of dissolution of House?",
+  "option1": "Any bill pending in Lok Sabha",
+  "option2": "Any Bill passed by the Lok Sabha but pending in Rajya Sabha",
+  "option3": "Any Bill passed by the Rajya Sabha and pending in Lok Sabha Sabha",
+  "option4": "Any Bill pending in Rajya Sabha & Not passed by Lok Sabha",
+  "option5": "",
+  "answer": "Any Bill pending in Rajya Sabha & Not passed by Lok Sabha",
+  "explanation": "A bill which is pending in the Rajya Sabha or the Upper House of Parliament but not passed by the Lok Sabha or the Lower House does not lapse."
+}

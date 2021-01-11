@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-11T16:37:45.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "92219f3d-56c0-4809-b58b-1366637fcabb",
+  "labels": "current-affairs,2018-01-12",
+  "question": "The salary of which of the following is tax free in India?\r\n<ol>\r\n<li>President </li>\r\n<li>Prime Minister</li>\r\n<li>Chief Ministers</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The salary and other emoluments of the President is decided by The President's (Emoluments) and Pension Act, 1951. According to the act, the salary of the President is Tax Free. However, the Prime Minister and Chief Ministers need to pay tax on their taxable income."
+}

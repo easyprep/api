@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-14T18:02:10.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "f10de143-2033-4b77-8add-c07395dca396",
+  "labels": "current-affairs,2018-01-15",
+  "question": "Bring out the incorrectly matched pair?",
+  "option1": "Agrostology – Study of grasses",
+  "option2": "Nephrology – Kidneys",
+  "option3": "Orology – Study of Rock",
+  "option4": "Zymology – Study of Fermentation",
+  "option5": "",
+  "answer": "Orology – Study of Rock",
+  "explanation": "orology is the study of mountains. Rocks are studied in Lithology."
+}

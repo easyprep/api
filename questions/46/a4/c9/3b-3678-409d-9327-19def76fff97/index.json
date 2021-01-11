@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-11T17:18:09.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "46a4c93b-3678-409d-9327-19def76fff97",
+  "labels": "current-affairs,2018-01-12",
+  "question": "Which of the following is / are among the documents presented in Budget?\r\n<ol>\r\n<li>Annual Financial Statement</li>\r\n<li>Demand for Grants</li>\r\n<li>Appropriation Bill</li>\r\n<li>Finance Bill</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Important Budget documents are as follows: <br />\r\n<strong>Documents Mandated by Constitution</strong>\r\n<ol>\r\n<li>Annual Financial Statement (AFS) { Article 112}</li>\r\n<li>Demands for Grants (DG) { Article 113}</li>\r\n<li>Appropriation Bill {Article 114(3)}</li>\r\n<li>Finance Bill {Article 110(a)}</li>\r\n</ol>\r\n<strong>Documents mandated by FRBM Act, 2003</strong>\r\n<ol start=\"5\">\r\n<li>Macro-Economic Framework Statement</li>\r\n<li>Fiscal Policy Strategy Statement</li>\r\n<li>Medium Term Fiscal Policy Statement</li>\r\n<li>Medium Term Expenditure Framework Statement- (to be presented in parliament in the Session after the Budget session).</li>\r\n</ol>\r\n<strong>Explanatory /Other Documents</strong>\r\n<ol start=\"9\">\r\n<li>Memorandum Explaining the Provisions in the Finance Bill</li>\r\n<li>Expenditure Profile1</li>\r\n<li>Expenditure Budget2</li>\r\n<li>Receipts Budget</li>\r\n<li>Budget at a Glance</li>\r\n<li>Highlights of Budget- Key Features.</li>\r\n<li>Outcome Budget</li>\r\n</ol>"
+}

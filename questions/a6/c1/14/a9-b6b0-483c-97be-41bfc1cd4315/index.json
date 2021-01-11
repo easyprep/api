@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-09T21:50:31.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "a6c114a9-b6b0-483c-97be-41bfc1cd4315",
+  "labels": "current-affairs,2018-01-10",
+  "question": "Who among the following worked on Tuberculosis?",
+  "option1": "Robert Koch",
+  "option2": "Karl Ernst von Baer",
+  "option3": "Erwin Neher",
+  "option4": "Richard Goldschmidt",
+  "option5": "",
+  "answer": "Robert Koch",
+  "explanation": "Before 1880s, tuberculosis was considered to be an hereditary disease. Koch, through his experiments was able to prove that causative agent of tuberculosis is the slow-growing <em>Mycobacterium tuberculosis</em>. He tried to develop a drug <strong>Tuberculin </strong>also to treat TB but eventually that drug did not work."
+}

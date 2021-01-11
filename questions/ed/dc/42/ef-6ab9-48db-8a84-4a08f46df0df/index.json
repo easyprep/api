@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-11T21:13:38.000Z",
+  "updated_at": "2021-01-06T08:24:14.968Z",
+  "id": "eddc42ef-6ab9-48db-8a84-4a08f46df0df",
+  "labels": "current-affairs,2018-01-12",
+  "question": "Which among the following is an impact of heavy rainfall on soil?",
+  "option1": "It decreases acidity and decreases fertility",
+  "option2": "It increases alkalinity and decreases fertility",
+  "option3": "It decreases alkalinity and decreases fertility",
+  "option4": "It reduces the fertility",
+  "option5": "",
+  "answer": "It reduces the fertility",
+  "explanation": "Heavy rainfall will result in leaching of basic cations such as calcium, magnesium etc but only ions that are resistant to leaching (such as Aluminium, Iron) will be left. This will lead to formation of the acidic soil. Further, heavy rainfall also results in accumulation of salts, anaerobic conditions disastrous for soil microbes etc. Thus, overall, heavy rainfall results in decrease / fall in the fertility of the soil."
+}
