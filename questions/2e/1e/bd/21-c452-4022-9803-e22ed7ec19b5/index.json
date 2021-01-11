@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-18T16:24:39.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "2e1ebd21-c452-4022-9803-e22ed7ec19b5",
+  "labels": "current-affairs,2018-01-19",
+  "question": "Which among the following temperature scale is based upon absolute zero?",
+  "option1": "Celsius",
+  "option2": "Fahrenheit",
+  "option3": "Kelvin",
+  "option4": "Rankine",
+  "option5": "",
+  "answer": "Kelvin",
+  "explanation": "Kelvin is the base unit of temperature (SI unit), having the unit symbol K. The Kelvin temperature scale has an absolute zero (0°K) below which temperatures do not exist. It is the lowest possible temperature. At this temperature there is no motion and no heat. It is equivalent to 0°K, or -273.15° C, or at -460° F."
+}

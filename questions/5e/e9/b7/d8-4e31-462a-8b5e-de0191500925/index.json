@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-19T20:12:51.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "5ee9b7d8-4e31-462a-8b5e-de0191500925",
+  "labels": "current-affairs,2018-01-20",
+  "question": "India falls in which of the following DVD Regions?",
+  "option1": 2,
+  "option2": 3,
+  "option3": 4,
+  "option4": 5,
+  "option5": "",
+  "answer": 2,
+  "explanation": "It is a Digital Rights Management technique which has been designed to allow motion picture studios to control aspects of a release, including content, release date, and price, according to the region. DVD video discs may be encoded with a region code and they can not be played outside that region."
+}

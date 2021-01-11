@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-21T17:40:01.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "682fca0c-a74a-4aab-b18c-a76ad1a003b5",
+  "labels": "current-affairs,2018-01-22",
+  "question": "Which among the following is a measure of traffic flow?",
+  "option1": "Passenger hour",
+  "option2": "Passenger Kilometer",
+  "option3": "vehicle-kilometer",
+  "option4": "passenger-mile",
+  "option5": "",
+  "answer": "vehicle-kilometer",
+  "explanation": "vehicle-kilometer and vehicle mile are measures of traffic flow.\r\nPassenger kilometer and passenger mile is a cost unit in passenger transport industry,\r\npassenger / day is a measure of transportation density ."
+}

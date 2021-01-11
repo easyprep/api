@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-19T21:24:17.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "5ed9fa6a-8bc0-47e9-939b-6dec553e67e1",
+  "labels": "current-affairs,2018-01-20",
+  "question": "In context with the High Courts in India, consider the following statements : \r\n<ol>\r\n<li>All High Courts in India were created after promulgation of the Constitution of India</li>\r\n<li>Position of the High Courts in India is very much similar to high courts in United States </li>\r\n<li>Supreme court may establish a common High Court for two or more than two states</li>\r\n</ol>\r\nBring out the correct statements:",
+  "option1": "only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "all 1 ,2 & 3 are correct",
+  "option4": "None of them is correct",
+  "option5": "",
+  "answer": "None of them is correct",
+  "explanation": "statement 1 is incorrect because NOT all high courts were created after promulgation of constitution. Some high courts date back to 1861. Second statement is incorrect because in United states the high courts are created under the state constitution and they have link with the federal judiciary system as that in sace of India. Third statement is also incorrect because its parliament and not supreme court which may create a common high court for two or more states by law."
+}

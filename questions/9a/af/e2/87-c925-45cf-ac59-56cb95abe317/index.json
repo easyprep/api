@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T15:15:27.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "9aafe287-c925-45cf-ac59-56cb95abe317",
+  "labels": "current-affairs,2018-01-24",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>It takes approx. 11 seconds for the light to reach the earth from moon</li>\r\n<li>It takes approx. 8 minutes for the light to reach from the sun. </li>\r\n<li>It takes 4.22 years for the light to reach from the nearest star Alpha Centauri </li>\r\n</ol>\r\nWhich among the above statements is/ are correct ?",
+  "option1": "1 & 2 only",
+  "option2": "2 & 3 only",
+  "option3": "1 & 3 only",
+  "option4": "2 only",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "The first statement is incorrect because light takes 1.2 - 1.3 seconds to reach from moon to earth.\r\nSecond statement is correct. The exact time taken is 8 min 19 seconds (Speed of light=300,000 kilometres per second mean distance of sun from Earth=14,96,00000 Kms . The time comes to be about 498.66 second.)\r\nStatement 3 is also incorrect. The first part of the statement is correct which says that It takes 4.22 years for the light to reach from the nearest star, however nearest star is Alpha proxima and not Alpha Centauri is not nearest. Nearest is Proxima Centauri and to reach from Alpha centauri it takes 4.40 years. Next is Barnard`s Star, which is 5.94 light years away from Earth."
+}

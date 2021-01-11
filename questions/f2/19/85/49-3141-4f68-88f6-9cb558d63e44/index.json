@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-18T19:06:35.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "f2198549-3141-4f68-88f6-9cb558d63e44",
+  "labels": "current-affairs,2018-01-19",
+  "question": "Ultrasound which is upper limit of human hearing is characterized by which of the following frequencies?",
+  "option1": "Above 20 KHz",
+  "option2": "Above 200 KHz",
+  "option3": "Above 2 KHz",
+  "option4": "Below 20 KHz",
+  "option5": "",
+  "answer": "Above 20 KHz",
+  "explanation": "Ultrasound refers to a sound wave with a frequency greater than the upper limit of human hearing, which is generally over 20 kHz. In general, humans can hear sounds with a frequency between 20 Hz and 20 kHz."
+}

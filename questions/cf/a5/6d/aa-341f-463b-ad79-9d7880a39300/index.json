@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-20T22:20:40.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "cfa56daa-341f-463b-ad79-9d7880a39300",
+  "labels": "current-affairs,2018-01-21",
+  "question": "Bring out the incorrectly mentioned location:",
+  "option1": "Pasteur Institute of India: Coonoor",
+  "option2": "National TB Training Institute – Bangalore",
+  "option3": "Central leprosy Training & Research institute – Chengalpattu",
+  "option4": "Kasturba Health Society – Ahamadabad",
+  "option5": "",
+  "answer": "Kasturba Health Society – Ahamadabad",
+  "explanation": "Kasturba Health Society is in Wardha"
+}

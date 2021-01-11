@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-22T16:17:47.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "fd0a718b-1fab-46d5-9221-c923ca06747c",
+  "labels": "current-affairs,2018-01-23",
+  "question": "Wildlife Protection Act, 1972 has banned which of the following activities in context with India's National Bird Peacock?\r\n<ol>\r\n<li>Killing of Peacock</li>\r\n<li>Domestic Trade of Peacock Feathers</li>\r\n<li>Export of Peacock Feathers</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Peacock is India's National Bird since 1963 and is protected under Schedule-I of Wildlife protection Act 1972. The Section  section 51(1-A) bans killing and export of peacock items but then section 43(3)(a) & section 44 of the same act allow domestic trade in feathers or articles if they are naturally shed.  This is a big loop hole for poachers because its very difficult to establish if the feather was plucked or naturally shed. Thus, the act prohibits the killing of peacocks as well as export of tail feathers or articles made from the bird. However, the Act allows domestic trade in feathers or articles under the assumption that these are naturally shed."
+}

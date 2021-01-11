@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-22T19:58:21.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "00c7bff4-86ad-44f2-970d-05f59ad0dd0f",
+  "labels": "current-affairs,2018-01-23",
+  "question": "Which among the following is the correct location of pyloric sphincter in human body?",
+  "option1": "between Oral cavity and esophagus",
+  "option2": "between Esophagus and Stomach",
+  "option3": "between Stomach and duodenum",
+  "option4": "between duodenum and Jejunum",
+  "option5": "",
+  "answer": "between Stomach and duodenum",
+  "explanation": "Pyloric sphincter is located between Stomach and duodenum. It is a small piece of smooth visceral muscle which acts as a valve and regulates the flow of partially digested food from the stomach to the duodenum."
+}

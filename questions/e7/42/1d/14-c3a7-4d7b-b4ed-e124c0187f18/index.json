@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T15:29:37.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "e7421d14-c3a7-4d7b-b4ed-e124c0187f18",
+  "labels": "current-affairs,2018-01-24",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>Color blindness is more common in men </li>\r\n<li>Color blindness is an X-linked recessive trait</li>\r\n<li>If both the X chromosomes are defective, a woman may have color blindness </li>\r\n</ol>\r\nWhich among the above statements are correct:",
+  "option1": "1 only",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "all are correct",
+  "option5": "",
+  "answer": "all are correct",
+  "explanation": "Colour blindness in medical science is the inability to distinguish between shades of red and green. The condition of colour blindness is often inherited. It is more common in men than in Women, because X chromosome is the location of the genes for the red and green color receptors and males have only one and females have two. With both defective X chromosomes, a woman may experience color blindness. There is no treatment available for inherited colour blindness."
+}

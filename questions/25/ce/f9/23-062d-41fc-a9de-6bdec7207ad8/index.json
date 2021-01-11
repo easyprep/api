@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-17T22:40:15.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "25cef923-062d-41fc-a9de-6bdec7207ad8",
+  "labels": "current-affairs,2018-01-18",
+  "question": "The chemical oxygen demand COD test is commonly used to measure which of the following?<br />",
+  "option1": "amount of organic compounds in water",
+  "option2": "amount of oxygen in water",
+  "option3": "amount of oxygen in a chemical",
+  "option4": "amount of oxygen used in a oxygenation process",
+  "option5": "",
+  "answer": "amount of organic compounds in water",
+  "explanation": "chemical oxygen demand is a measure of water quality and is amount of organic pollutants found in surface water. Potassium permanganate has been used for many years to measure COD"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-18T23:41:37.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "4aebe869-2367-4783-afbf-e87d29a48c59",
+  "labels": "current-affairs,2018-01-19",
+  "question": "Schengen Area comprises the territories of 25 European countries that have implemented an agreement signed in Schengen, Luxembourg, in 1985. How many countries are members of the Schengen area, but not part of the European Union?",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 3,
+  "explanation": "Schengen Area comprises the territories of 26 European countries that have implemented an agreement signed in Schengen, Luxembourg, in 1985. The non EU countries are Iceland, Norway, Switzerland and Liechtenstein."
+}

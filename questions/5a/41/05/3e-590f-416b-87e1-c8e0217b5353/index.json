@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-16T21:33:04.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "5a41053e-590f-416b-87e1-c8e0217b5353",
+  "labels": "current-affairs,2018-01-17",
+  "question": "What is the minimum maturity on Certificates of Deposit in India?",
+  "option1": "7 days",
+  "option2": "10 days",
+  "option3": "15 days",
+  "option4": "30 days",
+  "option5": "",
+  "answer": "7 days",
+  "explanation": "CDs issued by banks should not have the maturity less than seven days and not more than one year. Financial Institutions are allowed to issue CDs for a period between 1 year and up to 3 year"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-17T15:51:16.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "3c7c2ec9-4b07-4bdf-acba-20216a19f890",
+  "labels": "current-affairs,2018-01-18",
+  "question": "Who among the following is known to manufacture first Cyclotron?",
+  "option1": "Ernest Lawrence",
+  "option2": "Niels Bohr",
+  "option3": "Rutherford",
+  "option4": "Max Born",
+  "option5": "",
+  "answer": "Ernest Lawrence",
+  "explanation": "A cyclotron is a type of particle accelerator invented by Ernest O. Lawrence in 1929–1930 at the University of California, Berkeley, and patented in 1932. A cyclotron accelerates charged particles outwards from the center along a spiral path."
+}

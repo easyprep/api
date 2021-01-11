@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-21T16:41:27.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "20cd3751-6453-456c-8f6f-99fa83a2e582",
+  "labels": "current-affairs,2018-01-22",
+  "question": "In which year Microsoft was founded ?",
+  "option1": 1970,
+  "option2": 1974,
+  "option3": 1975,
+  "option4": 1976,
+  "option5": "",
+  "answer": 1975,
+  "explanation": "Microsoft was founded by Bill Gates and Paul Allen on April 4, 1975, to develop and sell BASIC interpreters for the Altair 8800. It rose to dominate the personal computer operating system market with MS-DOS in the mid-1980s, followed by Microsoft Windows."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-22T18:42:10.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "e56b024d-37aa-45fc-a66e-1604f3a4244e",
+  "labels": "current-affairs,2018-01-23",
+  "question": "What is RuBisCO?",
+  "option1": "A Sugar",
+  "option2": "An Enzyme",
+  "option3": "A Fat",
+  "option4": "A Carbohydrate",
+  "option5": "",
+  "answer": "An Enzyme",
+  "explanation": "Ribulose-1,5-bisphosphate carboxylase oxygenase first enzyme of Calvin Cycle of Carbon Fixation"
+}

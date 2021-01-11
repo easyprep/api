@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-21T14:24:00.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "0fe6b17e-06c3-49d4-b4cf-8252d383b7cd",
+  "labels": "current-affairs,2018-01-22",
+  "question": "What is the current number of Time Zones in Russia?",
+  "option1": 9,
+  "option2": 10,
+  "option3": 11,
+  "option4": 12,
+  "option5": "",
+  "answer": 11,
+  "explanation": "At present (2019), there are eleven time zones in Russia, which currently observe times ranging from UTC+02:00 to UTC+12:00. Daylight saving time is not used in Russia (since March 2011)."
+}

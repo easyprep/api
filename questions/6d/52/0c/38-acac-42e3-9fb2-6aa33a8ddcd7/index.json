@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-19T22:17:24.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "6d520c38-acac-42e3-9fb2-6aa33a8ddcd7",
+  "labels": "current-affairs,2018-01-20",
+  "question": "Causing agent of which of the following disease produces Integrase enzyme?",
+  "option1": "Malaria",
+  "option2": "Small Pox",
+  "option3": "Swine flu",
+  "option4": "AIDS",
+  "option5": "",
+  "answer": "AIDS",
+  "explanation": "The key enzyme that integrates retroviral DNA into the host genome is the virally encoded integrase protein. HIV uses integrase to insert (integrate) its viral DNA into the DNA of the host CD4 cell."
+}

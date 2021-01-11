@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-22T17:05:57.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "f96dc7cd-45a5-4496-af2f-9e26111f33da",
+  "labels": "current-affairs,2018-01-23",
+  "question": "What is the approximate interval between spring tide and neap tides?",
+  "option1": "7 days",
+  "option2": "15 days",
+  "option3": "20  days",
+  "option4": "30 days",
+  "option5": "",
+  "answer": "7 days",
+  "explanation": "The time gap between spring and neap is approximately 7 days. The neap tides refers to a period of moderate tides when the sun and moon are at right angles to each other. The spring tides are high tides."
+}

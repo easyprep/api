@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-21T23:22:17.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "995a6ca7-fb7f-4b7f-aa19-04e9f93b870c",
+  "labels": "current-affairs,2018-01-22",
+  "question": "An electrical fuse is used to interrupt excessive________?",
+  "option1": "Voltage",
+  "option2": "Current",
+  "option3": "Resistance",
+  "option4": "Inductance",
+  "option5": "",
+  "answer": "Current",
+  "explanation": "An electrical fuse is used to interrupt excessive current. A fuse is an electrical safety device that operates to provide overcurrent protection of an electrical circuit."
+}

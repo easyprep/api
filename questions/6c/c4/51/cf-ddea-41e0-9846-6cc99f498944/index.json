@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-20T21:39:04.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "6cc451cf-ddea-41e0-9846-6cc99f498944",
+  "labels": "current-affairs,2018-01-21",
+  "question": "The following is measured in tonne of oil equivalent (toe) ?",
+  "option1": "Volume of Oil",
+  "option2": "Energy released by burning of oil",
+  "option3": "Demand of Crude oil at a point of time",
+  "option4": "Oil production capacity of a country",
+  "option5": "",
+  "answer": "Energy released by burning of oil",
+  "explanation": "amount of energy released by burning one tonne of crude oil, approximately 42 GJ"
+}

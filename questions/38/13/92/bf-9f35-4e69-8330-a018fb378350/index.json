@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-17T23:52:39.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "381392bf-9f35-4e69-8330-a018fb378350",
+  "labels": "current-affairs,2018-01-18",
+  "question": "Which of the following audio / video formats was developed by Microsoft?",
+  "option1": "MPEG",
+  "option2": "ADX",
+  "option3": "WMA",
+  "option4": "AVS",
+  "option5": "",
+  "answer": "WMA",
+  "explanation": "Windows Media Audio (WMA) is a series of audio codecs and their corresponding audio coding formats developed by Microsoft."
+}

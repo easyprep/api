@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-22T17:11:38.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "91fc3d4c-075e-4c80-b9e4-bff2aac38dd3",
+  "labels": "current-affairs,2018-01-23",
+  "question": "Which among the following is the correct term for the inner portion of moon’s shadow?",
+  "option1": "Umbra",
+  "option2": "Penumbra",
+  "option3": "Antumbra",
+  "option4": "Adularescence",
+  "option5": "",
+  "answer": "Umbra",
+  "explanation": "Umbra is shadow is a dark area which is formed when light from a light source is blocked by an opaque object. It occupies all of the three-dimensional volume behind an object with light in front of it. The cross section of a shadow is a two-dimensional silhouette, or a reverse projection of the object blocking the light."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-19T16:36:59.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "bc510b8b-e87a-4f69-8c3b-d9a634f5b638",
+  "labels": "current-affairs,2018-01-20",
+  "question": "What is the total number of British overseas territories?",
+  "option1": 10,
+  "option2": 12,
+  "option3": 14,
+  "option4": 16,
+  "option5": "",
+  "answer": 14,
+  "explanation": "Anguilla,Bermuda,British Virgin Islands, the Cayman Islands, the Falkland Islands, Gibraltar, Montserrat, St Helena and Dependencies (Ascension Island and Tristan da Cunha), the Turks and Caicos Islands, Pitcairn Island, South Georgia and South Sandwich Islands, and the Sovereign Base Areas on Cyprus"
+}

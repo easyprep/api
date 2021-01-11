@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T00:02:43.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "7f979c06-432d-4536-a55d-1f05b0f02651",
+  "labels": "current-affairs,2018-01-24",
+  "question": "What is the number of digits in the MICR Magnetic Ink Character Recognition code mentioned on the white strip at the bottom of the cheque just after the cheque number?<br />",
+  "option1": 6,
+  "option2": 7,
+  "option3": 8,
+  "option4": 9,
+  "option5": "",
+  "answer": 9,
+  "explanation": ""
+}

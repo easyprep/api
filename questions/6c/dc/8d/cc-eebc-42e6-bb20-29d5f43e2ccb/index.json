@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-23T00:08:36.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "6cdc8dcc-eebc-42e6-bb20-29d5f43e2ccb",
+  "labels": "current-affairs,2018-01-24",
+  "question": "IFSC is an alphanumeric code designed to uniquely identify the bank branches in India. This is an 11-digit code with the first four characters representing the bank’s code, the next character reserved as control character (currently, 0 appears in the fifth position) and remaining six characters to identify the branch. RBI has advised all banks to print IFSC on cheque leaves issued to customers. What is the full form for IFSC Code?",
+  "option1": "Indian Financial System Code",
+  "option2": "Indian Financial Security Code",
+  "option3": "International Financial System Code",
+  "option4": "International Financial Security Code",
+  "option5": "",
+  "answer": "Indian Financial System Code",
+  "explanation": ""
+}

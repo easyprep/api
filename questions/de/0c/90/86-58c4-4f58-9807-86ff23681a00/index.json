@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-20T16:06:08.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "de0c9086-58c4-4f58-9807-86ff23681a00",
+  "labels": "current-affairs,2018-01-21",
+  "question": "With which of the following animals Galton's whistle is most commonly associated?",
+  "option1": "Horses",
+  "option2": "Dogs",
+  "option3": "whales",
+  "option4": "Shark",
+  "option5": "",
+  "answer": "Dogs",
+  "explanation": "Human can listen only the frequencies below 20 kHz. However animals like dogs, cats, dolphins, bats, and mice can listen above this limit. This principle was used by Galton who produced the ultrasonic waves by blowing a whistle. For human these whistle appears silent, while dogs and cats can listen it. It is used in training of dogs and cats"
+}

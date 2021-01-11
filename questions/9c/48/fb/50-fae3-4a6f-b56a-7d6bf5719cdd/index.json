@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-21T21:29:28.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "9c48fb50-fae3-4a6f-b56a-7d6bf5719cdd",
+  "labels": "current-affairs,2018-01-22",
+  "question": "In context with electromagnetism, which among the following is a correct definition of Permeability?",
+  "option1": "Ability of a material to repel magnetic field within itself",
+  "option2": "Ability of a material to support the formation of a magnetic field within another body",
+  "option3": "Ability of a material to support the formation of a magnetic field within itself",
+  "option4": "Ability of a material to create magnetic dipoles",
+  "option5": "",
+  "answer": "Ability of a material to support the formation of a magnetic field within itself",
+  "explanation": "Ability of a material to support the formation of a magnetic field within itself is Permeability. It is the measure of the resistance of a material against the formation of a magnetic field."
+}

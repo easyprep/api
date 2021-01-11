@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-22T21:59:17.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "ae0e94c3-a187-41d7-a942-9177dc3e9a4a",
+  "labels": "current-affairs,2018-01-23",
+  "question": "Which among the following was the first operational packet switching network, and the predecessor of the Internet?",
+  "option1": "TELNET",
+  "option2": "ARPANET",
+  "option3": "USENET",
+  "option4": "ALOHAnet",
+  "option5": "",
+  "answer": "ARPANET",
+  "explanation": "The Advanced Research Projects Agency Network or ARPANET was the first wide-area packet-switching network with distributed control. It is the predecessor of Internet. It is one of the first networks to implement the TCP/IP protocol suite which became the technical foundation of the Internet."
+}

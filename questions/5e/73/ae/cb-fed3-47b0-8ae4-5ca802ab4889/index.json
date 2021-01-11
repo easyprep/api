@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-01-19T17:44:11.000Z",
+  "updated_at": "2021-01-06T08:24:15.848Z",
+  "id": "5e73aecb-fed3-47b0-8ae4-5ca802ab4889",
+  "labels": "current-affairs,2018-01-20",
+  "question": "Which of the following matches of the national parliaments and their respective countries is / are correct?\r\n<ol>\r\n<li>National legislative assembly of Spain – Cortes</li>\r\n<li>Parliament of Norway – Storting</li>\r\n<li>National parliament of Denmark – Folketing</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "National legislative assembly of Spain is called Cortes, Parliament of Norway is called as Storting and the National parliament of Denmark is called as Folketing."
+}
