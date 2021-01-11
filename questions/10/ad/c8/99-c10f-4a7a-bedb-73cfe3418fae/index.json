@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-26T15:40:26.000Z",
+  "updated_at": "2021-01-06T08:24:20.626Z",
+  "id": "10adc899-c10f-4a7a-bedb-73cfe3418fae",
+  "labels": "current-affairs,2018-02-27",
+  "question": "Consider the following Statement about Madras?\r\n<ol>\r\n<li>Madras was made as a Presidency in 1684</li>\r\n<li>The first municipal corporation in modern India was set up in Madras in 1688</li>\r\n</ol>\r\nSelect the correct statement from the given options:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both are incorrect statements",
+  "option4": "Both are correct statements",
+  "option5": "",
+  "answer": "Both are correct statements",
+  "explanation": "<ul>\r\n<li>1640-Construction of Fort St. George began</li>\r\n<li>1641-Madras was made as Chief of English factories on the East coast</li>\r\n<li>1684-Madras Made as Presidency</li>\r\n<li>1688-Municipal corporation was setup</li>\r\n</ul>"
+}

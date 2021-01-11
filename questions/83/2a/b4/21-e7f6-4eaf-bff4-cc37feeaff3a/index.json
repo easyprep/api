@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-28T14:53:03.000Z",
+  "updated_at": "2021-01-06T08:24:20.626Z",
+  "id": "832ab421-e7f6-4eaf-bff4-cc37feeaff3a",
+  "labels": "current-affairs,2018-03-01",
+  "question": "Consider the following statements about Simon commission:\r\n<ol>\r\n<li>The government selected Guntur &amp; Ongole for the visit of Simon Commission</li>\r\n<li>The commission recommended for the creation of separate Andhra Province.</li>\r\n</ol>\r\nSelect the <strong>incorrect</strong> statement from the given options:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both are correct statements",
+  "option4": "Both are incorrect statements",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Simon commission recommended for the creation of Orissa and Sindh provinces. It did not recommended for the creation of Andhra province."
+}

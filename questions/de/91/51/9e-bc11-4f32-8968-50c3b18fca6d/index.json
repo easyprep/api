@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-26T15:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:20.626Z",
+  "id": "de91519e-bc11-4f32-8968-50c3b18fca6d",
+  "labels": "current-affairs,2018-02-27",
+  "question": "Consider the following statements about a ship “Globe”:\r\n<ol>\r\n<li>Globe was a British ship dispatched under the command of Hippon to engage in trade in Bay of Bengal.</li>\r\n<li>The Globe arrived to Machilipatnam in the year 1600</li>\r\n</ol>\r\nSelect the correct statement from the given options:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2 are correct statements",
+  "option4": "Both 1 & 2 are incorrect statements",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The Globe arrived to Machilipatnam in the year 1611"
+}

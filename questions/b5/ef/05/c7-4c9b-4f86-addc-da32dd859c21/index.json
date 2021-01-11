@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-23T16:33:16.000Z",
+  "updated_at": "2021-01-06T08:24:20.626Z",
+  "id": "b5ef05c7-4c9b-4f86-addc-da32dd859c21",
+  "labels": "current-affairs,2018-02-24",
+  "question": "Which district is least densely populated in Madhya Pradesh as per census 2011?",
+  "option1": "Datia",
+  "option2": "Umaria",
+  "option3": "Dindori",
+  "option4": "Sheopur",
+  "option5": "",
+  "answer": "Dindori",
+  "explanation": "As per census 2011 Dindori is least densely populated with 94 person per square km and Bhopal with highest with 854 people per square km."
+}

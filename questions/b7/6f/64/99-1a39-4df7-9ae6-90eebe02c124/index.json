@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-23T17:16:24.000Z",
+  "updated_at": "2021-01-06T08:24:20.626Z",
+  "id": "b76f6499-1a39-4df7-9ae6-90eebe02c124",
+  "labels": "current-affairs,2018-02-24",
+  "question": "Which rank is hold by Madhya Pradesh in terms of area in the country?",
+  "option1": "2nd",
+  "option2": "3rd",
+  "option3": "4th",
+  "option4": "5th",
+  "option5": "",
+  "answer": "2nd",
+  "explanation": "<ol>\r\n<li>Rajasthan 342,240 square km</li>\r\n<li>Madhya Pradesh 308,252 square km</li>\r\n<li>Maharashtra 307,713 square km</li>\r\n<li>Uttar Pradesh 240,928 square km</li>\r\n</ol>"
+}

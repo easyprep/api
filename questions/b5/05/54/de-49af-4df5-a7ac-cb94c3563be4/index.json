@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-03-01T21:02:30.000Z",
+  "updated_at": "2021-01-06T08:24:20.626Z",
+  "id": "b50554de-49af-4df5-a7ac-cb94c3563be4",
+  "labels": "current-affairs,2018-03-02",
+  "question": "Correct Chronological order of Chief Ministers of Andhra Pradesh from 1978 to 1982?\r\n<ol>\r\n<li>Marri Chenna Reddy</li>\r\n<li>Anjaiah</li>\r\n<li>Bhavanam Venkatarama Reddy</li>\r\n<li>Vijya Bhaskar Reddy</li>\r\n</ol>",
+  "option1": "2,3,4,1",
+  "option2": "1,2,3,4",
+  "option3": "4,3,2,1",
+  "option4": "3,2,1,4",
+  "option5": "",
+  "answer": "1,2,3,4",
+  "explanation": ""
+}
