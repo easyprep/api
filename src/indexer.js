@@ -2,8 +2,10 @@ const path = require('path');
 const fs = require('fs');
 
 let currDir = "docs";
+
 let labelsDir = path.join(currDir, 'labels');
 fs.mkdirSync(labelsDir, { recursive: true });
+
 const getLastItem = thePath => thePath.substring(thePath.lastIndexOf('/') + 1);
 
 module.exports = function (arr, limit) {
@@ -43,16 +45,16 @@ module.exports = function (arr, limit) {
 
 function createFolderIndex(labelsDir, arr) {
     //console.log(arr);
-    let indexData = {};
-    arr.forEach(labels => {
+    let indexData = {
+        '/': ['current-affairs']
+    };
+
+    arr.filter(a => a.indexOf('current-affairs/') == -1).forEach(labels => {
         labels = ',' + labels;
         labels = labels.split(',');
         labels.forEach((label, i) => {
-            //console.log(label, i);
             if (i) {
                 let p = labels.slice(0, i).join('/') + '/';
-                //console.log(p);
-                // p = p.join('/');
                 if (!indexData[p]) {
                     indexData[p] = [];
                 }
@@ -62,7 +64,7 @@ function createFolderIndex(labelsDir, arr) {
             }
         });
     });
-    //console.log(indexData);
+
     for (let key in indexData) {
 
         let filePath = path.join(labelsDir, key);

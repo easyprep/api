@@ -30,7 +30,7 @@ const apiKey = process.env.api_key;
 let status = {
     fetch: {
         excludeFirst: true,
-        startDate: '2021-01-09',
+        startDate: '2016-01-01',
         limit: 1000
     },
     index: {

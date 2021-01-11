@@ -40,7 +40,7 @@ jobs:
             mkdir -p docs
             mv ./_config ./docs/_config
             mv ./questions ./docs/questions
-            mv ./indexfiles ./docs/indexfiles
+            mv ./labels ./docs/labels
             # ** -- **
             git checkout "$master_branch"
             npm run fetcher
