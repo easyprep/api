@@ -43,12 +43,12 @@ jobs:
             mv ./indexfiles ./docs/indexfiles
             # ** -- **
             git checkout "$master_branch"
-            npm run builder
+            npm run fetcher
             git checkout "$gh_pages_branch"
             find . -type f | echo "After Build Files Count - $(wc -l)"
           else
             set-e
-            npm run builder
+            npm run fetcher
             echo "Created- ${gh_pages_branch} Branch"
             git checkout -b "$gh_pages_branch"
             git rm -rf .
