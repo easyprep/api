@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "0386e50f-ad5a-4e58-ac3a-f991ff6d052b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Both refinery products and crude oil are included in core sector</li> <li>In India inflation is measured by Consumer Price Index&nbsp;(CPI) report published by RBI.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "First statement is correct. The eight infrastructure sectors that make up the core sector index &#8211; coal, crude oil, natural gas, refinery products, fertilisers, steel, cement and electricity together have a 38% weightage in the Index of Industrial Production (IIP). We note here that India&#039;s core sector has contracted almost 1.3% within last few months. This downfall is a result of reduced consumer spending, which leads to lower demand situation. The producers respond by cutting down on the production. Low industrial production results in lower corporate sales and profits, which directly affects stock prices. So a direct impact of weak IIP data is a sudden fall in stock prices as well as low GDP.<br> Second statement is incorrect because the Reserve Bank of India&nbsp;had adopted Consumer Price Index (CPI) as the key measure of inflation, but CPI report is published by the Central Statistics Office (CSO) and not by RBI."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:50.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "d5c5bd5b-e784-4f2c-a9ce-a11dfb8a6e94",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are problems related to suburban sprawl in India?\r\n<ol>\r\n<li>Limited transportation access and increasing road congestion</li>\r\n<li>Racial segregation of suburban communities from the urban core</li>\r\n<li>Wide spatial disparity in access to basic services</li>\r\n<li>Destruction of natural landscapes and the elimination of farmland</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 2",
+  "option2": "1, 3 & 4",
+  "option3": "1, 2, 3 & 4",
+  "option4": "1, 2 & 4",
+  "option5": "",
+  "answer": "1, 3 & 4",
+  "explanation": "Suburban sprawl is a multifaceted problem with many geographical aspects. Transportation access is a problem due to congestion and a lack of public transit. Racial segregation of people in suburbs and Urban core is a thing of past. This phenomenon you will find in US, Mexico, Canada etc. In India, caste segregation has been a problem since ancient times but currently we find economic segregation and not racial segregation in our cities. Utility and communication access is far improved in suburban area. Another complaint with suburban sprawl is the elimination of natural areas and animal habitat caused by new housing developments wide core-periphery differentials in accessing services. For example, in India’s seven largest cities, 93% of households living in core metropolitan areas have access to drainage. This proportion falls to 70% at a distance of 5km from the core. In cities like Bangalore, other utilities like access to piped water are largely concentrated in the urban core."
+}

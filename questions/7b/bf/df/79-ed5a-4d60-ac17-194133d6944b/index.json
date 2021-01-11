@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "7bbfdf79-ed5a-4d60-ac17-194133d6944b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1.Wetland rice cultivation is one of the sources of methane in Earth&#8217;s atmosphere<br> 2.Methane contributes in Ozone loss<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements"
+}

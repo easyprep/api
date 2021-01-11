@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "7d4a7a50-bfff-42e1-8a75-a200106a586c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Shale Gas?\r\n<ol>\r\n<li>It is a natural gas trapped in the igneous rocks of earth crust</li>\r\n<li>It is currently commercially produced only in Rajasthan in India</li>\r\n<li>It emits substantially low GHGs in comparison to other forms of Natural Gas</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "None of the given statements are correct. The First statement is incorrect because shale gas is extracted from gas trapped in sedimentary rocks. Second statement is incorrect because right now we are not commercially producing shale gas. Third statement is incorrect because both are equivalent."
+}

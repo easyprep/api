@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "bbc2ce5a-9ae6-4c54-8103-26ace261822d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following observations:\r\n<ol>\r\n<li>At higher elevations, green house effect is weaker in comparison to lower elevations</li>\r\n<li>Temperature inversions commonly appear on clear, calm nights</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "First statement is true because at high elevations, air temperatures are generally cooler and have a greater dayto- night range. Both effects occur because the thickness and density of the air column above decrease with elevation; therefore, the greenhouse effect is weaker at high elevations. The second statement is correct because in a temperature inversion, air temperature does not decrease with height, but increases instead. Temperature inversions commonly appear on clear, calm nights"
+}

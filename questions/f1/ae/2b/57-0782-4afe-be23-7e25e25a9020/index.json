@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f1ae2b57-0782-4afe-be23-7e25e25a9020",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following crops: <ol> <li>Cowpea</li> <li>Sorghum</li> <li>Guar plant</li> <li>Barley</li> </ol> Which of the above are Drought Resistance or Drought Tolerant crops?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Guar&nbsp;is a&nbsp;drought-tolerant, multi-purpose annual arid legume crop. Barley is not drought tolerant crop. Barley is one of the most affected crops due to drought.&nbsp;"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6be64c7e-e4c2-438f-ad20-8361dbc40eb0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Indian Ocean Tsunami Warning System, consider the following statements:<br> 1. It gives out warning on the basis of detecting and analysing shock waves from an earthquake<br> 2. It provides accurate prediction of Tsunami on the basis of accurate computing of coastal inundation<br> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect"
+}

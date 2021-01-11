@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "19c86a06-8ddf-422a-9825-b477951971ef",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following ocean currents: <ol> <li>Kamchatka Current&nbsp;</li> <li>Humboldt&nbsp;Current</li> <li>Leeuwin Current&nbsp;</li> <li>Agulhas Current</li> </ol> Which of the above is/are cold water currents?&nbsp;",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Agulhas Current is warm water current along the east coast of South Africa.&nbsp;Leeuwin Current&nbsp;is a warm ocean&nbsp;current."
+}

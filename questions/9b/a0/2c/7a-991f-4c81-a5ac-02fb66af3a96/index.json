@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "9ba02c7a-991f-4c81-a5ac-02fb66af3a96",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the power of courts to issue writs: <ol> <li>The writ jurisdiction of Supreme Court is wider than that of High Courts in India</li> <li>While Supreme Court can refuse to exercise its writ jurisdiction, a High Court cannot do so</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u> because writ jurisdiction of a High Court is wider than that of Supreme Court. Supreme Court can issue writs only in case of violation of fundamental rights, whereas High Courts can issue writs even in case of violation of legal rights. <u>Second statement is incorrect</u> because Supreme Court cannot refuse to exercise its writ jurisdiction, while a high court can do so."
+}

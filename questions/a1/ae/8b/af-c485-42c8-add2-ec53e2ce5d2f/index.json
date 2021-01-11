@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "a1ae8baf-c485-42c8-add2-ec53e2ce5d2f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are incorrect about the Prime Minister of India? <ol> <li>Prime Minister holds the office during the pleasure of president</li> <li>Prime Minister has to communicate to the President all decisions of the Cabinet relating to administration and proposals for legislation</li> <li>Prime Minister is the leader of the House of which he/she is a member</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "All given statements are correct"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "4f14c30c-f4a3-41bb-828b-188e800df776",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Right to fly an Indian Flag is a statutory right</li> <li>The Indian Constitution does not recognize property rights as fundamental right</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because Right to fly an Indian Flag is not a statutory right. The court has established that it is an implied fundamental right under article 19(1). Second statement is correct because in 1978, the 44<sup>th</sup> Amendment act eliminated the right to acquire, hold and dispose of property as fundamental right. Right to Property is now a statutory right under Article 300A of the Constitution."
+}

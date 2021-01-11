@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "208f9916-0e09-4b46-9b2c-fef956f0bb8b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Fundamental Rights guaranteed by the Indian constitution: <ol> <li>Fundamental Rights have been sourced from United States Constitution</li> <li>They can be curtailed or repealed by the Parliament through a constitutional amendment act</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both statements are correct. Fundamental Rights are justiciable but not absolute in nature. They can be suspended during the operation of a National Emergency except the rights guaranteed by Articles 20 and 21. Furthermore, they can be curtailed or repealed by the parliament through a constitutional amendment act."
+}

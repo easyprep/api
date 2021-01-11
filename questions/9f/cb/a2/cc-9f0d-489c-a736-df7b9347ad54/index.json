@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "9fcba2cc-9f0d-489c-a736-df7b9347ad54",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Why the Polar orbits are considered to be suitable for Earth-mapping? <br />1. Polar orbits are in a plane that is almost perpendicular to the plane of the equator<br />2. The satellites in Polar Orbits are at a proximity to earth in comparison to Low Earth Orbits so that better image output can be achieved <br />3. A spot on the Earth’s surface can be sensed continuously from a satellite in a polar orbit<br />Choose the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 1 & 3 are correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "Polar orbits are in a plane that is almost perpendicular to the plane of the equator. They offer a great coverage which is needed for mapping. A spot cannot be seen continuously as it covers the entire earth."
+}

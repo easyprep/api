@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c485599b-3d04-4d12-8699-cd4e1869cb1b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Governor can withdraw an Ordinance only on advice of council of ministers headed by chief minister</li> <li>Governor decides whether a bill introduced in State Legislative Assembly is a money bill or not</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because any question on whether a bill is money bill or not is decided by the speaker of State Legislative Assembly. First statement is correct."
+}

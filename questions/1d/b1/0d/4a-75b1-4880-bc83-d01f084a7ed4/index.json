@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "1db10d4a-75b1-4880-bc83-d01f084a7ed4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about President’s rule: <ol> <li>President’s rule is immune from judicial review</li> <li>President’s rule cannot be imposed in state until its proclamation gets approval from both Houses of Parliament</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because President’s rule is not immune from judicial review. Second statement is incorrect because President’s rule can be imposed in a state even with only approval of Rajya Sabha at the time when Lok Sabha is dissolved, but under such situation it requires approval from Lok Sabha within 30 days from first sitting of Lok Sabha after its reconstitution."
+}

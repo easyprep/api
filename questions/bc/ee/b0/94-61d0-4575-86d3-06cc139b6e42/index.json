@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:07.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "bceeb094-61d0-4575-86d3-06cc139b6e42",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;There is a provision in the Constitution for a&nbsp;joint sitting of both the Houses of parliament for resolving a deadlock on: <ol> <li>Constitution amendment&nbsp;bill</li> <li>Ordinary bill</li> <li>Financial Bill of Category A</li> </ol> &nbsp;Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Financial Bill of Category A can be introduced only in Lok Sabha. Once it is passed in Lok Sabha, it is send to Rajya Sabha. There is no provision for the joint sitting in case of Financial Bill of category A. Similarly, there is no provision for joint sitting in case of constitution amendment bill. It has to be passed separately by both the Houses. There can be joint sitting of the two Houses in case of deadlock on ordinary bill."
+}

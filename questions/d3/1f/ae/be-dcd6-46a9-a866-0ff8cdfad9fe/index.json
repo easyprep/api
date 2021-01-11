@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "d31faebe-dcd6-46a9-a866-0ff8cdfad9fe",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following bodies: <ol> <li>National Commission for Scheduled Castes</li> <li>National Human Rights Commission</li> <li>National Commission for Women</li> </ol> Which of the above is/are Constitutional body/bodies?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "National Human Rights Commission and National Commission for Women are statutory bodies"
+}

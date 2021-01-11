@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f1fe22f7-8f6e-4403-aad6-be94b8825ad3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Supreme Court has original jurisdiction in case of breach of an individual&rsquo;s Fundamental Rights</li> <li>The right to constitutional remedies guaranteed under Article 32 cannot be suspended in any case</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. Second statement is incorrect because the right to constitutional remedies guaranteed under Article 32 can be suspended by constitutional amendment provided that the amendment is not against the&nbsp;basic structure doctrine."
+}

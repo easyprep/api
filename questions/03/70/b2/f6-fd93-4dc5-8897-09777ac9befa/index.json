@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "0370b2f6-fd93-4dc5-8897-09777ac9befa",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the Indian state with the help of given information: <ol> <li>The state has a Tropical savanna climate</li> <li>The state was once a Union Territory of India</li> <li>Oldest name of the state is Kirat Desh</li> </ol> Select the correct answer from options given below:",
+  "option1": "Himachal Pradesh",
+  "option2": "Manipur",
+  "option3": "Sikkim",
+  "option4": "Tripura",
+  "option5": "",
+  "answer": "Tripura",
+  "explanation": "All given features are of Tripura state of India"
+}

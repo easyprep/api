@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "022cb431-592c-4502-b1eb-fc85ab61930f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the solar system, consider the following statements:\r\n<ol>\r\n<li>All planets except Venus revolve around the sun in the same direction i.e. from west to east</li>\r\n<li>The direction of rotation of planets on their axis is also the same as the direction of their revolution around the sun</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "All of the planets move around the Sun in a direct (eastward) direction, but three of them (Venus, Uranus and Pluto) rotate in a retrograde (westward) direction, and are said to have a retrograde rotation. Do not confuse revolution, or motion around an orbit, with rotation, or turning about an axis."
+}

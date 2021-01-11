@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:07.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "3a6c2126-25dd-43eb-b623-0d73ea03868e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The salaries of both the high court and Supreme Court judges are charged from Consolidated Fund of India</li> <li>The charged expenditure on consolidated fund of India cannot be voted or discussed in the house</li> </ol> Which among the above statements is / are correct?<br> &nbsp;",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because salaries of high court judges are charged from Consolidated Funds of States while their pension comes from Consolidated Fund of India. Second statement is incorrect because they can discuss (but not vote) charged expenditure.&nbsp;"
+}

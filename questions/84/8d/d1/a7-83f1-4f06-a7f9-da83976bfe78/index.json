@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "848dd1a7-83f1-4f06-a7f9-da83976bfe78",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following comparisons of the Surface Oceanic Currents and Deep Oceanic Currents?\r\n<ol>\r\n<li>While surface currents are primarily driven by winds, deep currents are primarily driven by density differences</li>\r\n<li>While surface currents are swift, deep currents are relatively slower</li>\r\n</ol>\r\nWhich among the above observations is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Ocean currents are of two type’s viz. Surface Currents and Deep Currents. Surface currents affect surface water above the pycnocline (&lt;10% of ocean water). These currents are primarily driven by major wind belts. The Deep currents affect deep water below pycnocline (90% of ocean water) and are primarily driven by density differences. The deep currents are larger and slower than surface currents."
+}

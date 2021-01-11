@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "198edcd9-1302-4944-9b7a-fd35543b9de5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>During national emergency, President can suspend the enforcement of all fundamental rights guaranteed by the Constitution</li> <li>Any action taken by the executive during emergency is not liable to be challenged in any court even after expiration of emergency</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because even during national emergency President cannot suspend the right to move to Court for the enforcement of fundamental rights guaranteed by Articles 20 to 21. Second statement is correct."
+}

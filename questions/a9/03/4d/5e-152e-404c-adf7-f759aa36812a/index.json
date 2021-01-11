@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "a9034d5e-152e-404c-adf7-f759aa36812a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Marble is a metamorphic rock resulting from the recrystallization of limestone.</li>\r\n<li>Slate is a sedimentary rock that possesses cleavages which permit it to be split into thin sheets</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<p class=\\\"Notes\\\">Marble is a metamorphic rock resulting from the recrystallization of limestone. Slate belongs to the metamorphic group of rocks and can be defined as a fine grain rock derived from clays and shale and possessing a cleavage that permits it to be split into thin sheets."
+}

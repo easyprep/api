@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "244a53e4-b702-4a74-a2b4-b435cc813399",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about President of India: <ol> <li>The oath and office to the President of India is administered by the Vice- President of India</li> <li>President presides over the joint sitting of both Houses of Parliament</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because the oath of office to the President is administered by the Chief Justice of India. Second statement is incorrect because Speaker of Lok Sabha presides over the joint sitting of both the Houses."
+}

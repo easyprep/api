@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c5e24e56-ca14-4de4-aa45-f34163ab3b82",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following reasons justify the inability of the Mars to sustain life?\r\n<ol>\r\n<li>Mars has no magnetosphere</li>\r\n<li>The atmosphere of Mars is very thin</li>\r\n<li>Mars is well beyond habitable zone of solar system</li>\r\n<li>Mars has no water, water ice and oxygen</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 1 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The first two statements are correct. The lack of a magnetosphere and extremely thin atmosphere of Mars are a challenge: the planet has little heat transfer across its surface, poor insulation against bombardment of the solar wind and insufficient atmospheric pressure to retain water in a liquid form (water instead sublimates to a gaseous state). Mars is also nearly, or perhaps totally, geologically dead; the end of volcanic activity has apparently stopped the recycling of chemicals and minerals between the surface and interior of the planet. The current understanding of planetary habitability—the ability of a world to develop and sustain life—favors planets that have liquid water on their surface. This most often requires that the orbit of a planet lie within the habitable zone, which for the Sun currently extends from just beyond Venus to about the semi-major axis of Mars. During perihelion Mars dips inside this region, but the planet’s thin (low-pressure) atmosphere prevents liquid water from existing over large regions for extended periods. The past flow of liquid water demonstrates the planet’s potential for habitability. Some recent evidence has suggested that any water on the Martian surface may have been too salty and acidic to support regular terrestrial life. The 4th statement is not correct because presence of water ice as well as traces of oxygen have been reported at Mars."
+}

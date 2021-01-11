@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "38d20edb-8a7c-47b2-af76-6802133fbf11",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>The rotation of the earth on its axis generates centrifugal force on water.</li>\r\n<li>Effect of centrifugal force in creating tides is of great use in determining the location of the high tides and low tides</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The rotation of the earth on its axis generates centrifugal force on water. As a result there is a tendency for the water to be thrown away from the earth. The centrifugal force is directly proportional to the radius of the circle of rotation. Therefore the centrifugal force will be the maximum at the equator and minimum near the poles. However, the effect of the centrifugal force along parallels of latitude will be uniform irrespective of the longitude. Therefore, the effect of centrifugal force in creating tides is of no concern while determining the location of the high tides and low tides."
+}

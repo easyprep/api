@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "93ee17ea-9f4f-4ab2-acdc-b27a21d08bce",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about desalination of sea water: <ol> <li>As of now, Kerala is the only state in India to use desalinated water for drinking purpose</li> <li>Reverse osmosis is the most commonly used&nbsp;desalination&nbsp;method</li> <li>A reverse osmosis desalination plant is environment friendly</li> </ol> Which of the above statements is/are correct?",
+  "option1": "2 Only",
+  "option2": "1 & 3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3 Only",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>Third statement is incorrect</u> because the desalination process through reverse osmosis is not environmentally friendly and it contributes to the wastewater discharges that affect coastal water quality, especially due to the highly saline brine that is emitted into the sea, which may be increased in temperature, contain residual chemicals from the pre treatment process, heavy metals from corrosion or intermittently used cleaning agents. <u>First statement is incorrect</u> because as of now, Tamil Nadu is the only state in India where desalinated water is used for drinking purpose."
+}

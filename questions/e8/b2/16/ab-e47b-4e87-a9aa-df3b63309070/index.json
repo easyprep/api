@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "e8b216ab-e47b-4e87-a9aa-df3b63309070",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The district judge is appointed by the Governor of the state in consultation with High Court of the state</li> <li>The power of posting, promotion &amp; grant of leave to district judge is vested in the High Court</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because the power of posting, promotion &amp; grant of leave to district judge is vested in Governor."
+}

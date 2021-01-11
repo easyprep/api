@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6b4eaa43-7849-4c90-ae02-06c38416f5ca",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Many coffee growers in Karnataka and Tamil Nadu have shifted from the cultivation of Arabica to Robusta variety because in comparison to Arabica variety, Robusta variety:\r\n<ol>\r\n<li>requires less shade and labour</li>\r\n<li>is more resilient to white stem borer pest</li>\r\n<li>fetches better prices in commodity markets for unit quantity</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Every year, the white stem borer pest destroys thousands of tonnes of coffee in Karnataka and some other coffee producing states of India. This has forced many of the arabica growers to go for robusta, which is more resilient to the pest. Further, Robusta requires less shade and labour.  Third statement is not correct."
+}

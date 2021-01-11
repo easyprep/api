@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "372ef5d7-7f33-4751-9ce9-6c12a9d3a081",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Governor of a State has constitutional discretion in which of the following cases?\r\n<ol>\r\n<li>To issue an ordinance</li>\r\n<li>Reserve a bill for consideration of the President</li>\r\n<li>Recommendation to impose President’s rule in state</li>\r\n</ol>\r\nSelect the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "Ordinance making power of governor is not his discretionary power."
+}

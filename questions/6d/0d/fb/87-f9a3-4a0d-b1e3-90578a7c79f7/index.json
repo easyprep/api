@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6d0dfb87-f9a3-4a0d-b1e3-90578a7c79f7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Most of the meteoroids that enter into Earth’s Atmosphere, get burnt into mesosphere</li>\r\n<li>The lowest temperatures in the entire atmosphere of the earth are found in mesosphere</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The mesosphere extends from the stratopause to 80–85 km. Please note that most meteoroids get burnt in this layer. Temperature decreases with height in the mesosphere. The mesopause, the temperature minimum that marks the top of the mesosphere, is the coldest place around Earth and has an average temperature around -85 °C . At the mesopause, temperatures may drop to -100 °C. These are the lowest temperatures anywhere in Earth’s atmosphere."
+}

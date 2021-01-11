@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "cdd25b86-1466-44e4-af5c-966cfbd4e9f8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Administrator or lieutenant-governor of a Union territory is appointed by Prime Minister</li> <li>Same person can not act as Governor of a state and administrator /lieutenant-governor of a Union territory simultaneously</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Administrator or lieutenant-governor for Union territory is appointed by the President. Second statement is incorrect because President can appoint the same person as Administrator of a Union territory as well as Governor of a State."
+}

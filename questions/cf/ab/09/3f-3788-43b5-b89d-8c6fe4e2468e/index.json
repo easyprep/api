@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:10.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "cfab093f-3788-43b5-b89d-8c6fe4e2468e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to the temperature variation on earth, consider the following statements:\r\n<ol>\r\n<li>Highest Temperature of ocean surface has been recorded on Equator</li>\r\n<li>Average annual temperatures for the northern hemisphere is more than that of southern hemisphere</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Highest temperature is not recorded at the equator rather it is a bit north of it. Also we should note that the average annual temperature of all the oceans is 17.2°C. The average annual temperatures for the northern and southern hemispheres are 19.4°C and 16.1°C respectively."
+}

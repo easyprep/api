@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "28a740a5-0347-4856-b5b9-7f50277250ce",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Governor of the State can remove which of the following officers from their office subject to other conditions?\r\n<ol>\r\n<li>Advocate General of the state</li>\r\n<li>Chairman of state public service commission</li>\r\n<li>State Election Commissioner</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "1 & 3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Chairman of state public service commission and state election commissioner can be removed only by President and not by Governor of the State."
+}

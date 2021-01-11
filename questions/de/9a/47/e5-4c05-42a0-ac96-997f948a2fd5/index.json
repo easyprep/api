@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:52.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "de9a47e5-4c05-42a0-ac96-997f948a2fd5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. The Tropic of Cancer passes through six states of India<br> 2. While moving from West towards India, Oman is the last country on land, through which tropic of cancer passes before entering India<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "First statement is incorrect because Tropic of Cancer passes through States of Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. Second statement is correct."
+}

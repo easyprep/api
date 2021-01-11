@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c75559fd-ede6-4912-aa24-b7d2c103d829",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Chairman of UPSC holds the office during the pleasure of President</li> <li>After being Chairman of UPSC, one is no longer eligible to become a member of Central or State legislature</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because Chairman of UPSC can be removed by President, but the order for removal is subjected to judicial review.&nbsp; Second statement is incorrect because Chairman of UPSC is completely debarred from any future employment under the Central or State Government after retirement. He/She is eligible to be appointed or elected to State or Central legislature."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c643485e-f6fa-43c0-9794-06fd1b8067e9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about the Deputy Speaker of the Legislative Assembly?\r\n<ol>\r\n<li>He / she is nominated by the Speaker</li>\r\n<li>He / she holds the office during the pleasure of Speaker</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because Deputy Speaker of the Legislative Assembly is elected by assembly itself from amongst its members. Second statement is incorrect because he/she can be removed by a resolution passed by a majority of all the then members of the assembly."
+}

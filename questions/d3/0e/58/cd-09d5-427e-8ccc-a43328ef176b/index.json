@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "d30e58cd-09d5-427e-8ccc-a43328ef176b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The average monthly winter temperature has been recorded much higher in Northern India in 2015 as compared to several previous years. Which of the following is/are to be responsible for this sudden change in climatic behaviour?&nbsp; <ol> <li>La Nina-Phenomenon in Equatorial Pacific Ocean</li> <li>Shift of Westerlies northward of Indian landmass</li> <li>Indian Ocean Dipole</li> <li>Southward alignment&nbsp;of the&nbsp;jet streams</li> </ol> Select the correct option from the codes given below:<br> &nbsp;",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2 & 4",
+  "explanation": "First statement is incorrect because it is not La-Nina, but El-Nino, which is responsible for sudden change. Indian Ocean Dipole is an El Nino-like phenomenon in the Indian Ocean for shorter period whencompared to El-Nino which has a life span of 12-18 months.But IOD is not held responsible for warmer winter temperature."
+}

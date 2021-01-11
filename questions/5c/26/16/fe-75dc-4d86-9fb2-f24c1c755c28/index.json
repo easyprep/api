@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "5c2616fe-75dc-4d86-9fb2-f24c1c755c28",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:<br> 1. Agar<br> 2. Carrageenan<br> 3. Iodine<br> 4. Wax<br> Which among the above is / are procured from sea weeds?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Carrageenan, from the red alga Chondrus crispus, is used as a stabilizer in milk products. Iodine and Agar are also obtained from algae. No algae is source of wax."
+}

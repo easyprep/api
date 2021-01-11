@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "aeb7beee-7a92-4dd8-be4c-d69ad94c41fd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following observations with respect to the population of Agricultural workers in India:\r\n<ol>\r\n<li>Around one fifth of India’s population is made of Agricultural workers</li>\r\n<li>Around half of agricultural workers in India are landless</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Agricultural workers as fraction of India’s total population have decreased only marginally since in 1951. While 27% of the people were agricultural workers in 1951; their fraction stands 21.7% as per Census 2011 data. Thus, first statement is correct.<br> Out of the total agricultural workers; the fraction of cultivators has gradually gone down from 72% in 1951 to 45.1% in 2011. On the other hand, the fraction of Agricultural Labourers has gradually gone up from 28% in 1951 to 54.8% in 2011. Thus second statement is also correct."
+}

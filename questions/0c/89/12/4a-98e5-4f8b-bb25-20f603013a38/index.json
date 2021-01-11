@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "0c89124a-98e5-4f8b-bb25-20f603013a38",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The motion for removal of a Judge of Supreme Court must be signed by at least 50&nbsp;members of Lok Sabha or Rajya Sabha</li> <li>Retired judges of Supreme Court can practise law as an advocate only in High Courts</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because a motion signed by 100 members (in the case of Lok Sabha) or 50 members (in the case of Rajya Sabha). Second statement is incorrect because the retired judges of the Supreme Court are prohibited from pleading or acting in any Court or before any authority within the territory of India."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "38509d97-0f63-4f66-992a-27998cc87d73",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is the correct decreasing order of the installed capacity of the renewable sources of energy in India?",
+  "option1": "Wind, Hydro, Solar",
+  "option2": "Solar, Hydro, Wind",
+  "option3": "Wind, Solar, Hydro",
+  "option4": "Solar, Wind, Hydro",
+  "option5": "",
+  "answer": "Wind, Hydro, Solar",
+  "explanation": "Kindly note that the current break up of instaled capacity is hydro (3804 MW), wind power (21136 MW), Bio mass power / co-generation (4014 MW), Waste to power (107 MW) and Solar power (2132 MW). Further, notable fact is that wind power output alone exceeds nuclear-generated electricity in India."
+}

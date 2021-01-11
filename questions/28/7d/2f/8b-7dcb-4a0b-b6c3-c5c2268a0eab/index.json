@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:49.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "287d2f8b-7dcb-4a0b-b6c3-c5c2268a0eab",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Lateritic soils?\r\n<ol>\r\n<li>Lateritic soils are rendered infertile by the presence of excess iron</li>\r\n<li>In India, Lateritic soils are observed mainly in Western states</li>\r\n<li>Lateritic soils generally have high silt/clay ratio</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Second statement is incorrect because in India, Lateritic soils are observed mainly in the Southern and North Eastern states."
+}

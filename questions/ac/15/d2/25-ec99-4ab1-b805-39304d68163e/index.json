@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "ac15d225-ec99-4ab1-b805-39304d68163e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Tropical Cyclones don’t form over equator. Why? <br />1. Coriolis effect is weakest at equator<br />2. The air at equator has very high humidity<br />3. Winds are generally calm at Equator<br />Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Tropical Cyclones don’t form over equator because of weak Coriolis force because of which air tend to flow into the low pressure centre. So eye cannot be formed."
+}

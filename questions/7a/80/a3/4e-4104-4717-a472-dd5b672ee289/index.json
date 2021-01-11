@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:10.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "7a80a34e-4104-4717-a472-dd5b672ee289",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are planetary winds?\r\n<ol>\r\n<li>Easterly winds</li>\r\n<li>Westerly winds</li>\r\n<li>Trade winds</li>\r\n<li>Katabatic winds</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 2 only",
+  "option2": "1, 2 & 3 Only",
+  "option3": "1, 2, 3 & 4",
+  "option4": "1, 2 & 4 Only",
+  "option5": "",
+  "answer": "1, 2 & 3 Only",
+  "explanation": "<p class=\\\"Explanation\\\">Katabatic Wind is a wind that is created by air flowing downhill. When this air is warm, it may be called a foehn wind, and regionally it may be known as a Chinook or Santa Ana. When this air is cold or cool, it is called a drainage wind, and regionally it may be known as a mountain breeze or glacier wind."
+}

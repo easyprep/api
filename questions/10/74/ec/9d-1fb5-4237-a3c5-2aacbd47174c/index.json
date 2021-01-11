@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "1074ec9d-1fb5-4237-a3c5-2aacbd47174c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the crop with the following information: <br />1. Requires hot and humid conditions for growing with 24°C mean temperature. <br />2. Ideal rainfall required: 150-300 cm. <br />3. primarily grown in plain areas.<br />4. The crop is labour oriented and not much suited for farm mechanization<br />Select the correct option from the codes given below:",
+  "option1": "Wheat",
+  "option2": "Rice",
+  "option3": "Groundnut",
+  "option4": "Mustard",
+  "option5": "",
+  "answer": "Rice",
+  "explanation": "Rice requires hot and humid conditions with 24°C mean temperature. Ideal rainfall required: 150-300 cm. primarily grown in plain areas.The crop is labour oriented and not much suited for farm mechanization."
+}

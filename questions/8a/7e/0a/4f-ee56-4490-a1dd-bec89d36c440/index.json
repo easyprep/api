@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "8a7e0a4f-ee56-4490-a1dd-bec89d36c440",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Khadar and Bhangar soils in India: <ol> <li>While khadar is newer alluvial, bhangar is older alluvial</li> <li>While bhangar is fine textured, khadar contains calcareous deposits locally known as &#8216;Kankar &#8216;</li> </ol> Which of the above is/are correct statements?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because Khadar is fine textured whereas Bhangar contains calcareous deposits known as kankar."
+}

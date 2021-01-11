@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:12.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "9d38c6b6-bb88-4c80-b768-d300983fafd8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements hold correct over geological times?\r\n<ol>\r\n<li>Moon is moving away from Earth</li>\r\n<li>Earth is moving closer to Sun</li>\r\n<li>Mean solar day is getting longer</li>\r\n<li>Earth’s rotation speed is getting down</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 2",
+  "option2": "1, 2, 3 & 4",
+  "option3": "1, 3 & 4",
+  "option4": "1 & 4",
+  "option5": "",
+  "answer": "1, 3 & 4",
+  "explanation": "We all should know that due to tidal friction or tidal acceleration, over geologic time, the moon recedes from the Earth, at about 3.8 centimetres (1.5 in)/year, lengthening the terrestrial day. Since mass of moon is a considerable fraction of that of the Earth (about 1:81), the two bodies can be regarded as a double planet system, rather than as a planet with a satellite. The plane of the Moon’s orbit around the Earth lies close to the plane of the Earth’s orbit around the Sun (the ecliptic), rather than in the plane perpendicular to the axis of rotation of the Earth (the equator) as is usually the case with planetary satellites. The mass of the Moon is sufficiently large, and it is sufficiently close, to raise tides in the matter of the Earth. In particular, the water of the oceans bulges out along both ends of an axis passing through the centres of the Earth and Moon. The average tidal bulge closely follows the Moon in its orbit, and the Earth rotates under this tidal bulge in just over a day. However, the rotation drags the position of the tidal bulge ahead of the position directly under the Moon. As a consequence, there exists a substantial amount of mass in the bulge that is offset from the line through the centers of the Earth and Moon. Because of this offset, a portion of the gravitational pull between Earth’s tidal bulges and the Moon is perpendicular to the Earth-Moon line, i.e. there exists a torque between the Earth and the Moon. This boosts the Moon in its orbit, and decelerates the rotation of the Earth. So the result is that the mean solar day, which is normally 86400 seconds long, is actually getting longer when measured in SI seconds with stable atomic clocks. The small difference accumulates every day, which leads to an increasing difference between our clock time (Universal Time) on the one hand, and Atomic Time and Ephemeris Time on the other hand. This makes it necessary to insert a leap second at irregular intervals."
+}

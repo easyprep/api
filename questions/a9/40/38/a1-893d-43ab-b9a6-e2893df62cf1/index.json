@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "a94038a1-893d-43ab-b9a6-e2893df62cf1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements about tropical forests is / are correct?\r\n<ol>\r\n<li>They cover approximately 6% of Earth's land area</li>\r\n<li>Brazil, Indonesia, Zaire, and Peru have more than half of the world's tropical forests.</li>\r\n<li>Over half of the world's tropical forests have already been cleared or degraded.</li>\r\n<li>Reforestation is ensuring that tropical forests are being used on a sustainable-yield basis</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Fourth statement is incorrect because reforestation does not help in revival of Tropical Rain forests."
+}

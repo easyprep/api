@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "4f698dc4-3d79-49cd-914c-32f508a10835",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <br />Assertion: Ireland is relatively warm in winter, even though it is close to the Arctic Circle<br />Reason: Few countries above arctic circle are ice-free during the winter season due to warm waters of Gulf Stream<br />Which among the following is / are correct statements?",
+  "option1": "Assertion is true, Reason is incorrect",
+  "option2": "Assertion is incorrect, Reason is correct",
+  "option3": "Both Assertion and Reason are correct",
+  "option4": "Both Assertion and Reason are incorrect",
+  "option5": "",
+  "answer": "Both Assertion and Reason are correct",
+  "explanation": "Ireland is relatively warm in winter, even though it is close to the Arctic Circle because of the warm waters of gulf stream. Few countries above arctic circle are ice-free during the winter season due to warm waters of Gulf Stream."
+}

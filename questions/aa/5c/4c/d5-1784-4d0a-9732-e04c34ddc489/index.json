@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:07.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "aa5c4cd5-1784-4d0a-9732-e04c34ddc489",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are \"instruments of monetary policy\" ?\r\n<ol>\r\n<li>Discount Rates</li>\r\n<li>Government Expenditures</li>\r\n<li>Reserve Requirements</li>\r\n<li>Open Market Operations</li>\r\n</ol>\r\nChoose the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 3 & 4",
+  "option3": "Only 1 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 3 & 4",
+  "explanation": "Government Expenditure is not an instrument of monetary policy."
+}

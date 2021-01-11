@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "bd428d7a-808e-4ca9-9eaf-73f97c150db0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Prime Meridian: <br />1. passes through the Royal Observatory, Greenwich <br />2. has latitude of 180Â° <br />3. otherwise known as International Date Line<br />Which among the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The prime meridian passes through the Royal Observatory, Greenwich. A prime meridian is the meridian in a geographic coordinate system at which longitude is defined to be 0°. Together, a prime meridian and its anti-meridian form a great circle. This great circle divides a spheroid into two hemispheres."
+}

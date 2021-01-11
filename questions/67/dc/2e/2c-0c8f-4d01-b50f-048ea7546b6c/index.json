@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "67dc2e2c-0c8f-4d01-b50f-048ea7546b6c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following are the criteria for a town to be classified as &quot;Census Town&quot;? <ol> <li>Minimum population of 5000</li> <li>About 75% of male working population engaged in non agricultural sector</li> <li>Minimum area of the town should be 100 acres</li> <li>Density of population of at least 400 person per sq.km</li> </ol> Select the correct code from options given below:&lt;",
+  "option1": "1 & 2 Only",
+  "option2": "1, 2 & 4 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 4 Only",
+  "explanation": "Criteria for a town to be a &quot;Census Town&quot; are:<br> Minimum population of 5000<br> About 75% of male working population engaged in non agricultural sector<br> Density of population of at least 400 persons per sq.km"
+}

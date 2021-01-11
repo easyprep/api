@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:12.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "7cb4f967-8bd3-4339-9e73-7066f1813691",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Sedimentary formations are most favourable for the occurrence of mineral oil</li>\r\n<li>In sedimentary formations, most of the petroleum comes from synclines rather than anticlines</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Anticlines and synclines are the up and down folds that usually occur together and are caused by compressional stress. Anticlines are folds in which each half of the fold dips away from the crest. Synclines are folds in which each half of the fold dips toward the trough of the fold. The sedimentary formations are most favorable for the occurrence of mineral oil. In areas where the sedimentary strata have been folded, most of the oil comes from anticlines rather than synclines. In sedimentary formations, most of the petroleum comes from anticlines rather than synclines. This is due to the fact that the density of oil is lower than that of rocks containing oil and therefore oil has a tendency of getting accumulated in the anticlines. In an oil well, gas, if any present in it, occurs at the top, oil below it, followed by water."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "ea5d2255-9caf-4196-962d-d7af28424845",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A tourist in Mumbai observes high tide near Gateway of India at 7.00 AM. At what time, he should expect another high tide on the same day?",
+  "option1": "7.00 PM",
+  "option2": "7.25 PM",
+  "option3": "7.40 PM",
+  "option4": "8.50 PM",
+  "option5": "",
+  "answer": "7.25 PM",
+  "explanation": "Most coastal areas experience two high and two low tides per day. One of these high tides is at the point on the earth which is closest to the moon (sub lunar) and other high tide is at the opposite point on the earth (antipodal). One tidal cycle comprises two high tides and two low tides. One tidal cycle completes in 24 hours and 50.4 minutes. This is because of the revolution of Moon around the earth and both earth’s rotation and moon revolution are in same direction. (Moon is not stationary, so there is a difference, if moon were stationary the high tides would have occurred exactly in 12 hours). The high tides occur at an interval of 12 hours and 25.2 minutes. This means that if there is a high tide is at 7.00 am, next high tide would be at 7.25 pm and next would be at 7.50 am, and so on. The time difference between two high tides is called “Tidal Interval”. The tidal cycle in this pattern is called semidiurnal. However, most of the enclosed water bodies or away from the open ocean such as Caribbean Sea or Caspian Sea, there are only one high tide and one low tide. This pattern is called Diurnal tides. At the coast of the oceans, there may be two high tides, of unequal length. This is called Mixed Tides."
+}

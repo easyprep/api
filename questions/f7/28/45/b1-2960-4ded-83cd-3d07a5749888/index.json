@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:42.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f72845b1-2960-4ded-83cd-3d07a5749888",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is the reason that Australia is very dry continent and only Antarctica receives less rainfall than Australia?\r\n<ol>\r\n<li>The landmass in Australia has low elevation</li>\r\n<li>Australia’s West Coast is touched by warm ocean currents</li>\r\n<li>Australia is dominated by low pressure systems</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The reasons are as follows:\r\n<ul>\r\n<li>Cold ocean currents off the west coast</li>\r\n<li>Low elevation of landforms</li>\r\n<li>Dominance of high-pressure systems</li>\r\n<li>Shape of the landmass</li>\r\n</ul>"
+}

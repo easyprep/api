@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "b380199a-b07d-4704-bbd9-f8575cf084c2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following writs can be issued against administrative authorities? <ol> <li>Prohibition</li> <li>Certiorari</li> <li>Quo-Warranto</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "The writ of prohibition can be issued only against judicial and quasi-judicial authorities. It is not available against administrative authorities, legislative bodies, and private individuals or bodies."
+}

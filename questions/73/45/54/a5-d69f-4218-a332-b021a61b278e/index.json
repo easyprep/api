@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "734554a5-d69f-4218-a332-b021a61b278e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Sun?\r\n<ol>\r\n<li>The temperature of Sun’s Corona is much higher than that of its photosphere</li>\r\n<li>The presence of Hydrogen in Sun is much higher than that of Helium</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Chemically, about three quarters of the Sun’s mass consists of hydrogen, while the rest is mostly helium. The remainder (1.69%, which nonetheless equals 5,628 times the mass of Earth) consists of heavier elements, including oxygen, carbon, neon, iron, and others. The sun’s corona is much hotter (by a factor of nearly 200) than the visible surface of the Sun: the photosphere’s average temperature is 5800 Kelvin compared to the corona’s one to three million Kelvin. The corona is 10-12 times as dense as the photosphere, and so produces about one-millionth as much visible light. The corona is separated from the photosphere by the relatively shallow chromospheres. The exact mechanism by which the corona is heated is still the subject of some debate, but likely possibilities include induction by the Sun’s magnetic field and sonic pressure waves from below (the latter being less probable now that coronae are known to be present in early-type, highly magnetic stars). The outer edges of the Sun’s corona are constantly being transported away due to open magnetic flux generating the solar wind."
+}

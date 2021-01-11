@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "ec22d05d-3835-4fa8-b18b-4bab3d550d44",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Earthquakes, consider the following statements: <br />1. Majority of earthquake devastation is caused by Love (L) and Rayleigh waves<br />2. The S waves can not pass through the liquid outer core<br />Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Majority of earthquake devastation is caused by Love (L) and Rayleigh waves. The S waves can not pass through the liquid outer core. The P waves can pass through both Solids and liquids."
+}

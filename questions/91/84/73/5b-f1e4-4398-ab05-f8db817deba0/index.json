@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:47.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "9184735b-f1e4-4398-ab05-f8db817deba0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following rivers of India make deltas at their mouth?\r\n<ol>\r\n<li>Mahanadi</li>\r\n<li>Godavari</li>\r\n<li>Krishna</li>\r\n<li>Kaveri</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Mahanadi, Godavari, Krishna as well as Kaveri are major rivers of peninsular India which make deltas."
+}

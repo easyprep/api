@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "18b53a0f-22ec-496f-9526-cf297f7dddbd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following planets are called &#8220;Superior Planets&#8221;? 1. Venus 2. Mars 3. Jupiter 4. Saturn Select the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 2 & 3",
+  "option4": "Only 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "The planets closer to the sun than the earth, namely Mercury and Venus, are called the inferior planets. The planets located at a distance greater than the distance of the earth from the sun are called the superior planets. Mars, Jupiter, Saturn, Uranus and Neptune are superior planets."
+}

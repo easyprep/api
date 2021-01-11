@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "a99e37a6-b021-4f3f-acbc-5a463f5dee06",
+  "labels": "current-affairs,2018-08-04",
+  "question": "On which among the following dates at 12.00 noon in New Delhi, the speed of sound waves will be maximum, assuming the same humidity / density of air on all dates?",
+  "option1": "2020-12-31T18:30:00.000Z",
+  "option2": "2021-03-04T18:30:00.000Z",
+  "option3": "2021-06-14T18:30:00.000Z",
+  "option4": "2021-10-14T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-06-14T18:30:00.000Z",
+  "explanation": "The speed of the sound increases when there is an increase in the temperature as well as moisture. The questions mentions that we have to keep moisture constant. In the given dates, June 15 is supposed to be the hottest day, among all and this would be the correct answer. Here please note that , the speed at temperature Y (Vy) would be 331.3 m/s Plus 0.61 x temperature. This means that the speed of the sound increases by 0.61 meter per second for each ° increase in temperature. And at 0°C, in dry air, the speed of sound is 331.3 m/s We assume that at 12.00 noon in New Delhi on January 1 the temperature is 8°C and that on June 15 is 38°C, then : V(8°C) = 331.3 + (0.61 X 8) = 336.18 meter per second; V(38°C) = 331.3 + ( 0.61 X38)= 354.48 meter per second The speed will be in between for other two options."
+}

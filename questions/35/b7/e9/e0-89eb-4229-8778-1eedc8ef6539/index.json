@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "35b7e9e0-89eb-4229-8778-1eedc8ef6539",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is an incorrect statement about Governor of a state?",
+  "option1": "Governor can summon or prorogue the state legislature and dissolve the state legislative assembly",
+  "option2": "He nominates one-sixth of the members of state legislative assembly",
+  "option3": "He is responsible to set up State Finance Commission and present the report of commission in state legislature",
+  "option4": "District judges are appointed by the Governor",
+  "option5": "",
+  "answer": "He nominates one-sixth of the members of state legislative assembly",
+  "explanation": "Second statement is incorrect because the Governor nominates one-sixth of the members of the state legislative council"
+}

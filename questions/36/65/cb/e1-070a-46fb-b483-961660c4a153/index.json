@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:42.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "3665cbe1-070a-46fb-b483-961660c4a153",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following islands nations:<br />1. Comoros<br />2. Seychelles<br />3. Marshall Islands<br />4. Solomon Islands<br /><br />Which among the above is / are located in Pacific Ocean?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "The Marshall islands and Solomon islands are located in the Pacific ocean. The comoros and sychelles are located in the Indian ocean."
+}

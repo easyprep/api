@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "531a2f09-5712-421b-af09-e077d7a56407",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the soil type with the help of given information:\n<ol>\n<li>There is absence of lime, phosphate and carbonates in it</li>\n<li>Intense leaching is one of the main characteristic of this soil</li>\n<li>The soil is used for cotton cultivation at places where irrigation facilities are available</li>\n</ol>\nSelect the correct answer from options given below:",
+  "option1": "Regur soil",
+  "option2": "Red Soil",
+  "option3": "Laterite soil",
+  "option4": "Alluvial soil",
+  "option5": "",
+  "answer": "Red Soil",
+  "explanation": "All given characteristics are of Red soil"
+}

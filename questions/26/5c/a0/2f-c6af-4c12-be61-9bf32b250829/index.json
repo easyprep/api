@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "265ca02f-c6af-4c12-be61-9bf32b250829",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong>Ports in India </strong> : <strong>Location State</strong> <ol> <li>Mormugao : Maharashtra</li> <li>Kamarajar : Tamil Nadu</li> <li>Nhava Sheva : Karnataka</li> </ol> Which of the above pairs is/are correctly matched?",
+  "option1": "2 Only",
+  "option2": "1 and 3 Only",
+  "option3": "1 and 2 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Mormugao is located in Goa and Nhava Sheva is located in Maharashtra."
+}

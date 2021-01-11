@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:42.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "efed8127-0e73-4aff-890b-7e87aa418125",
+  "labels": "current-affairs,2018-08-04",
+  "question": "If earth stops rotating, the impact on weight of a body will be minimum on which among the following places?",
+  "option1": "Equator",
+  "option2": "North Pole",
+  "option3": "Tropic of Cancer",
+  "option4": "Tropic of Capricorn",
+  "option5": "",
+  "answer": "North Pole",
+  "explanation": "The question is related to the centrifugal forces, which represent the effects of inertia that arise in connection with rotation and which are experienced as an outward force away from the center of rotation. The impact of this force is maximum at Equator and minimum at Pole."
+}

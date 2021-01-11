@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "fe295edd-071b-4b9c-a295-cd0c441d3613",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Indian Ocean Dipole (IOD) and El Nino, consider the following statements:\r\n<ol>\r\n<li>While the El Nino causes the warming of the surface of Pacific Ocean, IOD causes warming of the Indian Ocean</li>\r\n<li>While the El Nino always brings deficient rainfall in India, IOD always brings more rains in India</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Kindly note that the Indian Ocean Dipole (IOD) is a miniature version of the El Nino – La Nina phenomenon being enacted in the Indian Ocean from time to time. It has negative and positive phases. In the negative case, the sea surface warms up to the east of the Ocean basin relative to the west. This causes convection and precipitation to be confined to the East Indian Ocean, robbing mainland India of its share and affecting rainfall. During a positive IOD phase, exactly the reverse happens; but a warmer west Indian Ocean has been found to fuel a concurrent Indian Monsoon. Thus the event has a more direct and immediate impact on the monsoon than the El Nino-La Nina event."
+}

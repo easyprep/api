@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "032eb922-ea50-45f0-95cb-bb2df9b6ba41",
+  "labels": "current-affairs,2018-08-04",
+  "question": "We always look the same face of moon. Which of the following explains this?\r\n<ol>\r\n<li>Moon revolves around the earth and also rotates on its axis in exactly the same time</li>\r\n<li>Tidal forces made the visible face of the moon locked to earth</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The second statement is a fundamental concept which allof you should know about, it is called Tidal Locking. Inastronomical history, once moon used to rotate relativeto earth, so that an observer on earth would have seendifferent faces of the moon as it spun. But it graduallystopped spinning due to something called \\\"tidal locking\\\".The moon\\'s gravity pulls on the earth, and it pulls moststrongly on the face of the earth that is facing the moon.The land on earth doesn\\'t particularly care about thisextra tug, but the oceans do. Water is \\\"lifted\\\" towardsthe moon, and flows to make a bulge that faces the moon.(There is a bulge in the back of Earth too, pointing away,which is related.) As the earth turns, this \\\"bulge\\\" flowsthrough the oceans, always approximately facing themoon; we see it as tides moving up and down. TheMoon\\'s rotation slowed down, however, due to what arecalled tidal forces: the side of the Moon that\\'s closer tothe Earth feels a slightly stronger pull due to the Earth\\'sgravity than does the side of the Moon away from theEarth, so it deforms a little bit–it gets a little bit longerin the direction facing the Earth. As different sides of theMoon faced the Earth, different parts of the Moon wouldget deformed, and all of this deformation produced a lotof friction. This friction slowed down the Moon\\'s rotationover a long time, until eventually the same side alwaysfaced the Earth, and the deformed part did not have tomove any more."
+}

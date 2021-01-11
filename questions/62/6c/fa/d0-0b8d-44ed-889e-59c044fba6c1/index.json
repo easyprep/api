@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:50.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "626cfad0-0b8d-44ed-889e-59c044fba6c1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is / are correct about Jet streams?\r\n<ol>\r\n<li>Most Jet streams on earth flow westwards</li>\r\n<li>They help in bringing western disturbances from the Mediterranean region into Indian sub-continent</li>\r\n<li>Withdrawal of subtropical jet stream from India is critical for the onset of the southwest monsoon over India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "First statement is incorrect because jet streams blow from west to east."
+}

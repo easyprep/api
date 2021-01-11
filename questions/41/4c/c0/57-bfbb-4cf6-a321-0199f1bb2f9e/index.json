@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "414cc057-bfbb-4cf6-a321-0199f1bb2f9e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>A person can be appointed as Chief Minister even if he is not a member of state legislature at the time of appointment</li> <li>Chief Minister is the head of the state government</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "First statement is correct because a person can be appointed as Chief Minister even if he is not a member of State legislature at the time of appointment, but he should become a member to the state legislature within six months from the time of appointment, failing to do so, he loses his post. Second statement is also correct."
+}

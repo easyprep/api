@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:50.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "299ed6aa-64a1-465c-bac4-3f02b2e6c7c8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Slash-and-burn cultivation is usually associated with which of the following?\r\n<ol>\r\n<li>River valley systems</li>\r\n<li>Grasslands</li>\r\n<li>Rainforests</li>\r\n<li>Taiga and Tundra</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Slash-and-burn cultivation is usually associated with grasslands such as Steppes and savannas as well as rainforests."
+}

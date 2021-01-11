@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:08.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "0cdf2e75-224c-40ed-ba6d-188c056775a6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Regarding Presidential reference to Supreme Court, which of the following is / are correct statements?\r\n<ol>\r\n<li>If the President seeks advice on some matter from the Supreme Court, the Supreme Court is bound to tender such advice</li>\r\n<li>The advice of the Supreme Court if rendered, is not binding on the president</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "Supreme Court is not bound to tender advice. It was recently seen when Supreme Court said that the policy making is the realm of the executive and did not given any advice. Similarly, advice tendered by the Supreme Court is not binding upon the President."
+}

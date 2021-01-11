@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:42.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "9e9d7c0b-3d1d-4c97-90a3-01754b29be2c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:<br> 1. Moon<br> 2. Earth<br> 3. Venus<br> Which among the following is the increasing order of albedo of the above three bodies?",
+  "option1": "2003-01-01T18:30:00.000Z",
+  "option2": "2003-01-31T18:30:00.000Z",
+  "option3": "2002-02-28T18:30:00.000Z",
+  "option4": "2002-01-02T18:30:00.000Z",
+  "option5": "",
+  "answer": "2003-01-01T18:30:00.000Z",
+  "explanation": "Planetary albedo is the fraction of the incoming light reflected from a surface. A bright surface, such as ice or snow, has a very high albedo (close to 1, which would represent total reflection), whereas a dark surface, such as coal or soot, has a very low albedo (close to 0, which would represent complete absorption). In the solar system, the Moon, which has a bare, rocky surface, has an average albedo of 0.12 (reflects 12 per cent of the light hitting it). The Earth, which is partly cloud-covered, has an average albedo of 0.37, while the albedo of Venus, which is completely cloud-covered, is 0.65."
+}

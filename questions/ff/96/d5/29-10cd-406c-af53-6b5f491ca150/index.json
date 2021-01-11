@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "ff96d529-10cd-406c-af53-6b5f491ca150",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Clay Pot Irrigation: <ol> <li>Clay Pot is an ancient method of irrigation originated in India</li> <li>At present, the method of irrigation is most prevalent in north west India</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because the method is an ancient method of irrigation which is said to have originated in Africa 4,000 years ago. Second statement is correct because the method is very effective in saline soil and thus is most prevalent in north-west India."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "a475f161-d792-40c7-a326-b675f2d97d62",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Governor of a State: <ol> <li>The Governor can adjourn the sitting&nbsp;of the State Legislative Assembly</li> <li>The Governor address&nbsp;the first session of the Legislative Assembly after elections</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because Speaker of State Legislative Assembly adjourns the sitting of the assembly. Second statement is correct."
+}

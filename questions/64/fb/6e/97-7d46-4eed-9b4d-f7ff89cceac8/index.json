@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:47.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "64fb6e97-7d46-4eed-9b4d-f7ff89cceac8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Krishna-Godavari (KG) Basin: <ol> <li>KG-Basin is the largest river basin in India.</li> <li>The basin is home to Olive Ridley turtles.</li> <li>KG inland and offshore basins have good prospects of tight oil and tight gas reserves.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "First statement is incorrect because the largest river basin in India is the Ganga-Brahmaputra-Meghna, with catchment area of about 11.0 lakh km<sup>2</sup>. Second and third are correct observations."
+}

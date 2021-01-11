@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:10.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "edb1160a-d835-4ad9-a4a5-55d9d4fdc990",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. India&#8217;s onshore crude oil production is significantly more than offshore crude oil production<br> 2. India&#8217;s offshore natural gas production is significantly more than onshore natural gas production<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "In 2010-11, India produced 37712 thousand tons of Crude Oil. The Onshore production was 16428 thousand tons and Offshore production was 21284 thousand tons. In 2010-11, India produced 52252 Million Cubic Meters of Natural Gas. The Onshore production was 8577 million cubic meter and Offshore production was 43645 million cubic meters."
+}

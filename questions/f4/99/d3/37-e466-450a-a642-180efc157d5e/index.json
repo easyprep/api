@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f499d337-e466-450a-a642-180efc157d5e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with respect to Shale gas: <ol> <li>Shale gas is a natural gas trapped in low permeable metamorphic rocks.</li> <li>Commercial Production of Shale Gas in India started from 2014</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is wrong because Shale gas are trapped in sedimentary rocks and not in metamprphic rocks. Second statement is wrong because currently, there is no commercial production of shale gas in India. A site at Jambusar located near Vadodara in Gujarat is India’s first shale gas exploratory successfully drilled in Cambay region."
+}

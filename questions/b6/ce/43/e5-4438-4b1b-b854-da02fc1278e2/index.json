@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "b6ce43e5-4438-4b1b-b854-da02fc1278e2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Supreme Court: <ol> <li>The Supreme Court is bound to its previous judgement and cannot review its own judgement</li> <li>A High Court&nbsp;cannot&nbsp;review or alter its&nbsp;own judgement in criminal case</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the powers of the Supreme Court to review its own judgements are elaborated in the article 137 of the Constitution of India. A&nbsp; High Court cannot review or alter its own decision in criminal cases. Supreme Court can review its decision in accordance to the Code of Civil Procedure, 1908. Criminal review petition can be moved only on the ground of an error apparent on the face of the record without the need to resort to any other supporting evidence."
+}

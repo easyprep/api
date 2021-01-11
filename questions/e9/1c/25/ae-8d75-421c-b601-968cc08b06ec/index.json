@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "e91c25ae-8d75-421c-b601-968cc08b06ec",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following objects of the solar system have elliptical orbits?\r\n<ol>\r\n<li>Planets</li>\r\n<li>Comets</li>\r\n<li>Asteroids</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All planets, comets and asteroids in our solar system have elliptical orbits. Thus, they all have a closest and a farthest point from the Sun- a perihelion and an aphelion."
+}

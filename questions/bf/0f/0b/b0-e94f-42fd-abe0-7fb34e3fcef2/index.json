@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "bf0f0bb0-e94f-42fd-abe0-7fb34e3fcef2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The Election Commission of India is a Constitutional body</li> <li>The Chief Election Commissioner is appointed by the President and holds the office during the pleasure of President</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because the Chief Election Commissioner of India holds the office for six years or till the age of 65 years, whichever is earlier.&nbsp;The Chief Election Commissioner can be removed from office only through impeachment by Parliament."
+}

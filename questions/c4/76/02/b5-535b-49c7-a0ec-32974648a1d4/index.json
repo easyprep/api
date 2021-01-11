@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c47602b5-535b-49c7-a0ec-32974648a1d4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Speed of satellite revolving around the earth: <ol> <li>is directly proportional to mass of the satellite</li> <li>decreases if satellite moves from a higher orbit to a lower orbit</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Speed of satellite revolving around the earth is given by<br> v=?GM/r<br> Where v is the speed of satellite, G is the gravitational constant; M is the mass of the Earth and r is the radial distance of satellite from earth. So, we find that velocity of satellite does not depends on mass of satellite. Again from the equation we find that velocity is inversely proportional to distance from the earth. Therefore as the distance decreases from earth, velocity of satellite increases."
+}

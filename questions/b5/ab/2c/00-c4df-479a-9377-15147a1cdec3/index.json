@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "b5ab2c00-c4df-479a-9377-15147a1cdec3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following earthquakes of India is an example of Induced seismicity?",
+  "option1": "Kutch Earthquake of 1819",
+  "option2": "Assam earthquake of 1897",
+  "option3": "Koyna Earthquake of 1967",
+  "option4": "Uttarkashi Earthquake Of 1991",
+  "option5": "",
+  "answer": "Koyna Earthquake of 1967",
+  "explanation": "The 6.5 magnitude earthquake occurred close to 103 metre concrete gravity dam at Koyna. Prior to this earthquake, the area used to be considered aseismic. However, after the construction of dam and filling up of reservoir in 1962, the seismic activity increased significantly. The main shock of December 10, 1967 caused widespread damage, killing about 200 persons and injuring more than 1500 persons. This was an example of the reservoir-induced seismicity in India. The dam, designed keeping in mind the possible seismic activity, performed quite well with only nominal damage to the dam. This earthquake lead to the revision of Indian seismic zone map wherein the area around Koyna was brought in zone IV from zone I, and seismic zone for Bombay was upgraded from zone I to zone III."
+}

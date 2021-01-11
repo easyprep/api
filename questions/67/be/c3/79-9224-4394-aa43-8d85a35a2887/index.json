@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:07.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "67bec379-9224-4394-aa43-8d85a35a2887",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is the validity period of Indian postal order ?",
+  "option1": "6 months",
+  "option2": "12 months",
+  "option3": "3 months",
+  "option4": "1 month",
+  "option5": "",
+  "answer": "6 months",
+  "explanation": "The validity period of Indian postal order is 6 months from the date of issue. It can be paid during the next six months on payment of a second commission in the shape of postage stamp(s) affixed on the reverse of the order. IPO older than 12 months from last day of the month of issue will be forfeited if presented for payment."
+}

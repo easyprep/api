@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:42.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6f4c465b-339b-403f-bd15-69a76a3fb155",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct features of the Equinox?\r\n<ol>\r\n<li>It occurs when centre of Sun and Earth’s equator are in perpendicular position</li>\r\n<li>It occurs twice a year</li>\r\n<li>It is marked by equal length of day and night</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1& 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Equinox occurs when center of Sun and Earth’s equator are in same plane."
+}

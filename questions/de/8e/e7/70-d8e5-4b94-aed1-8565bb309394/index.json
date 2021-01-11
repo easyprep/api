@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "de8ee770-d8e5-4b94-aed1-8565bb309394",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following observations with reference to the moon’s orbit around earth is / are correct?\r\n<ol>\r\n<li>Its a circular orbit</li>\r\n<li>Its perpendicular to earth’s equatorial plane</li>\r\n<li>Its is getting larger every year by around 3.8 centimetres</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "The orbit of the Moon is distinctly elliptical with an average eccentricity of 0.0549. The non-circular form of the lunar orbit causes variations in the Moon’s angular speed and apparent size as it moves towards and away from an observer on Earth. The Moon’s orbit is indeed getting larger, at a rate of about 3.8 centimetres per year. (The Moon’s orbit has a radius of 384,000 km.)"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "448da950-6f06-4937-adf7-5607e1e46ce4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The highest daily temperature on earth is not recorded at 1200 hours during summer. What could be the most correct explanation to this?",
+  "option1": "The specific heat of Land is more than water",
+  "option2": "The land takes substantial time to get heated in comparison to it gets cooled",
+  "option3": "Atmosphere does not get heated directly by Sun's radiation",
+  "option4": "None of the above is a correct explanation",
+  "option5": "",
+  "answer": "Atmosphere does not get heated directly by Sun's radiation",
+  "explanation": "The highest temperature of the day is recorded at 2:00 pm and not at 12:00 noon because earth does not get&#8217;s maximum heated directly by sun&#8217;s radiation, infact it gets heated by earth&#8217;s radiation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f1f537d7-ff27-45f8-8b8e-8099d67d422c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The transfer of judges from one High Court to another High Court is done by the Chief Justice of India</li> <li>A retired judge of a High Court cannot practise in any other court in India</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because the transfer of Judges from one High Court to another is done by the President of India in consultation with Chief Justice of India. Second statement is incorrect because a retired judge of a High Court can practise in Supreme Court and other High Courts in India except in the High Court from where he retired. The constitution says that once a high court judge has retired, he cannot practice law in any court or before any authority in India except the Supreme Court and the other High Courts. This means that a retired High Court judge cannot practice in lower courts and same high court from which he has retired. This also implies that at present, the Constitution neither prohibits judges of the Supreme Court or the High Court from taking any post-retirement job nor restricts the power of the government to appoint any retired judges to commissions and/or tribunals."
+}

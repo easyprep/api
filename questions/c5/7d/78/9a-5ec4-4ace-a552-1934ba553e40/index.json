@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:50.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c57d789a-5ec4-4ace-a552-1934ba553e40",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following information can be revealed by the population pyramid of a particular area?\r\n<ol>\r\n<li>Age structure</li>\r\n<li>Sex structure</li>\r\n<li>Dependency ratio</li>\r\n<li>Race structure</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Population Pyramid does not give information about the Race structure."
+}

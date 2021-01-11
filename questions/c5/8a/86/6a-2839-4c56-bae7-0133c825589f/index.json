@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c58a866a-2839-4c56-bae7-0133c825589f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following countries: <ol> <li>Lesotho</li> <li>Afghanistan</li> <li>Hungary</li> </ol> Which of the above is/are landlocked countries?",
+  "option1": "2 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1,2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "All the above mentioned countries are land locked."
+}

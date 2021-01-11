@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c45ed49b-9ae4-4332-8320-f5b87bff864e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the temperature of the surface of Ocean, consider the following statements:\r\n<ol>\r\n<li>Temperature of the surface of the Oceans is higher in Northern Hemisphere in comparison to Southern Hemisphere</li>\r\n<li>Isotherms drawn in the Northern Hemisphere are more regular in comparison to southern hemisphere</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The oceans in the northern hemisphere receive more heat due to their contact with larger extent of land than their counterparts in the southern hemisphere and thus the temperature of surface water is comparatively higher in the northern hemisphere than the southern hemisphere warm and cold landmasses whereas they (isotherms) are regular and follow latitudes in the southern hemisphere because of the dominance of water."
+}

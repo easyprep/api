@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "4baff385-8977-48f7-b2cb-3e17c475a476",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following crops are grown in both Rabi and Kharif seasons in India? \r\n<ol>\r\n<li>Rice / Paddy</li>\r\n<li>Coarse Cereals</li>\r\n<li>Pulses</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Rice is grown in both rabi and Kharif. Pulses are grown in Rabi, Kharif as well as Zaid. Some coarse cereals such as Jowar (Sorghum) are also grown as Rabi, though most of coarse cereals are Kharif crops. Thus all options are correct."
+}

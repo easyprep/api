@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "4ed1e2e7-8f33-4ca0-ba3d-bc76aa79cc16",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following cases: <ol> <li>Dispute between two or more states</li> <li>Writ Jurisdiction</li> <li>Judicial review</li> </ol> In which of the above, the Supreme Court has original and exclusive jurisdiction?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "3 Only",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Writ Jurisdiction and Judicial review are not exclusive powers of Supreme Court. Under Article 226 and 227, High Courts have power of judicial review. Similarly, High Court has power to issue writs under Article-226."
+}

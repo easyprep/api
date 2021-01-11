@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:41.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "8b624a33-33e4-4504-985e-29a5fbeed8d5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Ganga basin is the single largest irrigated area in the world</li>\r\n<li>Siachen Glacier is the second longest glacier outside of the Polar Regions</li>\r\n</ol>\r\nWhich among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Indus Valley in Pakistan is the largest single irrigated area on Earth, covering around 9X10<sup>6</sup> hactares. Siachen Glacier is the second longest glacier outside of the polar regions and largest in the Himalayas-Karakoram region."
+}

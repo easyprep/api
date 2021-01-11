@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:47.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "28304b5c-c69f-4a06-8963-da26d6d1baff",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements regarding Damodar Valley Corporation, which remains in news frequently:\r\n<ol>\r\n<li>The power stations of Damodar Valley Corporation are located in both West Bengal and Jharkhand</li>\r\n<li>The power stations of Damodar Valley Corporation are both Thermal as well as Hydel based</li>\r\n</ol>\r\nWhich of the above is are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Both the statements are correct. Its thermal plants are in WB and Jharkhand while hydel plants are in Jharkhand. It was recently in news due to its plans to set up India\\'s largest pump storage hydel power with a Rs 52 billion investment. <a href=\\\"https://www.business-standard.com/article/companies/damodar-valley-corp-to-set-up-india-s-largest-pump-storage-hydel-power-118081700828_1.html\\\">Ref</a>"
+}

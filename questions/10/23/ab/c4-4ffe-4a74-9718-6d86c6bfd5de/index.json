@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "1023abc4-4ffe-4a74-9718-6d86c6bfd5de",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1.Highest range of variation of the daily temperature is found in Deserts<br> 2.Lowest range of variation of the daily temperature is found in snow bounded areas<br> 3.Continents record higher range of variation of daily temperature in comparison to Oceans<br> Which among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All the given statements are correct"
+}

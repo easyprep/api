@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "04ce443d-0249-4665-adc7-936b115e9f62",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following project envisages better estimation of crop damage using space technology and drone-based imaging?",
+  "option1": "KISAN",
+  "option2": "Agrosat",
+  "option3": "Agritechnet",
+  "option4": "Project Hailstorm",
+  "option5": "",
+  "answer": "KISAN",
+  "explanation": "C(K)rop Insurance using Space technology And geoiNformatics or KISAN project will use space technology and drone-based imaging for estimating crop yield in better way. This data will enable crop insurance companies to give proper compensation to affected farmers. The experiment will help develop index-based data for insurance companies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:07.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "b46e9391-6c0e-44fa-a817-8d76d1b1d9b2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements: <ol> <li>The President is empowered to dissolve the Lok Sabha and his decision is not subject to judicial review</li> <li>President appoints the Leader of the House for Lok Sabha</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. Second statement is incorrect because &quot;Leader of the House&quot; means the Prime Minister, if he is a member of the House, or a Minister who is a member of the House and is nominated by the Prime Minister to function as the Leader of the House."
+}

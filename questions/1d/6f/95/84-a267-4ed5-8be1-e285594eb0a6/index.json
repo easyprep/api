@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:07.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "1d6f9584-a267-4ed5-8be1-e285594eb0a6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following expenditures of the central government forms a part of Non-Votable Charges?\r\n<ol>\r\n<li>Salaries of members of parliament are charged expenditures</li>\r\n<li>Salaries of high court judges</li>\r\n<li>Interest paid on debts of Government of India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "Only 1 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Salaries of members of parliament are votable expenditure and salaries of judges from high court are paid from consolidated fund of the state. Third statement is correct. We note here that biggest component of charged expenditure is interest paid by the government on its debt."
+}

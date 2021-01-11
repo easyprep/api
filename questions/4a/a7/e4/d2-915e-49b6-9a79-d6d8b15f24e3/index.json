@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "4aa7e4d2-915e-49b6-9a79-d6d8b15f24e3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following authorities: <ol> <li>Attorney General of India</li> <li>Vice-President of India</li> <li>Union Ministers</li> </ol> Which of the above hold(s) the office during the pleasure of President?",
+  "option1": "1 & 3 Only",
+  "option2": "2 Only",
+  "option3": "1 & 2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 3 Only",
+  "explanation": "Union Ministers holds the office during the pleasure of President. Vice President can be removed from office by a resolution passed by special majority in upper House of the Parliament and then approved by simple majority in Lok Sabha."
+}

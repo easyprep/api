@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "dd1d26e9-c54a-49cd-9eaf-c61c2a3ee623",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The writ of mandamus is issued to: <ol> <li>public corporation</li> <li>private corporation</li> <li>tribunal</li> <li>an inferior court</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "1, 3 & 4 Only",
+  "option3": "3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 3 & 4 Only",
+  "explanation": "The writ of mandamus cannot be issued against private corporation."
+}

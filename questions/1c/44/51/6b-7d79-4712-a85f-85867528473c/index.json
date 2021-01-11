@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "1c44516b-7d79-4712-a85f-85867528473c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about President: <ol> <li>The President of India holds office for a term of five years and is not eligible for re-election to the office more than twice</li> <li>Neither elected nor nominated members of legislative assemblies of Delhi and Pondicherry participate in impeachment of President</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the President is eligible for re-election to the office any number of times. Second statement is correct because neither elected nor nominated members of the legislative assemblies of states and the Union Territories of Delhi and Pondicherry participate in the impeachment of the President though they participate in his election."
+}

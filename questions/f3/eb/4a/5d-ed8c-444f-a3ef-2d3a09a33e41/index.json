@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:09.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f3eb4a5d-ed8c-444f-a3ef-2d3a09a33e41",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following observations:\r\n<ol>\r\n<li>A person would observe lowest difference between the high tide and low tide at equator</li>\r\n<li>A person would observe similar high tides at Somalia coast and Argentina coast</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "For any particular location, their height and fluctuation in time depends to varying degrees on the location of the Sun and the Moon, and to the details of the shape of the beach, coastline, coastline depth and prevailing ocean currents. The tidal bulge of the Moon follows along the path on the earth’s surface which intersects with the orbital plane of the Moon. This plane is tilted about 23 degrees with respect to the equatorial plane of the earth. The result is that near the equator, the difference between high tide and low tide is actually rather small, compared to other latitudes. Further also note that the Atlantic and Pacific coast tides are not the same. This is because of the fact that the nature of tides on the Earth’s oceans is very complex. Every coastal location has its own unique tidal signature depending on its latitude, longitude, water depth and salinity."
+}

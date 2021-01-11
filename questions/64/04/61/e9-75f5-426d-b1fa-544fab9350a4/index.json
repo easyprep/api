@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "640461e9-75f5-426d-b1fa-544fab9350a4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Legislative Council of a State: <ol> <li>The maximum strength of the Legislative Council of a State is fixed at one-third of the total strength of the Assembly</li> <li>One-third of its members retire on the expiration of every third year</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because one-third of its members retire on the expiration of every second year."
+}

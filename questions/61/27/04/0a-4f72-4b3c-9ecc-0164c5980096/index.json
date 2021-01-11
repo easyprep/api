@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6127040a-4f72-4b3c-9ecc-0164c5980096",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>While Basalt is an intrusive igneous rock, Granite is an extrusive igneous rock</li> <li>Basalt is called mafic, while Granite is called felsic</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Only second statement is correct<br> First statement is incorrect because basalt is an extrusive igneous rock whereas granite is an intrusive igneous rock.<br> Both basalt and granite are types of igneous rock. Basalt consists of magnesium and iron minerals, and is mainly found at ocean surface, whereas granite are rich in feldspar and silicon, and found at the earth crust."
+}

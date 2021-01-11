@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "61d77e14-e879-4793-a5f2-76ad84e2a1e1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:<br> 1. Extensive farming<br> 2. Shifting cultivation<br> 3. Monoculture<br> 4. Contour farming<br> 5. Zero tillage agriculture<br> Which of the above are likely to cause land degradation?",
+  "option1": "2 and 3 Only",
+  "option2": "1, 2 and 5 Only",
+  "option3": "1, 2 and 3 Only",
+  "option4": "1, 2, 3, 4 and 5",
+  "option5": "",
+  "answer": "1, 2 and 3 Only",
+  "explanation": "Zero tillage agriculture and contour farming prevents land degradation"
+}

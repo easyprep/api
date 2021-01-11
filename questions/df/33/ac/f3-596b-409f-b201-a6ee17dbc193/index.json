@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "df33acf3-596b-409f-b201-a6ee17dbc193",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Whenever there are high winds, such as in storms, thin metal roofs on sheds as well as concave roofs on huts are sometimes blown away. Which among the following explains this correctly?",
+  "option1": "During windstorm , the atmospheric pressure above the roof is very high in comparison to below the roof",
+  "option2": "During windstorm , the atmospheric pressure above the roof is very low in comparison to below the roof",
+  "option3": "The high velocity wind exerts tangential force on the roof surface",
+  "option4": "The high velocity wind exerts vertical force on the roof surface",
+  "option5": "",
+  "answer": "During windstorm , the atmospheric pressure above the roof is very low in comparison to below the roof",
+  "explanation": "During the storm, the velocity of wind above the roof surface is very high and hence pressure is low. The pressure below the roof is atmospheric which is higher than the pressure of upper surface. Due to this pressure difference, the roof blows."
+}

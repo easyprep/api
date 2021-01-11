@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "fb4dc0ae-5282-4a9f-9e22-c44a67471236",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong> Project : Countries</strong> <ol> <li>CPEC : China and India</li> <li>FGFA : India and Russia</li> <li>Kaladan Multi-Modal : India and Myanmar</li> </ol> Which of the above pairs is/are correct?",
+  "option1": "3 Only",
+  "option2": "2 and 3 Only",
+  "option3": "1,2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "CPEC is a project between Pakistan and China."
+}

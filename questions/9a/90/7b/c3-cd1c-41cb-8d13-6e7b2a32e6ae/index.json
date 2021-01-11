@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:50.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "9a907bc3-cd1c-41cb-8d13-6e7b2a32e6ae",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <br> 1. The greater the differences in air pressure between two places, the greater the wind<br> 2. High temperatures are associated with high air pressure<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect because lower temperature is associated with high pressure."
+}

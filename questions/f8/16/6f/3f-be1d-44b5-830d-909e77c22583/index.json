@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:06.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f8166f3f-be1d-44b5-830d-909e77c22583",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Central Vigilance Commission (CVC): <ol> <li>It is a statutory body</li> <li>Its Chairperson is appointed by the Prime Minister</li> <li>The Chairperson and members hold the office for a term of four years or until they attain the age of sixty five years, whichever is earlier</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 & 3 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 3 Only",
+  "explanation": "Second statement is incorrect because Chairperson is appointed by the President. First and Third statements are correct."
+}

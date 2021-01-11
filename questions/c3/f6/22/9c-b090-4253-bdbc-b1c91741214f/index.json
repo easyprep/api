@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:10.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c3f6229c-b090-4253-bdbc-b1c91741214f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The rate of natural increase of population of a country is 2%. In how many years, the population of this country will double?",
+  "option1": "50 Years",
+  "option2": "49 years",
+  "option3": "35 Years",
+  "option4": "31 years",
+  "option5": "",
+  "answer": "35 Years",
+  "explanation": "Time for doubling is : 70/ Rate of Natural Increase"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:12.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "cef9342d-3829-4094-97b0-083ea808bca8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct features of the monsoon climate?\r\n<ol>\r\n<li>seasonal change between wet tropical air masses and dry tropical air masses</li>\r\n<li>very wet season and a very dry season</li>\r\n<li>domination of trade winds during wet season</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "In monsoon biomes, a seasonal change occurs between wet tropical air masses and dry tropical air masses. As a result, there is a very wet season and a very dry season. The third statement is not correct because the Trade winds dominate during the dry season."
+}

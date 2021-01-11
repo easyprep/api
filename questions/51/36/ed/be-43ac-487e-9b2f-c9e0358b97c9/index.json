@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "5136edbe-43ac-487e-9b2f-c9e0358b97c9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following bodies: <ol> <li>Gram Sabha</li> <li>Gram Panchayat</li> <li>Zila Parishad</li> </ol> Which of the above is/are elected body/bodies?",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "Gram Sabha is defined as a as a body of all adult members of a village who has the right to vote. It is not an elected body."
+}

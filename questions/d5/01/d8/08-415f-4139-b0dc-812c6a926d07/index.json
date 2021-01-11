@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "d501d808-415f-4139-b0dc-812c6a926d07",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about National Emergency: <ol> <li>During national emergency, the Parliament can delegate the power to make laws on subjects of state list to the President</li> <li>During national emergency, state executive is dismissed and the state legislature is dissolved</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because during national emergency Parliament is authorised to make laws on the subjects enumerated in the State List only by itself, and it cannot delegate the same to any other body. Second statement is incorrect because even during national emergency, the state executive and legislature continue to function and are not suspended."
+}

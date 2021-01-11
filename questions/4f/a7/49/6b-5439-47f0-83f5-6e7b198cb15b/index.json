@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:49.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "4fa7496b-5439-47f0-83f5-6e7b198cb15b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Why the thickness of the atmosphere is maximum at equator?\r\n<ol>\r\n<li>High insolation and strong convection currents occur in troposphere over the Equator</li>\r\n<li>Air is less dense at Equator</li>\r\n<li>Equator exerts more gravitational pull on atmospheric gases</li>\r\n<li>The centrifugal force due to Earth’s rotation is maximum at Equator</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "One of the laws of Ideal gases called Charles’ law says that in an ideal gas, density decreases with increasing temperature, when pressure is constant. The hot air rises and the Earth is not equally heated everywhere. The troposphere is thicker over the equator than the poles because the equator is warmer. Heat differential on the planet’s surface causes convection currents to flow from the equator to the poles. This implies that the warmer the weather, the thicker is the troposphere. Thus the simple reason is thermal expansion of the atmosphere at the equator and thermal contraction near the poles. <strong>Air is less dense at Equator</strong> Over equatorial regions, where the surface is being heated strongly throughout the year and air warmed by contact with it is expanding and rising, the air all the way up to the tropopause is less dense than air to the north and south. Thus, density of the air is maximum at the equator. But here, you must note that almost same amount of atmospheric mass exists at both equator and poles but only the density of the air is less at equator and greater at poles. Third statement is incorrect because it will result in reducing the thickness at equator."
+}

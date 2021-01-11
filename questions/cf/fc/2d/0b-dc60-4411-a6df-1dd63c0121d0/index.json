@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "cffc2d0b-dc60-4411-a6df-1dd63c0121d0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about election of Vice-President: <ol> <li>The decision of Supreme Court is final for disputes in connection with election of the Vice-President</li> <li>The Vice-President is the ex-officio Chairman of Rajya Sabha</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements"
+}

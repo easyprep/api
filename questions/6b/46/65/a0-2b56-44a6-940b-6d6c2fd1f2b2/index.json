@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6b4665a0-2b56-44a6-940b-6d6c2fd1f2b2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is an incorrect statement about union territories in India?",
+  "option1": "Union territories' relationship with Centre is unitary",
+  "option2": "Union territories are under the direct control and administration of the Centre",
+  "option3": "Parliament can make laws on any subject of the three lists in relation to the union territories",
+  "option4": "Administrator of a Union territory is the constitutional head of Union territory",
+  "option5": "",
+  "answer": "Administrator of a Union territory is the constitutional head of Union territory",
+  "explanation": "Fourth statement is incorrect because Administrator derives his position from Union Territories Act and not from Constitution; hence he/she is not the constitutional head of Union territory. He / she is the Administrative head."
+}

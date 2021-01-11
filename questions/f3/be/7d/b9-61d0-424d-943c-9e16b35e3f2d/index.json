@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:06.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f3be7db9-61d0-424d-943c-9e16b35e3f2d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Governing Council of NITI Aayog comprises of: <ol> <li>Chief Ministers of all the States</li> <li>Administrators of the Union Territories</li> <li>Governors of all the States</li> <li>Chief Secretaries of all States</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Governors and chief secretaries are not members of Governing Council."
+}

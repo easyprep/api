@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:08.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "33fd356f-4fa9-4f55-85dc-bbbde141e4a4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The&nbsp;Insolvency and&nbsp;Bankruptcy Code, 2015 mandates: <ol> <li>adjudicating authority to notify the debtor, within two days of the receipt of the application from creditor</li> <li>no civil court or authority to have jurisdiction over matters on the Debt Recovery Tribunal</li> <li>solution to the case within 180 days, &nbsp;with one-time extension of up to 90 days&nbsp;under discretionary power of adjudicating authority</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Third statement is incorrect because if three-fourths of the creditors decide that the case is complex and cannot be addressed within 180 days, then only, the adjudicator can grant a one-time extension of up to 90 days on the process."
+}

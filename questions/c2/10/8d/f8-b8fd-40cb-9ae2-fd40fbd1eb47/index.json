@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:42.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c2108df8-b8fd-40cb-9ae2-fd40fbd1eb47",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Southern Oscillation Index (SOI) which appears in news sometimes?\r\n<ol>\r\n<li>Southern Oscillation Index (SOI) is an index for gauging the strength of El Nino and La Nina</li>\r\n<li>The index is best represented by monthly (or longer) averages</li>\r\n<li>Sustained positive SOI values above about +8 indicate a La Nina event while sustained negative values below about -8 indicate an El Nino</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The Southern Oscillation Index (SOI) is a measure of the intensity or strength of the Walker Circulation. It is one of the key atmospheric indices for gauging the strength of El Niño and La Niña events and their potential impacts on the Australian region. The index is best represented by monthly (or longer) averages as daily or weekly SOI values can fluctuate markedly due to short-lived, day-to-day weather patterns, particularly if a tropical cyclone is present. Sustained positive SOI values above about +8 indicate a La Nina event while sustained negative values below about –8 indicate an El Nino."
+}

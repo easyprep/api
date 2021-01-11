@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "cfef5c68-b495-42af-9b88-03246eafef4c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is incorrect about President of India?",
+  "option1": "The President has the power to declare an area as scheduled area",
+  "option2": "He appoints the comptroller and auditor general of India and determines his remuneration",
+  "option3": "He can seek any information related to Union Legislation and administration from Prime Minister",
+  "option4": "He can establish an interstate council if at any time it appears to him that it is in public interest",
+  "option5": "",
+  "answer": "He appoints the comptroller and auditor general of India and determines his remuneration",
+  "explanation": "Second statement is incorrect because President appoints Comptroller and auditor General of India but does not determine his remuneration."
+}

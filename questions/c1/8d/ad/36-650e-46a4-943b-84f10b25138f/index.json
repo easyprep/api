@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c18dad36-650e-46a4-943b-84f10b25138f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The coral reefs are important in our lives because __:\r\n<ol>\r\n<li>They provide variety of ecosystem services</li>\r\n<li>Some islands would not have survived without them</li>\r\n<li>They work as sinks of atmospheric carbon</li>\r\n<li>They support variety of ocean life</li>\r\n</ol>\r\nWhich among the above is / are correct?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "The third statement in this question may trap you. Coral reefs, which rather than act as ‘carbon sinks’ are found to be slight ‘carbon sources’. It has been long believed that the precipitation of calcium carbonate results in the sequestering of carbon. But the precipitation of calcium carbonate is accompanied by a shift of pH that results in the release of CO2. Various studies have concluded that the coral reefs are sources, not sinks, of atmospheric carbon."
+}

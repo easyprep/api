@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "03edb233-74c7-413b-b2d7-d9a03208eb0d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs of tribes in news and their respective states. <br />\r\n<ol>\r\n<li>Angami: Arunachal Pradesh</li>\r\n<li>Bhutia : Nagaland</li>\r\n<li>Chenchu: Andhra Pradesh</li>\r\n</ol>\r\nWhich of the above pairs is/are correctly matched?",
+  "option1": "3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "Correct pairs are – Angami : Nagaland;Bhutia : Sikkim;Chenchu : Andhra Pradesh."
+}

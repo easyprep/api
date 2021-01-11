@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "33f40870-4d12-465c-936f-441be6c482cf",
+  "labels": "current-affairs,2018-08-04",
+  "question": "On which of the following dates, the amplitude of the tides would be maximum?",
+  "option1": "January 3, New Moon",
+  "option2": "January 3, Moon in second quarter",
+  "option3": "July 6, Full Moon",
+  "option4": "December 21, New moon",
+  "option5": "",
+  "answer": "January 3, New Moon",
+  "explanation": "On New Moon or Full moon, the tides will have higher amplitude. In the given dates, on January 3, Earth is at perihelion. This means that Earth on January 2 0r 3 is at closest distance from Sun. So, the tide would be highest in the year on Perihelion-New Moon. This spring tide would be the highest in the entire year."
+}

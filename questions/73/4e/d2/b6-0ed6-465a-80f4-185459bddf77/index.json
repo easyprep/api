@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "734ed2b6-0ed6-465a-80f4-185459bddf77",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Tropical Cyclones don’t form over equator and a distance from equator is needed for a tropical Cyclone to form. What could be the explanation for this?\r\n<ol>\r\n<li>Coriolis effect is weakest at equator</li>\r\n<li>The air at equator has very high humidity</li>\r\n<li>Winds are generally calm at Equator</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<p class=\\\"Explanation\\\">We can eliminate the second statement easily because high humidity is needed for formation of a tropical cyclone. The third statement is also incorrect and arbitrary. A distance from the Equator, which should be at least 555 km or 5 degrees of latitude, so that it allows the Coriolis Effect to deflect winds blowing towards the low pressure center and creating a circulation. Because the Coriolis effect initiates and maintains tropical cyclone rotation, tropical cyclones rarely form or move within about 5 degrees of the equator, where the Coriolis effect is weakest. Thus correct option is A."
+}

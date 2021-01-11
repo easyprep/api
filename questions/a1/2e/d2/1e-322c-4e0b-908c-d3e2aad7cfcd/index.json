@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "a12ed21e-322c-4e0b-908c-d3e2aad7cfcd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Total fertility rate is:",
+  "option1": "the average number of children that would be born to each woman at the current year's rate for women that age",
+  "option2": "the number of births per 1000 population",
+  "option3": "the level of fertility at which each successive generation of women produces exactly enough children to ensure the same number of women survive to have offspring themselves",
+  "option4": "the level of fertility at which populations replace themselves",
+  "option5": "",
+  "answer": "the average number of children that would be born to each woman at the current year's rate for women that age",
+  "explanation": ""
+}

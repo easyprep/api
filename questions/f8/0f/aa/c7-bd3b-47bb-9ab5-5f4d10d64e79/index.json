@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "f80faac7-bd3b-47bb-9ab5-5f4d10d64e79",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct observations about Rice Cultivation in India?\r\n<ol>\r\n<li>Most of the rice produced in India is Winter Rice</li>\r\n<li>Rice farming in India is characterized by heavy farm mechanization</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Autumn Rice is Pre-Kharif rice sown during May to August; and harvested in September-October. Autumn rice crop accounts for only 7-8% of total rice grown. Winter Rice is the Kharif rice in India, sown in June-July and harvested in November-December. This accounts for 84% rice cultivation in India. Summer rice is also called Rabi rice sown from November to February and harvesting time is March to June. This accounts for 8-9% of total rice cultivated in India.<br />Thus, rice is predominantly a Kharif crop in India, grown in both irrigated areas as well as rain-fed areas with high rainfall. It requires hot and humid conditions for growing with 24° C mean temperature and 150-300 cm rainfall. The crop is predominantly labor oriented and is not much suitable for heavy farm mechanization."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:44.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "7b7f7900-43e4-4628-939e-c435cafc1587",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Earth’s magnetotail extends towards the dayside of the earth</li>\r\n<li>The magnetic field lines of earth are almost horizontal on equator</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Over the Earth’s equator, the magnetic field lines become almost horizontal, then return to connect back again at magnetic poles. However, at high altitudes, the magnetic field is significantly distorted by the solar wind and its solar magnetic field. On the dayside of the Earth, the magnetic field is significantly compressed by the solar wind to a distance of approximately 65,000 kilometers. The Earth’s bow shock is about 17 kilometers thick and located about 90,000 kilometers from the Earth.<br />The magnetopause exists at a distance of several hundred kilometers off the surface of the earth. The Earth’s magnetopause has been compared to a sieve, as it allows particles from the solar wind to enter. Kelvin–Helmholtz instabilities occur when large swirls of plasma travel along the edge of the magnetosphere at a different velocity from the magnetosphere, causing the plasma to slip past. This results in magnetic reconnection, and as the magnetic field lines break and reconnect, solar wind particles are able to enter the magnetosphere. On the night-side of the earth, the magnetic field extends in the magnetotail, which is over 6,300,000 kilometers in length. The Earth’s magnetotail is the primary source of the polar aurora. Also, NASA scientists have suggested or “speculated” that the Earth’s magnetotail can cause “dust storms” on the moon by creating a potential difference between the day side and the night side. (Source: wikipedia)"
+}

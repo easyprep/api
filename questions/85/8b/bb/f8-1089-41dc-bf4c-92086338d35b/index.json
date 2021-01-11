@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "858bbbf8-1089-41dc-bf4c-92086338d35b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Asteroid Belt</li>\r\n<li>Kuiper Belt</li>\r\n<li>Oort Cloud</li>\r\n<li>Farout</li>\r\n</ol>\r\nWhich among the following is the correct sequence of their increasing distance from Sun?",
+  "option1": "1, 2, 3, 4",
+  "option2": "1, 3, 2, 4",
+  "option3": "2, 1, 3, 4",
+  "option4": "3, 1, 2, 4",
+  "option5": "",
+  "answer": "1, 2, 3, 4",
+  "explanation": "The Kuiper Belt is a doughnut-shaped ring, extending just beyond the orbit of Neptune from about 30 to 55 AU. The Oort Cloud is a spherical shell, occupying space at a distance between five thousand and 100 thousand AU. Thus, both of them are beyond the orbit of Neptune.  Farout ( 2018 VG18) is the farthest known object in solar system."
+}

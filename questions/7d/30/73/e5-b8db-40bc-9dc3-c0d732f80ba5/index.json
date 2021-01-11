@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "7d3073e5-b8db-40bc-9dc3-c0d732f80ba5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is/ are correct statements?\r\n<ol>\r\n<li>Pellagra is prevalent in areas where maize is the staple food.</li>\r\n<li>Maize inhibits the absorption of vitamin B5 into the body</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Pellagra is caused by the deficiency of vitamin B5 which is also referred to as Niacin or Nicotinic acid or Pellagra preventing factor. Pellagra is prevalent in areas where maize is the staple food. Maize inhibits the absorption of vitamin B5 into the system and thus, this deficiency leads on to Beri Beri."
+}

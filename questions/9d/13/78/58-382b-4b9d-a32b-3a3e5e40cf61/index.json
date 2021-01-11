@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "9d137858-382b-4b9d-a32b-3a3e5e40cf61",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are results of the excessive use of nitrogenous fertilizers?\r\n<ol>\r\n<li>Increased acidity of soil </li>\r\n<li>Leaching of nitrate to the ground-water</li>\r\n<li>Depletion of Stratospheric Ozone</li>\r\n</ol>\r\nSelect the correct option using the code given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Excessive use of fertilizers containing Nitrogen in the form of ammonia or other forms subject to nitrification would produce soil acidity. Second statement is also correct, the excessive nitrates would leach to groundwater and once nitrates have leached to groundwater, it is very difficult to remove it from this water. Third statement is also correct because N2O is an ozone depletation substance. Kindly note that N2O also forms Ground level ozone due to its reaction to volatile organic compounds (VOCs)."
+}

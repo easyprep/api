@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "97dad152-3659-41a2-a172-e23b1b8b58c8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Ocean Currents, which among the following observations is / are correct?\r\n<ol>\r\n<li>They are slow surface movements of water</li>\r\n<li>They generally comprise warm water</li>\r\n<li>Configuration of Oceans affects them</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "First statement is not correct. Ocean currents are not always slow; in fact most of them are swift, deep and narrow. The slow and shallow currents are called Drifts. Then, this statement is also incorrect in the sense that when we talk only about the surface currents, we miss the more important Global Thermohaline circulation. Surface Currents are generally wind driven movements of water at or near the ocean’s surface. Thermohaline currents (which are caused by variation of temperature and salinity and density) are slow deep currents that affect bulk of the seawater beneath the Pycnocline."
+}

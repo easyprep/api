@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "e9c35b4b-1cb2-4dea-9074-5b039dd86f0f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. France and Lithuania receive more than 75% of their electricity from nuclear power<br> 2. Hydropower accounts for more than 50% of the electricity produced in Canada and Brazil<br> Which among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both statements are correct and notable facts. Hydroelectric power plants produce over 90% of the electrical energy consumed in Brazil. Brazil co-owns the Itaipu hydroelectric power plant on the Paraná River located on the border between Brazil and Paraguay, which is the world&#8217;s second largest operational hydroelectric power plant with installed generation capacity of 14 GW by 20 generating units of 700 MW each."
+}

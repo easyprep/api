@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:04.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "5e170c8e-d717-4691-9268-eb614a9a56e3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>To impose President&rsquo;s rule in a state, the consent of Governor of the state is mandatory</li> <li>President&rsquo;s rule can be can be extended for a maximum period of five years with approval of parliament after every six months</li> </ol> &nbsp;&nbsp;&nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because President&rsquo;s rule can be imposed even without the consent of the state governor if the president thinks so. Second statement is incorrect because as per 44<sup>th</sup> amendment act President&rsquo;s rule can be extended for more than one year only under following conditions:<br> If proclamation of National Emergency is in operation in whole of India or in the whole or any part of the state; and the Election Commission must certify that the general elections to the legislative assembly of the concerned state cannot be held in disturbed conditions"
+}

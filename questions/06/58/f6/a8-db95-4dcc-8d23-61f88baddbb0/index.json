@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "0658f6a8-db95-4dcc-8d23-61f88baddbb0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Munsiff&nbsp;courts have both civil and criminal jurisdiction</li> <li>An appeal against&nbsp;decision of the Munsiff&nbsp;court can be filed directly before High Court</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because a munsiff court deals with civil cases and not with criminal cases. Second statement is correct."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "fcd5ac15-ef11-4192-b867-c07b25d1819b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "When the satellite is moving in the orbits, it stays in position because the centripetal force on the satellite balances the gravitational attractive force of the earth. This balance depends upon:\r\n<ol>\r\n<li>Distance from the earth</li>\r\n<li>Tangential speed of the satellite</li>\r\n<li>Earth’s radius</li>\r\n<li>Gravitational force of the earth.</li>\r\n<li>Mass of the satellite</li>\r\n<li>Size of the Satellite</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "2003-01-01T18:30:00.000Z",
+  "option2": "1, 2, 3, 4",
+  "option3": "1, 2, 3, 4, 5",
+  "option4": "1, 2, 3, 4, 5, 6",
+  "option5": "",
+  "answer": "1, 2, 3, 4",
+  "explanation": "The core principle of an orbit is that as a satellite or object moved tangentially, it falls toward the earth / other body, but it moved so quickly that earth / body will curve away beneath it. Thus we can understand that gravity pulls this object into a curved path as it attempts to fly off in a straight line. A satellite has enough tangential velocity to miss the orbited object, and will continue falling indefinitely.<br />In other words, when the satellite is moving in the orbits, it stays in position because the centripetal force on the satellite balances the gravitational attractive force of the earth. This balance depends on the following:<br />1.Distance from the earth<br />2.Tangential speed of the satellite,<br />3.Earth’s radius<br />4.Gravitational force of the earth<br />But it does not depend upon: Mass of the satellite and Size of the Satellite"
+}

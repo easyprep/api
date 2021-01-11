@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:47.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "022f0115-b056-425b-ad1d-dbebaf4017d4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about hill ranges of central India?\r\n<ol>\r\n<li>The Satpura ranges and Vindhyan ranges are roughly perpendicular to each other</li>\r\n<li>Satpura range separates the Narmada valley from the Tapti Valley</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The first statement is incorrect, because both are almost parallel to each other. The second statement is correct."
+}

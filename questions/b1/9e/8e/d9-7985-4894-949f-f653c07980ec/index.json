@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "b19e8ed9-7985-4894-949f-f653c07980ec",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements are correct with respect to the Seismic Waves?\r\n<ol>\r\n<li>P-waves are body waves and fastest of all kind of seismic waves</li>\r\n<li>S-waves are surface waves and cannot move through any liquid </li>\r\n<li>Love waves have lower frequency than P-waves</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1 and 3 Only",
+  "explanation": "Second statement is wrong because S-waves are body waves and not surface waves. Love waves are surface waves and surface waves have lower frequency than body waves."
+}

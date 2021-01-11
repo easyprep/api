@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:50.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "2987347f-52fe-436f-bc29-782b6431e7fb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are correct observations with respect to the Cyclonic storms?\r\n<ol>\r\n<li>The intensity of cyclonic storms can be either week or strong</li>\r\n<li>The cyclonic storm represents a large system of air circulation that is centered on a region of low atmospheric pressure</li>\r\n<li>If there is an increasing contrast of temperature and humidity between two air masses, the probability of cyclonic storms would increase</li>\r\n<li>In the Northern Hemisphere the winds move in a clockwise direction around the area of low pressure</li>\r\n</ol>\r\nChoose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "A cyclone in the northern hemisphere go anticlockwise"
+}

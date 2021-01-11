@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:45.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "838c74f1-7dc1-4bfd-af45-b463a1015b64",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with reference to the oil and gas fields in India:<br> 1. The number of only oil producing fields is greater in comparison to the number of only gas producing fields<br> 2. Around half of India&#8217;s total oil and gas fields produce both oil and gas<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "India has 426 total oil and gas fields. Out of which 63 are only Oil Fields, 151 are ONLY gas Fields and 212 are Both Oil and gas Fields."
+}

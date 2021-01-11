@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:09.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "e1a5b744-ca79-4643-97fa-3dd1ef98bde5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following statements about the igneous rocks is / are correct?\r\n<ol>\r\n<li>They generally don’t have fossils</li>\r\n<li>They generally have silicate minerals</li>\r\n<li>They are generally rich in metallic minerals</li>\r\n<li>Volcanic activity generally produces Igneous rocks</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "<p class=\\\"Notes\\\">All of the above are basic features of Igneous rocks."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "141bd67c-254a-4147-a382-609459c48415",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is an incorrect statement?",
+  "option1": "Jurisdiction of Supreme Court is binding on all other law courts in India",
+  "option2": "Salary and allowances of the judges of Supreme Court comes under charged expenditures",
+  "option3": "Judges of Supreme Court resign from office by writing to the President",
+  "option4": "Judges of Supreme Court hold the office during the pleasure of President",
+  "option5": "",
+  "answer": "Judges of Supreme Court hold the office during the pleasure of President",
+  "explanation": "Fourth statement is incorrect because a Judge of the Supreme Court (and also High Court) can be removed from his position by President only on the ground of proved misbehaviour or incapacity. The power for investigation and proof of such misbehaviour or incapacity is vested in the parliament. Each house, in order to remove the judge, will have to pass a resolution which is supported by 2/3rd of members present and voting and majority of the total membership of the house (absolute + special majority)"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:05.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6780c741-132d-464e-a8ee-a26d55bb6d2c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Members of Legislative Councils (MLCs) can&rsquo;t vote in the: <ol> <li>elections of Rajya Sabha members</li> <li>election of President</li> <li>impeachment of President</li> </ol> Select the correct option from codes given below:",
+  "option1": "2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The constitution provides Councils with limited legislative powers. Unlike Rajya Sabha which has substantial powers to shape laws other than those related to money matters, Legislative Councils lack the constitutional mandate to do so. Legislative Assemblies have the power to override suggestions/amendments made by the Legislative Council. Also, while Rajya Sabha MPs can vote in the election of the President and Vice-President, members of Legislative Councils can&rsquo;t vote in the elections of President, Vice-President and Rajya Sabha members."
+}

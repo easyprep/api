@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "170ed199-2e58-4749-a94e-ee9a0b7e0ed3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Terracing is an effective method of soil conservation in desert areas</li>\r\n<li>Mulching helps in both moisture conservation and weed control</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Mulching means covering the soil surface by straw leaves or grasses. Mulches of various sorts check soil erosion, increase soil fertility and also minimize moisture evaporation from the top soil. It also helps in weed control."
+}

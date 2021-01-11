@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "4df26ff2-3b47-4169-9dee-d70b3e2cc131",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following cause(s) the generation of the Van Allen belts?\r\n<ol>\r\n<li>Refraction of sunlight</li>\r\n<li>Charged particles trapped in the earth’s magnetic field.</li>\r\n<li>Reflection of polar snow.</li>\r\n<li>Precession of earth</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 2 & 4",
+  "option2": "Only 2",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 4",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "In the inner region of the Earth’s magnetosphere, there are <strong>two distinct rings</strong> of <strong>electrically charged</strong>particles that encircle our planet. These are called Van Allen belts after their discover<em><u>. The particles in these belts originate from different sources; some come from the solar wind, some from the Earth’s upper atmosphere, some from cosmic rays originating in the distant Universe</u></em>. The belts are shaped like fat doughnuts, <strong><em>widest above Earth’s equator and curving downward toward Earth’s surface near the Polar Regions.</em></strong>\r\n<img src=\\\"https://i1.wp.com/www.gktoday.in/wp-content/uploads-back/2016/04/van-allen-belts.png?zoom=2.5&amp;w=1140&amp;ssl=1\\\" width=\\\"554\\\" height=\\\"331\\\" />\r\nThese charged particles usually come toward Earth from outer space—often from the Sun—and are trapped within these two regions of Earth’s magnetosphere. Since the particles are charged, they spiral around and along the magnetosphere’s magnetic field lines. The lines lead away from Earth’s equator, and the particles shuffle back and forth between the <strong>two magnetic poles</strong>. The closer ring is about 3,000 kilometers from Earth’s surface, and the farther belt is about 15,000 kilometers away. The highly charged particles of the Van Allen belts pose a hazard to satellites, which must protect their sensitive components with adequate shielding if their orbit spends significant time in the radiation belts."
+}

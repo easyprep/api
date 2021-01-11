@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "6f6480ef-401e-49f6-a35d-a438e3383b97",
+  "labels": "current-affairs,2018-08-04",
+  "question": "How the Tropical Cyclones are different from Extra-tropical cyclones?\r\n<ol>\r\n<li>While tropical cyclones are warm core, the extra tropical cyclones are cold core</li>\r\n<li>While tropical cyclones extract much of their energy from the upper layer of the ocean, Extratropical cyclones derive much of energy from land</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The term “tropical cyclone” is used to refer to warm-core, low-pressure systems that develop over tropical or subtropical oceans. This definition differentiates tropical cyclones from extra tropical (midlatitude) cyclones that exhibit a cold-core in the upper troposphere and often form along fronts in higher latitudes. Subtropical cyclones are hybrid systems that exhibit some characteristics of tropical cyclones and some characteristics of extra-tropical cyclones. Tropical cyclones extract much of their energy from the upper layer of the ocean, while extratropical cyclones derive much of their energy from the baroclinic temperature gradients in which they form."
+}

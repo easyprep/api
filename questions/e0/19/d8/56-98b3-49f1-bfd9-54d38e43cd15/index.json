@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:48.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "e019d856-98b3-49f1-bfd9-54d38e43cd15",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following are the sources of cosmic microwave background radiation?\r\n<ol>\r\n<li>Stars</li>\r\n<li>Galaxies</li>\r\n<li>Pulsars</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3",
+  "option3": "Only 2 & 3",
+  "option4": "None of the 1, 2 or 3",
+  "option5": "",
+  "answer": "None of the 1, 2 or 3",
+  "explanation": "Just after the birth of the universe, the atmosphere was extremely dense and glowing white hot. Through the ages, the universe has been cooling — a process that is still going on. Light waves from a very distant part of the early universe reached the earth, making it possible to see the glow. However, since the universe is still expanding, the frequency of the waves of visible light changes to microwave frequency. This occurs due to the relative motion of either the source or receiver of the waves or both, with respect to each other. These waves, originating in the early stage of the cosmos, are cosmic microwaves. Cosmic microwave background radiation is not associated with any star, galaxy, or other object. This glow is strongest in the microwave region of the radio spectrum. The CMB’s serendipitous discovery in 1964 by American radio astronomers Arno Penzias and Robert Wilson was the culmination of work initiated in the 1940s, and earned them the 1978 Nobel Prize."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "08354a3c-fa55-46a8-b094-aef65dd09c51",
+  "labels": "current-affairs,2018-08-04",
+  "question": "If the distance between the earth and the sun becomes one-fourth of what it is now, the gravitational force exerted on the earth by the sun would be:",
+  "option1": "One-fourth of what it is now",
+  "option2": "One-sixteenth of what it is now",
+  "option3": "Sixteen times of what it is now",
+  "option4": "Four times of what it is now",
+  "option5": "",
+  "answer": "Sixteen times of what it is now",
+  "explanation": "Gravitational force is inversely proportional to the square of the distance between the bodies."
+}

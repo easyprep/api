@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:09.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "fc7f6773-e21c-4e31-8261-3164ef696d29",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Gujarat is the leading cotton growing state in the country<br> 2. Maharashtra has the largest area under the cotton cultivation<br> 3. Cotton productivity has been highest in Karnataka<br> Which of the above statements is/are true?",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Statements 1, 2 &amp; 3 are all correct. Gujarat is the leading cotton growing state followed by Maharashtra. Statement 2 is also correct Maharashtra has the largest area under the cotton cultivation. Statement 3 is also correct cotton productivity has been highest in Karnataka at 670 kgs, in Gujarat at 633 kgs per hectare."
+}

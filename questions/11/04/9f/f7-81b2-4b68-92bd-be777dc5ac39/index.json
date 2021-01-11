@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "11049ff7-81b2-4b68-92bd-be777dc5ac39",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The Chief Election Commissioner&nbsp;holds the office during the pleasure of President</li> <li>To be appointed as Chief Election Commissioner, a person must be distinguished jurist in the eyes&nbsp;of the&nbsp;President&nbsp;</li> </ol> &nbsp; &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because Chief Election Commissioner though is appointed by the President but does not hold office during the pleasure of President. He can be removed from office by the president on the basis of a resolution passed to that effect by both the Houses of Parliament with special majority, either on the ground of proved misbehaviour or incapacity. Second statement is incorrect because the Constitution has not prescribed the qualifications (legal, educational, administrative or judicial) of the members of the Election Commission."
+}

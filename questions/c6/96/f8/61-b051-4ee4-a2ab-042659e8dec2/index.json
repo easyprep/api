@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "c696f861-b051-4ee4-a2ab-042659e8dec2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following countries is included in the Sub-Saharan Africa region?\r\n<ol>\r\n<li>Tanzania</li>\r\n<li>Mozambique</li>\r\n<li>Botswana</li>\r\n<li>Senegal</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Sub-Saharan Africa is, geographically, the area of the continent of Africa that lies south of the Sahara Desert. <a href=\\\"https://en.wikipedia.org/wiki/Sub-Saharan_Africa\\\" rel=\\\"nofollow\\\">https://en.wikipedia.org/wiki/Sub-Saharan_Africa</a>"
+}

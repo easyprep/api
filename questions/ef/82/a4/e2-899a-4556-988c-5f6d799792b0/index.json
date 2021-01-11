@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:28:50.000Z",
+  "updated_at": "2021-01-06T08:24:25.529Z",
+  "id": "ef82a4e2-899a-4556-988c-5f6d799792b0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The laterite soils are not fertile soils because___: <br />1.They are coarse grained and non-retentive of moisture<br />2.They lack humus <br />3.They are highly acidic in nature<br />4.They have excess iron<br />Choose the correct statements:",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The laterite soil is formed under conditions of high temperature and heavy rainfall with alternate wet and dry periods, which leads to leaching of soil, leaving only oxides of iron and aluminum. It lacks fertility due to a lower base-exchanging capacity and a lower content of nitrogen, phosphorus, and potassium."
+}
