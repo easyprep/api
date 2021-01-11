@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T20:27:21.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "313a1d91-d0b7-4399-9f10-0825704bb18e",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Bonds issued by NABARD have the following risk weight assigned to them?",
+  "option1": 0,
+  "option2": 0.025,
+  "option3": 0.15,
+  "option4": 0.25,
+  "option5": "",
+  "answer": 0.025,
+  "explanation": "e know that the bonds issued by the Government have 0% Risk weight assigned to them as they are sovereign papers. The Bonds issued by NABARD don\\'t come under this category. The Bonds issued by NABARD, IDBI, Other DFIs (Development Finance Institutions) etc. can be approved by the Government and thus the risk weight assigned to them is 2.5%"
+}

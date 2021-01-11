@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T18:42:23.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "4116affa-1ada-4948-85fc-cafbfd0a640e",
+  "labels": "current-affairs,2018-02-08",
+  "question": "In context with the operation of a transport business from scratches, which among the following mode would follow the Highest Fixed Cost and Lowest Running Cost?",
+  "option1": "Road",
+  "option2": "Rail",
+  "option3": "Water",
+  "option4": "Pipe line",
+  "option5": "",
+  "answer": "Pipe line",
+  "explanation": "The fixed cost of making the pipelines work is highest. If we compare this with the running cost of pipeline, it is almost negligible."
+}

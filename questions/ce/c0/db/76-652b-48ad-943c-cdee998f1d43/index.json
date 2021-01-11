@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T17:25:13.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "cec0db76-652b-48ad-943c-cdee998f1d43",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>Generally, in Developing Countries the income distribution is highly skewed </li>\r\n<li>In Developing countries the ratio of Labour/ Capital is generally very low. </li>\r\n<li>Most developing countries have a negative Balance of payment </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 & 3 are correct",
+  "option3": "Only 1 is correct",
+  "option4": "All 1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The first statement which says that in Developing Countries the income distribution is highly skewed is a correct statement.\r\nThe second statement, which says that in Developing countries the ratio of Labour/ Capital is generally very low is incorrect. The ratio would be high, as these countries will have less capital and more labour.\r\nThe third statement is almost irrelevant as one can not link the stage of development with the Balance of payments"
+}

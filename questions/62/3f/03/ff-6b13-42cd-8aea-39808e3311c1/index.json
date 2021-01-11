@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-06T21:02:54.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "623f03ff-6b13-42cd-8aea-39808e3311c1",
+  "labels": "current-affairs,2018-02-07",
+  "question": "Above 70 °C, sodium bicarbonate has a property of gradually decomposing, which makes it usable in Bakery products. Which among the following end product of this Thermal decomposition of Sodium bicarbonate makes it usable for the above purpose?",
+  "option1": "Hydrogen",
+  "option2": "Carbon Dioxide",
+  "option3": "Water Vapor",
+  "option4": "Sodium Carbonate",
+  "option5": "",
+  "answer": "Carbon Dioxide",
+  "explanation": "Above 70 °C, sodium bicarbonate gradually decomposes into sodium carbonate, water and carbon dioxide as follows -\r\n2 NaHCO3  -  Na2CO3 + H2O + CO2 ,\r\nIn bakery, it reacts with other components or decomposes at higher temperature to release carbon dioxide, which causes dough to rise."
+}

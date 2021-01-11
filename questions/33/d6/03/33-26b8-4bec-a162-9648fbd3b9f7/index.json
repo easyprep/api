@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T18:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "33d60333-26b8-4bec-a162-9648fbd3b9f7",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>The Governments can increase the Floor Space Index to curb the real estate prices</li>\r\n<li>The Increased Floor Space Index means less apartments in the same plot area</li>\r\n</ol>\r\nwhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 and 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "Total covered area on all floors of all buildings on a certain plot divided by Area of the plot is called Floor Area Ratio or Floor Space Index (FSI). For example FAR 2.0 indicates that the total floor area of a building is two times the gross area of the plot on which it is constructed, (and it is a multiple-story building). Increasing FAR means that now more apartments can come up on the given area of a plot. The increase in FAR increases supply and helps in curbing the real estate prices."
+}

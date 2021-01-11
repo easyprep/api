@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T18:10:56.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "44237e08-fd77-48f0-a9a6-d16369d0f470",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>There is NO landlocked country in ASEAN </li>\r\n<li>There are only 2 Landlocked countries in SAARC</li>\r\n<li>All neighbors of India are members of either SAARC or ASEAN </li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 2 & 3 are correct",
+  "option4": "None of them is correct",
+  "option5": "",
+  "answer": "None of them is correct",
+  "explanation": "The first statement is incorrect because Laos is a Landlocked country surrounded by Burma, China , Vietnam , Cambodia and Thailand. The second statement is easily figured out by you as Nepal, Bhutan and Afghanistan are landlocked. The Third statement is also incorrect because China is in neither SAARC or ASEAN."
+}

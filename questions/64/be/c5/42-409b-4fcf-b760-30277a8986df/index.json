@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T17:41:15.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "64bec542-409b-4fcf-b760-30277a8986df",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Liquefied Natural Gas (LNG) </li>\r\n<li>Compressed Natural Gas (CNG) </li>\r\n<li>Shale Gas </li>\r\n</ol>\r\nMethane is the main component of which among the above gases?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "All of them",
+  "option5": "",
+  "answer": "All of them",
+  "explanation": "Methane is the component in all these three gases."
+}

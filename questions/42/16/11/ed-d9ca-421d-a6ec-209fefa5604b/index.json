@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T19:01:00.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "421611ed-d9ca-421d-a6ec-209fefa5604b",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Consider the following statements regarding the GMO (Genetically Modified Organisms) and LMO (Living Modified Organism): \r\n<ol>\r\n<li>GMO are essentially dead , while the LMO are alive and can grow</li>\r\n<li>GMO are patentable, while LMO are not patentable </li>\r\n<li>GMO are modified using Genetic Engineering, while LMO are modified by other technologies. </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 & 2 are correct",
+  "option2": "Only 2 & 3 are correct",
+  "option3": "All are correct",
+  "option4": "None of them is correct",
+  "option5": "",
+  "answer": "None of them is correct",
+  "explanation": "The first statement says that GMO are essentially dead , while the LMO are alive and can grow. This is incorrect because GMO can include the LMOs also apart from the dead organisms. Second statement says that GMO are patentable, while LMO are not patentable. This is wrong statement because both can be patented. Thid Statement says “GMO are modified using Genetic Engineering, while LMO are modified by other technologies” this is also incorrect because LMOs may be genetically modified."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-09T15:10:56.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "d3bbb713-8026-4f5f-937b-2c5fd4b8bb4f",
+  "labels": "current-affairs,2018-02-10",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>The Egg white has more fat value than Egg yolk</li>\r\n<li>The Egg White has less proteins than Egg Yolk</li>\r\n</ol>\r\nChoose the correct statements:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Compared to the whites, egg yolks contain: <br />\r\n<ul>\r\n<li>Less protein: 2.7 grams vs. 3.6 grams.</li>\r\n<li>More fat: 4.5 grams or 99 percent of an egg’s fat.</li>\r\n</ul>\r\nEgg whites are nearly fat-free, containing only one percent of an egg’s fat. Egg whites are also cholesterol-free, low-calorie and contain the greatest percentage of an egg’s protein or 57 percent."
+}

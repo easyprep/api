@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-03T21:15:31.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "70742634-a8b0-4a06-95c7-35ba18e78bf4",
+  "labels": "current-affairs,2018-02-04",
+  "question": "Consider the following statements:  1. Dirty Dozens have been listed by the Stockholm Convention on Persistent Organic Pollutants as causing adverse effects on humans and the ecosystem <br />2. Endosulphan is one of the Dirty Dozens  Which among the above statements is / are correct",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Stockholm Convention on Persistent Organic Pollutants is a treaty which was signed in 2001 for environmental purpose. The objective of the treaty was to eliminate the production and use of persistent organic pollutants. The dirty dozens are aldrin, chlordane, furans, DDT, dieldrin, dioxins, endrin, heptachlor, hexachlorobenzene, mirex, PCBs, and toxaphene."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T19:44:52.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "a3d4920a-ee1e-41aa-aacc-46c7bf178429",
+  "labels": "current-affairs,2018-02-08",
+  "question": "In India, the RBI has mandated the banks to hold 24 per cent of their net demand and time liabilities (NDTL) in a liquid portfolio under the statutory liquidity ratio (SLR) regime. What are the benefits of this system?\r\n<ol>\r\n<li>Provides strength to Financial System</li>\r\n<li>Increases flow of credit to productive sectors</li>\r\n<li>Provides growth to Indian Economy</li>\r\n</ol>\r\nWhich among the above is/ are correct?",
+  "option1": "1 & 2",
+  "option2": "2 & 3",
+  "option3": "Only 1",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "SLR regime provides strength to the banking system and is hence stability enhancing, BUT it entails reduces the flow of credit to productive sectors with potentially adverse impact on investment and growth. So practically, SLR regime poses a growthstability trade-off dilemma for the Reserve Bank. Statement 1 is only correct in this question."
+}

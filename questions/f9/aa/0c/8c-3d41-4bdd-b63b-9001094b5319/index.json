@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T17:36:42.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "f9aa0c8c-3d41-4bdd-b63b-9001094b5319",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Which among the following is the dangerous Green House Gas, created by the <strong>Waste Water</strong>?",
+  "option1": "Nitrogen",
+  "option2": "Sulfur Dioxide",
+  "option3": "Methane",
+  "option4": "Carbon Dioxide",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Methane gas is produced by the decomposition of organic waste in an oxygen-free environment. The treatment and handling of waste water also produces Methane."
+}

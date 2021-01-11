@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-03T17:32:52.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "3ba2e583-a9e3-487c-be4b-459a3c8e83dc",
+  "labels": "current-affairs,2018-02-04",
+  "question": "Which among the following has the <strong>lowest</strong> frequency Range?",
+  "option1": "L-Band",
+  "option2": "S-Band",
+  "option3": "C-Band",
+  "option4": "X-Band",
+  "option5": "",
+  "answer": "L-Band",
+  "explanation": "L Band frequency operates in a range of frequencies ranging from 1,530 to 2.7 Ghz in the satellites. It is one with the lowest frequency amongst satellite bands used in the market."
+}

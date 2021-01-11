@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T22:02:16.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "e493a665-4daf-425c-a536-ab3012ba6905",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Consumer Price Index for Industrial Workers</li>\r\n<li>Consumer Price Index for Agricultural Laborers</li>\r\n<li>Consumer Price Index for Rural Laborers</li>\r\n</ol>\r\nWhich among the above were used in estimation of the poverty in states, in the Lakdawala Formula?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "All of them",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Please note that in Lakdawala formula, the following indices have been used in estimation of the poverty in states:\r\n1. Urban Poverty: CPI-IL (Consumer Price Index for Industrial Laborers) 2. Rural Poverty: CPI- AL (Consumer price Index for Agricultural Laborers)"
+}

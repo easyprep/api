@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T17:48:07.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "69c0114b-72d3-40fc-9904-b192b2ee9441",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Consider the following Pollution Diseases of Japan:\r\n<ol>\r\n<li>Minamata Disease</li>\r\n<li>Itai-Itai Disease</li>\r\n</ol>\r\nWhich among the following is the correct set of causing agents of these diseases?",
+  "option1": "Mercury, Arsenic",
+  "option2": "Mercury, Mercury",
+  "option3": "Mercury, Cadmium",
+  "option4": "Arsenic ,Mercury",
+  "option5": "",
+  "answer": "Mercury, Cadmium",
+  "explanation": "Minamata disease is caused by mercury poisoning. It is a neurological syndrome, with the symptoms of ataxia, lack of sense in hands and feet, muscle weakness, vision, hearing and speech difficulties. Itai-itai disease is caused by cadmium poisoning. The symptoms includes severe pains in the spine and joints."
+}

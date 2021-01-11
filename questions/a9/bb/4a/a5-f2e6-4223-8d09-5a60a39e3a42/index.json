@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T14:56:51.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "a9bb4aa5-f2e6-4223-8d09-5a60a39e3a42",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Many countries such as North Korea, Burma etc. ban possession of a satellite phones and possessing the satellite phones is illegal over there. In this context, please consider the following: \r\n<ol>\r\n<li>Satellite Phones usually bypass local telecom systems and pose a threat to Government </li>\r\n<li>The Governments in these countries want mass surveillance and / or lack the technology to intercept satellite phone traffic.</li>\r\n<li>These countries need to enter into an international convention which they don’t want to. </li>\r\n</ol>\r\nWhich among the above hold correct reason for the given statement?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 1 & 3 are correct",
+  "option4": "all are correct",
+  "option5": "",
+  "answer": "Only 1 & 2 are correct",
+  "explanation": "Satellite Phones usually bypass local telecom systems and pose a threat to Government.The Governments in these countries want mass surveillance and / or lack the technology to intercept satellite phone traffic. There is no need of any international convention."
+}

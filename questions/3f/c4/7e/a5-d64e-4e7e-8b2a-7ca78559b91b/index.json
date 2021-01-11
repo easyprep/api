@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T17:15:33.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "3fc47ea5-d64e-4e7e-8b2a-7ca78559b91b",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Crop Rotation</li>\r\n<li>Contour Cultivation</li>\r\n<li>Buffer Cropping</li>\r\n</ol>\r\nWhich among the above are parts of the Strip Farming?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": ""
+}

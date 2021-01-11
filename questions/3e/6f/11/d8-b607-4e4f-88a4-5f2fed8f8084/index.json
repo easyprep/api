@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-09T19:24:21.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "3e6f11d8-b607-4e4f-88a4-5f2fed8f8084",
+  "labels": "current-affairs,2018-02-10",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Billiards and Snooker have similar number of balls</li>\r\n<li>Billiards and Snooker differ in the colors of the balls</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Billiards is played with three balls: white, red and yellow. The white and yellow balls are the cue balls of the two opponents respectively and the objective is to score some set points. The player who scores the required points first, wins. In snooker, there are 15 red and six colored balls and one cue ball. The player has to pot a red first, then a colour, and again a red, and so on. At the end of the frame the player with more points wins. Each red carries 1 point, yellow 2, green 3, brown 4, blue 5, pink 6 and black 7. The six coloured balls are put back on the table but not the reds. When the reds are over, the other colours are potted in the ascending order of the value of their points"
+}

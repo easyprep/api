@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-06T20:57:34.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "d1671517-8648-4c31-8c27-be7025c8e92b",
+  "labels": "current-affairs,2018-02-07",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>There is almost no speculation in the G-sec market</li>\r\n<li>The Investors in the G-Sec Market are predominantly the institutions</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Both the statements are correct. Government securities market, unlike the share market is NOT an auction market. But it is an Over the counter market and the size is so large that each transaction is done with negotiations. Due to no uncertainties regarding the yield management, Addition to Capital, etc,"
+}

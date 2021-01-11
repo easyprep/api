@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-03T19:38:10.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "ae7cd79c-959f-470e-9d53-985b44af6945",
+  "labels": "current-affairs,2018-02-04",
+  "question": "Consider the following statements: <br />1. Anti-collision device (ACD) Network is patented by Konkan Railway Corporation Ltd. <br />2. Anti-collision device (ACD) uses Global Positioning System for its work <br>Which among the above statements is / are correct?",
+  "option1": "Only 1 is true",
+  "option2": "Only 2 is true",
+  "option3": "Both are true",
+  "option4": "Neither is true",
+  "option5": "",
+  "answer": "Both are true",
+  "explanation": "The Anti-collision device network is a train-collision prevention system, which was invented by Rajaram Bojji and patented by Konkan Railway Corporation Limited. ACD system depends on GPS satellites for position updates."
+}

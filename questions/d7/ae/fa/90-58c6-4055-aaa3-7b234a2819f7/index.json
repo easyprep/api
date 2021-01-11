@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T00:10:59.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "d7aefa90-58c6-4055-aaa3-7b234a2819f7",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Which online security campaign has been launched by Google India to safeguard internet users?",
+  "option1": "#SecureInternetKiya",
+  "option2": "#OnlineSecurityKiya",
+  "option3": "#InternetSafetyKiya",
+  "option4": "#SecurityCheckKiya",
+  "option5": "",
+  "answer": "#SecurityCheckKiya",
+  "explanation": "Google has launched new online security campaign #SecurityCheckKiya in India to promote security awareness among general public. The purpose of the campaign is to protect young and first-time web users from account hijacking, safeguard Android devices from malicious apps and secure all their personal data if they lose their device. Under the campaign, Google recommended three simple steps for Internet safety. It includes reviewing security settings and Google account activity. Furthermore, ‘Google Play Protect’ service scans and checks Android devices for any harmful apps. Find My Device app from Google helps a user to easily long away."
+}

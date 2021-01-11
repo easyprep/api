@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T16:14:26.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "d830cddd-4644-41e0-ab7b-3e6969fd630d",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Consider the following about RIDF (Rural Infrastructure Development Fund):\r\n<ol>\r\n<li>Funds are disbursed to Panchayats</li>\r\n<li>Operated by Ministry of Rural Development</li>\r\n<li>Funds raised from Cooperative Banks</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "Funds are disbursed to States and not Panchayats\r\nOperated by NABARD and not by Ministry,\r\nFund raised from Scheduled Commercial Banks which are unable to meet the priority sector targets"
+}

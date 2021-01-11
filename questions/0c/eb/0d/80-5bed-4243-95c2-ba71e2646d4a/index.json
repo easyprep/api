@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-06T21:51:40.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "0ceb0d80-5bed-4243-95c2-ba71e2646d4a",
+  "labels": "current-affairs,2018-02-07",
+  "question": "An antenna in a Geostationary satellite should have a minimum beam width of which among the following values to cover the entire earth?",
+  "option1": "8.56°",
+  "option2": "17.34°",
+  "option3": "22.16°",
+  "option4": "23.25°",
+  "option5": "",
+  "answer": "17.34°",
+  "explanation": "The Geosynchronous satellite is located at 35865 kilometers away from earth. The global or earth coverage antenna should have a beam width of 17.34° to cover the entire earth."
+}

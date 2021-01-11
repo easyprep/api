@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T00:50:39.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "4d67cf36-8b9c-46c1-94eb-32a894f968f4",
+  "labels": "current-affairs,2018-02-11",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Banking Regulation Act</li>\r\n<li>Insurance Act</li>\r\n<li>Securities Contract Regulation Act</li>\r\n</ol>\r\nWhich among the following presents a correct set of years in which the above acts were legislated?",
+  "option1": "1949, 1958, 1992",
+  "option2": "1949, 1938, 1992",
+  "option3": "1949, 1938, 1956",
+  "option4": "1938, 1948, 1959",
+  "option5": "",
+  "answer": "1949, 1938, 1956",
+  "explanation": "Insurance Act was enacted in 1938 while the Banking Regulation Act was enacted in 1949.The Securities Contract Regulation Act 1956 is another old legislation enacted at a time when derivatives were unknown and without an independent market regulator; which had to wait till 1992."
+}

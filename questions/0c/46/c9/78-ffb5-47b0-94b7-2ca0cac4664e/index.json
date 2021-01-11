@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T16:42:40.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "0c46c978-ffb5-47b0-94b7-2ca0cac4664e",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Which among the following is the most correct feature of an Internationalized domain name (IDN) ?",
+  "option1": "The IDN has an extension which refers to the country specific domain such as .br for Brazil and .cn for China",
+  "option2": "The IDN has at least a single label which is language specific such as Chinese or Hindi.",
+  "option3": "The IDN Domain Registries are not accredited by ICANN ( Internet Corporation for Assigned Names and Numbers) but the independent registries in some countries.",
+  "option4": "The IDN is out of the rules and procedures of the Domain Name System (DNS).",
+  "option5": "",
+  "answer": "The IDN has at least a single label which is language specific such as Chinese or Hindi.",
+  "explanation": ""
+}

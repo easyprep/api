@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T18:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "86c2b748-2fbe-49bf-a66b-52fc6d361cd9",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Who among the following scientists is known for devising four criteria designed to establish a causal relationship between a causative microbe and a disease?",
+  "option1": "Louis Pasteur",
+  "option2": "Emil Behring",
+  "option3": "Ivan Pavlov",
+  "option4": "Robet Koch",
+  "option5": "",
+  "answer": "Robet Koch",
+  "explanation": "Dr. Robert Koch was a German (Prussian) physician. In 1877 he isolated Bacillus anthracis (causative agent of Anthrax) . He also isolated Tuberculosis bacillus (Causative agent of TB) and Vibrio cholera (causative agent of Cholera). He is also known to develop Koch’s postulates, the four criteria designed to establish a causal relationship between a causative microbe and a disease. He was awarded the Nobel Prize in Physiology or Medicine for his tuberculosis findings in 1905."
+}

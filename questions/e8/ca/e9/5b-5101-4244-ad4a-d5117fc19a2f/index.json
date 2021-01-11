@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T15:55:53.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "e8cae95b-5101-4244-ad4a-d5117fc19a2f",
+  "labels": "current-affairs,2018-02-08",
+  "question": "In context with the dotted number format used in the IPv4 , which among the following is NOT possible?",
+  "option1": "128.0.0.1",
+  "option2": "255.152.0.0",
+  "option3": "259.1.1.268",
+  "option4": "202.102.4.4",
+  "option5": "",
+  "answer": "259.1.1.268",
+  "explanation": "Please note that the above arrangement is known as `dotted quad` and in any of the 4 figures, the value can not exceed 256. So correct option is C"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T20:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "a028bc94-5137-475d-a214-1e9a1155c84d",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Not all banks come under the regulation of Right to Information Act</li>\r\n<li> Not all banks come under the Schedule 2 of RBI</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 and 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "The banks which come under the Schedule 2 of RBI are Scheduled Banks. But there are some cooperative banks which are unscheduled, though commercial banking system in India is scheduled. Cooperative Banks don\\'t come under the RTI act. This was recently made clear by RBI as well as these banks are NOT government by the RBI act."
+}

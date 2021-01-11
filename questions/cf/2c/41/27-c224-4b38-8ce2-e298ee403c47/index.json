@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-03T20:44:37.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "cf2c4127-c224-4b38-8ce2-e298ee403c47",
+  "labels": "current-affairs,2018-02-04",
+  "question": "With reference to the exit polls and opinion polls in India, consider the following statements:\r\n<ol>\r\n<li>In India, both the Exit Polls as well as Opinion Polls have been banned till the last phase of any elections is over.</li>\r\n<li>The ban has been implemented after an amendment to Representation of People’s Act, that came into effect in 2010</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "Statement 1 is partially correct because this ban via this act does not include the Opinion Polls."
+}

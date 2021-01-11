@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T14:54:58.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "f845eea8-17b0-44e4-8cdf-20e889501a4a",
+  "labels": "current-affairs,2018-02-03",
+  "question": "The <strong>International Space Station</strong> is located in which among the following orbits?",
+  "option1": "Low Earth Orbit (LEO)",
+  "option2": "Medium Earth orbit (MEO)",
+  "option3": "Intermediate Circular Orbit (ICO)",
+  "option4": "Geostationary Orbit (GEO).",
+  "option5": "",
+  "answer": "Low Earth Orbit (LEO)",
+  "explanation": "The International Space Station is a modular space station in low Earth orbit. The ISS program is a multi-national collaborative project between five participating space agencies: NASA, Roscosmos, JAXA, ESA, and CSA. It is an international collaborative effort between multiple countries."
+}

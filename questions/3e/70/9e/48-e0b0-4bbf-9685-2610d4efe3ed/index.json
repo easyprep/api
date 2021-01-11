@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T22:21:34.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "3e709e48-e0b0-4bbf-9685-2610d4efe3ed",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Reverse Repo Rate</li>\r\n<li>Cash Reserve Ratio</li>\r\n<li>Statutory Liquidity Ratio</li>\r\n<li>Bank Rate</li>\r\n</ol>\r\nAn increase in which among the above could raise the interest rates in the market?",
+  "option1": 1,
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The Reserve Bank uses various policy levers, such as repo rate, reverse repo rate, cash reserve ratio, statutory liquidity ratio and bank rate, to influence the amount of money in the market. An increase in any one of these could raise the interest rates."
+}

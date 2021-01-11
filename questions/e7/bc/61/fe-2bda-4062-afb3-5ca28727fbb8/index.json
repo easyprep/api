@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T21:15:41.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "e7bc61fe-2bda-4062-afb3-5ca28727fbb8",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>For some diseases like Malaria and Denue, techniques of Population suppression of Vectors is favored over the disease resistance techniques</li>\r\n<li>RIDL is a Population suppression technique. </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "For some diseases like Malaria and Denue, techniques of Population suppression of Vectors is favored over the disease resistance techniques. RIDL is a Population suppression technique."
+}

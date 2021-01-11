@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T20:34:34.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "c1b8f563-468e-471e-9ab7-c572d78c7668",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Argon is the third most common gas in the Earth’s atmosphere, at 0.93%. This gas is generated due to decay of which among the following isotopes in the Earth’s crust ?",
+  "option1": "K-40",
+  "option2": "Ca-40",
+  "option3": "Ca-48",
+  "option4": "K-41",
+  "option5": "",
+  "answer": "K-40",
+  "explanation": "Potassium-40 is a radioactive isotope of potassium with a long half-life of 1.251×10⁹ years. The decay of this particular isotope explains the large abundance of argon (0.93%) in the Earth's atmosphere."
+}

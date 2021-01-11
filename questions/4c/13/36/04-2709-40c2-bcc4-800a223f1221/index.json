@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-09T22:02:11.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "4c133604-2709-40c2-bcc4-800a223f1221",
+  "labels": "current-affairs,2018-02-10",
+  "question": "Consider the following statements in context with Baulk Line and Bonus Line, the terms used in Kabaddi:\r\n<ol>\r\n<li>The distance between the Baulk Line and Bonus Line is 1 meter</li>\r\n<li>The crossing of Bonus line by a raider means the raider is out of game</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The first statement is correct. Second is incorrect. When a Raider crosses the mid line and while chanting `Kabaddi..Kabaddi` touches the bonus line, is awarded 1 point"
+}

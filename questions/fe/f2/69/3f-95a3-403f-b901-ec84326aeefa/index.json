@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T21:45:26.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "fef2693f-95a3-403f-b901-ec84326aeefa",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Consider the following differences between the IPv6 and IPv4: \r\n<ol>\r\n<li>IPv4 uses 32 bits in every address while IPv6 used 64 bits in every address </li>\r\n<li>The availability of addresses will become almost double when there is a transition from IPv4 to IPv6</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": ""
+}

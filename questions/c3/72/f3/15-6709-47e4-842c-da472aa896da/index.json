@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T21:52:00.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "c372f315-6709-47e4-842c-da472aa896da",
+  "labels": "current-affairs,2018-02-09",
+  "question": "Consider the following statements about an elementary particle “Neutrino” and its antiparticle “antineutrino”:\r\n<ol>\r\n<li>While Neutrino had a positive charge, antineutrino has negative charge</li>\r\n<li>Both Neutrino and Antneutrino have zero mass</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Two main differences: lepton number and helicity. A neutrino has lepton number +1 and an antineutrino has lepton number -1. A neutrino is left handed (helicity -1, spin antiparallel to momentum) while an antineutrino is right handed (helicity 1, spin parallel to momentum). The antineutrino is an elementary subatomic particle with infinitesimal mass and with no electric charge. A neutrino is a subatomic particle that is very similar to an electron, but has no electrical charge and a very small mass, which might even be zero."
+}

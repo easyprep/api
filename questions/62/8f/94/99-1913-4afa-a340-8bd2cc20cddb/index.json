@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T16:49:04.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "628f9499-1913-4afa-a340-8bd2cc20cddb",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>The Minimum Wage Act 1948 is implemented by the Department of Revenue of all the State Governments </li>\r\n<li>The Minimum Wages are Fixed by the Central Government</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 is correct",
+  "option4": "Neither 1 nor 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 are correct",
+  "explanation": "The Act is implemented in some states by Department of Revenue. The Minimum Wages are not fixed by Central Government. They are fixed by the State Government."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T21:29:57.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "0425c4cb-7ab3-4434-83f0-9eeba6d5ebe9",
+  "labels": "current-affairs,2018-02-09",
+  "question": "Consider the following:<br />1. Trojans<br />2. Adware<br />3. Trackware<br />4. Keyloggers In context with the everyday computer applications, which among the above can be classified as Spyware?",
+  "option1": 1,
+  "option2": "2021-01-01T18:30:00.000Z",
+  "option3": "1,2,3",
+  "option4": "1,2,3,4",
+  "option5": "",
+  "answer": "1,2,3,4",
+  "explanation": "All the above given are spywares. Spyware is a type of malware that aims to gather information about a person or organization, without their knowledge."
+}

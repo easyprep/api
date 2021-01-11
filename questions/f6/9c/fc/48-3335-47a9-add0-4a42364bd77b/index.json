@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T17:48:01.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "f69cfc48-3335-47a9-add0-4a42364bd77b",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Bioaccumulation</li>\r\n<li>Bio-concentration</li>\r\n<li>Bio-magnification</li>\r\n</ol>\r\nWhich among the above take place at the same trophic level of the Food Chain?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Bioaccumulation is defined as the gradual accumulation of the substances, like pesticides or other chemicals, in an organism. It occurs when an organism absorbs a substance with faster rate than that at which the substance is lost by catabolism and excretion. Bio-concentration is the process through which a chemical concentration in an aquatic organism exceeds that in water due to the exposure to a waterborne chemical."
+}

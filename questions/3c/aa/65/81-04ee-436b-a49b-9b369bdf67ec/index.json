@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T15:00:09.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "3caa6581-04ee-436b-a49b-9b369bdf67ec",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Consider the following statements: \r\n<ol>\r\n<li>Both North Pole and South Pole have equally responded to the Global Warming, giving rise to shrinkage </li>\r\n<li>Both North Pole and South Pole have warmed equally due to the Global Warming </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "Both North Pole and South Pole have not equally responded to the Global Warming. South Pole has warmed more due to the Global Warming."
+}

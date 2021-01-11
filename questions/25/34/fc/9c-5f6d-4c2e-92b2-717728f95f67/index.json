@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T18:47:23.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "2534fc9c-5f6d-4c2e-92b2-717728f95f67",
+  "labels": "current-affairs,2018-02-09",
+  "question": "Consider the following crops:\r\n<ol>\r\n<li>Soyabean</li>\r\n<li>Sesame</li>\r\n<li>Pumpkin</li>\r\n<li>Cotton</li>\r\n</ol>\r\nWhich among the following is the correct set of crop seasons in which the above are grown?",
+  "option1": "Kharif, Rabi,Zaid, Kharif",
+  "option2": "Rabi, Kharif, Zaid, Kharif",
+  "option3": "Rabi, Zaid, Zaid, Rabi",
+  "option4": "Kharif, Kharif , Zaid, Rabi",
+  "option5": "",
+  "answer": "Kharif, Rabi,Zaid, Kharif",
+  "explanation": ""
+}

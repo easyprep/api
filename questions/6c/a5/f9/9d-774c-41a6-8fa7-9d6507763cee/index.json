@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T01:12:59.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "6ca5f99d-774c-41a6-8fa7-9d6507763cee",
+  "labels": "current-affairs,2018-02-11",
+  "question": "Consider the following statements in context with the Cash Management Bills:\r\n<ol>\r\n<li>Cash Management Bills are a kind of short term money market instruments with maturity less than 91 days</li>\r\n<li>Cash Management Bills are issued on discount</li>\r\n<li>Cash Management Bills are introduced only by Central Government</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "all are correct",
+  "option4": "Only 2 & 3 are correct",
+  "option5": "",
+  "answer": "all are correct",
+  "explanation": "The Government of India, in consultation with the Reserve Bank of India, finalized and introduced a new short-term instrument, known as Cash Management Bills, to meet the temporary cash flow mismatches of the Government. The Cash Management Bills are non-standard, discounted instruments issued for maturities less than 91 days and could be issued as and when need arises"
+}

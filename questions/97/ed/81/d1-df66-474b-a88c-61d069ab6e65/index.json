@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-03T21:07:34.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "97ed81d1-df66-474b-a88c-61d069ab6e65",
+  "labels": "current-affairs,2018-02-04",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Biological Nitrogen Fixation occurs in absence of Oxygen only</li>\r\n<li>Only Symbiotic Bacteria can fix atmospheric Nitrogen </li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both are correct",
+  "option4": "Both are incorrect",
+  "option5": "",
+  "answer": "Both are incorrect",
+  "explanation": "Biological nitrogen fixation (BNF) occurs when atmospheric nitrogen is converted to ammonia by an enzyme called nitrogenase. It occurs in the presence as well as absence of oxygen.\r\nThe microorganism which can fix atmospheric nitrogen in the soil is bacteria. There are several species of bacteria capable of fixing nitrogen, but the most widely known species are Azotobacter and Rhizobium. Nitrogen fixation has also observed between termites and fungi"
+}

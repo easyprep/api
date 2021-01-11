@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T15:49:53.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "41dcf263-5ced-46e1-98e0-fc07ce143179",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Now a days “Organic Farming” is a buzzword. The advantages of the organic farming are:\r\n<ol>\r\n<li>It is cost effective</li>\r\n<li>It consumers less time</li>\r\n<li>Requires less labour</li>\r\n</ol>\r\nWhich among the above are correct?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Organic farming is cost effective however it consumers more time and requires more labour. It is an integrated farming system which does not involve synthetic pesticides, antibiotics, synthetic fertilizers, genetically modified organisms, and growth hormones."
+}

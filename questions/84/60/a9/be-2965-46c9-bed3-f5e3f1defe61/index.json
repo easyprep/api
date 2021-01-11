@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T20:13:51.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "8460a9be-2965-46c9-bed3-f5e3f1defe61",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Consider the following steps:\r\n<ol>\r\n<li>Banking Department gets currency from the Issue Department</li>\r\n<li>Government puts the currency in circulation</li>\r\n<li>Central Government Incurs a deficit in its Budget</li>\r\n<li>Government Sells Treasury Bills to Banking Department of RBI</li>\r\n</ol>\r\nWhich among the following is the correct order of the above steps?",
+  "option1": "1 2 3 4",
+  "option2": "2 3 4 1",
+  "option3": "3 4 1 2",
+  "option4": "4 3 2 1",
+  "option5": "",
+  "answer": "3 4 1 2",
+  "explanation": "We know that there are two important departments in RBI viz. Banking Department and Issuing Department. The banking Department plays an important role in the expansion and contraction of money in the system. Here is how it takes place. When there is a deficit in the Government Budget, it issues bills to RBI\\'s banking department. The banking department would either pay / credit the government from its own stock of currency or would ask the Issue Department to issue currency for equivalent transfer of eligible assets. The currency is spent (put in circulation) by the Government."
+}

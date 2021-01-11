@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T21:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "69e82e4e-e2c4-4207-acbe-3ffcfe80bc7e",
+  "labels": "current-affairs,2018-02-09",
+  "question": "Two Flat mirrors are placed at an angle of 60° from each other. How many images will be formed of a Candle placed in between them?",
+  "option1": 3,
+  "option2": 4,
+  "option3": 5,
+  "option4": 6,
+  "option5": "",
+  "answer": 5,
+  "explanation": "If two flat mirrors are placed at an angle ø. Then number of images of an object placed between mirrors are = (360/ø) - 1 .<br />Here ø = 60<br />So, number of images of candle = (360/60) -1<br />SO there will be 5 images."
+}

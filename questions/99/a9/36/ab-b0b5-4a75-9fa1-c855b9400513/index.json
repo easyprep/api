@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-09T21:36:39.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "99a936ab-b0b5-4a75-9fa1-c855b9400513",
+  "labels": "current-affairs,2018-02-10",
+  "question": "A satellite can measure the air quality of Delhi every day at 12 noon. It is in which among the following orbits most probably?",
+  "option1": "Equatorial",
+  "option2": "Sun Synchronous",
+  "option3": "Geosynchronous",
+  "option4": "Geostationary",
+  "option5": "",
+  "answer": "Sun Synchronous",
+  "explanation": "A satellite synchronized with the sun orbits the earth from the north to the south poles in a way that it crosses any given point of the earth`s surface at the same local time each day. A sun-synchronized satellite can measure, say, the air quality of Delhi every day at 12 noon. These satellites are used to collect data which can be used for agriculture, water resources, urban development, mineral prospecting, environment, forestry, drought and flood forecasting, ocean resources and disaster management. As the inclination of the orbit is at 90° to the equator, the sun-synchronous satellite can also be placed in such a position that it never moves in the earth`s shadow and can stay in perpetual daytime allowing its solar panels to always remain in sun."
+}

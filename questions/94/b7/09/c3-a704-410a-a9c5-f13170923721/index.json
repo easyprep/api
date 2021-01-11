@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-03T18:40:09.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "94b709c3-a704-410a-a9c5-f13170923721",
+  "labels": "current-affairs,2018-02-04",
+  "question": "Consider the following statements: <br />1. Ireland is a member of EU but not a member of unified visa system as part of the Schengen area<br />2. Switzerland is NOT a member of EU but is a part of unified visa system as part of the Schengen area Which among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Ireland is a member of EU but not a member of unified visa system as part of the Schengen area. The countries in the Schengen area doesn’t need visa to travel. Switzerland is NOT a member of EU but is a part of unified visa system as part of the Schengen area."
+}

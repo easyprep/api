@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T22:31:46.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "f5fc11bd-3cc5-40be-9963-abe089af9c62",
+  "labels": "current-affairs,2018-02-03",
+  "question": "New Horizons’ spacecraft was launched by NASA to study which of the following planet?",
+  "option1": "Mars",
+  "option2": "Pluto",
+  "option3": "Jupiter",
+  "option4": "Mercury",
+  "option5": "",
+  "answer": "Pluto",
+  "explanation": "The New Horizons was launched by from Cape Canaveral Air Force Station to study the surface of the moon. It was the fastest man-made object ever launched from Earth."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T15:38:03.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "19fb4c0a-0268-46c7-b3ce-4794938d7408",
+  "labels": "current-affairs,2018-02-09",
+  "question": "In economy, which among the following can be measured by calculating concentration ratios?",
+  "option1": "Devlopment",
+  "option2": "Inflation",
+  "option3": "Competition",
+  "option4": "Social Security",
+  "option5": "",
+  "answer": "Competition",
+  "explanation": "Competition is generally measured by calculating concentration ratios. Concentration ratios indicate whether an industry consists of a few large firms or many small firms. Two of the most commonly used metrics are the Herfindahl Hirschman Index (HHI) and the N-firm concentration ratio."
+}

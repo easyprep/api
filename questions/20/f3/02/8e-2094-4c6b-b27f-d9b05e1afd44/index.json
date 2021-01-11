@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T20:10:56.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "20f3028e-2094-4c6b-b27f-d9b05e1afd44",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>In Minimum Reserve System, RBI had to keep a minimum reserve of Gold worth Rs. 115 Crores and rest in Indian Rupees.</li>\r\n<li>The Minimum Requirement of Foreign Securities was diluted when Minimum Reserve System was launched.</li>\r\n</ol>\r\nWhich among the above statement is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both of them are correct",
+  "option4": "Both of them are incorrect",
+  "option5": "",
+  "answer": "Both of them are incorrect",
+  "explanation": "Please note that Proportional Reserve System was launched in 1956 and at that time it was fixed that total Minimum reserves would be Rs. 115 Crore in the form of Gold and Rs. 400 Crore, in the form of foreign securities and rest of the securities could be kept at Indian Rupees. So automatically first statement gets wrong. The second statement is also NOT correct. This is because the Minimum Requirement of the Foreign Currencies was diluted one year later, i.e. 1957. After this dilution, the Minimum Reserve System was Rs. 115 Crore in Gold coins or Bullion and rest in Indian Rupees. This helped India to be placed under managed paper currency Standard. So correct answer is Both of them are in correct"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T22:40:26.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "07ead538-ac39-445f-ae2d-7a7d74f0f6e0",
+  "labels": "current-affairs,2018-02-09",
+  "question": "Which among the following is NOT a web browser?",
+  "option1": "SpaceTime",
+  "option2": "NeoPlanet",
+  "option3": "Sputnik",
+  "option4": "MeeGo",
+  "option5": "",
+  "answer": "MeeGo",
+  "explanation": "MeeGo is not a web browser. It is a discontinued Linux distribution hosted by the Linux Foundation, using source code from the operating systems Moblin and Maemo."
+}

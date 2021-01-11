@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-06T00:13:49.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "7522c5e1-5579-41ac-a522-522442babc57",
+  "labels": "current-affairs,2018-02-07",
+  "question": "Which among the following was India’s first Teraflop supercomputer?",
+  "option1": "PARAM 10000",
+  "option2": "PARAM Yuva",
+  "option3": "PARAM Padma",
+  "option4": "PARAM 9000/ss",
+  "option5": "",
+  "answer": "PARAM Padma",
+  "explanation": "PARAM Padma was the first Indian Teraflop supercomputer. It is India’s first machine ranked on a worldwide supercomputer list."
+}

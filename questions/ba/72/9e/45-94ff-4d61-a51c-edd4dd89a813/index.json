@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T14:18:46.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "ba729e45-94ff-4d61-a51c-edd4dd89a813",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Which among the following is the SI physical unit of dynamic viscosity?",
+  "option1": "Poise",
+  "option2": "Pascal-second",
+  "option3": "Newton-second",
+  "option4": "Poise-second",
+  "option5": "",
+  "answer": "Pascal-second",
+  "explanation": "The SI unit for dynamic viscosity η is the Pascal-second (Pa-s). It corresponds to the force (N) per unit area (m2) divided by the rate of shear (s-1)."
+}

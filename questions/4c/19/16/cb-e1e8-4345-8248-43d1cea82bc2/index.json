@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T20:49:49.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "4c1916cb-e1e8-4345-8248-43d1cea82bc2",
+  "labels": "current-affairs,2018-02-06",
+  "question": "A person is standing in front of a wall and makes a sound. What should be the normal minimum distance between the person and the wall , so that the person hears echo?",
+  "option1": "6 meters",
+  "option2": "13 meters",
+  "option3": "20 meters",
+  "option4": "17 meters",
+  "option5": "",
+  "answer": "17 meters",
+  "explanation": "To hear an echo, the minimum distance between a wall and the source of sound is 17m. The minimum interval is 0.1 sec."
+}

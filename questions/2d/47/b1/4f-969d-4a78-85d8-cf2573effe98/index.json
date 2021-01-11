@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-09T20:49:50.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "2d47b14f-969d-4a78-85d8-cf2573effe98",
+  "labels": "current-affairs,2018-02-10",
+  "question": "Bring out the only statement, which is not fully correct:",
+  "option1": "An increase in the supply of money will always result in inflation",
+  "option2": "Inflation occurs when the value of money declines",
+  "option3": "Cost inflation occurs when prices rise to cover increased factor costs",
+  "option4": "Inflation will have the effect of redistributing incomes within a country",
+  "option5": "",
+  "answer": "An increase in the supply of money will always result in inflation",
+  "explanation": "An increase in money supply will NOT Always result in inflation. An increase in the money supply can cause a sustained increase in real production instead of inflation in the aftermath of a recession, when many resources are underutilized. However, it should not be trapped in the financial system as excess reserves."
+}

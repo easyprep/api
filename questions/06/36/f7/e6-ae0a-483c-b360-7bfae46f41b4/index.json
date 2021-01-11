@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-05T19:34:45.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "0636f7e6-ae0a-483c-b360-7bfae46f41b4",
+  "labels": "current-affairs,2018-02-06",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>Proportional Reserve System was prevalent in India from 1939 till 1956</li>\r\n<li>In Proportional Reserve System, RBI was required to keep Gold or Sterling reserves equal to the notes issued in the Issue Department</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The first statement is correct as the system was prevalent between 1939 and 1956. However, the second statement is incorrect. This is because, RBI was required to hold against the notes reserved at least 40% in . the issue department in the form of Gold and Sterling Securities. There was a further provision that Gold or Sterling (which later became foreign currency) at any time would not be less than 40 Crore Rupees."
+}

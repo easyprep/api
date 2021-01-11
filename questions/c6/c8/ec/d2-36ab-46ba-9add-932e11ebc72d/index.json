@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-09T19:17:25.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "c6c8ecd2-36ab-46ba-9add-932e11ebc72d",
+  "labels": "current-affairs,2018-02-10",
+  "question": "Which of the following statements explain the fact that not a single drop of honey leaks from the beehive? \r\n<ol>\r\n<li>The Honey is highly viscous</li>\r\n<li>The surface tension of honey is high</li>\r\n<li>The cells of Bee hive are very small</li>\r\n<li>The cells of Bee hive are closed from both ends</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2, & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, & 3",
+  "explanation": "Bee hives are made up of bee wax in the form of a regular congregation of hexagonal cells, about 3-5 mm across and about the same depth. These cells are built by the “worker” bees using the wax they themselves produce. They also produce the honey from the nectar of different flowers carefully collected by them. The nectars are essentially and mainly dilute sugar solutions which are concentrated by the bees into honey. They store it in the hive cells and further concentrate it evaporating the water content by prolonged fanning of the open cells. This renders the honey quite thick and viscous. The honey also possesses very high surface tension with the walls of the cells. The honey is so viscous that it does not flow by its own weight even if the hive is held with the open face of the cell downwards. In order to understand this, consider a single cell which is a “tubular” structure with one end closed and the other open. For the mass of the liquid in such a tube to flow, it has to deform by partly sliding along the walls. Such a process needs the liquid to have fairly low viscosity and low surface tension. On the other hand honey has extremely high viscosity and very high surface tension, preventing the necessary deformation of the mass of honey in the cell. It is the correct combination of high viscosity and surface tension of honey and the size of the cells together with the waxy material of the cell walls that hold the honey from leaking out of the hive."
+}

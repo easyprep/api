@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-03T18:49:08.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "5a7ae384-74c8-4eba-8ded-28de8a687167",
+  "labels": "current-affairs,2018-02-04",
+  "question": "Consider the following countries:<br />1. Equatorial Guinea<br />2. Democratic Republic of Congo <br />3. Gabon<br />Which among the following is a common statement about all of the three countries?",
+  "option1": "All of the above countries lie on equator",
+  "option2": "All of the above countries share border with Atlantic Ocean",
+  "option3": "All of above are landlocked countries",
+  "option4": "All of above have the highest per capita GDP among African Countries",
+  "option5": "",
+  "answer": "All of the above countries share border with Atlantic Ocean",
+  "explanation": "Equatorial Guinea, Congo and Gabon share border with Atlantic ocean. They lie above the equator. Equator doesn’t pass through Equatorial Guinea."
+}

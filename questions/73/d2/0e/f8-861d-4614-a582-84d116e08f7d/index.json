@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-06T14:58:53.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "73d20ef8-861d-4614-a582-84d116e08f7d",
+  "labels": "current-affairs,2018-02-07",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>National Data Bank (NDB) has been established on the basis of Sachar Committee Recommendations</li>\r\n<li>National Data Bank (NDB) will have all data pertaining to various aspects of socio-economic life of population falling in different social/religious categories</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "NDB has been set up in the Ministry of Statistics and Programme Implementation and has data on social groups and religion collected in the Population Census and National Sample Surveys."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T17:00:40.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "f3bf2b21-edfb-4a85-8bff-d3da030ec2d3",
+  "labels": "current-affairs,2018-02-05",
+  "question": "The Gram Positive Bacteria can be identified by the Gram staining because of the following reasons?",
+  "option1": "The cell walls have more lipids compared to peptidoglycan",
+  "option2": "The Cells walls have more Peptidoglycan compared to Lipids",
+  "option3": "The Cells membrane has more fatty acids",
+  "option4": "The plasma has Peptidoglycans",
+  "option5": "",
+  "answer": "The Cells walls have more Peptidoglycan compared to Lipids",
+  "explanation": "The cell wall which is made up of Peptidoglycan as well as lipids gets violet due to the reaction of the CV+. After the decolorization with alcohol, the lipids gets dissolved and the bacteria with higher Peptidoglycan remain violet. These are called Gram Positive bacteria."
+}

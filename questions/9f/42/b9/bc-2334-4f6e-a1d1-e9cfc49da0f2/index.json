@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T20:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "9f42b9bc-2334-4f6e-a1d1-e9cfc49da0f2",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Consider the following: \r\n<ol>\r\n<li>Nitrogen Oxides</li>\r\n<li>Carbon Dioxide </li>\r\n<li>Methane </li>\r\n</ol>\r\nWhich among the above can contribute in the formation of Ground Level Ozone, one of the important secondary pollutant?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "All of them",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Ground-level ozone is an irritant and can negatively affect human health and welfare. Ground level or tropospheric ozone is created by chemical reactions between oxides of nitrogen (NOx gases), methane (CH4) and volatile organic compounds (VOCs)."
+}

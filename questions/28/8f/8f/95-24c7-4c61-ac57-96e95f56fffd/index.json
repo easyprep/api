@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T18:55:34.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "288f8f95-24c7-4c61-ac57-96e95f56fffd",
+  "labels": "current-affairs,2018-02-08",
+  "question": "The term Cyberknife is most closely associated with which among the following?",
+  "option1": "Magnetic Resonance",
+  "option2": "Cancer Surgery",
+  "option3": "Software Security",
+  "option4": "Remote sensing",
+  "option5": "",
+  "answer": "Cancer Surgery",
+  "explanation": "The term Cyberknife is most closely associated with cancer surgery. It is a radiation therapy device used to deliver radiosurgery for the treatment of benign tumors, malignant tumors and other medical conditions."
+}

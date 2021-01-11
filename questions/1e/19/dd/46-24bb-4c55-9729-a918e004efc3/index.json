@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T15:30:51.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "1e19dd46-24bb-4c55-9729-a918e004efc3",
+  "labels": "current-affairs,2018-02-09",
+  "question": "If Economy of a country picks up very fast then consider the following consequences:\r\n<ol>\r\n<li>Demand picks up</li>\r\n<li>Inflation comes down</li>\r\n<li>Prices become stable</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The overall demand in the economy picks up due to fast growth and more resources are used to meet higher demand. After a point, the economy may not find enough inputs to meet the demand, leading to an increase in prices. If there is surplus capacity in the economy then it can grow above the potential rate for a while. But for an economy already working at full capacity, excessive demand results in increase in the price level"
+}

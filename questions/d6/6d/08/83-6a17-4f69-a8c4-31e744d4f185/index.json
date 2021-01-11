@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-07T21:48:31.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "d66d0883-6a17-4f69-a8c4-31e744d4f185",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Consider the following:\r\n<ol>\r\n<li>The prevalence of TB in India is more in households using electricity, liquid petroleum gas, natural gas, or biogas are more , in comparison to the households using straw, shrubs, or grass for cooking.</li>\r\n<li>The gaseous/ liquid fuels allow more exposure to the toxins</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "Both statements are incorrect. Use of solid fuel (wood, animal dung, crop residue/grasses, coal, and charcoal) exposes people to high levels of toxic air pollutants, which result in serious health consequences. National Family Health Survey-3 (NFHS) found that 71 per cent of India`s urban households and 91 per cent of rural households use solid fuels for cooking purposes. There is a great deal of variation in the prevalence of TB according to the type of cooking fuel the household uses. It ranges from a low of 217 per 100,000 residents, (among households using electricity, liquid petroleum gas, natural gas, or biogas), to a high of 924 per 100,000 (among households using straw, shrubs, or grass for cooking). High TB prevalence is also seen amongst households using agricultural crop residue (703/100,000) or other fuels not specified in the table (755/100,000)."
+}

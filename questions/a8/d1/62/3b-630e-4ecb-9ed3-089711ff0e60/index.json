@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-02T23:42:49.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "a8d1623b-630e-4ecb-9ed3-089711ff0e60",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Who among the following decides on the matter of disqualification of a Member of Rajya Sabha?",
+  "option1": "Parliament of India by resolution",
+  "option2": "Election Commission of India",
+  "option3": "President by advice of Parliament",
+  "option4": "President by advice of Election Commission",
+  "option5": "",
+  "answer": "President by advice of Election Commission",
+  "explanation": "Under the Article 102(1) of Indian Constitution, the decision of disqualification of a Member of Rajya Sabha is taken by the President of India after consulting Election commission of India."
+}

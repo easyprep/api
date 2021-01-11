@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-04T15:53:56.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "70e8b6a4-87b2-4e62-b10e-d36cc6148f42",
+  "labels": "current-affairs,2018-02-05",
+  "question": "Consider the following statements in context with the Coastal Regulation Zone\r\n<ol>\r\n<li>In India the Costal Zone in CRZ Notification 1991 was based on high tide line (HTL)</li>\r\n<li>The Swaminathan Committee in 2004 to review the CRZ was of the view that high tide line is not the best of practices and is less scientific.</li>\r\n<li>The CRZ Notification 2011, Vulnerability line has been demarcated along the coast instead of HTL. </li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "All 1, 2 & 3 are correct",
+  "option4": "Only 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 & 2 are correct",
+  "explanation": "The Ministry set up the Swaminathan Committee in 2004 to review the CRZ and the report was submitted in February 2005. The committee felt that the current practice of fixing CRZ based on high tide line is not the best of practices and is less scientific. It has also widened the scope of definition of a coastal zone. However, statement 3 is incorrect, because Vulnerability line had not been used in CRZ 2011."
+}

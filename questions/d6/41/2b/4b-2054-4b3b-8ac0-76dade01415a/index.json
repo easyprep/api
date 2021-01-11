@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T16:02:05.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "d6412b4b-2054-4b3b-8ac0-76dade01415a",
+  "labels": "current-affairs,2018-02-09",
+  "question": "Consider the following statements about Liposomes:\r\n<ol>\r\n<li>They are one of the important cell organelles</li>\r\n<li>They play important role in storage of lipids in cells</li>\r\n<li>They play important role in cell division</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "1, 2 & 3",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "Liposomes are NOT celll organelles , so automatically all statements hold incorrect. Liposomes are artificially prepared vesicles made of lipid bilayer. Liposomes can be filled with drugs, and used to deliver drugs for cancer and other diseases.The use is in `Smart Drug Delivery`. A smart drug includes a diagnostic module that is programmed with medical knowledge; it is capable of directly sensing of molecular disease indicators and making a diagnostic decision. This decision is then translated into drug activation. Ideally, a smart drug will be delivered to a patient like a regular drug; however it will only become active in cells affected by a disease."
+}

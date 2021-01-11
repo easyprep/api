@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-08T21:33:29.000Z",
+  "updated_at": "2021-01-06T08:24:17.699Z",
+  "id": "19234235-a0fd-4fba-ab64-905f21993e53",
+  "labels": "current-affairs,2018-02-09",
+  "question": "Consider the following statements:\r\n<ol>\r\n<li>International Space Station is stationary, when seen from Earth</li>\r\n<li>An astronaut in International Space Station feels complete weightlessness</li>\r\n<li>International Space Station is always in a state of Free fall</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 3 is correct",
+  "option3": "2 & 3 are correct",
+  "option4": "1 , 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 3 is correct",
+  "explanation": "The International Space Station (ISS) is not stationary. It is moving around the Earth. The ISS and the astronauts, the ISS itself are not floating, they are actually falling as they are in motion. But their sufficient velocity allows them to stay in the Earth orbit. Though the astronauts feel weightless inside the ISS it is not complete weightlessness. They experience microgravity."
+}
