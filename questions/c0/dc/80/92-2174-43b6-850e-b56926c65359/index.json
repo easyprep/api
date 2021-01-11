@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "c0dc8092-2174-43b6-850e-b56926c65359",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following cell organelles:<br> 1. Nucleus<br> 2. Mitochondria<br> 3. Chloroplast<br> 4. Endoplasmic Reticulum<br> Which among the above have DNA?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "In prokaryotes, nonviral extrachromosomal DNA is primarily found in plasmids, where there is no nucleus, it exists as a diffuse coil; whereas in eukaryotes extrachromosomal DNA is primarily found in cell organelles viz. mitochondria and chloroplast."
+}

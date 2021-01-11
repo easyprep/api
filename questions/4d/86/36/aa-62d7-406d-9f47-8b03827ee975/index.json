@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "4d8636aa-62d7-406d-9f47-8b03827ee975",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What facilities are provided by the Payment Banks?<br> 1. Fixed Deposits<br> 2. Debit Cards<br> 3. Credit Cards<br> 4. Loans<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2 & 4",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<strong>Payment Banks: Scope of activities</strong> Payment banks can accept demand deposits. This implies that customers can open savings accounts as well as current accounts; but NO time deposits (such as FDs). <ul><li>An account balance cannot exceed Rs. 1 Lakh for an individual customer.</li><li>Payment Banks can issue ATM/debit cards but not credit cards.</li><li>Payment Banks can NOT give loans.</li><li>Payments and remittance services through various channels.</li></ul> A payment bank can become Banking Correspondent of another bank and offer all products / services which a BC can offer. Payment Banks can distribute non-risk sharing financial products like mutual fund units and insurance products, etc. The revenue of these banks would come <u>mainly from the transaction fees</u>."
+}

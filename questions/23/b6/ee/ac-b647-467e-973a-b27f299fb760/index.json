@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "23b6eeac-b647-467e-973a-b27f299fb760",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs: <ol><li>Major irrigation projects -  Culturable Command Areas of More than 10,000 hectares</li><li>Medium irrigation projects -  Culturable Command Areas of 2,000-10,000 hectares</li><li>Minor irrigation projects -  Culturable Command Areas up to 2000 hectares</li></ol> Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Major irrigation Scheme: Major irrigation schemes are those schemes which have a Culturable Command Areas of More than 10,000 hectares<br> Medium irrigation Schemes: The Medium Irrigation Schemes have a CCA of 2,000-10,000 hectares<br> Minor Schemes: Those with Culturable command areas up to 2000 hectares"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "392b23bf-9adf-4b96-8994-db4a100b3043",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about the Lithium Ion Batteries: <ol> <li>These are secondary cells</li> <li>These are high-powered with less weight and low volume&nbsp;</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Secondary cells are those which are easily rechargeable, whereas, primary cells are those which are not easily rechargeable. Lithium Ion Batteries are secondary cells because they are easily rechargeable. Lithium Ion Battery is more preferred over lead acid battery because the former can deliver their full rated capacity, even at high currents, whereas, the latter can lose as much as a 40% loss of capacity at high loads.&nbsp;"
+}

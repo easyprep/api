@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "501d138e-392a-4b96-a545-c78342d7e2ac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are correct with respect to Budgeting system in India? <ol><li>While a vote-on-account deals only with the expenditure side of the government's budget, interim budget is a complete set of accounts, including both expenditure and receipts</li><li>Vote on account can be passed for maximum two months, with maximum amount withdrawal being one-sixth of total budget of the year</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect, as Vote of account can be increased for further period during election year or when it is anticipated that the main Demands and Appropriation Bill will take longer time than two months."
+}

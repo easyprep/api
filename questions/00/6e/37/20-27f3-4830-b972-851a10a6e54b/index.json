@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "006e3720-27f3-4830-b972-851a10a6e54b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "If a company has &#8220;Trade Receivables&#8221;, this implies that __:",
+  "option1": "It has made a sale but yet to collect payments",
+  "option2": "It has received payments but yet to make a delivery",
+  "option3": "It has received an order but yet to make delivery",
+  "option4": "None of the above is a correct definition",
+  "option5": "",
+  "answer": "It has made a sale but yet to collect payments",
+  "explanation": "If a company has receivables, this means it has made a sale but has yet to collect the money from the purchaser."
+}

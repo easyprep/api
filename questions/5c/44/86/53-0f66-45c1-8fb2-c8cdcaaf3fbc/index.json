@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5c448653-0f66-45c1-8fb2-c8cdcaaf3fbc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A person reaches the Bank with a Demand Draft payable to his account. At this situation, the Bank works as which of the following?",
+  "option1": "Creditor",
+  "option2": "Debtor",
+  "option3": "Beneficiary",
+  "option4": "Trustee",
+  "option5": "",
+  "answer": "Trustee",
+  "explanation": "The bank act as a trustee to the person as the person is withdrawing his own money; he is neither taking loan nor depositing money for fixed duration to bank, for him to be debtor or creditor."
+}

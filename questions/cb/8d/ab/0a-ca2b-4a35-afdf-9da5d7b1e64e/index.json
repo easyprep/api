@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:45.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "cb8dab0a-ca2b-4a35-afdf-9da5d7b1e64e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Carbon Fibre: <ol> <li>It is much lighter material compared to steel and aluminium</li> <li>It can be easily melted down and can be recycled</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct because carbon fibre is a thin long strand, far thinner than even a human hair, in which carbon atoms are bonded together in a crystal alignment that makes the fibre incredibly strong and lighter for its size. Second statement is incorrect because carbon fibre cannot simply be melted down and reformed like aluminium. Carbon fibre composites get their strength from long, precisely aligned carbon fibres, fixed within a glue-like polymer that is cured at high temperatures and pressures. Once cured, most of these tough polymers will not melt and have to be burned off or chemically dissolved to reclaim the valuable fibres. The applications of the carbon fibre material range from aircraft and spacecrafts to automobile industries and sailboats. Nowadays it is also widely used in the manufacturing of wind turbines."
+}

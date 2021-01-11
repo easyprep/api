@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "4ba2bb50-1a97-4fa1-a3e0-a3a655150676",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Ashalim project, a large-scale solar power project, is an initiative of which country?",
+  "option1": "Russia",
+  "option2": "Israel",
+  "option3": "India",
+  "option4": "Brazil",
+  "option5": "",
+  "answer": "Israel",
+  "explanation": "Israel is building its largest solar power station in Negev desert called Ashalim Project. It uses Solar-thermal method where solar mirrors concentrate (focus) the sun&#039;s light energy and convert it into heat to create steam. The steam helps to drive a turbine and generate electricity through a conventional generator."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ea183025-aae1-49f9-b566-b6fdd0472f69",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to poverty estimations, we read about <strong>poverty gap</strong> in newspapers. The poverty gap is the difference between:\r\n<ol>\r\n<li>the level of consumption of households below poverty line (BPL) and above poverty line (APL)</li>\r\n<li>the number of households in BPL and APL categories</li>\r\n<li>the amount of cash needed to lift a BPL household above the poverty line</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Poverty gap is the amount of cash required for a household to lift it above the poverty line. It is the difference in the level of consumption of the households below the poverty line and those on the line."
+}

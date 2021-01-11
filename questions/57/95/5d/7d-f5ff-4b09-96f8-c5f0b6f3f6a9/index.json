@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "57955d7d-f5ff-4b09-96f8-c5f0b6f3f6a9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the correct order of weightage for the core sectors in calculation of Index of Industrial Production (IIP)?",
+  "option1": "Electricity> Steel> Natural Gas> Fertilizers",
+  "option2": "Natural Gas> Steel> Electricity> Fertilizers",
+  "option3": "Fertilizers> Natural Gas> Electricity> Steel",
+  "option4": "Steel> Natural Gas> Electricity> Fertilizers",
+  "option5": "",
+  "answer": "Electricity> Steel> Natural Gas> Fertilizers",
+  "explanation": "The Eight Core Industries comprise nearly 38 % of the weight of items included in the Index of Industrial Production (IIP).<br> On the basis of weightage the arrangement of six core industries in decreasing order is as follows:<br> Electricity&gt; Steel &gt;Refinery Products&gt; Crude Oil &gt;Coal&gt;Cement &gt;Natural Gas&gt; Fertilizers"
+}

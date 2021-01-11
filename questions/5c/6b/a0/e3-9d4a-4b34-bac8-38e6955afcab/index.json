@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:10.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5c6ba0e3-9d4a-4b34-bac8-38e6955afcab",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following countries:<br> 1. Russia<br> 2. Venezuela<br> 3. Nigeria<br> 4. Japan<br> The continuous fall in the oil prices is likely to most adversely affect which of the above?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "If you observe the countries, you find that the economies of Russia, Venezuela and Nigera is very much dependent on Oil exports, while Japan is one of the largest net importers of Oil in the world. The current fall in prices of oil has already triggered a financial crisis in Russia. The Russian ruble, Venezuela’s Bolivar and Nigeria’s naira have already plunged this year. Thus, the correct option would be D."
+}

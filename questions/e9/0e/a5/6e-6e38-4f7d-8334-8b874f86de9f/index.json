@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e90ea56e-6e38-4f7d-8334-8b874f86de9f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following elements: <ol><li>Angel investors</li><li>Incubators</li><li>Crowd funding</li><li>Seed accelerators</li></ol> Which of the above are elements of start-up ecosystem?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "A start-up ecosystem is formed by people, start-ups in their various stages and various types of organizations. These organizations are again divided into various stages like universities, funding organizations, support organizations (like incubators, accelerators, co-working spaces, angel investors, seed accelerators, crowd funding etc.)"
+}

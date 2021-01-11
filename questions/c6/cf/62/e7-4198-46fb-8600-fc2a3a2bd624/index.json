@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "c6cf62e7-4198-46fb-8600-fc2a3a2bd624",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between winter rice and summer rice production in India: <ol><li>While summer rice is more predominant in eastern India, winter rice is more predominant in northern and central India</li><li>While winter rice contributes nearly 90% of the country's total rice production, summer rice contributes less than 10%</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Rice is mainly a Kharif crop in the country. It is shown in June-July and harvested in Nov-Dec. It is, therefore, also known as winter rice. Summer rice is called as Rabi rice. It is shown in Dec-Jan and harvested in Mar-Apr."
+}

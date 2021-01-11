@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "0740a90b-8eff-4e43-b754-0438cb6c738d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the CCSP (C-DOT Common Service Platform): <ol> <li>It is an initiative under the Ministry of Communications &amp; Information Technology</li> <li>It aims to enhance the quality of cities under the Smart Cities Mission</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "CCSP (C-DOT Common Service Platform)&nbsp;is an initiative under the Ministry of Communications &amp; Information Technology to make smart cities more efficient, economical and future proof. C-DOT has developed CCSP(C-DOT Common Service Platform). Using the CCSP platform from C-DOT, the smart cities can reap all the benefits of using a standards compliant horizontal service layer and thus be more efficient, economical and future proof."
+}

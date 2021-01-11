@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "efc000ad-dae6-4292-8664-4e4a03c22adb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Coal found in India: <ol><li>Lignite coal is mainly produced in two states&ndash;Tamil Nadu and Gujarat</li><li>Anthracite coal has the highest carbon content and is found only in Gondwana fields</li><li>Peat is lowest quality of coal and is mainly found in eastern India </li></ol> Which of the above statements are correct?",
+  "option1": "1 & 3 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 3 Only",
+  "explanation": "Second statement is incorrect because Anthracite is generally not found in the Gondwana fields. Gondwana field is dominated by Bituminous coal. First statement and second statement are correct."
+}

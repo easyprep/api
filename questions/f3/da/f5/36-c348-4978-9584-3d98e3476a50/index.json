@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:21.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "f3daf536-c348-4978-9584-3d98e3476a50",
+  "labels": "current-affairs,2018-08-04",
+  "question": "It is assumed that rapid melting of the Arctic permafrost could trigger a catastrophic “economic time bomb”. What is / are the reasons behind such assumptions?\r\n<ol>\r\n<li>It will disturb the exploitation of new gas and oilfields</li>\r\n<li>It will increase the emission of Methane, a GHG in atmosphere</li>\r\n<li>It will increase the emission of Carbon Dioxide, a GHG in atmosphere</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Carbon dioxide (CO2) and methane emissions from thawing permafrost could amplify warming due to anthropogenic greenhouse gas emissions. This amplification is called the permafrost carbon feedback."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:15.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "afd413d6-b360-4d56-93b3-17081fa732e3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Corporation Tax</li>\r\n<li>Grants Received from a foreign country</li>\r\n<li>Loans from International Fund</li>\r\n<li>Interest free loans from IDA</li>\r\n</ol>\r\nWhich among the above are the “Revenue Receipts” of the Government?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Loans and Interest Free Loans need to be paid back, so they are capital receipts."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "24d381b9-c083-4fb7-8a6e-beb901c57aa5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following sectors:<br> 1. Construction<br> 2. Mining and Quarrying<br> 3. Electricity, gas and water supply<br> Which among the above is / are secondary sectors of Indian Economy?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Mining and Quarrying comes under primary sector"
+}

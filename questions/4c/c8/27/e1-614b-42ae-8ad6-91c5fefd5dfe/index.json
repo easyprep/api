@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "4cc827e1-614b-42ae-8ad6-91c5fefd5dfe",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Cotton Cultivation in India: <ol><li>Cotton is mainly a Kharif crop</li><li>Black soil is best suited for cotton cultivation</li><li>Cotton is mostly grown in monoculture and is a very pesticide-intensive crop</li><li>Bt cotton is the only GM crop technology approved in India</li></ol> Which of the above statements are correct?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1, 2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All given statements are correct<br> Cotton is susceptible to a wide range of insect pests. So, it is mostly grown in monoculture and is very pesticide-intensive crop. Cotton is mainly a Kharif crop, though it is grown as Rabi crop in few parts of south India. Black soil is best suited for cotton cultivation and hence maximum cotton cultivation takes place in Gujarat and Maharashtra where black soil is in abundant. Bt cotton is the only GM crop technology approved in India."
+}

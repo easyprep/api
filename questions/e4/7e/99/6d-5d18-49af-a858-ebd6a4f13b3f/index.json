@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:27.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e47e996d-5d18-49af-a858-ebd6a4f13b3f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "GDP of an economy includes: <ol><li>Public and private consumption</li><li>Government expenditure</li><li>Investment</li><li>Export minus import</li><li>Net factor income from abroad</li></ol> Select the correct from codes given below:",
+  "option1": "1, 2 and 3 Only",
+  "option2": "1, 2 and 4 Only",
+  "option3": "1, 2, 3 and 4 Only",
+  "option4": "1, 2, 3, 4 and 5",
+  "option5": "",
+  "answer": "1, 2, 3 and 4 Only",
+  "explanation": "Gross domestic product is the money value of all final goods and services produced within the domestic territory of a country during a year.GDP includes the following: Consumer goods and services, Gross private domestic investment in capital goods, Government expenditure, Exports and imports.When net factor income from abroad is added to GDP, the result becomes GNP (Gross National Product).<br><strong>GNP=GDP+NFIA (Net Factor Income from Abroad) </strong>"
+}

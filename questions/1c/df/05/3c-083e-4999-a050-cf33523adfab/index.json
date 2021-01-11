@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1cdf053c-083e-4999-a050-cf33523adfab",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about the SENTINEL-1&nbsp;mission: <ol> <li>It is a constellation of two polar-orbiting&nbsp;satellites</li> <li>Its prime objectives are Land and Ocean monitoring</li> <li>The mission is funded by the European Union</li> </ol> &nbsp; Which of the above statements are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All given statements are correct<br> SENTINEL-1 Mission is a constellation of two polar-orbiting&nbsp;satellites, operating day and night performing C-band synthetic aperture&nbsp;radar&nbsp;imaging. Its prime objectives are land and ocean monitoring. The mission is funded by the European Union."
+}

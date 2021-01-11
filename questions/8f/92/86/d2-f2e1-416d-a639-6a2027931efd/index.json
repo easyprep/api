@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "8f9286d2-f2e1-416d-a639-6a2027931efd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements with respect to the Asian Infrastructure Investment Bank (AIIB)?\r\n<ol>\r\n<li>It has its headquarters at Manila, Philippines</li>\r\n<li>It has only Asian countries as its members states</li>\r\n<li>It provides financial support for infrastructure development as well as education and healthcare</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "<u>First statement is incorrect</u> because headquarters of Asian Infrastructure Investment Bank are at Beijing, China. <u>Second statement is incorrect</u> because it has both Asian countries as well as Non-Asian countries as member states. Third statement is correct. AIIB is set up to provide financial support for infrastructure development and regional connectivity in Asia in sectors including energy, transportation, urban construction and logistics as well as education and healthcare."
+}

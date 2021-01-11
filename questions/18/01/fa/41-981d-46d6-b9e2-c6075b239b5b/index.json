@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1801fa41-981d-46d6-b9e2-c6075b239b5b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following denotes &quot;Market Capitalization&quot;?",
+  "option1": "Current market value of its authorized capital of a company",
+  "option2": "Current market value of its issued shares of a company",
+  "option3": "Current market value of its paid-up capital of a company",
+  "option4": "Current market value of shares outstanding of a company",
+  "option5": "",
+  "answer": "Current market value of shares outstanding of a company",
+  "explanation": "D is correct answer. The Market Capitalization' is defined as Current market value of shares outstanding of a company."
+}

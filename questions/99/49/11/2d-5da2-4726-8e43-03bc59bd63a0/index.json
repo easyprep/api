@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "9949112d-5da2-4726-8e43-03bc59bd63a0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to the government expenditure in India, which of the following is / are Transfer Payments?\r\n<ol>\r\n<li>The payments which are made by the government to its employees</li>\r\n<li>The payments which are made as financial aid in a social welfare programme</li>\r\n<li>The payments which are made to foreign countries and institutions as interests on loans taken in past</li>\r\n<li>The payments which are made to oil companies in lieu of the subsidies</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2 & 4",
+  "explanation": "Transfer payments refer to the payments which result in the redistribution of income. These payments are considered to be exhaustive because they do not directly absorb resources or create output. This implies that the transfer is made without any exchange of goods or services. Examples of certain transfer payments include welfare (financial aid), social security, and government making subsidies for certain businesses"
+}

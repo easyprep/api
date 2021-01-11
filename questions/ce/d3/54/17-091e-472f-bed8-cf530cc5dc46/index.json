@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:25.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ced35417-091e-472f-bed8-cf530cc5dc46",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to taxation in India, consider the following statements:<br> 1. An ordinary resident is taxed on world-wide income<br> 2. An NRI is taxed only on income received in India<br> Which among the above is / are correct?<br>",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Taxation varies as follows: Ordinary resident: To be taxed on world-wide income Not-ordinary resident: To be taxed on income sourced from India or received/deemed to be received in India, or from income derived from a business controlled or set up in India Non-resident: To be taxed only on income sourced from India or received/ deemed to be received in India."
+}

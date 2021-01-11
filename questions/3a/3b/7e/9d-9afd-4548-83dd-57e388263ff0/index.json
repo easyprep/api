@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "3a3b7e9d-9afd-4548-83dd-57e388263ff0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&quot;Liquid funds&quot; are a safe option for investors from the point of view of volatility and risk of losing capital. Which of the following statements is/are correct with respect to liquid funds? <ol><li>Liquid funds are money market instruments.</li><li>Liquid funds are equity funds.</li><li>Liquid funds are regulated by SEBI.</li></ol> Select the correct code from options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect because liquid funds are debt funds. Third statement is incorrect because it is regulated by RBI and not by SEBI. Liquid funds are open ended schemes that invest in debt and money market instruments with maximum maturity of up to 91 days only. Hence, the average maturity of a liquid fund is equal to or less than 91 days. This strategy helps in mitigating risk arising out of interest rate volatility, provide high liquidity to portfolio and generate stable income.<br>"
+}

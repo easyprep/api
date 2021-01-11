@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5eeeac9a-ca4b-4719-be47-53a32677de30",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about the triboelectric nanogenerator (TENG): <ol> <li>It is based on organic materials that is used to convert mechanical energy into electricity</li> <li>It is a self powered sensor and converts a mechanical trigger into an electric output signal</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:10.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "63112bec-03df-4680-83c5-acb2351a297f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are correct statements with respect to the Sales Tax and Excise duty in India?<br> 1. Excise duty on alcohol and alcoholic preparations are collected by the State Governments<br> 2. Excise duty on narcotic substances is collected by Central Government<br> 3. While Sales Tax is a direct tax, Excise duty is an indirect tax<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Excise duty is a tax on manufacture or production of goods. Excise duty on alcohol, alcoholic preparations, and narcotic substances is collected by the State Government and is called &#8220;State Excise&#8221; duty. The Excise duty on rest of goods is called &#8220;Central Excise&#8221; duty and is collected in terms of Section 3 of the Central Excise Act, 1944. Sales Tax is different from the Excise duty as former is a tax on the act of sale while the latter is a tax on the act of manufacture or production of goods."
+}

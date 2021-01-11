@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "91a7d7eb-33eb-4d0c-9532-b2af5b6a3efc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol><li>All loans raised by the Government by the issue of treasury bills</li><li>Ways and means advances</li><li>Judicial deposits</li></ol> Which of the above is/are credited to Consolidated Fund of India?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Examples of monies that go into consolidated fund include all revenues received by the Government of India or any state, all loans raised by the issue of treasury bills, loans or ways and means advances and all moneys received by the Government in repayment of loans.<br> Examples of monies that go into public account include: provident fund deposits, judicial deposits, savings bank deposits, departmental deposits, remittances and so on."
+}

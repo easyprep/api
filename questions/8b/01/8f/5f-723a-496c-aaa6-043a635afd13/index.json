@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "8b018f5f-723a-496c-aaa6-043a635afd13",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The total market value of which of the following is called the Gross Domestic Product (GDP) of a country?\r\n<ol>\r\n<li>Final Goods</li>\r\n<li>Intermediary Goods</li>\r\n<li>Value added goods</li>\r\n<li>Services</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 4",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 1, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 4",
+  "explanation": "Every goods and service has a monetary value. When we combine all products of an entity, we may call it Gross Product. When we combine the monetary value of all the final goods and services produced in the economic territory of a country for a specified time such as a year, this will be called “Gross Domestic Product”. GDP is concerned with the final / finished goods and not the unfinished or intermediate goods. Unfinished / Intermediate goods are not counted in GDP. This is done to avoid double counting, once in an unfinished form, and once in a finished form."
+}

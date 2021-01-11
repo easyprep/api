@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "668d4ff5-aac6-4b8d-af0c-0e92d005da40",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the newly launched Kisan Vikas Patra (KVP), which among the following is / are correct statements?<br> 1. The KVP certificates can be issued in single as well as joint names<br> 2. The KVP can be transferred from one person to any other person, multiple times<br> 3. The KVP can be transferred from one post office to another<br> 4. One can pledge the KVP certificates as security to avail loans<br> 5. One can encash the KVP only after a lock-in period of 2.5 years<br> Select the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 2, 3 & 4",
+  "option3": "Only 1, 4 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": ""
+}

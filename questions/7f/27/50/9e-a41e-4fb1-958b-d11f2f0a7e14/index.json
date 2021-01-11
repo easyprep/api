@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "7f27509e-a41e-4fb1-958b-d11f2f0a7e14",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol><li>While Real GDP calculation takes inflation in account, Nominal GDP does not.</li><li>Nominal GDP is often higher than real GDP.</li><li>GDP in India is calculated by the Central Statistics Office.</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All are correct statements."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "f1d1eee2-bdfd-4b7e-ad42-6a0e3ca1dbad",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:<br> 1. Coal Industry<br> 2. Fertilizer Industry<br> 3. Textile Industry<br> 4. Cement Industry<br> Which among the above is / are core industries?",
+  "option1": "Only 1 & 4",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "A monthly index of eight core industries, viz. coal, fertilizer, electricity, crude oil, natural gas, refinery product, steel, and cement, comprising 38 per cent of the weight of items in the IIP, is released to gauge the impact on overall economic activity."
+}

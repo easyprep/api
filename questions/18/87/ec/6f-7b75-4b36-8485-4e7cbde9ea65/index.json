@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1887ec6f-7b75-4b36-8485-4e7cbde9ea65",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are real assets? <ol><li>Bullion</li><li>Gold ETF</li><li>Bank Deposits</li></ol> Select the correct option from the codes given below:<br>",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Precious metals or Bullion (Gold, Silver, Platinum), Land, buildings, machinery etc. are real assets whereas, bank deposits, securities etc forms a part of financial assets. Gold ETF is also a financial asset.<br>"
+}

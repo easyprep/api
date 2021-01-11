@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "00062421-bf6e-4b43-91d7-47b7eb73c92a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;The X-Ray Polarimetry Explorer Mission: <ol> <li>is proposed by ISRO</li> <li>aims to&nbsp;study&nbsp;the&nbsp;solar wind&nbsp;from&nbsp;high&nbsp;solar latitudes</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because the mission is proposed by NASA. Second statement is incorrect because the Imaging X-ray Polarimetry Explorer (IXPE) mission would measure the polarization of high-energy X-ray radiation emitted by the superhot gas around black holes. The mission would use three space telescopes with cameras for the measurement."
+}

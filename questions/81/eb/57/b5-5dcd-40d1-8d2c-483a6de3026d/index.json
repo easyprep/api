@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "81eb57b5-5dcd-40d1-8d2c-483a6de3026d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following organizations has divided the countries into IDA, IBRD, and Blend countries for eligibility of loans?",
+  "option1": "International Monetary Fund",
+  "option2": "World Bank",
+  "option3": "Asian Development Bank",
+  "option4": "New Development Bank",
+  "option5": "",
+  "answer": "World Bank",
+  "explanation": "Economies are divided into IDA, IBRD, and Blend countries based on the operational policies of the World Bank. International Development Association (IDA) countries are those with low per capita incomes that lack the financial ability to borrow from the International Bank for Reconstruction and Development (IBRD). Blend countries are eligible for IDA loans but are also eligible for IBRD loans because they are financially creditworthy."
+}

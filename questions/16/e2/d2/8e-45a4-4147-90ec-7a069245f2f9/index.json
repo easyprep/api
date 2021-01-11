@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "16e2d28e-45a4-4147-90ec-7a069245f2f9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Quantum Satellite: <ol> <li>Quantum satellite is also known as nanosatellite</li> <li>India launched the world’s first quantum satellite called Micius</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Satellites are classified on the basis of weights:<br> Small satellites or minisatellites- 100 to 500 kg<br> Microsatellites- 10-100 kg<br> Nanosatellites- One to 10 kg<br> Picosatellite- 100 gm to one kg<br> Femtosatellites- 10 to 100 grams<br> First statement is incorrect because Quantum satellite is not a microsatellite.<br> Second statement is also incorrect because China launched the world’s first quantum satellite called Micius. Micius is a 600 kg satellite which has been put into Earth orbit around 500 km above ground. QUESS (Quantum Experiments at Space Scale) is a Chinese minisatellite to establish a space platform with long-distance satellite and ground quantum channel, and to carry out a series of tests about fundamental quantum principles and protocols in space-based large scale."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:12.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "9241050a-2f7f-4b1a-bd99-3d4817537f2d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What happens when a foreign bank operating in India does not meet its priority sector targets?",
+  "option1": "It can deposit amount equivalent to the shortfall in Rural Infrastructure Development Fund",
+  "option2": "It can deposit amount equivalent to the shortfall in SIDBI",
+  "option3": "It can deposit amount equivalent to the shortfall in RBI",
+  "option4": "It can lend amount equivalent to the shortfall to domestic banks",
+  "option5": "",
+  "answer": "It can deposit amount equivalent to the shortfall in SIDBI",
+  "explanation": "Domestic banks having a shortfall in lending to priority sector/ agriculture are allocated amounts for contribution to the Rural Infrastructure Development Fund (RIDF) established in Nabard. <u>In case of foreign banks operating in India</u>, which fail to achieve the priority sector lending target or sub-targets, an amount equivalent to the shortfall is required to be deposited with <u>SIDBI for one year</u>."
+}

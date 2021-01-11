@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "a51f78d0-2947-4d66-ba5e-4608b6c9e3a7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Indian Crude Basket: <ol><li>The Indian Crude Basket is a weighted average of the prices of Oman and Dubai sour crude price benchmark</li><li>The price of Indian Basket is published by Petroleum Planning and Analysis Cell (PPAC) </li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "In the global market, price of crude oil is expressed for two varieties &#8211; West Texas Intermediary (WTI) and Brent. But the Indian Crude Basket is a weighted average of the prices of Oman and Dubai sour crude price benchmark. The price of Indian Basket published by Petroleum Planning and Analysis Cell (PPAC) under the Ministry of Petroleum and Natural Gas."
+}

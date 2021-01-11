@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:32.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "96cf66aa-7933-4146-ad9b-da6a96c145ce",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to BIO-CNG, which of the following is / are correct?\r\n<ol>\r\n<li>BIO-CNG is the purified form of biogas comprising 75% methane and rest Ethane, Propane and Butane</li>\r\n<li>In its composition and energy potential, it is similar to the commercially available natural gas</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "BIO-CNG is the purified form of biogas from which all the unwanted gases are removed to get more than 93 per cent of pure methane gas. In its composition and energy potential it is similar to the commercially available natural gas. India\\'s first bio-CNG plant has been inaugurated in Pune, Maharashtra in 2016."
+}

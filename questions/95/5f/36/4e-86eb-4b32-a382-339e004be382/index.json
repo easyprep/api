@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:25.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "955f364e-86eb-4b32-a382-339e004be382",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The cross elasticity of demand for which among the following would be almost Zero?\r\n<ol>\r\n<li>Tea and Cold Drink</li>\r\n<li>Coca Cola and Pepsi</li>\r\n<li>Ink and Pen</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "1 & 2 Only",
+  "option3": "1 & 3 Only",
+  "option4": "1 & 3 Only",
+  "option5": "",
+  "answer": "1 & 3 Only",
+  "explanation": "The tea and cold drink are neither substitutes nor complimentary. For perfect substitutes cross elasticity is infinite, for substitutes cross elasticity is greater than zero, for complementary (Ink and Pen in this question), cross elasticity is almost zero."
+}

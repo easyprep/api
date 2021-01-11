@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "352c01cf-992b-444a-babd-559a2d84d1d9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following bodies: <ol><li>NABARD</li><li>NHB</li><li>SIDBI</li><li>EXIM</li><li>MUDRA</li></ol> Which of the above are refinancing institutions in India?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 3, 4 & 5",
+  "option3": "Only 1, 2, 3 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": "Financial Institutions (FIs) are classified into three categories:<br> First are Term-lending institutions, whose main activity is direct lending by way of term loans and investments;<br> Second are Refinance institutions, such as the National Bank for Agriculture and Rural Development (NABARD), Small Industries Development Bank of India (SIDBI) and National Housing Bank (NHB), which mainly extend refinance to banks as well as non-banking financial institutions and;<br> Third are Investment institutions such as Life Insurance Corporation (LIC), which deploy their assets largely in marketable securities. State/ regional level institutions form another distinct group."
+}

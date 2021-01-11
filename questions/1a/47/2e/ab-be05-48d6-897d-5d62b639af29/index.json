@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1a472eab-be05-48d6-897d-5d62b639af29",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context to Credit and Debit card, which of the following statements is/are correct? <ol><li>A balance in the saving/current account is must for the use of debit card, whereas credit card can be used with zero balance in account.</li><li>A credit card is connected to the bank or financial institution that issued the card, whereas Debit card is connected to a personal bank account.</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements."
+}

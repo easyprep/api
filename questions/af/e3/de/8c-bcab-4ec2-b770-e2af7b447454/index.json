@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:27.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "afe3de8c-bcab-4ec2-b770-e2af7b447454",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following difference(s) between money markets and capital markets: <ol><li>While money markets are related to short term funds, capital markets are related to long term funds.</li><li>While treasury bills are money markets instruments, national saving certificates are capital market instruments.</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Money markets are short term funds with maximum maturity period up to 1 year. Capital markets are long term funds with minimum maturity more than a year.<br> National Saving Certificates have a lock-in of 5 years and 10 years, and hence cannot be included in money markets.Treasury bills have maximum maturity period of 91 days, 182 days, 273 days or 364 days i.e less than 1 year, and hence they are included under the money markets. Also, note that that money markets increases the short term liquidity in the market whereas; capital markets are mobilisation of savings."
+}

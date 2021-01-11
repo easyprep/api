@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "dafe88d9-f9c2-4b30-8592-826b586f8cc3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the Public Distribution in India, what among the following presents a correct relation between Subsidy, Central Issue Price and Economic Cost of food grains?",
+  "option1": "Subsidy=Economic Cost - Central Issue Price",
+  "option2": "Subsidy = Central Issue Price - Economic Cost",
+  "option3": "Central Issue Price = Economic Cost + Subsidy",
+  "option4": "Economic Cost = Central Issue Price - Subsidy",
+  "option5": "",
+  "answer": "Subsidy=Economic Cost - Central Issue Price",
+  "explanation": "Subsidy is defined as the economic cost minus Central issue price. Central issue price is the price at which the foodgrain is allocated to States, while the economic cost is the combination of minimum support price and various other charges incurred by the Centre in procuring foodgrain."
+}

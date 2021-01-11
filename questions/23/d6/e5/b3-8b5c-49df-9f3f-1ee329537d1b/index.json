@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "23d6e5b3-8b5c-49df-9f3f-1ee329537d1b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Issue of shares at a premium represents a Capital Profit for a company<br> 2. Issue of shares at a discount is not allowed in India<br> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The first statement is correct while second is incorrect. A company may issue shares at a discount i.e. at a value below its par value under certain conditions such as <ul><li>The shares must be of a class already issued. A new class of shares cannot be issued at discount.</li><li>Issue of the shares at discount must be authorized by resolution passed in the general meeting of company and sanctioned by the company law board.</li><li>The resolution must also specify the maximum rate of discount at which the shares are to be issued.</li><li>Not less than one year has elapsed from the date on which the company was entitled to commence the business.</li><li>The shares to be issued at discount must issued within 2 months after the date on which issue is sanctioned by the company law board or within extended as may be allowed by the Company Law Board.</li></ul> Any company could not offer the shares at discount when: <ul><li>It is a new company</li><li>It is a new class of shares even though of an old company</li><li>The discount on issue of shares is treated as a loss of capital nature.</li></ul>"
+}

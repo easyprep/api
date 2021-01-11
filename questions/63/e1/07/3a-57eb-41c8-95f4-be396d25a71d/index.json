@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "63e1073a-57eb-41c8-95f4-be396d25a71d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "On which of the following, you need to pay taxes in India?\r\n<ol>\r\n<li>Capital Receipts</li>\r\n<li>Revenue Receipts</li>\r\n<li>Capital Gains</li>\r\n<li>Dividends</li>\r\n<li>Gifts</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1, 2, 3 & 4",
+  "option2": "2, 3 & 4",
+  "option3": "1, 2 & 3",
+  "option4": "2, 3, 4 & 5",
+  "option5": "",
+  "answer": "2, 3, 4 & 5",
+  "explanation": "The general rule under the Income tax Act is that, all revenue receipt are taxable unless a receipt is specifically exempted and all capital receipts are exempt from taxation unless there is a provision to tax it. Loans etc are in the nature of capital receipts not attracting tax.  Gifts are taxable if the  gifts received is more than Rs. 50,000 a year, and the receiver has to pay the income tax."
+}

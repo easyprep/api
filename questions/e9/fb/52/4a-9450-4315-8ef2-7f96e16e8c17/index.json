@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e9fb524a-9450-4315-8ef2-7f96e16e8c17",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct about the National Investment and Infrastructure Fund?\r\n<ol>\r\n<li>It is regulated by the Securities and Exchange Board of India (SEBI)</li>\r\n<li>It can be used to finance both Greenfield as well as Brownfield projects</li>\r\n<li>It has the Government’s ownership of 51% in the fund</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Third statement is incorrect because the government’s ownership in the NIIF is of 49%, which makes it like a sovereign fund with guarantee of the government. This in turn attracts foreign investors besides generating trust among the foreign investors because of sizable government ownership and management. But the NIIF cannot be described as a Sovereign Wealth Fund."
+}

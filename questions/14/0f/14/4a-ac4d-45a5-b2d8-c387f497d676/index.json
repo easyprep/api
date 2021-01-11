@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "140f144a-ac4d-45a5-b2d8-c387f497d676",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following are measured by a polygraph? <ol> <li>Blood pressure</li> <li>Pulse</li> <li>Respiration</li> <li>Skin conductivity </li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Polygraph is commonly called &ldquo;lie detector&rdquo; is an instruments that monitor a person's physiological reactions. It measures and records several physiological indices such as blood pressure, pulse, respiration, and skin conductivity."
+}

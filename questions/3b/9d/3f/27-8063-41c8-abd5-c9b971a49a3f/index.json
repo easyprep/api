@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "3b9d3f27-8063-41c8-abd5-c9b971a49a3f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements regarding World Trade Organisation (WTO)?\r\n<ol>\r\n<li>Member countries exercise voting rights as per their size of economy</li>\r\n<li>General Council is the topmost decision-making body of the WTO</li>\r\n<li>Council for TRIPS operates under Ministerial Conference</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "<u>First statement is incorrect</u> because member states have equal voting rights irrespective of their size of economy. <u>Second statement is incorrect</u> because the topmost decision-making body of the WTO is the Ministerial Conference, which usually meets every two years. <u>Third statement is incorrect </u>because Council for TRIPS operates under the general guidance of the General Council and not of Ministerial Conference."
+}

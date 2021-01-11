@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "7f27c527-4163-4b7e-9b7b-1ed94691c8ac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following projects with countries where they are located: <ol> <li>MBIR Project -  Russia</li> <li>BELLE project -  Japan</li> <li>ITER project -  France</li> </ol> Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "MBIR project is an initiative of Russia, and is coming up at the International Research Center in Dimitrovgrad, located in the Ulyanovsk region. The project aims at creation of a new technological platform for nuclear energy, which will be based on the closed fuel cycle with fast neutron reactors. BELLE Project aims to study the decay of the short-lived B-mesons. At Belle-II, highly intense electron-positron beams will be made to collide and a huge number of B-mesons (a boson containing the B, or beauty, quark) produced. ITER aims to build the world's largest tokamak, a magnetic fusion device that has been designed to prove the feasibility of fusion as a large-scale and carbon-free source of energy based on the same principle that powers our Sun and stars. It is located in France."
+}

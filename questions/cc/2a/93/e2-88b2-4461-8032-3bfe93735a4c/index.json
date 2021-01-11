@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "cc2a93e2-88b2-4461-8032-3bfe93735a4c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A country has crude birth rate of 44 and a crude death rate of 11. The number of immigrants is more than emigrants. What would be the rate of natural increase of population?",
+  "option1": 0.0075,
+  "option2": 0.033,
+  "option3": 0.029,
+  "option4": "Can not be determined",
+  "option5": "",
+  "answer": 0.033,
+  "explanation": "• Crude Birth Rate : Number of Births per 1000 population in a given year.<br> • Crude Death Rate : Number of Deaths per 1000 population in a given year.<br> • Natural Increase Rate of Population = Crude Birth Rate- Crude Death rate"
+}

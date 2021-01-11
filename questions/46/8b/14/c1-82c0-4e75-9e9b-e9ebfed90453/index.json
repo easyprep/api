@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:19.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "468b14c1-82c0-4e75-9e9b-e9ebfed90453",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following<br> 1. Population density<br> 2. Child sex ratio<br> 3. Literacy rate<br> As per 2011 census which of the above factors showed negative growth compared to 2001?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The child sex ratio (the number of girls per 1000 boys) in India has gone down from 976 in 1961 to 918 in 2011. This ratio was 962 in 1981, 945 in 1992 and 927 in 2001."
+}

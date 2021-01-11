@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e69d3d53-6864-4c05-90e2-864ab1b5b450",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the RESOURCESAT-2A satellite: <ol> <li>It is a remote sensing satellite</li> <li>It has been launched into the polar Sun Synchronous Orbit</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "First statement is correct because RESOURCESAT-2A is a remote sensing satellite and will be useful for agricultural applications like crop area and crop production estimation, drought monitoring, soil mapping, cropping system analysis and farm advisories generation. Second statement is again correct because the satellite has been launched into the polar Sun Synchronous Orbit."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:21.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "a86355fa-9554-442c-af62-e13bf8f02edc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Merit goods are those goods whose consumption leads to positive externalities. With this reference, consider the following statements:<br> 1. Merit goods are characterised by nonrivalry and non-excludability in consumption<br> 2. The social benefit resulting from merit goods/services is much greater than the sum of private benefits to individual consumers<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "A rival (subtractable) good is a good whose consumption by one consumer prevents simultaneous consumption by other consumers. Merit goods are non-rival in nature."
+}

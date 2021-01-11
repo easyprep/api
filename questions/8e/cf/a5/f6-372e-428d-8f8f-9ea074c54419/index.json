@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "8ecfa5f6-372e-428d-8f8f-9ea074c54419",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Revenue Receipts (R)</li>\r\n<li>Those “capital receipts”, which do not create any payment obligations for the future (C)</li>\r\n<li>Those “capital receipts”, which create payment obligations for the future (D)</li>\r\n<li>Total expenditure of the government (T)</li>\r\n</ol>\r\nWhich among the following is correct relation showing the Fiscal Deficit (F):",
+  "option1": "F= T-(R+C)",
+  "option2": "F= T-(R+D)",
+  "option3": "F= T-(R+C+D)",
+  "option4": "F= T-R",
+  "option5": "",
+  "answer": "F= T-(R+C)",
+  "explanation": "Conceptually, we can think of the fiscal deficit as a measure of the extent to which a government is spending beyond its means. In precise mathematical terms, fiscal deficit is the difference between the total expenditure of the government, and the sum of all its “revenue receipts” as well as those “capital receipts”, which do not create any payment obligations for the future."
+}

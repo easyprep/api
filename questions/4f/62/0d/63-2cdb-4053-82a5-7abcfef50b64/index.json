@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "4f620d63-2cdb-4053-82a5-7abcfef50b64",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following places: <ol><li>Mumbai</li><li>Hyderabad</li><li>Kolkata</li><li>Noida</li></ol> Which of the above are known for coin minting in India?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "SPMCIL comprises four mints: India Government Mint in Mumbai, Hyderabad, Kolkata and Noida."
+}

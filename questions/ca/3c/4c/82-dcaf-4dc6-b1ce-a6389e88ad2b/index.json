@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ca3c4c82-dcaf-4dc6-b1ce-a6389e88ad2b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the term \"Evergreening of Patents\" was making news. Which of the following is / are correct statements in this context?\r\n<ol>\r\n<li>It generally pertains to prolonging the life of patent by making minor incremental changes in original patented product</li>\r\n<li>There are no provisions in Indian Patents Act to prevent Evergreening</li>\r\n<li>Evergreening of patents is generally used by Pharmaceutical companies</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "The Indian Patents Act 1970 defines a patent as a grant or right to exclude others from making, using or selling one’s invention and includes the right to license others to make, use or sell it. Section 3 of the Act contains an exhaustive list of what cannot be considered an invention, such as a frivolous invention, a mere re-arrangement, a farming method, mere presentation of information and a mere discovery of a new form of a known substance that does not result in increased efficacy. Evergreening refers to prolonging the life of the patent by making minor incremental changes that do not necessarily alter the utility and features of the original patented product. Here the innovator is just trying to extend patent protection and prevent competition from manufacturing the same product. Section 3(d) of the Indian Patents Act is specially intended to prevent evergreening."
+}

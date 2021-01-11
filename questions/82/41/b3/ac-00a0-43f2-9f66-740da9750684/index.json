@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "8241b3ac-00a0-43f2-9f66-740da9750684",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following terms pertain to RBI's monetary policy?\r\n<ol>\r\n<li>Nostro and Vostro</li>\r\n<li>Repo and Reverse Repo</li>\r\n<li>Transfer Payments</li>\r\n<li>Open market operations</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 2 & 4",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 2 & 4",
+  "explanation": "<strong>Nostro account</strong> is maintained by Indian banks in foreign countries where they have operations for facilitating easy clearing of their transactions. These accounts are maintained with their correspondent banks overseas who in turn act as their clearing bank in the foreign country where the Indian bank has its base. Similarly the account maintained by foreign bank in India with their corresponding banks is called <strong>vostro accounts</strong>‘.<br /><strong>Transfer Payment</strong> comes under policy of government in which Government makes payment for which no money, goods, or service is received in exchange. Subsidy as well as money spent on social welfare programs such as social security, old age or disability pensions, student grants, unemployment compensation, etc. are transfer payments."
+}

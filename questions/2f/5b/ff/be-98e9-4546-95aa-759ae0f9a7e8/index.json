@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "2f5bffbe-98e9-4546-95aa-759ae0f9a7e8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is a money market instrument of shortest tenure?",
+  "option1": "Notice money",
+  "option2": "Call money",
+  "option3": "Near Money",
+  "option4": "Term Money",
+  "option5": "",
+  "answer": "Call money",
+  "explanation": "The call money is the short-term money market instrument where money is borrowed or lent on demand for a day. It is also known as overnight money market instrument. Intervening holidays and/or Sunday are excluded for this purpose. Thus, it is money borrowed on a day and repaid on the next working day (irrespective of the number of intervening holidays)."
+}

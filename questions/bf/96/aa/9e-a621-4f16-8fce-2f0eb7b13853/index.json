@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:27.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "bf96aa9e-a621-4f16-8fce-2f0eb7b13853",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following actions can help in reducing the current account deficit of a country? <ol><li>Increasing import duty</li><li>Devaluation of the domestic currency against foreign currencies</li><li>Increase in foreign portfolio investment</li><li>Increase in remittances</li></ol> Select the correct option from codes given below:",
+  "option1": "1 and 2 Only",
+  "option2": "1, 2 and 4 Only",
+  "option3": "1, 2 and 3 Only",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2 and 4 Only",
+  "explanation": "Foreign portfolio investment forms a part of capital account and not current account.<br> Increasing import duty will make imports costly, and hence will reduce imports.Devaluation of currency will boost export and will reduce imports.Also; devaluation of currency will increase the remittances to country.<br><strong>BoP on Current Account= (Export-Import) + (Invisible Payments – Invisible Receipt)</strong>"
+}

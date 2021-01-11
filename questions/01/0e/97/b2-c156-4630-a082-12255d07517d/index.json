@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "010e97b2-c156-4630-a082-12255d07517d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is correct about the Dvorak technique?",
+  "option1": "It is used to find out the ages of fossils",
+  "option2": "It is used to get the estimates of tropical cyclone intensity",
+  "option3": "It is used to measure the magnitude of an earthquake",
+  "option4": "It measure atmospheric pollutants over a period of time",
+  "option5": "",
+  "answer": "It is used to get the estimates of tropical cyclone intensity",
+  "explanation": "The Dvorak technique is a methodology to get estimates of tropical cyclone intensity from satellite pictures. Vern Dvorak developed the scheme using a pattern recognition decision tree in the early 1970s."
+}

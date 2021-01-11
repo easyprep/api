@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "acee7041-0a2f-4f72-8aa8-d437a4ea4abd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following diseases: <ol> <li>Dengue</li> <li>Chikungunya</li> <li>Zika fever</li> <li>Yellow fever</li> </ol> Which of the above are spread by Aedes aegypti mosquito?",
+  "option1": "1 & 2 Only",
+  "option2": "1, 2 & 4 Only",
+  "option3": "2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Aedes aegypti mosquito can spread yellow fever, dengue fever, chikungunya, Zika fever and other diseases. The mosquito can be recognized by white markings on its legs and a marking in the form of a&nbsp;lyre&nbsp;on the upper surface of its&nbsp;thorax.&nbsp;"
+}

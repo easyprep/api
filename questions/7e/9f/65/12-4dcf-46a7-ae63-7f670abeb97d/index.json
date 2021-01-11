@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "7e9f6512-4dcf-46a7-ae63-7f670abeb97d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Some of the accounts in banks are classified as &quot;Special Mention Accounts&quot;. What are these accounts?",
+  "option1": "The saving bank accounts which are paid higher interests on balance",
+  "option2": "The loans which have become bad loans",
+  "option3": "The loans which may become bad loans in future",
+  "option4": "The loans on which principal has been paid back but interest is yet to be received",
+  "option5": "",
+  "answer": "The loans which may become bad loans in future",
+  "explanation": "SMAs are on which interest payment is due and might become NPAs in future if such payments remain so. <a href=\"http://www.business-standard.com/article/finance/rbi-revises-rules-on-reporting-of-bad-loans-114102200028_1.html\" target=\"_blank\">Read this</a> about SMA-0, SMA-1 and SMA-2."
+}

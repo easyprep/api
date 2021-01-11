@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "7703ff70-ede8-4b65-87fe-58f877e96959",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are likely outcomes if RBI decreases CRR, SLR and Repo Rate? <ol><li>Monetary expansion</li><li>Increase in flow of international credit</li><li>Liquidity crunch</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "RBI would decrease these rates for monetary expansion, which means more money in the system. It helps to alleviate problem of Liquidity crunch rather. When there is more money in the system, interest rates would go down and flow of international credit would also go down. Thus only 1 is correct answer here."
+}

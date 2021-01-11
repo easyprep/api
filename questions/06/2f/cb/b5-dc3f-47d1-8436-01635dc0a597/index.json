@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "062fcbb5-dc3f-47d1-8436-01635dc0a597",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are Revenue Expenditures of the Government?<br> 1.Loan from Government of India to States<br> 2.Interest paid by Government of India on loans taken from IMF<br> 3.Subsidies &amp; Grants<br> 4.Expenditure on acquisition of defense equipments<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Expenditure on acquisition of defense equipments is counted under capital expenditure. Similarly, loan from Government of India to States is counted under capital expenditure."
+}

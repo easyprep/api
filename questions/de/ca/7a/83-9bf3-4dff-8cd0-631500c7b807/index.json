@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "deca7a83-9bf3-4dff-8cd0-631500c7b807",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to the upstream and downstream industries in Food Processing Units, which of the following observations is / are correct? <ol><li>While farmers are parts of upstream industry, collection centres are part of downstream industry</li><li>Initial processing of food material is done in downstream industries</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Both the statements are incorrect in this question. The upstream Industries aim at initial processing of Agricultural commodities, whereas Downstream Industries aim at manufacturing operations on intermediate products made from agricultural materials. Both farmers and collection centres are part of upstream industry."
+}

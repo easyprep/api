@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:27.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "69509a3e-0077-4b17-ac03-ce8a38178b33",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following difference(s) between equity and debentures: <ol><li>While issuing of debentures does not dilute the control of the existing shareholders, equity financing dilute the control of existing shareholders</li><li>Equity holders are paid before debenture holders at the time of liquidation</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because debenture holders are paid before equity holders at the time of liquidation."
+}

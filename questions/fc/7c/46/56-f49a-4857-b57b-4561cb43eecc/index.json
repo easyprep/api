@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "fc7c4656-f49a-4857-b57b-4561cb43eecc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is sold and purchased during Open Market Operations by RBI?<br> 1. Government Securities<br> 2. Commercial Papers<br> 3. Certificates of Deposits<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Commercial paper is a money-market security issued (sold) by large corporations to obtain funds to meet short-term debt obligations.<br> A certificate of deposit is issued by a bank to a person depositing money for a specified length of time at a specified rate of interest."
+}

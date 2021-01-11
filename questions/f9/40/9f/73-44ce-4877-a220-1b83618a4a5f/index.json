@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "f9409f73-44ce-4877-a220-1b83618a4a5f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Base erosion and profit shifting (BEPS) project, which was recently making news: \r\n<ol>\r\n<li>is designed by International Monetary Fund</li>\r\n<li>aims to curb the tax avoidance strategies of MNCs</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because it is a G20-led initiative, designed by OECD to address government concerns about the potential for MNCs to locate profits where they are subject to favourable tax treatment. Second statement is correct."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "48af4982-e369-49f0-8793-3ffffc203301",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Enhancing the ‘Seed Replacement Rates' of various crops helps in achieving optimal production. However, India's seed replacement ratio is dismal in case of most crops. What is / are the reasons for the same?\r\n<ol>\r\n<li>There is no National Seeds Policy in India</li>\r\n<li>Demand supply gap in case of low value, high volume crops</li>\r\n<li>Private companies are not allowed to sell seeds of crops related to food security</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "WE have a National Seed Policy. Second statement is correct while third statement is wrong."
+}

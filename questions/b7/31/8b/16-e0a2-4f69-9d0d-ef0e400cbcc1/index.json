@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "b7318b16-e0a2-4f69-9d0d-ef0e400cbcc1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "For a bank to be included in the RBI Act, 1934: <ol><li>It requires paid up capital and reserves of at least Rs. 0.5 million (50 Lakh)</li><li>It should satisfy the CRAR norms</li><li>It should be not opened by a business conglomerate</li></ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Scheduled banks are listed under second schedule of RBI act 1934, whereas non-scheduled banks are not listed under that schedule. Following are the characteristics of scheduled banks in India: <ul><li>These banks need to have paid up capital and reserves of at least Rs. 0.5 million (50 Lakh)</li><li>They should satisfy the CRAR norms and other prudential norms of RBI</li><li>They should satisfy the RBI that their business is not being conducted in a manner prejudicial to the interests of its depositors</li><li>In our country all banks are scheduled banks except four Local Area Banks and some Non-scheduled Urban Cooperative Banks</li></ul>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:15.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "53850466-90ef-45ac-af48-203445287eb5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with the share markets in India, public issue refers to which of the following?",
+  "option1": "first time issuance of shares of a company via stock exchange",
+  "option2": "first time issuance of shares of a public company via stock exchange",
+  "option3": "allotment of shares to 50 or more investors",
+  "option4": "allotment of shares to public by 50% or more fraction of the total equity",
+  "option5": "",
+  "answer": "allotment of shares to 50 or more investors",
+  "explanation": "The primary market issuance is done either through public issues or private placement. Under Companies Act, 1956, an issue is referred as public if it results in allotment of securities to 50 investors or more. However, when the issuer makes an issue of securities to a select group of persons not exceeding 49 and which is neither a rights issue nor a public issue it is called a private placement."
+}

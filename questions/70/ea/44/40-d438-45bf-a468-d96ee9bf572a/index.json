@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "70ea4440-d438-45bf-a468-d96ee9bf572a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Non-Banking Financial Company (NBFC): <ol><li>It is a company registered under the Companies Act, 1956</li><li>It cannot accept demand deposits</li><li>It does not form part of the payment and settlement system</li><li>Deposit Insurance and Credit Guarantee Corporation are not available to depositors of NBFC</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 & 3 Only",
+  "option2": "1 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "A Non-Banking Financial Company (NBFC) is a company registered under the Companies Act, 1956 engaged in the business of loans and advances, and is engaged in buying and selling of securities. But NBFC cannot accept demand deposits; does not form a part of the payment and settlement system; Deposit Insurance and Credit Guarantee Corporation."
+}

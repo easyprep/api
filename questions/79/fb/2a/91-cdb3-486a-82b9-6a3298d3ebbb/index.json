@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "79fb2a91-cdb3-486a-82b9-6a3298d3ebbb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following vaccines with diseases associated to them: <ol> <li>Mycobacterium indicus pranii (MIP) ? Leprosy</li> <li>VPM1002? Tuberculosis</li> <li>Rotavirus? Diarrhea</li> </ol> Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Mycobacterium indicus pranii (MIP) formerly known as Mycobacterium w, is a cultivable, non-pathogenic and rapidly growing saprophyte. It was developed by the National Institute of Immunology, New Delhi, and has been by approved by the Drug Controller General of India and the FDA in the U.S. The vaccine has been launched country wide to protect individuals from Leprosy. Rotavirus vaccine is the best way to protect child against rotavirus illness or diarrhea. VPM1002 is a new TB vaccine."
+}

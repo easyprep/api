@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1a797021-6d10-45ed-a3e5-bc786f2eb7af",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between the Credit and Debit card: <ol><li>While credit card can be used with zero balance in the account, to use debit card one must have balance in saving/current account</li><li>While a credit card is connected to the bank or financial institution that issued the card, debit card is connected to a personal bank account</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Credit cards are lines of credit. When we use a credit card, the issuer puts money toward the transaction. While when we use a debit card to buy something, money is deducted from our bank account. While there is a the credit limit set by the credit issuer in case of credit card, there is no such limit in case of debit card and it can be used as per sum available in the account linked to debit card."
+}

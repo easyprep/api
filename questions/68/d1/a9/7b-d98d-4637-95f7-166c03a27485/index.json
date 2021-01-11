@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:32.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "68d1a97b-d98d-4637-95f7-166c03a27485",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The GHI is calculated by taking into account share of: <ol><li>Undernourished children</li><li>Wasted children </li><li>Stunted children</li><li>Infant mortality rate</li></ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The GHI is calculated by taking into account four key parameters: shares of undernourished population, wasted and stunted children aged fewer than 5, and infant mortality rate of the same age group. The 2016 GHI report states that an estimated 15% population in India is undernourished-lacking in adequate food intake, both in quantity and quality. The share of under-5 children who are &ldquo;wasted&rdquo; is about 15% while the share of children who are &ldquo;stunted&rdquo; is a staggering 39% and the under-5 mortality rate is 4.8% in India."
+}

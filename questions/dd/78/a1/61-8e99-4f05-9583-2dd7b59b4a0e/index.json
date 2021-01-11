@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "dd78a161-8e99-4f05-9583-2dd7b59b4a0e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Arabica and Robusta are two main coffee varieties grown in India. Which of the following is / are correct differences between the two?\r\n<ol>\r\n<li>Robusta contain twice as much caffeine as Arabica beans</li>\r\n<li>Robusta is less vulnerable to pests and weather conditions</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements. Robustas are easier to grow and can be grown even at lower altitudes than Arabicas. Also Robustas are less vulnerable to pests and weather conditions. Robusta contains twice the amount of caffeine as Arabica beans and hence considered inferior to Arabica."
+}

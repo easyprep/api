@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "047f8574-f66b-486f-b9fe-7fa5aa4871e3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the CRISPR-Cas9: <ol> <li>It is used as a genome editing tool for editing DNA</li> <li>It is a prokaryotic immune system that confers resistance to foreign genetic elements</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e71b1a32-966e-49e3-8814-781a6de85fd4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about the Biogas: <ol> <li>It is a mixture of methane and carbon dioxide</li> <li>Biogas unlike LPG cannot be converted to liquid under the normal temperature</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Biogas is produced by the degradation of organic material by microorganisms in the absence of oxygen. It mainly consists of Methane and Carbon dioxide, but also includes traces of Hydrogen sulphide and Ammonia."
+}

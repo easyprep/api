@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "440a5170-00a4-4984-99be-684948b0a639",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following services are provided by the Micro-ATMs? <ol><li>Opening Bank Account</li><li>Cash Withdrawal</li><li>Cash Transfer</li></ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Micro ATMs are card swipe machines through which banks can remotely connect to their core banking system. This machine comes with a fingerprint scanner attached to it. In other words, micro ATMs are handheld point of sale terminals used to disburse cash in remote locations where bank branches cannot reach. Micro ATMs are similar to point of sale (PoS) terminals and are a doorstep mobile banking arrangement cum-mobile ATM device."
+}

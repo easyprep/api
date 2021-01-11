@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "76eded03-1fcc-44bf-a2a8-459999bcf69b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the &ldquo;Cyber&nbsp;Swachhta&nbsp;Kendra&rdquo; <ol> <li>It is an initiative under the Ministry of Electronics and Information Technology (MeitY)&nbsp;</li> <li>The Kendra is being operated by the Indian Computer Emergency Response Team (CERT-In)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> The &ldquo;Cyber&nbsp;Swachhta&nbsp;Kendra&rdquo; (Botnet Cleaning and Malware Analysis Centre) is an initiative under the Government of India&#039;s Digital India initiative, under the Ministry of Electronics and Information Technology (MeitY). It aims to create a secure cyber space by detecting Botnet infections in India and to notify, enable cleaning and securing systems of end users. This centre is being operated by the Indian Computer Emergency Response Team (CERT-In) under provisions of Section 70B of the Information Technology Act, 2000."
+}

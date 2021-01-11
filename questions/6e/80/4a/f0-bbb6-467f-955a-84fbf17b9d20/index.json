@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:41.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "6e804af0-bbb6-467f-955a-84fbf17b9d20",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Consider the following statements: <ol> <li>Speed of sound increases with increase in density of the medium</li> <li>Speed of sound increases with increase in temperature of the medium</li> </ol> &nbsp;&nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "When the elasticity of the medium increases&nbsp;the density&nbsp;decreases and it increases the sound speed. Higher temperatures lower the&nbsp;density&nbsp;of a&nbsp;medium, which puts less resistance on the&nbsp;sound&nbsp;waves.&nbsp;"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:27.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "3e15c09c-c8d4-4053-ad99-9d76b9e357cf",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pair of goods: <ol><li>Tea and coffee</li><li>Tea and sugar</li><li>Printers and ink cartridges</li></ol> Which of the above has/have negative cross elasticity of demand?",
+  "option1": "1 Only",
+  "option2": "2 and 3 Only",
+  "option3": "1, 2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "Negative cross elasticity demand means that the increase in price of one good, decreases the demand of of other and vice versa. These are generally called complementary goods. For example increase in price of sugar may decrease the demand of tea. Tea and coffee are substitute goods; increase in price of coffee may increase the demand of tea."
+}

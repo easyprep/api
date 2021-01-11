@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "dc90cfad-a281-4e87-845b-7aaef1cd2bc4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements with respect to the Indian Depository Receipts (lDRs)?\r\n<ol>\r\n<li>They allow investors abroad in Indian Companies</li>\r\n<li>They are denominated in Indian Rupees</li>\r\n<li>They are issued by a domestic depository in India</li>\r\n<li>They cannot be listed in stock exchanges</li>\r\n</ol>\r\nSelect the correct statements from the codes given below:",
+  "option1": "1, 2 & 3",
+  "option2": "2 & 3",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "2 & 3",
+  "explanation": "An IDR is a mechanism that allows investors in India to invest in listed foreign companies, including multinational companies, in Indian rupees. IDRs give the holder the opportunity to hold an interest in equity shares in an overseas company. IDRs are denominated in Indian Rupees and issued by a Domestic Depository in India. They can be listed on any Indian stock exchange. Anybody who can invest in an IPO (Initial Public Offer) is/are eligible to invest in IDRs. In other words, what ADRs/GDRs are for investors abroad with respect to Indian companies, IDRs are for Indian investors with respect to foreign companies."
+}

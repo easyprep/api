@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "481123d6-05e5-4c06-881a-96ee95370b43",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following crops: <ol><li>Wheat</li><li>Mustard</li><li>Barley</li><li>Peas</li></ol> Which of the above are Rabi crops?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 3 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Crops which are grown during the winter season (October-March) are called Rabi crops. The major Rabi crop in India is wheat, followed by barley, mustard, sesame and peas."
+}

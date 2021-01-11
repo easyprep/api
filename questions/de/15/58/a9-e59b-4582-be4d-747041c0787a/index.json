@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:12.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "de1558a9-e59b-4582-be4d-747041c0787a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. The wages in MGNREGA are fixed by central government as per Minimum Wages Act, 1948<br> 2. MGNREGA wage rate is indexed to the consumer price index for agricultural labourers (CPI-AL)<br> Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The wage rates in MNREGA are fixed as per the provisions of Section 6 (1) of the NREGA act which says: “Notwithstanding anything contained in the Minimum Wages Act, 1948 (11 of 1948), the Central Government may, by notification, specify the wage rate for the purpose of this Act.” Second statement is correct."
+}

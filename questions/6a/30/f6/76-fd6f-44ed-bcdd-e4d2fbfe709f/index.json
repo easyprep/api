@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:18.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "6a30f676-fd6f-44ed-bcdd-e4d2fbfe709f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Nearly two third of India&#8217;s GDP is produced by manufacturing and service sector<br> 2. Growth in manufacturing sector has a complementary effect on service sector<br> 3. Wholesaling and retailing are components of both the manufacturing sector as well as service sector<br> Which among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Services may involve the transport, distribution and sale of goods from producer to a consumer, as may happen in wholesaling and retailing, or may involve the provision of a service, such as in pest control or entertainment. The goods may be transformed in the process of providing the service, as happens in the restaurant industry. However, the focus is on people interacting with people and serving the customer rather than transforming physical goods."
+}

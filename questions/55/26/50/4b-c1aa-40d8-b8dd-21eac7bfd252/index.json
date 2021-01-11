@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5526504b-c1aa-40d8-b8dd-21eac7bfd252",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Under the WTO agreements, the subsidies provided for which among the following would amount to Green Box subsidies?\r\n<ol>\r\n<li>Agricultural Research</li>\r\n<li>Environment Protection</li>\r\n<li>Fertilizers</li>\r\n<li>Irrigation</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 2",
+  "option2": "2 & 3",
+  "option3": "3 & 4",
+  "option4": "1 & 4",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "Green Box Subsidies include the amounts spent on Government services such as research, disease control, and infrastructure and food security. This also includes the subsidies given to the farmers that directly don’t affect production such as for restructuring the agriculture. Since they are permitted in WTO regime, the most developed countries have kept providing subsidies to their farmers. The Green Box contains fixed payments to producers for environmental programs, so long as the payments are “decoupled” from current production levels."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "f55fe066-c949-483b-a0d3-dc1d8836e8ff",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The term &#8216;Masala Bond&#8217;, sometimes appearing in news, is used in relation to __:",
+  "option1": "Indian rupee denominated bonds issued in offshore capital markets",
+  "option2": "US Dollar denominated bonds issued in Indian capital markets",
+  "option3": "Mix Currency Denominated bonds issued in Indian capital markets",
+  "option4": "World Bank bonds issued in Indian Markets",
+  "option5": "",
+  "answer": "Indian rupee denominated bonds issued in offshore capital markets",
+  "explanation": "The term Masala Bond is used for Indian rupee denominated bonds issued in offshore capital markets. One example came to news recently when the International Finance Corporation (IFC), which is investment arm of the world bank has issued a 10 year, Rs. 1000 Crore bond in London to fund Indian infra projects. The bonds are offered and settled in US dollars by IFC and then, IFC will convert the dollars into rupees, thus enabling raising Indian Rupees from international investors."
+}

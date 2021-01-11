@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "94fb98ea-24b7-4aa7-817c-c72495752833",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Import quotas are generally regarded as more restrictive than import tariffs<br> 2. A &#8216;voluntary&#8217; export restraint(VER) is a quota on exports imposed by the exporting country&#8217;s government<br> 3. Import quotas potentially benefit consumers via lower prices<br> 4. Import quotas benefit local producers of import-competing goods by limiting competition<br> Which among the above statements is / are correct?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "The third statement is incorrect. Import quota will raise the prices in domestic markets."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "b548bde9-09a9-4cae-b616-dc40bcd1205c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following sectors: <ol><li>Agriculture</li><li>Airports</li><li>Defence</li><li>Insurance</li></ol> At present, 100% FDI is permitted in which of the above sectors?",
+  "option1": "Only 1",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1 & 4",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "At present, 74% FDI is permitted in the development of new airports. Both defense as well as insurance sectors has 49% FDI, at present."
+}

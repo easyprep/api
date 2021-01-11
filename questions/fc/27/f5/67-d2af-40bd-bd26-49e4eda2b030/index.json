@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "fc27f567-d2af-40bd-bd26-49e4eda2b030",
+  "labels": "current-affairs,2018-08-04",
+  "question": "For the national accounting purpose, which among the following activities is considered to classified as “Investment” in the GDP:\r\n<ol>\r\n<li>Purchasing a new house</li>\r\n<li>Purchasing Shares of a Company</li>\r\n<li>Purchasing Debentures of a company</li>\r\n<li>Purchase of software</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 , 2 & 3",
+  "option4": "Only 1 & 4",
+  "option5": "",
+  "answer": "Only 1 & 4",
+  "explanation": "Investment includes construction of a new mine, purchase of software, or purchase of machinery and equipment for a factory. Spending by households (not government) on new houses is also included in Investment. Here, we must note that buying Financial Instruments or putting money in saving account is not investment in this context but is a ‘saving’. For national accounting purpose, the reason to put financial investments in savings is to avoid double-counting. If one buys shares in a company, and the company uses the money received to buy plant, equipment, etc., the amount will be counted toward GDP when the company spends the money on those things; to also count it when one gives it to the company would be to count two times an amount that only corresponds to one group of products. Buying bonds or stocks is a swapping of deeds, a transfer of claims on future production, not directly an expenditure on products."
+}

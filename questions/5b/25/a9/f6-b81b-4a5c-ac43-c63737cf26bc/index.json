@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:16.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5b25a9f6-b81b-4a5c-ac43-c63737cf26bc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A non-banking financial company: <ol><li>is registered under the Companies Act, 1956.</li><li>cannot accept demand deposits.</li><li>is required to be registered with RBI.</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1,2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 and 2 Only",
+  "explanation": "Third statement is wrong because it is not necessary for all NBFC to be registered with RBI.<br> In terms of Section 45-IA of the RBI Act, 1934, no Non-banking Financial company can commence or carry on business of a non-banking financial institution without a) obtaining a certificate of registration from the Bank and without having a Net Owned Funds of Rs. 25 lakhs (Rs Two crore since April 1999). However, in terms of the powers given to the Bank, to obviate dual regulation, certain categories of NBFCs which are regulated by other regulators are exempted from the requirement of registration with RBI viz. Venture Capital Fund/Merchant Banking companies/Stock broking companies registered with SEBI, Insurance Company holding a valid Certificate of Registration issued by IRDA, Nidhi companies as notified under Section 620A of the Companies Act, 1956, Chit companies as defined in clause (b) of Section 2 of the Chit Funds Act, 1982,Housing Finance Companies regulated by National Housing Bank, Stock Exchange or a Mutual Benefit company."
+}

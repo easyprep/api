@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "9a6d294f-c36d-436e-bb1b-b04257bb2246",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:\r\n<ol>\r\n<li>External Commercial Borrowings</li>\r\n<li>Treasury bills</li>\r\n<li>Special drawing rights</li>\r\n</ol>\r\nWhich of the above can serve as a tool to combat current account deficit?",
+  "option1": "1 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1 and 3 Only",
+  "explanation": "Current account can be reduced with the help of foreign exchange.Treasury bills are short term securities by government.The Reserve Bank of India does not allow foreign institutional investors from buying short-term government securities – treasury bills, or T-Bills to prevent interest rate-related volatility.Hence, treasury bills do not earn any foreign exchange."
+}

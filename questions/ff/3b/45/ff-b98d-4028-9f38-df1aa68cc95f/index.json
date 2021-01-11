@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ff3b45ff-b98d-4028-9f38-df1aa68cc95f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the India Post Payments Bank (IPPB): <ol><li>It envisages providing short term loans for agricultural and MSME sector </li><li>It is not allowed to accept deposits over Rs 1 lakh</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because payments banks do not offer loans and several other facilities that are offered by full-fledged banks. Second statement is correct because payment banks are not allowed to accept deposits over Rs 1 lakh."
+}

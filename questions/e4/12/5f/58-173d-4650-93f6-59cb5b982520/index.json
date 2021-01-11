@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:27.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e4125f58-173d-4650-93f6-59cb5b982520",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is/are example(s) of consumer goods?\r\n<ol>\r\n<li>Machinery</li>\r\n<li>Jewellery</li>\r\n<li>Automobiles</li>\r\n<li>Land</li>\r\n<li>Labour</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "2 and 3 Only",
+  "option2": "1, 2 and 3 Only",
+  "option3": "1, 4 and 5 Only",
+  "option4": "1, 2, 3, 4 and 5",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "Consumer goods are goods that are ultimately consumed rather than used in the production of another good. Machinery is a capital good since it is used in the production of another goods. Land and labour are factors of production."
+}

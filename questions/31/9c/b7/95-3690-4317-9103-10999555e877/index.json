@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:15.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "319cb795-3690-4317-9103-10999555e877",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Zero Based Budgeting:<br> 1. is done via re-evaluating every item of expenditure in every financial year<br> 2. reflects the input of resources and the output of services for each unit of an organization<br> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "First statement defines zero based budgeting while second one defines <strong><u>performance budgeting.</u></strong>"
+}

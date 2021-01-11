@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "4ba6c5e9-1e1a-4e97-af90-2573b82eae1d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The green shoe option is a clause in the underwriting agreement of an IPO, which allows to ___?",
+  "option1": "Sell additional shares",
+  "option2": "Record Investor demands",
+  "option3": "Purchase the shares back from Investors",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Sell additional shares",
+  "explanation": "The green shoe option is a clause in the underwriting agreement of an IPO, which allows to sell additional shares, usually 15%, to the public if the demand exceeds expectations and the stock trades above its offering price. This option, also known as the over-allotment provision. It gets its name from the Green Shoe company, which was the first company to allow such an option."
+}

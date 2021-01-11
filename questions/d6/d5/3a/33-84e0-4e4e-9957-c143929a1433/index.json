@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "d6d53a33-84e0-4e4e-9957-c143929a1433",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are correct with respect to deposits made in banks? <ol><li>&lsquo;Time Deposits' with banks, return higher rate of Interest when compared to &lsquo;Demand deposits'</li><li>Increase in &lsquo;Time Deposits' with banks tends to decrease liquidity in the market.</li></ol> Select the correct option from the codes given below:<br>",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both the statements are correct. When money is deposited for a fixed period, before which it cannot be withdrawn; such deposits are called &ldquo;Time deposits&rdquo; or &ldquo;Term deposits&rdquo;. The most common example of Time deposits is &ldquo;<strong>Fixed Deposit</strong>&ldquo;. On the other hand, if money deposited can be withdrawn by the customer (depositor / account holder) at any time without any advanced notice to banks; it is called demand deposit. Most common example of demand deposit is our Saving Banks Account, Current Bank Accounts etc"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "89e53270-5e05-4ed9-87f6-8a1a3bd6bf86",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Both Debentures and Bonds:<br> 1. are debt instruments<br> 2. can be secured by assets or unsecured<br> 3. can be issued by both public and private organizations<br> Select the correct statements from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Debentures are instrument issued by companies to raise debt capital. As an investor, you lend you money to the company, in return for its promise to pay you interest at a fixed rate (usually payable half yearly on specific dates) and to repay the loan amount on a specified maturity date say after 5/7/10 years (redemption). Normally specific asset(s) of the company are held (secured) in favour of debenture holders. This can be liquidated, if the company is unable to pay the interest or principal amount. Unlike loans, you can buy or sell these instruments in the market. Bonds are broadly similar to debentures. They are issued by companies, financial institutions, municipalities or government companies. They may or may not be secured."
+}

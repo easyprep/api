@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "fcd6c62c-3c79-4f19-82fb-23e9d8a699eb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A rise in SENSEX in India indicates which of the following?",
+  "option1": "There is a rise in the prices of shares of all companies registered with Bombay Stock exchange",
+  "option2": "There is a rise in the prices of shares of all companies registered with National Stock Exchange",
+  "option3": "There is an overall rise in the prices of a group of shares in BSE",
+  "option4": "There is an overall rise in the prices of a group of shares in NSE",
+  "option5": "",
+  "answer": "There is an overall rise in the prices of a group of shares in BSE",
+  "explanation": "A share market Index shows how a specified portfolio of share prices is moving in order to give an indication of market trends. The BSE SENSEX is a free-float market capitalization-weighted stock market index of 30 well-established and financially sound companies listed on Bombay Stock Exchange.<br>"
+}

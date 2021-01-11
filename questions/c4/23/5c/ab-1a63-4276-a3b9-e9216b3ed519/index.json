@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:12.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "c4235cab-1a63-4276-a3b9-e9216b3ed519",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following statements is / are correct with reference to the market capitalization?<br> 1. Market capitalisation is the product of total number of shares and stock price<br> 2. Market capitalisation changes daily<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Market capitalisation or the value of a listed company is arrived at by multiplying the total number of its shares with its stock price on a particular day or time. This figure changes daily with the change in the stock price."
+}

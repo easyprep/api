@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "38a9e8a9-f676-4819-8029-83c94a5c9695",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A tool used by a central bank of a country as its monetary policy to influence public with their own forecasts, market expectations of future levels of interest rates is called _?",
+  "option1": "Forward guidance",
+  "option2": "Derivative",
+  "option3": "Futures contract",
+  "option4": "Accrual Accounting",
+  "option5": "",
+  "answer": "Forward guidance",
+  "explanation": "Forward guidance can be defined as a promise or future declaration of monetary policy by the central bank of the country. The bank forecasts its own market speculations and its own future monetary policies. This is done to influence the financial decisions of households, businesses and investors by letting them know what to expect from interest rates."
+}

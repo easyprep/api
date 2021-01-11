@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "b28cf72b-415e-4bb6-aa8f-46b0e9d1592a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What functions are done by the Non-banking Financial Companies (NBFC) in India?<br> 1. Financing of physical assets<br> 2. Sale and purchase of securities<br> 3. Accept Public Deposits<br> 4. Financing Infrastructure Projects<br> 5. Business of factoring<br> Select the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 1, 2, 3 & 4",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": "NBFCs which are holding a valid Certificate of Registration with authorization to accept Public Deposits can accept/hold public deposits. NBFCs authorized to accept/hold public deposits besides having minimum stipulated Net Owned Fund (NOF) should also comply with the Directions such as investing part of the funds in liquid assets, maintain reserves, rating etc. issued by the Bank. Unlike the Banks, they cannot accept demand deposits, they are not part of the payment and settlement system and they cannot issue cheques drawn on them. The facility of deposit insurance by Deposit insurance and Credit Guarantee Corporation is not available for NBFC’s. For more information, please go thru this article &#8211; <a href=\"http://rbi.org.in/scripts/FAQView.aspx?Id=71\" rel=\"nofollow\">http://rbi.org.in/scripts/FAQView.aspx?Id=71</a>"
+}

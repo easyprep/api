@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "7329ca0f-d205-4475-b1be-430ff243968e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following correctly denotes GDP, as measured from consumption side?",
+  "option1": "A+B+C+D+E",
+  "option2": "A+B+C+(D-E)",
+  "option3": "A+B-(D-E)",
+  "option4": "A+B+C+D",
+  "option5": "",
+  "answer": "A+B+C+(D-E)",
+  "explanation": "Gross domestic product (GDP), as the name suggests, is a broad measure of the output of goods and services in an economy. Of course, it is not a matter of simply adding up the value of all output. Rather, what the GDP measures is the sum total of &#8220;value-added&#8221;. The reason for this is that we would want to avoid the double counting that would inevitably be part of a process of simply adding up the value of all output. For instance, if we were to add the value of output of all auto component manufacturers and the value of output of all carmakers, we would have counted car components twice. By looking only at value-added, GDP measurements prevent this double counting from happening. There are two ways in which GDP can be measured. One way to do it is by measuring it at the production stage, and the other is to measure it as the sum total of consumption. Both should yield the same result. In measuring output from the production side, it is broadly divided into three sectors: agriculture, industry and services. Measured from the consumption side, GDP is equal to the sum of private consumption, government consumption, investment, and net exports (exports minus imports)."
+}

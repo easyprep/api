@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1699a75d-d4c1-4bb1-8076-ae4f3624f852",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As of now, which of the following countries has/have sent a mission to study Sun? <ol> <li>India</li> <li>China</li> <li>Japan</li> <li>USA</li> </ol> Select the correct option from codes given below:",
+  "option1": "2, 3 & 4 Only",
+  "option2": "3 & 4 Only",
+  "option3": "1, 2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "3 & 4 Only",
+  "explanation": "The select group includes USA, Japan and the European Space Agency; those have already sent missions to the sun. Both India and China have still not send the mission to study the Sun. However, India is expected to join the group in 2019-2020 by Aditya L1 mission.&nbsp; Earlier, Aditya-L1 was meant to observe only the solar corona, but with further advancement in technologies can now provide observations of Sun&#039;s Photosphere (soft and hard X-ray), Chromosphere (UV) and corona (Visible and NIR).&nbsp;"
+}

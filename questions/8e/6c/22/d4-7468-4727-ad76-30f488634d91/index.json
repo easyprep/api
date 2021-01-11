@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:18.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "8e6c22d4-7468-4727-ad76-30f488634d91",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Index of Industrial Production shows:<br> 1. Quantum of Industrial Production<br> 2. Growth of Industrial Production<br> 3. Volume of Industrial Activity<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "IIP is a representative figure which measures the general level of Industrial activity in the country. Being an abstract number, it does not so Volume of activity and only shows the magnitude which represents the status of production in the industrial sector for a given period of time as compared to a reference period of time. The index of industrial production (IIP) with 2004-05 as base is the leading indicator for industrial performance in the country. Compiled on a monthly basis, the current IIP series based on 399 products/ product groups is aggregated into three broad groups of mining, manufacturing, and electricity. The IIP as an index shows both the level of production and growth."
+}

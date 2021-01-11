@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "bd19d6c1-0d3d-4c62-bea0-0e2b8d204e93",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following bodies issues white-color and blue-color forms to investors?",
+  "option1": "SEBI",
+  "option2": "IrDA",
+  "option3": "RBI",
+  "option4": "NSE",
+  "option5": "",
+  "answer": "SEBI",
+  "explanation": "White color forms are for Resident Indian, and blue color forms are for NRIs, Foreign Venture Capital, Investor, and Foreign Institutional Investors. These forms are issued by SEBI for investment in capital market."
+}

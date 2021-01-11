@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "9c8d485a-58b3-4b9c-8d47-fcd42004317b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "According to the WHO&#8217;s estimated cases, India contributes the largest number of Malaria cases outside Africa. What is / are obstacles to eliminating malaria?<br> 1. No effective vaccine against Malaria currently exists<br> 2. The drug-resistant Plasmodium parasites have developed which are not sensitive to drugs such as Chloroquin<br> 3. Some people act as reservoir of the parasite and maintain the natural cycle without showing symptoms of the disease<br> Choose the correct option from the codes given below:",
+  "option1": "Only 2 & 3 are correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 2 is correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "1, 2 & 3 are correct",
+  "explanation": "All statements are correct. The third statement is based on asymptomatic Malaria."
+}

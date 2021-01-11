@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:19.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "372ca45a-71a1-4141-80b1-21ff8a9bdd04",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct observations about the Land Holdings in India?\r\n<ol>\r\n<li>Most of the land holdings in India are medium holdings with size between 4 to 10 hectares</li>\r\n<li>Large holdings account for fewer than 1% of total land holdings in India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "There are five kinds of Land Holdings in India, depending on various sizes as follows:\r\n<ul>\r\n<li>Marginal holdings: Size 1 hectare or less</li>\r\n<li>Small holdings: Size 1 to 2 hectares</li>\r\n<li>Semi-medium holdings : Size 2 to 4 hectares</li>\r\n<li>Medium holdings: Size 4 to 10 hectares</li>\r\n<li>Large holdings: Size above 10 hectare</li>\r\n</ul>\r\nMaximum number of operational land holdings in India is marginal holdings. According to Census 2011, 67 per cent of holdings were classified as marginal (less than one hectare) and 18 per cent were classified as small (one-two hectare). Large holdings were estimated to be only 0.7%. Operational Land Holdings include only those units which are used either in farm production or farm production + livestock and poultry products (primary) and/or pisciculture or for only livestock and poultry products (primary) and/or pisciculture."
+}

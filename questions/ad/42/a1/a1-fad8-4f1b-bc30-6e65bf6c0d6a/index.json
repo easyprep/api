@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ad42a1a1-fad8-4f1b-bc30-6e65bf6c0d6a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Crop rotation helps to: <ol><li>Increase soil organic matter</li><li>Reduce soil erosion </li><li>Increase Nitrogen fixation</li><li>Prevent surface runoff</li></ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Crop rotation helps to control pests, weeds and maintenance of soil nitrogen, prevents surface runoff and increase soil organic matter."
+}

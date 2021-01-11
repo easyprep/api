@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "9b6277dc-f8a3-4bc2-864f-eb16211fda72",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol><li>Real Estate Investment Trust</li><li>Railway operation</li><li>Atomic Energy</li></ol> As of now, there is no FDI in India, in which of above sector(s)?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "FDI is prohibited in lottery, gambling, atomic energy, Real Estate Investment Trust &amp; Railway operation."
+}

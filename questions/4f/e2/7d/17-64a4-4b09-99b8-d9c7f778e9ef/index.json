@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:10.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "4fe27d17-64a4-4b09-99b8-d9c7f778e9ef",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are parts of Fiscal policy by the Government of India?<br> 1. Change in the Reserve Requirements<br> 2. Taxation<br> 3. Government Expenditure<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "This is very basic question. Change in reserve requirements is not related to the Fiscal Policy; its a part of monetary policy of RBI."
+}

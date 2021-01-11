@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "fcff1f66-cc72-418d-8ac3-5deaf2e90189",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A person is counted as literate for the purpose of Census in India if he / she is__:",
+  "option1": "Above 5 years of age and can read in any language",
+  "option2": "Above 7 years of age and can read as well as write in any language",
+  "option3": "Above 7 years of age and can read in any language",
+  "option4": "Above 6 years of age and can write in mother tongue",
+  "option5": "",
+  "answer": "Above 7 years of age and can read as well as write in any language",
+  "explanation": "For the purpose of census 2011, a person aged seven and above, who can both read and write with understanding in any language, is treated as literate. A person, who can only read but cannot write, is not literate. In the censuses prior to 1991, children below five years of age were necessarily treated as illiterates."
+}

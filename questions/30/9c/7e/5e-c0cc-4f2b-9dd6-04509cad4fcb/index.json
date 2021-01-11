@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "309c7e5e-c0cc-4f2b-9dd6-04509cad4fcb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Measuring of core inflation rate, excludes commodities like: <ol><li>Food</li><li>Crude Oil</li><li>Precious metals</li><li>Livestock and meat</li></ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "1, 2 & 3 Only",
+  "option3": "3 & 4 Only",
+  "option4": "1, 2 & 4 Only",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Core inflation is a measure of inflation that excludes certain items that face volatile price movements. It excludes transitory or temporary price volatility as in the case of some commodities such as food items, energy products etc."
+}

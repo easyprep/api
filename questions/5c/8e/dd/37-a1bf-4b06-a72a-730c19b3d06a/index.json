@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5c8edd37-a1bf-4b06-a72a-730c19b3d06a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following shows a correct descending order of liquidity in M1, M2 and M3?",
+  "option1": "M1 > M2 > M3",
+  "option2": "M2 > M1 >M3",
+  "option3": "M3 > M2 > M1",
+  "option4": "M1 > M3 > M2",
+  "option5": "",
+  "answer": "M1 > M2 > M3",
+  "explanation": "Kindly remember that M1 is most liquid. M2, M3 and M4 keep on degrading in liquidity terms."
+}

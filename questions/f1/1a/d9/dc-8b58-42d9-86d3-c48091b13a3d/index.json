@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "f11ad9dc-8b58-42d9-86d3-c48091b13a3d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following issues T-Bills in India?\r\n<ol>\r\n<li>Central Government</li>\r\n<li>State Governments</li>\r\n<li>Reserve Bank of India</li>\r\n<li>Commercial Banks</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "T-Bills mean Treasury Bills or the bills issued by the Central Government. The T-Bill is issued by the Government to fulfill its short term money needs. The T-bills are again issued at discount and the face value is higher than the discount value. T-bills have an advantage over the other bills such as Zero Risk weightage associated with them. They are issued by the government and sovereign papers have zero risk assigned to them. In India T-bills are “sold” by the RBI. The State governments do not issue any treasury bills [<a href=\\\"http://www.gktoday.in/gk/key-facts-about-treasury-bills-in-india/\\\">Source</a>]"
+}

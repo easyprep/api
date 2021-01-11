@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "52742367-66cb-4a96-8a13-0ae0258c2339",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The term Commercial Paper was recently making news with respect to the IL &amp;FS crisis. Consider the following statements about the Commercial Paper:\r\n<ol>\r\n<li>It is an unsecured money market instrument</li>\r\n<li>Non-Resident Indians (NRIs) and Foreign Institutional Investors (FIIs) are not allowed to invest in commercial paper</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct because commercial paper is an unsecured money market instrument issued in the form of promissory notes. Corporates, primary dealers (PDs) and the All-India Financial Institutions (FIs) are eligible to issue CP. Second statement is incorrect because Individuals, banking companies, other corporate bodies (registered or incorporated in India) and unincorporated bodies, Non-Resident Indians (NRIs) and Foreign Institutional Investors (FIIs) etc. can invest in CPs."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "0352ec5f-9a47-4e37-8f21-53f4bc2d9880",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following factors can trigger Demand Pull inflation?\r\n<ol>\r\n<li>Fall in the consumption expenditure</li>\r\n<li>Increase in the level of unemployment</li>\r\n<li>Sharp reduction in the income tax</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Demand Pull Inflation means that there is a demand that is pulling more money to chase too few goods. If there is a fall in the consumption expenditure, we cannot expect that there will be inflation pulled by demand. Demand Pull inflation is considered to arise when aggregate demand in an economy is more than aggregate. To let this happen the unemployment level must fall, because if there is high level of unemployment, aggregate demand will be less. The third option fits the bill because if all of the sudden Government becomes benign and makes income up to some 5-6 Lakh rupees tax free, this will lead to Demand Pull Inflation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "b7f479b5-7f11-4077-a9a1-473acce2bd1d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the High Thrust Cryogenic Engine, being developed by ISRO: <ol> <li>It works on &ldquo;Gas Generator Cycle&rdquo;</li> <li>It uses Liquid Hydrogen and Liquid Oxygen as temperature propellants</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> ISRO is developing India's first indigenously designed High Thrust cryogenic rocket engine. The engine will be used for powering the Cryogenic stage (C25), the upper stage of the next generation GSLV Mk-III launch vehicle of ISRO. This cryogenic engine of C25 Stage operates on Gas Generator Cycle using extremely low temperature propellants &ndash; Liquid Hydrogen (LH2) at 20 Kelvin (-253 deg C) and Liquid Oxygen (LOX) at 80K (-193 deg C)."
+}

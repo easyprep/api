@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e7e33ca0-986b-48cf-96f9-79c3c2a5cfc3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Organisation for Economic Co-operation and Development: <ol><li>is a forum of countries committed to democracy</li><li>has its headquarters in Paris, France</li><li>consists India as a member state</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Third statement is incorrect as India is not the member of it. The Organisation for Economic Co-operation and Development is a unique forum where the governments of 34 market democracies work together to address the economic, social and governance challenges of globalisation as well as to exploit its opportunities."
+}

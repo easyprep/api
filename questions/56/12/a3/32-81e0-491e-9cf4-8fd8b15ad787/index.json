@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5612a332-81e0-491e-9cf4-8fd8b15ad787",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the terms Deflation and Disinflation, which among the following statements is / are correct?\r\n<ol>\r\n<li>Deflation is negative inflation, Disinflation is negative inflation growth</li>\r\n<li>Deflation increases the real value of money, Disinflation has no impact on value of money</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "In economics, deflation is a decrease in the general price level of goods and services. Deflation occurs when the inflation rate falls below 0% (a negative inflation rate). This should not be confused with disinflation, a slow-down in the inflation rate (i.e. when inflation declines to lower levels) Inflation reduces the real value of money over time; conversely, deflation increases the real value of money – the currency of a national or regional economy. This allows one to buy more goods with the same amount of money over time."
+}

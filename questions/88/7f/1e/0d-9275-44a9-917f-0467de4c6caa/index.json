@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:44.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "887f1e0d-9275-44a9-917f-0467de4c6caa",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following technologies has/have been developed by Indian Space Research Organisation? <ol> <li>South Asia Satellite</li> <li>NISAR</li> <li>AVATAR RLV</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "NISAR stands for Nasa-Isro Synthetic Aperture Radar. It is a joint project between NASA and ISRO. It uses advanced radar imaging that will provide an unprecedented, detailed view of Earth. It will be mainly used for remote sensing and will be the first dual band radar imaging satellite. AVATAR stands for “Aerobic Vehicle for Tran atmospheric Hypersonic Aerospace Transportation”. The project development is a joint effort of Indian Space Research Organisation and Defence Research Development Organisation (DRDO). The project is a concept for a manned single-stage reusable space plane capable of horizontal takeoff and landing. South Asia Satellite has been developed by ISRO."
+}

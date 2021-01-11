@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "93607386-75a8-421b-9ac9-4166c8efa3c7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the best indicator/reason for the unhealthy financial position of a bank?",
+  "option1": "More non performing loans in balance sheet",
+  "option2": "Reluctance in applying for loans to bank by public and corporate",
+  "option3": "Higher number of Demand deposits compared to Time deposits",
+  "option4": "Higher number of stressed assets",
+  "option5": "",
+  "answer": "Higher number of stressed assets",
+  "explanation": "Stressed assets = NPAs + Restructured loans + Written off assets<br> NPA: A loan whose interest and/or instalment of principal have remained 'overdue ' (not paid) for a period of 90 days is considered as NPA. When the borrower is unable to repay the loans and faces financial stress, and if he asks for relaxation of original terms and conditions then Banks ease certain terms like reduction of interest rates, moratorium on interest repayment and so on. In banking parlance, assets or loans which got an extended repayment period &amp; reduced interest rate, are said to be restructured. Hence, under restructuring a bad loan is modified as a new loan. Corporate Debt Restructuring Mechanism (CDM) allows restructuring of loans."
+}

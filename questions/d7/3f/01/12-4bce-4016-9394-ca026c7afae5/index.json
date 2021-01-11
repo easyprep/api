@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "d73f0112-4bce-4016-9394-ca026c7afae5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are near money?<br> 1. T-bills<br> 2. Equity Shares of a company<br> 3. Bill of Exchange<br> 4. Debentures<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "1, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Near Money is the money which is not cash but can be changed in cash in short time. T-bills, Equity shares of a company, Bill of exchange and Debentures are all considered as near money."
+}

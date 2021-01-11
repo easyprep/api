@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "dcbf5560-aa7c-4648-be11-ab45931c0d40",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Chit funds in India are governed and regulated by _?",
+  "option1": "SEBI",
+  "option2": "RBI",
+  "option3": "State governments",
+  "option4": "Central government",
+  "option5": "",
+  "answer": "State governments",
+  "explanation": "Chit funds in India are governed by the Chit Funds Act, 1982. Under this Act, the chit fund businesses can be registered and regulated only by the respective State Governments. Regulator of chit funds is the Registrar of Chits appointed by respective state governments under Section 61 of Chit Funds Act."
+}

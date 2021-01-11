@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "bea5a40c-6a37-4c37-809a-ea997187c2a9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is the difference between a bond and a debenture?\r\n<ol>\r\n<li>While a debenture is always unsecured, a bond is always secured</li>\r\n<li>On liquidation of the company, the debenture holders are paid prior to bond holders</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Bonds and Debentures, both are similar and holders of both of them are creditors to the company. <u>Both bonds and debentures can be secured or unsecured</u>. Generally, the bonds issued by the companies are secured by their assets. But there are unsecured bonds as well. The bonds issued by municipalities or government companies etc. are normally not secured by any assets. Both bonds and debentures get priority over shares when company is liquidated. However, if the bonds are secured, they get priority over unsecured debentures."
+}

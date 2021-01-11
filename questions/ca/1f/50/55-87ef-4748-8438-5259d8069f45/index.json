@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ca1f5055-87ef-4748-8438-5259d8069f45",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following can be used as fuel in Cryogenic engines? <ol> <li>Liquid Oxygen</li> <li>Liquid Hydrogen</li> <li>Liquid Nitrogen</li> <li>Liquid Methane </li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All of the above can be used in Cryogenic engines.<br> A cryogenic rocket engine is a rocket engine that uses a cryogenic fuel or oxidizer, that is, its fuel or oxidizer (or both) is gases liquefied and stored at very low temperatures."
+}

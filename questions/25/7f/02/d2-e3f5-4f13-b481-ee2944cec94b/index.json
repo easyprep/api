@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "257f02d2-e3f5-4f13-b481-ee2944cec94b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A farmer has 1.5 hectares of land of which he grows crops in 1 hectare and rest of the land is used for cattle rearing and a small poultry farm. The operational land holding of this farmer is __:",
+  "option1": "Marginal",
+  "option2": "Small",
+  "option3": "Semi-medium",
+  "option4": "Medium",
+  "option5": "",
+  "answer": "Small",
+  "explanation": "Operational Land Holdings include only those units which are used either in farm production or farm production + livestock and poultry products (primary) and/or pisciculture or for only livestock and poultry products (primary) and/or pisciculture. Since total land is more than 1 hectare and less than 2 hectares; the operational land holding is small holding."
+}

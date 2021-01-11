@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:18.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "d55480f4-c4ea-4495-aa1c-310f338974ee",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol><li>Open Unemployment is when people are not willing to work</li><li>Majority of the unemployed people in India are poor and uneducated</li></ol> Which of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because open unemployment is a condition in which people have no work to do. They are able to work and are also willing to work but there is no work for them. Second statement is incorrect because poor cannot afford to remain unemployed and therefore, unemployment rate among the poor is very low as compared to educated youth. India's problem is skill rather."
+}

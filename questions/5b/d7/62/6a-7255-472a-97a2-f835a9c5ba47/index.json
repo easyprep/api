@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5bd7626a-7255-472a-97a2-f835a9c5ba47",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which country has recently launched the world&#039;s longest quantum communication line?",
+  "option1": "Canada",
+  "option2": "Britain",
+  "option3": "United States",
+  "option4": "China",
+  "option5": "",
+  "answer": "China",
+  "explanation": "Recently, China launched the world&rsquo;s longest secure telecommunications network,&nbsp;a 712-km quantum communication line. It is part of a 2,000-km quantum communication line connecting Beijing and Shanghai. Quantum communication lines are highly secure and it is almost impossible to wiretap, intercept or crack the information transmitted through them."
+}

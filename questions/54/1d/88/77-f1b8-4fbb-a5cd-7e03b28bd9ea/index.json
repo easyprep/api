@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "541d8877-f1b8-4fbb-a5cd-7e03b28bd9ea",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;&nbsp;Consider the following statements about the Chandra X-ray Observatory&nbsp;(CXO): <ol> <li>It is a space observatory launched&nbsp;by&nbsp;ISRO</li> <li>It serves as the premier facility for x-ray astrophysics work</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because it is a space observatory launched&nbsp;by&nbsp;NASA&nbsp;on July 23, 1999. Second statement is correct because the Chandra X-ray Observatory&nbsp;(CXO) serves as the premier facility for x-ray astrophysics work."
+}

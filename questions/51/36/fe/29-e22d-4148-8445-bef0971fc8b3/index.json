@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5136fe29-e22d-4148-8445-bef0971fc8b3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In India, personal income tax is __: <ol><li>collected and appropriated by Central Government</li><li>progressive in nature</li><li>highest source of revenue for the union government</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The first statement is incorrect because income tax is collected by Union Government but becomes a part of Central pool of taxes which is divided into union and states. Second statement is correct. Third statement is incorrect because <strong>Corporate Income Tax</strong> is the highest source of revenue for the government."
+}

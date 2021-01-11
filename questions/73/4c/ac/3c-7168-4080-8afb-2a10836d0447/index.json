@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:15.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "734cac3c-7168-4080-8afb-2a10836d0447",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As per the latest statement by finance ministry India&#8217;s tax-to-GDP ratio is about __?",
+  "option1": 0.155,
+  "option2": 0.222,
+  "option3": 0.167,
+  "option4": 0.203,
+  "option5": "",
+  "answer": 0.155,
+  "explanation": "Tax-to-GDP ratio is the total government tax collections divided by the country&#8217;s GDP. India has very low tax-to-GDP ratio. The tax-to-GDP ratio for the central government is 10 percent and state plus centre is about 15.5 percent."
+}

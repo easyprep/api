@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "f56dc56e-adaa-4bb2-849e-09605b73ed35",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is IPO in context to a company?",
+  "option1": "The first sale of stock by a private company to the public",
+  "option2": "Upgradation of shares from primary to secondary market",
+  "option3": "Selling of shares at premium by a company",
+  "option4": "Convert of a private limited company to public limited Company",
+  "option5": "",
+  "answer": "The first sale of stock by a private company to the public",
+  "explanation": "When an unlisted company makes either a fresh issue of securities or an offer for sale of its existing securities or both for the first time to the public, it is called Initial Public Offering or IPO. In an IPO, the issuer obtains the assistance of an underwriting firm, which helps it determine what type of security to issue (common or preferred), the best offering price and the time to bring it to market."
+}

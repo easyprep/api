@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "59085b6d-3914-48a4-a513-7a89d99b5cd1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In the stock market parlance, &#8220;spread&#8221; indicates:<br> 1. Difference between the buying and selling prices of a share<br> 2. Ease or difficulty in buying or selling shares<br> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The difference between the buying and selling prices of a share is called spread. Higher the liquidity of a share lower its spread and vice versa. Liquidity refers to how easy it is to buy and sell shares without seeing a change in price. Thus, both statements are correct."
+}

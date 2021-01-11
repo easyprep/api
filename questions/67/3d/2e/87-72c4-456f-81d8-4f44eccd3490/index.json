@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:16.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "673d2e87-72c4-456f-81d8-4f44eccd3490",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Qualified Institutional Buyers: <ol><li>can be a company, institution or an individual.</li><li>are not required to be registered with SEBI.</li><li>are investors in primary market.</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 and 3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "First statement is wrong because individuals are not allowed to invest as QIBs.<br> Qualified Institutional Buyers are those institutional investors who are generally perceived to possess expertise and the financial muscle to evaluate and invest in the capital markets. In terms of clause 2.2.2B (v) of DIP Guidelines, a 'Qualified Institutional Buyer' shall mean:<br> a. Public financial institution as defined in section 4A of theCompanies Act, 1956;<br> b. Scheduled commercial banks;<br> c. Mutual funds;<br> d. Foreign institutional investor registered with SEBI;<br> e. Multilateral and bilateral development financial institutions;<br> f. Venture capital funds registered with SEBI.<br> g. Foreign Venture capital investors registered with SEBI.<br> h. State Industrial Development Corporations.<br> i. Insurance Companies registered with the Insurance Regulatoryand Development Authority (IRDA).<br> j. Provident Funds with minimum corpus of Rs.25 crores<br> k. Pension Funds with minimum corpus of Rs. 25 crores)"
+}

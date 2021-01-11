@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "c145455e-2f90-49f4-8698-7fedf177fd05",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are features of Debentures?\r\n<ol>\r\n<li>They are a type of debt instrument</li>\r\n<li>They are always issued against the assets of a company</li>\r\n<li>They always provide higher returns in comparison to Equity shares</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "1, 2 & 3 are correct",
+  "option4": "Only 1 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The most basic features of Debentures are as follows:\r\n<ul>\r\n<li>A debenture acknowledges a debt</li>\r\n<li>It is in the form of certificate issued under the seal of the company. It usually shows the amount &amp; date of repayment of the loan.</li>\r\n<li>It has a rate of interest &amp; date of interest payment.</li>\r\n<li>Normally debentures are secured &amp; issued against the assets of the company. However, not always the debentures are secured</li>\r\n</ul>"
+}

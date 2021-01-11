@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "46e9ce4e-e34b-4249-87d5-bceb1aea4c16",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The act of simultaneous buying and selling of securities, currency, or commodities in different markets or in derivative forms is called _?",
+  "option1": "Arbitrage",
+  "option2": "Spot market",
+  "option3": "Ambush marketing",
+  "option4": "Futures market",
+  "option5": "",
+  "answer": "Arbitrage",
+  "explanation": "Arbitrage is the process of simultaneous buying and selling of an asset from different platforms, exchanges or locations to cash in on the price difference. While getting into an arbitrage trade, the quantity of the underlying asset bought and sold should be the same. Only the price difference is captured as the net pay-off from the trade."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:18.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "10ae888e-a29d-44c8-999a-c8417b88852f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements with respect to Census Act 1948: <ol><li>The Act provides penalties for giving false answer or not giving answers at all to the census questionnaire.</li><li>The census records are not open to inspection and also not admissible in evidence.</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both 1 and 2 are correct statements"
+}

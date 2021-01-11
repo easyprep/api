@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "402a0768-234c-471f-a8b6-9cc2fd37e3d7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "National Investment and Infrastructure Fund: <ol><li>provides equity support only to greenfield projects</li><li>comes under the SEBI Regulation</li><li>has maximum limit of government contribution to 51%</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "First statement is incorrect because the fund supports both greenfield and brownfield projects in the country. Third statement is incorrect because government's contribution/share in the corpus will be 49% in each entity set up as an alternate Investment Fund (AIF) and will neither be increased beyond, nor allowed to fall below, 49%."
+}

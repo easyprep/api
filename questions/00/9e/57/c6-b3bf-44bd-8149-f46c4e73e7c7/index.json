@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "009e57c6-b3bf-44bd-8149-f46c4e73e7c7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following would facilitate capital inflows in India?\r\n<ol>\r\n<li>Create conducive environment for Foreign Direct Investment</li>\r\n<li>Create conducive environment for Foreign Portfolio Investment</li>\r\n<li>Allow External Commercial Borrowings</li>\r\n<li>Implement Capital Controls</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Foreign Capital inflow includes Foreign Direct Investment (FDI), Foreign Portfolio Investment (FPI), External Commercial Borrowing (ECBs), NRI Deposits and Social Deposits Schemes etc. In this question, Capital Control has to be opted out because Capital Control measures are used to check the ‘Capital Outflow’ and not to promote inflow."
+}

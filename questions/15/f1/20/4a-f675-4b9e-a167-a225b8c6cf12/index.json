@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:10.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "15f1204a-f675-4b9e-a167-a225b8c6cf12",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are Indirect Taxes?\r\n<ol>\r\n<li>Excise duty</li>\r\n<li>Capital gains tax</li>\r\n<li>Fringe Benefit Tax</li>\r\n<li>Wealth Tax</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Indirect Taxes include Value Added Tax, Central Sales Tax, Excise Duty, Customs Duty, Goods and Services Tax. These Taxes are not levied on individuals, but on goods and services."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "23eaf812-ea2b-466e-a629-62c9ab4af486",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Commodity trading: <ol><li>is done in primary as well as secondary markets</li><li>can be done in spot markets as well as in derivatives markets</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "First statement is correct because the primary market of commodity trading is the market of raw products. Secondary market is the commodity exchanges. Second statement is also correct because commodity exchanges provide both spot as well as derivative market facilities."
+}

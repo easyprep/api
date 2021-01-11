@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "961a1e8f-8dff-4e97-9327-b18767199aec",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following tests: <ol> <li>ELISA</li> <li>Viral load test</li> <li>Western blot test</li> <li>Hemoglobin A1c</li> </ol> Which of the above are&nbsp;used to detect the&nbsp;human immune deficiency virus&nbsp;(HIV)?",
+  "option1": "1 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 3 Only",
+  "explanation": "The&nbsp;enzyme-linked immunosorbent assay&nbsp;(ELISA),&nbsp;Western blot test,&nbsp;and Viral load test are used to detect HIV antibodies in your blood.&nbsp;The HbA1c test is a routine test for people with diabetes."
+}

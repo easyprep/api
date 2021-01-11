@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "80bf18d8-2d70-4113-87c2-a5473010dc99",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about market capitalization?\r\n<ol>\r\n<li>It is total value of authorized shares of a publicly traded company</li>\r\n<li>It is a robust indicator of economic growth</li>\r\n<li>It is a measure of investors’ wealth</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Market capitalization (or market cap) is the total value of the issued shares of a publicly traded company; it is equal to the share price times the number of shares outstanding. As outstanding stock is bought and sold in public markets, capitalization could be used as a proxy for the public opinion of a company&#8217;s net worth and is a determining factor in some forms of stock valuation. It’s a measure of investor&#8217;s health."
+}

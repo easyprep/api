@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "aac3d24b-fe29-41c8-a74e-face0a88ef9f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following would increase India's external debt? <ol><li>Increased NRI deposits</li><li>Increased Inward remittances</li><li>Increased External commercial borrowing</li><li>Increased grants from international organisations</li><li>Depreciation of the US dollar against the rupee</li></ol> Select the correct option from codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1 & 3",
+  "option3": "Only 1, 3 & 5",
+  "option4": "Only 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Increased NRI deposits are an external debt. Inward remittance is not because it is not to be repaid back. ECBs are again external debt. Grants are never debt because they don't need to be paid back. Depreciation of US dollar against the rupee will reduce external debt as rupee getting stronger."
+}

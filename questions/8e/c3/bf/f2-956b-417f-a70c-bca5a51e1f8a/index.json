@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "8ec3bff2-956b-417f-a70c-bca5a51e1f8a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Monocropping: <ol><li>It decreases the risk of crop failure in case of scanty rainfall</li><li>It is a common practice in most of dry land tracts of India</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because Monocropping enhances the chances of crop failure in the face of scanty rainfall. Second statement is correct. Monocropping is the growing of a single crop on a piece of land, and is most common on dry tracts of land, especially in Western India. It is used mainly for cash crop farming while subsistence farming usually practices multiple cropping or mixed cropping."
+}

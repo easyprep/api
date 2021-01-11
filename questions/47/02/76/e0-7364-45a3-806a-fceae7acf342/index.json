@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:25.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "470276e0-7364-45a3-806a-fceae7acf342",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Unified Payments Interface (UPI): <ol><li>It seeks to promote cashless economy in the country</li><li>It has been developed by National Payments Corporation of India (NPCI)</li><li>It facilitates the user to have a single virtual address for multiple bank accounts</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "<u>Third statement is incorrect</u> because UPI will allow a customer to have multiple virtual addresses for multiple accounts in various banks."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "207f8061-057d-4ed1-9822-fb3cb3220989",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are &#8220;Revenue Receipts&#8221; of the Government?<br> 1.Corporation Tax<br> 2.Grants Received from a foreign country<br> 3.Loans from International Fund<br> 4.Interest free loans from IDA<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Loans are not included in revenue receipts because of <em>liability to pay those</em><em>back</em>"
+}

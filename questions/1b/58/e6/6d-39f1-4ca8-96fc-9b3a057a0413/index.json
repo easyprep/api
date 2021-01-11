@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1b58e66d-39f1-4ca8-96fc-9b3a057a0413",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about SCATSAT-1: <ol> <li>It is India&rsquo;s first indigenously designed nano-satellite</li> <li>It will help to predict the formation and strengthening of possible cyclones</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because SCATSAT-1 is a miniature satellite developed by ISRO. Jugnu is India&rsquo;s first indigenously designed nano-satellite. Second statement is correct because it will help to predict the formation and strengthening of possible cyclones."
+}

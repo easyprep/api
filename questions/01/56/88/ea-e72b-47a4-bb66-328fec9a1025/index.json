@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "015688ea-e72b-47a4-bb66-328fec9a1025",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A perpetual bond:<br> 1. has no fixed interest rates<br> 2. has no fixed maturity<br> 3. has no fixed underlying assets Which among the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Perpetual Bonds do not have any maturity date and are hence perpetual. Since they are never redeemed, such debt instruments give the issuers the comfort that equity capital offers in their capital base. Hence treated as equity by issuers, particularly the banks. Even regulators allow them to treat such bonds as a part of a bank’s tier-I capital, which traditionally comprise equity instruments. (While tier-II capital of a bank comprises debt instruments). But on the flip side, unlike equity, they have to be serviced perpetually by way of paying interest to the subscribers of such bond."
+}

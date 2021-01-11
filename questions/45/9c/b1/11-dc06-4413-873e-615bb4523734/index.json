@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "459cb111-dc06-4413-873e-615bb4523734",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Mycobacterium indicus pranii (MIP): <ol> <li>It is India’s first indigenous vaccine developed exclusively for Measles</li> <li>The vaccine is currently provided to children under the Universal Immunization Programme</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because Mycobacterium indicus pranii (MIP) is India’s first indigenous vaccine developed exclusively for leprosy. Second statement is again incorrect. The Universal Immunization Programme provides life-saving vaccines to all children across the country free of cost to protect them against Tuberculosis, Diphtheria, Pertussis, Tetanus, Polio, Hepatitis B, Pneumonia and Meningitis due to Haemophilus Influenzae type b (Hib), Measles, Rubella, Japanese Encephalitis (JE) and Rotavirus diarrhoea."
+}

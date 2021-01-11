@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "25ce1aaa-7f7c-4a85-9ec7-ab9dd1cdcbe0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the functions of RBI from the given choices:<br> 1. Managing the Public Debt<br> 2. Creation of Fiat Money<br> 3. Operating a Lender of Last Resort facility<br> 4. Control the stock exchanges<br> 5. Facilitate external trade<br> Choose the correct option from the codes given below:",
+  "option1": "2, 3, 4 & 5",
+  "option2": "2, 3 & 5",
+  "option3": "1, 2, 3 & 4",
+  "option4": "1, 2, 3 & 5",
+  "option5": "",
+  "answer": "1, 2, 3 & 5",
+  "explanation": "Stock exchanges are controlled by SEBI"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "b83e8f4c-4afe-4dd0-b085-c87df65e888a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The money supply of the country includes: <br> 1.Money held with the households <br> 2.Money held by Government in treasury <br> 3.Money held by Reserve Bank as CRR <br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": ""
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "74972ba3-afd3-434a-bb22-e407e00f6334",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to taxation system in India, which of the following is / are correct statements? <ol><li>Stamp duties are levied by both union and central governments</li><li>Tax on agricultural income is a part of consolidated fund of India</li></ol> Select the correct option from the codes given below:<br>",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "First statement is correct. The term &quot;stamp duty&quot; appears in union, state as well as concurrent lists of 7th schedule. However, central government levies stamp duty in respect of some instruments like bills of exchange, cheques, promissory notes etc. Any sale or transfer of property involves payment of stamp duty, which can be levied by state government. Second statement is incorrect because tax on agricultural income forms a part of consolidated fund of state.<br>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:10.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "be7a6c93-917e-4cbe-848a-da207d9fc885",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What does the PE Ratio or Price Earning Ratio signify ?<br> 1. How much investors are willing to pay per rupee earnings of a company<br> 2. Current market value of a company<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The price earnings ratio, or the PE multiple, is a valuation measure that indicates how much investors are willing to pay per rupee of the earnings of a company. The PE ratio of a company is calculated by dividing the current market price of a company share by its earnings per share. The PE ratio is a much better indicator of the value of a stock than its market price. All things being equal, a Rs. 10 stock with a PE of 30 is much more expensive than a Rs. 100 stock with a PE of 20. The PE of a company must be compared with others in the same sector or the industry average. It is futile, for instance, to compare the PE of a services company with that of a manufacturing firm. Investors will often find that the companies with good earnings track record and stable finances also have a high PE."
+}

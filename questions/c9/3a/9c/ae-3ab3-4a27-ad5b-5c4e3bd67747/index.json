@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "c93a9cae-3ab3-4a27-ad5b-5c4e3bd67747",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between a private limited company and a public limited company? <ol><li>While there is a complete restriction on transferability of shares in Private Ltd. Company, such restricts don't exist for public limited company</li><li>A Private Limited Company needs to obtain a 'commencement of business' certificate before starting operations</li></ol> Which of the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The second statement is incorrect here. Public Ltd. Companies need to obtain a 'commencement of business' certificate before starting operations. Not required for Pvt. Ltd. Company."
+}

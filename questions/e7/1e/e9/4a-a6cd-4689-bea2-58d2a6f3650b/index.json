@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e71ee94a-a6cd-4689-bea2-58d2a6f3650b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the International Thermonuclear Experimental Reactor (ITER) project: <ol> <li>The project is being built in France</li> <li>India is a key partner in the project</li> <li>The project aims at full-scale electricity-production through fusion power stations</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "First statement is correct because the project is a 500 megawatt ITER fusion reactor, being built in Cadarache, in the South of France. Second statement is correct because India, through the Institute of Plasma Research (IPR), is contributing towards building the reactor&#039;s gigantic cryostat, which is the reactor&#039;s heart. Third statement is correct because the project aims at full-scale electricity-production through fusion power stations. The ITER project, if successful, could determine the power plants of the future and make an invaluable contribution to reducing planet-warming emissions."
+}

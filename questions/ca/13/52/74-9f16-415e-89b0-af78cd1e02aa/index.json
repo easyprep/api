@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ca135274-9f16-415e-89b0-af78cd1e02aa",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are asset(s) for a bank?\r\n<ol>\r\n<li>Cash Deposits of Customers</li>\r\n<li>Investments made by Bank’s customers in its financial Products</li>\r\n<li>The loans disbursed by Bank to its customers</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "Only 1 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Banks assets are loans and disbursements and its investments into securities. The deposits made by public either in savings or other accounts or investment in its financial products are its liabilities."
+}

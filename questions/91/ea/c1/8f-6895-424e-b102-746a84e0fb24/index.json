@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "91eac18f-6895-424e-b102-746a84e0fb24",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following are the &#8216;Revenue Receipts&#8217; of the Government?<br> 1.Corporation Tax<br> 2.Grants Received from a foreign country<br> 3.Loans from International Fund<br> 4. Interest free loans from IDA<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Any such income of the government which does not increase its liability is revenue. This implies that if Government borrows from IMF, it cannot be its revenue. However, if government gets a grant from World Bank, it will be revenue (because it does not increase liability as grants are not repaid). The most important source of revenue receipts is obviously taxation. Taxation includes direct and indirect taxes. There are some other non-tax revenues such as profit earned by government companies, interest earned on money which government has lent to borrowers (internal as well as borrowers / Dollars as well as Rupees), money earned by government via stamp printing and sales etc, money earned by government via its business activities such as providing banking services, insurance, fees, penalties, fines. Finally, all the grants which Union Government gets from foreign sources is also revenue receipt. For state government, the grants come from central government."
+}

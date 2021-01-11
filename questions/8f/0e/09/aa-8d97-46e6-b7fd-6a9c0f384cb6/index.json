@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:24.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "8f0e09aa-8d97-46e6-b7fd-6a9c0f384cb6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following comes under Revenue Expenditure of Government? <ol><li>Purchase of new fighter planes for defense</li><li>Subsidies</li><li>Salaries of government employees</li><li>Repayment of public loans</li><li>Buying shares of a company</li></ol> Select the correct option from codes given below:<br>",
+  "option1": "1,2 and 3 Only",
+  "option2": "3,4 and 5 Only",
+  "option3": "1,2,3 and 4 Only",
+  "option4": "1,2,3,4 and 5",
+  "option5": "",
+  "answer": "1,2 and 3 Only",
+  "explanation": "Only 1,2 and 3 are revenue expenditure of government.<br> Reyament of public loans reduces liability of government hence, it comes under capital expenditure of government.Similarly; buying of shares of a company leads to asset creation for government and it comes under capital expenditure of the government.Revenue expenditure are those expenditures which comes under normal course of government and do not create any asset or reduces any liability of government."
+}

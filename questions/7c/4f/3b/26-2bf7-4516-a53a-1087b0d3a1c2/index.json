@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "7c4f3b26-2bf7-4516-a53a-1087b0d3a1c2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With respect to the &lsquo;shares' of a company, which of the following statements is/are correct? <ol><li>A share is treated as a &ldquo;Good&rdquo; under Sale of Goods act</li><li>A person who holds the share of a public limited company has right to transfer his / her shares</li><li>A share makes a person owner of assets of company</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "A member who holds the shares of a company does not imply that the member owns any of the company's assets. This is because assets would be still possessed by the company which is a legal person in itself. However, if the company is wound up, after selling its assets, the shareholder has the right to participate in the assets after the debts have been paid. This means that it is the right to what assets remain after liquidation."
+}

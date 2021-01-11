@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:21.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "247baf6c-55b6-4986-a2bd-23bcc8bfcb5d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Baltic Dry Index is: <ol><li>an economic indicator for nine countries bordered by Baltic Sea </li><li>issued daily by the London-based Baltic Exchange</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<u>First statement is incorrect</u> because Baltic Dry Index is not restricted to Baltic Sea countries."
+}

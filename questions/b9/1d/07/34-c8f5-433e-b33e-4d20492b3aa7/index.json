@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "b91d0734-c8f5-433e-b33e-4d20492b3aa7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Why the Core inflation is considered to be a better indicator than the headline inflation?",
+  "option1": "Core Inflation includes certain items that are subject to sudden and short-lived price movements",
+  "option2": "Core Inflation excludes certain items that are subject to sudden and short-lived price movements",
+  "option3": "Core inflation has a wider basket of items",
+  "option4": "Headline Inflation has a wider basket of items",
+  "option5": "",
+  "answer": "Core Inflation excludes certain items that are subject to sudden and short-lived price movements",
+  "explanation": "Core Inflation is the rate of inflation calculated to exclude certain items that are subject to sudden and short-lived price movements, mainly food and energy. Core inflation is considered a better indicator of overall long-term than un-adjusted headline inflation."
+}

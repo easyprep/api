@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "6bb9a7f0-cfc3-4b14-ab9b-efeaefa8ad06",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are correct, with respect to scheduled and non-scheduled banks of India? <ol><li>Scheduled bank consists of only public sector banks and nationalised banks</li><li>Foreign banks and regional rural banks are included in non- scheduled banks list.</li><li>Scheduled banks are listed under second schedule of RBI act 1934, whereas non-scheduled banks are not listed under that schedule</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Only 3<sup>rd</sup> statement is correct. First statement is incorrect, as Scheduled banks include Public sector banks, private sector banks, foreign banks, regional rural banks and rural and urban cooperative societies. 2<sup>nd</sup> statement is also incorrect as non-scheduled bank consists of only few local area banks not listed under RBI act 1934."
+}

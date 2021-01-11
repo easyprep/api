@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "52b7f17c-d56c-44ca-9a9b-183c0228a0c9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Provision Coverage Ratio (PCR): <ol><li>Under the Provision Coverage Ratio (PCR), provisions are made for Capital Gain Tax</li><li>A higher provision coverage ratio leads to higher stock prices</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because the provision coverage ratio (PCR) is associated to Bad Loans and not to Capital Gain Tax. Second statement is again incorrect because through PCR, banks set aside funds to cover bad loans. A higher provision coverage ratio means the bank is protecting itself better against its bad loans."
+}

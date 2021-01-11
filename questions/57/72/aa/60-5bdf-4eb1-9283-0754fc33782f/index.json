@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5772aa60-5bdf-4eb1-9283-0754fc33782f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Virgo interferometer&nbsp;is used:",
+  "option1": "to search for evidence of the neutrino-less double beta decay",
+  "option2": "for deep-ocean tsunami detection",
+  "option3": "in detecting nuclear radiation",
+  "option4": "to detect cosmic gravitational waves",
+  "option5": "",
+  "answer": "to detect cosmic gravitational waves",
+  "explanation": "Virgo interferometer is sensitive to gravitational waves in a wide frequency range, from 10 to 10,000 Hz. This allows the detection of gravitational radiation caused by the coalescence of binary systems (stars or black holes), pulsars and those produced by supernovae in the milky way and in outer galaxies, for instance from the Virgo cluster, hence the name of the project.&nbsp;"
+}

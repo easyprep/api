@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "98ea7012-ae4f-411e-bc21-d78e2998885d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following tells us is the extent to which the government&#8217;s borrowings are used to service old loans?",
+  "option1": "Budget Deficit",
+  "option2": "Primary Deficit",
+  "option3": "Fiscal Deficit",
+  "option4": "Revenue Deficit",
+  "option5": "",
+  "answer": "Primary Deficit",
+  "explanation": "The primary deficit is the fiscal deficit minus interest payments and debt servicing. What it tells us is the extent to which the government&#8217;s borrowings are used to service old loans. A high primary deficit would indicate that the government is borrowing well beyond what it needs to pay the interest on existing loans. Unless there are no interest payments whatsoever (which is unlikely, if not impossible), the primary deficit would always be lower than the fiscal deficit."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:22.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "d9611337-1a40-4774-b7b0-91b432df79da",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Participatory Notes in India: <ol><li>Participatory Notes are issued by RBI to overseas investors to invest in the Indian stock market.</li><li>Any entity investing in participatory notes is not required to register with SEBI.</li></ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Participatory Notes are issued by registered foreign institutional investors (FII) to overseas investors to invest in the Indian stock market. Participatory Notes enables large hedge funds to carry out their operations without disclosing their identity. P notes have attracted significant market attention recently because of huge inflow of foreign funds into Indian stock markets through this route."
+}

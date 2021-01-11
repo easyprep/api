@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "707459c1-c375-4a1f-ab42-c94227a6303e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The BSE SENSEX: 1. is a basket of 30 Constituent Stocks 2. has 1978-79 as its base year 3. is calculated on full market capitalizationâ?? methodology Which among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "Sensex is a basket of 30 constituent stocks representing a sample of large, representative companies. The base year of sensex is 1978-79 and the actual total market value of the stocks in the index during the base period has been set equal to an indexed value of 100. The index was initially calculated based on the ‘full market capitalization’ methodology (the level of index at any point of time reflects the total market value of 30 component stocks relative to a base period) but was shifted to the free-float methodology from September 1, 2003. The sensex’s calculation involves dividing the total market capitalization of 30 companies in the index by the index divisor — the only link to the original base period value of the sensex."
+}

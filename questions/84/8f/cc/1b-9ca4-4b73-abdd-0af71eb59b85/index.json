@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:32.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "848fcc1b-9ca4-4b73-abdd-0af71eb59b85",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Global Hunger Index (GHI): <ol><li>The report is published annually by the World Health Organization (WHO)</li><li>As per the report, child stunting is the major reason behind India's poor rank in GHI report</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the report is published annually by the International Food Policy Research Institute (IFPRI). The GHI is calculated by taking into account four key parameters: shares of undernourished population, wasted and stunted children aged fewer than 5, and infant mortality rate of the same age group. As per the report, child stunting in India is the major reason behind India's worse ranking in the report."
+}

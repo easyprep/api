@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "f777aa64-7aa9-4a92-971d-8b78d5217256",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A Private Company is different from a Public Company in the sense that__:\r\n<ol>\r\n<li>There is a restriction on transferability of shares in Private Company, while in Public company, there is no such restriction</li>\r\n<li>A private company should have at least one director, a public company should have at least 2 directors</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "[table id=144 /]"
+}

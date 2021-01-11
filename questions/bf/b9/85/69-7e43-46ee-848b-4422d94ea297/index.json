@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:43.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "bfb98569-7e43-46ee-848b-4422d94ea297",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about YouthSat: <ol> <li>It is joint initiative of ISRO and NASA</li> <li>The satellite aims to monitor&nbsp;carbon dioxide levels in the atmosphere</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because it is joint initiative of Russian Federal Space Agency and the&nbsp;Indian Space Research Organisation (ISRO). Second statement is again incorrect because the satellite aims to study the earth&rsquo;s crust rather than greenhouse gases in atmosphere.<br> The major objectives of the YouthSat are: <ul> <li>Investigation of the composition of the upper surface of the earth</li> <li>Experimentation regarding the energy of the earth&rsquo;s crust</li> <li>To understand the dynamics of the earth surface</li> </ul>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e67f814d-9a7b-43a4-8a00-d44194ca363a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Rubber Production in India: <ol><li>India is the largest producer as well as largest consumer of natural rubber in the world</li><li>Kerala is the largest natural rubber producing state in India</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because India is the world's second-biggest consumer of natural rubber and the world's fifth-biggest rubber producer. Second statement is correct because Kerala accounts for 80% production of natural rubber in India."
+}

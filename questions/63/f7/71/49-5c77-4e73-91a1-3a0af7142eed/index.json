@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "63f77149-5c77-4e73-91a1-3a0af7142eed",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the indigenously developed fecal incontinence management system &ldquo;Qora&rdquo;: <ol> <li>It is an initiative under the Ministry of Health &amp; Family Welfare</li> <li>It aims to bring innovation in developing affordable medical devices</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because it is an initiative under the Ministry of Science &amp; Technology. Second statement is correct because the technology aims to bring innovation in developing affordable medical devices."
+}

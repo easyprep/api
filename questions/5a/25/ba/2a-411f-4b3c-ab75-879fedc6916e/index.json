@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:32.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "5a25ba2a-411f-4b3c-ab75-879fedc6916e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Aadhar Pay Service: <ol><li>It will enable people to make and receive payments using their Aadhaar number and biometrics</li><li>People can use the service even if they do not have debit cards, mobile wallets and mobile phones </li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Aadhaar Pay app is yet another app to be launched by the government to promote digital economy and to encourage cashless transaction in an economy. The App lets consumers to pay without any physical payment instruments like debit cards, mobile wallets or mobile phones. It runs on the Android platform and the merchants need to install at PoS and the merchant's mobile phone needs to be linked to an Aadhaar biometric reader. Once the merchant has this infrastructure in place, the consumers can start transacting."
+}

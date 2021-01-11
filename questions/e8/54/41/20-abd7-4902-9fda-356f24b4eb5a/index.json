@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e8544120-abd7-4902-9fda-356f24b4eb5a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following correctly displays balance of trade?",
+  "option1": "visible exports  -  visible imports",
+  "option2": "total exports -  total imports",
+  "option3": "invisible imports -  visible imports",
+  "option4": "visible exports -  invisible imports",
+  "option5": "",
+  "answer": "visible exports  -  visible imports",
+  "explanation": "Balance of Trade: Difference of ONLY visibles Balance of Payments: Difference of visibles as well as invisibles"
+}

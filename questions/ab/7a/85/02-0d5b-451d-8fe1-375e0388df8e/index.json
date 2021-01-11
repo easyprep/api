@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:25.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ab7a8502-0d5b-451d-8fe1-375e0388df8e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol><li>Bitcoin</li><li>Peercoin</li><li>Darkcoin</li></ol> Which of the above is/are example(s) of virtual currency?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All are correct in this question."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:27.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "e165e464-e2f6-4544-8a62-bb8878178a53",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Base erosion and profit shifting (BEPS) project: <ol><li>The project is headed by the International Finance Corporation (IFC)</li><li>The project aims to curb tax avoidance by multinational corporations</li></ol> Which of the above is/are correct statements?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because the project is headed by Organisation for Economic Co-operation and Development (OECD). Second statement is correct because BEPS plan to curb aggressive tax avoidance by multinational corporations. The work on BEPS focuses largely on legal tax planning techniques rather than offshore tax evasion, which is illegal."
+}

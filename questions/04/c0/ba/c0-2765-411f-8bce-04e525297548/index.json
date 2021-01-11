@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "04c0bac0-2765-411f-8bce-04e525297548",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A term &#8220;stocks&#8221; was in news with reference to the climate change negotiations. What does &#8220;stocks &#8220;mean in this regard?",
+  "option1": "Cumulative Forest and Biodiversity resources of a country",
+  "option2": "Cumulative Forest and Biodiversity resources of entire earth",
+  "option3": "Emissions accumulated in the atmosphere so far",
+  "option4": "Semi-discrete subpopulations of a particular species in an ecosystem",
+  "option5": "",
+  "answer": "Emissions accumulated in the atmosphere so far",
+  "explanation": "Stocks refer to the emissions accumulated in the atmosphere so far."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:13.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "47348b64-e2ae-4cf3-9fa2-a324b740bc74",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Micro irrigation systems (MIS) are helpful in_:<br> 1. Judicious use of water<br> 2. Save fertiliser consumption per unit of land<br> 3. Reduce soil and air pollution<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Micro irrigation systems (MIS) not only address the problem of water scarcity but also effectively save fertiliser consumption per unit of land. This is because in MIS, nutrients are released through the system, instead of their application on top of the soil leading to wastage during the periodic flooding of fields under FMI. More, water and nutrients floating in the fields let weeds flourish."
+}

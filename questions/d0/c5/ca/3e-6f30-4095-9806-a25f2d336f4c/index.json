@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "d0c5ca3e-6f30-4095-9806-a25f2d336f4c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol><li>Stock Exchanges and Future Markets are placed under the union list of Indian Constitution</li><li>Bombay Cotton Trade Association was the first organized futures market in India</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> First statement is correct because stock exchanges and future markets both are placed under the union list of Indian Constitution. Second statement is also correct because the first organized futures market was established in 1875, under the name of 'Bombay Cotton Trade Association' to trade in cotton derivative contracts."
+}

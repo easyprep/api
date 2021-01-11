@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "bb558c4c-09fd-4041-a008-e53486bfeeac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are used for computation of the rational investor ratings index?<br> 1. Fiscal Deficit<br> 2. Current Account Deficit<br> 3. Inflation<br> 4. Revenue Deficit<br> Select the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "<strong>Economic Survey: Volume-1 (Page-9)</strong> The RIRI is computed by averaging a country’s GDP growth rate and its macro-economic indicators; the latter measured as the average of the fiscal deficit, current account deficit, and inflation (all with negative signs). Thus, equal weight is given to growth and macroeconomic stability. The greater the number, the better should be its investor rating. Since, updated WEO forecasts are not publicly available for all countries, data are from Citi Group and have been updated in January assuming an oil price in the range of US$ 58-60 per barrel for 2015. Data from other sources yield very similar estimates for the RIRI."
+}

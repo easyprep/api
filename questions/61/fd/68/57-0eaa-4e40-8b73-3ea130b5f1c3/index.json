@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:43:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "61fd6857-0eaa-4e40-8b73-3ea130b5f1c3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "NASA&rsquo;s Europa Clipper mission is to investigate the habitability of Europa, an icy moon of the planet _?",
+  "option1": "Mars",
+  "option2": "Jupiter",
+  "option3": "Saturn",
+  "option4": "Venus",
+  "option5": "",
+  "answer": "Jupiter",
+  "explanation": "Europa is an icy moon of the planet Jupiter. It has long been a high priority for its exploration because it holds a salty liquid water ocean beneath its icy crust. The ultimate aim of Europa Clipper is to determine if Europa is habitable."
+}

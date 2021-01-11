@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:19.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1cf3b139-dfdb-4da7-b6a0-889c5cb91b85",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Gini coefficient is a commonly used measure of the degree of inequality in an income distribution. Which among the following statements will be true for a Gini Coefficient of 1?",
+  "option1": "Income is distributed equally.",
+  "option2": "All the income is received by the top 20% of the income distribution.",
+  "option3": "The income is split equally between the top 20% and the rest of the distribution.",
+  "option4": "One family has all the income and everyone else has nothing.",
+  "option5": "",
+  "answer": "One family has all the income and everyone else has nothing.",
+  "explanation": ""
+}

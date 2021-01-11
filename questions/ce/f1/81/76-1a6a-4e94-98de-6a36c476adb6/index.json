@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:29.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "cef18176-1a6a-4e94-98de-6a36c476adb6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following animals: <ol><li>Goat</li><li>Mithun</li><li>Buffalo</li><li>Yak</li></ol> Which of the above are classified as milch animals?",
+  "option1": "1, 3 & 4 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 3 & 4 Only",
+  "explanation": "Milch animals are Milk-yielding animals. All of the above given animals are milch animals. Yak is the milch animal of the Himalayas.Though Yak produces less milk but its milk has higher density, and fat, protein and sugar contents. Mithun is not classified as a milch animal in Livestock census but it gives milk."
+}

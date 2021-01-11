@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "edd847bf-8190-4b08-92aa-fc415a0b496e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, the Foreign Account Tax Compliance Act (FATCA) was making news. What is FATCA?",
+  "option1": "A US law that mandates foreign financial institutions to exchange information about its taxpayers with its authorities",
+  "option2": "An Indian law that mandates foreign financial institution to exchange information about its taxpayers with its authorities.",
+  "option3": "An international law passed by UN that mandate foreign financial institution to exchange information about its taxpayers with its authorities.",
+  "option4": "None of the above is a correct explanation",
+  "option5": "",
+  "answer": "A US law that mandates foreign financial institutions to exchange information about its taxpayers with its authorities",
+  "explanation": "The Foreign Account Tax Compliance Act (FATCA) is a new chapter in the US Internal Revenue Code. Chapter 4 was added by the Hiring Incentives to Restore Employment (HIRE) Act. It seeks to identify US taxpayers having accounts at foreign financial institutions (FFIs) and attempts to enforce reporting of those accounts through withholding."
+}

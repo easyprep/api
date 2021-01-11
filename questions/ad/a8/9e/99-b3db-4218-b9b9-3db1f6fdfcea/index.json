@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:28.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "ada89e99-b3db-4218-b9b9-3db1f6fdfcea",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with the Census definition of a &#8220;worker&#8221; in India, what is the exact meaning of a &#8220;Marginal Worker&#8221;?",
+  "option1": "A worker who has not yet attained the age of 16 years",
+  "option2": "A worker who works as an employee of another worker",
+  "option3": "A worker who gets employment for less than 6 months",
+  "option4": "A worker who is in unorganized sector",
+  "option5": "",
+  "answer": "A worker who gets employment for less than 6 months",
+  "explanation": "The Census classifies Workers into two groups namely, Main workers and Marginal workers. Main Workers are those workers who had worked for the major part of the reference period i.e. 6 months or more. Marginal Workers are those workers who had not worked for the major part of the reference period i.e. Less than 6 months."
+}

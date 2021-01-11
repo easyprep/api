@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:30.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "4ae13613-20d6-42ba-92cc-2240df43b6bf",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following authorities: <ol><li>National Biosafety Authority (NBA)</li><li>Biotechnology Regulatory Authority of India (BRAI)</li><li>Agricultural and Processed Food Products Export Development Authority (APEDA)</li></ol> Which of the above has/have been established under the Ministry of Agriculture and Farmers Welfare?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "Agricultural and Processed Food Products Export Development Authority (APEDA) is a body established under the Ministry of Commerce and Industry. National Biosafety Authority (NBA) and Biotechnology Regulatory Authority of India (BRAI) are proposed bodies and have not been established till now."
+}

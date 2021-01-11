@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:15.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "1e99d2cb-d898-4342-bb24-6766e0b30dab",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are core objectives of the buffer stocks in public distribution system?<br> 1. To meet contingencies of food production<br> 2. To feed TPDS<br> 3. To stabilize prices during short production times<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The core objectives of the buffer stocks are to meet contingencies of food production, feed the TPDS and other welfare schemes and stabilize the prices during short production times."
+}

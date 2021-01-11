@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "643b7d2a-d780-41fb-be88-68a0b88d58ae",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol><li>Time deposit with banks</li><li>Demand deposit with banks </li><li>Money with public in the form of cash</li><li>Post office deposit</li></ol> Which of the above are included under Narrow Money?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "At any point of time, the money held with the public has two most liquid components. While M1/M0 is generally used to describe narrow money, M2/M3/M4 qualifies as broad money. Demand Deposit component is the money of the general public with the banks, which can be withdrawn by them using cheques, withdrawals and ATMs.<br> M1 = Currency with the public + Demand Deposits of public in Banks<br> When a third component viz. Post office Savings Deposits is also added to M1, it becomes M2.<br> M2 = M1 + Post Office Savings.<br> M3=M2 + Time Deposits"
+}

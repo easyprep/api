@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:14.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "a511c002-e07c-4098-88ca-314e7184c881",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following indicates the total borrowing requirements of Government from all sources?",
+  "option1": "Revenue deficit",
+  "option2": "Fiscal Deficit",
+  "option3": "Primary Deficit",
+  "option4": "Effective Revenue Deficit",
+  "option5": "",
+  "answer": "Fiscal Deficit",
+  "explanation": "<ul><li><strong>Revenue deficit</strong> refers to the excess of revenue expenditure over revenue receipts.</li><li><strong>Effective revenue deficit </strong>is the difference between revenue deficit and grants for creation of capital assets.</li><li><strong>Fiscal deficit </strong>is the difference between the revenue receipts plus non-debt capital receipts and the total expenditure including loans, net of repayments. This indicates the total borrowing requirements of Government from all sources.</li><li><strong>Primary deficit </strong>is measured by fiscal deficit less interest payments.</li></ul>"
+}

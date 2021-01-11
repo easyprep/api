@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "94d42730-3ca4-4116-8fd7-5dc0a8c3647e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs: <ol><li>National Highway 3- Agra to Mumbai</li><li>National Highway 5- Kolkata to Chennai</li><li>National Highway 9- Mumbai to Vijayawada</li></ol> Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All of the above given pairs are correct"
+}

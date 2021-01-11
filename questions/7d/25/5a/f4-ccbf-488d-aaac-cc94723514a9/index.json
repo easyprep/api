@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "7d255af4-ccbf-488d-aaac-cc94723514a9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is not a part of Broad Money in India?",
+  "option1": "Demand Deposits with Banks",
+  "option2": "Currency with the Public",
+  "option3": "Time Deposits with Banks",
+  "option4": "Banks' deposits with RBI",
+  "option5": "",
+  "answer": "Banks' deposits with RBI",
+  "explanation": "Narrow money is the most liquid part of the money supply because the demand deposits can be withdrawn anytime during the banking hours. Time deposits on the other hand have a fixed maturity period and hence can not be withdrawn before expiry of this period. When we add the time despots into the narrow money, we get the broad money, which is denoted by M3. <strong>M3 = Narrow money + Time Deposits of public with banks</strong> Here, you must note that Broad money does not include the interbank deposits such as deposits of banks with RBI or other banks. At the same time, time deposits of public with all banks including the cooperative banks are included in the Broad Money. When you add the Post Office Savings money also into the M3, it becomes M4."
+}

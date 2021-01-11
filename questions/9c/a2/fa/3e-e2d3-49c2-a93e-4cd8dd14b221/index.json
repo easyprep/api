@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "9ca2fa3e-e2d3-49c2-a93e-4cd8dd14b221",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about the term “Circular Economy, which is seen in news sometimes?\r\n<ol>\r\n<li>It focuses on a shift from fossil fuels to renewable energy</li>\r\n<li>It generally focuses upon environmental restoration in Industrial production</li>\r\n<li>It strongly advocates use of digital money instead of paper money</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The circular economy is an industrial system that is regenerative by intention and design and in which material flows are two types, biological nutrients, designed to reenter the biosphere safely, and technical nutrients, which are designed to circulate at high quality without entering the biosphere. The economic benefit of transitioning to this new business model is estimated to be worth more than a trillion dollars in material savings."
+}

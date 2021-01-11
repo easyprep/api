@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:31.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "83b8207a-dcd1-46d9-a1d7-aedf236dd65c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol><li>Total Fertility Rate is the average number of children a woman would have during her childbearing years</li><li>The Replacement level fertility is the average number of children per woman at which a population exactly replaces itself from one generation to the next, without migration</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Total Fertility Rate is the average number of children a woman would have during her childbearing years. The Replacement level fertility is the average number of children per woman at which a population exactly replaces itself from one generation to the next, without migration. The Replacement level fertility rate is roughly 2.1 children per woman in almost all countries."
+}

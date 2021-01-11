@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:23.000Z",
+  "updated_at": "2021-01-06T08:24:30.120Z",
+  "id": "31033a36-7945-45db-a4a5-a9d405dd8512",
+  "labels": "current-affairs,2018-08-04",
+  "question": "If interest payments are subtracted from gross fiscal deficit, the remainder will be__:",
+  "option1": "Revenue deficit",
+  "option2": "Gross primary deficit",
+  "option3": "Capital deficit",
+  "option4": "Budgetary deficit",
+  "option5": "",
+  "answer": "Gross primary deficit",
+  "explanation": "Primary deficit is the gross deficit which is obtained by subtracting interest payments from budget deficit of any country of a particular year. We need to know the value of primary deficit, while calculating the fiscal deficit. Alternative Definition of Primary Deficit Primary deficit corresponds to the net borrowing, which is required to meet the expenditure excluding the interest payment. <strong>Primary Deficit = (Fiscal Deficit – Interest Payment)</strong>"
+}
