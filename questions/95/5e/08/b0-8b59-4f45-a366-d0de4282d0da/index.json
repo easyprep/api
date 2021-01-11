@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-28T16:20:56.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "955e08b0-8b59-4f45-a366-d0de4282d0da",
+  "labels": "current-affairs,2017-07-29",
+  "question": "With reference to the scheduled of the Indian constitution, which of the following is / are correct matches?\r\n<ol>\r\n<li>Second Schedule - Emoluments of President, Vice President etc.</li>\r\n<li>Third Schedule - Allocation of Seats in Rajya Sabha</li>\r\n<li>Fourth Schedule - Various forms of oaths by holders of constitutional office</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<ul>\r\n<li><strong>Second Schedule: </strong>Second schedule lists the emoluments for holders of constitutional offices such as salaries of President, Vice President, Ministers, Judges and Comptroller and Auditor-General of India etc.</li>\r\n<li><strong>Third Schedule: </strong>This schedule lists the various forms of oath for holders of various constitutional offices.</li>\r\n<li><strong>Fourth Schedule: </strong>Fourth schedule enumerates the allocation of Rajya Sabha seats to States or Union Territories.</li>\r\n</ul>"
+}

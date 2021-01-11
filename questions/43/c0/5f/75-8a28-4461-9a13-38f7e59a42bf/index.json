@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-09-30T17:47:31.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "43c05f75-8a28-4461-9a13-38f7e59a42bf",
+  "labels": "current-affairs,2017-10-01",
+  "question": "Which service will be launched by BSNL in partnership with Vihaan Networks Limited (VNL) to provide disaster management in India?",
+  "option1": "Relief 111",
+  "option2": "Relief 17",
+  "option3": "Relief 123",
+  "option4": "Relief 99",
+  "option5": "",
+  "answer": "Relief 123",
+  "explanation": "The Bharat Sanchar Nigam Limited (BSNL) and Vihaan Networks Limited (VNL) have signed MoU to launch \\\"Relief 123\\\" service to provide disaster management in India. The \\\"Relief 123\\\" service is an integrated disaster response solution for first responders and public safety agencies. The solution is designed and manufactured by VNL and the backhaul connectivity will be provided by BSNL. The \\\"Relief 123\\\" is based on \\\"ResQMobil\\\", an integrated portable communication solution which packs in the required hardware into a portable transportable trailer-on-wheels. The service will restore connectivity at disaster sites, help locate the affected people and integrate information across platforms for quick relief. The model can also be scaled for SAARC countries, wherein BSNL would have roaming agreements with local mobile service operators."
+}

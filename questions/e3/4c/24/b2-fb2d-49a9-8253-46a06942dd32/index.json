@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-02T17:22:01.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "e34c24b2-fb2d-49a9-8253-46a06942dd32",
+  "labels": "current-affairs,2017-08-03",
+  "question": "Which of the following is not an example of complementary goods?",
+  "option1": "Printers and Ink Cartridges",
+  "option2": "Tea and Sugar",
+  "option3": "Mobile phones and SIM cards",
+  "option4": "Tea and Coffee",
+  "option5": "",
+  "answer": "Tea and Coffee",
+  "explanation": "Complementary good is a good with negative cross elasticity of demand. In this if the price of one item is decreased the demand for another is increased."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-09-01T22:22:07.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "24f0c64f-212a-4e1a-bb67-7a9e8ed24a03",
+  "labels": "current-affairs,2017-09-02",
+  "question": "Which IIT institute has successfully developed an implantable bioartificial pancreas?",
+  "option1": "IIT Guwahati",
+  "option2": "IIT Bombay",
+  "option3": "IIT Indore",
+  "option4": "IIT Delhi",
+  "option5": "",
+  "answer": "IIT Guwahati",
+  "explanation": "The researchers at the Indian Institute of Technology (IIT) Guwahati have successfully created an implantable bioartificial pancreas model grown within a 3D silk scaffold. The bioartificial pancreas, which encapsulates insulin-producing cells, is capable of naturally producing insulin in a sustained manner. If successful in animal and human trials, it can be used for treating people with type 1 diabetes. The silk scaffold was found to be biocompatible (not toxic to living tissue) as it did not trigger any immune reaction or cause any adverse reaction when implanted. In Type 1 diabetes, the pancreas produces little or no insulin. Insulin is a hormone needed to allow sugar (glucose) to enter cells to produce energy. The results were published in the journal ACS Biomaterials Science &amp; Engineering."
+}

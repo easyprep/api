@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-28T23:18:12.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "861e7693-e0fe-49e1-9877-f654180113b5",
+  "labels": "current-affairs,2017-07-29",
+  "question": "Which technological giant has launched Kaizala - a productivity app to empower Indian organizations?",
+  "option1": "Microsoft",
+  "option2": "Wipro",
+  "option3": "Infosys",
+  "option4": "Reliance",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Microsoft India has officially launched ‘Kaizala’ a Made for India app for businesses and organizations, which is powered by Azure Cloud platform. It is designed for large group communications and work management, and works even on 2G networks. The app would help organisations communicate, collaborate and complete tasks and bring together desktop users and mobile-only users who may be within or outside their organisations."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-03T19:19:45.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "adb41412-ed0a-4e57-b082-5a58828659e3",
+  "labels": "current-affairs,2017-08-04",
+  "question": "Which of the following statements is incorrect about a Plane Mirror?",
+  "option1": "The focal length of a plane mirror is infinity",
+  "option2": "Its optical power is one",
+  "option3": "It forms a virtual image of a real object",
+  "option4": "It is used in constructing periscope",
+  "option5": "",
+  "answer": "Its optical power is one",
+  "explanation": "Second statement is incorrect because the optical power of plane mirror is zero."
+}

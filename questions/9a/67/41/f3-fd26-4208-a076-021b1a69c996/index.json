@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-03T19:33:20.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "9a6741f3-fd26-4208-a076-021b1a69c996",
+  "labels": "current-affairs,2017-08-04",
+  "question": "Thin lamination is used in a transformer to reduce:",
+  "option1": "Eddy current losses",
+  "option2": "Hysteresis losses",
+  "option3": "Corona losses",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Eddy current losses",
+  "explanation": "Lamination in a transformer construction reduces eddy current losses. Lamination provides with the efficient transfer of energy from the primary coil to the secondary one."
+}

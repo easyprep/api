@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-24T23:12:28.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "3512e187-cb6e-4899-a4b5-08eb72988e50",
+  "labels": "current-affairs,2017-08-25",
+  "question": "Which tech giant has launched 'Project Brainwave' for real time Artificial Intelligence (AI)?",
+  "option1": "Infosys",
+  "option2": "Microsoft",
+  "option3": "Facebook",
+  "option4": "Google",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Microsoft has launched its \\'Project Brainwave\\' deep learning acceleration platform for real-time artificial intelligence (AI). With the help of ultra-low latency, the system processes requests as fast as it receives them. The \\'Project Brainwave\\' uses the massive Field-Programmable Gate Array (FPGA) infrastructure that Microsoft has been deploying over the past few years. The real-time AI is becoming increasingly important as cloud infrastructures process live data streams, whether they be search queries, videos, sensor streams, or interactions with users."
+}

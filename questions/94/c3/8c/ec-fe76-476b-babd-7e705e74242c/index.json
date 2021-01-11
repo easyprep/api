@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-01T23:10:55.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "94c38cec-fe76-476b-babd-7e705e74242c",
+  "labels": "current-affairs,2017-08-02",
+  "question": "Which IIT institute has invented a low-cost dirt detector that alerts authorities when a place needs cleaning?",
+  "option1": "IIT Bombay",
+  "option2": "IIT Madras",
+  "option3": "IIT Indore",
+  "option4": "IIT Kharagpur",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "The researchers at the IIT Kharagpur have developed a low-cost dirt detector that alerts authorities when a place needs cleaning. The Smart Hygiene Monitor (SHM) records levels of ammonia, sulphur dioxide, carbon monoxide, carbon dioxide, volatile organic compounds and particulate matter through sensors and sends online alerts to stakeholders when a certain threshold is crossed. It can be installed at any place where cleanliness needs to be monitored at regular intervals. At present, public facilities such as toilets, eateries, hospitals, parks, airports and railway stations are generally cleaned at fixed intervals, irrespective of how dirty they are."
+}

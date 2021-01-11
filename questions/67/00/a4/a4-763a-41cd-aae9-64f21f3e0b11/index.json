@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-14T23:11:17.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "6700a4a4-763a-41cd-aae9-64f21f3e0b11",
+  "labels": "current-affairs,2017-08-15",
+  "question": "Which bank has recently launched two digital products: Bharat QR and Bharat Bill Payment System (BBPS) for online payments?",
+  "option1": "Central Bank",
+  "option2": "Dena Bank",
+  "option3": "Canara Bank",
+  "option4": "Punjab National Bank",
+  "option5": "",
+  "answer": "Canara Bank",
+  "explanation": "The Canara Bank has recently launched two digital products: ‘Bharat QR’, a platform for payment settlement at merchant locations, and Bharat Bill Payment System (BBPS) is an integrated bill payment system for Net banking customers. The first service is a mobile application, which enables a merchant to accept payments as settlement for sale of goods or services. The second product (BBPS), an initiative of the RBI offers bill payment services to the bank’s net banking customers with network of agents."
+}

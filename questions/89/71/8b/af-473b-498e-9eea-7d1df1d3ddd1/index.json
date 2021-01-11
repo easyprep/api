@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-03T18:10:48.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "89718baf-473b-498e-9eea-7d1df1d3ddd1",
+  "labels": "current-affairs,2017-08-04",
+  "question": "Which of the following is not present in animal cells?",
+  "option1": "Cell walls",
+  "option2": "Mitochondria",
+  "option3": "Ribosomes",
+  "option4": "Cytoplasm",
+  "option5": "",
+  "answer": "Cell walls",
+  "explanation": "Animal cells do not have cell walls. Cell walls are found in plant cells. Other given organelles like Mitochondria, Ribosome and Cytoplasm are present in animal cells."
+}

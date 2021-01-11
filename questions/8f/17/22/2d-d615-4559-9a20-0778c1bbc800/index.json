@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-10-11T23:34:10.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "8f17222d-d615-4559-9a20-0778c1bbc800",
+  "labels": "current-affairs,2017-10-12",
+  "question": "What is the India's GDP forecast for FY18 by IMF in its latest World Economic Outlook (WEO) report?",
+  "option1": 0.07,
+  "option2": 0.067,
+  "option3": 0.071,
+  "option4": 0.065,
+  "option5": "",
+  "answer": 0.067,
+  "explanation": "The International Monetary Fund (IMF) has recently released its October 2017 World Economic Outlook. In it, IMF slashed India’s growth forecast by 0.5% points to 6.7% in FY 18 due to the lingering effects of disruption caused by demonetisation and transition costs of GST. Earlier, in April, the IMF had pegged India’s GDP growth at 7.2% for FY18. It has also lowered the growth projection for FY 19 ( 2018-19) to 7.4% from its earlier estimate in April and June of 7.7%. Though, the IMF was more optimistic about medium-term growth prospects for India through gains from the new indirect tax levy. Apart from IMF, the Reserve Bank of India (RBI) has also lowered its growth projection to 6.7% for the current financial year from its earlier estimate of 7.3% due to adverse impact on economic growth by the implementation of Goods and Services Tax (GST)."
+}

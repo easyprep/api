@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-02T15:44:11.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "811cd532-e9cc-4d40-92d9-d254d64e5e62",
+  "labels": "current-affairs,2017-08-03",
+  "question": "Which of the following currencies is not included in the Special Drawing Rights (SDR) Currency Basket?",
+  "option1": "Indian Rupee",
+  "option2": "British Pound",
+  "option3": "Japanese Yen",
+  "option4": "Chinese Renminbi",
+  "option5": "",
+  "answer": "Indian Rupee",
+  "explanation": "The SDR basket now consists of the following five currencies: U.S. dollar 41.73%, Euro 30.93%, Renminbi (Chinese Yuan) 10.92%, Japanese Yen (8.33%), British Pound (8.09%)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-03T23:07:31.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "2bdca213-d2f7-4ade-ab3d-2789374816ce",
+  "labels": "current-affairs,2017-08-04",
+  "question": "Indian Army has developed which mobile app for soldiers to track promotions and postings?",
+  "option1": "Soldier App",
+  "option2": "Humraaz app",
+  "option3": "ArmyCloud app",
+  "option4": "TrackPost app",
+  "option5": "",
+  "answer": "Humraaz app",
+  "explanation": "The Indian Army has developed a mobile application ‘Humraaz’ through which serving soldiers can track details like postings and promotions. Through the \\'Humraaz\\' app, soldiers can also view their monthly salary slips and the Form 16 and also download them. For security reasons, the installation of the application has been linked to verification of Aadhaar details. The Aadhaar details will be verified with the Army database over National Information Centre (NIC) cloud and he will get a one-time-password on his registered mobile number. Thus, to enable usage of this mobile application, the latest mobile number of individuals should be linked to his Aadhaar number. The mobile app has been developed in-house by the Army and will be launched in the second week of August for prompt communication of information to junior commissioner officers and other personnels."
+}

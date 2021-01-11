@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-09-01T22:15:55.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "b30fa43c-a60e-4718-a09c-2721a2629e89",
+  "labels": "current-affairs,2017-09-02",
+  "question": "ISRO had launched navigation satellite IRNSS-1H into orbit, but the mission has failed. It was launch by which rocket vehicle?",
+  "option1": "PSLV C35",
+  "option2": "PSLV C37",
+  "option3": "PSLV C38",
+  "option4": "PSLV C39",
+  "option5": "",
+  "answer": "PSLV C39",
+  "explanation": "The Indian Space Research Organisation (ISRO) has launched its navigation satellite IRNSS-1H into the orbit by the rocket PSLV C39 from the Satish Dhavan Space Centre at Sriharikotta, Andhra Pradesh on August 31, 2017. Though, the IRNSS-1H mission was failed as heat shield did not open up for the deployment of the satellite. The IRNSS-1H was a part of the indigenous navigation system called ‘NavIC,’ that was initially planned to have a constellation of seven satellites. NavIC system is equivalent to the GPS service, having footprint over the whole of India and about 1500 kilometers from its borders on all sides. It helps user agencies to plan and monitor their vehicular movement on the road and on the sea. It can alert fishermen while approaching international maritime boundaries and help public to locate precisely the addresses they require."
+}

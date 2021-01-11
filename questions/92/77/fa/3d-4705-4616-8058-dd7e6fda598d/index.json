@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-09T00:09:40.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "9277fa3d-4705-4616-8058-dd7e6fda598d",
+  "labels": "current-affairs,2017-08-10",
+  "question": "ISRO and NASA are jointly working on which mission to launch dual frequency SAR satellite by 2021?",
+  "option1": "NISAR",
+  "option2": "INSAR",
+  "option3": "SARIN",
+  "option4": "SARNI",
+  "option5": "",
+  "answer": "NISAR",
+  "explanation": "The ISRO and NASA are jointly working on the NASA-ISRO Synthetic Aperture Radar (NISAR) mission to co-develop and launch a dual frequency (L &amp; S Band) synthetic aperture radar satellite. This earth monitoring satellite is scheduled to be launched in 2021. In this joint mission, NASA will be responsible for design and development of L-band SAR, 12m un-furlable antenna, GPS system and data recorder. ISRO will be responsible for design and development of S-band SAR, Spacecraft Bus, data transmission system, Spacecraft integration and testing, launch using GSLV and on-orbit operations. It is the first big collaboration between NASA and ISRO."
+}

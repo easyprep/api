@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-20T18:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "362d92b2-fc3d-4f7d-94da-dae49d744087",
+  "labels": "current-affairs,2017-08-21",
+  "question": "Which of the followinng has become the first power utility to introduce a QR code based bill payments system in India?",
+  "option1": "Tata Power",
+  "option2": "Adani Power",
+  "option3": "Reliance Power",
+  "option4": "Jindal India Thermal Power",
+  "option5": "",
+  "answer": "Tata Power",
+  "explanation": "Tata Power has become the first power utility to introduce a QR code based bill payments system in India. The QR code linked to Unified Payments Interface (UPI) will be printed on the electricity bills. The customers can scan the QR code with BHIM app or any other UPI linked bank app and pay their bills without any hassle. The bill details will be displayed on the app, post which the customer can authorise the payment within a few seconds and his bill will be paid instantaneously. Some of the advantages of QR code service are that the consumer need not visit any Tata Power bill collection/ customer relation centre or any other payment avenues and can make the payment from the comfort of his home/office or on-the-go. The Tata Power Company Limited is an Indian electric utility company based in Mumbai, Maharashtra and is part of the Tata Group."
+}

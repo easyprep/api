@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-26T15:10:41.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "5a03a4ee-5fa9-45da-bf18-79b329ebe684",
+  "labels": "current-affairs,2017-07-27",
+  "question": "Bank Rate is defined as the rate at which:",
+  "option1": "RBI lends short term loans to commercial banks",
+  "option2": "a commercial bank can lend to its customers",
+  "option3": "RBI lends long term loans to commercial banks",
+  "option4": "the commercial banks are able to borrow overnight funds from RBI",
+  "option5": "",
+  "answer": "RBI lends long term loans to commercial banks",
+  "explanation": "Bank rate is the rate of interest which a central bank charges on the long term loans and advances that it extends to commercial banks and other financial intermediaries."
+}

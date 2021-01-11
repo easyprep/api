@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-07T22:44:58.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "a43ae7ef-2cd3-4f8c-8f51-a38a4da999b1",
+  "labels": "current-affairs,2017-08-08",
+  "question": "Which Indian institute has developed a highly sensitive nanometre-scale carbon monoxide sensor?",
+  "option1": "Indian Institute of Technology (IIT), Kharagpur",
+  "option2": "Indian Institute of Technology (IIT), Bombay",
+  "option3": "Indian Institute of Science (IISc), Bengaluru",
+  "option4": "Indian Institute of Technology (IIT), Madras",
+  "option5": "",
+  "answer": "Indian Institute of Science (IISc), Bengaluru",
+  "explanation": "The researchers at Indian Institute of Science (IISc), Bengaluru have developed a low-cost highly sensitive nanometre-scale carbon monoxide sensor by employing an innovative fabrication technique. It is known that Carbon Monoxide (CO) can have adverse effects on the health of people exposed to it. Thus, it becomes necessary to have good, low-cost carbon-monoxide sensors. Typically, a sensor would be a thin, current carrying plate whose resistance changes on exposure to carbon monoxide. This in turn changes the value of the current flowing through it. This change when measured indicates the level of carbon monoxide in the air. The research is published in Sensors and Actuators B: Chemical."
+}

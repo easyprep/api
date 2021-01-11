@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-10-04T23:48:43.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "78bbb482-1bfc-4699-abd3-587b5b67e3a6",
+  "labels": "current-affairs,2017-10-05",
+  "question": "What is the current repo rate, according to recently released 4th bi-monthly monetary policy review statement for the year 2017-18?",
+  "option1": 0.06,
+  "option2": 0.0625,
+  "option3": 0.0575,
+  "option4": 0.055,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "The Reserve Bank of India (RBI) has recently released its 4th bi-monthly monetary policy statement for the year 2017-18. As per the monetary policy statement, the policy repo rate under the Liquidity Adjustment Facility (LAF) has remain unchanged at 6%. The reverse repo rate, at which RBI borrows from banks will continue to be at 5.75%."
+}

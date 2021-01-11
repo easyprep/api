@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-10T16:01:15.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "c557c274-4602-4afc-830a-b6155ad314d7",
+  "labels": "current-affairs,2017-08-11",
+  "question": "Which of the following is a correct definition of “Isohyets”?",
+  "option1": "Lines on a map showing equal rainfall",
+  "option2": "Lines on a map having same mean temperature",
+  "option3": "Lines on a map having same barometric pressure",
+  "option4": "Lines on a map showing equal height from mean sea level",
+  "option5": "",
+  "answer": "Lines on a map showing equal rainfall",
+  "explanation": "An isohyet may be defined as a line joining points of equal rainfall. In other words, a line drawn on a map connecting points that receive equal amounts of rainfall is known as Isohyte."
+}

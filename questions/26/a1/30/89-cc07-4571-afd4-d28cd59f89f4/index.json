@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-02T16:47:04.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "26a13089-cc07-4571-afd4-d28cd59f89f4",
+  "labels": "current-affairs,2017-08-03",
+  "question": "The base year for the calculation of all-India Index of Industrial Production (IIP) is:",
+  "option1": "2004-04-30T18:30:00.000Z",
+  "option2": "2005-05-31T18:30:00.000Z",
+  "option3": "2010-10-31T18:30:00.000Z",
+  "option4": "2011-11-30T18:30:00.000Z",
+  "option5": "",
+  "answer": "2011-11-30T18:30:00.000Z",
+  "explanation": "The CSO had revised the base year of the IIP from 2004-05 to 2011-12 in May 2017 to capture structural changes in economy and improves quality and representativeness of indices. The revised IIP (2011-12) reflects the changes in industrial sector and also aligns it with base year of other macroeconomic indicators like Wholesale Price Index (WPI) and Gross Domestic Product (GDP)."
+}

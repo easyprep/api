@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-11T23:14:10.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "6e42b309-059c-4d8f-8b6c-037fe89f96bd",
+  "labels": "current-affairs,2017-08-12",
+  "question": "ISRO will launch a full-fledged niche Earth observation (EO) satellite \"HySIS\" to enable distinct identification of objects from space. What does \"HySIS\" stands for?",
+  "option1": "Hyperspectrum Imaging Satellite",
+  "option2": "Hyperspectral Imaging Satellite",
+  "option3": "Hyperspecialist Imaging Satellite",
+  "option4": "Hyperspectacle Imaging Satellite",
+  "option5": "",
+  "answer": "Hyperspectral Imaging Satellite",
+  "explanation": "ISRO will soon launch a full-fledged niche Earth observation (EO) satellite called the Hyperspectral Imaging Satellite (HySIS) by using a critical chip it has developed. The purpose of the HySIS satellite is to enable distinct identification of objects from about 600 km in space. The Vis-NIR Hyperspectral payload of HySIS satellite is a hyperspectral imaging sensor operating in the visible and near infrared regions of the electronmagnetic spectrum. The Hyperspectral (or hyspex imaging) is said to enable distinct identification of objects, materials or processes on Earth by reading the spectrum for each pixel of a scene from space."
+}

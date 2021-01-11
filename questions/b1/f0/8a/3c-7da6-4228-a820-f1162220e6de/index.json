@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-14T22:54:05.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "b1f08a3c-7da6-4228-a820-f1162220e6de",
+  "labels": "current-affairs,2017-08-15",
+  "question": "In which of the following circumstances, the prime minister of India cannot participate in voting on a no-confidence motion against his / her government?",
+  "option1": "He / She leads a coalition government",
+  "option2": "He / she has minority in Rajya Sabha",
+  "option3": "He / she  is a member of Rajya Sabha",
+  "option4": "He / she is forbidden by speaker of Lok Sabha",
+  "option5": "",
+  "answer": "He / she  is a member of Rajya Sabha",
+  "explanation": "If PM is a member of Rajya Sabha, he can participate in procedures of both houses but can vote only in Rajya Sabha. Vote of No Confidence can be moved only in Lok Sabha so PM will not vote in it."
+}

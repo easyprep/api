@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-01T16:50:13.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "3cc11fc9-3c3c-4b67-8bc3-9c232b6e1ca5",
+  "labels": "current-affairs,2017-08-02",
+  "question": "Which of the following was the first planet in the solar system to be visited by a Spacecraft?",
+  "option1": "Mercury",
+  "option2": "Venus",
+  "option3": "Mars",
+  "option4": "Jupiter",
+  "option5": "",
+  "answer": "Venus",
+  "explanation": "Venus was the first planet beyond Earth visited by a spacecraft (Mariner 2 in 1962), and the first to be successfully landed on (by Venera 7 in 1970)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-03T17:55:43.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "59e25ad3-4240-47f4-9d02-1bb0bc079296",
+  "labels": "current-affairs,2017-08-04",
+  "question": "Which of the following statements is incorrect about the Lysosome?",
+  "option1": "It is a membrane-bound organelle found in plant as well as animal cells",
+  "option2": "It is also called the suicidal bag of the cell",
+  "option3": "It helps in the synthesis of protein",
+  "option4": "It acts as a dispatch station of protein products received from the endoplasmic reticulum (ER)",
+  "option5": "",
+  "answer": "It acts as a dispatch station of protein products received from the endoplasmic reticulum (ER)",
+  "explanation": "Golgi apparatus  acts as a dispatch station of protein products received from the endoplasmic reticulum (ER). Lysosomes are membrane-bound organelles. They are also called suicide bags because in case of disturbance of their cellular metabolism they digest their own cell by releasing own enzymes. Though lysosomes are not commonly-found in plant cells, but some plant cells do contain lysosomes."
+}

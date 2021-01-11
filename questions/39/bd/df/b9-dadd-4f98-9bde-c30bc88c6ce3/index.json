@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-25T21:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "39bddfb9-dadd-4f98-9bde-c30bc88c6ce3",
+  "labels": "current-affairs,2017-08-26",
+  "question": "Which state power discoms has become the India’s first state-owned discoms to accept payments through Bharat QR?",
+  "option1": "Andhra Pradesh",
+  "option2": "Chattisgarh",
+  "option3": "Rajasthan",
+  "option4": "Odisha",
+  "option5": "",
+  "answer": "Andhra Pradesh",
+  "explanation": "Andhra Pradesh’s Eastern Power Distribution Company Ltd (EPDCL) and the Southern Power Distribution Corporation of AP Ltd. (SPDCL) have become the India’s first state-owned distribution companies to accept payments through Bharat QR. The Bharat QR is the world’s first interoperable quick response code acceptance solution launched by the Reserve Bank of India (RBI). It is secure, network-agnostic interface that enables customers to use their smartphones to make payments without divulging information like card numbers and CVV. To pay power bills via Bharat QR, customers must log in to their bank’s app and scan the QR code on their electricity bill for instant payment. Alternatively, they may enter their unique customer IDs online and generate a QR code that can be scanned using their bank’s app."
+}

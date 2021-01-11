@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-27T16:00:14.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "bbac3260-9f52-4556-8a61-388750d4d9a4",
+  "labels": "current-affairs,2017-07-28",
+  "question": "Which of the following is not a primary greenhouse gas found in earth’s atmosphere?",
+  "option1": "Carbon dioxide",
+  "option2": "Methane",
+  "option3": "Water vapour",
+  "option4": "Nitrogen oxides (NOx)",
+  "option5": "",
+  "answer": "Nitrogen oxides (NOx)",
+  "explanation": "A greenhouse gas is a gas in an atmosphere that absorbs and emits radiation within the thermal infrared range. The primary greenhouse gases in Earth\\'s atmosphere are water vapour, carbon dioxide, methane, nitrous oxide, and ozone. Nitrogen oxides (NOx) act as indirect greenhouse gases by producing the tropospheric greenhouse gas \\'ozone\\' via photochemical reactions in the atmosphere."
+}

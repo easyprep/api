@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-10-04T23:36:15.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "4453bfad-10ea-408c-8dfe-54c70c2cb2a4",
+  "labels": "current-affairs,2017-10-05",
+  "question": "Who of the following have won the Nobel Prize in Chemistry 2017?",
+  "option1": "Jean-Pierre Sauvage, Fraser Stoddart and Ben Feringa",
+  "option2": "Tomas Lindahl and Paul L. Modrich",
+  "option3": "Brian K. Kobilka and Robert J. Lefkowitz",
+  "option4": "Jacques Dubochet, Joachim Frank and Richard Henderson",
+  "option5": "",
+  "answer": "Jacques Dubochet, Joachim Frank and Richard Henderson",
+  "explanation": "The Nobel Prize in Chemistry 2017 was awarded to Jacques Dubochet, Joachim Frank and Richard Henderson for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution. It’s a method of simplifying and improving the imaging of biomolecules."
+}

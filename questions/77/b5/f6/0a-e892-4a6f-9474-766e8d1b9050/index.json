@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-08-03T18:51:18.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "77b5f60a-e892-4a6f-9474-766e8d1b9050",
+  "labels": "current-affairs,2017-08-04",
+  "question": "A high-refractive-index polymer (HRIP) is a polymer that has a refractive index greater than _?",
+  "option1": 0.5,
+  "option2": 1,
+  "option3": 1.2,
+  "option4": 1.5,
+  "option5": "",
+  "answer": 1.5,
+  "explanation": "A high-refractive-index polymer is a polymer that has a refractive index greater than 1.50. Such materials are required for anti-reflective coating and photonic devices such as light emitting diodes (LEDs) and image sensors."
+}

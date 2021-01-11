@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-10-25T23:07:16.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "d33df3be-871b-4af6-9562-81794788497f",
+  "labels": "current-affairs,2017-10-26",
+  "question": "RBI will make LEI compulsory for companies with over Rs 5 crore exposure. What does 'LEI' stands for?",
+  "option1": "Legal Enact Identifier",
+  "option2": "Legal Enaction Identifier",
+  "option3": "Legal Entity Identifier",
+  "option4": "Legal Ennui Identifier",
+  "option5": "",
+  "answer": "Legal Entity Identifier",
+  "explanation": "The Reserve Bank of India (RBI) will soon make Legal Entity Identifier (LEI) compulsory for companies having aggregate fund-based and non-fund based exposure over Rs 5 crore. Before this, RBI made LEI mandatory for transactions in interest rate, forex and credit derivative market. LEI is a unique 20 digit alphanumeric code that will be assigned to corporate borrowers. Banks will be required to capture this number in the Central Repository of Information on Large Credits (CRILC) database that captures details of loan above Rs 5 crore. LEI mechanism will help banks to effectively monitor debt exposure of corporate borrowers. It would also enable banks in preventing multiple loans to companies against the same collateral."
+}

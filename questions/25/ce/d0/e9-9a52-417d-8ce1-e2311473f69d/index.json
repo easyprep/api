@@ -1,0 +1,14 @@
+{
+  "created_at": "2017-07-31T23:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:10.270Z",
+  "id": "25ced0e9-9a52-417d-8ce1-e2311473f69d",
+  "labels": "current-affairs,2017-08-01",
+  "question": "Which government agency has developed India’s first unmanned tank “Muntra”?",
+  "option1": "Indian Space Research Organization (ISRO)",
+  "option2": "Defence Research and Development Organisation (DRDO)",
+  "option3": "Defence Intelligence Agency (DIA)",
+  "option4": "National Technical Research Organisation (NTRO)",
+  "option5": "",
+  "answer": "Defence Research and Development Organisation (DRDO)",
+  "explanation": "The Defence Research and Development Organisation (DRDO) has recently developed India’s first unmanned tank “Muntra” that can remotely operate. The agency has developed the tank in three different variants to tackle any kind of situation - ‘Muntra S’ for surveillance missons, ‘Muntra M’ for mine detection and a third variant ‘Muntra N’ for reconnaissance in areas with nuclear and bio threats. The Muntra variants have surveillance radar, an integrated camera along with laser range finder which can be used to spy on ground target 15km away - may be a crawling men or heavy vehicles."
+}
