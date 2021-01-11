@@ -49,7 +49,8 @@ function createFolderIndex(labelsDir, arr) {
         '/': ['current-affairs']
     };
 
-    arr.filter(a => a.indexOf('current-affairs/') == -1).forEach(labels => {
+    arr.filter(a => a.indexOf('current-affairs') == -1).forEach(labels => {
+        console.log(labels);
         labels = ',' + labels;
         labels = labels.split(',');
         labels.forEach((label, i) => {
