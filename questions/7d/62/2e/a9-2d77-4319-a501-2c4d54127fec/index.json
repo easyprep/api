@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T22:19:23.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "7d622ea9-2d77-4319-a501-2c4d54127fec",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Chief Justice of India</li>\r\n<li>Other Judges of Supreme Court</li>\r\n</ol>\r\nPresident may consult the Judges of the Supreme Courts for appointment of which among the above?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "President if thinks necessary, can consult the Judges of the High Courts of States to appoint a supreme court Judge, as per article 124(2).It says Every Judge of the Supreme Court shall be appointed by the President by warrant under his hand and seal after consultation with such of the Judges of the Supreme Court and of the High Courts in the States as the President may deem necessary for the purpose and shall hold office until he attains the age of sixty-five years."
+}

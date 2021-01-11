@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T15:51:32.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "40a3de5a-8a5b-4613-b86a-d20f00dc50b8",
+  "labels": "current-affairs,2018-02-16",
+  "question": "The power of a lens is measured in :",
+  "option1": "diopters",
+  "option2": "aeon",
+  "option3": "lumen",
+  "option4": "candela",
+  "option5": "",
+  "answer": "diopters",
+  "explanation": "The power of a lens is defined as the reciprocal of the focal length. The Lens power is measured in dioptres (D)."
+}

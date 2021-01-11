@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-16T17:44:55.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "1f01fbb4-b5cd-4d17-b8f7-ed2895f17e7a",
+  "labels": "current-affairs,2018-02-17",
+  "question": "Which of the following best defines a floating-rate bond?",
+  "option1": "A bond with a fixed interest rate and has better yield than varying interest rate bond",
+  "option2": "A bond with a fixed interest rate and has lower yield than varying interest rate bond",
+  "option3": "A bond with a varying interest rate and has better yield than fixed interest rate bond",
+  "option4": "A bond with a varying interest rate and has lower yield than fixed interest rate bond",
+  "option5": "",
+  "answer": "A bond with a fixed interest rate and has lower yield than varying interest rate bond",
+  "explanation": "Floating rate bonds have variable interest rate and protect investors against a rise in interest rates (which have an inverse relationship with bond prices). They also carry lower yields than fixed notes of the same maturity."
+}

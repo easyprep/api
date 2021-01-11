@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T15:14:44.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "026d024c-5b85-46e1-8038-59529224ff89",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Which of the following are NON-Volatile Memories ?\r\n<ol>\r\n<li> ROM</li>\r\n<li>Flash Memory</li>\r\n<li>F-RAM</li>\r\n<li>D-RAM</li>\r\n<li>EVMs (Electronic voting machines)</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "1 Only",
+  "option2": "1,2,5 Only",
+  "option3": "1,2,4,5",
+  "option4": "1,2,3,5",
+  "option5": "",
+  "answer": "1,2,3,5",
+  "explanation": "Non-volatile memory, nonvolatile memory, NVM or non-volatile storage, in the most basic sense, is computer memory that can retain the stored<br />information even when not powered. Examples of non-volatile memory include read-only memory, flash memory, ferroelectric RAM (F-RAM),\r\nEVMs (Electronic voting machines), most types of magnetic computer storage devices (e.g. hard disks, floppy disks, and magnetic tape), optical discs, and early computer storage methods such as paper tape and punched cards.\r\nFerroelectric RAM (FeRAM, F-RAM or FRAM) is a random-access memory similar in construction to DRAM but uses a ferroelectric layer instead of a dielectric layer to achieve non-volatility."
+}

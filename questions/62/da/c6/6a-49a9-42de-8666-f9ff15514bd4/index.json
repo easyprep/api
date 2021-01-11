@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T19:43:16.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "62dac66a-49a9-42de-8666-f9ff15514bd4",
+  "labels": "current-affairs,2018-02-15",
+  "question": "The Laffer curve is the graphical representation of :",
+  "option1": "The relationship between tax rates and absolute revenue these rates generate for the government.",
+  "option2": "The inverse relationship between the rate of unemployment and the rate of inflation in an economy.",
+  "option3": "The inequality in income distribution",
+  "option4": "The relationship between environmental quality and economic development.",
+  "option5": "",
+  "answer": "The relationship between tax rates and absolute revenue these rates generate for the government.",
+  "explanation": "In economics, the Laffer curve is a hypothetical representation of the relationship between government revenue raised by taxation and all possible rates of taxation. It is used to illustrate the concept of taxable income elasticity – that taxable income will change in response to changes in the rate of taxation."
+}

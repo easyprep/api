@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T00:24:20.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "f311224b-2e93-46f5-b5b3-670f378d5120",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Which of the following statement(s) is/are correct regarding developments in the field of music during Medieval India?\r\n<ol>\r\n<li>Sangeet Ratnakar is the earliest known treatise on music composed during Medieval period.</li>\r\n<li>Ragdarpan, a famous work on music was translated into Persian, during the reign of Muhammad Bin Tughlaq.</li>\r\n<li>Sultan Hussain Shah Sharqi of Jaunpur was a great musician and patron of music who wrote a great book on music known as ‘Man Kautuhal’</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Sangeet Ratnakar is the earliest known treatise on music composed during Medieval period by Sharangadeva.(Hence Statement 1. is correct)\r\nRagdarpan, a famous work on music was translated into Persian, during the reign of Firoz Shah Tughlaq.(Hence Statement 2. is incorrect)\r\nRaja Man Singh of Gwalior was a great musician and patron of music who wrote a great book on music known as ‘Man Kautuhal’ (Hence Statement 3. is incorrect)"
+}

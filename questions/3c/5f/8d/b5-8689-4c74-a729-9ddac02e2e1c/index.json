@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T20:22:18.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "3c5f8db5-8689-4c74-a729-9ddac02e2e1c",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Which of the following statements regarding the ‘Viability Gap Funding Scheme (VGF)’ is not true?",
+  "option1": "Under VGF, the central government meets up to 20% of capital cost of a project being implemented in public private partnership (PPP) mode",
+  "option2": "The scheme is administered by the ministry of finance.",
+  "option3": "Sectors eligible for VGF are Infrastructure, health and education.",
+  "option4": "VGF is a force multiplier, enabling government to leverage its resources more effectively.",
+  "option5": "",
+  "answer": "Sectors eligible for VGF are Infrastructure, health and education.",
+  "explanation": "There are many projects with high economic returns, but the financial returns may not be adequate for a profit-seeking investor. For instance, a rural road connecting several villages to the nearby town. This would yield huge economic benefits by integrating these villages with the market economy, but because of low incomes it may not be possible to charge user fee. In such a situation, the project is unlikely to get private investment. In such cases, the government can pitch in and meet a portion of the cost, making the project viable. This method is known as viability gap funding. The scheme is administered by the ministry of finance. Sectors eligible for VGF is only Infrastructure at present."
+}

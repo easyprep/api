@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-11T17:57:10.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "04ec86d3-f352-4b15-b035-374f69d92f05",
+  "labels": "current-affairs,2018-02-12",
+  "question": "What is the maximum number of votes which can be cast in Electronic Voting Machine?",
+  "option1": 2840,
+  "option2": 3840,
+  "option3": 5000,
+  "option4": 6500,
+  "option5": "",
+  "answer": 3840,
+  "explanation": "EVMs can record a maximum of 3840 votes. As normally the total number of electors in a polling station will not exceed 1500, the capacity of EVMs is more than sufficient"
+}

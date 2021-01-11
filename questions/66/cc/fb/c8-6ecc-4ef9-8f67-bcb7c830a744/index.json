@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T15:34:52.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "66ccfbc8-6ecc-4ef9-8f67-bcb7c830a744",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Which of the following statements regarding the clotting of blood in humans are correct ?\r\n<ol>\r\n<li>Heparin, produced by liver prevents blood from clotting inside the body.</li>\r\n<li>Vitamin K helps in blood clotting.</li>\r\n<li>Chelating Agents such as Sodium/Potassium Oxalate are used in blood banks to prevent clotting.</li>\r\n<li>Thalassemia is the condition where human blood takes abnormally long time to clot.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1, 2 & 4",
+  "option2": "1, 3 & 4",
+  "option3": "1, 2 & 3",
+  "option4": "2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Vitamin K helps in blood clotting. Heparin on the other hand prevents blood from clotting inside the body. Chelating Agents such as Sodium/Potassium Oxalate are used in blood banks to prevent clotting."
+}

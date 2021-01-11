@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T15:38:51.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "3c1bdef5-57c6-40fc-8872-443afa1f4d0c",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Which of the following statements is NOT true regarding the Vitamin C?",
+  "option1": "Only Vitamin C is to be taken externally, all others are produced in the human body.",
+  "option2": "Vitamin C is the only vitamin which is also a hormone.",
+  "option3": "Scurvy is caused by the deficiency of Vitamin C",
+  "option4": "Vitamin C is a water-soluble vitamin.",
+  "option5": "",
+  "answer": "Vitamin C is the only vitamin which is also a hormone.",
+  "explanation": "Vitamin C is a water-soluble vitamin. Scurvy is caused by the deficiency of Vitamin C. Human body cannot produce vitamin C hence it is taken externally. Vitamin C is not a hormone."
+}

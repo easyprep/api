@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T18:41:11.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "fc1f3133-81c4-4b35-94f0-b63eacd75f0c",
+  "labels": "current-affairs,2018-02-15",
+  "question": "<p>Who among the following attended all the three Round Table Conferences held in London?</p>\r\n<ol>\r\n<li>Mahatma Gandhi</li>\r\n<li>B.R.Ambedkar</li>\r\n<li>Tez Bahadur Sapru</li>\r\n<li>Chittaranjan Das</li>\r\n</ol>\r\n<p>Select the correct option from the codes given below:</p>",
+  "option1": "2 and 3",
+  "option2": "2 and 4",
+  "option3": "2, 3 and 4",
+  "option4": "All of them",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "First Round Table Conference- 1930. Second Round Table Conference- 1931. Third Round Table Conference- 1932. Gandhiji joined the second round table congress. Dr. B.R.Ambedkar and Tej Bahadur Sapru attended all three round table conferences."
+}

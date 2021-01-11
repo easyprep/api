@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T23:56:14.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "96a2f9f3-d201-498b-84dc-4acc1e61320e",
+  "labels": "current-affairs,2018-02-11",
+  "question": "Consider the following taxes:\r\n<ol>\r\n<li>Service Tax</li>\r\n<li>Tax on profession of CA</li>\r\n<li>Tax on interest earned on investment</li>\r\n</ol>\r\nWhich among the above is / are indirect taxes?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": ""
+}

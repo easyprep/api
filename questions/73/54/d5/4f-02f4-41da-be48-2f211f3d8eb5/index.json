@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T02:39:51.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "7354d54f-02f4-41da-be48-2f211f3d8eb5",
+  "labels": "current-affairs,2018-02-14",
+  "question": "In India, the Insurance Portability is available to the customers in context with__:\r\n<ol>\r\n<li>Life Insurance</li>\r\n<li>Health Insurance</li>\r\n<li>Vehicle Insurance</li>\r\n</ol>\r\nChoose the correct option",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": ""
+}

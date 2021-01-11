@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-11T18:18:21.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "29e210de-bf6e-40fc-b47a-acfb5a471236",
+  "labels": "current-affairs,2018-02-12",
+  "question": "Liquidity Adjustment Facility (LAF) is used by RBI to bring changes in which of the following? \r\n<ol>\r\n<li>CRR and SLR</li>\r\n<li>Repo and Reverse Repo rates</li>\r\n<li>Bank rate</li>\r\n</ol>\r\nChoose the correct option from the codes given below:",
+  "option1": "1,2,3",
+  "option2": "1 and 2",
+  "option3": "1 Only",
+  "option4": "2 Only",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "RBI\\'s LAF helps banks to adjust their daily liquidity mismatches. There are two components of LAF viz. repo (repurchase agreement) and reverse repo. When banks need liquidity to meet its daily requirement, they borrow from RBI through repo. The rate at which they borrow fund is called the repo rate. When banks are flush with fund, they park with RBI through the reverse repo mechanism at reverse repo rate. LAF basically is the adjustment of repo and reverse repo rates and this option 4 is correct answer in this question."
+}

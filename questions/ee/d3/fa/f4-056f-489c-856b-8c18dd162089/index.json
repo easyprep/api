@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T15:24:03.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "eed3faf4-056f-489c-856b-8c18dd162089",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Crystals of which of the following naturally-occuring substance exhibits both ‘pyroelectric’ and ‘piezoelectric’ properties making it versatile for application in the field of electronics?",
+  "option1": "Quartz",
+  "option2": "Mica",
+  "option3": "Topaz",
+  "option4": "grapite",
+  "option5": "",
+  "answer": "Quartz",
+  "explanation": "Quartz crystals have piezoelectric properties: they develop an electric potential upon the application of mechanical stress. An early use of this property of quartz crystals was in phonograph pickups. A common piezoelectric use of quartz today is as a crystal oscillator. The quartz clock is a familiar device using the mineral. Quartz is also strongly pyroelectric. Temperature changes create positive and negative charges within the crystal."
+}

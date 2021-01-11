@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-20T23:42:32.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "c7b237e4-80a6-46b4-b7b1-e5af69133dd1",
+  "labels": "current-affairs,2018-02-21",
+  "question": "Which district has the lowest sex-ratio in Himachal Pradesh as per the Census 2011?",
+  "option1": "Lahaul Spiti",
+  "option2": "Una",
+  "option3": "Bilaspur",
+  "option4": "Kinnaur",
+  "option5": "",
+  "answer": "Kinnaur",
+  "explanation": "Kinnaur district of Himachal Pradesh has the lowest sex ratio as per the Census 2011 having 819 females per thousand males"
+}

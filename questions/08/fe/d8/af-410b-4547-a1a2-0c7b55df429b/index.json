@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T02:49:35.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "08fed8af-410b-4547-a1a2-0c7b55df429b",
+  "labels": "current-affairs,2018-02-14",
+  "question": "Consider the following statements in context with Mobile Number Portability (MNP):\r\n<ol>\r\n<li>Mobile Number Portability (MNP) was pioneered by Singapore</li>\r\n<li>In India, operator, location and service portability are available to customers</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "Mobile Number Portability (MNP) was launched in India in January 2011. It allows the user to retain the existing number while giving him an option to change the subscriber. Singapore was pioneer in introducing MNP in 1997; thereafter the service was introduced in different countries like Hong Kong, Australia, Europe, Japan, New Zealand and UK. Number portability is of three types; operator, location and service portability. However, most of the countries have adopted the operator portability due to its ability to promote fair competition amongst the operators. In India, Mobile Number Portability is confined to shift to another operator of your choice as of now. In India MNP was launched from Haryana."
+}

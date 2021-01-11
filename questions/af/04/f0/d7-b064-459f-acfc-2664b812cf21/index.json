@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T21:35:01.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "af04f0d7-b064-459f-acfc-2664b812cf21",
+  "labels": "current-affairs,2018-02-11",
+  "question": "Which among the following in India can use “Repo Bonds” to raise short term money from markets?\r\n<ol>\r\n<li>Commercial Banks</li>\r\n<li>Corporate</li>\r\n<li>Governments</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "Only 1 & 3",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "Please note that Government don`t raise money for short term using Repo Bonds. The Banks, corporate and primary dealers pledge corporate bonds with each other to raise short-term money. It is similar to banks pledging government securities (gsec) with RBI to raise short-term money. Unlike pledging of g-secs, here the borrower who pledges corporate bonds does not receive the entire value of the bond. RBI guidelines on repo in corporate debt securities came into effect on March 1, 2010.These guidelines were amended in December 2010 as the market participants demanded a reduction in hair-cut margins. It was reduced from a flat rate of 25% to a band of 10-15%, depending on the rating of the corporate bond. According to the amended guidelines, the settlements had to be made within two days of the deal."
+}

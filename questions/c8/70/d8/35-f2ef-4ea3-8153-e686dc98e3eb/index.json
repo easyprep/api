@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-16T00:50:55.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "c870d835-f2ef-4ea3-8153-e686dc98e3eb",
+  "labels": "current-affairs,2018-02-17",
+  "question": "Consider the following statements regarding the Centre-State legislative relations:\r\n<ol>\r\n<li>Parliament alone can make extra-territorial legislations.</li>\r\n<li>When there is a conflict over a matter between the State list and the Concurrent list, the former prevails over the latter.</li>\r\n<li>Parliament is empowered to legislate in the State field in national interest, if Rajya Sabha passes a resolution by absolute majority.</li>\r\n<li>The power to make laws on residuary subjects vested with the Parliament.</li>\r\n</ol>\r\nWhich of the Statement(s) given above do/does not hold good in this regard?",
+  "option1": "Only 2",
+  "option2": "Only 4",
+  "option3": "2 and 3",
+  "option4": "3 and 4",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "When there is a conflict over a matter between the State list and the Concurrent list, the latter prevails over the former. (Hence Statement 2. is incorrect)"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T14:42:58.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "23aa95a5-ff82-43e4-9629-806db1fe5b7d",
+  "labels": "current-affairs,2018-02-13",
+  "question": "In Binary System, the power of _____ is used .",
+  "option1": 2,
+  "option2": 4,
+  "option3": 6,
+  "option4": 8,
+  "option5": "",
+  "answer": 2,
+  "explanation": "The binary number uses power of 2 as the positional value as it has only contains 0 and 1 as its primary value."
+}

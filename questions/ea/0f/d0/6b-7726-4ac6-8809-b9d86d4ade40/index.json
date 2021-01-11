@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T17:48:42.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "ea0fd06b-7726-4ac6-8809-b9d86d4ade40",
+  "labels": "current-affairs,2018-02-14",
+  "question": "Consider the following statements about India’s Unmanned Aerial Vehicle RUSTOM-1:\r\n<ol>\r\n<li>It is indigenously designed</li>\r\n<li>It can attain a maximum speed of 150 Knots</li>\r\n<li>It has been classified as Medium Altitude Long Endurance Unmanned Aerial Vehicle</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Rustom is an indigenously developed UAV. It is developed by Defence research and Development authority(DRDO). It has maximum speed of 150 knots and is classified as Medium Altitude Long Endurance Unmanned Aerial Vehicle."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T18:32:15.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "bff18e62-5ed8-4d1c-9ddc-652fc549c5cc",
+  "labels": "current-affairs,2018-02-14",
+  "question": "Which of the following statements is NOT true?",
+  "option1": "Photochemical smog always contains Ozone.",
+  "option2": "The toxic effect of Carbon Monoxide is due to its greater affinity for haemoglobin as compared to oxygen.",
+  "option3": "Lead is the most hazardous metal pollutant of automobile exhaust.",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "All statements are true."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T22:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "5c94ff62-b344-449c-8f0c-d3031194c00a",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Dietary intake of ‘Iodine’ is essential for the normal functioning of thyroid gland. Which among the following is considered to be naturally rich in Iodine?\r\n<ol>\r\n<li>Table Salt</li>\r\n<li>Sea-food</li>\r\n<li>Dairy Products</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "1 and 2",
+  "option3": "1 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Dietary intake of ‘Iodine’ is essential for the normal functioning of thyroid gland and to prevent Goitre. Table Salt, Sea-food, and Dairy Products are considered to be naturally rich in Iodine."
+}

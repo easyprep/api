@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-11T18:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "3ff86141-1370-4789-8201-47f2d129913d",
+  "labels": "current-affairs,2018-02-12",
+  "question": "During Elections what will happen, if the number of contesting candidates in a constituency goes beyond 64?",
+  "option1": "Candidates beyond 64 are Not allowed in a constituency.",
+  "option2": "Separate EVM (Electronic Voting Machine) will be used.",
+  "option3": "EVMs cannot be used in such a constituency. Voting by means of ballot box will be used.",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "EVMs cannot be used in such a constituency. Voting by means of ballot box will be used.",
+  "explanation": "n case the number of contesting candidates goes beyond 64 in any constituency, EVMs cannot be used in such a constituency. The conventional method of voting by means of ballot box and ballot paper will have to be adopted in such a constituency. EVMs can cater to a maximum of 64 candidates. There is provision for 16 candidates in a Balloting Unit. If the total number of candidates exceeds 16, a second Balloting Unit can be linked parallel to the first Balloting Unit. Similarly, if the total number of candidates exceeds 32, a third Balloting Unit can be attached and if the total number of candidates exceeds 48, a fourth Balloting Unit can be attached to cater to a maximum of 64 candidates."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-16T15:52:05.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "58f462b3-97ee-49eb-aa98-bbc15702587e",
+  "labels": "current-affairs,2018-02-17",
+  "question": "Consider the following observations about the “Sulbasutras” discussed in context with the ancient Indian history and heritage:\r\n<ol>\r\n<li>The formulae in the Sulbasutras enabled the accurate construction of altars needed for sacrifices</li>\r\n<li>Apart from Bodhayana, Lopamudra is also credited for some Sulbasutras</li>\r\n<li>The mathematics in the Baudhayan’s Sulbasutras was algebraic</li>\r\n</ol>\r\nWhich among the above observations is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 2 & 3 are correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The second statement is not correct because Lopamudra is not associated with Sulbasutras.\r\nThe third statement is not correct because The Sulbasutras of baudhayana contains geometric solutions (but not algebraic ones) of a linear equation in a single unknown. Quadratic equations of the forms ax2 = c and ax2+bx = c appear."
+}

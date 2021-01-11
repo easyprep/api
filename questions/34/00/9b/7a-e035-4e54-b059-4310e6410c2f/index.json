@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-11T16:38:04.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "34009b7a-e035-4e54-b059-4310e6410c2f",
+  "labels": "current-affairs,2018-02-12",
+  "question": "Which among the following correctly denotes the Primary Deficit?",
+  "option1": "Revenue Expenditure – Revenue Receipts",
+  "option2": "sum of the net increase in holdings of treasury bills of the RBI and its contributions to the market borrowing of the government.",
+  "option3": "Budgetary Deficit + Govt. market borrowings and liabilities",
+  "option4": "Fiscal Deficit – Interest Payments",
+  "option5": "",
+  "answer": "Fiscal Deficit – Interest Payments",
+  "explanation": "The fiscal deficit may be decomposed into primary deficit and interest payment. The primary deficit is obtained by deducting interest payments from the fiscal deficit. Thus, primary deficit is equal to fiscal deficit less interest payments. It indicates the real position of the government finances as it excludes the interest burden of the loans taken in the past."
+}

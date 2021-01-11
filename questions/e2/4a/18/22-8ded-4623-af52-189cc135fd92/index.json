@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-11T15:27:45.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "e24a1822-8ded-4623-af52-189cc135fd92",
+  "labels": "current-affairs,2018-02-12",
+  "question": "Consider the following statements regarding tie and draw in cricket:\r\n<ol>\r\n<li>A tie is the identical result that occurs when each team has scored the same number of runs after their allotted innings.</li>\r\n<li>A draw is the inconclusive result that occurs when the allotted playing time for the game expires without the teams having completed their innings.</li>\r\n<li>There is no difference b/w Tie and Draw in a Match with respect to Cricket</li>\r\n<li>Limited-overs matches cannot be drawn, although they can end with a no result if abandoned because of weather or other factors.</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "3 Only",
+  "option2": "1,2",
+  "option3": "1,2,4",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "1,2,4",
+  "explanation": "Cricket distinguishes between a tie and a draw, which are two possible results of a game:\r\n1. A tie is the identical result that occurs when each team has scored the same number of runs after their allotted innings. This is very rare in Test cricket and has happened only twice in its long history, but they are slightly more commonplace in limited-overs matches.\r\n2. A draw is the inconclusive result that occurs when the allotted playing time for the game expires without the teams having completed their innings. This is relatively common, occurring in 20-30% of Test matches. Limited-overs matches cannot be drawn, although they can end with a no result if abandoned because of weather or other factors."
+}

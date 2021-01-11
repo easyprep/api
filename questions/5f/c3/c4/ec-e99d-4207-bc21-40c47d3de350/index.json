@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T00:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "5fc3c4ec-e99d-4207-bc21-40c47d3de350",
+  "labels": "current-affairs,2018-02-14",
+  "question": "Why do the bacteria develop resistance after slowly being exposed to a particular antibiotic?\r\n<ol>\r\n<li>Due to mutation in genes</li>\r\n<li>Due to Horizontal Gene Transfer</li>\r\n<li>Due to Vertical Gene Transfer</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Antibiotic resistance occurs from random mutations, the first choice given is correct. The slow exposure to an antibiotic will give more chance for mutations to occur. Most antibiotics are derived from naturally derived from organisms, penicillin was derived from the mould Penicillium, other antibiotics have also been extracted from bacteria, and these bacteria will be resistant to that antibiotic. The Horizontal Gene Transfer is considered to be the main culprit of the antibiotic resistance. Horizontal gene transfer (HGT), also lateral gene transfer (LGT), is any process in which an organism incorporates genetic material from another organism without being the offspring of that organism. By contrast, vertical transfer occurs when an organism receives genetic material from its ancestor, e.g., its parent or a species from which it has evolved. Horizontal gene transfer is also the primary reason for bacterial antibiotic resistance and this often involves plasmids. Genes that are responsible for antibiotic resistance in one species of bacteria can be transferred to another species of bacteria through various mechanisms. The resistance spreads across bacterial species usually by transfer of genetic material via a vector, this vector tends to be a circular piece of genetic material known as a plasmid. Operons within the plasmid code for several genes, a combination of proteins including an enzyme which is able to deactivate antibiotics, for example beta-lactamase is an enzyme which cleaves beta-lactam rings, deactivating penicillin and its derivatives (although certain derivatives like methicillin are resistant to beta lactamases). Sequences within plasmids that can transfer to the cell’s own genetic material is known as a transposon.<br />The third choice “vertical gene transfer’ is not correct. Vertical Gene Transfer means reproduction."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-11T15:37:53.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "8fe12b65-2aeb-43ba-b56a-467e048f4c30",
+  "labels": "current-affairs,2018-02-12",
+  "question": "One nibble is equal to_?",
+  "option1": "4 Bits",
+  "option2": "4 Bytes",
+  "option3": "8 Bytes",
+  "option4": "8 Kilo Bytes",
+  "option5": "",
+  "answer": "4 Bits",
+  "explanation": "In computing, a nibble (often nybble or even nyble to simulate the spelling of byte) is a four-bit aggregation, or half an octet. As a nibble contains 4 bits, there are sixteen possible values, so a nibble corresponds to a single hexadecimal digit (thus, it is often referred to as a “hex digit” or “hexit”)."
+}

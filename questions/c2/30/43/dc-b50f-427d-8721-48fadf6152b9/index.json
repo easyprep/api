@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T15:42:13.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "c23043dc-b50f-427d-8721-48fadf6152b9",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Consider the following Statements regarding ‘Hawaii’:\r\n<ol>\r\n<li>Pearl Harbour is an important natural harbour on the Pacific Island of O’ahu in Hawaii.</li>\r\n<li>Hawaii is the only U.S. state made up entirely of islands.</li>\r\n<li>Hawaii is one of two states of US that do not observe daylight saving time.</li>\r\n</ol>\r\nWhich of the above Statement(s) is/are correct?",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "The other State which does not observe daylight saving time is Arizona."
+}

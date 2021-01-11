@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T15:35:45.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "d62b4256-3bfb-47af-b5b7-6232d0c5cfc1",
+  "labels": "current-affairs,2018-02-14",
+  "question": "What is the upper limit of Richter scale?",
+  "option1": 8,
+  "option2": 9,
+  "option3": 10,
+  "option4": "No limit",
+  "option5": "",
+  "answer": "No limit",
+  "explanation": "Richer scale was developed in 1935 by United States seismologist Charles Francis Richter. It is a logarithmic scale that runs from 1 to 9, though no upper limit exists, a magnitude 7 quake is 10 times more powerful than magnitude 6 quake."
+}

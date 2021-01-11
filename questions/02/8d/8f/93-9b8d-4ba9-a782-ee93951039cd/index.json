@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T22:43:30.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "028d8f93-9b8d-4ba9-a782-ee93951039cd",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Which among the following is the edible part in Rice?",
+  "option1": "Fruit",
+  "option2": "Cotyledons",
+  "option3": "Endosperm",
+  "option4": "Embryo",
+  "option5": "",
+  "answer": "Endosperm",
+  "explanation": "Most of the essential micronutrients are almost exclusively stored in the husk, aleurone and embryo of rice, which are removed during the polishing process. Polishing of rice is required as the oil-rich aleurone layer turns the seed rancid upon storage and therefore making rice unsuitable for consumption. Consequently, the rice endosperm that comprises the edible part of rice for humans lacks or contains only small amount of key micronutrients (e.g., iron, zinc, protein, provitamin A, and other vitamins) that are essential for a healthy diet. Considering the facts above and severity of widespread micronutrient malnutrition, iron biofortification in rice endosperm is a promising strategy to overcome iron deficiency effectively."
+}

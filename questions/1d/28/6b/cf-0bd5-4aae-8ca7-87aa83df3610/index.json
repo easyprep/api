@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T21:30:23.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "1d286bcf-0bd5-4aae-8ca7-87aa83df3610",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Which among the following factors are essential for ‘blood coagulation’?\r\n<ol>\r\n<li>Vitamin K</li>\r\n<li>Calcium ions (Ca++)</li>\r\n<li>Christmas factor</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Factor IX (or Christmas factor) is one of the serine proteases of the coagulation system. Deficiency of this protein causes hemophilia B."
+}

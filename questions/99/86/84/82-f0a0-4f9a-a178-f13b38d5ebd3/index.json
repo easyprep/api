@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T15:36:58.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "99868482-f0a0-4f9a-a178-f13b38d5ebd3",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Consider the following Statements :\r\n<ol>\r\n<li>The most common blood group is O(+)</li>\r\n<li>The rarest Blood Group is AB(-)</li>\r\n<li>O(-) group is the universal donor.</li>\r\n<li>AB(+) group is the universal recipient.</li>\r\n</ol>\r\nWhich of the above Statement(s) is/are correct?",
+  "option1": "Only 3",
+  "option2": "1 and 3",
+  "option3": "2, 3 and 4",
+  "option4": "All of them",
+  "option5": "",
+  "answer": "All of them",
+  "explanation": "The most common blood group among the humans is O(+). The rarest Blood Group is AB(-). O(-) group is called as the universal donor. AB(+) group is the universal recipient."
+}

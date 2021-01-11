@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T23:37:31.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "fa4adc24-0e6a-4c10-87ee-620c64ba80b0",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Consider the following statements about Cloud Computing:\r\n<ol>\r\n<li>It is a service that is generally offered by a third party</li>\r\n<li>It includes only Software and not hardware</li>\r\n<li>It is generally offered on one to one basis</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "1 & 2",
+  "option2": "1 & 3",
+  "option3": "Only 1",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Cloud computing with reference to IT is a service generally offered by a third party — typically a Technology Services Provider — and offered on subscription basis by leveraging the internet. The key proposition is to move away from expensive, capex heavy, on-premises options to affordable, cost- efficient arrangements that are offered on a one-to-many basis. It is a misperception that cloud computing refers to only software; it includes hardware as a service enabling computing on demand."
+}

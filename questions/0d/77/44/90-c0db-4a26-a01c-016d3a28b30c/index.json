@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T21:30:23.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "0d774490-c0db-4a26-a01c-016d3a28b30c",
+  "labels": "current-affairs,2018-02-11",
+  "question": "In context with Banking in India, what is the difference between liquidity adjustment facility-repo rate and marginal standing facility rate ?\r\n<ol>\r\n<li>Under Repo rate banks can borrow above SLR Requirements, under MSF, Banks can borrow within SLR requirements</li>\r\n<li>Under Repo, banks can borrow up to 5% of net demand and time liabilities, under MSF, they can borrow up to no limit</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": ""
+}

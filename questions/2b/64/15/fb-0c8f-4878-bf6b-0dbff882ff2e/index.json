@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-16T21:30:50.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "2b6415fb-0c8f-4878-bf6b-0dbff882ff2e",
+  "labels": "current-affairs,2018-02-17",
+  "question": "Which among the following is a qualitative tool of monetary policy?",
+  "option1": "Bank Rate",
+  "option2": "Credit Ceiling",
+  "option3": "Credit rationing",
+  "option4": "Cash Reserve Ratio",
+  "option5": "",
+  "answer": "Credit rationing",
+  "explanation": "The quantitative instruments are Open Market Operations, Liquidity Adjustment Facility (Repo and Reverse Repo), Marginal Standing Facility, SLR, CRR, Bank Rate, Credit Ceiling etc.\r\nOn the other hand, qualitative instruments are: credit rationing, moral suasion and direct action (by RBI on banks)."
+}

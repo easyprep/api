@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-20T23:42:32.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "9c0ae876-0149-490a-ac31-3b6e697642ad",
+  "labels": "current-affairs,2018-02-21",
+  "question": "Which district has the lowest population density (per sq.km) in Himachal Pradesh as per the Census 2011?",
+  "option1": "Lahaul Spiti",
+  "option2": "Kangra",
+  "option3": "Una",
+  "option4": "Shimla",
+  "option5": "",
+  "answer": "Lahaul Spiti",
+  "explanation": "Lahaul Spiti district with a population density of 2 per sq. kms has the lowest population density in Himachal Pradesh as per the Census 2011"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-16T14:40:38.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "cda6f9ae-acc4-4490-9597-270614dc85c0",
+  "labels": "current-affairs,2018-02-17",
+  "question": "Which of the following is / are incorrect pairs regarding classification of biodiversity? \r\n<ol>\r\n<li>Alpha diversity  - Between-community diversity</li>\r\n<li>Beta diversity  -  Within-Community diversity</li>\r\n<li>Gamma diversity  -  Overall Biodiversity</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 2",
+  "option2": "Only 3",
+  "option3": "1 and 2",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 2",
+  "explanation": "1.Alpha-diversity (Within-Community diversity) refers to the diverse organisms sharing the same community/habitat.\r\n2.Beta-diversity (Between-community diversity) refers to the rate of replacement of species along a gradient of habitats or communities.\r\n3.Gamma diversity (Overall) refers to the diversity of habitats over the total landscape or geographical area."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T14:43:28.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "27bbfb65-f0d6-4080-8dfc-c310924cee6d",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Which of the following statements is not true regarding LASER?",
+  "option1": "A LASER is a device that emits light through a process of optical amplification .",
+  "option2": "LASER beams can be focused to very tiny spots, achieving a very high irradiance.",
+  "option3": "The emitted LASER light is notable for its high degree of dispersive power unattainable using other technologies.",
+  "option4": "LASER light is used in bar-code scanners",
+  "option5": "",
+  "answer": "The emitted LASER light is notable for its high degree of dispersive power unattainable using other technologies.",
+  "explanation": "The emitted laser light is notable for its high degree of spatial and temporal coherence, unattainable using other technologies."
+}

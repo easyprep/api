@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T16:15:46.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "a6dd045f-a874-456d-99ea-46354ac644f3",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Consider the following Statements:\r\n<ol>\r\n<li>Radon is the heaviest gas.</li>\r\n<li>Astatine is the rarest element on the earth.</li>\r\n<li>Graphite which is a non-metal is also an electrical conductor.</li>\r\n</ol>\r\nWhich among the above Statement(s) is/are correct?",
+  "option1": "Only 2",
+  "option2": "1 and 2",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Radon is a chemical element with the symbol Rn and atomic number 86. It is a radioactive, colorless, odorless, tasteless noble gas. It is the heaviest gas.<br />Astatine is a chemical element with the symbol At and atomic number 85. It is the rarest naturally occurring element in the Earth's crust, occurring only as the decay product of various heavier elements.<br />Graphite on the other hand, although also only made up of carbon atoms, is the only non-metal that can conduct electricity. This is because only 3 of the available valence electrons form covalent bonds leaving 1 spare electron, which then becomes delocalised."
+}

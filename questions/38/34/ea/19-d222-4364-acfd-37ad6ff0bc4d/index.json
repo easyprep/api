@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T16:49:01.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "3834ea19-d222-4364-acfd-37ad6ff0bc4d",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Which of the following two criteria have to be met in order to qualify as a ‘biodiversity hotspot’ on the world hotspots map?\r\n<ol>\r\n<li>The region must contain at least 0.5 percent or 1500 species of vascular plants as endemic species.</li>\r\n<li>The region has to have lost at least 70 percent of its primary vegetation.</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 and 2",
+  "explanation": "A biodiversity hotspot is a bio-geographic region with a significant reservoir of biodiversity that is under threat from humans. The concept of biodiversity hotspots was originated by Norman Myers in two articles in “The Environmentalist”. To qualify as a biodiversity hotspot on Myers 2000 edition of the hotspot-map, a region must meet two strict criteria: it must contain at least 0.5% or 1,500 species of vascular plants as endemics, and it has to have lost at least 70% of its primary vegetation."
+}

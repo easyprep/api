@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T16:01:59.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "cdb70c92-f35f-428e-b938-ad8cc7100934",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Which of the following rivers are not correctly matched with their tributaries?\r\n<ol>\r\n<li>Yamuna – Sind, Betwa, Ken</li>\r\n<li>Brahmaputra – Dibang, Lohit , Tista</li>\r\n<li>Narmada – Purna, Girna, Amravati</li>\r\n<li>Krishna – Pranhita, Musi, Sileru</li>\r\n</ol>",
+  "option1": "3 and 4",
+  "option2": "1,2 and 3",
+  "option3": "2,3 and 4",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "3 and 4",
+  "explanation": ""
+}

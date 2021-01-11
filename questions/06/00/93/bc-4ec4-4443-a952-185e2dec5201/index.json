@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T23:35:50.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "060093bc-4ec4-4443-a952-185e2dec5201",
+  "labels": "current-affairs,2018-02-11",
+  "question": "In India, Banks can accept interest free deposits in ___\r\n<ol>\r\n<li>Current Account</li>\r\n<li>Saving Account</li>\r\n<li>Demand Deposits</li>\r\n<li>Term Deposits</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": 1,
+  "option2": "1,2",
+  "option3": "1,2,3",
+  "option4": "1,2,3,4",
+  "option5": "",
+  "answer": 1,
+  "explanation": "Banks cannot accept interest free deposits other than in current account."
+}

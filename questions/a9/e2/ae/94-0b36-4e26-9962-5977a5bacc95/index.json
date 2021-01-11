@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T18:50:12.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "a9e2ae94-0b36-4e26-9962-5977a5bacc95",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Arrange the following events/movements in the correct order of their chronology:\r\n<ol>\r\n<li>Rowlatt Act Satyagraha</li>\r\n<li>Civil Disobedience Movement</li>\r\n<li>Boycott of Simon Commission</li>\r\n<li>Quit India Movement</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1-2-3-4",
+  "option2": "1-3-2-4",
+  "option3": "2-3-4-1",
+  "option4": "2-3-4-1",
+  "option5": "",
+  "answer": "1-3-2-4",
+  "explanation": "Rowlatt Act Satyagraha- 1919, Boycott of Simon Commission- 1928, Civil Disobedience Movement- 1930, Quit India Movement- 1942."
+}

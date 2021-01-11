@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T19:57:37.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "d699ce80-6762-4ebb-a7bf-9b50a6532156",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Over a longer duration, which among the following factors cause the satellites experience a reduction in the altitude (orbital decay.\r\n<ol>\r\n<li>Atmosphere of Earth</li>\r\n<li>Tides</li>\r\n<li>Earth’s gravitation</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "This is a simple question asking about reasons of orbital decay. The satellites particularly in the LEO are subject to a drag produced by an atmosphere due to frequent collisions between the satellite and surrounding air molecules. The amount of this drag keeps increasing or decreasing depending upon several factors including the solar activity. The more activity heats of the upper atmosphere and can increase the drag. This drag in a long duration causes a reduction in the altitude of a satellite’s orbit, which is called orbital decay. So, the major cause of the orbital decay is Earth’s atmosphere. The result of the drag is increased heat and possible reentry of satellite in atmosphere causing it to burn. Lower its altitude drops, and the lower the altitude, the faster the decay. Apart from Atmosphere, the Tides can also cause orbital decay, when the orbiting body is large enough to raise a significant tidal bulge on the body it is orbiting and is either in a retrograde orbit or is below the synchronous orbit. Mars’ moon Phobos is one of the best examples of this. Whenever two masses orbit each other, the combined effect of the space-time curvature of the moving objects produces gravitational waves which carry away orbital energy. For small masses this effect is negligible, but for very massive objects like black holes and neutron stars the energy carried away can be rapid enough to cause their orbits to spiral in on each other, eventually merging the two masses. Thus gravitation is also a cause behind the orbital decay."
+}

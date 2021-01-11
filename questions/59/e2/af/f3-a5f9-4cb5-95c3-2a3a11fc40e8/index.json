@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-11T18:05:36.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "59e2aff3-a5f9-4cb5-95c3-2a3a11fc40e8",
+  "labels": "current-affairs,2018-02-12",
+  "question": "What is the maximum number of candidates which EVMs (Electronic Voting Machine) can cater to?",
+  "option1": 32,
+  "option2": 64,
+  "option3": 78,
+  "option4": 100,
+  "option5": "",
+  "answer": 64,
+  "explanation": "EVMs can cater to a maximum of 64 candidates. There is provision for 16 candidates in a Balloting Unit. If the total number of candidates exceeds 16, a second Balloting Unit can be linked parallel to the first Balloting Unit. Similarly, if the total number of candidates exceeds 32, a third Balloting Unit can be attached and if the total number of candidates exceeds 48, a fourth Balloting Unit can be attached to cater to a maximum of 64 candidates."
+}

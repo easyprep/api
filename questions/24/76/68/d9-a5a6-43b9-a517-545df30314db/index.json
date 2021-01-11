@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-16T21:37:45.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "247668d9-a5a6-43b9-a517-545df30314db",
+  "labels": "current-affairs,2018-02-17",
+  "question": "Which of the following is used to denote broad money?",
+  "option1": "M1",
+  "option2": "M2",
+  "option3": "M3",
+  "option4": "M4",
+  "option5": "",
+  "answer": "M3",
+  "explanation": "Narrow Money M1 = Currency with the public + Demand Deposits of public in Banks When a third component viz. Post office Savings Deposits is also added to M1, it becomes M2. M2 = M1 + Post Office Savings.\r\nBroad Money M3 = Narrow money + Time Deposits of public with banks"
+}

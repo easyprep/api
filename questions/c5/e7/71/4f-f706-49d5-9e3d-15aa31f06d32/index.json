@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T16:19:21.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "c5e7714f-f706-49d5-9e3d-15aa31f06d32",
+  "labels": "current-affairs,2018-02-16",
+  "question": "News websites deliver customized ‘feeds’ of content to their readers via RSS, which stands for :",
+  "option1": "Really Simple Syndication",
+  "option2": "Real Social Syndication",
+  "option3": "Registered Subscriber Syndication",
+  "option4": "Really Simple Synchronization",
+  "option5": "",
+  "answer": "Really Simple Syndication",
+  "explanation": "Real Simple Syndication (RSS) is the term used to refer the collection of Web feed formats. They provide updated or shared information in a standardized way. They deliver customized ‘feeds’ to the customers."
+}

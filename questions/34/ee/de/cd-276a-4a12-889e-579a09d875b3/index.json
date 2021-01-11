@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T15:04:00.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "34eedecd-276a-4a12-889e-579a09d875b3",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Which among the following is correct in context with the White ATMs (Automated Teller Machines) ?",
+  "option1": "ATMs owned by Foreign Companies",
+  "option2": "ATMs not owned by banks but by private ATM service providers.",
+  "option3": "Outsourced ATM Service by Banks – The ATM named under a brand sponsor bank but ATM machine not owned by the Bank",
+  "option4": "ATMs owned by Government",
+  "option5": "",
+  "answer": "ATMs not owned by banks but by private ATM service providers.",
+  "explanation": "‘White label ATM’: These are ATM’s which are not owned by banks but by private ATM service providers. Customers from any bank can deposit or<br />withdraw money from such ATMs. They will provide ATM services to customers of all banks. Such ATMs will be White Label Automated Teller Machines-WLAs and will provide ATM services to customers of all banks. WLA cannot charge customers."
+}

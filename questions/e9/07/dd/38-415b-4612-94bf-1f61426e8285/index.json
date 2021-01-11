@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T18:33:42.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "e907dd38-415b-4612-94bf-1f61426e8285",
+  "labels": "current-affairs,2018-02-14",
+  "question": "Identify the non Green-House Gas(GHG) from the following :",
+  "option1": "Methane",
+  "option2": "Nitrous oxide",
+  "option3": "Sulphur Hexafluoride",
+  "option4": "Carbon Monoxide",
+  "option5": "",
+  "answer": "Carbon Monoxide",
+  "explanation": "Kyoto Protocol recognized six green house gases i.e. Carbon dioxide, Methane, Nitrous oxide, Hydrofluorocarbons, Perfluorocarbons, and Sulphur hexafluoride."
+}

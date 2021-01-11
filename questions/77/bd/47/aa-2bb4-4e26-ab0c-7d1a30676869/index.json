@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T17:20:04.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "77bd47aa-2bb4-4e26-ab0c-7d1a30676869",
+  "labels": "current-affairs,2018-02-16",
+  "question": "The ‘thickness’ of Stratospheric Ozone layer is measured in/on:",
+  "option1": "Sieverts",
+  "option2": "Dobson units",
+  "option3": "Melson units",
+  "option4": "Beaufort Scale",
+  "option5": "",
+  "answer": "Dobson units",
+  "explanation": "The ozone layer was discovered in 1913 by the French physicists Charles Fabry and Henri Buisson. Its properties were explored in detail by the British meteorologist G. M. B. Dobson, who developed a simple spectrophotometer (the Dobsonmeter) that could be used to measure stratospheric ozone from the ground. Between 1928 and 1958 Dobson established a worldwide network of ozone monitoring stations, which continue to operate to this day. The “Dobson unit”, a convenient measure of the columnar density of ozone overhead, is named in his honour."
+}

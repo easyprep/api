@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T17:12:44.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "e8a4dff6-313b-495b-be40-17d5df947a80",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Which of the following bodies in India were established via a parliamentary act in India?\r\n<ol>\r\n<li>Telecom Regulatory Authority of India</li>\r\n<li>Central Board of Film Certification</li>\r\n<li>Genetic Engineering Approval Authority</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "TRAI was established by Telecom Regulatory Authority of India Act, 1997 (TRAI Act). <br />CBFC was established under provisions of the Cinematograph Act 1958. <br />At present GEAC has NO legal backing and is constituted in the Ministry of Environment and Forests under ‘Rules for Manufacture, Use, Import, Export and Storage of Hazardous Microorganisms/Genetically Engineered Organisms or Cells 1989’, under the Environment Protection Act, 198"
+}

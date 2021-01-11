@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "c2f91688-6861-496b-acca-6408f4e4c33a",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Pest-resistant cotton commonly known as ‘Bt-Cotton’ is genetically engineered by inserting a gene from a:",
+  "option1": "Bacterium",
+  "option2": "Virus",
+  "option3": "Microalgae",
+  "option4": "Protist",
+  "option5": "",
+  "answer": "Bacterium",
+  "explanation": "Bt cotton is an insect-resistant transgenic crop designed to combat the bullworm. Bt is a soil bacterium containing Cry genes that encode crystal proteins which are fatal to some Lepidopteran caterpillars when ingested."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T15:17:18.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "e13f2eda-2c18-40bc-a8ac-aee6acaa2b76",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Consider the following statements regarding the occurrence of ‘Neap Tides’ :\r\n<ol>\r\n<li>The Sun and the Moon are in one line that is ‘Syzygy’.</li>\r\n<li>When the moon is in Apogee or the Sun is in Apehelion.</li>\r\n<li>Neap tides occurs twice a month.</li>\r\n<li>When Syzygy and Apogee happen at the same time, exceptionally low tides are formed.</li>\r\n</ol>\r\nWhich of the above statement(s) is/are true?",
+  "option1": "1 and 2",
+  "option2": "2 and 3",
+  "option3": "1, 2 and 4",
+  "option4": "2, 3 and 4",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "‘Neap Tides’ occur when the Sun and the Moon are at right angles to each other that is in ‘Quadrature’ and when the moon is in Apogee or the Sun is in Apehelion. (Hence Statement 1. is incorrect and Statement 2. is correct) When Quadrature and Apogee happen at the same time, exceptionally low tides are formed. (Hence Statement 4. is incorrect)"
+}

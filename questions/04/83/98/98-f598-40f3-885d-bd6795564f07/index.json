@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T23:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "04839898-f598-40f3-885d-bd6795564f07",
+  "labels": "current-affairs,2018-02-13",
+  "question": "What are the basic premises of Software Entropy?\r\n<ol>\r\n<li>A computer program that is used will be modified</li>\r\n<li>When a program is modified, its complexity will increase, provided that one does not actively work against this.</li>\r\n<li>It may be better to redesign the software rather than build on the existing programme</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "1 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Entropy means disorder. The tendency, over time, for software to become difficult and costly to maintain is known as software entropy. A software system that undergoes continuous change, like new functionality added to its original design, will eventually become more complex, losing its original design structure, and may even become disorganized as it grows. In theory, it may be better to redesign the software in order to support the changes rather than build on the existing programme."
+}

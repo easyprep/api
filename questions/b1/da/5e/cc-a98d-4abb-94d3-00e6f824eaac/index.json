@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T22:19:50.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "b1da5ecc-a98d-4abb-94d3-00e6f824eaac",
+  "labels": "current-affairs,2018-02-11",
+  "question": "Consider the following statements in context with India’s planning experience:\r\n<ol>\r\n<li>A planning in the sense of formal projections on the basis of the certain sets of assumptions started only in the Second Fiver Year Plan in India</li>\r\n<li>The Theoretical assumptions in the second Fiver year plan were provided by Mahalanobis Model of growth</li>\r\n<li>The Mahalanobis Model of growth incorporates the possibilities opened up by the Foreign Trade</li>\r\n</ol>\r\nWhich among the above statements is / are correct ?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 2 & 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 1 & 2 are correct",
+  "explanation": "The third statement in this question, which says that Mahalanobis Model of growth incorporates the possibilities opened up by the Foreign Trade is incorrect. In simple words this model was based upon a 4 sector plan frame, which represents an alternative approach to planning that focuses on the bottleneck created by shortage of the capital goods rather than on the shortage of the aggregate savings as a previous model given by Harrod-Dobar. The Mahalanobis model has ignored the foreign trade and also engineered the behavioral pattern of the income earners."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T20:35:08.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "8c64bc0b-c34d-42bf-92f5-028f2944d468",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Consider the following Statements:\r\n<ol>\r\n<li>Core Inflation is essentially demand driven.</li>\r\n<li>Core Inflation includes items that face volatile price movement.</li>\r\n</ol>\r\nWhich of the following Statement(s) given above is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Manufacturing inflation, also known as ‘core inflation’, is essentially driven by demand and makes up the non‐food basket of the wholesale price index.\r\nCore inflation is a measures of inflation that <strong>excludes</strong> items that face volatile price movement, notably food and energy. It is, therefore, a preferred tool for framing long‐term policy."
+}

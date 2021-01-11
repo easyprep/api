@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-10T21:53:27.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "c2fa40e1-3152-4627-9857-18ba63352486",
+  "labels": "current-affairs,2018-02-11",
+  "question": "A company making a public issue of securities has to file a Draft Red Herring Prospectus with SEBI through an eligible merchant banker prior to filing a prospectus with the Registrar of Companies. What information does this Draft Red Herring Prospectus provide\r\n<ol>\r\n<li>Financial Details about the company</li>\r\n<li>Objects of raising money</li>\r\n<li>Price and size of offerings</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "1 & 2",
+  "option2": "2 & 3",
+  "option3": "1, 2 & 3",
+  "option4": "Only 1",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "DRHP provides all the necessary information an investor ought to know about the company in order to make an informed decision. It contains details about the company, its promoters, the project, financial details, objects of raising the money, terms of the issue, risks involved with investing, use of proceeds from the offering, among others. However, the document does not provide information about the price or size of the offering"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T23:21:50.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "fada5c52-fb3c-42f3-966d-d0ef52436ebc",
+  "labels": "current-affairs,2018-02-13",
+  "question": "In context with computers, what can be the uses of cookies?\r\n<ol>\r\n<li>Maintain Information</li>\r\n<li>Run a programme</li>\r\n<li>Deliver a Virus</li>\r\n</ol>\r\nChoose the correct option:",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "A cookie is a text string that is included with Hypertext Transfer Protocol requests and responses. Cookies are used to maintain information as you navigate different pages on a website or return to the website at a later time. Cookies cannot be used to run code (programmes) or deliver viruses to your computer. One of their primary purposes is to provide a convenience feature that you can use to save time — it tells the web server that you have returned to the page. If you personalize web pages or register for products and services, a cookie helps the page server recall your specific information, like billing address, shipping address."
+}

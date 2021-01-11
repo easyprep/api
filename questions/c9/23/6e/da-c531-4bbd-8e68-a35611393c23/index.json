@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T19:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "c9236eda-c531-4bbd-8e68-a35611393c23",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Currently, which of the following commodities are distributed in India via Public Distribution System?\r\n<ol>\r\n<li>Wheat</li>\r\n<li>Rice</li>\r\n<li>Sugar</li>\r\n<li>Pulses</li>\r\n<li>Kerosene</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 ,2 and 4",
+  "option2": "1 ,2, 3 and 4",
+  "option3": "1, 2, 3 and 5",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1, 2, 3 and 5",
+  "explanation": "The commodities distributed under PDS are as follows :-<br />• Wheat<br />• Rice<br />• Sugar<br />• Kerosene"
+}

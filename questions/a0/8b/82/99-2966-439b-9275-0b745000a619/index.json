@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-14T15:33:02.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "a08b8299-2966-439b-9275-0b745000a619",
+  "labels": "current-affairs,2018-02-15",
+  "question": "Consider the following statements regarding cholesterol:\r\n<ol>\r\n<li>Cholesterol is an essential structural component of mammalian cell membranes.</li>\r\n<li>It is an important component for the synthesis of vitamin D.</li>\r\n<li>It is formed in the the liver, converted to bile, which is then stored in the gallbladder.</li>\r\n</ol>\r\nWhich of the above statement(s) is/are true?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "1 and 2",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Cholesterol is an essential structural component of mammalian cell membranes and is important for the synthesis of vitamin D. It is formed in the liver and then converted to bile, which is then stored in the gallbladder."
+}

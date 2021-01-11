@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T17:00:41.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "2d122b5c-14c9-45df-b592-8e45a1808c0f",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Consider the following statements regarding ‘Kyoto Protocol’:\r\n<ol>\r\n<li>It is legally binding for Annex I countries.</li>\r\n<li>It emerged from the deliberations of COP-3 to the UNFCCC.</li>\r\n<li>The signatories have to reduce their individual Green House Gas emissions by 5.2% from 1990 level.</li>\r\n</ol>\r\nWhich among the above Statement(s) is/are correct?",
+  "option1": "Only 2",
+  "option2": "1 and 2",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 2",
+  "explanation": "Kyoto Protocol of COP-3 to the UNFCCC is a legally binding agreement for Annex-I countries to reduce their <strong>collective</strong> Green House Gas emissions by 5.2% from 1990 level. The reduction obligation under Kyoto Protocol is <strong>additional</strong> to the CFCs and industrial gas emissions covered under the Montreal Protocol"
+}

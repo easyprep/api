@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-15T22:04:54.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "9d11ed7e-f68a-4dbd-b0cc-1affc13c991b",
+  "labels": "current-affairs,2018-02-16",
+  "question": "Consider the following plant hormones and their respective functions:\r\n<ol>\r\n<li>Gibberellins - Seed germination</li>\r\n<li>Auxins - Apical dominance</li>\r\n<li>Cytokinins - Climacteric ripening of fruits</li>\r\n</ol>\r\nWhich among the above is/are correctly paired?",
+  "option1": "Only 1",
+  "option2": "1 and 2",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 2",
+  "explanation": "Cytokinins or CKs are a group of chemicals that influence cell division and shoot formation. Ethylene is related with the Climacteric ripening of fruits."
+}

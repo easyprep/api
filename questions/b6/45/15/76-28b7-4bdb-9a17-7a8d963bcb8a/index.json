@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T19:52:49.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "b6451576-28b7-4bdb-9a17-7a8d963bcb8a",
+  "labels": "current-affairs,2018-02-13",
+  "question": "If place X and Place Y, both located on equator, are at a distance of 18520 kilometers, the approximate difference between their longitudes will be ____?",
+  "option1": "100°",
+  "option2": "120°",
+  "option3": "166°",
+  "option4": "180°",
+  "option5": "",
+  "answer": "166°",
+  "explanation": "We all know that a minute of arc on the planet Earth is 1 nautical mile. 1 nautical mile is 1852 meters or 1.852 kilometers. To travel around the Earth at the equator, we would have to travel (360 * 60) 21,600 nautical miles, 24,857 miles or 40,003 kilometers.<br />The question says that the distance between point X and Y is 18520 kilometers , which means that they are 10000 nautical miles apart. So, if 21620=360°, 10000=166.5°. So correct option is C"
+}

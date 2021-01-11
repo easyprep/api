@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-16T21:22:28.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "ce44462c-1c8c-4e56-952e-eb36ceaced18",
+  "labels": "current-affairs,2018-02-17",
+  "question": "Which among the following closest instrument to Gold ETF?",
+  "option1": "Debenture",
+  "option2": "G-Sec security",
+  "option3": "Mutual Fund",
+  "option4": "Commercial Paper",
+  "option5": "",
+  "answer": "Mutual Fund",
+  "explanation": "Gold ETFs (Paper Gold) are mutual fund schemes that invest in standard gold bullion (of 99.5% purity). The value of an ETF is based on price of gold. These are alternative to owning physical gold."
+}

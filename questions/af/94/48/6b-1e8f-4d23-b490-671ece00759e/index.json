@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-13T16:41:03.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "af94486b-1e8f-4d23-b490-671ece00759e",
+  "labels": "current-affairs,2018-02-14",
+  "question": "What is the share of Government of India in NABARD?",
+  "option1": 0.5,
+  "option2": 0.51,
+  "option3": 0.75,
+  "option4": 0.99,
+  "option5": "",
+  "answer": 0.99,
+  "explanation": "The National Bank for Agriculture and Rural Development (NABARD) was established in 1982. RBI had sold its stake and now the Government of India (GOI) has 99 percent in it. It was established to provide credit for the promotion of the agriculture, SSI and Cottage and village industry. It is an apex bank for agriculture. Its finances are available to SLDBs, SCBs (state cooperative banks), scheduled commercial banks, and RRBs. It can take loans for GOI, World Bank, and Asian development bank (ADB)."
+}

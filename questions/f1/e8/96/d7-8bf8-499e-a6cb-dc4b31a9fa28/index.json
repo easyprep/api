@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-02-12T14:59:14.000Z",
+  "updated_at": "2021-01-06T08:24:19.325Z",
+  "id": "f1e896d7-8bf8-499e-a6cb-dc4b31a9fa28",
+  "labels": "current-affairs,2018-02-13",
+  "question": "Which among the following is correct in context with the Brown ATMs (Automated Teller Machines) ?",
+  "option1": "ATMs owned by Foreign Companies",
+  "option2": "ATMs not owned by banks but by private ATM service providers.",
+  "option3": "Outsourced ATM Service by Banks – The ATM named under a brand sponsor bank but ATM machine not owned by the Bank",
+  "option4": "ATMs owned by Government",
+  "option5": "",
+  "answer": "Outsourced ATM Service by Banks – The ATM named under a brand sponsor bank but ATM machine not owned by the Bank",
+  "explanation": "The ATM named under a brand sponsor bank but ATM machine not owned by the Bank<br />‘Brown Label’ ATM: Outsourcing of ATM services by banks. The ATM is named under the brand of the sponsor bank but the ATM machine is not owned by the bank. In such cases, the hardware as well as lease is under the ownership of the service provider, while connectivity and cash handling and management is the responsibility of the sponsor bank"
+}
