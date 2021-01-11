@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:09.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c04de2a0-3926-4977-a6ea-bdc0ac1f30e5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements: <ol> <li>Coriolis effect is caused by the revolution of earth around sun</li> <li>Coriolis effect increases from equator towards poles</li> <li>Winds are deflected to their right in northern hemisphere and to their left in southern hemisphere due to coriolis effect</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "First statement is incorrect because&nbsp;the effect of rotation of earth on direction of winds is called the Coriolis effect. Second and third statements are correct."
+}

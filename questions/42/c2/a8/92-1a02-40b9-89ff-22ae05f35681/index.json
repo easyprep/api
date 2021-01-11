@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "42c2a892-1a02-40b9-89ff-22ae05f35681",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the dance form of India with the help of given information: <ol> <li>The dance is accompanied by musical compositions called&nbsp;borgeets</li> <li>The instruments that accompany this traditional dance performance are&nbsp;khols, cymbals and the&nbsp;flute</li> <li>This dance form was directed by the Vaishnava saint and social reformer&nbsp;Sankaradeva, and by his principal disciple Madhavadeva</li> <li>The &nbsp;dance form was once the domain of celibate male monks, but now is performed by male as well as female dancers</li> </ol> Select the correct answer from options given below:",
+  "option1": "Chhau",
+  "option2": "Gaudiya Nritya",
+  "option3": "Sattriya",
+  "option4": "Mohiniyattam",
+  "option5": "",
+  "answer": "Sattriya",
+  "explanation": "All given characteristics are of Sattriya dance form"
+}

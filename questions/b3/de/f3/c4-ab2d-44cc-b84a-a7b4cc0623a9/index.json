@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "b3def3c4-ab2d-44cc-b84a-a7b4cc0623a9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following instruments: <ol> <li>Kuzhal</li> <li>Nadaswaram</li> <li>Sundari</li> <li>Shehnai</li> </ol> Which of the above are classified as double reed instruments?",
+  "option1": "1 & 4 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All given instruments are double reed instruments"
+}

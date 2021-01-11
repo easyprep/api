@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:12.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "17e9330b-981a-4a9f-b9da-bb4bb9ee1994",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about the precision&nbsp;agriculture (PA): <ol> <li>It is a labour intensive farming and prohibits use of pesticides and fertilizers</li> <li>It has been the&nbsp;most&nbsp;common&nbsp;practice&nbsp;in India since decades</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because precision agriculture or satellite farming is a highly mechanised form of farming and involves use of pesticides and fertilizers. Second statement is incorrect because precision farming is not a common practice in India and is restricted to areas like Punjab and Western UP."
+}

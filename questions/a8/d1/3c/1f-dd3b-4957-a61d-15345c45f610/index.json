@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "a8d13c1f-dd3b-4957-a61d-15345c45f610",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In geographical context, a &ldquo;laccolith&rdquo; is: <ol> <li>an&nbsp;igneous intrusion between sedimentary rock</li> <li>generally formed from high viscosity magma&nbsp;at shallow depth</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because a&nbsp;laccolith&nbsp;is a sheet intrusion&nbsp;that has been injected between two layers of sedimentary rock. Second statement is correct.&nbsp;"
+}

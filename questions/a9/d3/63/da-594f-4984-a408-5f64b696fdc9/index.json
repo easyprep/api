@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:08.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "a9d363da-594f-4984-a408-5f64b696fdc9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following will have the highest Albedo?",
+  "option1": "Bituminous Road",
+  "option2": "Fresh Snow",
+  "option3": "Ocean Surface",
+  "option4": "Green Grasses",
+  "option5": "",
+  "answer": "Fresh Snow",
+  "explanation": "The Albedo of a surface is the ratio of radiation reflected from the surface to the incident radiation. Albedo of fresh snow is highest to almost 0.9, while that of charcoal is least 0.04, one of the darkest substances.&nbsp;"
+}

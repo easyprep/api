@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:13.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "a87fa2b3-b0c2-4df1-89b0-5d31e260d0d7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <br> 1. Dharmasastra<br> 2. Itihasa<br> 3. Purana<br> 4. Bhagwadgita<br> Which among the above is / are Smriti Texts?",
+  "option1": "Only 1, 2 & 4",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Smriti, literally \"that which is remembered\" are a body of Hindu texts usually attributed to an author, traditionally written down, in contrast to Śrutis which were transmitted verbally across the generations and fixed. Dharmashastra, Itihaa, Purana and Bhagwad gita are the different types."
+}

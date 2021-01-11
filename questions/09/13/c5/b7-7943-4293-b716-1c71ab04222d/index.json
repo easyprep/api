@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "0913c5b7-7943-4293-b716-1c71ab04222d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following styles of music:\r\n<ol>\r\n<li>Dhamar</li>\r\n<li>Bhajan</li>\r\n<li>Kajari</li>\r\n<li>Ghazal</li>\r\n</ol>\r\nWhich of the above styles is/are associated with Hindustani classical music?",
+  "option1": "1 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1, 2, 3 & 4",
+  "option4": "1, 3 & 4 Only",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All given styles are associated with Hindustani classical music"
+}

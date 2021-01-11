@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "24bc81a7-90d2-466b-a821-cb6c9cd4e761",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp;Consider the following statements: <ol> <li>The speed of earth is higher&nbsp;at aphelion than that at perihelion</li> <li>Earth&nbsp;reaches perihelion in early January each year, and passes through aphelion around July 4</li> </ol> &nbsp; &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "The point in the orbit where the planet is closest to the Sun is called &quot;perihelion&quot;. The point where the planet is farthest from the Sun is called &quot;aphelion&quot;. First statement is incorrect because earth&rsquo;s speed is fastest&nbsp;at&nbsp;perihelion&nbsp;and slowest at&nbsp;aphelion. Second statement is also correct because earth reaches perihelion in early January and passes through aphelion near July."
+}

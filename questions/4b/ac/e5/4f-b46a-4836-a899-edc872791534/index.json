@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:30.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "4bace54f-b46a-4836-a899-edc872791534",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following awards/prizes: <ol> <li>Ramon Magsaysay</li> <li>Pulitzer Prizes</li> <li>Golden Globe</li> </ol> Which of the above is/are NOT given in the field of literature?",
+  "option1": "3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1 and 3 Only",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "Golden Globe award are given for recognizing excellence in film and television, both domestic and foreign."
+}

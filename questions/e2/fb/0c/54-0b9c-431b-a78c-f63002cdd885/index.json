@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:11.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "e2fb0c54-0b9c-431b-a78c-f63002cdd885",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Ground Level Ozone is formed due to reaction between:",
+  "option1": "VOCs, Oxides of Nitrogen & Sunlight",
+  "option2": "VOCs, Sulphur dioxide & Sunlight",
+  "option3": "Ozone, Sulphur dioxide & Oxides of Nitrogen",
+  "option4": "Ozone, Oxides of Nitrogen & Sunlight",
+  "option5": "",
+  "answer": "VOCs, Oxides of Nitrogen & Sunlight",
+  "explanation": "Ground Level Ozone results from photochemical reactions between oxides of nitrogen (NO<sub>x</sub>) and volatile organic compounds (VOCs) in the presence of sunlight."
+}

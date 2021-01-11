@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:32.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "676dd21a-0c8a-4169-a6be-7be5a4325930",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the type of painting with the help of given information: <ol> <li>The painting is traditional, cloth-based&nbsp;scroll&nbsp;painting</li> <li>The painting depict stories of Hindu deities, especially inspired by Vaishnava sect</li> <li>This painting has been conferred with GI status</li> </ol> Select the correct answer from options given below:",
+  "option1": "Kangra",
+  "option2": "Mithila",
+  "option3": "Kalighat",
+  "option4": "Pattachitra",
+  "option5": "",
+  "answer": "Pattachitra",
+  "explanation": "All given features are off Pattachitra paintings"
+}

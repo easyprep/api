@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c53882fe-e5cf-49b5-9cde-13fc6e8b1375",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements: <ol> <li>The distance between the longitudes decreases towards poles</li> <li>The zero degrees meridian is also known as International Date Line</li> </ol> &nbsp; &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. Second statement is incorrect because the&nbsp;International Date Line&nbsp;is located on the 180&ordm;&nbsp;line&nbsp;of longitude in the middle of the Pacific Ocean. Zero degrees meridian is called Prime Meridian."
+}

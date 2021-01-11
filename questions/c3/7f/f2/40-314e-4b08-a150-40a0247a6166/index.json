@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c37ff240-314e-4b08-a150-40a0247a6166",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following mountains: <ol> <li>Sierra Nevada</li> <li>Rockies</li> <li>Andes</li> <li>Himalayas</li> </ol> Which of the above are Fold Mountains?",
+  "option1": "1, 3 & 4 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "2, 3 & 4 Only",
+  "explanation": "Sierra Nevada is an example of fault mountain. All other given mountains are fold mountains.&nbsp;Fold mountains are those mountains which are formed due to folding of upper layer of the earth&rsquo;s crust due to compressive forces."
+}

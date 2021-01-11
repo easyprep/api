@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:43.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "a7518963-f385-4186-857d-38cbc4f30689",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong>Ancient Buddhist sites/monuments</strong> : <strong>Location Country</strong><br> 1. Buddhas of Bamiyan : Afghanistan<br> 2. Borobudur : Thailand<br> 3. Anuradhapura : Sri Lanka<br> Which of the above pairs is/are correctly matched?",
+  "option1": "3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1 and 3 Only",
+  "option4": "2 and 3 Only",
+  "option5": "",
+  "answer": "1 and 3 Only",
+  "explanation": "Second pair is wrong because Borobudur is located in Indonesia"
+}

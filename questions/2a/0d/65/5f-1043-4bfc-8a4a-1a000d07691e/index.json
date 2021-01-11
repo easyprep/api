@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:08.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "2a0d655f-1043-4bfc-8a4a-1a000d07691e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about Stratosphere: <ol> <li>Vertical winds are almost absent in earth&rsquo;s stratosphere</li> <li>Temperature increases with increase in altitude in stratosphere</li> <li>Most of the meteors burn up in stratosphere</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "2 & 3 Only",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Third statement is incorrect because most of the meteors burn up in the mesosphere and not the stratosphere."
+}

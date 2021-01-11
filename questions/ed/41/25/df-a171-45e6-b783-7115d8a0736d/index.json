@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "ed4125df-a171-45e6-b783-7115d8a0736d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about seismic waves: <ol> <li>Primary waves travel faster than secondary waves</li> <li>While primary waves can travel through liquid, secondary waves cannot</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Seismic waves are waves of energy that are caused by breaking of rocks within the earth or an explosion. The energy travels through earth and is recorded by seismographs at different stations. The P-wave is the fastest kind of seismic wave and can travel through both solid and liquid. Secondary waves cannot travel through liquid."
+}

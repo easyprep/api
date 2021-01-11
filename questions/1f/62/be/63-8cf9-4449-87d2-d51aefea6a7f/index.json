@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:08.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "1f62be63-8cf9-4449-87d2-d51aefea6a7f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following regions generally records the highest annual range of temperature?",
+  "option1": "ITCZ region",
+  "option2": "Tropical region",
+  "option3": "Sub Polar region",
+  "option4": "Polar region",
+  "option5": "",
+  "answer": "Sub Polar region",
+  "explanation": "The difference of mean monthly temperature of January and July is known as annual range of temperature. The highest annual range of temperature is generally recorded in sub polar region where annual ranges of temperature are about 64 degree."
+}

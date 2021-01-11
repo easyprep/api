@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:09.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "7cb05964-cb8e-40da-8b2a-0c41dc0967ce",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Front is a sloping boundary which separates two opposing air masses</li> <li>Frontal zone is always parallel to the ground surface</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because Frontal zone is neither parallel nor vertical to the ground surface, rather it is inclined at low angleto the surface. Air Mass can be defined as a large packet or volume of air which has a uniform temperature and water vapour content at a given altitude. Air Masses can cover area to many hundreds or thousands of square miles. When two air masses, which are contrasting in their behaviour, densities, temperature, humidity, pressure and wind direction, are separated by a boundary, the transition zone between the two air masses or the boundary is called front."
+}

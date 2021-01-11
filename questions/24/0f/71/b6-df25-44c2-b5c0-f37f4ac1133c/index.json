@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:09.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "240f71b6-df25-44c2-b5c0-f37f4ac1133c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp;Consider the following statements: <ol> <li>The altitude of tropopause is more in summer than in winter</li> <li>Temperature inversion is very much frequent in troposphere</li> </ol> &nbsp; &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> The height of tropopause is variable with time and latitude. The height generally varies from 16 km at equator to 8 km at the poles. The change in height is due to difference in heating of the area. The tropospheric zone is capped in most places by a temperature inversion level where the fall in temperature with increasing height is replaced by a rise in temperature with height."
+}

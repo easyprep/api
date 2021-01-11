@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:07.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c6ca8041-8826-48e4-85c7-498f13023f66",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements: <ol> <li>A Lunar day is four minutes&nbsp;longer than a Solar day</li> <li>A Solar day is equal to a Sidereal day</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Both are incorrect statements<br> First statement is incorrect because a lunar day is&nbsp;50 minutes&nbsp;longer than&nbsp;a&nbsp;solar day. While a solar day is exactly of 24 hours, a sidereal day is equal to 23 hours, 56 minutes, 4.09 seconds."
+}

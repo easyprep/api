@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:07.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c4c4c87e-523d-432a-acdb-076ea16fb298",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following climates: <ol> <li>Tropical rainforest climate&nbsp;</li> <li>Tropical monsoon climate&nbsp;</li> <li>Savanna&nbsp;climate</li> </ol> Which of the above is/are subtype(s) of Megathermal Climate?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "As per Koppen climate classification, subtypes of Tropical/Megathermal Climates are: <ul> <li>Tropical rainforest climate</li> <li>Tropical monsoon climate</li> <li>Tropical wet and dry or&nbsp;savanna&nbsp;climate</li> </ul>"
+}

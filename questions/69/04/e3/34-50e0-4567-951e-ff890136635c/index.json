@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:11.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "6904e334-50e0-4567-951e-ff890136635c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the largest contributor to formation of urban heat island?",
+  "option1": "Concrete roads",
+  "option2": "Use of the air conditioners",
+  "option3": "Tall painted buildings",
+  "option4": "Waste heat",
+  "option5": "",
+  "answer": "Use of the air conditioners",
+  "explanation": "An urban heat island (UHI) is a city or metropolitan area that is significantly warmer than its surrounding rural areas due to human activities. Night-time temperatures in UHIs remain high. This is because buildings, sidewalks, and parking lots block heat coming from the ground from rising into the cold night sky. Waste heat is heat that is generated due to fuel combustion or chemical reaction. But use of air conditioners is the major contributor to the Urban Heat Island formation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "43b30676-3bcb-4cf6-8df0-05823f3b0a65",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Dhrupad and Khayal music: <ol> <li>While Dhrupad is spiritual in nature, Khayal is romantic in nature</li> <li>While Dhrupad is form of Carnatic music, Khayal is form of Hindustani classical music</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because both are forms of Hindustani classical music"
+}

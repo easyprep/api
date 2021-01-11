@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:12.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "db41591e-6572-4e9c-89e1-9f5fc67fb897",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about the National Monsoon Mission: <ol> <li>It is an initiative under the Ministry of Agriculture and Farmers Welfare</li> <li>It envisages the use of dynamical model for accurate monsoon rainfall prediction with the help of a supercomputer</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because it is an initiative under the Ministry of Earth Science. Second statement is correct because the mission envisages the use dynamical model for accurate monsoon rainfall prediction with the help of supercomputer. The improved system will help in issuing more accurate short range forecasts (up to 3 days) and warnings for extreme weather events like heavy rainfall events, active (heavy) and break (weak) spells during the monsoon season in advance and more accurate seasonal forecasts for all-India monsoon rainfall.&nbsp;"
+}

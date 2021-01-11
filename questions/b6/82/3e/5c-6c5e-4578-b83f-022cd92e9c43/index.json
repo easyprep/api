@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:33.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "b6823e5c-6c5e-4578-b83f-022cd92e9c43",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following features make(s) Kuchipudi a distinct dance from rest of the classical dances in India?\r\n<ol>\r\n<li>It is performed on the edge a brass plate</li>\r\n<li>Its performers don’t sing</li>\r\n<li>Its themes are not based on legends of the Hindu mythology</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The first two statements are correct. The Tarangam stage is executed on brass plates and moving the plate with the feet to the tune of the music. Thus, kuchipudi differs from other classical dances in which the performers do not sing."
+}

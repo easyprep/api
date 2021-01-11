@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:32.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "e78b1807-d906-4bdf-8c03-c5cc19aa8b1d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the temple with the help of given information: <ol> <li>It is an example of Tamil architecture built during Chola period</li> <li>The temple is included in the list of UNESCO World Heritage Sites</li> <li>The temple architecture is Dravidian in nature and the prime deity of the temple is lord Shiva</li> </ol> Select the correct answer from options given below:",
+  "option1": "Brihadeeswarar Temple",
+  "option2": "Lingaraj Temple",
+  "option3": "Ekambareswarar Temple",
+  "option4": "Thillai Natarajah Temple",
+  "option5": "",
+  "answer": "Brihadeeswarar Temple",
+  "explanation": "All given statements are features of Brihadeeswarar Temple dedicated to Shiva located in Thanjavur, Tamil Nadu"
+}

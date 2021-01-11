@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:34.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "03b18233-3eaf-4598-a6ae-cf455829d1cc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following vocal forms of music:\r\n<ol>\r\n<li>Thumri</li>\r\n<li>Tarana</li>\r\n<li>Melakarta</li>\r\n<li>Khyal</li>\r\n<li>Ghazal</li>\r\n</ol>\r\nWhich of the above is/are style(s) of Hindustani Classical Music?",
+  "option1": "1, 2 and 4 Only",
+  "option2": "1, 3, 4 and 5 Only",
+  "option3": "1, 2, 4 and 5 Only",
+  "option4": "1, 2, 3, 4 and 5",
+  "option5": "",
+  "answer": "1, 2, 4 and 5 Only",
+  "explanation": "Melakarta is a collection of fundamental ragas (musical scales) in Carnatic music (South Indian classical music)"
+}

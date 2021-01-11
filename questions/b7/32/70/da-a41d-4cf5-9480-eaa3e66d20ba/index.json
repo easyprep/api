@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "b73270da-a41d-4cf5-9480-eaa3e66d20ba",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the instrument with the help of given information: <ol> <li>The instrument has been nicknamed as the &quot;King of Percussion&quot;</li> <li>The instrument is also known as &quot;Deva Vaadyam&quot; or &quot;Divine Instrument&quot;</li> <li>It is mostly preferred for carnatic music</li> </ol> Select the correct answer from options given below:",
+  "option1": "Pakhavaj",
+  "option2": "Mridangam",
+  "option3": "Panchamukha Vadyam",
+  "option4": "Santoor",
+  "option5": "",
+  "answer": "Mridangam",
+  "explanation": "All given statements are characteristics of Mridangam"
+}

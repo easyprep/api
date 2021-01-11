@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "defa8bd4-45b7-4a68-a89d-3ed94be09180",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following Indian handicrafts: <ol> <li>Kanjeevaram sarees</li> <li>Kota doria</li> <li>Orissa Ikat</li> <li>Pochampalli Ikat</li> </ol> Which of the above has/have GI (Geographical Indication) Status?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All given handicrafts have GI (Geographical Indication) status"
+}

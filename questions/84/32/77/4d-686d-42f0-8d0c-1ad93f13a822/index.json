@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:08.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "8432774d-686d-42f0-8d0c-1ad93f13a822",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the desert with the help of given information: <ol> <li>Large deposits of sodium nitrate are found in the desert</li> <li>The desert is known as the driest non-polar place in the world</li> <li>The desert is a cool coastal type desert</li> </ol> Select the correct answer from options given below:",
+  "option1": "Great Victoria Desert",
+  "option2": "Gobi Desert",
+  "option3": "Atacama Desert",
+  "option4": "Gibson Desert",
+  "option5": "",
+  "answer": "Atacama Desert",
+  "explanation": "All given features are of Atacama Desert. Atacama Desert is located over high altitudes, above 2,500 metres above sea level. It is sparsely populated, only a few thousand people (mostly farmers) live in the inland desert areas."
+}

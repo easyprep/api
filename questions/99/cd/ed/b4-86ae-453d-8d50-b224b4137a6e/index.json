@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:10.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "99cdedb4-86ae-453d-8d50-b224b4137a6e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "When you travel in Himalayas, you will see which of the following: <ol> <li>Deep gorges</li> <li>U-turn river courses</li> <li>Active volcanoes</li> <li>Hanging valleys</li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3",
+  "option2": "2, 3 & 4",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 4",
+  "explanation": "For volcanoes to be formed there must be there must be hotspot below Himalaya, or there must be subduction is going on, but neither subduction is going on nor there is any partial melting and thus no volcanic activity."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:42.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "70068f45-24f1-4c70-84df-3bfda131942b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following newspapers were published by Mahatma Gandhi?\r\n<ol>\r\n<li>Young India</li>\r\n<li>Indian Opinion</li>\r\n<li>Satyagraha</li>\r\n<li>Harijan</li>\r\n<li>Navajivan</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2, 3 & 4",
+  "option2": "Only 2, 3, 4 & 5",
+  "option3": "Only 1, 2, 4 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "Only 1, 2, 4 & 5",
+  "explanation": "Mahatma Gandhi edited several newspapers including Harijan in Gujarati, in Hindi and in the English language. Indian Opinion and Young India, in English and Navajivan in Gujarati and Hindi."
+}

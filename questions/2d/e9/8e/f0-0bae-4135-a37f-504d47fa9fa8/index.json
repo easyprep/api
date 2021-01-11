@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:33.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "2de98ef0-0bae-4135-a37f-504d47fa9fa8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the various Ragas used in Indian Classical Music, consider the following statements: <br> 1. Each Raga has at least five notes<br> 2. If a Raga is Poorvi, it is sung before noon and if a Raga is Uttar, it is sung after noon<br> Which among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "Each Raga has at least five notes. If a Raga is Poorvi, it is sung before noon and if a Raga is Uttar, it is sung after noon. Each rāga is an array of melodic structures with musical motifs, considered in the Indian tradition to have the ability to \"colour the mind\" and affect the emotions."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:09.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "33f825fc-f992-48a4-ba23-249e48b55680",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Atmospheric circulation: <ol> <li>While both Hadley cell and the Polar cell are result of direct consequence of surface temperatures, Ferrel cell is not</li> <li>While the Hadley and Polar cells are truly closed loops, the Ferrel cell is not</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The warm air moves from equator towards 30º north latitude where it cools and sinks to the surface, before returning to the tropics. This circulation is known as the Hadley cell. Similarly, cold air sinks at the North Pole, before flowing south at the surface. It is warmed by contact with land/ocean around 60º north, where it rises and then completes the cell called polar cell. The Ferrel cell is found between the Hadley and Polar cells and lies between 60º North and 30º North. The Ferrel cell is thermally indirect as it is powered by the other two cells. In reality the effect of depressions and jet streams disrupts the Ferrel cell."
+}

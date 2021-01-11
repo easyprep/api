@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:07.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "ce97065b-b98b-4b92-ae02-807c8c49b2f5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Which of the following conditions is/are necessary for river delta formation? <ol> <li>The river should bring a large amount of sediments</li> <li>The gradient of the river should be high in its lower course</li> <li>Waves and Tides should be strong near the coastal area where delta is to be formed</li> </ol> &nbsp; Select the correct option from codes given below:",
+  "option1": "1, 2 & 3",
+  "option2": "1 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1 & 3 Only",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because a river should flow over a relatively flat terrain so that its velocity is reduced and it is easily able to deposit the sediments on the surface for the delta formation. Third statement is incorrect because the waves and tides should not be strong. If there are strong waves in the coastal area near the mouth of the river, most of the silt deposited by the river will be removed by them."
+}

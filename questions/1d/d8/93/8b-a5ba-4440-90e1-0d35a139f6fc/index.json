@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "1dd8938b-a5ba-4440-90e1-0d35a139f6fc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Vikram Era and Shaka Era?\r\n<ol>\r\n<li>Vikram era is fifty-six or fifty-seven years later than the common era</li>\r\n<li>Shaka era is seventy-eight or seventy nine years earlier than the common era</li>\r\n<li>Both Shaka and Vikram Era are Lunar Calendars</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "<p class=\\\"Explanation\\\">Whereas the solar calendar is usually used for astrological purposes, the lunar calendar is important for religious life. The lunar calendar is used to measure the two eras still used for dating history: the Vikram era (fifty-six or fifty-seven years later than the common era) and the Shaka era (seventy-eight years earlier than the common era). in the Shaka era it begins with the sun’s transition into Aries, determined in India as falling on April 14. Hence, to convert a Shaka era date to a common era date, one adds seventy-nine years for dates from January 1 to April 14, and seventy-eight years for dates from April 15 to December 31."
+}

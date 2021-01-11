@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:08.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "7be9b084-a5a9-46bf-a682-94804f196558",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are features of the Noctilucent Clouds?\r\n<ol>\r\n<li>These are horizontal clouds formed in troposphere</li>\r\n<li>They are associated with thunderstorms and atmospheric instability</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because noctilucent clouds are the highest clouds in Earth\\'s atmosphere, located in the mesosphere at altitudes of around 76 to 85 kilometres.They are composed of tiny crystals of water ice up to 100 nm in diameter. They are not associated with thunderstorms and atmospheric instability."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:08.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "6dc8d6a7-7113-4654-a3a3-b95a363aa0e3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Hydrogen and Helium gases: <ol> <li>While Helium is a non-flammable gas, Hydrogen is a flammable gas</li> <li>Helium is lighter than Hydrogen gas</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Hydrogen and helium are two most commonly used uplift gases. Although helium is twice heavy as hydrogen, but being a non-flammable gas, it is preferred over hydrogen (flammable gas)."
+}

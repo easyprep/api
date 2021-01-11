@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "b163d12e-adfb-4fb9-8684-7e51f3b33ba6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about Van Allen belts: <ol> <li>The belts are located in the inner region of the Earth&#039;s&nbsp;magnetosphere</li> <li>The belts facilitate communication satellites to capture and transmit high speed data</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. Second statement is incorrect because Van Allen radiation belts have created problems for communication satellites. Van Allen belts contain deadly radiations. So, satellites and other spacecrafts entering this belt need to be shielded&nbsp;well. The outer belt of the radiation belt is formed by the energetic and charged electrons and the inner belt contains a combination of protons and electrons and is formed as a result of cosmic ray collisions in the upper atmosphere.&nbsp;"
+}

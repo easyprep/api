@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:10.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "ec993046-0cb4-40b7-b1c4-56e93910abaa",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Tsunamis: <ol> <li>Tsunamis are tidal waves</li> <li>They are much more frequent in the Pacific Ocean</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Tidal waves are caused by the forces of the moon, sun, and planets upon the ocean water. A tsunami is a large ocean wave usually caused by an underwater earthquake or a volcanic explosion. Tsunamis are not tidal waves. Tsunamis are much more frequent in the Pacific Ocean."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:35.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "9edc867a-9f09-4003-b3c0-e0b6c32854ce",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the Indian martial art with the help of given information: <ol> <li>The most common weapon used in this martial art is bamboo stick</li> <li>The ancient trading centre of Madurai City served as focal point for spread of this art</li> <li>It is contested on a flat, hard and circular surface</li> <li>This art has been mentioned in Sangam literature</li> </ol> &nbsp;Select the correct answer from options given below:",
+  "option1": "Kalaripayattu",
+  "option2": "Silambam",
+  "option3": "Thang Ta",
+  "option4": "Pari-khanda",
+  "option5": "",
+  "answer": "Silambam",
+  "explanation": "All of the above given features are of Silambam martial art."
+}

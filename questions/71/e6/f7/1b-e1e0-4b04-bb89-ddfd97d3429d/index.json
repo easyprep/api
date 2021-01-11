@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "71e6f71b-e1e0-4b04-bb89-ddfd97d3429d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "When one crosses 180 degrees longitude from east to west then he/she:",
+  "option1": "gains a day",
+  "option2": "loses a day",
+  "option3": "neither gains a day nor loses a day",
+  "option4": "may gain or lose a day depending upon latitude at which one crosses",
+  "option5": "",
+  "answer": "loses a day",
+  "explanation": "One loses a day when he/she crosses 180 degrees longitude from east to west and gains a day when crosses 180 degrees from west to east."
+}

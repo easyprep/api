@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:07.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "7b65948e-394c-477d-a84c-25779b64ac09",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about &ldquo;Aurora Borealis&rdquo;: <ol> <li>Aurora Borealis is a temporary phenomena on the photosphere of the&nbsp;Sun&nbsp;</li> <li>The chances of viewing aurora is higher at equator than at poles</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because Aurora is an incredible light show caused by collisions between electrically charged particles released from Sun that enter the earth&rsquo;s atmosphere and collide with earth&rsquo;s magnetosphere. Auroras that occur in the northern hemisphere are called &lsquo;Aurora Borealis&rsquo; or &lsquo;northern lights&rsquo;&nbsp;and auroras that occur in the southern hemisphere are called &lsquo;Aurora Australis&rsquo; or &lsquo;southern lights&rsquo;. Second statement is incorrect because the chances of viewing auroras increase as one move from equator towards poles."
+}

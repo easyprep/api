@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:32.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "67ed7f21-9f9d-4708-a3dd-38b299e363fe",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following sites: <ol> <li>Elephanta Caves</li> <li>Keoladeo National Park</li> <li>River Island of Majuli</li> <li>Chilika Lake (Odisha)</li> </ol> Which of the above are included in the list of UNESCO World Heritage sites?",
+  "option1": "1 & 2 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "River island of Majuli &amp; Chilika Lake of Odisha are not included in the list, as of now."
+}

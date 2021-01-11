@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:13.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "0b3699e1-8de2-4bf6-a8f6-b88e66402d8a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following matches:\r\n<ol>\r\n<li>Kumara-sampradaya - Nimbarka</li>\r\n<li>Brahma Sampradaya - Madhvacharya</li>\r\n<li>Sri Sampradaya - Ramanuja</li>\r\n<li>Rudra sampradaya - Vishnuswami</li>\r\n</ol>\r\nWhich among the above matches is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Nimbaraka, Madhavacharya, Ramanuja and Vishnuswami are the philosophers of Indian orthodox schools. They gave various sampradayas."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "41a0ccae-23dc-4d68-9a70-3497e1911c06",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following differences between Redshift and Blueshift: <ol> <li>While redshift occurs when light source moves away from an observer, blueshift occurs when light source moves towards the observer</li> <li>While in redshift is characterized by&nbsp;increase in wavelength, blueshift is characterized by&nbsp;a&nbsp;decrease&nbsp;in wavelength</li> </ol> &nbsp; &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> A redshift&nbsp;happens when light or other&nbsp;electromagnetic radiation&nbsp;from an object is increased in&nbsp;wavelength, or shifted to the red end of the spectrum. Similarly, blueshift occurs when radiation from an object is decreased in wavelength and the light source moves towards the observer.&nbsp;"
+}

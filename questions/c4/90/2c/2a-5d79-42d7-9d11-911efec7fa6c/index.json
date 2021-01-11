@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:11.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c4902c2a-5d79-42d7-9d11-911efec7fa6c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following differences between Pacific Decadal Oscillation (PDO) and El Nino&ndash;Southern Oscillation (ENSO): <ol> <li>The PDO remains for longer time period in comparison to ENSO</li> <li>While ENSO is always accompanied by good monsoon rainfall, the PDO is always accompanied by poor monsoon&nbsp;</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "The PDO can remain in the same phase for 20 to 30 years, while ENSO cycles typically only last 6 to 18 months. The PDO, like ENSO, consists of a warm and cool phase which alters upper level atmospheric winds. If both ENSO and PDO are in the same phase the impact gets magnified. Conversely, if the ENSO and the PDO are out of phase, it has been proposed that they may offset one another."
+}

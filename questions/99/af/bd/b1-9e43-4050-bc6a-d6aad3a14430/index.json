@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:12.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "99afbdb1-9e43-4050-bc6a-d6aad3a14430",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Which of the following factors determine the atmospheric humidity of a place? <ol> <li>Cloud Cover</li> <li>Latitude</li> <li>Altitude</li> <li>Nearness to sea</li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 4 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The water vapour content in air is referred to as humidity. Coastal areas have higher humidity than places in the interior of the continent. Humidity also varies with cloud cover. Humidity decreases with height in troposphere because water is added to the atmosphere mainly through evaporation and transpiration. Humidity also varies with latitude. Humidity is high in equatorial region and very low in desert region."
+}

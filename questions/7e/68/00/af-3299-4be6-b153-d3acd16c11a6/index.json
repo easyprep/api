@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "7e6800af-3299-4be6-b153-d3acd16c11a6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Sun: <ol> <li>Nuclear fusion takes place in the core of the Sun</li> <li>Sunspots can be seen on the&nbsp;photosphere</li> <li>During solar eclipse, moon blocks the&nbsp;chromosphere</li> </ol> Which of the above statements is/are correct?",
+  "option1": "2 & 3 Only",
+  "option2": "1 Only",
+  "option3": "1 & 2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "First statement is correct because it is the core where nuclear fusion takes place. Second statement is correct because the&nbsp;photosphere&nbsp;is an outer shell from which light is radiated. Sunspots&nbsp;are temporary phenomena on the photosphere of the Sun that appear as dark spots compared to surrounding regions. Third statement is incorrect because during Solar Eclipse, Moon blocks the&nbsp;photosphere and not chromosphere."
+}

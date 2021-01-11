@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "ade5ee4e-4a0e-4af8-b094-8e69db95d63f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The Vernal Equinox in the Northern Hemisphere comes around December 21-22</li> <li>Earth is at aphelion in its orbital path on December 22</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because the vernal (spring) equinox in the Northern Hemisphere comes around March 20-21. Earth is not at aphelion on December 22. Earth is at aphelion on 3<sup>rd</sup> or 4<sup>th</sup> July."
+}

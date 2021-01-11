@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:07.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "bef0a768-bb9f-4433-87d6-a10e16249b81",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the general features of the planets, which of the following is / are correct matches?\r\n<ol>\r\n<li>Hottest planet - Mercury</li>\r\n<li>Planet closest to Earth - Mars</li>\r\n<li>Maximum orbital speed - Jupiter</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 3 Only",
+  "option2": "2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "Venus&nbsp;is the second planet from the sun and has a temperature that is maintained at 462 degrees Celsius. Venus is hotter than Mercury. Venus, the second planet from the sun, is closer to Earth than&nbsp;Mars. Mercury&nbsp;is the fastest planet, which speeds around the sun at 47.87 km/s."
+}

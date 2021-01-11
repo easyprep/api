@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "607ed30f-c1aa-42a4-8244-92e86b5973c3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>While cold currents are usually found on the west coast of the continent, warm currents are found on the east coast</li> <li>While Kuroshio is a warm current, Oyashio is cold water current</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Kuroshio is a north-flowing warm ocean current on the west side of the North Pacific Ocean. Oyashio Current originate in the Arctic Ocean and flow southward via the Bering Sea, passing through the Bering Strait and transporting cold water from the Arctic Sea into the Pacific Ocean."
+}

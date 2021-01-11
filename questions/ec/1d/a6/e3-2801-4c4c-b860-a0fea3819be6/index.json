@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:39.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "ec1da6e3-2801-4c4c-b860-a0fea3819be6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following activities was / were envisaged in the Non-cooperation movement?\r\n<ol>\r\n<li>Boycott of elections under the Government of India Act, 1919</li>\r\n<li>Boycott of government schools and colleges</li>\r\n<li>Violation and breaking the civil laws</li>\r\n<li>Boycott of foreign goods</li>\r\n<li>Surrender of titles and honorary offices</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 2, 3, 4 & 5",
+  "option2": "Only 1, 2, 4 & 5",
+  "option3": "Only 1, 4 & 5",
+  "option4": "Only 2, 3 & 5",
+  "option5": "",
+  "answer": "Only 1, 2, 4 & 5",
+  "explanation": "All of the above were envisaged in the NCM but not the violation and breaking the civil laws, though boycott of the courts was there."
+}

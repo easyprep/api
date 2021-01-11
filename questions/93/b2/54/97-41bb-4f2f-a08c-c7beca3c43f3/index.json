@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "93b25497-41bb-4f2f-a08c-c7beca3c43f3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the painting type with the help of given information: <ol> <li>The painting is generally done on &nbsp;wooden planks and is influenced with Deccan, Vijayanagar &amp; Maratha&nbsp;empire</li> <li>The painting has been recognized with&nbsp;Geographical indication&nbsp;status by the&nbsp;Government of India</li> <li>The art is referred as &lsquo;palagai padam&rsquo; in local dialect</li> </ol> Select the correct answer from options given below:",
+  "option1": "Mysore Painting",
+  "option2": "Thanjavur Painting",
+  "option3": "Deccani Painting",
+  "option4": "Pattachitra Painting",
+  "option5": "",
+  "answer": "Thanjavur Painting",
+  "explanation": "All given features are of Thanjavur style of paintings"
+}

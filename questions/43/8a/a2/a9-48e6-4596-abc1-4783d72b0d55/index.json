@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:12.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "438aa2a9-48e6-4596-abc1-4783d72b0d55",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp;Consider the following crops: <ol> <li>Cotton</li> <li>Soybean</li> <li>Sugarcane</li> <li>Chickpea</li> </ol> Which of the above are Kharif Crops?",
+  "option1": "1 & 2 Only",
+  "option2": "1, 2 & 3 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 3 Only",
+  "explanation": "Cotton, Sugarcane and Soybean are Kharif crops, whereas, chickpea is a Rabi crop."
+}

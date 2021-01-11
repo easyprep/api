@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "76297259-cc19-45a7-b3af-435f8318dfe9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following planets: <ol> <li>Venus</li> <li>Mars</li> <li>Jupiter</li> </ol> On which of the above, solar days are longer than that on earth?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "A day on Jupiter is officially only 9 hours, 55 minutes and 30 seconds long, which means a single day is less than a third the length of an Earth day. This is due to the fact that the planet has a very rapid rotational speed of 12.6&nbsp;km/s at the equator in comparison to earth&#039;s rotational speed of&nbsp;1670 kilometers/hour at equator."
+}

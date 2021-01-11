@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:11.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "9d16161c-a864-4d5d-9260-6127459dd5cb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs of Ports with their associated States: <ol> <li>Kamarajar Port: Tamil Nadu</li> <li>Mormugao Port: Goa</li> <li>Nhava Sheva: Maharashtra</li> </ol> Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All of the above are correctly matched"
+}

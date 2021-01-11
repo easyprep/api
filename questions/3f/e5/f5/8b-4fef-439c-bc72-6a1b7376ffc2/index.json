@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:31.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "3fe5f58b-4fef-439c-bc72-6a1b7376ffc2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following dance forms of India: <ol> <li>Kathak</li> <li>Kuchipudi</li> <li>Mohiniyattam</li> <li>Chhau</li> </ol> Which of the above are recognised as classical dance?",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 3 Only",
+  "explanation": "Chhau has been approved by Ministry of Culture but still lacks approval from Sangeet Natak Akademi to be recognised as classical dance"
+}

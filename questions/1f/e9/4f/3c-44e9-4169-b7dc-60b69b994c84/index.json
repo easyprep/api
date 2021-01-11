@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "1fe94f3c-44e9-4169-b7dc-60b69b994c84",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Reduced tillage practices are helpful for soil health in many ways. Consider the following statements with this context:\r\n<ol>\r\n<li>Reduced tillage helps to improve the soil food web and biodiversity</li>\r\n<li>Reduced tillage brings down the requirement of herbicides</li>\r\n<li>Reduced tillage helps in mitigation of GHG emissions</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Tillage is an important factor that decreases soil quality. Reduced tillage practices could increase Soil Organic Matter and moisture content of the soil, and also improve the soil food web. However, there is a great disadvantage in reduced tillage that it requires a greater use of herbicides due to the increased spread of weeds and soil pathogens. If this is not taken into account, it may affect the crop yields due to the increased prevalence of pathogens, pests, diseases and weeds. Reduced tillage often leads to retention of soil residues and reduction in the emission of carbon dioxide to the atmosphere. This can sustain the soil biota in a healthy state and also maintains the physical and chemical properties of the soil."
+}

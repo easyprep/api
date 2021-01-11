@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:11.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c679c955-515f-4d9e-85a5-964b13c9db49",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Polar Stratospheric Clouds: <ol> <li>Polar stratospheric clouds generally result in polar ozone depletion</li> <li>Polar stratospheric clouds are present in large quantities over Antarctica, while they are completely absent over Arctic</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because polar stratospheric clouds are present in both Arctic and Antarctic. These clouds are formed at high altitudes and generally in winters."
+}

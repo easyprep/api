@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:35.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "e803996d-eb20-49f1-aa9b-c4aada5fdd69",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the painting with the help of given information: <ol> <li>The only colour used in creating these paintings is white</li> <li>The colour is obtained by grinding rice into a white powder</li> <li>It is predominantly a female art and is created on mud walls of tribal houses</li> <li>These paintings do not depict mythological characters or deities</li> </ol> Select the correct answer from options given below:",
+  "option1": "Warli Folk",
+  "option2": "Madhubani",
+  "option3": "Kalamkari",
+  "option4": "Batik",
+  "option5": "",
+  "answer": "Warli Folk",
+  "explanation": "All given features are of Warli Folk Paintings."
+}

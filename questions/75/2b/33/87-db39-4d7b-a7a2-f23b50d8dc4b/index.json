@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "752b3387-db39-4d7b-a7a2-f23b50d8dc4b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>While the continental crust is more dense than mantle, oceanic crust is less dense than mantle</li> <li>Oceanic crust is much younger than continental crust</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because both oceanic crust and continental crust are less dense than the mantle, but oceanic crust is denser than continental crust. Second statement is correct"
+}

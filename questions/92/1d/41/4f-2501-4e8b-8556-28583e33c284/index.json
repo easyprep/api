@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:42.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "921d414f-2501-4e8b-8556-28583e33c284",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following committees / commissions during British India were related to Education?\r\n<ol>\r\n<li>Sargent Plan</li>\r\n<li>MacDonnel Commission</li>\r\n<li>Fraser Commission</li>\r\n<li>Hartog Committee</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "2, 3 & 4",
+  "option4": "1 & 4",
+  "option5": "",
+  "answer": "1 & 4",
+  "explanation": "The below tables lists some commissions related to education:<br />\r\n<table class=\"tablepress tablepress-id-151\">\r\n<tbody class=\"row-hover\">\r\n<tr class=\"row-1 odd\">\r\n<td class=\"column-1\">Charles Wood Despatch</td>\r\n<td class=\"column-2\">1854</td>\r\n<td class=\"column-3\">Lord Dalhousie</td>\r\n</tr>\r\n<tr class=\"row-2 even\">\r\n<td class=\"column-1\">Hunter Commission</td>\r\n<td class=\"column-2\">1882</td>\r\n<td class=\"column-3\">Lord Ripon</td>\r\n\r\n</tr>\r\n<tr class=\"row-3 odd\">\r\n<td class=\"column-1\">Raleigh Commission</td>\r\n<td class=\"column-2\">1902</td>\r\n<td class=\"column-3\">Lord Curzon</td>\r\n</tr>\r\n<tr class=\"row-4 even\">\r\n<td class=\"column-1\">Sadler Commission</td>\r\n<td class=\"column-2\">1917</td>\r\n<td class=\"column-3\">Lord Chelmsford</td>\r\n</tr>\r\n<tr class=\"row-5 odd\">\r\n<td class=\"column-1\">Hartog Commission</td>\r\n<td class=\"column-2\">1929</td>\r\n<td class=\"column-3\">Lord Irwin</td>\r\n</tr>\r\n<tr class=\"row-6 even\">\r\n<td class=\"column-1\">Sargent Plan</td>\r\n<td class=\"column-2\">1944</td>\r\n<td class=\"column-3\">Lord Wavell</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

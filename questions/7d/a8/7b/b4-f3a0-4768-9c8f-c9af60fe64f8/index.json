@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "7da87bb4-f3a0-4768-9c8f-c9af60fe64f8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about igneous rocks: <ol> <li>Fossils are found only in extrusive igneous rocks</li> <li>Gabbro&nbsp;is a coarse-grained intrusive&nbsp;igneous rock&nbsp;</li> </ol> &nbsp;&nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because fossils are found in sedimentary rocks. Igneous rocks do not contain fossils. Second statement is correct because Gabbro&nbsp;is an intrusive&nbsp;igneous rock&nbsp;that is black in colour and has a composition similar to basalt."
+}

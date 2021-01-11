@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:11.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "d9c357e2-79d2-45c3-a18c-decd2330f781",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Indian Ocean Dipole (IOD):\r\n<ol>\r\n<li>While during positive IOD the sea surface temperature is greater in Arabian Sea than eastern Indian Ocean, it is reverse in case of negative IOD</li>\r\n<li>While positive IOD leads to greater monsoon rainfall in India, negative IOD leads to less amount of rainfall in India</li>\r\n</ol>\r\n   Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements. Positive IOD occurs when the sea surface temperatures are greater than normal in the Arabian Sea and less than normal in the tropical eastern Indian Ocean. When the reverse is the case, a negative IOD is said to have developed. A positive IOD leads to greater monsoon rainfall and more active (above normal rainfall) monsoon days while negative IOD leads to less rainfall and more monsoon break days (no rainfall)."
+}

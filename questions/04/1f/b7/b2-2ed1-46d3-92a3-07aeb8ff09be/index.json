@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:07.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "041fb7b2-2ed1-46d3-92a3-07aeb8ff09be",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The time difference between any two lines of longitude is of eleven minutes</li> <li>Zero degrees longitude is known as Greenwich Meridian line</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the time difference between any two lines of longitude is of four minutes. Second statement is correct."
+}

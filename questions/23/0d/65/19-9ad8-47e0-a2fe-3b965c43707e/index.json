@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:13.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "230d6519-9ad8-47e0-a2fe-3b965c43707e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp;Consider the following statements about the Agulhas current: <ol> <li>It is the is the world&rsquo;s second fastest ocean current</li> <li>It aids in transporting cold water from Atlantic Ocean towards Indian Ocean</li> <li>It flows from south-west towards north-east</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 & 3 Only",
+  "option2": "1 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. Second statement is incorrect because Agulhas current aids in transporting warm water from the Indian Ocean and Mozambique Channel pole ward. Third statement is again incorrect because the Agulhas Current flows from northeast to southwest down the South African coastline between 27 and 40 degrees south latitude."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "13c30806-cc56-4030-986d-298e6b350933",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Earth has greater rotational velocity at equator than at poles</li> <li>Coriolis effect&nbsp;decreases from equator towards poles</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. Second statement is incorrect because Coriolis Effect increases from equator towards poles and is zero at equator.&nbsp;Coriolis force&nbsp;is an apparent force caused by the earth&#039;s rotation."
+}

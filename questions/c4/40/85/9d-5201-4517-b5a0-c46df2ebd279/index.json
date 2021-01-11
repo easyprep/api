@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:33.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "c440859d-5201-4517-b5a0-c46df2ebd279",
+  "labels": "current-affairs,2018-08-04",
+  "question": "How Bharatnatyam is different from Kathak?\r\n<ol>\r\n<li>While Bharatnatyam originated in temples, Kathak originated in Mughal courts</li>\r\n<li>While Bharatnatyam performers are predominantly women, Kathak performers are both men and women</li>\r\n<li>In Bharatnatyam, the footwork is synchronized with hand gestures and eye movements, but Kathak has no such rigid techniques</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "The first statement is incorrect. Kathak has ancient origins but certainly it was influenced by Mughals. Rest two statements are correct. Because of its mixed lasya and tandava temperament, kathak is popular with both females and males. In bharatanatyam, footwork is synchronized with hand gestures and eye movements, but kathak has no such rigid technique. It takes its movements from life, stylizes them, and adds complex rhythmic patterns. The mathematical precision in doubling and quadrupling the beat with quick transfers and shifts makes the onlookers dizzy."
+}

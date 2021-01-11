@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "698e0c93-9d7e-446b-9778-5466fdb118b3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following celestial bodies: <ol> <li>Ceres</li> <li>Makemake</li> <li>Eris</li> <li>Pluto</li> </ol> Which of the above have been recognized as dwarf planets by the International Astronomical Union (IAU)?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "1 & 2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The&nbsp;International Astronomical Union (IAU) currently recognizes five dwarf planets:&nbsp;Ceres,&nbsp;Pluto,&nbsp;Haumea,&nbsp;Makemake, and&nbsp;Eris. A dwarf planet is a planetary-mass object that is neither a planet nor a natural satellite.&nbsp;It is in direct orbit of the Sun, and is massive enough for its gravity to crush it."
+}

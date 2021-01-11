@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:31:05.000Z",
+  "updated_at": "2021-01-06T08:24:26.725Z",
+  "id": "ac45617c-2f53-4832-b3e5-6dc30bd673a7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The maximum change in sea temperature is in mesopelagic zone</li> <li>Epipelagic zone is referred as &#8220;twilight zone&#8221; due to bioluminescent creature in this zone</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct because maximum change in sea temperature takes place in mesopelagic zone, extending from 200m to 1,000m. Second statement is incorrect because mesopelagic zone is known as twilight zone due to bioluminescent creatures in this zone."
+}
