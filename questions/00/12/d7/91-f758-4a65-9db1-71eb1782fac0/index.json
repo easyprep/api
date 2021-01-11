@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "0012d791-f758-4a65-9db1-71eb1782fac0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following fauna: <ol> <li>Killer whale</li> <li>Great white shark</li> <li>Sea horse</li> <li>Sea lions</li> <li>Red Panda</li> </ol> &nbsp;Which of the above is/are mammal(s)?<br> &nbsp;",
+  "option1": "1,2 and 4 Only",
+  "option2": "1,3,4 and 5 Only",
+  "option3": "1,4 and 5 Only",
+  "option4": "1,2,3,4 and 5",
+  "option5": "",
+  "answer": "1,4 and 5 Only",
+  "explanation": "Sea horse comes under ray-finned fishes categories and&nbsp;Great white shark comes under cartilaginous fishes<br> &nbsp;"
+}

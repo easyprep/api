@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "0f3e472e-ed08-4785-9e34-055963604594",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Hoolock gibbon?\r\n<ol>\r\n<li>It is the only ape found in India</li>\r\n<li>It is endemic to western ghats</li>\r\n<li>It uses its songs and whistles to mark and establish territory</li>\r\n</ol>\r\nSelect the correct statements from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "In the above question, first statement is correct but second and third is incorrect. Hoolock gibbon is found in north east India and some parts of China, Myanmar etc. Hoolock gibbons use their urine rather to mark and establish territory."
+}

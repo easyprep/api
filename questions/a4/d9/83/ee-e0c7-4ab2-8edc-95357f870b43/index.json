@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "a4d983ee-e0c7-4ab2-8edc-95357f870b43",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following fauna: <ol> <li>Koala</li> <li>Yellow-bellied glider</li> <li>Greater Gliding Possum</li> </ol> Which of the above is/are native to India?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "All above given fauna are native to Australia"
+}

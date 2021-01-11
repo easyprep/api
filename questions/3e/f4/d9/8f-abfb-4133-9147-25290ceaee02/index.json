@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "3ef4d98f-abfb-4133-9147-25290ceaee02",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br />1. A food web shows the main food links and interconnection of many food chains<br />2. Ecological Efficiency denotes ratio between energy flow at different points along a food chain<br />Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "A food web presents a graphical representation of what is eaten by what in an ecological community. It shows the natural interconnection of food chains. Ecological Efficiency is measured by the ratio between energy flow at different points along a food chain."
+}

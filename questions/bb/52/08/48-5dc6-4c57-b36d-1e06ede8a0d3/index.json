@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:35.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "bb520848-5dc6-4c57-b36d-1e06ede8a0d3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pollutants: <ol> <li>Carbon monoxide</li> <li>Radon</li> <li>Lead</li> </ol> Which of the above are indoor pollutants?",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Environmental&nbsp;tobacco smoke&nbsp;is one source of CO. Lead is generally used in construction of buildings. Radon gas&nbsp;can enter a&nbsp;home&nbsp;from the soil under the house by process of diffusion through concrete floors and walls."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:19.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "2101bc21-4559-4487-8748-0cb7f05da62c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs of books with their authors:\r\n<ol>\r\n<li>Indica - Megasthenes</li>\r\n<li>Harshacharita - Harsha</li>\r\n<li>Rajatarangini - Kalidas</li>\r\n</ol>\r\nWhich of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "1 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Indica&nbsp;is the name of a book by&nbsp;Megasthenes&nbsp;that describes the history of India and was a major source from which Arrian drew. Banabhatta was the author of the&nbsp;Harshacharita&nbsp;which is a eulogistic history of the reign of Emperor Harshavardhana. Rajatarangini is a legendary and historical chronicle about Kashmir written by Kalhana."
+}

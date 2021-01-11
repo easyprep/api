@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:26.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "44340690-c7ff-4d78-9609-530b4aecc69e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Ozone is used as a/an: <ol> <li>Fungicide</li> <li>Algicide</li> <li>Pesticide</li> <li>Viricide</li> <li>Decolorizer</li> </ol> Which of the above are correct?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 3 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": "Ozone has its ability to disinfect without adding other chemicals which may later need to be removed."
+}

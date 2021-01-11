@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "1139fec8-08af-4c93-9d9a-22cb12c35ceb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are incorrect? <ol> <li>Energy flow in an ecosystem is Multidirectional</li> <li>Primary consumers can be carnivores</li> <li>Seed banks are examples of ex-situ conservation</li> <li>A food chain always begins with heterotrophic consumer</li> </ol> Select the correct option from codes given below:",
+  "option1": "3 Only",
+  "option2": "3 & 4 Only",
+  "option3": "1, 2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 4 Only",
+  "explanation": "Third statement is correct. Other three statements are incorrect. A food chain always begins with&nbsp;photosynthetic autotrophs and Energy flow in an ecosystem is unidirectional.Primary consumers are herbivores."
+}

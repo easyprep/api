@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:35.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "e60b666a-c00a-460e-ba0f-ceeb2cf6685e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following species: <ol> <li>Great&nbsp;white shark</li> <li>Killer whale</li> <li>Whale shark</li> </ol> &nbsp;Which of the above is/are mammal/mammals?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "A shark&nbsp;is&nbsp;not&nbsp;a&nbsp;mammal&nbsp;like whales, nor is it a reptile like alligators. A&nbsp;shark&nbsp;is actually a fish. Killer whale is a mammal. Whale shark is not a mammal."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:26.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "0fa24a9b-9c6b-4381-a60b-f894dd657800",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Natural gas is often described as the cleanest fossil fuel. With this reference consider the following statements:\r\n<ol>\r\n<li>Natural gas produces less carbon dioxide per joule delivered than either coal or oil</li>\r\n<li>Natural gas makes insignificant percentage of human carbon emissions</li>\r\n<li>Natural Gas is less potent green house gas in comparison to Carbon Dioxide</li>\r\n</ol>\r\nWhich among the above statements is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 2 & 3 are correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<p class=\\\"Explanation\\\">Natural gas is often described as the cleanest fossil fuel, producing less carbon dioxide per joule delivered than either coal or oil and far fewer pollutants than other hydrocarbon fuels. However, in absolute terms, it comprises a substantial percentage of human carbon emissions, and this contribution is projected to grow. Third statement is also not correct."
+}

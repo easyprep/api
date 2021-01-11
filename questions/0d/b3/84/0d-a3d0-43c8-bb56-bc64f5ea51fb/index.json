@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:35.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "0db3840d-a3d0-43c8-bb56-bc64f5ea51fb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Nitrogen Dioxide: <ol> <li>It is a greenhouse gas as per Kyoto protocol</li> <li>It is a pollutant considered for measuring National Air Quality Index</li> <li>Nitrogen dioxide is a colourless and odourless gas</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "The pollutants considered for the measurement of Air Quality Index are (PM<sub>10</sub>, PM<sub>2.5</sub>, NO<sub>2</sub>, SO<sub>2</sub>, CO, O<sub>3</sub>, NH<sub>3</sub>, and Pb) for which short-term (up to 24-hourly averaging period) National Ambient Air Quality Standards are prescribed. Third statement is incorrect because nitrogen dioxide is a reddish-brown gas with a pungent and irritating odour. The Kyoto protocol covers six gases carbon-dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydro fluorocarbons (HFCs), per fluorocarbons (PFCs), and sulphur hexafluoride (SF6)."
+}

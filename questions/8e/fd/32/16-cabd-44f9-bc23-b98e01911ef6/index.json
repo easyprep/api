@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "8efd3216-cabd-44f9-bc23-b98e01911ef6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following bird species:\r\n<ol>\r\n<li>Forest owlet</li>\r\n<li>Jerdon’s courser</li>\r\n<li>Pink-headed duck</li>\r\n</ol>\r\nWhich among the above is / are found in wild in peninsular India?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "First two are correct. Kindly note that The cheetah (Acinonyx jubatus) and the pink-headed duck (Rhodonessa caryophyllacea) are among species that have become extinct."
+}

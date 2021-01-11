@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "76c814fc-3989-47cb-a72d-1352cb5e63d5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following fauna are endemic to Western Ghats of India?\r\n<ol>\r\n<li>Brown palm civet</li>\r\n<li>Grey headed bulbul</li>\r\n<li>Namdapha flying squirrel</li>\r\n<li>Lion-tailed macaque</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 and 4 Only",
+  "option2": "1,2 and 4 Only",
+  "option3": "2,3 and 4 Only",
+  "option4": "1,2,3 and 4",
+  "option5": "",
+  "answer": "1,2 and 4 Only",
+  "explanation": "Namdapha flying squirrel is an arboreal, nocturnal flying squirrel endemic to India found mainly in Nort East India."
+}

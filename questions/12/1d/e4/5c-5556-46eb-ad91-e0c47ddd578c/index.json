@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "121de45c-5556-46eb-ad91-e0c47ddd578c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A parasitic food chain starts with which of the following?",
+  "option1": "Plants",
+  "option2": "Herbivores",
+  "option3": "Carnivores",
+  "option4": "Detritus",
+  "option5": "",
+  "answer": "Herbivores",
+  "explanation": "A parasitic food chain starts from herbivores but food energy passes from larger to smaller organism without outright killing as in case of predator food chain. Hence, the larger animals are considered to be the hosts and the smaller animals which fulfil their nutritional requirements from the hosts are considered as parasites."
+}

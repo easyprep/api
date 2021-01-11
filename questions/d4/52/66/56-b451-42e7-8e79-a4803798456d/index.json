@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:34.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "d4526656-b451-42e7-8e79-a4803798456d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following fauna: <ol> <li>Bees</li> <li>Snakes</li> <li>Bats</li> <li>Bears</li> </ol> Which of the above are true hibernators?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "3 & 4 Only",
+  "option3": "1, 2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 3 Only",
+  "explanation": "Bears are not true hibernators. Instead of hibernating they go for torpor. During torpor the male bears do not eat or drink for almost 6 months and they rarely urinate or defecate. Examples of true hibernators are: skunks, bees,&nbsp;snakes, and&nbsp;groundhogs"
+}

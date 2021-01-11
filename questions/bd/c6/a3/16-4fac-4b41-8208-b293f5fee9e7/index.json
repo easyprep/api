@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "bdc6a316-4fac-4b41-8208-b293f5fee9e7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Apart from green house effect, which among the following contribute in global warming?\r\n<ol>\r\n<li>Depletion of ozone in stratosphere</li>\r\n<li>Deforestation</li>\r\n<li>Certain waste management and agricultural practices</li>\r\n<li>Nuclear Testing</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "We need to note that the ozone hole is not the mechanism of global warming. Ultraviolet radiation represents less than one percent of the energy from the sun—not enough to be the cause of the excess heat from human activities. Similarly, the total impact of all the nuclear tests done so far is minuscule and that too is a net cooling factor rather."
+}

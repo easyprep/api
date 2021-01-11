@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "9075e246-e947-4978-95b3-5e8c97ba683e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context of various environmental treaties, consider the following statements: <ol> <li>Rotterdam convention promotes safe handling and open exchange of information on international trade of certain hazardous chemicals</li> <li>Basel Convention promotes the control of transboundary movements of hazardous wastes and their Disposal</li> <li>Stockholm convention aims at conscious of the need for global action on persistent organic pollutants</li> </ol> Which of the above statements is/are correct?",
+  "option1": "3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1, 2 and 3 Only",
+  "option4": "None",
+  "option5": "",
+  "answer": "1, 2 and 3 Only",
+  "explanation": "All given statements are correct"
+}

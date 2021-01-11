@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:24.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "a28fa53e-e306-4ac0-8b45-8b1435ecc3db",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following Brahmanas with Vedas to which they are attached:\r\n<ol>\r\n<li>Satapatha Brahmana - Samaveda</li>\r\n<li>Taittiriya Brahmana - Krishna Yajurveda</li>\r\n<li>Gopatha Brahmana - Atharvaveda</li>\r\n</ol>\r\nWhich of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "The Brahmanas are the prose texts which explain the hymns in the Vedas, give explanation and applications and related stories of their origin. Gopatha Brahmana is associated with Atharvaveda, Taittiriya Brahmana with Krishna Yajurveda and Satapatha Brahmana with Sukla Yajurveda."
+}

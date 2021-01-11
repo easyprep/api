@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "2f7d63a7-57d4-439d-b255-52e772fbf0d4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Genetically Modified Crops: <ol> <li>Bt cotton was the first GM crop plant developed in the world</li> <li>China was the first country to allow commercialization of transgenic plants</li> <li>In India, the first GM crop introduced is Bt cotton</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 & 3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "<u>First statement is incorrect</u> because antibiotic resistant tobacco was the first GM crop plant in the world developed in 1983. Crops developed with the help of rDNA technologies are called genetically modified crops. Genetically modified crops can solve different problems such as increased quantity and related to agriculture in near future."
+}

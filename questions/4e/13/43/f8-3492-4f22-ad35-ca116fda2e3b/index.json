@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "4e1343f8-3492-4f22-ad35-ca116fda2e3b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What role is played by atmospheric aerosols in our environment?\r\n<ol>\r\n<li>They help in raining</li>\r\n<li>They influence Earth’s carbon budget</li>\r\n<li>They influence Earth’s radiation budget</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Aerosols are very small dust particles or droplets of liquid (other than water or ice) in a planet’s atmosphere, ranging in size from about 0.001 micrometer (?m) to larger than 100 micrometers (?m) in radius. Terrestrial aerosols includesmoke, dust, haze, and fumes. They are important in Earth’s atmosphere as nucleation sites for the condensation of water droplets and ice crystals, as participants in various chemical cycles, and as absorbers and scatterers of solar radiation. Aerosols influence Earth’s radiation budget (i.e.,the overall balance of incoming versus outgoing radiant energy), which in turn influences the climate on the surface of the planet. aerosol direct radiative effect has considerable impacts on terrestrial plant productivity and carbon budgets."
+}

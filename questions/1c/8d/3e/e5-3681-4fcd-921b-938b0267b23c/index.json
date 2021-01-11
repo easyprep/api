@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "1c8d3ee5-3681-4fcd-921b-938b0267b23c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the national park with the help of given information: <ol> <li>The park is a national park as well as a tiger reserve</li> <li>The two beautiful waterfalls Joranda and Barehipani are important features of this national park</li> <li>The park is a part of the UNESCO World Network of Biosphere Reserves</li> </ol> Select the correct answer from options given below:",
+  "option1": "Bandipur National Park",
+  "option2": "Bhitarkanika National Park",
+  "option3": "Simlipal National Park",
+  "option4": "Gangotri National Park",
+  "option5": "",
+  "answer": "Simlipal National Park",
+  "explanation": "All given features are of Simlipal National Park."
+}

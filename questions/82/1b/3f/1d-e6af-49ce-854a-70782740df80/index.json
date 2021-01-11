@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "821b3f1d-e6af-49ce-854a-70782740df80",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context of &lsquo;Kyoto protocol&rsquo;, which of the following gas (es) is/are characterised as principal greenhouse gas (es)?<br> 1. Carbon dioxide (Co2)<br> 2. Carbon Monoxide (Co)<br> 3. Ozone (o3)<br> 4. Hydrofluorocarbons (HFCs)<br> 5. Perfluorocarbons (PFCs)<br> 6. Sulphur hexafluoride (SF6)<br> Select the correct option from codes given below:",
+  "option1": "1,2,3 and 6 Only",
+  "option2": "1,4,5 and 6 Only",
+  "option3": "1,2,4 and 6 Only",
+  "option4": "1,2,3,4,5 and 6 Only",
+  "option5": "",
+  "answer": "1,4,5 and 6 Only",
+  "explanation": "The targets for the first commitment period of the Kyoto Protocol cover emissions of the six main greenhouse gases, namely:<br> &bull; Carbon dioxide (CO2);<br> &bull; Methane (CH4);<br> &bull; Nitrous oxide (N2O);<br> &bull; Hydrofluorocarbons (HFCs);<br> &bull; Perfluorocarbons (PFCs); and<br> &bull; Sulphur hexafluoride (SF6)"
+}

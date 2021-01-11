@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "ac7773f1-bbd7-457c-84b9-c3f5ba716dbe",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is used as a coagulant for removal of phosphates from wastewater?",
+  "option1": "Aluminium sulphate",
+  "option2": "Iron sulphate",
+  "option3": "Copper sulphate",
+  "option4": "Potassium chromate",
+  "option5": "",
+  "answer": "Aluminium sulphate",
+  "explanation": "Aluminum sulfate reacts directly with the phosphate present in the wastewater and creates insoluble aluminum phosphate. Aluminium ion hydrolyzes in water and produce aluminum hydroxide that carries the phosphate which can be removed from waste water."
+}

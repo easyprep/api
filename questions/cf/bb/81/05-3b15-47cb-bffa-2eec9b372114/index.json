@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:27.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "cfbb8105-3b15-47cb-bffa-2eec9b372114",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following animals: <ol> <li>Toads</li> <li>Bees &nbsp;</li> <li>Bats</li> <li>Bears</li> </ol> Which of the above are true hibernators?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Bears are not true hibernators. They do go into a deep sleep during the winter months, known as torpor, which is not hibernation.&nbsp;"
+}

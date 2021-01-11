@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "c6cf0234-1752-4853-89e6-1f6ff7dd58c1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about the&nbsp;SPICE Project: <ol> <li>The project aims at reducing&nbsp;the production of ozone-depleting chemicals</li> <li>It aims at&nbsp;removal of sulphate particles, or aerosols from the stratosphere</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "The project aims at Global dimming. First statement is incorrect because the project aims at injecting significant quantities of particles into the&nbsp;stratosphere to provide overall cooling effect. Second statement is incorrect because the project aims at injecting sulphate particles, or aerosols in stratosphere."
+}

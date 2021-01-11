@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "240f9107-6d41-4109-8137-e8efa7635bc2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following are endangered bird species of India:<br> 1. Narcondam hornbill<br> 2. Himalayan quail<br> 3. Nicobar flying fox<br> 4. House Sparrow<br> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Nicobar Flying Fix is a mammal. House Sparrow comes under Least Concerned."
+}

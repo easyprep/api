@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:31.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "dba49ce8-7f84-4c51-83a1-af24727d1129",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with the green house gases, consider the following statements:<br> 1.GHGs absorb the radiation in the visible range and emit the radiation in thermal infrared range<br> 2.Without GHGs , earth would have been cooler than at present<br> 3.Oceans are sinks of Green Houses Gases<br> Which among the above is / are correct statements?",
+  "option1": "Only 1 & 2 are correct statements",
+  "option2": "Only 2 & 3 are correct statements",
+  "option3": "1, 2 & 3 are correct statements",
+  "option4": "Only 3 is a correct statement",
+  "option5": "",
+  "answer": "Only 2 & 3 are correct statements",
+  "explanation": "Greenhouse Gases are gases in the atmosphere that absorb and emit radiation within the thermal infrared range. This process is the fundamental cause of the greenhouse effect. Greenhouse Gases greatly affect the temperature of the Earth; without them, the Earth’s surface would be about 33°C (59 °F) colder than at present."
+}

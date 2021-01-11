@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:27.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "0118b62a-2c6a-4e80-a3d8-60ab92169924",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are amphibian(s)? \r\n<ol>\r\n<li>Frogs</li>\r\n<li>Slammenders</li>\r\n<li>Tortoises</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Tortoises are reptiles."
+}

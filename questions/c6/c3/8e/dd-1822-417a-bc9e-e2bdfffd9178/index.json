@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "c6c38edd-1822-417a-bc9e-e2bdfffd9178",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about the Ganges river dolphin?\r\n<ol>\r\n<li>It can only live in freshwater</li>\r\n<li>It is essentially blind</li>\r\n<li>It is mostly vegetarian and survives on aquatic flora</li>\r\n<li>It has no real fins</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 4",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The Ganges river dolphin can only live in freshwater and is essentially blind. They are non-veg as other dolphins and hunt by emitting ultrasonic sounds, which bounces off of fish and other prey. They have real fins, the statement was a trap."
+}

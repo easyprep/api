@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "6c5412a0-771a-47c6-8c11-4e6e5f165b83",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The highest Biological Oxygen Demand (BOD) can be expected in __?",
+  "option1": "A running river",
+  "option2": "A running polluted river",
+  "option3": "Treated Municipal waste water",
+  "option4": "Untreated Municipal waste water",
+  "option5": "",
+  "answer": "Untreated Municipal waste water",
+  "explanation": "BOD is amount of dissolved oxygen needed by aerobic biological organisms in a body of water to break down organic material present in a given water sample at certain temperature over a specific time period, for running rivers, it would be minimum and for Untreated Municipal waste water it would be maximum."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "4dda6178-3230-4d83-a6b4-22a0c932458d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following can be used for production of ethanol for the purpose of biofuels?\r\n<ol>\r\n<li>Sugarcane</li>\r\n<li>Rice Husk</li>\r\n<li>Wheat stalks</li>\r\n<li>Wooden chips</li>\r\n</ol>\r\nSelect the correct statement from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "There are two concepts viz. firs t generation alcohol and second generation alcohol. The first generation is produced from various sources of carbohydrates such as Sugarcane, Potato, Wheat, Rice etc. Second generation is the Lignocellulogic alcohol produced from Cellulose. The sources can be stalks, leaves, bagasse, and husks of rice, wheat, wood chips, sawdust etc."
+}

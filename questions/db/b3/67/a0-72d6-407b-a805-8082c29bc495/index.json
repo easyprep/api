@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "dbb367a0-72d6-407b-a805-8082c29bc495",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the &#8220;Basel Convention&#8221; on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, consider the following statements:<br> 1. It was signed explicitly to prevent transfer of Hazardous wastes from the developed countries to developing and less developed countries<br> 2. It talks explicitly about the Nuclear wastes and Hazards<br> 3. As per this convention, a waste is called Hazardous waste if it is defined as Hazardous in the law of importing country<br> Which of the above is / are correct statements?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 & 2 are correct",
+  "option3": "Only 2 & 3 are correct",
+  "option4": "1, 2 & 3 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<ol> <li>Basel Convention does not talk about the Nuclear waste</li> <li>It defines the waste as something which has been defined as hazardous in the legislation of exporting OR importing OR the transit country.</li> </ol>"
+}

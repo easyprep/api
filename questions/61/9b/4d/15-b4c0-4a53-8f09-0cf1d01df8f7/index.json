@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "619b4d15-b4c0-4a53-8f09-0cf1d01df8f7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br />1. One molecule of chlorofluorocarbons (CFCs) has the same greenhouse effect as have 10,000 molecules of carbon dioxide<br />2. Methane has 1000 times green house gas effect as compared to CO2<br />Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Only one chlorofluorocarbon molecule in the air can create the same greenhouse effect as the addition of 10,000 molecules of CO2. Methane is not as highly concentrated in the atmosphere as carbon dioxide."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "76fd33c8-d206-4a01-907c-1c402c377b62",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following ecosystem types: <ol> <li>Forest ecosystem</li> <li>Pond ecosystem</li> <li>Grassland ecosystem</li> </ol> Which of the above has/have inverted pyramid for biomass?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Grassland ecosystem and Forest ecosystem have upright pyramid for biomass."
+}

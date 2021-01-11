@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:31.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "9fa15c15-526a-4dd6-83b6-92f3109663db",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The National Parks in India are equivalent to which among the following IUCN Protected Area Management Categories?",
+  "option1": "IUCN Ia",
+  "option2": "IUCN Ib",
+  "option3": "IUCN II",
+  "option4": "IUCN III",
+  "option5": "",
+  "answer": "IUCN II",
+  "explanation": "IUCN protected area management categories classify protected areas according to their management objectives. They are la Strict Nature Reserve, Ib Wilderness Area, II National Park, III Natural Monument or Feature, IV Habitat/ Species Management Area, V Protected Landscape/ Seascape, VI Protected area with sustainable use of natural resources."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:31.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "64edaf91-7515-40e5-9221-846aa560bff0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Why is thermal pollution a problem for marine organisms?",
+  "option1": "Marine Organisms are hot-blooded and thermal pollution may overheat them",
+  "option2": "Marine Organisms live in narrow temperature range and thermal pollution may breakdown their metabolism",
+  "option3": "Thermal pollution destroys the primary producers of the marine ecosystem and other organisms die because of food scarcity",
+  "option4": "All of the above are correct explanations",
+  "option5": "",
+  "answer": "Marine Organisms live in narrow temperature range and thermal pollution may breakdown their metabolism",
+  "explanation": "Thermal pollution, the release of liquid or gas that increases heat in a surrounding area, has far-reaching and damaging ecological effects by impacting aquatic organisms and animal populations. Cold-blooded organisms adapted to specific temperature ranges. If water temperatures change too much, metabolic processes break down. Unlike humans, who can adapt to wide temperature ranges, most organisms live in narrow temperature niches. Unlike humans, who can adapt to wide temperature ranges, most organisms live in narrow temperature niches and their metabolism breaks down at higher temperatures."
+}

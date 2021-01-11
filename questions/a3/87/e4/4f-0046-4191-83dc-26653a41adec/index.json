@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:25.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "a387e44f-0046-4191-83dc-26653a41adec",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following matches:<br> 1. ISO 4217 &#8211; Currency Codes<br> 2. ISO 14000 &#8211; Environmental management<br> 3. ISO 9000 &#8211; Quality Management<br> Which among the above are correct matches?",
+  "option1": "1 & 2",
+  "option2": "1 & 3",
+  "option3": "1, 2 & 3",
+  "option4": "2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "<ol> <li>ISO 4217 &#8211; Currency Codes</li> <li>ISO 14000 &#8211; Environmental management</li> <li>ISO 9000 &#8211; Quality Management</li> </ol> Please note that ISO 10303 is known as &#8220;STEP&#8221;, which stands for &#8220;Standard for the Exchange of Product model data&#8221;."
+}

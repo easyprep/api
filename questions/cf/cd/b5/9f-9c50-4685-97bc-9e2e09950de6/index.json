@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:19.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "cfcdb59f-9c50-4685-97bc-9e2e09950de6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Mansabdari System: <ol> <li>The system was introduced by Akbar in his administration</li> <li>The position of mansabdar was hereditary in nature</li> <li>Mansabdars were directly recruited by the Emperor</li> <li>The mansabdar appointed was responsible for all legislative, executive and judicial functions in territory allotted to him</li> </ol> Which of the above statements are correct?",
+  "option1": "1, 3 & 4 Only",
+  "option2": "1 & 3 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 3 Only",
+  "explanation": "Fourth statement is incorrect because mansab system included public services like military, civil and financial but not judicial services. Second statement is also incorrect. Other two statements are correct."
+}

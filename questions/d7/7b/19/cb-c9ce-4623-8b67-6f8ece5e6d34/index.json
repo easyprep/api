@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:49.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "d77b19cb-c9ce-4623-8b67-6f8ece5e6d34",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong>Department&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Established by</strong><br> Diwan-i-Bandagan &nbsp;&nbsp;: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qutubuddin Aibak<br> Diwan-i-Mustkharaj : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alauddin Khilji&nbsp;<br> Diwan-i-Khairat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;&nbsp;&nbsp;&nbsp; Firoz Shah Tughlaq<br> Which of the above is/are correctly matched?<br> &nbsp;",
+  "option1": "1 Only",
+  "option2": "2 and 3 Only",
+  "option3": "1 and 2 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "First match is wrong because&nbsp;<strong style=\"line-height:1.6\">Diwan-i-Bandagan was a&nbsp;</strong><span style=\"line-height:1.6\">department of slaves started by Firoz shah Tughlaq</span>"
+}

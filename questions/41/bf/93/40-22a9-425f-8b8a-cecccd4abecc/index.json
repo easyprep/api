@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:27.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "41bf9340-22a9-425f-8b8a-cecccd4abecc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent years, many countries have decided to ban phosphates&nbsp;use in&nbsp;detergents. Which of the following may be the reason(s) for the same? <ol> <li>Phosphates uses causes eutrophication of waters</li> <li>Phosphates leads to Biomagnification</li> <li>Phosphates causes destruction of the stratospheric ozone&nbsp;</li> <li>Phosphates leads to formation of ground level ozone</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Use of phosphate pollutes lakes, bays and streams.&nbsp;It creates algae blooms and starves fish of oxygen. The major drawback is that secondary wasterwater treatment removes only a small percentage of phosphorus from the influent, so a considerable amount of phosphorus is released to streams, rivers, lakes and estuaries through wastewater effluent. The low solubility of phosphates leads to biomagnification."
+}

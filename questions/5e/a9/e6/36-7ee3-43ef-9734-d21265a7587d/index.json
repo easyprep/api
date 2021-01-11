@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:49.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "5ea9e636-7ee3-43ef-9734-d21265a7587d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements about Manasabdari system in India?\r\n<ol>\r\n<li>The system was introduced by Akbar in India</li>\r\n<li>Mansabdars were commanders of horsemen</li>\r\n<li>Mansabdars received fixed monthly salary as per rank</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 Only",
+  "option2": "1 and 3 Only",
+  "option3": "1 and 2 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "All the above statements are correct.Mansabdars were paid in Zat and Sawar.Zat was a fixed personal salary of mansabdars and sawar was paid as per their rank or number of horsemen to be controlled by them."
+}

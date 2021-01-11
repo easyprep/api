@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "21c72c68-a5bb-414c-ba11-df117065f539",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following gases are recognized as principal greenhouse gases with respect to Kyoto protocol?<br> 1. Carbon dioxide (CO2)<br> 2. Carbon Monoxide (CO)<br> 3. Ozone (O3)<br> 4. Hydrofluorocarbons (HFCs)<br> 5. Perfluorocarbons (PFCs)<br> 6. Sulphur hexafluoride (SF6)<br> Select the correct option from codes given below:",
+  "option1": "1, 2, 3 and 6 Only",
+  "option2": "1, 4, 5 and 6 Only",
+  "option3": "1, 2, 3 and 5 Only",
+  "option4": "1, 2, 3, 4, 5 and 6",
+  "option5": "",
+  "answer": "1, 4, 5 and 6 Only",
+  "explanation": "The targets for the first commitment period of the Kyoto Protocol cover emissions of the six main greenhouse gases, namely:<br> • Carbon dioxide (CO2);<br> • Methane (CH4);<br> • Nitrous oxide (N2O);<br> • Hydrofluorocarbons (HFCs);<br> • Perfluorocarbons (PFCs); and<br> • Sulphur hexafluoride (SF6)"
+}

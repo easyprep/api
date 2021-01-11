@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:24.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "8d954fd5-7f89-4bd9-b664-77c03df01377",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following taxonomic ranks used in the biological classification:<br> 1. Phylum<br> 2. Class<br> 3. Genus<br> 4. Species<br> Which among the above actually exist in nature as a natural unit?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "Only 4",
+  "option5": "",
+  "answer": "Only 4",
+  "explanation": "All the taxonomic ranks except species consist of arbitrarily defined groups."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:31.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "77a2b966-1035-4e9b-8033-800f9d6d250a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:\r\n<ol>\r\n<li>Oxides of Sulphur</li>\r\n<li>Oxides of Carbon</li>\r\n<li>Oxides of Nitrogen</li>\r\n<li>Ground Level Ozone</li>\r\n</ol>\r\nWhich among the above have been included in the National Air Quality Index (AQI)?",
+  "option1": "1, 2 & 3",
+  "option2": "2, 3 & 4",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "National AQI considers eight pollutants (PM10, PM2.5, NO2, SO2, CO, O3, NH3, and Pb."
+}

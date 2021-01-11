@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "bb90aa0c-80bf-4278-91f7-a580ea9d753c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about CITES (Convention on International Trade in Endangered Species):<br> 1.CITES is an intergovernmental organisation, restricting international trade of endangered fauna and flora.<br> 2.CITES was drafted of a resolution adopted at general conference of UNESCO.<br> 3.CITES is legally binding on the states ratifying the agreement.<br> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 and 3 Only",
+  "option3": "1 and 3 Only",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 3 Only",
+  "explanation": "Second statement is incorrect because CITES was drafted under UNEP. CITES (the Convention on International Trade in Endangered Species of Wild Fauna and Flora) is an international agreement between governments. Its aim is to ensure that international trade in specimens of wild animals and plants does not threaten their survival. As a result of convention, all import and export; re-export of plant and animal species covered by the Convention has to be authorized through a licensing system."
+}

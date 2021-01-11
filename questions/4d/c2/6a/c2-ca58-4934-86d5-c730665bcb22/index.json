@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:27.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "4dc26ac2-ca58-4934-86d5-c730665bcb22",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following organisms: <ol> <li>Codfish</li> <li>Goatfish</li> <li>Hagfish</li> <li>Dogfish</li> </ol> Which of the above is/are true fish(es)?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "Hagfish is not a true fish. It is a member of phylum chordata and is a&nbsp;&nbsp;jawless vertebrate.&nbsp;"
+}

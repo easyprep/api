@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:27.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "394fad9f-be5f-427e-a588-fe4aeeff992f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are pollinating agents in plants?\r\n<ol>\r\n<li>Bees</li>\r\n<li>Birds</li>\r\n<li>Lizard</li>\r\n<li>Mice</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Many vertebrate such as bats, birds, mice, and even lizards serve as pollinators. Kindly note that pollination by rodents, shrews, and marsupials is collectively referred to as <strong>therophilly</strong>."
+}

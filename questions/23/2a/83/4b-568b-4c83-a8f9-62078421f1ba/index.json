@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "232a834b-568b-4c83-a8f9-62078421f1ba",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs of indicator species with what they indicate: <ol> <li>Stone fly  -  Air pollution</li> <li>Lichens -  Water pollution</li> <li>Mosses <strong> - </strong>Indicate acidic soil</li> </ol> Which of the above is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "3 Only",
+  "option4": "2 & 3 Only",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "Stone Fly indicates extent of water pollution. Lichens are indicators of air pollution."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "82c0b1a8-a1dd-4625-b7a0-5bb4724ec109",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Carbon monoxide poisoning is the most common type of fatal air poisoning in many parts of the world. What makes it such a fatal gas?",
+  "option1": "CO dissolves in cytoplasm and functions as an inhibitor of the crucial enzymes for metabolism",
+  "option2": "CO competes with Haemoglobin for Oxygen intake",
+  "option3": "CO dissolves in blood Plasma and spreads toxicity",
+  "option4": "CO converts into Carbon Dioxide in presence of water in Blood",
+  "option5": "",
+  "answer": "CO competes with Haemoglobin for Oxygen intake",
+  "explanation": "Carbon monoxide is colourless, odourless, and tasteless, but highly toxic because it combines with haemoglobin to produce carboxyhemoglobin, which usurps the space in haemoglobin that normally carries oxygen, but is ineffective for delivering oxygen to bodily tissues. Concentrations as low as 667 ppm may cause up to 50% of the body&#8217;s hemoglobin to convert to carboxyhemoglobin. The impact is irreversible and that is why that even after available of oxygen, the carboxyhemoglobin does not allow the Oxygen to be taken up."
+}

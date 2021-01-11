@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "38506d85-fc16-42b4-848f-77f2af0e812b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Particulate Matter 2.5 (PM2.5): <ol> <li>PM 2.5 can only&nbsp;be&nbsp;detected&nbsp;using an&nbsp;electron microscope</li> <li>Afforestation can be very effective &nbsp;in minimizing the amount of PM2.5 in the atmosphere</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Deforestation is not the major cause for increase in PM2.5; neither can afforestation help in decreasing the PM2.5 level. The only way to cut its reduction is to cut its emission sources like cars, factories, waste burning and thermal power plants."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:24.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "c7d37160-1cb7-430f-b6f3-e44cfb97381d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements scientifically explains the fact that a rough sea can be calmed by pouring oil on its surface?",
+  "option1": "The oil increases the surface tension of water",
+  "option2": "The surface tension of the oil film absorbs energy of waves",
+  "option3": "The winds creating waves are blocked by the oil film",
+  "option4": "None of the reasons mentioned in A, B and C",
+  "option5": "",
+  "answer": "The surface tension of the oil film absorbs energy of waves",
+  "explanation": "When the waves go underneath the film, the surface tension of the oil film makes them to lose some of the energy."
+}

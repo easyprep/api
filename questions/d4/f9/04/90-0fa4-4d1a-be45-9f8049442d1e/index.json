@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "d4f90490-0fa4-4d1a-be45-9f8049442d1e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following fauna: <ol> <li>Himalayan snowcock</li> <li>Red fox</li> <li>Golden eagle</li> </ol> Which of the above has/have been listed as endangered species in IUCN list?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "Himalayan snowcock - Least concern<br> Red fox - least concern<br> Golden eagle - least concern"
+}

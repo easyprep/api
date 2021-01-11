@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:34.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "01ddff6b-7e2a-48a9-9eac-70a59c35da58",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following chemicals is/are responsible for eutrophication? <ol> <li>Nitrogen</li> <li>Phosphorus</li> <li>Potash</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "1 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The most common nutrients causing eutrophication are nitrogen, phosphorus and potash."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "58efe99e-669b-487f-bdb5-c7465fac9793",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the famous rock structure with the help of given information: <ol> <li>It is a UNESCO World Heritage Site</li> <li>It was built by the Rashtrakuta dynasty</li> <li>It is locally known as ‘Verul Leni’ and consists of Hindu, Buddhist and Jain rock-cut temples</li> </ol> Select the correct answer from options given below:",
+  "option1": "Ajanta",
+  "option2": "Ellora",
+  "option3": "Elephanta",
+  "option4": "Bhaja",
+  "option5": "",
+  "answer": "Ellora",
+  "explanation": "All given features are of Ellora caves"
+}

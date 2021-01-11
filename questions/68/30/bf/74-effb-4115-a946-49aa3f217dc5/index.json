@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "6830bf74-effb-4115-a946-49aa3f217dc5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following is / are correct features of an Ecosystem?\r\n<ol>\r\n<li>It is made up of living as well as non-living components</li>\r\n<li>It is capable of independent existence</li>\r\n<li>It functions as a close system with respect to energy flow</li>\r\n<li>The Primary consumers outnumber the producers</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The third statement in this question is incorrect. The Energy enters the biological system as light energy, or photons, is transformed into chemical energy in organic molecules by cellular processes including photosynthesis and respiration, and ultimately is converted to heat energy. This energy is dissipated, meaning it is lost to the system as heat; once it is lost it cannot be recycled. Without the continued input of solar energy, biological systems would quickly shut down. Thus the entire earth is an open system with respect to energy. The same if true for every ecosystem on earth. The transformations of energy in an ecosystem begin first with the input of energy from the sun.<br />The fourth statement is also incorrect. It depends upon a particular food chain."
+}

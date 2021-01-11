@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "2793a2b8-3fb2-4b3a-98b7-4b450918e59c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Which of the following statements is/are correct about carbon monoxide? <ol> <li>Carbon monoxide is highly soluble in human blood</li> <li>Carbon monoxide is one of the pollutants used to measure the National AQI</li> <li>Carbon monoxide is one of the green house gases listed under Kyoto protocol</li> </ol> &nbsp; &nbsp;Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "The National AQI considers eight pollutants (PM<sub>10</sub>, PM<sub>2.5</sub>, NO<sub>2</sub>, SO<sub>2</sub>, CO, O<sub>3</sub>, NH<sub>3</sub>, and Pb). So, Second statement is true. Six&nbsp;greenhouse gases&nbsp;have been covered by the Kyoto Protocol&nbsp;&mdash; carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydro fluorocarbons (HFCs), per fluorocarbons (PFCs), and sulphur hexafluoride (SF<sub>6</sub>). So, third statement is incorrect."
+}

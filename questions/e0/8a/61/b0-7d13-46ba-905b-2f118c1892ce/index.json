@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:22.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "e08a61b0-7d13-46ba-905b-2f118c1892ce",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following newspapers/journals/magazines: <ol> <li>Navjeevan</li> <li>Young India</li> <li>Harijan</li> <li>Indian Opinion</li> </ol> Mahatma Gandhi was the editor for which of the above?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "3 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All of the above given newspapers/journals/magazines were edited by Mahatma Gandhi"
+}

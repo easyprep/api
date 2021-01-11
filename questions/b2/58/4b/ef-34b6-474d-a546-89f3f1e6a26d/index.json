@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "b2584bef-34b6-474d-a546-89f3f1e6a26d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "To qualify as a Biodiversity Hotspot, an area must contain__:<br> 1.At least 1,500 species of endemic vascular plants<br> 2.At least 70 percent land covered by vascular plants<br> 3.At least 25 threatened species of mammals<br> 4.At least one protected area such as national park<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Endemism: it must contain at least 1,500 species of vascular plants (&gt; 0.5 percent of the world&#8217;s total) as endemics, and loss of Habitat: it has to have lost at least 70 percent of its original habitat."
+}

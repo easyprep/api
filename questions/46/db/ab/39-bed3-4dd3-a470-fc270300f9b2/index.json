@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:31.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "46dbab39-bed3-4dd3-a470-fc270300f9b2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are offered by the Gene Sanctuaries?\r\n<ol>\r\n<li>ex-situ conservation of plant genetic resources</li>\r\n<li>cheap method of germplasm conservation</li>\r\n<li>way to preserve both the wild species and natural ecosystems</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Conservation of germplasm under natural conditions is referred to as in situ conservation. This is achieved by protecting the area from human interference; such an area is often called Natural Park or gene sanctuary. NBPGR, New Delhi, established gene sanctuaries in Meghalaya for citrus, north Eastern regions for musa, citrus, oryza and saccharum. In this method of conservation, the wild species and the compete natural or seminatural ecosystems are preserved together. The demerit is that each protected area will cover only very small portion of total diversity of a crop species, hence several areas will have to be conserved for a single species. The management of such areas also poses several problems. This is also a costly method of germplasm conservation."
+}

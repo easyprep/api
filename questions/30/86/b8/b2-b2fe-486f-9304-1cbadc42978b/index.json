@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:25.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "3086b8b2-b2fe-486f-9304-1cbadc42978b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong>Tiger Reserve : State </strong> <ol> <li>Sariska : Gujarat</li> <li>Rajaji : Uttar Pradesh</li> <li>Bandipur : Maharashtra</li> </ol> Which of the above pairs is/are correctly matched?",
+  "option1": "3 Only",
+  "option2": "1 and 3",
+  "option3": "1,2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "Sariska tiger reserve is in Rajasthan.Rajaji tiger reserve is in Uttarakhand.Bandipur tiger reserve is in Karnataka."
+}

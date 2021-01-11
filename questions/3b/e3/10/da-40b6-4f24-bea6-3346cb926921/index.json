@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "3be310da-40b6-4f24-bea6-3346cb926921",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about a biodiversity hotspot: <ol> <li>A biodiversity hotspot must have atleast 1500 vascular plants as endemic</li> <li>It must have lost more than 70% of its original habitat</li> <li>The&nbsp;Western Ghats of India is a biodiversity hotspot</li> </ol> &nbsp;Which among the above statements is/are correct?<br> &nbsp;",
+  "option1": "1 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "All the given statements are correct"
+}

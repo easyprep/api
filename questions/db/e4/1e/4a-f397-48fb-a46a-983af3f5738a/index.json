@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "dbe41e4a-f397-48fb-a46a-983af3f5738a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following fauna: <ol> <li>Indian flying fox&nbsp;</li> <li>Indian treeshrew</li> <li>Lesser mouse-tailed bat</li> </ol> Which of the above is/are listed under &ldquo;threatened&rdquo; species by IUCN?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "3 Only",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "All given fauna are under least concern category."
+}

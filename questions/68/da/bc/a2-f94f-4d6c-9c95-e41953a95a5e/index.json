@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "68dabca2-f94f-4d6c-9c95-e41953a95a5e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A grasshopper eats plants, rabbit eats grasshopper and a hawk eats the rabbit. The position of grasshopper in the given food chain is of:",
+  "option1": "Primary producer",
+  "option2": "Primary consumer",
+  "option3": "Secondary consumer",
+  "option4": "Tertiary consumer",
+  "option5": "",
+  "answer": "Primary consumer",
+  "explanation": "Primary producers are plants. Primary consumers are which feed directly and only on all or part of living plants. Secondary consumers are which feed only on plant-eating animals. Tertiary or higher level consumers, which feed only on animal-eating animals. Grasshopper in above food chain is a primary consumer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:34.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "51ac5111-ea35-4691-9bc0-990752170561",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Consider the following pairs: <ol> <li>Grey water footprint -  Volume of freshwater required to dilute pollutants to such an extent that the quality of the water remains above agreed standards</li> <li>Blue water footprint -  Volume of surface and groundwater consumed as a result of the production of a good or service</li> <li>Green water footprint -  Volume of rainwater consumed during the production process</li> </ol> &nbsp; Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All of the above are correct<br> Green water footprint is particularly relevant for agricultural and forestry products. Blue water footprint refers to consumption of the volume of freshwater used and then evaporated or incorporated into a product. Grey water footprint is defined as the volume of freshwater that is required to assimilate the load of pollutants based on existing ambient water quality standards."
+}

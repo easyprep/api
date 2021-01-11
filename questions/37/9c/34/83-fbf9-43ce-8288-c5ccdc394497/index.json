@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:35.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "379c3483-fbf9-43ce-8288-c5ccdc394497",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which is the most abundant greenhouse gas present in the atmosphere?",
+  "option1": "Carbon dioxide",
+  "option2": "Methane",
+  "option3": "Water vapour",
+  "option4": "Nitrous oxide",
+  "option5": "",
+  "answer": "Water vapour",
+  "explanation": "The most abundant greenhouse gas in Earth's atmosphere is Water vapour. The higher concentration of water vapour in the atmosphere allows absorbing more thermal IR energy radiated from the Earth, thus further warming the atmosphere. The warmer atmosphere can then hold more water vapour and so on and so on. This is referred to as a 'positive feedback loop'."
+}

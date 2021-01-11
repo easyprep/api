@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:25.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "f1f4da00-8549-4154-9c7b-c4c71ed79971",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Green Climate Fund: <ol> <li>It was established at 21st Conference of Parties (COP)held in Paris, France.</li> <li>It aims at mobilization of funds from developed countries to developing countries.</li> <li>It is governed by the GCF Board.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "2 Only",
+  "option2": "1 and 3 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "First Statement is wrong because GCF was established during COP 16 at Cancun, in Mexico, in the year 2010.COP 21 was held at Paris, in France, in the year 2015."
+}

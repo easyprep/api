@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "73bd4210-a495-46ae-a317-6b4d8a70d141",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are advantages of preservation of biodiversity?\r\n<ol>\r\n<li>It helps in isolation of unique genetic material so it can be incorporated into existing crops</li>\r\n<li>It helps in increasing the chances of discovering organisms with medicinal value</li>\r\n<li>It helps in prevention of natural selection</li>\r\n<li>In helps in finding new plants that can supplement the world’s food supply</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "Third statement is incorrect. Preservation of biodiversity helps in natural selection instead."
+}

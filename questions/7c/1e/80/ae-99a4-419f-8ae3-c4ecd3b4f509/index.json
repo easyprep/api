@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:44.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "7c1e80ae-99a4-419f-8ae3-c4ecd3b4f509",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements conform to the tradition about Vedas?\r\n<ol>\r\n<li>Vedas are eternal and not authored by human beings</li>\r\n<li>Vedas comprise the traditional wisdom transmitted from generation to generation</li>\r\n<li>Vedas are root or primordial texts of Hindu tradition</li>\r\n<li>Vedas are composed of versified mantras, prose mantras, and melodies</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 2, 3 & 4",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "According to tradition they are un-authored (<strong>apaurusheya</strong>) and eternal. They are also known with some other terms such as: <br />\r\n<ul>\r\n<li><strong>Nigama:</strong> Traditional wisdom transmitted from generation to generation</li>\r\n<li><strong>Amnaaya:</strong> The root texts or primordial texts of (Hindu) tradition</li>\r\n<li><strong>Trayi:</strong> The Vedic texts comprising of Versified mantras, prose mantras, and melodies</li>\r\n</ul>"
+}

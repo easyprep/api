@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:28.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "d973ce71-0544-4975-bb92-eb7b959da6be",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following crops: <ol> <li>Winter wheat</li> <li>Alfalfa</li> <li>Clover</li> <li>Soybeans</li> </ol> Which of the above can be used as green manure?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Green manure crops are grown not for harvesting, but for improving the overall quality of the soil because green manures crop help in nitrogen fixation. Many of the legumes used as green manures, such as alfalfa, lupins and sweet clover."
+}

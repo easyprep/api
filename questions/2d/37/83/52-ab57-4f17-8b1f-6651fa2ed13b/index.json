@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:35.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "2d378352-ab57-4f17-8b1f-6651fa2ed13b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Cloud seeding is a buzzword in recent times. Which of the following chemicals are used in cloud seeding?\r\n<ol>\r\n<li>Silver Iodide</li>\r\n<li>Potassium Iodide</li>\r\n<li>Dry Ice</li>\r\n<li>Liquid Propane</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The most common chemicals used for cloud seeding include silver iodide, potassium iodide, dry ice (solid carbon dioxide) and Liquid propane. Cloud seeding is an artificial form of weather modification which changes the amount or type of precipitation that falls from clouds."
+}

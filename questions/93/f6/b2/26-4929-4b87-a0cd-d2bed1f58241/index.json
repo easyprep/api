@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "93f6b226-4929-4b87-a0cd-d2bed1f58241",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Bio-Digester bio-toilet:<br />1. is 100% maintenance free<br />2. produces inflammable gas containing majority of methane<br />3. involves decomposition of waste by a consortium of bacteria and fungi<br />4. works in a limited range of temperatures<br />Which among the above is / are correct?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Bio-Digester bio-toilet is 100% maintenance free. It doesn’t need any external energy for treatment. It produces inflammable gas, which contains maximum amount of methane."
+}

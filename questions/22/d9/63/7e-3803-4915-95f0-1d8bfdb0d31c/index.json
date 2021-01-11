@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "22d9637e-3803-4915-95f0-1d8bfdb0d31c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the biome with the help of given information: <ol> <li>This biome is mainly found in the middle-latitude regions</li> <li>Rainfall here may reach up to 250cm per year</li> <li>The region is periodically covered in fog which provides more moisture for the plants</li> <li>Oak, pine, spruce are the common tree species found in this region</li> </ol> Select the correct answer from options given below:",
+  "option1": "Temperate rainforest",
+  "option2": "Savanna",
+  "option3": "Temperate deciduous forest",
+  "option4": "Tropical rainforest",
+  "option5": "",
+  "answer": "Temperate rainforest",
+  "explanation": "All given features are of temperate rainforest"
+}

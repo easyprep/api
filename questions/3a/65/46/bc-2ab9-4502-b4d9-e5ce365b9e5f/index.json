@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:24.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "3a6546bc-2ab9-4502-b4d9-e5ce365b9e5f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The following bar chart shows the relative biomass of four different populations of a particular food pyramid.<br>\r\n<img src=\"http://www.gktoday.in/wp-content/uploads-back/2015/02/biomass.jpg\" alt=\"\" /><br>\r\nWhich among the above populations is most likely of producers?",
+  "option1": "Population A",
+  "option2": "Population B",
+  "option3": "Population C",
+  "option4": "Population D",
+  "option5": "",
+  "answer": "Population B",
+  "explanation": "Population B is most likely composed of producers, because they have the largest biomass."
+}

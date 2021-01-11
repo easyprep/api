@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:26.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "00dd3450-3d21-4baa-8171-2f145e8271db",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following will rise with rising meat production and consumption?\r\n<ol>\r\n<li>Water footprint</li>\r\n<li>Phosphorous footprint</li>\r\n<li>Carbon foot print</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Most of you know about the water footprint caused by meat production. Rising meat consumption in the last five decades has also caused a 38 per cent increase in the world’s per capita “phosphorus footprint”. This is because it takes many kilogrammes of feed, grown using phosphate fertilizers, to breed a cattle for its meat. Phosphorus is being mined for these fertilisers at amuch faster rate than geological cycles can replenish it. Inclusion of diet change strategies in phosphorus management studies could bring down the demand for mined phosphorus. Meat production also increases Carbon footprint."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "ccc59d31-de9a-4764-bb9c-3f0c381d2ad9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following gas is responsible for Ocean Acidification?",
+  "option1": "Sulfur Dioxide",
+  "option2": "Carbon Dioxide",
+  "option3": "Nitric Oxide",
+  "option4": "Ozone",
+  "option5": "",
+  "answer": "Carbon Dioxide",
+  "explanation": "Carbon Dioxide is associated with the Ocean Acidification and is emitted from combustion, factories and respiration of living organisms. When CO2 dissolved in the Ocean water, it creates Carbonic Acid (H2CO3) and increases the Hydrogen Ion (H+) concentration in the ocean."
+}

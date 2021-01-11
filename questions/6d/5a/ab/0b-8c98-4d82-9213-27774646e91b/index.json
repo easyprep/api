@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:25.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "6d5aab0b-8c98-4d82-9213-27774646e91b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about multi-stage ozonation-biological treatment: <ol> <li>It is a process for removal of dissolved inorganic carbon during water treatment.</li> <li>It can be implemented on existing Standard Temperature and Pressure (STP).</li> <li>It minimizes the electromechanical component and power uses.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "First statement is wrong because the technology is for removal of dissolved organic carbon (DOC) during water treatment. Inorganic carboniscarbonextracted from ores and minerals, as opposed to organiccarbonfound in nature through plants and living things. Benefits of multi-stage ozonation-biological treatment (MSBT) are:No Surplus of Organic Sludge, No Odour problem, Drastic reduction of Electrical Power usage which minimizes operating costs, No need for return sludge pumping (minimizing electromechanical component which ultimately reduces operating cost)."
+}

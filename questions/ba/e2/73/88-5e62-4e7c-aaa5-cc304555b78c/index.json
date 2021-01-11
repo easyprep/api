@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "bae27388-5e62-4e7c-aaa5-cc304555b78c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the correct food chain?",
+  "option1": "Grass  - Chameleon  - Insect  - Bird",
+  "option2": "Grass  - Fox  - Rabbit  - Bird",
+  "option3": "Phytoplankton  - Zooplankton  -  Fish",
+  "option4": "Fallen leaves  -  Bacteria  -  Insect larvae",
+  "option5": "",
+  "answer": "Phytoplankton  - Zooplankton  -  Fish",
+  "explanation": "Third option is the correct answer"
+}

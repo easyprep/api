@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:33:44.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "8b568be6-ae0f-4597-b14c-7816991fdaf3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following texts: <br> 1. Jatakas<br> 2. Acharangasutra<br> 3. Dighnikaya<br> 4. Sumangalavilasini<br> Which among the above is / are Buddhist texts?",
+  "option1": "Only 1 & 3",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 3 & 4",
+  "explanation": "Acharangasutra is one of the 12 Angas of Jainism"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "1b3dc61e-08ee-4456-b62f-9f587b8e71ba",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The government categorizes the industries into three categories viz. Red, Orange and Green in terms of the pollution criteria. Which among the following come under the Orange category?\r\n<ol>\r\n<li>Food processing</li>\r\n<li>Pulp and Paper Industry</li>\r\n<li>Stone Crushers</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Industries have been classified under three categories on the basis of pollutants produced. The categories are: Red, Orange and Green."
+}

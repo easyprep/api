@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "62fbc88b-805e-4b95-92d3-7a9c4e9b6ec9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol> <li>Vermicompost</li> <li>Azotobacter&nbsp;</li> <li>Phosphate-solubilising bacteria</li> </ol> Which of the above is/are bio-fertilizer(s)?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All of above are bio-fertilizers"
+}

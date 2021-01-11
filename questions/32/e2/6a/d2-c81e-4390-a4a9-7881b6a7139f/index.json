@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:32.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "32e26ad2-c81e-4390-a4a9-7881b6a7139f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following sets of fauna represents same taxonomical order?",
+  "option1": "Whales, Dolphins, Porpoises",
+  "option2": "Dolphins, Porpoises, Dugong",
+  "option3": "Whale, Dugong, Porpoises",
+  "option4": "Dolphins, Dugong, Manatees",
+  "option5": "",
+  "answer": "Whales, Dolphins, Porpoises",
+  "explanation": "Marine mammals are a diverse group of animals. They include <u>cetaceans (whales, dolphins, and porpoises)</u>, <u>sirenians (manatees and dugong)</u>, <u>pinnipeds (true seals, eared seals and walrus),</u> a few otters (the sea otter and marine otter) and the polar bear (usually grouped with the marine mammals)."
+}

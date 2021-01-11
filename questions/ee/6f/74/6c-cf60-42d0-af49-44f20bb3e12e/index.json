@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:18.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "ee6f746c-cf60-42d0-af49-44f20bb3e12e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "<p>Consider the following pairs of temples with dynasties under which they were built:</p>\r\n<ol>\r\n<li>Virupaksha Temple - Pallavas</li>\r\n<li>Kailashnathar Temple - Chalukyas</li>\r\n<li>Dashavatara temple - Gupta</li>\r\n</ol>\r\n<p> Which of the above is/are correct?</p>",
+  "option1": "3 Only",
+  "option2": "1 & 3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "Virupaksha Temple - Chalukyas<br />Kailashnathar Temple - Pallavas"
+}

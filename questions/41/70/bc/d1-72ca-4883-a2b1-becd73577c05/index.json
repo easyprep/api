@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "4170bcd1-72ca-4883-a2b1-becd73577c05",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Mercury is a very toxic and dangerous substance that has severely contaminated land, water, air and the food chain throughout India. Which among the following is / are sources of mercury pollution?\r\n<ol>\r\n<li>Pesticides</li>\r\n<li>Dental amalgam fillings</li>\r\n<li>Fluorescent lamps</li>\r\n<li>Coal based thermal power plants</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Emissions from the hundreds of thermal power plants release heavy amounts of mercury — a heavy metal that affects the nervous system in humans. Fluorescent lamps contain mercury and their disposal in the municipal solid waste poses the danger of contaminating the water bodies"
+}

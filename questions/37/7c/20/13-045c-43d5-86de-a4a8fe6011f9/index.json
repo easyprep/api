@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:25.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "377c2013-045c-43d5-86de-a4a8fe6011f9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Olive Ridley Sea Turtles are: <ol> <li>the most abundant sea turtle in the world.</li> <li>endemic to tropical regions of the Pacific.</li> <li>the only sea turtles species to exhibit synchronous mass nesting.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1 and 3 Only",
+  "option4": "2 and 3 Only",
+  "option5": "",
+  "answer": "1 and 3 Only",
+  "explanation": "Olive ridley sea turtles are not endemic to pacific.They are found only in tropical warm waters of Pacific,Indian and Atlantic oceans."
+}

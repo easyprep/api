@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "f9c978b6-2fcc-49e0-9390-2c64f79f6ae7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the correct taxonomical arrangement?",
+  "option1": "Species&#60;Genus&#60;Order&#60;Class",
+  "option2": "Genus&#60;Species&#60;Order&#60;Class",
+  "option3": "Species&#60;Genus&#60;Class&#60;Order",
+  "option4": "Species&#60;Order&#60;Class&#60;Genus",
+  "option5": "",
+  "answer": "Species&#60;Genus&#60;Order&#60;Class",
+  "explanation": "First option is the correct answer."
+}

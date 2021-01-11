@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "f210622c-551f-4b66-9526-72d5760713c1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Aerosols are minute particles suspended in the atmosphere, and are known to reduce primary productivity on earth. How they contribute in reducing primary productivity?",
+  "option1": "By decreasing oxygen concentration",
+  "option2": "By preventing nitrogen fixation",
+  "option3": "By decreasing atmospheric albedo",
+  "option4": "By increasing atmospheric albedo",
+  "option5": "",
+  "answer": "By increasing atmospheric albedo",
+  "explanation": "Fourth option is the correct answer. Increase in atmospheric albedo reduces the rate of photosynthesis by plants on earth."
+}

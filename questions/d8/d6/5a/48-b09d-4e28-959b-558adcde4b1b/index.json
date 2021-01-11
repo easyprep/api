@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "d8d65a48-b09d-4e28-959b-558adcde4b1b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, the term &#8220;Clean coal&#8221; has been making news frequently. Which among the following statements is the closest explanation to clean coal ?",
+  "option1": "Equivalent use of alternative fuels in place of coal",
+  "option2": "Use of coal that has not been procured from underground mines",
+  "option3": "Underground coal gasification and liquefaction to reduce CO2 emissions",
+  "option4": "Coal combustion within controlled environment",
+  "option5": "",
+  "answer": "Underground coal gasification and liquefaction to reduce CO2 emissions",
+  "explanation": "The basic idea is to reduce CO2 emission by either converting coal to something which reduces less CO2 or using Carbon Capture and Storage. Thus, underground coal gasification and liquefaction which converts coal into liquid and gaseous fuel alternatives is a recognized &#8216;clean coal&#8217; technology-handy in extraction of energy from coal seams which cannot be mined through conventional methods."
+}

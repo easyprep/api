@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:35.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "4efd297c-1dee-417a-85b1-472e4efaca69",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Consider the following statements: <ol> <li>Ozone depletion is greater&nbsp;at&nbsp;higher&nbsp;latitudes than at lower latitudes</li> <li>The higher the Equivalent effective stratospheric chlorine (EESC), the higher is the&nbsp;stratospheric ozone depletion&nbsp;</li> </ol> &nbsp; &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Equivalent effective stratospheric chlorine&nbsp;(EESC) provides an estimate of the total effective amount of&nbsp;halogens&nbsp;(chlorine&nbsp;and&nbsp;bromine) in the&nbsp;stratosphere."
+}

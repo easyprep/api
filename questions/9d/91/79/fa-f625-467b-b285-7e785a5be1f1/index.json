@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "9d9179fa-f625-467b-b285-7e785a5be1f1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br />1. Coliform bacteria is one of the microbial indicators of water contamination<br />2. Mixing of sewage with ground water results in increased nitrate level<br />Which among the above is/ are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Coliform bacteria is one of the microbial indicators of water contamination as it behaves like most pathogenic bacteria. Mixing of sewage with ground water may lead to increase of nitrate level."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:33.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "5b64a300-7c0d-4a1e-9434-0e107bad09c6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following species of turtles: <ol> <li>Leatherback</li> <li>Loggerhead</li> <li>Green sea turtle</li> </ol> Which of the above is/are endangered species in the IUCN list?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "Leatherbacks are listed as vulnerable by the IUCN. Loggerhead is an oceanic turtle distributed throughout the world. Green sea turtle is found throughout tropical and subtropical seas around the world. It has been listed as endangered species by IUCN."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:26.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "64595727-b245-419d-8b71-9ba9613eebfd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following technologies can be used for sewage treatment?<br> 1. Membrane Bioreactor<br> 2. Moving Bed Biofilm Reactor<br> 3. Sequencing Batch Reactor<br> Chose the correct answer from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All the above. There are three widely used technologies for sewage treatment viz., Membrane Bioreactor, Moving Bed Biofilm Reactor and Sequencing Batch Reactor."
+}

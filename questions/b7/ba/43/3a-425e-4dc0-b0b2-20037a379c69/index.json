@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:24.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "b7ba433a-425e-4dc0-b0b2-20037a379c69",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the correct statement about heterotrophs?",
+  "option1": "They obtain their energy from sunlight, harnessed by pigments",
+  "option2": "They obtain their energy by oxidizing organic molecules",
+  "option3": "They make organic molecules from CO2",
+  "option4": "They obtain their energy by consuming exclusively autotrophs",
+  "option5": "",
+  "answer": "They obtain their energy by oxidizing organic molecules",
+  "explanation": "A heterotroph obtains its energy from organic molecules. An autotroph obtains energy from sunlight utilizing pigments including chlorophyll (A) and uses CO<sub>2</sub> and water to make organic molecules. heterotrophs can obtain their energy from ingesting autotrophs, but can also consume other heterotrophs."
+}

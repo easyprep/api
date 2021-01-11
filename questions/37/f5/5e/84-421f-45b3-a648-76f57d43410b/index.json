@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "37f55e84-421f-45b3-a648-76f57d43410b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are correct statements?\r\n<ol>\r\n<li>In an aquatic ecosystem zooplankton are primary consumers</li>\r\n<li>In a food chain consisting of phytoplankton, zooplankton, fish and fishermen; the fishermen are secondary consumers</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Phytoplankton are primary producers (are photoautotrophic, creating energy for the food chain). Zooplankton are function as both primary consumers and detrivores, they feed directly on primary consumers such as phytoplankton. Fish are a mixture of secondary and tertiary consumers, secondary would be feeding on primary consumers, and tertiary would be predators that eat primary and secondary consumers. Fisherman are solely tertiary consumers since they are only interested in eating either secondary consumer fish, or at times eating other tertiary consumers."
+}

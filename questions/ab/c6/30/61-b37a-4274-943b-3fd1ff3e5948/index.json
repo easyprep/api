@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:24.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "abc63061-b37a-4274-943b-3fd1ff3e5948",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Currently, which of the following Indus Valley Sites are located in India? <ol> <li>Mohenjo-daro</li> <li>Harappa</li> <li>Ganweriwala</li> <li>Dholavira</li> <li>Rakhigarhi</li> </ol> Select the correct option from codes given below:",
+  "option1": "3, 4 & 5 Only",
+  "option2": "4 & 5 Only",
+  "option3": "2, 3, 4 & 5 Only",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "4 & 5 Only",
+  "explanation": "Mohenjo-daro, Harappa and Ganweriwala are located in Pakistan and Rakhigarhi and Dholavira are located in India."
+}

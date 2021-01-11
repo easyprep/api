@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:30.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "903d6d30-6539-4f64-b8e8-365841c1d679",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is the difference between India&#8217;s Recorded Forest Area and Forest Cover?<br> 1. While Recorded Forest Area is a legal status, Forest cover is not a legal status<br> 2. While Recorded Forest Area covers all lands more than one hectare in area with a tree canopy density of more than 10%, forest cover barely takes into account the presence of trees on a particular land<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The term &#8216;Forest Area&#8217; (or recorded forest area) refers to all the geographic areas recorded as &#8216;Forests&#8217; in government records recorded forest areas largely consist of reserved Forests (RF) and Protected Forests (PF), which have been constituted under the provisions of the Indian Forest Act, 1927. Besides RF and PF, the recorded forest area may also include all such areas which have been recorded as forests in the revenue records or have been constituted so under any State Act or local law. On the other hand, the term &#8216;Forest Cover&#8217; as used in the &#8216;SFR&#8217; refers to all lands more than one hectare in area with a tree canopy density of more than 10%. Thus &#8216;Forest Area&#8217; denotes the legal status of the land, whereas &#8216;Forest Cover&#8217; indicates presence of trees on any land irrespective of their ownership. Although majority of the recorded forest areas have vegetation cover, yet there are blanks and areas with tree density less than 10% within it or even areas without any trees. These may include wetlands, rivers, riverbeds, creeks in the mangroves, snow covered areas, glaciers, alpine pastures, cold deserts, grasslands of sholas etc. On the other hand, there are areas outside the recorded forests with tree patches of one hectare and more with canopy density above 10%. Examples include plantations on t he community lands, road side, railways and canals, Eucalyptus, rubber, tea and coffee plantations etc. Such areas also constitute forest cover and are included in the forest cover assessment of FSI."
+}

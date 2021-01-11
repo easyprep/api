@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "085266b5-3b5e-4ee2-8856-dce0c45c1b2e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Cartagena protocol aims to ensure the safe handling, transport and use of living modified organisms (LMOs) resulting from modern biotechnology that may have adverse effects on biological diversity.</li> <li>Montreal protocol aim to achieve stabilization of the greenhouse gas concentrations in the atmosphere</li> </ol> Which of the above statements is/ are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Montreal protocol deals with ozone layer depleting substance; it is Kyoto protocol which deals with greenhouse gases. Montreal protocol was agreed on 16 September 1987, and entered into force on 1 January 1989. It aims at reduction of ozone depleting substances, mainly CFC and HCFC, which are potent green house gases, thousand times more powerful than carbon dioxide."
+}

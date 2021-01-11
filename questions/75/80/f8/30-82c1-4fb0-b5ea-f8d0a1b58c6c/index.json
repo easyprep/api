@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:35.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "7580f830-82c1-4fb0-b5ea-f8d0a1b58c6c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pollutants: <ol> <li>Nitrogen dioxide</li> <li>Sulphur dioxide</li> <li>Carbon dioxide</li> </ol> Which of the above is/are considered for calculating National Air Quality Index (NAQI)?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "The index is a part of the government&rsquo;s Swachh Bharat Mission. The index measures&nbsp;eight major pollutants, namely, particulate matter (PM 10 and PM 2.5), nitrogen dioxide, sulphur dioxide, ozone, carbon monoxide, ammonia and lead. Carbon dioxide is not included in the list."
+}

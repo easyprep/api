@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:29.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "51fa4ce1-55c8-4e37-81e0-aaa2a71325e6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Grey water footprint is the amount of:",
+  "option1": "rainwater required (evaporated or used directly) to make a product",
+  "option2": "freshwater required for mixing and diluting pollutants enough to maintain water quality according to certain standards",
+  "option3": "surface water and groundwater required (evaporated or used directly) to make a product",
+  "option4": "sea water (evaporated or used directly) to make a product",
+  "option5": "",
+  "answer": "freshwater required for mixing and diluting pollutants enough to maintain water quality according to certain standards",
+  "explanation": "<strong>Green water footprint</strong> is water from precipitation that is stored in the root zone of the soil and evaporated, transpired or incorporated by plants. <strong>Blue water footprint</strong> is water that has been sourced from surface or groundwater resources and is either evaporated, incorporated into a product or taken from one body of water and returned to another, or returned at a different time. Irrigated agriculture, industry and domestic water use can each have a blue water footprint. <strong>Grey water footprint</strong> is the amount of fresh water required to assimilate pollutants to meet specific water quality standards."
+}

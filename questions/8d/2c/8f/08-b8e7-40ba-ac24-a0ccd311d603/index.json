@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:39:31.000Z",
+  "updated_at": "2021-01-06T08:24:27.497Z",
+  "id": "8d2c8f08-b8e7-40ba-ac24-a0ccd311d603",
+  "labels": "current-affairs,2018-08-04",
+  "question": "If a species is endemic, it implies that the species is __:<br />1.Widely distributed but with large gaps between regions<br />2.Confined to a particular area<br />3.Confined to ground level and rarely reaches heights above a metre<br />Which among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Endemic species are found in just only one region in the world. For an example, the Lion-Tailed Macaque, is found only in the Western Ghats of Southern India. The Asiatic Lion is found only in the Gir Forest."
+}
