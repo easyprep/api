@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T14:53:42.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "0be71a30-af85-4ac7-a432-5e0acfe98b38",
+  "labels": "current-affairs,2019-09-05",
+  "question": "The cure for which of the following diseases exists?",
+  "option1": "Blood cancer",
+  "option2": "Hepatitis-B",
+  "option3": "Breast Cancer",
+  "option4": "Lung Cancer",
+  "option5": "",
+  "answer": "Hepatitis-B",
+  "explanation": "Hepatitis B is a liver infection caused by a virus .It can be serious and there\\'s no cure, but the good news is it\\'s easy to prevent. You can protect yourself by getting the hepatitis B vaccine and having safer sex."
+}

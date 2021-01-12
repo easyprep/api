@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T18:33:07.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "025f4d57-6d37-452b-939b-906141ea15b7",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Why distribution of electric power from one place to another is done at high A.C. voltage?",
+  "option1": "Wastage of electricity is minimised",
+  "option2": "Stealing of electric wires is prevented",
+  "option3": "Electricity spreads in very short time",
+  "option4": "It adds brightness",
+  "option5": "",
+  "answer": "Wastage of electricity is minimised",
+  "explanation": "Distribution and Domestic Power Supply Alternating Current is used for electric power distribution because it can easily be transformed to a higher or lower voltage. Electrical energy losses are dependent on current flow."
+}

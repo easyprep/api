@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T18:44:19.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "cf9dae95-acdb-4269-bb4e-b3fc3bc3a0ed",
+  "labels": "current-affairs,2019-08-11",
+  "question": "The surface of the water in a lake is frozen and its temperature is -15°C. Which of the following will be the maximum possible temperature of the water inside the lake in contact with the ice layer?",
+  "option1": "0°C",
+  "option2": "4°C",
+  "option3": "15°C",
+  "option4": "Insufficient data to predict",
+  "option5": "",
+  "answer": "4°C",
+  "explanation": "During winter ice is formed only on the top layer of a pond or a lake because the water\\'s surface is usually slightly cooler than the rest of the body of water due to evaporative cooling. As water cools below 4 C, it also becomes slightly less dense, rising to the surface. Ice is also slightly less dense than the slightly warmer water below, so it floats on the water\\'s surface. Once ice crystals begin to form, they provide nucleation sites for additional ice to grow along the water\\'s surface. The islands of ice expand, until they cover the entire surface of the water."
+}

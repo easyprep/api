@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T14:43:20.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "7e08c891-f4d7-4a9c-9086-8174a0de8ff0",
+  "labels": "current-affairs,2019-08-11",
+  "question": "In a fluorescent tube which of the following components are found?",
+  "option1": "Mercury vapour",
+  "option2": "Argon and carbon dioxide",
+  "option3": "Helium and oxygen",
+  "option4": "Argon and neon",
+  "option5": "",
+  "answer": "Mercury vapour",
+  "explanation": "A fluorescent lamp tube is filled with a gas containing low-pressure mercury vapor and argon, xenon, neon, or krypton. The pressure inside the lamp is around 0.3% of atmospheric pressure."
+}

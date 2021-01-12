@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T17:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "4e1e970d-3116-479b-aff9-e12be806ee00",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Which of the following was the first to escape out of solar system?",
+  "option1": "Pioneer 10",
+  "option2": "Voyager I",
+  "option3": "Voyager II",
+  "option4": "Soyuz",
+  "option5": "",
+  "answer": "Pioneer 10",
+  "explanation": "On July 15, 1972, Pioneer 10 was the first spacecraft to enter the asteroid belt, located between the orbits of Mars and Jupiter. The project planners expected a safe passage through the belt, and the closest the trajectory would take the spacecraft to any of the known asteroids was 8,800,000 kilometers."
+}

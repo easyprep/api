@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T14:29:41.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "8ccb8ee5-ad87-4e61-93f9-e82d7d39dd08",
+  "labels": "current-affairs,2019-08-11",
+  "question": "In typhoid which of the following drugs is administered?",
+  "option1": "Chloromycetin",
+  "option2": "Penicillin",
+  "option3": "Sulphonamide",
+  "option4": "Tetracycline",
+  "option5": "",
+  "answer": "Chloromycetin",
+  "explanation": "Chloromycetin or Chloramphenicol is the drug of choice in the treatment of this disease. It has been the antibiotic of choice for patients with typhoid fever for more than 30 years, although ampicillin and cotrimoxazole are also used."
+}

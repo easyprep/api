@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T15:20:24.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "7af99171-fae6-4540-9e2e-2934766eb9fd",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(A) Uma Shankar Joshi\r\n</td>\r\n<td>\r\n(i) Gujarati\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(B) Ashapoorna Devi\r\n</td>\r\n<td>\r\n(ii) Telugu\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(C) Dattatreya Bendre\r\n</td>\r\n<td>\r\n(iii) Bengali\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(D) Vishwanathan Satyanarayan\r\n</td>\r\n<td>\r\n(iv) Kannada\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(v) Marathi\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "option1": "A-(i) B-(iii) C-(iv) D-(ii)",
+  "option2": "A-(ii) B-(i) C-(iii) D-(iv)",
+  "option3": "A-(iii) B-(v) C-(ii) D-(i)",
+  "option4": "A-(v) B-(iv) C-(i) D-(ii)",
+  "option5": "",
+  "answer": "A-(i) B-(iii) C-(iv) D-(ii)",
+  "explanation": "Umashankar Jethalal Joshi was an Indian poet, scholar and writer known for his contribution to Gujarati literature.<br />Ashapoorna Devi was a prominent Bengali novelist and poet. <br />Dattatreya Ramachandra Bendre was a Kannada poet of the Navodaya Period. He was given the honourific Varakavi. Bendre was awarded the Jnanapita for his 1964 poetry collection.<br />Viswanatha Satyanarayana was born to Sobhanadri and Parvathi in the year 1895 at Vijayawada. He was a Telugu writer of the 20th century."
+}

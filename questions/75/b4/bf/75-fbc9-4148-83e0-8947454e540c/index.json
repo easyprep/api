@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-06T18:25:03.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "75b4bf75-fbc9-4148-83e0-8947454e540c",
+  "labels": "current-affairs,2019-09-07",
+  "question": "Which of the following is true?",
+  "option1": "Sound waves exhibit interference",
+  "option2": "Light waves exhibit interference",
+  "option3": "Both the light and sound waves exhibit interference",
+  "option4": "Neither sound waves nor light waves exhibit interference",
+  "option5": "",
+  "answer": "Both the light and sound waves exhibit interference",
+  "explanation": "When two or more sound waves from different sources are present at the same time, they interact with each other to produce a new wave. Wave interaction is called interference. If the compressions and the rarefactions of the two waves line up, they strengthen each other and create a wave with a higher intensity.<br />In places where the waves are out of step, destructive interference will occur, canceling the reflected light. The following is an explanation of how light waves interfere with each other. If the amplitudes of both waves are equal, the resultant amplitude would be doubled."
+}

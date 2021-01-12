@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-06T14:59:22.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "b6884273-1b9b-4ace-a90d-3b9d135db348",
+  "labels": "current-affairs,2019-09-07",
+  "question": "A chair is tilted about two of its legs and then left. It would return to its original position if?",
+  "option1": "Its centre of gravity falls outside the base",
+  "option2": "Its centre of gravity falls within the base",
+  "option3": "It is tilted through an angle of 60°",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Its centre of gravity falls within the base",
+  "explanation": "When the chair and your feet are on the ground the forces are balanced<br />As you tilt back, you are moving your center of gravity over the point of rotation<br />Once you start passing that point, the torque that is generated is reversed<br />Your feet are unable to grip the floor, which results in you falling backwards. So, when the centre of gravity falls within the base then it would return to its original position."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T16:41:11.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "e7b3751c-7e58-404c-a447-be99e90d8326",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Match the columns:\r\n<table width=\"501\">\r\n<tbody>\r\n<tr>\r\n<td width=\"198\">\r\nList 1\r\n</td>\r\n<td width=\"287\">\r\nList 2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"198\">\r\nOrganic acids\r\n</td>\r\n<td width=\"287\">\r\nSubstances in which they are present\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Lactic acid\r\n</td>\r\n<td>\r\n1. Lemon\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Acetic acid\r\n</td>\r\n<td>\r\n2. Rancid butter\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Citric acid\r\n</td>\r\n<td>\r\n3. Milk\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Butyric acid\r\n</td>\r\n<td>\r\n4. Vinegar\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n5. Wine\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "5 4 3 2",
+  "option2": "3 1 4 5",
+  "option3": "2 5 1 3",
+  "option4": "3 4 1 2",
+  "option5": "",
+  "answer": "3 4 1 2",
+  "explanation": "• Lactic acid is found primarily in sour milk products, such as koumiss, laban, yogurt, kefir, and some cottage cheeses. <br />• Vinegar is 5% acetic acid. Acetic acid is a compound that, when pure, is water clear and freezes just above room temperature. <br />• Lemon juice and lime juice are rich sources of citric acid, containing 1.44 and 1.38 g/oz, respectively. <br />• Butyric acid is a fatty acid occurring in the form of esters in animal fats. The triglyceride of butyric acid makes up 3–4% of butter."
+}

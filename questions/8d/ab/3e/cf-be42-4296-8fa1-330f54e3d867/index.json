@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T20:33:30.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "8dab3ecf-be42-4296-8fa1-330f54e3d867",
+  "labels": "current-affairs,2019-09-05",
+  "question": "Which among the following criteria increases the resolving power of an electron microscope?",
+  "option1": "If wavelength is short and wavelength of electron beam can be made quite small by accelerating the electrons",
+  "option2": "If wavelength is short and light given by electrons has very short wavelength",
+  "option3": "If magnification is high and electronic lens provides much higher magnification",
+  "option4": "If magnification is high and the electron microscope has a battery of lenses to provide high magnification",
+  "option5": "",
+  "answer": "If wavelength is short and wavelength of electron beam can be made quite small by accelerating the electrons",
+  "explanation": "As the wavelength of an electron can be up to 100,000 times shorter than that of visible light photons, electron microscopes have a higher resolving power than light microscopes and can reveal the structure of smaller objects."
+}

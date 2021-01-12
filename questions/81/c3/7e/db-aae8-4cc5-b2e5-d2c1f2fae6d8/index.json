@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T16:34:04.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "81c37edb-aae8-4cc5-b2e5-d2c1f2fae6d8",
+  "labels": "current-affairs,2019-09-03",
+  "question": "What is the reason behind high tides?",
+  "option1": "Gravitational pull of the moon and the sun",
+  "option2": "Gravitational pull of the sun",
+  "option3": "Centrifugal, centripetal and gravitational pull of the sun",
+  "option4": "Centrifugal, centripetal and gravitational pull of the sun and the moon",
+  "option5": "",
+  "answer": "Gravitational pull of the moon and the sun",
+  "explanation": "High tides and low tides are caused by the moon. The moon\\'s gravitational pull generates something called the tidal force. The tidal force causes Earth and its water to bulge out on the side closest to the moon and the side farthest from the moon. When you\\'re not in one of the bulges, you experience a low tide."
+}

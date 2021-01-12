@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T20:40:22.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "dd047d16-b12a-4705-894e-062b1c531151",
+  "labels": "current-affairs,2019-09-05",
+  "question": "Which of the following chemicals in automobile-exhaust can cause cancer?",
+  "option1": "Carbon monoxide",
+  "option2": "Polycyclic hydrocarbons",
+  "option3": "Lead",
+  "option4": "Oxides of nitrogen",
+  "option5": "",
+  "answer": "Carbon monoxide",
+  "explanation": "A co-carcinogen is a chemical that promotes the effects of a carcinogen in the production of cancer. A chemical may act as a co-carcinogen even if it does not cause direct DNA damage such as mutation, as long as it can affect a cancer-related pathway."
+}

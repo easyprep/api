@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T19:01:53.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "cea768a1-79f3-4b05-acd9-0a4f2154f510",
+  "labels": "current-affairs,2019-09-03",
+  "question": "At a certain place, the Greenwich Mean Time is ahead by 12 hours. The place is located at which of the following locations?",
+  "option1": "180°W of GMT",
+  "option2": "180°E of GMT",
+  "option3": "90°W of GMT",
+  "option4": "90°E of GMT",
+  "option5": "",
+  "answer": "180°W of GMT",
+  "explanation": "A traveler going eastwards gains time from Green­wich until he reaches the meridian 180°E, when he will be 12 hours ahead of G.M.T.<br />Similarly, in going westwards, he loses 12 hours when he reaches 180°W. There is thus a total difference of 24 hours or a whole day between the two sides of the 180° meridian.<br />This is the International Date Line where the date changes by exactly one day when it is crossed. A traveler crossing the date line from east to west loses a day and while crossing the dateline from west to east he gains a day."
+}

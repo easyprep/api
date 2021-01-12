@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-06T15:27:38.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "49e24a4a-7148-48bd-bc12-5f8411a3d466",
+  "labels": "current-affairs,2019-09-07",
+  "question": "Very small-time intervals are accurately measured by the?",
+  "option1": "Pulsars",
+  "option2": "White dwarfs",
+  "option3": "Atomic clocks",
+  "option4": "Quartz clocks",
+  "option5": "",
+  "answer": "Atomic clocks",
+  "explanation": "Atomic clocks are the most accurate time and frequency standards known, and are used as primary standards for international time distribution services, to control the wave frequency of television broadcasts, and in global navigation satellite systems such as GPS."
+}

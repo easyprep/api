@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T16:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "3e9f327e-68af-42e5-9df6-06718d993e33",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Which of the following is necessary for improvement of the quality of crops?<br />(1) Introduction<br />(2) Hybridisation<br />(3) Selection<br />(4) Segregation",
+  "option1": "2, 3 and 4",
+  "option2": "1, 2, 3 and 4",
+  "option3": "1, 2 and 3",
+  "option4": "2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Introduction, Selection and Hybridization and self-pollination are important aspects of research for the genetic improvement of crop plants. Hybridization is used to develop new genotypes, evaluate their performance, or exploit hybrid vigor."
+}

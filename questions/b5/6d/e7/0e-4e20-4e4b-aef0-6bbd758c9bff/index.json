@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-08T16:53:24.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "b56de70e-4e20-4e4b-aef0-6bbd758c9bff",
+  "labels": "current-affairs,2019-09-09",
+  "question": "Which of the following has the highest calories per gram?",
+  "option1": "Proteins",
+  "option2": "Fats",
+  "option3": "Sugar",
+  "option4": "Glucose",
+  "option5": "",
+  "answer": "Fats",
+  "explanation": "Fat has more than twice as many calories per gram as carbohydrates and proteins. A gram of fat has about 9 calories, while a gram of carbohydrate or protein has about 4 calories."
+}

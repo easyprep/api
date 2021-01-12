@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T17:18:08.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "1d1d5362-0574-4e0a-a3d9-4e471212002c",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Plants take nitrogen in the form of which of the following?",
+  "option1": "Nitrites",
+  "option2": "Ammonia",
+  "option3": "Nitrates",
+  "option4": "Element",
+  "option5": "",
+  "answer": "Nitrates",
+  "explanation": "Plants absorb nitrogen from the soil in the form of nitrate (NO<sub>3</sub><sup>−</sup>) and ammonium (NH<sub>4</sub><sup>+</sup>). In aerobic soils where nitrification can occur, nitrate is usually the predominant form of available nitrogen that is absorbed."
+}

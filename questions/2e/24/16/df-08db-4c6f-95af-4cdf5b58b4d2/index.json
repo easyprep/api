@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T15:12:45.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "2e2416df-08db-4c6f-95af-4cdf5b58b4d2",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(A) Otitis\r\n</td>\r\n<td>\r\n(i) Throat\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(B) Encephalitis\r\n</td>\r\n<td>\r\n(ii) Ear\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(C) Laryngitis\r\n</td>\r\n<td>\r\n(iii) Liver\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(D) Hepatitis\r\n</td>\r\n<td>\r\n(iv) Brain\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(v) Kidney\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "option1": "A-(i) B-(ii) C-(iii) D-(iv)",
+  "option2": "A-(iv) B-(iii) C-(i) D-(ii)",
+  "option3": "A-(ii) B-(iv) C-(i) D-(iii)",
+  "option4": "A-(iii) B-(iv) C-(i) D-(ii)",
+  "option5": "",
+  "answer": "A-(ii) B-(iv) C-(i) D-(iii)",
+  "explanation": "• Otitis is a general term for inflammation or inflammation of the ear, in both humans and other animals.<br />• Encephalitis is inflammation of the brain. There are several causes, but the most common is viral infection.<br />• Laryngitis is an inflammation of your voice box (larynx) from overuse, irritation or infection.<br />• Hepatitis is an inflammation of the liver. Viruses cause most cases of hepatitis."
+}

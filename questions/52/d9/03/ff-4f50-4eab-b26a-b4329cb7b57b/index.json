@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-14T21:10:53.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "52d903ff-4f50-4eab-b26a-b4329cb7b57b",
+  "labels": "current-affairs,2019-08-15",
+  "question": "The researchers at which IIT have developed low-cost blood test device?",
+  "option1": "IIT Kanpur",
+  "option2": "IIT Kharagpur",
+  "option3": "IIT Bombay",
+  "option4": "IIT Delhi",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "The researchers from IIT Kharagpur have developed a low-cost diagnostic device which can perform various pathological tests by using blood taken from a finger prick. The device requires only a paper strip based kit integrated with a smartphone to enable analytics and readout functions and an LED light for imaging. The key aspect of the kit  is operational simplicity and extremely low running cost. The kit is developed by a research team led by Prof Suman Chakraborty."
+}

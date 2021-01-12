@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T20:46:11.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "8b6927e1-0419-4d4b-b155-78fc95f7db6d",
+  "labels": "current-affairs,2019-09-04",
+  "question": "A Parliamentary bill passed by the Lok Sabha is sent to the President for assent. The President sends it back to Lok Sabha for reconsideration. If the Lok Sabha again sends it back to the President without making any changes, the President?",
+  "option1": "Must give his assent to it",
+  "option2": "Can again send the bill for reconsideration",
+  "option3": "Can take help of the Supreme Court",
+  "option4": "Can arrange referendum",
+  "option5": "",
+  "answer": "Must give his assent to it",
+  "explanation": "The president has to sign the bill that the parliament has passed. The President can reject a bill for maximum of 2 times. After the first rejection, Then the bill will be circulated in the lower house, if it gets majority votes then it will be circulated again in the upper house for majority vote."
+}

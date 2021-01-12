@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T16:33:15.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "76cbc7aa-cead-433e-b3f9-0dcc8c011882",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Match the columns:\r\n<table width=\"400\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nForms\r\n</td>\r\n<td>\r\nQuantities\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Cusec\r\n</td>\r\n<td>\r\n1. Pressure\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Byte\r\n</td>\r\n<td>\r\n2. Intensity of earthquakes\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Richter\r\n</td>\r\n<td>\r\n3. Rate of flow\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Bar\r\n</td>\r\n<td>\r\n4. Computer memory\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "4 1 2 3",
+  "option2": "2 4 3 1",
+  "option3": "3 4 2 1",
+  "option4": "3 2 1 4",
+  "option5": "",
+  "answer": "3 4 2 1",
+  "explanation": "• Cusec is a measure of flow rate and is informal shorthand for \\\"cubic feet per second\\\".<br />• The byte is a unit of digital information of computer memory that most commonly consists of eight bits.<br />• The so-called Richter scale is used for measuring the strength of earthquakes refers to the original \\\"magnitude scale\\\" developed by Charles F. Richter.<br />• The bar is a metric unit of pressure, but is not approved as part of the International System of Units (SI)."
+}

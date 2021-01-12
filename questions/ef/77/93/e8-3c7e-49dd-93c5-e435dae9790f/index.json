@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T20:16:51.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "ef7793e8-3c7e-49dd-93c5-e435dae9790f",
+  "labels": "current-affairs,2019-08-11",
+  "question": "Which of the following is the most appropriate source of energy for cooking and lighting purposes in rural India?",
+  "option1": "Bio-gas",
+  "option2": "Solar energy",
+  "option3": "Nuclear energy",
+  "option4": "Tidal energy",
+  "option5": "",
+  "answer": "Bio-gas",
+  "explanation": "Biogas is a type of biofuel that is naturally produced from the decomposition of organic waste. When organic matter, such as food scraps and animal waste, break down in an anaerobic environment (an environment absent of oxygen) they release a blend of gases, primarily methane and carbon dioxide. These raw materials are available in abundant in rural areas."
+}

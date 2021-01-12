@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T14:33:54.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "9aa598fc-46fb-4d31-972b-3759b31296fc",
+  "labels": "current-affairs,2019-09-05",
+  "question": "The maximum gap between two sessions of the Parliament can be of how many months?",
+  "option1": "Six months",
+  "option2": "Three months",
+  "option3": "Nine months",
+  "option4": "Twelve months",
+  "option5": "",
+  "answer": "Six months",
+  "explanation": "A session is the period between the commencement of the house sitting and prorogation, dissolution or end of normal term. The maximum gap between two sittings should not be more than 6 months. That means, the parliament should meet at least twice a year."
+}

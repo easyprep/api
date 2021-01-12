@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T18:38:01.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "a7e7cd21-ef14-4d05-8baa-e0e21ece1d69",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the following:-\r\n<table width=\"276\">\r\n<tbody>\r\n<tr>\r\n<td width=\"89\">\r\nA. HAL\r\n</td>\r\n<td width=\"171\">\r\n(i) Coal\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. BHEL\r\n</td>\r\n<td>\r\n(ii) Aeronautical goods\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. SAIL\r\n</td>\r\n<td>\r\n(iii) Electrical goods\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. CIL\r\n</td>\r\n<td>\r\n(iv) Steel\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "option1": "A — (ii), B — (iii), C — (iv), D — (i)",
+  "option2": "A — (iii), B — (ii), C — (i), D — (iv)",
+  "option3": "A — (i), B — (ii), C — (iii), D — (iv)",
+  "option4": "A — (iv), B — (iii), C — (ii), D — (i)",
+  "option5": "",
+  "answer": "A — (ii), B — (iii), C — (iv), D — (i)",
+  "explanation": "A. HAL - Aeronautical goods<br />B. BHEL - Electrical goods<br />C. SAIL - Steel<br />D. CIL - Coal"
+}

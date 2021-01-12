@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-05T14:50:27.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "cd10906b-391d-4518-b1f2-906fd5952be2",
+  "labels": "current-affairs,2019-09-06",
+  "question": "Who among the following have a right to vote in the Vice-Presidential election but not in the Presidential election?",
+  "option1": "Ministers who are not members of either House of the Parliament",
+  "option2": "Elected members of the Upper Houses of the States",
+  "option3": "Nominated members of the Parliament",
+  "option4": "Members of the Parliament who abstain from all meetings of the House for a period of sixty days without permission of the House",
+  "option5": "",
+  "answer": "Nominated members of the Parliament",
+  "explanation": "The Vice-President is elected by an electoral college. Both elected and nominated Members of Parliament (MPs) from Rajya Sabha and Lok Sabha are eligible to vote. Civilians and Members of Legislative Assemblies do not elect the Vice President directly."
+}

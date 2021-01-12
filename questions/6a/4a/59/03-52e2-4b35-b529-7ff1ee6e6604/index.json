@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-17T16:12:52.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "6a4a5903-52e2-4b35-b529-7ff1ee6e6604",
+  "labels": "current-affairs,2019-08-18",
+  "question": "Ice cubes are floating in a glass of water. What will happen to the water level when the ice cubes melt?",
+  "option1": "Will first increase and then start decreasing",
+  "option2": "Will first decrease and then start increasing",
+  "option3": "Will remain unchanged",
+  "option4": "Will increase",
+  "option5": "",
+  "answer": "Will remain unchanged",
+  "explanation": "The water level remains the same when the ice cube melts. A floating object displaces an amount of water equal to its own weight. Since water expands when it freezes, one ounce of frozen water has a larger volume than one ounce of liquid water."
+}

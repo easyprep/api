@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "695bdba6-c0e6-4066-8e0b-9559d189db87",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Standard of living of a nation can be judged by which of the following?",
+  "option1": "Increase in GNP at factor cost",
+  "option2": "Increase in GNP at cost including taxes and duties",
+  "option3": "Increase in NNP at factor cost",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Increase in GNP at factor cost",
+  "explanation": "GDP per capita only measures the income paid to those residing in the country\\'s borders. <em>GNP</em> per capita <em>can</em> raise a country\\'s <em>standard of living</em>. That\\'s because many citizens <em>live</em> in other countries to get better jobs. They also remit part of their wages back to their families at home."
+}

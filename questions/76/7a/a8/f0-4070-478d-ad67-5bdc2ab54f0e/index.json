@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T18:16:45.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "767aa8f0-4070-478d-ad67-5bdc2ab54f0e",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Which of the following is a ‘cognizable offence’?",
+  "option1": "First offence committed by any person",
+  "option2": "Offence committed by a minor",
+  "option3": "Offence other than murder",
+  "option4": "Offence which can be dealt with by the court",
+  "option5": "",
+  "answer": "Offence which can be dealt with by the court",
+  "explanation": "Generally, cognizable offence means a police officer has the authority to make an arrest without a warrant and to start an investigation with or without the permission of a court. The police can file a First Information Report (FIR) only for cognizable offences."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-08T16:56:37.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "c9d6656d-7615-476a-b46c-8f23452eecda",
+  "labels": "current-affairs,2019-09-09",
+  "question": "Atmospheric pressure exerted on earth is due to the which of the following reasons?",
+  "option1": "Rotation of earth",
+  "option2": "Revolution of earth",
+  "option3": "Gravitational pull",
+  "option4": "Uneven heating of earth",
+  "option5": "",
+  "answer": "Gravitational pull",
+  "explanation": "The atmospheric pressure at the surface of the Earth is due to gravitational pull of the earth and is about 14.7 psi. That means that the weight of a column of air which has a cross section of 1 square inch and which stretches from the surface of the Earth to space is 14.7 pounds."
+}

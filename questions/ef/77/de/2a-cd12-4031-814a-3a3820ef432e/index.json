@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-17T14:51:50.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "ef77de2a-cd12-4031-814a-3a3820ef432e",
+  "labels": "current-affairs,2019-08-18",
+  "question": "Study the frequency of the following electromagnetic radiations and select the correct relationship :<br />I. : Infra-red<br />II. : Microwave<br />III. : Ultra-violet",
+  "option1": "I > II > III",
+  "option2": "III > I > II",
+  "option3": "III > II > I",
+  "option4": "II > III > I",
+  "option5": "",
+  "answer": "II > III > I",
+  "explanation": "• Waves of infrared radiation are longer than those of visible light, according to the California Institute of Technology. IR frequencies range from about 3 gigahertz up to about 400 terahertz and wavelengths are estimated to range between 1,000 micrometers and 760 nanometers.<br />• Microwaves have frequencies ranging from about 1 billion cycles per second, or 1 gigahertz, up to about 300 gigahertz and wavelengths of about 30 centimeters to 1 millimeter.<br />• Ultraviolet light falls in the range of the EM spectrum between visible light and X-rays. It has frequencies of about 8 × 1014 to 3 × 1016 cycles per second and wavelengths of about 380 nanometers to about 10 nm."
+}

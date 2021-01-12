@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-06T14:46:35.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "080db9c6-0c36-4f12-9491-1ed27e665f46",
+  "labels": "current-affairs,2019-09-07",
+  "question": "A boat filled with some stones is floating in water. If the stones are dropped into the water what will happen to the level of the water?",
+  "option1": "Rise",
+  "option2": "Decrease",
+  "option3": "Remain the same",
+  "option4": "Insufficient data to predict",
+  "option5": "",
+  "answer": "Decrease",
+  "explanation": "If something is floating in water, it will displace an amount of water equal to its weight. Therefore, if you have anything denser than water (stones) floating in a boat and you throw it into the water, the water level will go down because the object displaces less water when submerged."
+}

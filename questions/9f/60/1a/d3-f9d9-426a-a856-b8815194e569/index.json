@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-05T16:07:18.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "9f601ad3-f9d9-426a-a856-b8815194e569",
+  "labels": "current-affairs,2019-09-06",
+  "question": "On the Moon, astronauts inflate a rubber balloon with hydrogen gas and release it at a height of 2 metres. What will happen to the balloon?",
+  "option1": "It will fall down",
+  "option2": "It will go upwards",
+  "option3": "It will remain at the height of 2 metres",
+  "option4": "It will first go up and finally come down",
+  "option5": "",
+  "answer": "It will fall down",
+  "explanation": "It will fall to the surface. On Earth a hydrogen balloon floats only because it is less dense than the surrounding atmosphere. The Moon has no atmosphere, so the hydrogen in the balloon does nothing but add weight to the balloon."
+}

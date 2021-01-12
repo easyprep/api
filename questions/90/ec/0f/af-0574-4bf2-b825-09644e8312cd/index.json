@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-07T15:02:29.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "90ec0faf-0574-4bf2-b825-09644e8312cd",
+  "labels": "current-affairs,2019-09-08",
+  "question": "Heat from the sun is received by the earth through which of the following processes?",
+  "option1": "Conduction",
+  "option2": "Convection",
+  "option3": "Radiation",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Radiation",
+  "explanation": "The sun heats the earth through radiation. Since there is no medium (like the gas in our atmosphere) in space, radiation is the primary way that heat travels in space. When the heat reaches the earth it warms the molecules of the atmosphere, and they warm other molecules and so on."
+}

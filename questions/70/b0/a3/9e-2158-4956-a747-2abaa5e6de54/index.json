@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T18:42:58.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "70b0a39e-2158-4956-a747-2abaa5e6de54",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Which of the following is true regarding seismic waves?",
+  "option1": "These travel through the solid parts of the earth only",
+  "option2": "These travel through the solid as well as other parts of the earth",
+  "option3": "These spread on the surface of the earth",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "These travel through the solid parts of the earth only",
+  "explanation": "Seismic waves that vibrate perpendicular to the direction of their path depend upon a resistance to transverse or \\\"shear\\\" force which does not exist in a liquid or gas medium, so they can only travel in the solid parts of the Earth. P waves in air are simply sound waves and the speed of sound is around 340 m/s for ordinary temperatures."
+}

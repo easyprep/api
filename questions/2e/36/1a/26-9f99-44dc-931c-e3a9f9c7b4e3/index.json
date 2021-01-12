@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-22T20:58:42.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "2e361a26-9f99-44dc-931c-e3a9f9c7b4e3",
+  "labels": "current-affairs,2019-08-23",
+  "question": "Which Indian tech company has partnered with IISc on robotics and 5G?",
+  "option1": "Wipro",
+  "option2": "Infosys",
+  "option3": "Tata",
+  "option4": "Reliance",
+  "option5": "",
+  "answer": "Wipro",
+  "explanation": "Wipro has partnered with the Indian Institute of Science (IISc) to conduct advanced applied research in autonomous systems - robotics and 5G. Both the organizations have jointly set up a hybrid industry-academia collaboration unit - Wipro IISc Research and Innovation Network (WIRIN) - which will drive idea discovery, research and innovation in technology and product design. Both will focus on the research and development of cutting-edge technologies in Artificial Intelligence (AI), Machine Learning, Visual Computing, Human Computer Interaction (HCI) and Vehicle-to-everything communication (V2X). The insights from the research will be leveraged by Wipro for its customers and the industry ecosystem."
+}

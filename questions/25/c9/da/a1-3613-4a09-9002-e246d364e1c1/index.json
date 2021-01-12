@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-01T20:43:23.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "25c9daa1-3613-4a09-9002-e246d364e1c1",
+  "labels": "current-affairs,2019-09-02",
+  "question": "What was the approximate percentage of non-whites in South Africa?",
+  "option1": 0.7,
+  "option2": 0.6,
+  "option3": 0.4,
+  "option4": 0.8,
+  "option5": "",
+  "answer": 0.8,
+  "explanation": "Of the total <em>South African</em> population, 79.4 <em>percent</em> declared themselves to be Black African while 9.2 <em>percent</em> were shown as <em>White</em>, 8.8 <em>percent</em> colored."
+}

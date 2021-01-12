@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T17:05:30.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "cd29bd20-27ff-4dd7-90c7-f275dc9dcc82",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Which of the following is the correct sequence in order of increasing power consumption?",
+  "option1": "Television, Fan, Electric Kettle, Electric Iron",
+  "option2": "Television, Fan, Electric Iron, Electric Kettle",
+  "option3": "Fan, Television, Electric Kettle, Electric Iron",
+  "option4": "Fan, Television, Electric Iron, Electric Kettle",
+  "option5": "",
+  "answer": "Fan, Television, Electric Kettle, Electric Iron",
+  "explanation": "• Most TV\\'s use about 80 to 400 watts, depending on the size and technology.<br />• In electric kettles the water is in direct contact with the heating element, there is no pot to heat and most kettles include an integrated lid. The electric kettle averaged around 1200 watts and took 125 seconds to boil the water, which translates to 0.04 kilowatt-hours (kWh) of electricity consumed.<br />• An iron will use 800 to 2000 watts, with an average iron using 1100 watts when heated on high."
+}

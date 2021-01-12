@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-09T22:01:21.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "2362ce8e-b058-4b33-bf59-bde10d628e93",
+  "labels": "current-affairs,2019-08-10",
+  "question": "Which among the following is used to make the internal antenna of a transistor set?",
+  "option1": "Iron",
+  "option2": "Ferro-chrome",
+  "option3": "Copper",
+  "option4": "Alnico",
+  "option5": "",
+  "answer": "Ferro-chrome",
+  "explanation": "The ferro-chromite rod aerial antenna is a form of RF antenna that is almost universally used in portable transistor broadcast receivers as well as many hi-fi tuners where reception on the long, medium and possibly the short wave bands is required."
+}

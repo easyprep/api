@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T16:10:11.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "cadb85aa-8ed9-4ce4-905d-3f3fadc67f64",
+  "labels": "current-affairs,2019-09-04",
+  "question": "What is the correct chronological order of the following?<br />(A) Cabinet Mission<br />(B) Montague - Chelmsford Reforms<br />(C) Minto - Morley Reforms<br />(D) Cripps’ Mission",
+  "option1": "C, B, D, A",
+  "option2": "A, B, C, D",
+  "option3": "B, C, D, A",
+  "option4": "D, A, B, C",
+  "option5": "",
+  "answer": "C, B, D, A",
+  "explanation": "Cabinet Mission - 1946<br />Montague - Chelmsford Reforms- 1919<br />Minto - Morley Reforms - 1909<br />Cripps’ Mission - 1942"
+}

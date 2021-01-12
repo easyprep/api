@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T20:39:51.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "76c25918-427e-4f55-b4f3-7be2460aeb9d",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(A) Vitamin A\r\n</td>\r\n<td>\r\n1. Beriberi\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(B) Vitamin B\r\n</td>\r\n<td>\r\n2. Rickets\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(C) Vitamin C\r\n</td>\r\n<td>\r\n3. Scurvy\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(D) Vitamin D\r\n</td>\r\n<td>\r\n4. Sterility\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(E) Vitamin E\r\n</td>\r\n<td>\r\n5. Night Blindness\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D E",
+  "option1": "5 4 3 2 1",
+  "option2": "5 1 3 2 4",
+  "option3": "1 2 3 4 5",
+  "option4": "3 2 1 5 4",
+  "option5": "",
+  "answer": "5 1 3 2 4",
+  "explanation": "• Beriberi is a disease caused by a vitamin B-1 deficiency, also known as thiamine deficiency. There are two types of the disease: wet beriberi and dry beriberi.<br />• Rickets is a skeletal disorder that\\'s caused by a lack of vitamin D, calcium, or phosphate.<br />• Scurvy is a disease resulting from a lack of vitamin C (ascorbic acid). Early symptoms of deficiency include weakness, feeling tired and sore arms and legs.<br />• Vitamin E deficiency has been advocated as a possible cause of infertility in many studies conducted in the past.<br />• Vitamin A deficiency (VAD) or hypovitaminosis A is a lack of vitamin A in blood and tissues. It is common in poorer countries, but rarely is seen in more developed countries. Nyctalopia (night blindness) is one of the first signs of VAD."
+}

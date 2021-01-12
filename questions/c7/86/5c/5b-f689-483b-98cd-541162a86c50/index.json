@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-17T16:03:11.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "c7865c5b-f689-483b-98cd-541162a86c50",
+  "labels": "current-affairs,2019-08-18",
+  "question": "Which of the following conversions is used in Microphone?",
+  "option1": "Sound waves are converted into electrical energy and then reconverted into sound after transmission",
+  "option2": "Sound waves are directly transmitted",
+  "option3": "Electrical energy is converted into sound waves directly",
+  "option4": "Amplification is not required at all",
+  "option5": "",
+  "answer": "Sound waves are converted into electrical energy and then reconverted into sound after transmission",
+  "explanation": "A microphone is colloquially named mic or mike. It is a device, a transducer that converts sound into an electrical signal."
+}

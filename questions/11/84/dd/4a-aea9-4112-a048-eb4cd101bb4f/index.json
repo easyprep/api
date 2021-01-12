@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T16:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "1184dd4a-aea9-4112-a048-eb4cd101bb4f",
+  "labels": "current-affairs,2019-09-03",
+  "question": "A small wooden block is floating in a tub of water. The water is gradually heated. What will happen to the volume of the wooden block visible above the water level?",
+  "option1": "Increases",
+  "option2": "Decreases",
+  "option3": "Fluctuates",
+  "option4": "Remains the same",
+  "option5": "",
+  "answer": "Decreases",
+  "explanation": "This is because the density of the gradually heated liquid decreases, but the density of the wooden block, which is a poor conductor of heat, remains more or less the same."
+}

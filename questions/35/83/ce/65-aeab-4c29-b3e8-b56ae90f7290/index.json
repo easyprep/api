@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-09T21:57:07.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "3583ce65-aeab-4c29-b3e8-b56ae90f7290",
+  "labels": "current-affairs,2019-08-10",
+  "question": "By which of the following methods the age of tree can be estimated?",
+  "option1": "Counting the number of concentric rings",
+  "option2": "Counting the nodes and internodes of the trunk",
+  "option3": "Measuring the girth of the tree trunk",
+  "option4": "Counting the number of branches",
+  "option5": "",
+  "answer": "Counting the number of concentric rings",
+  "explanation": "Most accurate way to estimate tree age is to count the annual rings of wood growth. Each ring marks a complete cycle of seasons, or one year, in the tree\\'s life."
+}

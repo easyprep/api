@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T18:40:42.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "a6cfb386-b813-4c57-8fb6-194127ff9f3a",
+  "labels": "current-affairs,2019-09-05",
+  "question": "Which of the following is the criterion for a political party to be recognized as a national party?",
+  "option1": "When it contests elections in all the States of the country",
+  "option2": "When it secures at least five per cent of the total votes cast in a national election",
+  "option3": "If it captures power at least in three States",
+  "option4": "If it is recognized as a political party in four or more States",
+  "option5": "",
+  "answer": "If it is recognized as a political party in four or more States",
+  "explanation": "A registered party is recognized as a national party only if it fulfils any one of the following three conditions: At a general election to Lok Sabha or Legislative Assembly, the party polls 6% of votes in any four or more states and in addition it wins four Lok Sabha seats."
+}

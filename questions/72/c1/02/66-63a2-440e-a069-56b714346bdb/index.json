@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T20:07:26.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "72c10266-63a2-440e-a069-56b714346bdb",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Consider the following States with respect to their representation to the Lok Sabha:<br />I. Andhra Pradesh<br />II. Madhya Pradesh<br />III. Tamil Nadu<br />IV. Maharashtra<br />Which of the following sequences is correct (&gt; means greater than)?",
+  "option1": "IV > III > II > I",
+  "option2": "I > II > III > IV",
+  "option3": "IV > III > II > I",
+  "option4": "II > I > III > IV",
+  "option5": "",
+  "answer": "IV > III > II > I",
+  "explanation": "• Andhra Pradesh - 25<br />• Madhya Pradesh - 29<br />• Tamil Nadu - 39<br />• Maharashtra - 48"
+}

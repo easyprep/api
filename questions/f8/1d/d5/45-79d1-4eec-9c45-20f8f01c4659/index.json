@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-05T21:30:01.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "f81dd545-79d1-4eec-9c45-20f8f01c4659",
+  "labels": "current-affairs,2019-09-06",
+  "question": "If there were no atmosphere, what would be the colour of sky?",
+  "option1": "White",
+  "option2": "Black",
+  "option3": "Blue",
+  "option4": "Red",
+  "option5": "",
+  "answer": "Black",
+  "explanation": "If there is no atmosphere, there will be no scattering of sunlight at all. In that case, no scattered light will enter our eyes from the sky and the sky will look black. Only the stars will appear as dots."
+}

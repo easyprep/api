@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T16:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "55cb95fc-1c56-4c84-995f-81868cdbb3ef",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Which of the following fertilisers leaves acidic residue?",
+  "option1": "Ammonium phosphate",
+  "option2": "Ammonium sulphate",
+  "option3": "Urea",
+  "option4": "Sulphate of potash",
+  "option5": "",
+  "answer": "Sulphate of potash",
+  "explanation": "K+ is an unreactive ion as it produced from the dissolution of the weak base KOH. However, SO42- is produced from the dissociation of strong acid HSO4- so it is slightly acidic. So the product K2SO4 would be slightly acidic."
+}

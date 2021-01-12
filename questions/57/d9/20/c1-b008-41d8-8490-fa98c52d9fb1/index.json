@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-07T16:16:48.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "57d920c1-b008-41d8-8490-fa98c52d9fb1",
+  "labels": "current-affairs,2019-09-08",
+  "question": "Which of the following is the chemical name of ‘aspirin’?",
+  "option1": "Acetyl cyanamide",
+  "option2": "Acetyl Salicylic Acid",
+  "option3": "Benzyl Salicylate",
+  "option4": "Tartaric Acid",
+  "option5": "",
+  "answer": "Acetyl Salicylic Acid",
+  "explanation": "Aspirin or acetylsalicylic acid is a pharmaceutical drug used to reduce pain or inflammation. It is classified as a non-steroidal anti-inflammatory drug (NSAID)."
+}

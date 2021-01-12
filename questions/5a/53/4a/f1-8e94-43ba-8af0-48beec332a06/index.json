@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T18:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "5a534af1-8e94-43ba-8af0-48beec332a06",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Which of the following is used to increase the voltage of alternative current?",
+  "option1": "Capacitor",
+  "option2": "Transformer",
+  "option3": "Inverter",
+  "option4": "Rectifier",
+  "option5": "",
+  "answer": "Transformer",
+  "explanation": "A major advantage of alternating current is that its voltage can be modified relatively easily using a transformer, which allows power to be transmitted at very high voltages before being taken down to safer voltages for commercial and residential use."
+}

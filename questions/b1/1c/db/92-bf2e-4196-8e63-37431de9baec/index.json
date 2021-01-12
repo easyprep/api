@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-17T14:55:06.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "b11cdb92-bf2e-4196-8e63-37431de9baec",
+  "labels": "current-affairs,2019-08-18",
+  "question": "Genetic code is made up by the four-letter alphabet forming the pairs?",
+  "option1": "A—C, C—A, T—G, G—T",
+  "option2": "A—G, G—A, C—A, T—C",
+  "option3": "T—G, G—T, A—C, C—A",
+  "option4": "A—T, T—A, C—G, G—C",
+  "option5": "",
+  "answer": "A—T, T—A, C—G, G—C",
+  "explanation": "The four letters designating these bases (A, G, C, and T) are the alphabet of the genetic code. Each rung of the DNA molecule is contains a combination of two of these letters, one jutting out from each side. In this genetic code, A always combines with T, and C with G to make what is called a base pair."
+}

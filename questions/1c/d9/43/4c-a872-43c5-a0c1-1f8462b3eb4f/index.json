@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T15:13:55.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "1cd9434c-a872-43c5-a0c1-1f8462b3eb4f",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(A) M. S. Swaminathan\r\n</td>\r\n<td>\r\n(i) Author\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(B) Mulk Raj Anand\r\n</td>\r\n<td>\r\n(ii) Scientist\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(C) A. P. Venkateshwaran\r\n</td>\r\n<td>\r\n(iii) Diplomat\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(D) J. D. Sethi\r\n</td>\r\n<td>\r\n(iv) Painter\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(v) Economist\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "option1": "A-(ii) B-(i) C-(iii) D-(v)",
+  "option2": "A-(i) B-(iii) C-(ii) D-(iv)",
+  "option3": "A-(v) B-(ii) C-(i) D-(iii)",
+  "option4": "A-(iii) B-(iv) C-(v) D-(i)",
+  "option5": "",
+  "answer": "A-(ii) B-(i) C-(iii) D-(v)",
+  "explanation": "Mankombu Sambasivan Swaminathan is an Indian geneticist and administrator, known for his role in India\\'s Green Revolution, a program under which high-yield varieties of wheat and rice were planted.<br />Mulk Raj Anand was an Indian writer in English, notable for his depiction of the lives of the poorer castes in traditional Indian society.<br />Ayilam Panchapakesha Venkateswaran was an Indian diplomat, former Foreign Secretary of India and former Chairman of Asia Centre, Bangalore, rated by many as one of the most efficient foreign secretaries of India.<br />J.D. Sethi. Dr. Sethi is Reader and Head of the Department of Economics, Institute of Post Graduate Studies, Delhi University."
+}

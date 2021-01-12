@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T16:39:12.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "382c6341-a1bf-4973-87f2-1c8c21a32468",
+  "labels": "current-affairs,2019-08-11",
+  "question": "Who decides whether a Bill is a ‘Money Bill’ or not?",
+  "option1": "Speaker of the Lok Sabha",
+  "option2": "President",
+  "option3": "Prime Minister",
+  "option4": "Vice-President",
+  "option5": "",
+  "answer": "Speaker of the Lok Sabha",
+  "explanation": "Only those financial bills which contain provisions exclusively on matters listed in article 110 of the constitution are called Money Bills. Question of whether a financial bill is money bill or not, is decided by the Speaker. Such bill needs to be endorsed by Speaker when passed by Lok Sabha and sent to Rajya Sabha."
+}

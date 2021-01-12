@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T20:15:07.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "185e81a3-f15d-4788-980d-51eb47ed2202",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Which of the following statements is incorrect?",
+  "option1": "Entropy is a quantity introduced to give clear expression to the results of thermodynamics",
+  "option2": "Change in entropy is defined as the ratio of the amount of heat taken up to the absolute temperature",
+  "option3": "Change in entropy is directly proportional to the amount of heat taken up",
+  "option4": "The entropy of a system is a measure of its degree of disorder",
+  "option5": "",
+  "answer": "Change in entropy is directly proportional to the amount of heat taken up",
+  "explanation": "Heat added to a system at a lower temperature causes higher entropy increase than heat added to the same system at a higher temperature. This gives more kinetic energy to distribute among the particles in the system, increasing the size of the system\\'s phase space and hence its entropy. So change in entropy is inversely proportional to the amount of heat taken up."
+}

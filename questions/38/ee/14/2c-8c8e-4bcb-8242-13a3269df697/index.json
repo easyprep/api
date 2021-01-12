@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-17T16:32:24.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "38ee142c-8c8e-4bcb-8242-13a3269df697",
+  "labels": "current-affairs,2019-08-18",
+  "question": "Which of the following pairs is not correct?",
+  "option1": "Seismograph- Earthquakes",
+  "option2": "Anemometer - Speed of the wind",
+  "option3": "Hygrometer - Water vapour content of the atmosphere",
+  "option4": "Lactometer - Specific gravity of liquids",
+  "option5": "",
+  "answer": "Lactometer - Specific gravity of liquids",
+  "explanation": "A lactometer is an instrument that is used to check for the purity of milk by measuring its density. An instrument to find out the content of the water in the milk or to test the richness of the milk is thus termed as \\'lactometers\\'. The lactometer works on the principle of gravity of milk."
+}

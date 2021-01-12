@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-01T20:04:38.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "8651aaf1-1c0c-4474-8ca9-556823c6a872",
+  "labels": "current-affairs,2019-09-02",
+  "question": "Which of the following clearly define Lineage?",
+  "option1": "A straight line joining any two points on the globe",
+  "option2": "The line of descendants of a particular ancestor",
+  "option3": "The paleolithic age",
+  "option4": "The linking of genes",
+  "option5": "",
+  "answer": "The line of descendants of a particular ancestor",
+  "explanation": "A lineage is a single line of descent or linear chain within the tree while a clade is a monophyletic group, containing a single ancestor and all its descendants. Phylogenetic trees are typically created from DNA, RNA or protein sequence data."
+}

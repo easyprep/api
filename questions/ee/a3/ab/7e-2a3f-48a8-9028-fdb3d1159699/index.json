@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T21:22:28.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "eea3ab7e-2a3f-48a8-9028-fdb3d1159699",
+  "labels": "current-affairs,2019-09-03",
+  "question": "The human body is immune to which of the following diseases?",
+  "option1": "Smallpox",
+  "option2": "Diabetes",
+  "option3": "Tuberculosis",
+  "option4": "jaundice",
+  "option5": "",
+  "answer": "Smallpox",
+  "explanation": "The vaccine helps the body develop immunity to smallpox. It was successfully used to eradicate smallpox from the human population. Routine vaccination of the American public against smallpox stopped in 1972 after the disease was eradicated in the United States."
+}

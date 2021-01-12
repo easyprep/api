@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-12T21:18:33.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "6ee76125-70cd-479a-8cf8-8e2890d5d46d",
+  "labels": "current-affairs,2019-09-13",
+  "question": "Gurugram Police has tied up with which tech giant for traffic updates?",
+  "option1": "Microsoft",
+  "option2": "Facebook",
+  "option3": "Google",
+  "option4": "Infosys",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "The Gurugram traffic police have tied up with Google maps for dissemination of traffic related information such as planned road closures, diversions, traffic alerts regarding road crash etc. in real time for public use. The basic idea behind this arrangement is to prompt commuters to make intelligent choices in order to make their commuting experience hassle-free."
+}

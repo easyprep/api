@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T17:30:07.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "0ab3ca16-582f-4a5d-adb5-51f576b68e8b",
+  "labels": "current-affairs,2019-09-04",
+  "question": "A man coming down on a lift leaves a ball from his hand. What will happen to the ball?",
+  "option1": "Go up",
+  "option2": "Fall down",
+  "option3": "Remain stationary with respect to man",
+  "option4": "Oscillate up and down",
+  "option5": "",
+  "answer": "Remain stationary with respect to man",
+  "explanation": "If the man and the released ball are experiencing free fall, then the ball would be falling with same acceleration as the boy. Hence relativity says in the man’s view the ball is stationary."
+}

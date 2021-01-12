@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T20:31:09.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "631450ba-319d-4621-ab77-8aa7c8b281c4",
+  "labels": "current-affairs,2019-09-05",
+  "question": "Indian Standard Time (I.S.T.) is determined according to the local time of which one of the following longitudes?",
+  "option1": "82.5° east longitude",
+  "option2": "0° longitude or Greenwich meridian",
+  "option3": "180° east or west longitude",
+  "option4": "70° east longitude",
+  "option5": "",
+  "answer": "82.5° east longitude",
+  "explanation": "Indian Standard Time is calculated on the basis of 82.5\\' E longitude, in Mirzapur (Amravati Chauraha), Uttar Pradesh, which is nearly on the corresponding longitude reference line."
+}

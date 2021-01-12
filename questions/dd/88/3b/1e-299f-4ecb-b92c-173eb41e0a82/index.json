@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-07T16:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "dd883b1e-299f-4ecb-b92c-173eb41e0a82",
+  "labels": "current-affairs,2019-09-08",
+  "question": "Sodium vapour lamps are preferred to incandescent lamps because of?",
+  "option1": "Higher efficiency",
+  "option2": "Higher tolerance in voltage fluctuations",
+  "option3": "Easy installation",
+  "option4": "Higher intensity of illumination",
+  "option5": "",
+  "answer": "Higher intensity of illumination",
+  "explanation": "Sodium vapour lamps have been used widely for street lighting since the 1930s because of their efficiency (measured in lumens per watt) and the ability of their yellow light to penetrate fog."
+}

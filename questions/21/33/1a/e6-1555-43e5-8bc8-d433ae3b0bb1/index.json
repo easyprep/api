@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-17T16:55:22.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "21331ae6-1555-43e5-8bc8-d433ae3b0bb1",
+  "labels": "current-affairs,2019-08-18",
+  "question": "At which of the following places lies the centre of gravity of the floating ship?",
+  "option1": "Lies above the metacentre.",
+  "option2": "Lies below the metacentre.",
+  "option3": "Coincides with the metacentre.",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Lies below the metacentre.",
+  "explanation": "The metacentre remains directly above the centre of buoyancy regardless of the tilt of a floating body, such as a ship. (The centre of gravity is the point in a body about which all parts of the body balance each other.)"
+}

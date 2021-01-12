@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-16T21:02:58.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "0cfc7843-dfbd-487a-b3f4-82815aac1a0b",
+  "labels": "current-affairs,2019-08-17",
+  "question": "At what temperature milk is heated for pasteurization by the Flash Method?",
+  "option1": "0°C",
+  "option2": "100°C",
+  "option3": "- 4°C",
+  "option4": "72°C",
+  "option5": "",
+  "answer": "72°C",
+  "explanation": "Pasteurization of milk is widely practiced in several countries. It requires temperatures of about 63° C maintained for 30 minutes .It requires alternatively heating to a higher temperature of72° C and holding for 15 seconds."
+}

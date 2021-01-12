@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-06T14:44:43.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "7250fef0-24d7-476e-9a96-319af07fc697",
+  "labels": "current-affairs,2019-09-07",
+  "question": "Why there are more anti-bacterial drugs than anti-viral drugs?",
+  "option1": "Bacterial diseases are intra-cellular",
+  "option2": "Viral diseases are intra-cellular",
+  "option3": "Virus is smaller than bacteria",
+  "option4": "Drugs can penetrate bacteria more effectively",
+  "option5": "",
+  "answer": "Viral diseases are intra-cellular",
+  "explanation": "<em>Viruses</em> infect all sorts of cells, from bacteria to human cells, but for the most part tend to be host specific. For example, the tobacco mosaic <em>virus</em> infects certain plants; the rabies <em>virus</em> infects only mammals; and the AIDS <em>virus</em>, HIV, infects only certain human blood cells."
+}

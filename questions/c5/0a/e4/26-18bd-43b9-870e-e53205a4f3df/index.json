@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-05T14:58:28.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "c50ae426-18bd-43b9-870e-e53205a4f3df",
+  "labels": "current-affairs,2019-09-06",
+  "question": "Which one of the following is not correctly matched?",
+  "option1": "Isopleth — A line joining places of equal height",
+  "option2": "Isobar — A line joining places of equal pressure",
+  "option3": "Isohyet — A line joining places of equal rainfall",
+  "option4": "Isotherm — A line joining places of equal temperature",
+  "option5": "",
+  "answer": "Isopleth — A line joining places of equal height",
+  "explanation": "Isopleth is a line on a map connecting points having equal incidence of a specified meteorological feature."
+}

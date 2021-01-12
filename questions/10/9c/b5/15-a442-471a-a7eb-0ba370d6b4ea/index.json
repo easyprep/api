@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T20:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "109cb515-a442-471a-a7eb-0ba370d6b4ea",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(A) Varanasi\r\n</td>\r\n<td>\r\n1. Indian Rare Earths Ltd.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(B) Koyali\r\n</td>\r\n<td>\r\n2. Hindustan Machine Tools Ltd.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(C) Pinjore\r\n</td>\r\n<td>\r\n3. Diesel Locomotive Works\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(D) Alwaye\r\n</td>\r\n<td>\r\n4. Petro-chemical complex\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "4 3 2 1",
+  "option2": "3 4 2 1",
+  "option3": "1 2 3 4",
+  "option4": "1 2 4 3",
+  "option5": "",
+  "answer": "3 4 2 1",
+  "explanation": "• Indian Rare Earths Limited (IREL) was incorporated on August 18, 1950, with its first unit Rare Earths Division (RED), Alwaye, in Kerala.<br />• HMT Machine Tools Ltd - Manufacturer of automatic cnc lathe machine, semi automatic cnc lathe machine &amp; automatic cnc milling machine in Pinjore, Haryana.<br />• The Diesel Locomotive Works (DLW) in Varanasi, India, is a production unit of Indian Railways that manufactures diesel-electric locomotives and its spare parts. It is the largest diesel-electric locomotive manufacturer in India.<br />• The Koyali petrochemicals plant is in India the largest refinery in the public sector."
+}

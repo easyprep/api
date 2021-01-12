@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T16:46:50.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "1433e39b-cdc0-46f9-9dc4-9027b4d3e407",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Triple antigen vaccine is given to the children to protect them against which of the following diseases?",
+  "option1": "Polio",
+  "option2": "Whooping cough",
+  "option3": "Contagious diseases",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Whooping cough",
+  "explanation": "DTaP is a combined vaccine against diphtheria, tetanus, and pertussis (whooping cough), in which the pertussis component is acellular. This is in contrast to whole-cell, inactivated DTP The acellular vaccine uses selected antigens of the pertussis pathogen to induce immunity."
+}

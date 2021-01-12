@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T18:17:17.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "e40c5aa9-16f5-4b61-b984-a2f0a6b8bd4f",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the dances and the States of their origin in the following list<br /><br />\r\n<table width=\"339\">\r\n<tbody>\r\n<tr>\r\n<td width=\"162\">\r\nI. Kathakali\r\n</td>\r\n<td width=\"161\">\r\nA. Orissa\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Odissi\r\n</td>\r\n<td>\r\nB. Kerala\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Bharatanatyam\r\n</td>\r\n<td>\r\nC. Tamil Nadu\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Kuchipudi\r\n</td>\r\n<td>\r\nD. Andhra Pradesh\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     I II III IV",
+  "option1": "B A D C",
+  "option2": "A B C D",
+  "option3": "B D A C",
+  "option4": "B A C D",
+  "option5": "",
+  "answer": "B A C D",
+  "explanation": "The Sangeet Natak Akademi currently confers classical status on eight Indian classical dance styles: Bharatanatyam (Tamil Nadu), Kathak (North, West and Central India), Kathakali (Kerala), Kuchipudi (Andhra Pradesh), Odissi (Odisha), Manipuri (Manipur), Mohiniyattam (Kerala), and sattriya (Assam)."
+}

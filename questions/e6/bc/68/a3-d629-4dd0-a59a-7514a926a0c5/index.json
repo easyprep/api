@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T20:27:05.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "e6bc68a3-d629-4dd0-a59a-7514a926a0c5",
+  "labels": "current-affairs,2019-09-20",
+  "question": "At which of the following speeds radio waves travel?",
+  "option1": "3 x 106 m/sec",
+  "option2": "3 x 107 m/sec",
+  "option3": "3 x 108 m/sec",
+  "option4": "3 x 109 m/sec",
+  "option5": "",
+  "answer": "3 x 108 m/sec",
+  "explanation": "Radio waves travel very quickly through space. Radio waves are a kind of electromagnetic radiation, and thus they move at the speed of light. The speed of light is a little less than 300,000 km per second. At that speed, a beam of light could go around the Earth at the equator more than 7 times in a second."
+}

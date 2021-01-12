@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-05T20:40:41.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "3e45b023-a406-455c-89cb-d6a60d5c491f",
+  "labels": "current-affairs,2019-09-06",
+  "question": "Which of the following is the limit beyond which stars suffer internal collapse?",
+  "option1": "Chandrashekhar limit",
+  "option2": "Eddington limit",
+  "option3": "Hoyle limit",
+  "option4": "Fowler limit",
+  "option5": "",
+  "answer": "Chandrashekhar limit",
+  "explanation": "The Chandrasekhar limit is the maximum mass of a stable white dwarf star. The currently accepted value of the Chandrasekhar limit is about 1.4 M. White dwarfs resist gravitational collapse primarily through electron degeneracy pressure."
+}

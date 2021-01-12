@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T17:03:41.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "e4503cc6-bc59-40ea-a838-b2cc5c71b26d",
+  "labels": "current-affairs,2019-09-05",
+  "question": "Which of the following correctly defines sex ratio?",
+  "option1": "The number of females in the population per 1000 male population",
+  "option2": "The number of males in the population per 1000 female population",
+  "option3": "The number of married females in the population per 1000 male population",
+  "option4": "The number of married males in the population per 1000 female population",
+  "option5": "",
+  "answer": "The number of females in the population per 1000 male population",
+  "explanation": "The proportion of males to females in a given population, usually expressed as the number of males per 100 females at a specific stage in life, especially at conception, birth, and a given stage between birth and death."
+}

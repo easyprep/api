@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-16T20:08:39.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "8779e9ca-335c-45d6-9d2c-5c65da16c99f",
+  "labels": "current-affairs,2019-08-17",
+  "question": "The researchers at which IIT  have developed industrial and field robot ‘GraspMan’?",
+  "option1": "IIT Madras",
+  "option2": "IIT Indore",
+  "option3": "IIT Hyderabad",
+  "option4": "IIT Kanpur",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "The researchers from IIT Madras have developed a multi-modal robot ‘GraspMan’ with good grasping, manipulation and locomotion abilities for use in industrial and field applications. The GraspMan is consists of a pair of graspers, which provide morphological adaptation. It will enable to conform to the geometry of the object being grasped. This allows the grasper to hold objects securely and manipulate it much like the human hand. The motivation behind this research is to realize a robot with a minimalistic design that can overcome the need for task-specific robots that are capable of navigating and manipulating across different environments without increasing the system complexity."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-16T21:07:09.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "9848443a-baa7-43af-a4f4-a81d8cdbc316",
+  "labels": "current-affairs,2019-08-17",
+  "question": "By which of the following the genetic code can be translated through an intermediate, adaptor molecule?",
+  "option1": "tRNA",
+  "option2": "mRNA",
+  "option3": "ATP",
+  "option4": "ADP",
+  "option5": "",
+  "answer": "mRNA",
+  "explanation": "In the nucleus, the DNA code is transcribed or copied, into a messenger RNA (mRNA) molecule. In the cytoplasm, the mRNA code is translated into amino acids. Translation is orchestrated at the ribosome and it itself partly composed of RNA with transfer RNA playing the role of adaptor."
+}

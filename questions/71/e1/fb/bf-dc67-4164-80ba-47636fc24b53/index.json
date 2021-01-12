@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T16:39:24.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "71e1fbbf-dc67-4164-80ba-47636fc24b53",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Through which of the following mechanisms genes control the activity of living organisms?",
+  "option1": "Photosynthesis",
+  "option2": "Protein synthesis",
+  "option3": "Vitamins",
+  "option4": "Hormones",
+  "option5": "",
+  "answer": "Protein synthesis",
+  "explanation": "The genes control the characteristic by making a specific protein. Genes are the segment of DNA that contains information to form RNA which ultimately forms protein. Each gene contains two alleles and this instructs the cell to make protein for expression of traits.<br />If the plant has gene for green seeds then it will make protein which will give green colour to seeds."
+}

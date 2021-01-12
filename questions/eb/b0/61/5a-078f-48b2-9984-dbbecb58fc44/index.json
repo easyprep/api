@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T20:44:28.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "ebb0615a-078f-48b2-9984-dbbecb58fc44",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(A) Australia\r\n</td>\r\n<td>\r\n1. Pretoria\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(B) Canada\r\n</td>\r\n<td>\r\n2. Riyadh\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(C) South Africa\r\n</td>\r\n<td>\r\n3. Canberra\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(D) Saudi Arabia\r\n</td>\r\n<td>\r\n4. Ottawa\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "2 4 1 3",
+  "option2": "3 4 1 2",
+  "option3": "4 3 1 2",
+  "option4": "3 4 2 1",
+  "option5": "",
+  "answer": "3 4 1 2",
+  "explanation": "• Pretoria is an administrative capital of South Africa.<br />• Riyadh is the capital of Saudi Arabia and Riyadh Province. It is the largest city in Saudi Arabia and one of the most populated cities in the Arab world.<br />• Canberra is the capital city of Australia. Founded following the federation of the colonies of Australia as the seat of government for the new nation.<br />• Ottawa is the capital city of Canada. It stands on the south bank of the Ottawa River in the eastern portion of southern Ontario."
+}

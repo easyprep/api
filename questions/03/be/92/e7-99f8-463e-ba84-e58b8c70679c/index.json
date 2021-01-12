@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T18:08:59.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "03be92e7-99f8-463e-ba84-e58b8c70679c",
+  "labels": "current-affairs,2019-08-11",
+  "question": "Chips used in integrated circuits in computers are made of which of the following materials?",
+  "option1": "Mica",
+  "option2": "Manganese",
+  "option3": "Silicon",
+  "option4": "Zinc",
+  "option5": "",
+  "answer": "Silicon",
+  "explanation": "Pure silicon is used for most integrated circuits. It provides the base or substrate for the entire chip and is chemically doped to provide the N and P regions that make up the integrated circuit components. The silicon must be so pure that only one out of every ten billion atoms can be an impurity."
+}

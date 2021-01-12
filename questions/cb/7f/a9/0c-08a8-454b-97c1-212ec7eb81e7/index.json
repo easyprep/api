@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T18:49:32.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "cb7fa90c-08a8-454b-97c1-212ec7eb81e7",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the following:\r\n&nbsp;\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nA. Argentite\r\n</td>\r\n<td>\r\n1. Copper\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Bauxite\r\n</td>\r\n<td>\r\n2. Iron\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Haematite\r\n</td>\r\n<td>\r\n3. Aluminium\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Cuprite\r\n</td>\r\n<td>\r\n4. Silver\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<br />A B C D",
+  "option1": "4 3 2 1",
+  "option2": "1 4 3 2",
+  "option3": "2 1 4 3",
+  "option4": "1 2 3 4",
+  "option5": "",
+  "answer": "4 3 2 1",
+  "explanation": "• Silver is extracted from the ore-argentite. The process of extraction of silver is called as cyanide process as sodium cyanide solution is used.<br />• Bauxite is primarily comprised of aluminum oxide compounds.<br />• Haematite ore is mined as the main ore of iron.<br />• Cuprite is an oxide mineral composed of copper oxide Cu2O, and is a minor ore of copper."
+}

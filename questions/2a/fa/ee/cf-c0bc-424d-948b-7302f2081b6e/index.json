@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T20:42:52.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "2afaeecf-c0bc-424d-948b-7302f2081b6e",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Which of the following ratios clearly indicate the physiological population density?",
+  "option1": "Total population to total area",
+  "option2": "Total population to total irrigated land area",
+  "option3": "Total population to urban land area",
+  "option4": "Total population to rural land area",
+  "option5": "",
+  "answer": "Total population to total area",
+  "explanation": "Physiological density is the number of people per unit area of arable land."
+}

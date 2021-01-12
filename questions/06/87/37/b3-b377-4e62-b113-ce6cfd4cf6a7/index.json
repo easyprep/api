@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-17T14:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "068737b3-b377-4e62-b113-ce6cfd4cf6a7",
+  "labels": "current-affairs,2019-08-18",
+  "question": "In which of the following diseases Sex chromosomes transmit?",
+  "option1": "Myopia",
+  "option2": "Colour blindness",
+  "option3": "Longsightedness",
+  "option4": "Night blindness",
+  "option5": "",
+  "answer": "Colour blindness",
+  "explanation": "It is sex-linked that genetic red-green color blindness affects males much more often than females, because the genes for the red and green color receptors are located on the X chromosome, of which males have only one and females have two."
+}

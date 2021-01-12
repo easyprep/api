@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T20:10:59.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "c16ca588-3b78-4454-8439-a3c6fed95757",
+  "labels": "current-affairs,2019-08-11",
+  "question": "Which of the following records of Bradman is not yet broken by Gavaskar?",
+  "option1": "Total number of runs scored in Test matches",
+  "option2": "Total number of centuries made in Test matches",
+  "option3": "Total number of runs per inning",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Total number of runs per inning",
+  "explanation": "The number of runs per innings Bradman scored was 99.6 and Gavasker scored runs per innings was 51.1."
+}

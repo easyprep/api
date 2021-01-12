@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T16:51:16.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "070c4911-4367-4bc5-8df8-e1a2ba2841ad",
+  "labels": "current-affairs,2019-09-04",
+  "question": "Which of the following groups of instruments is required to have communication line between two television relay centres?",
+  "option1": "Microwave link, telephone, booster relay, satellite",
+  "option2": "Radio telescope, microwave link, booster relay, telephone",
+  "option3": "Microwave link, booster relay, satellite",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Microwave link, booster relay, satellite",
+  "explanation": "Microwaves are chosen for satellite communication. Its frequency is high and microwaves can pass through the atmosphere of Earth to reach higher orbit satellites. Radio waves get affected by ionosphere and hence aren’t used."
+}

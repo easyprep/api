@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-03T18:23:26.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "7e8ce345-16f2-4e1a-a294-9a1a75c2f1a8",
+  "labels": "current-affairs,2019-09-04",
+  "question": "A biogas plant works to its maximum capacity at which of the following conditions?",
+  "option1": "Conditions are aerobic and temperature 40°C",
+  "option2": "Conditions are unerobic and temperature 40°C",
+  "option3": "Conditions are aerobic and sewage is supplied",
+  "option4": "Conditions are unaerobic and sewage is supplied",
+  "option5": "",
+  "answer": "Conditions are unerobic and temperature 40°C",
+  "explanation": "Using the highest possible processing temperature is an advantage in anaerobic digestion. The methane-producing bacteria in the digester have a higher rate of activity the higher the temperature. This makes thermophilic (40°C-45°C) biogas production more efficient, with more biogas produced at any given retention time."
+}

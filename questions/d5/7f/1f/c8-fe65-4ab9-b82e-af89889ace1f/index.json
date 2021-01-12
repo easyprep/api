@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T20:24:37.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "d57f1fc8-fe65-4ab9-b82e-af89889ace1f",
+  "labels": "current-affairs,2019-08-11",
+  "question": "With which of the following materials the tape of the tape-recorder is coated?",
+  "option1": "Cooper sulphate",
+  "option2": "Mica",
+  "option3": "Ferromagnetic powder",
+  "option4": "Zinc oxide",
+  "option5": "",
+  "answer": "Ferromagnetic powder",
+  "explanation": "The tape itself is actually very simple. It consists of a thin plastic base material, and bonded to this base is a coating of ferric oxide powder. The oxide is normally mixed with a binder to attach it to the plastic, and it also includes some sort of dry lubricant to avoid wearing out the recorder."
+}

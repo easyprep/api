@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T20:47:22.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "254dee9f-64af-4233-adf6-e38959c74216",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(A) Amjad Ali Khan\r\n</td>\r\n<td>\r\n1. Flute\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(B) Ali Hussain\r\n</td>\r\n<td>\r\n2. Sarod\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(C) Hari Prasad Chaurasia\r\n</td>\r\n<td>\r\n3. Tabla\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(D) Alaa Rakha\r\n</td>\r\n<td>\r\n4. Shehnai\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "2 1 3 4",
+  "option2": "4 2 1 3",
+  "option3": "2 4 1 3",
+  "option4": "1 2 3 4",
+  "option5": "",
+  "answer": "2 4 1 3",
+  "explanation": "• Amjad Ali Khan Bangash is an Indian classical sarod player, best known for his clear and fast ekhara taans.<br />• Ali Ahmed Hussain Khan was a shehnai specialist from India. He was born in Kolkata.<br />• Hariprasad Chaurasia is an Indian music director and classical flutist, who play the bansuri, an Indian bamboo flute, in the Hindustani classical tradition.<br />• Ustad Allarakha Qureshi popularly known as Alla Rakha was an Indian tabla player specialized in Hindustani Classical music."
+}

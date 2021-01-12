@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T18:47:17.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "f563be6c-9fef-44e5-9640-415c0f955e4c",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the following:\r\n&nbsp;\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nA. Mumps\r\n</td>\r\n<td>\r\n1. Protozoa\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Tuberculosis\r\n</td>\r\n<td>\r\n2. Bacterium\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Beriberi\r\n</td>\r\n<td>\r\n3. Virus\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Dysentery\r\n</td>\r\n<td>\r\n4. Lack of thiamine\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nA B C D",
+  "option1": "3 2 4 1",
+  "option2": "1 2 3 4",
+  "option3": "1 2 4 3",
+  "option4": "1 3 2 4",
+  "option5": "",
+  "answer": "3 2 4 1",
+  "explanation": "• Mumps is a viral infection that primarily affects saliva-producing glands that are located near your ears.<br />• Tuberculosis is a potentially serious bacterial disease that mainly affects your lungs. The bacteria that cause tuberculosis are spread from one person to another through tiny droplets released into the air via coughs and sneezes.<br />• Beriberi is a disease caused by a vitamin B-1 deficiency. It is also known as thiamine deficiency. There are two types of the disease: wet beriberi and dry beriberi. Wet beriberi affects the heart and circulatory system. In extreme cases, wet beriberi can cause heart failure.<br />• Dysentery is an inflammatory disease of the intestine caused by protozoa, especially of the colon, which always results in severe diarrhea and abdominal pains."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T18:04:37.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "a1d6ea68-d6e2-469f-bbcc-24d17928c114",
+  "labels": "current-affairs,2019-08-11",
+  "question": "Which of the following explains the reason behind a person sitting in a bus experiencing a jerk?",
+  "option1": "Law of inertia",
+  "option2": "Newton’s third law of motion",
+  "option3": "Einstein’s law of relativity",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Law of inertia",
+  "explanation": "The reason behind the above situation is Newton\\'s first law of motion or law of inertia. Newton\\'s first law of motion is often stated as an object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force which is the reason behind a person sitting in a bus experiencing a jerk."
+}

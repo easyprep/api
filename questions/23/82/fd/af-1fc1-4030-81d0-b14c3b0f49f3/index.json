@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-02T21:06:49.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "2382fdaf-1fc1-4030-81d0-b14c3b0f49f3",
+  "labels": "current-affairs,2019-09-03",
+  "question": "Which IIT has collaborated with  Amazon Web Services (AWS) to launch National Artificial Intelligence Resource Portal (NAIRP)?",
+  "option1": "IIT Kharagpur",
+  "option2": "IIT Kanpur",
+  "option3": "IIT Bombay",
+  "option4": "IIT Madras",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "IIT Kharagpur has collaborated with Amazon Web Services (AWS) to develop a National Artificial Intelligence Resource Portal (NAIRP) to promote learning and development in the artificial intelligence (AI). The aim of the portal is to make the search for AI learning resources simpler and more accessible to learners, practitioners and researchers in India. The initiative has got funding from the Ministry of Human Resources Development  (MoHRD), as part of the National Digital Library of India (NDLI) project which is being spearheaded by the premier institute. NAIRP will index a wide variety of AI-specific learning materials and allow interested candidates access to different resources for converting concepts into working modules."
+}

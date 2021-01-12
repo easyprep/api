@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-05T21:40:29.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "8cc6eea1-c549-4b0d-970e-73f367bf687d",
+  "labels": "current-affairs,2019-09-06",
+  "question": "Acid rain is caused by pollution of environment by?",
+  "option1": "Carbon dioxide and nitrogen",
+  "option2": "Carbon monoxide and carbon dioxide",
+  "option3": "Ozone and carbon dioxide",
+  "option4": "Nitrous oxide and sulphur dioxide",
+  "option5": "",
+  "answer": "Nitrous oxide and sulphur dioxide",
+  "explanation": "Acid rain results when sulfur dioxide (SO<sub>2</sub>) and nitrogen oxides (NO<sub>X</sub>) are emitted into the atmosphere and transported by wind and air currents. The SO<sub>2</sub> and NO<sub>X</sub> react with water, oxygen and other chemicals to form sulfuric and nitric acids. These then mix with water and other materials before falling to the ground."
+}

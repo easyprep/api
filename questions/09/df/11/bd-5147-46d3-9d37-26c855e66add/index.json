@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-06T14:47:47.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "09df11bd-5147-46d3-9d37-26c855e66add",
+  "labels": "current-affairs,2019-09-07",
+  "question": "The total internal reflection occurs when light travels in which of the following situations?",
+  "option1": "A rarer medium to a denser medium",
+  "option2": "A denser medium to a rarer medium",
+  "option3": "A rarer medium to a denser medium and the angle of incidence is less than the critical angle",
+  "option4": "A rarer medium to a denser medium and the angle of incidence is greater than the critical angle",
+  "option5": "",
+  "answer": "A denser medium to a rarer medium",
+  "explanation": "When light travels from one medium to another it changes speed and is refracted. For total internal reflection to occur the light must travel from a dense medium to a less dense medium (e.g. glass to air or water to air). As the angle of incidence increases so does the angle of refraction."
+}

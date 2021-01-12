@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-09T22:00:12.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "7c47d50d-587d-453f-8d81-57e5bec0d030",
+  "labels": "current-affairs,2019-08-10",
+  "question": "“Mach Number” is a term associated with the speed of which of the following?",
+  "option1": "Ships",
+  "option2": "Cars",
+  "option3": "Aeroplanes",
+  "option4": "Light",
+  "option5": "",
+  "answer": "Aeroplanes",
+  "explanation": "Mach number is a measure of speed of an aeroplane. When we say an aircraft is flying at Mach 1, it means that the speed of the vehicle is 343 m/s. Mach number is the ratio between the true airspeed of the aircraft and the local speed of sound."
+}

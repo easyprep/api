@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-05T16:05:37.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "1ece3288-7bf6-4606-881c-dcc5f2ee5c3d",
+  "labels": "current-affairs,2019-09-06",
+  "question": "A free-floating astronaut ‘A’ pushes another free-floating astronaut ‘B’ in space. The mass of ‘A’ is greater than that of ‘B’. The force exerted by the astronaut ‘A’ on the astronaut ‘B’ will be?",
+  "option1": "Equal to zero",
+  "option2": "Equal to the force exerted by ‘B’ on ‘A’",
+  "option3": "Greater than the force exerted by ‘B’ on ‘A’.",
+  "option4": "Less than the force exerted by ‘B’ on ‘A’",
+  "option5": "",
+  "answer": "Equal to zero",
+  "explanation": "An <em>astronaut</em> is <em>floating</em> around in the space and gives another person a <em>push</em>. Newton\\'s third law says that if he <em>pushes</em> the other person, it <em>will push</em> back on him with an equal and opposite <em>force</em>.<br />So the force exterted will be zero."
+}

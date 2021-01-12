@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-10T20:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "82ff7291-6ecc-4856-8125-93232291c971",
+  "labels": "current-affairs,2019-08-11",
+  "question": "Arrange the following three atmospheric layers starting from the surface of the earth: <br />A. Stratosphere<br />B. Ionosphere<br />C. Troposphere",
+  "option1": "A, B, C",
+  "option2": "C, A, B",
+  "option3": "A, C, B",
+  "option4": "C, B, A",
+  "option5": "",
+  "answer": "C, A, B",
+  "explanation": "Earth\\'s atmosphere has a series of layers, each with its own specific traits. Moving upward from ground level, these layers are named the troposphere, stratosphere, mesosphere, ionosphere and exosphere."
+}

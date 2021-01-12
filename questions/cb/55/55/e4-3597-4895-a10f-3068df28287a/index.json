@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-19T18:39:27.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "cb5555e4-3597-4895-a10f-3068df28287a",
+  "labels": "current-affairs,2019-09-20",
+  "question": "Match the following:-<br /><br />\r\n<table width=\"481\">\r\n<tbody>\r\n<tr>\r\n<td width=\"155\">\r\nA. Krishnadeva Raya\r\n</td>\r\n<td width=\"310\">\r\n1. Construction of roads and land reforms\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Hyder Ali\r\n</td>\r\n<td>\r\n2. Poems in Telugu\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Afghans and Turks\r\n</td>\r\n<td>\r\n3. Mysore Wars\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Sher Shah\r\n</td>\r\n<td>\r\n4. Construction of tombs and arches\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "option1": "A—2, B—1, C—3, D—4",
+  "option2": "A—2, B—3, C—4, D—1",
+  "option3": "A—1, B—2, C—3, D—4",
+  "option4": "A—3, B—4, C—2, D—1",
+  "option5": "",
+  "answer": "A—2, B—3, C—4, D—1",
+  "explanation": "• Krishnadeva Raya Poems in Telugu <br />• Hyder Ali Mysore Wars<br />• Afghans and Turks Construction of tombs and arches<br />• Sher Shah Construction of roads and land reforms"
+}

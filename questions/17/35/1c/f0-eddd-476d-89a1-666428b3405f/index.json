@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-18T20:30:33.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "17351cf0-eddd-476d-89a1-666428b3405f",
+  "labels": "current-affairs,2019-09-19",
+  "question": "According to latest UN International Migrant Stock 2019 report, which country is the leading country of origin of international migrants in 2019?",
+  "option1": "India",
+  "option2": "Mexico",
+  "option3": "China",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "India",
+  "explanation": "A dataset titled ‘International Migrant Stock 2019’ has recently released by the Population Division of the UN Department of Economic and Social Affairs. The data provides the latest estimates of the number of international migrants by age, sex and origin for all countries and areas of the world.  As per UN report, India is the leading country of origin of international migrants in 2019 with a 17.5 million strong diaspora. Migrants from Mexico constituted the 2nd largest diaspora with 11.8 million people followed by China with 10.7 million people and Russia with 10.5 million people. The report says  that the number of migrants globally reached an estimated 272 million."
+}

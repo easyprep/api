@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-04T18:35:51.000Z",
+  "updated_at": "2021-01-06T08:24:42.151Z",
+  "id": "263e90f6-3ac2-483c-8c0b-b1b1bbaece9e",
+  "labels": "current-affairs,2019-09-05",
+  "question": "Which of the following is represented by the newly discovered high-temperature superconductors?",
+  "option1": "Metal alloys",
+  "option2": "Pure rare-earth metals",
+  "option3": "Ceramic oxides",
+  "option4": "Inorganic polymers",
+  "option5": "",
+  "answer": "Ceramic oxides",
+  "explanation": "The first high-T<sub>c</sub> superconductor was discovered in 1986 by IBM researchers Georg Bednorz and K. Alex Muller, who were awarded the 1987 Nobel Prize in Physics \\\"for their important break-through in the discovery of superconductivity in ceramic materials\\\"."
+}
