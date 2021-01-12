@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "69993cb7-7b19-45ff-9d95-63bf7d1d5816",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The International Olympic Committee has been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>IOC is a member of the UN.</li>\n<li>IOC is headquartered in Switzerland.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe International Olympic Committee is not a member of the United Nations. However, it holds the status of a permanent observer. Hence the IOC is involved UNGA meetings. The IOC was established in 1894 to promote the Olympic Movement.\n<strong>Statement 2 is correct:</strong>\nThe International Olympic Committee is headquartered in Lausanne in Switzerland. It is a non- governmental organisation established by Pierre de Coubertin and Demetrios Vikelas. The Olympic Museum is also in Lausanne. The IOC is the governing body of the National Olympic Committees."
+}

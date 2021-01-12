@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a99cface-8cc6-4151-bc1d-47a7d0dcbaef",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context of the recently published Global Climate Risk Index, consider the following statements:<br />\n<ol>\n<li>It is published by the UN Environment Program.</li>\n<li>India’s ranking has worsened since last time.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Global Climate Risk Index 2020 was published by German Watch. It is an international think tank based in Bonn and Berlin of Germany. The global climate risk index measures the effect of climate change driven disasters and weather events on various countries.\n<strong>Statement 2 is correct:</strong>\nThe ranking of India has changed from the 14<sup>th</sup> position in 2017 to the 5<sup>th</sup> position in 2018. This indicates an increase in the losses faced by the country due to climate change related events like floods and heavy rains. Landslides are also one of the major contributor to the worsening in rank."
+}

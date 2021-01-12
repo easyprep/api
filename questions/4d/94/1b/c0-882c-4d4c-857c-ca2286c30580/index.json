@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4d941bc0-882c-4d4c-857c-ca2286c30580",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discoveries about the Trans-Mexican Volcanic Belt, consider the following statements:<br />\n<ol>\n<li>It stretches from Pacific Ocean to Gulf of Mexico in a north-south direction.</li>\n<li>It is located on a subduction zone.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Trans-Mexican Volcanic Belt is located in central and southern Mexico. It stretches from Pacific Ocean to the Gulf of Mexico is a west-east manner. It is also known as the Sierra Nevada. The belt has a number of active and dormant volcanoes like Popocatepetl, Paricutin, etc.\n<strong>Statement 2 is correct:        </strong>\nThe Trans-Mexican Volcanic Belt lies on the edge of the North American Plate, a major tectonic plate. It is located in the subduction zone of Cocos Plate and Rivera Plate with North American Plate. Subduction is the process by which one tectonic plate moves underneath another."
+}

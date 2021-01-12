@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8366961d-7a62-4642-996f-f6dbe10ba31e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the inauguration of the robotic surgery facility in Delhi, consider the following statements:<br />\n<ol>\n<li>The facility can be availed by poor patients for free.</li>\n<li>The facility can be used for operations on critically ill patients.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe robotic surgery facility was inaugurated at the Safdarjung Hospital in New Delhi. It is to provide the service to poor patients free of cost. It is the first central government hospital to provide such a service. It will greatly add to the healthcare infrastructure.\n<strong>Statement 2 is correct:</strong>\nThe facility is to be used by surgeons to perform operations on critically ill patients suffering from issues like cancer, organ failure, etc. It will reduce operation time and consequently patient waiting time. It will make use of high definition 3D images of the body anatomy to improve operation accuracy."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a892a012-991a-4dc0-8e9c-59c8b4047c93",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the LOTUS-HR program, consider the following statements:<br />\n<ol>\n<li>It is being implemented by the ministry of urban affairs.</li>\n<li>It is a sewage treatment project.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nLOTUS-HR is a project being implemented by the ministry of science and technology. The department of biotechnology, under this ministry, is collaborating with Netherlands Organisation for Scientific research for this project. This is the second phase of the project which was first launched in 2017.\n<strong>Statement 2 is correct:</strong>\nLOTUS-HR stands for Local Treatment of Urban Sewage streams for Healthy Reuse. It is a sewage treatment project. It looks to demonstrate the use of novel methods to treat sewage in urban scenario locally and get clean water that can be used for various purposes."
+}

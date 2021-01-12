@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:10.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fd1459be-a2fb-4f02-9aa0-473fd025e10a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the new threats from deepfake technology, which of the following statements are correct?\n<ol>\n<li>It makes use of 3D modelling to recreate realistic looking videos.</li>\n<li>Open source alternatives exist for creation of deepfake content.</li>\n<li>GAN/ Generative Adversarial Networks makes the deepfakes harder to detect.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nDeepfake is an AI based technology that uses 3D modelling to create photos and videos of people. The realistic creations are a cause for concern as they are the latest weapons for mass spread of misinformation and defamation. The term was coined in 2017 and the technology has already been used to target many celebrities, politicians and public personalities around the world.\n<strong>Statement 2 </strong>is correct:\nThe deepfake content are produced on softwares like the FakeApp. These softwares requires large amount of visual data and generate realistic looking fake videos. They make use of AI framework like the TensorFlow of Google. Though such propriety apps exist, the situation is more critical due to availability of open source alternatives. FaceSwap, DeepFaceLab etc can be used by the general public.\n<strong>Statement 3 </strong>is correct:\nGAN enables unsupervised learning by AI and are “high level machine learning systems”. NGO studies in 2018 listed 2 ways to detect deepfake- lack of eye blinks and short length of the video clip apart from looking at the content source. However, the use of GAN will make these measures less and less effective due to rapid evolution of the technology."
+}

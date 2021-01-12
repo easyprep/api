@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f296e3d7-1f9e-4589-9447-d89f9a2d5896",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the RBI widening the scope of Special Non Resident Rupee Accounts, consider the following statements:<br />\n<ol>\n<li>Both SNRR and Non-Resident Ordinary Rupee (NRO) accounts are repatriable.</li>\n<li>Money cannot be transferred from NRO to SNRR accounts.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe SNRR accounts are different from the NRO accounts in that while the former is repatriable, the latter is not (with certain exception). Repatriable accounts are those which allow the transfer of the balance from India to accounts of the holder in the country of his/ her residence or citizenship.\n<strong>Statement 2 is correct:</strong>\nThe RBI holds that money cannot be transferred from NRO accounts to SNRR accounts. This is because while SNRR accounts are non- interest earning, the holders of the NRO accounts can earn interest on their deposits. The RBI in November, increased the scope of the SNRR by widening the purposes for which it can be used. This is to promote cross- border rupee transactions."
+}

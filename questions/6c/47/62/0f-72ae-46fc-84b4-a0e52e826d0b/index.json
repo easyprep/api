@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6c47620f-72ae-46fc-84b4-a0e52e826d0b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "India entered the top 10 performers in the Climate Change Performance Index 2019 for the first time. In this context, consider the following statements:<br />\n<ol>\n<li>China was the worst performer of all.</li>\n<li>Sweden was ranked as the number one performer in CCPI 2019.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nUSA was ranked as the worst performer by the 2019 edition of the Climate Change Performance Index. The CCPI is a collaborative effort of GermanWatch, Climate Action Network and New Climate Institute. The rankings were released in context with the COP25 being held at Madrid.\n<strong>Statement 2 is incorrect:</strong>\nNone of the countries are en route to achieve their targets for taking up the Paris Agreement. Because of this, the first 3 spots of the CCPI ranking were left blank. Sweden was ranked at the 4<sup>th</sup> position and Denmark at 5<sup>th</sup>."
+}

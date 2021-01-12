@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "491a73ff-bc4e-4bad-87cf-42e2a9195ca5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent protests and riot, consider the following statements:<br />\n<ol>\n<li>Prevention of Damage to Public Property Act lists telecommunication infrastructure also as a part of ‘public property’.</li>\n<li>The Thomas Committee recommended that the burden of proof for public property damage cases to be put on the accused.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Prevention of Damage to Public Property Act which was passed in 1984 provides for a 5 years jail term and fine for damaging public property. The act defines public property and telecommunication infrastructure apart from public transport are also included in it.\n<strong>Statement 2 is incorrect:</strong>\nThe Thomas Committee had recommended that the onus of proving that the accused caused damage to public property must lie with the prosecutor. The court had accepted the committee’s recommendations. The prosecutor is required to prove that the accused was directly involved in causing damage to public property."
+}

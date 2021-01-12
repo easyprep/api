@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4df2d79d-26c3-470d-922b-609f724f930d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent studies on the protein called ‘secretagogin’, consider the following statements:<br />\n<ol>\n<li>It damages the structure of insulin leading to diabetes.</li>\n<li>It increases LDL- cholesterol in the body.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe protein secretagogin is responsible for regulating insulin activity in the body. By binding to insulin, it improves its stability and its action against glucose. It is regulated by the SCGN gene in humans. It is being studied for its potential as a diagnostic tool for obesity induced diabetes.\n<strong>Statement 2 is incorrect:</strong>\nThe secretagogin was found to reduce the level of LDL- cholesterol in mice. LDL- cholesterol is harmful for health in high levels. The protein was also linked to lower levels of lipid accumulation in liver cells. It is an important component for regulating cellular stresses."
+}

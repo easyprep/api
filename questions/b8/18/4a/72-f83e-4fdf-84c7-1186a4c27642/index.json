@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b8184a72-f83e-4fdf-84c7-1186a4c27642",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, IIT scientists developed a paper sensor for testing milk quality using Alkaline Phosphatase/ ALP. In this context, consider the following statements about ALP:<br />\n<ol>\n<li>ALP is a metalloprotein.</li>\n<li>ALP is produced due to break down of milk proteins.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nALP is a metalloprotein. It is a major biomarker used to control milk quality. It consists of cysteine residues, zinc atoms and a magnesium atom. It is found in bacteria such as E-coli. The newly developed sensor turns blue green in the presence of ALP.\n<strong>Statement 2 is incorrect:</strong>\nALP is present in raw milk samples. They are not produced due to milk protein breakdown. ALP is produced by bacterial contaminants in the milk. Its presence is an indication of failed pasteurisation. The bacteria itself gets neutralised at temperatures below that required to denature ALP."
+}

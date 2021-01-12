@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "644a8a4d-068d-471e-a7f2-e41b6f9334ff",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The device ‘FrogPhone’ has been in the news recently. With reference to this, consider the following statements about this device:<br />\n<ol>\n<li>It is a remotely controlled device.</li>\n<li>It is used to monitor frog populations.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe FrogPhone is a remote controlled device. It is powered by solar energy. It is capable of receiving both 3G and 4G cellular networks. The device was developed in Australia by several universities like the University of Canberra and the University of New South Wales.\n<strong>Statement 2 is correct:</strong>\nThe FrogPhone is a device used to monitor the various aspects of frog populations like air temperature, water temperature, etc. Since most of the frogs are active during the night time, the device is used to provide insights into their behaviour."
+}

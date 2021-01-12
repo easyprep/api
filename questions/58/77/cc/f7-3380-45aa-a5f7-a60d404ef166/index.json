@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5877ccf7-3380-45aa-a5f7-a60d404ef166",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In 2019 summer monsoon, India received record high rainfall. In this context, consider the following statements:<br />\n<ol>\n<li>The high rainfall was due to positive Indian Ocean Dipole.</li>\n<li>The high rainfall was due to strong El Nino effects.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe scientists reported that the record high rainfall received by India during the summer monsoon was due to a positive Indian Ocean Dipole. IOD is a phenomenon in the Indian Ocean Region whereby the eastern and western portion of the ocean show differential temperatures. In the positive phase, the western portion is warmer and favours rainfall.\n<strong>Statement 2 is incorrect:</strong>\nThe 2019 summer monsoon season experienced a neutral El Nino effect. The strength of El Nino is inversely proportional to the performance of monsoon in India. Hence, a weak El Nino is needed for a good monsoon rainfall. This made the scientist conclude the predominance of IOD in affecting the record rainfall this season."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b0b95a86-82aa-482a-a304-3cb91f2640a8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent reports of transmissible cancers among mussel species, consider the following statements:<br />\n<ol>\n<li>Only marine organisms are affected by transmissible cancers.</li>\n<li>Transmissible cancers cannot spread between different species.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMarine animals aren’t the only life forms affected by transmissible cancers. Among the terrestrial animals, the Tasmanian devil, dogs, etc. can also be affected by transmissible cancers. In fact, dogs carry one of the oldest living cancer forms. Some cancers are caused by viruses also.\n<strong>Statement 2 is incorrect:</strong>\nRecent study reported that transmissible cancers can spread among different species. The cancer that was previously confined to Bay Mussels is now affecting two new species: French Blue Mussels and the Chilean Mussels. The cancer has been spreading across vast areas of the oceans."
+}

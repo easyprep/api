@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ee434f1a-773d-4eba-a46e-00037a8d1298",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the employment patterns reported by ILO, consider the following statements:<br />\n<ol>\n<li>Self-employment is highest in African countries.</li>\n<li>Most of the employment in agricultural sector in South Asia is informal.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe self-employment is highest in South Asia at 66%. The Sub-Saharan African region has 50% prevalence of self-employment while the North African region showed 44% prevalence. The ILO report showed that lower income economies are more dependent on self-employment and micro and small enterprises for employment.\n<strong>Statement 2 is correct:</strong>\nThe ILO report Small Matters highlighted the highly informal nature of employment in the agricultural sector. The report says that about 95% of employment in the sector in South Asia and sub-Saharan Africa is informal in nature. Informal employment enjoys lesser job security and pay than formal employment."
+}

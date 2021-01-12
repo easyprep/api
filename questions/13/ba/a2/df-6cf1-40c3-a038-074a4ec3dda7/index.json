@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:08.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "13baa2df-6cf1-40c3-a038-074a4ec3dda7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "About 78% of sewage generated in India is untreated according to reports. Which of the following statements, about the steps taken for dealing with this issue, are correct?\n<ol>\n<li>Sewage Sludge Hygienisation Plant- a pilot project- in Ahmedabad makes use of radiation technology to treat sludge.</li>\n<li>Sludge Hygienisation Research Irradiator in Vadodara was set up by IGCAR.</li>\n<li>Energy can be generated from STPs.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong>Statement 1 </strong>is correct:\nThe plant in Ahmedabad was set up as a technology demonstration pilot project. The project is a joint effort by BARC and Ahmedabad’s municipal corporation. It will make use of radiation technology to hygienize the sludge from the sewage. A huge portion of sewage is water, while a small portion is made of organic components. These components are sterilised by use of radiation from radioactive cobalt isotope (Co-60).\n<strong>Statement 2 </strong>is incorrect:\nVadodara’s SHRI project was set up by BARC/ Bhabha Atomic Research centre. This was in collaboration with Vadodara’s municipal corporation and has been operational for about 3 decades. It also makes use of Co-60 radiations- gamma radiations. It treats sewage with about 3-4% solids.\n<strong>Statement 3 </strong>is correct:\nIt is possible to generate energy from STP. Such an STP was setup in Bengaluru in 2017 with the aid of JICA/ Japan International Corporation Agency. The STP makes use of Activated Sludge Process- one of the most common techniques used by STP across India. It makes use of Biological Nutrient Removal Technology. It has a capacity for 1MW power."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "639381ef-d997-4649-8513-c7f9439c843a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Odisha’s Bargarh village’s intensive use of pesticides has been linked to high cancer incidence in the region. In this context, consider the following statements:<br />\n<ol>\n<li>The pesticide Pyrethroids are classified under class I hazardous compounds by WHO.</li>\n<li>Organophosphate pesticides are classified under class II hazardous substance by WHO.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe pyrethroid pesticides are classified under class II hazardous substances by WHO. Though they are not as harmful as class I substances, they are considered as moderately harmful. They are known to be toxic to important insects like bees and dragonflies.\n<strong>Statement 2 is correct:        </strong>\nOrganophosphate pesticides are considered as moderately harmful by WHO classification system and are listed under class II. Their member compounds are classified as ‘possible carcinogens’ and ‘probable carcinogens’. The pesticide is widely used in Odisha’s Bargarh region for paddy cultivation."
+}

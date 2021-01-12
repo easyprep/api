@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "85151b8d-a45e-446a-af16-fd8f85b2cc3c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of recent studies highlighting the ‘upside down river’ effect in Antarctica, consider the following statements:<br />\n<ol>\n<li>It erodes the ice sheets from below.</li>\n<li>These rivers form more frequently under shear margins of ice shelves.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nA recent study published in Scientific Reports journal highlighted the upside down river phenomenon in Antarctica. These are water streams that erode the ice shelves from beneath. These river-like channel has warmer water that melt the ice away from below.\n<strong>Statement 2 is correct:</strong>\nThe study pointed out that these upside-down rivers formed more frequently under shear margins of ice shelves. Shear margins are weak spots at the edges of ice shelves. These rivers are also more likely to form under fast moving ice."
+}

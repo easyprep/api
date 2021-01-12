@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9fd1f55c-e51c-45a6-9b85-6ecf5f7500b6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent heavy rainfall in Djibouti, consider the following statements about African monsoon:<br />\n<ol>\n<li>The East African Monsoon occurs when the ICTZ is south of the Equator.</li>\n<li>The East African Monsoon occurs during the northern hemisphere summer.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe East African Monsoon occurs when the Inter Tropical Convergence Zone is south of the Equator. The two components of African monsoon are the West African Monsoon and the East African Monsoon. The former occurs when the ITCZ is north of the Equator.\n<strong>Statement 2 is incorrect:</strong>\nThe East African Monsoon occurs when it is spring and autumn in the northern hemisphere. Heavy East African Monsoon is the cause of the record high rainfall in Djibouti. The country received 2 years’ worth of rainfall in one day."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e72fb8a5-350e-4952-8fe8-9c55dc6db1b7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of RV Polarstern moving along with the Arctic ice, consider the following statements about the Fram Strait:<br />\n<ol>\n<li>The strait connects Norwegian Sea and the Greenland Sea.</li>\n<li>It is the only route of deep water exchange between the Arctic and Atlantic Oceans.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Fram Strait connects the Norwegian Sea and Greenland Sea in the south with the Arctic Ocean in the north. The RV Polarstern is to pass through this strait into the Arctic region for its second leg of the MOSAiC expedition.\n<strong>Statement 2 is correct:</strong>\nThough there are several connecting waterways between the major oceans of the world and the Arctic, the Fram Strait is the only deep water exchange route between the Arctic and Atlantic Oceans. The other routes like Bering Strait are too shallow. The water is exchanged both ways through currents."
+}

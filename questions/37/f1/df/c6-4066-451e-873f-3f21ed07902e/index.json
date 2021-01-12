@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "37f1dfc6-4066-451e-873f-3f21ed07902e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent research into the viability of ‘Phage Therapy’, consider the following statements:<br />\n<ol>\n<li>It involves the use of genetically modified bacteria to combat other bacterial infections.</li>\n<li>Phage therapy is more specific than antibiotic treatments.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nPhage therapy is the use of bacteriophages to treat bacterial infections. Bacteriophages are natural killers of bacteria. They are viruses that target a specific strain of bacteria. Phage mixtures are more common than single phage therapy to deal with multiple strain bacterial infections.\n<strong>Statement 2 is correct:</strong>\nThe bacteriophages target specific strains of bacterial hosts. Because of this, the phage therapy is more specific and customisable than general antibiotic treatments. They have a lower degree of side effects and generally do not harm the animal/ human patient."
+}

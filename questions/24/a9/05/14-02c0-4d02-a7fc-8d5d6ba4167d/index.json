@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "24a90514-02c0-4d02-a7fc-8d5d6ba4167d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the environmental cost of open air cremation, the concept of water cremation has been in the news. In this context, consider the following statements:<br />\n<ol>\n<li>It makes use of acidic solution to dispose of the body.</li>\n<li>It does not produce any residue.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nWater cremation is the process by which the deceased are disposed of using an alkaline solution of lye at high temperatures. It is also known as Alkaline Hydrolysis. It is considered as one of the ‘green alternatives’ to traditional open air cremation.\n<strong>Statement 2 is incorrect:</strong>\nWater cremation dissolves the body in a solution of potassium hydroxide at temperatures above 100 degree Celsius. Since it is maintained at high pressures, the solution does not boil. It produces liquid sludge which is reprocessed for storing in an urn or other special location."
+}

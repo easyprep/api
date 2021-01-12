@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "59d2172b-fd63-42ef-ad20-649601060b8b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent release of the Bribery Risk Matrix 2019, consider the following statements:<br />\n<ol>\n<li>Bangladesh is the country with highest bribery index.</li>\n<li>Norway is the country with least risk of bribery.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Bribery Risk Matrix is published by Trace International. The 2019 report listed Somalia as the country with the highest risk of bribery. In South Asia, Bangladesh was listed as the country with highest bribery risk. A total of 200 countries were ranked.\n<strong>Statement 2 is correct:</strong>\nThe Bribery Risk Matrix 2019 listed New Zealand at the top spot with the least risk of bribery. The other top performers are Norway, Sweden, Denmark and Finland. India was listed at the 78<sup>th</sup> position. Each country is given a score out of 100."
+}

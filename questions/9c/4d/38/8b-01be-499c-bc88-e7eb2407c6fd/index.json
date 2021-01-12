@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9c4d388b-01be-499c-bc88-e7eb2407c6fd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Darjeeling getting its tea variety GI tagged, consider the following statements:<br />\n<ol>\n<li>Only its black tea and green are GI tagged.</li>\n<li>Green tea leaves are harvested from the same plants as black tea leaves.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIn November, Darjeeling got its green tea and white tea GI tagged. Its black tea already holds a GI tag. Most of its tea production is composed of black tea. Green tea constitutes 10 lakh kilograms out of its total 85 lakh kilograms of tea production. White tea accounts for a mere 1 lakh kg.\n<strong>Statement 2 is correct:</strong>\nGreen tea and black tea products are derived from the same plant. Only the processing part is different. While the leaves are subject to oxidation process for producing the black variety, the green tea production doesn’t involve such processing."
+}

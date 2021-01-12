@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "aa7e06b7-3d90-461e-b23d-a80f87d54062",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of ICON satellite, consider the following statements about ionosphere:<br />\n<ol>\n<li>It encloses the neutrosphere.</li>\n<li>Its ionised nature is because of UV rays from the sun.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe ionosphere is found above the mesosphere of the Earth’s atmosphere. It is located at an altitude of about 85km from the earth’s surface. The region below the ionosphere is called the neutrosphere or neutral atmosphere. This is because the ionosphere is rich in ions unlike the lower layers.\n<strong>Statement 2 is correct:</strong>\nThe ionosphere has large number of ions and free electrons. These are formed by ionisation by solar radiation, especially the ultraviolet light waves. The ionised nature of this layer is responsible for its role in radiowave propagation that is required for radio communications."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "22ed2b04-f0d8-4aee-af9f-d07c1dc61939",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, scientists observed eruptions from an asteroid for the first time. In this context, consider the following statements about the asteroid Bennu:<br />\n<ol>\n<li>It was the target of the space mission Hayabusa.</li>\n<li>It is a carbonaceous asteroid.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nAsteroid Bennu was the target of the mission OSIRIS- Rex. The mission was launched in 2016 and reached Bennu in 2018. The mission was sent to collect samples from the asteroid. The mission Hayabusa was a JAXA mission to asteroid Itokawa.\n<strong>Statement 2 is correct:</strong>\nBennu is a noted carbonaceous asteroid. Recent observations showed eruptions from the asteroid. While eruptions are seen among comets, asteroids are usually inert. The images from OSIRIS Rex mission showed 3 large eruption from the asteroid. The eruptions were composed of rocky chunks."
+}

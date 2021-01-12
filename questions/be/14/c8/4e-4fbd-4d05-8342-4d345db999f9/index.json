@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "be14c84e-4fbd-4d05-8342-4d345db999f9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent plans to set up centres to conserve the Indian Vulture, consider the following statements:<br />\n<ol>\n<li>It is a critically vulnerable species.</li>\n<li>The population declined due to diclofenac poisoning.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Indian Vulture or the Gyps indicus is listed as a critically endangered species by IUCN. It is a scavenging bird that is found in India, Pakistan and Nepal. It is found in cliff- dominated landscapes but may also make use of trees and human made structures.\n<strong>Statement 2 is correct:</strong>\nThe Indian Vulture population suffered a massive decline due to diclofenac poisoning. The anti-inflammatory drug was used for cattle which later ended up in the Vultures’ systems. This caused renal failure among the birds. The use of diclofenac for veterinary purposes is now banned in India."
+}

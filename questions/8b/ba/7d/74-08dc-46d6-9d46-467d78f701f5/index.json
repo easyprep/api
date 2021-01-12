@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8bba7d74-08dc-46d6-9d46-467d78f701f5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent reassessment of the threat posed by sea level rise, consider the following statements:<br />\n<ol>\n<li>Most of the population threatened by sea level rise live in China.</li>\n<li>Most of the threatened population live in Africa.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIn October, a study published in Nature Communications journal reassessed the threat posed by sea level rise by using a new tool called CoastalDEM. It found that 300 million people live below the annual coastal flood-line across the world. About 43 million of these people live in China.\n <strong>Statement 2 is incorrect:</strong>\n80% of the people who live below the annual coastal flood-line live in Asian countries. This is in China, India, Bangladesh, Thailand, Indonesia and Vietnam. In India, West Bengal and Odisha have been listed as the most vulnerable to the sea-level rise."
+}

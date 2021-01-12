@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a6767c29-945f-4b1e-bf3f-d4ebc3f47128",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Along with the recently launched CARTOSAT-3, ISRO launched 12 CubeSats. In this context, consider the following statements about these satellites:<br />\n<ol>\n<li>CubeSats belong to the Microsatellite category.</li>\n<li>This is India’s first launch of CubeSats.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nCubeSats are miniaturised satellites that belong to the Nanosatelllite category. These satellites are less than 1.3kg generally. Nanosatellite category includes satellites in the weight range of 1 to 10kg. Other small satellite categories are minisatellites, microsatellites, picosatellites and femtosatellites.\n<strong>Statement 2 is incorrect:</strong>\nAlong with CARTOSAT-3, ISRO launched 12 CubeSats on board the PSLV-C47 launch vehicle. However, this is not the first such launch. Earlier, India set record by launching 104 satellites of which all but 3 were CubeSats. The recently launched CubeSats were for foreign (USA) clients."
+}

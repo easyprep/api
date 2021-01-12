@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "952f11df-e45d-42b0-8c1e-ea1060eed8ee",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Reports show that the South Atlantic Humpback Whale population has been increasing. In this context, consider the following statements:<br />\n<ol>\n<li>IUCN lists humpback whales as an ‘endangered’ species.</li>\n<li>The South Atlantic subpopulation feeds in the Atlantic Ocean off the Brazilian coast.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nHumpback whales are listed as species of least concern by IUCN. However, specific subpopulations of the species had fallen to very unsustainable levels prior to the moratorium on whaling. There are 7 subpopulations in the southern hemisphere. Current studies show that the numbers are increasing because of the protective measures.\n<strong>Statement 2 is incorrect:</strong>\nThe South Atlantic Humpback Whales feed in the Antarctic and the sub-Antarctic waters. They feed on krills. Krills are crustaceans that they feed on in the summer. They migrate to the Brazilian coasts for breeding during the breeding seasons in winter."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0b178122-dbab-413f-aa4a-c9ac2a564342",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Afar Triangle has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>Ethiopia lies in the Afar Triangle.</li>\n<li>The mid-ocean ridge can be seen on land in this region.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Afar Triangle is a geographical region adjacent to the Horn of Africa. Apart from Ethiopia, parts of Eritrea and Djibouti are also within this region. It was in news for its Danakil Depression. Its Dallol Geothermal Field was reported as the most uninhabitable place on earth.  \n<strong>Statement 2 is correct:</strong>\nThe Afar Triangle is noted for being one of the two places on earth where mid- ocean ridges can be seen on land. Ocean ridge is a mountain system of the seafloor. The ridge in the Red Sea and Gulf of Aden emerge on to land in the Afar Depression. Iceland is the only other place where such forms can be seen."
+}

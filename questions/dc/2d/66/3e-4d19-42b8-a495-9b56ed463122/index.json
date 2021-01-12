@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "dc2d663e-4d19-42b8-a495-9b56ed463122",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the discovery of the Polka Dot Tree Frog, consider the following statements:<br />\n<ol>\n<li>It is the first naturally fluorescent frog to be discovered.</li>\n<li>This frog species exhibits bioluminescence.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Polka Dot Frog is the first naturally fluorescent frog to be discovered by scientists. It was discovered in South America (in Argentina). Fluorescence is the re-emission of light at a longer wavelength. This is a rare phenomenon in terrestrial organisms.\n<strong>Statement 2 is incorrect:</strong>\nFluorescence is not the same as bioluminescence. The frog showed fluorescence due to presence of certain chemical compounds: hyloin L1, hyloin L2 and hyloin G1. Bioluminescence is due to light emitted by light producing bacteria housed in certain parts of an animal’s body."
+}

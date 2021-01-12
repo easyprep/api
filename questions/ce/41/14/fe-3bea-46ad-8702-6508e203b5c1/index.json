@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ce4114fe-3bea-46ad-8702-6508e203b5c1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Air Independent Propulsion System has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>The technology is used in submarines.</li>\n<li>It can generate electricity.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Air Independent Propulsion System is a technology used for non-nuclear submarines. It eliminates the need for surfacing for atmospheric air. It is used for improving the stealth of submarines. DRDO, in October, successfully tested an indigenous land based prototype of this technology.\n<strong>Statement 2 is correct:</strong>\nAIPS can also generate electricity. It generates usable oxygen, while also providing essential electricity to power the submarine lighting and amenities. Another advantage of AIPS is its silent operation. It is valued as a potential replacement for diesel or electricity powered propulsion systems used for non-nuclear submarines."
+}

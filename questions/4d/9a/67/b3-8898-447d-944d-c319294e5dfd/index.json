@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4d9a67b3-8898-447d-944d-c319294e5dfd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "During the 2019 Agri Expo in Jagraon, ‘sexed semen’ for cattle was discussed. In this context, consider the following statements about ‘sexed semen’:<br />\n<ol>\n<li>Sexed semen can be used to determine the sex of the calf.</li>\n<li>It makes use of flow cytometer.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSexed semen is a processed semen in which sperms carrying either only X chromosomes or only Y chromosomes is present. The use of the former in the artificial insemination results in formation of a female calf while the latter produces a male calf.\n<strong>Statement 2 is correct:</strong>\nThe sexed semen is produced using an instrument called flow cytometer. It is produced through 2 methods: either selectively killing off sperms bearing one type of chromosome or removing the sperms containing one type of chromosome. Both the technique involves the use of flow cytometer."
+}

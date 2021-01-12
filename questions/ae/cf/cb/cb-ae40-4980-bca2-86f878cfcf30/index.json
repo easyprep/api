@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "aecfcbcb-ae40-4980-bca2-86f878cfcf30",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the guidelines recently released by the government under the National Dialysis Program, consider the following statements about this initiative:<br />\n<ol>\n<li>It provides free dialysis service only to people of the BPL category.</li>\n<li>The program works on the PPP model.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe National Dialysis Program was launched in 2016 under the National Health Mission. It provides free dialysis service to people below the poverty line (BPL). However, it also benefits people in categories other than the BPL- they can avail the service at the same cost as paid by the government at close-by district hospitals.\n<strong>Statement 2 is correct:</strong>\nThe program functions on public private partnership model. It involves the private sector to aid the public sector in providing free dialysis service to the people. It enables the supplementation of human resource, dialysis machinery, infrastructure, power supply, etc."
+}

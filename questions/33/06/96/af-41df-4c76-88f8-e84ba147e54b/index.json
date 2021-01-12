@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "330696af-41df-4c76-88f8-e84ba147e54b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent agreement signed between India and Kazakhstan for uranium supply, consider the following statements:<br />\n<ol>\n<li>Kazakhstan is the largest supplier of uranium in the world.</li>\n<li>Uranium is one of the rare earth elements.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nKazakhstan is the world’s largest supplier of uranium. Together with Canada and Australia, Kazakhstan produces 70% of the world’s uranium. Kazakhstan’s Kazatomprom is a major supplier of uranium to India. India also sources uranium from Canada, Argentina and Nambia.\n<strong>Statement 2 is incorrect:</strong>\nUranium is not a rare earth element. It is noted for its radioactivity and use in nuclear energy and diagnostics fields. Rare earths are a collection of 17 elements from the lanthanides and actinides category of elements. They are often found in association with uranium in minerals and ores."
+}

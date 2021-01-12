@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f1541fb3-cf67-4d01-a1b0-3a23543cca0c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Mumbai Central Station was recently awarded the ‘Eat Right Station’ certification. In this context, consider the following statements:<br />\n<ol>\n<li>This is the first such award of the ‘Eat Right Station’ certificate.</li>\n<li>The certification is issued by the FSSAI.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe award of the ‘Eat Right Station’ certification to the Mumbai Central Station is the first such award of the certificate. It is an initiative under the Eat Right campaign that was launched recently. The Mumbai central Station is a part of the Western Railways. It got a 4 star rating in the certification for its compliance.\n<strong>Statement 2 is correct:</strong>\nThe Eat Right Station certificate is issued by the Food Safety and Standards Authority of India/ FSSAI. It looks at certain criteria like awareness, food handling, waste management, promotion and use of local produce, focus on healthy diet, etc. for awarding the certificate."
+}

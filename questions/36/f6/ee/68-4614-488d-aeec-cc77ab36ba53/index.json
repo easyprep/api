@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "36f6ee68-4614-488d-aeec-cc77ab36ba53",
+  "labels": "current-affairs,2019-12-24",
+  "question": "ISRO is planning to launch satellites RISAT-2BR1 and RISAT-2BR2. In this context, consider the following statements about the RISAT series:<br />\n<ol>\n<li>All RISAT satellites are all-weather satellites.</li>\n<li>RISAT-2 was launched before RISAT-1.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nRISAT or Radio Imaging Satellite series features satellites that can function under all weather conditions. They are the first Indian satellites with such capability. Their function is imaging and reconnaissance. They make use of SAR or Synthetic Aperture Radar.\n<strong>Statement 2 is correct:</strong>\nThe RISAT 2 was the first satellite of the series. It was followed by RISAT 1. The RISAT 2 was preponed in context with the Mumbai terror attack and the need for all weather surveillance for the Indian intelligence community and the armed forces."
+}

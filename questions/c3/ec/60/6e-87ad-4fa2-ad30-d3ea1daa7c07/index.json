@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c3ec606e-87ad-4fa2-ad30-d3ea1daa7c07",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently released Freedom on the Net report 2019, consider the following statements:<br />\n<ol>\n<li>FoTN report is published by Amnesty International.</li>\n<li>Iceland was listed as the worst performing country.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe FoTN report is published by Freedom House, which is an international internet rights organisation. The 2019 report was titled ‘The Crisis of Social media’. It reported an overall erosion of internet freedom. The countries were ranked according to a score out of 100 points.\n<strong>Statement 2 is incorrect:</strong>\nIceland was ranked at the top of the list for internet freedom. India was given a score of 55 while Iceland was given a score of 95. The worst performing countries are China, Pakistan and Vietnam. China scored a mere 10 points out of 100."
+}

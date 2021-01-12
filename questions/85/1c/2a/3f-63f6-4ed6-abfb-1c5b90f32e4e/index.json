@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "851c2a3f-63f6-4ed6-abfb-1c5b90f32e4e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recently launched RISAT 2BR1, consider the following statements:<br />\n<ol>\n<li>It was launched by ISRO’s GSLV.</li>\n<li>It is an imaging satellite.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe RISAT 2BR1 was launched by the PSLV (Polar Synchronous Launch Vehicle). India also has GSLV (geo Synchronous Launch Vehicle). This was PSLV’s 50<sup>th</sup> mission. PSLV is an expendable system. It can take the load to various orbits like the low earth orbit and the polar sun synchronous orbit.\n<strong>Statement 2 is correct:</strong>\nThe RISAT 2BR1 is an imaging satellite that makes use of the SAR system (Synthetic Aperture Radar). It is capable of imaging even during cloudy conditions and in the dark. The satellite is to be used for agriculture, disaster management, forestry and also surveillance."
+}

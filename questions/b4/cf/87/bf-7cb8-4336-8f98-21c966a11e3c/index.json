@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:10.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b4cf87bf-7cb8-4336-8f98-21c966a11e3c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "RBI recently published a study correlating night light data with economic activity. Consider the following statements:\n<ol>\n<li>Night light is the visible light originating from Earth, that’s recorded by the outer space satellites.</li>\n<li>The study found correlation between the night light data and the annual growth rate of states’ income.</li>\n<li>The study found correlation between the night light data and the national level credit growth.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "1 and 2",
+  "option3": "2 only",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\n    Night light is the light that is recorded by the satellite cameras on the   dark hemisphere of Earth. This provides a bird’s eye view of the human economic activity in a country. The study, a collaboration between RBI and World Bank, was conducted to test the data’s potential as an honest indicator of the various aspects of economic activity such as credit growth, industrial activity etc.\n<strong>Statement 2 </strong>is incorrect:\nThe study did not find a reasonable correlation between the annual growth rate of incomes in the states and the night light data. It also says that the data had high noise (error prone) and did not show sufficient homogeneity. It hence recommended the use of this data as an additional indicator, but not as a substitute for other established economic indicators.\n<strong>Statement 3 </strong>is correct:\nThe study found positive correlation between night light data and the national level credit growth. It also found robust relations with macro-economic indicators like industrial activity and also the GDP. It also showed prima facie evidence as a reasonable tracker of seasonal variations in GDP."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "dd954c9e-5d2d-4e37-9ec2-7a40324c9040",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Franz Josef Islands have been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is a part of Russia.</li>\n<li>The British Channel is located here.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Franz Josef Islands are a part of Russia located in the Arctic Ocean. It is an archipelago and an island that was previously thought to be a peninsula was discovered here. The islands are inhabited only by military personnel.\n<strong>Statement 2 is correct:</strong>\nThe British Channel is located in this region. It separates the western and the central groups of the islands. The central and the eastern groups are separated by the Austrian Strait. The central group is divided into north and south groups by the Markham Strait."
+}

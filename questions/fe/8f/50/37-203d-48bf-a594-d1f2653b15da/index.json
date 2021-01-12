@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fe8f5037-203d-48bf-a594-d1f2653b15da",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The ‘Right to be Forgotten’ was recently highlighted in the news. In this context, consider the following statements:<br />\n<ol>\n<li>The right is applicable to all nations involved in data sharing with the members of the EU.</li>\n<li>The B N Srikrishna Committee recommended the implementation of the right in India.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Right to be Forgotten is one of the provision of EU’s General Data Protection Regulation law. It is applicable only within the borders of the EU member countries. This right allows individuals to get organisations like Google to delete their personal data. The issue was in news when a German murderer won the right against Google in November.\n<strong>Statement 2 is correct:</strong>\nThe B N Srikrishna Committee had recommended the introduction of the right to be forgotten as a part of the draft personal data protection bill of 2018. The bill proposed that the data principal have a right to prevent the data fiduciary from using personal data in certain cases like irrelevancy."
+}

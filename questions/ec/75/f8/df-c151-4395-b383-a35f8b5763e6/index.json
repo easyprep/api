@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ec75f8df-c151-4395-b383-a35f8b5763e6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The compound ‘kasugamycin’ was discussed in the Lok Sabha recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is an anti- biotic compound.</li>\n<li>It is not covered by the Insecticides Act.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe compound kasugamycin is an anti- biotic used for treating crops. It is derived from the bacteria called Streptomyces. It is used for preventing the attack of fungus in paddy crops which may cause the rice blast disease. It can also act against bacterial pathogens.\n<strong>Statement 2 is incorrect:</strong>\nKasugamycin is a registered compound under the Insecticides Act. The act was passed in 1968. It seeks to regulate insecticides with respect to its import, sale, distribution, manufacture transport and use. Kasugamycin is a registered compound by the Registration Committee which specifies the manner of its use."
+}

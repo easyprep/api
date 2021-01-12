@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3fd1a9da-9737-4ed2-8be1-568d06ff5871",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light Australia issuing a ‘catastrophic fire warning’ in November, consider the following statements:<br />\n<ol>\n<li>It indicates the highest level of fire danger in the country.</li>\n<li>Houses cannot be saved from catastrophic fires.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1  nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAustralia uses a 6 point fire danger scale to assess the danger posed by various fires. The catastrophic fire level is the most dangerous among the 6 points. The fires in November ranged across the east coast of Australia in places like Sydney and New South Wales.\n<strong>Statement 2 is correct:</strong>\nHouses and other properties cannot be saved from catastrophic level fires. The people are generally advised to flee their homes to shelters. The government advises the people to flee early before it starts threatening lives. Over 150 homes had been destroyed in New South Wales because of this fire."
+}

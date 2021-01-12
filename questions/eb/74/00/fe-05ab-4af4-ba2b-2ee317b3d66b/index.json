@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "eb7400fe-05ab-4af4-ba2b-2ee317b3d66b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the forest fires across California, consider the following statements:<br />\n<ol>\n<li>Most of the disastrous forest fires in California occurs during the summer season</li>\n<li>The offshore winds causes spreading of the forest fires.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMost of the disastrous forest fires in California occurs during the autumn season. This is the period when the vegetation is dried out, after the summer. Most of the largest fire in the region has occurred after 2000. Climate change is one of the reasons for intensification of these fires.\n <strong>Statement 2 is correct:</strong>\nThe forest fires in the fall are spread by the offshore winds. These are winds that blow from east to west in the fall and winter. These flow from the western portion of mountain regions like the Sierras. These winds are dry and warm in nature."
+}

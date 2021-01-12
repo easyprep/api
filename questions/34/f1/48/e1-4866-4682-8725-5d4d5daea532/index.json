@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "34f148e1-4866-4682-8725-5d4d5daea532",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of Libra, consider the following statements:<br />\n<ol>\n<li>It is to be a global cryptocurrency.</li>\n<li>It is to be backed by a reserve basket that is mainly composed of the US dollar.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Libra is a cryptocurrency that s spearheaded by Facebook. It is to function as a global currency, with the help of a blockchain that was created by Facebook. It is to be backed by a not-for-profit organisation of companies based in Switzerland, called the Libra Association.\n<strong>Statement 2 is correct:</strong>\nThe Libra is to be backed by a basket of currencies. This reserve basket is mainly composed of the USD (50%). Other components of the basket are the Euro, Yen, Pound Sterling and the Singapore Dollar. This aims to reduce the cryptocurrency’s volatility. Backing it with existing assets makes it a ‘stablecoin’."
+}

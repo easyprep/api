@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fa0fc698-f443-40ba-90f1-174a6a2f3e76",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of October 21<sup>st</sup> being observed as the World Iodine Deficiency Day, consider the following statements:<br />\n<ol>\n<li>Iodine deficiency is more common in inland regions than in coastal regions.</li>\n<li>Iodine deficiency causes hyperthyroidism.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nMarine food items are a major source of iodine. Hence, interior remote regions without access to marine food show a higher prevalence of iodine deficiency than along costal area where fresh marine food is cheaply available. Iodine deficiency is the leading cause of preventable intellectual disorder.\n<strong>Statement 2 is incorrect:</strong>\nHyperthyroidism is a condition that results from excessive consumption of iodine. Iodine deficiency causes the condition called hypothyroidism. In hypothyroidism, the thyroid gland is under-active and produces insufficient thyroid hormone. This causes weight gain, depression, tiredness, swelling of the neck, etc. among other symptoms."
+}

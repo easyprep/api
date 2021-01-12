@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0a517158-2bc7-4e76-8cde-4d1d4785ede8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Central Electricity Authority has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>CEA is a statutory body.</li>\n<li>Data collection is part of its responsibilities.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Central Electricity Authority of India is a statutory body. It was established under the now repealed Electricity Supply Act of 1948. It is now functioning under the Electricity Act of 2003. It is headed by a chairperson and is largely concerned with the development of the power sector.\n<strong>Statement 2 is correct:</strong>\nCollection of data regarding the power sector is one of its responsibilities. It also sets standards for various facets of the sector like safety standards, standards for construction of electricity grids, plants etc. Recently it proposed a universal feeder code to facilitate uniform data collection and reduce AT&amp;C losses for the discom companies."
+}

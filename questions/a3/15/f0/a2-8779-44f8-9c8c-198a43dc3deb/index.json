@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a315f0a2-8779-44f8-9c8c-198a43dc3deb",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent studies highlighting the increase in global nitrous oxide levels, consider the following statements:<br />\n<ol>\n<li>Nitrous oxide is a stronger greenhouse gas than carbon dioxide.</li>\n<li>Nitrogen fixing plants decrease nitrous oxide levels in the atmosphere.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nNitrous oxide molecules are composed of 2 nitrogen atoms and one oxygen atom. This is the third most important GHG. However, it is stronger than both methane and carbon dioxide. It has a 300 times higher potential for warming the atmosphere than carbon dioxide.\n<strong>Statement 2 is incorrect:</strong>\nNitrogen fixing plants are those that convert atmospheric nitrogen into its fixed form in the soil, usually with the help of root bacteria. Upon decomposition, it releases the nitrogen in the form of nitrous oxide. Thus these plants contribute to increase in nitrous oxide levels."
+}

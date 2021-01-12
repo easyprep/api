@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2d32dbd9-7421-4f0d-8179-b974e4a03ce3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the government’s efforts to develop a Poshan Atlas, consider the following statements:<br />\n<ol>\n<li>It maps the prevalence of malnutrition in different areas.</li>\n<li>The Bill and Melinda Gates Foundation is involved in the development of this atlas.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Poshan Atlas seeks to map the crops grown in different regions of the country. This would help identify the food grains available in each region. This would then serve as a policy tool to tackle malnutrition by providing locally sourced nutrition rich food to the people.\n<strong>Statement 2 is correct:</strong>\nThe Poshan Atlas is a policy tool being developed under the Poshan Abhiyan. It is being jointly developed by Bill and Melinda Gates Foundation along with Deendayal research Institute and the ministry of women and child development."
+}

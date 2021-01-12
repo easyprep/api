@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "356e3335-f7d2-4139-a11e-b61b6e907391",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of recent studies highlighting the increase in threats from Vibrio bacteria, consider the following statements:<br />\n<ol>\n<li>Vibrio bacteria cannot survive in salt water.</li>\n<li>They affect only the digestive system.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nVibrio is a class of gram negative bacteria. They are the cause of diseases like cholera. They are found in aquatic habits. They can exist in salt water and are hence commonly found in undercooked seafood. A recent Lancet report said that climate change is increasing the threats from Vibrio.\n <strong>Statement 2 is incorrect:</strong>\nVibrio bacteria are commonly associated with gastroenteritis or infectious diarrhoea. However, they can also affect open wounds and cause a condition called sepsis. Sepsis is a condition where the immune system of the body attacks its own tissues and organs.\n&nbsp;"
+}

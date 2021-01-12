@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:09.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2fd5ecc7-293a-49c6-a2ab-6edebe5ae498",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context of the Maharashtra government’s implementation of the AMBIS concept, consider the following statements:\n<ol>\n<li>Maharashtra is the first Indian state to adopt digital fingerprint and iris scan data for police investigation.</li>\n<li>CCTV project was implemented in Mumbai.</li>\n<li>Crime and Criminal Tracking Network System (CCTNS) is implemented by the NCRB.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "None of the above",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nMaharashtra is the first state to use digital fingerprint and iris scan data for aiding police investigation. The AMBIS/ Automated Multi-modal Biometric Identification System will take in fingerprint data even from the crime scene as it is portable. The system was acquired from France and includes computer, camera and an instrument for iris, finger print and palm scanning. The data can be stored permanently and linked to photograph of the individual. For now, the system is run on trial basis in 94 stations across Mumbai.\n<strong>Statement 2 </strong>is correct:\nCCTV project was implemented in the Mumbai Police’s infrastructure. The project increased the number of cameras in the CCTV network. As a result, e-governance milestones like increased use of e-challans issuance for traffic violations were achieved. Apart from traffic coverage, the cameras cover the off the way roads and localities that don’t enjoy enough police patrols.\n<strong>Statement 3 </strong>is correct:\nCrime and Criminal Tracking Network and System is a government project, conceived post 26/11 incident. It seeks to integrate crime records into a central database developed by Wipro, called the Core Application Software/ CAS. It sought to digitize data and form a database on crime records for easy access by the police. It is implemented by the NCRB- a body defined by IPC and functioning under the MHA. \n&nbsp;"
+}

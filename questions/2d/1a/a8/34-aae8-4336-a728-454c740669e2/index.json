@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2d1aa834-aae8-4336-a728-454c740669e2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Lok Sabha recently passed the Taxation Law (Amendment) Bill, 2019. In this context, consider the following statements about minimum alternate tax/ MAT:<br />\n<ol>\n<li>MAT is to be applicable to all domestic manufacturers irrespective of their chosen taxation rate</li>\n<li>MAT is used to tackle tax avoidance.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMAT will not be applicable to domestic manufacturing companies that subscribe to the new taxation rate proposed by the taxation law (amendment) bill, 2019. The bill seeks to amend the Income Tax Act and the Finance Act- both of which were instrumental in introducing the MAT.\n <strong>Statement 2 is correct:</strong>\nMAT is a tool used to tackle the issue of tax avoidance in India. It is a minimum tax payable by the companies when their tax liability falls below a certain limit after applying all the deductions. It is used to tax the ‘zero tax companies’."
+}

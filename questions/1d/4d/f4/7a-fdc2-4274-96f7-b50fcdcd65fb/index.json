@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1d4df47a-fdc2-4274-96f7-b50fcdcd65fb",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Special Bulletin on Maternal Mortality released by the Sample Registration System, consider the following statements:<br />\n<ol>\n<li>Maternal Mortality Ratio gives the maternal death risk relative to the number of live births. </li>\n<li>Bihar has the highest MMR.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nMMR is the measure of maternal deaths per 100,000 live births i.e. it gives maternal mortality in relation to live births. The SRS bulletin shows that MMR has been decreasing in India. The MMR has dropped by 26.9% since 2013.\n<strong>Statement 2 is incorrect:</strong>\nAccording to the special bulletin, Assam has the highest MMR with 229 deaths per 100,000 live births. Among large states, the MMR is highest in Uttar Pradesh (216/ 100,000). The lowest MMR recorded is in Kerala (42/ 100,000). Other top performers are Maharashtra, TN and Andhra Pradesh."
+}

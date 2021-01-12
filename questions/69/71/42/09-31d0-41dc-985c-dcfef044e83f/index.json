@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "69714209-31d0-41dc-985c-dcfef044e83f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "ISRO launched the PSLV’s 50<sup>th</sup> mission in December. In this context, consider the following statements:<br />\n<ol>\n<li>It launched the CARTOSAT-3.</li>\n<li>It was launched from Thiruvananthapuram.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe 50<sup>th</sup> mission of Polar satellite Launch vehicle carried the RISAT2BR1 into space. The CARTOSAT- 3 mission was launched on November 27<sup>th</sup> this year. The RISAT is expected to have a life of 5 years and will perform as a radar imaging satellite.\n <strong>Statement 2 is incorrect:</strong>\nThe 50<sup>th</sup> mission of PSLV was launched from Sriharikota in Andhra Pradesh. The Satish Dawan Space centre is a primary rocket launch centre of ISRO. It is also the main base for the human space flight mission. Thiruvananthapuram has the Vikram Sarabhai Space Centre."
+}

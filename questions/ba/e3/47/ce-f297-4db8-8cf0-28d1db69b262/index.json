@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "bae347ce-f297-4db8-8cf0-28d1db69b262",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of November 14<sup>th</sup> being observed as World Diabetes Day, consider the following statements:<br />\n<ol>\n<li>India has the highest incidence of diabetes in the world.</li>\n<li>Type I diabetes mostly affects children.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nChina has the highest incidence of diabetes. India has the second highest incidence of this lifestyle issue. It is a non-communicable disorder caused due to insufficient production of insulin by the pancreas. Insulin is needed for regulation of glucose in the blood.\n<strong>Statement 2 is correct:</strong>\nType I diabetes is also known as juvenile diabetes. It mainly affects children of the 14 to 16 years age bracket. They become insulin dependent and require daily dosage of insulin to maintain normal function. Type II diabetes affects older people, of age 45 years and above."
+}

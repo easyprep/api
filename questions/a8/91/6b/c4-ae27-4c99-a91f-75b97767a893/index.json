@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a8916bc4-ae27-4c99-a91f-75b97767a893",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the development of the Geochemical Baseline Atlas of India, consider the following statements:<br />\n<ol>\n<li>It gives a distribution of elements only in the top soil.  </li>\n<li>It includes geochemical data of north-eastern states too.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Geochemical Baseline Atlas of India was developed by the Council for Scientific and Industrial Research. This is the first such tool developed in the country. It gives data about the distribution of metals, elements and oxides not only in the top soil but also in the bottom soil.\n<strong>Statement 2 is correct:</strong>\nThe geochemical data is presented for the entire country, divided into cells. There are 122 cells in India with Kanyakumari being cell 1 and Arunachal Pradesh being cell 122. The National Geophysical Research Institute of CSIR was responsible for its development. The Atlas is to aid in policy making."
+}

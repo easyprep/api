@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "bdb405ed-0669-4761-9eae-31d5c5fa684e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, scientists developed a vaccine for bovine tuberculosis. In this context, consider the following statements:<br />\n<ol>\n<li>Bovine tuberculosis is caused by Mycobacterium tuberculosis.</li>\n<li>It affects cattle.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nBovine tuberculosis is caused by Mycobacterium bovis. This bacterial pathogen is related to the Mycobacterium tuberculosis which causes the typical TB among humans. Recently, scientists in London developed a vaccine for it as affected animals are culled in the UK.\n<strong>Statement 2 is correct:</strong>\nThe Bovine tuberculosis is a major health issue of cattle, but it can also affect other animals including humans. It can spread through consumption of the infected animals’ products (meat and milk), especially when unpasteurised. Eradicating TB in India requires eradication of its bovine form also."
+}

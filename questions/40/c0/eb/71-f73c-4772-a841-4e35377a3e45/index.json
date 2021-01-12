@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "40c0eb71-f73c-4772-a841-4e35377a3e45",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently Indian scientists created artificial ‘selenoenzymes’. In this context, consider the following statements:<br />\n<ol>\n<li>These enzymes contain selenium which is a metal.</li>\n<li>It protects cells from oxidative stress.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nSelenoenzyme is a class of enzyme which contain the element selenium. Selenium is a non-metal. The element is toxic in large amounts but is necessary in trace amounts for cellular function. Examples of selenoenzymes are glutathione peroxidase and superoxidase dismutase.\n<strong>Statement 2 is correct:        </strong>\nThe selenoenzymes are essential for protecting the cells from oxidative stress. Oxidative stress is the imbalance produced in the concentration of reactive oxygen species called oxygen free radicals and the body’s antioxidant defences. The enzymes play an important role in maintaining cardiovascular health."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d3a6616e-f6fc-4c42-8e97-bd7ea4693bff",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the 2019 Nobel Prize being awarded for the discovery of 51 Pegasi b, consider the following statements about exoplanets:<br />\n<ol>\n<li>All planets revolve around a star.</li>\n<li>Goldilocks zone is the circumstellar habitable zone.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nNot all planets revolve around a star. Some planets have been found to revolve around the galactic centre directly. These are known as rogue planets. These planets arise after being ejected from a planetary system. In some cases, they were never bound to a stellar system.\n<strong>Statement 2 is correct:</strong>\nThe region around a star in the stellar system where a planet can host earth-like life is called the circumstellar habitable zone. This is also known as the Goldilocks zone. The zone is marked based on the heat and radiation emitted by the star and also the distance of the planets from the star."
+}

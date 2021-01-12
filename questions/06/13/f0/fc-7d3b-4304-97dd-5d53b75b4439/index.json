@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0613f0fc-7d3b-4304-97dd-5d53b75b4439",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A recent UN report said that only 38% of the UN member nations have a law for controlling lead concentration in paints. In this context, consider the following statements:<br />\n<ol>\n<li>India does not have a law that sets the upper limit on lead concentrations in paints.</li>\n<li>Lead poisoning can cause anaemia.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIndia is one of the 38% of the UN member with lead concentration control laws for paints. The law was enacted in 2016 and enforced in 2017. It set 90 ppm as the maximum permissible concentration of lead in paints. This is the limit recommended by the Model Law and Guidance for Regulating Lead Paint.  \n<strong>Statement 2 is correct:</strong>\nLead can cause anaemia in people. This is because lead poisoning leads to rupture and destruction of blood cells by a process called haemolysis. This leads to insufficient blood oxygen levels. Other adverse effects include reduction in IQ levels, behavioural changes, etc."
+}

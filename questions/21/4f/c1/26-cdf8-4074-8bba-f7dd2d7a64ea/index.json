@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "214fc126-cdf8-4074-8bba-f7dd2d7a64ea",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the ‘Furthering Digital Payment’ report released in November, consider the following statements:<br />\n<ol>\n<li>The report is released by National Payment Corporation of India.</li>\n<li>Banks can charge NEFT transactions if the amount is above 10,000 INR from 2020 onwards.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Furthering Digital Payment report was released by the Reserve Bank of India in November. It observed that digital payment accounted for 96% of all non-cash retail payments between 2018 and 2019. It seeks to institute an Acceptance Development Fund to promote it further.\n<strong>Statement 2 is incorrect:</strong>\nFrom January 2020 onwards, banks cannot charge NEFT transactions by savings account holders. This is in accordance with the recommendations of the Nandan Nilekani committee. NEFT stands for National Electronic Funds Transfer. NEFT enables cash transaction from one bank to another using internet banking."
+}

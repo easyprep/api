@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d92b4f8f-e2c2-4818-85c5-509f9346ba4a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the Parker space probe has sent back new information about solar winds. In this context, consider the following statements:<br />\n<ol>\n<li>Only the fast solar winds are emanated from the corona holes while the slow solar winds are not.</li>\n<li>Solar winds move along the magnetic field lines of the sun.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe solar winds are of two types, the fast and slow solar winds. The Parker space probe shown that the slow solar winds are also emanating from the corona holes. The fast solar winds are twice as fast as the slow winds and are emanated from the corona holes near the poles.\n<strong>Statement 2 is correct:</strong>\nThe solar winds move along the magnetic field lines of the sun. The solar winds are composed of charged particles like nuclei of hydrogen and helium. Hence they are affected by the magnetic field lines. The magnetic field has 2 poles which flip every 11 years."
+}

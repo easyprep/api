@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "eec4f1ab-c267-4f1b-afd0-12452e8f76b1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "<hr />The medicine NBRMAP-DB, developed by CSIR has been in news recently. With reference to this, consider the following statements:<br />\n<ol>\n<li>It is an anti-malarial medicine.</li>\n<li>It is a herbal product.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe NBRMAP-DB is an anti- diabetic medicine. The medicine’s formulation and knowhow has been licensed to Delhi based AIMIL Pharma Ltd. The medicine is being marketed as BGR- 34. This is in context with the increase in diabetes cases in India which is expected to increase by 266% by 2025.\n <strong>Statement 2 is correct:</strong>\nThe NBRMAP-DB is a herbal formulation. It was developed by CSIR- Central Institute of Medicinal and Aromatic Plants of Lucknow and the CSIR- National Botanical Research institute of Lucknow. The licensee carried out the clinical trial of the herbal formulation."
+}

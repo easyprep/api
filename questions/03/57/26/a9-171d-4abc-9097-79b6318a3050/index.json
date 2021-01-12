@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "035726a9-171d-4abc-9097-79b6318a3050",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In October, IIT scientists came up with a porous nanocomposite to aid in bone regrowth. In this context, consider the following statements:<br />\n<ol>\n<li>Salt was used to create pores.</li>\n<li>Microwaves was used to create these scaffolds.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe bone scaffold was created using hydroxyapatite and salt. Hydroxyapatite is a biopolymer and ceramic in nature. The salt was used to create pores. The porous nature allowed the bone cells to attach and grow. The study shows that 70% of the porosity was retained in the material.\n<strong>Statement 2 is correct:</strong>\nThe research team used microwaves to create the bone scaffolding. It was used to fuse the various components together. There are three components: nanoparticles of hydroxyapatite, sodium chloride salt and a biodegradable polymer matrix called polycaprolactone. The salt was removed by using water."
+}

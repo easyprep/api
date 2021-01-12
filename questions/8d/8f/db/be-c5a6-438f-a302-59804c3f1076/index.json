@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8d8fdbbe-c5a6-438f-a302-59804c3f1076",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of recent exodus from Twitter to Mastodon, consider the following statements about Mastodon:<br />\n<ol>\n<li>It is a decentralised social network.</li>\n<li>It is an ad-free platform.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIn context with the call for boycott of Twitter, people have been migrating to Mastodon. It is a decentralised platform unlike Twitter and other conventional social networking platforms. It has several independent servers with its own administrator. The posts on Mastodon are called ‘toots’.\n<strong>Statement 2 is correct:</strong>\nThe mastodon is an ad-free platform. It allows the users to choose among various levels of security: public, private and limited visibility. It allows the users to choose between its different independent servers. The servers moderate actively against content that are sexist, transphobic and racist."
+}

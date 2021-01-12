@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:10.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "93b88766-2fa8-4da3-be7d-637f66438e91",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Supreme Court’s clarification on the use of voice samples for legal purposes, consider the following statements:\n<ol>\n<li>Voice Sample can be obtained from an accused against his/ her will by investigation agencies.</li>\n<li>Use of voice sample by investigative agencies is a violation of fundamental right against self-incrimination.</li>\n<li>Voice print is the “visual recording of voice”.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "2 and 3",
+  "option2": "3 only",
+  "option3": "2 only",
+  "option4": "1 and 3",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nThe Supreme Court has ruled that voice samples can be obtained by the Judicial Magistrate for the purpose of investigation. Voice sample is used for comparison with other voices to check if it is from the same person. The CJI likened such samples to collection of palm prints, foot prints, finger impressions etc.\n<strong>Statement 2 </strong>is incorrect:\nThe Supreme Court has held that the collection of voice sample for investigation does not count as violation of right to privacy. The article 30 (2) gives a person right against self-incrimination. According to this act, a person shall not be forced to provide evidence against himself. The SC held that voice samples don’t count as self-incriminating evidence by itself.\n<strong>Statement 3</strong> is correct:\nThe 87<sup>th</sup> Law Commission Report referred to voice samples as visual recording of voice. The report was published in 1980. The voice sample has a print unique to the person. Though it cannot be used as incriminating evidence by itself, it can be used to identify the person."
+}

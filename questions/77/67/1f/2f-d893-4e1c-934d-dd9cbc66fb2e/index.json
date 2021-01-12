@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "77671f2f-d893-4e1c-934d-dd9cbc66fb2e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Trakea software, consider the following statements:<br />\n<ol>\n<li>It is a software for supermarkets’ billing counters.</li>\n<li>It makes use of biometrics.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nTrakea is a barcoding software developed by an Indian software engineer while in jail. It is a tamperproof evidence management tool for use by the Indian forensic agencies. It will help in safeguarding the forensic evidences (samples and reports) from tampering.\n<strong>Statement 2 is correct:</strong>\nTrakea makes use of biometrics for authentication of custody. It has a 2 stage barcoding for added security. It also features automatic allocation of samples to scientists for forensic analyses to prevent biases. The bar code will be the only data attached to the evidence and this too can be read only through biometric authentication."
+}

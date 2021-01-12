@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d1aa5c28-589b-4682-857a-2726e6c01136",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the government amending the Anti-Money Laundering Rules in November, consider the following statement:<br />\n<ol>\n<li>One cannot use an address different from the one given in Aadhaar for opening a bank account</li>\n<li>Aadhaar and PAN are interchangeable for tax purposes.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIn November, the government amended the Prevention of Money-laundering (Maintenance of Records) Rules of 2005 to allow people to use a different address from the one given in the Aadhaar for opening bank accounts. This will especially benefit migrant workers.\n<strong>Statement 2 is correct:</strong>\nAadhaar and PAN are interchangeable for tax purposes. This is according to the announcement of the July union budget. PAN or Permanent Account Number issued by income tax department is interchangeable with the Aadhaar issued by UIDAI for filing tax returns."
+}

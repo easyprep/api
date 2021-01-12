@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:11.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2abdcaba-89f1-45b3-8bd5-271aec60233f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the reports on viral infections in dogs around the Ranthambore National Park, consider the following statements:\n<ol>\n<li>The Canine Distemper Virus/ CDV affects only the canine family.</li>\n<li>CDV infections can be cured using anti-viral drugs.</li>\n<li>Primary mode of spread is through body fluids.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "2 only",
+  "option2": "1 and 3",
+  "option3": "3 only",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong> Statement 1 </strong>is incorrect:\nCDV affects a variety of mammals- dogs, foxes, coyotes, wolves and large felines like tiger and lions. It is a Paramyxoviridae- single stranded RNA viruses. It causes a high mortality rate. CDV infection caused the mass deaths of lions in the Gir.\n<strong>Statement 2 </strong>is incorrect:\nThere are no curative drugs for the infection. The treatment is symptomatic- by use of analgesics, helping with electrolyte balance, anti-convulsants, etc.  The best way is preventive care- by mass vaccinations. This is especially applicable to wild dogs around the national park.\n<strong>Statement 3 </strong>is incorrect:\nThe virus spreads through air mainly. It can also spread by contact or indirect means. Its symptoms include fever, nasal discharge, eye discharge, anorexia, vomiting, convulsions, paralysis, seizures etc. The prevention is using distemper vaccine. Controlling infection in the wild dogs will prevent spill-over to the protected animals’ populations."
+}

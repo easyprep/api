@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e93fd48c-b7fa-4ba7-b9c5-8a29dcd9bfbf",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent targets set by the government with regards to the BharatNet Project for 2020, consider the following statements:<br />\n<ol>\n<li>The project is to be funded from the Universal Service Obligation Fund.</li>\n<li>Gram Panchayats are to be connected through this project.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe BharatNet Project is the revamped version of the National Optical Fibre Network or NOFN project. It is aimed at improving internet connectivity in India. The project is funded using the Universal Service Obligation Fund. This comes from the Universal Service Levy charged from telecom operators.\n <strong>Statement 2 is correct:</strong>\nThe BharatNet Project seeks to provide internet connectivity to all 2.5 lakh Gram Panchayats in the country. Under phase I, the project had covered over 1.2 lakh Gram Panchayats. Recently, the government set the target to cover 2 lakh Gram Panchayats by March 2020"
+}

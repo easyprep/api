@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9b51abdc-5d98-41b0-9f4f-cc8b5ac59654",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent debate on the RCEP, the concept of ‘Rules of Origin’ has been highlighted. In this context, consider the following statements:<br />\n<ol>\n<li>The rules of origin is defined by the GATT.</li>\n<li>Rules of origin is not applicable to multi-stage production processes.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nRule of origin is not given by the GATT and there is a lack of uniform set of rules of origin. It is the criteria used by the countries to determine the economic nationality of goods. This is for the purpose of determining the applicability of tariffs and restrictions.\n<strong>Statement 2 is incorrect:</strong>\nRules of origin is applicable to multi-stage production processes. In the RCEP deal, if a good’s final production using inputs is in a particular country, it acquires that country’s origin. This can be used by countries like China to circumvent MFN restrictions."
+}

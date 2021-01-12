@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d07bd7ef-4deb-4aff-81ae-20dfe1cebe3e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, Djibouti was in the news for receiving 2 years’ worth of rain in one day. in this context, consider the following statements:<br />\n<ol>\n<li>Djibouti is in the Horn of Africa.</li>\n<li>It has its coast along the Black Sea.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nDjibouti is an African country located in the Horn of Africa. The countries Somalia, Eritrea and Ethiopia are located adjacent to it. The Horn of Africa is a peninsular landmass that extends into the Arabian Sea. These four countries constitute the Horn of Africa.\n <strong>Statement 2 is incorrect:</strong>\nDjibouti has a coast along the Red Sea to its east. It also lies along the Gulf of Aden. The Bab el Mandeb is an important strait that is present in the vicinity and it connects the two water bodies.\n&nbsp;"
+}

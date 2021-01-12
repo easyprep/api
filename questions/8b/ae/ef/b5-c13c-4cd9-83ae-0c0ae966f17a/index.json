@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8baeefb5-c13c-4cd9-83ae-0c0ae966f17a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent reports of high concentration of plastics in the Arctic region, consider the following statements:<br />\n<ol>\n<li>Arctic Ocean surface water has more plastic than other ocean basins.</li>\n<li>Unlike Arctic region, Antarctic region is free from plastic pollution.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIt is reported that the surface water of Arctic Ocean has the highest plastic burden of all ocean basins. It has some of the highest concentration of plastics at the ocean bottom also. The plastics in the surface water is due to the material’s buoyancy.\n<strong>Statement 2 is incorrect:</strong>\nBoth Arctic and Antarctic are prone to accumulation of plastic pollutants. Sub-surface currents are responsible for carrying the plastic particles towards the poles. They are also being transported by a process called Stokes Drift- through ocean waves. Sea ice is also one of the routes of transport of plastic pollutants."
+}

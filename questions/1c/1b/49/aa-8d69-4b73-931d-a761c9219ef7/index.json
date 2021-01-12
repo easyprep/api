@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1c1b49aa-8d69-4b73-931d-a761c9219ef7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the International Conference of Yoga held in November, consider the following statements:<br />\n<ol>\n<li>The Bhuvan Yoga app was launched in cooperation with ISRO.</li>\n<li>The Bhuvan Yoga app lets users find yoga events throughout the year.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Bhuvan Yoga app is also known as Yoga Locator app. It was introduced in June, 2019 by the AYUSH ministry in collaboration with ISRO. It was launched on International Yoga Day which is observed on June 21<sup>st </sup>every year.\n<strong>Statement 2 is correct:</strong>\nThe Bhuvan Yoga app allows the users to find yoga events throughout the year. It also provides information about yoga training centres and yoga instructors in the vicinity. The trainers can also advertise on the app by registration. It is connected to Google Maps which gives direction to these centres."
+}

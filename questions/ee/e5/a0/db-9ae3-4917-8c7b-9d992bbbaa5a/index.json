@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "eee5a0db-9ae3-4917-8c7b-9d992bbbaa5a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the World Meteorological Organisation released a report on the condition of climate change process. In this context, consider the following statements about WMO:<br />\n<ol>\n<li>WMO is under the direct control of the UN Environment Program.</li>\n<li>India is a member of the WMO.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nWMO is a specialised agency under the United Nations. A specialised agency is an autonomous organisation that was not necessarily created by the UN. Agencies like the WMO were created independently and later incorporated with the UN. It is headquartered in Geneva, Switzerland.\n<strong>Statement 2 is correct:</strong>\nIndia is a member of the WMO’s Asia region. The WMO has 193 member states and territories. The recent report from WMO showed trends like increase in marine heat wave events, increased displacement of people due to natural disasters, contribution of climate change to hunger, etc."
+}

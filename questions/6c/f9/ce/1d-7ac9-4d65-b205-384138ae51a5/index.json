@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6cf9ce1d-7ac9-4d65-b205-384138ae51a5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the Asymmetric Temperature Modulation method has been in news in relation to lithium battery technology. In this context, consider the following statements:<br />\n<ol>\n<li>It enables faster charging of the lithium ion battery.</li>\n<li>It elongates the life of the battery.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe ATM method was developed to enable XFC i.e. extreme fast charging of the lithium ion battery. Extreme fast charging adds 200 miles of driving capacity to the battery in 10 minutes. It was developed by the Pennsylvania State University.\n<strong>Statement 2 is correct:</strong>\nThe ATM method also elongates the life of the battery. This is because it limits the exposure of the battery components to high temperatures. The method limits the exposure time at 60°C to only 10 minutes per cycle. Rapid heating was used to prevent the battery from remaining at elevated temperatures for too long."
+}

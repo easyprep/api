@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6eac46c3-91a3-44cd-8137-9103c3f81c34",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Arribada event in October, consider the following statements<br />\n<ol>\n<li>Arribada occurs in India.</li>\n<li>Olive Ridley turtles are the only organisms that use Arribada.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIndia is one of the countries that sees the event known as arribada. It is a mass nesting event of Olive Ridley Sea Turtles. Odisha coast is the largest nesting site for these turtles. Other nesting sites are in Mexico and Costa Rica.\n<strong>Statement 2 is incorrect:</strong>\nArribada event is applicable to Olive Ridley Sea Turtles and also another species called the Kemps Ridley Turtles. While the Olive Ridley is a vulnerable species, the Kemps Ridleys are endangered according to IUCN. Kemps Ridley Turtles are one of the rarest of marine turtles."
+}

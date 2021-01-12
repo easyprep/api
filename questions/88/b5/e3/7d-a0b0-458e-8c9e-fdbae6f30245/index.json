@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "88b5e37d-a0b0-458e-8c9e-fdbae6f30245",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the creation of the first Indian Brain Atlas, consider the following statements:<br />\n<ol>\n<li>The study found that the Indian brain was smaller than others.</li>\n<li>The first brain atlas was created for the European brain.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe first Indian Brain Atlas was created by Hyderabad’s International Institute of Information Technology. During the creation, it was found that the Indian brain is smaller than other brains like Chinese and Korean. This is in terms of volume, height and width.\n <strong>Statement 2 is incorrect:</strong>\nThe first digital human brain atlas was created for the Caucasian brain. It was created by the Montreal neurological Institute. This is to aid in diagnosis of brain diseases. The Indian Brain Atlas, named IBA100, will help in diagnosis of Indian patients."
+}

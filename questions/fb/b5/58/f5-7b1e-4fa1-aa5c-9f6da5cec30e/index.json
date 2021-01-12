@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fbb558f5-7b1e-4fa1-aa5c-9f6da5cec30e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In October, the Chief of Naval Staff visited Campbell Bay. In this context, consider the following statements:<br />\n<ol>\n<li>Campbell Bay is in the Lakshadweep Islands.</li>\n<li>It is the southern-most point of India.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Campbell Bay is in the Andaman and Nicobar Islands in the Bay of Bengal. It is a district in the Great Nicobar Island, along its eastern coast. It is over 1,500km away from the mainland and the naval forces play a key role in providing aid during medical emergencies.\n<strong>Statement 2 is incorrect:</strong>\nThe Indira Point is the southernmost point of the Indian Union. It is located in the Great Nicobar Island, same as the Campbell Bay. It was named after the former Prime Minister Indira Gandhi. The region is sparsely populated."
+}

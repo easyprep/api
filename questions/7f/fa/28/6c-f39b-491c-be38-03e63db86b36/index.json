@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7ffa286c-f39b-491c-be38-03e63db86b36",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The first-ever World Vision Report was published by WHO in October. In this context, consider the following statements about the Trachoma which was featured in the report:<br />\n<ol>\n<li>It is a viral infection of the eyes.</li>\n<li>India has eliminated infective trachoma.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nTrachoma is an infective disease caused by bacterium called <em>Chlamydia trachomatis</em>. It affects the inner surface of the eyelids and damages the eyes’ cornea. The disease can potentially cause blindness. The direct or indirect contact with an infected persons’ eyes or nose can spread the disease.\n<strong>Statement 2 is correct:</strong>\nIndia announced the elimination of infective trachoma in 2017. The disease was eliminated in most developed countries by improving environmental and personal hygiene. However, the disease continues to affects poorer countries in Africa and Asia. The report says that 2 million people are affected by it."
+}

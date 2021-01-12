@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "60e73dfb-94dc-48a7-8dbc-95970f089b96",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the UN project to decontaminate land in war-torn Iraq, consider the following statements:<br />\n<ol>\n<li>The project is aimed at clearing oil spills on land.</li>\n<li>The project will use microbes to act as bioremediation agents.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe UN launched a project in Iraq to clear oil spills in the war-torn areas. In 2016, Islamic State (IS) damaged oil wells in the town of Qayyarah which led to crude oil contaminating dry river beds and also the Tigris River.\n <strong>Statement 2 is correct:</strong>\nThe project will make use of bacteria to disintegrate the oil contamination. The soil bacteria is to be fed with manure, wood chips and water before being allowed to disintegrate the oil. This is an affordable and simple process. The application will depend on the soil type and the property of the oil."
+}

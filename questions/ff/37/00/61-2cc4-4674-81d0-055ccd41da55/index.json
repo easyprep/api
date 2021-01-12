@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ff370061-2cc4-4674-81d0-055ccd41da55",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent reports of ‘lumpy skin disease’ cases, consider the following statements:<br />\n<ol>\n<li>It is caused by bacterial pathogens.</li>\n<li>It affects cattle.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe lumpy skin disease is caused by viruses called LSD virus of the Poxviridae family. It is also known as the Neethling disease and is infectious in nature. They are especially prevalent during wet summer months or in conditions of high temperature and humidity. They are transmitted through body fluids and mosquitoes.\n<strong>Statement 2 is correct:</strong>\nThe lumpy skin disease affects cattle. India reported its incidence in Odisha to the OIE/ World Organisation of Animal Health. The disease is of economic significance to the animal husbandry sector as it causes permanent skin damage as well as other adverse effects like reduction in milk production."
+}

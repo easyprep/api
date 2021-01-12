@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f9d4be72-3658-4e16-b73b-57b21ee31192",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the GEMINI system, consider the following statements about this condition:<br />\n<ol>\n<li>The system gives information about the Indian Ocean Region.</li>\n<li>The system functions based on the GAGAN satellites’ information.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe GEMINI was launched by the Indian Centre for Ocean Information Service under the ministry of earth sciences. It is a marine information dissemination system that covers the entire Indian Ocean. Earlier, only 10 to 12 km range off the coast could be effectively covered.\n<strong>Statement 2 is correct:</strong>\nThe GEMINI is a portable device that receives information from the GAGAN satellite system. GAGAN is GPS Aided Geo Augmented Navigation, which is a satellite system of the Airport Authority of India. GEMINI stands for GAGAN Enabled Mariner’s Instrument for Navigation and Information."
+}

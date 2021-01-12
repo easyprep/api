@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:09.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e2b75cfd-f114-4eaa-94f3-9036e317eeb4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the new discovery by the TESS project of NASA, consider the following statements:\n<ol>\n<li>TESS circles the Earth in a never before used orbit and has unobstructed view of the skies.</li>\n<li>The satellite has discovered an exoplanet in the “Goldilock’s zone”.</li>\n<li>TESS is the successor of the Kepler Space Telescope.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "2 only",
+  "option2": "2 and 3",
+  "option3": "1 and 3",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nThe TESS or Transiting Exoplanet Survey Satellite was launched in 2018. It is a part of NASA’s Explorer program and seeks to study exoplanets. The satellite was launched by a Falcon 9 rocket (of SpaceX) and it occupies the P/2 orbit. This is a highly elliptical orbit and had not been used by any other satellite before. It is also outside the Van Allen Belt, which is composed of energetic particles from the solar wind. Hence it is safe from radiation damage. It has unobstructed view of northern and southern hemispheres.\n<strong>Statement 2 </strong>is correct:\nThe TESS has recently discovered 3 new exoplanets around a neighbouring star using the transit method. The transit method uses drop in brightness of a star due to planets passing between it and the telescope, to detect it. One of the discovered planet falls in the Goldilock’s zone- This is the zone around each star that has potential to hold liquid water and hence, life.\n<strong>Statement 3 </strong>is correct:\nThe TESS is the successor of the Keppler Space telescope. The Keppler had been studying Earth sized exoplanets around other stars. It is now retired. It was launched in 2009 and retired in 2018 as it ran out of fuel."
+}

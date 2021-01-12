@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ebf65e60-120e-4f08-a201-21f6332c5eaa",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the election commission decided to implement the PPRTMS concept. In this context, consider the following statements:<br />\n<ol>\n<li>It enables tracking of applications for election registration.</li>\n<li>Registration of political parties is governed by article 29.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe PPRTMS stands for Political Parties Registration Tracking Management System. The ECI is looking to implement this system which allows the applicant to track the application. The applicant must provide mobile number and e-mail address to get message alerts about the application’s status.\n<strong>Statement 2 is incorrect:</strong>\nThe registration of the political parties in India is governed by the section 29 A of the Representation of Peoples Act, 1951. For registration, the political party must send its application to the election commission within 30 days of its formation as per the section’s provisions."
+}

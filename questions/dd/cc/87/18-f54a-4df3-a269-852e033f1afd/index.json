@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ddcc8718-f54a-4df3-a269-852e033f1afd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of UAE decision to invest 5 billion USD in an oil refinery project in Balochistan, consider the following statements:<br />\n<ol>\n<li>The province has its shore along the Arabian Sea.</li>\n<li>The Gulf of Oman is found adjacent to Balochistan.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nBalochistan is the largest of the 4 provinces of Pakistan. It has its shore along the Arabian Sea. The Gwadar Port is an important deep sea port in the province. The province is known for its natural gas fields.\n<strong>Statement 2 is correct:</strong>\nThe Balochistan province is in close proximity to the Gulf of Oman. The Gulf of Oman connects the Arabian Sea to the Persian Gulf. The presence of the Strait of Hormuz near it makes the provinces’ ports of strategic value to several nations."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d2af48d3-d4bb-44fc-944b-47abdf2b2d4f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Hi-tech Crime Enquiry Cell of Kerala Police constituted under the CyberDome, consider the following statements about CyberDome project:<br />\n<ol>\n<li>It is the last line of defence for the state police.</li>\n<li>It has a covert cyber-surveillance component.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe CyberDome is the first line of defence of the Kerala State Law Enforcement. It seeks to keep up with the increasing use of cyberspace for criminal activity. It secures cyber resources and prevents cybercrimes. It is a research and development centre to give technological support to enforcers.\n<strong>Statement 2 is correct:        </strong>\nThe CyberDome project launched a covert cyber-surveillance component. It seeks to identify radical groups and also weed out child pornography. The staff consists of ethical hackers, coders, software profession and even civilian volunteers. It seeks to provide automated threat intelligence in an almost real-time basis."
+}

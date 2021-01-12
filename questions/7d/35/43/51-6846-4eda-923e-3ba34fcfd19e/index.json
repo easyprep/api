@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7d354351-6846-4eda-923e-3ba34fcfd19e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the decision of the National Centre for Screening of Natural Products for Parasitic Diseases to open a centre at JNU for natural products’ research, consider the following statements about this proposed centre:<br />\n<ol>\n<li>It will work on <em>Plasmodium falciparum</em>.</li>\n<li>The centre will conduct target based screening.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe proposed centre will research the possibility of using natural products to treat some of the most common parasitic diseases. The centre is to target 3 main parasitical pathogens: <em>Leishmania donovani, Entamoeba histolytica </em>and <em>Plasmodium falciparum. </em>These are responsible for some of the most common protozoan diseases.\n<strong>Statement 2 is correct:</strong>\nThe centre will use target based screening to identify the potential use of known natural products to treat diseases. The centre will try to match compounds from natural products’ library against validated enzyme targets. Leading potential compounds will be tested for curative, suppressive and prophylactic action."
+}

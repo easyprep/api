@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b5f365d5-34c9-4ffe-8aa9-91cb973d87c4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Battle of Panipat, consider the following statements:<br />\n<ol>\n<li>It was fought between the Marathas and the British East India Company.</li>\n<li>The battle was fought in Haryana.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe third battle of Panipat was fought between the Maratha Empire and the Durrani Empire. It was fought in the 18<sup>th</sup> century and is noted as one of the largest battle in that period. It resulted in the defeat of the Marathas.\n<strong>Statement 2 is correct:</strong>\nThe Third battle of Panipat was fought in modern day Haryana. The distance of the battlefield from the Maratha capital Pune is one of the reasons for the Maratha’s defeat. Also, the Afghan forces greatly outnumbered the Maratha forces leading to high casualties."
+}

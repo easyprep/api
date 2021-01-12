@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f83acadb-1730-471f-b1fd-406eebe71815",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the decade long Deep Carbon Observatory concluding its projects in October, consider the following statements the CarbFix project:<br />\n<ol>\n<li>It is a project in Iceland.</li>\n<li>It is a method for permanent storage of carbon.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "`Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe CarbFix is one of the Deep Carbon Observatory projects in Iceland. It seeks to sequester carbon from the atmosphere. The original project was conducted in 2012. The CarbFix2 was initiated in 2014. The CarbFix2 involved the capture of hydrogen sulphide along with carbon dioxide.\n<strong>Statement 2 is correct:</strong>\nThe CarbFix is a method to permanently store carbon. It involves the pumping of carbon dioxide dissolved in water into subsurface rocks for storage. The gases are converted into stable carbonate minerals in these basaltic rocks. It was found that 95% of the carbon pumped in using the method had solidified into calcite."
+}

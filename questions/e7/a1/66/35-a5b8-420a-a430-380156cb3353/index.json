@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e7a16635-a5b8-420a-a430-380156cb3353",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the release of the new study commissioned by the Economic Advisory Council on employment data in October, consider the following statements:<br />\n<ol>\n<li>The employment grew at a rate slower than the population growth rate.</li>\n<li>The employment of children under 14 years has gone up.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe study commissioned by the EAC looked at employment data from 3 sources: NSSO (National Sample Survey Organisation), Employment-Unemployment Survey/ EUS and Periodic Labour Force Survey. It found that the employment growth was 0.8%. This is less than half of the population growth rate, which is 1.7%.  \n<strong>Statement 2 is incorrect:</strong>\nThe study found that the employment of children under 14 years of age has reduced over the years. In 2004, 61 lakh children were employed, while in 2011, 27 lakh were employed. In 2017, the numbers reduced further to mere 11 lakhs. The reason is attributed to sustained schooling reforms."
+}

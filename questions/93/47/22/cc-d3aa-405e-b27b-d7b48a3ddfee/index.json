@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "934722cc-d3aa-405e-b27b-d7b48a3ddfee",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In November, the CFLOWS app was launched. In this context, consider the following statements:<br />\n<ol>\n<li>It aids in monitoring water supply in urban areas.</li>\n<li>It was developed by the CERT-in.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe CFLOWS app was launched by the vice president in November. It is for the purpose of flood warning. It stands for Coastal Flood Warning System app and is the first of its kind in India. It is supported by GIS and can give advanced information before 10 days.\n<strong>Statement 2 is incorrect:</strong>\nThe CFLOWS app was launched by NIOT/ National Institute of Ocean Technology. The app was also supported by the National Centre for Coastal Research, IMD, National Centre for Medium Range Weather forecasting, etc. the app was launched along with the Red Atlas Action Plan in Chennai."
+}

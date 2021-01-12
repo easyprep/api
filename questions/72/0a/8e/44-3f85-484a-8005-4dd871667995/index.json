@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "720a8e44-3f85-484a-8005-4dd871667995",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the testing of Prithvi-II missiles at night in November, consider the following statements:<br />\n<ol>\n<li>This is the first night time trial of Prithvi-II.</li>\n<li>It is capable of carrying nuclear warheads.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe November test was the second night time test of the Prithvi-II missile. Previously, it was tested in February 2018. The testing was done at Interim Test Range of Odisha. It was launched from a mobile launcher and monitored by the DRDO.\n <strong>Statement 2 is correct:</strong>\nThe Prithvi-II is a nuclear capable missile. It is a surface to surface missile. This is the second night time testing of an indigenously developed missile in November, after the Agni-II testing. Prithvi-II has a strike range of 350km."
+}

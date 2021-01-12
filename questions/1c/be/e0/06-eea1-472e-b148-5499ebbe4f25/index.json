@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1cbee006-eea1-472e-b148-5499ebbe4f25",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Project Soli making use of the WiGig band, consider the following statements:<br />\n<ol>\n<li>This band functions at 60MHz frequency.</li>\n<li>India allows the use of this band.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe WiGig band is the Wi-Fi at 60GHz band. It is also known as the V Band or the 60GHz Band. It enjoys the least interference for minute movements. Hence it’s an ideal candidate for providing the Motion Sense function.\n <strong>Statement 2 is incorrect:</strong>\nIndia is yet to allow the commercial use of this band. Hence, the Soli radar chip cannot function in India. The Telecom Regulatory Authority of India or TRAI recommended the exploration of the band’s use (57 to 64 GHz). The band has been delicensed in many countries."
+}

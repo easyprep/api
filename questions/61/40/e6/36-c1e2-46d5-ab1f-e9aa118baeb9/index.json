@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6140e636-c1e2-46d5-ab1f-e9aa118baeb9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the role of small businesses highlighted by the International Labour Organisation report, consider the following statements:<br />\n<ol>\n<li>Small businesses provide half of the jobs in developing economies according to this report.</li>\n<li>The per-capita GDP is negatively related to the employment share of micro and small enterprises.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe ILO Small Matters report said that more than 2/3<sup>rd</sup> of employment in developing and under-developed countries is provided by small businesses. This has lead the ILO to recommend that the policy makers treat these units as vital and central parts of the economy.\n <strong>Statement 2 is correct:</strong>\nThe report has shown that there is a negative co-relation between the per-capita GDP of an economy and the employment share of micro and small enterprises. This implies that the lowest income level economies are almost completely dependent upon self-employment."
+}

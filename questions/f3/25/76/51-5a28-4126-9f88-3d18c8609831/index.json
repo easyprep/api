@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f3257651-5a28-4126-9f88-3d18c8609831",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Antarctic Treaty being in force for 60 years, consider the following statements about its provisions:<br />\n<ol>\n<li>It bans testing of nuclear weapons in the Antarctica.</li>\n<li>Disputes under this treaty can be resolved by the International Court of Justice.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Antarctic Treaty, signed on December 1<sup>st</sup> 1959, prohibits conduction of nuclear explosions in the Antarctica. It also prohibits the disposal of nuclear wastes in this region. The region is to be used for peaceful purposes only, like scientific investigation.\n <strong>Statement 2 is correct:</strong>\nThe disputes between the parties of the treaty are to be resolved by the International Court of Justice- the highest court of the United Nations. The disputes can also be resolved through other means like mediation, negotiation, arbitration, inquiry, etc."
+}

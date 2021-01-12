@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4bede0af-c1e5-4d52-9a37-3b1db8f6128c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Fall Army Worm (FAW) control in Odisha, the use of Trichogramma has been highlighted. In this context, consider the following statements:<br />\n<ol>\n<li>It is a predatory spider.</li>\n<li>It feeds only on the larvae of FAW.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Trichogramma is a predatory wasp. These are some of the most widely used biological control agents in the world. They are even commercially produced for release in crops and orchards. They have even been used for protection of forests from pest attacks.\n<strong>Statement 2 is incorrect:    </strong>\nThe Trichogramma species feed on both the larvae and also damage the eggs. They are known to feed on FAW larvae. They also help in control of other pests like apple moths, corn borers, cotton bollworm, codling moth larvae, etc."
+}

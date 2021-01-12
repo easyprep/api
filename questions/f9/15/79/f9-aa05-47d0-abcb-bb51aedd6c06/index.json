@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f91579f9-aa05-47d0-abcb-bb51aedd6c06",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the revival of Amber Way, consider the following statements about the ancient trade route:<br />\n<ol>\n<li>It connected the Caspian Sea with the Mediterranean Sea.  </li>\n<li>Salt was traded through the Amber Way.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nAmber Way is an ancient trade route that connected the Baltic Sea and the North Sea with the Mediterranean region of Europe. It derived its name because of the widespread trading of amber along this route. Amber is a compound derived from tree sap and is valued as a gemstone.\n<strong>Statement 2 is correct:</strong>\nSalt was one of the major commodity traded through this route. The north European countries were deficient of salt but had abundant stock of amber which was in demand in the south European countries. They exchanged the ambers for salt through this route."
+}

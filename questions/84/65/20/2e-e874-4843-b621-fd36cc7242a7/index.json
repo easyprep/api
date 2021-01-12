@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8465202e-e874-4843-b621-fd36cc7242a7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the ‘Future of Wind’ report released by IRENA, consider the following statements about wind energy in India:<br />\n<ol>\n<li>Most of the wind generation in India is during the north-east monsoon season.</li>\n<li>Gujarat has the highest installed wind capacity among the states.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMost of the annual wind generation in India is during the months between May and September. This coincides with the south-west monsoon or the summer monsoon period. It accounts for 70% of the annual wind generation. During the non-monsoon period, solar energy supplements the lag in wind energy generation.\n <strong>Statement 2 is incorrect:</strong>\nTamil Nadu has the highest installed wind capacity among all the states. In 2018, it had a capacity of 8,197MW capacity. Gujarat has the next highest installed wind energy capacity. Other states with high installed wind energy capacity are Maharashtra, Karnataka, Rajasthan, Andhra Pradesh, Madhya Pradesh, Telangana, Kerala etc.\n&nbsp;"
+}

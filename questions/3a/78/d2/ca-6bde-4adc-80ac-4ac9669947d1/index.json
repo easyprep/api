@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3a78d2ca-6bde-4adc-80ac-4ac9669947d1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "India recently launched the Duchifat- 3 satellite in December. With reference to this, consider the following statements:<br />\n<ol>\n<li>It is a Dutch space satellite.</li>\n<li>It is a communication satellite.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Duchifat- 3 is an Israeli satellite. It was launched along with RISAT 2BR1 on board the PSLV during its 50<sup>th</sup> mission. It is a student satellite from Israel and the third in a series of Duchifat satellites. It weighs about 2.3 kg.\n<strong>Statement 2 is incorrect:</strong>\nThe Duchifat- 3 is an imaging satellite. The data collected by it is to be used for agriculture and ecological research including pollution monitoring and forest monitoring. It is also to enable Israeli students to observe the Earth. The satellite was launched from Andhra Pradesh’s Sriharikota."
+}

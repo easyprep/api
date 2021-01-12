@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c8a4b78e-4687-4a1b-a90a-0dae13bdd482",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions on edge computing, consider the following statements:<br />\n<ol>\n<li>Fog computing has a closer proximity to the end user than cloud computing.</li>\n<li>Unlike edge computing, fog computing stores data in a centralised data centre.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nFog computing is a more decentralised system than the traditional cloud computing. Unlike the cloud computing, fog computing uses millions of nodes. These nodes are at a closer proximity to the end users. In case of cloud computing, the data centres are farther away/ centralised at a remote location.\n<strong>Statement 2 is incorrect:</strong>\nFog computing also makes use of localised data storage and processing like edge computing. Both technologies were developed to reduce dependence on cloud computing. One of its main object it to avoid latency issues. The fog and edge computing differ in where the data is stored and processed. In edge computing, it takes place on the device itself in some cases."
+}

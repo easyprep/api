@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d4235751-2397-4d39-8d69-d5bd008ef799",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Mount Abu has been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is in Rajasthan.</li>\n<li>Mt Abu is a part of the Vindhya Range.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nMt Abu is a hill station in Rajasthan. It is the only hill station in the state. It is referred to as ‘an oasis in the desert’ as it gives rise to rivers and waterfalls. The President recently addressed a national conference on women empowerment here.\n<strong>Statement 2 is incorrect:</strong>\nMt Abu is a part of the Aravalli Range. The tallest peak is Guru Shirkar which is 1,722m high. Mt Abu is the home to several Hindu and Jain temples like the Dilwara Temple. The Mount Abu Wildlife Sanctuary is also located here."
+}

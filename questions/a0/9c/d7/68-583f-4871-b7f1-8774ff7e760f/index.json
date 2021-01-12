@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a09cd768-583f-4871-b7f1-8774ff7e760f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the elections in Portugal in October, consider the following statements:<br />\n<ol>\n<li>Portuguese legislature is bicameral.</li>\n<li>The election is by proportional representation method.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Portuguese legislature is unicameral. The Portuguese parliament consists of a single chamber called the Assembly of the republic. This is a 230 member body. They have a 4 year term. Prime Minister is the head of the government of Portugal.\n<strong>Statement 2 is correct:</strong>\nThe members of the assembly of republic are elected by proportional representation. It is by universal adult franchise. The proportional representation method allots seats in proportion to the votes polled. The members are elected from the 22 constituencies of the country."
+}

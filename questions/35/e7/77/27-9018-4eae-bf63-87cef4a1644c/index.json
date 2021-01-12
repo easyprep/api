@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "35e77727-9018-4eae-bf63-87cef4a1644c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The concept of ‘hidden hunger’ was in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>Hidden hunger is unreported cases of malnutrition.</li>\n<li>It is caused due to low quantum of food consumption.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correc",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correc",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nHidden hunger is a case of undernourishment caused by deficiency of vitamins and minerals. The people of low income groups are often affected by hidden hunger. Women and children are more vulnerable to it. It can lower the health and quality of life of the individual. \n<strong>Statement 2 is incorrect:</strong>\nThe hidden hunger is caused by low quality of food, rather than by low quantity. The reason is cheap food may be available in plenty and be filling. However, the poor nutrient content in it, like vitamin A, iron, etc. leads to deficiencies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b4f9fccb-0e04-48b1-8037-e4471c4f222d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "There has been recent discussions about the need for providing social security for the unemployed in India. In this context, consider the following statements:<br />\n<ol>\n<li>The Atal Bimit Vyakti Kalyan Yojana (ABVKY) covers only those unemployed persons who are insured while the Rajiv Gandhi Shramik Kalyan Yojana (RGSKY) covers even the uninsured.</li>\n<li>ABVKY is to replace the RGSKY.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe ABVKY and RGSKY are both provisions of social security for the unemployed. Both the scheme require the unemployed person to be insured under the Employee State Insurance Act. The ESIC is an important component of both the schemes.\n <strong>Statement 2 is incorrect:</strong>\nThe ABVKY scheme is in addition to the RGSKY. While the benefits under the RGSKY can be availed only under 3 conditions of retrenchment, closure of establishment and permanent invalidity, the benefits of ABVKY can be availed for all reasons of unemployment."
+}

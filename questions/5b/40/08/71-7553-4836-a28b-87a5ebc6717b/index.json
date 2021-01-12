@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5b400871-7553-4836-a28b-87a5ebc6717b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the effect of botulism on birds in the Sambhar Lake region, consider the following statements:<br />\n<ol>\n<li>Botulism affects birds only.</li>\n<li>It is caused by viruses.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nBotulism can affect humans and other animals too apart from birds. It causes symptoms like blurred vision, vomiting, weakness of limbs, restricts respiration etc. It can cause death by respiratory failure. Preliminary forensic investigations suggest that the death of thousands of birds at the Sambhar Lake is due to avian botulism.\n<strong>Statement 2 is incorrect:</strong>\nBotulism is caused by a bacteria called Clostridium botulinum. The bacteria produces the botulinum toxin, commonly known as botox. The bacterial spores are commonly found in soil and water bodies. The spread of the disease is through contaminated food, injection, inhalation and even through wounds."
+}

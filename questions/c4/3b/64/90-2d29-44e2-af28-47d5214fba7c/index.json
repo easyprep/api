@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c43b6490-2d29-44e2-af28-47d5214fba7c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In November, CRY released the 2019 report on crimes against children. In this context, consider the following statements:<br />\n<ol>\n<li>Kidnapping and abduction is the most prevalent crime against children.</li>\n<li>Bihar has the highest incidence of crimes against children.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe CRY (Child Relief and You) is a non-governmental organisation that published this annual report on crimes against children. It reported that such crimes have increased by 20%. Of all these crimes, kidnapping and abduction formed 42% of the reported cases- the highest prevalence. \n<strong>Statement 2 is incorrect:</strong>\nThe CRY report said that Uttar Pradesh and Madhya Pradesh topped the list for the highest prevalence of crimes against children. Together they accounted for 14.8% of the cases. The CRY report was based on the NCRB (National Crime Record Bureau) data."
+}

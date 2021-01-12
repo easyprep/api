@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4a9a89e9-dad0-43db-8333-0ed7934cd103",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discoveries about Acute Flaccid Myelitis, consider the following statements:<br />\n<ol>\n<li>It is caused by Polio virus.</li>\n<li>It affects the nervous system.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nAFM had formerly been referred to as ‘Polio-like Condition’. However, researchers at the CDC United States Centres for Disease Control and Prevention reported that it is not caused by the Polio Virus. The causative pathogen behind the condition is still unknown.\n<strong>Statement 2 is correct:</strong>\nAFM affects the nervous system. It causes weakness and paralysis of limbs, hence the term ‘flaccid’. It also causes the inflammation of the spinal cord, hence the term ‘myelitis’. Since it affects the grey matter of the spinal cord, it affects the functioning of muscles and reduces the reflexes."
+}

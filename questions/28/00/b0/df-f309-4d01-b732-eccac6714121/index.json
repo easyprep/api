@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2800b0df-f309-4d01-b732-eccac6714121",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the government providing for use of Amoxicillin antibiotic as a part of the SAANS campaign, consider the following statements:<br />\n<ol>\n<li>It is on the WHO’s List of Essential Medicines.</li>\n<li>Use of Amoxicillin for veterinary use is prohibited.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe antibiotic Amoxicillin was recently featured in the SAANS campaign of the centre to tackle childhood pneumonia. This antibiotic is on the WHO List of Essential Medicines (EML). EML gives a list of the medicines that are considered the safest and most effective option for addressing the most significant diseases around the world.\n<strong>Statement 2 is incorrect:</strong>\nAmoxicillin is approved for use for veterinary and animal husbandry purposes. The antibiotic is used to treat respiratory and urinary tract infections among animals also. It is a broad spectrum antibiotic i.e. used to tackle diverse pathogens. It is generally administered orally."
+}

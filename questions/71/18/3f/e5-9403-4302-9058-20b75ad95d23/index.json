@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "71183fe5-9403-4302-9058-20b75ad95d23",
+  "labels": "current-affairs,2019-12-24",
+  "question": "INCOIS introduces a new Potential Fishing Zone forecast model. In this context, consider the following statements:<br />\n<ol>\n<li>It will use sea surface temperature data.</li>\n<li>It cannot function during overcast sky conditions.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nINCOIS’ new PFZ forecast model will enable the dissemination of forecasts as opposed to just now-casts. The system will use different parameters to zone the areas, such as surface temperatures of the sea. Temperature dictates distribution of fishes. It will also make use of chlorophyll content data.\n<strong>Statement 2 is incorrect:</strong>\nThe new PFZ model will be able to function even during clouded sky conditions. This enables better information dissemination service by INCOIS. The efforts are to aid about 9 lakh fishermen. Getting forecasts could help them plan their fishing expeditions and also harvest better catches."
+}

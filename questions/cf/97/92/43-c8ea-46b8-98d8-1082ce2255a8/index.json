@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "cf979243-c8ea-46b8-98d8-1082ce2255a8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the development of the Agricultural Scientists Recruitment Board building, the GRIHA-5 system was highlighted. In this context, consider the following:<br />\n<ol>\n<li>Water conservation is one of the criteria for GRIHA ratings.</li>\n<li>GRIHA system was developed by the ministry of new and renewable energy.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nGRIHA is Green Rating for Integrated Habitat Assessment. The rating system uses 34 evaluation points and gives a score out of a maximum 100 points. Water conservation is one of the criteria for rating. The proposed building is to be GRIHA compliant.\n<strong>Statement 2 is correct:</strong>\nThe GRIHA is India’s green building design rating/ evaluation system. It was jointly developed by the ministry of new and renewable energy and TERI. Rating of the buildings is done in a tree tiered process. Other criteria include waste management, energy efficiency, etc."
+}

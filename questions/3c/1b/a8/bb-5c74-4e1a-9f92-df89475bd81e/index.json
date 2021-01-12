@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3c1ba8bb-5c74-4e1a-9f92-df89475bd81e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the reports of success of the India Hypertension Control Initiative, consider the following statements about Hypertension:<br />\n<ol>\n<li>It is also known as high blood pressure. </li>\n<li>It is usually devoid of symptoms.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nHypertension is also known as high blood pressure/ BP. It is caused due to elevated pressure of blood flow in the arteries. A blood pressure of over 140/90 is termed as high BP while in severe cases, the pressure crosses 180/120.\n<strong>Statement 2 is correct:</strong>\nHypertension is usually devoid of symptoms but can lead to adverse health effects when left untreated. Heart failure, dementia, stroke, vision loss, kidney diseases, etc. are some of its consequences. It is mainly caused by improper diet with high intake of salt and alcohol."
+}

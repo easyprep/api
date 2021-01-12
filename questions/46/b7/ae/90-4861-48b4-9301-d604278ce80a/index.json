@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "46b7ae90-4861-48b4-9301-d604278ce80a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Congolese Giant Toad has been in the news recently. In this context, consider the following statements about this amphibian:<br />\n<ol>\n<li>The toad exhibits Batesian mimicry.</li>\n<li>This toad is found all over Africa.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Congolese Giant Toad is an example of Batesian mimicry- a type of mimicry where a harmless species mimics a harmful species or a predator. The toad mimics the Gaboon Viper’s appearance and also sounds to scare off predators.\n<strong>Statement 2 is incorrect:</strong>\nThe toad is found only in the Democratic Republic of Congo. The find is special because frogs and toads don’t show much mimicry because of their uneven and warty appearance. The Congolese Giant Toad, however, has smooth skin and resembles a viper’s head."
+}

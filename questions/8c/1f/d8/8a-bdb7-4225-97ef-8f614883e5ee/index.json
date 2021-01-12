@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8c1fd88a-bdb7-4225-97ef-8f614883e5ee",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about Sabka Vishwas scheme, consider the following statements:<br />\n<ol>\n<li>It is a legacy dispute resolution mechanism.</li>\n<li>It is a tax amnesty scheme.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Sabka Vishwas scheme is a legacy dispute resolution scheme. Being implemented since September, 2019, the scheme looks to resolve pending disputes related to service taxes and central excises that were subsumed under the GST regime. Cases pending in different litigating institutions are to be solved by this scheme.\n<strong>Statement 2 is correct:</strong>\nThe scheme has an amnesty component to relieve small taxpayers from the outstanding tax burden. It provides for interest waivers and also waiver of penalty and fines. They will also be freed from prosecution. This is to encourage taxpayers to be honest about the outstanding status."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9e7e1ca7-8ec2-4ef8-9afd-6ed875e4205f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent news coverage about the dying River Sukapaika, consider the following statements:<br />\n<ol>\n<li>It is a tributary of River Mahanadi.</li>\n<li>It is in Odisha.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nRiver Sukapaika is a tributary of River Mahanadi. The river branches off from Mahanadi and then re-joins it after 40km. the tributary drains over 400 villages in the region. Though it previously supported agriculture and fishing industries along its banks, the river has deteriorated and led to the disappearance of these economic activities.\n<strong>Statement 2 is correct:</strong>\nRiver Sukapaika is in Odisha. The river is dying because of overgrowth of hydrophytes/ water plants called Hyacinths. Hyacinths are highly invasive plants and tend to choke the river system. They also cause shrinking of lake systems and affect the aquatic life forms."
+}

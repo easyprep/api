@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c17f9aa8-9e7b-4629-a91f-35af1b6a37ef",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Kyasanoor Forest Disease, consider the following statements:<br />\n<ol>\n<li>It is a bacterial disease.</li>\n<li>It affects monkeys.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Kyasanoor Forest Disease is a viral disease. It is spread through tick bites. It causes haemorrhagic fever in the host. The Kyasanoor Forest Disease Virus (KFDV) belongs to the Flaviviridae family. The virus and the disease are endemic to South Asia.\n <strong>Statement 2 is correct:</strong>\nThe KFDV uses several animals as hosts: monkeys, rodents and shrews are the most common hosts. The symptoms include vision defects, vomiting, cough, headache, diarrhoea, mental disturbances, tremors, fevers etc. It does not spread from one person to another."
+}

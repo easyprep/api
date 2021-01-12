@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:10.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "da607dbb-ba7b-4b0a-959d-c892e0e2bdf5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "SBI has become the first Indian bank to link with China’s National Advance Payment System. Consider the following statements:\n<ol>\n<li>CNAPS’s international counterpart CIPS will boost Yuan usage.</li>\n<li>CIPS allows fund transfer.</li>\n<li>The CNAPS deal will enable SBI to do business in Banker’s Acceptance Drafts.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "1 and 2",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nCNAPS allows real-time settlement services for payments done in China and clearing banks in places like Hong Kong which are offshore Yuan centres. It was launched in 2008 to increase the usage of Yuan Renminbi. Its international counterpart is CIPS/ China International Payment System or Cross-Border Inter-Bank Payment system. Many countries already use CIPS.<br /><br />\n<strong>Statement 2 </strong>is incorrect:\nCIPS does not allow fund transfer per se. It provides settlement in the form of payment order (directive by a bank account holder to a bank to make payment to a third party). These are settled by the correspondent accounts in the banks with which the CIPS is linked. CIPS uses SWIFT/ Society for Worldwide Inter-bank Financial telecommunications for secure transfer of financial data with other banks.\n<strong>Statement 3 </strong>is correct:\nThe deal will allow SBI to enter into the business of BADs. Banker’s Acceptance drafts are short term debt instruments. These are issued by a buyer’s bank to a seller when the two parties are unfamiliar with each other. It is a promise to pay the buyer a certain amount on a date (usually of the goods’ or services’ delivery) and the amount is deducted from the buyer’s bank account.\n&nbsp;"
+}

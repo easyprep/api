@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d2f665db-845d-4329-97d5-91bb88883863",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the constitution of the Atul Karwal panel in November, consider the following statements:<br />\n<ol>\n<li>The panel is to implement its objectives with respect to the CRPF only.</li>\n<li>Digitisation of deployment is one of its terms of reference.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Atul Karwal panel was constituted with respect to the Central Armed Police Force. CAPF includes Central Reserve Police Force (CRPF), Border Security Force (BSF), Central Industrial Security Force (CISF), Indo-Tibetan Border Police (ITBP), Sashastra Seema Bal (SSB) and Assam Rifles.\n<strong>Statement 2 is correct:</strong>\nThe panel is to deal with the implementation of the 100 days homestay for the CAPF jawans as ordered by the home ministry. Its terms of reference also include designing a software to enable digitisation of personnel deployment. The panel will also propose changes with respect to the operating procedures."
+}

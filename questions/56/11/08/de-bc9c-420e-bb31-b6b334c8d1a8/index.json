@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "561108de-bc9c-420e-bb31-b6b334c8d1a8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the observation of World Pneumonia Day in November, consider the following statements:<br />\n<ol>\n<li>Pneumonia is the largest cause of child death.</li>\n<li>Streptococcus pneumonia is the only causative of pneumonia.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPneumonia was identified as the single largest cause of child death by WHO. It is reported to kill 1.4 million children below the age of 5 every year. It is an infectious disease that affects the lungs but it’s preventable.  \n<strong>Statement 2 is incorrect:</strong>\nPneumonia is caused by a number of different pathogens and Streptococcus pneumonia is only one of them. It is however, the most common causative bacterial agent. Viruses and fungi can also cause this disease. Some of the symptoms are fevers, cough, etc."
+}

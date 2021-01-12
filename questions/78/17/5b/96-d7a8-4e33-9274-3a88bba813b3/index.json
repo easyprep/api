@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "78175b96-d7a8-4e33-9274-3a88bba813b3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the release of Water Quality Report by BIS, consider the following statements:<br />\n<ol>\n<li>Delhi had the worst water quality according to the report.</li>\n<li>Hyderabad had the best water quality according to the report.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIn line with the Jal Jeevan Mission, the BIS had taken a survey of the water quality across 20 states. It found that Delhi had the worst water quality. Of the 11 samples tested from the area, none of them was found compliant with the quality standards.\n<strong>Statement 2 is incorrect:</strong>\nThe BIS Water Quality report 2019 listed Mumbai as the city with best water quality. Of the ten samples analysed by the Bureau of Indian Standards, all were found compliant to the standards set for the 48 parameters. Hyderabad was ranked at the second spot followed by Bhubaneswar."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6fa4f965-ac56-4ffa-ae7e-0c2c36dacf85",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent news coverage of the historic voting exercise in Bougainville Island, consider the following statements:<br />\n<ol>\n<li>Bougainville Island is in the Atlantic Ocean.</li>\n<li>It is a part of the Bahamas.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Bougainville Island is located in the Pacific Ocean. It is a part of the North Solomon Islands, which is politically separate from the Solomon Islands. The Solomon Sea is located to its west and it’s the largest island of the Solomon Islands Archipelago.  \n<strong>Statement 2 is incorrect:</strong>\nThe Bougainville is currently a part of Papua New Guinea. It is an autonomous region. In November, the people of the island voted in a poll to determine whether or not the island would become completely or partially independent from Papua New Guinea."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "35a43c02-0eaf-40c6-bf09-68d6dd4f327d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Rajya Sabha recently passed the International Financial Services Centres Authority Bill. Consider the following statements about this bill:<br />\n<ol>\n<li>SEBI is to be involved in constitution of the Authority.</li>\n<li>The first IFSC in India was established in Mumbai.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe bill provides for the constitution of a unified authority for the IFSCs. The composition of this authority will involve nominations from the SEBI (Securities Exchange Board of India), RBI, IRDAI (Insurance Regulatory and Development Authority of India) and PFRDA (Pension Fund Regulatory and Development Authority).\n<strong>Statement 2 is incorrect:</strong>\nThe first International Financial Service Centre in India was established in Gandhinagar in Gujarat. The GIFT/ Gujarat International Finance Tech City is the first such entity in India. These IFSCs will be able to provide financial services beyond their jurisdiction (cross- border services) to the customers."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:08.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0db3dab7-b524-4076-b280-7f26001bc045",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of shortcomings in India’s data in health and demographics, highlighted by ICMR’s NDQF/ National Data Quality Forum, consider the following statements:\n<ol>\n<li>NDQF is a partnership between ICMR’s National Institute for Medical Statistics and Population Council.</li>\n<li>The NDQF shows data discordance at ground level only.</li>\n<li>India does not have a provision for ensuring security of health data</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "1 and 2",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nIt is a joint effort by ICMR’s NIMS and Population Council. Population Council is an international non-profit organisation, involved in the fields of public health, social science, etc. It made pioneering efforts to record HIV statistics in Africa and India. NIMS, established in 1977, is India’s only institute to coordinate and standardise statistics of health and medicine. It formed the country’s first clinical trials registry.\n<strong>Statement 2 </strong>is incorrect:\nNDQF studies show that data mismatch occurs at multiple levels. The report identified discordance at first level and also the second level. The former is the entry of information at sub-centre level registers. The latter is the information entered at the higher level facilities and registers. Discordance at both levels reflect in the quality of final national data compilations like the Sample Registration Survey.\n<strong>Statement 3 </strong>is correct:\nIndia doesn’t have such a provision as of yet. However, a draft legislation is in the pipeline that would make India the world’s foremost country to secure its citizen’s health data. The draft Digital Information Security in Healthcare bill is in the formative stages. It is to make use of digital health data/ DHD for providing comprehensive healthcare- but can be used or transmitted only with consent of the data owner."
+}

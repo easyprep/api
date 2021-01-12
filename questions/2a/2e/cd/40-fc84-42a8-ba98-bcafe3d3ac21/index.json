@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2a2ecd40-fc84-42a8-ba98-bcafe3d3ac21",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the NavIC system, consider the following statements:<br />\n<ol>\n<li>All commercial vehicles after April, 2019 are required to have NavIC trackers.</li>\n<li>The IRNSS satellites are responsible for the functioning of NavIC.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe NavIC is India’s indigenously developed navigation system. It was launched by ISRO. The government mandated that all commercial vehicles, registered after 1<sup>st</sup> April 2019, are required to have NavIC trackers. Currently, 75 companies are manufacturing NavIC based vehicle trackers for this purpose.\n<strong>Statement 2 is correct:</strong>\nNavIC is enabled by a series of ISRO satellites called IRNSS. There are 8 IRNSS satellites in orbit that constitutes the space segment of the project. There is also a ground segment. The satellites provide services like positioning, navigation and timing. One of the satellites also provide messaging services."
+}

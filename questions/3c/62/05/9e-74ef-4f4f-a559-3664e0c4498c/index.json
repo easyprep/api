@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3c62059e-74ef-4f4f-a559-3664e0c4498c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Aroma Mission, consider the following statements:<br />\n<ol>\n<li>It is a project under the FSSAI.</li>\n<li>Citronella is one of the crops covered by the mission.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nAroma Mission is an initiative of the Council of Scientific and Industrial Research (CSIR). Under this mission, CSIR seeks to increase area under essential oil yielding crops cultivation to 5,500 hectares by 2022 deadline. It will encourage the cultivation of medicinal plants also.\n<strong>Statement 2 is correct:        </strong>\nCitronella is one of the crops covered by the mission. It covers many aromatic, essential oil yielding crops and also medicinal crops like marigold. The technical assistance for their cultivation is provided by CSIR. CSIR’s Central Institute of Medicinal and Aromatic Plants/ CIMAP ties up with state governments to implement the project."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a230fc0b-09a8-4bbb-8c2c-98f8b2457a7e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Atal Bimit Vyakti Kalyan Yojana, consider the following statements:<br />\n<ol>\n<li>It is applicable only to unemployed persons who are insured.</li>\n<li>Unemployment due to any other reason than closure of factory, permanent invalidity or retrenchment is not covered by the scheme.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe ABVKY is a scheme for providing social security for unemployed persons who are insured under the Employee State Insurance Act, 1948. The person need to have contributed to the ESIC for at least 2 years to avail the scheme’s benefits.\n <strong>Statement 2 is incorrect:</strong>\nThe ABVKY covers unemployment due to all reasons. This makes it different from the Rajiv Gandhi Shramik Kalyan Yojana- a similar social security scheme for the unemployed. In RGSKY, retrenchment, permanent invalidity and closing of the establishment are the only grounds for availing benefits."
+}

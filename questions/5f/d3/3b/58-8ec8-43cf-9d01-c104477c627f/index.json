@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5fd33b58-8ec8-43cf-9d01-c104477c627f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent incidence of vaccine derived polio, consider the following statements:<br />\n<ol>\n<li>Vaccine derived polio can spread because of poor sanitation.</li>\n<li>It is controlled by reducing the number of vaccine dosage.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nVaccine derived polio can be spread because of poor sanitation but it needs to be coupled with low immunisation among the population in the first place. This is because the attenuated viruses in the vaccine remains active for a limited time which is excreted out. In cases of poor sanitation, it spreads to other people and cause polio effects if under-immunised.\n<strong>Statement 2 is incorrect:</strong>\nWHO recommends vaccine coverage of the people to prevent vaccine derived polio. Every child is to be immunised several times as the issue is not with the vaccine but the vaccine coverage. Because of this, more polio cases are being caused by vaccine derived polio than wild polio viruses."
+}

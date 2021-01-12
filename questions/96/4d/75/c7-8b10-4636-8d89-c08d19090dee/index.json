@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "964d75c7-8b10-4636-8d89-c08d19090dee",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions on the draft Social Security Code, consider the following statements about its provisions:<br />\n<ol>\n<li>The maternity benefits can be availed only after the day of child birth.</li>\n<li>Gig workers cannot avail maternity benefits.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe draft code provides that the maternity benefits can be availed by all women for the period of actual absence. This period stretches from the day preceding the child birth and any period immediately following that day. The employer is held liable for the payment of benefits.\n<strong>Statement 2 is incorrect:</strong>\nThe draft code also gives provisions for gig workers and platform workers. The central government may formulate welfare schemes for such workers. This will cover aspects like maternity benefits, old age protections, health benefits, life and disability cover, etc."
+}

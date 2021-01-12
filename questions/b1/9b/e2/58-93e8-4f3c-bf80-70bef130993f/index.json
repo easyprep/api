@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b19be258-93e8-4f3c-bf80-70bef130993f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the reports of pneumonic plague cases in China in November, consider the following statements:<br />\n<ol>\n<li>Plague is caused by Streptococcus bacteria.</li>\n<li>It is an infection of the lungs.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nPneumonic plague is caused by Yersinia pestis, a bacteria that infects humans through rat fleas. It is a gram negative bacteria belonging to the Coccobacillus category. It is associated with the Black Death in Europe that led to millions of deaths in 1300s.\n<strong>Statement 2 is correct:</strong>\nYersinia affects the lungs in pneumonic plague. Some of the symptoms include fever, chest pain, cough, shortness of breath, headache, etc. it is one of the 3 forms of plague, the others being septicemic plague and bubonic plague."
+}

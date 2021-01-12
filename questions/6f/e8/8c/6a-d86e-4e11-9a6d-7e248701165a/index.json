@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6fe88c6a-d86e-4e11-9a6d-7e248701165a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of November 17<sup>th</sup> being observed as National Epilepsy Day, consider the following statements:<br />\n<ol>\n<li>Epilepsy is a disorder of the brain.</li>\n<li>Epilepsy can only be inherited, not acquired.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nEpilepsy is a neurological disorder that affects the brain. It causes seizures, loss of consciousness, stiffness of muscles, etc. It can even cause physical injuries during these epileptic seizures. In many cases, the immediate cause cannot be identified. However, medical treatment can resolve it in most cases.\n<strong>Statement 2 is incorrect:</strong>\nThe epilepsy condition can be either inherited or acquired. It is caused due to inheritance of certain genetic mutations from the parents. It can also be acquired later on in life by infection of central nervous system. Brain tumours, head trauma, stroke, etc. can also lead to epilepsy."
+}

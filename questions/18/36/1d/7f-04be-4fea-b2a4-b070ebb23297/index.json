@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "18361d7f-04be-4fea-b2a4-b070ebb23297",
+  "labels": "current-affairs,2019-12-24",
+  "question": "India was listed at the top for child wasting rate by Global Hunger Index. In this context, consider the following statements:<br />\n<ol>\n<li>Wasting is low weight for height.</li>\n<li>The index uses child stunting also as a parameter.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Global Hunger Index listed India at the top spot for child wasting rate. It is the condition where the child has low body weight for its height. The index found that about 90% of the children in India between 6 and 23 months do not get sufficient food to meet their nutritional requirements.\n<strong>Statement 2 is correct:</strong>\nThe Global Hunger Index makes use of 4 parameters to rank the countries. These are child wasting, child mortality, undernourishment and also child stunting. The wasting rate of children in India was around 16% last year. However, the 2019 rate stands at around 20%."
+}

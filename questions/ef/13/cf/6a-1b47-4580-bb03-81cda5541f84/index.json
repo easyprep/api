@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ef13cf6a-1b47-4580-bb03-81cda5541f84",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the issue of algal bloom in the Gulf of Mannar recently highlighted in news, consider the following statements:<br />\n<ol>\n<li>Addition of excess phosphorus to the waters can cause algal blooms.</li>\n<li>Algal blooms can affect coral reefs.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe algal bloom is the sudden overgrowth of aquatic algae. This is driven by addition of nutrients in excess to the waters. Apart from phosphorus, nitrogenous chemicals can also cause algal bloom.it depletes oxygen in the water and suffocates aquatic life forms.\n <strong>Statement 2 is correct:</strong>\nAlgal bloom in the Gulf of Mannar is reportedly killing off the coral reefs in the region. The reports blame the dumping of nutrient rich water from Sri Lanka to be the reason. Algal blooms deplete oxygen in the water and also blocks off the sunlight from reaching the sea’s depths. This affects the photosynthesis in corals."
+}

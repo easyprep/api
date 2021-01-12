@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fc525cd0-ff76-4fcf-ac4b-d840ff2836a7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Budapest Convention, consider the following statements:<br />\n<ol>\n<li>It deals with cyber security.</li>\n<li>India is a signatory.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Budapest Convention is also known as the Convention of Cybercrime. It is the first international instrument to deal with the issues of crime committed through internet. It provides for criminalisation of issues like child pornography, computer fraud etc.\n <strong>Statement 2 is incorrect:</strong>\nIndia is not a signatory to the Budapest Convention. However, 64 countries have ratified the treaty. The main concern for India is that the treaty allows cross- border access to data and that it wasn’t involved in the negotiation process."
+}

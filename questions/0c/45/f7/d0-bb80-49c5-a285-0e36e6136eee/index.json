@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0c45f7d0-bb80-49c5-a285-0e36e6136eee",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context of the recent findings about the phenomenon of Diel Vertical Migration, consider the following statements:<br />\n<ol>\n<li>Fewer animals exhibit DVM in clearer waters than in murky waters.</li>\n<li>The migrating animal biomass has decreased in the Indian Ocean.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nThe NASA- CALIPSO study recently revealed key concepts about the marine phenomenon of Diel Vertical Migration. It was found that the number of ocean animals exhibiting this phenomenon varies with the nature of the waters and its nutrient content. It found that the number of animals exhibiting the DVM is higher in clearer waters with low nutrients than in murky, nutrient rich water.\n<strong>Statement 2 is incorrect:</strong>\nThe study also recorded the trends in the DVM occurrence across the world oceans. It found that the migrating animal biomass increased in the South Indian Ocean region apart from North and South Pacific’s subtropical waters and the North Atlantic’s subtropical waters. However, the same decreased in some regions like in the tropical waters."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "45793755-4931-43b2-92cb-c651e3233076",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent resignation of the Lebanese Prime Minister, consider the following statements about the Lebanese system:<br />\n<ol>\n<li>Only a Sunni Muslim can be elected as the Lebanese Prime Minister.</li>\n<li>Only a Christian can hold the post of Parliamentary Speaker.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAccording to the National Pact of Lebanon, the post of Prime Minister can be held only by a Sunni Muslim. Lebanon follows the confessional system of government. This means that there is a distribution of institutional offices among the confessional communities.\n<strong>Statement 2 is incorrect:</strong>\nThe president of Lebanon is a Maronite Christian. This is in accordance with the confessionalism followed by the Lebanese polity. Confessional communities are those that share similar religious beliefs. Though the use of confessionalism was intended to be temporary, the practice has remained in use."
+}

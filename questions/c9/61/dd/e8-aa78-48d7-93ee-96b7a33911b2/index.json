@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c961dde8-aa78-48d7-93ee-96b7a33911b2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The concept of ‘Edge Computing’ has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>Edge computing is also known as cloud computing.</li>\n<li>In edge computing, the data is processed and stored in a centralised data centre.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nEdge computing is different from cloud computing. Studies say that by 2025, companies will use edge computing to manage about 75% of their data. The edge computing is to be developed using 5G technology and AI. It will simplify computing maintenance and speed up the response time.\n<strong>Statement 2 is incorrect:</strong>\nThe major difference between cloud computing and edge computing is the location of the data processing and storage. In cloud computing, data is processed and stored in centralised data centres. In edge computing, data is processed and stored in localised centres and reduces the quantum of data that is transferred over the network."
+}

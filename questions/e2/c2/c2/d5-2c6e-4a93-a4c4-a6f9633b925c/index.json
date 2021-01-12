@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e2c2c2d5-2c6e-4a93-a4c4-a6f9633b925c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent studies highlighting the effect of climate change on rice production, consider the following:<br />\n<ol>\n<li>Higher temperature will increase rice production.</li>\n<li>Higher temperatures increase the uptake of arsenic by rice plants.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nA recent study reported that the rice production might fall by 40% by the year 2100 due to climate change effects. The combined effect of high temperature and high carbon dioxide concentration reduced the output of the test plants drastically.\n<strong>Statement 2 is correct:</strong>\nThe study found that, at higher temperatures, the paddy plants absorbed more arsenic from the soil. It is predicted that climate change will increase arsenic concentration in rice to atleast double the present day levels. Arsenic is injurious to health and can cause issues ranging from skin lesions and cancer to death."
+}

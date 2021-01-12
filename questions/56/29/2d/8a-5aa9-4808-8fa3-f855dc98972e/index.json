@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "56292d8a-5aa9-4808-8fa3-f855dc98972e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about India’s preparedness to face seismic activity, consider the following statements about seismic waves:<br />\n<ol>\n<li>P-waves are the first seismic waves detected by seismometers.</li>\n<li>The intensity of an earthquake is measured by the Richter scale.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<b>Explanation:</b>\n<b>Statement 1 is correct:</b>\n<span style=\\\"font-weight: 400;\\\">The P-waves or the primary wave is a type of seismic wave that reaches the surface first. Hence it is the first to be detected by the seismometers. Seismometers have been in news because of the reports of their being defunct in seismically active areas in Maharashtra.</span>\n<b>Statement 2 is incorrect:</b>\n<span style=\\\"font-weight: 400;\\\">The Richter scale gives the measure of magnitude of the earthquake. The intensity of an earthquake is measured using the Mercalli scale. Magnitude refers to the energy released during earthquakes and its value range from 0 to 10. Intensity refers to the damage done by the quake and ranges from 1 to 12.</span>"
+}

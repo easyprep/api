@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7021c944-d619-4a25-9a0e-d17034f65326",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In October, the health ministry launched a symposium to tackle lymphatic filariasis. In this context, consider the following statements:<br />\n<ol>\n<li>It is caused by worms.</li>\n<li>It can be spread by mosquitoes.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nLymphatic filariasis is caused by nematodes called Wuchereria bancrofti. About 90% of the cases are caused by this organism. The adult worms live in the lymphatic system of the patients. They enter into circulation after production of a sheath. Some of the symptoms of infection are elephantiasis, hydrocele, dysfunction of lymphatic vessels, etc.\n <strong>Statement 2 is correct:</strong>\nThe nematode is transmitted by mosquitoes. When the mosquito bites an infected person, it ingests the adult organisms and transfers it to other people. The nematode is transferred in its larval form. Some of the mosquitoes responsible for these transmission are Aedes, Anopheles, Culex, etc."
+}

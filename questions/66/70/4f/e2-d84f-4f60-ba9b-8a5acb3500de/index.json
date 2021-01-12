@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:08.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "66704fe2-d84f-4f60-ba9b-8a5acb3500de",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Ministry of Mines conducted a workshop for dealing with the problem of ‘red mud’. In this context, which of the following statements are correct?\n<ol>\n<li>Red mud is the residue generated during copper production process.</li>\n<li>Odisha’s Lanjigarh refinery is the first of its kind to produce powdered red mud for reuse.</li>\n<li>January’s Brumadinho tragedy in Brazil shows the dangers of improper tailings storage.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "All of the above",
+  "option2": "2 and 3",
+  "option3": "1 and 3",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is incorrect:\nRed mud or bauxite trailing is a by-product of aluminium production process. Most of the world’s aluminium is produced from bauxite using the Bayer’s process. This generates iron oxide by-products that are highly alkaline and dangerous to the environment. In 2010, it led to the death of 10 people in Hungary due to accidental release of red mud.\n<strong>Statement 2 </strong>is correct:\nVedanta Aluminium Ltd, one of the major aluminium producers in India, set up a refinery in Odisha to produce red mud in powdered form. This would enable their reuse in various applications like cement manufacture. The Mines ministry workshop also sought to increase awareness on the ways to tackle red mud pollution and its reuse. Since India is a major generator of red mud (9 million tonnes per year), these measures are important.\n<strong>Statement 3 </strong>is correct:\nThe Brazilian dam breach in January is a case in point of not tackling mining wastes. The Brumadinho dam stored tailings from a defunct iron ore mine, owned by Vale. It resulted in the death of 248 people. The toxic sludge even polluted the region’s major river- Paraopeba."
+}

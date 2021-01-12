@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e7ee3648-8a60-46ca-a830-fb461f4df30f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the government announcing aid for stalled housing projects through Alternative Investment Fund, consider the following statements:<br />\n<ol>\n<li>AIF is a collective investment instrument.</li>\n<li>SEBI Regulations deal with AIF in India.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nAlternative Investment Fund is a collective investment vehicle often used for non-conventional investments. AIF collects funds from multiple investors and use it to invest according to an established policy. Real estate is considered as an alternative investment. These investments often move independently of components like bonds.\n<strong>Statement 2 is correct:</strong>\nThe SEBI Regulations, 2012 is also known as the AIF Regulations. It was introduced by the Securities and Exchange Board of India to regulate funds for the likes of real estate, hedge funds, etc. AIFs are categorised into 3 classes- I, II and III."
+}

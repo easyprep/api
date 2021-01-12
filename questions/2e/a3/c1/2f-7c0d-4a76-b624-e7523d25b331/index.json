@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2ea3c12f-7c0d-4a76-b624-e7523d25b331",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent studies highlighting the effects of upside-down rivers in Antarctica, consider the following statements about Thwaites Glacier:<br />\n<ol>\n<li>It is located in east Antarctica region.</li>\n<li>It is the fastest melting glacier of the continent.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Thwaites Glacier is a part of West Antarctica Ice Sheet. It is a fast moving glacier with its surface speeds reaching about 2km per year. Recent studies show that upside-down rivers are speeding up the melting of this glacier.\n<strong>Statement 2 is incorrect:</strong>\nThe Pine Island Glacier is the fastest melting glacier in Antarctica. Thwaites Glacier is also melting at a significant speed. It forms the ‘weak underbelly’ of West Antarctic Ice Sheet. It is being kept under watch because of its significant vulnerability to raising temperatures."
+}

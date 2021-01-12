@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3e7d359d-675b-4e90-b30f-2ca84dd4b1d5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent action of the Central Drugs Standard Control Organisation against certain pharmaceutical manufacturers, consider the following statements:<br />\n<ol>\n<li>Dissolution test checks the rate at which the active ingredient is released from the drug product.</li>\n<li>Sterility test checks the pH neutrality of the drug product.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nDissolution test was one of the criteria over which the CDSCO pulled up pharma manufacturers in November. The dissolution test is used to determine the rate at which an active ingredient in the drug product is released from it.\n<strong>Statement 2 is incorrect:</strong>\nSterility test determines whether or not the drug product is free from pathogens. In November, the CDSCO found the sodium lactate solution- a product used to replace lost fluids in a patient body- failed this test. The manufacturer, HAL was pulled up over this."
+}

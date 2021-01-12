@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c2d1f154-3bb2-42ba-8475-a80e0f08497a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about Special Protection Group cover, consider the following statements:<br />\n<ol>\n<li>The security level for an individual is decided by the home ministry</li>\n<li>The category X of security cover is the highest level protection after the SPG.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe security level for an individual is decided by the ministry of home affairs. The decision is based on inputs from intelligence agencies like the IB (Intelligence Bureau) and RAW (Research and Analysis Wing). The protection is also extended to individuals about whom the government has inputs about facing a threat.\n<strong>Statement 2 is incorrect:</strong>\nThere are 6 broad levels of security cover given by the government. These are X, Y, Y plus, Z, Z plus and the SPG. Beneath the SPG, the Z plus cover is the highest protection level. It involves 10 security personnel for mobile security and two (plus eight) for residence security."
+}

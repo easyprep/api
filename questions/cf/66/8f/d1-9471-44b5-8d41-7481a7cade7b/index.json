@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "cf668fd1-9471-44b5-8d41-7481a7cade7b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent collaboration between IBM and the ministry of skill development and entrepreneurship, consider the following statements about the ‘New Collar Curriculum’:<br />\n<ol>\n<li>The term ‘new collar worker’ is used in connection with only newly developed and yet-to-be proven technology-based industries.</li>\n<li>The new collar curriculum is provided through ITIs.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe term ‘new collar worker’ is used to refer to workers who take up technical skill training to find employment in contemporary technology based industries. This includes ‘middle skill’ occupations in cybersecurity analysis, cloud computing, application development, etc. the term was introduced by IBM.\n<strong>Statement 2 is correct:        </strong>\nThe new collar curriculum was launched in 2018 as a joint initiative of IBM and the MSDE. It provides technical training and skills needed for new collar career to students. The training will be in the form of 2 year advanced technical diploma program. These are provided through ITIs."
+}

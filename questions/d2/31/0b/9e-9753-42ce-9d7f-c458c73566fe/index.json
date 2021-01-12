@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d2310b9e-9753-42ce-9d7f-c458c73566fe",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Reports show that the President has commuted death sentences in about 20 cases in under a decade. In this context, consider the following statements:<br />\n<ol>\n<li>Article 73 of the constitution gives the President, powers to commute death sentences.</li>\n<li>Article 161 gives the Governor power to pardon death sentence.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe article 72 of the constitution gives the President, powers to commute death sentences. The article also gives the President, powers to grant pardons and also to suspend and remit sentences. The President had commuted the sentences after the convicts filed mercy petitions.\n<strong>Statement 2 is incorrect:</strong>\nThe Governor does not have the power to pardon a death sentence. Only the President can pardon a death sentence. The article 161 of the constitution gives the Governor, powers to grant pardons, suspend, remit or commute sentences in certain cases only."
+}

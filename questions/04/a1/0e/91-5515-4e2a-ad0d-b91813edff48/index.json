@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "04a10e91-5515-4e2a-ad0d-b91813edff48",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The US Food and Drug Administration found traces of asbestos in a brand of talcum powder. In this context, consider the following statements:<br />\n<ol>\n<li>Asbestos is added to improve the talc texture.</li>\n<li>Chrysotile asbestos can cause tumour.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nAsbestos contamination occurs in talc based powder when the talc ore is improperly or incompletely purified. Use of asbestos is banned because of its hazardous nature. Earlier, it was used in products like fireproof clothing and construction material, fire doors, etc.\n<strong>Statement 2 is correct:</strong>\nThe FDA found traces of chrysotile asbestos in the talc powder. Chrysotile is a type of asbestos and it is made up of silicates. Studies have shown that asbestos can increase chances of tumour formation and asbestosis."
+}

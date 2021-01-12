@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ded68b0c-8af2-4a0e-a69f-5a476ebb74aa",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent launch of the CLAP portal, consider the following statements:<br />\n<ol>\n<li>It was launched by ministry of social justice and empowerment.</li>\n<li>It enables real time tracking of applications.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe CLAP or Credit linked Subsidy Scheme Awas Portal was launched by the ministry of housing and urban affairs in November. It was launched to enable streamlining and transparency in the credit linked subsidy scheme for construction of houses. It involves all stakeholders including the beneficiaries and the primary lending institutions.\n<strong>Statement 2 is correct:</strong>\nThe CLAP portal will enable the applicants and beneficiaries to track their applications on the portal in real time. It will also serve as a better tool for grievance redressal. This is in line with the ‘Housing for All’ mission."
+}

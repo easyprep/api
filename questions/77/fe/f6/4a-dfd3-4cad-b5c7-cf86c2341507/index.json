@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "77fef64a-dfd3-4cad-b5c7-cf86c2341507",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the October riots in Santiago, consider the following statements:<br />\n<ol>\n<li>Santiago is in Chile.</li>\n<li>It is in one of the OECD countries.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSantiago is the capital city of Chile. It is also the largest and most populated city in the Latin American country. The city had seen riots due to a 4% rise in public transportation fee. Because of the violent nature of the protests, the country had declared emergency in Santiago and also adjacent areas like La Serena, Concepcion, etc.\n<strong>Statement 2 is correct:</strong>\nChile is one of the OECD countries. OECD is Organisation for Economic Cooperation and Development. It is an intergovernmental organisation composed of 36 countries, most of which are high income economies with high human development index. Chile got membership in 2010."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fe2557de-a78a-4e1d-960a-e211f1d334f9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discoveries about the elastocaloric effect, consider the following statements:<br />\n<ol>\n<li>The rubber fibres cool upon stretching and heats upon relaxing to its original position.</li>\n<li>Twisting of the fibres decreases the effect.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIn elastocaloric effect, a link is observed between the elastic movement of an object (eg: rubber band) and the heat absorbed or released by it. It is found that upon stretching of rubber fibres, it absorbs heat from the surrounding and its temperature goes up. When it is released, it releases the energy and cools down.\n<strong>Statement 2 is incorrect:</strong>\nThe twisting of the rubber fibre is found to enhance the effect by almost two-folds. The effect in such rubber bands is comparable to standard refrigerants. The heating and cooling of the rubber fibres is found to be similar to the heating and cooling of common refrigerant fluids."
+}

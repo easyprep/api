@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c40fc7fc-a541-463b-a058-9b633acbfef5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The 40<sup>th</sup> Gulf Cooperation Council Summit was held in Riyadh in December. In this context, consider the following statements about GCC:<br />\n<ol>\n<li>Iraq is a member of the GCC.</li>\n<li>Qatar is a constitutional monarchy.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Gulf Cooperation Council is a political and economic grouping composed of the Arab nations in the Persian Gulf region. Iraq is the only Arab nation of the category not included in this grouping. The group was founded in 1981 and its membership has remained unchanged despite proposals to include other nations like Egypt.\n<strong>Statement 2 is correct:</strong>\nThe GCC is not for all its member nations being monarchies. Qatar is a constitutional monarchy like Kuwait and Bahrain. Apart from these countries, Saudi Arabia, Oman (both of which are absolute monarchies and UAE (federal monarchy) are also members."
+}

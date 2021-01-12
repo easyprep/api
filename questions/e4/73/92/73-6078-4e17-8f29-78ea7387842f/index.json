@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e4739273-6078-4e17-8f29-78ea7387842f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently issued guidelines on peritoneal dialysis under the National Dialysis Program, consider the following statements:<br />\n<ol>\n<li>Peritoneal dialysis is also known as blood dialysis.</li>\n<li>In peritoneal dialysis, the blood is cleaned without having to remove it from the body.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nPeritoneal dialysis is also known as water dialysis. Blood dialysis is the other name of haemodialysis. These are the two types of dialysis. Under the peritoneal dialysis, 2 more types of procedures are used: automated peritoneal dialysis/ APD and the continuous ambulatory peritoneal dialysis/ CAPD.\n <strong>Statement 2 is correct:</strong>\nThe peritoneal dialysis is performed without removing the blood from the body, unlike in haemodialysis. A solution of salts and sugars is introduced into the abdomen. The abdominal lining acts as a natural filter in this procedure. The waste material from the blood is transferred to this solution."
+}

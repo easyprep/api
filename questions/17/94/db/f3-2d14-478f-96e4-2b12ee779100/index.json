@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1794dbf3-2d14-478f-96e4-2b12ee779100",
+  "labels": "current-affairs,2019-12-24",
+  "question": "MHA recently send circulars about ‘StrandHogg’. With reference to this, consider the following statements:<br />\n<ol>\n<li>It is an app for tackling cybersecurity threat.</li>\n<li>It functions on Android Operating System.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nStrandHogg is a malware that is threatening the cybersecurity in India. It is a malware that is targeting user information such as login credentials and personal data. The alert was given by the Threat Analytical Unit of Indian Cyber Security Coordination Centre under the Ministry of Home Affairs.\n <strong>Statement 2 is correct:</strong>\nThe StrandHogg bug functions on all Android Operating System. It enables malwares to replace genuine apps on mobile phones. Through it, the user’s conversations can be listened to and recorded by hackers. They can also access the messages and photos apart from the camera function."
+}

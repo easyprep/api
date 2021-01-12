@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7276eceb-c365-40ee-bbe5-c7f9ffff8470",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Telescope Common Software (CSW) has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It was developed for use in the Thirty Meter Telescope.</li>\n<li>CSW was developed by India.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Telescope Common Software/ CSW was developed to aid the functioning of the Thirty Meter Telescope. The TMT is to be constructed in Mauna Kea in Hawaii. The software will help in configuration, command, control and status reporting. It is the first software component to be completed for the project.\n<strong>Statement 2 is correct:</strong>\nCSW was developed by Pune-based ThoughtWorks Technologies. India is also to provide the Telescope Control System/ TCS software. TCS will enable the formation of high quality stable images. 70% of India’s contribution to TMT as a partner is to be in the form of hardware and software."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "85ebae07-86be-4d17-b46f-9badd135815e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of IMD releasing data on lightning strikes in India, consider the following statements:<br />\n<ol>\n<li>Lightning always move from cloud to ground.</li>\n<li>Ice crystals do not form in clouds that produce lightning.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nLightning is a rapid discharge of electricity from clouds. Cloud-to-ground lightning moves from the cloud to the earth. However, other lightnings that move from one cloud to another are also known. Some even occur within a single cloud and are termed as intra-cloud lightning.\n <strong>Statement 2 is incorrect:</strong>\nIce crystals are one of the contributing factors of lightning generation. The movement of ice crystals inside the cloud results in formation of electric sparks. In these clouds the smaller crystals move upwards while the larger crystals move downwards.\n&nbsp;"
+}

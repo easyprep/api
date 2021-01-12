@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c2743d25-acca-456e-9208-22fdf2711f33",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The first ever global trends for insufficient physical activity among adolescents was recently recorded and published by a WHO led study. In this context, consider the following statements:<br />\n<ol>\n<li>India recorded the lowest levels of physical activity among adolescents.</li>\n<li>Bangladesh recorded the lowest levels of insufficient physical activity among adolescents.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe WHO led study published the trends in prevalence of insufficient physical activity among adolescent. India was ranked at the 8<sup>th</sup> position. India recorded one of the lowest prevalence of insufficient physical activity among boys. However, more girls had insufficient physical activity.\n<strong>Statement 2 is correct:        </strong>\nThe study reported that Bangladesh has the lowest prevalence of insufficient physical activity among boys (63%), girls (69%) and also both genders combined (66%). Globally, over 80% of the adolescents between the ages 11 and 17 do not meet the standard requirement of physical activity."
+}

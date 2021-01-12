@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "dbf5c9e1-caf9-432d-8ebb-18b9c3ab3dba",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent launch of the mobile app ‘Madhu’, consider the following statements:<br />\n<ol>\n<li>It was launched by the Odisha government.</li>\n<li>It is a farming assistance app.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Madhu mobile app was launched by the government of Odisha in early December. It is named after the famed Madhusudan Das. Das was born in Cuttack, Odisha. He is a noted advocate and social reformer who played a key role in the formation of the Orissa Province.\n<strong>Statement 2 is incorrect:</strong>\nThe Madhu mobile app is an e-learning tool to aid the students. It provides lectures and exercise for the students in the Odia language. Interactive question and answer sessions are also a feature of the app. The app currently provides learning tools for classes V to VIII in science and maths subjects."
+}

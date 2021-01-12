@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3e6be2e4-5c3d-4401-84ba-0035df35b56f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the ‘Feed our Future’ campaign, consider the following statements:<br />\n<ol>\n<li>It was launched by the Food and Agricultural Organisation.</li>\n<li>It seeks to address the Sustainable Development Goal 2.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe ‘Feed our Future’ campaign was launched by the United Nations World Food Program. The WFP is the largest international organisation that fights hunger and malnutrition. It is a part of the UN Development Group. It is on its Executive Committee also.\n<strong>Statement 2 is correct:        </strong>\nThe campaign seeks to eradicated hunger, which is the target set by the sustainable development goal number 2. It is an ad movie campaign launched in collaboration with UFO Movies in India. The other targets of the SDG 2 are food security, sustainable agriculture and improvement of nutrition."
+}

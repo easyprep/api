@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a24f90d7-63e0-49c3-b346-96e7621cf3de",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the upcoming cyclone season, consider the following statements:<br />\n<ol>\n<li>Arabian Sea produces more cyclones than the Bay of Bengal.</li>\n<li>November is the primary peak for cyclones.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Bay of Bengal is more active when it comes to formation of cyclones than the Arabian Sea. The cyclones from the Bay of Bengal are also more dangerous and intense than those from the Arabian Sea. Warmer temperature of the Bay of Bengal is one of the reasons for this.\n<strong>Statement 2 is correct:</strong>\nThere are two cyclone seasons for India: the May to June season and the October to November season. Most of the cyclones occur in November and hence it is the primary peak for cyclones. The secondary peak for cyclones is in May."
+}

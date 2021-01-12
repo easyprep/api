@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b9339dc6-2d29-4fda-8b9e-12de2a8cae4c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Google using quantum computer to achieve the quantum supremacy milestone, consider the following statements:<br />\n<ol>\n<li>Unlike bits, the status of one qubit affects another.</li>\n<li>Quantum computer circuits are made of semiconducting metals.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only  2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nBit is the logical unit used in conventional computers. It is a binary format and can be either 1 or 0. The state of one bit does not affect the other. In case of quantum computers, qubits or quantum bits are used. They can be simultaneously 1 and 0. The state of one qubit affects the state of another qubit.\n<strong>Statement 2 is incorrect:</strong>\nQuantum computers make use of superconducting metal in its circuits. Superconductors conduct electricity with zero resistance. This phenomenon is usually seen at very low temperatures and the property disappears above a certain temperature known as the critical temperature. Semiconductors are more common in conventional computers."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f51b1daf-41de-4ede-8c2d-49fac2ddb25a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "NADA had recently banned athletes for failing a doping test for acetazolamide. In this context, consider the following statements:<br />\n<ol>\n<li>It is a diuretic agent.</li>\n<li>The drug is prohibited only in times of competition.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAcetazolamide is a diuretic drug. Diuretic drugs increases ‘diuresis’ which is the increased excretion of water from the body. The compound is also a noted masking agent. It is also used by athletes for ‘weight cutting’ or losing weight prior to a sport event.\n<strong>Statement 2 is incorrect:</strong>\nThe World Anti- Doping Agency and consequently, the National Anti- Doping Agency prohibits the use of acetazolamide by athletes at all times. They are prohibited during the competition and outside it. They are included in WADA’s list of prohibited substances under the S5 category."
+}

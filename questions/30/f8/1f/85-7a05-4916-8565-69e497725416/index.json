@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "30f81f85-7a05-4916-8565-69e497725416",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Cyclone Maha that evolved in October, consider the following statements:<br />\n<ol>\n<li>The cyclone originated in the Bay of Bengal.</li>\n<li>The Cyclone Maha was preceded by Cyclone Kyarr.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nCyclone Maha originated in the Arabian Sea. It is predicted to bring heavy rains to the Lakshadweep Islands, as it is centred over the region. It is classified as a severe cyclonic storm. This is the fourth cyclone from the Arabian Sea in 2019.\n<strong>Statement 2 is correct:</strong>\nCyclone Maha was preceded by the Cyclone Kyarr. Cyclone Kyarr is one of the strongest to have emerged from the Arabian Sea. It was a super cyclonic storm. The Cyclone Kyarr moved towards Oman and affected parts of Western India. It had wind speeds of 250 kmph."
+}

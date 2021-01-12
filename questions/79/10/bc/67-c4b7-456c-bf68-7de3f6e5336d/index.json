@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7910bc67-c4b7-456c-bf68-7de3f6e5336d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent release of the Road Accidents in India-2018 report, consider the following statements:<br />\n<ol>\n<li>More road accidents take place on state highways than national highways.</li>\n<li>Pedestrians are the most vulnerable road users to road accidents.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nAccording to the Road Accidents in India report, more road accidents took place on national highways than on state highways. While road accidents on state highways accounted for over 25% of the total, accidents on national highways accounted for over 30%.\n <strong>Statement 2 is incorrect:</strong>\nThe report by the ministry of road transport and highway showed that two wheeler riders are the most vulnerable to road accidents among all road users. The two wheeler riders accounted for over 36% of the road accident deaths in 2018.\n&nbsp;"
+}

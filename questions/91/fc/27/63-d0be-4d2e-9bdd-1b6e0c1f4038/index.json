@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "91fc2763-d0be-4d2e-9bdd-1b6e0c1f4038",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Jansunwai portal was recently highlighted. In this context, consider the following statements:<br />\n<ol>\n<li>It is the grievance redressal system of Uttar Pradesh.</li>\n<li>It allows tracking of the grievance application.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Jansunwai portal is the integrated grievance redressal system of Uttar Pradesh. It is an online platform through which the citizens can register complaints/ grievances against the state departments. Each department has a nodal officer who addresses the issues posted in the portal.\n<strong>Statement 2 is correct:</strong>\nWhen a grievance is registered in the Jansunwai portal, a registration number is sent to the complainant. This is used by the individual to track the processing of the issue. The petitioners can also send reminders through the portals to the concerned department when the issue remains unaddressed."
+}

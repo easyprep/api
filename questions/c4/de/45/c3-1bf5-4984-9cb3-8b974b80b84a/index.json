@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c4de45c3-1bf5-4984-9cb3-8b974b80b84a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The National Institute of Ocean Technology has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is under the ministry of earth sciences.</li>\n<li>It is the nodal institution for Deep Ocean Mission.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe NIOT has been in news for developing India’s first integrated coastal flood warning system called CFLOWS. It was established in 1993 under the ministry of earth sciences. It has developed a number of technologies to aid in mining, exploration, desalination, etc.\n<strong>Statement 2 is correct:        </strong>\nIt is the nodal institution for the Deep Ocean Mission. The mission seeks to take explorers to the depth of the Indian Ocean, especially for mineral exploration. For this purpose, the NIOT had developed several components like manned submersibles."
+}

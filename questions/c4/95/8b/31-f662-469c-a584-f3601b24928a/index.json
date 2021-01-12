@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c4958b31-f662-469c-a584-f3601b24928a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent study reporting the changes in El Nino pattern, consider the following statements:<br />\n<ol>\n<li>The El Nino is shifting westwards.</li>\n<li>The studies predict more super El Nino events in the future.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nStudies show that the El Nino is shifting westwards in the Pacific Ocean. The shift is over thousands of miles and producing the El Nino effect over a region that is naturally warm. This will cause disproportionate heating of the western part of Pacific Ocean compared to its central part.\n<strong>Statement 2 is correct:</strong>\nBecause of the westward shift, scientists predict that the chances for occurrence of moderate to strong weather events increases. This will increase the incidence of super El Nino events like the ones in 1998 and 2016. This can increase incidences of flooding in Asia and Africa, coral death, increase in global temperature, etc."
+}

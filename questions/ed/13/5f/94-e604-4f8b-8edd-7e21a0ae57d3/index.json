@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ed135f94-e604-4f8b-8edd-7e21a0ae57d3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of recent studies looking for ways to reduce sulphur dioxide pollution, consider the following statements:<br />\n<ol>\n<li>India is the largest emitter of sulphur dioxide.</li>\n<li>Burning of fossil fuel emits sulphur dioxide.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and  2 are correct",
+  "option5": "",
+  "answer": "Both 1 and  2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIndia contributes over 15% to the global anthropogenic emission of sulphur dioxide. This makes it the largest emitter of the gas. Five out of the top ten sulphur dioxide emission hotspots are in India. The gas causes a number of health effects like respiratory complications apart from contributing to acid rains.\n<strong>Statement 2 is correct:        </strong>\nBurning of fossil fuels is a common source of anthropogenic sulphur dioxide emission. Sulphur is a contaminant in coal and is released as sulphur dioxide during combustion. The desulphurisation process is used for removing the sulphur from fossil fuels. However, it is yet to be widely adopted."
+}

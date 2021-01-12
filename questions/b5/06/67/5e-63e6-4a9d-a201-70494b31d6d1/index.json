@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b506675e-63e6-4a9d-a201-70494b31d6d1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A loan of 451 million USD was approved for developing power connectivity in Tamil Nadu in November. In this context, consider the following statements:<br />\n<ol>\n<li>The loan is to be availed from the Asian Development Bank.</li>\n<li>Only power sourced from renewable energy is to be transmitted through this connectivity project.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe 451 million USD loan was approved by the Asian Development Bank. It is to connect and strengthen the Chennai to Kanyakumari transmission line. It targets the CKIC or the Chennai- Kanyakumari Industrial Corridor. The remaining portion of the 653.5 million USD project fund is to be sourced from the state government.\n<strong>Statement 2 is incorrect:</strong>\nThe CKIC project will transmit power generated from both renewable and non-renewable sources. It will transfer power from region of excess to deficit regions. The project is to be implemented by the TANTRANSCO. The power from renewable energy sources like wind and solar units will be transferred predominantly from the southern portion of CKIC to the northern regions."
+}

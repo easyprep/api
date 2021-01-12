@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2b86cca7-8a99-4601-ab52-bf7a9da2b098",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Voyager-2 entering into the interstellar space in November, consider the following statements:<br />\n<ol>\n<li>The spacecraft has flown past all the 4 gas giant planets.</li>\n<li>It visited the Saturnian system before visiting the Jovian system.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nVoyager-2 is a NASA spacecraft launched in 1977 as a part of the Voyager program. It is the only spacecraft to have studied all 4 gas giant planets of the solar system: Jupiter, Saturn, Uranus and Neptune. Over its life, it has discovered 16 moons and some interesting space phenomena like Neptune’s Great Dark Spot.\n <strong>Statement 2 is incorrect:</strong>\nThe primary mission of Voyager-2 to use a single spacecraft to study all the outer planets was conceptualised based the alignment of these planets that occur periodically. When this occurred in 1970-80, the spacecraft was used to study them sequentially- Jupiter (Jovian system), Saturn (Saturnian system), Uranus and Neptune."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d3235d27-8e4a-4f71-be86-0805d5d8cada",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the Farmitra app, consider the following statements:<br />\n<ol>\n<li>It was launched by the ICAR.</li>\n<li>It provides information about market price of various crops.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Farmitra app is a mobile application launched by Bajaj Alliance General Insurance in November. The app seeks to simply and solve the day to day problems faced by the farming community. It is currently implemented on a limited scale and is to be expanded in the future.\n<strong>Statement 2 is correct:</strong>\nThe app provides various information to the farmer ranging from weather forecasts to market prices of various crops. It will also disseminate news related to agricultural development. It will resolve day to day needs and specific needs of farmers in 6 states at present."
+}

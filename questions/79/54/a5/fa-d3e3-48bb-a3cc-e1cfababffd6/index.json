@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7954a5fa-d3e3-48bb-a3cc-e1cfababffd6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of scientists highlighting the need for a coherent policy to tackle the issue of reactive nitrogen, consider the following statements:<br />\n<ol>\n<li>Molecular nitrogen or N<sub>2</sub> is a type of reactive nitrogen.</li>\n<li>Reactive nitrogen can cause eutrophication.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and  2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMolecular nitrogen is not a type of reactive nitrogen. Though it forms a major part of the atmospheric air mix, it is unavailable to the plants because of the strong bond between the two nitrogen atoms. Nitrogen fixation process converts it into reactive nitrogen.\n<strong>Statement 2 is correct:</strong>\nReactive nitrogen, in excess, can lead to eutrophication. Eutrophication is a process by which a water body becomes concentrated with nutrients and lead to an algal bloom. This depletes the oxygen content in the water and suffocates the aquatic life forms."
+}

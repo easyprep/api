@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:10.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "980da8a9-65fb-45ee-905e-52f0beae97e8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the discussions surrounding the 2021 census, consider the following statements:\n<ol>\n<li>The 2021 census exercise will not involve collection of caste data.</li>\n<li>The census will collect data about gender breakup of households.</li>\n<li>The 2021 census data will be collected via mobile app.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "1 and 2",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nThe 2011 census exercise saw the emergence of about 40 lakh caste names for tabulation. The enormous quantum of the data proved to be hard to handle due to lack of standardisation. Hence for the 2021 exercise, the caste wise data collection is to be left out. The census would only collect caste data of SC and ST sections.\n<strong>Statement 2 </strong>is incorrect:\nThe 2021 census will not involve the collection of information about gender breakup. This is the number of male and female members in a household. Though the data was collected in the 2011 census, it wasn’t used for the final data compilation. Also, the 2021 census is to include the listing of a third gender.\n<strong>Statement 3 </strong>is correct:\nThe 2011 census process was paper based. The 2021 census will be conducted by use of mobile application. This will enable faster collation and speedier publishing of the results. In case of villages and remote area without internet connection, the census will be taken by the paper method."
+}

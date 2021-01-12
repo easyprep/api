@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "55c6a20d-4a71-4569-a442-a15d4b475fd2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent study highlighting the effects of the chemical PFAS used in packaging industry, consider the following statements:<br />\n<ol>\n<li>PFAS belongs to the ‘forever chemicals’ category of compounds.</li>\n<li>PFAS accumulates in the blood.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPFAS or per- and polyfluoroalkyl substances belong to a category of compounds called ‘forever chemicals’. Most of the chemicals used in food industry pass out of the system. However, the forever chemicals accumulate in the body and maybe retained for many years.\n <strong>Statement 2 is correct:</strong>\nThe recent study published in Environmental Health Perspectives journal, showed that the blood of people who consumed fast food showed PFAS. The compound was found in the blood samples of about 70% of the people surveyed. The compounds are used in the food packaging material.\n&nbsp;"
+}

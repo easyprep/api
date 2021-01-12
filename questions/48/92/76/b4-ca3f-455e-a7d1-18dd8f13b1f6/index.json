@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "489276b4-ca3f-455e-a7d1-18dd8f13b1f6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "WhatsApp tried to sue NSO Group over the issue of ‘Pegasus’ recently. In this context, consider the following statements:<br />\n<ol>\n<li>Pegasus is a spyware.</li>\n<li>It enables the hacking of phones only when the user attends calls through WhatsApp.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPegasus is a spyware that was developed by Israeli technology firm NSO Group. It has been in news over its use to target hundreds of people around the world. Most of the victims were journalists, activists and lawyers. WhatsApp took NSO Group to US court over the intrusion into its product.\n<strong>Statement 2 is incorrect:</strong>\nPegasus can enable the hackers to take control of the phone or access it simply by sending a code via WhatsApp Call feature. The phone’s user need not even attend the call for the device to get hacked. The spyware enables the control of the device’s camera and microphones."
+}

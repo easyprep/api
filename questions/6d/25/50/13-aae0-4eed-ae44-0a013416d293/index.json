@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6d255013-aae0-4eed-ae44-0a013416d293",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In October, the adoption of the Triple Drug Therapy was announced. In this context, consider the following statements:<br />\n<ol>\n<li>Albendazole is to be one of the 3 drugs.</li>\n<li>Karnataka is one of the high burden states where the regime is to be implemented.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Triple Drug Therapy was announced in October for adoption in November. It is targeted against the neglected tropical disease, lymphatic filariasis. The 3 components of the therapy are albendazole, invermectin and diethylcarbamazine citrate. Albendazole is one of the anti-filarial drug that India adopted in context with the Global Program to Eliminate Lymphatic Filariasis.\n<strong>Statement 2 is correct:</strong>\nKarnataka is one of the high burden states (of lymphatic filariasis). Other high burden states are Bihar, Uttar Pradesh, Gujarat and Maharashtra. This mass drug administration program will be implemented in 10 states and union territories in November. It is expected to benefit about 106 million people."
+}

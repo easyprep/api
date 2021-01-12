@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "449a04d1-6d52-45f3-a8c8-8208166f152f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Modern Coach Factory’s use of ‘Sona 1.5’, consider the following statements:<br />\n<ol>\n<li>It is a humanoid robot.</li>\n<li>It cannot function in the dark.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Sona 1.5 is a humanoid robot that was developed indigenously. It was developed by Club First Technology in Jaipur. The MCF is to use it for transporting documents. It can be operated using WiFi connection either from a smartphone or a laptop.\n<strong>Statement 2 is incorrect:</strong>\nIt can function even in the dark. It is the world’s first robot to human like spine technology and hence is capable of balancing and functioning upright. It is also capable of going to the charging docket autonomously when the battery runs low."
+}

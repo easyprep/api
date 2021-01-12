@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d2bcfaeb-d691-4581-a756-51fd1845e49b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In October, AirCarbon Pte launched a carbon trading centre. In this context, consider the following statements:<br />\n<ol>\n<li>It is to be backed by blockchain technology.</li>\n<li>It is to operate in the aviation sector.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nThe carbon trading centre launched by AirCarbon Pte is backed by blockchain technology. This is the first of its kind. It is based off of Singapore. The technology is known for its use of ‘decentralised consensus’ mechanism to ensure transparency and accessibility.\n<strong>Statement 2 is correct:</strong>\nThe trading centre is for the aviation sector apart from other corporate players. The airlines can trade tokens that are backed by ‘carbon offset credits’. These credits are those approved by the ICAO or the International Civil Aviation Organisation."
+}

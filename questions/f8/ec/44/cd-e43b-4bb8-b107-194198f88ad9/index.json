@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f8ec44cd-e43b-4bb8-b107-194198f88ad9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The ETVAX has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It works against E. coli bacteria.</li>\n<li>It is an intra-muscular injection.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe ETVAX has been in news as a potential candidate for vaccination against diarrhoea. It works against Escherichia coli bacteria- the most common causative bacteria of diarrhoeal diseases. It is being tested in Bangladesh. It was developed by the University of Gothenburg, Sweden.\n<strong>Statement 2 is incorrect:</strong>\nThe ETVAX was developed as an oral vaccine. In its tests among Bangladeshi subjects, the vaccine led to 80% to 100% of the 2 to 5 years age group responding with expression of immunity. Among the 6 to 11 months age group, the success was 50% to 80%."
+}

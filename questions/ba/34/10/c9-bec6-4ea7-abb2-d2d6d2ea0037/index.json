@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:09.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ba3410c9-bec6-4ea7-abb2-d2d6d2ea0037",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the closure notices issued to more than 50 healthcare centres in Delhi for non-compliance with the Bio-Medical Waste Rules, consider the following statements:\n<ol>\n<li>The responsibility of pre-treatment falls on the common treatment facility.</li>\n<li>The BMW rules call for phasing out of chlorinated bags.</li>\n<li>The rules call for use of bar coding and GPS for waste handling in treatment facilities.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "1 and 3",
+  "option3": "1 and 2",
+  "option4": "2 and 3",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong> Statement 1 </strong>is incorrect:\nThe rules say that pre-treatment of the BMW is to be done by the healthcare facility where it originates. The microbiological and laboratory wastes are to be segregated and sterilised by procedures recommended by WHO and National Aids Control Organisation/ NACO. This pre-treatment is crucial to prevent health hazards to the workers at the treatment facilities.\n<strong>Statement 2 </strong>is correct:\nThe 2016 rules, calls for the phasing out of chlorinated bags for disposal of bio medical wastes by the March of 2019. However, the bags’ use as blood bags will be permitted. The rules call for colour coding of containers and bags depending upon the nature of waste for easy segregation, treatment and disposal. Eg: sharp needles, syringes, blades etc will be disposed in white impenetrable containers.\n<strong>Statement 3 </strong>is correct:\nThe rules calls for the use of bar-coding and GPS in the treatment and disposal facilities. This guideline given by CPCB asks handlers to establish a system for tracking the waste in the facilities. This will help monitor and prevent environmental and health hazards."
+}

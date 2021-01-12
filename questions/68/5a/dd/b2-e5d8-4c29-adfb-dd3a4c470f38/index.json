@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "685addb2-e5d8-4c29-adfb-dd3a4c470f38",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Alphabet’s AlphaGo software has been in news recently for its ability to perform in Go games. With reference to this, consider the following statements:<br />\n<ol>\n<li>Go is a Chinese Board Game.</li>\n<li>AlphaGo made use of machine learning to develop its functions.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAlphaGo is the only artificial intelligence to beat a top level professional Go player. Go is a Chinese Board Game involving two player. The software was in news when the human opponent, Lee Se-Dol resigned over his defeat. He is the only Go Master to have won a game against the software.\n <strong>Statement 2 is correct:</strong>\nAlphaGo is a software developed by DeepMind Technologies, which was later acquired by Alphabet. The software made use of machine learning to acquire its function. Its artificial neural network made use of past knowledge to determine its moves in a game."
+}

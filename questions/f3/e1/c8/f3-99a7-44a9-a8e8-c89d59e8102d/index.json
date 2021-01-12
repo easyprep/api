@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f3e1c8f3-99a7-44a9-a8e8-c89d59e8102d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of recent studies linking the malfunction of ‘PIGBOS’ to major diseases like cancer, consider the following statements:<br />\n<ol>\n<li>PIGBOS is in the mitochondria.</li>\n<li>PIGBOS increases stress in the cell.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPIGBOS is a microprotein. It is found on the mitochondria, which is a cellular organelle. Like normal proteins, microproteins are also made of amino acids but fewer units make them up. While proteins take up 300 or so amino acids, microproteins are made up of only 100 amino acid units.\n<strong>Statement 2 is incorrect:</strong>\nPIGBOS is known to mitigate the stress in the cell. It interacts with an organelle called endoplasmic reticulum and regulated stress factors of that organelle. In the absence of PIGBOS, the organelle produced defective proteins which eventually lead to cellular self-destruction."
+}

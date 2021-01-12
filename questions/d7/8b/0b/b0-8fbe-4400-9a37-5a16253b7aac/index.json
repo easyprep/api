@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d78b0bb0-8fbe-4400-9a37-5a16253b7aac",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent observations about J1808 using the NICER telescope, consider the following statements:<br />\n<ol>\n<li>It is located in Mauna Kea.</li>\n<li>It is able to detect X-rays.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe NICER or Neutron star Interior Composition Explorer telescope is onboard the International Space Station. It was launched in 2017 by NASA as a part of the NASA Explorers Program. The telescope was launched using SpaceX Falcon 9 Full Thrust rocket.\n<strong>Statement 2 is correct:        </strong>\nThe NICER has several scientific instruments, the most important of which is the XTI or X-ray Timing Instrument. The XTI has over 50 detectors that can detect the X-ray photons, record their energies and also give their time of arrival."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "310b20ec-09f6-4cf3-ad5e-60ccc01846f0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The ‘Situation Analysis of Pneumonia in India’ report was recently published. With reference to this, consider the following statements:<br />\n<ol>\n<li>Childhood pneumonia is linked to high household air pollution.</li>\n<li>Breastfeeding practice has an impact on the prevalence of acute respiratory infections/ ARI.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe report was published by the NGO, Save the Children. It reported household and indoor air pollution as the major risk factor for respiratory illnesses like childhood pneumonia. It reported that the shift to LPG has lowered the probability of acute respiratory infections by 2%.   \n<strong>Statement 2 is correct:        </strong>\nThe report highlighted the link between improper breastfeeding practice and incidence of ARI. It reported that the prevalence of ARI among children who were breastfed one hour later after birth was higher by 4%. Among children who were breastfed for less than 6 months, the incidence was 2.4% higher."
+}

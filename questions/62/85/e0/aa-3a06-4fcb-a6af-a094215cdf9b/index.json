@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6285e0aa-3a06-4fcb-a6af-a094215cdf9b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The concept of ‘advancing phenology’ among butterflies and moths was highlighted in a recent study. In this context, consider the following statements:<br />\n<ol>\n<li>An organism is said to have advanced its phenology if its lifecycle events occur earlier than usual.</li>\n<li>Temperature affects phenology.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPhenology is the study of timing of natural events. It studies the periodic lifecycle events that are influenced by various factors. In recent years, it has been found that many moths and butterflies are advancing their phenology, which means that their lifecycle events occur earlier than usual.\n<strong>Statement 2 is correct:</strong>\nTemperature is one of the factors that affect phenology. Organisms undergo various lifecycle events, like larval transformation, pupation, etc. in case of butterflies, in specific temperature ranges. Due to climate change, these temperature windows occur earlier than usual. Hence the phenology is advanced."
+}

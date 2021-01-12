@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:09.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7933f12c-0fd7-401c-a1fd-3c114ceb0ee6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The CAG submitted the report of the first ever audit of the GST system in India. Which of the following statements are correct?\n<ol>\n<li>Invoice matching system in GST ensures accurate input tax credit (ITC) transfer.</li>\n<li>GST is a destination based taxation system, wherein the goods and services are taxed at the place of origin.</li>\n<li>Sahaj and Sugam formats of filing were aimed at reducing compliance burden.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "2 and 3",
+  "option2": "3 only",
+  "option3": "1 and 2",
+  "option4": "1 and 3",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nThe CAG report says that the Invoice Matching System, the keystone of GST, is yet to be implemented. This system matches the filings of the sellers about the outward supply with the buyers’ filings of inward supplies. Certain procurements are eligible for ITC/ input tax credit from the state. This credit can be transferred to the procurer only if the invoices match.\n<strong>Statement 2 </strong>is incorrect:\nThe GST system taxes the goods and services at the place of consumption, not origin. The states, where they are consumed, have the right to collect the tax. Hence “Place of Supply” is a crucial concept in GST. The CAG report says that in 2017-18, instead of adopting this approach, the revenues were collected as per the older finance commission formula.\n<strong>Statement 3</strong> is correct:\nSahaj and Sugam were introduced by the finance ministry in 2011. These are simplified income tax return forms aimed at reducing tax compliance burdens, especially among the smaller players in the economy. Sahaj is the form for salaried people. Sugam is the form for small business people and professionals who are under presumptive taxation."
+}

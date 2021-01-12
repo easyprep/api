@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3093b572-62c9-4885-8fc4-04c27e697821",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Khadi getting a separate HS code, consider the following statements about the Harmonised System for commodities trade:<br />\n<ol>\n<li>HS was developed by the WTO.</li>\n<li>HS code is not applicable to controlled goods.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIn November, Khadi products were given a unique and separate HS code. The Harmonised System code or Harmonized Commodity Description and Coding System was developed by World Customs Organisation in 1988. The WCO is an independent inter-governmental body composed of more than 200 members.\n<strong>Statement 2 is incorrect:</strong>\nThe HS code is composed of 6 digits. It is applicable to a wide range of products ranging from naturally sourced plant and animal products to industrial goods involving high degree processing. Controlled goods like narcotics, chemical weapons, goods in wildlife trade are also classified by the system."
+}

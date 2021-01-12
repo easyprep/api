@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e5da6820-6520-4d58-96fa-40394e99e24d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent Lancet study about prevalence of anaemia among men, consider the following statements:<br />\n<ol>\n<li>The prevalence of anaemia among men is equivalent to that among women.</li>\n<li>The highest prevalence of anaemia among men is in Uttar Pradesh.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Lancet study studied the prevalence of anaemia among men in all the states and union territories in India. It found that the prevalence of anaemia among men is lesser than among men but is still significant. The average prevalence among men was found to be about 23%.\n <strong>Statement 2 is incorrect:</strong>\nThe study found that the highest prevalence of anaemia among men is in Bihar. Among men aged between 15 to 54 years, the state recorded a prevalence of 32.9%. Other high prevalence states are West Bengal, Jharkhand, Meghalaya and Odisha."
+}

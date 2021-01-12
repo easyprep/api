@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2777a9e3-6573-472f-a27c-d9292f25975f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the Kishori Health Card scheme, consider the following statements:<br />\n<ol>\n<li>It targets pregnant women. </li>\n<li>It involves collection of health data at Anganwadi centres.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Kishori Health Card is an initiative under the Kishori Shakti Yojana of the ministry of women and child development. It targets adolescent girls across the country. It includes promotion of schooling and skill development apart from its focus on nutritional and health development.\n<strong>Statement 2 is correct:</strong>\nThe health data of the girls are collected at Anganwadi centres and stored in Kishori Health Cards. The data collected includes height, weight, body mass index/ BMI and also the services delivered to the individual under this scheme."
+}

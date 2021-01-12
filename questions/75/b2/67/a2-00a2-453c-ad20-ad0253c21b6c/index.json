@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "75b267a2-00a2-453c-ad20-ad0253c21b6c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the upcoming MOSAiC expedition, consider the following statements:<br />\n<ol>\n<li>It is the largest ever expedition to the Antarctic.</li>\n<li>The research vessel Polarstern is capable of operation in both the Arctic and Antarctic regions.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe MOSAic expedition is a voyage to the Arctic region. This is to be the largest ever expedition to the Arctic in the North Pole. MOSAiC stands for Multidisciplinary drifting Observatory for the Study of Arctic Climate. The expedition involves 300 scientists from across the world, including India.\n<strong>Statement 2 is correct:</strong>\nThe expedition is to be via the German icebreaker Polarstern. The research vessel is capable of operating in both the Arctic and Antarctic regions. The vessel is anchored on an ice sheet in Central Arctic. It was first commissioned in 1982."
+}

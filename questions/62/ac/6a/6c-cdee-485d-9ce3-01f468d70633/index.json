@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "62ac6a6c-cdee-485d-9ce3-01f468d70633",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The upcoming MOSAiC mission is to give new insights into the polar climate. In this context, consider the following statements:<br />\n<ol>\n<li>The mission will study the warming effects during Polar Winter.</li>\n<li>The MOSAiC is a drift expedition.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe MOSAiC is an international expedition that seeks to gain insights into the Polar Climate phenomena. This is a year-long mission and will study the effects during Polar Winter during which time, the researchers will not see the sun for several months.\n <strong>Statement 2 is correct:</strong>\nThe MOSAiC expedition is to be a drift expedition. The first ever drift expedition was by Fridtjof Nansen, about 126 years ago. The RV Polarstern of the MOSAiC expedition will drift across the Arctic sea ice in the Central Arctic region between 2019 and 2020."
+}

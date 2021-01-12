@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ff59c18a-280f-4c88-9308-f1df26c1c672",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The MAVEN mission has been in the news recently. With reference to this, consider the following statements:<br />\n<ol>\n<li>It is a mission to Venus.</li>\n<li>It is a project of NASA.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMAVEN is a space mission to Mars. It stands for Mars Atmosphere and Volatile Evolution mission. It was launched in 2013 to study the Martian atmosphere. It entered the orbit of Mars in 2014. It was in the news recently in context with the mapping of the Red Planet’s atmosphere.\n<strong>Statement 2 is correct:</strong>\nThe MAVEN mission was launched by NASA. Its main objective is to determine how the Martian atmosphere had deteriorated over time. The space probe recently mapped the ‘Orthographic Waves’ in the Martian atmosphere. Its global wind circulation pattern showed ripple effects."
+}

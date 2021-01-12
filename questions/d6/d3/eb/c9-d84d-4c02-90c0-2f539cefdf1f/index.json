@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d6d3ebc9-d84d-4c02-90c0-2f539cefdf1f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently developed kit for tackling Japanese Encephalitis Virus/ JEV, consider the following statements:<br />\n<ol>\n<li>The virus is transmitted by mosquitoes.</li>\n<li>It affects the brain.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "On\nOnly 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Japanese Encephalitis Virus is mainly transmitted by mosquitoes. It causes the Japanese Encephalitis disease. The Culex type mosquitoes are specifically responsible for its transmission. Pigs and birds can act as reservoirs for the virus. The virus occurs in West Pacific and South-east Asian regions.\n<strong>Statement 2 is correct:</strong>\nJapanese Encephalitis tends to be without much signs and symptoms. However, the infection can cause the swelling of brain. This leads to symptoms like seizures, confusions, headaches, etc. It has no specific treatment. The treatment of the disease is only supportive."
+}

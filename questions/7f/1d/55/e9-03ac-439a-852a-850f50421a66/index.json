@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7f1d55e9-03ac-439a-852a-850f50421a66",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context of the recently launched CARTOSAT-3, consider the following statements about the ‘dogleg manoeuvre’ that was used:<br />\n<ol>\n<li>In this manoeuvre, the rocket is launched in a straight line.</li>\n<li>It is used to avoid flying over populated land areas.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe dogleg manoeuvre is a method of rocket launch wherein the rocket’s flight path is deviated from the original straight path. A powered turn which is guided during the ascending phase is used to achieve the desired deviation. This manoeuvre uses up more fuel than normal straight launches.\n <strong>Statement 2 is correct:</strong>\nThe dogleg manoeuvre is used to avoid the rocket’s flying over populated area. In case of CARTOSAT-3 launch, the straight path would have taken it over Sri Lanka as it was launched from Sriharikota. Hence the dogleg manoeuvre was used."
+}

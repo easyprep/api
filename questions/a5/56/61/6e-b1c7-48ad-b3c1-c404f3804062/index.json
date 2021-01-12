@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a556616e-b1c7-48ad-b3c1-c404f3804062",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The government is in talks to change the definition of MSME. In this context, consider the following statements:<br />\n<ol>\n<li>Most of the countries define MSME in term of the number of employees.</li>\n<li>The new definition is to be based on investment in machinery rather than annual turnover.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nMost of the countries in the world define MSME in terms of the number of employees. 92% of the institutions use this variable to define the sector. Other two major variables used to define the term, according to the World Bank, are annual sales and asset size.\n <strong>Statement 2 is incorrect:</strong>\nThe government is looking to alter the definition to be based on the annual turnover from the current criterion of investment in machinery and plant. The change in definition requires an amendment to the MSME Development Act. The change is expected to improve the sector’s ease of doing business and increase job creation."
+}

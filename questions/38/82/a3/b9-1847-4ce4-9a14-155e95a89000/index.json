@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3882a3b9-1847-4ce4-9a14-155e95a89000",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions on contract farming, consider the following statements:<br />\n<ol>\n<li>An intermediary is never involved in contract farming.</li>\n<li>Monopsony is one of the challenges facing contract farming.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nNot all forms of contract farming involve direct contact between the farmer and the buyer. In the intermediary model of contract farming, the buyer (eg: a large farm) subcontracts an intermediary to engage farmers to produce certain crops with specific quality requirements. This intermediary can be a farmer organisation, a collector, etc.\n<strong>Statement 2 is correct:        </strong>\nOne of the challenges facing contact farming is the issue of monopsony. In a monopsony, the sellers of a product are many but the buyer is usually a single entity. This can be a limit on how much price the farmers can get for their produce."
+}

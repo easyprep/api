@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "689d63a9-6839-494b-bf8f-03301d9a6107",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the advantages of Artificial Neural Networks has been discussed. In this context, consider the following statements:<br />\n<ol>\n<li>Artificial Neural Networks are based on biological neural networks.</li>\n<li>Deep learning models are based on ANN.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nArtificial Neural Networks or ANN are computing systems that are based on biological neural networks. Like their living counterpart, they also have neurons and synapses. The signals are in the form of numbers. They mostly perform function by supervised or unsupervised learning.\n<strong>Statement 2 is correct:</strong>\nDeep learning models are often based on ANN. They have large neural networks that are arranged in multiple layers. Each layer yields the input for the higher level layer. Finally a function is performed. Eg: creation of an image, decisions, judgement, a solution to a complex problem, etc."
+}

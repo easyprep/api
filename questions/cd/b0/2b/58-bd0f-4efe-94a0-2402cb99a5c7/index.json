@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "cdb02b58-bd0f-4efe-94a0-2402cb99a5c7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of discovery of <em>Pangio bhujia</em>, consider the following statements:<br />\n<ol>\n<li>It is a shark species.</li>\n<li>It has nasal barbels.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\n<em>Pangio bhujia</em> is a fish species that inhabits the subterranean aquifers. It is the first eel loach species to be discovered in such an environment. It was named so because of its resemblance to the shark species. The eel loaches are found in south and south-east Asia in fast flowing streams.\n<strong>Statement 2 is correct:</strong>\nThe species is different from the rest of the Genus’ members because of the presence of long nasal barbels. These are elongated projections located in the nasal region. They are devoid of dorsal and pelvic fin. They are 3cm long and pinkish in color."
+}

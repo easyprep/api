@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0fe2a8f9-194d-4734-8c89-31d83ab45421",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the release of the 10<sup>th</sup> Pneumonia and Diarrhoea Progress report, consider the following statements:<br />\n<ol>\n<li>It is published by WHO.</li>\n<li>Zinc supplementation is one of the parameters assessed by the report.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe 10<sup>th</sup> edition of the Pneumonia and Diarrhoea Progress Report was released by the International Vaccine Access Centre. It released the report in context with the World Pneumonia day on November 12<sup>th</sup>. It reported that one out of every four deaths among children under 5 years is due to pneumonia and diarrhoea.\n<strong>Statement 2 is correct:</strong>\nZinc supplementation is one of the parameters assessed by the IVAC in the report. India achieved 20% coverage in zinc supplementation. It is one of the 10 key interventions analysed by the report. Others include breast feeding, ORS, vaccination, etc."
+}

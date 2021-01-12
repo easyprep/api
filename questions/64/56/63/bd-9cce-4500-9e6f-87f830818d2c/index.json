@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "645663bd-9cce-4500-9e6f-87f830818d2c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "WHO recently highlighted India’s National Program for Control of Blindness. In this context, consider the following statements:<br />\n<ol>\n<li>The program has reached its target of 0.3% prevalence of blindness.</li>\n<li>The program is a part of only tertiary health care system.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe National Program for Control of Blindness is a centrally sponsored scheme which was launched in 1976. Its target is to reduce the prevalence of blindness from 1.4% to less than 0.3%. The current prevalence of blindness stands at 0.45%. The centre hopes to achieve the target by 2020.\n <strong>Statement 2 is incorrect:</strong>\nThe program involves the participation of Primary Healthcare Centres across the country. District Health Societies will aid in decentralised implementation of the program. Public awareness and prevention are major components of the program. The program also has provisions for mobile units called Multipurpose District Mobile Ophthalmic Units for transportation and screening purposes."
+}

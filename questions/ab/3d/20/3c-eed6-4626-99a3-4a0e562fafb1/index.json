@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ab3d203c-eed6-4626-99a3-4a0e562fafb1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to the recent observations made by the Parker space probe, consider the following statements:<br />\n<ol>\n<li>No other artificial object has reached as close as Parker to the sun</li>\n<li>The Parker probe was launched using gravity assist from Jupiter.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Parker Solar Probe of NASA holds the record for an artificial object achieving closest proximity to the sun. Previously, the record was held by Helios 2. The Parker probe was launched in 2018 from Cape Canaveral. The probe will be studying the corona, magnetic field and the dust surrounding the sun.\n<strong>Statement 2 is incorrect:</strong>\nThe Parker Solar Probe was launched using gravity assist from the planet Venus. Gravity assist is the process of using a planet’s gravitational field to sling shot the probe into its desired trajectory. It is a way to reduce expenses and fuel consumption."
+}

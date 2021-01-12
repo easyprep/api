@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "841e778c-4c70-4fa7-a324-c93318a9db02",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent action of the US government against Evil Corp, consider the following statements about Dridex:<br />\n<ol>\n<li>It is a malware.</li>\n<li>It is of Russian origin.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Dridex is a malware developed by Evil Corp, a cybercrime organisation. It is used for stealing bank credentials, financial assets, information etc. from companies across the world. The malware has caused the loss of millions of dollars to these companies.\n <strong>Statement 2 is correct:</strong>\nEvil Corp is a cybercrime organisation based in Russia. It is noted for stealing financial assets through rogue transactions from companies across the world, especially USA (which alone accounted for 70 million USD losses) and UK. India, Malaysia, France, UAE and Italy are other affected countries."
+}

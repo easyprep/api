@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1d780943-c059-4ce7-843c-4efdacd10334",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about cloud seeding, consider the following statements:<br />\n<ol>\n<li>Cloud seeding can be used only if there is enough pre-existing clouds</li>\n<li>Dry ice can be used as ‘seeds’.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nCloud seeding is a weather modification technology used to stimulate artificial rains. It can be used only if there is sufficient cloud cover in the atmosphere. The process involves spraying of ‘seeds’ which act as nuclei to stimulate condensation and eventually precipitation.\n<strong>Statement 2 is correct:</strong>\nDry ice is solid form of carbon dioxide. It is one of the seeds used as nuclei for cloud seeding. Other seed options include silver iodide, potassium iodide, liquid propane, etc. These can be introduced into the atmosphere by spraying from airplanes."
+}

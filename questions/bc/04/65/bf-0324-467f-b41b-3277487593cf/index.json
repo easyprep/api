@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "bc0465bf-0324-467f-b41b-3277487593cf",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent findings about semi-Dirac metals by IIT scientists, consider the following statements:<br />\n<ol>\n<li>These metals act as Dirac metals in certain direction and as normal metals in others.</li>\n<li>These metals are transparent to light of certain frequencies in all direction.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSemi-Dirac metals are category of metals that posses direction specific properties. In some directions, they behave as normal metals while in others, they behave as Dirac metals. Dirac metals differ from normal metals in the fact that they show linear dependence of energy on momentum.\n <strong>Statement 2 is incorrect:</strong>\nThe semi-Dirac metals are transparent to light of certain frequency and polarisation in certain directions only. In others, they are opaque to the same light. This is a consequence of their directional dependence of properties. Nanostructures of titanium dioxide and oxide of vanadium are some of the examples of semi-Dirac metals."
+}

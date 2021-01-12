@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:10.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "86cefbad-d842-49a4-8c78-4d269d577096",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In the context of the testing of India’s indigenous QRSAM, consider the following statements:\n<ol>\n<li>The Quick Reaction Surface to Air Missile was developed by DRDO.</li>\n<li>The Amogha missile is being developed by DRDO.</li>\n<li>The QRSAM is insusceptible to radar jamming by aircrafts.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "1 and 2",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nThe QRSAM was developed as a joint effort by the DRDO, Bharat Electronics Ltd and Bharat Dynamics Ltd. The missile was tested at the Integrated Test Range in Chandipur. Both BEL and BDL are PSUs. DRDO is the government’s military R&amp;D agency established in 1958. The successful functioning by the missile will cease the government’s efforts to acquire the same via imports.\n<strong>Statement 2 </strong>is incorrect:\nThe Amogha missile is a part of integrated missile development program. It is being developed by BDL. It has 2 versions- the land version and the IR (Infra-Red) version. It is for use from light combat helicopters and advanced light helicopters.\n<strong>Statement 3 </strong>is correct:\nThe QRSAM is an all-terrain missile and can be used during every weather. It is fuelled by solid propellant and is mounted on trucks. It has electronic features to counter jamming by aircrafts’ radars. It has a range of 25-30km."
+}

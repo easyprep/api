@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "04926c12-68d7-403e-96c2-7d7a4e0453bd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of recent observations of NASA with regards to J1808, consider the following statements:<br />\n<ol>\n<li>J1808 is found in the Sagittarius constellation.</li>\n<li>J1808 is a blackhole.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nJ1808 is located in the constellation Sagittarius. It is about 11,000 light years away from our solar system. Recently, it emitted an intense X-ray burst which was recorded by the NICER telescope of NASA. The energy released by the J1808 in 20 seconds was equivalent to sun’s energy release in 10 days.\n<strong>Statement 2 is incorrect:</strong>\nThe J1808 is a pulsar. It was discovered in 1996. It is a binary star system consisting of a neutron star. It emits X-rays with periodic variations in intensity. A neutron star is the collapsed core of a giant star. They are some of the smallest and densest of stars."
+}

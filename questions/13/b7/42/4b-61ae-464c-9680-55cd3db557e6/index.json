@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "13b7424b-61ae-464c-9680-55cd3db557e6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the IIT Kanpur project on cloud seeding being discussed, consider the following statements about its uses:<br />\n<ol>\n<li>Cloud seeding can be used to disperse fog.</li>\n<li>Varshadhari is a cloud seeding project of Madhya Pradesh.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nCloud seeding technology can be used to disperse of fog. It is regularly used in cold countries like Russia to help improve visibility in airports. It too involves spraying of seeds like silver iodide. It stimulates formation of ice crystals which make the cloud heavier and result in precipitation.\n<strong>Statement 2 is incorrect:</strong>\nVarshadhari project is a cloud seeding project of Karnataka government. It involves spraying of seeds made of sodium chloride, potassium chloride and silver iodide. The BQ-100 Beechcraft airplanes are used for seed introduction. Other states like Andhra Pradesh and Maharashtra has also attempted to utilise the technology."
+}

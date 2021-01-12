@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0fab0c3f-af22-4058-909c-73f0c96e976e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently conducted International Symposium on Lighting (iSOL), consider the following statements:<br />\n<ol>\n<li>iSOL was conducted by International Centre for Automotive Technology.</li>\n<li>The program is under the ministry of heavy industries and public enterprises.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe iSOL was conducted by the ICAT/ International Centre for Automotive Technology. It is an automotive testing centre that functions under NATRiP/ National Automotive Testing and R&amp;D Infrastructure Project. It also acts as a certification and research and development service provider.\n<strong>Statement 2 is correct:</strong>\niSOL was inaugurated by the heavy industries and public enterprises ministry in November. The program is aimed at bringing together international professionals involved in automotive lighting sector. Initiated in 2009, the iSOL is a global event in the automotive sector."
+}

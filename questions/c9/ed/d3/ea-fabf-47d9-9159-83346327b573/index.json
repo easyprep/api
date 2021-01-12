@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c9edd3ea-fabf-47d9-9159-83346327b573",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent launch of winter grade diesel, consider the following statements about ‘cloud point’:<br />\n<ol>\n<li>It is the point at which the fuel becomes completely solidified. </li>\n<li>The pour point is always below the cloud point.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe cloud point is the temperature at which a petroleum oil begins to develop cloudiness due to formation of wax crystals. It is caused due to low temperatures. It affects the fuel filters and starves the engine of fuel, thus affecting the function of machinery.\n<strong>Statement 2 is correct:</strong>\nThe pour point is the temperature at which the fuel becomes resistant to flow. The pour point is always below the cloud point as it requires a greater degree of solidification to resist flow. In cloud point, the fuel starts crystallising while at the pour point, it starts gelling."
+}

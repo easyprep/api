@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1f956acb-e5e2-453e-96e5-cec9a37d1e88",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In recent news, the three body problem has been discusses. In this context, consider the following statements:<br />\n<ol>\n<li>The three body problem was given by Newton.</li>\n<li>It involves gravitational forces from all three bodies.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe three body problem was given by Isaac Newton. He was unable to come up with an answer to predict and explain the system’s behaviour. Over the years, many scientists have tried to solve it. Recently, scientists have combined AI with neural networks to get closer to a solution.\n<strong>Statement 2 is correct:</strong>\nThe three body problem involves 3 objects orbiting one another. These bodies exert gravitational forces (an attractive force). Since it is a chaotic system, how these three objects move and are influenced by the others remain a complex question."
+}

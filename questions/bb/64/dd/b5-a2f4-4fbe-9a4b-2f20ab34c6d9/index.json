@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "bb64ddb5-a2f4-4fbe-9a4b-2f20ab34c6d9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent plans by the government to launch the GIMS platform, consider the following statements:<br />\n<ol>\n<li>It is a messaging platform.</li>\n<li>It was developed by Facebook.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe GIMS or Government Instant Messaging System is a platform for messaging. It is to be used by the state and central government units and departments for communication. It is being considered as a more secure alternative to conventional platforms like WhatsApp.\n<strong>Statement 2 is incorrect:</strong>\nThe GIMS is being developed by the National Informatics Centre. The Kerala unit of NIC is responsible for the design and development. It is being tested on a pilot basis in states like Odisha and also by the Indian Navy."
+}

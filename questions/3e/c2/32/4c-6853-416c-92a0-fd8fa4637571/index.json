@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3ec2324c-6853-416c-92a0-fd8fa4637571",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The 2019 Nobel Prize for chemistry was awarded for the development of lithium ion batteries. In this context, consider the following statements:<br />\n<ol>\n<li>Petroleum coke is used in the batteries.</li>\n<li>Lithium ion batteries are rechargeable.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nLithium ion batteries make use of petroleum coke as one of the electrodes. It was used in the first commercially usable Li battery in 1985. The petroleum coke is a carbon based material that can intercalate lithium. Li ion batteries also use cobalt oxide in the electrode.\n<strong>Statement 2 is correct:</strong>\nThe Li ion batteries are rechargeable. They are an environmentally friendly alternative to conventional batteries. They entered the market space in 1991 and have fuelled the development of wireless technology. They have also been contributing to the move away from a predominantly fossil fuel-based economy.\n&nbsp;"
+}

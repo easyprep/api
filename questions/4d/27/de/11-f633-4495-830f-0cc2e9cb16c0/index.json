@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4d27de11-f633-4495-830f-0cc2e9cb16c0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The ‘Future of Wind’ report predicted that wind energy is to become the largest energy source by 2050. In this context, consider the following statements:<br />\n<ol>\n<li>India has the highest wind capacity in the world.</li>\n<li>Onshore wind installation capacities is highest in Asia.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe report, ‘Future of Wind’ was published by IRENA or International Renewable Energy Agency in October. The report said that China has the highest wind capacity in the world. It has a cumulative wind capacity of over 180GW.  Of this 21GW was added in 2018.\n<strong>Statement 2 is correct:</strong>\nThe Asian region accounts for 50% of all onshore wind installation capacities in the world. This is a capacity of 2,600GW in this continent. Also, it accounts for 60% of all the offshore wind energy capacities in the world."
+}

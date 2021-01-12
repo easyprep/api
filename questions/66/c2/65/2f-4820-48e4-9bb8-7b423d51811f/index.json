@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "66c2652f-4820-48e4-9bb8-7b423d51811f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the use of ‘per incuriam’ device in the judiciary, consider the following statements:<br />\n<ol>\n<li>This doctrine is subject to the provisions of article 141.</li>\n<li>It is in relaxation of the ‘stare decisis’ doctrine.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe principle of per incuriam is an exception to the article 141 of the Indian Constitution. The article 141 provides that the law declared by the Supreme Court is binding on all the courts within the Indian Territory. However, if the judgement was issued without reference to an earlier relevant judgement or a statutory provision, this does not apply.\n<strong>Statement 2 is correct:</strong>\nThe per incuriam principle is in relaxation of the stare decisis doctrine that was developed by English Courts. The stare decisis doctrine means that the courts refer to past judgments and cases called precedents to make decisions. A judgement declared per incuriam will not become a precedent."
+}

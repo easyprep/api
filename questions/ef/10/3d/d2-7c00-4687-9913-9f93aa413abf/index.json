@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ef103dd2-7c00-4687-9913-9f93aa413abf",
+  "labels": "current-affairs,2019-12-24",
+  "question": "WHO reported that more than a quarter of the world population has impaired vision. In this context, consider the following statements:<br />\n<ol>\n<li>Myopia affects the ability to see objects that are close-by while presbyopia affects the ability to see at a distance.</li>\n<li>Presbyopia causes more economic loss annually than myopia.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and  2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMyopia is an impairment of vision that reduces a person’s ability to see objects at a distance. Presbyopia is also a visual impairment but it affects a persons’ ability to see near-by objects. Presbyopia is an age-related impairment of the eyes.\n<strong>Statement 2 is incorrect:</strong>\nMyopia causes more economic loss across the world annually than untreated presbyopia. Visual impairments affect the quality of life of people, especially with the increase in proportion of the ageing population. Myopia causes an annual global loss of 244 billion USD while presbyopia accounts for 25.4 billion USD."
+}

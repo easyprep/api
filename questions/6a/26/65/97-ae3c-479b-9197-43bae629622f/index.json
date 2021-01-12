@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6a266597-ae3c-479b-9197-43bae629622f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently published Lancet Countdown on Health and Climate Change, consider the following statements:<br />\n<ol>\n<li>The report said that the yield of paddy crop has increased while that of maize crop has decreased.</li>\n<li>Increasing global temperature increases the risk of Vibrio infection.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Lancet study reported that the yield of both rice and maize crop has been decreasing over the years. The crops have registered a 2% decline in productivity since 1960s. This is expected to contribute to food shortage and child malnutrition.\n <strong>Statement 2 is correct:</strong>\nThe Lancet report highlighted the increase in incidence of infectious diseases. The climate change leading to higher global temperature will increase the risk of Vibrio infection, especially among children. Over the last 3 decades, the Vibrio bacterial growth has doubled.\n&nbsp;"
+}

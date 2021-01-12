@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "860845ed-1da5-47ec-9057-0994b57cbd7b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent surge in Measles cases around the world, consider the following statements:<br />\n<ol>\n<li>According to WHO, UK is a ‘measles free’ country.</li>\n<li>Samoa was declared ‘measles free’ recently.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nUK was earlier a ‘measles free’ country according to WHO. However, the world health body stripped the European nation of its title in 2019. Apart from UK, Greece, Albania and Czech Republic also lost their ‘measles free’ status. This was based on 2018 data.\n <strong>Statement 2 is incorrect:</strong>\nSamoa is one of the Pacific Islands reeling under measles attack. In November, the island nation declared health emergency due to a chain of measles death and shut down schools. The number of cases has risen three fold from 2018 according to WHO."
+}

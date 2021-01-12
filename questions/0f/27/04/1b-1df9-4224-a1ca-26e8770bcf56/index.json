@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0f27041b-1df9-4224-a1ca-26e8770bcf56",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The White Island has been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is located in Papua New Guinea.</li>\n<li>It is a stratovolcano.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe White Island is a volcano located in New Zealand. It is located about 50km away from the North Island in the Bay Plenty. It has been in the news for its recent eruption. It resulted in the death of 5 people and several more injured.\n<strong>Statement 2 is correct:</strong>\nThe White Island Volcano is a stratovolcano. It is built up into a conical shape by repeated eruptions over the years. it is the most active volcano in the country. It is noted for its near continuous emission of volcanic fumes."
+}

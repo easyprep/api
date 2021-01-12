@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7eb5d2f2-1a70-47cb-854e-d050c90c6874",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of identification of the gene that increases photosynthesis, ALC, consider the following statements:<br />\n<ol>\n<li>Rubisco enzyme is found only in bacteria.</li>\n<li>ALC helps the bacteria to detect carbon dioxide.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nRubisco is an enzyme common to both bacteria and plant that are photosynthetic. It plays an important role in carbon dioxide fixation in plants. This is the process by which the plant captures the gas and converts it into energy-rich molecules.\n<strong>Statement 2 is correct:</strong>\nThe ALC or Activase-like Cyanobacterial protein was identified by the researchers as a key gene in boosting the photosynthesis in bacteria. They were found to help the organisms in detecting the presence of carbon dioxide. The gene was found in many cyanobacteria or blue green algae."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "75219400-7def-4b79-8b48-fc302423aea1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "NASA recently announced the MARS 2020 mission. In this context, consider the following statements:<br />\n<ol>\n<li>It is to land in Jezero Crater.</li>\n<li>It is an astrobiological mission.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe 2020 Mars mission of NASA is to land on an area called the Jezero Crater.it is located on the Red Planet’s northern hemisphere. It is reported to have been once flooded with water. The term ‘Jezero’ means ‘lake’ in Slavic language.\n<strong>Statement 2 is correct:</strong>\nThe 2020 Mars mission is an astro-biological mission. This means that it will look for evidences of life on the planet. It is to look for bio- signatures in the samples – indicative of past life on the planet. The spacecraft is also to involve a helicopter drone."
+}

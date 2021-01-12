@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1d6941f5-bc9d-4fa2-bb3e-b9f784b92616",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about Sowa Rigpa, consider the following statements:<br />\n<ol>\n<li>It is a grain crop cultivated system in the north-east.</li>\n<li>The Gyud-Zi is the fundamental textbook of Sowa Rigpa.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nSowa Rigpa literally means the science of healing. It is an ancient system of medicine that is prevalent in areas of north-east India, Tibet, China and even parts of erstwhile Soviet Union. It has very similar features as Ayurvedic system.\n<strong>Statement 2 is correct:</strong>\nThe Gyud Zi is the fundamental textbook of Sowa Rigpa. It means the ‘four tantras’. It was taken from India and translated in Tibet, where the local knowledge about healing was also added in. Chinese and Persian traditional knowledge was also included in this book."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "64469bb9-3e6f-457c-bcb3-a97f69ae0e26",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the ICON satellite, consider the following statements about the related satellite Gold:<br />\n<ol>\n<li>It is a part of the Explorer Program.</li>\n<li>The mission is targeted at the exosphere.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe GOLD or Global-scale Observation of the Limb and Disc mission is a part of the Explorer’s Program of NASA. It was launched in 2018. The mission was announced along with the recently launched ICON mission in 2013. The Explorer’s Program covers the fields of astrophysics, geophysics and heliophysics.\n<strong>Statement 2 is incorrect:</strong>\nThe GOLD mission seeks to study the thermosphere and the ionosphere of Earth’s atmosphere. Both the layers are located above the mesospheric layer. These layers are beneath the exospheric layer. The same hemisphere is observed by the satellite as it is in a geostationary orbit."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5d785c03-edaa-43bc-9aea-0666db89bd15",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the concept of ‘contempt of court’, consider the following statements:<br />\n<ol>\n<li>Publication of scandalous material about the court constitutes civil contempt.</li>\n<li>Willful disobedience to a court’s judgement constitutes a criminal contempt.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe ‘contempt of court’ provision is to safeguard the authority of the judiciary. In 1971, the Contempt of Court Act was passed and it divided the concept into criminal and civil contempt. Publication of material that scandalises or lowers the authority of judiciary counts as criminal contempt.\n<strong>Statement 2 is incorrect:</strong>\nWilful disobedience of a court’s judgement, writ, order, direction or other process counts as civil contempt of the court. A wilful breach of an undertaking given to the court also counts as civil contempt. However fair criticism of the court is permitted."
+}

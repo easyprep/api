@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f89c9b11-405e-40eb-98c1-48c60fc3bb98",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent studies targeting Enterotoxigenic Escherichia coli, consider the following statements:<br />\n<ol>\n<li>It causes bloody diarrhoea. </li>\n<li>Enterotoxins attack the intestine.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nEnterotoxigenic Escherichia coli or ETEC is a type of bacteria that is considered one of the leading causes of diarrhoea across the world. It causes watery diarrhoea but without loss of blood. It also causes dehydration, abdominal cramps, fever, etc. especially among children.\n<strong>Statement 2 is correct:</strong>\nThe ETEC produces toxins called enterotoxins. These toxins target the tissues of the intestine. It produces two types of enterotoxins: one is heat labile while the other is heat stable. Two major manifestations of enterotoxin attack are food poisoning and traveller’s diarrhoea."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "db6f80f9-c0a0-4fb3-a5eb-d69f441dfe3f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the effect of Indian Ocean Dipole on Australia’s high temperatures, consider the following statements:<br />\n<ol>\n<li>A positive IOD fuels droughts in Australia.</li>\n<li>A negative IOD phase, the waters off the north-western part of Australia is cooler.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIndian Ocean Dipole is a phenomenon where the differential temperatures in the eastern and western parts of the Indian Ocean influences the weather in the adjoining lands. A positive IOD leads to higher temperatures in Australia, leading to its bush fires.\n<strong>Statement 2 is incorrect:</strong>\nDuring the negative phase of the IOD, the western part of the Indian Ocean is cooler than the eastern part. This makes the water off the north-western parts of Australia warmer. This causes the winds to pick up moisture from the sea and bring it down on Australia as rainfall."
+}

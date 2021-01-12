@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "abb03ac2-b6b0-43e3-8fbe-efb1b887b14e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of CARTOSAT-3 in November, consider the following statements:<br />\n<ol>\n<li>It is to be used exclusively by the armed forces.</li>\n<li>It is to function from the geosynchronous orbit.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIt is to be used for mapping purposes. It is reported to be the satellite with the highest resolution in India. It has a ground resolution of 25cm and its optical images are to aid in infrastructure planning, utility management, land use regulation, etc.\n<strong>Statement 2 is incorrect:</strong>\nThe CARTOSAT-3 is to function from the sun synchronous orbit. Also known as the heliosynchronous orbit, its orientation is almost like that of a polar orbit. It is referred to as a quasi-polar orbit. It maintains a fixed relation with the sun."
+}

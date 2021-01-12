@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "70476d74-12d9-4b20-9f90-0326b488565d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent Lancet report on premature deaths in India, consider the following statements:<br />\n<ol>\n<li>Suicide is a major cause of premature deaths in the southern states than in the north.</li>\n<li>Alcohol related premature deaths are higher in the western states.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Lancet Global Heath study reported that suicide as a cause of premature death was higher in the southern states of India than in the north. These deaths accounted for 15% of the National YLL/ years of life lost.\n<strong>Statement 2 is incorrect:</strong>\nThe report showed that premature deaths due to alcohol was higher in north-eastern states. Bihar, Karnataka and Maharashtra also showed high prevalence. These states account for 18% of national YLL. Liver related premature deaths also followed similar patterns. The western states show relatively lower prevalence of this issue."
+}

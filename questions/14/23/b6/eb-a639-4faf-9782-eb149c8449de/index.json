@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1423b6eb-a639-4faf-9782-eb149c8449de",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The RailWire project became active in 5,500 railway stations in December. In this context, consider the following statements:<br />\n<ol>\n<li>It is a WiFi network.</li>\n<li>Even halt stations are covered by this network.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nRailWire is a WiFi network project being implemented by the Indian Railways. It provides free public access to WiFi. The internet can be accessed using smartphones at the railway stations. Entering one’s mobile phone number into the webpage will generate an OTP which can be used to access the internet.\n<strong>Statement 2 is incorrect:</strong>\nThe RailWire network covers 5,500 stations across the country except halt stations. The project is being implemented by RailTel which is a public sector unit under the ministry of railways. RailTel holds the title of a miniratna. The services of Google, Tata Trusts, etc. were also roped in for implementation in certain parts."
+}

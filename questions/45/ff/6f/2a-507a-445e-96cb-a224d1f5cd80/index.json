@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "45ff6f2a-507a-445e-96cb-a224d1f5cd80",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The ‘Dorsa Geikie’ has been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is located on the planet Jupiter.</li>\n<li>It was created by volcanic activity.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Dorsa Geikie is a structure on the moon. It was news when Chandrayaan-II sent 3 dimensional images of it back to earth. The spacecraft’s TMC-2 or Terrain Mapping Camera-2 was responsible for the image. Dorsa Geikie is located in the Sea of Fecundity on the lunar surface.\n<strong>Statement 2 is correct:        </strong>\nThe Dorsa Geikie is a wrinkle ridge. It is named after Scottish geologist Geikie and is 220km long. Wrinkle ridges are formed by cooling and contraction of basaltic lava. Wrinkle ridges are named after people by the IAU. Eg: Dorsa Burnet."
+}

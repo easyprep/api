@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5f8f056f-c42b-4b49-8b4c-f32586a606f3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent studies on EV-D68 virus, consider the following statements:<br />\n<ol>\n<li>It is an enterovirus.</li>\n<li>It exclusively causes nervous disorders.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe EV-D68 virus belongs to a class of viruses known as the Enteroviruses. These are single-stranded RNA based viruses. They cause diseases among mammals, including humans. They are called so because they are transmitted through the intestine. ‘Entero’ means in relation to intestine.\n<strong>Statement 2 is incorrect:    </strong>\nThe EV-D68 exclusively causes respiratory diseases. The virus is being considered as a potential candidate as the pathogen causing Acute Flaccid Myelitis. The symptoms of infection range from flu-like to polio-like conditions. It may even lead to respiratory failure."
+}

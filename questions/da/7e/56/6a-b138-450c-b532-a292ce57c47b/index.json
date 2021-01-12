@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "da7e566a-b138-450c-b532-a292ce57c47b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the swearing-in of the Tunisian President, consider the following statements:<br />\n<ol>\n<li>Tunisian President is the head of state and government.</li>\n<li>The Tunisian President is elected by direct elections.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Tunisian president is only the head of the state in Republic of Tunisia. It is a semi-presidential republic which means that the head of the government is the prime minister. It is also known as the dual executive system.\n <strong>Statement 2 is correct:</strong>\nThe president of Tunisia is elected by direct elections. The president holds office for a 5 year term. No person can serve as the president for more than 2 terms. The election is by universal suffrage. The first direct election for the office of Tunisian president was held in 2014.\n&nbsp;"
+}

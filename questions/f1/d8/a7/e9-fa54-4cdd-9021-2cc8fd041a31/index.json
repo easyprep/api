@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f1d8a7e9-fa54-4cdd-9021-2cc8fd041a31",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The 2019 Nobel Prize for Physiology was awarded for the discovery of the HIF complex. In this context, consider the following statements:<br />\n<ol>\n<li>The amount of HIF complex increases with decrease in oxygen levels.</li>\n<li>HIF is expressed in stem cells.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nHIF is a protein complex that stands for Hypoxia Inducing Factor. The 2019 Nobel Prize was awarded for its discovery. The HIF increases when the oxygen level drops and induces the hypoxia condition. The complex has been manipulated for treatment of anaemia, cancers, etc.\n <strong>Statement 2 is correct:</strong>\nHIF expression is significant in stem cell like the haematopoietic stem cells. This induces low oxygen levels that keep the metabolic rate of such cells and keeps them from differentiating into proper cells. The HIF is needed for maintaining the stem cells’ potency."
+}

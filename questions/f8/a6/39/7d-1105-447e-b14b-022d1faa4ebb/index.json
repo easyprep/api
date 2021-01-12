@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f8a6397d-1105-447e-b14b-022d1faa4ebb",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent news coverage about Noctiluca sp. Affecting algal bloom in the Gulf of Mannar, consider the following statements about this marine organism:<br />\n<ol>\n<li>They are bioluminescent in nature.</li>\n<li>The Noctiluca feed on planktons.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe depletion of water quality and fish population in the Gulf of Mannar has been blamed on the increasing population of Noctiluca scintillans. It is a bioluminescent dinoflagellate. It is also known as sea sparkle because of their emission of light in the dark when threatened.\n<strong>Statement 2 is correct:</strong>\nNoctiluca feed on planktons. Their concentration is highly dependent on the phytoplankton population. Phytoplanktons are marine organisms that serve as a food source for multiple aquatic life forms like fish and krill. They are autotrophic i.e. produce their own food by photosynthesis."
+}

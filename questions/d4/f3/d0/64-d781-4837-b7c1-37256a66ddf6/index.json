@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d4f3d064-d781-4837-b7c1-37256a66ddf6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A recent fossil discovery in Colorado offered insights into the development of animals after the mass extinction of dinosaurs. With reference to this, consider the following statements<br />\n<ol>\n<li>The mammals’ growth reduced during the first 300,000 years after the extinction event.</li>\n<li>Concretion is preservation of fossils by replacement of the body with some mineral deposition.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe fossil find in the Corral Bluffs of Colorado showed that the mammals underwent a growth spurt during the first 300,000 years after the extinction event. Another growth spurt occurred after 400,000 years, which gave rise to larger mammals. During this period, predecessors of bean plants also evolved.\n<strong>Statement 2 is incorrect:</strong>\nConcretion is the accumulation of minerals by precipitation around and in the spaces of a dead animal. These are rocks that form, by nucleation process, around the core of an ancient skeleton. These are found in sedimentary soils. The fossils in Colorado were found in such formations."
+}

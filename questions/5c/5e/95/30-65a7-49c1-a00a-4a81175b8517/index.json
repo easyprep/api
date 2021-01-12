@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5c5e9530-65a7-49c1-a00a-4a81175b8517",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recently released World Magnetic Model 2020 and shifting magnetic pole, consider the following statements:<br />\n<ol>\n<li>The world magnetic model is released by NASA.</li>\n<li>The model is released every 5 years.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe World Magnetic Model is developed and released by the collaborative effort of British Geological Survey, National Centre for Environmental Information and the Cooperative Institute for Research in Environmental Sciences (CIRES). The model is used for calibration of navigational systems like GPS.\n<strong>Statement 2 is correct:</strong>\nThe World Magnetic Model is released every 5 years for aiding the recalibration process. The periodic revision is intended to keep up with the shifting magnetic poles. The WMM was, however, revised before schedule in February because of unusual shifting of the magnetic North Pole."
+}

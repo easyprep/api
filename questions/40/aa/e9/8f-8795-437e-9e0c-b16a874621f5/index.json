@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "40aae98f-8795-437e-9e0c-b16a874621f5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent move by USA to remove the arms embargo from Cyprus, consider the following statements:<br />\n<ol>\n<li>Cyprus is a member of the EU.</li>\n<li>Cyprus is a member of NATO.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nCyprus is a member of the European Union. The island is noted for its conflicts with Turkey. USA had imposed an arms embargo on Cyprus in 1987 which it recently removed by passing a defence bill in the US Senate.\n<strong>Statement 2 is incorrect:</strong>\nCyprus is not a member of the NATO. It is one of the six EU members that had declared non- alignment from NATO. The other states are Sweden, Malta, Ireland, Finland and Austria. The move by US is being criticised by its NATO ally Turkey."
+}

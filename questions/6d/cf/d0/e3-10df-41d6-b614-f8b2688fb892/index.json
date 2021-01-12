@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6dcfd0e3-10df-41d6-b614-f8b2688fb892",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the Global Microscope report was published by the Economist Intelligence Unit. In this context, consider the following statements:<br />\n<ol>\n<li>Consumer protection is one of the aspects that the report assesses.</li>\n<li>The report found that India has the least inclusive finance.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Global Microscope report is published by the Economist Intelligence Unit. It assesses the financial inclusivity of nations based on 5 criteria, one of which is consumer protection. The other categories are stability and integrity, government and policy support, infrastructure, products and outlets.\n<strong>Statement 2 is incorrect:    </strong>\nThe 2019 report found that India has one of the most financially inclusive environment in the world. India was ranked at the 5<sup>th</sup> position among a list of 55 countries. The other countries with favourable financial inclusivity are Mexico, Peru, Colombia and Uruguay."
+}

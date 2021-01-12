@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f28c4cf6-2d85-406a-b932-848abfe6f399",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent report of premature deaths in India, consider the following statements about YLL or years of life lost:<br />\n<ol>\n<li>It gives more weightage to death among younger people than death rate.</li>\n<li>The reference age used in the calculation of YLL is the life expectancy of the population.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe years of life lost or YLL is used a measure premature mortality. It is an alternative to death rate. It is different from death rate in that it gives more weightage to deaths among younger population. It is used to study the causes of death rate among younger generation of a population.\n <strong>Statement 2 is correct:</strong>\nThe YLL is calculated as the difference between the reference age and the age at death. The reference age is derived from the life expectancy of the population. Arbitrarily it is set at 75 years but population specific data is used for more accuracy."
+}

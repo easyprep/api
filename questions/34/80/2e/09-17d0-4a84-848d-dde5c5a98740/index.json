@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "34802e09-17d0-4a84-848d-dde5c5a98740",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Chandrayaan-II findings when passing through the geotail, consider the following statements:<br />\n<ol>\n<li>Geotail is formed due to the interactions between the Earth and the moon.</li>\n<li>Chandrayaan-II will traverse the geotail region only once during its life.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nGeotail is a region that is formed due to interaction between the Sun and the Earth. It is a region that allows the best of observations to take place. It is formed due to interaction of the solar wind plasma and the earth’s magnetic field. It is on the side of earth facing away from the sun where the protective envelop stretches beyond the lunar orbit like a tail.\n<strong>Statement 2 is incorrect:</strong>\nChandrayaan-II will be able to traverse the geotail region every 29 days. Each time, the satellite will be in the protective envelope for a period of 6 days. The instruments on-board the orbiter will study the various aspects while in the geotail region."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "29c10bfc-2492-40d5-a48e-b0639743bbec",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent discussions about the BRICS Remote Sensing Satellite Constellation, consider the following statements:<br />\n<ol>\n<li>The constellation is to be virtual in nature.</li>\n<li>South Africa does not have a space agency of its own.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe BRICS Remote Sensing Satellite Constellation is an under discussion project among Brazil, Russia, India, China and South Africa. It is to feature a virtual constellation in the first phase. This constellation will be composed of space satellites that are already in orbit and operational.\n<strong>Statement 2 is incorrect:</strong>\nSouth Africa’s space agency is called SANSA or South African National Space Agency. The remote sensing satellite constellation project is expected to aid South Africa mainly because of its late entry into the remote sensing field. Members will be able to access remote sensing data from the common constellation."
+}

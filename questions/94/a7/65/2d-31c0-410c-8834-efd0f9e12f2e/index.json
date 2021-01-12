@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "94a7652d-31c0-410c-8834-efd0f9e12f2e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the spotting of the 2I/Borisov, consider the following statements:<br />\n<ol>\n<li>It is an interstellar asteroid.</li>\n<li>The 2I/Borisov contains carbon.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe 2I/Borisov is an interstellar comet. This is the second interstellar object to visit the solar system. A comet is a celestial object that consists of a nucleus or a core, that is embedded in a halo of dust or gas and has a tail made of vaporising material.\n<strong>Statement 2 is correct:</strong>\nThe Borisov was detected to be emitting cyanide compounds. Cyanide is a chemical group composed of carbon and nitrogen. The comet is releasing 170g of cyanide every second as the heat from the sun is melting the ice off its surface."
+}

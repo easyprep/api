@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9fef6373-d93b-499f-8ab2-3a38b4e0c9e3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the passing of the Taxation Law Amendment Bill by the lower house of the parliament, consider the following statements:<br />\n<ol>\n<li>New manufacturing companies can avail taxation at 22% if they forego certain deductions under the Income Tax Act.</li>\n<li>The Minimum Alternate Taxation is not applicable to manufacturers who opt for the new tax rates.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nUnder the proposed bill, the new manufacturers can benefit from a reduced income tax rate of 15% if they forego certain deductions under the IT Act of 1961. These companies must have been registered after September 30<sup>th</sup> 2019 and must become operational by April 2023. The 22% rate is applicable to the older companies.\n<strong>Statement 2 is correct:</strong>\nThe MAT will not be applied to the domestic manufacturing companies if they opt for the new tax rates. The MAT is a tool used to curb tax avoidance. It was introduced using the provisions of the IT Act and the Finance Act- both of which are to be amended by the 2019 bill."
+}

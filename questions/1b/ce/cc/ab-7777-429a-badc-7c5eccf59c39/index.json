@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1bceccab-7777-429a-badc-7c5eccf59c39",
+  "labels": "current-affairs,2019-12-24",
+  "question": "CIMON 2 was recently launched into space. With reference to this, consider the following statements:<br />\n<ol>\n<li>It is a spacecraft to study asteroids.</li>\n<li>It is a project of the German Space Agency.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nCimon 2 is an AI enabled robot that was launched on board SpaceX’s Dragon Capsule. It is the successor of the Cimon robot which stands for Crew Interactive Mobile Companion). It is to serve as an assistant to the astronauts and also serve as an empathetic conversation partner.\n<strong>Statement 2 is correct:        </strong>\nThe Cimon is a project of the German Space Agency (also known as DLR). It was funded by the agency and developed by IBM and Airbus. One of its significant features is the incorporation of IBM’s ‘Watson Tone Analyser’ which helps the AI assess and respond to emotions."
+}

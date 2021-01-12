@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e3f0336e-9c3c-4730-be61-7f94a9281acc",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the release of the 10<sup>th</sup> edition of Global Wealth Report, consider the following statements:<br />\n<ol>\n<li>It is released by World Bank.</li>\n<li>Population size affects a country’s wealth.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Global Wealth report is released by the Credit Suisse Group. It is a multinational investment bank that is based in Switzerland. The 2019 report is the 10<sup>th</sup> edition of the report. Net worth of the individuals is used to calculate wealth.\n<strong>Statement 2 is correct:</strong>\nPopulation size is one of the factors affecting the wealth of a country. A larger population size reduces the wealth enjoyed by a person. On the other hand, a larger population also means a larger market and more potential for increasing economic activity. Also, when properly developed, the population serves as human capital."
+}

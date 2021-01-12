@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9d79ff30-ef22-4747-8e30-80c68120b50e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The recently launched Intensified Mission Indradhanush 2.0 seeks to vaccinate the masses against hemophilus influenza type B. In this context, consider the following statements about hemophilus:<br />\n<ol>\n<li>The hemophilus influenza is a virus.</li>\n<li>It causes pneumonia.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nHemophilus influenza is a disease causing gram negative bacteria. It is one of the major causes of neonatal infection. As a part of the government’s objective to eliminate vaccine preventable diseases, the IMI 2.0 will vaccinate the children under the age of 2 years against the H. influenza bacteria.\n<strong>Statement 2 is correct:</strong>\nThe hemophilus bacteria is known to cause pneumonia by affecting the respiratory system, especially among children. Another pathogen that causes pneumonia is the bacterium Streptococcus pneumonia. The IMI 2.0 will target both these pathogenic bacteria in selected areas where its highly prevalent."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "11206043-d897-4517-92cd-ff01c0fa0cde",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent announcements about postal ballot voting, consider the following:<br />\n<ol>\n<li>People over the age of 60 years can vote through postal ballot.</li>\n<li>The service applies to people engaged in essential services.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe government in October announced the applicability of postal ballot voting to people above the age of 80 years. In September, the Election Commission had recommended the use of postal ballot system for certain sections of people who are unable to go to polling stations.\n<strong>Statement 2 is correct:</strong>\nThe postal ballot service can also be availed by persons engaged in essential services. They have been added to a category called the ‘absentee voter’. The category was added by amendment of Conduction of Election Rules, 1961. People with disabilities and senior citizens are also included in this category."
+}

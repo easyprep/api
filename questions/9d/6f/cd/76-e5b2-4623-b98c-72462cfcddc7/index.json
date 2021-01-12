@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9d6fcd76-e5b2-4623-b98c-72462cfcddc7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about Aqua Alta, consider the following statements:<br />\n<ol>\n<li>It is a tidal event.</li>\n<li>It occurs in the Adriatic Sea.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAqua Alta is a term used to refer to high tidal activity in Venice that leads to partial flooding. It is mainly prevalent during the spring and autumn seasons. While Venice is the most affected city by this phenomenon, others like Chioggia, Grado and Trieste are also affected by Aqua Alta.\n<strong>Statement 2 is correct:        </strong>\nAqua Alta is caused by the northern part of the Adriatic Sea. During the autumn and spring months, the tidal activity in the region is increased by wind activity. The north blowing Sirocco wind and the locally acting Bora are the major causatives."
+}

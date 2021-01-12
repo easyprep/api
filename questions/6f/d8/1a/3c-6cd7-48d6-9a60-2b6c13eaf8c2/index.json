@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6fd81a3c-6cd7-48d6-9a60-2b6c13eaf8c2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent study highlighting the effect of climate change on butterfly lifecycles, consider the following statements:<br />\n<ol>\n<li>Butterfly species that reproduce quickly are better adapted to climate change.</li>\n<li>Specialist species are more at risk from climate change than generalist species.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nButterfly species that reproduce quickly are found to be more successful at adapting to climate change according to a study published in the journal Nature Communications. While multi-generational butterflies are found to be flourishing, the single generation species are declining.\n<strong>Statement 2 is correct:</strong>\nSpecialist butterflies are those that rely on a narrow range of habitat and food for survival. High Brown Fritillary, Silver Studded Blue, etc. are some of the examples. Generalists can adapt to a variety of environments and hence have a better chance of adapting to climate change."
+}

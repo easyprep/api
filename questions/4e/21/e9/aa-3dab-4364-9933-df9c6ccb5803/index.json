@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4e21e9aa-3dab-4364-9933-df9c6ccb5803",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Cheops mission is to be launched in December 2019 In this context, consider the following statements:<br />\n<ol>\n<li>It is to study exoplanets.</li>\n<li>It is a mission of ESA.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe CHEOPS mission stands for Characterising Exoplanets Satellite. It is to be launched in December 2019. It is to function from the sun synchronous orbit and will house an optical telescope for studying the extra- solar planets- especially their sizes.\n <strong>Statement 2 is correct:</strong>\nThe Cheops mission is a project of the European Space Agency. It is being developed as a collaborative effort with Swiss Space Office. The mission is expected to last for about 3.5 years. The spacecraft was manufactured by Airbus."
+}

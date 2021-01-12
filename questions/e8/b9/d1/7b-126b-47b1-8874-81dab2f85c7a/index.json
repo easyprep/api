@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e8b9d17b-126b-47b1-8874-81dab2f85c7a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of ICEDASH in November, consider the following statements:<br />\n<ol>\n<li>It was launched by the finance ministry.</li>\n<li>It is to function in the customs department.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe ICEDASH is a dashboard launched by the ministry of finance. It was developed by the CBIC/ Central Board of Indirect Taxes and Customs. It was also aided by the National informatics centre. It can be accessed through the CBIC website.\n<strong>Statement 2 is correct:</strong>\nThe ICEDASH is a ease of doing business monitoring dashboard. It will function for the Indian Customs department. The public can track the clearance of imported cargo by the customs department at various ports and airports in India. It will help the businesses plan their logistics accordingly."
+}

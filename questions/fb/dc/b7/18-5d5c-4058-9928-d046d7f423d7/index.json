@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fbdcb718-5d5c-4058-9928-d046d7f423d7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recent studies recorded the season variations on the moon Titan. In this context, consider the following statements:<br />\n<ol>\n<li>Titan is the moon of Saturn.</li>\n<li>Titan has liquid methane lakes.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nThe Titan is the moon of Saturn. It is also its largest moon. It is the second largest natural satellite in the solar system. Recent studies made use of data acquired from the Cassini spacecraft to study the seasonal variations on Titan.\n<strong>Statement 2 is correct:</strong>\nTitan is the only other system apart from Earth to have a significant atmosphere and liquid surface lakes. These surface lakes are made up of liquid methane. Because of these similarities with earth, studying the moon’s seasonal variation is expected to provide insights into earth’s climate change."
+}

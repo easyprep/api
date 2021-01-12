@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3dfc3ddc-c3a7-4a89-8cae-73afb2298fa7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In October, the DTrack was in news in relation to the Kudankulam Nuclear Power Plant. In this context, consider the following statements:<br />\n<ol>\n<li>It is a malware from Pakistan.</li>\n<li>This is the first instance of its use against any country.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nDTrack is a malware from North Korea. It was used to attack the Kudankulam Nuclear Power Station in Tamil Nadu. The virus attacked the systems of Nuclear Power Corporation of India Ltd in October. The virus was used to attack the administrative systems.\n<strong>Statement 2 is incorrect:</strong>\nThis isn’t the first instance of the use of this virus. It was previously used for attacking systems in South Korea. An earlier version of the malware was used to attack ATMs in India and was known as the ATMDTrack."
+}

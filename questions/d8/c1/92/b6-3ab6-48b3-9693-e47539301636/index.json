@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "d8c192b6-3ab6-48b3-9693-e47539301636",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the discussions surrounding ‘Deemed Forests’, consider the following statements:<br />\n<ol>\n<li>Forest features in private lands cannot be considered deemed forests.</li>\n<li>Deemed forests are defined based on the number of trees by the Forest Advisory Committee.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Supreme Court in December of 1996 broadened the scope of forests to include not only land designated as such under the revenue and forest departments but also forests according to the definition of it. This is irrespective of ownership of the land. The states were asked to identify such areas.\n<strong>Statement 2 is incorrect:</strong>\nDeemed forests are to be identified based on criteria decided upon by the states. This is because, if the forests were to be defined by the number of trees, the grasslands would get excluded. In some states, deemed forest has become a legal category while in others, the issue is still unaddressed."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7de0e18f-1b9f-49d3-beeb-d83136c9936f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent revival of measles cases across the world, consider the following statements:<br />\n<ol>\n<li>Measles attack reduces the White Blood Cells/ WBCs in the body.</li>\n<li>Many of the deaths in measles cases are due to secondary infection.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMeasles affects the immune system of the body. But the number of WBC in the blood remained the same before and after a measles attack. However, the attacks will reduce the antibodies by about 73%. This affects the body’s ability to fight off other infections.\n <strong>Statement 2 is correct:</strong>\nMany of the measles deaths are due to secondary infections and not just due to the measles virus. This constitutes a significant portion of the 100,000 people who die (out of the 7 million affected cases). This is especially critical in case of lack of vaccination."
+}

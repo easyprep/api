@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2a3db6fd-26d1-4c34-b1bc-62a965b9e390",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the passing of activist Jabbar, the Bhopal Gas Tragedy has been discussed. In this context, consider the following statements:<br />\n<ol>\n<li>The disaster occurred due to leakage of carbon monoxide.</li>\n<li>It was caused by a pesticide plant.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong> Statement 1 is incorrect:</strong>\nThe Bhopal gas tragedy is considered the world’s worst industrial accident. It was caused by the leakage of a compound called methyl isocyanate. Since the MIC is in gaseous form, it spread throughout the region and killed over 500,000 people.\n<strong>Statement 2 is correct:</strong>\nThe MIC gas was leaked from a pesticide factory known as Union Carbide India Ltd. The incident occurred in December 1984. The UCC was purchased by Dow Chemical Company many years after the incident. However, the chemical continues to pollute ground water in Bhopal."
+}

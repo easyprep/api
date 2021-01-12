@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7629ad2a-4c9a-4455-9ea1-7a8dd3cdcd44",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, USA observed the National Hand Washing Awareness Week. In this context, consider the following statements:<br />\n<ol>\n<li>Louis Pasteur is considered the Father of Hand Hygiene.</li>\n<li>Semmelweiz introduced the Germ Theory (microbes transmit diseases).</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe National Hand Washing Awareness Day is observed between the 1<sup>st</sup> and 7<sup>th</sup> of December in USA. It is to spread awareness about the importance of the practice- especially among the health care workers. Ignaz Semmelweiz is considered as the Father of Hand Hygiene. He was a Hungarian physician in the 1800s.\n<strong>Statement 2 is incorrect:</strong>\nThe Germ theory was introduced by Louis Pasteur. The theory forms the basis for the practice of hand hygiene. The theory explained that microbes can spread from person to person and cause disease. WHO recommends hand hygiene through washing or use of hand sanitary liquid."
+}

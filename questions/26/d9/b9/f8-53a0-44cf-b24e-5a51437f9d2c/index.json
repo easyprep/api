@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "26d9b9f8-53a0-44cf-b24e-5a51437f9d2c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the decision of the National Centre for Screening of Natural Products for Parasitic Diseases to open a centre at JNU for natural products’ research, consider the following statements about <em>Leishmania donovani </em>that is to be targeted by the centre:<br />\n<ol>\n<li>It is a parasite of the blood.</li>\n<li>They are transmitted through mosquitoes.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe <em>L. donovani </em>is a protozoan that causes the Leishmaniasis disease in humans. It infects the blood. It also infects the bone marrow, spleen and liver. The visceral form, known as Kala-azar disease, has high fatality rate and is the most severe form of infection.\n <strong>Statement 2 is incorrect:</strong>\nThe protozoan is transmitted through sandflies. It requires two hosts: sandflies and humans. It is prevalent in tropical and temperate regions where 350 million people are always at risk. Only the female sandflies are responsible for transmission as the protozoan develops only in its guts."
+}

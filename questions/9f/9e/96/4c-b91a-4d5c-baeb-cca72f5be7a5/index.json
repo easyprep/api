@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9f9e964c-b91a-4d5c-baeb-cca72f5be7a5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently launched Intensified Mission Indradhanush 2.0 vaccinating the masses against hepatitis, consider the following statements:<br />\n<ol>\n<li>All forms of hepatitis are water borne.</li>\n<li>Hepatitis B is transmitted from mother to child.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThere are different forms of hepatitis: Hepatitis A, B, C, D and E. of these some are water borne: hepatitis A and E. these two forms can also be spread through contaminated food. The other forms are transmitted through blood.\n<strong>Statement 2 is correct: </strong>\nHepatitis B is a cause of major concern because it is spread from mother to child. About 90% of the cases of hepatitis B is acquired through this route. Hence vaccination is of utmost importance. Most of the cases are acquired during the early stages of childhood."
+}

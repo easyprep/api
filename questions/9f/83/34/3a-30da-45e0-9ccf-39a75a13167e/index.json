@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9f83343a-30da-45e0-9ccf-39a75a13167e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the tensions surrounding the Tigris River, consider the following statements:<br />\n<ol>\n<li>It flows through Syria.</li>\n<li>The river originates in Syria.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Tigris is one of the major rivers of west Asia. It mostly flows through Turkey and Iraq. However, a small stretch is also in Syria. The river is mainly confined to the Turkey-Syria border. It is one of the major features of the Northern Syria Buffer Zone.\n<strong>Statement 2 is incorrect:</strong>\nThe Tigris originates in Turkey. The birthplace of the river is the Taurus Mountains of Eastern Turkey. It drains into the Persian Gulf of the Mediterranean Sea. It is located to the east of Euphrates River, another major west Asian river."
+}

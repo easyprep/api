@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e26bbf5c-cd7b-481b-a0f0-e38561cecc52",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Coalbed methane has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>Coalbed methane has a high percent of hydrogen sulfide.</li>\n<li>Coalbed methane is a greenhouse gas.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nCoal bed methane is a potential fuel that is derived from coal deposits and coal seams. It is known as ‘sweet gas’ because it has almost no hydrogen sulphide. A natural gas with high concentration of hydrogen sulphide is called ‘sour gas’ and is subject to ‘sweetening’ process to protect gas piping.\n<strong>Statement 2 is correct:</strong>\nCoal bed methane is a greenhouse gas. It aggravates the greenhouse effect by trapping the solar heat in earth’s atmosphere. This is one of the concerns faced by the coal ministry’s plan to produce coalbed methane. About 8% of global methane emission is from coalbeds."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5ceaf30d-6d3a-4a7f-83d6-b2b543a4c59d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Indian president unveiled a bust of Gandhi in Quezon City in October. In this context, consider the following statements:<br />\n<ol>\n<li>Quezon City is in Philippines.</li>\n<li>Quezon City is a coastal city.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nQuezon City is in Philippines. The Indian president had visited Quezon and unveiled a bust of Mahatma Gandhi at the Miriam College there. This is in context with the celebration of the 150<sup>th</sup> birth anniversary of Gandhi. Quezon is the most populated city in Philippines.\n<strong>Statement 2 is incorrect:</strong>\nThe Quezon City is located on a high plateau called the Guadalupe Plateau. It was intended as a replacement for the city of Manila (as Philippine’s capital). The city is bordered by the Tullahan River. Pasig River and the San Juan Rivers."
+}

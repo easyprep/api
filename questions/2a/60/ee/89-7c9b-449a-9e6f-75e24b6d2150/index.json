@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2a60ee89-7c9b-449a-9e6f-75e24b6d2150",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent discussions about ‘Golden Rice’, consider the following statements:<br />\n<ol>\n<li>It contains beta- carotene.</li>\n<li>It is aimed at reducing vitamin A deficiency.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nGolden Rice is the name given to a genetically modified rice variety developed in 1990s by Germany. It is rich in beta- carotene which is the reason for its orange coloration. It is a compound naturally found in food items like carrots.\n<strong>Statement 2 is correct:</strong>\nThe Golden Rice was developed to address vitamin A deficiency especially in under developed and developing countries. Vitamin A deficiency can cause issues like blindness, vulnerability to diseases like measles, etc. It has been in news because Bangladesh is looking to commence its cultivation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5a6470d7-d9f7-4e8e-ba39-0e51d564c295",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently developed Bluetongue sandwich ELISA (sELISA) kit, consider the following statements:<br />\n<ol>\n<li>It is used for testing in humans.</li>\n<li>S-ELISA measures antibody concentration.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Bluetongue sandwich ELISA (sELISA) was indigenously developed as a joint effort by the ICAR and the IVRI under the ‘Make in India’ scheme. It will diagnose the Bluetongue viral infection among cattle. This virus is a zoonotic pathogen that mainly affects sheep.\n<strong>Statement 2 is incorrect:</strong>\ns-ELISA stands for sandwich Enzyme Linked Immuno-sorbent Assay. It is used for measuring antigen concentration. This antigen is quantified between a capture layer of antibodies and the detection layer of antibodies. This will generate a signal and help in the disease’s diagnosis and treatment."
+}

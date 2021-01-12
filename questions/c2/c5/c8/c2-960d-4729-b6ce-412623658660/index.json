@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "c2c5c8c2-960d-4729-b6ce-412623658660",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the release of the India Justice Report, consider the following statements:<br />\n<ol>\n<li>Only the judicial performance of the states were considered for ranking them.</li>\n<li>Kerala was ranked at the top-most for justice delivery.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe India Justice Report 2019 ranks the states on 4 criteria: police, judiciary, legal aid and prisons. The India Justice report is a result of collaboration among Tata Trust, Centre for Social Justice, Common Cause and Commonwealth Human Rights Initiative.\n<strong>Statement 2 is incorrect:</strong>\nThe report ranked Maharashtra at the top for justice delivery. It scored 5.92 points. The other top performers are Kerala and Tamil Nadu. The worst performing states listed are Bihar and UP. Among the small states, Goa was the top performer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a01275a3-c758-4c54-bed4-73bf093f4df6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The German pharmaceutical company Bayer has been involved in lawsuits over its glyphosate based weed killer recently. In this context, consider the following statements:<br />\n<ol>\n<li>Glyphosate based chemicals are used in tea plantations in India.</li>\n<li>The chemical is yet to be banned anywhere on the planet.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nGlyphosate is a weed killer which was developed in 1970s. It is used under the market names of Roundup, Brake, etc. It is mainly used in tea plantations of India. Its use is especially widespread in West Bengal and Assam. Maximum usage is in Maharashtra for fruit crops, maize and sugarcane.\n<strong>Statement 2 is incorrect:</strong>\nThe chemical has been banned in several countries like France, Vietnam and Italy. This is in light of various reports by WHO about its possible carcinogenicity. Yet, many countries continue to use it widely. Eg: USA, Canada, China and Brazil."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "91d61038-3d20-4447-8f0f-8c85a912cd11",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The US FDA approved the use of the compound tagatose. In this context, consider the following statements about this cancer:<br />\n<ol>\n<li>It is a low calorie sugar substitute. </li>\n<li>It is produced from dairy products.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nTagatose is a sugar substitute that was approved by the US Food and Drug Administration. It is noted for being low in calories- it has only 38% of the calories as conventional table sugar. It was in news as scientists have come up with method to produce it in mass quantities.\n<strong>Statement 2 is correct:</strong>\nTagatose can be produced from dairy products and also fruit sugars. It involves the conversion from a predecessor compound called galactose. Recently. Scientists have come up with a way to produce it with the help of bacteria that act as bioreactors."
+}

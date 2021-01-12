@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a22ce720-8217-425c-8730-33ef8d3cf418",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the adoption of the Colombo Declaration, consider the following statements about nitrogen cycle:<br />\n<ol>\n<li>Denitrification is the process by which nitrogen is converted to nitrates.</li>\n<li>A major part of earth’s atmosphere is made of nitrogen.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe process of denitrification is a part of the nitrogen cycle. It is the conversion of nitrates in the soil into molecular nitrogen. It adds nitrogen to the atmosphere while depleting it in the soil. It is performed by denitrifying microbes in the soil, such as Paracoccus denitrificans, Pseudomonads, etc.\n <strong>Statement 2 is correct:</strong>\nThe nitrogen is a major part of the earth’s atmosphere. It constitutes 78% of the atmosphere. It is also the largest source of nitrogen. The nitrogen cycle involves the exchange of nitrogen among the atmosphere, soil and aquatic ecosystem."
+}

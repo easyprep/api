@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6ef0ad3c-81d2-4485-b73a-080c7ef82f5c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions surrounding the use of CRISPR to engineer human embryo, consider the following statements:<br />\n<ol>\n<li>The CCR5 gene mutation gives resistance against HIV.</li>\n<li>The presence of 2 copies of the CCR5 gene shortens the bearer’s lifespan.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe CRISPR is a genetic engineering tool used to edit genomes. It was used in 2018 to create the first ever genetically engineered human babies- Lulu and Nana in China. The twin girls were created after editing their genome’s CCR5 gene part. CCR5 gene upon mutation gives the bearer resistance against HIV.\n<strong>Statement 2 is incorrect:</strong>\nInitially, researchers claimed that when 2 copies of the CCR5 gene was present in the genome, it increased the risk of shortening the bearer’s lifespan. However, the scientific consensus is that no such affects are produced by the genes."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "17e3a9a9-c37b-4b28-a773-300d4e75493b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the application of RTI act, consider the following statements:<br />\n<ol>\n<li>The public authority must collect and furnish data (to the RTI applicant) if the same is not already held by it.</li>\n<li>CBI is under the ambit of RTI.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nRTI gives the right to access information held by all public authorities. However, the public office is required to provide only information that is already existing in its possession. The staff of the office is not required to collect and furnish it if it’s unavailable. This is in accordance with a 2011 Supreme Court observation.\n<strong>Statement 2 is incorrect:</strong>\nCentral Bureau of Investigation is not under the ambit of RTI act. The President’s office and Prime Minister’s office are under the RTI act’s provisions i.e. they are public authorities. The office of the CJI is the latest addition to the list of public authorities with the applicability of RTI provisions."
+}

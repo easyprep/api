@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "95994e79-e74f-4065-980e-2c2903f7d729",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discovery of a new strain of HIV, consider the following statements:<br />\n<ol>\n<li>The new strain belongs to the group M of HIV.</li>\n<li>HIV can cause pandemics.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe newly discovered strain of Human Immunodeficiency Virus belongs to the M group. This discovery is after a period of 19 years. The last time a new strain of HIV was discovered, it was 2000. The findings were published in the journal of acquired immune deficiency syndromes/ JAIDS.\n<strong>Statement 2 is correct:</strong>\nHIV organisms can cause global pandemics. They are aided by their diversity and insusceptibility to vaccine. The group M is noted for its ability to cause pandemics. It is the most common causative organisms with 90% of HIV cases being a result of infection by such viruses."
+}

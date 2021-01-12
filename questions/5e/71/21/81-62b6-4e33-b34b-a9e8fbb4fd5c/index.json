@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5e712181-62b6-4e33-b34b-a9e8fbb4fd5c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent studies about the effect of capsaicin on obestatin, consider the following statements:<br />\n<ol>\n<li>High obestatin levels lead to obesity.</li>\n<li>It is produced in the digestive tract.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nObestatin is a human hormone that reduces obesity. It is responsible for sending the ‘stop eating’ signals to the brain. It was found that capsaicin increased the activity of obestatin. It works in opposition to the hormone ghrelin, which increases the appetite.\n <strong>Statement 2 is correct:</strong>\nObestatin is produced in the digestive tract. It is produced by specialised cells in stomach and small intestine. It affects the accumulation of glycerolipids in the body. The hormone uses what is called PPAR-gamma signalling mechanism to signal to the brain."
+}

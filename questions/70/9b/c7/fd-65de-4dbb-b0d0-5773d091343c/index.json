@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "709bc7fd-65de-4dbb-b0d0-5773d091343c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recent studies have highlighted ‘superdeep diamonds’ as tools for studying deep earthquakes, In this context, consider the following statements about superdeep diamonds:<br />\n<ol>\n<li>These diamonds are formed at a greater depth than normal diamonds.</li>\n<li>Superdeep diamonds are different from conventional diamonds in terms of composition.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSuperdeep diamonds are formed at the sub-lithoral region of the earth. They are formed at greater depths than conventional diamonds. This region is called the ‘transition zone’ which stretches between 410 km and 660 km under the earth’s surface.\n <strong>Statement 2 is correct:</strong>\nThe composition of the superdeep diamonds are different from that of conventional diamond. They are occasionally brought to the earth’s surface by violent volcanic activity and contain inclusions. These inclusions give an insight into the conditions in the sub-lithoral zones of the earth."
+}

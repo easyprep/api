@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fc897ca7-d88b-4d55-a371-973eb3799836",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, Greenland was put at the top of the Danish Security Treat list. In this context, consider the following statements:<br />\n<ol>\n<li>Greenland is a part of Norway.</li>\n<li>Kvanefjeld site is located in Greenland.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nGreenland is a part of Denmark. Recently, Denmark listed Greenland at the top of its National security threat list. This is because of recent US attempts at buying the island territory and the tensions in the Arctic region.\n<strong>Statement 2 is correct:        </strong>\nThe Kvanefjeld site is an important mineral deposit. It is the second largest deposit of rare earth minerals in the world. Hence it holds geopolitical value to several nations. Several nations are involved in the Kvanefjeld project including China."
+}

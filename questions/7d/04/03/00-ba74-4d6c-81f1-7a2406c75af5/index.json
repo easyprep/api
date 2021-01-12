@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7d040300-ba74-4d6c-81f1-7a2406c75af5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the award of 2019 Sveriges Riksbank Prize, consider the following statements:<br />\n<ol>\n<li>It is awarded for the field of mathematics.</li>\n<li>It is one of the official Nobel Prizes.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Sveriges Riksbank Prize is awarded for contribution to the field of economic sciences. It is also known as the Nobel Memorial Prize in Economic Sciences. It was established by the Sveriges Riksbank, in 1968. This is the central bank of Sweden.\n<strong>Statement 2 is incorrect:</strong>\nThe Nobel Memorial Prize in Economic Sciences is not an official Nobel Memorial Prize. It was not established by the will of Alfred Nobel in 1895. It was established only later on, in 1968, to commemorate the 300<sup>th</sup> anniversary of the founding bank."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8d255061-873f-4998-a9e4-38ad5ed49f69",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The National Broadband Mission was launched in December. In this context, consider the following statements about NBM:<br />\n<ol>\n<li>The Broadband Readiness Index is to measure the availability of digital infrastructure.</li>\n<li>Optical Fiber Cable networks are to be used for the mission.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nThe Broadband Readiness Index (BRI) is to be developed as a part of the National Broadband Mission (NBM). The NBM was launched by the ministry of electronics and information technology. The BRI will help in measuring the policy and infrastructure for facilitating digital communication. \n<strong>Statement 2 is correct:</strong>\n30 lakh kilometre of Optical fibre Cable is to be laid as a part of the mission by 2024. The mission will target rural and remote regions to improve broadband coverage. The project is to involve an investment of 100 billion USD."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "bc03fad9-bb00-42c3-88de-81d6fcb2d13d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The USCIRF was in news recently. In this context consider the following statements:<br />\n<ol>\n<li>The USCIRF monitors the safeguarding of religious freedom in the USA.</li>\n<li>It was established by the International Religious Freedom Act of 1998.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe United States Commission on International Religious Freedom is a body in the US that is concerned with the monitoring of religious freedom in accordance with the international standards. It does not do the same in the USA. It has been in news for criticising the citizenship amendment bill of India.\n<strong>Statement 2 is correct:</strong>\nThe USCIRF was founded according to the International Religious Freedom Act of 1998. The IRFA is an act of the US congress that made promotion of religious freedom abroad as a part of the US foreign policy. Under the act, the government designates countries with the worst freedom of religion as ‘Countries of Particular Concern’."
+}

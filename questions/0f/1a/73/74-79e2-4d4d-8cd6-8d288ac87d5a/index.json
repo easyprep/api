@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0f1a7374-79e2-4d4d-8cd6-8d288ac87d5a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about organoids, consider the following statements:<br />\n<ol>\n<li>Organoids are developed from stem cells.</li>\n<li>Organoids cannot perform all the functions of a natural organ.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nOrganoids are structures that are developed using stem cells in laboratory. It can also be developed using induced pleuripotent stem cells. These are stem cells developed by inducing an adult cell to behave as one. These stem cells are provided with nutrients and other essential factors to help them multiply and develop into organ-like structures.\n<strong>Statement 2 is correct:</strong>\nOrganoids cannot perform all the functions of a natural organ as of yet. Most of the organoids are capable of mimicking only certain features of a natural organ. They are much less complex than real organs and often do not possess blood vessels. Organoids of brain, liver, stomach, kidney, etc. have been created in labs."
+}

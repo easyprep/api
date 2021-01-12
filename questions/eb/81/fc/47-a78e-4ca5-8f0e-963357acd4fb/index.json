@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "eb81fc47-a78e-4ca5-8f0e-963357acd4fb",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the decade long Deep Carbon Observatory concluding its projects in October, consider the following statements about abiotic methane:<br />\n<ol>\n<li>Abiotic methane is formed by physical processes.</li>\n<li>Abiotic methane can be formed from carbonate minerals under the earth’s surface.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAbiotic methane is the hydrocarbon compound that is formed by physical process rather than by biological metabolism. Methane is usually produced by living organisms and is one of the key chemical that scientists look for in the search for extra-terrestrial life.\n<strong>Statement 2 is correct:</strong>\nThe DCO found that abiotic methane can be formed under the earth’s surface also. This is produced from carbonate minerals by reacting with hydrogen. These reactions can occur as deep as 40km from the surface at high temperatures and pressures."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "152e16a4-e36d-489e-8ced-73f0833a2dda",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Annual Ganga River Dolphin Census, consider the following statements about these dolphins:<br />\n<ol>\n<li>It is the only obligate freshwater dolphin in the world.</li>\n<li>It uses echolocation to find prey.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Ganga River Dolphin is one of the 4 obligate river dolphins in the world. The other three of this category are the Baiji dolphins of Yangtze River, Boto dolphins of Amazon River and the Bhulan dolphins of Indus River. They inhabit only rivers and lakes.\n<strong>Statement 2 is correct:</strong>\nThe Ganga River Dolphin is considered a blind dolphin. This is because they lack crystalline lens in their eyes. They use echolocation to locate their prey, especially in murky and muddy waters. Because of the sounds they make, they are also called the Susu dolphins."
+}

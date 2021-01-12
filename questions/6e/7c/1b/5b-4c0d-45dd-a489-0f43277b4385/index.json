@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:09.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6e7c1b5b-4c0d-45dd-a489-0f43277b4385",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context of the IRDAI’s decision to allow use of regulatory sandbox, consider the following statements:\n<ol>\n<li>Regulatory sandbox (RS) will be free from monitoring and supervision to enable testing new products among a limited clientele.</li>\n<li>Applicant must have a net worth of 10 lakh INR and have a year’s worth of proven financial record.</li>\n<li>RBI is seeking to establish a similar RS for testing crypto-currency services and trading in crypto-currency in a limited scope.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "2 only",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is incorrect:\nRS is an experimental space for testing out products and services in a controlled market and also to identify the necessary places for regulatory mechanism. The IRDAI’s RS will enable applicants to test out services and products under the minimal monitoring and regulation of dedicated personnel. The products can be of five categories: insurance solicitation or distribution, insurance products, underwriting, policy and claims servicing. The testing period will be 12 months.\n<strong>Statement 2 </strong>is correct:\nThe applicants must satisfy certain criteria for utilizing the RS. The applicant must have a net worth of atleast 10 lakh INR. Also a year’s worth of financial records is a must. The committee that recommended the RS also called for strict confidentiality measures as a major concern about such experiments is customers’ data protection. Guidelines for timelines, boundary conditions, entry criteria, process flow, success factors and exit parameters for the applicants have also been given.\n<strong>Statement 3 </strong>is incorrect:\nRBI had also proposed an RS for the fintech products and services. It has a negative list of products and services that are not to be testing in the space. Crypto-currency based trading and investment is one such service. Other negative list services include chain marketing services and credit registry.\n&nbsp;"
+}

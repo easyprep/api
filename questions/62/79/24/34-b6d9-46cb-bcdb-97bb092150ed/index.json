@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "62792434-b6d9-46cb-bcdb-97bb092150ed",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the use of microbial fuel cells in ‘Pete’ the fern, consider the following statements:<br />\n<ol>\n<li>The microbes in these cells act as catalyst.</li>\n<li>The microbes in these fuel cell can use only organic matter.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nMicrobial fuel cells generate energy with the help of microorganisms. These microbes act as catalysts i.e., they speed up the chemical reaction to generate energy. The scientists had used such cells to enable a fern, named ‘Pete’ to take selfies of itself.\n<strong>Statement 2 is incorrect:</strong>\nThe microbes tend to oxidise substrates to produce energy in these fuel cells. They can oxidise both organic and inorganic matter. The bacteria generates electrons that are transferred to the negative terminal. These then flow to the positive terminal to generate energy."
+}

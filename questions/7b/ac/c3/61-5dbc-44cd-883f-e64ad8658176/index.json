@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7bacc361-5dbc-44cd-883f-e64ad8658176",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the discovery of new moons, consider the following statements:<br />\n<ol>\n<li>Jupiter has the highest number of moons in the solar system.</li>\n<li>The Subaru Telescope is in Japan.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nSaturn has the highest number of moons. With the 20 new moons discovered, the total number of Saturnian moon stands at 82. The spot was earlier held by Jupiter with 79 moons. Most of these newly discovered moons are small satellites.\n<strong>Statement 2 is incorrect:</strong>\nThe Subaru Telescope is in Hawaii. It is a large telescope on top of Mauna Kea. It is a part of National Astronomical Observatory of Japan. The construction of the telescope was completed in 1998. It is an important tool for the search of the hypothetical planet 9."
+}

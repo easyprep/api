@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "eeaad78c-e8cf-4ed4-a147-5eada29617ab",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Tapan Ray Committee recommending tighter norms for Core Investment Companies, consider the following statements about CIC:<br />\n<ol>\n<li>CIC belongs to the NBFC category.</li>\n<li>The Tapan Ray committee recommended the increase of CIC minimum asset size.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nCore Investment Companies are companies that belong to the non-banking financial sector. Their function is to carry out business of acquisition of securities and shares. In November, the Tapan Ray Committee constituted by the RBI recommended the tightening of corporate governance norms.\n<strong>Statement 2 is incorrect:</strong>\nThe Tapan Ray Committee recommended retaining the current minimum asset size of 100 crore INR for the CICs. Any firm in group cannot invest through more than 2 layers of CIC. This implies that they are to function through a 2-tiered structure to prevent complexity issues."
+}

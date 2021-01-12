@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "73489fc3-4b87-4c44-b086-d86c90d50547",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Drake’s Passage has been in the news recently. In this context, consider the following statements about this water body:<br />\n<ol>\n<li>It is located between Antarctica and South America.</li>\n<li>It connects Atlantic Ocean with the Pacific Ocean.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Drake’s Passage is a water body that separates the South American landmass from Antarctica. It is also known as the Sea of Hoces. It has been in the news in context with the disappearance of the Chilean military aircraft.\n <strong>Statement 2 is correct:</strong>\nThe Drake’s Passage connects the south eastern part of the Pacific Ocean with the south western part of the Atlantic Ocean. This 800km wide passage is the shortest crossing from the Antarctica to any landmass. It stretches between the Cape Horn and the Antarctica’s Livingston Island."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "146f79d6-b602-4ea6-93d0-012142cdbffb",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent study showing the ill effect of PFAS, consider the following statements:<br />\n<ol>\n<li>India has banned the use of PFAS.</li>\n<li>Switzerland was the first country to ban PFAS.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe per- and polyfluoroalkyl substances are not banned in India. The compound is widely used in many products ranging from firefighting foam to fast food packaging. The compound is used for its water repelling and fire proofing properties. It has even been detected in Sundarbans.\n<strong>Statement 2 is incorrect:</strong>\nDenmark was the first country to ban the use of PFAS. The compound is regulated in some states of USA like Washington and cities like San Francisco. The compound is yet to be banned in a majority of the countries."
+}

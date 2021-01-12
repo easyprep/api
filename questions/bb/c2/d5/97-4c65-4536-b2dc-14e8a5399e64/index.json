@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "bbc2d597-4c65-4536-b2dc-14e8a5399e64",
+  "labels": "current-affairs,2019-12-24",
+  "question": "‘Trakea’ has been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is a barcoding software.</li>\n<li>It was adopted by the Haryana police.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nTrakea is a barcoding software. It is to enable barcoding of forensic documents and reports. The software will help in safeguarding the reports from tampering and help in improving efficiency of investigation and court trails. It will also help in barcoding of evidences and samples from crime scenes.\n<strong>Statement 2 is correct:</strong>\nThe Trakea software was adopted recently by the Haryana state police. By this, the Haryana police has become the first police force in India to integrate such a barcoding system for cataloguing its reports and evidences. It was developed indigenously."
+}

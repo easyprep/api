@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b1e5192d-9744-48e4-97eb-65e1ed87bd27",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The RBI made certain changes to the scope of ‘Special Non- Resident Rupee’ Accounts in November. With reference to this, consider the following statement about SNRR:<br />\n<ol>\n<li>SNRR accounts are interest earning accounts.</li>\n<li>SNRR accounts are re-patriable accounts.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nSNRR accounts are Indian Rupee denominated accounts that are opened by person resident outside India but having business interests in India. They are non- interest earning account. This means that the account holder does not earn interest on deposits in such accounts.\n<strong>Statement 2 is correct:</strong>\nThe SNRR accounts are repatriable. This means that the balance in the SNRR accounts can be withdrawn and deposited in the account holder’s country of residence or citizenship. If the account holder becomes a resident of India, the SNRR account will become a resident rupee account."
+}

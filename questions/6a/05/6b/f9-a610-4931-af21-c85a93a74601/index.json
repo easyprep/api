@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6a056bf9-a610-4931-af21-c85a93a74601",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the RV Polarstern’s journey to polar region to study the polar climate, consider the following statements:<br />\n<ol>\n<li>The Polar Regions warm at a faster rate than the rest of the world.</li>\n<li>In the negative phase of the Polar Oscillation, the Polar Vortex is stronger than usual.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nThe Polar Regions warm at a faster rate than the rest of the world. This disproportionate effect of climate change is due to the effect of albedo i.e., the ice reflects off the sunlight and cause lesser warming but as ice melts the darker ground absorbs more heat and cause extra warming.\n<strong>Statement 2 is incorrect:</strong>\nThe Arctic Oscillation is a climatic phenomenon of the Polar Regions. The AO has a positive and a negative phase. During the negative phase, the Polar Vortex (a low pressure system) weakens in the region. During the positive phase, the Polar Vortex becomes stronger."
+}

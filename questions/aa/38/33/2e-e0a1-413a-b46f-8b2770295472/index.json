@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "aa38332e-e0a1-413a-b46f-8b2770295472",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of Kerala approving its fibre optic network project, consider the following statements:<br />\n<ol>\n<li>It is funded by the World Bank.</li>\n<li>Government schools are to benefit from this project.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Kerala Fibre Optic Network/ KFON project is a collaborative initiative of Kerala State Electricity Board and Kerala State IT Infrastructure Ltd. The project is worth 1,548 crore INR and was recently approved the state’s cabinet. It is to be implemented by December 2020.\n<strong>Statement 2 is correct:        </strong>\nThe project will provide high speed internet connectivity to government schools and offices. It will benefit about 2 million families in the state. It seeks to make internet access a right of the citizens. Free internet connectivity is to be provided to BPL households."
+}

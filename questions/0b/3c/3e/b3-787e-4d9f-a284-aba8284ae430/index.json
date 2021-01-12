@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0b3c3eb3-787e-4d9f-a284-aba8284ae430",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently released Global Diplomacy Index, consider the following statements:<br />\n<ol>\n<li>A country cannot have more than one consulate in a foreign state.</li>\n<li>Embassy of one Commonwealth nation in another is called a High Commission.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nA country can have multiple consulates in a foreign state. However, there is only one embassy per state. The embassy serves as the main office representing the country in that foreign state. Consulates are smaller diplomatic missions located in major cities of the foreign state.\n<strong>Statement 2 is correct:</strong>\nThe term High Commission is used to refer to the embassy of one Commonwealth nation in another Commonwealth nation. Eg: India has a High Commission in Pakistan and Sri Lanka. Embassies are generally located in the capital of the state."
+}

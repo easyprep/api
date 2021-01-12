@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0639b296-cd89-4e23-9054-14b0969d3282",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the stratospheric warming that affected the polar region in October, consider the following statements:<br />\n<ol>\n<li>It caused heat waves in the European region.</li>\n<li>Rossby waves cause stratospheric warming.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe stratospheric warming in October affected the Antarctic region. It is expected to affect the weather patterns in Australia and cause heat waves there. The phenomenon is common in North Polar Region but a rarity in the South Polar Region.\n<strong>Statement 2 is correct:</strong>\nRossby waves is one of the causatives of the stratospheric warming phenomenon. The Rossby waves are produced when temperature differences become large enough, reach the stratosphere and then break like waves. This will compress the air and cause warming of the stratosphere above the poles.\n&nbsp;"
+}

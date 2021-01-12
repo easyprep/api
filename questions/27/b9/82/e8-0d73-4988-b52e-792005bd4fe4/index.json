@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "27b982e8-0d73-4988-b52e-792005bd4fe4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent reports of the Great Red Spot of Jupiter shrinking, consider the following statements:<br />\n<ol>\n<li>It is a low pressure system on Jupiter.</li>\n<li>It is located at the north pole of Jupiter.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Great Red Spot is a high pressure system on Jupiter. It is an anticyclonic storm that has been raging in its atmosphere for several centuries now. Recent reports say that the Great Red Spot is shrinking and may possibly dissipate away.\n<strong>Statement 2 is incorrect:</strong>\nThe Great Red Spot is located south of Jupiter’s Equator. It takes about 6 Earth days to complete one rotation. Its diameter is reported to be about 1.3 times larger than that of the Earth. The clouds in these storms are colder than their surrounding clouds."
+}

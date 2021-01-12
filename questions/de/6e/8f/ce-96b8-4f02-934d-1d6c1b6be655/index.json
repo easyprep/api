@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "de6e8fce-96b8-4f02-934d-1d6c1b6be655",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently the ‘LB-1’ was discovered by astronomers. With reference to this, consider the following statements:<br />\n<ol>\n<li>It is located in the Milky Way galaxy.</li>\n<li>It is an example of stellar black hole.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe LB-1 is a black hole that was discovered by the scientists in the Milky Way galaxy of which the Solar System is also a part. The LB-1 is about 15,000 light years away from the earth. The black hole is 70 times more massive than our sun.\n<strong>Statement 2 is incorrect:</strong>\nThe LB-1 black hole does not fall into any of the current categories of black holes (neither a stellar black hole nor a supermassive black hole). It is expected to be included in a new class. It is twice as massive as the predicted levels of current theories."
+}

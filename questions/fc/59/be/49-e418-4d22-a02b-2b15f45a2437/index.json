@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fc59be49-e418-4d22-a02b-2b15f45a2437",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent passing of the Anti- Maritime Piracy Bill, consider the following statements about Law of the Sea Treaty:<br />\n<ol>\n<li>The ‘contiguous zone’ defined by the treaty is closer to the land than the ‘territorial waters zone’.</li>\n<li>The Exclusive Economic Zone stretches up to 12 nautical miles from the baseline.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Law of the Sea Treaty or the UNCLOS (United Nations Convention on Law of the Sea) defines the terms contiguous zone and territorial waters. The territorial waters stretches for 12 nautical miles from the baseline. The contiguous zone stretches 12 nautical miles beyond the territorial waters.\n<strong>Statement 2 is incorrect:</strong>\nThe exclusive economic zone/ EEZ stretches for 200 nautical miles from the baseline. In this zone, the country has exclusive rights over the natural resources ranging from fishing to mining. The foreign vessels can pass through the region but may be restricted by country’s regulation."
+}

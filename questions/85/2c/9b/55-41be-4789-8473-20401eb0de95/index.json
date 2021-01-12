@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "852c9b55-41be-4789-8473-20401eb0de95",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the release of the findings of the National Diabetes and Diabetic Retinopathy Survey report for 2015-19, consider the following statements about Diabetic Retinopathy:<br />\n<ol>\n<li>The disease affects the lens of the eyes.</li>\n<li>It is caused due to diabetes mellitus.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nDiabetic Retinopathy affects the retinal region of the eye. Retina is the photosensitive portion of the eye and help in image formation. The disease affects almost 80% of people with diabetes for 2 or more decades. It is one of the leading causes of blindness.\n<strong>Statement 2 is correct:</strong>\nThe Diabetic Retinopathy is a condition that arises due to diabetes mellitus. Diabetes mellitus is a metabolic disorder characterised by abnormally high blood sugar levels. It leads to several complications when untreated, including this diabetic eye disease."
+}

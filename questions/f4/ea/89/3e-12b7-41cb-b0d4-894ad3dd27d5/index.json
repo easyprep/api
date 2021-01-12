@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f4ea893e-12b7-41cb-b0d4-894ad3dd27d5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The High Energy Material Research Laboratory has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is a part of ISRO.</li>\n<li>Rocket propellants are developed at the HEMRL.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nHEMRL is a premier lab of the Defence Research and Development Organisation. An Igniter Complex was recently inaugurated there. It is located in Pune and is involved in designing, evaluation and processing of ignition systems. Simulation and modelling facilities are also provided for.     \n<strong>Statement 2 is correct:</strong>\nThe HEMRL is involved in developing rocket propellants, gun propellants, explosive systems, pyrotechnic devices, high energy chemicals, etc. It was responsible for developing ignition systems for Prithvi, Nag, Agni, Akash, etc. Its ignition systems are used for initiating rockets of strategic and tactical nature."
+}

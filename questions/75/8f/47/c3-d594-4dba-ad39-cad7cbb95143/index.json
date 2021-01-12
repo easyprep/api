@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "758f47c3-d594-4dba-ad39-cad7cbb95143",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent report of lightning strike frequency in India, consider the following statements:<br />\n<ol>\n<li>Lightning strikes are highest in Meghalaya.</li>\n<li>Most number of deaths dues to lightning was reported from Meghalaya.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe report was given by IMD under the Lightning Resilient India Campaign. This is the first time data on lightning strikes across the country has been released. The report says that the highest number of lightning strikes occur in Odisha. This is 900,000 lightning strikes between April and July, 2019.\n<strong>Statement 2 is incorrect:</strong>\nThe highest number of deaths due to lightning was reported from Uttar Pradesh. Jharkhand recorded the highest intensity of lightning strikes in the country. The lowest number of lightning strikes was recorded in Jammu and Kashmir. July is the period with highest lightning activity in the country."
+}

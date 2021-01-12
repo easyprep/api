@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9e032f88-dc3b-4fcd-8ac5-e46fd6bb6ce2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The ozone hole over the Antarctic shrunk to record small size in October. In this context, consider the following statements:<br />\n<ol>\n<li>The ozone hole over the Antarctic is usually smaller during the winter.</li>\n<li>Unusually cool weather in the southern hemisphere is the reason for the shrinking of the ozone hole.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe ozone hole over the Antarctic is usually larger during the winter months. According to NASA, the ozone hole, during the winters, grows as large as 20 million square kilometres in the southern hemisphere. This is an area larger than Russia.\n<strong>Statement 2 is incorrect:</strong>\nThe unusually warm weather over the Antarctic is the reason for the record small size of the ozone hole over this region. The NASA reported that the hole is less than 10 million square kilometres. This is because the warm weather dissipated the polar clouds from the stratosphere and retarded the formation of reactive chlorine. Reactive chlorine is responsible for ozone depletion."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "16ef41cc-b082-4a5e-9e36-6692550396e2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "USA recently designated India’s NAVIC as ‘allied navigational satellite system’. In this context, consider the following statements:<br />\n<ol>\n<li>QZSS is also USA’s allied navigational satellite system.</li>\n<li>GLONASS is also USA’s allied navigational satellite system.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nQZSS is the navigational system of Japan. It is also known as ‘Michibiki’. It is an augmentation for USA’s Global Positioning System. It stands for Quasi Zenith Satellite System and is composed of 4 satellites. It is one of the allied navigational satellite systems of USA.\n<strong>Statement 2 is incorrect:   </strong>\nGLONASS is a non- allied navigational satellite system of USA under its National Defense Authorisation Act. This means that USA will not cooperate nor exchange information with the Russian satellite system. China’s navigational satellite system Beidou is also under this category."
+}

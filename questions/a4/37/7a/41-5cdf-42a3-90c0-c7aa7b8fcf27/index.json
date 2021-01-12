@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a4377a41-5cdf-42a3-90c0-c7aa7b8fcf27",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent renewal of the Pharmaceutical Purchase Policy by the cabinet, consider the following statements:<br />\n<ol>\n<li>It is applicable only to the central public sector units.  </li>\n<li>Alcohol hand disinfectant is included in the list.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe pharmaceutical purchase policy is applicable only to the central public sector units and their subsidiaries. It is applicable to 103 medicines and was introduced in 2013. In 2018, the terms of the policy expired. Recently, the cabinet renewed the PPP.\n<strong>Statement 2 is correct:</strong>\nThe cabinet renewed the PPP in November. Along with the renewal, the cabinet added alcoholic hand disinfectant to the list of medicines covered by PPP. The prices for these medicines are to be set by National Pharmaceutical Pricing Authority."
+}

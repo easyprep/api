@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "184d0231-525a-4a70-a512-7970d54f4752",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent RBI norms about Liquid Coverage Ratio/ LCR, consider the following statements:<br />\n<ol>\n<li>LCR is obtained by dividing the high quality liquid asset amount by the amount of cash inflow.</li>\n<li>LCR is required for weathering short term disruptions in liquidity.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Liquidity Coverage ratio is obtained by dividing the proportion of high quality liquid asset held by a financial institution by the net cash flow amount. The RBI gave a new rule that the NBFCs are to ensure that a minimum high quality liquid asset held must be 50% of the LCR.\n <strong>Statement 2 is correct:</strong>\nThe LCR is needed to ensure the survival of the financial institutions during short-term liquidity crises. The RBI norms came with the backdrop of the IL&amp;FS crisis and the liquidity crisis that plagued the NBFCs. The LCR idea itself was proposed as a response to the 2008 financial crisis.\n&nbsp;"
+}

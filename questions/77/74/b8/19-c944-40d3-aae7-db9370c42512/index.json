@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7774b819-c944-40d3-aae7-db9370c42512",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of CSIR conducting IndiGen Genome Project, consider the following statements:<br />\n<ol>\n<li>Only a specific section of the genome is to be sequenced by the project.</li>\n<li>It is to aid in predictive medicine.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe IndiGen Genome Project is to involve Whole Genome Sequencing. In October, the Council of Science and Industrial Research/ CSIR conducted whole genome sequencing of over 1,000 individuals. This will help create a baseline data along with obtaining knowhow and indigenous capacity in the field.\n<strong>Statement 2 is correct:</strong>\nThe genomic data collected by this project will enable the development of predictive medicine in India. The sequence can be analysed through cheaper genetic tests and determine a person’s susceptibility to various genetic illnesses like cancers. It can also aid in development of preventive medicine."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e2826a37-5086-44ed-8fba-9653bc3c2965",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent plague incidence in China, consider the following statements:<br />\n<ol>\n<li>WHO recommends universal vaccination against plague. </li>\n<li>Oceania is the most plague susceptible region in the world.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThough vaccines against plague is available, the World Health Organisation does not recommend universal vaccination. It recommends vaccination only for high-risk groups for prevention purposes. It recommends strengthening of surveillance in countries which had experienced a plague outbreak in the past.\n<strong>Statement 2 is incorrect:</strong>\nOceania is not susceptible to plague according to WHO. All other continents are susceptible to the disease, especially Asia, Middle East and Europe. The last outbreak of plague was in 2017 in Madagascar. India too had experienced a plague outbreak in the past."
+}

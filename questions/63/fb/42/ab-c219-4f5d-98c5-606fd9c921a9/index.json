@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "63fb42ab-c219-4f5d-98c5-606fd9c921a9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The European Green Deal has been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>Poland is party to the agreement.</li>\n<li>It seeks to cut greenhouse gas emission by 40% by 2030.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nPoland is no longer party to the agreement. The country left the EU 2050 Climate Neutrality agreement when the other countries refused to extend the deadline for compliance to 2070. This is because Poland’s energy sector is depended on coal (80%).\n<strong>Statement 2 is correct:</strong>\nThe 2050 Climate Neutrality agreement seeks to cut greenhouse gas emission by 40% by the year 2030. The member countries are to cut the emission by 85% to 90% by 2050. The project is worth about 100 billion Euro."
+}

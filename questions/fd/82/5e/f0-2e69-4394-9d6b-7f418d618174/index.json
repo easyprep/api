@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fd825ef0-2e69-4394-9d6b-7f418d618174",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently Apple included Sevastopol as a part of Russia causing geopolitical tensions. With reference to this, consider the following statements:<br />\n<ol>\n<li>Sevastopol is a port city along Black Sea.</li>\n<li>Sevastopol is a disputed territory between Russia and Ukraine.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSevastopol is a major port city. It lies on the shore of the Black Sea. It has had historical value as a strategically important port for its navigability and also as a naval base. It is also an important tourist destination and a marine biology research centre.\n<strong>Statement 2 is incorrect:</strong>\nSevastopol is a disputed port city on the Crimean Peninsula. It is a disputed territory between Crimea and Russia. Most countries, including the UN members recognise it as a part of Ukraine. However, Russia has been administering it since 2014."
+}

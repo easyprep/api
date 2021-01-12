@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ca86b9b4-dc13-4f7d-9292-f0dc50b4c4a6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The ‘Orthographic Waves’ on Mars was recently mapped recently, which is a first. With reference to this, consider the following statements:<br />\n<ol>\n<li>This is the wind flow pattern of Mars.</li>\n<li>The Orthographic Waves were mapped using the Mars Orbiter Mission.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe NASA study published in journal Science mapped the wind flow pattern on Mars. This is a first for any planet. The data showed that the wind circulation on the Red Planet showed ‘ripple effects’ and lasted for a long time without changing.\n<strong>Statement 2 is incorrect:</strong>\nThe wind patterns were recorded by the MAVEN mission of NASA. The MAVEN or Mars Atmosphere and Volatile Evolution mission was launched in 2013 by NASA. It was launched to study the Martian atmosphere. It reached the Martian orbit in 2014."
+}

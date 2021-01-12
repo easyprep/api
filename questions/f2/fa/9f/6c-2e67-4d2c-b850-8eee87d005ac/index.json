@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f2fa9f6c-2e67-4d2c-b850-8eee87d005ac",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about ‘Flygskam’, consider the following statements:<br />\n<ol>\n<li>It is a hybrid aircraft that runs on biofuel.</li>\n<li>It originated in Sweden.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong> Statement 1 is incorrect:</strong>\nFlygskam is a campaign to encourage people to quit using flights as a mode of transport. It is also known as the flight shaming campaign. It involves famous climate change activist Greta Thunberg as one of its promoters. The campaign had instead been encouraging people to take the train.\n<strong>Statement 2 is correct:</strong>\nThe campaign started in Sweden. Flygskam is a Swedish term. The Swedish airline industry has been seeing a drop in passenger traffic as a consequence of this campaign. The campaign has spread to major parts of Europe."
+}

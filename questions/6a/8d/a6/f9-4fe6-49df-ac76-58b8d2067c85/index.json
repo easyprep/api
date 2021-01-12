@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6a8da6f9-4fe6-49df-ac76-58b8d2067c85",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about Ivory wood being a ‘Cinderella Species’, consider the following statements:<br />\n<ol>\n<li>Cinderella Species are those that are covered more by conservation initiatives than other endangered species.</li>\n<li>Cinderella Species are also known as Flagship Species.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nCinderella Species are those animal and plant species that do not receive the same conservation efforts as well known species like Tigers and Rose wood trees. A large majority of species belong to this category because of excessive focus on the popular species.\n<strong>Statement 2 is incorrect:</strong>\nCinderella species are not the same as Flagship species. The term flagship species applies to those plants and animals which receive the maximum portion of conservation efforts. These animals are often considered attractive by public. Eg: Tigers, elephants, pandas, etc. Ivory wood tree is an example of Cinderella species."
+}

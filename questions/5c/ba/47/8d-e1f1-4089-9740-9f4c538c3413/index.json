@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5cba478d-e1f1-4089-9740-9f4c538c3413",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions surrounding Project Soli, consider the following statements:<br />\n<ol>\n<li>Soli uses camera to render its special function.</li>\n<li>It allows a device’s user to operate it without touching the screen.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nSoli is not a camera. It is a radar chip. It is incorporated in Google’s Pixel 4, the chip was developed as a part of Project Soli by the Google’s Advanced Technology and Projects Team. Recently, the team succeeded in reducing the chip size and incorporating in its device.\n<strong>Statement 2 is correct:</strong>\nThe Soli radar chip enables the Motion Sense function. This is similar to the Air Gestures functions that was introduced by Samsung. The Motion Sense allows the user to control the device using hand gestures. This is by interaction of electromagnetic waves with human hands."
+}

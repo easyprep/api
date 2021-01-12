@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "2da206ba-837b-493a-bee2-927577eb4f66",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the Nirbhaya case convicts were directed to apply for mercy petitions. In this context, consider the following statements:<br />\n<ol>\n<li>The grant of pardon by the President is only an act of grace.</li>\n<li>President’s pardon is not subject to judicial review.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSupreme Court in Kehar Singh v Union of India held that the grant of pardon by the president is only an act of grace. It is not a right. The concept of pardon was introduced for the sake of public welfare. Article 72 of the constitution provides the Presidential power to pardon.\n<strong>Statement 2 is incorrect:</strong>\nThe power of a president to grant pardons is subject to judicial review. The judiciary can interfere if it finds that the procedure adopted by the president for performing the functions under article 72 is arbitrary. A delay in the same is also subject to judicial review."
+}

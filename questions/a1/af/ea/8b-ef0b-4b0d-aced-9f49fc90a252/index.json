@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "a1afea8b-ef0b-4b0d-aced-9f49fc90a252",
+  "labels": "current-affairs,2019-12-24",
+  "question": "December 2019 marks 60 years since the singing of the Antarctic Treaty. In this context, consider the following statements:<br />\n<ol>\n<li>The treaty defines Antarctica as all land and ice shelves north of 60 degrees N latitude.</li>\n<li>The treaty bans military activity in Antarctica.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Antarctic Treaty defines Antarctica as all the ice shelves and land mass south of the 60 degree South latitude. Antarctica is the only continent devoid of a native human population. The treaty was signed in December 1959 and came into force in 1961.\n<strong>Statement 2 is correct:</strong>\nThe Antarctic Treaty banned any form of military activity (except for peaceful purposes) in the Antarctica. It established the continent as a scientific preserve and 54 states are party to this treaty. The treaty established the freedom of scientific investigation in this region."
+}

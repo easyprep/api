@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6eefd024-daa9-485f-8f9b-ca9b06c20b0d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Indian National Centre for Ocean Information Services was in news in context with the launch of the new information dissemination products for fishermen. In this context, consider the following statements:<br />\n<ol>\n<li>INCOIS falls under the ministry of science and technology.</li>\n<li>The INCOIS identifies potential fishing zones as part of its operation.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nINCOIS is a body under the ministry of earth sciences. It is an autonomous body established in 1998. The INCOIS is a part of the Earth System Science Organisation. The body provides advisory services to various fields like government, scientists, society, industry, etc.\n<strong>Statement 2 is correct:</strong>\nINCOIS provides details of potential fishing regions in an ocean. The PFZ project is the first massive project of INCOIS. It made use of satellite data from OCEANSAT and NOAA. It made use of ocean color and SST data."
+}

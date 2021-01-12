@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "e21dbbbd-c7ba-4597-9cd5-38ab2608e3ec",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, TRAI changed some of the Mobile Number Portability rules. In this context consider the following statements about MNP:<br />\n<ol>\n<li>MNP allows the changing of service area but not the service provider.</li>\n<li>The validity period of the Unique Porting Code will be longer for north-eastern states than the other states.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMNP is tool provided to the telecom user to alter the service area and/ or the service provider without changing the mobile number. The subscriber can port the number out of a certain service area or a circle to another within the country. The subscriber can also change the service provider.\n<strong>Statement 2 is correct:</strong>\nUnique Portability Code/ UPC will be valid for 30 days in the north- eastern states. However, the recent rules change altered the validity period for other states from 15 days to 4 days. The porting out timeline has also been reduced. The recent rule change is expected to speed up the MNP process."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "06930caa-d719-4c76-96ba-fd252a39bb47",
+  "labels": "current-affairs,2019-12-24",
+  "question": "To tackle the flood situation in Karnataka and Bihar, the centre is to provide funds from NDRF as the SDRF source has become insufficient. In this context, consider the following statements :<br />\n<ol>\n<li>The operation of SDRF is under the purview of state governments.</li>\n<li>All states are required to mandatorily create district disaster response funds/ DDRF.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe state disaster response fund was constituted under the Disaster Management Act, 2005 for the states. The operation of the SDRFs is under the purview of the ministry of home affairs at the centre. The centre contributes to 90% of the states’ SDRF.\n<strong>Statement 2 is incorrect:</strong>\nThe DM Act, 2005 had called for creation of DDRFs at the states. However, the creation of these funds was not made mandatory because it may lead to fragmentation of resources in states with inadequate technology cover."
+}

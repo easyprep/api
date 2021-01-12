@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1f1783fc-dd02-4999-b18d-64fb924f83d0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the Sishu Suraksha app in November, consider the following statement:<br />\n<ol>\n<li>It was launched by Assam government.</li>\n<li>It is meant to ensure the health of new born children in the state.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Sishu Suraksah app is a mobile application that was launched by the government of Assam. It is the first app of its kind among the north-eastern states. It was launched on the occasion of Children’s Day celebrated on 14<sup>th</sup> of November.\n<strong>Statement 2 is incorrect:</strong>\nThe app is meant for protection of child rights in the state. It is to be used to curb child abuse and child rights’ violation. The complaints can be registered online through this app.  Both android and i-operating system can support this app."
+}

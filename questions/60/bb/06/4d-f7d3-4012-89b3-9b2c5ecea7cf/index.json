@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "60bb064d-f7d3-4012-89b3-9b2c5ecea7cf",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The cyclone Kyarr affected the eastern coast of India in October. In this context, consider the following statements:<br />\n<ol>\n<li>It is the first super-cyclone in the region.</li>\n<li>The name Kyarr was given by Myanmar.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIt is not the first of its kind. Earlier, eight such super-cyclones have formed in the North Indian Ocean. It is the first super-cyclone in the Arabian Ocean after 12 years. The last such cyclone was formed in 2007. This was the cyclone Gonu.\n<strong>Statement 2 is correct:</strong>\nThe name Kyarr was given by Myanmar. This is according to the 2000 system of naming for cyclones originating in the Bay of Bengal and Arabian Sea region. This system was constituted by Bangladesh, India, Maldives, Myanmar, Oman, Pakistan, Sri Lanka and Thailand."
+}

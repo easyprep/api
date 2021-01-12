@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "8905f773-c54a-49d6-8c01-d6f067154ad6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently passed Zero Carbon Act, consider the following statements about its provisions:<br />\n<ol>\n<li>It seeks to cut biogenic methane emission to zero by 2050.</li>\n<li>It will introduce an emission budget.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Zero Carbon Act of New Zealand is a landmark legislation in global action against climate change. It seeks to reduce all GHGs except biogenic methane to zero by 2050. Biogenic methane is produced by many natural sources like livestock and wetlands.\n <strong>Statement 2 is correct:</strong>\nThe Zero Carbon Act will establish a system of emission budget. Emission budgets are used to impose an upper limit on GHGs like carbon dioxide. These are used because of the almost linear relation between GHG emission and global warming."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "abd8547c-c592-41dd-b0be-802b33b3d15a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent spread of African Swine fever in China, consider the following statements:<br />\n<ol>\n<li>It has no cure.</li>\n<li>WHO is also responsible for animal health issues.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAfrican Swine Fever is an illness that affects pigs across the world. It has no cure. It is highly contagious and has high mortality rate (nearly 100%). Most of the nations resort to culling to cut the spread of the disease.\n <strong>Statement 2 is incorrect:</strong>\nThe World Organisation for Animal Health is responsible for tackling animal diseases. It is an international organisation with 182 member states including India. The African Swine Fever is listed on its Terrestrial Health Code and indicates that the cases are to be reported."
+}

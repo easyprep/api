@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "6c78cf67-b0ef-4ed9-8aa2-d7d064c0cea1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about Mitochondrial Eve, consider the following statements:<br />\n<ol>\n<li>It involves only the female line of descendants.</li>\n<li>The Mitochondrial Eve originated in Africa.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIt involves only the female line i.e. mother’s mother and her mother until it all converges on a common female member. Mitochondrial Eve is the most recent woman from whom all humans originated. The male counterpart is the Y-chromosomal Adam.\n<strong>Statement 2 is correct:</strong>\nAfrica is the most widely accepted place of origin of Mitochondrial Eve. This is in accordance with the Out of Africa theory which suggests that humans originated in the African region. It is theorised that humans left Africa in several waves of dispersal."
+}

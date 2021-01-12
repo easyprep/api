@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "fc471f70-a1a3-4dfc-82f9-c819ca3c2090",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In November, the Skills Build Platform was launched. In this context, consider the following statements:<br />\n<ol>\n<li>It was launched by the ministry of finance.</li>\n<li>The program will offer a diploma in cloud computing.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Skills Build Platform was launched by the ministry of skill development and entrepreneurship. It was launched in collaboration with IBM. It will be implemented through Industrial Training Institutes and National Skill Training Institutes. The program was launched to create a job ready work force in India.\n<strong>Statement 2 is correct:</strong>\nThe program will offer two year diploma program in cloud computing and other digital technologies. It will offer training in Information Technology, Artificial Intelligence, networking, etc. Professional skills like communication, resume writing and problem solving are also to be taught under the program."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "40f0e026-85c8-4dcb-8f96-7bea17298c38",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Structures called ‘Kipuka’ has been in news lately. In this context, consider the following statements:<br />\n<ol>\n<li>It is a region of young lava flow surrounded by older lava flow.</li>\n<li>It is seen on moon.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nKipuka is a region of rocks surrounded by younger lava flow which maybe solidified. It is derived from the Hawaiian term meaning islands. They have been in news since recent studies have identified unique new kipukas that may provide insight into the ancient meteorite impact of earth.\n <strong>Statement 2 is correct:</strong>\nKipukas are seen on moon and also on earth. They are associated with volcanic activity. New observations in moon’s Crisium Basin has revealed unique kipuka structures formed by subsurface volcanic activity. These kipukas are reported to contain ‘impact melts’ that would help in dating these impacts."
+}

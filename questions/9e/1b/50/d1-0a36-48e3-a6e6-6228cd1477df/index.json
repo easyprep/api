@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9e1b50d1-0a36-48e3-a6e6-6228cd1477df",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the Sample Registration System highlighting maternal mortality in India, consider the following statements:<br />\n<ol>\n<li>Maternal Mortality Ratio is the same as Maternal Mortality Rate.</li>\n<li>Maternal Mortality Rate reflects fertility level of population.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nMaternal Mortality Ratio is not the same as Maternal Mortality Rate. The former gives maternal mortality as a function of live births while the latter is a function of average number of women of reproductive age alive in the same period. The bulletin gives both the measures.\n<strong>Statement 2 is correct:</strong>\nThe maternal mortality rate also reflects the fertility rate of the population. This is because it is obtained by dividing the annual average number of maternal deaths by the average number of women of reproductive age alive in the same period in that population."
+}

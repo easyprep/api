@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "102165c6-020b-411b-a7ae-6b91e8184f52",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent designing of drugs to treat Batten Disease, consider the following statements:<br />\n<ol>\n<li>It affects the retina of the eye.</li>\n<li>The gene responsible for the disease is recessive in nature.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nBattens Disease is a genetic disorder that affects the retina of the eyes. It also affects the central nervous system. It is a rare and fatal condition that causes blindness, developmental regression, seizures and other conditions like ataxia, dysphagia and dysarthria.\n<strong>Statement 2 is correct:</strong>\nThe disease is caused by mutation of the CLN7 gene. It is recessive gene. This means that both the parents need to carry the gene and the child has to inherit only these mutated genes to acquire this disease. It is also called as MFSD8 gene."
+}

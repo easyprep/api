@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "764a087f-3203-4893-a4a3-f875ec70e156",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the ozone layer, consider the following statements:<br />\n<ol>\n<li>Ozone is present in the troposphere.</li>\n<li>Ozone is injurious to health.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe ozone is an inorganic gas found in tropospheric and stratospheric parts of earth’s atmosphere. About 90% of the ozone is in the stratosphere in the ‘ozone layer’. The remaining 10% is found in the troposphere. Tropospheric ozone is considered a green-house gas.\n<strong>Statement 2 is correct:</strong>\nOzone is injurious to health. It affects the respiratory system by damaging the tissue and the mucous membranes. This is because of its strong oxidising nature. While it is beneficial in the stratosphere (protection from UV). It is a pollutant in the troposphere."
+}

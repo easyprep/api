@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "635bc690-2883-4e60-afc5-871c19766aea",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the tensions surrounding the Euphrates River, consider the following statements about this water-body:<br />\n<ol>\n<li>It is located in Syria.</li>\n<li>It drains into the Strait of Hormuz.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Euphrates River is an important river of West Asia. It is also the longest river in west Asia. It is located in Syria and also flows through Iraq. It marks one of the borders of the now defunct Northern Syria Buffer Zone.\n<strong>Statement 2 is incorrect:</strong>\nThe Euphrates River drains into the Persian Gulf. The Persian Gulf is in the Mediterranean Sea. Most of the rivers’ water is sourced from rainfall and melting snow. The river is a key component of the Fertile Crescent area."
+}

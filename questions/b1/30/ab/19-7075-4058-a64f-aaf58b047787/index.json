@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b130ab19-7075-4058-a64f-aaf58b047787",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recently introduced Intensified Mission Indradhanush 2.0, consider the following statements:<br />\n<ol>\n<li>IMI 2.0 will involve vaccination against Japanese Encephalitis.</li>\n<li>IMI 2.0 will not target pregnant women.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe IMI 2.0 was launched on December 3<sup>rd</sup> 2019. It is to target 8 diseases: meningitis, diphtheria, whooping cough, tetanus, tuberculosis, poliomyelitis, measles and hepatitis-B. It will also cover Japanese Encephalitis in specific regions, along with rotavirus diphtheria. Selected sites will also be targeted for immunisation against hemophilus influenza type B and pneumonia.\n<strong>Statement 2 is incorrect:</strong>\nThe IMI 2.0 will target immunisation of children under the age of 2 years and pregnant women. The four phased vaccination drive will go on till March 2020. It will especially target the remote areas, school drop outs, resistant families, etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "f1dfe5cf-6085-4011-855b-6f562b071dba",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about Aerosol Optical Depth, consider the following statement:<br />\n<ol>\n<li>It is the measure of extinction of sun light by dust and haze.</li>\n<li>It is expressed in terms of candela per cubic metre.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAerosol Optical Density/ AOD is a measure of extinction of sunlight by dust and haze. It is the blocking of solar beams from reaching the earth’s surface due to scattering and absorption by atmospheric particles. It is used as an indicator of air pollution in a region.\n<strong>Statement 2 is incorrect:</strong>\nAerosol Optical Density is a dimensionless quantity i.e. it has no units. It simply gives the quantum of aerosol in a vertical column of atmosphere which is above the observed location. It value range from 0.01 (very clean air) to 0.4 (hazy)."
+}

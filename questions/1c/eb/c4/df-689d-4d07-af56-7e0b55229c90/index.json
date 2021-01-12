@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1cebc4df-689d-4d07-af56-7e0b55229c90",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Committee to Protect Journalists recently released a report on the trend of jailing journalists across the world. With reference to this, consider the following statements:<br />\n<ol>\n<li>China tops the list for highest number of journalists’ jailing.</li>\n<li>Most of the jailing were for ‘false news’ charges.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Committee to Protect Journalists released a report on the number of jailing of journalists country-wise. It reported that China topped the list with 48 journalists in jail in relation to their work. Other top jailers are Turkey, Saudi Arabia and Egypt.\n<strong>Statement 2 is incorrect:</strong>\nThe CPJ, an international organisation based in USA, found that most of the journalists were jailed for anti- state charges. But the number of jailing for propagation of ‘false news’ has increased since last year from 28 to 30. Around the world, a total of 250 journalists are in jail in relation to their work."
+}

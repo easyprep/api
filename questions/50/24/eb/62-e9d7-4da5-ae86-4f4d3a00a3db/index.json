@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5024eb62-e9d7-4da5-ae86-4f4d3a00a3db",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of discovery of the anti-biotic Phazolicin, consider the following statements:<br />\n<ol>\n<li>It is produced by the Wild Bean plants in Mexico.</li>\n<li>It is a peptide compound.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Phazolicin was found in the root nodules of the wild bean plant in Mexico’s Los Tuxtlas Tropical Forest. However, it is produced by a bacteria in the nodule called Rhizobium. This is a symbiotic soil microbe that provides the plant with nitrogen fixation service and also protection from bacterial attacks.\n<strong>Statement 2 is correct:</strong>\nThe Phazolicin is a peptide compound. It has the ability to enter many bacterial cells and bind with their ribosomes. This hinders the pathogen’s ability to synthesize proteins that are necessary for normal functioning. These peptides themselves are produced by ribosomes."
+}

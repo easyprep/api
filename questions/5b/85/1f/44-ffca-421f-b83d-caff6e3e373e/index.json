@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "5b851f44-ffca-421f-b83d-caff6e3e373e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "NASA recently released the xEMU spacesuits. In this context, consider the following statements:<br />\n<ol>\n<li>It is intended for use the first all-women space-walk.</li>\n<li>The xEMU space-suits are intended only for female astronauts.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe xEMU or Exploration Extravehicular Mobility Unit was developed by NASA for its upcoming Artemis Mission to the moon. The xEMU has several advantageous features which will allow the astronauts greater mobility like the ability to lift ones arms above the head.\n<strong>Statement 2 is incorrect:    </strong>\nThe xEMU will be worn both by men and women who are to go on the Artemis Mission. Space-suits are custom made to fit each astronaut depending upon their body dimensions. They are subject to a full-body 3 D scan in various posture before the suits are made."
+}

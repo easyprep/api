@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "1c9c8f8a-a191-4776-8db0-16f534617c23",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of CSIR developing ‘green crackers’, consider the following statements:<br />\n<ol>\n<li>These firecrackers will make use of plant matter to produce colors.</li>\n<li>It is cheaper than the conventional firecrackers.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe green firecrackers will make use of chemicals but in a better formulation to enable reduction in the level of emissions. It is said to reduce emission levels by 30% to 35%. This is especially in emission of oxides of sulphur and nitrogen.\n<strong>Statement 2 is correct:</strong>\nThe green firecrackers are to be cheaper than the conventional firecrackers. They will not need any special equipment for their manufacture. These can be manufactured using the currently available infrastructure. These are said to be 25% to 30% cheaper."
+}

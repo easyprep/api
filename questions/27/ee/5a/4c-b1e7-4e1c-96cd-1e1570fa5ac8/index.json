@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "27ee5a4c-b1e7-4e1c-96cd-1e1570fa5ac8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent study about Milky Way’s history, the Megallanic Stream was discussed. In this context, consider the following statements:<br />\n<ol>\n<li>Magellanic Stream is a galaxy.</li>\n<li>It is located at the galactic north pole of the Milky Way.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Magellanic Stream is a high velocity inter-galactic cloud. It is formed from the gas trails of the nearby galaxies called the Large Magellanic Cloud and the Small Magellanic Cloud. It is located 200,000 light years from the Milky Way.\n<strong>Statement 2 is incorrect:    </strong>\nThe Magellanic Stream is located at the galactic south pole of the Milky Way. The stream is a gravitational tug-of-war between the Small and Large Magellanic Clouds galaxies. Magellanic Stream is said to have originated from the Small Magellanic Cloud."
+}

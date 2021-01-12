@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "7e7762ce-355e-4aa4-bba0-c0170515b53f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent ban on Russia from the Olympics, consider the following statements about the World Anti-Doping Agency:<br />\n<ol>\n<li>WADA is a body under WHO.</li>\n<li>It is headquartered in Switzerland.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe World Anti-Doping Agency is not a part of WHO. It is associated with the International Olympic Committee. The IOC constituted the WADA as a result of the Declaration of Lausanne in 1999. Its role is to monitor and promote the coordination for tackling the doping issue in sports.\n <strong>Statement 2 is incorrect:</strong>\nThe WADA is headquartered in Quebec in Canada. The WADA gave the World Anti- Doping Code according to which the regional and national anti- doping bodies work. The WADA and its code are vital in the Court of Arbitration for Sports adjudication of doping related cases."
+}

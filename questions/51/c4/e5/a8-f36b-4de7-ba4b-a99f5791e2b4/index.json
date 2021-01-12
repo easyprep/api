@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "51c4e5a8-f36b-4de7-ba4b-a99f5791e2b4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discussions about the prevalence of transmissible cancers, consider the following statements:<br />\n<ol>\n<li>Oncovirus can cause cancer in humans.</li>\n<li>The Devil facial tumour disease is spread through bites.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThough transmissible cancers are rare in humans, oncoviruses can cause tumours. Kaposi’s sarcoma is one such example and is caused by a herpes virus. It occurs during organ transplants wherein an infected donor cell upon entering the recipient body multiplies into a tumour.\n<strong>Statement 2 is correct:</strong>\nDevil facial tumour disease is a naturally occurring transmissible cancer among the Tasmanian devils population. It is transmitted through animal bites. It is the cause the species is facing extinction as it has infected and killed over 80% of the population."
+}

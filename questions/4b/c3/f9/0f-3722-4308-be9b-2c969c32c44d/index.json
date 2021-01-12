@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4bc3f90f-3722-4308-be9b-2c969c32c44d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the increasing lake formation in Antarctica, consider the following statements:<br />\n<ol>\n<li>Melt-water lakes can cause lake-induced hydrofracturing.</li>\n<li>Meltwater-lakes absorb more solar energy than their surrounding ice.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe study in Scientific Reports showed that there are increasing number of melt-water lakes spotting the Antarctic landscapes. These can cause a type of destruction to the ice structure called the lake-induced hydrofracturing. This occurs when lakes rapidly drain their water into the ice below and cause them to break under the strain.\n <strong>Statement 2 is correct:</strong>\nThe melt-water lakes absorb more heat from the sun than the surrounding ice. This is because they are darker and absorb more radiation. The ice on the other hand is highly reflective and absorb very little radiation due to albedo effect."
+}

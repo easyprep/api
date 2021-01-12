@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b203ee5d-49cb-42f1-a320-5db5043966f9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the ministry level visit to Sakhalin Oil Field, consider the following statements:<br />\n<ol>\n<li>It is in Russia.</li>\n<li>The Krechet Rig is located in this oil field.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Sakhalin Oil Field is in Russia. It is in the Sakhalin Island in the North Pacific Ocean. India’s ONGC Videsh Ltd has a 20% share in Sakhalin I field. The other partners are Japan’s SODECO, Exxon Mobil and Rosneft.\n<strong>Statement 2 is correct:</strong>\nThe Rig Kretchet is located in the Sakhalin Oil Field. It is the largest and most powerful land rig in the world. It drills up to 14km horizontally. It is a covered drill that enables the workers to function in extremely cold temperatures like -40 degree Celsius."
+}

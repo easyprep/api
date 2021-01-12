@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b339adf0-f3c8-464c-812d-2efc017b1214",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Central electricity Authority recently proposed a Universal Feeder Code. In this context, consider the following statements:<br />\n<ol>\n<li>Each state has its own feeder coder.</li>\n<li>The universal feeder code is to help in detecting leakage.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe feeder line is an electricity line that transmits the power from generating hubs to sub-stations from where they are then distributed to the end users. The feeder code is used to identify these lines. Each state has its own feeder code ranging from 4 character to 16 character codes.\n <strong>Statement 2 is correct:</strong>\nThe Universal Feeder Code proposed by the Central Electricity Authority will standardise how the feeder code is assigned to the feeder lines. This will help in efficient data collection and hence detect power leakages and thefts. The proposed code is to be 14 characters long and composed of alpha numeric."
+}

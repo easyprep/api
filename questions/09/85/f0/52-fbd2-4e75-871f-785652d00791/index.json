@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0985f052-fbd2-4e75-871f-785652d00791",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent recommendation of the ‘Hub and Spoke model’ by parliamentary standing committee, consider the following statements:<br />\n<ol>\n<li>It is used to increase accessibility.</li>\n<li>It would decrease travel time.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe hub and spoke model is used to improve accessibility of a service. The Parliamentary Standing Committee on Science, Technology and Environment recommended the use of this model to treat cancer patients in the country. The committee was constituted to reduce the disease burden of the country.\n<strong>Statement 2 is correct:        </strong>\nThe hub and spoke model consists of hubs/ centres and spokes/ decentralised units. The hubs are to treat patients with complex cancers while the spokes will deal with the less serious forms of the disease. Because of this delegation, it will reduce the travel time and treatment time pf the patients."
+}

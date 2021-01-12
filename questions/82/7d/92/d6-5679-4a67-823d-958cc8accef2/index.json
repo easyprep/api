@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "827d92d6-5679-4a67-823d-958cc8accef2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The US Food and Drug Authority/ FDA recently approved the marketing of General Snus. In this context, consider the following statements about this product:<br />\n<ol>\n<li>It produces smoke but is devoid of nicotine.</li>\n<li>It can cause mouth cancer.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "The FDA had approved the marketing of General Snus, which is a tobacco product of the Swedish Match company. It is a smokeless tobacco product and it contains nicotine. It is sold as a moist powdered product in tea-bag-like pouches. However, FDA did not pass it off as safe.\n<strong>Statement 2 is correct:</strong>\nThe product poses lower risk than conventional cigarettes according to the company. However, the FDA had required the company to mandatorily issue warning labels on its General Snus product. This is because, smokeless tobacco products can also increase the risk of oral cancer, tooth loss, etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "0ad79def-9656-4436-b4a6-757c07a1d65a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, WHO observed the World Chronic Obstructive Pulmonary Disease Day in November. In this context, consider the following statements about COPD:<br />\n<ol>\n<li>Most of the COPD cases are caused by viral infection.</li>\n<li>COPD can cause limitation of physical activity.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe COPD is caused mostly by tobacco smoke. It is a progressive disease of the respiratory system (pulmonary system) that is an indicator of poor air quality. Indoor air pollution is a common cause of COPD in developing countries. Occupational exposure and genetic factors also contribute.\n<strong>Statement 2 is correct:</strong>\nCOPD is mostly characterised by chronic cough and shortness of breath. One of the debilitating effects of the disease includes limitation of physical activity. Apart from shortness of breath, it also leads to muscle wasting that retards the ability to do physical work."
+}

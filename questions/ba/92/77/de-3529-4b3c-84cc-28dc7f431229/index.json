@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "ba9277de-3529-4b3c-84cc-28dc7f431229",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the 2019 Nobel Prize recognising the invention of Lithium ion batteries, consider the following statements:<br />\n<ol>\n<li>The lithium ion batteries are flammable.</li>\n<li>Lithium ion batteries are self-discharging.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nLithium ion batteries face a major drawback in the form of high flammability. The electrolyte used in the batteries pose a fire hazard. This drawback has caused incidents where the manufacturers had to recall their products. In some cases, the batteries that powered aircrafts caught fire and caused the risk of plane crashes.\n <strong>Statement 2 is correct:</strong>\nLithium ion battery shows the phenomenon known as self-discharging. It is the process by which chemical reactions in the battery reduce the stored charge even in the absence of connection between the electrodes and the external circuit. The rate of self-discharge increases with temperature and age of the product.\n&nbsp;"
+}

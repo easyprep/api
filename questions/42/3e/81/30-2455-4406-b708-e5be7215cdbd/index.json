@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "423e8130-2455-4406-b708-e5be7215cdbd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The celestial object called Arrokoth has been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is the farthest celestial object to be visited by a spacecraft. </li>\n<li>It was discovered by the Hubble Space Telescope.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Arrokoth is the farthest space object to be visited by a spacecraft. It was previously known as Ultima Thule. It was renamed as Arrokoth because of the previous name’s association with the Nazis. The word Arrokoth means sky in Native American Powhatan language.\n<strong>Statement 2 is correct:</strong>\nThe Arrokoth is an icy space rock discovered by the Hubble Space Telescope in 2014. It is located in the Kuiper Belt beyond Pluto and was visited by NASA’s New Horizons in January. The Hubble Space Telescope is operated from Maryland in the vicinity of which is the homeland of the Powhatan people."
+}

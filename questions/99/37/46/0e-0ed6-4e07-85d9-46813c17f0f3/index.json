@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "9937460e-0ed6-4e07-85d9-46813c17f0f3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent discovery of ‘popcorn lung’ injury as a consequence of vaping, consider the following statements:<br />\n<ol>\n<li>It is a type of bronchiolitis.</li>\n<li>It is caused by nicotine.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nRecent studies say that vaping can lead to a type of pulmonary injury called popcorn lung injury. Vaping is the process of using e-cigarettes, vaping pen and other associated tools. Popcorn injury is a type of bronchiolitis- a condition that affects the airways called bronchioles of the lungs by causing inflammation and congestion.\n<strong>Statement 2 is incorrect:</strong>\nPopcorn lung injury is caused by a compound called diacetyl. It is a flavouring agent used in popcorns for achieving its characteristic buttery flavour and is blamed for lung injury among workers exposed to it. Diacetyl is also added to flavour nicotine in vaping devices."
+}

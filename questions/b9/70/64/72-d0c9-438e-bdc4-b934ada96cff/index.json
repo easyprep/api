@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "b9706472-d0c9-438e-bdc4-b934ada96cff",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The New Zealand Robin has been in the news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is a songbird.</li>\n<li>Its memory performance determines the bird’s breeding success.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe New Zealand Robin is a small song bird, known locally as the Toutouwai. It is known to feed on invertebrates that are larger than the bird itself. It weighs about 30g and can feed on an earthworm that is about 30cm long.\n<strong>Statement 2 is correct:        </strong>\nMemory plays a major role in its breeding success. The bird is being studied for its caching behaviour. As the bird cannot feed on all of its catch, it tends to store the catch in pieces at several locations. Here, a good memory is necessary."
+}

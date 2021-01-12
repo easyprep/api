@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:43.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "3c478a36-c5cc-47dc-945a-eb17771637d8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the newly developed kit for tackling Bluetongue virus, consider the following statements about this pathogen:<br />\n<ol>\n<li>It is transmitted by swines.</li>\n<li>Its infection causes the Dancing Disease in cattle.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Bluetongue virus is transmitted by insects known as midges. Virus bearing midges, upon biting the cattle, especially sheep, transmit the diseases. Hence, insect control is a main aspect of this disease’s management. The midges multiply in dung and moist soil.\n<strong>Statement 2 is correct:</strong>\nThe infection causes the Dancing Disease in cattle. The virus mostly affects sheep, while cattle are affected to a lesser degree. The infection causes foot lesions and lameness causing the animal to switch leg position frequently, thus earning the disease its name."
+}

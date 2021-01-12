@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "4a1c531c-89bf-480b-a66a-c37f48dbd99b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent observations about ‘true polar wander’, consider the following statements:<br />\n<ol>\n<li>Only Earth is capable of true polar wander.</li>\n<li>It can cause change in climate.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nEarth is not the only celestial object capable of true polar wander. Other planets and moons like Mars, Enceladus, Europa, etc. also undergo this phenomenon. It is caused when a mass imbalance causes the surface of Earth to rotate around its core.\n <strong>Statement 2 is correct:</strong>\nThe true polar wander can alter the climate of a given area. This occurred in Junggar Basin in north China. In earlier times, it was a green and damp forest but suddenly turned into an arid, warm area. A 25 degree southward shift of the region was the cause according to recent studies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:47.333Z",
+  "id": "96ca4663-8e5d-4c97-91eb-edf3f49a2d7d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "New gecko species were found at the Wolf Volcano by scientists recently. In this context, consider the following statements about the Wolf Volcano:<br />\n<ol>\n<li>It is located in Madagascar.</li>\n<li>It is an active volcano.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Wolf Volcano is located in the Galapagos Islands in the Pacific Ocean. It is a part of Ecuador. It is 1,707m high and is located on the Isabela Island. Recently, the Sabin’s Leaf Toed Gecko was discovered here.\n <strong>Statement 2 is correct:</strong>\nThe Wolf Volcano is an active volcano. It recently erupted in 2015 after remaining inactive for 33 years. It is a shield volcano. The region has many endemic reptiles and animals including the famous Pink Land Iguana and Sabin’s Leaf Toed Gecko."
+}
