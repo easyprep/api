@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "b9bc8d49-6777-4f22-8ae3-a1fc86bff7b1",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which of the following is possible for the economy of a country?",
+  "option1": "GNP = GDP",
+  "option2": "GNP > GDP",
+  "option3": "GNP < GDP",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "GNP = GDP+ NR (Net receipts from abroad or inflows from abroad) – NP (Net payment outflow to foreign assets)<br />So all the above cases are possible for a country"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-22T03:52:03.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "a8ddf007-f020-45d7-8356-86b7c6b35a91",
+  "labels": "current-affairs,2020-05-23",
+  "question": "The mandatory norms for accepting payments by electronic mode has been exempted for which type of companies?",
+  "option1": "B2C (business to consumer) businesses",
+  "option2": "B2B (business to business) businesses",
+  "option3": "C2B (consumer to business) businesses",
+  "option4": "C2C (consumer to consumer) businesses",
+  "option5": "",
+  "answer": "B2B (business to business) businesses",
+  "explanation": "The Finance Ministry recently announced that those companies with a turnover of over ₹50 crore and involved in only B2B (business to business) transactions are exempted from the mandatory requirement of accepting payments only by electronic modes like RuPay cards, BHIM-UPI or UPI-QR.\r\nSection 269SU was inserted in the Finance Act, 2019 to encourage digital transactions in the country, which mandated the businesses with sales/turn over above Rs 50 Crore to accept only e-payments. Since these e-payment has a maximum limit and the B2B businesses receive maximum payments through RTGS or NEFT, the exemption is cancelled."
+}

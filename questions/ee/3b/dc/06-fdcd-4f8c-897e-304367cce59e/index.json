@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T17:18:42.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "ee3bdc06-fdcd-4f8c-897e-304367cce59e",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which sector does e-nam belong to?",
+  "option1": "Agriculture",
+  "option2": "Manfacturing",
+  "option3": "Services",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Agriculture",
+  "explanation": "National Agriculture Market (eNAM) is a pan-India electronic trading portal which networks the existing APMC mandis to create a unified national market for farmers."
+}

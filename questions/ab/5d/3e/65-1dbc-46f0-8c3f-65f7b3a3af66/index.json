@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-17T18:17:48.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "ab5d3e65-1dbc-46f0-8c3f-65f7b3a3af66",
+  "labels": "current-affairs,2020-05-18",
+  "question": "Which of the following is the voting weightage of the Central Government when the decisions are taken by the GST Council?",
+  "option1": "2021-01-02T18:30:00.000Z",
+  "option2": "2021-02-02T18:30:00.000Z",
+  "option3": "2021-02-04T18:30:00.000Z",
+  "option4": "2021-03-04T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-01-02T18:30:00.000Z",
+  "explanation": "The voting weightage of the Central Government is 1/3rd of the total vote and for the all-state government together it is 2/3. All decisions are taken by the council by a majority of not less than 3/4th of the weighted votes of the Members present and voting."
+}

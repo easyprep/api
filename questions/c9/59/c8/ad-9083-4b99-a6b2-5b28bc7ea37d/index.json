@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "c959c8ad-9083-4b99-a6b2-5b28bc7ea37d",
+  "labels": "current-affairs,2020-05-31",
+  "question": "What is the formula for GDP Deflater?",
+  "option1": "Nominal GDP + Real GDP",
+  "option2": "Nominal GDP - (minus) Real GDP",
+  "option3": "Real GDP/ Nominal GDP",
+  "option4": "Nominal GDP/ Real GDP",
+  "option5": "",
+  "answer": "Nominal GDP/ Real GDP",
+  "explanation": "The GDP deflator measures price inflation in an economy.It measures the changes in prices for all of the goods and services produced in an economy. The GDP deflator is calculated by dividing nominal GDP by real GDP and multiplying by 100."
+}

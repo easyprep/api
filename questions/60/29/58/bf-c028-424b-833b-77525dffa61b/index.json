@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-16T02:55:42.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "602958bf-c028-424b-833b-77525dffa61b",
+  "labels": "current-affairs,2020-05-17",
+  "question": "What is ‘Eventbot’, that was seen in news recently?",
+  "option1": "Disinfectant Robot",
+  "option2": "Cryptocurrency",
+  "option3": "Malware",
+  "option4": "Chatbot",
+  "option5": "",
+  "answer": "Malware",
+  "explanation": "According to the Computer Emergency Response Team of India (CERT-In), the national technology arm to prevent cyber-attacks, android users who use mobile banking in mobile phones might be vulnerable to a new malware called ‘EventBot’.\r\nThe authorities also announced that the new malware steals personal and sensitive information of the users. It also warned that the Trojan virus may project itself as a genuine application such as MS Word and enter into the victim’s device. To combat the malware, CERT-in has advised users not to download applications from untrusted sources."
+}

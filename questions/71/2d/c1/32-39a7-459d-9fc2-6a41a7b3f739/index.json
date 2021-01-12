@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:41:31.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "712dc132-39a7-459d-9fc2-6a41a7b3f739",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which among the following is related to the demand curve?",
+  "option1": "Relation between quantity demanded and price of a commodity",
+  "option2": "Relation between supply and demand of a commodity",
+  "option3": "Relation between income of customer and demand of commodity",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Relation between quantity demanded and price of a commodity",
+  "explanation": "The demand curve is the graphical representation of the relationship between the quantity demanded of a commodity and its prices. It is downward sloping from left to right because of the law of diminishing marginal utility, income effect, and price effect."
+}

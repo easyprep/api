@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "01b272f0-f2e8-4c54-961d-f80e6b63cdfc",
+  "labels": "current-affairs,2020-05-31",
+  "question": "When does Real National income increase?",
+  "option1": "When Prices of goods increases",
+  "option2": "When saving of people increases",
+  "option3": "When Inflation increases prices and taxes",
+  "option4": "When the production of goods and services increases",
+  "option5": "",
+  "answer": "When the production of goods and services increases",
+  "explanation": "As the calculation of national income is the total value of all goods and services in an economy the real increase happens when the output production increases. The rate change won’t affect because while calculating real national income we take into account the prices of base year. So even the inflation effect is also removed."
+}

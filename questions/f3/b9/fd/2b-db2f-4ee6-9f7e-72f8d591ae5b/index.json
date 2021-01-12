@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-17T18:17:48.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "f3b9fd2b-db2f-4ee6-9f7e-72f8d591ae5b",
+  "labels": "current-affairs,2020-05-18",
+  "question": "Which among the following are the features of the Goods and Services Tax?<br />1. Uniform Tax Rates<br />2. No cascading effect<br />3. Four-tier Tax Structure<br />4. No differentiation in Goods or Services<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "In India, GST was enforced on 1st July 2017. The features of the GST are uniform Tax Rates across the country. No cascading effect like the VAT where tax was levied in every stage. Four-tier Tax Structure i.e, 5%, 12%, 18%, 28% and no differentiation in Goods or Services."
+}

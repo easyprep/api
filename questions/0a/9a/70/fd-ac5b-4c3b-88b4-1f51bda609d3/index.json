@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "0a9a70fd-ac5b-4c3b-88b4-1f51bda609d3",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which of the following are part of Gross National Product(GNP)?",
+  "option1": "Imports",
+  "option2": "Exports",
+  "option3": "Money earned by resident abroad",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Gross National Product is the value of all finished goods and services owned by a country\\'s residents over a period of time.\nGNP: GDP+ NR (Net receipts from abroad or inflows from abroad) – NP (Net payment outflow to foreign assets)"
+}

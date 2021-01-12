@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "f8cc3e79-5630-4dd7-86fb-a25db13eabd9",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which of the following are part of National income?",
+  "option1": "Value of all goods and services produced in a financial year",
+  "option2": "An reused good sold in that financial year",
+  "option3": "Service rendered by housewife",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Value of all goods and services produced in a financial year",
+  "explanation": "In the calculation of national income, the value of goods and services produced in a year is added. While the value of old sold goods and the services of the housewife is not added."
+}

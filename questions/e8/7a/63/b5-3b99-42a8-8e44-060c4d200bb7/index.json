@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T03:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "e87a63b5-3b99-42a8-8e44-060c4d200bb7",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which country is the last among G7 nations to join the association’s Artificial Intelligence (AI) group?",
+  "option1": "Canada",
+  "option2": "France",
+  "option3": "United Kingdom",
+  "option4": "United States",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The United States has recently joined the G7 Artificial Intelligence group, an international panel for setting ethical guidelines for usage of artificial intelligence.\r\nAs per the announcement from the White House, this move was to counter China in threatening civil liberties using technologies. The heads of France and Canada proposed this global group to guide the adoption of AI, which was rejected by the US President Donald Trump. Now US is the last nation to join the Global Partnership on AI."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-17T18:17:47.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "be81065e-3324-495e-8231-b6cc5fabe268",
+  "labels": "current-affairs,2020-05-18",
+  "question": "Which of the following is the highest tax slab of GST?",
+  "option1": 0.12,
+  "option2": 0.18,
+  "option3": 0.2,
+  "option4": 0.28,
+  "option5": "",
+  "answer": 0.28,
+  "explanation": "Goods and Service Tax (GST) are divided into four different tax slabs for collection of tax i.e, 5%, 12%, 18% and 28%."
+}

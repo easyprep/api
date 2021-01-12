@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T11:42:18.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "480c0b33-24bb-4a4b-849a-ab564ebb6085",
+  "labels": "current-affairs,2020-06-06",
+  "question": "Which of the following is a direct tax in India?",
+  "option1": "Sales Tax",
+  "option2": "VAT",
+  "option3": "Goods and Service Tax",
+  "option4": "Wealth Tax",
+  "option5": "",
+  "answer": "Wealth Tax",
+  "explanation": "Wealth tax is the direct tax that is imposed on the assets (House, rented buildings etc) of the Individual. Other direct taxes are corporation tax, income tax and wealth tax. All individuals and Hindu Undivided Family with net wealth above ₹30 lakh were required to pay wealth tax. This means that if the total net wealth of an individual, HUF or company exceeds ₹30 lakhs, on the valuation date, a tax of 1% will be levied on the amount in excess of ₹30 lakhs."
+}

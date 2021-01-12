@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-28T03:51:45.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "f27207f3-5bc5-4200-a18e-5041d869b174",
+  "labels": "current-affairs,2020-05-29",
+  "question": "Which country announced a ‘Bug bounty programme’, to incentivise those who identify flaws in its Covid-19 contact tracing app?",
+  "option1": "United States",
+  "option2": "India",
+  "option3": "United Kingdom",
+  "option4": "Brazil",
+  "option5": "",
+  "answer": "India",
+  "explanation": "India’s Covid-19 contact tracing app ‘Aarogya Setu’ was made an open source application by its think tank NITI Aayog.\r\nAfter several privacy concerns were raised over the app, it has been open sourced so that researchers can identify any vulnerability in the app to make it more secure. National Informatics Centre (NIC), which had developed the app has announced a bug bounty programme to incentivise those who find flaws in the app."
+}

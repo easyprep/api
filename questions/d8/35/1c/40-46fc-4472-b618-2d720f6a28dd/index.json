@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "d8351c40-46fc-4472-b618-2d720f6a28dd",
+  "labels": "current-affairs,2020-05-31",
+  "question": "The new GDP series calculates GDP based on which price?",
+  "option1": "Market price",
+  "option2": "Factor cost",
+  "option3": "Nominal costs",
+  "option4": "None",
+  "option5": "",
+  "answer": "Market price",
+  "explanation": "New GDP Series 2011-12<br />1. Change of base year – 2004-05 to2011-12<br />2. Change in GDP calculation to using market prices rather than factor costs.<br />3. Adopted the international practice of valuing industry-wise estimates as gross value added (GVA) at basic prices."
+}

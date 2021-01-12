@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-19T04:01:21.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "994d1494-d982-464f-87c5-8ad8caacfc6f",
+  "labels": "current-affairs,2020-05-20",
+  "question": "In the NMIS online dashboard recently developed by the National Disaster Management Authority, what does ‘M’ stand for?",
+  "option1": "Maintenance",
+  "option2": "Migrant",
+  "option3": "Ministry",
+  "option4": "Movement",
+  "option5": "",
+  "answer": "Migrant",
+  "explanation": "The National Disaster Management Authority (NDMA) has developed an online dashboard on the existing NDMA-GIS portal named ‘National Migrant Information System (NMIS)’.\r\nThe objective of launching this portal is to capture the information about movement of migrants and to enable them to transit across the states in a better manner. As per the communication from the Home Ministry, the portal equipped with a central repository will help in faster communication between the states."
+}

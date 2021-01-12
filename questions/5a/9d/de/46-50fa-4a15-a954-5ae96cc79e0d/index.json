@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-02T04:10:09.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "5a9dde46-50fa-4a15-a954-5ae96cc79e0d",
+  "labels": "current-affairs,2020-06-03",
+  "question": "Which file-sharing website has been ordered to be blocked by the Department of Telecom (DoT)?",
+  "option1": "Media Fire",
+  "option2": "WeTransfer",
+  "option3": "Drop Box",
+  "option4": "One Drive",
+  "option5": "",
+  "answer": "WeTransfer",
+  "explanation": "As per the recent order issued by the Department of Telecom (DoT), it has directed all internet service providers (ISPs) to block the computer file-sharing website ‘WeTransfer’, due to security reasons.\r\nAll internet service providers (ISPs) are directed to block two download links on the website WeTransfer as well as the entire website. We Transfer is an Internet-based computer file transfer service platform founded at Amsterdam, the Netherlands."
+}

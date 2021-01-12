@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T11:42:24.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "d2b0eb84-51d3-4890-807c-cf8a7ef243f4",
+  "labels": "current-affairs,2020-06-06",
+  "question": "What is the % of the Illiterate population in India?",
+  "option1": 0.331,
+  "option2": 0.405,
+  "option3": 0.54,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "After the 2011 census, literacy rate India 2011 was found to be 74.04%. So illiteracy would be 26.96%."
+}

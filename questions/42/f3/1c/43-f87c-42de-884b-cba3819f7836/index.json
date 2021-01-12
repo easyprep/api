@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-31T03:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "42f31c43-f87c-42de-884b-cba3819f7836",
+  "labels": "current-affairs,2020-06-01",
+  "question": "What was the real fiscal deficit of India, as a percentage of GDP, for the previous financial year 2019-20?",
+  "option1": 0.038,
+  "option2": 0.04,
+  "option3": 0.0425,
+  "option4": 0.0459,
+  "option5": "",
+  "answer": 0.0459,
+  "explanation": "As per the data from the Controller General of Accounts (CGA), India’s fiscal deficit was 4.59% of gross domestic product (GDP) for the year 2019-20. Fiscal Deficit is the gap between the government’s revenue and expenditure\r\nThe government’s revised target for its fiscal deficit was 3.8%, and the real deficit has exceeded it. However, the budget estimate was 3.5% of GDP. The Union Finance Minister invoked the escape clause in the Fiscal Responsibility and Budget Management Act to peg the deficit 0.5% higher than the Budget estimate."
+}

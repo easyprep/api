@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-29T04:05:41.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "1d2a2a5d-09f4-4444-a84e-482d6691e37d",
+  "labels": "current-affairs,2020-05-30",
+  "question": "Twitter recently linked the tweet of the which country’s head to fact-checking page?",
+  "option1": "China",
+  "option2": "Russia",
+  "option3": "United States",
+  "option4": "India",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "Social Media Giant Twitter recently labelled tweets from the United States President Donald Trump as misleading, by linking the tweets with a fact checking page.\r\nUnder the tweets by the President, there was a message displayed by Twitter which read, \"Get the facts about mail-in ballots\". Though Twitter clarified that the move was to provide context to the tweets, the President alleged that Twitter is interfering in the 2020 presidential election."
+}

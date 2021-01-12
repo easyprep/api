@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T03:36:08.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "2f534993-fab1-488e-b9bc-a70d901aedaa",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which real-time facility has been launched by the Union Finance Minister, that uses Aadhaar number-based e-KYC?",
+  "option1": "Instant Demat Account",
+  "option2": "Instant Permanent Account Number (PAN)",
+  "option3": "Instant Passport",
+  "option4": "Instant Udyog Aadhar",
+  "option5": "",
+  "answer": "Instant Permanent Account Number (PAN)",
+  "explanation": "Union Finance Minister Nirmala Sitharaman has officially launched the instant Permanent Account Number (PAN) facility which uses Aadhaar number-based e-KYC.\r\nThis was announced during the 2020 budget along with an interchangeable Aadhar and PAN feature. The Income tax department launched the beta facility on their e-filing website in February 2020. As this a paperless and real-time facility, the turn-around time taken for allotting the PAN through this facility is only about 10 minutes."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-03T03:36:44.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "1c3fe954-535b-4ab6-84cc-195e8f738519",
+  "labels": "current-affairs,2020-06-04",
+  "question": "Which Indian state/UT has launched a mobile application to give real-time information on number of hospital beds?",
+  "option1": "Goa",
+  "option2": "New Delhi",
+  "option3": "Odisha",
+  "option4": "Kerala",
+  "option5": "",
+  "answer": "New Delhi",
+  "explanation": "Chief Minister of Delhi Arvind Kejriwal has recently launched ‘Delhi Corona’ app for real-time information on availability of hospital beds.\r\nThe dedicated application would display the availability of beds at both private and government hospitals in the city, available at any particular time. Moreover, the app will also provide redressal of complaints related to refusal of hospitals in admitting COVID-19 positive patients."
+}

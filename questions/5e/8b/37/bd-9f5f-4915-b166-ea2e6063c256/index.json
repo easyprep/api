@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-03T21:01:35.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "5e8b37bd-9f5f-4915-b166-ea2e6063c256",
+  "labels": "current-affairs,2020-06-04",
+  "question": "Which of the following are the four Vedas?<br />1. Rig Veda<br />2. Sama Veda<br />3. Yajur Veda<br />4. Aranyaka<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "There are in total four Vedas and every Veda generally is divided into four parts: the Samhita, the Brahmana, the Aranyaka, and the Upanishad. The four Vedas are: Rig Veda, Sama Veda, Yajur Veda and Atharva Veda."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T11:42:21.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "bf6ca95e-d6cd-4300-8222-2f02e71c3ec8",
+  "labels": "current-affairs,2020-06-06",
+  "question": "Which of the following factors are responsible for the slow increase in per capita income in India?\n<ol>\n<li>Rapid increase in prices</li>\n<li>Rapid increase in population</li>\n<li>Unavailability of foreign exchange</li>\n<li>Slow pace in the development of industries.</li>\n</ol>\nChoose the correct option from the code given below:",
+  "option1": "1 and 2",
+  "option2": "2 and 3",
+  "option3": "1, 2 and 4",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2 and 4",
+  "explanation": "Per capita income is India is showing slow increase because of the rapid increase in prices, rapid increase in population. Along with it the development of Agriculture and industries is not increasing with rapidity. So statements 1, 2, and 4 are correct. Unavailability of foreign exchange is not a factor, responsible for the slow increase in Per Capita income in India."
+}

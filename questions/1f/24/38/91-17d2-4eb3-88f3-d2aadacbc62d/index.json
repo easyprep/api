@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-22T03:54:53.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "1f243891-17d2-4eb3-88f3-d2aadacbc62d",
+  "labels": "current-affairs,2020-05-23",
+  "question": "Google, along with which technology company has released their collaborative application programming interface (API) for contact tracing?",
+  "option1": "Apple",
+  "option2": "Microsoft",
+  "option3": "Amazon",
+  "option4": "Facebook",
+  "option5": "",
+  "answer": "Apple",
+  "explanation": "Apple and Google have made the application programming interface (API), developed for contact tracing available to the general public.\r\nThe APIs will be made available through publicly available software updates and only public health authorities could use the APIs to build contact tracing apps. As per their announcement, as many as 22 countries have requested and received access to the API so far. They also promised that the API would be destroyed once the pandemic is over and when contact-tracing apps are no longer required."
+}

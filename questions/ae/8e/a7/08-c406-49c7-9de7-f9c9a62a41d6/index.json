@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T11:42:28.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "ae8ea708-c406-49c7-9de7-f9c9a62a41d6",
+  "labels": "current-affairs,2020-06-06",
+  "question": "Which of the following happens because of DBT(Direct benefit transfer)?",
+  "option1": "Benefits are directly given to beneficiary in hand",
+  "option2": "Money is directly given in hand to beneficiary",
+  "option3": "Money is directly transferred to beneficiaries bank account",
+  "option4": "Money is given by the government official directly",
+  "option5": "",
+  "answer": "Money is directly transferred to beneficiaries bank account",
+  "explanation": "DBT is the direct benefit transfer where the money is directly transferred to the account of beneficiary avoiding middlemen which reduces corruption in the system."
+}

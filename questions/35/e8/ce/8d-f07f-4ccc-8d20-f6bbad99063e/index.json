@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-24T04:16:56.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "35e8ce8d-f07f-4ccc-8d20-f6bbad99063e",
+  "labels": "current-affairs,2020-05-25",
+  "question": "‘Micro-comb’, that was in news recently, is associated with which field?",
+  "option1": "Medicine and Virology",
+  "option2": "Internet and Communication",
+  "option3": "Environment",
+  "option4": "Nuclear Science",
+  "option5": "",
+  "answer": "Internet and Communication",
+  "explanation": "A team of Australian scientists have recorded the world's fastest internet data speed of 44.2 Terabits per second (Tbps) from a single light source.\r\nThis speed is enough to download 1000 HD movies in a split second. The researchers used their new device with a single piece of equipment known as a micro-comb, that is made up of hundreds of high-quality invisible infrared lasers from a single optical chip. This result can expand the capacity of network connections across the world, especially the developing and under-developed countries."
+}

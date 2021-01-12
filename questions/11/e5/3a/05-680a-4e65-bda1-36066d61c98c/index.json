@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "11e53a05-680a-4e65-bda1-36066d61c98c",
+  "labels": "current-affairs,2020-05-31",
+  "question": "Which sector contributes maximum to India’s GDP?",
+  "option1": "Agriculture",
+  "option2": "Manufacturing",
+  "option3": "Services",
+  "option4": "None",
+  "option5": "",
+  "answer": "Services",
+  "explanation": "Contribution of different sectors in an economy – <br />Agriculture - 17.1%<br />Services – 53%<br />Manufacturing – 16.7%<br />Others –13.2 %"
+}

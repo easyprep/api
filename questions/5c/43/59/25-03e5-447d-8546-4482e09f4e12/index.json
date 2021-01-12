@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-17T18:17:47.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "5c435925-03e5-447d-8546-4482e09f4e12",
+  "labels": "current-affairs,2020-05-18",
+  "question": "How many digits are there in the GSTIN (Goods and Services Tax Identification) number?",
+  "option1": 12,
+  "option2": 13,
+  "option3": 15,
+  "option4": 18,
+  "option5": "",
+  "answer": 15,
+  "explanation": "Goods and Services Tax Identification (GSTIN) number consists of 15 digits."
+}

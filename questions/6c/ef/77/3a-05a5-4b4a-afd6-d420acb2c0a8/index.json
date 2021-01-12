@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-24T04:05:04.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "6cef773a-05a5-4b4a-afd6-d420acb2c0a8",
+  "labels": "current-affairs,2020-05-25",
+  "question": "Ministry of Electronics and IT has integrated the India Meteorological Department (IMD) services on which application?",
+  "option1": "SHASHAKT",
+  "option2": "UMANG",
+  "option3": "SHAKTI",
+  "option4": "MYGOV",
+  "option5": "",
+  "answer": "UMANG",
+  "explanation": "The Ministry of Electronics and IT has recently integrated seven services of the India Meteorological Department (IMD) services on the “UMANG App”.\r\nThe services are Current Weather, Nowcast, City Forecast, Rainfall Information, Tourism Forecast, Warnings & Cyclone. UMANG (Unified Mobile Application for New-age Governance) is a mobile application lunched by the Government of India in 2017 for delivering services online on a single unified platform."
+}

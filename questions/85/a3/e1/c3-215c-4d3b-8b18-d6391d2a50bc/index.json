@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "85a3e1c3-215c-4d3b-8b18-d6391d2a50bc",
+  "labels": "current-affairs,2020-05-31",
+  "question": "What is India’s rank in the world in terms of nominal GDP?",
+  "option1": 6,
+  "option2": 7,
+  "option3": 5,
+  "option4": 4,
+  "option5": "",
+  "answer": 5,
+  "explanation": "Top 5 Nominal GDP rankings in the world<br />1. USA -$ 19.4 trillion<br />2. CHINA - $12.3 trillion<br />3. JAPAN - $4.8 trillion<br />4. GERMANY - $3.6 trillion<br />5. India - $2.6 trillion"
+}

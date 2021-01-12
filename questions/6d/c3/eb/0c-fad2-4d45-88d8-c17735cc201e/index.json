@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T04:18:30.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "6dc3eb0c-fad2-4d45-88d8-c17735cc201e",
+  "labels": "current-affairs,2020-06-06",
+  "question": "Which space firm has recently launched 60 new internet satellites into orbit using Falcon 9 rocket?",
+  "option1": "Blue Origin",
+  "option2": "Tesla",
+  "option3": "SpaceX",
+  "option4": "Orbital",
+  "option5": "",
+  "answer": "SpaceX",
+  "explanation": "American private space company SpaceX has recently launched 60 new internet satellites into orbit using Falcon 9 rocket.\r\nOnly before some days, billionaire Elon Musk owned SpaceX has sent two NASA astronauts to International Space Station, thereby becoming the first private firm to send astronauts to space on Falcon-9 rocket. This is the 8th batch of satellites and the total number of Starlink constellation of satellites is 482, as of now."
+}

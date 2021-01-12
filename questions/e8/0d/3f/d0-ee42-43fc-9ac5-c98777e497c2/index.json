@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-30T16:45:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "e80d3fd0-ee42-43fc-9ac5-c98777e497c2",
+  "labels": "current-affairs,2020-05-31",
+  "question": "What is subtracted from personal  income to get personal disposable income?",
+  "option1": "Indirect taxes",
+  "option2": "Direct taxes",
+  "option3": "subsidies",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Direct taxes",
+  "explanation": "Personal Disposable Income(PDI) is obtained when personal direct taxes are subtracted from personal income.<br />PDI = Personal Income – Direct Taxes<br />PDI = Consumption + Saving"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-31T03:16:16.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "c9b8c6b3-d9d8-4a34-98e0-36156ac96268",
+  "labels": "current-affairs,2020-06-01",
+  "question": "Which major technology company has launched a new application named ‘Sodar’, to help people maintain distancing?",
+  "option1": "Facebook",
+  "option2": "Amazon",
+  "option3": "Google",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Major technology firm Google has launched a new application named ‘Sodar’, to help people maintain social distancing. \r\nThe application uses Augmented reality (AR) for this purpose. It creates a visual boundary using the user’s smartphone camera and show who is breaching that distance, on a real-time basis. Earlier, the UN Technology Innovation Labs released a free mobile social distancing app 1point5 which uses Bluetooth signal."
+}

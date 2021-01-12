@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-04T04:39:59.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "64a46a2c-adbf-4914-a4b1-e75dde26b453",
+  "labels": "current-affairs,2020-06-05",
+  "question": "Which technology company has announced the launch of a programme for agritech start-ups in India?",
+  "option1": "Google",
+  "option2": "Microsoft",
+  "option3": "Amazon",
+  "option4": "Facebook",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Major technology company Microsoft has announced the launch of a programme named “Microsoft for Agritech Startups”.\r\nThe programme is to focus on the start-ups that are committed to driving transformation in agriculture. The programme seeks to assist start-ups in building industry-specific solutions, access to deep technology and markets. The selected start-ups can also get access to Azure FarmBeats, an aggregation platform available in Azure Marketplace."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T11:42:28.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "0fdbff16-eea5-4789-a4f0-623595cac49d",
+  "labels": "current-affairs,2020-06-06",
+  "question": "What is India's rank in terms of PPP?",
+  "option1": "First",
+  "option2": "Fourth",
+  "option3": "Second",
+  "option4": "Third",
+  "option5": "",
+  "answer": "Third",
+  "explanation": "Top 5 countries in GDP(PPP):<br />1. China<br />2. USA<br />3. India<br />4. Japan<br />5. Germany"
+}

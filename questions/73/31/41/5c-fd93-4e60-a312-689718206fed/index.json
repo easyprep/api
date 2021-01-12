@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-17T18:17:48.000Z",
+  "updated_at": "2021-01-06T08:24:55.101Z",
+  "id": "7331415c-fd93-4e60-a312-689718206fed",
+  "labels": "current-affairs,2020-05-18",
+  "question": "Which among the following Central taxes are subsumed under GST?<br />1. Central excise duty<br />2. Service tax<br />3. Additional custom duty<br />4. Special Additional Duty of Customs<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "1, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The Central taxes which are subsumed under GST are Central excise duty (CENVAT), Service tax, Additional custom duty (Countervailing duty), Special Additional Duty of Customs (SAD), Additional Duties of Excise (Textiles and Textile Products), Additional Duties of Excise (Goods of Special Importance), Duties of Excise (Medicinal and Toilet Preparations)."
+}
