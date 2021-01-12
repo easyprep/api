@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:39.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "ebac5d89-8c4d-472f-b1ff-66bf2f5afe67",
+  "labels": "current-affairs,2020-02-26",
+  "question": "Which of the following subatomic particle was discovered by Goldstein on the basis of the cathode ray experiment?",
+  "option1": "Proton",
+  "option2": "Neutron",
+  "option3": "Electron",
+  "option4": "Muon",
+  "option5": "",
+  "answer": "Proton",
+  "explanation": "The presence of positively charged particles in an atom has been predicted by Goldstein based on the electrical neutrality of an atom. The discovery of proton by Goldstein was done on the basis of the cathode ray experiment conducted by using a perforated cathode."
+}

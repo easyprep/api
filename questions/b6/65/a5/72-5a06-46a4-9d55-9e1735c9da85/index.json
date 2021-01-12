@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:18.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "b665a572-5a06-46a4-9d55-9e1735c9da85",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In light of the recent efforts to curb the spread of the novel coronavirus around the world, consider the following statements about Coronaviruses:<br />\n<ol>\n<li>They are causatives of the common cold.</li>\n<li>MERS is caused by Coronavirus.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe coronavirus is noted for affecting the respiratory system and the gastrointestinal tract in humans. They are the major causatives of the common cold. Currently, there are 7 known strains of the coronavirus including the currently spreading Wuhan virus.\n<strong>Statement 2 is correct:</strong>\nThe MERS or Middle East Respiratory Syndrome is caused by the MERS CoV (coronavirus). It was referred to as the novel coronavirus in 2012. The WHO had issued a global alert against the MERS during the 2012 outbreak in countries like Qatar and Saudi Arabia. SARS (Severe Acute Respiratory Syndrome) CoV is another example of coronavirus that affected Asia in 2000s."
+}

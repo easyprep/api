@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-07T02:41:58.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "ec704ef2-f1c9-4850-9cda-2a3c98a75d96",
+  "labels": "current-affairs,2020-03-08",
+  "question": "‘SCORES’ is a mobile application of which regulatory body of India?",
+  "option1": "Real Estate Regulatory Authority",
+  "option2": "Reserve Bank of India",
+  "option3": "Securities Exchange Board of India",
+  "option4": "National Housing Bank",
+  "option5": "",
+  "answer": "Securities Exchange Board of India",
+  "explanation": "Markets regulator SEBI (Securities Exchange Board of India) recently launched a mobile application for assisting investors to enter grievances in SEBI Complaints Redress System (SCORES) portal. The app has all the features of SCORES web portal for grievance redressal, which is already functioning.\r\nThe app, ‘SEBI SCORES\\', which is to be available on both iOS and Android platforms, will encourage investors to lodge their complaints on SCORES instead of sending physical letters."
+}

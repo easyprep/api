@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:19.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "a578df44-57e2-4512-8a7c-f8b4a2fa729c",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In context of the recent discussions about India’s No-Fly List, consider the following statements:<br />\n<ol>\n<li>The ban on a person via the No-Fly List is applicable to flights of international operators also.</li>\n<li>Smoking inside the aircraft is grounds for the airlines to ban passengers.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe banning of a person by inclusion in the No-Fly List is applicable to domestic airlines. The passenger can still take international flights as the requirements from Directorate General of Civil Aviation applies to domestic airlines only. However, issues arise when one leg of trip is operated by a domestic airline while another by an international airline.\n<strong>Statement 2 is correct:</strong>\nThe DGCA had issued an indicative list of grounds for including a passenger in the No-Fly List. These includes smoking in an aircraft, alcohol/ drug use resulting in unruly behaviour, use of abusive language against the crew/ passengers, intentional interference in the crew’s duties, etc."
+}

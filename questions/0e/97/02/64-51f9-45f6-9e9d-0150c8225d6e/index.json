@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:21.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "0e970264-51f9-45f6-9e9d-0150c8225d6e",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With reference to the recent development of vaccine for classical swine fever by the Indian Veterinary Research Institute, consider the following statements about the disease:<br />\n<ol>\n<li>It is caused by bacterial infection.</li>\n<li>A lapinized vaccine is one which is attenuated by passing through a pig.</li>\n<li>The new Indian vaccine is produced by cell culture</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 is correct",
+  "option4": "Only 3 is correct",
+  "option5": "",
+  "answer": "Only 3 is correct",
+  "explanation": "<strong> Statement 1 is incorrect:</strong>\nThe classical swine fever, also known as the hog cholera, is caused by a virus. The CSF virus belongs to the Flaviviridae family. The virus affects both domestic and wild swine like boars. It is one of the most important diseases of the pork industry and causes an annual loss of 4.29 billion INR.\n<strong>Statement 2 is incorrect:</strong>\nThe vaccine usually used for preventing the classical swine fever is the lapinized CSF vaccine. a lapinized vaccine is produced by attenuating (reducing the virulence) of a virus by passing it through rabbits. The production of the lapinized vaccine requires the sacrifice of numerous rabbits.\n<strong>Statement 3 is correct:</strong>\nThe vaccine developed by the Indian Veterinary Research Institute of the ICAR is via cell culture method. This eliminates the need for sacrificing rabbits. Also it was developed from an indigenous strain of the virus (as opposed to the Weybridge strain from UK). The new vaccine’s yield is 1000 times better than the existing cell culture based CSF vaccine."
+}

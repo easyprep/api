@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:38.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "112f2ed3-8fc1-4145-95b4-b75e2a028703",
+  "labels": "current-affairs,2020-02-26",
+  "question": "Which of the following was the first fundamental particle to be discovered?",
+  "option1": "Electron",
+  "option2": "Muon",
+  "option3": "Neutron",
+  "option4": "Neutrino",
+  "option5": "",
+  "answer": "Electron",
+  "explanation": "The electron was the first fundamental particle that was discovered. The credit for the discovery of the electron goes to J.J. Thomson based on his experiments carried out in a discharge tube. The discovery of negatively charged electron was later followed by the experiment conducted by Robert Millikan in 1909 to determine the quantity of charge on an electron."
+}

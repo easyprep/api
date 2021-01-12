@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:18.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "6b1522af-0e0b-4d1c-91c8-ab9216df19c2",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With regards to the recent release of the International Shark Attack File, consider the following statements:<br />\n<ol>\n<li>Blacktip sharks are found along the coastal regions.</li>\n<li>Ganga Shark is an extinct species of shark from India.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Blacktip sharks are found along the coastal waters of major oceans including the Indian Ocean. They are the most implicated species in shark bite cases around the world. The International Shark Attack File reported most of the unprovoked attacks occurred in the USA and Australia.\n<strong>Statement 2 is incorrect:</strong>\nThe Ganga Shark is a critically endangered shark species in India. It is found in River Ganga and River Brahmaputra. They are often mistakenly implicated in shark bite cases in the region which are actually caused by Bull sharks."
+}

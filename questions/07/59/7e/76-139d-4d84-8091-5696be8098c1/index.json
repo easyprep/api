@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "07597e76-139d-4d84-8091-5696be8098c1",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With respect to the recent success in using an anti-viral cocktail to control the novel coronavirus, consider the following statements:<br />\n<ol>\n<li>Anti-HIV drugs were used in the treatment.</li>\n<li>Oseltamivir, one of the components of the cocktail, is used for treating influenza.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Thai doctors had recently reported success in controlling coronavirus induced symptoms using an anti-viral cocktail containing anti-HIV drugs and drug used to treat flu. Ritonavir and lopinavir are the two anti-HIV drugs included in the combination which successfully improved the condition of a 71 year old patient in Thailand.\n <strong>Statement 2 is correct:</strong>\nThe drug combination contains oseltamivir which is an anti-flu drug used for treating influenza A and influenza B. Oseltamivir is commonly called ‘Tamiflu’. It was famously used for the tackling the H5N1 outbreak in India. Recently, the novel coronavirus claimed its first victim outside China- in Philippines."
+}

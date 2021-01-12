@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:16.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "6efeb955-a92b-479c-82bd-a975d3a9e855",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With respect to the recent discussions about ‘must run’ power plants, consider the following statements:<br />\n<ol>\n<li>A ‘must run’ plant cannot be unplugged from the electricity grid for commercial reasons.</li>\n<li>Solar power plants are to be labelled as ‘must runs’.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nA power plant that is labelled as ‘must run’ cannot be unplugged from the electricity grid for commercial considerations nor can they be subject to curtailment because of merit order despatch. These plants are to supply electricity to the grid under all conditions.\n<strong>Statement 2 is correct:</strong>\nThe expert group reviewing the Indian Electricity Grid Code recently called for inclusion of solar power plants under the ‘must run’ category. Other renewable energy based power plants like wind- based, wind- solar hybrid and hydro power based plants are also to be included."
+}

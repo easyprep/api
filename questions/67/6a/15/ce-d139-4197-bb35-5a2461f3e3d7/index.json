@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-10T02:54:48.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "676a15ce-d139-4197-bb35-5a2461f3e3d7",
+  "labels": "current-affairs,2020-02-11",
+  "question": "In the wake of the coronavirus fears, recently the Baltic Dry Index sank to all time low plunging into negative territory. What is tracked by Baltic Dry Index?",
+  "option1": "Crude Oil Prices",
+  "option2": "Freight Rates",
+  "option3": "Tourist Arrivals",
+  "option4": "International Flights",
+  "option5": "",
+  "answer": "Freight Rates",
+  "explanation": "Baltic Dry index tracking freight rates for world’s largest cargo ships recently plunged into negative territory due to coronovirus."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-27T12:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "c196eb79-389f-4321-a22a-25cc118813a7",
+  "labels": "current-affairs,2020-02-28",
+  "question": "When a gas ‘X’ reacts with lime water, a compound ‘Y’ is formed. If both X and Y are used as a bleaching agent in chemical industry, then X is__ ?",
+  "option1": "Ozone",
+  "option2": "Chlorine",
+  "option3": "Fluorine",
+  "option4": "Methane",
+  "option5": "",
+  "answer": "Chlorine",
+  "explanation": "Chlorine is used as bleaching agent in chemical industries. Thus, X is chlorine gas and Y is bleaching powder (CaOCl<sub>2</sub>)."
+}

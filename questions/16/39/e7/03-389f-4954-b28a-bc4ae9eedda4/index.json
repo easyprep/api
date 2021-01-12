@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:18.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "1639e703-389f-4954-b28a-bc4ae9eedda4",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With regards to the recent use of Astrosat to study variation in X-ray emission from black holes, consider the following statements:<br />\n<ol>\n<li>It is a space telescope.</li>\n<li>Accretion rate is the rate at which the satellite is recording emissions from the black hole.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Astrosat is a space telescope that can enable observation in multi-wavelength spectrum. It was launched by ISRO in 2015 on board the PSLV-XL. It is to operate for 5 years and its objectives include studying both- objects in the solar system and objects at cosmological distances like black holes and stars.\n<strong>Statement 2 is incorrect:</strong>\nThe Astrosat recently helped in understanding the variation in X-ray emission from the accretion disk of a black hole. Accretion disk is the disk surrounding the black hole and is made of gases from star falling into the black hole. The accretion rate is the amount of matter falling into the black hole every second."
+}

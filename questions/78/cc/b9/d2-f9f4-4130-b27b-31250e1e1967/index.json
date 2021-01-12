@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-14T21:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "78ccb9d2-f9f4-4130-b27b-31250e1e1967",
+  "labels": "current-affairs,2020-02-15",
+  "question": "Consider the following wetlands of India and respective states where they are located:\r\n<ol>\r\n<li>Samaspur Bird Sanctuary - Bihar</li>\r\n<li>Nandur Madhmeshwar - Maharashtra</li>\r\n<li>Nawabganj Bird Sanctuary - Uttar Pradesh</li>\r\n</ol>\r\nWhich of the above is / are correct matches?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Both Samaspur Bird Sanctuary and Nawabganj Bird Sanctuary are located in Uttar Pradesh. The Nandur Madhmeshwar is a bird sanctuary located in Maharashtra. These three are among the 10 sites recently designated as Ramsar Sites in India. Nandur Madhmeshwar is the first site to be declared so in Maharashtra. Currently, there are 37 Ramsar Sites in India."
+}

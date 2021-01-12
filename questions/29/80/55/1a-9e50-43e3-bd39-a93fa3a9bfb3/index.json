@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "2980551a-9e50-43e3-bd39-a93fa3a9bfb3",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With reference to February 4<sup>th</sup> being observed as the World Cancer Day, consider the following statements:<br />\n<ol>\n<li>Cancers can spread while tumours do not.</li>\n<li>Metastasis cannot occur through the lymphatic system.</li>\n<li>Cancers induced by viruses can be prevented through vaccination.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 and 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 1 and 3 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nCancers are also called malignant tumours. These are mass of cells that are capable of spreading to other parts of the body by a process called metastasis. Tumours are also uncontrolled cell growth. However, they are different from cancers in that they are incapable of metastasis.\n<strong>Statement 2 is incorrect:</strong>\nMetastasis is the process by which cancer cells spread to other parts of the body from the original growth site. The metastasis can occur via the blood (hematogenous spreading) or the lymphatic system (lymphatic spreading). The new tumours thus formed are called metastatic cancers or secondary cancers.\n<strong>Statement 3 is correct:</strong>\nViruses that cause cancer are called as oncoviruses. Cancers caused by oncoviral infection can be prevented by vaccination according to WHO. Eg: papillomavirus vaccine.some examples of oncoviruses are Epstein Barr Virus (EBV), Hepatitis Virus, Human Papillomavirus, etc. Similarly, bacteria that cause cancer are called carcinogenic bacteria. Eg: Helicobacter pylori."
+}

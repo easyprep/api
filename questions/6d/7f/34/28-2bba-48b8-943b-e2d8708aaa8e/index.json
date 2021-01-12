@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:16.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "6d7f3428-2bba-48b8-943b-e2d8708aaa8e",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In context of the recent discussion about the implications of the Clearview app, consider the following statements:<br />\n<ol>\n<li>It is a facial recognition app.</li>\n<li>It is being used by Facebook.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Clearview app is a tool for facial recognition. Details like name, address and public photos with their online sources of a person can be uncovered by just clicking a photo of that person and loading it into the app. The app has raised concerns about privacy.\n<strong>Statement 2 is incorrect:</strong>\nThe Clearview app is currently being used by many law enforcement agencies around the world. It is yet not available for the public. The app is claimed to have been used for solving a number of legal enforcement cases like identity theft, shoplifting, child sexual exploitation and even murder."
+}

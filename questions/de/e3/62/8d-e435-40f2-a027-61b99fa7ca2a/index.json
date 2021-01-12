@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:18.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "dee3628d-e435-40f2-a027-61b99fa7ca2a",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With respect to the recent discussion about the retirement of the Spitzer Mission, consider the following statements:<br />\n<ol>\n<li>It makes use of UV rays to observe exoplanets through clouds of gases.</li>\n<li>It was launched by the European Space Agency.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Spitzer Space Telescope is an infrared space telescope. It makes use of IR rays to observe distant space objects through gas clouds. It was the first telescope to directly capture light from exoplanets. It was launched in 2003 and is to be retired on January 30, 2020.  \n <strong>Statement 2 is incorrect:</strong>\nThe Spitzer Space Telescope is a space mission of NASA. It was named after the astronomer Lyman Spitzer, noted for his promotion of the space telescope concept in the 1940s. Till the May of 2009, the spacecraft’s instruments were cooled by liquid helium (primary phase) till it ran out. From 2009 till 2020, the mission is called Spitzer Warm Mission (warm phase)."
+}

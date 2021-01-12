@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-27T12:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "8dc36ca7-4d68-4a9e-9ff1-a26b93856a53",
+  "labels": "current-affairs,2020-02-28",
+  "question": "Which of the following serve as olfactory indicators to identify acidic or basic solutions?",
+  "option1": "Onion Juice",
+  "option2": "Vanilla Extract",
+  "option3": "Clove Oil",
+  "option4": "All of Above",
+  "option5": "",
+  "answer": "All of Above",
+  "explanation": "Olfactory indicator are those substances whose smell can help to distinguish between acids and bases. Onion Juice loses its characteristic smell in Basic solution and retains its smell in Acidic solution; so it serves as olfactory indicator. Similarly, Vanilla extract also loses its smell in basic solution and retains its smell in Acidic solution. Clove oil is also olfactory indicator but its not for weak acids and basic solutions."
+}

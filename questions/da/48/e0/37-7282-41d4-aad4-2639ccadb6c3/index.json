@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-19T00:43:36.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "da48e037-7282-41d4-aad4-2639ccadb6c3",
+  "labels": "current-affairs,2020-02-20",
+  "question": "Which Taxi-hailing start-up recently integrated with the Himmat application of Delhi Police?",
+  "option1": "Ola",
+  "option2": "Uber",
+  "option3": "Didi",
+  "option4": "Lyft",
+  "option5": "",
+  "answer": "Uber",
+  "explanation": "Taxi hailing app Uber recently announced that it has integrated with the Himmat application of Delhi Police. \r\nUnder this partnership, Uber and Delhi Police distributed nearly 1,000 Himmat QR Verification Cards to driver partners. The passenger can report their journey directly to the Delhi Police, by scanning the QR card via the app. They can also access details of the diver and vehicle. Sharing the ride information is optional to passengers."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:15.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "d455e151-b39b-47cf-8c16-9b24d9ebc3d6",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With respect to the recent launch of GSAT-30 from French Guiana, consider the following statements:<br />\n<ol>\n<li>French Guiana is a part of France.</li>\n<li>It is located in equatorial Africa.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nFrench Guiana is a part of France. It is an overseas department of France i.e. located outside the European part of France. It houses the primary launch centre of European Space Agency (ESA)- the Guiana Space Centre. The centre is also operated by Arianespace and CNES.\n <strong>Statement 2 is incorrect:</strong>\nFrench Guiana is located in South America on the northern Atlantic coastal region. It is adjacent to Brazil and Suriname. The country has certain geographical advantages for satellite launches- proximity to the equator and the surrounding water to prevent falling of debris onto human settlements."
+}

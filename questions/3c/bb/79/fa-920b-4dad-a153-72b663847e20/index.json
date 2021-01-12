@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:40.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "3cbb79fa-920b-4dad-a153-72b663847e20",
+  "labels": "current-affairs,2020-02-26",
+  "question": "<sub>18</sub>Ar<sup>40</sup> and <sub>20</sub>Ca<sup>40</sup> are __ of each other?",
+  "option1": "Isomers",
+  "option2": "Isotopes",
+  "option3": "Isobars",
+  "option4": "Isotherms",
+  "option5": "",
+  "answer": "Isobars",
+  "explanation": "If atoms of different elements have same mass number, they are called isobars. <sub>18</sub>Ar<sup>40</sup> and <sub>20</sub>Ca<sup>40</sup> are isobars of each other."
+}

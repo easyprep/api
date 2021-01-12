@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:19.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "e91a18fb-acfe-4aa7-8d0b-2c6832d71e5a",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With respect to the recent discovery of the oldest known solid material on Earth, consider the following statements:<br />\n<ol>\n<li>The discovery proves that stars formed at a steady constant rate about 7 billion years ago.</li>\n<li>The material was discovered in Antarctica.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe scientists have used a new technique of dating materials to identify the oldest known solid sample on earth recently. The material predates he solar system and proves that the stars formed at a rapid rate (‘baby boom’ of new stars) 7 billion years ago instead of a steady constant rate of formation.\n <strong>Statement 2 is incorrect:</strong>\nThe solid material was discovered in Australia. The material is stardust trapped in a meteorite that crashed into earth’s atmosphere about 50 years ago. It is dated to 7 billion years ago. The sun, in comparison, was formed 4.6 billion years ago."
+}

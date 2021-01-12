@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:21.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "f4da7028-75d7-45cb-b0c2-f6910dba2734",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In context of the recently released WHO report on cancer trends, consider the following statements:<br />\n<ol>\n<li>Breast cancer is the most common type of cancer in India.</li>\n<li>Lung cancer is the most common type of cancer globally.</li>\n<li>Vaccination is a WHO recommended intervention for preventing cancer.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 is correct",
+  "option3": "Only 1 and 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "All are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe WHO released the 2020 cancer report in light of the World Cancer Day recently. It highlighted that breast cancer is the most prevalent form of cancer in India. Other most common cancers in India are oral, cervical, lung, stomach and colorectal cancers.\n<strong>Statement 2 is correct:</strong>\nAccording to the WHO report, lung cancer is the most common cancer type across the world. 18.4% of all cancer deaths were due to lung cancer. Other major killers are colorectal, stomach, liver, breast and oesophagus cancer. WHO predicts a 60% increase in cancer cases if the present trend continues for the next 2 decades.\n<strong>Statement 3 is correct:</strong>\nWHO recommends vaccination as one of the proven interventions to prevent cancers. Vaccinating against hepatitis B helps prevent liver cancer while vaccinating against HPV (human papilloma virus) helps prevent cervical cancers. Other preventive interventions include controlling tobacco usage which causes 25% of cancer deaths."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-27T12:52:25.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "fe6a6ce0-39dc-4995-ad5d-714cfd2e3c68",
+  "labels": "current-affairs,2020-02-28",
+  "question": "Why a milkman adds a very small amount of baking soda to fresh milk?",
+  "option1": "To decrease its pH slightly",
+  "option2": "To increase its pH slightly",
+  "option3": "To kill the bacteria in Fresh Milk",
+  "option4": "To turn its color from slight pale to white",
+  "option5": "",
+  "answer": "To increase its pH slightly",
+  "explanation": "The pH of fresh milk is 6, to set it as curd needs the pH below 6. In order to avoid this, the milkman shifts the pH of fresh milk from 6 to slightly alkaline by adding baking soda. Since, the milk is slightly basic than usual milk, acids produced to set the curd are neutralized by the base added. Therefore, it takes longer time for the curd to set."
+}

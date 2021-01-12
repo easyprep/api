@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-22T21:33:04.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "fa8897ba-0a36-453f-99d2-2feb256a0b32",
+  "labels": "current-affairs,2020-02-23",
+  "question": "Which of the following compounds was synthesized by Friedrich Wöhler proving that organic material can be produced from starting inorganic materials?",
+  "option1": "Urea",
+  "option2": "Acetic Acid",
+  "option3": "Ethyl Alcohol",
+  "option4": "Benzene",
+  "option5": "",
+  "answer": "Urea",
+  "explanation": "In 1828, Friedrich Wöhler synthesized urea, thereby establishing that organic compounds could be produced from inorganic starting materials, disproving the theory of vitalism. Later in 1847, Hermann Kolbe obtained acetic acid from completely inorganic sources, further disproving vitalism."
+}

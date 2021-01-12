@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:16.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "ceaac0cc-705f-4263-89c6-f1541bf300c6",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In reference to the recent SEBI announcements, consider the following statements:<br />\n<ol>\n<li>The ‘option in goods’ in commodities derivative segment of stock exchange is to replace the ‘option on commodity futures’.</li>\n<li>The Indian commodity derivatives market will witness American and European options.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe SEBI has allowed the stock exchanges to introduce the ‘option in goods’ in addition to the ‘option in commodity futures’. This is to be introduced in the commodity derivatives segment. The former is more liberal in terms of norms than the latter.\n<strong>Statement 2 is correct:</strong>\nThe move is expected to open up the Indian commodity derivatives market to Americana and European options. The option’s introduction is also expected to reduce the risk for hedgers. Option in goods is an option for sale/ purchase of a right to buy/ sell or a right to buy and sell in the future."
+}

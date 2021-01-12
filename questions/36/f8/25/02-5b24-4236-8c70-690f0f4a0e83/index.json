@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-27T12:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "36f82502-5b24-4236-8c70-690f0f4a0e83",
+  "labels": "current-affairs,2020-02-28",
+  "question": "Washing soda can be obtained from baking soda by __:",
+  "option1": "Heating",
+  "option2": "Mixing with Hydrochloric Acid",
+  "option3": "Heating with Slaked Lime",
+  "option4": "Making a solution in Lime water",
+  "option5": "",
+  "answer": "Heating",
+  "explanation": "Baking soda decomposes into sodium carbonate upon heating."
+}

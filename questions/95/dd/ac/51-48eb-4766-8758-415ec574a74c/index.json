@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "95ddac51-48eb-4766-8758-415ec574a74c",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In context of the recent death of birds in Bihar due to pesticides used against the fall army worm attack, consider the following statements:<br />\n<ol>\n<li>The pest can feed on multiple types of crops.</li>\n<li>Bacillus thuringiensis is an example of biological control agent effective against the pest.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe fall army worm is a major cause of concern as they can feed on over 80 species of crops. They, however, prefer maize. The crop is cultivated almost continuously throughout the year. The recent mass death of crows in Bihar is due to excessive pesticide used by maize farmers to tackle the FAW menace.\n<strong>Statement 2 is correct:</strong>\nThe FAW can be controlled using biological control agents- i.e. living organisms that naturally prey on these pests. Entomologists recommend spraying Bacillus thuringiensis kurstaki (a biological control agent- a microorganism) based formulations to control the pest when it is in the form of small larvae."
+}

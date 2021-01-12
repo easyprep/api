@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-01T01:40:04.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "accd4a8d-b34a-4482-9b33-4b7dfa0639dd",
+  "labels": "current-affairs,2020-02-02",
+  "question": "As per the recent Economic Outlook Survey released by FICCI, what is the estimated median GDP growth forecast for 2019-20?",
+  "option1": 0.05,
+  "option2": 0.051,
+  "option3": 0.052,
+  "option4": 0.053,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "The Federation of Indian Chambers of Commerce and Industry (FICCI) recently released its latest round of Economic Outlook Survey. As per the survey, the annual median GDP growth forecast for 2019-20 is estimated at 5.0%. \r\nThe survey also revealed that the GDP growth is likely to improve to 5.5% in 2020-21. The median growth forecast for Agriculture and allied activities and the industry are predicted at 2.6% and 3.5% respectively for 2019-20. The services sector is expected to grow at 7.2% during the current year. A median forecast of 4.7% for GDP growth has been estimated for the third quarter of 2019-20."
+}

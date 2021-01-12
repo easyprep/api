@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-20T23:38:43.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "d7fb1f19-cebb-4a18-a59c-c8e88c716e2e",
+  "labels": "current-affairs,2020-02-21",
+  "question": "What is the highest income tax rate slab in India after Budget 2020-21?",
+  "option1": 0.25,
+  "option2": 0.3,
+  "option3": 0.35,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.3,
+  "explanation": "Highest income tax rate is 30% for income above 15,00,000."
+}

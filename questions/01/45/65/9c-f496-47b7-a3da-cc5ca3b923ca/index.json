@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:19.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "0145659c-f496-47b7-a3da-cc5ca3b923ca",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With regards to the recent commissioning of the ‘Polycrack’ plant by the Railways, consider the following statements:<br />\n<ol>\n<li>It converts plastic waste into fuels.</li>\n<li>It requires pre-segregation of wastes for functioning.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe polycrack technology is used for converting wastes into fuel. It is able to convert plastic and electronic wastes into light diesel fuel. All types of plastic wastes can be used. The steps involved in the process are depolmerisation, cracking, re-forming, scrubbing, particle filtration and rapid quenching.\n<strong>Statement 2 is incorrect:</strong>\nThe polycrack technology does not require segregation of wastes. This is one of the major advantages of the technology. It is the first technology that converts many feedstock into liquid hydrocarbon fuel using heterogeneous catalytic process. This waste to energy plant is the first such installation for the Indian Railways but only the 4<sup>th</sup> for the country. It has a capacity for processing 500kg waste/ day."
+}

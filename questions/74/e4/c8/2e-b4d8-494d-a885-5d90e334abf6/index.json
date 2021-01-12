@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:14.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "74e4c82e-b4d8-494d-a885-5d90e334abf6",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In light of the recent discussions about the pigment ‘biliverdin’ in connection with the ‘green’ puppy Hulk, consider the following statements:<br />\n<ol>\n<li>It is produced by breakdown of blood.</li>\n<li>It is present in the human placenta.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nBiliverdin is a green colored pigment produced by heme catabolism. Heme catabolism is the breakdown of the heme part of haemoglobin- a pigment found in the red blood cells. It is responsible for rendering a greenish hue to certain bruises.\n<strong>Statement 2 is incorrect:</strong>\nBiliverdin is not present in human placenta. The pigment was being discussed as the causative of the green puppy, named ‘Hulk’. The pigment is common in the placenta of dogs and is referred to as uteroverdine. Another reason attributed to the puppy’s green fur is meconium."
+}

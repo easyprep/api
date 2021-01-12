@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-27T12:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "f80ea6b1-c5dc-4f88-85c2-442808d9ee38",
+  "labels": "current-affairs,2020-02-28",
+  "question": "While diluting an acid, it is recommended that the acid should be added to water and not water to the acid, why?",
+  "option1": "To slow down the exothermic reaction",
+  "option2": "To slow down the endothermic reaction",
+  "option3": "To reduce the breakdown of water molecules",
+  "option4": "To speed up the breakdown of water molecules",
+  "option5": "",
+  "answer": "To slow down the exothermic reaction",
+  "explanation": "Diluting an acid should be done by adding concentrated acid to water gradually with stirring which helps to dissipate the heat evolved and the opposite process is not followed by adding water to concentrated acid. The heat is evolved gradually when a concentrated acid is added to water for diluting an acid and the large amount of water easily absorbs the heat. <br> If water is added to concentrated acid to dilute it, a large amount of heat is evolved at once. The heat generated may cause the mixture to splash the acid on our face or clothes and cause acid burns."
+}

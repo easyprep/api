@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-27T12:52:26.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "6f3f81ba-72fa-4c03-a365-4f72663ee59e",
+  "labels": "current-affairs,2020-02-28",
+  "question": "Tap water conducts electricity, whereas distilled water does not. This is because in comparison to distilled water, tap water has __?",
+  "option1": "polarity",
+  "option2": "impurity",
+  "option3": "covalence",
+  "option4": "surface charge",
+  "option5": "",
+  "answer": "impurity",
+  "explanation": "Tap water contains ions (due to dissolved impurities) which help in conduction of electricity. Whereas, distilled water does not contain ions, so it can not conduct electricity."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-24T15:29:51.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "bd1b0906-9c37-40e4-b427-1d06b8640acc",
+  "labels": "current-affairs,2020-02-25",
+  "question": "The term \"JavaScript sniffers\", that was making news recently, is associated with__?",
+  "option1": "Authorization Software",
+  "option2": "Malware",
+  "option3": "Encryption Software",
+  "option4": "Firewall",
+  "option5": "",
+  "answer": "Malware",
+  "explanation": "A Singapore based cybersecurity firm reported that 98% of credit card data being sold on the dark web are of Indian customers and highlighted the use of JS sniffers. JS sniffers or JavaScript sniffers are specialized malwares that are used by cybercriminals for stealing sensitive credit card information. A recent report by Singapore based Group IB highlighted the growing use of these softwares by cybercriminals. The stolen information is then being sold on the dark web."
+}

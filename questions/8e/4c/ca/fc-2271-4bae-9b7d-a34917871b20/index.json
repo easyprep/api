@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:17.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "8e4ccafc-2271-4bae-9b7d-a34917871b20",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With respect to the recent discussions about the electoral bond scheme, consider the following statements:<br />\r\n<ol>\r\n<li>The bonds are issued by Indian Bank.</li>\r\n<li>The electoral bond scheme is meant for lok sabha elections only.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe electoral bond scheme was introduced by the finance bill of 2017. The scheme is a mechanism to enable anonymous donations to political parties through interest free bearer bonds. The bonds can be issued by the State Bank of India, the only bank authorised for the purpose by the RBI.\r\n <strong>Statement 2 is correct:</strong>\r\nThis is also an incorrect statement."
+}

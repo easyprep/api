@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:17.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "e991d1ba-d5ee-4381-8d62-303942c13fcf",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In light of the recent release of the World Employment and Social Outlook 2020 report, consider the following statements:<br />\n<ol>\n<li>WESO report is released by the ILO.</li>\n<li>Working poverty is the measure of poverty among employed people.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe WESO report is released by the International Labour Organisation. ILO is a UN agency concerned with setting the global standards for labour. The 2020 report stated that more than 470 million people are affected by unemployment across the world.\n<strong>Statement 2 is correct:</strong>\nWorking poverty is the measure of poverty among the people who are employed. A working person is termed as ‘working poor’ if he/ she earns less than 3.20 USD per day in purchasing power parity terms, according to current definition. The report states that 1 out 5 employed people are working poor."
+}

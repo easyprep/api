@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-22T21:33:04.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "cd993ac1-51ba-422a-8b7e-170cb7b256a6",
+  "labels": "current-affairs,2020-02-23",
+  "question": "Which of the following atomic property was used by Dmitri Mendeleyev to arrange the elements into his periodic table?",
+  "option1": "Atomic Number",
+  "option2": "Atomic Weight",
+  "option3": "Valence",
+  "option4": "Molar entropy",
+  "option5": "",
+  "answer": "Atomic Weight",
+  "explanation": "Dmitri Mendeleyev (1834 - 1907) was a Russian chemist who came up with the first periodic table of the elements which he published in 1865. He was able to predict the discovery of many more elements using the table. He arranged the elements by atomic weights and also proposed that elements, if arranged according to their atomic weight, exhibit an apparent periodicity of properties."
+}

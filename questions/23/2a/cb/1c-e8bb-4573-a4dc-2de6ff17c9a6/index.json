@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-01T01:42:11.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "232acb1c-e8bb-4573-a4dc-2de6ff17c9a6",
+  "labels": "current-affairs,2020-02-02",
+  "question": "The Department of Telecom, India has recently taken over process to issue and manage the allocation of IMEI. What does IMEI stand for?",
+  "option1": "Indian Mobile Equipment Identity",
+  "option2": "International Mobile Equipment Identity",
+  "option3": "Indian Multimedia Equipment Identifier",
+  "option4": "International Multimedia Equipment Identifier",
+  "option5": "",
+  "answer": "International Mobile Equipment Identity",
+  "explanation": "The IMEI (International Mobile Equipment Identity) number is a 15-digit unique serial number of mobile devices. It is allocated by a global industry body GSMA and its authorised organisations. In India, Mobile Standards Alliance of India (MSAI) is the official reporting body of GSMA.\r\nRecently, the Department of Telecom has taken over the process of issuing and allocating the IMEI numbers for mobile phones in India from the private body MSAI. The new ‘Indian Counterfeited Device Restriction (ICDR) system’, which has been developed by the R&D unit of DoT is being tested on pilot basis on the web portal of Central Equipment Identity Register (CEIR)."
+}

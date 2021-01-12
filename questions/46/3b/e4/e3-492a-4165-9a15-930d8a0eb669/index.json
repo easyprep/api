@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "463be4e3-492a-4165-9a15-930d8a0eb669",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In light of the recent discovery of ‘invisible stars’ using gravitational microlensing, consider the following statements about this phenomenon:<br />\n<ol>\n<li>Gravitational microlensing can be used even when no light is emitted by the galactic object.</li>\n<li>A galaxy or galaxy cluster is used as a lens in this observation technique.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nGravitational microlensing is an astronomical phenomenon used for observing space objects that emit little or no light at all. It is the process by which light from a distant object is bent by gravitational field resulting in observable magnification. It was recently used in observing the Gaia 16aye event.\n<strong>Statement 2 is incorrect:</strong>\nThe gravitational microlensing uses object with lower mass- such as a star or a planet- as a ‘lens’ to observe distant dark objects. Lenses of larger mass such as galaxies and galactic clusters are used in general gravitational lensing observations."
+}

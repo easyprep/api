@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-16T03:33:53.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "dfbba3c4-82af-4110-b87b-44b5427105fc",
+  "labels": "current-affairs,2020-02-17",
+  "question": "Which country has recently developed a recovery-plasma to treat COVID-19 infected patients?",
+  "option1": "India",
+  "option2": "China",
+  "option3": "Thailand",
+  "option4": "Japan",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The biotechnology research company of China- ‘China National Biotec Group’ has developed convalescent plasma to treat the patients who are infected with the COVID-19 (novel corona virus)\r\nThe company has collected plasma from some of the recovered patients in the Wuhan city of China and developed therapeutic products that include convalescent plasma and immune globulin.  They are used to treat critically ill patients, who have shown significant improvement with the treatment."
+}

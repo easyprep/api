@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-14T17:08:14.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "0801c6d3-dbdb-4ca1-b608-fe7ecfff34e6",
+  "labels": "current-affairs,2020-02-15",
+  "question": "Consider the following statements with respect to naming of Novel Coronavirus as COVID-19:\r\n<ol>\r\n<li>Naming of diseases through The International Classification of Diseases is managed by WHO (World Health Organization)</li>\r\n<li>WHO avoids giving name of a place, animal or individual / groups to diseases</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The International Classification of Disease is managed by WHO. WHO is the coordinating and directing authority for health under the UN. The final standard name for each human disease is given according to the guidelines by the ICD. The 10<sup>th</sup> revision of the ICD is currently in use.\r\nWHO cannot name a disease after a place, an animal, an individual or a group of people. This is in accordance with international guidelines given by International Classification of Diseases. This is to prevent stigmatisation of the place/ population where the disease originates.\r\n<strong>Context:  </strong>COVID-19 is the official name given to the disease caused by nCoV-19. WHO officially announced that the disease caused by the Novel Coronavirus that originated in Wuhan as ‘COVID-19’. The CO refers to Corona, V refers to Virus and D to Disease. The 19 is in reference to the time of the origin of the outbreak."
+}

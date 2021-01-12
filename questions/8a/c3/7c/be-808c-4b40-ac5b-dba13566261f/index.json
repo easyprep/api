@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-14T00:18:59.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "8ac37cbe-808c-4b40-ac5b-dba13566261f",
+  "labels": "current-affairs,2020-02-15",
+  "question": "Global code hosting platform GitHub, which recently launched its operations in India, is owned by which technological company?",
+  "option1": "Google",
+  "option2": "Microsoft",
+  "option3": "Amazon",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Global open-source code hosting and software development platform GitHub, recently launched its operations in India in the name ‘GitHub India Private Limited’.\r\nIt is owned by the Tech major Google, as it acquired the platform two years ago for $7.5 billion. The platform offers distributed version control and source code management. The software development platform is used by several million organisations."
+}

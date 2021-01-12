@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "9c722b87-789b-4ec2-9424-1eb557f0a0e1",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In light of the recent reports of the Soil Health Card Scheme reducing fertiliser use by 10%, consider the following statements about the scheme:<br />\n<ol>\n<li>It is being implemented by the ministry of chemicals and fertilisers.</li>\n<li>Both mobile and static labs are used for the scheme.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Soil Health Card scheme is being implemented by the department of agriculture under the ministry of agriculture and farmers’ welfare. Under this scheme, a soil health card is given to the farmers which gives information about 12 parameters of the soil in their holdings.\n<strong>Statement 2 is correct:</strong>\nThe scheme uses mobile and static soil testing laboratories to test soil samples in farmers holdings- both irrigated and rain-fed lands. There are 800 existing labs and the states have also sanctioned new labs. These labs costs up to 5 lakh INR- 75% of which is funded by the state or central government."
+}

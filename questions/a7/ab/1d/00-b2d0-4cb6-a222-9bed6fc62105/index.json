@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:18.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "a7ab1d00-b2d0-4cb6-a222-9bed6fc62105",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In light of the recent discussions about the enzyme Malate synthase in the treatment of tuberculosis, consider the following statements:<br />\n<ol>\n<li>It is needed for mycobacterial persistence.</li>\n<li>It is also found in humans.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe enzyme Malate Synthase is necessary for mycobacterial persistence of the causative pathogen of tuberculosis- Mycobacterium tuberculosis. It is needed for the survival of the pathogen within the host body. Scientists have discovered a way to specifically target the TB pathogen’s Malate Synthase.\n<strong>Statement 2 is incorrect:</strong>\nThe enzyme Malate Synthase is absent in humans and other mammals. This makes it an attractive target for anti-TB drugs as they would become highly specific and without side-effects to the patient. The scientists have identified an ‘aptamer’- short nucleotide sequence of DNA/ RNA- for selectively binding to this enzyme."
+}

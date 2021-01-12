@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:17.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "1d280d1a-4fbd-44f5-a62f-9bd01e6d6e48",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In light of the recent attempts to protect the Wollemi National Park, consider the following statements:<br />\n<ol>\n<li>The Wollemi Pine is a critically endangered species.</li>\n<li>The national park is in Australia.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Wollemi Pine is a coniferous tree species. It is not a true pine. It is listed as a critically endangered species by the IUCN and is featured in the IUCN Red List. The species was earlier thought to be extinct but live specimens were discovered in 1994. There are fewer than 200 of these trees left.\n<strong>Statement 2 is correct:</strong>\nThe Wollemi National park is located in Australia’s New South Wales. The Wollemi Pine trees are found only in Australia and are protected at this national park. It was in news recently when the firefighters undertook a covert operation to protect these trees from the bushfires."
+}

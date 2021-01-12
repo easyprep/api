@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:19.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "70d14313-ed9b-4b64-af60-357e8fda68ed",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With reference to the recent launch of the ‘Generate Vehicle NOC’ service on the CCTNS platform, consider the following statements:<br />\n<ol>\n<li>It was launched by the National Crime Record Bureau.</li>\n<li>The service is to help in determining status of second hand vehicles before purchase.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe National Crime Records Bureau recently launched 2 new services on the Crime and Criminal Tracking Network System (CCTNS) platform. The citizens will be able to access both the online services- ‘Missing Persons Search’ and the ‘Generate Vehicle NOC”.\n<strong>Statement 2 is correct:       </strong>\nThe Generate Vehicle NOC service will enable citizens to ascertain a vehicle’s status before purchasing it second- hand. This is to prevent sale of stolen vehicles as suspicious vehicles will be flagged if it has police records. The other new service will help look for missing persons."
+}

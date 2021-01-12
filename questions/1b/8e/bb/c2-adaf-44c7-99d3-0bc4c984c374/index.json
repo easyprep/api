@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:15.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "1b8ebbc2-adaf-44c7-99d3-0bc4c984c374",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In context of the recent discussions about the US- Guatemala Asylum deal, consider the following statements:<br />\n<ol>\n<li>It allows migrants from Guatemala greater access to the USA.</li>\n<li>Mexico is part of the Northern Triangle of Central America.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe US- Guatemala Asylum Pact is a ‘safe 3<sup>rd</sup> country’ agreement between USA and Guatemala. Under this pact, the migrants have to apply for asylum in Guatemala if it’s the first country they land in. is they proceed onto USA without doing so, they will be deported back to Guatemala.\n<strong>Statement 2 is incorrect:</strong>\nThe US government had discussed similar pacts with the countries of Northern Triangle of Central America. Guatemala is the only country that has implemented the pact’s provisions. Guatemala was the largest source of migrants detained at the US border in 2019. Other countries of this region are El Salvador and Honduras."
+}

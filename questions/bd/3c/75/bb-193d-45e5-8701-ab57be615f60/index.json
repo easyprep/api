@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-27T12:52:25.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "bd3c75bb-193d-45e5-8701-ab57be615f60",
+  "labels": "current-affairs,2020-02-28",
+  "question": "After soil test of an area, it is found that the soil in the field is highly acidic. Which of the following two materials would you suggest to be added to this soil to reduce its acidity?",
+  "option1": "Lime and Gypsum",
+  "option2": "Gypsum and Chalk",
+  "option3": "Lime and Chalk",
+  "option4": "Lime and Urea",
+  "option5": "",
+  "answer": "Lime and Chalk",
+  "explanation": "Lime (CaO) and Chalk (CaCO<sub>3</sub>) can also be added to neutralize acidity of the soil. It is because CaO and CaCO<sub>3</sub> are basic in nature which can neutralize the acid present in the soil. Gypsum and Urea are used to treat alkaline soil rather."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:39.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "ff77102b-892d-4f04-92ae-6d3bd3e0c989",
+  "labels": "current-affairs,2020-02-26",
+  "question": "The plum pudding model of atomic structure was given by which scientist?",
+  "option1": "Rutherford",
+  "option2": "JJ Thomson",
+  "option3": "Goldstein",
+  "option4": "Millikan",
+  "option5": "",
+  "answer": "JJ Thomson",
+  "explanation": "J.J. Thomson proposed his atomic model soon after his discovery of electrons. Its major postulates were: (1) An atom contains negatively charged particles called electrons embedded uniformly throughout a thinly spread positively charged mass. (2) Since the atom is electrically neutral, the total negative charge of electrons is balanced by the total positive charge. <img src=\"https://www.gktoday.in/wp-content/uploads/2020/02/plum-pudding.png\"> Thomson’s model of an atom is popularly known as plum pudding model or apple pie model or watermelon model. Thomson’s model could successfully explain the electrical neutrality of atom. However, it failed to explain how the positively charged particles are shielded from the negatively charged electrons without getting neutralized."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:40.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "db749ffe-4b62-4ef5-a96d-0864dce161b7",
+  "labels": "current-affairs,2020-02-26",
+  "question": "An element has only K and L shell and both are full with electrons as per their capacity. What is its atomic number?",
+  "option1": 8,
+  "option2": 10,
+  "option3": 12,
+  "option4": 14,
+  "option5": "",
+  "answer": 10,
+  "explanation": "K - 2 electrons; L-8 electrons so total will be 10."
+}

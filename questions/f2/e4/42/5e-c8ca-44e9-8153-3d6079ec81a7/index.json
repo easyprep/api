@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-02T03:06:35.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "f2e4425e-c8ca-44e9-8153-3d6079ec81a7",
+  "labels": "current-affairs,2020-02-03",
+  "question": "What is the GDP growth rate of India, in 2018-19, as per the recent statement from the National Statistical Office (NSO), on January 31,2020?",
+  "option1": 0.068,
+  "option2": 0.064,
+  "option3": 0.062,
+  "option4": 0.061,
+  "option5": "",
+  "answer": 0.061,
+  "explanation": "The National Statistical Office released revised estimates for economic growth of India for the last three years, on January 31,2020. As per the report, it fixed the actual GDP growth 2018-19 at 6.1%, against its previous estimate of 6.8%, estimated in May 2019.\r\nThe National Statistical Office also stated that the main reason for the downward revision in the GDP growth rate is deceleration in farming and mining activities in primary sector and manufacturing activities in secondary sector. It also marked the growth rate in 2017-18 as 7%. Recently, NSO estimated the growth rate in 2019-20 to be 5%."
+}

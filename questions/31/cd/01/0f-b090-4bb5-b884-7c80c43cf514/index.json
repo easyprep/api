@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-01T01:54:14.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "31cd010f-b090-4bb5-b884-7c80c43cf514",
+  "labels": "current-affairs,2020-02-02",
+  "question": "Which global firm has developed a new Artificial Intelligence (AI) model to protect an endangered whale species?",
+  "option1": "Amazon",
+  "option2": "Microsoft",
+  "option3": "Google",
+  "option4": "Facebook",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "The Artificial Intelligence (AI) department of the global tech-giant Google has recently developed a new model to protect the endangered species of killer whales.\r\nThe whales, which are also known as orcas are seen in very few numbers in the Salish Sea. Google has partnered with Fisheries and Oceans Canada to monitor their condition and alert experts in the event of sickness or accidents caused to the whales. The trained AI model uses underwater audio and labels to listen to the sounds of the whale and to display its location."
+}

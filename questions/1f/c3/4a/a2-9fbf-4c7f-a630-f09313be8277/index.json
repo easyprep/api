@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-03T02:39:22.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "1fc34aa2-9fbf-4c7f-a630-f09313be8277",
+  "labels": "current-affairs,2020-03-04",
+  "question": "What is the GDP growth rate of India in FY 20, as per the recent estimates (Feb ’20) of Fitch solutions?",
+  "option1": 0.052,
+  "option2": 0.051,
+  "option3": 0.05,
+  "option4": 0.049,
+  "option5": "",
+  "answer": 0.049,
+  "explanation": "Fitch Solutions recently lowered its forecast for India\\'s economic growth to 4.9 per cent in the current fiscal FY 20.\r\nThe main reason for the cut in rate was weak domestic demand and supply chain interruptions due to the coronavirus outbreak and a resulting dip in manufacturing. However, the GDP growth in in 2020-21 will recover to 5.4 per cent."
+}

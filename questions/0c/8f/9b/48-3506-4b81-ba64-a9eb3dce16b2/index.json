@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:39.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "0c8f9b48-3506-4b81-ba64-a9eb3dce16b2",
+  "labels": "current-affairs,2020-02-26",
+  "question": "Who gave the atomic structure model in which electrons revolve around nucleus in orbits with definite amount of energy?",
+  "option1": "Rutherford",
+  "option2": "Neils Bohr",
+  "option3": "Millikan",
+  "option4": "Goldstein",
+  "option5": "",
+  "answer": "Neils Bohr",
+  "explanation": "Electrons revolve around the nucleus in specified circular paths called orbits or shells. Each orbit or shell is associated with a definite amount of energy. Hence these are also called energy levels and are designated K, L, M and N, respectively. The energy associated with a certain energy level increases with the increase of its distance from the nucleus. Hence if the energy associated with the K, L, M and N shells are E1, E2, E3……… respectively, then E1 < E2 < E3 ………. etc. As long as the electron revolves in a particular orbit, the electron does not lose its energy. Therefore, these orbits are called stationary orbits and the electrons are said to be in stationary energy states. An electron jumps from a lower energy level to a higher energy level, by absorbing energy, but when it jumps from a higher to lower energy level, the energy is emitted in the form of electromagnetic radiation. The energy emitted or absorbed (ΔE) is an integral multiple of “hν.”"
+}

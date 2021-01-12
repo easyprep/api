@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:40.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "c213d942-d614-4ea1-96a3-a55eef5ac3e9",
+  "labels": "current-affairs,2020-02-26",
+  "question": "If the mass of an atom is 37 and atomic number is 17, then what shall be number of neutrons and protons in it?",
+  "option1": "17 Neutrons, 17 Protons",
+  "option2": "20 Neutrons, 17 Protons",
+  "option3": "17 Neutrons, 20 Protons",
+  "option4": "37 Protons, 17 Neutrons",
+  "option5": "",
+  "answer": "20 Neutrons, 17 Protons",
+  "explanation": "Number of Protons will be 17 (atomic number) and neutrons will be 37-17=20."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:21.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "97be79bd-a7ac-4fd6-ba7a-61a4bc7c1ca3",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With reference to the recent discussions about the Global Misery Index, consider the following statements:<br />\n<ol>\n<li>GDP growth is included in the misery index ranking.</li>\n<li>Lending rate is included in the misery index ranking.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Global Misery Index is an economic indicator. It does not factor in the growth in Gross Domestic Product while ranking the countries. In fact, the GDP growth is subtracted from the calculations. It measures economic wellbeing in terms of misery score as opposed to GDP performance of the country.\n<strong>Statement 2 is correct:       </strong>\nThe Global Misery Index factors in lending rates, unemployment rates and the inflation rates to rank the countries. India was recently ranked at number 44 out of 95 countries. The index was popularised by economist Steve Hanke of John Hopkins University."
+}

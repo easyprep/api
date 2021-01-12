@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-14T17:50:59.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "962429a2-aaf0-4212-9057-c81fc80a14ad",
+  "labels": "current-affairs,2020-02-15",
+  "question": "Which ministry has recently proposed the ‘e-credentials and e-certificates’ system?",
+  "option1": "Ministry of Commerce & Industry",
+  "option2": "Ministry of Skill Development And Entrepreneurship",
+  "option3": "Ministry of Human Resource Development",
+  "option4": "Ministry of Mines",
+  "option5": "",
+  "answer": "Ministry of Skill Development And Entrepreneurship",
+  "explanation": "The ‘e-credentials and e-certificates’ system is to be implemented by the Directorate General of Training (DGT) under the Union Ministry of Skill Development. Under this scheme, the credential information is to be given in a machine readable format and also printable version.\r\nThe ministry will not be discontinuing the printed version of certificates. The measure is aimed at improving trust, authenticity and verifiability of credentials for employers, job matching platforms, aggregators, etc. It will be secured by digital signatures and can be used on DigiLocker."
+}

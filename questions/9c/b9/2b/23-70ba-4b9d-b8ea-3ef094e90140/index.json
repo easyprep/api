@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-28T04:15:59.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "9cb92b23-70ba-4b9d-b8ea-3ef094e90140",
+  "labels": "current-affairs,2020-02-29",
+  "question": "Which country is the first to develop an antibody test to identify the novel coronavirus (COVID-19)?",
+  "option1": "China",
+  "option2": "United States",
+  "option3": "Singapore",
+  "option4": "South Korea",
+  "option5": "",
+  "answer": "Singapore",
+  "explanation": "The Singapore Ministry of Health announced that an antibody test has been developed by the country’s medical school and it has successfully identified two people, who were infected by the novel coronavirus (COVID-19).\r\nThe currently used molecular test detects the viral genetic material in oral swab samples whereas the newly developed test detects antibodies developed by the immune system when infected with the virus."
+}

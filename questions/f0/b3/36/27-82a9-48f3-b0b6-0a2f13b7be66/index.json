@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "f0b33627-82a9-48f3-b0b6-0a2f13b7be66",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With regards to the recent use of the ‘Archimedes Principle’ to rescue an elephant in Jharkhand, consider the following statements about this principle:<br />\n<ol>\n<li>It is also known as the ‘upward buoyant force theory’.</li>\n<li>The principle is applicable with both liquids and gases.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Archimedes Principle is also known as the ‘Upward Buoyant Force Theory’. According to this principle, an object partially/ completely submerged in a fluid is acted upon by an upward buoyant force equal to weight of displaced fluid. The net force acting on the body is the difference between the weight (acting downward) and the buoyant force (acting upward).\n<strong>Statement 2 is correct:</strong>\nThe Archimedes principle is applicable in case of both types of fluids- liquids and gases. Buoyancy is the ability of an object to float in a fluid. The state forest officials in Jharkhand pumped water into a well to float and rescue an elephant."
+}

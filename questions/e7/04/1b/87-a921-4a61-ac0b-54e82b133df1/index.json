@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-14T16:47:59.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "e7041b87-a921-4a61-ac0b-54e82b133df1",
+  "labels": "current-affairs,2020-02-15",
+  "question": "Which of the following kinds of bills can be introduced in parliament by a private member?\r\n<ol>\r\n<li>Ordinary Bill</li>\r\n<li>Money Bill</li>\r\n<li>Constitution Amendment Bill</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Kindly keep in mind that a private member (an MP who is not a minister is a private member) can introduce ordinary bill as well as constitution amendment bill in the parliament but not a money bill. However, a private member bill cannot be Money bill. Money Bill can be introduced in the Lok Sabha and that too on the recommendation of the President.\r\n<strong>Context:  </strong>Recently, a private member introduced a constitution amendment bill proposing amendments to the part IV of the Indian Constitution. The bill seeks to bring in incentives to limit families to 2 children and control the growing population. The bill was introduced in Rajya Sabha and sought to amendment Article 47 under part-IV, DPSP."
+}

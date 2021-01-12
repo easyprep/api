@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:15.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "fb1d7c71-5147-4fc7-8c47-cd99bc60cc2e",
+  "labels": "current-affairs,2020-02-08",
+  "question": "In context of the recent developments in the Russian administrative system, consider the following statements:<br />\n<ol>\n<li>The Russian Prime Minister is appointed by the President.</li>\n<li>The State Duma is the lower house of Russian legislative.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Russian Prime Minister is appointed by the President of Russia. The power to dismiss the PM is also with the President. The appointment is subject to the consent of the State Duma. The Russian President recently proposed shifting the power to appoint the PM to the lawmakers.\n<strong>Statement 2 is correct:</strong>\nRussia has a bicameral legislature. The State Duma is the lower house and the upper house is the Federation Council. The Federal Assembly (legislative) of Russia has the power to adopt federal laws, impeach the president, power of purse and also power to declare war."
+}

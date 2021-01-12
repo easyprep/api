@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:17.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "d4fa15f2-4d4e-4386-8c66-795520053e26",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With reference to the recently released Democracy Index 2019, consider the following statements:<br />\n<ol>\n<li>India was listed as a ‘flawed democracy’ by the index.</li>\n<li>China was listed as a ‘hybrid regime’ by the index.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nThe Democracy Index is published by the Economist Intelligence Unit (EIU). The 2019 edition listed India as a flawed democracy with a score of 6.90. The ranking fell 10 places to 51<sup>st</sup> spot out of 165 states and territories. The reason cited was erosion of civil liberties.\n<strong>Statement 2 is incorrect:</strong>\nChina was listed as an authoritarian regime with a score of 2.26. This is as a result of discrimination in Xinjiang region and increased use of digital surveillance. The index categorises countries based on the score as full democracy, flawed democracy, hybrid regime or authoritarian regime."
+}

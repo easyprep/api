@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-25T22:00:40.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "0da91565-ce79-4cbe-a9f2-6dafec8d8bc1",
+  "labels": "current-affairs,2020-02-26",
+  "question": "An element has an atomic weight of W and an atomic member of N. The number of protons in th nucleus of its atom is?",
+  "option1": "N",
+  "option2": "W",
+  "option3": "W-N",
+  "option4": "W+N",
+  "option5": "",
+  "answer": "N",
+  "explanation": "Atomic number is number of protons, so its N. Number of Neutrons will be W-N."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-02-07T18:54:18.000Z",
+  "updated_at": "2021-01-06T08:24:49.487Z",
+  "id": "b16f3425-0cd9-4a93-aaad-22f19609b437",
+  "labels": "current-affairs,2020-02-08",
+  "question": "With reference to the recent drop in ranking of India in the Global Corruption Perception Index, consider the following statements:<br />\n<ol>\n<li>The index reflects corruption in both public and private sectors in the countries.</li>\n<li>Denmark was listed as the best performing country while Somalia was listed as the worst performing country.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Global Corruption Perception Index is released by Transparency International- based in Germany. It ranks countries based on the perceptions of experts and businesses. The index reflects the corruption in only the public sector. The 2019 edition ranked 180 countries.\n<strong>Statement 2 is correct:</strong>\nThe 2019 index listed Denmark and New Zealand as the top ranked countries with score of 87 over 100. The worst performing country of the year is Somalia with a score of 9. India was ranked at the 80<sup>th</sup> spot though its score remained the same as last year (41/100)."
+}
