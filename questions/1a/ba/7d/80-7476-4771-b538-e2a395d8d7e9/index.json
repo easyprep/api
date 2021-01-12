@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "1aba7d80-7476-4771-b538-e2a395d8d7e9",
+  "labels": "current-affairs,2020-04-29",
+  "question": "The Chandrasekhar limit proposed the limit of mass for which among the following to be stable?",
+  "option1": "Neutron Star",
+  "option2": "Black Hole",
+  "option3": "Nebulae",
+  "option4": "White dwarf",
+  "option5": "",
+  "answer": "White dwarf",
+  "explanation": "Chandrasekhar limit is the maximum limit of mass a white dwarf can tolerate to be stable. If the limit is crossed, the white dwarf becomes unstable and collapses into a Neutron star/ Black hole."
+}

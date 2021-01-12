@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-30T00:46:57.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "561784a8-1e40-4c6e-b93d-3bb6c12ea703",
+  "labels": "current-affairs,2020-05-01",
+  "question": "Which of the following are the advantages of Electronic Voting Machine (EVM)?<br />1. It eliminates the possibility of invalid and doubtful votes.<br />2. It makes the process of counting of votes much faster.<br />3. It reduces cost of printing.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Some of the advantages of Electronic Voting Machine (EVM) are: (1) It eliminates the possibility of invalid and doubtful votes, (2) It makes the process of counting of votes much faster, (3) It reduces cost of printing."
+}

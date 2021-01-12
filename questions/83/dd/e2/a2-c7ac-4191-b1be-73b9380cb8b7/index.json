@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-02T22:09:40.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "83dde2a2-c7ac-4191-b1be-73b9380cb8b7",
+  "labels": "current-affairs,2020-05-03",
+  "question": "The CAG submits which of the following reports to the President?<br />1. Audit report on appropriation accounts.<br />2. Audit report on finance accounts.<br />3. Audit report on public undertakings.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The Comptroller and Auditor General of India (CAG) submits three audit reports to the President of India–audit report on appropriation accounts, audit report on finance accounts, and audit report on public undertakings."
+}

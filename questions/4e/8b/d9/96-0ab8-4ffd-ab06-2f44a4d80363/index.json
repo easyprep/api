@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-30T00:46:56.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "4e8bd996-0ab8-4ffd-ab06-2f44a4d80363",
+  "labels": "current-affairs,2020-05-01",
+  "question": "Which of the following is the consequence if NOTA votes exceeds 50%?",
+  "option1": "Elections are cancelled",
+  "option2": "It does not affect the election results",
+  "option3": "Election is again organised in constituencies where NOTA vote was more than 50%",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It does not affect the election results",
+  "explanation": "NOTA votes does not affect the election results even if the NOTA votes exceed 50% of the total votes cast. The winner is selected on the basis of rest of votes by first past the post system."
+}

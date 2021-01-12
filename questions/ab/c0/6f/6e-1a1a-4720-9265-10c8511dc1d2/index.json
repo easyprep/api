@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "abc06f6e-1a1a-4720-9265-10c8511dc1d2",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which inert gas is used in beacon lights?",
+  "option1": "Argon",
+  "option2": "Krypton",
+  "option3": "Xenon",
+  "option4": "Neon",
+  "option5": "",
+  "answer": "Neon",
+  "explanation": "Beacon lights are used to get the attention of the people to issue warnings, to guide etc. Light house in beach is used for the navigation of sea vessels, ships etc. Neon light has ability to pass through the fog efficiently and it is visible for long distances, because of these reasons neon is preferred over other inert gases."
+}

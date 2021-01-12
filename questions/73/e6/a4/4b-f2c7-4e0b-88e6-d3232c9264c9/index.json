@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "73e6a44b-f2c7-4e0b-88e6-d3232c9264c9",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Milky way galaxy is part of which of the following clusters?",
+  "option1": "Sirius",
+  "option2": "Proxima Century",
+  "option3": "Alfa Century",
+  "option4": "The Local group",
+  "option5": "",
+  "answer": "The Local group",
+  "explanation": "The Milky way is part of the local group galaxy group which inturn is part of Virgo super cluster which inturn is part of Laniakea super cluster."
+}

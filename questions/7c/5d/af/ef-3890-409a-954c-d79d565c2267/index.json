@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-29T02:03:27.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "7c5dafef-3890-409a-954c-d79d565c2267",
+  "labels": "current-affairs,2020-04-30",
+  "question": "What is ‘VITAL’, which was making news recently, in context with the prevailing Covid-19 pandemic?",
+  "option1": "Testing Kit",
+  "option2": "Ventilator",
+  "option3": "Personal Protection Equipment",
+  "option4": "X-ray Device",
+  "option5": "",
+  "answer": "Ventilator",
+  "explanation": "A new high-pressure ventilator named VITAL (Ventilator Intervention Technology Accessible Locally) has been developed by the engineers at NASA’s Jet Propulsion Laboratory.\r\nVITAL has been designed to treat patients with milder symptoms so that the traditional ventilators may be used for critical patients. The device has passed a critical test and waiting for the fast-track approval from FDA."
+}

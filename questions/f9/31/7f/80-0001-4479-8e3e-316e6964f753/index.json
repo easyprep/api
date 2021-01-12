@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-29T01:54:46.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "f9317f80-0001-4479-8e3e-316e6964f753",
+  "labels": "current-affairs,2020-04-30",
+  "question": "As per the recent estimate of the India Ratings and Research (Ind-Ra), what would be the expected fiscal deficit, in the case of no stimulus measure from the government?",
+  "option1": 0.032,
+  "option2": 0.035,
+  "option3": 0.038,
+  "option4": 0.044,
+  "option5": "",
+  "answer": 0.044,
+  "explanation": "Domestic Credit rating agency India Ratings and Research (Ind-Ra) has further decreased the GDP growth rate of India to 1.9% for the current fiscal. It had previously estimated the growth rate for this fiscal to be 3.6%. The estimate was significant as this would be the lowest GDP growth in the last 29 years.\r\nThe report also highlighted that in the absence of any stimulus measures from the government, the fiscal deficit would touch 4.4% of GDP in this fiscal 2020-21, the official target being 3.5%."
+}

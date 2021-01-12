@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:48.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "c9032f30-b36a-41d1-bc55-0724bea083f5",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which branch of soil sciences deals with the influence of soil on the growth of plants?",
+  "option1": "Petrology",
+  "option2": "Pedology",
+  "option3": "Edaphology",
+  "option4": "Geology",
+  "option5": "",
+  "answer": "Edaphology",
+  "explanation": "Soil sciences is broadly classified into two branches, Pedology and Edaphology. Pedology deals with the soils in their natural environment where as Edaphology deals with the influence of soils on the living things especially plants."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "e50d23ff-4695-4b11-8f59-2a160a7940a3",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which instrument is used to measure the electrical resistance of a conducting wire?",
+  "option1": "Ammeter",
+  "option2": "Voltmeter",
+  "option3": "Wattmeter",
+  "option4": "Ohm meter",
+  "option5": "",
+  "answer": "Ohm meter",
+  "explanation": "Ohm meter is used to measure the resistance offered by a conducting medium. Unit of electrical resistance is Ohm."
+}

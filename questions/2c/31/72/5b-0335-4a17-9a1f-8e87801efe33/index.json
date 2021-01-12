@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "2c31725b-0335-4a17-9a1f-8e87801efe33",
+  "labels": "current-affairs,2020-04-29",
+  "question": "What is the orbital period of comet Halley?",
+  "option1": "72 years",
+  "option2": "75 years",
+  "option3": "78 years",
+  "option4": "82 years",
+  "option5": "",
+  "answer": "75 years",
+  "explanation": "Comet Halley completes the revolution around the Sun once every 75 years. Probably it is the only comet that might appear twice in a human life time."
+}

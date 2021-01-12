@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-29T02:01:41.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "dbf79254-8fd3-4b78-a122-ab4e0d24254a",
+  "labels": "current-affairs,2020-04-30",
+  "question": "KARMI-Bot', which was seen in news recently, is a robot deployed in the Government Hospital of which state?",
+  "option1": "Maharashtra",
+  "option2": "Kerala",
+  "option3": "Odisha",
+  "option4": "Telangana",
+  "option5": "",
+  "answer": "Kerala",
+  "explanation": "The Government Hospital of Ernakulam, Kerala has deployed a robot named 'KARMI-Bot', to serve food and medicines to coronavirus patients in the Covid-19 isolation wards.\r\nThe robot has been introduced to reduce risk of the doctors and health workers from being contracted to the coronavirus. Asimov Robotics, a start-up company working under the Kerala start-up mission, has developed the robot. It is also designed to collect trash, disinfect the room and enable video call between the doctor and patients."
+}

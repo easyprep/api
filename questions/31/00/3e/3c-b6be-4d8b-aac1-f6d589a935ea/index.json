@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "31003e3c-b6be-4d8b-aac1-f6d589a935ea",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which is the nearest planet to the Sun in Solar system?",
+  "option1": "Venus",
+  "option2": "Earth",
+  "option3": "Mars",
+  "option4": "Mercury",
+  "option5": "",
+  "answer": "Mercury",
+  "explanation": "Mercury is the nearest planet to the Sun in solar system. Order: Mercury, Venus, Earth, Mars, asteroid belt, Jupiter, Saturn, Uranus, Neptune, Pluto, Kuiper belt, Oort cloud."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "f50ee593-1480-418f-83c5-50b3626a7af0",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which among the following bands of electromagnetic spectrum has least wavelength compared to the remaining?",
+  "option1": "Radio waves",
+  "option2": "X rays",
+  "option3": "Visibel spectrum",
+  "option4": "Ultraviolet rays",
+  "option5": "",
+  "answer": "X rays",
+  "explanation": "Descending order of wavelengths of bands of electromagnetic spectrum: Radio waves&gt; Micro waves&gt; Infrared&gt; Visible&gt; Ultraviolet&gt; X rays&gt; Gamma rays. Among the given options, it is X rays with least wavelength."
+}

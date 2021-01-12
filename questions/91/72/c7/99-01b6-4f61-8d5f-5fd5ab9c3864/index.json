@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "9172c799-01b6-4f61-8d5f-5fd5ab9c3864",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Deuterium is an isotope of which element?",
+  "option1": "Hydrogen",
+  "option2": "Helium",
+  "option3": "Lithium",
+  "option4": "Berylium",
+  "option5": "",
+  "answer": "Hydrogen",
+  "explanation": "Protium, deuterium and tritium are the three stable isotopes of hydrogen. Heavy water used in the nuclear reactors as moderator uses deuterium isotope of hydrogen."
+}

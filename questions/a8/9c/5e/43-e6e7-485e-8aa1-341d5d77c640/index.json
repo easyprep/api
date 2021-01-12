@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "a89c5e43-e6e7-485e-8aa1-341d5d77c640",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which among the following blood groups is referred as the universal donor blood group?",
+  "option1": "O -ve",
+  "option2": "O +ve",
+  "option3": "AB -ve",
+  "option4": "AB +ve",
+  "option5": "",
+  "answer": "O -ve",
+  "explanation": "The person with O-ve blood group is considered as the universal donor. Whereas a person with O +ve is not a universal donor as O +ve consists of Rh(Rhesus) factor  which makes it incompatible for Rh -ve bloods."
+}

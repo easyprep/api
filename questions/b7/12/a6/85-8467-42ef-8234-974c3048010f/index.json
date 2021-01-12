@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "b712a685-8467-42ef-8234-974c3048010f",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which vitamin helps in the clotting of blood?",
+  "option1": "Vitamin C",
+  "option2": "Vitamin B",
+  "option3": "Vitamin K",
+  "option4": "Vitamin E",
+  "option5": "",
+  "answer": "Vitamin K",
+  "explanation": "Vitamin K helps in the clotting of blood preventing excessive leakage of blood. <br />Extra info: Its name is derived from German which means Koagulationsvitamin."
+}

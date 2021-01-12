@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "c3ba48bd-210b-4599-9078-56484a75e80f",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which component of nuclear reactor slows down the fast moving neutrons?",
+  "option1": "Coolant",
+  "option2": "Moderator",
+  "option3": "Fuel rods",
+  "option4": "Control rods",
+  "option5": "",
+  "answer": "Moderator",
+  "explanation": "Moderator in a nuclear reactor slows down/moderates the fast moving neutrons. In many of the reactors normal water or heavy water (D2O) is used as moderator."
+}

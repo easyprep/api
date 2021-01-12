@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "02fa8bca-0f94-4d2e-bc01-f92b102e0523",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which gas leakage is associated with Bhopal gas tragedy?",
+  "option1": "Methyl mercaptan",
+  "option2": "Methyl isocyanate",
+  "option3": "Methyl carbonate",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Methyl isocyanate",
+  "explanation": "Bhopal gas tragedy, considered to be one of worst industrial disasters of the world happened in 1984. The pesticide plant released nearly 40 tonnes of toxic methyl isocyanate gas."
+}

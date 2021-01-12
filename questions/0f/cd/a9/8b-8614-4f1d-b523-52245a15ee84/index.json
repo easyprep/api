@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "0fcda98b-8614-4f1d-b523-52245a15ee84",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which among the following is not a part of Vitamin B complex?",
+  "option1": "Vitamin B2",
+  "option2": "Vitamin B4",
+  "option3": "Vitamin B6",
+  "option4": "Vitamin B12",
+  "option5": "",
+  "answer": "Vitamin B4",
+  "explanation": "Vitamin B complex consists of 8 vitamins namely B1(Thiamine), B2(Riboflavin), B3(Niacin), B5(Pantothenic acid), B6(Pyridoxine), B7(Biotin), B9(Folate/Folic acid) and B12(Cobalamin)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "700dd356-29de-4e09-aacd-1da02f064444",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which among the following has highest energy in the Electromagnetic spectrum?",
+  "option1": "X rays",
+  "option2": "Ultraviolet rays",
+  "option3": "Micro waves",
+  "option4": "Gamma rays",
+  "option5": "",
+  "answer": "Gamma rays",
+  "explanation": "Gamma rays of Electromagnetic spectrum has highest energy. <br />Descending order of energies of different portions of the spectrum: Gamma rays &gt; X rays &gt; Ultraviolet rays &gt; Visible spectrum &gt; Infrared rays &gt; Micro waves &gt; Radio waves.<br />Extra info: Wavelengths of the above portions of the spectrum is inverse to the energies. eg: Gamma wave has shortest wavelength and radio waves have highest wavelength."
+}

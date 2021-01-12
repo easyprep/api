@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:54:42.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "5723e36b-79a2-4b65-9b57-9559e22bb70e",
+  "labels": "current-affairs,2020-05-05",
+  "question": "What all crimes can NIA investigate?",
+  "option1": "Terrorist attacks",
+  "option2": "Corruption",
+  "option3": "Economic offences",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Terrorist attacks",
+  "explanation": "NIA can investigate following crimes-<br />1. Incidents of terrorist attacks<br />2. Funding of terrorism <br />3. Other terror related crimes"
+}

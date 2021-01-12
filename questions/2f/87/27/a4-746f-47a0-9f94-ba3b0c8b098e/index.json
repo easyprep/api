@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "2f8727a4-746f-47a0-9f94-ba3b0c8b098e",
+  "labels": "current-affairs,2020-05-05",
+  "question": "What is the pH of pure water?",
+  "option1": 0,
+  "option2": 7,
+  "option3": 14,
+  "option4": 8,
+  "option5": "",
+  "answer": 7,
+  "explanation": "Pure water has a pH of 7 whereas due to presence of minerals and other suspended particles water has pH ranging from 6 to 8.5."
+}

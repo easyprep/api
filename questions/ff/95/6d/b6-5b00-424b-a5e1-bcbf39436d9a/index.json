@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "ff956db6-5b00-424b-a5e1-bcbf39436d9a",
+  "labels": "current-affairs,2020-05-04",
+  "question": "In which among the following mediums, the speed of sound is maximum?",
+  "option1": "Vacuum",
+  "option2": "Air",
+  "option3": "Water",
+  "option4": "Steel",
+  "option5": "",
+  "answer": "Steel",
+  "explanation": "Sound being a longitudinal wave, its speed is directly proportional to the density of the medium. The denser the medium, the faster is the sound. Among the given options, density is more in steel and hence the speed of sound is more in steel compared to other three.<br />Extra info: Speed of sound in steel : 5960 mts/second.<br />Speed of sound in air: 330 mts/second.<br />Speed of sound in vacuum: 0 mts/second."
+}

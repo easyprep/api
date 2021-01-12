@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "a1fe0af3-eee9-4df1-9026-d3d0e6126e5b",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which among the following is not a greenhouse gas?",
+  "option1": "Water vapour",
+  "option2": "Carbon dioxide",
+  "option3": "Methane",
+  "option4": "Helium",
+  "option5": "",
+  "answer": "Helium",
+  "explanation": "Greenhouses gases are the gases which trap the heat radiated from the earth surface and is responsible for the rise in temperature. Water vapour is the major greenhouse gas. Without greenhouse gases, the temperature during night times will reach as low as -18 degree centigrade."
+}

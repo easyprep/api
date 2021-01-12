@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "f797a887-e483-4f72-9b8e-b965d4d8e6b0",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which among the following is not a noble gas?",
+  "option1": "Hydrogen",
+  "option2": "Helium",
+  "option3": "Radon",
+  "option4": "Xenon",
+  "option5": "",
+  "answer": "Hydrogen",
+  "explanation": "Noble gases do not participate in any chemical reaction and hence they are also called as inert gases. Helium, Neon, Argon, Krypton, Xenon and Radon are the known noble gases. In a periodic table, noble gases are present in the group 18."
+}

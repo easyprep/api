@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "b20ef159-b92c-464a-bc72-523fb47bfd9e",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Who among the following formulated the Law of Universal Gravitation?",
+  "option1": "Albert Einstein",
+  "option2": "Georges Lemaitre",
+  "option3": "Fred Hoyle",
+  "option4": "Issac Newton",
+  "option5": "",
+  "answer": "Issac Newton",
+  "explanation": "Issac Newton formulated the law of univeral gravitation which states that every particle in the universe attracts every other particle and the force of gravitation is inversely proportional to the distance between them. It is also called as inverse square law of gravitation."
+}

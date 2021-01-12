@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-30T00:46:57.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "b7b70294-168c-4429-883a-6c4e96d741ed",
+  "labels": "current-affairs,2020-05-01",
+  "question": "Which of the following are elected via First Past the Post (FPTP) system?<br />1. Members of Lok Sabha<br />2. President<br />3. Vice President<br />4. Members of Rajya Sabha <br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 3",
+  "option4": "Only 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "All key representatives except the President of India, the Vice President, the members of Rajya Sabha and members of state legislative council are elected via First Past the Post (FPTP) system. In FPTP a candidate who gets one vote more than other candidate is declared as winner."
+}

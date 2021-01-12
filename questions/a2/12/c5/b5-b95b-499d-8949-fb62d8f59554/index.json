@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "a212c5b5-b95b-499d-8949-fb62d8f59554",
+  "labels": "current-affairs,2020-05-05",
+  "question": "How many nibbles constitute a byte?",
+  "option1": 2,
+  "option2": 4,
+  "option3": 8,
+  "option4": 16,
+  "option5": "",
+  "answer": 2,
+  "explanation": "Four bits constitute a nibble and 8 bits constitute a byte. Hence 2 nibbles makes a byte."
+}

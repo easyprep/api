@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "f3df8ab5-5f31-4717-b49d-0223e7a48d3d",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which among the following is not a fat soluble vitamin?",
+  "option1": "Vitamin A",
+  "option2": "Vitamin B",
+  "option3": "Vitamin K",
+  "option4": "Vitamin D",
+  "option5": "",
+  "answer": "Vitamin B",
+  "explanation": "Vitamins are classified into two broad categories, water soluble (vitamins B complex and C) and fat soluble (vitamins A,D,E and K).<br />Extra info: Excess intake of fat soluble vitamins leads to toxicity and poses greater risk."
+}

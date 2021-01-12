@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:49.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "d4fdd559-fab5-4328-8309-eaca980a9799",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which branch of science deals with the study of rocks?",
+  "option1": "Pedology",
+  "option2": "Ediphology",
+  "option3": "Paleontology",
+  "option4": "Petrology",
+  "option5": "",
+  "answer": "Petrology",
+  "explanation": "Petrology is a branch of science which deals with the composition, texture, structure and distribution of rocks. Petrology also deals with the origin of rocks (Igneous, Metamorphic and Sedimentary)."
+}

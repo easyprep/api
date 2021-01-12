@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-27T15:00:49.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "2f90b1f7-1251-4579-80f4-876dd634654d",
+  "labels": "current-affairs,2020-04-28",
+  "question": "Who can specify a transitional area, a smaller urban area or a larger urban area in a state?",
+  "option1": "Chief Minister",
+  "option2": "Governor",
+  "option3": "Prime Minister",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Governor",
+  "explanation": "The Governor is responsible for specifying a transitional area, a smaller urban area or a larger urban area, based on following aspects:<br />1. Population of the area<br />2. Density of the population in the area<br />3. Revenue generated for the local administration<br />4. Percentage of employment in non-agricultural activities.<br />5. Economic importance.<br />6. Such other factors as he may deem fit."
+}

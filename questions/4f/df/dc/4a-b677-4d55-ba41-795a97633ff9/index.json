@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "4fdfdc4a-b677-4d55-ba41-795a97633ff9",
+  "labels": "current-affairs,2020-04-29",
+  "question": "How many light years constitute a Parsec?",
+  "option1": 2.36,
+  "option2": 6.23,
+  "option3": 3.26,
+  "option4": 3.62,
+  "option5": "",
+  "answer": 3.26,
+  "explanation": "Parsec is a unit of distance used to measure the distance between the objects in space. one Parsec is equal to 3.26 times of Light year."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:49.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "83e0bcb0-f285-4087-8f9f-d48ae0c12aa4",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which branch of science deals with the study of inland water bodies and associated ecosystems?",
+  "option1": "Meteorology",
+  "option2": "Potamology",
+  "option3": "Limnology",
+  "option4": "Petrology",
+  "option5": "",
+  "answer": "Limnology",
+  "explanation": "Limnology is a branch of science which deals with the study of inland aquatic ecosystems (both fresh water and saline) which includes rivers, lakes, ponds, canals, wetlands, streams, groundwater etc."
+}

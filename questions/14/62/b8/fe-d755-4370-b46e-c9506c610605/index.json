@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:48.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "1462b8fe-d755-4370-b46e-c9506c610605",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which among the following soil particles is finer (compared to the remaining mentioned below)?",
+  "option1": "Clay",
+  "option2": "Sand",
+  "option3": "Rock",
+  "option4": "Silt",
+  "option5": "",
+  "answer": "Clay",
+  "explanation": "<p>Following is the order of soil particles from fine to coarse.\n<p>Clay&gt;Silt&gt;Sand&gt;Rock.\n<p>Size of sand particles of the given components in descending order:\nRock&gt;Sand&gt;Silt&gt;Clay."
+}

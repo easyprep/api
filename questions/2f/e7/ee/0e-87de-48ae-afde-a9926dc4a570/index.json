@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "2fe7ee0e-87de-48ae-afde-a9926dc4a570",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which colour of light in visible spectrum has highest energy?",
+  "option1": "Red",
+  "option2": "Violet",
+  "option3": "Blue",
+  "option4": "Green",
+  "option5": "",
+  "answer": "Violet",
+  "explanation": "Violet colour in visible spectrum is having highest energy and least wavelength among all the components of visible spectrum. <br />Descending order of energies : Violet&gt;Indigo&gt;Blue&gt;Green&gt;Yellow&gt;Orange&gt;Red."
+}

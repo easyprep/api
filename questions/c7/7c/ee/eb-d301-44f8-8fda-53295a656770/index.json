@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:54:42.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "c77ceeeb-d301-44f8-8fda-53295a656770",
+  "labels": "current-affairs,2020-05-05",
+  "question": "What all crimes can CBI investigate?",
+  "option1": "Terrorist attacks",
+  "option2": "Economic offences",
+  "option3": "Funding of terrorism",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Economic offences",
+  "explanation": "CBI can investigate following crimes-<br />1. Corruption<br />2. Economic offences <br />3. Serious and organized crime other than terrorism"
+}

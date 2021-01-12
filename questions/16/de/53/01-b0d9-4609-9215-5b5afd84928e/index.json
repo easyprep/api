@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-27T17:44:25.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "16de5301-b0d9-4609-9215-5b5afd84928e",
+  "labels": "current-affairs,2020-04-28",
+  "question": "What term is used for a gene that exhibits multiple effects?",
+  "option1": "Pleiotropism",
+  "option2": "Multitropism",
+  "option3": "Complementary",
+  "option4": "Allele",
+  "option5": "",
+  "answer": "Pleiotropism",
+  "explanation": "Pleiotropism describes the genetic effect of a single gene on multiple phenotypic traits. A classic example of pleiotropy is phenylketonuria, a human disease that affects multiple systems but is caused by one gene defect. The underlying mechanism is that the gene codes for a product that is, for example, used by various cells, or has a signaling function on various targets."
+}

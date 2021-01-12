@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "777fa3b2-95ca-4130-a074-800555c9ac25",
+  "labels": "current-affairs,2020-05-05",
+  "question": "How many half lives does a radio active material need to get reduced to one eighth of the original quantity?",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 3,
+  "explanation": "Half life period of a material is the time taken to disintegrate half of the atoms of that particular material. After one half life quantity becomes half and after two halflives it becomes quarter of the total and after three halflives it gets half of the quarter i.e. one eighth of the original. (eg: let us take 8 grams, after one half life it becomes 4, after 2 half periods it becomes 2 and after three half lives it becomes 1 which is one eighth of 8 grams)."
+}

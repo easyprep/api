@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "e0f7c2f8-05c1-45cc-8e34-cf15dbd71d15",
+  "labels": "current-affairs,2020-04-29",
+  "question": "How many number of satellites are there for the planet Mars?",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 2,
+  "explanation": "Mars has two satellites namely Phobos and Deimos."
+}

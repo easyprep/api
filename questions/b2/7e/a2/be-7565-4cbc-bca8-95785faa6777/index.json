@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:48.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "b27ea2be-7565-4cbc-bca8-95785faa6777",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which among the following is the horizon from which the minerals of aluminium and iron and other minerals are removed because of percolation of water downwards?",
+  "option1": "Parent rock horizon",
+  "option2": "Eluviated horizon",
+  "option3": "Iluviated horizon",
+  "option4": "Sub stratum",
+  "option5": "",
+  "answer": "Eluviated horizon",
+  "explanation": "The process of removal of minerals from soil horizon is called Eluviation. Eluviated layer (E) in the soil profile exists below the A layer and the minerals are eluviated because of percolation of water downwards which forms Iluviated layer (B) below the E layer. E layer is comparatively lighter in colour compared to A and B layers."
+}

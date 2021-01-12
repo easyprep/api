@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "9f68847c-08a7-4b95-b20c-4f9c01f36ca8",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which among the following is not a viral disease?",
+  "option1": "Ebola",
+  "option2": "HIV",
+  "option3": "H1N1",
+  "option4": "Tuberculosis",
+  "option5": "",
+  "answer": "Tuberculosis",
+  "explanation": "Tuberculosis is a bacterial disease where as the remaining three are viral diseases. <br />Extra info: India is working towards achieving TB free India by 2025.<br />Nikshay portal is associated with TB."
+}

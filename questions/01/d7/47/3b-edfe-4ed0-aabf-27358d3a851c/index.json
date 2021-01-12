@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "01d7473b-edfe-4ed0-aabf-27358d3a851c",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which among the following planets do not have natural satellites/moons?",
+  "option1": "Mars",
+  "option2": "Jupiter",
+  "option3": "Neptune",
+  "option4": "Venus",
+  "option5": "",
+  "answer": "Venus",
+  "explanation": "Mercury and Venus are the only planets in the Solar system which do not have natural satellites."
+}

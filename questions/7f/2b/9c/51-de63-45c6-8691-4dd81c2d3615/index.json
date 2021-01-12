@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:49.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "7f2b9c51-de63-45c6-8691-4dd81c2d3615",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which among the following units used to measure the distance (in space) is highest?",
+  "option1": "Parsec",
+  "option2": "Light year",
+  "option3": "Astronomical Unit",
+  "option4": "Nautical Mile",
+  "option5": "",
+  "answer": "Parsec",
+  "explanation": "Distances measured (among abovegiven options) in ascending order:<br />1 Nautical mile = 1 minute of latitude= 1852 Meters.<br />1 Astronomical Unit = Average distance between the Earth and the Sun = 150 Million kilometers.<br />1 Light Year = Distance travelled by light in a year = 63,241.1 Astronomical Units.<br />1 Parsec (Pc) = 3.26 Light years."
+}

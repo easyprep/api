@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-27T15:00:49.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "22099f53-beca-4f8e-8957-63ed83388789",
+  "labels": "current-affairs,2020-04-28",
+  "question": "What is the duration of office of a municipality reconstituted after premature dissolution?",
+  "option1": "Full period of five years",
+  "option2": "Remainder of the period",
+  "option3": "Six months",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Remainder of the period",
+  "explanation": "A municipality reconstituted after premature dissolution remains in office only for the remainder of the period. In case the remainder of the period is less than six months, then it is not necessary to hold fresh election for the formation of a new municipality for the given period."
+}

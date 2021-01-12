@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "808d8366-1cab-4a47-888d-e78ccd2c801d",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Who discovered neutron?",
+  "option1": "J J Thomson",
+  "option2": "Ernest Rutherford",
+  "option3": "James Chadwick",
+  "option4": "Dalton",
+  "option5": "",
+  "answer": "James Chadwick",
+  "explanation": "Subatomic particle neutron was discovered by James Chadwick in 1932 which helped in knowing the characteristics of the nucleus of an atom. Neutron is a subatomic particle with no charge where as proton is positive and electron is negatively charged."
+}

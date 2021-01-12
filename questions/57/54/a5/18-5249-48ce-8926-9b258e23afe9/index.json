@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-04T00:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "5754a518-5249-48ce-8926-9b258e23afe9",
+  "labels": "current-affairs,2020-05-05",
+  "question": "Which nuclear reaction is more pronounced in stars and Sun?",
+  "option1": "Nuclear fusion",
+  "option2": "Nuclear fission",
+  "option3": "Radiactive decay",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Nuclear fusion",
+  "explanation": "Nuclear fusion is a process of amalgamation of two lighter nuclei into a single nucleus with the liberation of enormous amount of heat which is some hundreds of times compared to nuclear fission."
+}

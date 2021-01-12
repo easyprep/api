@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-02T22:11:35.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "ef3776dc-805f-4b49-bc2a-7e3493568bb9",
+  "labels": "current-affairs,2020-05-03",
+  "question": "Which of the following statement is correct regarding Attorney General of India?<br />1. He is a fulltime counsel for the Government.<br />2. He falls in the category for government servants.<br />3. He is not debarred from private legal practice.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "The Attorney General of India is not a fulltime counsel for the Government of India. He does not fall in the category of government servants. Also he is not prohibited from private legal practice."
+}

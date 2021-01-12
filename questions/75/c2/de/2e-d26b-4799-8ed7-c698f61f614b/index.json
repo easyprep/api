@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-03T00:05:15.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "75c2de2e-d26b-4799-8ed7-c698f61f614b",
+  "labels": "current-affairs,2020-05-04",
+  "question": "Which among the following vitamins is absent in an egg?",
+  "option1": "Vitamin D",
+  "option2": "Vitamin C",
+  "option3": "Vitamin A",
+  "option4": "Vitamin K",
+  "option5": "",
+  "answer": "Vitamin C",
+  "explanation": "Egg is devoid of vitamin C. Egg contains all the vitamins barring vitamin C.<br />Extra info: Egg yolk is one of the few foods which contains vitamin D."
+}

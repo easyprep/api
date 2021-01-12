@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "e3049c52-07aa-4fde-b481-df25afeb35e2",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which among the following is home of Pluto in the Solar system?",
+  "option1": "Asteroid belt between Mars and Jupiter",
+  "option2": "Kuiper Belt",
+  "option3": "Oort cloud",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Kuiper Belt",
+  "explanation": "Kuiper belt is home to the three recognised dwarf planets Pluto, Makemake and Haumea. Kuiper belt exists beyond the orbit of Neptune."
+}

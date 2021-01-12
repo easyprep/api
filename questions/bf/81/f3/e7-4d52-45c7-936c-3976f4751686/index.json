@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-28T16:00:50.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "bf81f3e7-4d52-45c7-936c-3976f4751686",
+  "labels": "current-affairs,2020-04-29",
+  "question": "Which among the following is the strongest among all the fundamental forces of nature?",
+  "option1": "Strong Nuclear force",
+  "option2": "Gravitational force",
+  "option3": "Electromagnetic force",
+  "option4": "Weak Nuclear force",
+  "option5": "",
+  "answer": "Strong Nuclear force",
+  "explanation": "Force magnitude in ascending order: Gravitational Force&lt;Weak Nuclear Force&lt;ElectroMagnetic Force&lt;Strong Nuclear Force."
+}

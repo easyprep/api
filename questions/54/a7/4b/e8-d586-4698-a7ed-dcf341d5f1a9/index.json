@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-30T00:46:56.000Z",
+  "updated_at": "2021-01-06T08:24:53.699Z",
+  "id": "54a74be8-d586-4698-a7ed-dcf341d5f1a9",
+  "labels": "current-affairs,2020-05-01",
+  "question": "How much percentage of total votes is required by a party in the state in general or assembly elections to be recognized as state political party?",
+  "option1": 0.05,
+  "option2": 0.06,
+  "option3": 0.07,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "A party is recognized as state political party if it has secured at least 6% of the total votes given in the state in the general or assembly elections and also the party has been able to grab at least 3% of total seats or a total of 3 seats in the state legislative assemblies."
+}
