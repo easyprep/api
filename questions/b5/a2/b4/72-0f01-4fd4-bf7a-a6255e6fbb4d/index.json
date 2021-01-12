@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "b5a2b472-0f01-4fd4-bf7a-a6255e6fbb4d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "UNCCD had highlighted the effect of increased meat consumption on land. In this context, consider the following statements:<br />\n<ol>\n<li>The demand for meat and crop-based livestock feed is expected to decrease according to the report.</li>\n<li>Meat production requires more land per unit of nutritional value than its vegetative counterpart.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe report from UNCCD has highlighted the increasing pressure put by demand for meat on land. Historically, the demand for meat had increased- doubled since 1960s. Of this, the pork production increased by 294%, poultry production by 711% and eggs by 353% till 2007. The report predicts the demand to increase by 50% by 2050.\n <strong>Statement 2 is correct:</strong>\nThe report says that five times more land is required to produce a unit of nutritive value via meat production than plant production. Of all the meat produced, the report highlights beef production to be the most inefficient, requiring 11 times more water and 28 times more land. The report hence recommends cutting down meat consumption."
+}

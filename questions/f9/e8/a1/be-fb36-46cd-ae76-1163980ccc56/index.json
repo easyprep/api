@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:54.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "f9e8a1be-fb36-46cd-ae76-1163980ccc56",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Hurricane Dorrian has created massive floods in Bahamas. In this context, consider the following statements:<br />\n<ol>\n<li>Only the tropical cyclones that form in the region of Indian and Pacific oceans are called hurricane.</li>\n<li>Bahamas is located in the Pacific Ocean.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe tropical cyclones that form over the Atlantic Ocean and eastern Pacific Ocean are known as hurricane. A tropical cyclone is the term that is used to describe the rotating clouds and thunderstorms that originate from tropical and sub-tropical waters. If the tropical cyclone is weak, it’s called tropical depression. If the depression intensifies to 39 miles per hour, it is called tropical storm. If the tropical cyclone has maximum sustained winds with the speed 74 miles per hour, it is called either a typhoon or a hurricane or tropical cyclone based on the place of origin. A typhoon is the one that originates from Indian Ocean or western Pacific Ocean.\n<strong>Statement 2 is incorrect:</strong>\nThe Bahamas is a coral-based archipelago that is located in the Atlantic Ocean. It was a former a British colony that gained independence in 1973. It acts as the gateway to the Gulf of Mexico, the Caribbean Sea and the entire Central America. It is a country that is highly dependent on the tourism sector, banking and offshore financial services."
+}

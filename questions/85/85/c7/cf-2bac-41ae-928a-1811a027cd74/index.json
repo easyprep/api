@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "8585c7cf-2bac-41ae-928a-1811a027cd74",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the government’s decision to launch a climate vulnerability map, consider the following statements:<br />\n<ol>\n<li>The map will cover non-Himalayan states also.</li>\n<li>The project is under the National Mission on Strategic Knowledge for Climate Change.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe climate vulnerability map will extend to the non-Himalayan states also. It is being developed by the Department of Science and Technology along with the Swiss Agency for Development and Cooperation. Such map had earlier been developed for all the Himalayan states to identify vulnerable regions.\n<strong>Statement 2 is correct:        </strong>\nThe map was developed by DST as part of the Climate Change Research program. This program is a part of the National Mission on Strategic Knowledge for Climate Change. The mission’s objective is to use existing institutions to construct a network and understand climate change better."
+}

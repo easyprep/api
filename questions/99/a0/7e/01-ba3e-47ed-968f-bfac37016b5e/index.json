@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "99a07e01-ba3e-47ed-968f-bfac37016b5e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent advances with respect to the ‘Portamento’ using algorithm, consider the following statements:<br />\n<ol>\n<li>The algorithm functions using the ‘optimal transport’ concept.</li>\n<li>Before this algorithm, portamento was possible only using human voice.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAn MIT research has produced an algorithm that can produce the musical effect called the Portamento using mathematics. It uses the optimal transport concept, which is a geometry based framework. It determines the most efficient way to move objects between two configurations.\n<strong>Statement 2 is incorrect:</strong>\nPortamento is a musical effect that involves a smooth progression from one tone or pitch into another. This could be achieved using trained human voice or using certain musical instruments. String instruments can achieve this effect. The new algorithm blends one audio signal into another to do the same."
+}

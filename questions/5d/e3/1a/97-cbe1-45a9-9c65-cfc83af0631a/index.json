@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "5de31a97-cbe1-45a9-9c65-cfc83af0631a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The 2019 summer monsoon performance was influenced by the El Nino. In this context, consider the following statements:<br />\n<ol>\n<li>A stronger El Nino is favourable for monsoon rainfall in India.</li>\n<li>El Nino has a bearing on GDPs around the world.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 or 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nEl Nino is a phase of ENSO/ El Nino Southern Oscillation. It is characterised by warm oceans in the central and east-central parts of the Pacific Ocean. A weaker El Nino favours Indian monsoon in the summer. A strong El Nino causes rain deficit and droughts, such as the 2014 case.\n<strong>Statement 2 is correct:</strong>\nEl Nino has a bearing on the GDP of countries according to the IMF. It affects the macro-economy and the commodity prices in the markets. Countries like India, Japan, Australia, Indonesia etc. experience a fall in economic activity during El Nino. Markets of other countries like Mexico, USA, Canada, etc. benefit from El Nino."
+}

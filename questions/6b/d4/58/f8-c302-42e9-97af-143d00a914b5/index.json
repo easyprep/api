@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "6bd458f8-c302-42e9-97af-143d00a914b5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The exoplanet K2-18b has been in news recently. In this context, consider the following statements:<br />\r\n<ol>\r\n<li>It is the only other planet apart from Earth that has water in its atmosphere.</li>\r\n<li>It revolves around a red dwarf star, a category of stars that are much hotter than our sun.</li>\r\n<li>The NASA James Webb Space telescope was responsible for its discovery.</li>\r\n<li>It is found in its star’s ‘Goldilocks Zone’.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 1 and 4 are correct",
+  "option3": "All are incorrect",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 1 and 4 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe K2-18b is an exoplanet that is reported to contain water in its atmosphere. It is the only other planet apart from earth known to contain water. Data from Hubble telescope showed that it has a hydrogen–helium atmosphere with a high concentration of water vapor. At the upper concentration levels, the water vapor would be sufficiently high to form clouds.\r\n<strong>Statement 2 is incorrect:</strong>\r\nRed dwarf stars are far cooler than the Sun. These are some of the smallest and coolest stars of its category. These are also one of the most common star types. The K2-18b’s star is called the K2-18. It is found in the constellation Leo.\r\n<strong>Statement 3 is incorrect:</strong>\r\nThe planet was discovered in 2015 by NASA’s Kepler Space Telescope. It was also studied by the Hubble Space Telescope. The James Webb Space Telescope is yet to be launched by NASA. The planet is twice the size of earth and is much more massive.\r\n<strong>Statement 4 is correct:</strong>\r\nIt is located in K2-18’s Goldilock Zone. This is the zone in a star’s system which has the right conditions to support life like those found on Earth. K2-18b is reported to be the first exoplanet to be discovered in its star’s Goldilock Zone. It orbits the star every 33 days making its year equivalent to one month on earth."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "dfaa7a53-4154-4b0d-b010-1c9547e82af5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to NITI Aayog releasing the School Education Quality Index, consider the following statements:<br />\n<ol>\n<li>The National Achievement Survey has a bearing on the ranking in the index.</li>\n<li>The World Bank is a part of this program.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nThe index ranks the states and UTs based on 30 indicators of which learning outcome is an important category. This is evaluated from the states’ and UTs’ results as given by the National Achievement Survey. The NAS is a project under the MHRD.\n<strong>Statement 2 is correct:</strong>\nThe School Education Quality Index was developed by NITI Aayog. This is in collaboration with the ministry of human resource and development. The other collaborators are World Bank and experts in the field. The index seeks to identify the sectors’ strengths and weaknesses and take policy measures accordingly."
+}

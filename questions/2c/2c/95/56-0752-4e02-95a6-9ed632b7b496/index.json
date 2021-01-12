@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-19T02:03:45.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2c2c9556-0752-4e02-95a6-9ed632b7b496",
+  "labels": "current-affairs,2019-12-20",
+  "question": "What rank does India hold in terms of the number of scientific articles produced?",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 3,
+  "explanation": "A report by the US National Science Foundation ranked India as the 3<sup>rd</sup> largest producer of scientific research articles and conference papers. China is at the top position in global research output ranking while USA is at the second spot."
+}

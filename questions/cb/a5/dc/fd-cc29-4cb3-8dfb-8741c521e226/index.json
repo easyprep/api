@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "cba5dcfd-cc29-4cb3-8dfb-8741c521e226",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the search for the fate of ISRO’s Vikram lander, consider the following statements about Lunar Reconnaissance Orbiter :<br />\n<ol>\n<li>LRO was launched as a part of Chandrayaan-I mission.</li>\n<li>The primary objective of LRO was to look for water ice.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nLunar Reconnaissance Orbiter is NASA’s robotic spacecraft that was launched in June, 2009. It is orbiting the moon and has been engaged in finding the fate of Chandrayaan-II’s Vikram lander. The LRO will provide images of the intended landing site before and after the failed landing.\n<strong>Statement 2 is correct:        </strong>\nThe primary objective of the LRO was to look for water ice. The mission was also for assessing resource distribution and other characteristics of the moon like day and night temperatures, 3-D mapping at high resolution, global geodetic grid, etc."
+}

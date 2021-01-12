@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "17ae7200-89fb-4926-ac38-222822569939",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The centre is looking to monetise data from the Smart Cities Mission. In this context, consider the following statements:<br />\n<ol>\n<li>The government is to provide open data platform for the smart cities.</li>\n<li>The India Urban Data Exchange/ IUDX is to create a new revenue source.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe centre is to provide an open data platform for 100 smart cities by 2020. By 2022, the coverage is to reach 500 cities and by 2024, all the urban centres in the country would have open data platforms. This is to enable data driven governance. It will provide data on health, education, finance, etc.\n<strong>Statement 2 is correct:</strong>\nThe data platform which is open for now will be eventually monetised. Anonymised data can be purchased from the government in data marketplaces. These can be used for many purposes like choosing locations for advertisement billboards for maximum visibility, etc. this will become a revenue source for the government.\n&nbsp;"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c13d989c-9a2f-4eee-98b1-6078188936bd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "WHO released a report linking suicide prevention and pesticide control in light of World Suicide Prevention Day. In this context, consider the following statements:<br />\n<ol>\n<li>Most of the pesticide related suicides are from low and middle income countries.</li>\n<li>Paraquat is a major cause of suicide deaths.</li>\n</ol>\n&nbsp;\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe WHO report showed the positive relation between regulation of hazardous pesticides and reduction in national suicide rates. This is because most of the attempted suicides are from pesticide ingestion and it is one of the 3 most common means of suicide in low and middle income countries. Its prevalence is lower in high income countries because of regulations.\n<strong>Statement 2 is correct:        </strong>\nParaquat is a common means of suicide by pesticide ingestion. It was the reason for majority of deaths in Korea in 2000s and was banned. Regulation of pesticide reduces suicide incidence. This is especially visible in case of Sri Lanka where a 70% reduction in suicide rate was observed between 1995 and 2014 because of such regulations."
+}

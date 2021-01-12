@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "66fe8f74-4bb9-4865-acd7-d78aec3645d8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The government announced the plans to spend 12,000 crore INR for the National Population Register and census. In this context, consider the following statements:<br />\n<ol>\n<li>Unlike UID, the enrolment with NPR is mandatory.</li>\n<li>The NPR database is maintained by the UIDAI.</li>\n<li>Unlike UID, the NPR does not have statutory backing.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 1 is correct",
+  "option3": "Only 2 and 3 are correct",
+  "option4": "Only 3 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe registration of every Indian resident in the national population register is mandatory. The registration with the UIDAI/ unique identification authority of India is not mandatory. The NPR registration provides a proof of residence in the country. The NPR links biometric data with demographic data to produce a comprehensive database.\n<strong>Statement 2 is incorrect:</strong>\nThe NPR database is maintained by the Registrar General of India and the Census Commissioner of India. This office comes under the home affairs ministry. The purpose of the database is to enable comprehensive coverage of government schemes, while also improving the security and planning aspects.\n<strong>Statement 3 is incorrect:</strong>\nThe NPR exercise has statutory backing unlike the UID (unique identifier). The exercise is conducted under the mandate of Citizenship 1955. The section 14A of the act mandates the registration. The act, however does not have provisions for the collection of biometric data."
+}

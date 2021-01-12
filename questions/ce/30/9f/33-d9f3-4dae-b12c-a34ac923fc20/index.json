@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ce309f33-d9f3-4dae-b12c-a34ac923fc20",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Indian Air Force has inducted 8 AH-64E Apache Attack helicopters into its fleet. In this context, consider the following statements about the imported helicopter:<br />\n<ol>\n<li>These helicopters can operate at higher altitudes than the Mi-24 helicopters owned by India.</li>\n<li>The helicopter is capable of electronic warfare.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThese helicopters from Boeing are one of the most advanced attack helicopters produced across the world. They are smaller than Russian attack helicopters like the Mi-24 and Mi-35 owned by the IAF and have no cargo holding capacity. However, its major advantage is the ability to operate at higher altitudes. This is significant as the IAF found the inoperability of Mi-35s at high altitudes evident during the Kargil Conflict.\n<strong>Statement 2 is correct:</strong>\nThe helicopter is capable of electronic warfare. Electronic warfare involves the blocking of access to the electromagnetic environment (EM portion of information environment) to the opponents. The uninterrupted access to electronic environment is vital for military activity. The helicopter was delivered in a semi-flyaway condition from US."
+}

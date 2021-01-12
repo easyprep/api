@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "79ad97c9-9f73-4cbd-aa1b-15de81df3a1a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "September is the peak season for storm activity in the Atlantic Basin and several storms have been raging simultaneously this year. In this context, consider the following statements:<br />\n<ol>\n<li>The high hurricane activity is because of warm sea temperatures.</li>\n<li>Hurricane Humberto spins in a counter-clockwise direction.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSeptember is usually the peak period for Atlantic storm activity. This is because the ocean waters are at their warmest temperature. Warm water leads to warm air which rises upwards and creates a low pressure region. This causes storm activity which is also aided by low wind shear.\n<strong>Statement 2 is correct:</strong>\nTropical storms that form above the equator, in the northern hemisphere rotate in a counter-clockwise direction while those in the southern hemisphere rotate in a clock-wise direction. This is connected to the earth’s rotation leading to the ‘coriolis effect’. Hurricane Humberto originated above the equator."
+}

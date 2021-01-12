@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "020aaa8d-cc74-40f7-9e06-295c9a494f5f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to Delhi’s measures to curb dengue, consider the following statements:<br />\n<ol>\n<li>Dengue is caused by Flavivirus.</li>\n<li>Dengue cannot be transmitted from person to person.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nDengue is a disease caused by the Flavivirus. It is transmitted through Aedes mosquitoes. Only the female mosquitoes act as vectors that infect humans. There are no specific treatments. It is managed by symptomatic treatment. The most effective control method now is vector control.\n<strong>Statement 2 is correct:</strong>\nDengue cannot be spread from human to human. However, an infected human can pass on the virus to a vector mosquito. It causes the ‘break-bone fever’. Symptoms include headache, rashes, nausea, joint pain, muscle pain, swollen glands, etc. The symptoms start appearing after an incubation period of 4 to 10 days."
+}

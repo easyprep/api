@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:08.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "4c8fb3a4-cd2c-4073-96a2-d280b273b1ef",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Matters in parliament are decided by voting and there are provisions for different types of voting. Consider the following statements about Parliamentary voting system:\n<ol>\n<li>All votes cast in the Parliament are recorded.</li>\n<li>Only votes cast by divisions voting are recorded.</li>\n<li>Automatic Vote Recorder can be used to check for quorum.</li>\n<li>Results from voice votes, but not division, can be challenged</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "3 and 4",
+  "option2": "1 and 3",
+  "option3": "1 and 4",
+  "option4": "2 only",
+  "option5": "",
+  "answer": "3 and 4",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is incorrect:\nVoting is by 4 different methods: voice vote, division by counting, by Automatic Vote Counter and by lobbies. Voice votes and votes from division by counting are not recorded. Voice vote occurs by declaration of ayes and noes- the numbers of which are not announced. Division by count voting is by members standing for each option called out by the chairperson.\n<strong>Statement 2 </strong>is incorrect:\nNot all division votes are recorded. Division by use of automatic vote recorder and by formation of lobbies use recording. In former case, the members press one of the option- aye/ no/ abstain, simultaneously with the vote activation button. They are recorded with names for ordinary division but without such details for secret voting. In the division by lobbies, division clerks prepare division list based on lobbies formed.\n<strong>Statement 3 </strong>is correct:\nThe automatic vote recorder can be used to check for quorum. The members are required to press the present button of the machine. Quorum is the minimum house strength required for carrying out the business. In its absence, the session is called off.\n<strong>Statement 4 </strong>is correct:\nThe result after voice vote is announced by the chairperson. The challenge can be posed by members immediately after the announcement. The same question is then put to vote by division. The results of voting by division cannot be challenged in the House."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "81a33203-7b67-4b2c-831b-3c365bf24aa9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A recent study reported that 2 out of 3 child deaths is due to malnutrition. In this context, consider the following statements:<br />\n<ol>\n<li>The prevalence of overweight children is greater than that of underweight children in India.</li>\n<li>Disability adjusted life year measures the number of years of life lost to poor health and disability.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe recent report from ICMR showed that the prevalence of underweight condition is greater than overweight condition among children. Over 32% of children are underweight while over 11% are overweight. The study reported that over 68% of the under-five child deaths had malnutrition as the predominant risk factor.\n <strong>Statement 2 is correct:</strong>\nDisability adjusted life years/ DALY is a measure of the number of years lost to ill-health, early death or disability. The study found that DALY rate due to malnutrition was highest in the states of UP, Bihar, Assam and Rajasthan."
+}

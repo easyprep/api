@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "18b12773-2ac9-4615-8c70-7a9d597fdc18",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent India TB Report 2019, consider the following statements:<br />\n<ol>\n<li>Bihar has the highest TB burden in India.</li>\n<li>BCG vaccine is used against TB.</li>\n<li>Most of the paediatric TB is pulmonary TB.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 and 2 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 2 and 3 are correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe report shows that Uttar Pradesh has the highest TB burden in India. 20% of the cases in the country is from UP. This is 4.2 lakh cases of TB reported. Maharashtra and Rajasthan have the next highest TB burden with 10% and 7% respectively.\n<strong>Statement 2 is correct:        </strong>\nBCG vaccine/ Bacillus Calmette–Guérin vaccine is used against TB. It is listed in the WHO’s list of essential medicine. India is one of the first countries to adopt mass immunisation measures using BCG vaccine outside Europe. WHO recommends immunisation of children using BCG vaccine in countries with high TB burden.\n<strong>Statement 3 is correct:</strong>\nThe India TB Report 2019 showed an increase the number of Paediatric TB cases in India. From the previous years’ 6%, the incidence has increased to 6.17%. About 70-80% of the paediatric TB cases are caused due to pulmonary TB infection."
+}

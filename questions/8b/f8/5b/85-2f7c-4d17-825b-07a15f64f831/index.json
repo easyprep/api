@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "8bf85b85-2f7c-4d17-825b-07a15f64f831",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the Supreme Court ruling on SC and ST Act, consider the following statements:<br />\n<ol>\n<li>Under this act, public servants can be arrested only with permission of superintendent of police.</li>\n<li>The percentage of false cases under this act is higher than in other cases.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIn 2018, the act was modified to do away with the automatic arrest provision of the SC and ST (Prevention of Atrocities) Act. The SC held that public servants can be arrested only with prior permission of his/ her appointing official. This was done away with in October, 2019.\n<strong>Statement 2 is incorrect:</strong>\nThe SC division bench had held that the percentage of false cases under the SC and ST Act was 9 to 10%. The bench had held that innocent people must be protected from misuse of this act. In October, SC held that false cases percentage is comparable to other general crimes."
+}

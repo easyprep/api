@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "5cb54b1a-61f6-4776-a2bc-f07a7ae1d0b1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the NGT’s observations on Regional Environmental Impact Assessment, consider the following statements:<br />\n<ol>\n<li>REIA gives micro-level assessment of the environmental impacts.</li>\n<li>REIA as opposed to cluster EIA can be the sole basis for project approvals.</li>\n<li>The Precautionary Principle allows that the lack of solid scientific evidence can be used to postpone cost-effective measures to prevent environmental degradation.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "All are incorrect",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "All are incorrect",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe REIA is a macro-level tool that helps the policy makers get a general idea about impacts in a region. It assesses the impact in a spatial setting. The spatial area can be delimited based on geographical, socio-economical, ecological, administrative boundaries, etc.\n<strong>Statement 2 is incorrect:</strong>\nThe NGT held that REIA cannot be used as the sole basis for allowing a project. The NGT said that individual environmental impact assessments and cluster-EIAs are needed for project approvals. This is because, the REIA over-generalises the impacts and micro-level tools are required to get the full picture.\n<strong>Statement 3 is incorrect:</strong>\nThe Precautionary principle is an environmental law put forth in the Rio Declaration. The principle stipulates that lack of solid scientific backing cannot be used to postpone the use of cost effective measures to stop environmental degradation. It opines that it’s better to control a degrading activity than wait for the evidence.\n&nbsp;"
+}

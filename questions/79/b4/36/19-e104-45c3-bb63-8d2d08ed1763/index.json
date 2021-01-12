@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "79b43619-e104-45c3-bb63-8d2d08ed1763",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The government is to set up a Centralised Technology Vertical for the CBI. In this context, consider the following statements:<br />\n<ol>\n<li>The CTV will deal with complex financial crimes like Ponzi schemes.</li>\n<li>The CTV would provide data mining tools to the CBI.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe CTV is to be established at the cost of 99 crore INR for the CBI by 2020. This will help modernise the institute and also improve its functioning. The CTV will aid the CBI to solve complex crimes like Ponzi scam, capital market scam, etc. and also those like the coal block irregularities scam and 2G scams.\n<strong>Statement 2 is correct:</strong>\nThe CTV would provide support to the CBI investigations. It will give the agency access to data mining tools, data warehouses and data analytics. Data mining is the process of analysing data from various perspectives to present previously unconsidered facets of investigation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "8404eee5-3dff-4058-84a3-0d5077c49c9a",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Scientists at the IITs have developed a high sensitivity material to detect hydrogen leaks. In that context, consider the following statements about hydrogen as a fuel in India:<br />\n<ol>\n<li>Delhi is to set up hydrogen fueled public buses.</li>\n<li>The National Hydrogen Energy Roadmap seeks to increase aggregate hydrogen based power generation capacity to 1000MW by 2020.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nDelhi is set to introduce public transport buses that are fuelled by hydrogen. It is to use the gas in form of HCNG/ hydrogen enriched compressed natural gas. The use of hydrogen is hindered by its inflammable nature and requires proper sensors to detect leakage. The material developed at IIT is reported to have an efficiency of 74%.\n<strong>Statement 2 is correct:</strong>\nThe National Hydrogen Energy Roadmap seeks to increase the capacity for energy generation using hydrogen to 1000MW by 2020. Hydrogen is a clean fuel and its combustion yields only water as the by-product. Many research institutions are working to develop the technology for commercial application."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9bf70f5f-edbe-4e2c-b1c6-8e357645c6fc",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the upcoming DART mission in 2021, consider the following statements:<br />\n<ol>\n<li>The DART spacecraft will target the Didymos A asteroid.</li>\n<li>It is a part of the AIDA/ Asteroid Impact and Deflection Assessment mission.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe DART/ Double Asteroid Redirection Test is to be launched in 2021 by NASA. It will target the Didymos B, which is a part of the Didymos Binary Asteroid System. The binary nature will enable the scientist to study the effect of a ‘kinetic impactor’. The Didymos B is smaller than the Didymos A.\n <strong>Statement 2 is correct:</strong>\nThe DART is a part of AIDA mission. AIDA was launched in 2015 jointly by NASA and the ESA (European Space Agency). The mission was to study the effect of crashing a spacecraft into an asteroid moon. This is to study its utility in deflecting an asteroid if it enters a collision course with earth."
+}

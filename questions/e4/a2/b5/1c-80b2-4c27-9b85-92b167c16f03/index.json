@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "e4a2b51c-80b2-4c27-9b85-92b167c16f03",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Over 40% of land surface is in the form of drylands. In this context, consider the following statements given the ongoing discussions about desertification:<br />\n<ol>\n<li>Drylands are artificial products of desertification.</li>\n<li>A high aridity index/ AI implies a drier region.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nDrylands are a natural type of ecosystem. It is the term used to refer to land that is arid, semi-arid or dry sub-humid. Deserts, which are hyper-arid lands, do not fall under this category. These drylands support a large portion of our food crops and are hence essential.\n<strong>Statement 2 is incorrect:</strong>\nAridity Index/ AI is the ratio of annual precipitation to annual potential for evapotranspiration. A high AI indicates that the climate is wetter as the precipitation is higher or the evapotranspiration is lower. A low AI indicates a drier climate."
+}

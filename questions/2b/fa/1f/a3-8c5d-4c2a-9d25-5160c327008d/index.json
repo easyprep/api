@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2bfa1fa3-8c5d-4c2a-9d25-5160c327008d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The retail inflation in India had increased to a 10-month high in August. Consider the following statements in this context:<br />\n<ol>\n<li>The Consumer Price Inflation/ CPI measures the retail inflation.</li>\n<li>Base Effect affects the accurate assessment of inflation.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "All are incorrect",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "All are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe CPI is a measure of the retail inflation. It tracks the changes in prices of a weighted average basket of consumer goods and services bought by a household. It is one of the most closely watched economic statistics of India as its economy is greatly driven by the consumer market.  \n <strong>Statement 2 is correct:</strong>\nBase Effect refers to the distortion in the monthly inflation measurement caused by an abnormally high or low inflation level in the previous year’s corresponding month. It is caused by seasonal variations like festive seasons or increased rural demand as a consequence of good monsoon."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:53.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "b1e942eb-ea46-4664-bb8b-eedd9d742094",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the biggest carbon nanotube computer chip being built at MIT, consider the following statements:<br />\r\n<ol>\r\n<li>The carbon nanotubes (CNTs) used in the chip are metallic in nature.</li>\r\n<li>CNT based transistors are more energy efficient than silicon based transistors.</li>\r\n<li>Silicon based chips are subject to the Moore’s Law.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 and 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 2 and 3 are correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe CNT have been previously used for manufacturing computer chips. The first of its kind was made in 2013 and had 100 CNT transistors. A major problem faced by the material is its tendency to exhibit metallic nature instead of the semi-conducting nature required for it to operate as a transistor. The MIT device was able to overcome this challenge.\r\n<strong>Statement 2 is correct:</strong>\r\nThe CNT based chips are being researched as the material that is a greener alternative to silicon based devices. It is 10 times more energy efficient and exhibits faster conduction of electricity. CNTs are cylindrical structures made by rolling up graphene (atom thick sheet of carbon).\r\n<strong>Statement 3 is correct:</strong>\r\nMoore’s law is a famous prediction in the computing sector about transistors. The observation is that the number of transistors in an integrated circuit will double every 2 years. There is a limit to the prediction as the chip size is reduced, when reaching the levels of atoms. The RV16XNano is expected to overcome several of these limits."
+}

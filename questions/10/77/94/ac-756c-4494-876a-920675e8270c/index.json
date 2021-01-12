@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "107794ac-756c-4494-876a-920675e8270c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to India’s anti-Rabies vaccine shortage adding to the high disease burden, consider the following statements about the viral disease:<br />\n<ol>\n<li>The prognosis of rabies is almost always death.</li>\n<li>Prophylactic treatment of rabies is possible.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPrognosis is the most probable medical progression of a disease. Rabies results in death in most cases, especially after the onset of the symptoms. India has the highest number of rabies related death in the world. Most of these cases are caused due to dog bites, though many animals can act as transmitters. Eg: bats, large carnivores, farm animals, etc.\n<strong>Statement 2 is correct:</strong>\nProphylactic treatment is the preventive treatment of a disease. Rabies is usually prevented using HDCV (Human Diploid Cell Rabies Vaccine) and PCECV (Purified Chick Embryo Cell Vaccine). Given the AVR shortage faced by the country, the government is in talks to use trade control to restrict export of the vaccine."
+}

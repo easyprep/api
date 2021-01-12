@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-18T01:28:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "d3ae9e78-0876-441b-b199-129577942f79",
+  "labels": "current-affairs,2019-12-19",
+  "question": "The scientists at the IIT-H developed a ‘memristor’ for detecting Bovine Serum Albumin. Which of the following is not a feature of this ‘memristor’?",
+  "option1": "SET switching",
+  "option2": "RESET switching",
+  "option3": "Metal electrodes",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "The scientists at the IIT Hyderabad had developed a memristor sensor for detecting the bovine serum albumin, which is analogous to the human serum albumin. The memristor or ‘Resistive Random Access Memory’ device is capable of changing its resistance state with voltage (called SET and RESERT switching). It is made up of metal electrodes and uses titanium dioxide as the active material."
+}

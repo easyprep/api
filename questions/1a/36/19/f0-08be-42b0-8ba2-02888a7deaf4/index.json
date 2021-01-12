@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "1a3619f0-08be-42b0-8ba2-02888a7deaf4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The government is in talks to set up a National Genomic Grid. In this context, consider the following statements:<br />\n<ol>\n<li>It will use genome sequencing to collect data for cancer research.</li>\n<li>The Genome India Initiative is to enable predictive diagnosis of diseases.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe National Genome Grid is to be launched in line with the National Cancer Tissue Biobank of IIT-Madras. It will make use of genome sequencing to acquire data for cancer research. Genome is an organism’s complete DNA set, portions of which forms genes.\n <strong>Statement 2 is correct:</strong>\nThe Genome India Initiative is to be the first human genome cataloguing project in India. The catalogue will provide insights into what genes are probable indicators for certain genetic disorders or vulnerabilities towards certain cancers. Such predictive diagnosis will improve the healthcare in India.\n&nbsp;"
+}

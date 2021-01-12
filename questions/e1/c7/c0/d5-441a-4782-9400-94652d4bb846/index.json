@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-19T02:03:45.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "e1c7c0d5-441a-4782-9400-94652d4bb846",
+  "labels": "current-affairs,2019-12-20",
+  "question": "The recently developed self-powered sensor for detecting blood sugar levels by CECRI makes use of which enzyme?",
+  "option1": "Invertase",
+  "option2": "Glucose oxidase",
+  "option3": "Alcohol dehydrogenase",
+  "option4": "Amylase",
+  "option5": "",
+  "answer": "Glucose oxidase",
+  "explanation": "CECRI (Central Electrochemical Research Institute, Karaikudi) developed a self-powered sensor for glucose. It makes use of an enzyme called glucose oxidase. Unlike conventional sensors, it doesn’t required batteries to power its function. The sensor was developed by coupling a polymer with the catalytic enzyme."
+}

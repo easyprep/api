@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "32ec5b8f-21a9-4c1e-9332-b202cb4c68f0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "DRDO had recently tested the man-portable anti-tank guided missile. In that context, consider the following statements:<br />\n<ol>\n<li>This indigenously developed weapon works on ‘fire and forget’ mode.</li>\n<li>The missile has infrared imaging capacity.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe MPATGM is a fire and forget missile. This means that the missile does not require guidance after being fired to reach its target. It also implies that the launcher does not need to be in the line-of-site of the target.\n<strong>Statement 2 is correct:</strong>\nThe missile has infrared imaging seeker. Infrared imaging allows the missile to function even in the dark. This is because, infrared rays are emitted by heated objects. These rays are used for finding the targets. The missile also has advanced avionics."
+}

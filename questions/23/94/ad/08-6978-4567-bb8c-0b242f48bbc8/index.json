@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2394ad08-6978-4567-bb8c-0b242f48bbc8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A recent research on maple syrup sector found changing production patterns. In this context, consider the following statements :<br />\n<ol>\n<li>Temperature has a bearing on sugar content of the syrup.</li>\n<li>The study predicted that production in Canada will decrease while that in USA is set to increase.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe study found that with temperature of the environment has major effects on the syrup production. The study says that with the ongoing climate change, the productivity of the sector is set to take a hit. For every 1degree Celsius raise in temperature, the syrup tapping season advanced by 4.3 days.\n<strong>Statement 2 is incorrect:</strong>\nAs the climate change is affecting the syrup production cycle, the major producers are taking a hit as the syrup quality is deteriorating. This is because the Brix content or the sugar content is decreasing. The study predicts that USA will see a reduction in productivity while Canada will see a moderate increase."
+}

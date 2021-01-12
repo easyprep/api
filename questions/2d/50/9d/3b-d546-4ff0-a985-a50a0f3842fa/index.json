@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2d509d3b-d546-4ff0-a985-a50a0f3842fa",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the project announced to add 4,000 new words to the Indian sign language dictionary, consider the following statements:<br />\n<ol>\n<li>Indian Sign Language is one of the official Indian languages.</li>\n<li>The project will include words from the agricultural category for the first time.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Indian Sign Language is not recognised as one of the official languages of the government. The language is being promoted by the Indian Sign language Research and Training Centre. The current project will add 4,000 new words to the dictionary.\n<strong>Statement 2 is correct:</strong>\nThe main issue facing the widespread use of the language is its insufficient spread to rural population. The new project will incorporate words from the agriculture category. Apart from this, the dictionary will also get words from the legal, medical, education and administration sector."
+}

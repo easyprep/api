@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-21T15:51:22.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "e3ea42ac-c46a-48fa-b84e-3d74cbd1c405",
+  "labels": "current-affairs,2019-12-22",
+  "question": "Which country’s defence firm had recently launched a communication satellite called Nanova?",
+  "option1": "UK",
+  "option2": "Australia",
+  "option3": "Russia",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "Israel",
+  "explanation": "The Israeli defence electronics firm Elbit System launched the nanosatellite, Nanova, recently from the Satish Dhawan Space Centre in South India. It is going to be a part of a nanosatellite constellation used for commercial purposes. This satellite is operated from ground control station in Haifa, Israel."
+}

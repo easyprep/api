@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "059f385f-0c18-4d5b-b4d9-90060281771b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The recent study by the Deep Carbon Observatory highlighted the role of East African Rift in climate change. In this context, consider the following statements:<br />\n<ol>\n<li>It is a convergent tectonic plate boundary.</li>\n<li>Kenya is located in the East African Rift zone.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe East African Rift is developing into a divergent tectonic plate boundary. In a divergent boundary, the tectonic plates/ its components are moving away from each other. It results in expansion of crust. The East African Rift is located in the eastern part of African continent and is a part of the Great Rift Valley.\n<strong>Statement 2 is correct:</strong>\nEast African Rift zone is a volcanically active zone- with both active and dormant mountains. Mt. Kenya is one of the volcanoes in this zone. Others include Kilimanjaro, Meru, Elgon, etc. It is also a seismically active zone."
+}

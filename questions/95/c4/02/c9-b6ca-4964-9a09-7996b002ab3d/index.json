@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "95c402c9-b6ca-4964-9a09-7996b002ab3d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to scientists proposing the use of Controlled Human Infection Model study/ CHIMs to understand typhoid infection, consider the following statements:<br />\n<ol>\n<li>CHIMs involve the infection of healthy individuals with a live pathogen strain.</li>\n<li>The study was proposed to develop vaccine for typhoid.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nCHIM study involves the use of a live pathogen to infect a healthy person and then study the progress and nature of the infection. This study is used for well characterised strains and the pathogen is used in a weakened state. The study is conducted under strict medical observation, involving blood tests.\n<strong>Statement 2 is correct:</strong>\nThe study was proposed to help develop an efficient vaccine for typhoid. Several vaccines have showed poor efficacy in treating Indian patients while they perform well abroad. Eg: rotavirus vaccine. Also typhoid strains cannot be cultured in the lab. They exist only in living human system."
+}

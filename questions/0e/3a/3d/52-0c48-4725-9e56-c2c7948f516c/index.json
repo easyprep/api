@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "0e3a3d52-0c48-4725-9e56-c2c7948f516c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent studies on the impact of air pollution on foetuses, consider the following statements:<br />\n<ol>\n<li>Black carbon can cross the placental barrier.</li>\n<li>Black carbon particles are potential carcinogens.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nBlack carbon is a form of particulate matter that may be purely composed of carbon. It is a common component of polluted air. A recent study has shown that it can cross the placental barrier between the mother and foetus and accumulate in the unborn child as well as in the placenta.\n <strong>Statement 2 is correct:</strong>\nBlack carbon is a potential carcinogen and can cause cancers in the pulmonary system. The component causes premature mortality in some cases. It also causes morbidity in several cases. Fossil fuel burning, forest fires, and even commonplace sources like burning of biomass and candles are sourced of black carbon."
+}

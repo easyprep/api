@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-05T02:16:20.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "8daba178-82ad-43e0-bbaf-2eca5aa756d6",
+  "labels": "current-affairs,2019-12-06",
+  "question": "Which American Telecommunications Company has partnered with Amazon on 5G in cloud computing expansion?",
+  "option1": "T‑Mobile",
+  "option2": "AT&T",
+  "option3": "Sprint Corporation",
+  "option4": "Verizon",
+  "option5": "",
+  "answer": "Verizon",
+  "explanation": "Amazon.com Inc is extending its cloud to 5G networks in partnership with Verizon Communications Inc, so developers can run latency-sensitive programs on mobile and connected devices. The program, called AWS Wavelength, is one of several new ways that Amazon Web Services is pushing its cloud into new territory. At the company’s annual re:Invent conference in Las Vegas, the world’s top cloud provider also announced new infrastructure called Local Zones, debuting in Los Angeles, that will help nearby users run speed-intensive applications like gaming."
+}

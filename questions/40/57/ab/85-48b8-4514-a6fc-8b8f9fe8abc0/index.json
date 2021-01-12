@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "4057ab85-48b8-4514-a6fc-8b8f9fe8abc0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the Comprehensive National Nutrition Survey conducted by the government, consider the following statements:<br />\n<ol>\n<li>The National Family Health Survey does not cover the 5 to 19 years age group.</li>\n<li>The Comprehensive National Nutrition Survey does not cover adults.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe National Family Health Survey does not cover the age group of 5 to 19 years. This represent the school going children and pre-adults. The survey only covers the 1 to 5 years age group and the adults of the society.\n<strong>Statement 2 is correct:</strong>\nThe Comprehensive National Nutrition Survey covers the children and adolescents. It does not cover the adults. It measures the prevalence of malnutrition, micronutrients deficiencies, etc. among the age groups of 5 to 9 and the group of 10 to 19 year olds."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:56.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "8e636b19-932c-4f9d-ba64-dd13864ee417",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to a petition seeking live streaming of the Ayodhya case proceedings, consider the following statements:<br />\n<ol>\n<li>SC does not allow the live streaming of any case.</li>\n<li>The objective of article 32 of the constitution is to further the access of courts.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIn 2018, SC had allowed the live streaming of court proceedings of cases that are of constitutional or national importance. For this, the court had been discussing the use of a dedicated channel. This was during the 2018 Indira Jaisingh petition which was submitted under article 32.\n <strong>Statement 2 is correct:</strong>\nArticle 32 of the Indian constitution aims to further the access to courts and judicial mechanism. It also provides the right to constitutional remedies. The live streaming of cases would enable better access to justice. However, it also has the risk of attracting media trials."
+}

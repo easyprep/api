@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "11220cbe-db42-486e-83b4-6e9541732196",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the fund set up to tackle Pneumoconiosis in Rajasthan, consider the following statements about the disease:<br />\n<ol>\n<li>The disease affects the lungs of the patients.</li>\n<li>It is caused by gram negative bacteria.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPneumoconiosis is a disease of the lungs. It is an occupational disease that affects miners, construction workers, ship-breakers and others who are continuously exposed to dust. The disease is terminal and restricts the lung capacity of the patients. The disease may even cause death without the appearance of symptoms in some cases.\n<strong>Statement 2 is incorrect:    </strong>\nThe disease is caused by inhalation of dust particles. Dust particles of coal, carbon, aluminium, silicon, iron, beryllium, bauxite and tin are known to cause the disease. Even cotton particle contributes to the disease, especially among textile workers. The disease causes restrictive impairment of the lungs."
+}

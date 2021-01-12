@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "010ca6f8-a9cf-4429-ae31-3f77c2772ca2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to NASA’s ARADS project deployed in the Atacama Desert, consider the following statements:<br />\r\n<ol>\r\n<li>The objective of Atacama Rover Astrobiology Drilling Studies project is to look for life on Mars.</li>\r\n<li>The ARADS drill can autonomously collect data from Mars’ surface.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nARADS project is to look for evidences of life on Mars. The project will looks for microbe-like life or their fossils on the red planet. The project will use a drill atop a rover called the K-REX2. It will be able to dig up to 2m through rock, dry soil and salt to obtain samples for analyses.\r\n<strong>Statement 2 is correct:</strong>\r\nThe drill in the ARADS project will be able to conduct operations autonomously. It will navigate, drill and collect samples without the need for real-time human input. It will be able to dislodge itself it gets stuck or frozen on the Mars. It will also transfer samples to its on-board instruments for analyses."
+}

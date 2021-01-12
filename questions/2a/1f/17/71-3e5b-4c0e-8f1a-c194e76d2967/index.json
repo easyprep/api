@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2a1f1771-3e5b-4c0e-8f1a-c194e76d2967",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the upcoming National Genome Grid, consider the following statements of the National Cancer Tissue Biobank, based on which the grid is to be constituted:<br />\n<ol>\n<li>The biobank stores genome sequences of cancer patients for research purposes.</li>\n<li>It is a joint initiative of science and technology department (DST) and IIT- Madras.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe biobank is for storing tissue samples of cancer patients. This is with the patients’ consent. The biobank provides the samples to the researchers only after approval from scientists and doctors panel on the proposed study’s scientific and ethical soundness.\n<strong>Statement 2 is correct:</strong>\nIt is the first of its kind biobank formed by collaboration between DST and Indian Institute of Technology, Madras. It is a non-profit, community based biobank. It stores certain patient information such as medical history. It is for the improving the cancer research."
+}

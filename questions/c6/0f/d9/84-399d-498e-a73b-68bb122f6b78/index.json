@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c60fd984-399d-498e-a73b-68bb122f6b78",
+  "labels": "current-affairs,2019-12-24",
+  "question": "India has improved its ranking in the Travel and Tourism Competitiveness Index. Consider the following statements in this context:<br />\n<ol>\n<li>The index measures only a country’s attractiveness as a tourist destination.</li>\n<li>The index is published by the World Bank.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nRather than the country’s attractiveness as a tourist destination, the index measures its attractiveness for setting up a tourism and travel business. The index ranking depends on the regulatory framework, business infrastructure, resources etc. of the country. Currently, India is listed at the 34<sup>th</sup> position from the earlier 40<sup>th</sup> position.\n<strong>Statement 2 is incorrect:</strong>\nThe index is published by the World Economic Forum. The first report was published in 2007. The 2019 report ranked several countries out of the considered 140 countries. The index scores a country on the scale on 1 to 6 depending on its performance in various sub-indexes."
+}

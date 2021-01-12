@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-22T14:13:48.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "b90fd9d0-0d8a-4157-a4bb-288d109bfdaf",
+  "labels": "current-affairs,2019-12-23",
+  "question": "The Nord Stream 2 is a gas pipeline project between which two countries?",
+  "option1": "Russia and Turkey",
+  "option2": "Germany and Turkey",
+  "option3": "Russia and Germany",
+  "option4": "Turkey and USA",
+  "option5": "",
+  "answer": "Russia and Germany",
+  "explanation": "The Nord Stream 2 pipeline is a project between Russia and Germany. The US government recently passed a legislation imposing sanctions on firms aiding the development of this gas connection. Russia is already a major gas supplier to the EU accounting for 40%. The pipeline will increase in the gas exports to the EU."
+}

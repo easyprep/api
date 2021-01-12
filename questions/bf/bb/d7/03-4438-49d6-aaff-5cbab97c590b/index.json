@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "bfbbd703-4438-49d6-aaff-5cbab97c590b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent study about the role of volcanism in global warming, consider the following statements:<br />\n<ol>\n<li>Only active volcanoes emit Green House Gases/ GHG.</li>\n<li>Heating of limestone belts can release GHG.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe study by the Deep Carbon Observatory found that both active volcanoes as well as volcanoes in other stages have been contributing to climate change. While active volcanoes release gases during eruption, the other types emit the GHGs by outgassing.\n<strong>Statement 2 is correct:</strong>\nHeating of limestone belts causes release of carbon dioxide which is a GHG. The study found that such heating and other geological processes release approximately 300 to 400 million metric tonnes of carbon dioxide into the atmosphere.\n&nbsp;"
+}

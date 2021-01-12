@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c0fce4cc-f57d-4745-95c5-8fef51ce6e60",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent report on climate change by the World Meteorological Organisation, consider the following statements:<br />\n<ol>\n<li>Increase in ocean acidity affects aragonite saturation.</li>\n<li>Aragonite mineral is found in the corals.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe report showed that increased carbon dioxide concentration in the atmosphere increases its dissolution in the ocean. This increases ocean acidity in turn affects the chemistry of carbonate minerals like aragonite. Increased acidic conditions favour the dissolution of carbonates and affects its saturation.\n <strong>Statement 2 is correct:</strong>\nAragonite is a calcium carbonate mineral. It is found naturally in the shell of molluscans and in the endoskeleton of corals in both warm and cool water oceans. The acidity in the ocean will cause the bleaching of the corals and eventually their death."
+}

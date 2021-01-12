@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "342d360a-5247-43a3-9e1e-69f598d16b00",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the reports of the success of the National Nutrition Mission, consider the following statements about ICDS-CAS:<br />\n<ol>\n<li>The software is meant only as a fact-finding tool.</li>\n<li>The software was developed by the C-DAC.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe ICDS-CAS is Integrated Child Development Service- Common Application Software. It is available to the frontline workers of the nutrition mission via smartphones. It not only acts as a fact-finding tool but also provides prompts for intervention and assigned service delivery.\n <strong>Statement 2 is incorrect:</strong>\nThe ICDS-CAS was developed by the Bill and Melinda Gates Foundation. The software was developed in partnership with the ministry of women and child development. The foundation provided training and application support to the ministry. It has two variations: Anganwadi Worker application and the Supervisor application."
+}

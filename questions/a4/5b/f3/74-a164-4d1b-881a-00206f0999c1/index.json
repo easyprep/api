@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-13T02:06:30.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a45bf374-a164-4d1b-881a-00206f0999c1",
+  "labels": "current-affairs,2019-12-14",
+  "question": "George Laurer,who recently passed away was the inventor of which service?",
+  "option1": "Telegram",
+  "option2": "Bar Code",
+  "option3": "Twitter",
+  "option4": "Email",
+  "option5": "",
+  "answer": "Bar Code",
+  "explanation": "George Laurer, the US engineer who helped develop the barcode, has passed away at the age of 94.Mr. Laurer has been recognized as the co-inventor of the Universal Product Code (UPC) or barcode. It is found on millions of products, services, and other items for identification. When he was working as an electrical engineer with IBM, he developed UPC or barcode. He developed a scanner that could digitally read codes. He used stripes to print the codes."
+}

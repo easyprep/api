@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "f88e7761-38ac-469d-8307-d7e40b9a9712",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to CBDT introducing the 300<sup>th</sup> Advance Pricing Agreement, consider the following statements:<br />\n<ol>\n<li>The legal basis of APA is Income Tax Act, 1961.</li>\n<li>Bilateral APA involves only the taxpayer and the tax authority of the country.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAPA is an agreement that determines the transfer pricing methodology with respect to international transactions. The legal basis of the APA is the Finance Act, 2012. The act introduced the sections 92CC and 92CD into the Income Tax Act, 1961 which allows for APAs.\n<strong>Statement 2 is incorrect:</strong>\nThe bilateral APAs involve the taxpayer, the foreign tax authority and the tax authority of the taxpayer’s country. There are also unilateral and multi-lateral APAs. In unilateral APAs, only the taxpayer and the tax authority of that country are involved in the agreement."
+}

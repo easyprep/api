@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:56.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2d7e3da8-e7c6-4589-b55a-5177352431d9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The government is planning to launch the National Animal Disease Control Program for Foot and Mouth Disease. In this context, consider the following statements:<br />\n<ol>\n<li>Foot and mouth disease causes blisters in the foot and mouth.</li>\n<li>The disease affects only cloven-hoofed animals and not humans.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIt is a viral disease caused by Picornavirus. It causes blisters in the mouth and feet and may be fatal in some cases. It is a threat to animal husbandry and hence the centre is looking to launch a program to tackle it. The program will control the disease by 2025 and eradicate it by 2030.\n<strong>Statement 2 is incorrect:</strong>\nIt mostly affects cloven animals. It can also affect humans in some cases. The mode of transmission is contact with the infected animal. The disease is not spread through consumption of infected meat as the virus is intolerant to stomach acids."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "84a339dd-026f-4599-a909-82ccbd7f3780",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Delhi government is in talks to implement the ‘Transit Oriented Development’ policy. In this context, consider the following statements:<br />\n<ol>\n<li>This policy aims to develop transit corridors along densely developed regions.</li>\n<li>The policy aims to encourage the use of public transport.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe TOD policy seeks to focus development around transit corridors and nodes to improve access to transit facilities. The policy looks to establish civic, institutional, commercial and residential buildings in close proximity to transit corridors. The policy had received approval from the Delhi development authority.\n<strong>Statement 2 is correct:</strong>\nThe TOD policy is to encourage the use of public transport. It will involve a combination of high density development of buildings in a variety of income levels and with different uses in the vicinity of public transport networks.\n&nbsp;"
+}

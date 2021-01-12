@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "72eafaa5-6e52-46b3-a19f-57eb4f6732fb",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Akademik Lomonosov is being criticised as a nuclear and climate risk by experts. In this context, consider the following statements about the floating nuclear power station:<br />\n<ol>\n<li>It will support mining and drilling operations.</li>\n<li>It has its own propulsion system.</li>\n<li>The power station will depend on coastal electricity link.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 and 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 1 and 3 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Akademic Lomonosov is a floating nuclear power reactor of Russia. It is meant to supply power to drilling and mining operations in Russia’s Chukotka region. The station will also support mining in the arctic region in the long run.\n<strong>Statement 2 is incorrect:</strong>\nThe station does not have its own propulsion. This means that it can either float or sink. It is not capable of diving, which makes it vulnerable to collisions with icebergs. Given its nuclear nature, such accidents would cause dangerous levels of radiation leakage.\n<strong>Statement 3 is correct:</strong>\nThe station will be partly dependent on coastal electricity link for its operations. These links are said to be vulnerable to accidents. A nuclear power station cannot afford a power cut as the electricity is needed to maintain vital functions of the technology."
+}

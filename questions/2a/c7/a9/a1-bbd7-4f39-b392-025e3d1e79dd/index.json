@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2ac7a9a1-bbd7-4f39-b392-025e3d1e79dd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the impeachment inquiry going on in USA, consider the following statements about the constitutional provisions for impeachment of the president in India:<br />\n<ol>\n<li>Article 60 of the Constitution provides for impeachment of the president.</li>\n<li>Impeachment proceedings can be initiated only in the lower house of the Parliament.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Article 61 of Constitution provides for impeachment of the President. The article 60 deals with the oath/ affirmation by the president. The power to impeach the president lies with the Parliament. Resolution by at least 2/3<sup>rd</sup> of the House is required to impeach the president.\n<strong>Statement 2 is incorrect:</strong>\nThe article 61 of the constitution provides that the impeachment proceeding can be initiated at either of the Parliamentary houses. The signature of at least 1/4<sup>th</sup> of the House is required to move the impeachment resolution in the House. After the resolution is passed by the charging house, the other house will investigate and vote on the resolution."
+}

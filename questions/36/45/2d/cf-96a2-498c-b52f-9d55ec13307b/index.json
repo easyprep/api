@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "36452dcf-96a2-498c-b52f-9d55ec13307b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the maritime communication service’s launch, consider the following statements about the in-flight and maritime communication licensing by the government:<br />\n<ol>\n<li>It enables the provision of voice and data service in flights and ships.</li>\n<li>Only Indian satellites are to be used according to the rules.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe IFMC license concept was introduced in 2018 by the communications ministry. This enables the provision of voice and data services in flights and on-board maritime vessels in India’s airspace and waters. Only IFMC licenced providers can render these services.\n<strong>Statement 2 is incorrect:</strong>\nThe provisions are given under the Flight and Maritime Connectivity (FMC) Rules, 2018. It calls for the use of Indian Satellite bandwidth. However, if foreign satellites are to be used, the provider must obtain approval from ISRO. Till date about 7 companies have obtained the authorisation to provide such services."
+}

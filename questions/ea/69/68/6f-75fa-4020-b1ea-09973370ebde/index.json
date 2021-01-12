@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ea69686f-75fa-4020-b1ea-09973370ebde",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Economist Intelligence Unit has released the Global Liveability Index 2019. In this context, consider the following statements:<br />\n<ol>\n<li>Austria’s Vienna topped the index.</li>\n<li>None of the Indian cities feature in the top 100 countries listed by the index.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe index considers ranks 140 countries annually based on their living conditions. For the second time in a row, Vienna of Austria has been listed as the most liveable city. Some of the parameters considered by the index include education, infrastructure, stability, culture, environment, etc.\n<strong>Statement 2 is correct:</strong>\nNone of the Indian states feature in the top 100 countries. Delhi has dropped to 118<sup>th</sup> rank while Mumbai has dropped to the 119<sup>th</sup> ranks. Some of the reasons for drop in performance of Indian cities include worsening of living conditions, increased crime rate, abuse against journalists etc."
+}

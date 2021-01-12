@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "729ce100-ce7c-4fd9-8114-17a0515553f7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the launch of the National Pension Scheme for Traders and self-employed persons, consider the following statements:<br />\n<ol>\n<li>This is a voluntary scheme.</li>\n<li>GSTIN is a mandatory requirement for enrolling in the scheme.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe scheme is on a voluntary basis where self-employed persons and traders may or may not apply for inclusion. The scheme seeks to provide pension support for such persons and is contributory in nature. This implies that the government and the beneficiary each contributes 50% to the pension funds.\n<strong>Statement 2 is incorrect:</strong>\nThe GSTIN requirement applies only for those whose turnover is above 40 lakhs INR. Other criteria for the scheme include age limit between 18 and 40 years, non-member of EPFO, NPS, etc. The applicant would require Aadhaar data and a savings bank account."
+}

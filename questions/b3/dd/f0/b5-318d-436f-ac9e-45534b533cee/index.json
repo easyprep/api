@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "b3ddf0b5-318d-436f-ac9e-45534b533cee",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the reports of highest rates of Earth’s magnetic field reversal, consider the following statements:<br />\n<ol>\n<li>The Earth’s magnetic field arises from the iron in the crustal region.</li>\n<li>The Bruhnes-Matuyama reversal was the last geomagnetic reversal event.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe magnetic field of the earth arises from the outer core of the planet. It is due to the presence of magnetically active iron and nickel content in the outer core region. Convection of molten iron in the core gives rise to this field which protects Earth from the effects of high energy cosmic rays and particles.\n<strong>Statement 2 is correct:        </strong>\nThe last geomagnetic reversal/ flipping of earth’s magnetic field is the Bruhnes-Matuyama reversal. This was about 781,000 years ago. Recently, studies show that such reversal occur at a much faster rate than previously thought. This affects the increased radiation exposure and disruption to technology like telecommunications."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:53.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "5b2f1cac-8516-4083-8e56-d5b15ef77948",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the health ministry signing an MoU to explore AI based solutions for combating tuberculosis in India, consider the following statements about the use of artificial intelligence in healthcare:<br />\n<ol>\n<li>Hot spot mapping is one of the applications to be explored by the MoU.</li>\n<li>This is the first application of AI in healthcare in India.</li>\n<li>UK National Healthcare Service is to offer health related advice to people using Amazon’s Alexa devices.</li>\n</ol>\n     Which of the above statements is/are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 and 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 1 and 3 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe health ministry’s TB department has signed an MoU with Wadhwani Institute for AI to explore use of AI in treating TB. Some of the applications to be explored include TB hot spot mapping, vulnerability mapping, screening methods, diagnostics, decision support to care givers in remote places, etc.\n<strong>Statement 2 is incorrect:</strong>\nIndia is already en route to incorporating AI in healthcare to a large extent. Several firms like Niramai and AIndra Systems already offer AI based screening solutions. The solutions are reported to be low cost and efficient in early detection of conditions like breast cancer.\n<strong>Statement 3 is correct:</strong>\nAmazon’s Alexa devices are set to offer health advices to the UK citizen who use the country’s national healthcare service/ NHS. It is described to be the first of its kind collaboration. It will provide advice on treating simple conditions like migraines and flus. It will use an algorithm to search the NHS database for recommendations before offering advice to the users."
+}

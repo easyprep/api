@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "da1ca4b7-9b9e-4982-84c9-bcf7ddb4a02b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The LCA Tejas was in news recently for its successful arrested landing. In this context, consider the following statements:<br />\n<ol>\n<li>Arrested landings make use of shorter runways than normal.</li>\n<li>A successful arrested landing capacity is required for use by the Indian Navy.</li>\n<li>This is the first time an indigenous fighter succeeded in the test.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 1 and 3 are correct",
+  "option3": "All are incorrect",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "All are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nArrested landing makes use of shorter runways for landing the fighter jets. This requires the aircraft to decelerate very rapidly from about 244kmph to 0kmph in 2 seconds. This is achieved by use of specialised arresting gear. The system was achieved by the efforts of DRDO, CSIR, HAL and Aeronautical Development Agency.\n<strong>Statement 2 is correct:</strong>\nThe Indian Navy uses aircraft carriers to combine naval defence with fighter jet capacity. The navy uses light weight jets capable of arrested landings, given its short runway distances provided by its carriers. Earlier the Navy had been against Tejas procurement, calling it too heavy for landers.\n<strong>Statement 3 is correct:</strong>\nThis marks the first such success by an indigenously developed fighter jet. The test was performed at Shore Based Test Facility at Goa. The test was monitored by the Certification Agency CEMILAC and Quality Agency DGAQA. With this test, India has become one of the few countries to have indigenously developed deck landing capacity."
+}

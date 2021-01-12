@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-18T01:28:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "e4a90cac-82f4-46eb-a25b-074173b8c51e",
+  "labels": "current-affairs,2019-12-19",
+  "question": "The recently reintroduced eSign facility of the National Securities Depository Limited is for which type of document holders?",
+  "option1": "Aadhaar holders",
+  "option2": "Electoral Photo Identity Card holders",
+  "option3": "PAN card holders",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Aadhaar holders",
+  "explanation": "The National Securities Depositories Limited recently reintroduced the electronic signature facility after temporarily suspending the service. The eSign facility allows the holders of Aadhaar card to digitally sign a document. NSDL is based in Mumbai and is a depository of shares and stocks for Indian investors."
+}

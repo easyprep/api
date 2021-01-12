@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "92cf4f27-7c1a-46d6-ac16-f59e6b6d6c79",
+  "labels": "current-affairs,2019-12-24",
+  "question": "India has become the first country to issue Biometric Seafarer Identity Document (BSID). In this context, consider the following statements:<br />\n<ol>\n<li>The system will make use of facial biometric data.</li>\n<li>The SID (Seafarer Identity Document) will contain a unique guilloche pattern.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe BSID will be issued to all the seafarers who possess the Continuous Discharge Certificate (an identity document for seafarers). It will use facial biometric data instead of the current two finger or iris based systems. A face matching software is to match the live face with passport photo.  \n<strong>Statement 2 is correct:</strong>\nThe BSID will contain a unique guilloche pattern. This is an anti-counterfeit design component. It is an element commonly used in banknotes. The BSID will also contain micro prints/ texts for added security. It will contain a biometric chip embedded in it."
+}

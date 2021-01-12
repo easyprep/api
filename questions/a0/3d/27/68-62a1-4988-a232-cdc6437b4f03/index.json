@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:54.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a03d2768-62a1-4988-a232-cdc6437b4f03",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the inception of the Automatic Exchange of Information/ AEOI regime between India and Switzerland, consider the following statements:<br />\n<ol>\n<li>AEOI system involves exchange of information between the countries without the need for its request.</li>\n<li>The global standard for AEOI is Common Reporting Standard.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe system allows the signatory countries to exchange information on taxpayers without a request for it. Swiss banks have been known for their high level of client privacy but over time, it had become a haven for tax evaders. In the recent past the banks have been trying to change this image and in 2016, had agreed to share information on Indian account holders with the Indian government.\n<strong>Statement 2 is correct:        </strong>\nAEOI mechanism uses CRS as the global standard. This standard was approved by OECD/ Organisation of Economic Cooperation and Development in 2014. The standard prescribes what and who is to be reported via the AEOI system. The system is expected to address the issues of tax evasion, tax avoidance, black money etc."
+}

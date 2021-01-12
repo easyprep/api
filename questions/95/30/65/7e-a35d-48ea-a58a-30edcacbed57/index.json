@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:54.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9530657e-a35d-48ea-a58a-30edcacbed57",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the upcoming Aadhaar system for NRIs, consider the following statements:<br />\n<ol>\n<li>The Aadhaar Act mandates a residence period of 182 days for NRIs to avail Aadhaar.</li>\n<li>Aadhaar is a proof of citizenship.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAadhaar Act, 2016 mandates that a resident must be in India for a period of 182 days or more in 12 months to avail Aadhaar. This residence period need not be continuous. The 2019 budget proposal to speed up this process is set to be implemented this year with the use of Aadhaar Seva Kendra (ASKs).\n<strong>Statement 2 is correct:</strong>\nThe Aadhaar is only a proof of residence. It is not a proof of citizenship. This is clarified in the act itself. Even a foreign national residing in India for 182 days becomes eligible for Aadhaar. The current measures by UIDAI will eliminate the need for NRIs to wait for 182 days to avail the Aadhaar."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "6fb39aa7-b4ea-4d2b-9654-1b73b3fb8a38",
+  "labels": "current-affairs,2019-12-24",
+  "question": "DTAA/ double taxation avoidance agreement is an important component to attract foreign investments. At the same time, it is misused by big firms to avoid tax altogether. Consider the following statements about DTAA:\n<ol>\n<li>The agreement is applied when the tax payer earns in one country but resides in another.</li>\n<li>Income Tax Act of 1961 gives relief from double taxation only bilaterally.</li>\n<li>India provides for taxation of capital gains from share sales in the country where the shareholder is resident- not where the company is located, with respect to DTAA with Mauritius.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "1 and 3",
+  "option3": "1, and 2",
+  "option4": "2 only",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "<strong>Statement 1 </strong>is correct:\nDTAA is used to relieve the tax payers from double taxation. There are two types of double taxation- economic and jurisdictional double taxation. India has DTAA with 88 countries. The agreement prevents taxation of income that is already taxed at the other country (with which a DTAA exists). In most cases, India taxes capital gains from shares’ sale only if the shareholder is resident in India. The gains from such sales are not taxed if only the company is in India but the shareholder is not.\n<strong>Statement 2 </strong>is incorrect:\nThe Income Tax Act, 1961 provides for double taxation relief. It has two sections- 90 and 91, which provides for bilateral and unilateral reliefs respectively. Bilateral relief applies if the other country is in a DTAA relation with India. Unilateral relief applies when the taxpayer had been taxed at a country with which India doesn’t have a DTAA.\n<strong>Statement 3 </strong>is incorrect:\nThough India has this provision for all countries with which it has a DTAA, it makes special cases for countries like Mauritius and Cyprus. This is because Mauritius doesn’t tax capital gains. Hence firms shifted bases to avoid tax by making use of this loophole, leading to revenue loss in India. In 2016, the provisions were amended to enable a system of source based taxation of capital gains."
+}

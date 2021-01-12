@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "1268c7a6-5109-4747-b0a7-1da9384ae2fd",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to NASA releasing a new visualisation of black hole, consider the following statements:<br />\n<ol>\n<li>The matter pulled in by the black hole gets accumulated in the accretion disc.</li>\n<li>Gravity affects the view of black hole.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe accretion disc is a circumstellar structure around the black hole where the in-falling material gets accumulated. The material farthest away from the black hole travels much slower than that closest to it. This accretion disc is a thin and hot structure.\n<strong>Statement 2 is correct:</strong>\nNASA showed that gravity affects our view of the black hole. This is because the gravity is strong enough to bend and distort light. This leads to the light from different regions of the accretion disc being distorted presenting a misshapen appearance of the black hole.\n&nbsp;"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:56.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c97af1c1-e37b-4177-9e8c-00ad327a31f6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A study listed air pollution as a major risk factor for cardiovascular diseases (CVD). In this context, consider the following statements:<br />\n<ol>\n<li>Most of the CVD cases are due to modifiable risk factors.</li>\n<li>Women are more prone to CVD than men.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe study found that 70% of the CVD cases were due to modifiable risk factors. Some of these factors include tobacco use, alcohol, diet, physical activity and sodium intake. Air pollution- indoor and outdoor- was a major causative of the CVD.\n<strong>Statement 2 is correct:</strong>\nThe study reported that women are more prone to CVDs than men. This is more apparent in developing countries. This is because women in such countries spend more time indoors than men. The particulate pollution is more indoors than in the outdoor areas."
+}

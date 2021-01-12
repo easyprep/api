@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "63e2c787-17a6-407f-9b84-fe82ccee694e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to initiation of the impeachment inquiry against the US president, consider the following statements:<br />\n<ol>\n<li>The power of impeachment lies with the upper house of the US Congress.</li>\n<li>The power to try impeachments lie with the lower house of the US Congress.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Constitution of the USA provides that the power of impeachment lies with the lower house of US Congress. The House of Representatives is the lower house. If the investigations turn up sufficient evidence, the lower house will hold a vote. A majority vote will pass the article of impeachment to the upper house.\n <strong>Statement 2 is incorrect:</strong>\nThe Constitution of USA provides that the power to try all impeachments lie with the upper house of the US Congress. The Senate is the upper house. If a majority vote is achieved in the lower house, the upper house will hold the impeachment trial. If 2/3<sup>rd</sup> of the house vote to convict, the president is impeached.\n&nbsp;"
+}

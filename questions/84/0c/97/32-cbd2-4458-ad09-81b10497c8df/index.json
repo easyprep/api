@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:54.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "840c9732-cbd2-4458-ad09-81b10497c8df",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Kerala is seeing a resurgence in Diphtheria cases this year. In this context, consider the following statements:<br />\n<ol>\n<li>Intense vaccination of children has led to the disease shifting targets to older population.</li>\n<li>Kerala uses Tetanus Diphtheria (Td) vaccine instead of Tetanus Toxicoid (TT) vaccine for adults.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nDiphtheria is predominantly a childhood disease. Kerala is seeing the disease shifting targets to school children (9 years and above) and older people. One of the reasons quoted is epidemiological pattern change due to intense vaccination of infants, i.e, the pathogen is targeting the population with waning immunity.\n<strong>Statement 2 is correct:</strong>\nThe substitution of TT vaccines with Td vaccine was recommended by WHO in 1998. This was adopted by the National Technical Advisory Group on Immunisation (NTAGI) and also implemented in Kerala. This was because tetanus and diphtheria are associated with waning adult immunity.\n&nbsp;"
+}

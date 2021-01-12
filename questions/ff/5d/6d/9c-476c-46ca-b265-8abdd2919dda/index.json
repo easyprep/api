@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ff5d6d9c-476c-46ca-b265-8abdd2919dda",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the launch of India’s first high temperature fuel cell system, consider the following statements:<br />\n<ol>\n<li>The system was developed as a part of the New Millennium Indian Technology Leadership Initiative.</li>\n<li>It will function on solar power.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe high temperature fuel cell system was developed under the New Millennium Indian Technology Leadership Initiative. It was jointly developed by CSIR (Council of Scientific and Industrial Research) laboratories and the firms, Reliance and Thermax Limited. This was developed on a public-private partnership model.\n<strong>Statement 2 is incorrect:</strong>\nThe system will function on methanol or bio-methane. It is capable of producing 5KW energy. Water will be its by-product. It has an energy efficiency of over 70% and will replace the diesel based generators. The system functions on high temperature proton exchange membrane.\n&nbsp;"
+}

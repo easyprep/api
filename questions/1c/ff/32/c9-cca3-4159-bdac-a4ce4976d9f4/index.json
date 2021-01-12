@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "1cff32c9-cca3-4159-bdac-a4ce4976d9f4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "India was ranked at 44<sup>th</sup> position by the World Digital Competitiveness Rankings (WDCR) 2019. In this context, consider the following statements:<br />\n<ol>\n<li>The ranking assesses not only the capacity but also the readiness to adopt new technology.</li>\n<li>The list is topped by China.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe WDCR looks at both the capacity and readiness of the countries to adopt digital technology to fuel economic improvement. The ranking is published by the International Institute for Management Development. India has improved by 4 ranks since last year (from 48<sup>th</sup> to 44<sup>th</sup> rank).\n<strong>Statement 2 is incorrect:    </strong>\nThe list is topped by the USA. Singapore and Sweden were ranked at the number 2 and 3 spots respectively. China showed the maximum improvement in ranking, from 30<sup>th</sup> to 22<sup>nd</sup> spot. India’s strongest improvement was in the technology parameter."
+}

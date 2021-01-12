@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "cf84c46c-75e9-46ef-99ca-764a7a3c2e81",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The National Payment Corporation of India had reported a record high in UPI transactions. In this context, consider the following statements:<br />\n<ol>\n<li>It was introduced by the RBI.</li>\n<li>The UPI transaction facility is available of the BHIM app.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe UPI or Unified Payments Interface based payment was introduced by the RBI It is backed by the NPCI. It is for retail payments purposes. The feature allows the payment from bank accounts to merchants without the need for other card details.\n<strong>Statement 2 is correct:</strong>\nBHIM app features UPI based payment. The Bharat Interface for Money application was developed by the NCPI. It enables payment/ transfer through Virtual Payment Address, Quick Response Code, IFSC code or bank account number with the help of UPI transactions."
+}

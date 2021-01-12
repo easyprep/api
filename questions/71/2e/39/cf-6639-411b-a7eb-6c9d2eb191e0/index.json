@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "712e39cf-6639-411b-a7eb-6c9d2eb191e0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Supreme Court had highlighted the state of vehicle parking in the national capital and directed the government to consider the possibility of using RFID technology to solve the problem. In this context, consider the following statements about the use of RFID in vehicles:<br />\n<ol>\n<li>The pilot project is to use RFID system to identify the vehicles’ unpaid parking charges.</li>\n<li>RFID technology is used in the FASTag system.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 and 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Environment Pollution Prevention &amp; Control Authority is about to implement a pilot project in parking guidance and information system in Delhi. After the SC directive, EPCA has decided to use RFID/ Radio Frequency Identification system to identify unpaid parking charges by the vehicles.\n <strong>Statement 2 is correct:</strong>\nRFID technology is used in the FASTag system. The FASTag is a toll collection system in which the toll charges are automatically deducted from the user’s account when passing through the booths. This system is to completely replace the cash payment at toll booths."
+}

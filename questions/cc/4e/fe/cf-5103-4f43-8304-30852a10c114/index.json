@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "cc4efecf-5103-4f43-8304-30852a10c114",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the Indian Navy getting a new generation war-gaming software, consider the following statements:<br />\n<ol>\n<li>The software was developed by DARPA.</li>\n<li>The software is to be used by Maritime Warfare Centres.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nDARPA is Defence Advanced Research Projects Agency- under the US government. The war-gaming software was developed by DRDO of India. The ISSA/ Institute for Systems Studies and Analysis, under the DRDO, is the lab responsible for its development. The software is to enable training of the personnel in a variety of scenarios.\n <strong>Statement 2 is correct:</strong>\nThe software is to be used by the Maritime Warfare Centres. The MWCs will train personnel using latest technological tools. The software uses WAN/ wide area network and hence enables conduction of exercise in geographically dispersed areas. It also has multi-force setting."
+}

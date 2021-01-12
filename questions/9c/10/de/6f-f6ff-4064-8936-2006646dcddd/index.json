@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-21T15:51:22.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9c10de6f-f6ff-4064-8936-2006646dcddd",
+  "labels": "current-affairs,2019-12-22",
+  "question": "Which country is the biggest offender as per the recent World Anti-Doping Agency?",
+  "option1": "Russia",
+  "option2": "US",
+  "option3": "Italy",
+  "option4": "France",
+  "option5": "",
+  "answer": "Italy",
+  "explanation": "As per the latest report by WADA, there is a 13.1% increase in the anti-doping rule violation (ADRV). The country that has most violation was Italy, followed by France and the US. Russia, which was earlier banned by WADA stands fifth in this list."
+}

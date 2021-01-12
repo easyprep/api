@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:53.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "cccf2a87-ec5d-49d3-9b6b-4407d9ae7be1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the launch of the National Lab Directory, consider the following statements:<br />\n<ol>\n<li>The NLD recognises only BIS recognised labs.</li>\n<li>The CRSBIS (compulsory registration scheme) mandates compulsory registration for solar products.</li>\n<li>ManakOnline portal allows online application for grant of license.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "All are incorrect",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 2 and 3 are correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe NLD was launched as a ‘one stop solution’ for all testing needs and can be used by industries, researchers, regulatory officers and other stakeholders. The directory currently links 4,500 labs. Labs assessed by BIS, NABL, Hallmark, APEDA, FSSAI, etc. are recognised by NLD.\n<strong>Statement 2 is correct:</strong>\nThe CRSBIS is a compulsory registration scheme under BIS (Bureau of Indian Standards). The manufacture of certain products require the manufacturers to acquire BIS license after being tested by BIS recognised labs. These products include electronics (15 categories), solar photovoltaics, components, etc.\n<strong>Statement 3 is correct:</strong>\nThe ManakOnline is an e-governance solution developed by CDAC (Centre for Development of Advanced Computing) for BIS. It allows the online application for grant of license from BIS. The system has provisions for automatic selection of inspection date and officers to eliminate biases."
+}

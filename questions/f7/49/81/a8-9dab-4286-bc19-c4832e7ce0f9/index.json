@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "f74981a8-9dab-4286-bc19-c4832e7ce0f9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Hurricane Humberto had been termed as an ‘extratropical cyclone’. In this context, consider the following statements:<br />\n<ol>\n<li>Extra-tropical cyclones are warm-cored structures while tropical cyclones are cold-cored.</li>\n<li>Only a tropical cyclone can transform into an extra-tropical cyclone and not vice versa.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nExtra-tropical cyclones are cold-cored while tropical cyclones are warm-cored structurally. This means that the core of the extra-tropical cyclone is cooler than its surroundings. They are formed in the extra-tropical regions of both the hemisphere. They are associated with cold fronts or warm fronts.\n<strong>Statement 2 is incorrect:</strong>\nExtra-tropical cyclone can be formed from tropical cyclones and the vice versa is also true. A tropical cyclone may transform into an extra-tropical one when it moves pole-wards. They can be formed in either of the hemispheres. Cyclogenesis is another route of extra-tropical cyclone formation.\n&nbsp;"
+}

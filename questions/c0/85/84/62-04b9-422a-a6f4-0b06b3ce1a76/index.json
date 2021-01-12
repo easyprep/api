@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c0858462-04b9-422a-a6f4-0b06b3ce1a76",
+  "labels": "current-affairs,2019-12-24",
+  "question": "RBI has released its annual report for the year 2018-19. In this context, consider the following statements:<br />\n<ol>\n<li>Banks use rate cuts to pass through soft patch scenario.</li>\n<li>High interest rates of lending is a major cause of downswings.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nSoft patch is an economic condition characterised by a short term increase in commodity prices and a slowing GDP growth. Banks deal with such scenarios using rate cuts to facilitate capital borrowing by the firms. This in turn will fuel economic activities to increase GDP growth rate.\n<strong>Statement 2 is correct:</strong>\nThe RBI report has described the current economic slowdown as a ‘soft patch mutating into cyclical downswing’. Downswings are economic scenarios in which the economic cycle enters the downward turn. This is mostly caused by high interest rates. RBI has already taken rate cut steps and is now in process of getting the banks to transfer the benefit to the borrowers."
+}

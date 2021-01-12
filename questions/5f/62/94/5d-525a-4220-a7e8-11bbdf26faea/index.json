@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-22T14:13:48.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "5f62945d-525a-4220-a7e8-11bbdf26faea",
+  "labels": "current-affairs,2019-12-23",
+  "question": "The humanoid robot capable of mirroring human actions, T-HR3, was launched by which firm?",
+  "option1": "Ford",
+  "option2": "Volkswagen",
+  "option3": "Toyota Motor Corp.",
+  "option4": "Honda",
+  "option5": "",
+  "answer": "Toyota Motor Corp.",
+  "explanation": "Toyota Motor corp. has recently launched an upgraded version of its humanoid robot, T-HRS3. This robot can be controlled remotely using headset and wiring on arms. This technology can be used for surgery at a long distance, in case the surgeon cannot travel."
+}

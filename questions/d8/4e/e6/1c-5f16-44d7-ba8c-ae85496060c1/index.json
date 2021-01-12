@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "d84ee61c-5f16-44d7-ba8c-ae85496060c1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Punjab government has put in punitive measures for using combine harvester machines without the Super Straw Management System (Super SMS). In this context, consider the following statements:<br />\n<ol>\n<li>The Super SMS enables mulching.</li>\n<li>The order is under the Air (Prevention and Control of Pollution) Act.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe super SMS is a contraption that is added to the combine harvester machines. It helps in harvesting of the paddy straw as well as mulching. Mulching is the process of adding a protective layer to the soil to prevent weed growth.\n<strong>Statement 2 is correct:</strong>\nPunjab government ordered that combine harvester machines operated without the Super SMS to be confiscated. The order was issued under the Air (Prevention of Pollution and Control) Act, 1981. This is to prevent the issue of stubble burning that contributes to air pollution."
+}

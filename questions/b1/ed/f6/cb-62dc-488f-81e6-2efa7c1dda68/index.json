@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "b1edf6cb-62dc-488f-81e6-2efa7c1dda68",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the plans to link NATGRID to social media accounts, consider the following statements about the project:<br />\n<ol>\n<li>It collects and collates information from government databases.</li>\n<li>All government departments can access the NATGRID.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe NATGRID project was conceptualised post the 2008 terrorist attack. It will collect and collate information from multiple government databases. This includes immigration details, financial details, telephone details, etc. about the individuals. Currently, the government is planning to link the social media accounts to this project.\n<strong>Statement 2 is incorrect:</strong>\nThe NATGRID can be accessed only by certain intelligence agencies like R&amp;AW, CBI, IB, Narcotics Control Bureau etc. currently 11 such agencies can use the grid. 21 providing organisations will generate inputs to the grid. It will link the intelligence and investigative organs of the government."
+}

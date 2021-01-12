@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "56bb0c1a-c01e-4e8e-9e94-dd66557ee2f6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the launch of the Emergency Response Support System in Chandigarh, consider the following statements:<br />\n<ol>\n<li>112 is a globally recognised single emergency number.</li>\n<li>The SHOUT feature enables the person in distress to alert volunteers in the vicinity.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Emergency Response Support System is a pan-India system which uses the single emergency number 112 to avail help from the police, health or fire department. TRAI had allotted its use in India in 2015. Other countries, like in EU, also use 112.\n<strong>Statement 2 is correct:</strong>\nSHOUT is a feature in the 112 India App. It enables the person in distress, especially women and children, to alert registered volunteers in the vicinity. The 112 India App also has a provision to activate a panic call from smart phones."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "cfe7ec11-89ce-4333-9a0d-c437df803fb4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A Lancet study recently highlighted the differential impact of cardiovascular disease (CVD) on low income countries. In this context, consider the following statements:<br />\n<ol>\n<li>Low income countries have lower risk factors for CVDs.</li>\n<li>In high income countries, cancers cause more deaths than CVDs.</li>\n<li>Indoor air pollution has been identified as an emerging cause of CVDs.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "All are incorrect",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "All are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe study involved 21 countries over a period of 9.5 years. It included representation from high, middle and low income countries. It found that low income countries have lower risk factors of CVDs. However, CVDs cause thrice as many deaths as cancer in these countries. This is due to low quality and lack of access to healthcare.\n<strong>Statement 2 is correct:</strong>\nThe mortality due to cancers is twice as much as that of CVDs in high income countries. This is due to changing lifestyle. This represents a shift in predominant cause of death depending on income. Some of the high income countries studied were Canada, Sweden, UAE and Saudi Arabia.\n<strong>Statement 3 is correct:</strong>\nThe study found that indoor air pollution is an emerging cause of CVDs in low income and middle income countries. In India, use of solid fuels like wood for cooking is a major cause of indoor air pollution. This is seeing reduction due to increased access to LPG connection among the rural populace.\n&nbsp;"
+}

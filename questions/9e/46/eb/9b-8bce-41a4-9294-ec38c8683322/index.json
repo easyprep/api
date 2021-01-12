@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9e46eb9b-8bce-41a4-9294-ec38c8683322",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the implementation of the Motor Vehicles Amendment Act, consider the following statements about the Pollution Under Control test:<br />\n<ol>\n<li>The test involves computerised pollution check for vehicles.</li>\n<li>Lack of a PUC certificate is liable to fines.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe test makes use of a computerised system for checking if the vehicle complies with the emission norms. The system was developed by the SIAM/ Society of Indian Automobile Manufacturers. It has a gas analyser and a camera to connect the emission data to the vehicle’s license number.\n<strong>Statement 2 is correct:</strong>\nThe new act mandates the certificate and the fine for its non-possession had been increased from 1,000 INR to 10,000 INR. The certificate is to be renewed every year for BS IV compliant vehicles. For other vehicle, a more frequent renewal is required."
+}

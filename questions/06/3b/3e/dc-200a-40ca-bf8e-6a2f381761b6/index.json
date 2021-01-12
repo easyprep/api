@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "063b3edc-200a-40ca-bf8e-6a2f381761b6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The MHRD had been launching several initiatives to boost research and innovation in the country. In this context, consider the following statements:<br />\n<ol>\n<li>The IIC 2.0 provides for innovative ecosystem in academia itself.</li>\n<li>Smart India Hackathon is an MHRD initiative.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIIC 2.0 is Institute’s Innovation Council. The MHRD aims to set up a network of IICs to promote innovations and start-ups at the academic level itself. It will target higher educational institutes. It is under the Innovation Cell of the ministry.\n<strong>Statement 2 is correct:        </strong>\nThe Smart India Hackathon is an initiative of the human resource and development ministry. It seeks to increase innovative thinking and functioning among the students. Under this program, the students are given a chance to solve certain problems faced by the governments, NGOs, etc."
+}

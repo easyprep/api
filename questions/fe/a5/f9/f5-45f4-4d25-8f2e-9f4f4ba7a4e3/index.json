@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-08T22:16:35.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "fea5f9f5-45f4-4d25-8f2e-9f4f4ba7a4e3",
+  "labels": "current-affairs,2019-12-09",
+  "question": "Which payment facility has been made available 24*7 by RBI in India?",
+  "option1": "UPI",
+  "option2": "NEFT",
+  "option3": "RTGS",
+  "option4": "SBI Collect",
+  "option5": "",
+  "answer": "NEFT",
+  "explanation": "In a bid to promote digital transactions, Reserve Bank has said that round-the-clock transactions will be allowed under the National Electronic Funds Transfer (NEFT) system from December 16. RBI said that the 24×7 NEFT system will be available on all days of the year, including holidays. NEFT transactions are settled in hourly batches. For weekdays, the batches are from 8 am to 7 pm. On first and third Saturdays, the settlement happens from 8 am to 1 pm."
+}

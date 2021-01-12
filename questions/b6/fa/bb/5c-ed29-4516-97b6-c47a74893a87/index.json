@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "b6fabb5c-ed29-4516-97b6-c47a74893a87",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the launch of the ‘Shodh Shuddhi’, consider the following statements:<br />\n<ol>\n<li>It is a plagiarism detection software.</li>\n<li>The service is to be implemented by the C-DAC/ centre for development of advanced computing.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Shodh Shuddi is a plagiarism detection software. It was launched by the ministry of human resource development. It will enable improvement of research quality as it will promote original work and weed out plagiarised and stolen publications in research journals.\n<strong>Statement 2 is incorrect:</strong>\nThe service is to be provided by the INFLIBNET centre. It is the Information and Library Network Centre- an autonomous unit under the University Grants Commission/ UGC. The service is to be initially provided to central, centrally funded and state universities."
+}

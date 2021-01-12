@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "8bdee4bb-c149-4734-9a18-7cebad92c5e3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "District Commissioners in Punjab have imposed a ban on airing a program in light of recent violent protests in the state. In that context, consider the following statements about the Cable Television Networks (Regulations) Act:<br />\n<ol>\n<li>The airing of a television program can be banned if it promotes religious disharmony.</li>\n<li>The Indian Broadcasting Foundation’s self-regulatory guidelines applies only to cable television networks.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Cable Television Networks (Regulations) Act was passed in 1995 to regulate the television broadcasting in India. Under section 19 of the act, the authorities can ban a program in the interest of public peace. Programs that cause disharmony on grounds of religion, caste, community, language etc. can be banned.\n<strong>Statement 2 is incorrect:</strong>\nThe Self-regulatory Guidelines provided by the Indian Broadcasting Foundation applies to all forms of TV transmissions like cable, terrestrial, satellite, Direct to Home (DTH), Internet Protocol Television (IPTV), Mobile or Headend in the Sky (HITS) operators. It doesn’t cover programs that are covered by the Cinematography Act."
+}

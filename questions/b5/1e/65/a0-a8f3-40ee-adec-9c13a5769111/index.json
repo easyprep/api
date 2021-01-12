@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "b51e65a0-a8f3-40ee-adec-9c13a5769111",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Scientists at IIT-Guwahati have developed a hydrogen peroxide sensor from laboratory wastes. Consider the following statements in this context:<br />\n<ol>\n<li>The sensor makes use of metallic gold.</li>\n<li>Hydrogen peroxide detection can help in diagnosis of neurodegenerative disorders.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe scientists used gold plated on indium tin oxide which is a component used in electron microscopic study and discarded after use. The metal was used to fabricate a nano-chip that is reusable up to 12 weeks and detects peroxide within seconds.\n<strong>Statement 2 is correct:</strong>\nExcessive presence of hydrogen peroxide in the body is indicative of several adverse health issues like cardiovascular diseases, cancer, neurodegenerative diseases, diabetes, etc. The usual diagnostic devices use enzyme based technique which required trained personnel and the enzymes are themselves cost inefficient as they are subject to degeneration."
+}

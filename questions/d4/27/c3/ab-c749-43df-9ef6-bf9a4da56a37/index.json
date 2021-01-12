@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "d427c3ab-c749-43df-9ef6-bf9a4da56a37",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to Singapore’s recent Online Falsehood and Manipulation Act notification, consider the following statements:<br />\n<ol>\n<li>Codes of practice under the act include transparency in advertising.</li>\n<li>Any minister of the government can direct the authority to take action.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe act gives a set of guidelines under the code of practice. This will govern the technological companies and are binding in nature. Transparency in advertising is one of its components. The other components are de-prioritising falsehoods and action against inauthentic online accounts and bots.\n<strong>Statement 2 is correct:        </strong>\nUnder this law, all the ministers of the government are empowered to act against fake news. Any minister can direct a competent authority to issue directives against a fake statement. However, the minister is required to explain the reason for considering a statement as fake."
+}

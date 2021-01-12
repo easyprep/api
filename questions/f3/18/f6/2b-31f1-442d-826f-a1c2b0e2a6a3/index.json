@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "f318f62b-31f1-442d-826f-a1c2b0e2a6a3",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to NASA highlighting fires in Africa in comparison with the Amazon fires, consider the following statements:<br />\n<ol>\n<li>African Savannah fires emit more carbon dioxide than Amazon wild fires.</li>\n<li>Savannah fires deteriorates the grassland ecosystem in Africa every year.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe African Savannah fires are those that cause burning up of the dried grasslands. Farmers and rangers set fire to the Savannah every year. The carbon dioxide emitted during the fires is reabsorbed by the new grass within a year, given the high growth rate of grass (compared to Amazon’s trees). This make these fire carbon neutral within a year unlike the forest fires.\n<strong>Statement 2 is incorrect:</strong>\nThe Savannah fires is used by the farmers in Africa to stimulate growth of nutritional grass, reduce the thorny scrub growth, ticks, etc. The rangers use ‘management fires’ to control bush growth. Eg: like the practice in Tanzania’s Serengeti ecosystem. Many Savannah animals require these fires. Eg: Temminck Courser birds nest only in recently burned grasslands (their eggs are colored ash black for camouflage)."
+}

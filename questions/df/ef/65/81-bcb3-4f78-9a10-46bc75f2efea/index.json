@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "dfef6581-bcb3-4f78-9a10-46bc75f2efea",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent studies highlighting the ‘urban heat island effect’, consider the following statements:<br />\n<ol>\n<li>Population and rainfall contributes to the effect.</li>\n<li>Increasing the albedo can be used to reduce the UHI effect.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nUHI effect is the significantly higher temperatures existing in an urban area than its surrounding rural areas, creating a heat island. The studies show that increasing population increase the UHI effect. Increasing precipitation also increases the UHI effect but levels off at 1000mm of precipitation per year.\n<strong>Statement 2 is correct:</strong>\nThe albedo is the portion of light reflected from the surface to the portion incident on it. Increasing the albedo is one way of reducing heating. This can be done by use of reflective materials and white paints on the roof, walls and other structures on the buildings."
+}

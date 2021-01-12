@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9a6590f1-2bae-497d-8960-defa960555cc",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to advancements in crew carrying capacity of SpaceX rockets, consider the following statements about the Commercial Crew Program:<br />\n<ol>\n<li>The program is administered by NASA.</li>\n<li>The program is to carry humans to the International Space Station.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Commercial Crew Program is a project of the US government. It is administered by NASA. Boeing and SpaceX are the key contractors of the project. The two firms are to provide suitable commercial crew vehicle that can serve as a 24 hours safe haven during emergency with docking capacity of over 200 days and returning capacity.\n<strong>Statement 2 is correct:</strong>\nThe key objective of the program is to ferry astronauts to the International Space Station. It should also be able to return the crew to earth along with their equipment. The program was highlighted for the delay by SpaceX to provide the vehicle."
+}

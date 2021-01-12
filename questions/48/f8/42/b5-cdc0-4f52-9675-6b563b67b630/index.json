@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "48f842b5-cdc0-4f52-9675-6b563b67b630",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Rajasthan launched its first-ever public information portal. In this context, consider the following statements about Jan Soochna portal:<br />\n<ol>\n<li>It provides information suo motu.</li>\n<li>The information will be provided via e-mitra centres.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe portal will provide information to the people without having to seek the same via RTI application. This is in line with the section 4 of RTI act which calls for the disclosure of information to the public by the authorities without waiting for RTI application.\n<strong>Statement 2 is correct:</strong>\nInitially the portal will provide information regarding 13 departments via e-mitra centres and information kiosks. About 23 types of information is to be provided through it. The Jan Soochna portal was launched under the RAJIV/ Rajasthan Innovation Vision Campaign."
+}

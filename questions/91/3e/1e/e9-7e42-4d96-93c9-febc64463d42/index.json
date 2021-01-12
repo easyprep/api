@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "913e1ee9-7e42-4d96-93c9-febc64463d42",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Which of the following about Tiangong-2 are correct?\n<ol>\n<li>It is a project of ROSCOM.</li>\n<li>It was an un-manned mission.</li>\n<li>It is the second of a series on Tiangong-1, Tiangong-2 and Tiangong-3</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 2",
+  "option2": "Only 3",
+  "option3": "1 and 3",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "<strong>Statement 1 </strong>is incorrect:\nROSCOM is the space agency of Russia. The Tiangong-2 is a Chinese space mission carried out by the Chinese National Space Agency/ CNSA. It is an experimental space lab. It tested the in-orbit propellant refuelling technology. This is to help with China’s plans to launch a permanent space station by 2022.\n<strong>Statement 2 </strong>is incorrect:\nThe mission involved two astronauts- Jing Haipeng and Chen Dong- who entered the module after its rendezvous and docking with the Shenzhou-11. They stayed aboard the tiangong-2 for a month and carried out experiments. Eg: physiological effects of weightlessness.\n<strong>Statement 3 </strong>is correct:\nThe Tiangong-2 is an improved version of Tiangong-1. The first mission orbited till 2018 and held the first female Chinese astronauts on board. It was China’s first space station experiment mission. The Tiangong-3 will be launched next, as the second mission has de-orbited.\n&nbsp;"
+}

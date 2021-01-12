@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a0a6ad79-67f2-493d-87e0-552abe24a7e0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to an asteroid being named after Pandit Jasraj, consider the following statements:<br />\n<ol>\n<li>The asteroid is located between Jupiter and Saturn.</li>\n<li>The asteroid is named by ISRO.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe asteroid is between the orbits of Jupiter and Mars. The asteroid was discovered by the Cataline Sky Survey in 2006. It is known as a minor planet. It was discovered using telescopes in Arizona, USA. The privilege of suggesting the names is given to the discoverers.\n<strong>Statement 2 is incorrect:</strong>\nThe asteroid was named by the International Astronomical Union. The Working Group for Small Body Nomenclature is the specific unit concerned with naming the asteroid in the IAU. The body judges the names proposed by the discoverers in 10 years."
+}

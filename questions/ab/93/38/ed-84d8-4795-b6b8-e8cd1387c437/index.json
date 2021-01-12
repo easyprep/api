@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ab9338ed-84d8-4795-b6b8-e8cd1387c437",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the talks to launch the ‘Train the Trainer’ program, consider the following statements:<br />\n<ol>\n<li>The program will provide training in Artificial Intelligence.</li>\n<li>The training will be imparted through distance education mode.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Skill India and IBM had signed an agreement to launch the ‘Train the Trainer’ program. This will impart training to ITI trainers in AI. The program will last a year and will enable greater spread of the skill set.\n<strong>Statement 2 is incorrect:</strong>\nThe training will be provided at National Skill Training Institutes and Industrial Training Institutes across India. The participants will be pre-evaluated and then trained in 2 phases. It will involve an online component to provide holistic coverage. Post-training evaluations will also be conducted."
+}

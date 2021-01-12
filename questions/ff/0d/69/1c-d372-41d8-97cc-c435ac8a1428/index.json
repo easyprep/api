@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ff0d691c-d372-41d8-97cc-c435ac8a1428",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to NASA using the Atacama to test its ARADS project, consider the following statements about this region:<br />\n<ol>\n<li>It is located along the Pacific coast.</li>\n<li>The desert is found to the east of Andes and west of Chilean Coast Range.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAtacama Desert is located along the Pacific coast, in the west of South America. It stretches across Chile, Peru, Bolivia and Argentina. It is one of the driest and most hostile places on earth to life. Because of this reason, NASA is using it to test its drill and rover for use in its ARADS project.\n<strong>Statement 2 is incorrect:</strong>\nThe desert stretches between two mountain chains: Andes and the Chilean Coast range. It is located to the west of Andes range and east of Chilean Coast range. This creates a two-sided rain shadow region over the Atacama and prevents inflow of moisture from both the Pacific and the Atlantic Ocean."
+}

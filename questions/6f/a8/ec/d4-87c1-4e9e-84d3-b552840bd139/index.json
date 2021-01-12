@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "6fa8ecd4-87c1-4e9e-84d3-b552840bd139",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the 12<sup>th</sup> India Security Summit on “Towards New National Cyber Security Strategy”, consider the following statements:<br />\n<ol>\n<li>The Indian Cyber Crime Coordination Centre falls under the home affairs ministry.</li>\n<li>Cyber Swachhta Kendra detects botnet infections.</li>\n<li>The Cyber Swachhta Kendras offer free service to the public.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 and 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "All are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nIC4 or Indian Cyber Crime Coordination Centre was established under the home affairs ministry. It is a 7 pronged approach to tackle cyber-crime in India. It consists of branches like National Cybercrime Training Centre, National Cybercrime Reporting Portal, National Cybercrime Threat Analytics Unit etc.\n<strong>Statement 2 is correct:</strong>\n Cyber Swachhta Kendra is a Bot Cleaning and Malware Analysis Centre. It was established under the ministry of electronics and information technology as a part of Digital India initiative. It involves the collaboration with anti-virus companies and internet service providers.\n<strong>Statement 3 is correct:</strong>\nThe Cyber Swachhta Kendra provides free service to the public for cleaning botnet infections. Botnet is a network of devices with internet connection and each device is running a bot. These bots are software programs that perform a specific task automatically. Botnets are used by anti-social elements to steal personal data, passwords, phishing etc."
+}

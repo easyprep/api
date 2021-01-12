@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:56.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "18f0d9dd-869f-4e26-be08-348bee1c3ff7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Bangladesh’s Muhammad Yunus was awarded ‘Lamp of Peace of St. Francis’ by the Vatican. In this context, consider the following statements about the concept of ‘Grameen Bank’:<br />\n<ol>\n<li>Grameen banks lend credit without the need for collateral.</li>\n<li>Grameen banks use the concept of ‘solidarity lending’.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong> Statement 1 is correct:</strong>\nMuhammad Yunus is known for his microfinancing concept called Grameen bank system. This was used after the Bangladesh famine to improve credit availability to the rural poor. The concept had won him the Nobel Peace Prize. These banks lend credit to the poor without the requirement of collaterals.\n<strong>Statement 2 is correct:</strong>\nThe banks make use of ‘solidarity lending’. This is the practice of lending credit to a small group as a collective entity. The members of the group encourage each other to repay the loan. This is a very important component for the concept’s success."
+}

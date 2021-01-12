@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "837762a9-6817-48c9-82f7-2ccae14defcf",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to governments decision to keep the interest rate of Senior Citizen Saving Scheme unchanged, consider the following statements:<br />\n<ol>\n<li>NRIs are allowed to invest in this scheme.</li>\n<li>The SCSS holder is eligible to avail tax benefits under the Income Tax Act.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 or 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nNon-resident Indians/ NRIs are not allowed to invest in this scheme. HUFs/ Hindu Undivided Families are also not eligible under this scheme. HUFs are considered as a ‘person’ by the Income Tax Act. The HUF is considered as a separate entity for assessment.\n<strong>Statement 2 is correct:</strong>\nThe SCSS holder is eligible to tax benefits under the Income Tax Act, 1961. This is by the provisions of the section 80C of the IT Act. The section provides tax deductions for certain eligible members. Other schemes like Sukanya Samriddhi Yojana, Public Provident Fund, National Savings Certificate scheme, etc. are covered under this section."
+}

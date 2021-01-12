@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "03c5515b-2cc6-48bc-9cfe-298faecc4fda",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Paracel Islands have been in news recently. In this context, consider the following statements:<br />\n<ol>\n<li>It is located in the Pacific Ocean.</li>\n<li>Vietnam has claims on the islands.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Paracel Islands are located in the South China Sea. The group consists of islands, banks, reefs and other features. It has the world’s deepest underwater sinkhole. The islands have been in news as the US had challenged China’s claims over the region.\n<strong>Statement 2 is correct:        </strong>\nThe Paracel islands is disputed among China, Vietnam and Taiwan. It is located equidistant between China and Vietnam. The islands are mainly controlled by China which considers it a part of Hainan. Most of its population, of over a 1,000, is Chinese."
+}

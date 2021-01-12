@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:53.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "519863dc-9f35-4cb8-8b72-387b4b23722f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the inauguration of the AYUSH health and wellness centres, consider the following statements:<br />\n<ol>\n<li>The Traditional Knowledge Digital Library (TKDL) is a collaboration between AYUSH ministry and the Council of Scientific and Industrial Research (CSIR).</li>\n<li>The TKDL has transcribed ancient books on homeopathy.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe TKDL project was launched as an effort against the biopiracy and bioprospecting by the US and European countries. The project is a collaborative effort of CSIR and AYUSH ministry launched in 2001. It documents and organises traditional knowledge electronically, in accordance with international patent classification systems.\n<strong>Statement 2 is incorrect:</strong>\nThe TKDL transcribed ancient books on Ayurveda, Yoga, Unani and Siddha. These books are also translated into other languages like Japanese, French and Spanish. However, it does not include Homeopathy. Homeopathy is an alternative medicine system developed by German, Samuel Hahneman in 1796."
+}

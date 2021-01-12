@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9fe1b61b-5cde-49c2-912d-fd169e49f9d4",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Supreme Court is examining a petition to implement state funded community kitchens. In this context, consider the following statements about starvation deaths:<br />\n<ol>\n<li>According to WHO, malnutrition is the biggest contributor to child mortality.</li>\n<li>India has a higher prevalence of undernourishment than the global average.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nWHO had reported the significance of malnutrition and claimed it to be the biggest contributor to infant mortality. Prolonged starvation may cause organ damage and death. According to FAO, sufficient food is produced to support the population. However, starvation deaths continue to occur due to inaccessibility, wastage, etc.\n<strong>Statement 2 is correct:        </strong>\nIndia has 24% of the world’s hungry people according to FAO report in 2018. This is 195.9 million undernourished people. The government has several programs to combat the issue such as TN’s Amma Unavagam, Rajasthan’s Annapurna Rasoi, Karnataka’s Indira Canteens, AP’s Anna Canteens, etc."
+}

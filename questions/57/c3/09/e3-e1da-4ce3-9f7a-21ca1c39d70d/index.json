@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "57c309e3-e1da-4ce3-9f7a-21ca1c39d70d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the radioactive cesium technology developed by the Indian scientists, consider the following statements:<br />\n<ol>\n<li>It is used to study soil erosion.</li>\n<li>Cesium loss is used to calculate carbon loss from the sample.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe radioactive cesium technology was developed by the scientists at the ICAR and Indian Institute of Soil and Water Conservation. It is used to study soil erosion. It is reported to be a less expensive but accurate means of studying different types of erosions: long-term, historic and also comparative erosion.\n<strong>Statement 2 is correct:</strong>\nThe technology can be used for studying the loss of carbon content in the soil samples. Studies have shown the correlation between the soil carbon levels and the level of cesium isotope. The isotope used is radioactive and hence can be monitored using gamma spectroscopy technique."
+}

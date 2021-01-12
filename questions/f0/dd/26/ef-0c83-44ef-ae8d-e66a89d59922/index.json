@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "f0dd26ef-0c83-44ef-ae8d-e66a89d59922",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The drug Ranitidine has been in news for its reported carcinogenicity. In this context, consider the following statements:<br />\n<ol>\n<li>It is an OTC drug.</li>\n<li>Ranitidine is banned in India.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nRanitidine is an over-the-counter drug marketed by the US pharmaceutical company Sandoz Inc. The drug is used for treatment of stomach ulcers, stomach acidity, acid indigestion, heartburn, sour stomach, etc. The drug has been recalled because of the presence of N-Nitrosodimethylamine (NDMA) contamination.\n<strong>Statement 2 is incorrect:</strong>\nThe drug is not banned in India. The Central Drugs Standard Control Organisation had issued notices to the state government to investigate contaminations in the drug. The drug is banned in Singapore. In USA, the FDA has recommended the drugs’ users to look for alternatives."
+}

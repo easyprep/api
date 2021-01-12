@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:54.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9850dbd8-577d-40d5-926d-26fe44f2522f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to 2019 edition of UNCCD hosted in India, consider the following statements about the parameters used to understand desertification:<br />\n<ol>\n<li>High potential evapotranspiration (PET) is a feature of drying lands.</li>\n<li>Low moisture index (MI) indicates insufficient rains.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nEvapotranspiration is the combination of evaporation and transpiration from the ocean and land. The potential evapotranspiration (PET) is the measure of amount of evaporation that occurs, given sufficient water source is present. High PET is an indicator of drylands. Land spaces like AP’s Ananthpur are showing increasing PET.\n<strong>Statement 2 is correct:</strong>\nThe Moisture Index/ MI is the indicator of water content in the soil. A balanced MI is essential for the land to support crops. The MI is dropping in several places leading to desertification. A low MI indicates insufficient rainfall to support the rising PET."
+}

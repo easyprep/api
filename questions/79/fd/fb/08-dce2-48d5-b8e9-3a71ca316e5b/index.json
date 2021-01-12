@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "79fdfb08-dce2-48d5-b8e9-3a71ca316e5b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the oil prices’ surge, the rupee depreciated nearly 1% against the dollar. In this context, consider the following statements about Dollar Index:<br />\n<ol>\n<li>The index measures the dollar value against Swedish Krona.</li>\n<li>The oil prices are related inversely with the dollar value.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe dollar index measures the value of USD against the value of 6 currencies including the Swedish Krona. The maximum weightage in the index is given for the Euro (58%) while the Japanese Yen holds the next highest weightage (14%). The other currencies are Canadian Dollar, British Pound and the Swiss Franc.\n <strong>Statement 2 is correct:</strong>\nThe price of oil is inversely related to the dollar value. This is because, oil is priced in USD across the world. Because of the Aramco attack, the oil prices are set to rise but the supply is not to be affected as Saudi Arabia is in plans to draw from its reserves. The increase in oil price has led to the rupee depreciation against the dollar.\n&nbsp;"
+}

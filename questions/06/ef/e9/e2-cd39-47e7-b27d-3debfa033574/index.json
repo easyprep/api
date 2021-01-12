@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:51.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "06efe9e2-cd39-47e7-b27d-3debfa033574",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Department of Science and Technology is conducting the AWSAR contest. In this context, consider the following statements:<br />\n<ol>\n<li>Only Ph.D. and post-doctoral persons can participate in it.</li>\n<li>DST’s SEED scheme provides support to young scientists.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe AWSAR/ ‘Augmenting Writing Skills for Articulating Research’ competition is conducted by DST. It invites Ph.D. and post-doctoral fellows to submit a write up about their research in a simple language. The initiative is aimed at improving the writing skills and also promote public awareness in society.\n<strong>Statement 2 is correct:</strong>\nDST’s SEED scheme stands for Science for Equity, Empowerment and Development. It has several initiatives under the SEED for enabling better integration of the developments in science and technology with societal concerns. Its SYST (Scheme for Young Scientists and Technologists) is a supportive program for implementing young scientists’ projects to solve social challenges."
+}

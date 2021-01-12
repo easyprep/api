@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "e0ca66cc-4663-44b5-ae62-fe6082d96ae8",
+  "labels": "current-affairs,2019-12-24",
+  "question": "India’s BSID for seafarers will be in line with convention 185 of International Labour Organisation. In this context, consider the following statements:<br />\n<ol>\n<li>The convention calls for issuance of identity documents to seafarer nationals of the member states.</li>\n<li>The convention calls for use of biometrics for verification.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Convention 185 of the ILO is the Seafarers’ Identity Documents Convention (Revised), 2003, which revised the 1958 edition. The convention calls for the use of seafarer identity documents by the member nations. The member states are to issue the documents in a prescribed manner to its seafarer citizens.\n<strong>Statement 2 is correct:</strong>\nThe convention calls for inclusion of biometric data in the SID. The template/ representation of the biometric is to be included in the document. The reconstitution of this biometric data from other representations must not be possible. India is set to use facial biometric data."
+}

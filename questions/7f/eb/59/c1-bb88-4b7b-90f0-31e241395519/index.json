@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-21T15:51:22.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "7feb59c1-bb88-4b7b-90f0-31e241395519",
+  "labels": "current-affairs,2019-12-22",
+  "question": "Which country recently launched its first satellite, ETRSS-1?",
+  "option1": "Ethiopia",
+  "option2": "Eritrea",
+  "option3": "Tanzania",
+  "option4": "Togo",
+  "option5": "",
+  "answer": "Ethiopia",
+  "explanation": "Ethiopia recently launched its first ever satellite, ETRSS-1. It is a remote sensing satellite and was launched from China’s Taiyuan Satellite Launch Centre. The 70kg satellite will serve civil observation purposes for Ethiopia. The project was developed in collaboration with China."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:57.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "041249d3-6480-411d-a47a-7e3293b3a561",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the discussions on desertification in India, consider the following statements:<br />\n<ol>\n<li>The Land Degradation Atlas is published by ISRO.</li>\n<li>Water erosion is a driver of land degradation.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nLand degradation atlas is an ISRO product. It was released in 2016 in light of ‘World Day to Combat Desertification’. It helps identify desertification and land degradation hotspots across the country. It gives severity levels and also the land use pattern data.\n<strong>Statement 2 is correct:</strong>\nWater erosion is the process by which the top soil is eroded away by water. This affects the soil structure and reduces the lands ability to support vegetation. This in turn loosens the top soil further leading to degradation of land."
+}

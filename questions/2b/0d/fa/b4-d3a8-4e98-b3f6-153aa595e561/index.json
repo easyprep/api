@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "2b0dfab4-d3a8-4e98-b3f6-153aa595e561",
+  "labels": "current-affairs,2019-12-24",
+  "question": "MIT created a new nanotube structure with the ability to absorb over 99.996% of light. In this context, consider the following statements:<br />\n<ol>\n<li>Vantablack is the blackest substance ever created.</li>\n<li>The MIT material is made of lead.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe new material created by MIT is the blackest substance ever-created. Vantablack held the title previously. It was also produced from the same material. These materials appear so because of their highly efficient absorption of light and very little reflection.\n<strong>Statement 2 is incorrect:</strong>\nThe MIT material was created out of carbon in nanotubular form. Nanotubes are layers of carbon- which is about an atom-thick- rolled into tubes. These nanotubes have the ability to trap light photons and reduce the reflection off its surface."
+}

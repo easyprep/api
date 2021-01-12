@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:38:13.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "3a0c4552-de7e-42ff-a00e-7a7c17ff5a06",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The centre recently approved the use of Very Small Aperture Terminals or VSATs for use by soldiers. In this context, consider the following statements about VSATs:<br />\r\n<ol>\r\n<li>VSATs provide internet connectivity.</li>\r\n<li>VSATs make use of satellites.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe VSATs are used for providing internet connectivity to the soldiers posted in remote locations. Through the internet connection, they can make voice calls via the VoWiFi facility being provided by certain telecom operators. Currently, 1,409 locations have been suggested by the centre for setting up the VSAT facilities.\r\n<strong>Statement 2 is correct:</strong>\r\nVSATs are ground station for receiving and transmitting data from satellite i.e. they are two way. They can handle both narrowband and broadband data. They are less than 3m tall. They can redirect this data to other hubs/ terminals."
+}

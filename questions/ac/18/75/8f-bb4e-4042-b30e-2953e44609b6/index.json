@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ac18758f-bb4e-4042-b30e-2953e44609b6",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to NASA’s findings about the Amazon Basin, consider the following statements:<br />\n<ol>\n<li>The study showed that tropical Savanna lands have been converted into crop lands.</li>\n<li>Landsat 7 was used to survey the area.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nNASA found that shifting land use pattern is a major reason for the change in Amazon Basin. It reported that its tropical savanna lands that are seasonally flooded have been converted into crop lands while the rainforests are converted into pasture lands. Savannas are a mixed ecosystem composed of woodlands and grasslands.\n<strong>Statement 2 is correct:</strong>\nNASA used Landsat 7 and Landsat 8 to survey the Amazon basin. It made use of the satellites to generate cloud free images of the region. The two satellites are part of the Landsat series of NASA. The Landsat 7 is managed by United States Geological Survey. Landsat 8 is a collaboration between NASA and USGS."
+}

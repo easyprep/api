@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-03T23:26:14.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "43bf753b-a616-42e2-b186-6089e69678a4",
+  "labels": "current-affairs,2019-12-04",
+  "question": "Which spacecraft of NASA  has recently found the crashed Indian Moon lander Vikram?",
+  "option1": "CALIPSO",
+  "option2": "Aura",
+  "option3": "Landsat7",
+  "option4": "LRO",
+  "option5": "",
+  "answer": "LRO",
+  "explanation": "NASA satellite orbiting the Moon has found India’s Chandrayaan-2 Vikram lander which crashed on the lunar surface in September. NASA released an image taken by its Lunar Reconnaissance Orbiter (LRO) that showed the site of the spacecraft’s impact (September 6 in India and September 7 in the U.S.) and associated debris field, with parts scattered over almost two dozen locations spanning several kilometers."
+}

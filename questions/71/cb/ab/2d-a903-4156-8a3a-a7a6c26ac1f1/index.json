@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "71cbab2d-a903-4156-8a3a-a7a6c26ac1f1",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to September 29<sup>th</sup> being observed as the World Heart Day, consider the following statements:<br />\n<ol>\n<li>Air pollution can cause cardiovascular diseases.</li>\n<li>Increased exposure to air pollution increases the level of oxy-haemoglobin.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nAir pollution has been listed as the causative of cardiovascular disease. It is being termed as the new tobacco. A recent study found that 35% of CVD patients without any conventional risk factor contracted the disease due to air pollution.\n<strong>Statement 2 is incorrect:</strong>\nThe increased exposure to air pollution increase the carboxy-haemoglobin level of blood. This is a risk factor. This is especially observed in vehicle drivers. Carboxy-haemoglobin is formed when haemoglobin in the blood reacts with carbon monoxide, which is an air pollutant."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "1ff589f6-dd07-4a90-ac6a-ce3c373520a9",
+  "labels": "current-affairs,2019-12-24",
+  "question": "An Indian food products distributor had recently recalled its products from US with reference to the FDA finding salmonella contamination in it. In this context, consider the following statements about salmonella:<br />\r\n<ol>\r\n<li>Salmonellosis is a diarrhoeal disease.</li>\r\n<li>Children are more vulnerable than adults to salmonellosis.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nSalmonellosis is caused by <em>Salmonella</em> bacteria. It is a major diarrhoeal disease and one of the four key contributors to global diarrhoeal diseases. Contaminated food is the most common source of the disease. FDA had already discovered salmonella contamination in over 20 instances from the distributor.   \r\n<strong>Statement 2 is correct:</strong>\r\nSalmonellosis vulnerability is higher among children under 5 years of age. Older individuals and those with poor immunity are also highly vulnerable to it. The pathogen may enter the blood stream and result in death if antibiotic treatment is not administered.\r\n&nbsp;"
+}

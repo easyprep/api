@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:51.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "3f420dd3-2dae-4acd-8a51-4219cb66ca6c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Consider below observations about the UMANG app: <br />\r\n<ol>\r\n<li>The app enables access of both central and state government services.</li>\r\n<li>UMANG app provides access to DigiLocker- a cloud based storage for authentic documents and certificates.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 and 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe UMANG (Unified Mobile Application for New-age Governance) app was launched in 2017 to serve as a common platform for accessing government services through mobile phones. The app provides access to both central and state services. At present 77 departments, 19 states and 413 services can be accessed through this app.\r\n<strong>Statement 2 is correct:</strong>\r\nOf the 413 services provided by the app, DigiLocker is one. It is a cloud based storage service launched by the electronics and IT ministry. Each citizen’s account is provided with 1GB space to store digitized copies of documents and certificates like driving license, academic mark lists etc."
+}

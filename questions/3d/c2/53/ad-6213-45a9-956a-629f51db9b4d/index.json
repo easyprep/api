@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "3dc253ad-6213-45a9-956a-629f51db9b4d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Given the recent success of ISRO’s Chandrayaan II, consider the following statements:\n<ol>\n<li>The Indian mission, if successful, will follow Russia, US, China and Israel missions to moon, making it the fifth country to land on moon successfully.</li>\n<li>The combination of orbiter, lander and rover will enable ‘ground truthing’ of data collected.</li>\n<li>The lander Pragyan and the rover Vikram will be the two components on lunar surface, while the orbiter will only circle the moon.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "2 and 3",
+  "option4": "1 and 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong> Statement 1 </strong>is incorrect:\nIndia will be the fourth country to successfully land a lunar mission on the moon. Though Israel had launched a lunar mission before India’s Chandrayaan II, it had failed partway. Israel’s Beresheet, which was supposed to soft-land on the moon, had crashed onto the lunar surface.\n<strong>Statement 2 </strong>is correct:\nGround truthing is a technique used in remote sensing. It is the process by which the data collected from a remote satellite is cross-checked with the same data collected from the ground by the on-site components of the mission. The orbiter will image the moon from remote orbit while the other components will collect data on the surface.\n<strong>Statement 3 </strong>is incorrect:\nThe lander is named Vikram after the space scientist Vikram Sarabhai. Its function is to safely carry the rover Pragyan onto the lunar surface after separation from orbiter. The orbiter will circle the moon while the other two components will land on the south side of moon."
+}

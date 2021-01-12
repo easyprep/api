@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "00b05f0a-a346-4bc5-aecb-1e2ffd74a3bf",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Maharashtra government is in talks to install a 140 crore INR worth disaster management tool with the help of US Trade and Development Agency. In that context, consider the following statements:<br />\n<ol>\n<li>The tool will provide vulnerability assessment in addition to management assistance.</li>\n<li>The tool has data reliability assessment component.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe tool is to provide disaster management and vulnerability assessment framework. It will provide a disaster vulnerability index which measures the exposure of the population to floods and other hazards. This will be provided via an integrated technology platform.\n<strong>Statement 2 is correct:</strong>\nThe tool from USTDA will enable reliability assessment of disaster data. This is to address data quality issues for which the government has been criticised. The tool will serve as real-time decision support component with the use of short and medium term flood forecasts. Similar tools have been implemented in Brazil and Thailand.\n&nbsp;"
+}

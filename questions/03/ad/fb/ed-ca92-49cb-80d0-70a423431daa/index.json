@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "03adfbed-ca92-49cb-80d0-70a423431daa",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The public sector banks are to offer card-less cash withdrawal facility on a large scale. Consider the following statements with regards to this concept:<br />\n<ol>\n<li>Such transactions will prevent the issue of skimming.</li>\n<li>YONO service is an example of card-less cash transaction service.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nCard-less cash withdrawal facility will do away with the issues of skimming and cloning. Card skimming is a type of credit card fraud in which a small device is used to steal credit card information which is then used by the fraudster to steal from the account holder.\n <strong>Statement 2 is correct:</strong>\nThe YONO Cash facility was launched by SBI in March 2019. This is a card-less cash transaction service. This is enabled using a YONO app and a 6 digit YONO PIN. The facility can be availed only at ATMs designated as YONO Cash Points."
+}

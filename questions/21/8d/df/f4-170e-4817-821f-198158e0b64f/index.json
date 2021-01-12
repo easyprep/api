@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "218ddff4-170e-4817-821f-198158e0b64f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the upcoming Further Fund Offer of the Exchange Traded Fund, consider the following statements:<br />\n<ol>\n<li>ETF are passive funds.</li>\n<li>They are less liquid than mutual funds.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe ETF or Exchange Traded Funds. These are like mutual funds and are traded like shares on stock exchange market. They are considered passive funds because it doesn’t require a fund manager to select stocks. It copies indices and looks to reflect its performance accurately.\n<strong>Statement 2 is incorrect:</strong>\nETFs are more liquid than mutual funds. The ETF can be bought and sold in real time at market prices and have high liquidity. This is because they can be traded like stock exchange. The Bharat 22 ETF consists of 22 stocks including that of energy, FMCG, utilities, basic materials, financial and industrial categories."
+}

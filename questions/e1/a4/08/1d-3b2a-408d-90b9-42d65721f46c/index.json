@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "e1a4081d-3b2a-408d-90b9-42d65721f46c",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to governments plan to use penicillin to fight Rheumatic Heart Disease, consider the following statements:<br />\n<ol>\n<li>Penicillin is an anti-biotic produced by fungus.</li>\n<li>Penicillin can be used to treat viral infections.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nPenicillin is an anti-biotic that is derived from a fungus. The source organism is <em>Penicillium notatum</em> and <em>P. chrysogenum</em>. It is one of the first true anti-biotics and is used to treat a variety of infections. Many pathogens have developed resistance against the compound.\n <strong>Statement 2 is incorrect:</strong>\nPenicillin cannot be used against viruses. The anti-biotic works against a variety of bacteria like Streptococci, Staphylococci, etc. It is used to treat a number of soft tissue infections, such as those in mouth, ear, stomach, etc. Adverse drug reaction is a major problem with penicillin.\n&nbsp;"
+}

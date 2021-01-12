@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ab17d7b9-8b59-45ae-b3cd-a461e7ca4575",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to Germany’s decision to phase out Glyphosate by 2023, consider the following statements:<br />\n<ol>\n<li>The chemical is used in weed killers.</li>\n<li>India has phased out Glyphosate.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nGlyphosate is a chemical used in weed killers like ‘Roundup’- a herbicide supplied by Monsanto. Germany and EU are to phase out the chemical’s use by 2023. This is because the chemical has adverse effects on the beneficial insect population and has been declared a possible carcinogen by WHO.\n<strong>Statement 2 is incorrect:</strong>\nIndia is yet to ban the chemical. Farmers are reluctant to reduce its use as it’s a low cost way to control weeds in the field. Their use is especially high when the field is used to cultivate herbicide tolerant varieties of crops."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "8c7e3d26-1051-45b6-aa07-c2f990793d47",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Blockchain technology is a fast rising component of the digital world economy. Which of the following statements about the technology are correct?\n<ol>\n<li>RBI has banned the use of block chain technology in India.</li>\n<li>Blockchain tech uses consensus mechanism for functioning.</li>\n<li>Hashing makes it hard to decrypt the system.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "1 and 2",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "<strong>Statement 1 </strong>is incorrect:\nBlockchain technology is not banned in India. RBI had only banned the use of crypto-currency for any speculations or investments. Crypto-currency is simply one application for blockchain technology. It is simply a database that is shared among many computers for verification and acts without a central authority. \n<strong>Statement 2 </strong>is correct:\nIt is a decentralised system wherein any transaction is sent as a request to multiple computers in a network. These node computers verify the transaction by solving an energy intensive mathematical problem that is solvable only by brute force. This verification stores the transaction as a block in the database. Thus it works on a ‘consensus mechanism’.\n<strong>Statement 3 </strong>is correct:\nHashing is one of the key features of blockchain tech. Once a verified data is formed, it gets assigned a unique hash code- a series of numbers and letters. This is hashing and the code is added to the chain of code that identify the chain of similar blocks. This hashed data is difficult to alter and hence gives the security to the system."
+}

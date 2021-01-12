@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-19T02:03:45.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "dbc06658-bfca-488c-83ff-41347b5c76b4",
+  "labels": "current-affairs,2019-12-20",
+  "question": "The upcoming Cheops mission is a project of which space agency?",
+  "option1": "NASA",
+  "option2": "ROSCOM",
+  "option3": "ESA",
+  "option4": "JAXA",
+  "option5": "",
+  "answer": "ESA",
+  "explanation": "The Cheops Space Mission is an upcoming project of the European Space Agency. It stands for Characterising Exoplanets Satellite and is intended to look for habitable exoplanets. The mission is to span 3 years and was recently delayed in light of a malfunction by its Soyuz rocket."
+}

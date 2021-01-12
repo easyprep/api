@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "af1be266-a8d4-4adf-9000-248f726aef19",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the InSight Mars lander detecting the first mars-quakes, consider the following statements:<br />\n<ol>\n<li>The mars-quakes are caused by movement of tectonic plates.</li>\n<li>The magnitude of an earthquake is related to the frequency of the quakes.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nUnlike earthquakes, mars-quakes are not caused by tectonic plate movements. The mars-quakes are caused by the slow cooling of the planet that leads to fracturing and resultant vibrations. The red planet does not have tectonic plates. The quakes can also be caused by meteor impacts and magma movements.\n <strong>Statement 2 is correct:</strong>\nThe relation between the magnitude and the frequency of earthquakes is known as the Gutenberg-Richter law. According to the law, every unit drop in the earthquake’s magnitude causes the frequency to increase by 10 times. The frequency is also related to the energy released during the quake."
+}

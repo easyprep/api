@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:04.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "6cf7fa16-a47a-4961-bb4c-394605b86128",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Recently, the IMF pegged the economic worth of a giant whale at 2 million USD. In this context, consider the following statements:<br />\n<ol>\n<li>Whales are fishes unlike dolphins.</li>\n<li>The ‘whale pump’ increases nutrient content of the ocean depths.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nWhales are marine mammals and not fishes. They belong to the Cetacea group. Recently, the IMF used financial benefits approach to show the significance of whales in the environment. Whales act as major carbon sinks and sequester about 30,000 tonnes of carbon into the deep oceans every year. Hence their economic value is pegged at 2 million USD per animal, leading to the combined population amounting to a trillion USD.\n <strong>Statement 2 is incorrect:</strong>\nThe ‘whale pump’ is the process by which the whales carry nutrients from the ocean depths to the surface waters. It leads to increase in phytoplanktons in these waters which in turn will support a rich and diverse fish population."
+}

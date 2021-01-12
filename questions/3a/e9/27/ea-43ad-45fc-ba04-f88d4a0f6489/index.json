@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:08.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "3ae927ea-43ad-45fc-ba04-f88d4a0f6489",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Primary Consumer Sentiment Index readings showed an improvement in July. Consider the following statements about PCSI:\n<ol>\n<li>PCSI gives the confidence of people on the economic conditions.</li>\n<li>PCSI is independent of job availability.</li>\n<li>PSCI is dependent on investments.</li>\n</ol>\nWhich of the above statements are correct?\nSelect the correct option from the codes given below:",
+  "option1": "1 and 2",
+  "option2": "3 only",
+  "option3": "2 only",
+  "option4": "1 and 3",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nThe PCSI is released by Thomson Reuters along with Ipsos in India. In a country like India, where 60% of GDP goes into expenditure on consumption, PCSI is a vital indicator of economic health. It depends on the current and future economic scenarios of the country. RBI also releases consumer confidence reports.\n<strong>Statement 2 </strong>is incorrect:\nPCSI is dependent of 4 sub-indices: current conditions index, investment index, job index and also expectation index. Availability of jobs and job market conditions dictate how confident consumers are when it comes to spending. Current PSCI level was pulled up by 0.6 per cent point by improvement in employment confidence.\n<strong>Statement 3 </strong>is correct:\nInvestment index is one of the sub-indices of PSCI. Consumption increases when the income level rises and also during situations of excess money in circulation. Consumption that is fuelled by appropriate investment is necessary for sustainable conditions."
+}

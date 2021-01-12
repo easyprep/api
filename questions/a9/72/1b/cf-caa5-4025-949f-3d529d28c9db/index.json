@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a9721bcf-caa5-4025-949f-3d529d28c9db",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the increasing importance given to data localisation, consider the following statements about Amazon Web Services:<br />\n<ol>\n<li>The Availability Zones of a region are independently fault tolerant.</li>\n<li>Dark fibre network is used for interconnecting the zones.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe AWS is a public cloud storage service vendor. It enables localised storage of data with the use of service regions with specific Availability Zones. Mumbai is one of these regions and several zones have been set up in it. These zones are independently fault tolerant so that the data is not lost in case of an accident like flood.\n<strong>Statement 2 is correct:</strong>\nThe Availability Zones are interconnected by means of dark fibre network. Dark fibre is an unused optical fibre, for use in fibre optic communication. The location of these data centres are kept secret for sake of data security. The customer can choose which centre to store the data in."
+}

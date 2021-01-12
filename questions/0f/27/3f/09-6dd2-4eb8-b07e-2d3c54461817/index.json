@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "0f273f09-6dd2-4eb8-b07e-2d3c54461817",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to repeated elections in Israel, consider the following statements:<br />\n<ol>\n<li>Israel uses EVM to cast votes.</li>\n<li>Unity government is a coalition type of government.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIsrael uses paper ballots to cast votes. This time, there were 11,000 polling stations with about 4 million Israeli people voting. The elections have been held for the second time in September after the April elections failed to yield a majority to form the government.\n<strong>Statement 2 is correct:</strong>\nUnity government is a broad coalition government. It is formed especially in times of emergency like wars. It is also formed when an election fails to yield a majority. In Israel’s history, national unity government between rival parties had been constituted in 1984 and in 2009.\n&nbsp;"
+}

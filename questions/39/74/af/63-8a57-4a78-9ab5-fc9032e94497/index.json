@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "3974af63-8a57-4a78-9ab5-fc9032e94497",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the discussions surrounding the ‘right to be forgotten’ in online privacy, consider the following statements:<br />\n<ol>\n<li>It is applicable in EU countries alone.</li>\n<li>The right mandates that the ‘controller’ erase all personal data when the ‘data subject’ asks for it.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe right to be forgotten is a provision under the General Data Protection Regulation of EU. The European Court of Justice held that the rule is applicable only within the borders of the EU countries. The same would not be applicable to countries like India.\n<strong>Statement 2 is correct:</strong>\nRight to be forgotten is an online privacy law that gives the data subject the right to get all personal data erased by the controller on the internet. This is provided by its article 17 (of the GDPR) and must be done without undue delay."
+}

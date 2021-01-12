@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c5851371-fbd8-48e9-8551-7f73d4013539",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the pending launch of the successive rakes of the Vande Bharat Express, consider the following statements:<br />\n<ol>\n<li>It was designed and manufactured by India’s Modern Coach Factory.</li>\n<li>The train uses regenerative braking mechanism.</li>\n<li>Train 20 is to be based on this train’s model.</li>\n</ol>\nWhich of the above statements are correct?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "All are incorrect",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 2 and 3 are correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Train 18, named as Vande Bharat Express, was designed and manufactured by Integral Coach Factory in Chennai, TN. It is a part of Make in India initiative. It is supposed to be 40% cheaper than its European counterparts. The train is set to be manufactured in other factories like the Modern Coach Factory in Raebareli.\n<strong>Statement 2 is correct:</strong>\nThe train uses regenerative braking. This mechanism transforms the kinetic energy from the train into usable energy while slowing the train down during brake application. This saves 30% of electricity costs. Usually, the brake application converts the kinetic energy into heat, which is dissipated off and also wears the components down quickly (this is avoided in Train 18).\n<strong>Statement 3 is correct:</strong>\nThe Train 18 is to be the basis for Train 20. This is a high speed train that will use electricity like the Train 18. It is being designed to replace the Rajadhani Express. This is also being manufactured by the ICF and set to be launched in 2020."
+}

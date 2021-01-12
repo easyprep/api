@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "e116c2ad-1426-4b8b-b909-35c6450aa398",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the red skies occurring over Indonesia, consider the following statements:<br />\n<ol>\n<li>Red wavelength of light is more prone to scattering than the bluer wavelengths.</li>\n<li>Rayleigh scattering causes increase in temperature.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nIn the visible region of electromagnetic spectrum, the bluer wavelengths of light have shorter wavelengths than the redder wavelengths. The shorter wavelengths make it more prone to scattering. The increased particulate content in Indonesia’s air due to the forest fires is the reason for the increased scattering.\n<strong>Statement 2 is incorrect:</strong>\nRayleigh scattering is the cause of the Indonesian red skies. It is the scattering of radiation by particles that are smaller than its wavelength. It does not cause increase in temperature. The red skies are caused by particles in the air that are 0.05 micrometre and smaller."
+}

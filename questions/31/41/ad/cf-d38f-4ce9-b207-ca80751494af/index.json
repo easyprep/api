@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "3141adcf-d38f-4ce9-b207-ca80751494af",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The rare Indian Pangolin was spotted in Gurugram recently. In this context, consider the following statements about this animal:<br />\n<ol>\n<li>The armour of Pangolin is made of keratin.</li>\n<li>The Pangolins are insectivorous animals.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Pangolins are characterised by their armour made of overlapping scales. The scales are made up of keratin. Keratin is a protein based material. Keratin is the material found in nails, claws, feathers, etc. Pangolins roll up and protect themselves from predator attack using these armours.\n<strong>Statement 2 is correct:</strong>\nPangolins are insectivorous. They feed on ants, termites, etc. They use their claws to dig through termite mounds and break through logs to find insects. They are nocturnal in habit. Pangolins are one of the most trafficked wild animals. They are protected under the Wildlife Protection Act and also CITES."
+}

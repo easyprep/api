@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a11b282b-7aca-4fb2-ac6b-18370018229b",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Canine Distemper Virus was highlighted as the reason for the massive loss to Thailand’s tiger population. In this context, consider the following statements:<br />\n<ol>\n<li>CDV can be treated with anti-biotics.</li>\n<li>CDV was the cause of death of the Gir forest lions.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nCDV is caused by an RNA based virus called Paramyxoviridae. There are no current treatments available. The treatment is symptomatic and supportive only. Vaccination is the best possible route to prevent the disease. Quarantine measures are necessary to prevent the spread of the disease.\n<strong>Statement 2 is correct:</strong>\nIn 2018, India lost several of its Asiatic lion population in Gujarat’s Gir Forests. The ICMR studies showed that CDV was the cause of death. The government had imported about 300 shots of anti-CDV vaccine from USA. In the past, the disease had wiped out 30% of East Africa’s Serengeti forest lions."
+}

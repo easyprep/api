@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "133fcc74-fcb4-4640-9db9-4416f3752431",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The UNCCD recently highlighted the need for conservation of snow leopards. In this context, consider the following statements:<br />\n<ol>\n<li>The Bishkek Declaration deals with the conservation of snow leopards.</li>\n<li>The snow leopard is listed as an endangered animal by IUCN.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Bishkek declaration was passed in 2017 and it deals with ‘caring for snow leopards and mountains’. The declaration was passed by range countries during the Bishkek Forum. Range countries are those that has jurisdiction in the area where a particular species is found.\n<strong>Statement 2 is incorrect:</strong>\nSnow leopard is listed as vulnerable species by IUCN. It is also listed in the Appendix I of CITES. It is found in the alpine and sub-alpine zones. It is found in countries like India, China, Russia, Pakistan, Afghanistan, etc."
+}

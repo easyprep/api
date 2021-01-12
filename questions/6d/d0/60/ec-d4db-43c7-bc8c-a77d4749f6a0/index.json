@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:54.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "6dd060ec-d4db-43c7-bc8c-a77d4749f6a0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Rajasthan government is using e-Mitra, an e-governance tool to implement its new health scheme. In this context, consider the following statements about e-Mitra:<br />\n<ol>\n<li>The online platform is to serve as a ‘one-stop-solution’ for multiple government services.</li>\n<li>The portal enables online bill payment.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe e-Mitra is an e-governance tool being used by Rajasthan government. It is a one stop solution for availing several states government services. These include application for agricultural subsidies, discom connection, modification of name in electoral roll, booking of tourist places in the state etc.\n <strong>Statement 2 is correct:</strong>\ne-Mitra portal can be used to make online payment of bills like utility bills. The portal uses PPP/ public private partnership model for functioning. The project also has CSC kiosks in rural areas and e-Mitra kiosks in urban areas to provide the services. The status of an application can also be tracked using the e-Mitra mobile app.\n&nbsp;"
+}

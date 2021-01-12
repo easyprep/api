@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:05.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "eb6c832a-cf27-46bf-8a2d-c22043c9bf25",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent announcement about the Public Provident Fund, consider the following statements:<br />\n<ol>\n<li>Only resident Indians can open accounts under this scheme.</li>\n<li>PPF falls under the EET tax basket.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe PPF was introduced in 1968 by the ministry of finance. It is a savings and tax saving instrument. Only resident Indians can open accounts under the scheme. In 2018, the government announced that NRIs cannot open new PPF accounts and the existing ones can continue till 15 years maturity period.\n<strong>Statement 2 is incorrect:</strong>\nPPF falls under the EEE tax basket. The Exempt, Exempt, Exempt tax basket is a tax saving instrument. And it gives 3 types of exemptions: part of salary equal to investment, interest earned on investment and income generated from investment during withdrawal."
+}

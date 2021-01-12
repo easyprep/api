@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "67e421ce-567b-43c8-8036-b05b7ea739a0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the launch of the Electronic Certificate of Origin platform for exporters, consider the following statements:<br />\n<ol>\n<li>The platform serves all exports except those involving free trade agreements/ FTA.</li>\n<li>Certificates of Origin are not required for exports via FTA.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe online platform will serve all kinds of exports including those conducted via FTAs and preferential trade agreements. It will act as a single point of access for obtaining certificate of origin electronically. The certificate of origin is a document declaring the origin of a commodity.\n<strong>Statement 2 is incorrect:</strong>\nCertificates of origin are required for conducting exports through FTAs. The new platform will enable the exporters to obtain an electronic certificate. However, this electronic certificate will be valid only when agreed to by the partner country. The partner country’s authorities can verify the certificate from the online platform."
+}

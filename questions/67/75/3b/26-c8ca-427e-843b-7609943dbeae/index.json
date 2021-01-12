@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "67753b26-c8ca-427e-843b-7609943dbeae",
+  "labels": "current-affairs,2019-12-24",
+  "question": "RBI had become a net seller of dollars in September. In this context, consider the following statements about such intervention policies:<br />\n<ol>\n<li>RBI intervention in spot market will affect the Rupee’s liquidity.</li>\n<li>Forward market is used to earn profit by speculation.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe RBI had sold more dollars via the spot market than the forward market. When the central bank intervenes in the spot market, it affects the rupee’s liquidity. This is because spot contracts involve use of foreign currency’s sale in exchange for rupee’s liquidity.\n<strong>Statement 2 is correct:</strong>\nThe forex market is classified into spot and forward market. Unlike spot market, forward contracts are for transactions at a future rate. The buying and selling rates are different in forward contracts which enables earning of profit by speculation. RBI had utilised forward contracts more than the spot contracts."
+}

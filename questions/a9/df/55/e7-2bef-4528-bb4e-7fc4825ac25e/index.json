@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:55.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a9df55e7-2bef-4528-bb4e-7fc4825ac25e",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The Bahamas have been subject to the category 5 Dorian Hurricane. In this context, consider the following statements about the islands:<br />\n<ol>\n<li>The Bahamas Islands represent a geological feature called Ocean Banks.</li>\n<li>Hurricane Andrew is the strongest storm to affect the country.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nOcean banks are geological structures represented by shallow seabeds. The shallowness is caused by an underwater elevation like a hill or a shoal. The Bahamas are located on an ocean bank feature. There are 3 Bahamas banks that produced the islands: Cay Sal Bank, Great Bahamas Bank and the Little Bahamas Bank.\n<strong>Statement 2 is incorrect:</strong>\nHurricane Andrew remained the strongest storm to strike the island country until the Hurricane Dorian. Hurricane Andrew had struck Bahamas in 1992 and was also a category 5 storm like Dorian. The Hurricane Dorian which struck the country in September 2019 recorded speeds of about 355kmph leading to loss of life and property."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "770b1647-a979-4511-864c-f77fb20651c2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the government launching a web-portal for reporting stolen mobile phones, consider the following statements:<br />\r\n<ol>\r\n<li>IMEI (International Mobile Equipment Identity) number is non-reprogrammable.</li>\r\n<li>The Central Equipment Identity Register/ CEIR system reduces call drops.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong> Statement 1 is incorrect:</strong>\r\nIMEI number acts as a unique identity number of mobile phone devices. When the device has more than one SIM slot, corresponding number of IMEI is provided. However, the IMEI is re-programmable leading to cases of counterfeit devices in the network. Blocking the number would also affect genuine users.\r\n<strong>Statement 2 is correct:</strong>\r\nThe CEIR system is a project under the telecommunications department. It seeks to address problems of mobile theft, security, reprogramming concerns, etc. It enables the reduction of call drops by reducing incidence of counterfeit devices in the network. Call drops are calls that are terminated due to technical reasons before the speaking parties end their conversation."
+}

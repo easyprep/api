@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:02.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9fb26a64-1eca-440b-9856-f96d2e721ed7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to ISRO’s attempts to reconnect with the Vikram Lander before the onset of lunar night, consider the following statements:<br />\n<ol>\n<li>The period for completion of one rotation by the moon is the same as the period of completion of one orbit around the earth.</li>\n<li>The moon always has the same face towards the earth.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nLunar day is the time taken for completion of one rotation of the moon on its axis. It is same as the time taken for it to complete one orbit around the earth. This is because of synchronous rotation of the moon with the earth. The lunar night lasts 2 weeks while the daylight lasts for 2 weeks.\n<strong>Statement 2 is correct:</strong>\nDue to tidal locking, the moon shows the same face towards the earth at all times. Tidal locking is also known as captured rotation or gravitational locking. The face that is not observed from the earth is known as the far side of the moon. Most of the major moons show this type of rotation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:58.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a3c1ea24-adb7-4513-b61d-6f656cfcee75",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The National Animal Disease Control Program was launched in September. In this context, consider the following statements about this project:<br />\n<ol>\n<li>The program aims to control diseases through vaccination.</li>\n<li>The diseases targeted by the program cause milk loss in the cattle.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe program is centrally funded and aims to control foot and mouth disease and Brucellosis. The program will look to vaccinate cattle, goat, sheep, pigs, etc. against FMD. Female bovine calves are to be vaccinated against Brucellosis. The program will vaccinate about 600 million livestock against the 2 diseases.\n<strong>Statement 2 is correct:</strong>\nThe diseases cause milk output reduction and are hence of major concern to the dairy industry. The FMD reduces output by up to 100% in some cases. Brucellosis affects the quality of milk and milk products. It also reduces output by 30%."
+}

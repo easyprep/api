@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-13T01:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "0a46b7f0-72bd-40cd-91d0-c31a9e894f3f",
+  "labels": "current-affairs,2019-12-14",
+  "question": "<span style=\"font-weight: 400;\">How many commercial satellites have been launched by ISRO along with RISAT-2BR1?</span>",
+  "option1": 9,
+  "option2": 11,
+  "option3": 13,
+  "option4": 17,
+  "option5": "",
+  "answer": 9,
+  "explanation": "ISRO launched the RISAT-2BR1 satellite on 11 December 2019. India\\'s Polar Satellite Launch Vehicle (PSLV) launched RISAT-2BR1, the fiftieth flight (PSLV-C48), along with nine commercial satellites from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. RISAT-2BR1 was injected successfully into an orbit of 576 km. Also, nine commercial satellites were injected into their respective orbits. Along with this, the two solar arrays of RISAT-2BR1 were deployed automatically."
+}

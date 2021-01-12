@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:08.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "a111f6ac-8211-4528-b201-fdaa69c5a075",
+  "labels": "current-affairs,2019-12-24",
+  "question": "SBI has submitted a report on the performance of Payment banks in India. Which of the following statements about the PBs are correct?\n<ol>\n<li>Payment bank is a concept developed by RBI.</li>\n<li>The concept was recommended by Nachiket Mor committee.</li>\n<li>Intended for improving financial inclusion, payment banks can lend small level credits like loans and credit cards to its clients.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "1 and 3",
+  "option2": "2 and 3",
+  "option3": "1 and 2",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1 and 2",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nRBI had conceptualised the Payment bank and had licensed 11 entities to function as PBs. However, due to various reasons, only 4 PBs are operational in India. These banks are free from credit risk and enjoy low market risks. But they face problems on the side of operation and liquidity.\n<strong>Statement 2 </strong>is correct:\nThe concept was put forth by the Nachiket Mor committee, constituted by Raghuram Rajan. Its objective was to study financial inclusion in India in 2013. The PBs were meant to bring in people and small businesses who were out of the conventional financial system and didn’t have access to banking services. The other proposals of the committee are universal banks, Universal Electronic Bank Accounts/ UEBA, etc.\n<strong>Statement 3 </strong>is incorrect:\nThe PBs cannot give out any kind of loans or credit cards. This blanket ban on lending is one of the key issues that prevents its growth according to SBI report. Other issues highlighted were CRR and the SLR requirements. <br />CRR is Cash Reserve Ratio and the SLR is Statutory Liquidity Ratio."
+}

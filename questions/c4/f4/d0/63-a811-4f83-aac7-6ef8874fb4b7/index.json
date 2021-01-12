@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c4f4d063-a811-4f83-aac7-6ef8874fb4b7",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the study postulating possible reduction of the trees’ ability to take up carbon dioxide by 2100, consider the following statements:<br />\n<ol>\n<li>Rain-forests are the most efficient carbon sinks in the world.</li>\n<li>Carbon dioxide increases plant biomass.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe most efficient carbon sink is the peatland ecosystem. Carbon sinks are environmental components that absorb and store carbon dioxide from the atmosphere and play a key role in protecting the Earth from the greenhouse effect. The ocean is the largest carbon sink.\n<strong>Statement 2 is correct:</strong>\nThe study published in Nature Climate Change journal used statistical methods, models, machine learning etc. to simulate the uptake of carbon dioxide by the forests in the future given the rising pollution levels. It showed that carbon dioxide will increase plant biomass by 12% by this century’s end. However, the limited soil nutrients, deforestation etc. will impediment its activity as a carbon sink by 2100."
+}

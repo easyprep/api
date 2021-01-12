@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "5b90f006-225c-4765-b1f5-24293e37ccef",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In reference to the Aadhaar system of India, which of the following statements are correct?\n<ol>\n<li>Aadhaar is a unique 15 digit numerical ID issued as a proof of citizenship in India.</li>\n<li>Aadhaar is a valid document for identification for entry into Nepal by all Indian citizens.</li>\n<li>2019 amendment bill allows Aadhaar based authentication to be performed by all entities in the country.</li>\n<li>The 2019 amendment bill makes provisions for penalisation for non-compliance.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "1, 2 and 3",
+  "option3": "Only 4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Only 4",
+  "explanation": "<strong> Statement 1 </strong>is incorrect:\nThe Aadhaar is a unique numerical ID composed of 12 digits that is issued by the UIDAI/ Unique Identification Authority of India. It is the largest identification system in the world that is based on biometric data. It is not a proof of citizenship. It is used as a proof of residence in the country.\n<strong>Statement 2 </strong>is incorrect:\nThe document cannot be used as a valid identification document for entry into the neighbouring countries of Nepal and Bhutan. However, the document can be used by citizens who are below the age of 15 or above 65 years old. Travel to Nepal doesn’t require visa, if the Indian citizen possesses passport and valid photo ID such as election card.\n<strong>Statement 3 </strong>is incorrect:\nThe amendment bill of 2019 proposes that only entities compliant with UIDAI specified norms of safety and privacy can use Aadhaar based authentication. Private entities are prohibited from using its biometric provisions. These changes were made with a view to uphold the right to privacy of the citizens.\n<strong>Statement 4 </strong>is correct:\nThe bill makes penalty provisions for non-compliance. It proposes a civil penalty of 1 crore INR and 1 lakh INR per day for continued offence. It proposes 3 years imprisonment and fines for unauthorised use of the ID. It also extends the current provision of 3 years to 10 years of imprisonment for unauthorised access to Central Identities data repository. The CIDR is the storehouse of Aadhaar data and is regulated by UIDAI."
+}

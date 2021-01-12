@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "4b9fcd2b-5ce6-449a-8885-39e7767da6ae",
+  "labels": "current-affairs,2019-12-24",
+  "question": "&nbsp;\n<ul>\n<li>With reference to the government decision to link MGNREGA wages to updated inflation rates, consider the following statements:</li>\n</ul>\n<ol>\n<li>The Consumer Price Index is used for determining wages of agricultural labourers’ wages.</li>\n<li>The updated index will give more weightage to food items.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\n2 types of consumer price index: CPI-R and CPI-AL are used to determine the wages of agricultural labourers and MGNREGA wages. The CPI-R is for rural labourers and CPI-AL is for agricultural labourers. The indices are specific to states and UTs and those without a specific index use that of the neighbouring state.\n<strong>Statement 2 is incorrect:</strong>\nThe revised indices will give lesser weightage to food items. This is because, the rural population has been spending lesser portion of their incomes on subsidised food and more for education, health and other services. Accordingly these services are to be given greater weightage."
+}

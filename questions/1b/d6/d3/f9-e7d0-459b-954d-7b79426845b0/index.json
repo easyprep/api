@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:03.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "1bd6d3f9-e7d0-459b-954d-7b79426845b0",
+  "labels": "current-affairs,2019-12-24",
+  "question": "A 5.8 magnitude earthquake affected Pakistan occupied Kashmir in September. In this context, consider the following statements:<br />\n<ol>\n<li>In India’s seismic zoning map, zone 2 is the area with lowest seismicity.</li>\n<li>The Kashmir region is included in zone 5 of the seismic map.</li>\n<li>India has 5 seismic zones.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 and  2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 2 is correct",
+  "option4": "Only 3 is correct",
+  "option5": "",
+  "answer": "Only 1 and  2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe seismic zone 2 is the area associated with the least level of seismicity. These areas are categorised as ‘low damage risk’ zones. The current seismic zoning system does not use the zone 1. Portions of TN, Karnataka, Telangana, etc. have this zone 2.\n<strong>Statement 2 is correct:</strong>\nKashmir region falls under the zone 5 category. This is the zone with most seismic activity. The areas are called ‘very high damage risk’ zones. The zone also includes parts of Bihar, North-eastern states, Rann of Kutch, Andaman and Nicobar Islands and also parts of western and central Himalayas.\n<strong>Statement 3 is incorrect:</strong>\nThe current seismic zoning map of India uses 4 zones to indicate the risk of earthquake. The zones are II, III, IV and V with zone II being the least active and zone V being the most active seismically.\n&nbsp;"
+}

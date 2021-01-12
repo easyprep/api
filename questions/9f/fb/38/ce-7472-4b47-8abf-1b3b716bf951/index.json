@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "9ffb38ce-7472-4b47-8abf-1b3b716bf951",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Chandigarh introduced tenant verification system in its jurisdiction. Which of the following statements about this system are correct?\n<ol>\n<li>The system mandates the information submission to SHO about the tenants in its jurisdiction.</li>\n<li>Failure to provide information will invite action against the tenant.</li>\n<li>Servants are excluded from the system.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "2 and 3",
+  "option2": "1 only",
+  "option3": "1 and 2",
+  "option4": "2 only",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "<strong><u>Explanation:</u></strong>\n<strong>Statement 1 </strong>is correct:\nThe tenant verification system mandates that the owners of residential and commercial property submit information about their tenants. This is a preventive measure, as most anti-social elements enjoy the opacity of renting rooms in non-native states for carrying out criminal activity.\n<strong>Statement 2 </strong>is incorrect:\nFailure to provide information will invite action against the owner of the property. Action is taken under section 144 of CrPC- which gives the power to issue order in case of nuisance/ apparent danger (when the case is an urgent one) and section 188 (disobedience to order passed by public servant).\n<strong>Statement 3</strong> is incorrect:\nThe system calls for information on tenants- paying guests, servants, etc to be registered with the police within a period of 2 weeks. Information includes thumb impression, photo, passport number, phone numbers, vehicle registration number, native address, etc."
+}

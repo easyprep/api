@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:56.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "46d4c32f-61a2-4fc8-8c7b-8fec808e54be",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The process for acquiring 33 Light Combat Aircrafts Mk1A has progressed recently after being stuck at the initial stages in 2016. In this context, consider the following statements about Defence Acquisition Council:<br />\r\n<ol>\r\n<li>Field trial evaluations are not carried out by the DAC.</li>\r\n<li>Decisions regarding offset provisions are within the powers of DAC.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong> The DAC is the highest decision making body with respect to capital acquisition proposals in the defence sector. It falls under the defence ministry and is chaired by the defence minister. Field trial evaluation is one of its functions, which it uses to decide whether or not to proceed with the acquisition. <strong>Statement 2 is correct:</strong> The DAC is responsible for deciding on the offset provisions with regards to acquisitions worth over 300 crore INR. Offsets are agreements between an importer and an exporter that calls for the exporter to take up activity to fulfill an objective of the importer (apart from the original transaction). Eg: offset provision in the Rafale deal."
+}

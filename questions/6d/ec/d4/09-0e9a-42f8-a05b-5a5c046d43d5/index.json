@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:07.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "6decd409-0e9a-42f8-a05b-5a5c046d43d5",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The WHO has declared the Ebola outbreak in Congo as a Public Health Emergency of International Concern. Which of the following are correct about PHEIC declaration?\n<ol>\n<li>This is the first such declaration for an Ebola outbreak.</li>\n<li>All outbreaks require IHR/ International Health Regulations decision for being declared as PHEIC.</li>\n<li>The IHR emergency committee (EC) is a standing committee that advices the declaration.</li>\n<li>PHEIC can also be declared for an emergency due to radioactive material or chemical agent.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 3 & 4",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "Only 4",
+  "option5": "",
+  "answer": "Only 4",
+  "explanation": "<strong>Statement 1 </strong>is incorrect:\nPHEIC has been declared on few other instances from 2009 onwards, out of which one was for ebola outbreak. The other instances were due to Zika, Polio and Swine flu outbreak. The 2014 Ebola outbreak invited PHEIC declaration from WHO. PHEIC is declared when there is potential for international spreading of the emergency and also if it may require international coordination for mitigation and control. The states have a legal duty to respond to PHEIC.\n<strong>Statement 2 </strong>is incorrect:\nNot all outbreaks require IHR decision for declaration of PHEIC. The PHEIC can be declared without the IHR calls during cases of any new type of human influenza, SARS, wild type of poliomyelitis and also smallpox. The 2005 International Health regulations is legally binding provision of international law that seeks to safeguard against international spread of diseases and also other potential health hazard and also restrict its interference in trade and travel around the world.\n<strong>Statement 3 </strong>is incorrect:\nThe EC is not a standing committee. It is constituted as an ad hoc committee based on the nature of outbreak/ emergency. It is made of experts, one of whom is nominated by the affected state. The committee studies the situation and also all available data on the incident. It makes recommendations as to how the WHO director general and the concerned state are to proceed.\n<strong>Statement 4 </strong>is correct:\nThe PHEIC can also be declared in case of radioactive material leakage and chemical agent based emergency situation. The declaration can also be done for antimicrobial resistance spread. In case of radioactive leakages, the radiation and also its source particles can be carried by air, water and soil to other parts of the world. Even food and livestock can spread radiation contamination."
+}

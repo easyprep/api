@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-22T14:13:48.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "ffa59f69-df2c-4204-9106-c9f7175ef6ef",
+  "labels": "current-affairs,2019-12-23",
+  "question": "The International Criminal Court, which is seeking to look into war crimes in West Asia, was established by which treaty?",
+  "option1": "Geneva Convention",
+  "option2": "Rome Statute",
+  "option3": "Vienna Convention",
+  "option4": "Kyoto Protocol",
+  "option5": "",
+  "answer": "Rome Statute",
+  "explanation": "The International Criminal Court was established by the Rome Statute at Hague in Netherlands. The ICC is seeking to look into war crimes in the Gaza and West Bank region. However, Israel is not a signatory to the Rome Statute and is hence claiming lack of jurisdiction of ICC."
+}

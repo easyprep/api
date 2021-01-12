@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-21T15:51:22.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "938960cd-f60c-4f2b-a80e-a3ea96f85660",
+  "labels": "current-affairs,2019-12-22",
+  "question": "What is Boeing’s Starliner spacecraft that is being tested?",
+  "option1": "Solar space probe",
+  "option2": "Mars space probe",
+  "option3": "Astronaut capsule",
+  "option4": "Jupiter space probe",
+  "option5": "",
+  "answer": "Astronaut capsule",
+  "explanation": "The Starliner spacecraft of Boeing is an astronaut capsule. It is being developed as a part of NASA’s commercial crew program. The capsule is intended for transferring astronauts to the International Space Station. It is capable of carrying 7 astronauts."
+}

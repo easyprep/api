@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:52.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "3d5de389-43c6-432e-9073-2e6bc0b83ca2",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the government commissioning a study on anti-biotic resistance in Ganga, consider the following statements:<br />\n<ol>\n<li>The study will look at the microbial diversity along the entire stretch of the river.</li>\n<li>Some of the highest antibiotic resistance rates in common infectious bacteria occur in India.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe study is commissioned by the government to assess the microbial strains’ diversity in the entire 2,500km stretch of the river. This is the first time such a study is covering the entire river. It is a 9.3 crore INR study that will involve multiple institutes like Nagpur’s NEERI as well as start-ups like Phixgen.\n<strong>Statement 2 is correct:</strong>\nA study published in 2017 showed that India has some of the highest rates of anti-biotic resistance in common infectious bacteria. This means that even the common infections would become difficult to treat with the current set of anti-biotics if the strains spread."
+}

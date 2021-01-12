@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:36:28.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "0d2e7610-6a7b-4a36-9335-6a019d87976f",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In light of the recent discussions about ‘forest dieback’ phenomenon, consider the following statements:<br />\r\n<ol>\r\n<li>Forest dieback phenomenon affects the peripheral regions of the forests.</li>\r\n<li>It converts forests from net carbon sinks to net carbon sources.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong> Forest dieback which is also called Waldsterben is the process by which the woody trees of a forest starts to deteriorate due to various reasons like climate change, pest attack, diseases, etc. This is an episodic event that begins from periphery and proceeds inwards in many cases. <br /><strong>Statement 2 is correct: </strong> The forest dieback phenomenon can convert forests from being a net carbon sink to net carbon source. The dead trees cause rapid loss of carbon back to the atmosphere. Eg: damages to the forest systems of Canada converted the boreal and temperate forests into carbon sources."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "6c35af21-41f9-4093-a141-09345f472118",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the strike calling for ban of paraquat, consider the following statements about Rotterdam Convention:<br />\n<ol>\n<li>Paraquat is listed in the ‘Prior Informed Consent’ of the convention.</li>\n<li>India is a signatory of the convention.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe herbicide paraquat is not listed in the PIC of the Rotterdam convention. PIC listing mandates the exporter of the listed product to obtain prior consent from the importer for the product’s transaction. It calls for proper labelling, open information exchange and safe handling of hazardous substances.\n<strong>Statement 2 is correct:</strong>\nIndia is party to the Rotterdam Convention. The convention was signed in 1998. It has 161 countries that are signatories to it. Chemicals like endosulfan, DDT, etc. are listed in its PIC. The chemical industry has been resisting the listing of paraquat in the PIC."
+}

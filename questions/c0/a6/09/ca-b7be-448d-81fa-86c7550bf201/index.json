@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:56.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "c0a609ca-b7be-448d-81fa-86c7550bf201",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The WHO Regional Committee resolved to eliminate measles and rubella by 2023. In this context, consider the following statements:<br />\n<ol>\n<li>Even children who are already covered by the measles vaccination must take measles-rubella vaccine.</li>\n<li>MR vaccine can be given till the age of 5 years.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe government requires all children between 9 months and 15 years of age to take the MR vaccine. This included children who had already taken the measles vaccine. This is because the earlier vaccine’s effectiveness is questionable as there have been cases of infection despite immunisation using it.\n<strong>Statement 2 is correct:</strong>\nThe routine immunisation can be done till 5 years. The earlier target to eliminate measles and control rubella by 2020 has now been extended to 2023. Countries like Bhutan, Sri Lanka and Maldives have already eliminated measles. Countries like Bangladesh, Nepal and Sri Lanka have controlled rubella."
+}

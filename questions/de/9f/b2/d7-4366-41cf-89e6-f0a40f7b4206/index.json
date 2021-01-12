@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T21:58:59.000Z",
+  "updated_at": "2021-01-06T08:24:46.163Z",
+  "id": "de9fb2d7-4366-41cf-89e6-f0a40f7b4206",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With respect to India’s decision to install 60 supercomputers in the next 3 years, consider the following statements:<br />\r\n<ol>\r\n<li>The Pratyush is listed in the TOP500 project.</li>\r\n<li>Pratyush is the first indigenously developed supercomputer in India.</li>\r\n<li>The supercomputers are to be networked onto the National Knowledge Network.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 and 2 are correct",
+  "option2": "Only 2 and 3 are correct",
+  "option3": "Only 1 and 3 are correct",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only 1 and 3 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nTOP500 is an international project that lists the top 500 most powerful computers in the world. India has 3 of its supercomputers currently on the list. Pratyush is one of these three. The other 2 are Mihir and InC1- Lenovo C1040.\r\n<strong>Statement 2 is incorrect:</strong>\r\nParam was the first supercomputer to be indigenously developed in India. It was built by CDAC/ Centre for Development of Advanced Computing in 1991. It was developed after the USA denied technological aid to India. The Param is over 20 times more powerful than the Cray Supercomputer it was seeking to buy from USA.\r\n<strong>Statement 3 is correct:</strong>\r\nUnder the National Supercomputing Mission, 70 high performance computing facilities are to be set up in India. These are to be connected onto the National Knowledge Network where it will aid R&amp;D. The 60 supercomputers being planned at present are to be indigenously developed by the CDAC."
+}
