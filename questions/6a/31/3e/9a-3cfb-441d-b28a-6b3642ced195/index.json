@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-22T22:13:36.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "6a313e9a-3cfb-441d-b28a-6b3642ced195",
+  "labels": "current-affairs,2018-09-23",
+  "question": "Recently, ISRO launched two satellites NovaSAR and S1-4 using PSLV-CA vehicle. How the PSLV-CA is different from PSLV-XL?\r\n<ol>\r\n<li>PSLV-CA is upgraded version of PSLV-XL</li>\r\n<li>PSLV-CA does not include strap-on boosters</li>\r\n</ol>\r\nWhich of the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The first statement is incorrect and is written in reverse. PSLV-XL with strap-on boosters is the upgraded version of the PSLV-CA, which is Core alone. <br />\r\nPSLV is the third generation launch vehicle of India, designed and developed by ISRO’s Vikram Sarabhai Space Centre, Thiruvananthapuram. It is hailed as the reliable and versatile workhorse launch vehicle of India. It consists of four stages,  using solid and liquid propulsion systems alternately. Each stage of PSLV is self-contained vehicle capable of functioning independently with own propulsion systems.\r\nIt is capable of launching 1600 kg satellites in 620 km sun-synchronous polar orbit and 1050 ks satellite in geo-synchronous transfer orbit. There are three variants of PSLV, namely, PSLV-G, PSLV-CA, PSLV-XL. In the standard configuration, it measures 44.4 m tall, with a lift off weigh of 295 tonnes.\r\nSome notable payloads launched by PSLV include India’s first lunar probe Chandrayaan-1, India’s first interplanetary mission, Mars Orbiter Mission (Mangalyaan) and India’s first space observatory, Astrosat."
+}

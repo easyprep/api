@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-23T12:48:45.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "00a01bc1-e483-4edf-8cfc-dc51fe5d9808",
+  "labels": "current-affairs,2018-09-24",
+  "question": "Consider the following statements with respect to sports awards in India?\r\n<ol>\r\n<li>Rashtriya Khel Protsahan Puruskar is bestowed upon the universities and colleges for promotion of sports</li>\r\n<li>Both Dronacharya Award and Arjuna Award are bestowed upon individual sportspersons for their outstanding performances</li>\r\n</ol>\r\nWhich of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<strong>Rashtriya Khel Protsahan Puruskar</strong> was introduced by government in 2009 to encourage involvement of corporates and sports promotion boards in the development of sports.\r\n<strong>Dronacharya Award</strong> is bestowed upon coaches for producing medal winners at prestigious international sports events.\r\n<strong>Arjuna Award</strong> are bestowed upon individual sportspersons for their outstanding performances in last four years."
+}

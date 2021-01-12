@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-04T23:32:44.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "49ce1189-c162-4a33-a5bc-ce10568788f2",
+  "labels": "current-affairs,2018-09-05",
+  "question": "Which phenomenon was used by US researchers to develop a wearable device that could generate energy from the swing of an arm while walking or jogging?",
+  "option1": "Photoelectric effect",
+  "option2": "Penn effect",
+  "option3": "Piezoelectric effect",
+  "option4": "Polar effect",
+  "option5": "",
+  "answer": "Piezoelectric effect",
+  "explanation": "The US researchers have developed a wearable device that could generate energy from the swing of an arm while walking or jogging. The device, about the size of a wristwatch, produces enough power to run a personal health monitoring system. The prototype watch is apparently made from a crystal material, which can produce an electric current when compressed or can change shape when an electric charge is applied. This is called the \\\"piezoelectric effect\\\" and is used in ultrasound and sonar devices, as well as energy harvesting. The researchers used a well-known piezoelectric material \\'PZT\\' and coated it on both sides of a flexible metal foil to a thickness four or five times greater than in previous devices.   The compressive stresses that are created in the film as it is grown on the flexible metal foils also mean that the PZT films can sustain high strains without cracking, making for more robust devices. The researchers behind the device come from Pennsylvania State University\\'s Materials Research Institute and the University of Utah. The research was published in the journal Advanced Functional Materials."
+}

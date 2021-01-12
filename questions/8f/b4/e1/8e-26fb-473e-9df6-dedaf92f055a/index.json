@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-06T23:24:40.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "8fb4e18e-26fb-473e-9df6-dedaf92f055a",
+  "labels": "current-affairs,2018-08-07",
+  "question": "Which country’s researchers  have claimed to create the world’s first single-chromosome yeast ?",
+  "option1": "Germany",
+  "option2": "United States",
+  "option3": "China",
+  "option4": "UK",
+  "option5": "",
+  "answer": "China",
+  "explanation": "Molecular biologists at the Centre for Excellence in Molecular Plant Sciences in China  have claimed to create the world\\'s first single-chromosome yeast while not affecting the majority of its functions. If their claim is true then this breakthrough could help in furthering research related to aging and diseases in humans. They used CRISPR-Cas9 genome-editing to create a single-chromosome yeast strain. Using the CRISPR-Cas9, the research team removed the DNA at the telomeres, the ends of chromosomes that protect them from degrading. They also snipped out the centromeres, sequences in the middle that are important to DNA replication. The research may also pave the way for new man-made species in the future."
+}

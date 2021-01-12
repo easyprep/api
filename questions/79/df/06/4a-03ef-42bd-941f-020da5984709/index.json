@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:08.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "79df064a-03ef-42bd-941f-020da5984709",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the National Academic Depository: <ol> <li>It is an online depository system developed by the Ministry of Human Resource Development.</li> <li>IIT Kharagpur has been designated as the authorized body to operationalise NAD.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. The National Academic Depository is an online depository system developed by the Ministry of Human Resource Development. It facilitates issuance and storage of academic awards to students in a 24 * 7 online depository system. <u>Second statement is incorrect</u>. The University Grants Commission (UGC) has been designated as the authorized body to operationalise NAD. Degrees, diplomas, certificates, mark-sheets including awards issued for skill development are allowed to be lodged as academic awards. The framework of NAD includes various Central Universities, Central Higher Educational Institutions, State Universities, Deemed to be universities, Central Board of Secondary Education (CBSE), State School Education Boards etc. located in various States/Union Territories including the State of Maharashtra. NAD comprises of two interoperable digital depositories viz., NSDL Database Management Limited (NDML) and CDSL Ventures Limited (CVL)."
+}

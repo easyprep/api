@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-29T21:21:35.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "fac60cd4-fe5d-4493-8001-974b0e65a355",
+  "labels": "current-affairs,2018-09-30",
+  "question": "NITI Aayog has recently signed pact with which cloud services provider to curb the distribution of fake drugs using blockchain?",
+  "option1": "Microsoft Azure",
+  "option2": "Google Cloud Platform",
+  "option3": "IBM Cloud",
+  "option4": "Oracle",
+  "option5": "",
+  "answer": "Oracle",
+  "explanation": "NITI Aayog has signed a Statement of Intent (SoI) with cloud services provider Oracle to curb the distribution of fake drugs using new technologies. Apollo Hospitals and Strides Pharma Sciences will partner in this effort. The partners will pilot a real drug supply chain using blockchain decentralized ledger and Internet of Things (IoT) software. The Blockchain technology helps to permanently register a drug’s record in the manufacturer’s drug supply chain (serial number, labelling, scanning), leaving no scope for record tampering. At every point of hand change, it records the drug’s movement – from manufacturer to logistics, to stockist to hospital, or pharmacy to consumer. In case of a fake drug, the software will detect irregularity. Additionally, critical information such as chemical ingredients of the drug or maintenance of temperature control in case of life saving drugs or vaccines can also be tracked."
+}

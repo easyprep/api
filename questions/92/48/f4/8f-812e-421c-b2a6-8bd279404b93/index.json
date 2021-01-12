@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-12T18:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "9248f48f-812e-421c-b2a6-8bd279404b93",
+  "labels": "current-affairs,2018-08-13",
+  "question": "Which of the following has become the India's first bank to introduce iris authentication for Aadhaar-based transactions through micro ATMs?",
+  "option1": "ICICI Bank",
+  "option2": "Punjab National Bank",
+  "option3": "Axis Bank",
+  "option4": "State Bank of India",
+  "option5": "",
+  "answer": "Axis Bank",
+  "explanation": "Axis Bank has become the India\\'s first bank to introduce Iris Scan Authentication feature for Aadhaar-based transactions through its micro ATM tablets. As per study conducted by the International Centre for Biometric Research (ICBR), Iris scan technology is completely contactless and provides up to 98.2% authentication success rate and offers an edge over other prevalent biometric modes. The highly secure iris powered micro ATM tablets are Standardisation Testing and Quality Certification (STQC) certified and UIDAI compliant registered devices with completely integrated iris sensors. The process of transaction through iris scan is very simple. Customer need to select the desired service (funds transfer, cash withdrawal) and feed-in their Aadhaar numbers in the micro ATM. Next, they will have to choose \\'IRIS\\' as the desired mode of authentication. Verification will be done by scanning the eyes of the customers through the tablet\\'s iris sensor camera in 3-5 seconds. The transaction will be completed after the biometric details are verified from the UIDAI database."
+}

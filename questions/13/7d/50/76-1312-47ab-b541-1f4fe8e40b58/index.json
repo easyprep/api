@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:19.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "137d5076-1312-47ab-b541-1f4fe8e40b58",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Aditya-L1 Mission: <ol> <li>It is meant to observe the Sun’s corona only</li> <li>It will be India's first dedicated scientific mission to study the Sun.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Aditya-L1 is a spacecraft that aims to study the Sun. It will be India’s first dedicated scientific mission to study sun. It is planned to be launched in the year 2021. <u>First statement is incorrect</u> because the Aditya-L1 Mission aims to conduct a comprehensive study of Sun\\'s Photosphere (soft and hard X-ray), Chromosphere (UV) as well as corona (Visible and NIR). The space environment observatory is planned to be placed at the Lagrangian point L1. The mission also aims to study the composition and variation of solar wind properties as well as its distribution and spectral characteristics."
+}

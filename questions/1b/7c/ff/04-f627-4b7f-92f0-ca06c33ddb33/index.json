@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-05T21:26:57.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "1b7cff04-f627-4b7f-92f0-ca06c33ddb33",
+  "labels": "current-affairs,2018-10-06",
+  "question": "The team of scientists has recently identified regions in the wheat genome responsible for density of which micro-nutrient in wheat grain?",
+  "option1": "Iron",
+  "option2": "Zinc",
+  "option3": "Calcium",
+  "option4": "Nitrogen",
+  "option5": "",
+  "answer": "Zinc",
+  "explanation": "The scientists have recently identified regions in the wheat genome responsible for concentration of zinc in wheat grain. They have also identified candidate genes involved in zinc concentration in wheat. The findings can potentially help in developing wheat varieties with enhanced levels of the micro-nutrient. The researchers have found 39 new molecular markers and two genome segments that carry important genes for zinc uptake, translocation, and storage by analyzing zinc concentrations. A total of 330 wheat lines were analysed from different environments in India and Mexico. The genome-wide association approach, used in human disease research, was applied in this study to locate genome segments linked to zinc uptake. This study was jointly conducted by researchers from International Maize and Wheat Improvement Centre (CIMMYT), Flinders University, Australia; Punjab Agriculture University, Ludhiana; Indian Institute of Wheat and Barley Research, Karnal; and Banaras Hindu University (BHU), Varanasi.  It must be noted that about 30% of Indian population is estimated to have zinc deficiency. Children below 5 year of age and pregnant women are more vulnerable for nutrient deficiency."
+}

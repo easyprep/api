@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:22.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "be0e5b0e-2569-4a43-b926-92c52edbc070",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the Cabinet Committee on Economic Affairs approved the restructured version of Rashtriya Gram Swaraj Abhiyan (RGSA). The scheme: <ol> <li>is a Centrally Sponsored Scheme</li> <li>will be implemented only in areas included in Part IX of the Indian Constitution</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. This is a centrally sponsored scheme. Second statement is incorrect because this scheme will extend to all States and UTs of the Country and will also include institutions of rural local government in non-Part IX areas, where Panchayats do not exist. It has central component as well as state component. The Central Component will be fully funded by the Government of India. However, Centre: State funding pattern for State Component will be 60:40 for all States, except North East and Hill States where Centre: State funding pattern will be 90:10."
+}

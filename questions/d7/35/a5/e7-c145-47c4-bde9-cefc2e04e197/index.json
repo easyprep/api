@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-14T19:09:43.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "d735a5e7-c145-47c4-bde9-cefc2e04e197",
+  "labels": "current-affairs,2018-08-15",
+  "question": "The peepal tree releases oxygen all the time because of which among the following processes?",
+  "option1": "C3 Photosynthesis",
+  "option2": "C4 Photosynthesis",
+  "option3": "Crassulacean Acid Metabolism",
+  "option4": "Carbon cycle re-balancing",
+  "option5": "",
+  "answer": "Crassulacean Acid Metabolism",
+  "explanation": "Most plants largely uptake Carbon dioxide (CO²)and release oxygen during the day (photosynthesis) and uptake oxygen and release CO² during the night (respiration). Some plants such as Peepal tree can uptake CO² during the night as well because of their ability to perform a type of photosynthesis called Crassulacean Acid Metabolism (CAM). However, it is not true that they release large amounts of oxygen during the night. CAM is one of the three types of photosynthesis pathways occurring commonly in plants; the other two being C3 and C4 pathways. Of these, C3 is the most common among land plants. CAM occurs primarily in desert plants and epiphytes (plants that live on other plants, usually large trees). CAM plants do not open their stomata during the day in order to minimize water loss. During the night, they open their stomata and fix CO² in the form of malate. During the day, they breakdown the malate and use the released CO2 through Kalvin cycle to produce sugars, similar to C3 plants. However, CAM is an energy inefficient reaction and hence plants use CAM only during certain conditions. Peepal tree is a hemi-epiphyte in its native habitat i.e. the seeds germinate and grow as an epiphyte on other trees and then when the host-tree dies, they establish on the soil. It has been suggested that when they live as epiphyte, they use CAM pathway to produce carbohydrates and when they live on soil, they switch to C3 type photosynthesis. So, Peepal tree would either release or not release CO² in the night depending on if they are epiphytic or not. For other CAM plants, it would depend on if they have adequate water or not, or other environmental factors."
+}

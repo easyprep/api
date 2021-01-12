@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:22.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "bb652a8a-f2e6-4907-a45b-5daabd5e0c0d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the term “HIMANSH”: <ol> <li>It is a high altitude research station located at a remote location in Himachal Pradesh</li> <li>It is an initiative under the Ministry of Earth Sciences</li> <li>It aims to discover the reasons for fast melting of glaciers and its relation to changing climate</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "<u>First statement is correct</u>. HIMANSH is a high altitude research station in Himalaya. <u>Second statement is correct</u>. The research station has been established under the Ministry of Earth Sciences. <u>Third statement is also correct</u>. The research station aims to track the melting of Himalayan glaciers and changes in climate due to this. The researchers would also be using this as a base for undertaking surveys using Terrestrial Laser Scanners (TLS) and Unmanned Aerial Vehicles (UAV) that would digitize the glacier motion and snow cover variations with exceptional precision."
+}

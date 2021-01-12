@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-01T21:57:23.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "d5d22d58-8524-43b6-b0de-4c18fd53c5a7",
+  "labels": "current-affairs,2018-10-02",
+  "question": "The 2018 Nobel Prize in Physiology or Medicine has been awarded jointly to James P Allison and Tasuku Honjo for their discovery of which cancer therapy?",
+  "option1": "Chemotherapy",
+  "option2": "Radiation",
+  "option3": "Surgery",
+  "option4": "Immunotherapy",
+  "option5": "",
+  "answer": "Immunotherapy",
+  "explanation": "The 2018 Nobel Prize in Physiology or Medicine has been awarded jointly to Dr. James P. Allison of the United States and Dr. Tasuku Honjo of Japan for their discovery of cancer therapy by inhibition of negative immune regulation. Both the doctors, working separately, showed in the 1990s how certain proteins act as “brakes” on the immune system’s T-cells, limiting their ability to attack cancer cells, and that suppressing those proteins could transform the body’s ability to fight cancer. They used immunotherapy to help the cells of the immune system recognize and attack cancer cells. Until their breakthroughs cancer treatment consisted of surgery, radiation and chemotherapy. Their work led to a fourth class of treatment, harnessing the immune system, what the Nobel committee at the Karolinska Institute called “an entirely new principle for cancer therapy.”"
+}

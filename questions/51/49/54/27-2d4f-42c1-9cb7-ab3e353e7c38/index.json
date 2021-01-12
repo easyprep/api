@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-07T23:28:36.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "51495427-2d4f-42c1-9cb7-ab3e353e7c38",
+  "labels": "current-affairs,2018-08-08",
+  "question": "Which IIT institute has developed the first indigenous microprocessors 'RISECREEK' under Project Shakti?",
+  "option1": "IIT Madras",
+  "option2": "IIT Kanpur",
+  "option3": "IIT Bombay",
+  "option4": "IIT Delhi",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "The group of computer scientists and a team of students from the IIT- Madras have developed the first of a family of six industry-standard microprocessors under Project Shakti. The initial batch of 300 chips, named ‘RISECREEK’, has been fabricated for free at the Intel facility in Oregon  (US), which was used to run the Linux operating system. The design of microprocessors is open source. They optimize power use and compete with international units such as the Cortex A5 from Advanced RISC Machines (ARM).  The entire team was lead by Dr. Neel Gala, who is an alumnus of IIT-Madras. The team had used a BlueSpec System Verilog language, which helped them capture the processor functionality. At a frequency of 350 MHz, RISECREEK can meet the demands of defence and strategic equipment such as NAVIC (Indian Regional Navigation Satellite) and Internet of Things (IoT) electronics."
+}

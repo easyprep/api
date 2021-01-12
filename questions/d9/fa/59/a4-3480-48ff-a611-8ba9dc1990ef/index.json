@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:20.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "d9fa59a4-3480-48ff-a611-8ba9dc1990ef",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is not a Short-Lived Climate Pollutant (SLCP)?",
+  "option1": "Carbon dioxide (CO2)",
+  "option2": "Methane (CH4)",
+  "option3": "Hydrofluorocarbons (HFCs)",
+  "option4": "Black carbon",
+  "option5": "",
+  "answer": "Carbon dioxide (CO2)",
+  "explanation": "Short-lived climate pollutants (SLCPs) are those climate pollutants that remain in the atmosphere for a much shorter period of time than longer-lived climate pollutants, such as carbon dioxide (CO2). They include methane, fluorinated gases including hydrofluorocarbons (HFCs), and black carbon. Their relative potency, when measured in terms of how they heat the atmosphere, can be tens, hundreds, or even thousands of times greater than that of CO2."
+}

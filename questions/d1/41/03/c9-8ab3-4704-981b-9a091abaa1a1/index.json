@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-30T14:07:09.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "d14103c9-8ab3-4704-981b-9a091abaa1a1",
+  "labels": "current-affairs,2018-10-01",
+  "question": "Which of the following terms in news are related to India’s Ballistic Missile Defence (BMD) system?\r\n<ol>\r\n<li>Pradyumna</li>\r\n<li>Ashwin</li>\r\n<li>Yayati</li>\r\n<li>Swordfish</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "A Ballistic Missile Defence (BMD) is a system that is designed to intercept and destroy an incoming ballistic missile on its trajectory much before it approaches the target.\r\nIndia\\'s ballistic missile defence system provides a two-layered shield - \\'exo\\' and \\'endo\\'. What this effectively means is that the system provides protection both against ballistic missiles that are outside (exo) as well as inside (endo) the earth\\'s atmosphere. \r\nIndia\\'s BMD is a two-layered system consisting of Prithvi Air Defence (PAD) and advanced air-defence (AAD). Prithvi Air Defence (PAD) or Pradyumna is supposed to tackle incoming missiles at ranges of 80-120 km (exo-atmospheric interception). On the other hand, the advanced air-defence (AAD) or Ashwin Ballistic Missile Interceptor mainly consists of Akash Surface-to-Air Missiles (SAM) that can intercept incoming missiles at ranges of 15-30 km (endo-atmospheric interception).\r\nAdvanced Air Defence Advanced Air Defence or AAD interceptor is a single-stage, solid-fuelled missile capable of intercepting an incoming missile at around 30 kms. The interceptors are guided by high accuracy Inertial Navigation System (INS) and supported by a Redundant Micro Navigation System (RMNS). The interceptors zero in on the hostile missile with the help of infrared (IR) seeker and inertial guidance.\r\nSwordfish Long Range Tracking Radar (LRTR) is long-range tracking radar specifically developed to counter ballistic missile threat. Its main function is target acquisition of incoming missile and provides guidance to interceptors (PAD and AAD) to hit its target in space. This radar has a range of over 800 km and can be used for tracking trajectories. India is upgrading this radar to increase its range to 1500 km."
+}

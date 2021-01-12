@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-18T14:41:18.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "b71f8b26-5c85-4897-9c9a-87a3310e7703",
+  "labels": "current-affairs,2018-10-19",
+  "question": "Which of the following is / are correct statements in context with the Economics Nobel Prize?\r\n<ol>\r\n<li>It was designated in the will of Swedish scientist Alfred Nobel.</li>\r\n<li>It is awarded by the Royal Swedish Academy of Sciences.</li>\r\n<li>The 2018 Economics Nobel prize was awarded to William Nordhaus and Paul Romer for integrating climate change and technological innovation.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Even though the Prize for Economic Sciences is often described as the Economics Nobel, The Prize in Economic Sciences is not a Nobel Prize. It was instituted by the Sweden’s central bank in Memory of Alfred Nobel and finds no mention in the will of Alfred Nobel. It is awarded by the Royal Swedish Academy of Sciences. Hence only statements 2 and 3 are correct."
+}

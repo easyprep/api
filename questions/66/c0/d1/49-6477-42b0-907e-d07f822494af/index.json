@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-06T19:01:02.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "66c0d149-6477-42b0-907e-d07f822494af",
+  "labels": "current-affairs,2018-09-07",
+  "question": "Which of the following is the lowest taxonomic division shared by both man and frog?",
+  "option1": "Order",
+  "option2": "Class",
+  "option3": "Phylum",
+  "option4": "Family",
+  "option5": "",
+  "answer": "Phylum",
+  "explanation": "In the kingdom of animals, the phylum Chordata includes the classes of Pisces, Amphibia, Reptilia, Aves and Mammalia. These classes have at some stage in their lives shown common characteristics. So, man and frog belong to the same Phylum in the taxonomical level."
+}

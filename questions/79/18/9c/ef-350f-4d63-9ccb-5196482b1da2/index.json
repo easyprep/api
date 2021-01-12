@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-07T17:22:06.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "79189cef-350f-4d63-9ccb-5196482b1da2",
+  "labels": "current-affairs,2018-10-08",
+  "question": "What is the current repo rate, as per RBI’s 4th bi-monthly Monetary Policy Statement for 2018-19?",
+  "option1": 0.06,
+  "option2": 0.0675,
+  "option3": 0.065,
+  "option4": 0.0625,
+  "option5": "",
+  "answer": 0.065,
+  "explanation": "The Reserve Bank of India (RBI) has kept all key policy rates unchanged in its fourth bi-monthly monetary policy review, which is recently announced on October 5, 2018. A six-member Monetary Policy Committee (MPC), headed by Governor Urjit Patel, decided to keep the repo rate unchanged at 6.5% and the reverse repo rate at 6.25%. Repo rate is the rate at which RBI lends to banks, while the reverse repo is the rate at which RBI borrows money from banks. Accordingly, the Marginal Standing Facility (MSF) rate and the Bank Rate too were kept at 6.75%. On the growth front, RBI retained GDP growth projection for 2018-19 at 7.4%."
+}

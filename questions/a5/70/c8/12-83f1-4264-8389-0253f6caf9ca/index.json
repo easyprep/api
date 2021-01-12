@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-23T11:56:02.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "a570c812-83f1-4264-8389-0253f6caf9ca",
+  "labels": "current-affairs,2018-09-24",
+  "question": "Recently, NASA has launched a balloon mission to improve?",
+  "option1": "Internet Services",
+  "option2": "Weather Forecasting",
+  "option3": "Mapping Services",
+  "option4": "Agriculture in Desert Areas",
+  "option5": "",
+  "answer": "Weather Forecasting",
+  "explanation": "NASA has launched a balloon mission to improve weather forecasting by capturing the images of a thin group of seasonal electric blue clouds on the cusp of our atmosphere.  Data from these clouds, known as noctilucent clouds or polar mesospheric clouds (PMCs), may help scientists better understand turbulence in the atmosphere, as well as in oceans, lakes and other planetary atmospheres."
+}

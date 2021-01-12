@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:22.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "3e566656-5f84-46c1-98d0-225960f3ccf0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Living Planet Report: <ol> <li>It is published by the United Nations Environment Programme</li> <li>It is published in every two years and measures biodiversity abundance levels on the planet</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the Living Planet Report is published by the World Wide Fund. Second statement is correct. The report is a published in every two years. It measures biodiversity abundance levels on the planet. It is based on the Living Planet Index and ecological footprint calculations. The latest version of the report was published in 2016."
+}

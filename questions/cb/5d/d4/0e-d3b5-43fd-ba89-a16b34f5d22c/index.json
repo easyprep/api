@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-16T23:20:52.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "cb5dd40e-d3b5-43fd-ba89-a16b34f5d22c",
+  "labels": "current-affairs,2018-08-17",
+  "question": "Which telecom company has launched a VOIP based phone service \"WINGS\"?",
+  "option1": "Airtel",
+  "option2": "BSNL",
+  "option3": "Reliance Jio",
+  "option4": "Vodafone",
+  "option5": "",
+  "answer": "BSNL",
+  "explanation": "The Bharat Sanchar Nigam Ltd (BSNL) has launched a VOIP based service \\\"WINGS\\\". In WINGS, there is no SIM or cable wiring as is a VOIP service through an app. The WINGS service offers unlimited free audio/video calling for one year. The service can be activated with a one-time fee of Rs. 1,099 (Rs 1,297 with GST). Calls can be made using any data connection such as wired broadband, Wi-Fi, 3G or 4G network of any any operator. WINGS can also be used over Internet Leased Lines. The facility can be used anywhere within the country and the app automatically uses the existing address book in the phone. Unlike other app-based VOIP services such as WhatsApp and Telegram calls, the WINGS app can make calls to any phone number - free of cost. As there is no physical SIM, the number can be used as the second number in phones without provision for second SIM. It can even be a third number in dual-SIM phones."
+}

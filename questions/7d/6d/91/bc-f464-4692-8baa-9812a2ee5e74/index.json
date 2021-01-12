@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-18T14:33:07.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "7d6d91bc-f464-4692-8baa-9812a2ee5e74",
+  "labels": "current-affairs,2018-10-19",
+  "question": "The Indian Meteorological Department has decided to replace the word drought with deficient year. Consider the following statements.\r\n<ol>\r\n<li>Below normal is when the departure of realised rainfall is more than 10% but less than 20%.</li>\r\n<li>Deficient year is when the rainfall deficiency is more than 20% and 40% of spatial region is under drought conditions.</li>\r\n<li>Large Deficient year is when the rainfall deficiency is more than 20% and 50% of spatial region is under drought conditions.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The new classification by the Indian meteorological department is given below. Only statement 1 is correct.\r\n<img src=\\\"https://www.gktoday.in/wp-content/uploads/2018/10/imd-new-definition.jpg\\\">"
+}

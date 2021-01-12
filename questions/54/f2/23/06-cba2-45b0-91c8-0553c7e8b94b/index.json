@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:11.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "54f22306-cba2-45b0-91c8-0553c7e8b94b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the National Monsoon Mission: <ol> <li>It is an initiative by the Ministry of Climate Change and Environment</li> <li>It aims to improve seasonal, intra-seasonal and medium-range weather forecast in the country</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u>. The National Monsoon Mission is an initiative by the Ministry of Earth Sciences. <u>Second statement is correct</u>. The National Monsoon Mission aims to improve seasonal, intra-seasonal and medium-range weather forecasts. While National Centre for Medium Range Weather Forecasting (NCMRWF) will lead and coordinate the efforts for improving the forecasts in the medium range, Indian Institute of Tropical Meteorology (IITM) will coordinate and lead the effort for improving the forecasts on the seasonal and intraseasonal scale."
+}

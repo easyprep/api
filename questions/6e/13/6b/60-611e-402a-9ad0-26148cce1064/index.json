@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:19.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "6e136b60-611e-402a-9ad0-26148cce1064",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What is the name of India’s first dedicated multi-wavelength space telescope?",
+  "option1": "SOLAR",
+  "option2": "ASTROSAT",
+  "option3": "IRIS",
+  "option4": "EXOSAT",
+  "option5": "",
+  "answer": "ASTROSAT",
+  "explanation": "ASTROSAT is India’s first dedicated multi-wavelength space observatory. One of the unique features of ASTROSAT is that it enables the simultaneous multi-wavelength observations of various astronomical objects with a single satellite. It observes universe in the optical, ultraviolet, low and high energy X-ray regions of the electromagnetic spectrum, whereas most other scientific satellites are capable of observing a narrow range of wavelength band. It aims to estimate of magnetic fields of neutron stars. It also aims to study star birth regions and high energy processes in star systems lying beyond our galaxy."
+}

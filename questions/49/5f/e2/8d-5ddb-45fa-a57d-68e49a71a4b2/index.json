@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:19.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "495fe28d-5ddb-45fa-a57d-68e49a71a4b2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The NISAR mission is a joint project between NASA and ISRO. It aims to co-develop and launch a dual frequency synthetic aperture radar satellite that will be used for _?",
+  "option1": "Remote sensing",
+  "option2": "Communication",
+  "option3": "Space Sciences",
+  "option4": "Navigation",
+  "option5": "",
+  "answer": "Remote sensing",
+  "explanation": "NISAR stands for NASA-ISRO Synthetic Aperture Radar. It is a joint project between NASA and ISRO that aims to co-develop and launch a dual frequency synthetic aperture radar satellite. The dual-band includes L-band and S-band. L-band is produced by NASA, while S-band by ISRO. The satellite will be used for remote sensing to observe and understand the natural process on earth."
+}

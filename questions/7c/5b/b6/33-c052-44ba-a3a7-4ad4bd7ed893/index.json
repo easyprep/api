@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:11.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "7c5bb633-c052-44ba-a3a7-4ad4bd7ed893",
+  "labels": "current-affairs,2018-08-04",
+  "question": "It is a 1-U picosatellite (CubeSat) developed by an engineering college students in Pune. This satellite provides point-to-point communications for the UHF HAM band. It was launched by ISRO on June 22, 2016, along with Cartosat-2C by Polar Satellite Launch Vehicle C-34. This satellite has been placed in low earth orbit (LEO) around the Earth at a height of 515 km. The name of the satellite is _?",
+  "option1": "Astrosat",
+  "option2": "YouthSat",
+  "option3": "Swayam",
+  "option4": "StudSat",
+  "option5": "",
+  "answer": "Swayam",
+  "explanation": "Swayam is a 1-U picosatellite (CubeSat) developed by the students of College of Engineering in Pune. This satellite provides point-to-point communications for the UHF HAM band. The Satellite was launched by ISRO on June 22, 2016 along with Cartosat-2C by Polar Satellite Launch Vehicle C-34. The satellite has been placed in low earth orbit (LEO) around the Earth at a height of 515 km. The project was completed over a span of 8 years and more than 200 students worked on it. The scientific objective of the satellite is to demonstrate passive attitude control to stabilise and appropriately orient the satellite. This technique has been used for the first time on an Indian Satellite."
+}

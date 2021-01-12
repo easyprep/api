@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:16.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "02e7ee66-fe60-461f-838e-2a119be054d3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The GoI has launched the “Sameer App” to deal with which of the following?",
+  "option1": "To measure AQI and to report environmentally polluting activities",
+  "option2": "To facilitate a platform for NGOs and Civil Societies to interact",
+  "option3": "To monitor all the schemes for Adolescent Girls in the country",
+  "option4": "To track number of cancer patients in the country",
+  "option5": "",
+  "answer": "To measure AQI and to report environmentally polluting activities",
+  "explanation": "Sameer is an APP that provides hourly updates on the National Air Quality Index (AQI) published by CPCB. Air Quality Index is a tool for effective communication of air quality in a single number, nomenclature and colour."
+}

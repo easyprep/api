@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-12T16:10:14.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "2d4bf486-775e-4330-b78a-d84e09e72c61",
+  "labels": "current-affairs,2018-09-13",
+  "question": "Which of the following two vegetables are in same Genus Solanum?",
+  "option1": "Potato and Brinjal",
+  "option2": "Potato and Cauliflower",
+  "option3": "Brinjal and Chilli",
+  "option4": "Tomato and Radish",
+  "option5": "",
+  "answer": "Potato and Brinjal",
+  "explanation": "Potato and Brinjal have several common features and are thus included in the same genus Solanum. The scientific name of Potato is Solanum tuberosum and Brinjal is Solanum melongena."
+}

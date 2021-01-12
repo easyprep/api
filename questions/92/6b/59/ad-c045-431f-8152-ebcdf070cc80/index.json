@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-14T19:35:29.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "926b59ad-c045-431f-8152-ebcdf070cc80",
+  "labels": "current-affairs,2018-08-15",
+  "question": "To cook the food in Microwave Ovens, which among the following is not advisable?",
+  "option1": "Glass",
+  "option2": "Paper",
+  "option3": "Ceramics",
+  "option4": "Metals",
+  "option5": "",
+  "answer": "Metals",
+  "explanation": "Microwaves heat up the food because of the dipolar movements of molecules of the food particularly water. The metals block microwaves and that is why they are not advised."
+}

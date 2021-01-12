@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-12T16:10:15.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "eb91dcb7-db0a-435e-928b-a62307d39bd1",
+  "labels": "current-affairs,2018-09-13",
+  "question": "Which of the following taxonomic level is same for man, monkey and tiger?",
+  "option1": "Genus",
+  "option2": "Family",
+  "option3": "Order",
+  "option4": "Class",
+  "option5": "",
+  "answer": "Class",
+  "explanation": "The order Primata includes monkey, gorilla and man and the order Carnivora includes lion, tiger, cat and dog. These two orders are the members of the same class called Mammalia. So, man, monkey and tiger are in the same class."
+}

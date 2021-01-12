@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-07T17:01:21.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "bf6f5729-9dcd-4b73-9e86-e6a2d3556262",
+  "labels": "current-affairs,2018-10-08",
+  "question": "The 2018 Nobel Prize in Physics was given for an innovative technique called \"chirped pulse amplification\". This technique is most closely related to which of the following sub-branches of Physics?",
+  "option1": "Quantum Mechanics",
+  "option2": "Classical Mechanics",
+  "option3": "Optics",
+  "option4": "Relativity",
+  "option5": "",
+  "answer": "Optics",
+  "explanation": "The technique is useful in places where raw laser power, and particularly <em>concentrated</em> laser power, is of paramount importance."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:13.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "4e86eb6d-1d82-45f8-ac5c-6d670a0fe1ca",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the space mission with the help of given information: <ol> <li>It is the first mission dedicated to investigating the deep interior of Mars</li> <li>It is an initiative by NASA</li> <li>The mission aims to detect seismic activity on Mars and will also detect the frequency of ongoing meteorite impacts on the planet. </li> <li>The mission will be powered by solar panel and is expected to be launched on 5<sup>th</sup> May 2018.</li> </ol> Select the correct answer from options given below:",
+  "option1": "New Horizons",
+  "option2": "InSight",
+  "option3": "ExoMars",
+  "option4": "Magellan",
+  "option5": "",
+  "answer": "InSight",
+  "explanation": "The above given information is about NASA’s InSight Mission. InSight is the first mission dedicated to investigating the deep interior of Mars. The findings will advance understanding of how all rocky planets, including Earth, formed and evolved. The InSight mission draws upon a strong international partnership led by Principal Investigator Bruce Banerdt of JPL. The prime objective of the mission is to place a stationary lander equipped with a seismometer and heat transfer probe on the surface of Mars and to study the planet’s early geological evolution. The secondary objective of the mission is to conduct an in-depth study of geophysics, tectonic activity and the effect of meteorite impacts on Mars. This mission could bring new understanding of the Solar System\\'s terrestrial planets —Mercury, Venus, Earth, Mars — and the Earth’s Moon. The mission will be powered by solar panels and it will land near the equator. The spacecraft is scheduled to be launched on 5 May 2018 for a Mars landing on 26 November."
+}

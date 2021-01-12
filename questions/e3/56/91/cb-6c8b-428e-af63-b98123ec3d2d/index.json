@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:12.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "e35691cb-6c8b-428e-af63-b98123ec3d2d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which state became the first state in the country to unveil Public Cloud Policy?",
+  "option1": "Gujarat",
+  "option2": "Maharashtra",
+  "option3": "Tamil Nadu",
+  "option4": "Andhra Pradesh",
+  "option5": "",
+  "answer": "Maharashtra",
+  "explanation": "A public cloud is one based on the standard cloud computing model. Under Public Cloud, a service provider provides resources, such as virtual machines (VMs), applications or storage, and makes it available to the general public over the internet. The services through public cloud may be free or offered on a pay-per-usage model. In India, Maharashtra became the first state to unveil the Public Cloud Policy."
+}

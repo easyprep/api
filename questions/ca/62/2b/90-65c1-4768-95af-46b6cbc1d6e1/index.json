@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:16.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "ca622b90-65c1-4768-95af-46b6cbc1d6e1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In Budget 2018, the Finance Minister announced for setting up cyber-physical systems (cps) in the country. Which of the following statements is/are correct about the CPS? <ol> <li>CPS refers to a new generation of systems with integrated computational and physical capabilities </li> <li>This new system will focus on developing Centres of Excellence and will help in generating new categories of job</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<u>First statement is correct</u>. CPS is an interdisciplinary field that deals with the deployment of computer-based systems that do things in the physical world. It involves the use of modern technologies like robotics, artificial intelligence, digital manufacturing, big data analysis, quantum communication and internet of things. <u>Second statement is also correct</u>. Since new technology will lead to innovation, it will help in creating new types of jobs."
+}

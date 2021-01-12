@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:13.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "7b916997-7f0f-4a3c-a196-91ff3d049ab6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about micro-ATMs: <ol> <li>Micro-ATM is a portable device and can be easily moved from one place to another</li> <li>Micro-ATM can be used for paying utility bills</li> <li>Unlike conventional ATMs, micro-ATMs don’t provide the facility of “anytime” money</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All given statements are correct. Micro ATM is a mini version of ATM. Micro-ATMs are connected through GSM and are portable device, hence can be transported easily from one place to another. These ATMs have been very beneficial in rural areas where conventional ATMs are generally available in lesser numbers. This machine contains card swipe facility and fingerprint scanner. These machines are handy and not capable of keeping any cash. The cash is carried by the bank representative along with him/her. The bank representative is responsible for collecting cash and depositing it in user account. Therefore, Micro ATMs, unlike conventional ATMs, cannot provide “anytime” or 24*7 money, especially if the bank correspondent is unavailable or the shopkeeper in whose shop the micro-ATM is installed has shut his shop. Micro ATMs can support all the transactions that can be normally conducted at regular bank ATMs. They can be even used for payment of utility bills such as electricity bill, water bill, etc."
+}

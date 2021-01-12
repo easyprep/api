@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:15.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "22d7b012-e276-43f5-95e0-43a3115b9b76",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is a mobile application developed as a single platform to deliver major central government as well as state governments services?",
+  "option1": "PRAGATI",
+  "option2": "UMANG",
+  "option3": "DARPAN",
+  "option4": "JAGRITI",
+  "option5": "",
+  "answer": "UMANG",
+  "explanation": "UMANG has been developed as a single mobile platform to deliver major Government services with Core Platform integrated with Aadhaar, DigiLocker, PayGov, Rapid Assessment System (RAS) etc. It supports around 12 Indian languages, in addition to English and has been hosted on a cloud. UMANG aims to bring power to the fingertips of citizens. It is one stop platform, where all central and State services (including e-District services) can be availed by the citizens of India."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-12T16:20:01.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "336eb3cc-74e0-4f52-86f8-520595adfac3",
+  "labels": "current-affairs,2018-09-13",
+  "question": "What does the first name in the scientific name of an organism denote?",
+  "option1": "Species",
+  "option2": "Genus",
+  "option3": "Order",
+  "option4": "Class",
+  "option5": "",
+  "answer": "Genus",
+  "explanation": "In Binominal nomenclature, the name of organisms is in genus species pattern. The second word in an organism's scientific name refers to one species within the genus; is the specific epithet but actually gives no clue as to species if used alone."
+}

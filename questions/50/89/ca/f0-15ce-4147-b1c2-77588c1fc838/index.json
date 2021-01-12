@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-27T21:53:36.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "5089caf0-15ce-4147-b1c2-77588c1fc838",
+  "labels": "current-affairs,2018-09-28",
+  "question": "Which section of Aadhaar Act has been struck down by Supreme Court that permit private entities to avail Aadhaar data?",
+  "option1": "Section 58",
+  "option2": "Section 57",
+  "option3": "Section 55",
+  "option4": "Section 59",
+  "option5": "",
+  "answer": "Section 57",
+  "explanation": "On September 26, the Supreme Court of India (SCI) declared the Centre\\'s flagship Aadhaar scheme as constitutionally valid for filing of IT returns and allotment of Permanent Account Number (PAN), but struck down some of its provisions including its linking with bank accounts, mobile phones and school admissions. A 5-judge constitution bench headed by Chief Justice Dipak Misra held that Aadhaar would not be mandatory to link with bank accounts and telecom service providers cannot seek its linking for mobile connections. The CBSE, NEET, UGC cannot make Aadhaar mandatory and it is not compulsory for school admissions. The bench struck down the national security exception under the Aadhaar (Targeted Delivery of Financial and other Subsidies, Benefits and Services) Act. The bench also struck down Section 57 of Aadhaar Act permitting private entities to avail Aadhaar data and ruled that Aadhaar authentication data cannot be stored for more than six months. It directed the government not to give Aadhaar to illegal immigrants."
+}

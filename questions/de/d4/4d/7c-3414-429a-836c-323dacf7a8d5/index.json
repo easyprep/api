@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:09.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "ded44d7c-3414-429a-836c-323dacf7a8d5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the “Integrated Power Development Scheme” (IPDS): <ol> <li>It aims at providing free electricity connections to the rural poor and at a very low cost to others.</li> <li>It is a central sector scheme being implemented by the Ministry of Power.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u>. The “Integrated Power Development Cable” aims to reduce the aggregate technical and commercial losses in power distribution by undergrounding the overhead cables and installing digital meters at home. It also aims at strengthening sub-transmission and distribution system. It also includes strengthening of sub-transmission and distribution system, including provisioning of solar panels and IT enablement of distribution sector. <u>Second statement is incorrect</u>. The scheme is a centrally sponsored scheme and not central sector scheme. It is being implemented by the Ministry of Power with the help of state distribution companies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:15.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "ad9c3a50-32fa-406b-b4b5-31aa5fb4e858",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Gravity Recovery and Climate Experiment Follow-on (GRACE-FO) mission: <ol> <li>It is a partnership between NASA and the German Research Centre</li> <li>It aims to track Earth's water movement to monitor changes in underground water storage</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<u>First statement is correct</u>. Gravity Recovery and Climate Experiment Follow-on (GRACE-FO) mission is scheduled to be launched in 2018. It is a partnership between NASA and the German Research Centre. <u>Second statement is correct</u>. It aims to track the Earth\\'s water movement to monitor changes in underground water storage, the amount of water in large lakes and rivers, soil moisture, ice sheets and glaciers, and sea level caused by the addition of water to the ocean."
+}

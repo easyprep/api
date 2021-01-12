@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:15.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "a6d0f24c-c904-4584-abe5-7b7386dcef7d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is an MHRD initiative under NMEICT Programme, being implemented to incorporate Robotics into engineering education and to enhance the application of mathematics, computer science, and engineering principles among students?",
+  "option1": "e-Scada",
+  "option2": "e-Yantra",
+  "option3": "e-Kalpa",
+  "option4": "e-Shodh",
+  "option5": "",
+  "answer": "e-Yantra",
+  "explanation": "Project e-Yantra is an initiative to spread education in embedded systems and Robotics by IIT Bombay sponsored by Ministry of Human Resource Development through the National Mission on Education through ICT (NMEICT). Its major objective is to provide hands-on learning to engineering students who have limited access to labs and mentors."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-23T01:03:05.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "802d09b2-8419-43b6-9c19-1988d05e02bd",
+  "labels": "current-affairs,2018-09-24",
+  "question": "Which of the following is known as <strong>planet hunter telescope</strong>?",
+  "option1": "Parker solar prober",
+  "option2": "TESS",
+  "option3": "OSIRIS-REX",
+  "option4": "TRACE",
+  "option5": "",
+  "answer": "TESS",
+  "explanation": "Transiting Exoplanet Survey Satellite (TESS) is a space telescope for NASA\\'s Explorers program, designed to search for exoplanets. The primary mission objective for TESS is to survey the brightest stars near the Earth for transiting exoplanets over a two-year period. OSIRIS-REx will travel to a near-Earth asteroid called Bennu and bring a small sample back to Earth for study. NASA\\'s Parker Solar Probe will be the first-ever mission to \\\"touch\\\" the Sun."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-09-12T16:10:13.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "f95f7214-24d2-4739-833b-bebd5ee11c7b",
+  "labels": "current-affairs,2018-09-13",
+  "question": "The scientific name of Onion is <i>Allium cepa</i>. What does cepa denotes here?",
+  "option1": "Class",
+  "option2": "Family Family",
+  "option3": "Species Species Species Family Species",
+  "option4": "Genus",
+  "option5": "",
+  "answer": "Species Species Species Family Species",
+  "explanation": "<ul> <li>Species is a group of individuals with similar morphological characters. They are able to breed among themselves and produce their own kind.</li> <li>Cepa in Allium cepa (the scientific name of Onion) denotes species in the level of Taxonomic Hierarchy.</li> </ul>"
+}

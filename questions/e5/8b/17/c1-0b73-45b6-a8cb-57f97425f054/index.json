@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-14T16:56:44.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "e58b17c1-0b73-45b6-a8cb-57f97425f054",
+  "labels": "current-affairs,2018-08-15",
+  "question": "Consider the following statements about a debenture:\r\n<ol>\r\n<li>It is a debt instrument</li>\r\n<li>Its freely transferable</li>\r\n<li>Its holder has voting rights in company’s annual general meetings</li>\r\n<li>It is a part of company’s capital structure</li>\r\n</ol>\r\nWhich among the above statements is/ are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "Debenture is a debt instrument and freely transferable. It makes a part of company’s capital but its holders are NOT able to participating in the voting in the annual general meetings."
+}

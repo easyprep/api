@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:18.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "1f3a1cb9-9c4f-4bcf-bf6c-3c7a54b38d75",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following satellite systems with countries to which they are related: <ol> <li>Galileo-Russia</li> <li>Quasi-Zenith- Japan</li> <li>BeiDou- China</li> </ol> Which of the above is/are correct?",
+  "option1": "1 & 3 Only",
+  "option2": "2 & 3 Only",
+  "option3": "3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "Galileo is a satellite system of European Union. The development for Galileo system began in 2003 and is expected to be fully completed by 2019. This system will consist of a constellation of 30 satellites (27 active with 3 spares) with signals reaching throughout the globe. It is being funded by public and private sectors. BeiDou is a Navigation Satellite System of China. It consists of more than 30 satellites. This satellite system intends to have two levels of signals to be used for military and civilians. It is expected for global availability by 2020. The Quasi-Zenith Satellite System (QZSS) is a Japan’s satellite system. It is similar to GPS satellites with some slight variations. The QZSS is four-satellite regional system and is scheduled to commence as a production service on November 1, 2018."
+}

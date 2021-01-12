@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:23.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "e3e7bbba-dbf2-4eeb-9c06-38bc754e1e61",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The (EcAMSat) mission, sometimes seen in the news, aims to:",
+  "option1": "identify the intensity of Galactic cosmic rays (GCR) that penetrate the moon surface",
+  "option2": "investigate the spaceflight effects on bacterial antibiotic resistance",
+  "option3": "establish two way optical communications for deep space.",
+  "option4": "study the terrain mapping and make an analysis of soil on the surface of Jupiter",
+  "option5": "",
+  "answer": "investigate the spaceflight effects on bacterial antibiotic resistance",
+  "explanation": "EcAMSat stands for <em>E.coli</em> Antimicrobial Satellite. This mission will investigate space microgravity effects on the antibiotic resistance of <em>E.</em> <em>coli</em>, a bacterial pathogen responsible for urinary tract infection in humans and animals. It has been developed through a partnership between NASA’s Ames Research Center and the Stanford University School of Medicine. The mission is funded as part of the Space Biology Project at NASA Ames Research Center."
+}

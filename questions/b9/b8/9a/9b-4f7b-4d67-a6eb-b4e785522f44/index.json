@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-21T21:00:38.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "b9b89a9b-4f7b-4d67-a6eb-b4e785522f44",
+  "labels": "current-affairs,2018-10-22",
+  "question": "From which of the following industries, Toluene is released as a waste causing water and soil pollution?\r\n<ol>\r\n<li>Petrochemical refineries</li>\r\n<li>Paint Industry</li>\r\n<li>Paper Industry</li>\r\n<li>Textile Industry</li>\r\n<li>Rubber Industry</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 1, 3 , 4 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": "Using bacteria isolated from soil and effluents near an oil refinery, researchers from the University of Delhi and Indian Institute of Technology (BHU), Varanasi, have successfully degraded toluene into less-toxic byproducts. Toluene is one of the petrochemical wastes that get released without treatment from industries such as refineries, paint, textile, paper and rubber. Toluene has been reported to cause serious health problems to aquatic life, and studies point that it has genotoxic and carcinogenic effects on human beings. [<a href=\\\"https://www.thehindu.com/sci-tech/science/bacteria-to-degrade-toluene/article25272923.ece\\\">Source</a>]"
+}

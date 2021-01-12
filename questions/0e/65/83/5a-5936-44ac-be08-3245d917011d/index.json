@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:19.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "0e65835a-5936-44ac-be08-3245d917011d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is an Internet spy system developed by Centre for Artificial Intelligence and Robotics (CAIR) that aims to carry out internal and external monitoring of real-time Internet traffic?",
+  "option1": "PRATUSH",
+  "option2": "NETRA",
+  "option3": "NATGRID",
+  "option4": "GOMED",
+  "option5": "",
+  "answer": "NETRA",
+  "explanation": "NETRA system has been developed by the Centre for Artificial Intelligence and Robotics (CAIR) of the Defence Research and Development Organisation (DRDO). It is a native system developed by Indian scientists and other staff. It was built with the intent of combating threats both internal and external by monitoring real-time Internet traffic. The system has apparently been fully functional since 2014 and is used by the Intelligence Bureau and the Research and Analysis Wing. It has the capability to intercept and analyse data (including voice traffic) passing through Google, Skype, and other social networking forums. It can also track keywords from emails, tweets, Facebook status updates, comments, blogs, messages on forums, and even images shared over the Internet."
+}

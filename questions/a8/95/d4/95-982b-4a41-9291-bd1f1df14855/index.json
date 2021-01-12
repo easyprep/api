@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-14T16:23:36.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "a895d495-982b-4a41-9291-bd1f1df14855",
+  "labels": "current-affairs,2018-08-15",
+  "question": "Consider the following properties in context with chemical molecules:<br />\r\n<ol>\r\n<li>Presence of Carbon atom</li>\r\n<li>Presence of Oxygen Atom</li>\r\n<li>Presence of C–C Bond</li>\r\n<li>Presence of C–H Bond</li>\r\n</ol>\r\nWhich among the above conditions must be fulfilled to call a molecule an \"organic compound\"?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "This is very interesting question. The difference between organic and inorganic molecules have been a subject of debate. An organic molecule is considered to be a molecule that plays role in organic activities. All organic molecules have Carbon, that is correct. Oxygen may or may not be present , for example CH3 (methane). The present of C–C and C–H bonds are also not needed in some important molecules to call them organic. For example, Urea has no C–H bond. The same is with Oxalic Acid. Then C–C bond is neither present in methane, nor in Carbon Tetra Chloride. There is no “official” definition of an organic compound. Some textbooks define an organic compound as one containing one or more C-H bonds; others include C-C bonds in the definition. Others state that if a molecule contains carbon―it is organic. So, in this question, the condition given in statement 1 would be sufficient to call it an organic molecule."
+}

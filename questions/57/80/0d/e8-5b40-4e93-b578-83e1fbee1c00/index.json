@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-24T23:21:12.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "57800de8-5b40-4e93-b578-83e1fbee1c00",
+  "labels": "current-affairs,2018-08-25",
+  "question": "The Copernicus project, under which wind-sensing satellite \"Aeolus\" has been launched recently, is a joint project of __:",
+  "option1": "European Union and European Space Agency",
+  "option2": "ISRO and JAXA",
+  "option3": "NASA and ISRO",
+  "option4": "Roscosmos and ISRO",
+  "option5": "",
+  "answer": "European Union and European Space Agency",
+  "explanation": "The European Space Agency (ESA) has launched a wind- sensing satellite \\\"Aeolus\\\" into orbit  from French Guyana to track global winds. The satellite will be placed at an altitude of 320 Km above the Earth. The launch is part of the Copernicus project, a joint effort by the European Union and the European Space Agency (ESA) to track environmental damage and assist disaster relief operations. The  \\\"Aeolus\\\" satellite - named after the keeper of the winds in Greek mythology - is designed to enable improved weather forecasting and aid disaster relief operations.  It is equipped with a Doppler wind LIDAR – an advanced laser system designed to measure global wind patterns from space. Aeolus, which is built by Airbus, will be the first satellite equipped to perform global wind-component-profile observation on a daily basis in near real-time."
+}

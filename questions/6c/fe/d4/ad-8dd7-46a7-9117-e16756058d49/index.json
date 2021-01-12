@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:13.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "6cfed4ad-8dd7-46a7-9117-e16756058d49",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Swell Waves, which were recently making news: <ol> <li>These are ocean waves that are generated due to quake on the ocean bed</li> <li>Indian National Center for Ocean Information Services (INCOIS) is the first institute in the Indian Ocean and Pacific Ocean region to forecast the surge waves</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u>. Swell waves are different from that of Tsunami. While Tsunami results due to quake generated on the bottom of the ocean bed, swell waves are the result of surge over the ocean surface due to the upper air circulation produced by storm winds ranging hundreds of miles out to sea. This low-pressure system named “Cut off Lows” blocked the normal course of westerly winds present in the southern ocean during the period causing propagation of high swell waves towards Indian coasts. <u>Second statement is correct</u>. INCOIS has become the first institute in the Indian Ocean and Pacific region to forecast the surge waves."
+}

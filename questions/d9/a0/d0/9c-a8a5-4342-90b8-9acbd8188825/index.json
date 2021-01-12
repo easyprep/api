@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:11.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "d9a0d09c-a8a5-4342-90b8-9acbd8188825",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In order to develop and improve the capability to forecast weather, and climate and hazard-related phenomena and to explore Ocean Resources, the Ministry of Earth Sciences has launched a Teraflops High-Performance Computing System built based on IBM System X technology. The name of the system is _?",
+  "option1": "Mihir",
+  "option2": "Pratyush",
+  "option3": "Bharti",
+  "option4": "Aaditya",
+  "option5": "",
+  "answer": "Aaditya",
+  "explanation": "The Aaditya HPC is a Highly Parallel Supercomputing System built on IBM System X technology. It brings accuracy in weather, climate and ocean forecast and helps in providing better services to end users such as farmers and fisherman."
+}

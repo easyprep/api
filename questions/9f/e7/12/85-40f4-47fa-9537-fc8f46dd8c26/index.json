@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:12.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "9fe71285-40f4-47fa-9537-fc8f46dd8c26",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the ARYA project: <ol> <li>It is an initiative by the Ministry of Skill Development and Entrepreneurship</li> <li>It aims to provide apprenticeship training to engineering graduates and diploma holders</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u>. ARYA stands for “Attracting and retaining youth in Agriculture (ARYA)”. It is an initiative by the Indian Council of Agricultural Research. <u>Second statement is incorrect</u>. This project aims to <em>attract and empower the Youth in Rural Areas to take up various Agri-enterprises in Agriculture, </em>allied and service sector for sustainable income and gainful employment."
+}

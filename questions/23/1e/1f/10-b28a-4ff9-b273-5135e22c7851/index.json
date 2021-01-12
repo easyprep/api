@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-07T14:16:45.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "231e1f10-b28a-4ff9-b273-5135e22c7851",
+  "labels": "current-affairs,2018-10-08",
+  "question": "Which of the following statements conform to the draft Drone Policy that was unveiled recently?\r\n<ol>\r\n<li>No license is required to fly a drone weighing up to 2 Kilogram</li>\r\n<li>Every Drone must get a unique identification number (UIN) from DGCA</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<strong>Drone types</strong> - DGCA has broadly classified multiple categories of drones into: Nano (weighing up to 250 g), Micro (weighing more than 250 g but less than 2 kg) and Small and above (weighing 2 kg or more)\r\n<strong>Permit </strong>- Every drone bigger than Nano must get a unique identification number (UIN) from DGCA.\r\n<ul>\r\n<li>UIN must be displayed on the aircraft, like the registration number of vehicles.</li>\r\n<li>A UIN will be provided once, against a fee of Rs 1,000.</li>\r\n<li>UIN will not be provided to a foreign citizen or entity.</li>\r\n<li>Users of bigger drones will be needed to get a Unique Air Operator’s Permit (UAOP).</li>\r\n<li>This is like a driver’s licence for normal vehicles.</li>\r\n<li>The permit will cost Rs 25,000 and will be effective for 5 years, and renewal of permit will cost Rs 10,000.</li>\r\n<li>The UIN and UAOP can be received from the online platform Digital Sky that will become live on December 1 2018.</li>\r\n</ul>\r\n<strong>Conditions for flying </strong>- All drones, except the Nano ones, must satisfy mandatory equipment requirements.\r\n<ul>\r\n<li>These include anti-collision light, ID plate, GPS, radio-frequency identification (RFID) and SIM facilities.</li>\r\n<li>Software that make sure of ‘no-permission, no-takeoff’, among other features, is mandatory.</li>\r\n<li>Before flying a <em>Small or bigger drone</em>, an operator has to provide a flight plan, and communicate with the local police. This is for the drone to reach a height of 400 feet or more, and utilize controlled as well as uncontrolled airspace.</li>\r\n</ul>"
+}

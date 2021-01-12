@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:17.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "bb78916f-ce5e-4f9b-929a-c226891f6fd1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following differences between the payment banks and small finance banks is/are correct? <ol> <li>While small finance bank can undertake lending activities, payment banks are not allowed to do so</li> <li>While small finance banks can set up subsidiaries for NBFC business, payment banks are not allowed to do so</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. Small Finance banks are allowed to undertake lending activities, payment banks are not allowed to do so. <u>Second statement is incorrect</u>. Small Finance Banks as well as Payment Banks cannot set up subsidiaries to undertake NBFC business. Both Small Finance Bank as well as Payment Bank requires minimum capital of 100 crores. Promoter contribution would be at least 40 percent for the first five years, which would be reduced to 26 percent in 12 years from the date of commencement of business. Entities other than promoters are not permitted to have shareholding in excess of 10 percent. Foreign shareholding in these banks is as per current FDI policy, while the voting rights are in line with the existing guideline line for private banks."
+}

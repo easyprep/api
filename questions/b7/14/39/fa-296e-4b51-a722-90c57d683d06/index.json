@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:23.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "b71439fa-296e-4b51-a722-90c57d683d06",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are correct about Black Carbon? <ol> <li>Black carbon is a Short-lived climate pollutant (SLCP) </li> <li>It is one of the eight pollutants which are used to calculate the national AQI</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Black Carbon (BC) over recent years has emerged as a major contributor to global climate change, possibly second only to CO2. Black carbon emissions are mostly caused by human activities, such as heating and transportation, when fossil fuels, biofuels and biomass are burnt incompletely. Black carbon particles absorb solar radiation and thus in the air heat the atmosphere. Because of the short life-time, reductions of black carbon emissions could slow down the warming relatively quickly. Second statement is incorrect because Black Carbon is not included among the eight pollutants used to measure the National Air Quality Index."
+}

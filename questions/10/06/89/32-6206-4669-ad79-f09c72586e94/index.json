@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:17.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "10068932-6206-4669-ad79-f09c72586e94",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the term FASTag, sometimes seen in news: <ol> <li>It is a device that employs Radio Frequency Identification (RFID) technology</li> <li>This device is used as a tool to track tigers in India</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correc</u>t. FASTag is a device that employs Radio Frequency Identification (RFID) technology. <u>Second statement is incorrect</u> because this device is used for making toll payments at toll booths on National Highways and <em>not for tracking tigers</em>. Under this technology, the payment is directly deducted from the prepaid or savings account linked to it and is affixed on the windscreen of the vehicle and enables the commuter to drive through toll plazas, without stopping for cash transactions. It is operated by the National Highway Authority of India (NHAI)."
+}

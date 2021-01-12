@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-18T14:26:34.000Z",
+  "updated_at": "2021-01-06T08:24:33.880Z",
+  "id": "02c7b059-3f14-45b4-8a1f-3200988802d2",
+  "labels": "current-affairs,2018-10-19",
+  "question": "Recently, it was in news that the Tigress Avni or T1 has been declared as man eater. Consider the following statements related to this:\r\n<ol>\r\n<li>The power to declare a tiger as man eater is vested with union ministry of environment and forests.</li>\r\n<li>Only deliberate attacks on humans will be considered for declaring the tiger as a man eater.</li>\r\n<li>The habitat of the Avni is Yavatmal forest range of Madhya Pradesh.</li>\r\n</ol>\r\nWhich of the above is / are correct statements?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The power to declare a tiger as man eater is vested with chief wildlife conservator of the state. Hence statement 1 is incorrect.\r\nStatement 2 is correct. Only when the attack is confirmed as deliberate one and there are instances of more than 1 deliberate attacks the tiger can be declared as Man eater.\r\nThe habitat of the Avni tiger is Yavatmal forest range. But it is located in Maharashtra not Madhya Pradesh. Hence statement 3 is wrong."
+}
