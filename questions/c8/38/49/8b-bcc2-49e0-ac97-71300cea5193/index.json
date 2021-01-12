@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-19T00:57:24.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "c838498b-bcc2-49e0-ac97-71300cea5193",
+  "labels": "current-affairs,2020-04-20",
+  "question": "What is the name of the bot project designed by the researchers at the Indian Institute of Technology (IIT), Ropar, to deliver medicines and food to COVID-19 patients in isolation wards?",
+  "option1": "CovidBot",
+  "option2": "WardBot",
+  "option3": "FoodBot",
+  "option4": "MedicoBot",
+  "option5": "",
+  "answer": "WardBot",
+  "explanation": "Researchers at the Punjab-based Indian Institute of Technology (IIT), Ropar has designed a project called ‘WardBot’, which can deliver medicines and food to COVID-19 patients in isolation wards without engaging frontline health workers.\r\nThe WardBot works on the principle of ‘Smart line following’ and it can move on a pre-defined path using the sensors. Being operated from a control room, the bot efficiently delivers to different beds and automatically sanitises its path."
+}

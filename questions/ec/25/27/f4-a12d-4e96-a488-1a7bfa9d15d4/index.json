@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T02:00:32.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "ec2527f4-a12d-4e96-a488-1a7bfa9d15d4",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following categories of persons became the citizens of India at its commencement i.e., on January, 1950?\r\n<ol>\r\n<li>persons domiciled in India</li>\r\n<li>persons migrated from Pakistan</li>\r\n<li>persons migrated from Pakistan but later returned</li>\r\n<li>persons of Indian origin residing outside India</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3 & 4",
+  "option3": "Only 2 & 4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "According to the Constitution, four categories of persons became the citizens of India at its commencement: (1) a person domiciled in India (b) persons migrated from Pakistan (c) persons migrated to Pakistan but later returned (d) persons of Indian origin residing outside India."
+}

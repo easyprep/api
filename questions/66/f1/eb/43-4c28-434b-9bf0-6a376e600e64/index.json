@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-16T03:31:10.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "66f1eb43-4c28-434b-9bf0-6a376e600e64",
+  "labels": "current-affairs,2020-04-17",
+  "question": "The term ‘Long Range Forecast (LRF)’, which was seen in news recently, is used to predict which parameter?",
+  "option1": "Inflation",
+  "option2": "Industrial Production",
+  "option3": "Monsoon Rainfall",
+  "option4": "Pandemic",
+  "option5": "",
+  "answer": "Monsoon Rainfall",
+  "explanation": "The India Meteorological Department (IMD) has recently released the first stage of Long Range Forecast (LRF) for south-west monsoon season.\r\nAs per its forecast, the southwest monsoon from June to September over India may be normal across the country. It also forecasted that the intensity of monsoon rainfall would be between 96 and 104 per cent of the long period average (LPA) of the country, which is 880 mm during 1961-2010."
+}

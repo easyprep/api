@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T13:17:27.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "4f427a96-c1a8-4b32-b705-7b6fff4f67a2",
+  "labels": "current-affairs,2020-04-22",
+  "question": "Which of the following are the conditions in which Chief Minister of a State is not eligible to vote in the Presidential election?",
+  "option1": "If he is a member of the lower house of the state legislature",
+  "option2": "If he is a member of the upper house of the state legislature",
+  "option3": "If he is a candidate",
+  "option4": "If he is yet to prove his majority on the floor of the house",
+  "option5": "",
+  "answer": "If he is a member of the upper house of the state legislature",
+  "explanation": "The Article 54 of the Constitution provides that the president shall be elected by an electoral college consisting the elected members of both the houses of Parliament and the elected member of the legislative assemblies of the state. Upper house of the state is not entitled to votes."
+}

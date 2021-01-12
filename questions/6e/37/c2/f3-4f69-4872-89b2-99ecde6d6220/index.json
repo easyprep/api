@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-04T01:11:30.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "6e37c2f3-4f69-4872-89b2-99ecde6d6220",
+  "labels": "current-affairs,2020-04-05",
+  "question": "What is the name of the mobile application launched by the Government of India, to enable people assess the risk of coronavirus infection?",
+  "option1": "Bharat Corona",
+  "option2": "India Fights",
+  "option3": "Aarogya Setu",
+  "option4": "Covid India",
+  "option5": "",
+  "answer": "Aarogya Setu",
+  "explanation": "The Government of India has recently launched a mobile application named ‘Aarogya Setu’, to enable people assess the risk of coronavirus infection.\r\nThe app is built in a public-private partnership mode and has been launched on both the Google Play Store and the Apple Store. The app assesses the risk of a person based on their interactions, by using Bluetooth technology and Artificial intelligence. The app will detect other devices with the same app installed near-by."
+}

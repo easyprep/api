@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-19T00:55:40.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "62faf86f-cac2-4fe0-9ccb-544bd08694d6",
+  "labels": "current-affairs,2020-04-20",
+  "question": "The Union Home ministry has flagged which video-conferencing software as vulnerable to cyber-crimes?",
+  "option1": "Skype",
+  "option2": "Zoom",
+  "option3": "Duo",
+  "option4": "Meet",
+  "option5": "",
+  "answer": "Zoom",
+  "explanation": "The Union Home ministry has red flagged popular video-conferencing software Zoom, as vulnerable to cyber-crimes.\r\nThe software has gained several million users as most of the professionals are working from home amid the Covid-19 outbreak. The Government has also directed Ministers and Central government officers not to use third party video conferencing applications and software. Cyber Coordination Centre (CyCord) under the MHA has released security guidelines for using the Zoom software."
+}

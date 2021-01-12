@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T13:17:27.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "751e441d-b422-4a6b-a39d-d1854bf9ac73",
+  "labels": "current-affairs,2020-04-22",
+  "question": "What is the minimum number of electors needed to be proposer of the presidential candidate?",
+  "option1": "Fifty electors",
+  "option2": "Fifty-five electors",
+  "option3": "Sixty electors",
+  "option4": "Sixty-five electors",
+  "option5": "",
+  "answer": "Fifty electors",
+  "explanation": "According the Constitution of India the nomination of a candidate for election to the office of President must be subscribed by at least 50 electors as proposers and 50 electors as seconders."
+}

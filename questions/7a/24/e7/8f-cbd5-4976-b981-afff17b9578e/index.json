@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-14T03:53:29.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "7a24e78f-cbd5-4976-b981-afff17b9578e",
+  "labels": "current-affairs,2020-04-15",
+  "question": "Apple recently partnered with which company to develop a technology solution for Contact Tracing activity?",
+  "option1": "Microsoft",
+  "option2": "IBM",
+  "option3": "Google",
+  "option4": "Facebook",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Technology giants Apple and Google recently announced a joint initiative to develop a technology solution for Contact Tracing activity, which will help the governments and health agencies to curb the spread of coronavirus.\r\nThe system which will use the Bluetooth technology, will identify people who are in contact with an infected person and provide alert message to the user. The companies also clarified that the system will be developed without compromising the privacy of the user."
+}

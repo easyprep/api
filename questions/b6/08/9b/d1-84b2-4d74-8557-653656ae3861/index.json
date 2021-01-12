@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-16T02:41:42.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "b6089bd1-84b2-4d74-8557-653656ae3861",
+  "labels": "current-affairs,2020-04-17",
+  "question": "Which Schedule of Indian Constitution mentions about the division of power between the Union and the States?",
+  "option1": "6th Schedule",
+  "option2": "7th Schedule",
+  "option3": "8th Schedule",
+  "option4": "9th Schedule",
+  "option5": "",
+  "answer": "7th Schedule",
+  "explanation": "The 7th Schedule divides the powers between the Union and the States in the form of 3 lists: List I (Union List), List II (State List) and List III (Concurrent List). The Union List contains 100 subjects, State List contains 61 subjects and Concurrent List contains 52 subjects."
+}

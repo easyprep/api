@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:04.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "3b280f63-d4c9-4a43-aa65-5eef839c1b47",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following statements is correct?<br />1. Supreme Court can not refuse to exercise its writ jurisdiction.<br />2. Supreme Court can refuse to exercise its writ jurisdiction.<br />3. High Court can not refuse to exercise its writ jurisdiction.<br />4. High Court can refuse to exercise its writ jurisdiction.",
+  "option1": "1 and 3",
+  "option2": "1 and 4",
+  "option3": "2 and 3",
+  "option4": "2 and 4",
+  "option5": "",
+  "answer": "1 and 4",
+  "explanation": "Under Article 32, the Supreme Court may not refuse to exercise its writ jurisdiction, as it stands to be the defender and the guarantor of the fundamental rights; whereas under Article 226, a remedy is discretionary and therefore, a high court may refuse to exercise its writ jurisdiction."
+}

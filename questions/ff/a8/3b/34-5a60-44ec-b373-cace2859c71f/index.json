@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-04T01:18:22.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "ffa83b34-5a60-44ec-b373-cace2859c71f",
+  "labels": "current-affairs,2020-04-05",
+  "question": "According to the recent report of the Asian Development Bank (ADB), what will be the growth rate of India in the current fiscal year?",
+  "option1": 0.05,
+  "option2": 0.045,
+  "option3": 0.04,
+  "option4": 0.035,
+  "option5": "",
+  "answer": 0.04,
+  "explanation": "Manila-based Asian Development Bank released its annual economic publication- Asian Development Outlook (ADO) 2020 recently. As per the report, India’s growth is to slow down to 4%, from the earlier estimate of 5% in the current fiscal year.\r\nWeak global demand and the containment efforts of the government amid Covid-19 are cited as the reasons for the slash. The report also estimates the country’s gross domestic product (GDP) to grow at 6.2% in FY22 provided full economic activity resumes from the second quarter of FY21."
+}

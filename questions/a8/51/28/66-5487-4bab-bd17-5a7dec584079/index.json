@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-14T04:03:09.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "a8512866-5487-4bab-bd17-5a7dec584079",
+  "labels": "current-affairs,2020-04-15",
+  "question": "Which technological company has launched a Braille keyboard called ‘TalkBack’, for assisting the visually challenged users?",
+  "option1": "Google",
+  "option2": "Apple",
+  "option3": "Xiaomi",
+  "option4": "Nokia",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Google has recently announced that it has launched a Braille keyboard named ‘TalkBack’, for assisting the visually challenged users.\r\nThis new type of keyboard is integrated directly into its Android operating system and the visually challenged users can use the keyboard easily without having to install any extra hardware. The keyboard uses a six-key layout, wherein each key represents one among the six Braille dots."
+}

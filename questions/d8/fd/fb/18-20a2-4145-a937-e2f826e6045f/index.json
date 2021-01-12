@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "d8fdfb18-20a2-4145-a937-e2f826e6045f",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following can issue a writ?<br />1) Supreme Court<br />2) District Court<br />3) Consumer Court<br />4) High Court<br />Select the correct option from the codes given below:",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "1 and 4",
+  "option5": "",
+  "answer": "1 and 4",
+  "explanation": "Supreme Court under Article 32 and High Court under Article 226 of the Constitution can issue writs of <em>habeas corpus</em>, mandamus, prohibition, <em>certiorari</em> and quo-warranto. Moreover, the Parliament under Article 32 can empower any other court to issue these writs."
+}

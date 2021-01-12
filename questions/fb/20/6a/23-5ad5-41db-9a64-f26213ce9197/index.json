@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:04.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "fb206a23-5ad5-41db-9a64-f26213ce9197",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following writs guarantee personal freedom?",
+  "option1": "Quo-Warranto",
+  "option2": "Prohibition",
+  "option3": "Habeas Corpus",
+  "option4": "Mandamus",
+  "option5": "",
+  "answer": "Habeas Corpus",
+  "explanation": "The writ of habeas corpus facilitates the guarantee of personal freedom by allowing courts to determine whether legal authorities have legitimately detained individuals. Freedom from arbitrary arrest and detention is a central part of the personal freedoms recognized through this writ. Habeas corpus is a Latin phrase that translates to \\\"that you have the body\\\"."
+}

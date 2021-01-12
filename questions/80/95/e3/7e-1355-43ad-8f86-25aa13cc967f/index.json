@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-06T14:51:38.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "8095e37e-1355-43ad-8f86-25aa13cc967f",
+  "labels": "current-affairs,2020-04-07",
+  "question": "What is the male literacy rate of Odisha (As per census 2011)?",
+  "option1": 0.8159,
+  "option2": 0.8365,
+  "option3": 0.8812,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0.8159,
+  "explanation": "The male literacy rate of Odisha (As per census 2011) is 81.59%. It was 75.35% in the year 2001."
+}

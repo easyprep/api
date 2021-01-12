@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-09T00:58:16.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "1530d0f6-2df8-4f49-9ff7-274fe5bfbc2e",
+  "labels": "current-affairs,2020-04-10",
+  "question": "Which instant messaging platform has limited the sharing of forwarded messages to one chat, amid the rise in fake news during coronavirus pandemic?",
+  "option1": "Telegram",
+  "option2": "WhatsApp",
+  "option3": "WeChat",
+  "option4": "Messenger",
+  "option5": "",
+  "answer": "WhatsApp",
+  "explanation": "Facebook-owned Instant messaging platform WhatsApp recently announced that it has limited the sharing of frequently forwarded messages to only one chat at a time.\r\nThis step has been taken to curb spreading of misinformation and fake news amid the coronavirus pandemic. WhatsApp also launched the WHO Coronavirus Health Alert service for people across the world and MyGov Corona Helpdesk in India in partnership with the Indian government."
+}

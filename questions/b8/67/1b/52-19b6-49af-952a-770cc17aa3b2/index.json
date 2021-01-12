@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T03:04:19.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "b8671b52-19b6-49af-952a-770cc17aa3b2",
+  "labels": "current-affairs,2020-04-22",
+  "question": "The units of a federation are known by various names in different countries. Which of the following are correctly matched?<br />         X                          Y<br />1. States                      US<br />2. Cantons                  Canada<br />3. Republics               Russia<br />4. Provinces               Switzerland<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2 & 4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "A federation is defined as a new state or a political system which is formed through a treaty or an agreement between the various units. These units of a federation are known by various names in different countries like states (as in US) or cantons (as in Switzerland) or provinces (as in Canada) or republics (as in Russia)."
+}

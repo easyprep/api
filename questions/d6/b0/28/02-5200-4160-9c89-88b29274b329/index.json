@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-31T01:45:58.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "d6b02802-5200-4160-9c89-88b29274b329",
+  "labels": "current-affairs,2020-04-01",
+  "question": "Which space company has received the contract of NASA to ferry cargo and supplies to the agency’s proposed lunar space station?",
+  "option1": "Blue Origin",
+  "option2": "SpaceX",
+  "option3": "Astra Space",
+  "option4": "Exos Aerospace",
+  "option5": "",
+  "answer": "SpaceX",
+  "explanation": "NASA has recently selected a new space capsule from Elon Musk-owned SpaceX to ferry cargo and supplies to be used in its proposed lunar space station.\r\nThe Lunar space station aims to build a permanent post on the moon and mount future missions to Mars. SpaceX will get a portion of a $7 billion NASA contract to send ‘Dragon-XL’ spacecraft by using its Falcon Heavy rocket."
+}

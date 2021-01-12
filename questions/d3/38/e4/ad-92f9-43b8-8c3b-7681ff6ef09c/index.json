@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-16T03:28:18.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "d338e4ad-92f9-43b8-8c3b-7681ff6ef09c",
+  "labels": "current-affairs,2020-04-17",
+  "question": "TLTRO route, which was making news recently, is associated with which institution of India?",
+  "option1": "Securities and Exchange Board of India",
+  "option2": "National Highway Authority of India",
+  "option3": "Reserve Bank of India",
+  "option4": "Airport Authority of India",
+  "option5": "",
+  "answer": "Reserve Bank of India",
+  "explanation": "The Reserve Bank of India has recently announced that the banks that have availed funds under the first tranche of the targeted long-term repo operations (TLTRO) route, will have to deploy the funds raised within 30 days.\r\nIf the banks fail to deploy funds within the stipulated time from the auction, they shall have to pay a penal interest of an additional 200 basis points (bps)in the policy repo rate, for the number of days these funds are not deployed."
+}

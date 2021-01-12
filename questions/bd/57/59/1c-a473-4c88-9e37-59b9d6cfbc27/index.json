@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-29T01:07:27.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "bd57591c-a473-4c88-9e37-59b9d6cfbc27",
+  "labels": "current-affairs,2020-03-30",
+  "question": "Which technological firm launched a COVID-19 chatbot on its messaging platform in partnership with the Union Health Ministry and MyGov?",
+  "option1": "Google",
+  "option2": "Facebook",
+  "option3": "Microsoft",
+  "option4": "Telegram",
+  "option5": "",
+  "answer": "Facebook",
+  "explanation": "Technology major Facebook recently launched a COVID-19 chatbot on its messaging platform, Facebook Messenger Chatbot.\r\nThe chatbot has been launched in partnership with the Union Health Ministry of India and MyGov, to create awareness around the pandemic in the country. This helpdesk chatbot will provide reliable information about the disease and demystify the rumours and fake news related to the pandemic."
+}

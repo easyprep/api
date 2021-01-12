@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-18T02:54:02.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "857e10ef-c0f3-4b28-bf6b-4b6b21dc7946",
+  "labels": "current-affairs,2020-04-19",
+  "question": "The term ‘Reverse Transcription Polymerase Chain Reaction’, which is seen in news often, is a process used for which purpose?",
+  "option1": "Preserving Agricultural Products",
+  "option2": "Testing Coronavirus",
+  "option3": "Checking Temperature",
+  "option4": "Discovering vaccine",
+  "option5": "",
+  "answer": "Testing Coronavirus",
+  "explanation": "In India, the Reverse Transcription Polymerase Chain Reaction (RT-PCR) test has been used for testing the SARS-CoV-2 virus or Corona virus. It is an expensive test as it is performed using imported machines and it takes over 5 hours to provide result after sample has been taken.\r\nRecently, Scientists from the Sree Chitra Tirunal Institute for Medical Sciences and Technology, Thiruvananthapuram has developed a diagnostic kit Chitra Gene LAMP-N, which uses RT-LAMP technique. It is less expensive and can give results in less than two hours."
+}

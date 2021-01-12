@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-28T00:49:05.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "2b0eaa18-d2f5-4903-a5dd-1ad2e606b565",
+  "labels": "current-affairs,2020-03-29",
+  "question": "What is the name of the mobile application launched by the Indian government to track the risk of coronavirus infection?",
+  "option1": "Corona Suraksha",
+  "option2": "Corona Kavach",
+  "option3": "Corona Raksh",
+  "option4": "Corona Sevak",
+  "option5": "",
+  "answer": "Corona Kavach",
+  "explanation": "The Government of India has launched a mobile application to track the risk of coronavirus infection called ‘Corona Kavach’.\r\nThe application is jointly developed by the Union Ministry of Electronics and Information Technology and the Union Ministry of Health and Family Welfare. It uses the person’s location to assess if they are in the high risk geographical zone. It is now available in beta version in the Google Play Store."
+}

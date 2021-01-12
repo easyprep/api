@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-01T03:07:37.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "fc437c76-db3f-4fa6-97fc-7f9c794b568c",
+  "labels": "current-affairs,2020-04-02",
+  "question": "What is the GDP growth estimate of India for the financial year 2020-21, as per India Ratings (Ind-Ra)?",
+  "option1": 0.025,
+  "option2": 0.036,
+  "option3": 0.041,
+  "option4": 0.05,
+  "option5": "",
+  "answer": 0.036,
+  "explanation": "Domestic rating agency, India Ratings and Research (Ind-Ra) recently announced that the Gross domestic product (GDP) forecast for the financial year 2020-21 is estimated at 3.6 per cent. \r\nThe agency had earlier estimated that India would grow at 5.5 per cent in 2020-21. The main reason for the big reduction in growth is said to be the Covid-19 outbreak and the resultant nation-wide lockdown imposed, which reduced all economic activities."
+}

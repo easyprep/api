@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "13d81689-3329-4fc0-954a-a192938c90b5",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following statements is true regarding territorial jurisdiction of Courts in issuing writs?<br />1. Supreme Court has wider territorial jurisdiction than High Court<br />2. High Court has wider territorial jurisdiction than Supreme Court<br />3. Both Supreme Court and High Court have equal territorial jurisdiction<br />4. Neither Supreme Court nor High Court has any writ jurisdiction",
+  "option1": "Statement 1",
+  "option2": "Statement 2",
+  "option3": "Statement 3",
+  "option4": "Statement 4",
+  "option5": "",
+  "answer": "Statement 1",
+  "explanation": "The Supreme Court can issue writs against a person or government throughout the territory of India. High Court, on the other hand, can issue writs only against a person residing or against a government or authority located within its territorial jurisdiction. Thus, the territorial jurisdiction of the Supreme Court  is wider than that of a High Court in issuing writs."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-06T14:51:37.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "f38cec8e-fd73-487b-9275-eb2cb80310b7",
+  "labels": "current-affairs,2020-04-07",
+  "question": "As per the census 2011, what is the population growth rate of Odisha?",
+  "option1": 0.1405,
+  "option2": 0.1713,
+  "option3": 0.1922,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0.1405,
+  "explanation": "The population growth rate of Odisha is 14.05% (According to the census 2011). The rural and urban growth rate is 11.8% and 26.9% respectively."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-18T17:14:36.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "6a1a3325-069c-417b-86ba-0574a0c374c1",
+  "labels": "current-affairs,2020-04-19",
+  "question": "How much majority is required to amend federal provisions in the Constitution of India?",
+  "option1": "Simple majority of each house of Parliament",
+  "option2": "Special majority of each house of Parliament",
+  "option3": "One-fourth majority of each house of Parliament",
+  "option4": "Special majority of each house of Parliament plus ratification by half of the states with simple majority",
+  "option5": "",
+  "answer": "Special majority of each house of Parliament plus ratification by half of the states with simple majority",
+  "explanation": "If a bill seeks to amend the federal provisions of the Constitution of India it must passed by both the houses of Parliament with special majority and must also be ratified by legislatures of half of the states with simple majority."
+}

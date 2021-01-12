@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "8c249314-a201-45a7-940b-4e893e533783",
+  "labels": "current-affairs,2020-04-18",
+  "question": "In context with the writ jurisdiction of Supreme Court and High Courts, which of the following is a correct statement?",
+  "option1": "Supreme Court's writ jurisdiction is broader than the High Court.",
+  "option2": "Supreme Court's writ jurisdiction is narrower than the High Court.",
+  "option3": "Both Supreme Court and High Court have equal powers in issuing writs.",
+  "option4": "Supreme Court can issue writs on only Fundamental Rights, while High Courts can issue writs on only ordinary legal rights",
+  "option5": "",
+  "answer": "Supreme Court's writ jurisdiction is narrower than the High Court.",
+  "explanation": "The Supreme Court can issue writs only for the enforcement of fundamental rights whereas a high court can issue writs not only for the enforcement of Fundamental Rights but also for the enforcement of an ordinary legal right. Thus, the writ jurisdiction of the Supreme Court is narrower than that of the high court."
+}

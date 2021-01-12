@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-06T14:51:37.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "c9edce6e-9e6b-41af-8dc3-6ae18f3cd42c",
+  "labels": "current-affairs,2020-04-07",
+  "question": "As per the census 2011, the total population of Odisha is what percent of the total population of India?",
+  "option1": 0.0232,
+  "option2": 0.0347,
+  "option3": 0.0456,
+  "option4": 0.0525,
+  "option5": "",
+  "answer": 0.0347,
+  "explanation": "The total population of Odisha is 3.47% (4,19,74,218 )."
+}

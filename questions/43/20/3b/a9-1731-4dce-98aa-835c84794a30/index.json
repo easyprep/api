@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-10T03:26:16.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "43203ba9-1731-4dce-98aa-835c84794a30",
+  "labels": "current-affairs,2020-04-11",
+  "question": "According to the Digidhan Dashboard, which was the most popular means of digital transaction in the Financial year 2019-20?",
+  "option1": "BHIM UPI",
+  "option2": "Debit cards",
+  "option3": "Prepaid instruments",
+  "option4": "Internet Banking",
+  "option5": "",
+  "answer": "BHIM UPI",
+  "explanation": "According to the Digidhan Dashboard, launched by the Electronics and IT Ministry, the total transactions through the digital channels reached ₹4,116.74 crore in 2019-20, which is an increase by over 31 per cent from the last year.\r\nAs per the data, BHIM UPI has been the most popular means, with 30.19 per cent share in digital transactions amounting to ₹1,242.98 crore of payment. It was followed by prepaid instruments and debit cards in the second and third place."
+}

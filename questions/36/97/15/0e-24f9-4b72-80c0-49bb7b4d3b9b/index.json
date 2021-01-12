@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-01T03:19:14.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "3697150e-24f9-4b72-80c0-49bb7b4d3b9b",
+  "labels": "current-affairs,2020-04-02",
+  "question": "As per the ‘World Cyber Protection Week Survey’ by the firm Acronis, what percentage of companies suffered data loss last year?",
+  "option1": 0.12,
+  "option2": 0.22,
+  "option3": 0.32,
+  "option4": 0.42,
+  "option5": "",
+  "answer": 0.42,
+  "explanation": "Switzerland based Technology company Acronis recently unveiled the inaugural edition of ‘2020 World Cyber Protection Week Survey’.\r\nAs per the survey, 42% of companies experienced a data loss event that resulted in interruption last year. It also revealed that traditional strategies of data protection can no longer keep up with the modern technology needs of individuals and organizations."
+}

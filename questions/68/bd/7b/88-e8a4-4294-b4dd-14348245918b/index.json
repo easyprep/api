@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "68bd7b88-e8a4-4294-b4dd-14348245918b",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Who has been given the power to enforce the Fundamental Rights by the Constitution of India?",
+  "option1": "Parliament",
+  "option2": "President",
+  "option3": "Supreme Court and High Courts",
+  "option4": "All Courts of India",
+  "option5": "",
+  "answer": "Supreme Court and High Courts",
+  "explanation": "The Constitution grants power of Judicial Review to the Supreme Court and High Court  under Article 13 in case of violation of Fundamental Rights. The Supreme Court and High Court can declare any law passed  by the legislature unconstitutional if it is in contravention to the Fundamental Rights."
+}

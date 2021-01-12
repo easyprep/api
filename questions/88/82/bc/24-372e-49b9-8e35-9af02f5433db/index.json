@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:04.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "8882bc24-372e-49b9-8e35-9af02f5433db",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following statements are correct with respect to Fundamental Rights?<br />1. They ensure social, economic and political justice<br />2. They are enshrined in Part III of the Constitution <br />3. They are non-justiciable<br />4. They are a guarantee against state action",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3 & 4",
+  "option3": "Only 2 and 4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Only 2 and 4",
+  "explanation": "The Fundamental Rights are guaranteed by the Constitution of India against state again. They are justiciable in nature. Political, economic and social justice is ensured by Directive Principles of State Policy not Fundamental Rights."
+}

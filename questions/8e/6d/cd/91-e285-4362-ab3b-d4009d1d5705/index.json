@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T19:32:10.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "8e6dcd91-e285-4362-ab3b-d4009d1d5705",
+  "labels": "current-affairs,2020-04-22",
+  "question": "Which of the following statements are incorrect regarding election to Lok Sabha?",
+  "option1": "The electoral rolls are prepared under the direction and control of President",
+  "option2": "The elections are on the basis of adult suffrage",
+  "option3": "On the request of Election Commission the President is required to make available such staff as me be necessary for discharge of functions",
+  "option4": "The Election Commission conducts the election",
+  "option5": "",
+  "answer": "The electoral rolls are prepared under the direction and control of President",
+  "explanation": "According to Article 326 the elections are held on the basis of adult suffrage.  Article 324 deals with superintendence, direction and control of elections to be vested in the Election Commission. And electoral rolls are prepared under the direction of Election Commission not President."
+}

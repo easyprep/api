@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-06T14:51:38.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "aff5d5ff-2887-4527-b94d-9b7e8284f7c5",
+  "labels": "current-affairs,2020-04-07",
+  "question": "What is the female literacy rate of Odisha (As per census 2011)?",
+  "option1": 0.5912,
+  "option2": 0.6123,
+  "option3": 0.6401,
+  "option4": 0.6851,
+  "option5": "",
+  "answer": 0.6401,
+  "explanation": "The female literacy rate of Odisha (As per census 2011) is 64.01%. It was 50.51% in the year 2001."
+}

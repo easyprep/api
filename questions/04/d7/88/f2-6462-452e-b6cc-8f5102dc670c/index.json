@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-06T14:51:37.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "04d788f2-6462-452e-b6cc-8f5102dc670c",
+  "labels": "current-affairs,2020-04-07",
+  "question": "Which districts of Odisha has the highest population density as per the 2011 census?",
+  "option1": "Cuttack",
+  "option2": "Balasore",
+  "option3": "Puri",
+  "option4": "Khordha",
+  "option5": "",
+  "answer": "Khordha",
+  "explanation": "Khordha district has the highest population density (800) as per the 2011 census. The lowest population density found in the Kandhamal district."
+}

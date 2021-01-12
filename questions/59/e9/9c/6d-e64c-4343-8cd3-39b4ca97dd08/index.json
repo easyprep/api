@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T18:25:23.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "59e99c6d-e64c-4343-8cd3-39b4ca97dd08",
+  "labels": "current-affairs,2020-04-22",
+  "question": "The total number of ministers, including the Prime Minister, in the Council of Ministers shall not exceed?",
+  "option1": 0.05,
+  "option2": 0.1,
+  "option3": 0.15,
+  "option4": 0.2,
+  "option5": "",
+  "answer": 0.15,
+  "explanation": "According to the Constitution of India the total number of ministers, including the Prime Minister, in the Council of Ministers shall not exceed 15% of the total strength of the Lok Sabha. This provision was added by the 91st Amendment Act of 2003."
+}

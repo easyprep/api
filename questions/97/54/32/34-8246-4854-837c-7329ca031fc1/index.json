@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-05T20:09:50.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "97543234-8246-4854-837c-7329ca031fc1",
+  "labels": "current-affairs,2020-04-06",
+  "question": "As per the census conducted in 2011, what is the literacy rate of Odisha?",
+  "option1": 0.74,
+  "option2": 0.7287,
+  "option3": 0.7563,
+  "option4": 0.6837,
+  "option5": "",
+  "answer": 0.7287,
+  "explanation": "As per the census conducted in 2011, the literacy rate of Odisha is 72.87%. Literacy rate of India is 74.04%"
+}

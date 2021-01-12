@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T03:04:19.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "73ea6c85-ff65-46ea-a598-ecd49149182e",
+  "labels": "current-affairs,2020-04-22",
+  "question": "Who is the head of the government according to the Constitution of India?",
+  "option1": "Chief Justice of India",
+  "option2": "President",
+  "option3": "Vice President",
+  "option4": "Prime Minister",
+  "option5": "",
+  "answer": "Prime Minister",
+  "explanation": "According to the Constitution of India the President is the nominal executive while the Prime Minister is the real executive. Thus, the President is head of the State, while the Prime Minister is head of the government of India."
+}

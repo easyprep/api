@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-06T14:51:38.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "b4ef64b7-1053-4295-a558-c2a9f9b281c4",
+  "labels": "current-affairs,2020-04-07",
+  "question": "As per the census 2011, what is the rural literacy rate of Odisha?",
+  "option1": 0.7022,
+  "option2": 0.7312,
+  "option3": 0.7533,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0.7022,
+  "explanation": "As per the census 2011, the rural literacy rate of Odisha is 70.22%. Urban literacy is 85.75%"
+}

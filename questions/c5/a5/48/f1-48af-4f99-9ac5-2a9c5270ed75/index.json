@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:04.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "c5a548f1-48af-4f99-9ac5-2a9c5270ed75",
+  "labels": "current-affairs,2020-04-18",
+  "question": "<p>Which of the following writs is issued against judicial and quasi-judicial authorities?\r\n<ol>\r\n<li>Certiorari</li>\r\n<li>Prohibition</li>\r\n<li>Habeas Corpus</li>\r\n</ol>\r\n<p>Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The writ of prohibition can be issued only against judicial and quasi-judicial authorities. It is not available against administrative authorities, legislative bodies, and private individuals or bodies. The writ of certiorari, on the other hand, can be issued against judicial and quasi-judicial authorities; and even against administrative authorities."
+}

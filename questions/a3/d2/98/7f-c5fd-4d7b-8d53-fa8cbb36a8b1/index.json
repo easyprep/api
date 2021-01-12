@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "a3d2987f-c5fd-4d7b-8d53-fa8cbb36a8b1",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following Fundamental Right cannot be suspended even during National Emergency?",
+  "option1": "Right to life and personal liberty",
+  "option2": "Right to move freely through out the territory of India",
+  "option3": "Right to reside and settle in any part of the country",
+  "option4": "Right to carry on any profession or business",
+  "option5": "",
+  "answer": "Right to life and personal liberty",
+  "explanation": "If the National Emergency is declared on the ground of war or external aggression the fundamental rights under Article 19 are automatically suspended. However, the rights of life and liberty (Article 21) cannot be suspended even during National Emergency."
+}

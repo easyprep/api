@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-18T17:14:37.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "0e0f4526-0358-4652-babd-e50340c021b4",
+  "labels": "current-affairs,2020-04-19",
+  "question": "Which of the following statements are correct regarding Constitutional Amendment Bill?<br />1. The President must give his assent to a Constitutional Amendment Bill<br />2. In case of disagreement between two houses of Parliament there is a provision for joint sitting<br />Select the correct statement  from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "A Constitutional Amendment Bill must be passed by each house of Parliament separately. In case if there is any disagreement between the two Houses, there is no provision for holding a joint sitting of the two Houses in the Constitution for the purpose of deliberation and passage of the bill."
+}

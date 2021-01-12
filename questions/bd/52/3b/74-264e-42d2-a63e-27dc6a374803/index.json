@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-15T03:20:33.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "bd523b74-264e-42d2-a63e-27dc6a374803",
+  "labels": "current-affairs,2020-04-16",
+  "question": "What is the name of the design software system jointly launched by Atal Innovation Mission, NITI Aayog and National Informatics Centre (NIC)?",
+  "option1": "SoftCAD",
+  "option2": "CollabCAD",
+  "option3": "NetCAD",
+  "option4": "AtalCAD",
+  "option5": "",
+  "answer": "CollabCAD",
+  "explanation": "Atal Innovation Mission, NITI Aayog and National Informatics Centre (NIC) jointly launched a collaborative software system called ‘CollabCAD’.\r\nThe system provided a comprehensive engineering solution from two-dimensional drafting to three-dimensional product design. This software is aimed at enabling the students of Atal Tinkering Labs (ATLs) to create 3D designs, models and printing."
+}

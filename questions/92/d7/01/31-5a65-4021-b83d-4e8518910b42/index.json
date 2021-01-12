@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T03:04:19.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "92d70131-5a65-4021-b83d-4e8518910b42",
+  "labels": "current-affairs,2020-04-22",
+  "question": "Which of the following is not in the domain of Union government?",
+  "option1": "Defence",
+  "option2": "Foreign affairs",
+  "option3": "Communication",
+  "option4": "Health",
+  "option5": "",
+  "answer": "Health",
+  "explanation": "The Union government of India deals with the matters of national importance such as defence, foreign affairs, currency, communication etc. The state governments look after the matters of regional and local importance like public order, agriculture, health, local government etc."
+}

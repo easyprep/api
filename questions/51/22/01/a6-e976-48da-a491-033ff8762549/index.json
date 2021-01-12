@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T19:32:10.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "512201a6-e976-48da-a491-033ff8762549",
+  "labels": "current-affairs,2020-04-22",
+  "question": "What is the criteria for allocation of seats in Lok Sabha?",
+  "option1": "Area",
+  "option2": "Language",
+  "option3": "Poverty",
+  "option4": "Population",
+  "option5": "",
+  "answer": "Population",
+  "explanation": "Each state is divided into territorial constituency for the purpose of election to Lok Sabha. The division is done in such a manner that the ratio between the population of each constituency and the number of sets allotted to it is so far as practicable same throughout the state."
+}

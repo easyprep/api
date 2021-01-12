@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:04.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "edd27aeb-2321-4d8b-869d-3a840cb7e9a8",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following writs issue a command to a public official asking him to perform his official duties that he has failed or refused to perform?",
+  "option1": "Certiorari",
+  "option2": "Mandamus",
+  "option3": "Habeas Corpus",
+  "option4": "Quo-Warranto",
+  "option5": "",
+  "answer": "Mandamus",
+  "explanation": "Mandamus literally means ‘we command’. It is issued to command a public official to perform his official duties that he has not performed. It can be issued against any public body, an inferior court, a corporation, a tribunal or the government."
+}

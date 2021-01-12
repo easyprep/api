@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-17T13:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:51.500Z",
+  "id": "2fc6bce6-59ba-492f-8e94-0fa631327d88",
+  "labels": "current-affairs,2020-04-18",
+  "question": "Which of the following writs means ‘to be informed’?",
+  "option1": "Quo-Warranto",
+  "option2": "Prohibition",
+  "option3": "Mandamus",
+  "option4": "Certiorari",
+  "option5": "",
+  "answer": "Certiorari",
+  "explanation": "Certiorari means ‘to be certified’ or ‘to be informed’. It is issued by a higher court to a lower court asking to transfer a<br />case pending with the latter to itself or to squash the order of the latter in a case. It is usually issued in case of excess of jurisdiction or lack of jurisdiction exercised by the lower court, or an error of law."
+}
