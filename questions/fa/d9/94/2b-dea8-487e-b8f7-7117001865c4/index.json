@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-25T23:20:53.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "fad9942b-dea8-487e-b8f7-7117001865c4",
+  "labels": "current-affairs,2019-12-26",
+  "question": "What is the recently tested ‘Sovereign Runet’?",
+  "option1": "Russian Domestic Internet",
+  "option2": "Russian Missile",
+  "option3": "Russian navigation system",
+  "option4": "Russian Launch Vehicle",
+  "option5": "",
+  "answer": "Russian Domestic Internet",
+  "explanation": "Sovereign Runet is the domestic internet being developed and tested by Russia, improving its cybersecurity. The system allows the Russian government to control the points of connection between the Russian internet and the global network. This lets the state control what its citizens can access on the internet."
+}

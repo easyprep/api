@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T21:51:58.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "cc9b9bee-5a5b-4203-b5bb-98ba38514344",
+  "labels": "current-affairs,2019-12-28",
+  "question": "With reference to the recent use of ‘Bti’ by Africa to tackle malaria, consider the following statements:<br />\r\n<ol>\r\n<li>Bti is a non- persistent organic pesticide.</li>\r\n<li>It targets the larval stage of the mosquitoes.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nBti is a naturally occurring soil bacteria. It stands for Bacillus thuringiensis israelensis. The WHO AFRO II project in Eswatini is experimenting with these bacteria to tackle malaria in the small African country. This is to reduce and eventually eliminate the use of DDT as it’s a harmful organic pollutant.\r\n <strong>Statement 2 is correct:</strong>\r\nThe Bti bacteria targets and kills the larval stage of the mosquitoes. The bacteria is being used for neutralising Anopheles mosquito larvae even before they reach adulthood- the stage known for spreading malarial parasites. The strategic bio- larvicide will serve the dual purpose of curbing malaria and reducing use of harmful pesticides."
+}

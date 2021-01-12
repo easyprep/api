@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T23:19:11.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "9a61bb35-b0d7-4efb-94de-bacc2d640992",
+  "labels": "current-affairs,2020-01-09",
+  "question": "What will the GDP growth rate of India for FY20, as estimated by the State Bank of India’s economic research department?",
+  "option1": 0.056,
+  "option2": 0.054,
+  "option3": 0.048,
+  "option4": 0.046,
+  "option5": "",
+  "answer": 0.046,
+  "explanation": "The State Bank of India’s economic research department has lowered its projection for the GDP growth rate of India for FY 20 to 4.6%. Earlier it has projected the GDP rate to be 5%.<br />The research department also estimated that the GDP of India would be below 6% for two successive years. The CSO also recently estimated the GDP growth of FY20 to be 5%, in lines with the Reserve Bank of India. But the RBI projected 5.9 – 6.3% growth rate for the next fiscal."
+}

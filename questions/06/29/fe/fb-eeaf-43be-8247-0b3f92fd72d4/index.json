@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "0629fefb-eeaf-43be-8247-0b3f92fd72d4",
+  "labels": "current-affairs,2020-01-20",
+  "question": "Cloud Computing applications can be accessed by__?",
+  "option1": "Special Protocols given by Cloud Service Providers",
+  "option2": "Common Internet protocols and network standards",
+  "option3": "Government controlled Network standards",
+  "option4": "Privately developed protocols and standards",
+  "option5": "",
+  "answer": "Common Internet protocols and network standards",
+  "explanation": "Cloud Computing applications are accessed by common Internet protocols and networking standards."
+}

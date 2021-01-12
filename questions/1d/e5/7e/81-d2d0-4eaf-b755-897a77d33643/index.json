@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-01T04:14:15.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "1de57e81-d2d0-4eaf-b755-897a77d33643",
+  "labels": "current-affairs,2020-01-02",
+  "question": "The government had recently launched central Equipment Identity Register portal. It operates under which department?",
+  "option1": "Department of Science and Technology",
+  "option2": "Department of Telecom",
+  "option3": "Department of Biotechnology",
+  "option4": "Department of Public Enterprise",
+  "option5": "",
+  "answer": "Department of Telecom",
+  "explanation": "The Indian government, on December 2019, had launched the Central Equipment Identity Register Portal to block and trace mobile phones. It has the database of the International Mobile Equipment Identity number of the blacklisted mobile phones."
+}

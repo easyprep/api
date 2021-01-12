@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-17T16:51:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "a454e8a3-fa19-4dbf-b0e3-5d684a67a512",
+  "labels": "current-affairs,2020-01-18",
+  "question": "In context of the recent appointment of a new deputy governor to the RBI, consider the following statements:<br />\r\n<ol>\r\n<li>Deputy governor is one of the official directors.</li>\r\n<li>The ministry of personnel, public grievances and pensions is responsible for proposing the appointment of non- official directors to the central board of RBI.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe central board of RBI is responsible for the general direction and superintendence of the apex bank. It can have a maximum strength of 21 members of which 5 are official directors. The official directors are the RBI Governor and 4 Deputy Governors.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe appointment of the non- official directors is by the political executive. The appointment is based on the proposals from the ministry of finance. The department of financial services under this ministry is responsible for the proposals. The proposals need to be approved by Appointments Committee of the Cabinet."
+}

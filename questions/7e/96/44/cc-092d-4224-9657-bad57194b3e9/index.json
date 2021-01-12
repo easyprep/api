@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-03T03:01:27.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "7e9644cc-092d-4224-9657-bad57194b3e9",
+  "labels": "current-affairs,2020-01-04",
+  "question": "In reference to the recent launch of the integrated helpline number ‘139’, consider the following statements:<br />\r\n<ol>\r\n<li>It was launched by the Indian Railways.</li>\r\n<li>It will provide assistance related to case of theft and criminal activities.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Indian Railways launched an integrated helpline number for grievance redressal of its passengers. Previously, the IR had multiple helplines for each type of service. These have been integrated under a common helpline ‘139’ for improving the ease of travelling.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe issues related to theft and criminal activities are to be addressed by the current helpline, ‘182’. This helpline has not been integrated with the ‘139’ helpline. Possession of smart phone is not necessary for availing the services through the 139 helpline- any type of mobile phone can be used."
+}

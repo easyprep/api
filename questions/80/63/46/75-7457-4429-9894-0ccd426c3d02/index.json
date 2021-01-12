@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-25T04:58:26.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "80634675-7457-4429-9894-0ccd426c3d02",
+  "labels": "current-affairs,2019-12-26",
+  "question": "In light of the committee of officers at the centre and state calling for a widening of Tax Deduction at Source, consider the following statements about TDS:<br />\r\n<ol>\r\n<li>TDS provision is included in the IT Act.</li>\r\n<li>The onus of depositing the deducted TDS with the government lies on the deductee.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe TDS is an advance tax that is collected from certain kinds of income. The Income Tax Act provides that the person or company paying a certain kind of payment beyond a certain threshold, a tax amount is deducted and deposited with the government. It is a tool used to improve the revenue collection for the government.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe onus of deducting and depositing the TDS amount from the specified income lies with the deductor. Deductor is the person or company who makes the payment. The receiver of the income is called deductee. He/ she will receive the remaining amount."
+}

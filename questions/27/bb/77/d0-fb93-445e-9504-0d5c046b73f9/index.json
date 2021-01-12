@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T05:06:49.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "27bb77d0-fb93-445e-9504-0d5c046b73f9",
+  "labels": "current-affairs,2019-12-30",
+  "question": "In context of the recently launched SnowEx campaign by NASA, consider the following statements:<br />\r\n<ol>\r\n<li>It is a seasonal campaign.</li>\r\n<li>It is to conduct snowpack measurements in India.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe SnowEx is a seasonal campaign of NASA. It is a 5 years program started in 2016- 2017. It seeks to determine the amount of water contained in the snowpacks and also its characteristics. It seeks to close the understanding gaps in remote sensing in snow covered terrain.\r\n<strong>Statement 2 is incorrect:    </strong>\r\nThe SnowEx campaign is to focus on the North American region geographically. It is to make use of various tools ranging from aerial instruments like SAR and also ground based instruments and field works to develop strategies for mapping the SWE globally."
+}

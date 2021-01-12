@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T01:01:56.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "20f58b7b-eb8c-4cc4-b4bc-d76af90a7338",
+  "labels": "current-affairs,2019-12-28",
+  "question": "In light of recent news coverage about the sighting of <em>Anser indicus</em>, consider the following statements:<br />\r\n<ol>\r\n<li>It is a migratory bird.</li>\r\n<li>It is an endangered species.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\n<em>Anser indicus</em>, which is commonly known as the Bar Headed Goose is a migratory bird. They are noted for migrating southwards from countries like Mongolia. They are capable of flying at high altitudes over the Himalayan Ranges to reach their winter grounds.\r\n<strong>Statement 2 is incorrect:</strong>\r\nBar headed goose is classified as a species of ‘Least Concern’ by the IUCN. It was recently spotted in the wetlands of Kerala. The bird breeds in northern countries and migrates to southern countries like India during the winter."
+}

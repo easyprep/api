@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-07T02:49:29.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "013dc363-c690-42c8-b192-8df915617712",
+  "labels": "current-affairs,2020-01-08",
+  "question": "In light of the recent discussions about ISRO’s 2019 successes, consider the following statements about Kalamsat- V2:<br />\r\n<ol>\r\n<li>It is the world’s lightest satellite to be put into orbit.</li>\r\n<li>It is an imaging satellite.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nKalamsat- V2 was recently discussed about as one of the successes of ISRO in 2019. It is the world’s lightest satellite. It weighs 1.26kg and was launched in January from the Sriharikota space centre in Andhra Pradesh. A lighter satellite, weighing 64g, was put into sub-orbit in 2017- which doesn’t get into orbit.\r\n<strong>Statement 2 is incorrect:</strong>\r\nKalamsat- V2 is a student satellite. It is meant to serve as a communication satellite for ham radio transmission. Ham radio is a wireless communication system, usually used by amateurs for non- commercial purposes. The satellite was developed by Chennai based Space Kidz India."
+}

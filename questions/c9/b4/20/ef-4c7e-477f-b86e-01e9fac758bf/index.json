@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-07T03:14:48.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "c9b420ef-4c7e-477f-b86e-01e9fac758bf",
+  "labels": "current-affairs,2020-01-08",
+  "question": "In reference to the recent introduction of the Elang Hitam drone, consider the following statements:<br />\r\n<ol>\r\n<li>It was unveiled by Indonesia.</li>\r\n<li>The drone is strike capable.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Elang Hitam (meaning the black eagle) is an unmanned aerial vehicle recently unveiled by Indonesia. It is the country’s first indigenously develop drone of its kind. It was developed by state owned aerospace firm PT Dirgantara/ PTDI. The drone is to be used for tracking forest fires, piracy and smuggling activities in the vicinity.\r\n<strong>Statement 2 is correct:</strong>\r\nThe Elang Hitam is a strike capable UAV. It belongs to the MALE or Medium Altitude Long Endurance drones. It can reach an altitude of 20,000 feet and speeds of 235 kmph. It can stay in flight for up to 30 hours."
+}

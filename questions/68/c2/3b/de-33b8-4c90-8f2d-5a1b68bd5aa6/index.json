@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-10T10:03:32.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "68c23bde-33b8-4c90-8f2d-5a1b68bd5aa6",
+  "labels": "current-affairs,2020-01-11",
+  "question": "With respect to the recent H5N1 viral outbreak in Chhattisgarh, consider the following statements:<br />\r\n<ol>\r\n<li>H5N1 is epizootic but not panzootic.</li>\r\n<li>The virus is mostly spread through cough and sneeze.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correc",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe H5N1 virus is both epizootic and panzootic. Epizootic event is analogous to an epidemic event in humans. The difference is that an epizootic event spreads among non-human population. A panzootic event is where a disease spreads among different species over a large area.\r\n <strong>Statement 2 is incorrect:</strong>\r\nThe H5N1 virus is mostly spread through handling of infected poultry and its products. It is very rarely spread from human to human. The virus causes the infamous bird flu- primarily an avian disease. The outbreak in Chhattisgarh saw the culling of more than 15,000 chicken and destruction of 30,000 eggs."
+}

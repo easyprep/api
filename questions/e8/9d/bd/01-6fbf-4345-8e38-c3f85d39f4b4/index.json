@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-14T04:31:52.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e89dbd01-6fbf-4345-8e38-c3f85d39f4b4",
+  "labels": "current-affairs,2020-01-15",
+  "question": "The Copernicus Program recently identified 2019 to be the 2<sup>nd</sup> warmest year globally. With reference to this, consider the following statements:<br />\r\n<ol>\r\n<li>The Copernicus Program is run by NASA.</li>\r\n<li>The space component of the program are the Sentinel satellites.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe Copernicus Program is run by the European Space Agency in partnership with the European Commission. It is an Earth monitoring program established in 2014. It is aimed at collecting information for environmental management, civil security and addressing climate change.\r\n<strong>Statement 2 is correct:</strong>\r\nThe space component of the Copernicus Program are the Sentinel satellites. These missions monitor the atmosphere, land and the oceans. There are 7 missions under the Sentinel program and each mission is composed of a constellation of 2 satellites."
+}

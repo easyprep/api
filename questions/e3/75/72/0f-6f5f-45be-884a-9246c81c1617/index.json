@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e375720f-6f5f-45be-884a-9246c81c1617",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent discussions about ‘stagflation’, consider the following statements:<br />\n<ol>\n<li>Stagflation is a combination of slow economic growth and high inflation.</li>\n<li>The ‘Misery Index’ is a measure of stagflation.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe stagflation is a combination of slow economic growth and high inflation. The slow economic growth can lead to unemployment which makes it harder for the people to tackle the rising prices due to inflation. Unemployment is a common accompaniment of stagflation.\n<strong>Statement 2 is correct:</strong>\nThe stagflation is measured using the misery index. The Misery Index is the combined total of the unemployment rate and the inflation rate. Created by Arthur Okun, the index was popularised in the US economy. Higher the index value, higher is the misery felt by the people."
+}

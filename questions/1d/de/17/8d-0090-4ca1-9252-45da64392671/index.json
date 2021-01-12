@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-17T16:48:38.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "1dde178d-0090-4ca1-9252-45da64392671",
+  "labels": "current-affairs,2020-01-18",
+  "question": "With regards to the recent discussions about fiscal deficit, consider the following statements:<br />\r\n<ol>\r\n<li>Calculation of fiscal deficit includes non-debt capital receipts.</li>\r\n<li>Higher fiscal deficit increases interest rates.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nFiscal deficit is the difference between receipt and expenditure. The receipt side includes revenue receipt and non debt capital receipt. Examples of non- debt capital receipts are loan recovery, proceeds from disinvestment from public sector units, etc. Such receipts do not create debt for the government.\r\n<strong>Statement 2 is correct:</strong>\r\nIncrease in fiscal deficit reduces the money available in the market for private businesses and entrepreneurs to borrow. This reduced amount of money leads to increase in the interest rate at which it is lent. Hence higher borrowing by the government increases the interest rates for private players."
+}

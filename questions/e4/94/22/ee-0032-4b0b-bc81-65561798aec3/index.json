@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-10T09:59:27.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e49422ee-0032-4b0b-bc81-65561798aec3",
+  "labels": "current-affairs,2020-01-11",
+  "question": "With reference to the recently launched DarkSat by SpaceX, consider the following statements:<br />\r\n<ol>\r\n<li>It is a part of the Starlink project.</li>\r\n<li>It was designed to reduce reflectivity of satellites.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nDarkSat is an experimental concept launched by US based SpaceX recently. It is a part of the Starlink project which seeks to form a megaconstellation and provide space internet to the people. The DarkSat was one of the 60 mini satellites launched in January.\r\n <strong>Statement 2 is correct:</strong>\r\nThe DarkSat is coated with a black paint partially in order to address the reflection and brightness problem. In light of the earlier launch of the satellites, astronomers had raised concern that the constellation would block their view of the night sky and impede research."
+}

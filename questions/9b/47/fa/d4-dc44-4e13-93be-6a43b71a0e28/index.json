@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-07T02:36:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "9b47fad4-dc44-4e13-93be-6a43b71a0e28",
+  "labels": "current-affairs,2020-01-08",
+  "question": "With respect to the recent discussion about the EGS77 group of galaxies, consider the following statements:<br />\r\n<ol>\r\n<li>It is the farthest group of galaxies to be sighted.</li>\r\n<li>It is the first group of galaxies identified as causing the clearance of hydrogen fog.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe EGS77 group of galaxies is the farthest ever sighted group of galaxies. It is 13 billion light years away from the solar system. This means that we can observe the group in its infancy. It was discovered by Vithal Tilvi, a Goa born scientist at NASA.\r\n<strong>Statement 2 is correct:</strong>\r\nThe EGS77 has been identified as the first ever group of galaxy to clear the hydrogen fog. Far away galaxies are hard to spot because of ‘neutral hydrogen fog’. These fogs block the light form the galaxies thus affecting their detection. The EGS77 had succeeded in clearing the fog with its intense heat."
+}

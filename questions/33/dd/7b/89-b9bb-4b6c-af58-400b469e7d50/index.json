@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T05:45:25.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "33dd7b89-b9bb-4b6c-af58-400b469e7d50",
+  "labels": "current-affairs,2020-01-03",
+  "question": "Which organization has launched the MANI app, seen in news recently?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "SBI",
+  "option4": "PNB",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The MANI app, which stands for Mobile Aided Note Identifier Application, was launched by the Reserve Bank of India. It helps the visually challenged people to identify the denomination of the currency. The mobile’s camera scans the currency note and identifies the denomination through audio output."
+}

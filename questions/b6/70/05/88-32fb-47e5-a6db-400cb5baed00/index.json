@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T03:01:40.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "b6700588-32fb-47e5-a6db-400cb5baed00",
+  "labels": "current-affairs,2019-12-30",
+  "question": "Which organization has recently launched the five-year programme SnowEx?",
+  "option1": "ESA",
+  "option2": "CERN",
+  "option3": "CNES",
+  "option4": "NASA",
+  "option5": "",
+  "answer": "NASA",
+  "explanation": "NASA’s SnowEx, a five-year programme, which was initiated in 2016-17 would study the water that is contained during each winter’s snowfall and how much water will be available when it melts during spring. It uses airborne measurements, ground measurements and computer modelling to study the snow."
+}

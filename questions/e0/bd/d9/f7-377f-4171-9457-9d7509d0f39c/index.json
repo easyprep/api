@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-16T18:30:11.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e0bdd9f7-377f-4171-9457-9d7509d0f39c",
+  "labels": "current-affairs,2020-01-17",
+  "question": "With regards to the recent discussions about the use of article 131 in the CAA protest case, consider the following statements:<br />\r\n<ol>\r\n<li>A state government can move the court under this article.</li>\r\n<li>The Supreme Court has only appellate jurisdiction under this article.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe article 131 was recently used by the Kerala state government to move the court against the Citizenship Amendment Act. The article provides for resolution of disputes involving the centre and state(s). For utilisation of its provisions, the dispute must involve a question of law or fact on which the legal right of the centre/ state depends.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe Supreme Court has original jurisdiction under article 131 of the constitution. This means that the apex court has power to hear a case for the first time. This is in opposition to it hearing cases as to review a lower court’s ruling- in which case it’s called an appellate jurisdiction."
+}

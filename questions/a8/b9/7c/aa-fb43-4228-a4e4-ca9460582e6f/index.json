@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T02:55:39.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "a8b97caa-fb43-4228-a4e4-ca9460582e6f",
+  "labels": "current-affairs,2019-12-30",
+  "question": "In reference to the recent RBI directive regarding the CRILC framework, consider the following statements:<br />\r\n<ol>\r\n<li>Cooperative banks are not covered in the framework.</li>\r\n<li>The CRILC framework is intended for early detection of financial distress.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe CRILC or Central Repository of Information on Large Credit Framework is maintained by the RBI. It recently directed the large urban cooperative banks to submit quarterly reports under this framework. The new directive is applicable to those cooperative banks with assets worth 500 crore INR and above from the end of December 2019 onwards.\r\n <strong>Statement 2 is correct:</strong>\r\nThe CRILC framework is used by the central bank to ensure early detection of financial distress among the banks and certain NBFCs. All commercial banks are covered by this framework. Certain financial institutions are also covered by the framework."
+}

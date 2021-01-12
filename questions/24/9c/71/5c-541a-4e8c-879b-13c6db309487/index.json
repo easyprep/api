@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T22:02:32.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "249c715c-541a-4e8c-879b-13c6db309487",
+  "labels": "current-affairs,2019-12-28",
+  "question": "In reference to the recent seismic activity recorded at Cerberus Fossae fracture, consider the following statements:<br />\r\n<ol>\r\n<li>It is located on the southern hemisphere of the Mars.</li>\r\n<li>The seismic activity is due to tectonic movement.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe Cerberus Fossae fractures are located in the northern hemisphere of Mars. It is the first seismically active site on Mars known to scientists. Its marsquakes were recorded by the InSight mission which landed in the Elysium region in 2018.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe marsquake that was detected at Cerberus Fossae was not due to movement of tectonic activities as the martian crust is not made of tectonic plates, unlike earth. The quake recorded by InSight’s SEIS instrument was of the magnitude in the range of 3 to 4."
+}

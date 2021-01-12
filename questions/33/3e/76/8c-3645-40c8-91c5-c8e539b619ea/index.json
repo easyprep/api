@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T02:24:30.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "333e768c-3645-40c8-91c5-c8e539b619ea",
+  "labels": "current-affairs,2020-01-03",
+  "question": "With reference to the Sustainable Development Goal India Index 2019 released recently, consider the following statements:<br />\r\n<ol>\r\n<li>The index was topped by Kerala.</li>\r\n<li>Bihar was included in the ‘Performer’ category.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe SDG India Index is published by NITI Aayog and developed by collaboration of the UN and Global Green Growth Institute apart from the ministry of statistics and program implementation. The 2<sup>nd</sup> edition of the index listed Kerala as the top performing state with a score of 70. The overall composite score of India has improved to 60 from previous 57.\r\n<strong>Statement 2 is correct:       </strong>\r\nBihar was included under the ‘Performer’ category (score range: 50 to 64). Previously, it was listed under the ‘Aspirant’ category (0 to 49). The other two categories are ‘Front Runner (score range: 65 to 99) and ‘Achiever’ (score: 100).  Bihar was the worst performer as listed by the index."
+}

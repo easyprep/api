@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-15T04:54:47.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "1cf3a8ef-a8b6-4771-b562-18ef84e1eab6",
+  "labels": "current-affairs,2020-01-16",
+  "question": "In light of the inclusion of Indian cities in the top ten fastest growing cities list, consider the following statements:<br />\r\n<ol>\r\n<li>Urban agglomerations do not include villages on the town’s outskirts.</li>\r\n<li>The term census town is used to describe a town with urban characteristics.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nUrban agglomeration is a term used to refer to a town along with its surrounding extended areas like villages, residential areas, ports, universities, etc. Based on the UN data on urban agglomerations, the Economist recently listed Kerala’s Malappuram as the fastest growing city in the world.\r\n <strong>Statement 2 is correct:</strong>\r\nCensus town is a type of urban area. It is the term used to describe any village with urban characteristics. It needs to have a population of over 5,000 people and population density of over 400 people per square kilometre. Above 75% of the population mustn’t be engaged in agriculture for livelihood. Another type of urban area is the statutory town."
+}

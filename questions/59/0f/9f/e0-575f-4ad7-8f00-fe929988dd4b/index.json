@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-10T10:00:31.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "590f9fe0-575f-4ad7-8f00-fe929988dd4b",
+  "labels": "current-affairs,2020-01-11",
+  "question": "In reference to the recent renaming of the Large Synoptic Survey Telescope after astronomer Vera Rubin, consider the following statements:<br />\r\n<ol>\r\n<li>The telescope is located in Chile.</li>\r\n<li>It is to study the dark matter and dark energy.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe LSST, which was recently renamed as NSF Vera C Rubin Obervatory is in Chile. It is being run by USA’s National Science Foundation. It is to start operation in 2022. It is being constructed on the Cerro Pachon Mountain in northern Chile.\r\n<strong>Statement 2 is correct:</strong>\r\nThe Vera C Rubin telescope is to study dark matter and dark energy- which constitutes most of the universe. It will also study supernovae, small objects in solar system like asteroids and objects in the Kuiper belt. It will also be mapping the Milky Way."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:22.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "9365bcc0-1d40-4101-a6e3-47a9a129dd90",
+  "labels": "current-affairs,2020-01-20",
+  "question": "Which of the following is not a feature of Cloud Computing services?",
+  "option1": "Easy expandability and scalability",
+  "option2": "One time Fixed Payment",
+  "option3": "Faster Product Development",
+  "option4": "Optimization of Capital Investments",
+  "option5": "",
+  "answer": "One time Fixed Payment",
+  "explanation": "Cloud Computing is an on-demand delivery of compute, storage, applications, and other IT infrastructure with metered payment based on usage. Banks can scale and employ resources as needed and pay for what is used without large upfront capital investments. Thus, payments as per use is the key and basic feature of cloud computing. The fundamental difference between CC and traditional IT is that in the cloud model, banks pay only for the resources consumed instead of investing heavily on data centers and servers before using them."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-10T22:56:33.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "64bab843-4551-4a41-9dfb-daaeda1759f0",
+  "labels": "current-affairs,2020-01-11",
+  "question": "Which digital payment company has launched unified QR code for merchants for unlimited payments?",
+  "option1": "PhonePe",
+  "option2": "Paytm",
+  "option3": "Amazon Pay",
+  "option4": "Google Pay",
+  "option5": "",
+  "answer": "Paytm",
+  "explanation": "India’s leading digital payment company, Paytm has recently launched an all-in-one QR code for merchants. Using the QR code the businessmen can accept unlimited payments through Paytm Wallet, Rupay Cards and all UPI-based payment directly into their bank account.<br />The transactions are processed at zero percent fee using the code. The company also launched \\'Paytm Business Khata\\' service. This will help the merchants to maintain ledgers of all transactions of their customers in the digital form."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-16T20:43:51.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "d4e7d38e-c84c-44cc-bad4-675444262971",
+  "labels": "current-affairs,2020-01-17",
+  "question": "What was \"Mosaic\" in the initial history of World Wide Web?",
+  "option1": "Operating System",
+  "option2": "Web Browser",
+  "option3": "Computer Virus",
+  "option4": "Server Application",
+  "option5": "",
+  "answer": "Web Browser",
+  "explanation": "Mosaic was one of the first web browsers and the first \\\"popular\\\" web browser with a graphical user interface that could be operated by an average person. It was this browser which accelarted the spread of the internet and resulted in internet boom of 1990s."
+}

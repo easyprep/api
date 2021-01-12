@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T05:00:49.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "bc4d5582-033c-4180-9f0c-a0f73d454e01",
+  "labels": "current-affairs,2019-12-30",
+  "question": "In context of the recent observations of the 49 Ceti Star, consider the following statements:<br />\r\n<ol>\r\n<li>Protoplanetary disc around stars give rise to planets.</li>\r\n<li>The protoplanetary disc is formed from the debris disc.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe protoplanetary disc is a disc of gas and dust that surrounds young stars. These give rise to planets in the stellar system. The dust aggregates to form either Earth- like planets or concentrate to form the core of gas giants like Jupiter.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe debris disc is formed from the protoplanetary disc after the planets are formed and a lot of the gas in it are blown away by radiation. The scientists found a high concentration of carbon and gases in the debris disc of 49 Ceti."
+}

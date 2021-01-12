@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T02:19:24.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "176a0dbc-71a7-448d-ba5a-1f55eb9eeb96",
+  "labels": "current-affairs,2019-12-28",
+  "question": "<div id=\":of\" class=\"a3s aXjCH \">\r\n<div dir=\"ltr\">\r\nWhich American firm is developing the Project Kuiper, which is to launch thousands of satellites into space?\r\n</div>\r\n</div>",
+  "option1": "SpaceX",
+  "option2": "NASA",
+  "option3": "Amazon",
+  "option4": "Blue Origin",
+  "option5": "",
+  "answer": "Amazon",
+  "explanation": "Amazon is set to launch over 3,000 satellites into space as part of the Project Kuiper. It will form a megaconstellation that will provide lost cost space internet to the public. The satellites are to operate from the Low Earth Orbit."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-03T02:57:16.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ecf91aaf-eec8-4977-a35b-c3d8601e80c8",
+  "labels": "current-affairs,2020-01-04",
+  "question": "In light of the recent launch of the free WiFi services by Delhi Metro on its Airport Express Line, consider the following statements:<br />\r\n<ol>\r\n<li>The WiFi will function only on the platforms.</li>\r\n<li>This is the first such service in South Asian region.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe Delhi Metro introduced free WiFi service for the Airport Express Line. This will be available in the moving coaches also. In 2016, the free WiFi was unveiled for 6 stations on the Airport Express Line. The service can be accessed by logging on to ‘METROWIFI_FREE’ network with the mobile number and an OTP.\r\n<strong>Statement 2 is correct:       </strong>\r\nThe free WiFi service on the Airport Express Line is the first of its kind in South Asian region. Other Asian countries like China and South Korea have the underground WiFi in metro trains. Russia also has WiFi facilities in underground metro trains."
+}

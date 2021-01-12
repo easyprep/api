@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-17T16:56:01.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "59d1fbcf-e439-48fc-92d8-2b2acc1246f6",
+  "labels": "current-affairs,2020-01-18",
+  "question": "In reference to the recently named Yada Yada Virus, consider the following statements:<br />\r\n<ol>\r\n<li>It infects humans only.</li>\r\n<li>It is a type of Alphavirus.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe Yada Yada virus (YYV) infects only mosquitoes. It does not harm humans. It was recently discovered in Australia. It was named after a catchphrase in a sitcom in reference to virus discovery losing its novelty. The phrase ‘yada yada’ means boring.\r\n<strong>Statement 2 is correct:</strong>\r\nAlphaviruses are a group of RNA based viruses that infect both vertebrates and invertebrates. The Yada Yada Virus is a mosquito specific pathogen like Tai forest alphavirus and Agua Salud alphavirus. Alphavirus that infects other organisms include Chikungunya virus and the Astern Equine Encephalitis virus."
+}

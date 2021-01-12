@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "acc08093-bda7-47de-85c8-52a2ae62b2ef",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the recent changes made to the Abraham Koshy Committee, consider the following statements:<br />\n<ol>\n<li>It was constituted by IRDAI.</li>\n<li>It is meant for investor protection and education fund.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Abraham Koshy committee was constituted by the Securities and Exchange Board of India. The 8 member committee is headed by Koshy, who is a former professor of IIM Ahmedabad. The SEBI recently added more members from the board to the committee.\n<strong>Statement 2 is correct:</strong>\nThe Abraham Koshy committee is an advisory committee under SEBI to look into investor protection and education fund (IPEF). The suggestions of the committee are implemented by the SEBI and other related agencies. The IPEF was set up under the corporate affairs ministry of the central government."
+}

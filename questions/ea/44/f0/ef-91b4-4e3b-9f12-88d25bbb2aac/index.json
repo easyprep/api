@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-15T04:53:46.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ea44f0ef-91b4-4e3b-9f12-88d25bbb2aac",
+  "labels": "current-affairs,2020-01-16",
+  "question": "In context of the recently discovered circumbinary planet TOI 1338 b, consider the following statements:<br />\r\n<ol>\r\n<li>Circumbinary planets orbit around two stars.</li>\r\n<li>Circumbinary planets always occur in pairs.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nCircumbinary planets are those planets that orbit around two stars instead of the usual single star. They are found orbiting binary star systems. The planet usually has a stable orbit around one of the two stars. There are several confirmed circumbinary planets.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe term circumbinary refers to the orbiting of the planet around 2 stars. The newly discovered exoplanet, TOI 1338 b is one such planet found in the TOI 1338 stellar system. It is 6.9 times larger than earth. It is the 13<sup>th</sup> of its kind."
+}

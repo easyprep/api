@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T21:43:47.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "a7c7bc19-d2ca-40ae-b1e8-bf6a0077111e",
+  "labels": "current-affairs,2020-01-03",
+  "question": "Which satellite would be launched on January 17, 2020 as the first satellite of the year 2020?",
+  "option1": "GSAT-30",
+  "option2": "GSAT 29",
+  "option3": "GSAT 17",
+  "option4": "GSAT 11",
+  "option5": "",
+  "answer": "GSAT-30",
+  "explanation": "As per the recent announcement of the Chairman of ISRO, India will launch GSAT 30, a heavy geo-stationary communication satellite on January 17, 2020.  This mission would be the first satellite of the year 2020 for India. The satellite will be launched using Ariane-5ECA launch vehicle from Kourou space centre in French Guiana. The satellite will be used to provide communication links to government and private service providers."
+}

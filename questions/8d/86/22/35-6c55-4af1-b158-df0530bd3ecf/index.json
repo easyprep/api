@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T02:20:10.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "8d862235-6c55-4af1-b158-df0530bd3ecf",
+  "labels": "current-affairs,2020-01-03",
+  "question": "In context of the recent launch of the Rohini-200 Sounding Rocket, consider the following statements:<br />\r\n<ol>\r\n<li>It was launched from Vikram Sarabhai Space Centre.</li>\r\n<li>It is meant for studying atmospheric changes caused by eclipse.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Rohini (RH) 200 Sounding Rocket was launched in late December by ISRO from the Vikram Sarabhai Space Centre in Thiruvananthapuram in Kerala. In light of the launch, a 9km stretch off the Thiruvananthapuram coast was declared as a potential danger zone.\r\n<strong>Statement 2 is correct:</strong>\r\nThe Rohini (RH) 200 Sounding Rocket was launched to carry out scientific experiments. It was launched to study the atmospheric changes caused by eclipse conditions. The sounding rockets are being launched from the VSSC in Thumba since the 1960s."
+}

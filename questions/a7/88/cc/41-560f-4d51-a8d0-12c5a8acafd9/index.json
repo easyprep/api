@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-15T04:47:59.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "a788cc41-560f-4d51-a8d0-12c5a8acafd9",
+  "labels": "current-affairs,2020-01-16",
+  "question": "In light of the recent rejection of curative petitions by the Supreme Court, consider the following statements:<br />\r\n<ol>\r\n<li>Like the mercy petition, the curative petition is also filed before the president of India.</li>\r\n<li>Curative petition is filed after dismissal of review petition.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nCurative petition is filed before the court while the mercy petition is filed before the president of India. The former is used when there is miscarriage of justice. The latter is used when all other options are exhausted and is treated on mercy and not on legality of the case.\r\n<strong>Statement 2 is correct:</strong>\r\nThe curative petition is filed after the Supreme Court dismisses review petition. It was introduced in the Rupe Ashok Hurra v. Ashok Hurra 2002 case. It was developed as a means of providing relief to aggrieved persons from final judgement of the SC."
+}

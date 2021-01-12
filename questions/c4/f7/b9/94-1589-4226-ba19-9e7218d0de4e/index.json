@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-10T09:53:04.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "c4f7b994-1589-4226-ba19-9e7218d0de4e",
+  "labels": "current-affairs,2020-01-11",
+  "question": "With reference to the centre recently releasing guidelines for mutual legal assistance with other countries, consider the following statements about Mutual Legal Assistance Treaty:<br />\r\n<ol>\r\n<li>The law ministry is the ‘central authority’ for mutual legal assistance with respect to criminal cases.</li>\r\n<li>The MLAT does not cover the service of non bailable arrest warrants.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe MLAT or mutual legal assistance treaty is an agreement between countries to exchange information in the aid of legal enforcement. India has MLAT with 42 countries for cooperation in criminal investigation. The ministry of home affairs is the central authority for mutual legal assistance with respect to criminal cases.\r\n <strong>Statement 2 is correct:</strong>\r\nThe MLAT does not cover extradition- which is covered by separate extradition treaties. The home ministry does not undertake service of non bailable arrest warrants. Such warrants amount to the individual’s extradition. The law ministry deals with mutual legal assistance in case of civil and commercial cases."
+}

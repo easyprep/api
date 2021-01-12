@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T01:42:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "df6a4d03-ee8a-44ec-b54f-0a7d758869c3",
+  "labels": "current-affairs,2020-01-09",
+  "question": "What is the estimated GDP growth rate of India for 2019-20, according to Central Statistical Office (CSO)?",
+  "option1": 0.068,
+  "option2": 0.064,
+  "option3": 0.06,
+  "option4": 0.05,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "The Central Statistical Office recently released the first advance estimates of the Gross Domestic Product of India for 2019-2020. The CSO forecasted the GDP growth rate of India to be 5 % in the current fiscal year. <br />The CSO had earlier estimated the GDP growth of the previous fiscal to be 6.8%. The reason for the decrease in the growth rate is cited to the slowdown in manufacturing sector. The Reserve Bank of India also estimated 5% as the GDP growth rate for this fiscal."
+}

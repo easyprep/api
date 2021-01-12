@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-28T22:19:42.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "c58f0a83-c540-421c-b95f-8871205d0fcb",
+  "labels": "current-affairs,2019-12-29",
+  "question": "With respect to recent successful operation of the Long March 5 rocket, consider the following statements:<br />\r\n<ol>\r\n<li>It is a Chinese launch system.</li>\r\n<li>It is the largest carrier rocket of the country.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Long March 5 is a Chinese launch system. It was recently tested at Wenchang Space Launch Centre in China. This is the first successful launch after the initial two failed/ partially successful attempts. The Long March 5 is also known as CZ- 5.\r\n <strong>Statement 2 is correct:</strong>\r\nThe Long March 5 is the largest carrier rocket in China. It is capable of carrying payloads as heavy as 25,000kg. it can operate with a thrust of over 1,000 tonnes. It was used to launch the Shijian 20 satellites into space."
+}

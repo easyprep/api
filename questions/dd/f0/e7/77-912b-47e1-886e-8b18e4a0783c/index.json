@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ddf0e777-912b-47e1-886e-8b18e4a0783c",
+  "labels": "current-affairs,2020-01-20",
+  "question": "A Hybrid Cloud consists of a combination of which of the following?",
+  "option1": "SaaS and PaaS",
+  "option2": "Public Cloud and Private Cloud",
+  "option3": "Community Cloud",
+  "option4": "Traditional IT and Cloud Infrastructure",
+  "option5": "",
+  "answer": "Public Cloud and Private Cloud",
+  "explanation": "Hybrid Cloud consists of a combination of both private cloud and public cloud features."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "5edc7790-931c-459e-8f7b-c29cb8607e1d",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recently launched Operation Twist, consider the following statements:<br />\n<ol>\n<li>It was launched by Indian Meteorological Department.</li>\n<li>It is based on an US concept.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe Operation Twist was introduced by the Reserve Bank of India. It was introduced as a tool to address the hardening of long tenor bond yields. The RBI is to make use of Open Market Operations (OMO) involving the buying and selling of government bonds.\n <strong>Statement 2 is correct:</strong>\nThe Operation Twist is based on a concept used US Federal Reserve. The American central bank made use of this monetary tool to influence the interest rates through buying and selling of government bonds. These bonds were of both types: long tenor and short tenor."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T02:21:27.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "fb320e7e-385a-407f-92a7-d65ac9395be3",
+  "labels": "current-affairs,2020-01-03",
+  "question": "In light of the recent ban of sportspersons by NADA for use of ‘Tamoxifen’, consider the following statements:<br />\r\n<ol>\r\n<li>Tamoxifen is a selective estrogen receptor modulator.</li>\r\n<li>It is used for treatment of breast cancer.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nTamoxifen is a drug belonging to a class of compounds called selective estrogen receptor modulators (SERM). This class also includes other drugs like Raloxifene and Toremifene. These are banned by the World Anti- Doping Agency for use by sportspersons.\r\n<strong>Statement 2 is correct:</strong>\r\nTamoxifen is a drug used for treatment of breast cancer. It is administered orally for a period of 5 years. It is also featured on the WHO list of essential medicines. It functions by reducing the growth of breast cancer cells."
+}

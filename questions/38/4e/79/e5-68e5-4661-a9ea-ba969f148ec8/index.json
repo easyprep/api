@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T02:23:29.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "384e79e5-68e5-4661-a9ea-ba969f148ec8",
+  "labels": "current-affairs,2020-01-03",
+  "question": "With regards to recent announcements about Chandrayaan 3, consider the following statements:<br />\r\n<ol>\r\n<li>It is to land on the south pole of the moon.</li>\r\n<li>The mission will include an orbiter.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Chandrayaan-3 project is the repeat mission of the previous Chandrayaan-2. ISRO announced that the mission is to be launched in 2021. The landing is to be at the same site as targeted by Chandrayaan-2. While the previous mission was completed with 960 crore INR, the upcoming mission is to be developed at a lower cost (Rs 250 plus 365 crores).\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe Chandrayaan- 3 mission is not to include an orbiter. It will include a lander, a rover and a propulsion module. The lunar project is being developed simultaneously with the Gaganyaan project- a manned mission. 2020 is to feature over 25 missions."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T05:02:49.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "4e83f2b3-3eec-4b6a-a33f-ff0c14b207b1",
+  "labels": "current-affairs,2019-12-30",
+  "question": "With respect to the recent decision by Pakistan to import polio markers from India, consider the following statements:<br />\r\n<ol>\r\n<li>Polio marker is used to mark children who have received vaccination against polio.</li>\r\n<li>India is the only country that is a WHO pre- qualified manufacturer of polio markers.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correc",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe polio marker is used to mark the fingers of children who have received vaccination against polio. These need to contain non- toxic ink to prevent health hazards. The ink also has to be persistent for a considerable period of time. Pakistan is one of the last few remaining countries where polio is still endemic.\r\n<strong>Statement 2 is incorrect:</strong>\r\nIndia and China are the only 2 WHO pre- qualified manufacturers of polio markers. However, the Chinese products were found to be faulty where the ink wore off too quickly in some cases. Hence WHO has started procuring the polio pens from India."
+}

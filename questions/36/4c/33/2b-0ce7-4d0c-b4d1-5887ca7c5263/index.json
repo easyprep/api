@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "364c332b-0ce7-4d0c-b4d1-5887ca7c5263",
+  "labels": "current-affairs,2020-01-20",
+  "question": "What is the name of Cloud developed by Institute for Development and Research in Banking Technology?",
+  "option1": "Indian Banking Public Cloud",
+  "option2": "Bankers Cloud, India",
+  "option3": "Banking Cloud of India",
+  "option4": "Indian Bank Community Cloud",
+  "option5": "",
+  "answer": "Indian Bank Community Cloud",
+  "explanation": "Indian Bank Community Cloud (IBCC) is a community cloud offering CBS, e-mail, Mobile Banking, eKYC and e-learning, etc. IBCC is set up by IDRBT, the first community cloud for banking industry in the world and is currently being managed by its subsidiary IFTAS."
+}

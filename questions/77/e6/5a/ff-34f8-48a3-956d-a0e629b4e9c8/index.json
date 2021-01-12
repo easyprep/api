@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-07T23:34:51.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "77e65aff-34f8-48a3-956d-a0e629b4e9c8",
+  "labels": "current-affairs,2020-01-08",
+  "question": "With respect to the recent discussions about the implications of the State of Forest report, consider the following statements:<br />\r\n<ol>\r\n<li>The term ‘non-forest’ refers to regions with 10 to 40% canopy density.</li>\r\n<li>The report segregates weed covers like juliflora from natural forests.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe India State of Forest report considers area with 10% tree canopy density as a ‘forest’. An area with canopy density of 10% to 40% is considered an open forest. A non-forest refers to total loss of tree canopy cover.\r\n <strong>Statement 2 is incorrect:</strong>\r\nThe State of Forest report published by the Forest Survey of India does not segregate natural forests from weed cover composed of plants like Juliflora and Lantana. It also doesn’t segregate commercial monocultures like rubber, coconut, palm, etc. However, it has the capacity to identify such plantations."
+}

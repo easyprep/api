@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T02:58:29.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "19e21eda-3862-4b85-a13d-234ef640fb23",
+  "labels": "current-affairs,2019-12-30",
+  "question": "With respect to the recent reports of illegal cultivation of Bt brinjal crops in India, consider the following statements:<br />\r\n<ol>\r\n<li>Bt Brinjal was designed to tackle the attack of fruit and shoot borer.</li>\r\n<li>No country in the world cultivates Bt Brinjal.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Bt Brinjal is a genetically modified variety of eggplant. It was specifically designed to resist the attack of the brinjal shoot and fruit borer pest. This was done by introducing the genes of Bacillus thuringiensis- a soil bacteria noted for being a biopesticide.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThough Bt Brinjal cultivation in India is considered illegal, it is being cultivated in Bangladesh. Bangladesh started cultivating 4 varieties of Bt brinjal: Bt Uttara, Bt Nayantara, Bt Kajla and Bt ISD006. The country has reported a drop in the pesticide usage and increase in crop yields."
+}

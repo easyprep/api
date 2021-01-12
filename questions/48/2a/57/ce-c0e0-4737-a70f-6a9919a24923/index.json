@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T03:11:08.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "482a57ce-c0e0-4737-a70f-6a9919a24923",
+  "labels": "current-affairs,2019-12-28",
+  "question": "The upcoming Aditya L1 mission is to operate from which orbit?",
+  "option1": "Low Earth Orbit",
+  "option2": "Halo Orbit",
+  "option3": "Heliocentric Orbit",
+  "option4": "Lunar Orbit",
+  "option5": "",
+  "answer": "Halo Orbit",
+  "explanation": "The Aditya L1 mission is India’s first solar mission. It is to be launched by ISRO in 2020. The ISRO announced that the probe will be operating from the Halo Orbit. It is a three dimensional orbit. It is to operate from Lagrangian point 1 (L1)."
+}

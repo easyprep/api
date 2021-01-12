@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T05:41:50.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "c7486fc4-2c20-4e9e-abae-7a34957648b2",
+  "labels": "current-affairs,2020-01-09",
+  "question": "With reference to the start of the year 2020, consider the following statements:<br />\r\n<ol>\r\n<li>The Gregorian calendar is a solar dating system.</li>\r\n<li>The Islamic Hijri calendar is a lunar dating system.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Gregorian calendar is a solar dating system that succeeded the Julian calendar. It is the calendar system used by most of the countries, including India. It was put to use for the first time in 1582 by Pope Gregory XIII.\r\n<strong>Statement 2 is correct:</strong>\r\nThe Islamic Hijri calendar is a lunar dating system. It has 354 days or 355 days in one calendar year. The year starts in the month of Muharram. In Hinduism and Sikhism, the Vikram Samvat calendar is used."
+}

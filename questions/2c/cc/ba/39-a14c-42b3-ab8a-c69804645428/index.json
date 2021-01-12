@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T14:58:38.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "2cccba39-a14c-42b3-ab8a-c69804645428",
+  "labels": "current-affairs,2020-01-09",
+  "question": "In reference to the recent lawsuits surrounding the ABC test of California, consider the following statements:<br />\r\n<ol>\r\n<li>It is used to determine whether a worker is an employee or an independent contractor.</li>\r\n<li>If a worker does some work outside the usual course of the hiring entity's business, he/ she is not considered an employee.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe ABC test is used by the government to distinguish between workers as independent contractors and employees. The test is used to determine the applicability of certain workplace protections like sick leave and overtime payment. The test is encoded in California’s Assembly Bill 5 (AB5).\r\n <strong>Statement 2 is correct:</strong>\r\nThe ABC test has 3 criteria that need to be fulfilled for classification of a worker as an independent contractor. One of them is that the worker performs work outside the usual course of the employer’s business. Customary engagement in an independent business and freedom from control of the employer are the other two criteria."
+}

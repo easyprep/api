@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-24T22:45:24.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ace3f021-fc36-4383-9fff-41091e63e35e",
+  "labels": "current-affairs,2020-01-25",
+  "question": "What is the GDP growth rate of India in FY 21, as estimated by the India Ratings and Research (Ind-Ra)?",
+  "option1": 0.052,
+  "option2": 0.053,
+  "option3": 0.054,
+  "option4": 0.055,
+  "option5": "",
+  "answer": 0.055,
+  "explanation": "India Ratings and Research (Ind-Ra) has recently estimated that the gross domestic product (GDP) of India to grow at 5.5 per cent in FY21. The ratings agency also hoped that the growth would improve in 2021 but the country’s economy is stuck in a low consumption-low investment phase.\r\nIt observed that the shortfall in the tax plus non-tax revenue of the country will make the fiscal deficit slip to 3.6 % of GDP, against the budget target of 3.3 per cent. Even after accounting for the surplus transferred to the government by the RBI, the fiscal deficit target could not be possibly achieved, as per Ind-Ra."
+}

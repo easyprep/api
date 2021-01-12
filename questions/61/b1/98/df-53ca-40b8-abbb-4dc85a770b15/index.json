@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-24T03:40:12.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "61b198df-53ca-40b8-abbb-4dc85a770b15",
+  "labels": "current-affairs,2019-12-25",
+  "question": "December 22<sup>nd</sup> is marked as the Winter Solstice. In this context, consider the following statements:<br />\r\n<ol>\r\n<li>The south pole of the earth is farthest away from the sun during the winter solstice. </li>\r\n<li>During the winter solstice, the sun is directly above the Tropic of Cancer.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe winter solstice falls on December 22<sup>nd</sup> every year. It is the time of the year when the North Pole is farthest away from the sun. The northern hemisphere experiences winter during this time. The region receives the fewest hours of sunlight during this period of the year.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe sunlight falls directly on the Tropic of Capricorn which is in the Southern Hemisphere. This is because of the southerly inclination of -23.5 degrees of the Pole. The southern hemisphere experiences summer during this period. The sun is closest to horizon during the winter solstice."
+}

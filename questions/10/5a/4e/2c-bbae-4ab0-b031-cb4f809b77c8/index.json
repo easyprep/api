@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-03T02:56:26.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "105a4e2c-bbae-4ab0-b031-cb4f809b77c8",
+  "labels": "current-affairs,2020-01-04",
+  "question": "In context of the recently released Grant Thornton report about the trends and predicts for cybersecurity, consider the following statements about Trojans:<br />\r\n<ol>\r\n<li>Most of the Trojans inject and propagate themselves in the victim’s computers.</li>\r\n<li>Emotet is an example of Trojan.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nTrojans or Trojan horses are malwares that are known for infecting a system by deceiving the user of its true purpose. It is named after the Trojan Horse used in the battle of Troy. The Trojans generally do not infect and propagate in a system by themselves. It requires the user to execute or click an attachment by deception.\r\n<strong>Statement 2 is correct:</strong>\r\nEmotet is an example of a Trojan malware. India is the third most affected country by Emotet after Germany and USA. 16.57% of the Emotet attacked users are in India. It is spread through phishing email with links to malicious word documents, PDF documents or a malicious site."
+}

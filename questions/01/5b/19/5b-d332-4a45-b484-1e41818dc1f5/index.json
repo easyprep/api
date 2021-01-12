@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-03T02:49:19.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "015b195b-d332-4a45-b484-1e41818dc1f5",
+  "labels": "current-affairs,2020-01-04",
+  "question": "In reference to the launch of the new mAadhaar app, consider the following statements:<br />\r\n<ol>\r\n<li>The app can function even in the absence of internet connection.</li>\r\n<li>An Aadhaar profile can be active in the app in only one device at a time.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe mAadhaar app requires internet connection for its functioning. It was launched by the UIDAI or Unique Identification Authority of India. The app allows the user to access over 35 Aadhaar related services and also track the status of an enlisted service.\r\n <strong>Statement 2 is correct:</strong>\r\nIn the new app, a given Aadhaar profile can be active in only one device at a time. This is to ensure the security of the Aadhaar number. If the same profile is created on another device by transferring the SIM, the previous profile is deleted in the older device."
+}

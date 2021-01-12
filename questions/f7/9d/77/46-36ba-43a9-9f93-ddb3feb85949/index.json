@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-20T19:15:07.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "f79d7746-36ba-43a9-9f93-ddb3feb85949",
+  "labels": "current-affairs,2020-01-21",
+  "question": "Which of the following payments can NOT be done using BBPS as of now (2020)?",
+  "option1": "Electricity Bill",
+  "option2": "Water Bill",
+  "option3": "School Fees",
+  "option4": "Mobile Bill",
+  "option5": "",
+  "answer": "School Fees",
+  "explanation": "BBPS covers repetitive payments for everyday utility services such as electricity, water, gas, telecom (mobile postpaid, landline postpaid, broadband) and Direct-to-Home (DTH). Gradually, the scope would be expanded to include other types of repetitive payments like insurance premium, mutual funds, school fees, EMI\\\"s, municipal taxes etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-23T01:25:22.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "7ca50863-3485-461d-aee4-73cd6a47ec26",
+  "labels": "current-affairs,2020-01-24",
+  "question": "Which Indian state is set to use facial recognition software for its local body elections, for the first time in the country?",
+  "option1": "Tamil Nadu",
+  "option2": "Telangana",
+  "option3": "Kerala",
+  "option4": "Andhra Pradesh",
+  "option5": "",
+  "answer": "Telangana",
+  "explanation": "The Telangana State Election Commission recently announced that it would use facial recognition application in 10 selected polling stations, on a pilot basis.\r\nTelangana is the first state to implement the process of facial recognition in polls to curb impersonation of voters. The additional polling officer takes photograph of the voters after verifying their identity proof. The photo is then uploaded to the server using face recognition app and compared with the polling booth photos. The process is completely encrypted and the data is not used for any other purposes."
+}

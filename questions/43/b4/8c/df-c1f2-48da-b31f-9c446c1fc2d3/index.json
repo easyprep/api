@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-14T04:35:13.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "43b48cdf-c1f2-48da-b31f-9c446c1fc2d3",
+  "labels": "current-affairs,2020-01-15",
+  "question": "In context of the recent discussions about the Battle of Sinhagad, consider the following statements:<br />\r\n<ol>\r\n<li>The battle was fought between the Marathas and the Mughals.</li>\r\n<li>It resulted in the signing of the Treaty of Purandar.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Battle of Sinhagad was fought in 1670 between the Mughals and the Marathas. The battle was fought on the fort of Sinhagad, near Pune in Maharashtra. The Mughal side was headed by Udaybhan Singh Rathore while the Maratha side was headed by Tanaji Malusare.\r\n<strong>Statement 2 is incorrect:   </strong>\r\nThe Treaty of Purandar was signed between Shivaji, the Maratha King and Jai Sinh I, a Rajput commander in 1665. The Mughal forces, headed by Jai Sinh, acquired Purandar, Sinhagad, Tikona, Tung and Lohagad through this treaty. This was one of the triggers for the 1670 battle."
+}

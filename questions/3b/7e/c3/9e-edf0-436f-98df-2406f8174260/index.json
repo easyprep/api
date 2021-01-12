@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-13T23:35:43.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "3b7ec39e-edf0-436f-98df-2406f8174260",
+  "labels": "current-affairs,2020-01-14",
+  "question": "Which bank has recently become the largest issuer of FASTags, at three million FASTags?<br />",
+  "option1": "State Bank of India",
+  "option2": "HDFC Bank",
+  "option3": "Paytm Payment Bank",
+  "option4": "ICICI Bank",
+  "option5": "",
+  "answer": "Paytm Payment Bank",
+  "explanation": "The Paytm Payment Bank recently announced that it has issued three million FASTags so far and has become the largest issuer of FASTags in the country. The Common Service Centre (CSC) recently signed a Memorandum of Understanding with the Paytm Payment Bank Ltd (PPBL) for selling FASTags.<br />The users can recharge the FASTags provided by paytm directly from their paytm wallet without having the necessity of using another wallet or application. FASTag is an electronic toll collection system, which is based on Radio Frequency Identification (RFID) technology."
+}

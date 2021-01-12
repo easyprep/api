@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-10T09:57:36.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ff743639-db17-4a4c-be6c-306f9e6f3948",
+  "labels": "current-affairs,2020-01-11",
+  "question": "With respect to the recent efforts by the Balram Bhargava committee to revise the National List of Essential Medicine, consider the following statements:<br />\r\n<ol>\r\n<li>Vaccines are not included in the NLEM.</li>\r\n<li>When an antibiotic becomes ineffective due to resistance developed by the microbe, it is excluded from the NLEM.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nVaccines are also included in the National List of Essential Medicines. The NLEM is based on the WHO Essential Medicines List. These medicines are to be made available in adequate quantum and at affordable rates- as they are considered indispensable for public health.\r\n<strong>Statement 2 is correct:</strong>\r\nThe NLEM is revised from time to time depending on the changing conditions. Antibiotics, to which various strains of pathogens have developed resistance, are removed from the list. At the same time, new antibiotics, seen as necessary, are included in the list."
+}

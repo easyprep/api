@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "3ddfb8e7-0b2b-4502-93ac-e7461c379e15",
+  "labels": "current-affairs,2020-01-20",
+  "question": "What are Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) in context with Cloud Computing?",
+  "option1": "Delivery Models",
+  "option2": "Pricing Models",
+  "option3": "Evolution Stages of Cloud Computing",
+  "option4": "Scalability of Environment",
+  "option5": "",
+  "answer": "Delivery Models",
+  "explanation": "Software as a Service (SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) are three broad delivery models or service models."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-03T22:02:34.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "0f234b38-475a-4087-b54b-5c852237ffd2",
+  "labels": "current-affairs,2020-01-04",
+  "question": "According to the recent data from the Ministry of Forest Environment and Climate Change (MoEFCC), what is the total number of tiger deaths occurred in India during 2019?",
+  "option1": 95,
+  "option2": 100,
+  "option3": 105,
+  "option4": 110,
+  "option5": "",
+  "answer": 95,
+  "explanation": "According to the recent data from the Ministry of Forest Environment and Climate Change (MoEFCC), the total number of tiger deaths was under 100 after three years. In the year 2019, 95 tigers were dead in total, among them 84 tigers were actually dead and 11 of them were presumed dead by identifying their body parts. In the previous year 2018, there were 100 deaths of tigers in total and in 2017, the count was 115."
+}

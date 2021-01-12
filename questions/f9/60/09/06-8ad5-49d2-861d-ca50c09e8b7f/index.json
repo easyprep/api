@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "f9600906-8ad5-49d2-861d-ca50c09e8b7f",
+  "labels": "current-affairs,2020-01-20",
+  "question": "Which of the following is an open source platform for creating and maintaining a cloud service?",
+  "option1": "OpenOffice",
+  "option2": "Openstack",
+  "option3": "Bitnami",
+  "option4": "Google Compute Engine",
+  "option5": "",
+  "answer": "Openstack",
+  "explanation": "OpenStack is an open source platform for creating and maintaining a cloud Infrastructure as a Service (IaaS)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-13T23:28:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "459ba11a-b055-450d-83a7-f44d0767e1a0",
+  "labels": "current-affairs,2020-01-14",
+  "question": "What is a “Shopper’, which was sometimes seen in news recently ?",
+  "option1": "e-Commerce website",
+  "option2": "Malware",
+  "option3": "Robot",
+  "option4": "Electric vehicle for shopping",
+  "option5": "",
+  "answer": "Malware",
+  "explanation": "Kaspersky Labs, an international cyber-security and anti-virus provider recently made an announcement about a trojan application or a malware named ‘Shopper’. It is said to randomly increase the ratings of some popular e-commerce applications through the social media counts of the victims.<br />Nearly 14% of the users, who were affected by the malware were Indians while the highest number of people affected were from Russia."
+}

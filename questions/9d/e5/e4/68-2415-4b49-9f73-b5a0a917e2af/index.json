@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T01:15:43.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "9de5e468-2415-4b49-9f73-b5a0a917e2af",
+  "labels": "current-affairs,2020-01-09",
+  "question": "The Transiting Exoplanet Survey Satellite (TESS) which recently discovered a new habitable exoplanet, belongs to which space agency?",
+  "option1": "Indian Space Research Organisation (ISRO)",
+  "option2": "National Aeronautics and Space Administration (NASA)",
+  "option3": "Japan Aerospace Exploration Agency (JAXA)",
+  "option4": "China National Space Administration (CNSA)",
+  "option5": "",
+  "answer": "National Aeronautics and Space Administration (NASA)",
+  "explanation": "The planet finder satellite of NASA, named the Transiting Exoplanet Survey Satellite (TESS) recently discovered a new exoplanet in the habitable region of its host star. <br />The newly found exoplanet, known as \\'TOI 700 d\\' has approximately the same size of the Earth. The Space Scientists of NASA also announced that the exoplanet is only 101.5 light years from the earth, making it easy for further observations and research."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "16fd842f-e686-4e63-990f-9e0d46de106e",
+  "labels": "current-affairs,2020-01-20",
+  "question": "Cloud Bursting is related to which of the following in Cloud Computing?",
+  "option1": "Scalability",
+  "option2": "Redundancy",
+  "option3": "Availability",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Scalability",
+  "explanation": "Cloud Bursting is a model in which application running in a private cloud bursts/scales automatically into a public/community cloud based on the scalability needs."
+}

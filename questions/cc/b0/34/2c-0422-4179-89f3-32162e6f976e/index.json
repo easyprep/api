@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-28T22:30:16.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ccb0342c-0422-4179-89f3-32162e6f976e",
+  "labels": "current-affairs,2019-12-29",
+  "question": "With respect to the recently launched large scale coral reef restoration project of Seychelles, consider the following statements:<br />\r\n<ol>\r\n<li>Super corals are animals.</li>\r\n<li>Coral nurseries in Seychelles are developed on underwater ropes.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nSuper corals are sessile animals i.e. they do not move about and are rooted to the seafloor. Super corals are different from normal corals in that they are more tolerant to higher temperatures and hence survive bleaching event more often.\r\n<strong>Statement 2 is correct:</strong>\r\nThe Seychelle project involves growing super corals on underwater ropes. These structures are called coral nurseries. This is the first large scale attempt at coral restoration. The method is being emulated in other areas like Maldives, Colombia, Kenya, Tanzania, etc."
+}

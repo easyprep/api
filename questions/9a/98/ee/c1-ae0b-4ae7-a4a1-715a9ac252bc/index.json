@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-14T04:30:09.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "9a98eec1-ae0b-4ae7-a4a1-715a9ac252bc",
+  "labels": "current-affairs,2020-01-15",
+  "question": "In light of the recent detection of the first ever case of H9N2 infection in Maharashtra, consider the following statements:<br />\r\n<ol>\r\n<li>Unlike other influenza viruses, the H9N2 does not infect birds.</li>\r\n<li>It affects the respiratory system.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe H9N2 virus is a subtype of the Influenza A viruses, commonly called as bird flu viruses. They are capable of infecting humans as well as birds like ducks, pigeon and common poultry birds. The Maharashtra case is the first case of human infection in India.\r\n<strong>Statement 2 is correct:</strong>\r\nThe H9N2 virus affects the respiratory system of the patient. It is spread through water, dust, air droplets, etc. Some of the symptoms are fever, breathlessness, cough, etc. The WHO had warned that the viruses are already circulating through the poultry and hence sporadic cases in humans are expected."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "6b65cf3a-f993-4574-9f30-83ad094d3345",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the launch of the Jalsathi program, consider the following statements:<br />\n<ol>\n<li>It is a program of the Odisha government.</li>\n<li>It is a project to ensure drinking water supply to the households.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Jalsathi program is an initiative of the Odisha state government. As a part of this program, the Jalsathi mobile app was also launched. The project is to involve thousands of women volunteers who are to be called ‘Jalsathis’.\n<strong>Statement 2 is correct:</strong>\nThe Jalsathi program is aimed at ensuring safe drinking water supply to all the houses in the state. The Jalsathis were given water quality testing kits for this purpose. They will also be involved in assessment of demand, regularity of connection, bill generation, etc."
+}

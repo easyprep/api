@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-07T23:35:34.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "35da5674-65ad-424b-a406-605466ff9cf3",
+  "labels": "current-affairs,2020-01-08",
+  "question": "With regards to the recent efforts by IIT scientists to generate electricity from water, consider the following statements:<br />\r\n<ol>\r\n<li>The ‘electrokinetic streaming potential’ phenomenon was used to generate electricity from stagnant water.</li>\r\n<li>The ‘contrasting interfacial activity’ phenomenon was used to generate electricity from flowing water.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe scientists at IIT Guwahati made use of a phenomenon called electro kinetic streaming potential to generate electricity from flowing water. It made use of miniature generators to harvest electricity from fluid streaming through small channels which result in generation of an electrical voltage.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe scientists made use of contrasting interfacial activity phenomenon to generate electricity from stagnant water. This was achieved by use of semiconductor materials. The scientists made use of ‘doped graphene flakes’ to create a device which can generate power upon being dipped into stagnant water sources like a lake."
+}

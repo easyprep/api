@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-24T02:11:37.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "8950260c-4a7c-4db0-8208-84afb4679ca6",
+  "labels": "current-affairs,2019-12-25",
+  "question": "Which NASA spacecraft has recently taken a picture of the asteroid Phaethon?",
+  "option1": "Voyager 1",
+  "option2": "Voyager 2",
+  "option3": "Orion",
+  "option4": "Parker Solar Probe",
+  "option5": "",
+  "answer": "Parker Solar Probe",
+  "explanation": "Phaethon is an asteroid that had once flew too close to the Sun and had cracked due to scorching conditions. The scientists, for many years, had struggled to photograph the debris left behind by the asteroid and recently, NASA’s Parker Solar Probe, which was launched in 2018, has taken picture of it."
+}

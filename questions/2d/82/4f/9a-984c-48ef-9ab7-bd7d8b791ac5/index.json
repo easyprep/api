@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T22:05:43.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "2d824f9a-984c-48ef-9ab7-bd7d8b791ac5",
+  "labels": "current-affairs,2019-12-28",
+  "question": "With respect to the recent plans by Bengaluru administration to launch the Namma Bengaluru app, consider the following statements:<br />\r\n<ol>\r\n<li>It is grievance redressal app.</li>\r\n<li>It is to replace the Sahaya app.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Namma Bengaluru app is to be launched on New Year’s Day by the Bruhat Bengaluru Mahanagara Palike (BBMP). It is to be a common platform for addressing residents’ issues regarding civic infrastructure. Complaints regarding road infrastructure, water supply, electricity, sewage connection, etc. are to be addressed through this app.\r\n<strong>Statement 2 is correct:        </strong>\r\nThe Namma Bengaluru app is to replace the Sahaya app. The Sahaya app was launched in 2016 for registering complaints regarding civic infrastructure. However, the app was ridden with many glitches and is now to be replaced with a newer and efficient version."
+}

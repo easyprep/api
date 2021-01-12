@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "8dbc6c64-aa1a-4fb0-a091-2e0c7b809960",
+  "labels": "current-affairs,2019-12-24",
+  "question": "Jammu and Kashmir has signed an agreement to implement the eVIN scheme. In this context, consider the following statements about eVIN:<br />\n<ol>\n<li>It is a food storage system.</li>\n<li>Cold storage infrastructure is covered by the scheme.</li>\n</ol>\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\nThe eVIN or Electronic Vaccine Intelligence Network is an initiative to strengthen the immunisation program in the country. It uses digital platform to keep track of vaccines’ stocks and storage. The J&amp;K administration signed an MoU with the UNDP to implement the scheme.\n<strong>Statement 2 is correct:</strong>\nThe eVIN system keeps track of the cold storage infrastructure for the vaccines. It helps monitor the storage temperature at these facilities. The monitoring can be done through a dedicated app. UNDP is supporting the union ministry of health and family affairs in implementing the eVIN system."
+}

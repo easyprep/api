@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T05:42:41.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "7ebf990d-2df2-4a3d-a894-25a7acd789ba",
+  "labels": "current-affairs,2020-01-09",
+  "question": "With reference to the recent ban imposed by the US army on the TikTok app, consider the following statements:<br />\r\n<ol>\r\n<li>The ban is applicable only to government issued mobile phones.</li>\r\n<li>The TikTok app is a Chinese product.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe US Navy recently banned the use of TikTok app by its personnel. This ban is applicable only on the government issued mobile phones. The personnel may continue to use the app on their personal mobile phones. The ban was imposed due to security concerns.\r\n<strong>Statement 2 is correct:</strong>\r\nThe TikTok app is a short video sharing platform. It is a product of ByteDance, a company based in Beijing. It is a social networking app launched for markets outside China. Its Chinese domestic counterpart is Douyin. The two versions were developed separately to comply with China’s censorship rules."
+}

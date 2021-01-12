@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "23e4ff36-3ba9-4b54-82d3-41792b7a1ec3",
+  "labels": "current-affairs,2020-01-20",
+  "question": "The phrase \"Cloud Computing\" was first time used in context with a project of which two organizations?",
+  "option1": "Microsoft and Yahoo",
+  "option2": "IBM and Microsoft",
+  "option3": "Amazon and Google",
+  "option4": "IBM and Google",
+  "option5": "",
+  "answer": "IBM and Google",
+  "explanation": "The phrase \"Cloud Computing\" originated in a collaboration project between IBM and Google."
+}

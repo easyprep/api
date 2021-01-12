@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-14T04:34:25.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "cf56b974-fe50-4c5e-9972-a4a9058c7ebf",
+  "labels": "current-affairs,2020-01-15",
+  "question": "In context of the recent warning of ‘Volcanic Tsunami’, consider the following statements:<br />\r\n<ol>\r\n<li>Volcanic tsunami is the excessive outflow of lava.</li>\r\n<li>Krakatoa eruption in 1880s is an example of volcanic tsunami.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nVolcanic tsunamis are gigantic waves of water triggered by volcanic activity. Collapse of caldera, volcanic explosions, slope failures, etc. of the volcano can trigger massive displacement of water in the nearby water bodies and produce tsunami waves. The recent Thaal activity in Philippines have triggered warnings of volcanic tsunami.\r\n<strong>Statement 2 is correct:</strong>\r\nThe 1883 eruption of Mount Krakatoa in Indonesia produced massive volcanic tsunamis. The tsunami waves, reaching 135 feet, destroyed villages in Java and Sumatra and also killed thousands of people. Other examples include Mount Unzen eruption in Japan and Mount St. Helen eruption in USA."
+}

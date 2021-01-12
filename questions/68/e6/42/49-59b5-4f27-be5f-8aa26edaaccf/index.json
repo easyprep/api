@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-09T03:28:31.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "68e64249-59b5-4f27-be5f-8aa26edaaccf",
+  "labels": "current-affairs,2020-01-10",
+  "question": "In reference to the recently conducted Asia Pacific Drosophila Research Conference, consider the following statements about Drosophila:<br />\r\n<ol>\r\n<li>It is an insect species.</li>\r\n<li>It is used as a genetic model organism.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nDrosophila is a species of insect, commonly known as the small fruit fly. It belongs to a genus of flies. It is often found near overripe and rotting fruits. India is host the Asia Pacific Drosophila Research Conference for the first time.\r\n<strong>Statement 2 is correct:</strong>\r\nDrosophila is noted for being one of the most commonly used genetic model organism. This is because of the diversity of its characters and also the ease of culturing its population in labs en mass. It is used in the fields of genetics, neurobiology, speciation, etc."
+}

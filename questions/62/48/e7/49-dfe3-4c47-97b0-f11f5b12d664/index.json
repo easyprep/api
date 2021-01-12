@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:55.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "6248e749-dfe3-4c47-97b0-f11f5b12d664",
+  "labels": "current-affairs,2019-12-24",
+  "question": "With reference to the recent studies on the transfer of immunity against chickenpox from mother to child, consider the following statements:<br />\r\n<ol>\r\n<li>Chickenpox virus is reactivated during stress.</li>\r\n<li>Babies of mothers with earlier cases of chickenpox developed short term passive protection against the disease.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe chickenpox virus is known to get activated by stress. This stress could have been induced by anything ranging from surgeries and pregnancy to space travel. The infection, caused by the varicella zoster virus, is more severe among adults than among children.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe recent studies found that mothers, who had experienced a chickenpox infection early in life, tended to have babies who enjoyed long term active immunity against the virus. The study concludes that this is because the viral DNA was being transferred to the babies instead of readymade antibodies."
+}

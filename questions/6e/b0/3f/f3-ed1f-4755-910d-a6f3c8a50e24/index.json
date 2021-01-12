@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-25T17:15:07.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "6eb03ff3-ed1f-4755-910d-a6f3c8a50e24",
+  "labels": "current-affairs,2019-12-26",
+  "question": "With respect to recent announcement of Digital Radio to be launched in 2024, consider the following statements:<br />\r\n<ol>\r\n<li>Digital radio does not have the issue of interference.</li>\r\n<li>An FM radio instrument can be used to listen to digital radio.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Information and Broadcasting ministry recently announced that digital radio will be launched in 2024. In a digital radio, sounds are converted to digital signals which are then transmitted and decoded at the other end. Hence, it will not suffer from interference unlike the conventional radio.\r\n<strong>Statement 2 is incorrect:</strong>\r\nDigital radio cannot be listened to with the radio instrument used for listening to FM radio. This is because the functioning of digital radio requires specialised chips for its function. The shift from FM radio to digital radio is to be comparable to the shift from AM to FM."
+}

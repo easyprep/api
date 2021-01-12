@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-17T00:01:30.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "bf510eb2-4045-483f-97a5-dc81f8a59fc7",
+  "labels": "current-affairs,2020-01-18",
+  "question": "Which Ministry has recently launched the Cyber Security Grand Challenge award?",
+  "option1": "Ministry of Defence",
+  "option2": "Ministry of Communications",
+  "option3": "Ministry of Human Resource Development",
+  "option4": "Ministry of Electronics and Information Technology",
+  "option5": "",
+  "answer": "Ministry of Electronics and Information Technology",
+  "explanation": "The Ministry of Electronics &amp; Information Technology (MeitY) and Data Security Council of India (DSCI) have recently launched the Cyber Security Grand Challenge. <br />It is an initiative to promote innovation and entrepreneurship in the start-up arena of Cyber-Security. Participants will compete in teams at three stages namely Idea, Minimal Viable Product and Final Product Building, to create solutions around six defined areas including Microservices, IoT, Biometrics etc. The award will include a cash prize of Rs.3.2 Crore as the top three teams will be presented with a total cash prize of Rs.2 Crore."
+}

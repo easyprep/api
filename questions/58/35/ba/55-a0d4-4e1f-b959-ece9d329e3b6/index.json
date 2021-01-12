@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-25T23:29:28.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "5835ba55-a0d4-4e1f-b959-ece9d329e3b6",
+  "labels": "current-affairs,2019-12-26",
+  "question": "What feature is the CBER-4A satellite, which was recently launched, to monitor?",
+  "option1": "Australian bush fires",
+  "option2": "New Zealand volcanic island",
+  "option3": "Brazil’s Amazon rainforest",
+  "option4": "USA’s great lakes",
+  "option5": "",
+  "answer": "Brazil’s Amazon rainforest",
+  "explanation": "The CBER-4A satellite was launched from China’s Taiyuan Satellite Launch Site. It is a collaboration between Brazil and China. CBER-4A is China- Brazil Earth Resources Satellite - a replacement for CBER-4 satellite. It is to monitor the changes in the Amazon rainforest."
+}

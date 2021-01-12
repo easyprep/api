@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T01:45:54.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "327d4871-d796-49e7-8e5a-8b0a0267a7df",
+  "labels": "current-affairs,2020-01-09",
+  "question": "What is the name of the new Blockchain-based payment platform of the National Payments Corporation of India (NPCI)?",
+  "option1": "Shakti",
+  "option2": "Vajra",
+  "option3": "Veer",
+  "option4": "Virat",
+  "option5": "",
+  "answer": "Vajra",
+  "explanation": "The National Payments Corporation of India (NPCI) is set to launch its new block-chain based platform, which is named as ‘Vajra’. The new payment platform will be based on ‘Distributed Ledger Technology’ (DLT). <br />The platform is expected to make the payments secure and the transactions would be stored in a decentralised database. The bank nodes after receiving the requests from the Unified Payments Interface (UPI) will process them on the Vajra platform."
+}

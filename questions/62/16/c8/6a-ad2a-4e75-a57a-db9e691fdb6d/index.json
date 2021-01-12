@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-11T23:56:25.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "6216c86a-ad2a-4e75-a57a-db9e691fdb6d",
+  "labels": "current-affairs,2020-01-12",
+  "question": "The Reserve Bank of India recently amended its Know Your Customer (KYC) norms to allow which type of authentication?",
+  "option1": "Post-based authentication",
+  "option2": "e-mail based authentication",
+  "option3": "Video-based authentication",
+  "option4": "Mobile-based authentication",
+  "option5": "",
+  "answer": "Video-based authentication",
+  "explanation": "The Reserve Bank of India recently allowed video-based authentication as an alternative method to the e-KYC (Know-your-customer) norms. The video-based KYC authentication was proposed by the Expert Committee on Micro, Small and Medium Enterprises, headed by the former SEBI Chairman UK Sinha.<br />The Reserve Bank accepted the recommendations and amended its KYC norms to include Video based Customer Identification Process (V-CIP). The bank also announced that the video verification will be Aadhar-based and the user can display his documents via a video chat."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "fc7b14fb-a68f-4a9e-b6bb-5d1d6bcebd48",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the newly named exoplanet Baiduri, consider the following statements:<br />\n<ol>\n<li>It is in the stellar system of the star Intan.</li>\n<li>It is in the Fornax Constellation.</li>\n</ol>\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nBaiduri is the name assigned by the International Astronomical Union to the exoplanet HD 20868 b. The star HD 20868, which was recently named Intan, is the host star of the exoplanet. The names are based on Malay terms for gemstones.\n <strong>Statement 2 is correct:</strong>\nThe exoplanet Baiduri and its host star Intan are in the Fornax or the Furnace Constellation. The names of the celestial objects were based on the suggestion of Malaysia for the IAU conducted NameExoWorld global contest. As a part of the contest, 112 exoplanets and their host stars were named."
+}

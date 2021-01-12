@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "1a096b8f-7742-43d5-9b68-092bae65cb96",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The International Astronomical Union recently named a star and its planet after the rivers Nakambe and Mouhoun. In this context, consider the following statements:<br />\n<ol>\n<li>Nakambe River is in Burkina Faso.</li>\n<li>The Mouhoun River is in the USA.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Nakambe River flows through Burkina Faso in Africa. It is also known as the White Volta. The river drains in to Lake Volta in Ghana. The exoplanet HD 30856 b in the Eridanus or the River Constellation was named after this river.\n<strong>Statement 2 is incorrect:</strong>\nThe Mouhoun River flows through Burkina Faso in Africa. It is also known as Black Volta and is a tributary of the White Volta River. The star HD 30856 was named after this river based on the country’s suggestion as part of the NameExoWorld global contest."
+}

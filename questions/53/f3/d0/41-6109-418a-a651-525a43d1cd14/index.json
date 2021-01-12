@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-11T04:28:37.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "53f3d041-6109-418a-a651-525a43d1cd14",
+  "labels": "current-affairs,2020-01-12",
+  "question": "In light of the recent earthquakes in Puerto Rico, consider the following statements about the Caribbean Plate- North American Plate boundary:<br />\r\n<ol>\r\n<li>It is an example of divergent boundary.</li>\r\n<li>The Caribbean Plate is an oceanic tectonic plate.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe Caribbean Plate- North American Plate boundary is an example of convergent tectonic plate boundary. This means that the plates are moving towards each other. The North American Plate is moving under the Caribbean Plate to form the subduction zone.\r\n<strong>Statement 2 is correct:</strong>\r\nThe Caribbean Plate is one of the minor tectonic plates. It is mostly an ocean tectonic plate- meaning it forms the oceanic portion of the crust. Apart from the North American Plate, it is also bounded by the South American Plate, Cocos Plate and the Nazca Plate."
+}

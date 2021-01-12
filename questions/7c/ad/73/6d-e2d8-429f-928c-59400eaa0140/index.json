@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T05:05:51.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "7cad736d-e2d8-429f-928c-59400eaa0140",
+  "labels": "current-affairs,2019-12-30",
+  "question": "In reference to the recent discussions about the determination of Snow Water Equivalent or SWE by NASA, consider the following statements about SWE:<br />\r\n<ol>\r\n<li>It is the volume of water produced by the melting of a given amount of snow.</li>\r\n<li>Density of snow determines the snow depth.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nSnow water equivalent is the depth of water produced by melting a given amount of snow. It is understood as the amount of water contained in a snowpack. The NASA project SnowEx is involved in SWE measurements in forested and non- forested areas.\r\n<strong>Statement 2 is correct:</strong>\r\nSnow depth is different from SWE. Snow depth is determined by dividing the SWE value by the density of the snow. The density of snow depends on the temperature and can vary from 5% to 20% in freshly fallen snow samples."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-17T16:47:47.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "2404e025-278e-4c54-9fa6-d6c2784e4fb7",
+  "labels": "current-affairs,2020-01-18",
+  "question": "In context of the recent sinkhole incidents in China, consider the following statements about this phenomenon:<br />\r\n<ol>\r\n<li>Sinkholes are common in karst terrain.</li>\r\n<li>Sinkholes can occur underwater.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nSinkholes are common in karst terrain. Karst is the process by which carbonate rocks undergo chemical dissolution and cause structural weakening of the ground. Dissolution of minerals by groundwater can also cause sinkholes to appear. Such terrains are common in areas with gypsum, limestone and carbonate rocks.\r\n<strong>Statement 2 is correct:</strong>\r\nSinkholes can occur underwater too. The Dragon Hole is the deepest underwater sinkhole and is located in Asia. Sinkholes are depressions in the ground due to collapse of surface. This may occur suddenly or over a long period of time."
+}

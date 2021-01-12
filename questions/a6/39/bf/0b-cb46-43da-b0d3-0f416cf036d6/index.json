@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-10T22:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "a639bf0b-cb46-43da-b0d3-0f416cf036d6",
+  "labels": "current-affairs,2020-01-11",
+  "question": "Which bank has recently launched a customised application set for banking products named ‘myApps’?",
+  "option1": "State Bank of India",
+  "option2": "ICICI bank",
+  "option3": "HDFC bank",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "HDFC bank",
+  "explanation": "India’s leading private sector bank, HDFC bank recently launched a customised group of banking products called ‘myApps’. HDFC Bank offers four categories of applications namely mySociety, myClub, myPrayer and myCity at present.<br />This application suite will benefit several types of institutions like urban local bodies and societies to digitise their transactions. The users can pay bills or book tickets for several facilities using the app. It has many other features like broadcast messages, report on payments by customers and complaint filing."
+}

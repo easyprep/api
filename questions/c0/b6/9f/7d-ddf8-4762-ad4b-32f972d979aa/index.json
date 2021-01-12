@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-03T22:08:16.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "c0b69f7d-ddf8-4762-ad4b-32f972d979aa",
+  "labels": "current-affairs,2020-01-04",
+  "question": "What is the new integrated helpline number of the Indian Railways, launched recently?",
+  "option1": 138,
+  "option2": 139,
+  "option3": 1071,
+  "option4": 1072,
+  "option5": "",
+  "answer": 139,
+  "explanation": "The Indian Railways has recently launched an integrated helpline number ‘139’ for its passengers by merging several other existing helpline numbers. The only other number which can still be used is ‘182’, which is the helpline number for assistance related to theft and criminal issues. This new helpline 139 is based on Interactive Voice Response system (IVRS) and is made available in 12 languages. The number can be even dialled from basic phones."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-25T01:21:55.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "78863e54-d36e-4765-9380-a6b06599403e",
+  "labels": "current-affairs,2019-12-26",
+  "question": "The government had recently notified rules on microdot identifiers. Microdot technology is used for what purpose?",
+  "option1": "Vehicle ID",
+  "option2": "Surveillance",
+  "option3": "Navigation",
+  "option4": "E-Banking",
+  "option5": "",
+  "answer": "Vehicle ID",
+  "explanation": "The government has recently notified the rules for the fixation of microdots on motor vehicles and their parts. It can improve security, prevent theft and fake spare parts. It is a technology that involves the spraying of microscopic dots on vehicles and their parts to provide them with unique identification."
+}

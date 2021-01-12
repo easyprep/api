@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e79851c3-d2a0-457c-8da7-19ba1018b23a",
+  "labels": "current-affairs,2020-01-20",
+  "question": "Which of the following is not a cloud computing service provider?",
+  "option1": "Amazon Web Services (AWS)",
+  "option2": "Microsoft Azure",
+  "option3": "IBM",
+  "option4": "Intel",
+  "option5": "",
+  "answer": "Intel",
+  "explanation": "Intel itself is not a could service provider. However, Intel powers cloud services with compatible processors, networking components, and solid-state drives, along with its rich portfolio of enabling technologies and solutions."
+}

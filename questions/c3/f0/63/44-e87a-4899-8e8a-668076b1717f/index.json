@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T02:22:27.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "c3f06344-e87a-4899-8e8a-668076b1717f",
+  "labels": "current-affairs,2020-01-03",
+  "question": "With respect to the recent launch of sounding rocket by ISRO, consider the following statements:<br />\r\n<ol>\r\n<li>Sounding rockets are for sub-orbital flights.</li>\r\n<li>They are used for inserting communication satellites into low earth orbits.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nSounding rockets are research rockets that perform sub-orbital flights. This means that its trajectory intersects the atmosphere and will not complete orbital revolution. The term ‘sounding’ is in reference to French word for probing (sonde). The ISRO recently launched the Rohini sounding rocket from Thiruvananthapuram in Kerala.\r\n <strong>Statement 2 is incorrect:</strong>\r\nSounding rockets are used for conducting scientific experiments. They are generally used for meteorological studies as they have operational altitudes between that of satellites and weather balloons. They are also used for testing equipment before incorporating them into expensive orbital spaceflights."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-15T04:50:51.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "dbe61f74-3387-44ae-a1f9-5384317a2583",
+  "labels": "current-affairs,2020-01-16",
+  "question": "With regards to the recent inclusion of Osteopetrosis in National Policy for treatment of rare diseases, consider the following statements about this condition:<br />\r\n<ol>\r\n<li>It causes loss of bone density.</li>\r\n<li>It is a rare disease that requires long term treatment and involves high costs.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nOsteopetrosis is a rare inherited disorder characterised by abnormal increase in bone density. It is also known as marble bone disease or Albers Schonberg disease. It was included in the recently released national policy for treatment of rare diseases by the health ministry.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe national policy lists 3 categories of rare diseases- disease that require one time curative treatment, those that require long term but low cost treatment and those that require long term high cost treatments. Osteopetrosis requires one time curative treatment."
+}

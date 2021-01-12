@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-16T00:05:31.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "eeaba194-30af-448b-af9e-99c39870e630",
+  "labels": "current-affairs,2020-01-17",
+  "question": "Which global tele-communication company’s arm has recently launched a new privacy-focused search engine called ‘OneSearch’?<br />",
+  "option1": "AT&T",
+  "option2": "Verizon",
+  "option3": "Vodafone",
+  "option4": "China Mobile",
+  "option5": "",
+  "answer": "Verizon",
+  "explanation": "Verizon Media, an arm of the international tele- communication company, Verizon communications, has recently launched a new privacy-focused search engine called ‘OneSearch’.<br />The search engine claims that the search history of the users will not be stored and the self-destructible search data of the users will not be shared with advertisers. The new search engine is also expected to give unbiased and unfiltered results, which will be personalised only based on locations and will separate IP addresses from users and their search results."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-25T01:35:57.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "7a409993-82e8-421c-9b6d-5b1899022715",
+  "labels": "current-affairs,2019-12-26",
+  "question": "What is thermal inversion which caused Iran to close down its schools recently?",
+  "option1": "A type of heat wave",
+  "option2": "Drought-like condition",
+  "option3": "Hot air held close to the ground by cold air above",
+  "option4": "Cooler air held close to the ground by the hot air above",
+  "option5": "",
+  "answer": "Cooler air held close to the ground by the hot air above",
+  "explanation": "In Iran, schools were closed for a week due to severe air pollution. Tehran was engulfed in thick toxic smog and the situation was worsened due to the thermal inversion, a phenomenon that occurs when a layer of warm air settles over a layer of cooler air that lies near the ground. The warm air holds down the cool air and prevents the pollutants from dispersing."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-09T22:35:19.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "1ede0f18-f92a-4eab-949e-c324d88ed0c2",
+  "labels": "current-affairs,2020-01-10",
+  "question": "Currently, India charges what fraction of the adjusted gross revenues (AGR) as license fee from telecom operators, due to which telecom operators claim that they are badly hit?",
+  "option1": 0.05,
+  "option2": 0.08,
+  "option3": 0.1,
+  "option4": 0.12,
+  "option5": "",
+  "answer": 0.08,
+  "explanation": "India levies license fees of 8% of adjusted gross revenues (AGR) from every telecom license holder. The SC on October 24 defined AGR as all revenues of a license holder, and not just revenues from telecom services. Apart from dealing a body blow to telcos, the order also made non-telecom companies holding licenses for internal communications and signaling liable to pay license fees on their entire revenue, even when they do not offer any telecom services."
+}

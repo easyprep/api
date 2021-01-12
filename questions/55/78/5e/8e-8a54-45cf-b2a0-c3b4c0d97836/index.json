@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-28T14:42:05.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "55785e8e-8a54-45cf-b2a0-c3b4c0d97836",
+  "labels": "current-affairs,2019-12-29",
+  "question": "In light of the recent news coverage of the Goa Antelope, consider the following statements:<br />\r\n<ol>\r\n<li>It is found in the Tibetan Plateau.</li>\r\n<li>It is an endangered species.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe Goa Antelope is also known as Tibetan Gazelle. It is found on the Tibetan Plateau at altitudes of 3,000 to 5,750m. They are found in certain provinces of China, Sikkim, Ladakh, etc. They are noted for their black tipped tail and heart shaped white rump patch.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe Tibetan Gazelle is a near threatened species according to IUCN. They face threat from loss of habitat and expansion of area under agriculture and pastoral activities. They also suffer from low disease resistance as a result of poor genetic diversity."
+}

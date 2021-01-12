@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-24T22:41:48.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "2d4ebaad-07a7-497b-9b6d-421ef256e473",
+  "labels": "current-affairs,2020-01-25",
+  "question": "What is the current investment limit for Foreign portfolio investors in government and corporate bonds, after the recent directions of RBI?",
+  "option1": 0.2,
+  "option2": 0.25,
+  "option3": 0.3,
+  "option4": 0.35,
+  "option5": "",
+  "answer": 0.3,
+  "explanation": "The Reserve Bank of India (RBI) recently increased the investment limit for FPIs in government and corporate bonds from 20 per cent to 30 per cent.\r\nAs of now, the Foreign portfolio investors (FPI) could not invest more than 20 per cent of their total investment in either central government securities or state development loans or corporate bonds. This relaxation is expected to attract more investments and increase the inflow of funds into the Indian market. FPIs are allowed to invest in exchange-traded funds that invest only in debt instruments."
+}

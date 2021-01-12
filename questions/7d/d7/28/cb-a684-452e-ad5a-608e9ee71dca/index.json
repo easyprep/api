@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-19T15:31:23.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "7dd728cb-a684-452e-ad5a-608e9ee71dca",
+  "labels": "current-affairs,2020-01-20",
+  "question": "The cloud service providers may provide applications, storage, bandwidth, virtual machines etc. to service many banks using a multi-tenant model. What term is used for this kind of arrangement?",
+  "option1": "Auto scaling",
+  "option2": "Load Balancing",
+  "option3": "Resource Pooling",
+  "option4": "Application Layers",
+  "option5": "",
+  "answer": "Resource Pooling",
+  "explanation": "Resource Pooling is one of the essential features of cloud computing. Resource pooling means that the cloud service provides pool the resources such as applications, storage, bandwidth, virtual machines etc. to service many banks using a multi-tenant model."
+}

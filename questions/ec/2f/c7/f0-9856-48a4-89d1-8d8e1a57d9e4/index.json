@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-25T17:13:17.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ec2fc7f0-9856-48a4-89d1-8d8e1a57d9e4",
+  "labels": "current-affairs,2019-12-26",
+  "question": "In context of the recently launched CBERS- 4A satellite, consider the following statements:<br />\r\n<ol>\r\n<li>It was launched by China and Ethiopia.</li>\r\n<li>It is to provide space internet service.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe CBERS- 4A satellite is a collaboration between China and Brazil. It was launched in December from the Taiyuan Satellite Launch centre in China on Board the Long March 4B rocket. It stands for China Brazil Earth Resource Satellite- 4A.\r\n<strong>Statement 2 is incorrect:</strong>\r\nThe satellite is meant to observe and monitor earth resources- especially the Amazon rainforests and aid in the environmental protection. It is also to help with agriculture, meteorology, etc. The satellite is to replace the earlier CBERS-4 which was launched in 2014."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-28T03:05:31.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "52f4f017-f5c7-43c7-9906-3f040150e481",
+  "labels": "current-affairs,2019-12-29",
+  "question": "Which country has recently decided to impose 3% digital tax on large tech companies from 2020?",
+  "option1": "China",
+  "option2": "UK",
+  "option3": "Italy",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "Italy",
+  "explanation": "Italy had recently decided to impose new digital tax on tech giants like Google and Amazon. This is similar to France’s GAFA tax on Google, Amazon, Facebook and Apple. Italy’s digital tax regime will come to force on January 1<sup>st</sup> 2020."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-08T23:03:36.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "289ee3f3-567b-436b-b7e8-d7a4bf4859e6",
+  "labels": "current-affairs,2020-01-09",
+  "question": "What is the name of the new relay satellite series, to be launched by the Indian Space Research Organisation (ISRO)?",
+  "option1": "Indian Relay Navigation Satellite System (IRNSS)",
+  "option2": "Indian Data Relay Satellite System (IDRSS)",
+  "option3": "Indian Relay Satellite System (IRSS)",
+  "option4": "Indian Relay Tracking System (IRTS)",
+  "option5": "",
+  "answer": "Indian Data Relay Satellite System (IDRSS)",
+  "explanation": "The Chairman of the Indian Space Research Organisation (ISRO) recently announced that indigenous relay satellite series called the Indian Data Relay Satellite System (IDRSS) will be launched soon .<br />The IDRSS is a set of relay satellites that will continuously track the Indian satellites and exchange information with them. The first of the two proposed satellites will be launched by the end of 2020, before the unmanned space flight to be conducted preceding the Gaganyaan Mission. Such crucial missions can be continuously monitored by the new relay satellite series."
+}

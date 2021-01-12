@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-16T23:52:56.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e0d0a200-86f9-4554-a88a-56505ffb8d16",
+  "labels": "current-affairs,2020-01-17",
+  "question": "Which technology company has recently launched the new version of its ‘Edge Chromium’ browser for both Mac and Windows platforms?",
+  "option1": "Google",
+  "option2": "Microsoft",
+  "option3": "Mozilla",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Tech Major Microsoft has recently announced the launch of its new Edge Chromium browser for both the Mac and Windows platforms.<br />Though the enterprise users are initially targeted by Microsoft, other Windows and macOS users could also download the browser manually from the official website of Microsoft and install it. It is expected that the Windows 10 users will be provided the browser through a windows update. The Edge has similar features like those in Chrome and also supports Chrome extensions."
+}

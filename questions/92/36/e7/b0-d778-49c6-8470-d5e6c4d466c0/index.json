@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-22T00:58:05.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "9236e7b0-d778-49c6-8470-d5e6c4d466c0",
+  "labels": "current-affairs,2020-01-23",
+  "question": "Which chip-set manufacturing firm recently announced first chipsets with ISRO's NavIC GPS for Android smartphones?",
+  "option1": "AMD",
+  "option2": "Nvidia",
+  "option3": "Qualcomm",
+  "option4": "ARM",
+  "option5": "",
+  "answer": "Qualcomm",
+  "explanation": "US-based semiconductor and tele-com equipment company Qualcomm recently announced first chipsets with ISRO\\'s NavIC GPS for Android smartphones.\r\nThe smartphones running on new Qualcomm chipsets will use NavIC, the Indian regional satellite navigation system, within the Indian region and neighbouring countries. The chipsets will also support the most commonly used Global Navigation Satellite System. NavIC has seven satellites as compared to the 24 satellites of GNSS, but NavIC provides more accurate positioning information as it covers only India and its neighbouring countries."
+}

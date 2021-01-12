@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-02T02:30:53.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "bb2a8571-1f7f-49e7-9093-fddece353809",
+  "labels": "current-affairs,2020-01-03",
+  "question": "With regards to the recently published India State of Forest Report 2019, consider the following statements:<br />\r\n<ol>\r\n<li>Shannon Wiener Index gives the species richness of a region.</li>\r\n<li>Ortho- rectified satellite data was used for the first time.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe India State of the Forest report, published by the Forest Survey of India, included Shannon Wienner Index information. This index gives the species richness or diversity of a region. It also gives the relative abundance of species. The index for each forest type in all states and UTs was determined.\r\n <strong>Statement 2 is correct:</strong>\r\nFor the first time, the ISFR made use of ortho- rectified satellite data for assessing the forest cover in India. The data from Resourcesat-2 was used and the effects of tilt, terrain and scale distortions were removed, resulting in more accuracy.\r\n&nbsp;"
+}

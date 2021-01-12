@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "7c2819a8-4ce7-431b-b7d8-371dc3d06015",
+  "labels": "current-affairs,2019-12-24",
+  "question": "In context with the US sanctions against the Nord Stream 2 pipeline, consider the following statements:<br />\n<ol>\n<li>The pipeline is for transporting gas.</li>\n<li>The pipeline connects Germany and Russia.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe Nordic Stream 2 pipeline is a project for transporting gas from the Russian gas fields to the European Union. The US recently passed a federal law imposing sanctions on firms that aid in the construction of this international pipeline system.\n<strong>Statement 2 is correct:</strong>\nThe Nordic Stream 2 pipeline is a project between Russia and Germany. The country already supplies 40% of the gas used by the EU countries. The pipeline, when completed will increase gas exports from Russia to the European nations, especially in the Baltic region."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-17T16:50:33.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "93e1d3dd-adc1-43d5-8927-52c0321764e9",
+  "labels": "current-affairs,2020-01-18",
+  "question": "In reference to the recent discussions about ‘below the line’ transactions of the government, consider the following statements:<br />\r\n<ol>\r\n<li>Below the line transactions are included in fiscal deficit calculation.</li>\r\n<li>Below the line transactions are not carried out through the budget.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nBelow the line transactions are not included in the calculation of fiscal deficit of the government. However, these transactions have a bearing on the deficit. The government’s increasing use of this means of funding has raised questions regarding the actual fiscal deficit scenario.\r\n<strong>Statement 2 is correct:</strong>\r\nThe below the line transactions are also known as off budget transactions. These transactions do not go through the budget. These transactions are not recorded through the CFI or Consolidated Fund of India. These are used by government to evade the responsibilities imposed by the FRBM Act."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-29T05:01:50.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "786bac10-92bb-42af-a2cf-2769d4f4f889",
+  "labels": "current-affairs,2019-12-30",
+  "question": "In light of the recent discovery about the planet formation process by the ASTE telescope, consider the following statement:<br />\r\n<ol>\r\n<li>ASTE telescope is in Hawaii.</li>\r\n<li>It is operated by Japan.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe ASTE or Atacama Submillimeter Telescope Experiment is in Pampa La Bora of Atacama Desert in Northern Chile. It is a 10m submillimeter telescope located at an altitude of 4,860m. it is used to observe the dark universe that isn’t visible to naked eye.\r\n<strong>Statement 2 is correct:</strong>\r\nThe ASTE telescope is operated by National Astronomical Observatory of Japan. Several universities like University of Tokyo, University of Chile, etc. are also involved in the project. The ASTE made observations about the planet formation process surrounding the 49 Ceti star."
+}

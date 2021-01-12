@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-28T14:39:52.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "89b7beeb-0b02-4d5f-bdd4-929583882ff6",
+  "labels": "current-affairs,2019-12-29",
+  "question": "In context of the recent Lambanog poisoning deaths in Philippines, consider the following statements:<br />\r\n<ol>\r\n<li>Lambanog is made from coconuts.</li>\r\n<li>Lambanog poisoning is due to methanol contamination.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nLambanog is a traditional alcoholic drink of Philippines made from coconut. It is also known as coconut vodka. It has a very high alcohol content in the range of 40% to 45%. It is especially produced in provinces with widespread coconut cultivation.\r\n<strong>Statement 2 is correct:</strong>\r\nLambanog poisoning killed 11 people in Philippines during the Christmas celebrations. Lambanog poisoning occurs due to improper fermentation process that leads to methanol contamination. High levels of methanol can lead to blindness, dizziness, vomiting and in some cases, death."
+}

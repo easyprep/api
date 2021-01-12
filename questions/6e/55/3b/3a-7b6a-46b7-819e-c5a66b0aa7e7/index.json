@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-16T21:32:21.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "6e553b3a-7b6a-46b7-819e-c5a66b0aa7e7",
+  "labels": "current-affairs,2020-01-17",
+  "question": "What is the code devised to access mobile banking without internet connection via the USSD?",
+  "option1": "*123#",
+  "option2": "*99#",
+  "option3": "*111#",
+  "option4": "*100#",
+  "option5": "",
+  "answer": "*99#",
+  "explanation": "Unstructured Supplementary Service Data (USSD) allows users without a smartphone or data/internet connection to use mobile banking through the *99# code. USSD-based mobile banking can be used for fund transfers, checking account balance, generating bank statement, among other uses. The main objective of the innovative *99# payments service is to allow financial inclusion of the underbanked and economically weaker sections of the society, and integrate them into mainstream banking. The *99# service is also known as National Unified USSD Platform (NUUP)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-16T21:48:07.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e6043c85-9776-4132-a2fb-a6222cf070e0",
+  "labels": "current-affairs,2020-01-17",
+  "question": "Mobile Money Identifier is a 7 digit number that facilitates fund transfer in mobile banking. Which of these bodies issues MMID?",
+  "option1": "RBI",
+  "option2": "NPCI",
+  "option3": "Banks",
+  "option4": "Telecom Companies",
+  "option5": "",
+  "answer": "Banks",
+  "explanation": "Mobile Money Identifier is a 7 digit number, issued by banks. MMID is one of the input which when clubbed with mobile number facilitates fund transfer. Combination of Mobile no. & MMID is uniquely linked with an Account number and helps in identifying the beneficiary details. Different MMIDs can be linked to same Mobile Number."
+}

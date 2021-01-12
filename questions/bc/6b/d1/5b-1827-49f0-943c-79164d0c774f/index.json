@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-03T03:02:22.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "bc6bd15b-1827-49f0-943c-79164d0c774f",
+  "labels": "current-affairs,2020-01-04",
+  "question": "In context of the recent DRDO decision to setup labs for futuristic technologies, consider the following statements:<br />\r\n<ol>\r\n<li>The laboratory for artificial intelligence technology is to be in Delhi.</li>\r\n<li>The lab on cognitive technology is to be set up in Bengaluru.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe DRDO is to set up the lab for artificial intelligence technology at Bengaluru, Karnataka. The DRDO has planned 5 labs in total, each of which will work on a specific area of futuristic technology. The other 4 labs are to be established in Mumbai, Kolkata, Hyderabad and Chennai.\r\n <strong>Statement 2 is incorrect:</strong>\r\nThe lab on cognitive technology is to be established in IIT Madras, Chennai. The other areas of research taken up by the labs are quantum technologies (in IIT, Mumbai), asymmetric technologies (in Jadavpur University, Kolkata) and smart materials (in Hyderabad)."
+}

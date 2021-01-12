@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-18T01:13:25.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "b15ec478-76ed-4af4-9a7f-99018a4c4e64",
+  "labels": "current-affairs,2020-01-19",
+  "question": "Which Indian satellite has been recently launched from French Guiana?",
+  "option1": "RISAT 2B",
+  "option2": "GSAT 30",
+  "option3": "GSAT 7A",
+  "option4": "IRNSS 1H",
+  "option5": "",
+  "answer": "GSAT 30",
+  "explanation": "The Indian Space Research Organisation’s high-power communication satellite, GSAT 30 has been launched successfully from French Guiana on 17th January, 2020. The aim of this satellite is to provide high quality telecommunication, Cellular and Broadcasting service. \r\nThe satellite was put in place in the Geo Synchronous Orbit by the Ariane-5 rocket. GSAT 30 weighs 3357 kg and it is to serve as the replacement satellite to INSAT-4A with enhanced coverage. The operational life of the GSAT 30 is expected to be more than 15 years."
+}

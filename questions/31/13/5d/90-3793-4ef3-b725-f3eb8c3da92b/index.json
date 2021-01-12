@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-14T04:28:33.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "31135d90-3793-4ef3-b725-f3eb8c3da92b",
+  "labels": "current-affairs,2020-01-15",
+  "question": "In reference to the recent development of inexpensive devises for performing complete blood count test by IIT scientists, consider the following statements about CBC test:<br />\r\n<ol>\r\n<li>CBC test does not include analysis of platelets.</li>\r\n<li>Haemoglobin is in the plasma of the blood.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe CBC test or the Complete Blood Count test is a medical test done to gather information about the status of a patient’s blood. It includes analysis of the red blood cells (RBC), white blood cells (WBC) and also the platelets.\r\n <strong>Statement 2 is incorrect:</strong>\r\nHaemoglobin is the component responsible for the red color of the blood. It is present in the RBC and it’s also covered by the CBC test. The scientists at IIT Kharagpur have developed a device which can perform the test at the cost of 10 INR. Currently, the same test costs about 200 INR."
+}

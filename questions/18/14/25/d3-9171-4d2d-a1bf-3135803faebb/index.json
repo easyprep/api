@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-01-11T04:20:57.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "181425d3-9171-4d2d-a1bf-3135803faebb",
+  "labels": "current-affairs,2020-01-12",
+  "question": "In light of the recent earthquake in Puerto Rico, consider the following statements about ‘earthquake swarm’:<br />\r\n<ol>\r\n<li>Earthquake swarm is a seismic mainshock followed by a series of aftershocks.</li>\r\n<li>The 2018 Dahanu earthquakes is an example of earthquake swarm.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nEarthquake swarm is a seismic phenomenon in which a series of earthquakes occur in such a way that it’s difficult to differentiate the mainshock from the aftershock. These occur locally over a short period of time. A series of aftershock after a mainshock also doesn’t constitute an earthquake swarm.\r\n<strong>Statement 2 is correct:</strong>\r\nIndia experienced an earthquake swarm in the Dahanu region of Maharashtra in 2018. In November of 2018, the region experienced daily swarm s of 10 to 20 quakes with magnitudes smaller than 3.4. The highest magnitude of quake recorded in that swarm was 4.1."
+}

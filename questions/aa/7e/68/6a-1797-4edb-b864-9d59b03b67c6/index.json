@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T01:04:07.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "aa7e686a-1797-4edb-b864-9d59b03b67c6",
+  "labels": "current-affairs,2019-12-28",
+  "question": "With respect to the recently introduced ‘Run Through File’ mechanism, consider the following statements:<br />\r\n<ol>\r\n<li>It is for reducing delays in government affairs.</li>\r\n<li>It was introduced by the Haryana government.</li>\r\n</ol>\r\nWhich of the above statements is/are true?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Both 1 and 2 are correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\r\nThe ‘Run Through File’ mechanism is to reduce the delay in government affairs due to conflicts in the hierarchical structure. The Chief Minister would designate a file as ‘RTF’ which would then be cleared on a priority basis. Email and SMS alerts will be involved in the clearance stages.\r\n <strong>Statement 2 is correct:</strong>\r\nThe Run Through File mechanism was introduced by the Haryana government. This is under the Centralised File Movement and Tracking System. The implementation is to be directly overseen by the state’s CM. The contributions to the RTF marked documents at different stages will be recorded on the CFMS portal."
+}

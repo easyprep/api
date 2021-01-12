@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-28T14:37:50.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "e71bf92b-58f8-40b3-853e-fb90a68c29cc",
+  "labels": "current-affairs,2019-12-29",
+  "question": "In reference to the recent news coverage of the Iron Dome Air Defence System, consider the following statements:<br />\r\n<ol>\r\n<li>It is meant for intercepting long range rockets.</li>\r\n<li>It is a defence system developed by Israel.</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>Statement 1 is incorrect:</strong>\r\nThe Iron Dome Air Defence System is an anti-missile system used for intercepting and destroying short range rockets. It was recently used by Israeli military to protect its Prime Minister Netanyahu from an incoming rocket at Ashkelon. The rocket was launched from the Gaza Strip.\r\n <strong>Statement 2 is correct:</strong>\r\nThe Iron Dome Air Defence System is an indigenously developed component of Israeli defences. It was jointly developed by the Rafael Advanced Defence System and Israel Aerospace Industries. It is noted for being mobile and capable of operating under all weather conditions."
+}

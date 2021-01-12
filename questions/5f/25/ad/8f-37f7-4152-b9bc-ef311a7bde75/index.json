@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-27T02:43:25.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "5f25ad8f-37f7-4152-b9bc-ef311a7bde75",
+  "labels": "current-affairs,2019-12-28",
+  "question": "The government recently announced free internet services to all villages by March of 2020. Which tool is going to be used to achieve this?",
+  "option1": "ISRO space internet constellation",
+  "option2": "VoWiFi service providers",
+  "option3": "Bharatnet",
+  "option4": "National Optical Fibre Network",
+  "option5": "",
+  "answer": "Bharatnet",
+  "explanation": "The ministry of communication and information technology announced that all villages are to have free internet connection by March of 2020. This is to be achieved using the Bharatnet. The Bharatnet is a network infrastructure initiated in 2017 and funded by Universal Service Obligation Fund."
+}

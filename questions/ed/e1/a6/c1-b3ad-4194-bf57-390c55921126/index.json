@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-12-23T22:00:06.000Z",
+  "updated_at": "2021-01-06T08:24:48.644Z",
+  "id": "ede1a6c1-b3ad-4194-bf57-390c55921126",
+  "labels": "current-affairs,2019-12-24",
+  "question": "The USA had launched its Space Force in December. In this context, consider the following statements:<br />\n<ol>\n<li>The Space Force falls under the US Air Force.</li>\n<li>The soldiers are to be deployed in space under this new defence force.</li>\n</ol>\nWhich of the above statements is/are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Neither 1 nor 2 is correct",
+  "option4": "Both 1 and 2 are correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "<strong>Statement 1 is correct:</strong>\nThe US Space Force is to fall under the country’s Air Force. It is to receive an initial funding of 40 million USD for first year of operation. It is to be the sixth component of USA’s defence forces after the army, navy, air force, marines and the coast guards.\n<strong>Statement 2 is incorrect:</strong>\nThe Space Force soldiers are not to be deployed in space. They are to be deployed for protection of the American satellites, launch vehicles and other interests in the space sector. The soldiers for this new force are to be derived from other branches of the defence forces."
+}
