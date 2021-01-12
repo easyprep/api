@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T00:07:03.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "f582602e-4b43-4cff-b02b-65ccbb4b58b2",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the share of the banana produced in India among the ones produced in the rest of the world?",
+  "option1": 0.305,
+  "option2": 0.257,
+  "option3": 0.454,
+  "option4": 0.146,
+  "option5": "",
+  "answer": 0.257,
+  "explanation": "India ranks first in the production of Bananas with share of 25.7%, Papayas with share of 43.6% and Mangoes (including mangosteens and guavas) with share of 40.4%."
+}

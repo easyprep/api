@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T00:04:48.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "0fec1ce0-ec79-48b4-92ca-8c16a55f12d9",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the value of oil seeds among the total value of agricultural commodities?",
+  "option1": 0.2,
+  "option2": 0.4,
+  "option3": 0.3,
+  "option4": 0.1,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "The oilseed accounts for 13% of the Gross Cropped Area, 3% of the Gross National Product and 10% value of all agricultural commodities."
+}

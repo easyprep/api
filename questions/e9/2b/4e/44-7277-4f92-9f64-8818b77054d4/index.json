@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:43:18.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "e92b4e44-7277-4f92-9f64-8818b77054d4",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following statements is/are correct about Lithalsa, Palsa and Pingo?<br />\n<ol>\n<li>Lithalsa is a Palsa with peat cover.</li>\n<li>Lithalsa exist in a smaller range than Palsa.</li>\n<li>Both Lithalsa and Palsa are relatively smaller compared to Pingos.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "1,2 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Lithalsa is a Palsa<strong> without</strong> a peat cover.<br />Lithalsa exists in small ranger than the palsa.<br />Both Lithalsa and Palsa are smaller compared to Pingos."
+}

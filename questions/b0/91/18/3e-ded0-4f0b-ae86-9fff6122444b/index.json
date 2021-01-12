@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:44:07.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "b091183e-ded0-4f0b-ae86-9fff6122444b",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following statements is/are correct about Cirque?<br />\n<ol>\n<li>Cirque is an amphitheatre like valley formed by glacial erosion.</li>\n<li>Glacial cirques are found amongst mountain ranges throughout the world</li>\n<li>Cirques are also formed due to fluvial erosion.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 3",
+  "option3": "1, 2 & 3",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Cirque or corrie is an amphitheatre like valley formed by the erosion by glaciers.<br />They are found amongst mountain ranges throughout the world<br />Cirques are also formed due to fluvial erosion."
+}

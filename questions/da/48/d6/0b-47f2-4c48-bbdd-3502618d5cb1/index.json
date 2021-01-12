@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T00:04:37.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "da48d60b-47f2-4c48-bbdd-3502618d5cb1",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following is an oilseed?<br />1. Mustard<br />2.Soybean<br />3. Flaxseed<br />4. Peanut<br />5. Wheat Bran<br />Choose the correct option from the codes given below:",
+  "option1": "1,2 and 3 only",
+  "option2": "1,2,3 and 5 only",
+  "option3": "1,2,3,4 and 5",
+  "option4": "1,2,3 and 4 only",
+  "option5": "",
+  "answer": "1,2,3 and 4 only",
+  "explanation": "The seeds which are used for producing oil are soil seeds. Some of them are Mustard, Soybean, Flaxseed, Peanut are some of them. Wheat Bran is not used for oil production."
+}

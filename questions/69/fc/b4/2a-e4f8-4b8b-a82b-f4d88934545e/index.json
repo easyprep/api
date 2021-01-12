@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:11:15.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "69fcb42a-e4f8-4b8b-a82b-f4d88934545e",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the percentage of land with tree cover in India?",
+  "option1": 0.035,
+  "option2": 0.0289,
+  "option3": 0.0145,
+  "option4": 0.0785,
+  "option5": "",
+  "answer": 0.0289,
+  "explanation": "The tree cover of the country is estimated as 95,027 sq km which is 2.89% of the geographical area. Tree cover comprises of tree patches of size less than 1 hectare occurring outside the recorded forest area."
+}

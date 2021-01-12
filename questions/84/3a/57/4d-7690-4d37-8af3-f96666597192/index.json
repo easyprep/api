@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:43:19.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "843a574d-7690-4d37-8af3-f96666597192",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following pairs is/are correctly matched?<br />\n<ol>\n<li>Lithalsa – A frost induced raised land form in permafrost regions.</li>\n<li>Nivation Hollow – Mound of earth-covered ice.</li>\n<li>Palsa – A low oval frost heave occurring in polar and subpolar climates.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Both 1 & 2",
+  "option3": "Only 3",
+  "option4": "Only 1 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Nivation hollows are marshy hollows and small mounds associated with snow patches.<br />Whereas Pingos are hollow mounds of earth covered ice."
+}

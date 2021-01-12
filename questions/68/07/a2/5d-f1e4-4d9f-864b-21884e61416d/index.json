@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T12:13:46.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "6807a25d-f1e4-4d9f-864b-21884e61416d",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following type of coffee is grown in India?<br />1. Arabica<br />2. Robusta<br />3. Charrieriana<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3",
+  "option2": "1 and 3 only",
+  "option3": "1 and 2 only",
+  "option4": "2 only",
+  "option5": "",
+  "answer": "1 and 2 only",
+  "explanation": "Arabica and Robusta are 2 varieties of coffee. Arabica accounts for 49% and robusta 51% of production."
+}

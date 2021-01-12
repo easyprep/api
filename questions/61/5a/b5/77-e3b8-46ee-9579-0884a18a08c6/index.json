@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-04T21:28:06.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "615ab577-e3b8-46ee-9579-0884a18a08c6",
+  "labels": "current-affairs,2020-07-05",
+  "question": "Which of the following is the correct order of the cities from West to East?",
+  "option1": "Ranchi-Alwar-Bhagalpur-Gorakhpur",
+  "option2": "Gorakhpur-Bhagalpur-Ranchi-Alwar",
+  "option3": "Alwar-Gorakhpur-Ranchi-Bhagalpur",
+  "option4": "Bhagalpur-Ranchi-Alwar-Gorakhpur",
+  "option5": "",
+  "answer": "Alwar-Gorakhpur-Ranchi-Bhagalpur",
+  "explanation": "The correct order from West to East- Alwar(Rajasthan), Gorakhpur(Uttar Pradesh), Ranchi(Jharkhand), Bhagalpur(Bihar)."
+}

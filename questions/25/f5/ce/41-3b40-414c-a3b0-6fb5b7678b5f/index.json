@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T12:13:46.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "25f5ce41-3b40-414c-a3b0-6fb5b7678b5f",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the total Indian cashew export share in the global cashew exports?",
+  "option1": 0.65,
+  "option2": 0.23,
+  "option3": 0.35,
+  "option4": 0.44,
+  "option5": "",
+  "answer": 0.65,
+  "explanation": "Export earnings from raw cashew nut during April 2018-January 2019 stood at 11,414 MT, valued at Rs 143.98 crore (US$ 29.12 million) India accounts for about 65 percent of global cashew exports."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T18:04:38.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "845cdc74-5805-498c-bd59-6c2cc116d3ad",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the contribution of Animal husbandry to Indian GDP?",
+  "option1": 0.0519,
+  "option2": 0.0411,
+  "option3": 0.0341,
+  "option4": 0.0219,
+  "option5": "",
+  "answer": 0.0411,
+  "explanation": "India has vast livestock resources. The livestock sector contributes 4.11% GDP and 25.6% of total Agriculture GDP."
+}

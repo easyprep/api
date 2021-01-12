@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:11:15.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "3bbb7c60-767f-47b9-a4df-e2cc7d92bef2",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the contribution of Forests to Indian GDP?",
+  "option1": 0.034,
+  "option2": 0.017,
+  "option3": 0.059,
+  "option4": 0.029,
+  "option5": "",
+  "answer": 0.017,
+  "explanation": "Forests formally contribute 1.7 percent to India¿s GDP. India produces a range of processed forest (wood and non-wood) products ranging from sawnwood, panel products and wood pulp to bamboo, rattan ware and pine resin. The paper industry produces over 3 million tonnes annually from more than 400 mills (however, the raw material to produce that volume comes substantially from non-wood fibre)."
+}

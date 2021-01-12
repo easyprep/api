@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:11:15.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "e0db18d0-a109-48fd-a974-5aaf044d59eb",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the minimum tree canopy density that an area should have in order to be considered as a forest?",
+  "option1": 0.3,
+  "option2": 0.15,
+  "option3": 0.45,
+  "option4": 0.1,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "The forest cover of India includes all patches of land with a tree canopy density of more than 10% and more than 1 hectare in area, irrespective of land use, ownership and species of trees."
+}

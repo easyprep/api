@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T18:04:38.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "a0835154-3fdd-4bc2-be3b-a01e5d988f24",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the contribution of livestock to total agricultural output?",
+  "option1": 0.3545,
+  "option2": 0.1545,
+  "option3": 0.2525,
+  "option4": 0.3125,
+  "option5": "",
+  "answer": 0.2525,
+  "explanation": "The value of the output of the livestock sector at current prices is Rs 9,17,910 crores at current prices during 2016-17. This is about 31.25% of the value of output from the agricultural and allied sectors."
+}

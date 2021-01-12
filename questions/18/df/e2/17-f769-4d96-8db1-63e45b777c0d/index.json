@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-04T21:30:37.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "18dfe217-f769-4d96-8db1-63e45b777c0d",
+  "labels": "current-affairs,2020-07-05",
+  "question": "Which among the following places of India are covered under the seismic zone V?<br />1. Kashmir<br />2. Punjab<br />3. North East India<br />4. Rann of Katch<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 3",
+  "option2": "1, 3 & 4",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Seismic zone V is the highest risk zone that suffers earthquakes of the highest intensity. The areaS under the zones are Kashmir, Punjab, North East India, Rann of Katch, Central and Western Himalayas."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-01T05:36:18.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "d198ebc9-687e-4db2-b36b-eea571ac39f7",
+  "labels": "current-affairs,2020-07-02",
+  "question": "Food aggregator company Swiggy has partnered with which bank to launch its own digital wallet?",
+  "option1": "HDFC Bank",
+  "option2": "State Bank of India",
+  "option3": "ICICI Bank",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "Food aggregator platform and unicorn start-up Swiggy has launched its own digital wallet Swiggy Money in partnership with ICICI Bank.\r\nThe full-fledged digital wallet enables single-click checkout experience and will let its customers to store money and pay for all food orders on Swiggy. Swiggy has used ICICI Bank’s insta wallet service API, to create its own wallet."
+}

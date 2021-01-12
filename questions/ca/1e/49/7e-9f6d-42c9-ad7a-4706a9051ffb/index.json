@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-04T21:28:07.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "ca1e497e-9f6d-42c9-ad7a-4706a9051ffb",
+  "labels": "current-affairs,2020-07-05",
+  "question": "Arrange the following cities of India from west to east<br />1. Bilaspur <br />2. Ranchi<br />3. Bhopal <br />4. Jodhpur<br />Choose the correct option from the codes given below :",
+  "option1": "4, 1, 2, 3",
+  "option2": "4, 3, 1, 2",
+  "option3": "3, 1, 2, 4",
+  "option4": "3, 4, 1, 2",
+  "option5": "",
+  "answer": "4, 3, 1, 2",
+  "explanation": "Correct order from west to east- Jodhpur (Rajasthan), Bhopal (Madhya Pradesh), Bilaspur (Chattisgarh), Ranchi (Jharkhand)."
+}

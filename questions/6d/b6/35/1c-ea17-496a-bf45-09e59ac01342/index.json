@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T18:05:52.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "6db6351c-ea17-496a-bf45-09e59ac01342",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following are the type of chicken poultry farming?<br />1. Layers<br />2. Broiler<br />3. Lister<br />Choose the correct option from codes given:",
+  "option1": "1 only",
+  "option2": "2 and 3 only",
+  "option3": "1 and 2 only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1 and 2 only",
+  "explanation": "Broilers and layers are the types of chicken poultry farming."
+}

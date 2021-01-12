@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:44:05.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "92eee660-0442-49ee-9d41-4e9848185c84",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following statements is/are correct about Badlands?<br />\n<ol>\n<li>They are characterized by steep slope.</li>\n<li>They are characterized by minimal vegetation.</li>\n<li>Low Drainage density</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 3",
+  "option3": "1,2 & 3",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Badlands are dry terrains which are eroded by the action of wind and water. They are characterized by:<br />Minimal Vegetation<br />Steep slope<br /><strong>High</strong> drainage density."
+}

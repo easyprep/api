@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-24T04:14:03.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "5bb063c0-5127-44be-94b2-4deec07aa72a",
+  "labels": "current-affairs,2020-06-25",
+  "question": "What is ‘Dhruva’, that has been developed by researchers and students of IIT-Bombay?",
+  "option1": "Personal Protective Equipment",
+  "option2": "COVID-19 Test Kit",
+  "option3": "Receiver chip for NAVIC",
+  "option4": "Microprocessor",
+  "option5": "",
+  "answer": "Receiver chip for NAVIC",
+  "explanation": "The students and researchers of IIT-Bombay has recently developed a homegrown receiver chip – Dhruva.\r\nThe chip can be used in smartphones and navigation devices to find locations and routes within the country. It will receive signals from NAVIC group of navigation satellites of India, as well as the US Global Positioning System-based satellites to determine a person’s location precisely."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T18:05:52.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "7a0387a6-69a7-42d0-9677-2f660423f819",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the processing level of the Indian Poultry Industry?",
+  "option1": 0.1,
+  "option2": 0.2,
+  "option3": 0.06,
+  "option4": 0.21,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "In the Indian Poultry Industry, the current processing levels in poultry are 6%, while for meat it stands at 21%."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-04T21:28:07.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "1d9ee67f-8f18-4bac-992e-0b0e38c2d131",
+  "labels": "current-affairs,2020-07-05",
+  "question": "Arrange the following countries in descending order of the length of their shared boundary with India<br />1. China<br />2. Pakistan<br />3. Bangladesh<br />4. Nepal<br />Choose the correct option from the codes given below :",
+  "option1": "3, 1, 2, 4",
+  "option2": "3, 4, 1, 2",
+  "option3": "1, 3, 2, 4",
+  "option4": "1, 2, 3, 4",
+  "option5": "",
+  "answer": "3, 1, 2, 4",
+  "explanation": "Length of shared boundary- Bangladesh (4,096 km), China (3,917 km), Pakistan (3,310 km), Nepal (1,752)."
+}

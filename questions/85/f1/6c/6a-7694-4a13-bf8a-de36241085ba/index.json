@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T21:25:36.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "85f16c6a-7694-4a13-bf8a-de36241085ba",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following landforms is/are associated with extraterrestrial impacts?<br />\n<ol>\n<li> Ejecta Blanklet</li>\n<li>Crater lake</li>\n<li>Erg</li>\n<li>Central peak</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 2",
+  "option2": "Only 1,2 & 4",
+  "option3": "Only 1 & 2",
+  "option4": "1,2,3 & 4",
+  "option5": "",
+  "answer": "Only 1,2 & 4",
+  "explanation": "Impact landforms are associated with the collision of extraterrestrial objects.<br />Examples include:<br />Central peak<br />Crater lake<br />Ejecta Blanket<br />Complex crater,etc"
+}

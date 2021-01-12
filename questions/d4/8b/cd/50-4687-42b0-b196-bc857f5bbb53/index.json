@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-04T21:30:38.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "d48bcd50-4687-42b0-b196-bc857f5bbb53",
+  "labels": "current-affairs,2020-07-05",
+  "question": "Which among the following are the artificial reasons for earthquakes in India?<br />1. Atomic bomb testing<br />2. Construction of Dam<br />3. Landslide in the hilly region<br />4. Oil drilling<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "3 & 4",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The artificial reasons for earthquakes in India are Atomic bomb testing (Pokhran), Construction of Dam (Koyna), Landslide in the hilly region, Oil drilling."
+}

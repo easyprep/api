@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T21:25:30.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "047d99df-efa3-4012-bfb0-37e4091e74b6",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following statements is/are correct about impact crater?<br />\n<ol>\n<li>It is a circular depression on the surface due to hypervelocity impact of smaller body.</li>\n<li>They are found only on earth and moon. </li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Impact crater is a circular depression in the surface of a planet formed by the hypervelocity impact of the smaller body. Impact craters are found on Earth, moon, mercury, ganymede, asteroids, etc. Meteor crater is an example of a small impact crater."
+}

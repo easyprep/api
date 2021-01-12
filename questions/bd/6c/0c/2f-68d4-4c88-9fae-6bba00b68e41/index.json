@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-04T21:30:37.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "bd6c0c2f-68d4-4c88-9fae-6bba00b68e41",
+  "labels": "current-affairs,2020-07-05",
+  "question": "What percent of India's territory comes under the moderate and high seismic zones?",
+  "option1": 0.2,
+  "option2": 0.35,
+  "option3": 0.42,
+  "option4": 0.6,
+  "option5": "",
+  "answer": 0.6,
+  "explanation": "According to the basis of frequency and intensity of the earthquake, India has divided into four (Zone 2, 3, 4 and 5) seismic zones. About 60% of India's territory comes under the moderate and high seismic zones."
+}

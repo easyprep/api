@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-25T05:22:34.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "8228d610-fe71-45b0-8dab-07195ae06907",
+  "labels": "current-affairs,2020-06-26",
+  "question": "What is the estimated GDP growth rate of India in this fiscal year, as per India Ratings and Research?",
+  "option1": 0.012,
+  "option2": 0.002,
+  "option3": -0.025,
+  "option4": -0.053,
+  "option5": "",
+  "answer": -0.053,
+  "explanation": "As per the India Ratings and Research, India’s economy is estimated to contract by 5.3 per cent this fiscal year.\r\nAs per Ind-Ra, this is the lowest GDP growth in the Indian history and the sixth instance of economic contraction. It also revealed that though some activities have started now, tourism and hospitality sectors will not allow the economic activity to return to normalcy throughout FY21 due to the disruptions caused by Covid-19 pandemic."
+}

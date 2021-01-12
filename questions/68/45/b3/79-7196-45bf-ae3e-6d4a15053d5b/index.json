@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:44:18.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "6845b379-7196-45bf-ae3e-6d4a15053d5b",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following pairs is/are correctly matched?<br />\n<ol>\n<li>Canyon – Deep ravine between cliffs</li>\n<li>Erg – A broad, flat area of desert covered with wind-swept sand</li>\n<li>Butte - A large dome-shaped, steep-sided, bald rock</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 3",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1,2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Canyon, Erg and Butte are erosional landforms.<br />Butte is a an isolated hill with steep sides and a relatively flat top<br />Bornhardt is a large dome shaped bald rock with steep sides."
+}

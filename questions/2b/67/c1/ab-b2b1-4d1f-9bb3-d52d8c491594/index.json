@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:43:20.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "2b67c1ab-b2b1-4d1f-9bb3-d52d8c491594",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following pairs are <strong>not </strong>correctly matched?<br />\n<ol>\n<li>Pingos - Batagaika crater.</li>\n<li>Thermokarst depression - Tuktoyaktuk peninsula.</li>\n<li>Hummocks - Mount Kenya</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "1, 2 & 3",
+  "option2": "Only 1 & 2",
+  "option3": "Only 3",
+  "option4": "Neither 1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Pingos are cryogenic landforms of mounds of earth covered ice. E.g. Tuktoyaktuk peninsula <br />Thermokarst depressions are cryogenic formations found in Batagaika crater.<br />Hummocks - Mount Kenya"
+}

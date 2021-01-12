@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-04T21:28:06.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "7703d702-e7bf-4416-ac02-cf1ed39854ac",
+  "labels": "current-affairs,2020-07-05",
+  "question": "Which among the following States are the largest and smallest respectively (in terms of geographical area)?<br />1. Chhattisgarh<br />2. Telangana<br />3. Andhra Pradesh<br />4. Uttarakhand<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1 & 4",
+  "option3": "3 & 4",
+  "option4": "3 & 2",
+  "option5": "",
+  "answer": "3 & 4",
+  "explanation": "The largest state (above mentioned) is Andhra Pradesh (160,205 sq km) and the Smallest state is Uttarakhand (53,483 sq km)."
+}

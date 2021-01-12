@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T21:25:35.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "3ad91546-d1c1-4bf8-8326-aac949c43cff",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following statements is/are correct about impact crater?<br />\n<ol>\n<li>They are formed by the hypervelocity impact of a smaller body</li>\n<li>The have similar composition like sinkholes, glacial cirques,etc</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Impact crater is a type of impact landform formed due to collision of astronomical objects. Impact crater is a circular depression formed by the hypervelocity impact of a smaller body. Impact craters should not be confused with landforms like sinkholes, glacial cirques which are different in composition and origin from the impact crater."
+}

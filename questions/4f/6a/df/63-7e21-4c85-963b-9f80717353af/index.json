@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-24T04:15:33.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "4f6adf63-7e21-4c85-963b-9f80717353af",
+  "labels": "current-affairs,2020-06-25",
+  "question": "Which major technology company has shut its video game streaming service ‘Mixer’?",
+  "option1": "Facebook",
+  "option2": "Microsoft",
+  "option3": "Amazon",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Major technology company Microsoft has recently announced to shut its video game streaming service Mixer.\r\nMicrosoft partnered with Facebook to enable the users of Mixer to transit to Facebook Gaming. If the user is voluntary to switch over to Gaming service of Facebook, it has been made easy. Earlier, Apple rejected Facebook Gaming app on the iOS App Store. However, Microsoft is working on their new project ‘xCloud’."
+}

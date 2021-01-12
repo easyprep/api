@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T21:25:34.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "3ff1dfe2-e2cf-48e7-8e5b-e9b78d787510",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following statements is/are correct about central peak crater?<br />\n<ol>\n<li>It is the most basic form of complex crater</li>\n<li>They can occur in impact craters due to meteorites as well as due to volcanism.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Complex crater is an impact landform formed due to collision of large astronomical object leading to a considerable impact. They are a type of large impact crater morphology. <br />Central peak craters are the most basic form of complex craters. They generally occur in impact craters due to meteorites as well as sometimes due to volcanism."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T20:11:15.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "7cf03a0c-d8f9-4f13-a672-c7dedc15f424",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is the total forest cover in the country?",
+  "option1": 0.2456,
+  "option2": 0.2167,
+  "option3": 0.3454,
+  "option4": 0.3756,
+  "option5": "",
+  "answer": 0.2167,
+  "explanation": "The total forest cover of the country is 7,12,249 sq km which is 21.67% of the geographical area of the country. Tree and forest cover together made up 24.56% (8,07,276 sq km) of India's area."
+}

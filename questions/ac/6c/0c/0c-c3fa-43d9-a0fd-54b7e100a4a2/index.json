@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T04:33:27.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "ac6c0c0c-c3fa-43d9-a0fd-54b7e100a4a2",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Phobos, that was seen in news, is the biggest natural satellite of which planet?",
+  "option1": "Jupiter",
+  "option2": "Mars",
+  "option3": "Saturn",
+  "option4": "Venus",
+  "option5": "",
+  "answer": "Mars",
+  "explanation": "Indian Space Research Organisation's (ISRO) Mars Orbiter Mission has recently captured the image of Phobos.\r\nPhobos is the closest and biggest moon of Mars, which has been captured by the Mars Colour Camera (MCC) onboard the MoM spacecraft. The image was taken when the spacecraft was about 7,200 km from Mars and 4,200 km from Phobos."
+}

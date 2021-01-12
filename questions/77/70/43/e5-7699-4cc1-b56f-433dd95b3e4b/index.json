@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-23T04:40:30.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "777043e5-7699-4cc1-b56f-433dd95b3e4b",
+  "labels": "current-affairs,2020-06-24",
+  "question": "Which country is the largest holder of US govt securities at the end of April 2020?",
+  "option1": "China",
+  "option2": "Japan",
+  "option3": "India",
+  "option4": "Australia",
+  "option5": "",
+  "answer": "Japan",
+  "explanation": "According to the data from the US Treasury Department, India has become the 12th largest holder of US government securities at the end of April.\r\nJapan stood at the first position by holding securities worth 157.4 billion dollars. It is followed by China at 1.1 trillion dollars and the UK at 368.5 billion dollars. At the end of April, India had an exposure of 157.4 billion dollars."
+}

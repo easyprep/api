@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T00:07:03.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "f210f371-577d-469b-ae2a-cd804f16890b",
+  "labels": "current-affairs,2020-06-23",
+  "question": "What is Horticulture's share in the Indian export market?",
+  "option1": 0.3,
+  "option2": 0.45,
+  "option3": 0.33,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0.33,
+  "explanation": "The percentage share of horticulture output in Agriculture has become 33%. Over the last decade, the area under horticulture grew by 2.6% per annum and annual production increased by 4.8%."
+}

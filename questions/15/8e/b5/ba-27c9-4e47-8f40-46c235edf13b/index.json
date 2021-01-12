@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T21:23:41.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "158eb5ba-27c9-4e47-8f40-46c235edf13b",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which among the following statements is/are correct about Ox-bow lakes?<br />\n<ol>\n<li>It is a U-shaped lake that forms when a wide meander of a river is cut off, creating a free-standing body of water.</li>\n<li>Ox bow lakes are a feature of the upper course of the river.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Ox bow lake is a U shaped lake formed when a meander of a river is cut off. This cut off meander creates a free standing water body called Ox bow lake. Ox bow lake is a feature of the lower course of the river."
+}

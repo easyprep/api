@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-25T05:16:08.000Z",
+  "updated_at": "2021-01-06T08:24:57.788Z",
+  "id": "fc1c6b3b-91e2-4738-985a-17dd447bf67b",
+  "labels": "current-affairs,2020-06-26",
+  "question": "Which country’s super computer has become the fastest in the world?",
+  "option1": "United States",
+  "option2": "Japan",
+  "option3": "China",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "Japan",
+  "explanation": "The Japanese supercomputer, Fugaku has been recently named the fastest super computer in the Top500 list, which ranks the most powerful benchmarked supercomputers in the world.\r\nIt is powered by chipsets from Advanced RISC Machines (ARM). This marks the first time an ARM-based supercomputer to ever top the list. It also marks the first time Japan has taken the top place since 2011. It is followed by IBM’s Summit supercomputer and IBM’s Sierra supercomputer."
+}
