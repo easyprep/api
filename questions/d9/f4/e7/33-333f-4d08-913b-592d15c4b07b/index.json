@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:21.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "d9f4e733-333f-4d08-913b-592d15c4b07b",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which is the only planet whose barycenter with the Sun lies outside the volume of the Sun?",
+  "option1": "Jupiter",
+  "option2": "Mars",
+  "option3": "Earth",
+  "option4": "Neptune",
+  "option5": "",
+  "answer": "Jupiter",
+  "explanation": "Jupiter is the only planet whose barycenter ( the center of mass of two or more bodies orbiting each other and the point about which the two bodies orbit) with the sun  lies outside the volume of the sun."
+}

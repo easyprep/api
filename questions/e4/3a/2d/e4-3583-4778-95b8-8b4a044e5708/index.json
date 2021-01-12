@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-06T15:12:34.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "e43a2de4-3583-4778-95b8-8b4a044e5708",
+  "labels": "current-affairs,2020-06-07",
+  "question": "Which of the following are reasons for Farm Crisis in India?<br />1. Monsoon Failure<br />2. Lack of remunerative price<br />3. Lack of proper Irrigation facilities<br />4. Unavailability Formal banking<br />5. High Input cost<br />Choose the correct option from the codes given below:",
+  "option1": "1,2 and 4 only",
+  "option2": "1,2 and 5 only",
+  "option3": "1,2,3 and 5  only",
+  "option4": "All the above",
+  "option5": "",
+  "answer": "All the above",
+  "explanation": "The farm crisis in India is mainly due to back-to-back monsoon failures and falling crop prices. All the above-mentioned options are the other reasons."
+}

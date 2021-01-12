@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:13:41.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "383503b5-1566-4948-b748-20dd21bf3739",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is the plot of the temperature of many stars against their luminosities known as?",
+  "option1": "Hertzsprung–Russell diagram",
+  "option2": "Color-Magnitude plot",
+  "option3": "Color-Color plot",
+  "option4": "Radar chart",
+  "option5": "",
+  "answer": "Hertzsprung–Russell diagram",
+  "explanation": "The  Hertzsprung Russel diagram or the H-R diagram graphs a star’s luminosity vs. its surface temperature. It graphs the stars’ apparent luminosity vs. their color index."
+}

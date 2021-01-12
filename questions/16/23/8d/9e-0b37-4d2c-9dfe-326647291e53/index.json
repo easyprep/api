@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:09:38.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "16238d9e-0b37-4d2c-9dfe-326647291e53",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which star is the coolest based on color?",
+  "option1": "Blue",
+  "option2": "Yellow",
+  "option3": "Red",
+  "option4": "Orange",
+  "option5": "",
+  "answer": "Red",
+  "explanation": "The color of the star measures its temperature. The red star is the coolest and blue the hottest based on the Wien\\'s displacement law."
+}

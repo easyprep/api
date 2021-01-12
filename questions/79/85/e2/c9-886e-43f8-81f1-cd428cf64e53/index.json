@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "7985e2c9-886e-43f8-81f1-cd428cf64e53",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is the body's closest approach to the sun called ?",
+  "option1": "Aphelion",
+  "option2": "Perihelion",
+  "option3": "Ellipse",
+  "option4": "Prograde",
+  "option5": "",
+  "answer": "Perihelion",
+  "explanation": "Aphelion is the most distant approach to the sun. While perihelion is the most closest approach."
+}

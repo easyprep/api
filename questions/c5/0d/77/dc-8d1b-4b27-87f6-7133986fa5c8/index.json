@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:21.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "c50d77dc-8d1b-4b27-87f6-7133986fa5c8",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which was the first spacecraft to visit the planet Jupiter?",
+  "option1": "New Horizons",
+  "option2": "Pioneer 10",
+  "option3": "Galileo Orbiter",
+  "option4": "InSight",
+  "option5": "",
+  "answer": "Pioneer 10",
+  "explanation": "Pioneer 10 was the first spacecraft to make the closest approach to the planet Jupiter in 1973."
+}

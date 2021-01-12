@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "6b4c13dd-9298-455d-969a-e41c13ef3f3b",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which planet is the hottest planet of the solar system?",
+  "option1": "Mercury",
+  "option2": "Venus",
+  "option3": "Mars",
+  "option4": "Jupiter",
+  "option5": "",
+  "answer": "Venus",
+  "explanation": "Venus is the hottest planet (even hotter than mercury) of our solar system, due to its veil of cloud of sulphuric acid and carbon dioxide."
+}

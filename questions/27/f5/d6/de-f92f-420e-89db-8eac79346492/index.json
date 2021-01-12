@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "27f5d6de-f92f-420e-89db-8eac79346492",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Who among the following discovered the laws of planetary orbits?",
+  "option1": "Galileo Galilei",
+  "option2": "Johannes Kepler",
+  "option3": "Nicholas Copernicus",
+  "option4": "Edwin Hubble",
+  "option5": "",
+  "answer": "Johannes Kepler",
+  "explanation": "Johannes Kepler gave the three laws of planetary motion. These laws describe the motion of planets around the Sun."
+}

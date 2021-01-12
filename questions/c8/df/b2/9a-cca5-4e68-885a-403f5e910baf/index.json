@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-06T15:12:34.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "c8dfb29a-cca5-4e68-885a-403f5e910baf",
+  "labels": "current-affairs,2020-06-07",
+  "question": "What was the contribution of agriculture to Indian GDP immediately after independence?",
+  "option1": 0.55,
+  "option2": 0.75,
+  "option3": 0.4,
+  "option4": 0.25,
+  "option5": "",
+  "answer": 0.55,
+  "explanation": "In 1950-51 agriculture contributed about 55 % of India’s national income (GDP). However, the percentage gradually dropped down to 17% of the Indian GDP."
+}

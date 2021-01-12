@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-06T15:12:34.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "025e39a9-ea2a-4800-8022-5368be8bfdd7",
+  "labels": "current-affairs,2020-06-07",
+  "question": "When does the state government declare agricultural drought in an area?",
+  "option1": "Rainfall less than normal by 10%",
+  "option2": "Rainfall less than normal by 5%",
+  "option3": "More than 20% state facing drought",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "More than 20% state facing drought",
+  "explanation": "Declaration of droughts is done by the States. Meteorological drought and agricultural drought are 2 kinds.<br />Meteorological drought is when rainfall is 10% or more, less than normal. Agricultural drought is when 20% or more area of a state is facing drought."
+}

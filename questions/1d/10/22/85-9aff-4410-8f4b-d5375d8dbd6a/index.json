@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "1d102285-9aff-4410-8f4b-d5375d8dbd6a",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is the phenomena of apparent shift in the position of a nearby star against the background of a distant object  called?",
+  "option1": "Astronomical Unit",
+  "option2": "Stellar parallax",
+  "option3": "Kuiper belt",
+  "option4": "Oort cloud",
+  "option5": "",
+  "answer": "Stellar parallax",
+  "explanation": "Stellar parallax is a displacement  in the apparent position of an object viewed along two different lines of sight. It  is measured by the angle or semi-angle of inclination between those two lines."
+}

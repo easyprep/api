@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:32.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "1531f88f-a83f-4f0a-a81e-7a7f354a26e4",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following is not a planet?",
+  "option1": "Neptune",
+  "option2": "Pluto",
+  "option3": "Saturn",
+  "option4": "Uranus",
+  "option5": "",
+  "answer": "Pluto",
+  "explanation": "In 2006, The International Astronomical Union downgraded the status of Pluto to that of a dwarf planet because it does not  meet the criteria of being a planet as defined by IAU."
+}

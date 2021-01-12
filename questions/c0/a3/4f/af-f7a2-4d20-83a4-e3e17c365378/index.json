@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:13:41.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "c0a34faf-f7a2-4d20-83a4-e3e17c365378",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which astronomer developed the concept of classifying stars according to their brightness?",
+  "option1": "Copernicus",
+  "option2": "Edwin Hubble",
+  "option3": "Hipparchus",
+  "option4": "Galileo Galilie",
+  "option5": "",
+  "answer": "Hipparchus",
+  "explanation": "Hipparchus developed the concept of classifying the stars according to their brightness. According to him, 1st magnitude stars are the brightest while the 6th magnitude stars are the weakest."
+}

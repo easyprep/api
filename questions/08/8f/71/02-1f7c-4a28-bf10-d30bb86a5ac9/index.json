@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "088f7102-1f7c-4a28-bf10-d30bb86a5ac9",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following is <strong>not</strong> a Galilean Moon?",
+  "option1": "Europa",
+  "option2": "Ganymede",
+  "option3": "Phobos",
+  "option4": "Callisto",
+  "option5": "",
+  "answer": "Phobos",
+  "explanation": "The Galilean Moons - Lo, Europa, Callisto, Ganymede are the satellites of Jupiter recognized by Galileo."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:21.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "aade765e-6a67-4fac-b824-bd64fda590ed",
+  "labels": "current-affairs,2020-06-09",
+  "question": "The spacecraft Cassini is associated with which planet in the solar system?",
+  "option1": "Saturn",
+  "option2": "Jupiter",
+  "option3": "Mars",
+  "option4": "Neptune",
+  "option5": "",
+  "answer": "Saturn",
+  "explanation": "Cassini, a joint mission of NASA, ESA and ASI is a mission to study the rings and satellites of the planet Saturn."
+}

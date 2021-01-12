@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "53df6086-d68c-4c90-ae8d-a2bc5c8d156a",
+  "labels": "current-affairs,2020-06-09",
+  "question": "The NASA's Viking Mission was on which planet?",
+  "option1": "Jupiter",
+  "option2": "Saturn",
+  "option3": "Mars",
+  "option4": "Venus",
+  "option5": "",
+  "answer": "Mars",
+  "explanation": "The Viking Mission was a pair of space probes sent to Mars by NASA. It established that there are no traces of life on Mars."
+}

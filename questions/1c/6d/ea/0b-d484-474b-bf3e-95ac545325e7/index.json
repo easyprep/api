@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-06T15:12:34.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "1c6dea0b-d484-474b-bf3e-95ac545325e7",
+  "labels": "current-affairs,2020-06-07",
+  "question": "When was the Kisan Credit card introduced?",
+  "option1": 1999,
+  "option2": 2000,
+  "option3": 2003,
+  "option4": 1998,
+  "option5": "",
+  "answer": 2000,
+  "explanation": "The Kisan Credit card scheme was started in 1999 by the Govt of India, NABARD, and RBI to provide short term cash loans to farmers without the need to go through hassles of loan approvals. The card is valid for five years and collateral is needed if the loan amount is Rs. 1 lakh or more. Repayment has to be within 12 months."
+}

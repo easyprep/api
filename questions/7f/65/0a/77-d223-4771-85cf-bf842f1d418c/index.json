@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T12:43:11.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "7f650a77-d223-4771-85cf-bf842f1d418c",
+  "labels": "current-affairs,2020-06-06",
+  "question": "Which of the following is correct regarding the Indian Innovation Index?<br />1. It is launched by NITI Aayog<br />2. It ranks states based on Innovation<br />3. It is in the lines of Global Innovation Index<br />Choose the correct option from the code given below:",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "1 and 3 only`",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "NITI Aayog launched the Indian Innovation Index on the line of the Global Innovation Index to foster competitive federalism. It ranks the states based on innovation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "dbd510ac-c405-4afd-98e5-7ce7ffa3fe0a",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which is the largest asteroid in the solar system?",
+  "option1": "Haumea",
+  "option2": "4 Vesta",
+  "option3": "2 Pallas",
+  "option4": "Ceres",
+  "option5": "",
+  "answer": "Ceres",
+  "explanation": "Ceres is the largest and the most massive asteroid in the main asteroid belt lying between the orbits of mars and jupiter. It is also a dwarf planet."
+}

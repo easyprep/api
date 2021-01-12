@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:09:37.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "19b25587-e8b4-40d4-8c77-33af444a3dd8",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is parsec used to measure?",
+  "option1": "Speed",
+  "option2": "Velocity",
+  "option3": "Distance",
+  "option4": "Time",
+  "option5": "",
+  "answer": "Distance",
+  "explanation": "A Parsec is a PARallax of one arcSECond. It is a unit of distance used in astronomy to measure the vastness of space and is equal to about 3.26 light years."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "048f5bf8-b15d-40f4-9a72-f4ffba8b066a",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following celestial bodies has its own light?",
+  "option1": "Moon",
+  "option2": "Planets",
+  "option3": "Stars",
+  "option4": "Asteroid",
+  "option5": "",
+  "answer": "Stars",
+  "explanation": "Stars are big balls of gas, mostly hydrogen and helium emitting their own light. Planets, asteroids and moon do not have their own light."
+}

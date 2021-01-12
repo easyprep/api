@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "1e47bf63-7636-45f0-879e-8713ddcb988f",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following is <strong>not</strong> a superior planet?",
+  "option1": "Venus",
+  "option2": "Mars",
+  "option3": "Jupiter",
+  "option4": "Saturn",
+  "option5": "",
+  "answer": "Venus",
+  "explanation": "The planets that are present at a distance greater than the distance of the Earth from the sun are called as superior planets. Superior planets include - Mars, Jupiter, Saturn, Uranus and Neptune."
+}

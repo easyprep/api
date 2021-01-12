@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T17:04:23.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "f1bb5755-bcff-45b0-8b23-d11d58ff987e",
+  "labels": "current-affairs,2020-06-06",
+  "question": "Which cosmologist is <b>not</b> associated with the Steady State theory of the universe?",
+  "option1": "Hermann Bondi",
+  "option2": "Thomas Chamberlin",
+  "option3": "Sir Fred Hoyle",
+  "option4": "Thomas Gold",
+  "option5": "",
+  "answer": "Thomas Chamberlin",
+  "explanation": "The Steady state theory is an alternative to the Big Bang theory of the evolution of the universe. This theory is proposed by Herman Bondi, Thomas Gold and Sir Fred Hoyle. According to this theory, the universe though expanding, does not change its look over time."
+}

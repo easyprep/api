@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:09:38.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "fe5188b4-9519-4b84-a6b6-1747ef825c2f",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which is the nearest star to the Sun ?",
+  "option1": "Ross 248",
+  "option2": "Wolf 359",
+  "option3": "Sirius",
+  "option4": "Proxima Centauri",
+  "option5": "",
+  "answer": "Proxima Centauri",
+  "explanation": "Proxima Centauri is the nearest star from the Sun. It is inside the Alpha Centauri tri-star system."
+}

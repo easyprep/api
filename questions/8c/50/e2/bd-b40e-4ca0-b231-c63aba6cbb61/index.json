@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "8c50e2bd-b40e-4ca0-b231-c63aba6cbb61",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What percent of the solar system's mass does the sun hold?",
+  "option1": "70 %",
+  "option2": "50 %",
+  "option3": "88.5 %",
+  "option4": "99.8 %",
+  "option5": "",
+  "answer": "99.8 %",
+  "explanation": "The Sun contains 99.86%   of all the mass of the solar system leaving the other 0.14 % for other objects like planets, asteroids, comets, moons, etc."
+}

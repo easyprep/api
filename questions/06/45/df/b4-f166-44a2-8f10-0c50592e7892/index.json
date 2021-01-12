@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:13:42.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "0645dfb4-f166-44a2-8f10-0c50592e7892",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which of the following colors of stars and the associated spectral class is/are correctly matched?<br />\n<ol>\n<li>Red color - M</li>\n<li>Blue color - O</li>\n<li>Yellow color - G</li>\n</ol>\n<br />Select the correct option from the codes given below:",
+  "option1": "None of the above",
+  "option2": "Only 1 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Astronomers place stars in spectral (color) class categories based on their surface temperature. The O stars (Blue color) are the hottest. The M stars (Red color) are the coolest. The yellow stars has the spectral class G."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T17:04:24.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "b2937635-1fc5-4b0b-bb25-bc62549c0778",
+  "labels": "current-affairs,2020-06-06",
+  "question": "The Hubble Constant is based on which of the following?",
+  "option1": "Green shift",
+  "option2": "Yellow shift",
+  "option3": "Red shift",
+  "option4": "Black shift",
+  "option5": "",
+  "answer": "Red shift",
+  "explanation": "Hubble\\'s constant is used to explain the galactic expansion rate. According to Hubble, the star moving away from us will have its spectra shift towards the red end. And the star moving towards us will have its spectra shift towards the blue end of the spectrum."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:13:41.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "f0a04e2d-67c8-46c5-a1ac-25104b2a77d7",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is a neutron star that spins and sends beams of radiation called?",
+  "option1": "Quasar",
+  "option2": "Pulsar",
+  "option3": "White Dwarf",
+  "option4": "Red Giant",
+  "option5": "",
+  "answer": "Pulsar",
+  "explanation": "A neutron star is a star which has collapsed to a point where all particles are neutrons. A neutron star which spins and sends beams of radiation is a called  a pulsar."
+}

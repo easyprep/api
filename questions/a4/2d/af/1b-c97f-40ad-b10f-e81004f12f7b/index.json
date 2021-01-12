@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T20:24:48.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "a42daf1b-c97f-40ad-b10f-e81004f12f7b",
+  "labels": "current-affairs,2020-06-06",
+  "question": "Which of the following laguages were used in Ashokan inscriptions?<br />1. Brahmi<br />2. Kharosthi<br />3. Prakrit<br />4. Aramaic<br />5. Greek<br />Select the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 5",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": "In his inscriptions of emperor Ashoka various languages were used such as Brahmi, Kharosthi, Prakrit, Aramaic, and Greek languages (deciphered by James Prinsep in c.1837 CE)."
+}

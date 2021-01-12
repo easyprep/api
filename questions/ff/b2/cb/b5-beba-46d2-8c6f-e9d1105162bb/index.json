@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:32.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "ffb2cbb5-beba-46d2-8c6f-e9d1105162bb",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which force of the Sun keeps all the planets revolve around it?",
+  "option1": "Centripetal force",
+  "option2": "Centrifugal force",
+  "option3": "Gravitational force",
+  "option4": "Electromagnetic force",
+  "option5": "",
+  "answer": "Gravitational force",
+  "explanation": "The gravitational pull of the sun keeps all the planets revolving around it. Thus the motion of all the members of the solar system is mainly governed by the gravitational attraction of the sun."
+}

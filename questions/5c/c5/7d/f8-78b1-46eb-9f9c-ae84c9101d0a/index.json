@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-06T15:12:34.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "5cc57df8-78b1-46eb-9f9c-ae84c9101d0a",
+  "labels": "current-affairs,2020-06-07",
+  "question": "How many nutrients information is printed on the soil health card?",
+  "option1": 12,
+  "option2": 13,
+  "option3": 11,
+  "option4": 16,
+  "option5": "",
+  "answer": 12,
+  "explanation": "Soil health card is a printed report which contains the nutrient status of soil with respect to 12 nutrients: pH, Electrical Conductivity (EC), Organic Carbon (OC), Nitrogen (N), Phosphorus (P), Potassium (K), Sulphur (S), Zinc (Zn), Boron (B), Iron (Fe), Manganese (Mn), Copper (Cu) of farm holdings. It will be provided for every 3 years."
+}

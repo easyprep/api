@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "555babb6-e7be-4c60-b7c2-1f49d2156eaf",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following is <b>not</b> a dwarf planet?",
+  "option1": "Ceres",
+  "option2": "Phobos",
+  "option3": "Eris",
+  "option4": "Makemake",
+  "option5": "",
+  "answer": "Phobos",
+  "explanation": "There are 5 known dwarf planets - Pluto, Makemake, Haumea, Eris and Ceres.  Phobos is a satellite of Mars."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:13:41.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "ea2869e6-aeed-47c3-81dc-e6a352c26447",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which star is directly above North Pole?",
+  "option1": "Polaris",
+  "option2": "Sirius",
+  "option3": "Vega",
+  "option4": "Capella",
+  "option5": "",
+  "answer": "Polaris",
+  "explanation": "Polaris star is directly above the north pole. Earth rotates around this point, so Polaris does not appear to move in the sky."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-05T17:04:24.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "d6e19283-65db-4a8c-9dfe-b94aab56809d",
+  "labels": "current-affairs,2020-06-06",
+  "question": "1 Astronomical Unit (AU)  is equal to how many kilometres ?",
+  "option1": "100 million km",
+  "option2": "250 million km",
+  "option3": "200 million km",
+  "option4": "150 million km",
+  "option5": "",
+  "answer": "150 million km",
+  "explanation": "Astronomical Unit is the unit of length. It is the mean distance between the Sun and the Earth. One AU is equal to 150 million km."
+}

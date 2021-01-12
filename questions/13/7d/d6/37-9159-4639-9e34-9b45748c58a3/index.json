@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "137dd637-9159-4639-9e34-9b45748c58a3",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following is not a dwarf planet?",
+  "option1": "Ceres",
+  "option2": "Pluto",
+  "option3": "Neptune",
+  "option4": "Eris",
+  "option5": "",
+  "answer": "Neptune",
+  "explanation": "Dwarf planet is defined as a celestial body revolving a star with enough mass to have hydrostatic equilibrium but not enough mass to clear its path around the parent star. E.g Ceres, Pluto, Eris, Haumea, etc."
+}

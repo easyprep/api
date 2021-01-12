@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:13:42.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "3c6506b8-fb34-42ea-aa60-a5b717224f6d",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Who compiled the first star catalogue in the greek astronomy?",
+  "option1": "Aristotle",
+  "option2": "Aristillus",
+  "option3": "Ptolemy",
+  "option4": "Copernicus",
+  "option5": "",
+  "answer": "Aristillus",
+  "explanation": "Aristillus, a greek astronomer, created the first star catalogue in the western world in 3rd century BC. In this star catalogue,the stars are identified by numerical measurements of their positions."
+}

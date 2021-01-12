@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:21.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "2ba59ebd-0fbc-49b5-8c0e-ec5fb6260807",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which is the first spacecraft to orbit Jupiter?",
+  "option1": "Pioneer 10",
+  "option2": "Galileo",
+  "option3": "InSight",
+  "option4": "New Horizons",
+  "option5": "",
+  "answer": "Galileo",
+  "explanation": "Galileo is the first spacecraft to orbit the planet Jupiter. It entered the orbit on 7th December, 1995"
+}

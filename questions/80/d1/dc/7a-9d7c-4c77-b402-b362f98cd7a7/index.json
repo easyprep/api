@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "80d1dc7a-9d7c-4c77-b402-b362f98cd7a7",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is the temperature at the outer surface of the Sun?",
+  "option1": "10000 degrees C",
+  "option2": "4000 degrees C",
+  "option3": "6000 degrees C",
+  "option4": "100000 degrees C",
+  "option5": "",
+  "answer": "6000 degrees C",
+  "explanation": "Within the Sun, hydrogen is converted into Helium due to Nuclear Fusion releasing a tremendous amount of heat and light. It has surface temperature of 6000 degrees C."
+}

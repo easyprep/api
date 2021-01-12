@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "be7e2ed9-4753-4a26-8740-81482ba134aa",
+  "labels": "current-affairs,2020-06-09",
+  "question": "The BepiColombo spacecraft is related which planet?",
+  "option1": "Mars",
+  "option2": "Jupiter",
+  "option3": "Saturn",
+  "option4": "Mercury",
+  "option5": "",
+  "answer": "Mercury",
+  "explanation": "BepiColombo is a joint mission of European Space Agency (ESA) and Japan Aerospace Exploration Agency (JAXA) to the planet Mercury."
+}

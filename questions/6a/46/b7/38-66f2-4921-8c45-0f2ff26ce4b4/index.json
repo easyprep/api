@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:21.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "6a46b738-66f2-4921-8c45-0f2ff26ce4b4",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which spacecraft is associated with the study of outer planets in the solar system?",
+  "option1": "BepiColombo",
+  "option2": "InSight",
+  "option3": "Voyager",
+  "option4": "Messenger",
+  "option5": "",
+  "answer": "Voyager",
+  "explanation": "The Voyager space probe was launched by NASA in 1977 to study the outer planets of the solar system."
+}

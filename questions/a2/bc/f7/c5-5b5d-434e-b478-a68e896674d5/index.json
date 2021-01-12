@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:09:38.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "a2bcf7c5-5b5d-434e-b478-a68e896674d5",
+  "labels": "current-affairs,2020-06-09",
+  "question": "1 Parsec is equal to how many light years?",
+  "option1": 2.362,
+  "option2": 6.232,
+  "option3": 3.262,
+  "option4": 2.632,
+  "option5": "",
+  "answer": 3.262,
+  "explanation": "The term parsec is a combination of two words, parallax (par) and arc second (sec). It is used extensively in astronomical measurements. 1 parsec is equal to 3.262 light years."
+}

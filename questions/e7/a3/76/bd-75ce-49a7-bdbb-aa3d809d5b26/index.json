@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:09:37.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "e7a376bd-75ce-49a7-bdbb-aa3d809d5b26",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which of the following is the hottest star colour?",
+  "option1": "Red",
+  "option2": "Yellow",
+  "option3": "Orange",
+  "option4": "Blue",
+  "option5": "",
+  "answer": "Blue",
+  "explanation": "The colour of the star reflects its temperature. Since wavelength of blue is minimum, its temperature is maximum ( Wein\\'s displacement law)."
+}

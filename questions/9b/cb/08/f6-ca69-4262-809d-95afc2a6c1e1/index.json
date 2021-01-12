@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T18:09:37.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "9bcb08f6-ca69-4262-809d-95afc2a6c1e1",
+  "labels": "current-affairs,2020-06-09",
+  "question": "The Hertzsprung-Russell Diagram, a graphical tool is used to classify which of the following?",
+  "option1": "Stars",
+  "option2": "Planets",
+  "option3": "Galaxies",
+  "option4": "Volcanoes",
+  "option5": "",
+  "answer": "Stars",
+  "explanation": "Hertzsprung-Russell Diagram is used by the astronomers to classify stars based on their luminosity, temperature, spectral type and colour."
+}

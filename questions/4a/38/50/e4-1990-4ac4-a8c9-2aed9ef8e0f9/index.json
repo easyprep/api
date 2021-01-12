@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:29:33.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "4a3850e4-1990-4ac4-a8c9-2aed9ef8e0f9",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is the source of energy in the Sun?",
+  "option1": "Electromagnetic Force",
+  "option2": "Nuclear Fusion",
+  "option3": "Radioactive force",
+  "option4": "Convective Force",
+  "option5": "",
+  "answer": "Nuclear Fusion",
+  "explanation": "Within the sun, hydrogen is converted to helium due to nuclear fusion releasing a large amount of heat and light."
+}

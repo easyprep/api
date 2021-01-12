@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T19:31:20.000Z",
+  "updated_at": "2021-01-06T08:24:55.918Z",
+  "id": "0b9ba604-2c50-4771-bca4-ad3bd290c5a8",
+  "labels": "current-affairs,2020-06-09",
+  "question": "What is a planet's rotation period also known as?",
+  "option1": "Hydrostatic Equilibrium",
+  "option2": "Stellar day",
+  "option3": "Retrograde rotation",
+  "option4": "Axial tilt",
+  "option5": "",
+  "answer": "Stellar day",
+  "explanation": "All planets rotate around an invisible axis. Their rotation is also called as a stellar day."
+}
