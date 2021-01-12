@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T21:16:42.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "1057c3f8-99f3-4dbf-940a-974b1f61f604",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which of the following correctly defines International Date Line?",
+  "option1": "Roughly corresponds to 180th meridian, the regions to the east of which are counted as being one day earlier in their calendar dates than regions to the west",
+  "option2": "Roughly corresponds to 180th meridian, the region to the west of which are counted as being one day earlier in their calendar dates than regions to the east",
+  "option3": "Roughly corresponds to 90th meridian which falls on the opposite side of the Greenwich meridian",
+  "option4": "Roughly corresponds to 135th meridian which falls on the opposite side of the Greenwich meridian",
+  "option5": "",
+  "answer": "Roughly corresponds to 180th meridian, the region to the west of which are counted as being one day earlier in their calendar dates than regions to the east",
+  "explanation": "The International Date Line is an imaginary line of demarcation on the surface of Earth that runs from the North Pole to the South Pole and demarcates the change of one calendar day to the next.  It passes through the middle of the Pacific Ocean, roughly following the 180° line of longitude but deviating to pass around some territories and island groups. The date becomes one day later as one travels across it in western direction, and one day earlier as one travels across it in eastern direction."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-18T15:02:03.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "0adeb3d9-b0ee-4ce0-b5db-050385aaba58",
+  "labels": "current-affairs,2019-07-19",
+  "question": "Which of the following crops helps in nitrogen fixation?",
+  "option1": "Rice",
+  "option2": "Wheat",
+  "option3": "Maize",
+  "option4": "Beans",
+  "option5": "",
+  "answer": "Beans",
+  "explanation": "Any legume plants will help in nitrogen fixation. Beans contain symbiotic bacteria called Rhizobia within nodules in their root systems, producing nitrogen compounds that help the plant to grow and compete with other plants. When the plant dies, the fixed nitrogen is released, making it available to other plants and this helps to fertilize the soil."
+}

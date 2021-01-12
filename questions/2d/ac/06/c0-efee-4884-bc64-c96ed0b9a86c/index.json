@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T17:20:57.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "2dac06c0-efee-4884-bc64-c96ed0b9a86c",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following can be checked by doctors with the help of Pulse reading?",
+  "option1": "Temperature",
+  "option2": "Heart beat",
+  "option3": "Blood pressure",
+  "option4": "Respiration rate",
+  "option5": "",
+  "answer": "Heart beat",
+  "explanation": "Pulse rate is the number of heart beats per minute. The resting pulse rate for an average adult is between 60 and 80 beats per minute. It can go up to 130–150 beats per minute when you’re exercising because the body needs more oxygen. The study of the pulse is known as sphygmology."
+}

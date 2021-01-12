@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-27T11:54:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "522b7db5-d4de-4f4d-b8cc-5a9c7008cd2c",
+  "labels": "current-affairs,2019-06-28",
+  "question": "Which of the following is a statistic that measures how the returns of two risky assets move together?",
+  "option1": "Correlation",
+  "option2": "Standard deviation",
+  "option3": "Variance",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Correlation",
+  "explanation": "Correlation, in the finance and investment industries, is a statistic that measures the degree to which two securities move in relation to each other. Correlations are used in advanced portfolio management, computed as the correlation coefficient."
+}

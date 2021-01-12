@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T17:08:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "89ee9d09-ed87-4ad1-8610-5aebd7a59506",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following is the condition for the Solar eclipse to occur?",
+  "option1": "Earth between Sun and Moon",
+  "option2": "Moon at right angle to the Earth",
+  "option3": "Moon between Sun and Earth",
+  "option4": "Sun between Moon and Earth",
+  "option5": "",
+  "answer": "Moon between Sun and Earth",
+  "explanation": "An eclipse occurs when three celestial bodies become aligned. A solar eclipse occurs when the Moon passes between Earth and the Sun. It totally or partially hides Earth\\'s view of the Sun. The inner part of the shadow is called the umbra. None of the sunlight can penetrate the umbra and so to observers from Earth within the umbra the sun appears completely covered by the moon. This is known as a total eclipse. A Solar Eclipse can only occur during a New Moon."
+}

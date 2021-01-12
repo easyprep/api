@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T16:11:33.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "7c4c1a24-1888-484b-addd-2b16619565c5",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which of the following is the chief constituent of gabar gas?",
+  "option1": "Methane",
+  "option2": "Carbon dioxide",
+  "option3": "Acetylene",
+  "option4": "Ethylene",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Biogas is produced under anaerobic conditions; the process is denominated as anaerobic digestion Biogas comprises primarily methane (CH4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulphide (H2S), moisture and siloxanes. Like fossil natural gas, the essential component of biogas, which is responsible for the energy it contains, is methane (CH4)."
+}

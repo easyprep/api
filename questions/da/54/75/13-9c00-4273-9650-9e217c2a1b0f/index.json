@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T21:23:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "da547513-9c00-4273-9650-9e217c2a1b0f",
+  "labels": "current-affairs,2019-07-21",
+  "question": "The Andhra Bank has partnered with which company to launch AI chatbot “ABHi”?",
+  "option1": "Microsoft",
+  "option2": "Wipro",
+  "option3": "Infosys",
+  "option4": "Floatbot",
+  "option5": "",
+  "answer": "Floatbot",
+  "explanation": "The Andhra Bank has partnered with Floatbot to offer an Artificial Intelligence-powered virtual assistant for online banking users. The AI chatbot named “ABHi” - made by Floatbot - is integrated with Core Banking Servers (CBS) of Andhra Bank and will automate customer support for 5 crore Andhra Bank account holders. This AI chatbot solution can resolve customer queries and provide banking services in English, Hindi and Hinglish. With ABHi, customers will be able to get the information instantaneously 24x7, anytime they want. Customers can connect and know details from ABHi through website www.andhrabank.in over Mobile/Desktop browser, Facebook Messenger and over voice using Google Assistant. Customer can ask details on digital banking, loans, banking services, govt. schemes, insurance, senior citizen, RuPay Offers, Aadhaar services, payment mode, deposit/EMI Calculator, lodge a customer complaint, know nearest Branch / ATM on Google map, recharge prepaid mobile etc., on chat anytime and on move."
+}

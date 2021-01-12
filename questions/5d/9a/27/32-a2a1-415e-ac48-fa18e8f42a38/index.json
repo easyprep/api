@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T16:04:29.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "5d9a2732-a2a1-415e-ac48-fa18e8f42a38",
+  "labels": "current-affairs,2019-07-30",
+  "question": "How much time will it take to come light from the nearest bright star to reach the earth?",
+  "option1": "4.5 minutes",
+  "option2": "45 minutes",
+  "option3": "45 months",
+  "option4": "4.22 light years",
+  "option5": "",
+  "answer": "4.22 light years",
+  "explanation": "The time taken by light to reach earth from any source of light is measured in light years. The light reflected from the surface of the Moon takes only a second to reach Earth. The Sun is more than 8 light-minutes away. The light from the nearest star which is named as Alpha Centauri takes 4.22 light years to reach us."
+}

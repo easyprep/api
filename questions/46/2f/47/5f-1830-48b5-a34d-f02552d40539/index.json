@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T21:19:59.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "462f475f-1830-48b5-a34d-f02552d40539",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following is the correct age of the candidate to become a member of Lok Sabha?",
+  "option1": "21 years",
+  "option2": "25 years",
+  "option3": "30 years",
+  "option4": "35 years",
+  "option5": "",
+  "answer": "25 years",
+  "explanation": "A person must satisfy all following conditions to be qualified to become a member of parliament of the Lok Sabha:<br />• Must be a citizen of India<br />• Must not be less than 25 years of age<br />• Must be a voter for any parliamentary constituency in India<br />• Candidate of a recognized political party needs one proposer from his constituency for his nomination<br />• An independent candidate needs ten proposers<br />• Candidates are required to make a security deposit of ₹25,000"
+}

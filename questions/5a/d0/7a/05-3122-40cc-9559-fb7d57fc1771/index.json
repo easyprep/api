@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T16:17:49.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "5ad07a05-3122-40cc-9559-fb7d57fc1771",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which of the following energy transformation takes place in microphone?",
+  "option1": "Sound into electrical energy",
+  "option2": "Electrical into sound energy",
+  "option3": "Sound into mechanical energy",
+  "option4": "Mechanical into sound energy",
+  "option5": "",
+  "answer": "Electrical into sound energy",
+  "explanation": "Microphone is a transducer that converts sound into an electrical energy. Microphones are used in many applications such as telephones, hearing aids, public address systems for concert halls and public events, motion picture production, live and recorded audio engineering, sound recording, radio and television broadcasting."
+}

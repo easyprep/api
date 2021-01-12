@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T20:24:24.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "a9e5ab37-ffcf-4a9e-bc28-1915ab903a6b",
+  "labels": "current-affairs,2019-07-30",
+  "question": "Why does man weigh more at the poles than at the equator?",
+  "option1": "Because there is no atmosphere at the poles",
+  "option2": "Because gravitational pull is more at the poles",
+  "option3": "Because gravitational pull is less at the poles",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Because gravitational pull is more at the poles",
+  "explanation": "If we see the shape of the Earth, it is flatter at the poles and bulged at the equator. Therefore, the distance of the poles from the centre of the Earth is less than distance of the equator from the centre of the Earth. Now, recall the formula of gravitational force between two objects —<em>F = (G * M1 * M2)/R^2.</em> Here, R is the distance between the two objects. Distance is inversely proportional to the Force. Since the distance at the equator is more, it will have less gravitational force. Lesser the gravitational force, lesser will be the weight of the object. Since the distance between the poles is less, there will be more gravitational force. More is the gravitational force, more will be the weight of the object. Hence, the object will weigh minimum at the equator and maximum at the poles."
+}

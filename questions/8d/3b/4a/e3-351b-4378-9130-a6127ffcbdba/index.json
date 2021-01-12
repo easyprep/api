@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T20:25:18.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "8d3b4ae3-351b-4378-9130-a6127ffcbdba",
+  "labels": "current-affairs,2019-07-30",
+  "question": "Which organ is associated with the production of insulin in the human body?",
+  "option1": "Pancreas",
+  "option2": "Liver",
+  "option3": "Kidney",
+  "option4": "Heart",
+  "option5": "",
+  "answer": "Pancreas",
+  "explanation": "Insulin is a hormone made by an organ located behind the stomach called the pancreas. It allows body to use sugar from carbohydrates in the food. Insulin helps keep blood sugar level from getting too high (hyperglycemia) or too low (hypoglycemia)."
+}

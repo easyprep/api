@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T21:08:19.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "51cc8af7-75a8-4633-820a-f54ab8f55124",
+  "labels": "current-affairs,2019-08-05",
+  "question": "What will happen to the portion of ship under water, when it enters a sea from a river?",
+  "option1": "It will increase",
+  "option2": "It will decrease",
+  "option3": "It will show no change",
+  "option4": "it will increase and decrease alternately",
+  "option5": "",
+  "answer": "It will decrease",
+  "explanation": "When the ship enters the sea, the water is no more the river fresh water but the saline sea water which is denser. As a result the weight of water displaced is now more than what it was previously when the ship was in river. The upthrust increases and the ship rise up."
+}

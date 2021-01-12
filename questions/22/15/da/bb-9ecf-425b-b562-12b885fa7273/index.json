@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T20:43:02.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "2215dabb-9ecf-425b-b562-12b885fa7273",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which of the following is the correct composition of the Stainless steel?",
+  "option1": "Aluminium and Zinc",
+  "option2": "Chromium and Carbon",
+  "option3": "Zinc and Mercury",
+  "option4": "Copper and Cadmium",
+  "option5": "",
+  "answer": "Chromium and Carbon",
+  "explanation": "Stainless steel is an alloy of Iron with a minimum of 10.5% Chromium. Chromium produces a thin layer of oxide on the surface of the steel known as the passive layer. This prevents any further corrosion of the surface. Increasing the amount of Chromium gives an increased resistance to corrosion."
+}

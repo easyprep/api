@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T20:52:01.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "78dd0d7a-2fba-407b-ab2e-a27f6db451ab",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following actions can be taken by the Rajya Sabha regarding Money Bill?",
+  "option1": "It can amend it",
+  "option2": "It can reject it",
+  "option3": "It can withhold the bill for 14 days to make recommendations",
+  "option4": "It has no power regarding Money Bill",
+  "option5": "",
+  "answer": "It can withhold the bill for 14 days to make recommendations",
+  "explanation": "A Bill is said to be a Money Bill if it only contains provisions related to taxation, borrowing of money by the government, expenditure from or receipt to the Consolidated Fund of India. <br />The Rajya Sabha may not amend money bills but can recommend amendments. A money bill must be returned to the Lok Sabha within 14 days, or the bill is deemed to have passed both houses in the form it was originally passed by the LokSabha."
+}

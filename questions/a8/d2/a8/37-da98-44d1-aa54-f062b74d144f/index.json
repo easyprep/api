@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-27T11:54:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "a8d2a837-da98-44d1-aa54-f062b74d144f",
+  "labels": "current-affairs,2019-06-28",
+  "question": "Who among the followinf initiated Capital Market Line?",
+  "option1": "William Sharpe",
+  "option2": "Markowitz",
+  "option3": "Linter",
+  "option4": "Mohsin",
+  "option5": "",
+  "answer": "William Sharpe",
+  "explanation": "Sharpe is well known for developing the capital asset pricing model (CAPM) in the 1960s. The CAPM describes the relationship between systematic risk and expected returns, and states that taking on more risk is necessary to earn a higher return."
+}

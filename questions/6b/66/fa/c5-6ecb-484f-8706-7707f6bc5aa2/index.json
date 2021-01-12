@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T18:45:34.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "6b66fac5-6ecb-484f-8706-7707f6bc5aa2",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following is the first precaution step to be taken if a thunder storm suddenly occurs while travelling in a car?",
+  "option1": "Get out of it and lie flat in the field",
+  "option2": "Stand below a tree",
+  "option3": "Go to a nearby wood pole and stick to it",
+  "option4": "Lie flat in the car",
+  "option5": "",
+  "answer": "Get out of it and lie flat in the field",
+  "explanation": "A lightning strike can carry a high current, up to 200 kiloamps has been recorded. Not only can the current be high, but the rate of change in this current is high as well. That means the induced magnetic field around the pole and the path of the lightning can be quite high. It is not wise to stand, because one may also give rise to leaders that will meet the lightning path. If in the open it is best you fall on the ground as much sheltered as possible."
+}

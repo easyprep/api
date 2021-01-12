@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T19:40:02.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "12577172-e041-4d3e-ba2e-e7a4effc1f3c",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Which of the following type of CICs are exempted from the requirement of registration with RBI?",
+  "option1": "CICs with assets above Rs. 10 crore",
+  "option2": "CICs with assets above Rs. 100 crore",
+  "option3": "CICs with assets above Rs. 200 crore",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "CICs with assets above Rs. 100 crore",
+  "explanation": "CICs with asset size above Rs. 100 crore but not accessing public funds are also exempted from the requirement of registration with RBI."
+}

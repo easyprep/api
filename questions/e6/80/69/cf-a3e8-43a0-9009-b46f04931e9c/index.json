@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T21:18:22.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "e68069cf-a3e8-43a0-9009-b46f04931e9c",
+  "labels": "current-affairs,2019-07-21",
+  "question": "In which type of rocks, fossils are more abundantly found?",
+  "option1": "Igneous",
+  "option2": "Metamorphic",
+  "option3": "Sedimentary",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Sedimentary",
+  "explanation": "Igneous rocks form from molten rock, and rarely have fossils in them. Metamorphic rocks have been put under great pressure, heated, squashed or stretched, and fossils do not usually survive these extreme conditions. Generally it is only sedimentary rocks that contain fossils."
+}

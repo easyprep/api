@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T17:06:40.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "2d6943e7-5356-4ac9-84a7-fdfd4b3a9f32",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which fuel is used in a nuclear reactor?",
+  "option1": "Uranium",
+  "option2": "Heavy water",
+  "option3": "Barium",
+  "option4": "Cadmium",
+  "option5": "",
+  "answer": "Uranium",
+  "explanation": "Nuclear fuel is the fuel that is used in a nuclear reactor to sustain a nuclear chain reaction. These fuels are fissile. The most common nuclear fuels are the radioactive metalsuranium-235 and plutonium-239."
+}

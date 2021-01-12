@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-28T21:14:07.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "f8646af3-85f7-447b-9acd-3eadaec9be96",
+  "labels": "current-affairs,2019-06-29",
+  "question": "RBI has launched CMS system to lodge complaint against which of the following  entities?",
+  "option1": "Urban co-operative banks",
+  "option2": "NBFCs",
+  "option3": "Commercial banks",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The Reserve Bank of India (RBI) has launched a new “Complaint Management System (CMS)” website where anyone can complain against any of the entities regulated by RBI. Through this website, complaints can be lodged against RBI regulated entities with public interface such as commercial banks, urban co-operative banks, non-banking financial companies (NBFCs), etc.  All complaints lodged on the CMS would be directed to the appropriate office of the ombudsman/regional office of the RBI. The application also improves transparency by keeping the complainants informed through auto-generated acknowledgements and enabling them to track the status of their complaints and file appeals online against the decisions of the ombudsmen, where applicable."
+}

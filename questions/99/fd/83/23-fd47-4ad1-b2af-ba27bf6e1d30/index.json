@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-22T20:59:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "99fd8323-fd47-4ad1-b2af-ba27bf6e1d30",
+  "labels": "current-affairs,2019-07-23",
+  "question": "The Next Generation Sequencing (NGS) facility has recently opened in which city?",
+  "option1": "Shimla",
+  "option2": "Jabalpur",
+  "option3": "Kochi",
+  "option4": "Hyderabad",
+  "option5": "",
+  "answer": "Hyderabad",
+  "explanation": "The Next Generation Sequencing (NGS) facility has been inaugurated by Union Minister of Science and Technology Harsh Vardhan at the Centre for Cellular and Molecular Biology (CCMB), a CSIR lab in Hyderabad.  This is the fourth such facility in the country, which can sequence 30 human genomes (or 384 diagnostic samples) in a day. It costs around Rs 1 lakh to sequence one genome using this facility.  This opens up multiple avenues in investigating fundamental biology of individual cells in tissues as well as fighting disease like cancer through understanding the heterogeneity in cell populations. By using the facility, scientists hope to find genetic cause of rare diseases and develop kits which can be used to find population at the risk of genetic or other rare diseases. These services would be available to hospitals, industry, and academicians by paying charges."
+}

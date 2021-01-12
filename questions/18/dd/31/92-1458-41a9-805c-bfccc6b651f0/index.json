@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T20:55:09.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "18dd3192-1458-41a9-805c-bfccc6b651f0",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following is the cause of inflation?",
+  "option1": "Increase in money supply",
+  "option2": "Fall in production",
+  "option3": "Increase in money supply and fall in production",
+  "option4": "Decrease in money supply and fall in production",
+  "option5": "",
+  "answer": "Increase in money supply and fall in production",
+  "explanation": "Inflation is a situation of a sustained increase in the general price level in an economy.<br />There are two main causes of inflation: Demand-pull and Cost-push. Both are responsible for a general rise in prices in an economy. <br />Cost-push occurs when supply cost force prices higher. If the inflation in an economy is of the cost-push type, then the inflationary situation usually leads to a fall in production. <br />Demand-pull inflation is used by Keynesian economics to describe the price levels rise because of an imbalance in the aggregate supply and demand. When the aggregate demand in an economy strongly outweighs the aggregate supply, prices go up."
+}

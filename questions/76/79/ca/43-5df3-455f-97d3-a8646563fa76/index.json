@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T21:27:56.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "7679ca43-5df3-455f-97d3-a8646563fa76",
+  "labels": "current-affairs,2019-08-05",
+  "question": "Which of the following diseases spread due to floods?",
+  "option1": "Cholera",
+  "option2": "Malaria",
+  "option3": "Influenza",
+  "option4": "Diarrhoea",
+  "option5": "",
+  "answer": "Cholera",
+  "explanation": "Floods can potentially increase the transmission of the following communicable diseases: Water-borne diseases, such as typhoid fever, cholera and hepatitis A. Vector-borne diseases, such as malaria, dengue and dengue haemorrhagic fever, yellow fever, and West Nile Fever."
+}

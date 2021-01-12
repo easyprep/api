@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T21:33:43.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "cd41f0bf-c747-42c5-9a2a-bde23ee27600",
+  "labels": "current-affairs,2019-07-30",
+  "question": "Which among the following is true regarding the Humidity of the air?",
+  "option1": "It increases with the increase in atmospheric temperature",
+  "option2": "It decreases with the increase in atmospheric temperature",
+  "option3": "It is not affected by the change in atmospheric temperature",
+  "option4": "It does not show any consistent behaviour with the change in atmospheric temperature",
+  "option5": "",
+  "answer": "It decreases with the increase in atmospheric temperature",
+  "explanation": "As air temperature increases, the amount of moisture, i.e., water vapor, that the air can hold also increases. Thus, for a given amount of water vapor, an increase in air temperature will decrease the relative humidity, because the warmer air could hold more water vapor. Cold winter air, even when saturated, contains far less moisture than warm summer air."
+}

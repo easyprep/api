@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T19:40:02.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "81b4dfb5-0a92-49cc-8c70-feaa9b099820",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Which of the following is NOT the net assets in investing in the equity shares in group companies?",
+  "option1": "cash & bank balances",
+  "option2": "money market instruments",
+  "option3": "money market mutual funds",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Net Assets means Total Assets excluding cash & bank balances, money market instruments and money market mutual funds, advance payment of taxes and deferred tax payment."
+}

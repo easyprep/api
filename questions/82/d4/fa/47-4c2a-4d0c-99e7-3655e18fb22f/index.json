@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-06T22:02:05.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "82d4fa47-4c2a-4d0c-99e7-3655e18fb22f",
+  "labels": "current-affairs,2019-08-07",
+  "question": "India’s first 3-D Smart Traffic Signal ‘Intelights'  has launched in which city?",
+  "option1": "Lucknow",
+  "option2": "Indore",
+  "option3": "Jaipur",
+  "option4": "Mohali",
+  "option5": "",
+  "answer": "Mohali",
+  "explanation": "In a first-of-its-kind initiative in the country, Mohali traffic police have launched 3-D Smart Traffic Signal devised by the students of a Chandigarh university. The wireless system, called \\'Intelights\\', has been installed at the traffic crossing near the Airport Road, on a pilot project basis, and will regulate traffic signals with a smart bird\\'s eye view wireless sensor system.  Intelights proposes a 360-degree solution to curb the rising problem of traffic congestion. One of the major reasons for traffic congestion is the inefficient working of traffic signal timers installed at intersections. Presently, the timers of traffic lights display a preset value which leads to waste of time. For instance, consider a scenario where green light of \\'20 seconds\\' is displayed but there is no vehicle present at that particular intersection - thus leading to unnecessary waste of time. To tackle this issue, \\'Intelights\\' proposes an Intelligent Traffic Timer Control; which uses dynamic signal control technology to adjust the timers of red, yellow and green lights according to the traffic density at an intersection. The system uses existing CCTV cameras to gather live traffic video feed, and automatically evaluates the traffic density using Artificial Intelligence, and sets the signal timers accordingly. This process is repeated for every cycle of traffic lights to keep traffic flowing smoothly."
+}

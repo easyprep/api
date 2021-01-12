@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T19:40:02.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "b5238a8c-f6b1-4d94-9c2d-b9a0d3e48991",
+  "labels": "current-affairs,2019-06-23",
+  "question": "CIC's Adjusted Net Worth shall not be less than how much per cent of its aggregate risk weighted assets on balance sheet?",
+  "option1": 0.3,
+  "option2": 0.4,
+  "option3": 0.5,
+  "option4": 0.7,
+  "option5": "",
+  "answer": 0.3,
+  "explanation": "Every CIC-ND-SI shall ensure that at all times it maintains a minimum Capital Ratio whereby its Adjusted Net Worth shall not be less than 30% of its aggregate risk weighted assets on balance sheet and risk adjusted value of off-balance sheet items as an the date of the last audited balance sheet as at the end of the financial year."
+}

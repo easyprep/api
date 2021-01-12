@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:24:28.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "d25c9fad-21c6-4a54-9bd1-88c019541604",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Which of the following is the correct sequence to track an issue? 1. Document the process by which the issue was resolved. 2. Document an issue including any pertinent details such as the date and who reported it. 3. Track the status of the resolution. 4. Determine a priority for the issue and Assign the issue to a project team member.",
+  "option1": "2,4,3,1",
+  "option2": "4,3,2,1",
+  "option3": "1,2,3,4",
+  "option4": "2,1,3,4",
+  "option5": "",
+  "answer": "2,4,3,1",
+  "explanation": "To track an issue, you just need to follow these steps- Document an issue, including any pertinent details such as the date and who reported it. Determine a priority for the issue. Assign the issue to a project team member. Track the status of the resolution. Document the process by which the issue was resolved."
+}

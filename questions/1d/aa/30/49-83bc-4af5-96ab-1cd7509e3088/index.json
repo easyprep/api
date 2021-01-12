@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T18:41:01.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "1daa3049-83bc-4af5-96ab-1cd7509e3088",
+  "labels": "current-affairs,2019-07-30",
+  "question": "If water contracts on freezing, which of the following would happen?",
+  "option1": "Icebergs will completely float on the surface of water",
+  "option2": "Ice would become more dense",
+  "option3": "Lakes would freeze from top to bottom",
+  "option4": "Rocks will crack due to freezing or internal water",
+  "option5": "",
+  "answer": "Ice would become more dense",
+  "explanation": "When liquid water is cooled, it contracts like one would expect until a temperature of approximately 4 degrees Celsius is reached. After that, it expands slightly until it reaches the freezing point, and then when it freezes it expands by approximately 9%.Ice becomes more dense when water contracts."
+}

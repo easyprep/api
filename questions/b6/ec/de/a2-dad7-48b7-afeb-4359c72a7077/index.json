@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T20:44:35.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "b6ecdea2-dad7-48b7-afeb-4359c72a7077",
+  "labels": "current-affairs,2019-07-21",
+  "question": "During processing and cooking which part of food is mostly destroyed?",
+  "option1": "Proteins",
+  "option2": "Vitamins",
+  "option3": "Carbohydrates",
+  "option4": "Fats",
+  "option5": "",
+  "answer": "Vitamins",
+  "explanation": "Higher temperatures, longer cooking time and larger quantities of water cause more nutrients to be lost. Water-soluble vitamins leach into cooking water, so vegetables lose greater quantities of vitamin C, thiamin, riboflavin, vitamins B-6 and B-12, niacin and folate."
+}

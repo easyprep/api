@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T21:15:20.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "c51ed81b-18dd-430e-bb82-a2a327ba36ee",
+  "labels": "current-affairs,2019-07-30",
+  "question": "Which of the following is the most common wheat disease in India?",
+  "option1": "Green ear",
+  "option2": "Smut",
+  "option3": "Loose smut",
+  "option4": "Rust",
+  "option5": "",
+  "answer": "Rust",
+  "explanation": "Wheat leaf rust is a fungal disease that affects wheat, barley and rye stems, leaves and grains. Its infections can lead up to 20% yield loss, which is exacerbated by dying leaves, which fertilize the fungus. The pathogen of rust is Puccinia rust fungus."
+}

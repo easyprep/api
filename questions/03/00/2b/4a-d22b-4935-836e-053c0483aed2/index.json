@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:24:28.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "03002b4a-d22b-4935-836e-053c0483aed2",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Which of the following helps in monitoring the status of all issue in issue management process?",
+  "option1": "Issue manager",
+  "option2": "Issue recorder",
+  "option3": "Issue register",
+  "option4": "Issue tracker",
+  "option5": "",
+  "answer": "Issue register",
+  "explanation": "Issue Register or Issue Log, keeps a record of all issues within a project. It helps you to monitor the status of your issues and track the actions taken to resolve them."
+}

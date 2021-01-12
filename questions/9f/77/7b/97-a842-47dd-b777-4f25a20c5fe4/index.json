@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-23T14:01:35.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "9f777b97-a842-47dd-b777-4f25a20c5fe4",
+  "labels": "current-affairs,2019-06-24",
+  "question": "Which of the following debts is treated as Quasi-Equity by lenders?",
+  "option1": "Junior Debt",
+  "option2": "Senior Debt",
+  "option3": "Subordinate debt",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Subordinate debt",
+  "explanation": "IIFCL provides subordinate debt up to 10% of the project cost (as part of its exposure of up to 20% of Total Project Cost). This type of debt is typically treated as Quasi-Equity by lenders."
+}

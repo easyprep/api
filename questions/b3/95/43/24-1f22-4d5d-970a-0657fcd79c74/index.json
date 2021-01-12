@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T15:19:31.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "b3954324-1f22-4d5d-970a-0657fcd79c74",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Which of the following is the core investment company having total assets of not less than ₹100 crore?",
+  "option1": "Systemically Important Core Investment Company",
+  "option2": "Infrastructure Debt Fund",
+  "option3": "Infrastructure Finance Company",
+  "option4": "NBFC-MFI",
+  "option5": "",
+  "answer": "Systemically Important Core Investment Company",
+  "explanation": "Systemically important Core Investment Company (CIC-ND-SI)” means a core investment company having total assets of not less than ₹100 crore either individually or in aggregate along with other CICs in the Group and which raises or holds public funds"
+}

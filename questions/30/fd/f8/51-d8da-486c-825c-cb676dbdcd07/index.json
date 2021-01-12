@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T21:08:59.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "30fdf851-d8da-486c-825c-cb676dbdcd07",
+  "labels": "current-affairs,2019-07-21",
+  "question": "What is the use of Radar?",
+  "option1": "Detecting objects by using light waves",
+  "option2": "Reflecting sound waves to detect objects",
+  "option3": "Determining the presence and location of objects with radio waves",
+  "option4": "Tracking rain-bearing clouds",
+  "option5": "",
+  "answer": "Reflecting sound waves to detect objects",
+  "explanation": "Radar is a detection system that uses radio waves to determine the range, angle, or velocity of objects. It can be used to detect aircraft, ships, spacecraft, guided missiles, motor vehicles, weather formations, and terrain.<br />The word RADAR is an acronym for Radio Detection and Ranging, and in its simplest form it consists of a transmitted radio signal aimed by an antenna in a particular direction, and a receiver that detects the echoes off any objects in the path of the signal."
+}

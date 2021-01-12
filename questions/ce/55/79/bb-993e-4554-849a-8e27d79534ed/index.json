@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T16:12:50.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "ce5579bb-993e-4554-849a-8e27d79534ed",
+  "labels": "current-affairs,2019-07-21",
+  "question": "What is the reason behind the radiant energy of the sun?",
+  "option1": "Nuclear fission",
+  "option2": "Nuclear fusion",
+  "option3": "Sinking of the sun",
+  "option4": "Violent explosions",
+  "option5": "",
+  "answer": "Nuclear fusion",
+  "explanation": "The primary source of solar energy, and similar size stars, is the fusion of hydrogen to form helium, which occurs at a solar-core temperature of 14 million kelvin.  Nuclear fusion is a reaction in which two or more atomic nuclei are combined to form one or more different atomic nuclei and subatomic particles."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T21:33:08.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "6ba87d1d-5527-48f9-899a-47cb2ba4b796",
+  "labels": "current-affairs,2019-07-21",
+  "question": "The scientists of which country have developed a concept named Ramanujan Machine?",
+  "option1": "United States",
+  "option2": "Israel",
+  "option3": "Japan",
+  "option4": "France",
+  "option5": "",
+  "answer": "Israel",
+  "explanation": "The scientists from Technion — Israel Institute of Technology (IIT) have developed a concept & have named Ramanujan Machine,  after the Indian mathematician.  It is not really a machine but an algorithm that automatically generates conjectures for fundamental constants. The Conjectures are mathematical statements which are proposed as true statements. In other words, they are mathematical statements that are, as yet, unproven. Typically, people provide the input and the algorithm (hopefully) finds the solution. The Ramanujan Machine reverses the process. So, if a constant such as π is fed into the machine, it will generate a series whose value would lead towards π. The researchers hope that their creation will inspire younger mathematicians. If a user develops a new proof or algorithm, it will be named after him. The algorithm reflects the way Srinivasa Ramanujan worked during his brief life (1887-1920). Throughout his life, Ramanujan came up with novel equations and identities —including equations leading to the value of pi — and it was usually left to formally trained mathematicians to prove these."
+}

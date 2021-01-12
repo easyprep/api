@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T15:19:31.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "60ba2447-ef91-4def-a37a-ea1a649ddaa0",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Which among the following NBFC are not excluded from the Ombudsman scheme for NBFC?",
+  "option1": "Deposit accepting NBFCs",
+  "option2": "NBFC-IFC",
+  "option3": "Core Investment Company",
+  "option4": "IDF-NBFC",
+  "option5": "",
+  "answer": "Deposit accepting NBFCs",
+  "explanation": "The following NBFCs are excluded from the ambit of the Scheme: Non-banking Financial Company – Infrastructure Finance Company (NBFC-IFC), Core Investment Company (CIC), Infrastructure Debt Fund – Non-banking Financial Company (IDF-NBFC) and NBFC under liquidation"
+}

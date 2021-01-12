@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-27T11:54:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "0ec71be4-15da-4dcf-af38-842fac286570",
+  "labels": "current-affairs,2019-06-28",
+  "question": "Which of the following steps should be taken by investor who wishes to form a portfolio that lies to the right of the optimal risky portfolio on the Capital Allocation Line?",
+  "option1": "Lend some of her money at the risk-free rate and invest the remainder in the optimal risky portfolio",
+  "option2": "Borrow some money at the risk-free rate and invest in the optimal risky portfolio",
+  "option3": "Such a portfolio cannot be formed",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Borrow some money at the risk-free rate and invest in the optimal risky portfolio",
+  "explanation": "An investor who wishes to form a portfolio that lies to the right of the optimal risky portfolio on the Capital Allocation Line must invest only in risky securities and borrow some money at the risk-free rate and invest in the optimal risky portfolio."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-24T21:44:20.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "c8f96a2b-75b3-4b10-8ded-5f0e973f4924",
+  "labels": "current-affairs,2019-07-25",
+  "question": "Which IIT has developed 'Agricopter' to eliminate manual spraying of pesticides in agricultural farms?",
+  "option1": "IIT Delhi",
+  "option2": "IIT Madras",
+  "option3": "IIT Indore",
+  "option4": "IIT Bombay",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "The students at the IIT Madras have developed a smart agricopter to eliminate manual spraying of pesticides in agricultural fields and help identify crop health by using a imaging camera. The innovation will allow spraying pesticides 10 times faster and with 100% precision at the same cost as manual spraying. The current version of Project Smart Agricopter is a hexacopter drone with the capacity to carry 15 liters of pesticide."
+}

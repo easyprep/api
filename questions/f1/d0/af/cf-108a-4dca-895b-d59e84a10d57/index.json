@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T17:26:49.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "f1d0afcf-108a-4dca-895b-d59e84a10d57",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following is the reason behind the cool water in an open pond even in hot summer?",
+  "option1": "Continuous evaporation of water",
+  "option2": "Water radiates heat more rapidly than the atmosphere",
+  "option3": "Water absorbs heat less rapidly than the atmosphere",
+  "option4": "Water absorbs heat more rapidly than the atmosphere",
+  "option5": "",
+  "answer": "Water absorbs heat less rapidly than the atmosphere",
+  "explanation": "First, a pond is comparatively deep - a couple of meters at least in its middle. Earth\\'s temperature at this depth is comparatively stable. The surface of the pond\\'s water reflects more light of the sun than the surface of the earth does. Water is also a very poor conductor of heat. So the hot summer might warm the top layer of water, but the heat is not quickly transferred down to the bottom."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-18T15:05:56.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "343194f5-fed4-412e-a324-bd55c6aae07e",
+  "labels": "current-affairs,2019-07-19",
+  "question": "What is the use of Richter scale?",
+  "option1": "To measure earthquakes",
+  "option2": "To measure ocean depth",
+  "option3": "To measure temperature of the body",
+  "option4": "To measure intensity of wind",
+  "option5": "",
+  "answer": "To measure earthquakes",
+  "explanation": "Richter scale was invented in 1935 by Charles F. Richter of the California Institute of Technology as a mathematical device to compare the size of earthquakes. The Richter scale is used to rate the magnitude of an earthquake, that is the amount of energy released during an earthquake."
+}

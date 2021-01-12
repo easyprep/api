@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T14:43:14.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "f1abe08f-53d3-4dea-997f-f702727fe08e",
+  "labels": "current-affairs,2019-08-05",
+  "question": "Who among the following solves the dispute regarding the election of President of India?",
+  "option1": "Chief  Election Commissioner",
+  "option2": "Supreme Court",
+  "option3": "Parliament",
+  "option4": "Attorney-General",
+  "option5": "",
+  "answer": "Supreme Court",
+  "explanation": "According to Article 71 of the Indian Constitution, all doubts and disputes arising out of or in connection with the election of a President or Vice-President shall be inquired into and decided by the Supreme Court."
+}

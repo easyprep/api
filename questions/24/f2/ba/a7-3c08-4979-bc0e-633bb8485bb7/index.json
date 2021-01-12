@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T17:10:16.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "24f2baa7-3c08-4979-bc0e-633bb8485bb7",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following situations arises when a man circles round the earth in a satellite?",
+  "option1": "The mass of man becomes zero but weight remains constant",
+  "option2": "The Mass of man remains constant but weight becomes zero",
+  "option3": "Both mass and weight of the man remain constant",
+  "option4": "Both mass and weight of the man remain zero",
+  "option5": "",
+  "answer": "The Mass of man remains constant but weight becomes zero",
+  "explanation": "Mass is the amount of matter enclosed by a body so it can never change with displacement in a body. Weight is a force actually force due to gravity taking earth into consideration. Therefore outside earth this force is negligible. Hence weight is zero. As W=mg, where g is the force due to gravity. When ‘g’ is almost negligible or nil, weight becomes zero. Hence outside earth weight is zero while mass is constant."
+}

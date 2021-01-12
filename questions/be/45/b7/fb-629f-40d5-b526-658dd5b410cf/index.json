@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T14:21:07.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "be45b7fb-629f-40d5-b526-658dd5b410cf",
+  "labels": "current-affairs,2019-08-05",
+  "question": "Who among the following elects the President of India?",
+  "option1": "Lok Sabha",
+  "option2": "Rajya Sabha",
+  "option3": "Elected representatives of Lok Sabha, Rajya Sabha and State Legislative Assemblies",
+  "option4": "People directly",
+  "option5": "",
+  "answer": "Elected representatives of Lok Sabha, Rajya Sabha and State Legislative Assemblies",
+  "explanation": "The President of India is indirectly elected by an electoral college consisting of the elected members of both houses of parliament, the elected members of the Legislative assemblies of the 29 states and the elected members of the legislative assemblies of the Union Territories of Delhi and Puducherry."
+}

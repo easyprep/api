@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T21:41:07.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "100d6736-d55b-4be6-903a-a84631e3d134",
+  "labels": "current-affairs,2019-08-05",
+  "question": "Which of the following can be measured by Hygrometer?",
+  "option1": "Density of a liquid",
+  "option2": "Relative humidity of atmosphere",
+  "option3": "Absorption power of plants",
+  "option4": "Temperature of air",
+  "option5": "",
+  "answer": "Relative humidity of atmosphere",
+  "explanation": "A hygrometer is also known as a psychrometer. It is a device that is used to measure the humidity in the air. A common way these devices work is by using a material that attracts moisture, and that changes depending on how moist it is."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-27T11:54:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "cf03725e-02c6-422d-b0e7-007a3f31cf34",
+  "labels": "current-affairs,2019-06-28",
+  "question": "What happens to corporate bond with a fixed interest rate, if interest rates in nation increase?",
+  "option1": "decrease in value",
+  "option2": "Be returned to corporation",
+  "option3": "remain unchanged",
+  "option4": "increase in value",
+  "option5": "",
+  "answer": "decrease in value",
+  "explanation": "If interest rates in nation increase, a corporate bond with a fixed interest rate will decrease in value."
+}

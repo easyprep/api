@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-28T21:26:44.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "d7a66a40-c06d-40f4-b43a-434afa2b0f7d",
+  "labels": "current-affairs,2019-06-29",
+  "question": "The world-class Central Air Traffic Flow Management (C-ATFM) has inaugurated in which of the following cities?",
+  "option1": "Chennai",
+  "option2": "Kochi",
+  "option3": "Bangaluru",
+  "option4": "New Delhi",
+  "option5": "",
+  "answer": "New Delhi",
+  "explanation": "Union Civil Aviation Minister Hardeep Singh Puri inaugurated the Central Command Centre for Air Traffic Flow Management (C-ATFM) at Vasant Kunj, New Delhi. The C-ATFM system is primarily meant to address the balancing of capacity against the demand to achieve optimum utilization of the major resources viz., airport, airspace and aircraft at every Indian airport where there is a capacity constraint. It integrates flight data from various subsystems like ATC Automation System, flight updates and flight update messages. The system also displays weather information along with static information about airports, airspaces and air routes.  The system processes the demand and capacity information and provides decision-making tools to the ATFM Flow Manager for collaborative decision making and to ensure regulated flow of traffic at each airport in India. After successfully implementing the AFTM, India has become the 7th country after the US, Europe, Australia, South Africa, Japan, Brazil."
+}

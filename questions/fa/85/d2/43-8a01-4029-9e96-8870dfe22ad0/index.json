@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T17:07:53.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "fa85d243-8a01-4029-9e96-8870dfe22ad0",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which of the following elements is used to make the heater element in an electric iron?",
+  "option1": "Nichrome",
+  "option2": "Tungsten",
+  "option3": "Copper",
+  "option4": "Iron",
+  "option5": "",
+  "answer": "Nichrome",
+  "explanation": "In an electric iron, heating element is made up of nichrome. The composition of heating element is 80/20 (80% nickel, 20% chromium). Nichrome 80/20 is an ideal material, because it has relatively high resistance and forms an adherent layer of chromium oxide when it is heated for the first time."
+}

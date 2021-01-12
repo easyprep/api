@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-18T14:37:01.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "bf3993ed-5a12-4869-8c3e-d7581c7926ec",
+  "labels": "current-affairs,2019-07-19",
+  "question": "Age of a tree can be determined by which of the following methods?",
+  "option1": "By counting the number of rings",
+  "option2": "By thickness of the bark",
+  "option3": "By bulk of the tree",
+  "option4": "By number of leaves",
+  "option5": "",
+  "answer": "By counting the number of rings",
+  "explanation": "Each year, trees add on extra layer to their trunks. Each ring corresponds to roughly one year. We can obtain the age by literally counting the number of rings in the trunk."
+}

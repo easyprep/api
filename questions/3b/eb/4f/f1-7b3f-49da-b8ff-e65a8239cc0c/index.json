@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "3beb4ff1-7b3f-49da-b8ff-e65a8239cc0c",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Which of the following actions is performed by debenture trustee in case of delayed payment?",
+  "option1": "Update the calendar specifying the date of such payment",
+  "option2": "Cancel the payment",
+  "option3": "Register a complaint",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Update the calendar specifying the date of such payment",
+  "explanation": "Status of payment against such issuers will have to be disclosed not later than one day from the due date. In case the payment is made with a delay by the issuer, DTs should update the calendar specifying the date of such payment, with a remark ‘delayed payment’."
+}

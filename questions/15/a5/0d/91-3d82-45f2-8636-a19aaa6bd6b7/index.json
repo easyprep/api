@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-13T22:10:20.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "15a50d91-3d82-45f2-8636-a19aaa6bd6b7",
+  "labels": "current-affairs,2019-07-14",
+  "question": "The researchers of which country have found that Electronic cigarettes damage brain stem cells?",
+  "option1": "South Africa",
+  "option2": "India",
+  "option3": "France",
+  "option4": "United States",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The researchers in the United States (US) have found that Electronic Cigarettes (ECs) produce a stress response in brain stem cells. They identified the mechanism underlying EC-induced stem cell toxicity as “Stress-Induced Mitochondrial Hyper-fusion (SIMH) using cultured mouse neural stem cells. The study showed that exposure of stem cells to e-liquids, aerosols, or nicotine produces a response that leads to SIMH. Stem cells are present throughout life & become specialized cells with more specific functions, such as brain cells, blood cells, or bone.  ECs are nicotine-delivery devices that aerosolize nicotine and flavour chemicals through heating. The high levels of nicotine in ECs lead to a nicotine flooding of special receptors in the neural stem cell membrane. If the nicotine stress persists, SIMH collapses, the neural stem cells get damaged and could eventually die. If that happens, no more specialised cells, astrocytes and neurons, for example, can be produced from stem cells. Then, damaged stem cell mitochondria could accelerate aging and lead to neurodegenerative diseases. Nicotine exposure during prenatal or adolescent development can affect the brain in multiple ways that may impair memory, learning, and cognition"
+}

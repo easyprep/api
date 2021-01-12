@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-23T14:27:50.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "9d5b6a7c-ef91-4bfc-b3f5-fde25d450484",
+  "labels": "current-affairs,2019-06-24",
+  "question": "Trust IDF is regulated by which of the following?",
+  "option1": "SBI",
+  "option2": "RBI",
+  "option3": "SEBI",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "SEBI",
+  "explanation": "Infrastructure Debt Funds (IDFs) can be set up either as a Trust or as a Company. A trust based IDF would normally be a Mutual Fund (MF), regulated by SEBI."
+}

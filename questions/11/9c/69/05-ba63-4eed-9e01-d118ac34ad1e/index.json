@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "119c6905-ba63-4eed-9e01-d118ac34ad1e",
+  "labels": "current-affairs,2019-06-26",
+  "question": "In case of default, what is the minimum percent of additional interest is paid by issuer company?",
+  "option1": 0.15,
+  "option2": 0.05,
+  "option3": 0.02,
+  "option4": 0.01,
+  "option5": "",
+  "answer": 0.02,
+  "explanation": "In case of default, payment of interest and/or principal redemption on the due dates, an additional interest of minimum 2 per cent per annum over the coupon rate shall be payable by the issuer company for the defaulting period."
+}

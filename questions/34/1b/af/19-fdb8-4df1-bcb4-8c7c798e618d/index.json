@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-23T14:27:51.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "341baf19-fdb8-4df1-bcb4-8c7c798e618d",
+  "labels": "current-affairs,2019-06-24",
+  "question": "What should br the CRAR for NBFCs as sponsors of IDF-MF?",
+  "option1": 0.15,
+  "option2": 0.2,
+  "option3": 0.25,
+  "option4": 0.35,
+  "option5": "",
+  "answer": 0.15,
+  "explanation": "NBFCs sponsoring IDF-MFs are required to comply with a minimum Net Owned Funds (NOF) of Rs.300 crore and Capital to Risk Weighted Assets (CRAR) of 15%."
+}

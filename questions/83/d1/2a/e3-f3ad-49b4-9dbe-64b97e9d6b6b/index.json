@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T20:19:30.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "83d12ae3-f3ad-49b4-9dbe-64b97e9d6b6b",
+  "labels": "current-affairs,2019-07-21",
+  "question": "What is the maximum period during which Parliament may not meet?",
+  "option1": "Six months",
+  "option2": "One year",
+  "option3": "Two years",
+  "option4": "Three years",
+  "option5": "",
+  "answer": "Six months",
+  "explanation": "Maximum gap should not be more than six months between two parliamentary sessions. The minimum gap between two sessions of parliament is 90 days."
+}

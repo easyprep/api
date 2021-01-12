@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-30T21:57:15.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "c9027c1e-4681-4e5c-b211-6a7ad75d98e6",
+  "labels": "current-affairs,2019-07-31",
+  "question": "The scientists of which country have developed a  statistical model  that predict pollution levels using oceans’ memory?",
+  "option1": "China & United States",
+  "option2": "India & France",
+  "option3": "Poland & Italy",
+  "option4": "France & Germany",
+  "option5": "",
+  "answer": "China & United States",
+  "explanation": "Researchers from China and the U.S. have developed a novel computer model that can help accurately predict air pollution levels in the region a season in advance. The statistical model uses certain climatic patterns related to the oceans which have a regulatory effect on the wintertime air pollution over northern India. The new model could allow the government to forecast aerosol pollution conditions in winter and accordingly improve plans for pollution control. The study found that the inter-annual variability of wintertime aerosol pollution over northern India is regulated mainly by a combination of El Nino -- a climate cycle in the Pacific Ocean with a global impact on weather patterns -- and the Antarctic Oscillation (AAO), a low-frequency mode of atmospheric variability of the southern hemisphere. Both El Nino sea surface temperature (SST) anomalies and AAO-induced anomalies can persist from autumn to winter, offering prospects for a pre-winter forecast of wintertime aerosol pollution over northern India."
+}

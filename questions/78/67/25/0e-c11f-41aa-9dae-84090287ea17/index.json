@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-18T14:29:47.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "7867250e-c11f-41aa-9dae-84090287ea17",
+  "labels": "current-affairs,2019-07-19",
+  "question": "Permanent hardness of water cannot be removed by which of the following methods?",
+  "option1": "Boiling",
+  "option2": "Adding caustic soda",
+  "option3": "Distillation",
+  "option4": "Adding washing soda",
+  "option5": "",
+  "answer": "Adding washing soda",
+  "explanation": "Temporary hardness is caused by dissolved calcium hydrogencarbonate. It is removed by boiling.<br />Permanent hardness is caused by dissolved calcium sulfate which is not removed by boiling. Water can be softened using washing soda or an ion-exchange resin."
+}

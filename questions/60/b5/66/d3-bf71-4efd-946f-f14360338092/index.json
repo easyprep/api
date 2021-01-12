@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-30T22:11:55.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "60b566d3-bf71-4efd-946f-f14360338092",
+  "labels": "current-affairs,2019-07-31",
+  "question": "The researchers at which IIT have developed eco-friendly solar cells using kumkum dye?",
+  "option1": "IIT Madras",
+  "option2": "IIT Bombay",
+  "option3": "IIT Hyderabad",
+  "option4": "IIT Kanpur",
+  "option5": "",
+  "answer": "IIT Hyderabad",
+  "explanation": "The scientists at IIT Hyderabad have developed low-cost, environment-friendly solar cells by employing an off-the-shelf dye used to make kumkum or vermilion in India.  The Dye-Sensitised Solar Cell (DSSC)  is based on New Fuchsin (NF) dye with aqueous electrolyte and platinum-free counter electrodes. The research is published in the Solar Energy journal. The most familiar solar cells today are made up of silicon. However, this technology is limited by huge fabrication costs as silicon processing is very expensive and involves very high temperature methods that leave a large carbon footprint. DSSC is a third-generation thin-film organic molecule-based energy conversion device. It consists of three components: A monolayer of dye molecule adsorbed on semiconductor material, titanium dioxide (TiO2) deposited on transparent conductive oxides, like indium tin oxide (ITO) and a liquid electrolyte with an excess of electrons. DSSCs are generally considered eco-friendlier to produce than conventional solar cells because they require little energy to manufacture. The best performing DSSCs use organic solvent-based liquid electrolytes."
+}

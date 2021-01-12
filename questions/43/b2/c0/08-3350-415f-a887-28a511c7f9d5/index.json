@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T17:14:14.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "43b2c008-3350-415f-a887-28a511c7f9d5",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which of the following units can be used to measure the distance of stars?",
+  "option1": "Light years",
+  "option2": "Kilometres per second",
+  "option3": "Kilometres only",
+  "option4": "Nautical miles",
+  "option5": "",
+  "answer": "Light years",
+  "explanation": "Two units can be used to measure the distance of stars. These are light year and parsec. A light year is the distance light can travel in a vacuum in one year which is about 9.5 trillion km and a parsec in 3.26 light years."
+}

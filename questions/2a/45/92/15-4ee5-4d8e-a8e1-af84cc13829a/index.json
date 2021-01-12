@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T16:06:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "2a459215-4ee5-4d8e-a8e1-af84cc13829a",
+  "labels": "current-affairs,2019-07-21",
+  "question": "What is the escape velocity from the earth’s surface?",
+  "option1": "30 km/sec",
+  "option2": "6 km/sec",
+  "option3": "11.2 km/sec",
+  "option4": "300 km/sec",
+  "option5": "",
+  "answer": "11.2 km/sec",
+  "explanation": "Escape velocity is the minimum speed needed for a free object to escape from the gravitational influence of a massive body.  The escape velocity from Earth is about 11.186 km/s."
+}

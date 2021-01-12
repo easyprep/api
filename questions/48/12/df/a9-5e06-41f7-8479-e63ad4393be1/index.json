@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T21:50:35.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "4812dfa9-5e06-41f7-8479-e63ad4393be1",
+  "labels": "current-affairs,2019-08-05",
+  "question": "Which of the following is the chief constituent of Gobar gas?",
+  "option1": "Hydrogen",
+  "option2": "Nitrogen",
+  "option3": "Ethane",
+  "option4": "Methane",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Biogas comprises primarily methane (CH4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulphide (H2S), moisture and siloxanes."
+}

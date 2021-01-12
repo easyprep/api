@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T16:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "388ed710-8886-4989-bf64-d59910f3f56a",
+  "labels": "current-affairs,2019-07-30",
+  "question": "What is the reason for the main oil refineries in India to be situated near seaports?",
+  "option1": "Because India needs much crude oil which is mostly imported",
+  "option2": "Because most of the crude oil is exported to other countries",
+  "option3": "Because sea water is required for refining crude oil",
+  "option4": "Because petrol is available near sea ports; crossing Atlantic and then North America",
+  "option5": "",
+  "answer": "Because India needs much crude oil which is mostly imported",
+  "explanation": "Refineries which use a large amount of steam and cooling water need to have an abundant source of water. Oil refineries therefore are often located nearby navigable rivers or on a sea shore, nearby a port. Such location also gives access to transportation by river or by sea."
+}

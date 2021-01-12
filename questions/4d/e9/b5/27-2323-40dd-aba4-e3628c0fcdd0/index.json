@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "4de9b527-2323-40dd-aba4-e3628c0fcdd0",
+  "labels": "current-affairs,2019-06-26",
+  "question": "What percent of annual interest should be paid by issuer firm to investor in case of delay in listing?",
+  "option1": 0.05,
+  "option2": 0.01,
+  "option3": 0.1,
+  "option4": 0.2,
+  "option5": "",
+  "answer": 0.01,
+  "explanation": "Similarly, for delay in listing of debt securities beyond 20 days from the date of allotment, the issuer firm needs to pay the investor at least 1 per cent annual interest over the coupon rate from the expiry of 30 days from the deemed date of allotment till the listing of such debt securities."
+}

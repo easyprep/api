@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-23T14:32:35.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "fd6dad89-f9f5-4ab1-9974-1949a451e23d",
+  "labels": "current-affairs,2019-06-24",
+  "question": "NBFC-Factor is related to which of the following businesses?",
+  "option1": "Insurance",
+  "option2": "Deposit",
+  "option3": "Non-deposit",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Non-deposit",
+  "explanation": "NBFC-Factor is a non-deposit taking NBFC engaged in the principal business of factoring."
+}

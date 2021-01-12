@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-18T14:36:01.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "68195e55-2080-458a-9465-08a631cea4f5",
+  "labels": "current-affairs,2019-07-19",
+  "question": "At what condition a body partially floats in water?",
+  "option1": "The volume of the displaced liquid is equal to the volume of the body",
+  "option2": "The volume of the displaced liquid is greater than the volume of the body",
+  "option3": "The weight of the displaced water is equal to the weight of the body",
+  "option4": "The weight of the displaced water is greater than the weight of the body",
+  "option5": "",
+  "answer": "The weight of the displaced water is equal to the weight of the body",
+  "explanation": "All the objects placed in a liquid experience an upward force which allows the body to float if it displaces water with the weight equal to the weight of the body. This upward force is known as buoyant force and the law is known as the law of buoyancy. Mainly, floatation depends upon the density."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-21T11:55:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "7ba4a17a-5aea-46c3-8ab7-4fbb480e9be5",
+  "labels": "current-affairs,2019-06-22",
+  "question": "Which of the following is / are valid obstacles to conduct simultaneous Lok Sabha and state assembly elections every five years?\r\n<ol>\r\n<li>The constitution of India needs to be amended to enable the Election Commission conduct simultaneous Lok Sabha and state assembly elections</li>\r\n<li>Electronic Voting Machines have a have a lifespan of 15 years, which means under a system of simultaneous polls, each EVM would only be used three times before needing a replacement</li>\r\n<li>It won't be practical towards hung legislatures or the premature dissolution of governments which shall require offcycle repolling</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All the three are valid and practical reasons which disallow the simultaneous elections in the country."
+}

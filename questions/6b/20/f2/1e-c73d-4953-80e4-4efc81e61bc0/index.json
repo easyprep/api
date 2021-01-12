@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:24:28.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "6b20f21e-c73d-4953-80e4-4efc81e61bc0",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Which of the following helps managers track the issues that arise in a project and prioritize a response to them?",
+  "option1": "Issue tracker",
+  "option2": "Issue list",
+  "option3": "Track list",
+  "option4": "Issue builder",
+  "option5": "",
+  "answer": "Issue list",
+  "explanation": "An issue log is a simple list or spreadsheet that helps managers track the issues that arise in a project and prioritize a response to them. An issue is any roadblock or unintended impact that directly affects your project's timeline and or performance."
+}

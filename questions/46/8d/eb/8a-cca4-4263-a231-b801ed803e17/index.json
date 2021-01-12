@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T21:18:30.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "468deb8a-cca4-4263-a231-b801ed803e17",
+  "labels": "current-affairs,2019-08-05",
+  "question": "Which of the following is the source of energy of the sun?",
+  "option1": "Nuclear fission reactions",
+  "option2": "Nuclear fusion reactions",
+  "option3": "Oxidation of helium",
+  "option4": "Fission of noble metals",
+  "option5": "",
+  "answer": "Nuclear fusion reactions",
+  "explanation": "Nuclear fusion is the source of Sun\\'s energy. At the core where temperature and pressure are very high hydrogen atoms fuse into helium atom and release energy in the form of Gama rays."
+}

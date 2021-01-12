@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-26T11:22:20.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "c9560f6b-f9c5-4cf5-b346-8ed152421401",
+  "labels": "current-affairs,2019-06-27",
+  "question": "Warm blooded animals are found in which of the following taxonomic groups?\r\n<ol>\r\n<li>Mammals</li>\r\n<li>Birds</li>\r\n<li>Fishes</li>\r\n<li>Reptiles</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "With a few exceptions, all mammals and birds are warm-blooded, and all reptiles, insects, arachnids, amphibians and fish are cold-blooded."
+}

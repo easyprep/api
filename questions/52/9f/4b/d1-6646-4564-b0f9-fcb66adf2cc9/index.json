@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T20:48:20.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "529f4bd1-6646-4564-b0f9-fcb66adf2cc9",
+  "labels": "current-affairs,2019-07-21",
+  "question": "What happens to the weight, when iron rusts?",
+  "option1": "Weight increases",
+  "option2": "Weight decreases",
+  "option3": "Weight remains the same",
+  "option4": "Weight first increases then decreases",
+  "option5": "",
+  "answer": "Weight increases",
+  "explanation": "When iron oxidizes, oxygen from the air combines with the iron to make iron oxide or rust. So, weight of the bar increases, due to the increased weight of oxygen which has combined with the iron."
+}

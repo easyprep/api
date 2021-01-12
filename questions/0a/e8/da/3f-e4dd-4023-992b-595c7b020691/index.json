@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-18T14:34:16.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "0ae8da3f-e4dd-4023-992b-595c7b020691",
+  "labels": "current-affairs,2019-07-19",
+  "question": "The temperature for pasteurisation of milk is selected so as to fulfil which among the following purposes?",
+  "option1": "Kill the micro-organisms",
+  "option2": "Kill all bacteria",
+  "option3": "Store it for long time without coagulation",
+  "option4": "Kill the micro organisms and other harmful bacteria",
+  "option5": "",
+  "answer": "Kill the micro organisms and other harmful bacteria",
+  "explanation": "Pasteurization is the process of heating milk up and then quickly cooling it down to eliminate certain bacteria and all other microorganisms. More common is heating milk up to at least 161.6 degrees Fahrenheit for 15 seconds. There are following methods that are most commonly used:<br />• High Temperature, Short Time (HTST) method – This method requires that the milk be held at 161 degrees for 16 seconds. <br />• Ultra-Pasteurization (UP) – This is the type of pasteurization that you will most commonly see on cartons of milk, half-and-half and heavy cream."
+}

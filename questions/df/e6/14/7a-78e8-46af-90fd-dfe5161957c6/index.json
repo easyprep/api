@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:24:28.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "dfe6147a-78e8-46af-90fd-dfe5161957c6",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Which of the following defines \"issue\" in Risk and Issue management?",
+  "option1": "Something that has happened or a current problems",
+  "option2": "Something that hasn't happened yet but has some probability of occurring",
+  "option3": "potential future problems",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Something that has happened or a current problems",
+  "explanation": "A risk is something that hasn't happened yet but has some probability of occurring. An issue is essentially a risk that has happened. In other words, risks are potential future problems and issues are current problems."
+}

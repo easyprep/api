@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T19:20:33.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "f327f5d0-3852-439e-99b2-a8a8163e3a5b",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Any NBFC is is considered systemically important NBFC when its asset size is of how much amount or more?",
+  "option1": "Rs 100 Crore",
+  "option2": "Rs 500 Crore",
+  "option3": "Rs 250 Crore",
+  "option4": "Rs 750 Crore",
+  "option5": "",
+  "answer": "Rs 500 Crore",
+  "explanation": "NBFCs whose asset size is of Rs 500 cr or more as per last audited balance sheet are considered as systemically important NBFCs."
+}

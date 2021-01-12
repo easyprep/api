@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T16:00:44.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "c8119f45-0641-4072-9091-8243f528b91e",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which Unit of distance is used in navigation?",
+  "option1": "Nautical mile",
+  "option2": "Kilometer",
+  "option3": "Light year",
+  "option4": "Yard",
+  "option5": "",
+  "answer": "Nautical mile",
+  "explanation": "A nautical mile is a unit of measurement used in both air and marine navigation, and for the definition of territorial waters. Historically, it was defined as one minute of latitude along any line of longitude. Knowing your latitude you also know the factor to determine what one minute of longitude is. Therefore, using nautical miles for length and knots makes common sense when navigating and traveling long distances. Today the international nautical mile is defined as exactly 1852 metres."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T18:51:59.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "d95fa5ee-413f-493d-93be-21db91c72baf",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following forms of Nitrogen is taken up by Higher Plants?",
+  "option1": "Nitrites only",
+  "option2": "Nitrates only",
+  "option3": "Nitrates and Ammonium",
+  "option4": "Urea",
+  "option5": "",
+  "answer": "Nitrates and Ammonium",
+  "explanation": "Plants absorb ammonium and nitrate during the nitrogen assimilation process, after which they are converted into nitrogen-containing organic molecules, such as amino acids and DNA. Animals cannot absorb nitrates directly. They receive their nutrient supplies by consuming plants or plant-consuming animals."
+}

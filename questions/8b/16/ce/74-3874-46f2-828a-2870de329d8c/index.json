@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T20:49:38.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "8b16ce74-3874-46f2-828a-2870de329d8c",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Which working group is head of the SEBI panel to review margins on derivatives?",
+  "option1": "BSE",
+  "option2": "NSE Clearing Ltd",
+  "option3": "NPCI",
+  "option4": "FSDC",
+  "option5": "",
+  "answer": "NSE Clearing Ltd",
+  "explanation": "The Securities and Exchange Board of India (SEBI) has constituted a working group, headed by NSE Clearing Ltd., to review the current framework of margins in the futures and options segment. The group will look into the issue and submit its recommendations to the Secondary Market Advisory Committee. This assumes significance as lower cost of trading was primarily the reason why institutional investors preferred to trade in Nifty contracts on SGX at Singapore rather than on the highly liquid derivatives segment of the National Stock Exchange (NSE). Incidentally, a recent study jointly conducted by Association of National Exchanges Members of India (ANMI) and consultancy firm Ernst & Young (EY) highlighted the fact that trading in derivatives in India costs much more when compared with most of the other leading markets due to a variety of margins that are imposed on the traders."
+}

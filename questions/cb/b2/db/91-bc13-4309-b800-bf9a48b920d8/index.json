@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-04T21:48:35.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "cbb2db91-bc13-4309-b800-bf9a48b920d8",
+  "labels": "current-affairs,2019-08-05",
+  "question": "Which of the following is the easiest way of finding out the nutritional status for large number of children in a short time?",
+  "option1": "Studying their behaviour",
+  "option2": "Studying their hair, face and eyes",
+  "option3": "Measuring their height and weight",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Measuring their height and weight",
+  "explanation": "The nutritional status of a large number of children can be calculated by knowing their body mass index .It is a physical measurement used to assess total amount of body fat. It is calculated by dividing your weight in kilograms (kg) by the square of your height in metres (m<sup>2</sup>). Depending on the BMI value calculated, one may be underweight, normal weight, overweight or obese."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "9be259e6-d474-4bf7-ba5b-058f3ce25e00",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Who among the following serves as the holder of debenture stock for the benefit of another party?",
+  "option1": "Company's trustee",
+  "option2": "Debenture trustee",
+  "option3": "Bond trustee",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "Debenture trustee",
+  "explanation": "A debenture trustee is one that serves as the holder of debenture stock for the benefit of another party. When a company is looking to raise capital, one method of accomplishing this is by issuing stock as a form of debt with the obligation to repay the debt at a specific interest rate."
+}

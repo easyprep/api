@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-18T14:31:06.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "b2483f88-eda7-485a-b709-ef255c5fc08c",
+  "labels": "current-affairs,2019-07-19",
+  "question": "Which of the following conditions results in the highest density of sea water?",
+  "option1": "Depth increases and salinity increases",
+  "option2": "Depth decreases and salinity increases",
+  "option3": "Depth increases and salinity decreases",
+  "option4": "Depth decreases and salinity decreases",
+  "option5": "",
+  "answer": "Depth increases and salinity increases",
+  "explanation": "The density of surface seawater ranges from about 1020 to 1029 kg/m<sup>3</sup>.It depends on the temperature and salinity. As the depth increases the salinity also increases. At a temperature of 25 °C, salinity of 35 g/kg and 1 atm pressure, the density of seawater is 1023.6 kg/m<sup>3</sup>. Deep in the ocean, under high pressure, seawater can reach a density of 1050 kg/m<sup>3</sup> or higher."
+}

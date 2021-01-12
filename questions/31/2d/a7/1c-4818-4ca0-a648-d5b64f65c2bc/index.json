@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T19:20:33.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "312da71c-4818-4ca0-a648-d5b64f65c2bc",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Which of the following is true about NBFC?",
+  "option1": "NBFC cannot accept demand deposits",
+  "option2": "NBFCs cannot issue cheques drawn on itself",
+  "option3": "Deposit insurance facility of DICGC is not available to depositors of NBFCs",
+  "option4": "All are true",
+  "option5": "",
+  "answer": "All are true",
+  "explanation": "All the three points mentioned above are true. These points differentiate NBFC and banks"
+}

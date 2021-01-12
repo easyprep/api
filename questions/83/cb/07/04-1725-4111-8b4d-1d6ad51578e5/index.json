@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-20T21:31:02.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "83cb0704-1725-4111-8b4d-1d6ad51578e5",
+  "labels": "current-affairs,2019-06-21",
+  "question": "Where is the headquarters of Internet Corporation for Assigned Names and Numbers (ICANN)?",
+  "option1": "Los Angeles",
+  "option2": "Paris",
+  "option3": "New York",
+  "option4": "Berlin",
+  "option5": "",
+  "answer": "Los Angeles",
+  "explanation": "Global internet body Internet Corporation for Assigned Names and Numbers (ICANN) and Indian IT industry body Nasscom has collaborated to develop identifier technology that can be used for managing devices and infrastructure using internet. Under the collaboration, both the bodies will focus on updating Internet of Things (IoT) devices using Domain Name System (DNS) even in situation when the manufacturer or supplier has closed down the business. The ICANN is a nonprofit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network\\'s stable and secure operation.  Its’ headquarters is located at Los Angeles in California, United States."
+}

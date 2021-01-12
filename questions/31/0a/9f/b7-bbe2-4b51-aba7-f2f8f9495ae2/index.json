@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T21:53:18.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "310a9fb7-bbe2-4b51-aba7-f2f8f9495ae2",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which among the following are the planets nearest to Sun?",
+  "option1": "Mercury and Mars",
+  "option2": "Earth and Mercury",
+  "option3": "Mercury and Venus",
+  "option4": "Mercury and Uranus",
+  "option5": "",
+  "answer": "Mercury and Venus",
+  "explanation": "In 2006, the International Astronomical Union (IAU) decided on the definition of a planet. The definition states that in our Solar System, a planet is a celestial body which:<br />• is in orbit around the Sun<br />• has sufficient mass to assume hydrostatic equilibrium (a nearly round shape)<br />• has “cleared the neighborhood” around its orbit<br />• is not a moon<br />Our Solar System has eight planets which orbit the sun. In order of distance from the sun they are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto, which until recently was considered to be the farthest planet, is now classified as a dwarf planet."
+}

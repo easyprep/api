@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T20:09:26.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "a01b569f-b6d6-41dc-a25a-bd2a4d1381ae",
+  "labels": "current-affairs,2019-07-21",
+  "question": "In which of the following cases a joint session of the Lok Sabha and Rajya Sabha is convened by the President?",
+  "option1": "When a Finance Bill is to be passed by the Lok Sabha and the Rajya Sabha with 2/3rd majority",
+  "option2": "To impeach the President",
+  "option3": "If after a bill has been passed by one House and transmitted to the other House and the bill is rejected by the other House",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "If after a bill has been passed by one House and transmitted to the other House and the bill is rejected by the other House",
+  "explanation": "Joint Session is only called when there is a disagreement between two houses regarding General Bill or Financial Bill. Joint Session is not summoned for disagreement regarding Money Bill and Amendment Bill. <br />When the bill is passed in Lok Sabha, it is send to the Rajya Sabha. If the members of Rajya Sabha pass the bill, then the bill goes to the President for final approval. But if the members of Rajya Sabha have some disagreement regarding the bill then the bill is not passed in Rajya Sabha. In this case, the President calls for a Joint Session between the two houses. The Head of the Joint Session is the Speaker of the Lok Sabha."
+}

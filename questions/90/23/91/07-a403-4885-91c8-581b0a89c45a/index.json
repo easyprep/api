@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-29T20:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "90239107-a403-4885-91c8-581b0a89c45a",
+  "labels": "current-affairs,2019-07-30",
+  "question": "Which of the following statements is true?",
+  "option1": "Both salinity and density of sea increase with depth",
+  "option2": "Both salinity and density of sea decrease with depth",
+  "option3": "Salinity increases but density of sea decreases with depth",
+  "option4": "Salinity decreases but density of sea increases with depth",
+  "option5": "",
+  "answer": "Both salinity and density of sea increase with depth",
+  "explanation": "Salinity increases slightly with increasing depth. The density of sea increases with depth. The water molecules pack together tighter as pressure increases -the pressure increase with depth, due to the weight of the water above, and causes the greatest density changes in seawater with depth."
+}

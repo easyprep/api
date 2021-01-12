@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T21:26:48.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "b4534123-658c-484e-b47b-7a63997d369b",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Who among the following will decide over a dispute regarding disqualification of a member of Parliament?",
+  "option1": "Election Commissioner",
+  "option2": "Speaker of the Lok Sabha",
+  "option3": "President of India",
+  "option4": "A committee set up by the Parliament",
+  "option5": "",
+  "answer": "President of India",
+  "explanation": "The question whether a member is subject to disqualification in all other matters except under 10th schedule (disqualification) is decided by President. However, President should obtain the opinion of the election commission before taking such decision. The question of disqualification under Anti-defection / Tenth Schedule is decided by the Chairman in the case of Rajya Sabha {i.e. Vice-President} and Speaker in the case of Lok Sabha. The decision of Chairman / Speaker in this condition is subject to judicial review."
+}

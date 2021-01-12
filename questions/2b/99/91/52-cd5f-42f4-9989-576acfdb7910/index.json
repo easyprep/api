@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T19:22:17.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "2b999152-cd5f-42f4-9989-576acfdb7910",
+  "labels": "current-affairs,2019-06-23",
+  "question": "NBFC-Infrastructure Finance Companies must have at least what per cent of its total assets in infrastructure loans?",
+  "option1": 0.8,
+  "option2": 0.5,
+  "option3": 0.75,
+  "option4": 0.7,
+  "option5": "",
+  "answer": 0.75,
+  "explanation": "NBFC-Infrastructure Finance Companies must have at least 75% of its total assets in infrastructure loans."
+}

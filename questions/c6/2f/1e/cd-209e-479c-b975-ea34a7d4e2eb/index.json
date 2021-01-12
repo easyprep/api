@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-23T14:32:35.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "c62f1ecd-209e-479c-b975-ea34a7d4e2eb",
+  "labels": "current-affairs,2019-06-24",
+  "question": "Which of the following is true regarding NBFC?",
+  "option1": "NBFC provides banking services to people without holding bank license",
+  "option2": "NBFC can accept demand deposits",
+  "option3": "NBFC is a part of payment and settlement",
+  "option4": "NBFC can issue checks drawn on itself",
+  "option5": "",
+  "answer": "NBFC provides banking services to people without holding bank license",
+  "explanation": "NBFC provides banking services to people without holding bank license. NBFC cannot accept demand deposits. NBFC is not a part of payment and settlement. NBFC can not issue checks drawn on itself."
+}

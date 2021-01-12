@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-08-07T21:29:01.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "6c3ef288-f2a6-4a91-8bc8-e96e77ac7a09",
+  "labels": "current-affairs,2019-08-08",
+  "question": "Which zone of Indian railways has introduced a new Biometric Token System (BTS)?",
+  "option1": "North Western Railway",
+  "option2": "Western Railways",
+  "option3": "East Central Railway",
+  "option4": "South Western Railway",
+  "option5": "",
+  "answer": "Western Railways",
+  "explanation": "The Western and Central Railways have introduced a new Biometric Token System (BTS)   by which passengers travelling in the general coach, where seats are not reserved, are given a token roughly 3 hours before the train’s departure. These tokens are issued on a first-come, first-served basis after accepting biometric information of individual passengers.  The tokens carry a serial number on them, which governs the order in which passengers will board the train. The use of biometrics cuts out the touts and helps genuine passengers. It would provide relief to passengers and prevent jumping of queue.  The system is also cost-effective, as an average of Rs 20 was spent on each train."
+}

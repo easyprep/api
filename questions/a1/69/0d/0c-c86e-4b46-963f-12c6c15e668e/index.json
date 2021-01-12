@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:24:28.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "a1690d0c-c86e-4b46-963f-12c6c15e668e",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Which of the following is the function of Issue log?",
+  "option1": "keeps a record of all issues within a project",
+  "option2": "minimize the impact that issues have on your project",
+  "option3": "track the actions taken to resolve issues",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Issue Log, keeps a record of all issues within a project. It helps you to monitor the status of your issues and track the actions taken to resolve them. By using an issue log effectively, you can minimize the impact that issues have on your project, thereby increasing your chances of success."
+}

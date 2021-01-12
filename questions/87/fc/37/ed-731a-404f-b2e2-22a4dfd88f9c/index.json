@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T19:20:33.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "87fc37ed-731a-404f-b2e2-22a4dfd88f9c",
+  "labels": "current-affairs,2019-06-23",
+  "question": "Which of the following statements is/are correct?",
+  "option1": "NBFCs does not hold a banking license.",
+  "option2": "NBFC can issue Demand Drafts like banks.",
+  "option3": "Both 1 and 2 are correct",
+  "option4": "Neither of them are correct",
+  "option5": "",
+  "answer": "NBFCs does not hold a banking license.",
+  "explanation": "NBFC cannot accept demand deposits while NBFC cannot issue Demand Drafts like banks."
+}

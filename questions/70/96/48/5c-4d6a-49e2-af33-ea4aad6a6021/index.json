@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-27T21:01:15.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "7096485c-4d6a-49e2-af33-ea4aad6a6021",
+  "labels": "current-affairs,2019-07-28",
+  "question": "The researchers at which IIT have developed a novel molecular framework for superbugs?",
+  "option1": "IIT Bombay",
+  "option2": "IIT Kanpur",
+  "option3": "IIT Madras",
+  "option4": "IIT Indore",
+  "option5": "",
+  "answer": "IIT Kanpur",
+  "explanation": "The researchers at the IIT Kanpur and the Lucknow-based Central Drug Research Institute (CDRI) have designed a novel molecular framework to destroy superbugs, which are becoming increasingly resistant to most known antibiotics. It would help drugs latch on to the germs and prevent them from multiplying. For the study, the scientists used bacteria - Staphylococcus Aureus – which are frequently found in the nostrils, upper respiratory tract and on the skin of nearly 30% of people. According to researchers, a substance called gyrase is essential for bacteria’s survival and multiplication. In most organisms, there are two types of gyrases — gyrase A and gyrase B. The new molecule targets gyrase B, which is more conserved in organisms and hence difficult to mutate. The strategy is very attractive because it makes it possible to destroy these bacteria with the same class of drugs to which they have developed resistance."
+}

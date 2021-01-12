@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-17T18:48:25.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "9bd6c067-71a4-4f30-92d6-0bd80c1c95d2",
+  "labels": "current-affairs,2019-07-18",
+  "question": "Which of the following situations occur when a large number of people are enclosed in a room?",
+  "option1": "Oxygen decreases and carbon dioxide increases",
+  "option2": "Oxygen increases and carbon dioxide decrease",
+  "option3": "Both oxygen and carbon dioxide decrease",
+  "option4": "Both oxygen and carbon dioxide increase",
+  "option5": "",
+  "answer": "Oxygen decreases and carbon dioxide increases",
+  "explanation": "If a large number of people are closed in a single room, they use oxygen for the process of respiration so the amount of oxygen in the room eventually decreases .On the other hand, every person will exhale carbon dioxide in the room so the amount of carbon dioxide will eventually increase."
+}

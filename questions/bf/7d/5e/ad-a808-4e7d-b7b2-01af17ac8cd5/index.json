@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-25T18:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "bf7d5ead-a808-4e7d-b7b2-01af17ac8cd5",
+  "labels": "current-affairs,2019-06-26",
+  "question": "Who or what is a person or institution designated by a bond issuer as the official representative of the bondholders?",
+  "option1": "Debt trustee.",
+  "option2": "Debenture.",
+  "option3": "Bond trustee.",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Bond trustee.",
+  "explanation": "This refers to the bond trustee. A debenture is a long-term, unsecured debt instrument."
+}

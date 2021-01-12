@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T16:04:23.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "a9d47bf9-d40b-4ee9-82ad-9210df02c9ec",
+  "labels": "current-affairs,2019-07-21",
+  "question": "What type of mirror is used by motorists to see the road behind them?",
+  "option1": "Convex",
+  "option2": "Concave",
+  "option3": "Plane",
+  "option4": "Concavo-convex",
+  "option5": "",
+  "answer": "Convex",
+  "explanation": "A convex mirror provides for a larger field of view than a plane mirror. This is why they are useful. They are used whenever a mirror with a large field of view is needed. For example, the passenger-side rear view mirror on a car is convex. For making sun glasses and telescopes also convex mirror is used. It is used as reflector in street lamps so as to diverge light over a large area."
+}

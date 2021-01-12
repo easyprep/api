@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-22T15:19:32.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "ebff3456-78f8-4b79-9d51-c1cc2855539c",
+  "labels": "current-affairs,2019-06-23",
+  "question": "In which of the following NBFCs, institutional investors can be sponsored by commercial banks and NBFCs?",
+  "option1": "Loan Companies",
+  "option2": "IFC",
+  "option3": "Systemically Important Core Investment Company",
+  "option4": "Infrastructure Debt Fund",
+  "option5": "",
+  "answer": "Infrastructure Debt Fund",
+  "explanation": "IDFs are investment vehicles which can be sponsored by commercial banks and NBFCs in India in which domestic/offshore institutional investors, specially insurance and pension funds can invest through units and bonds issued by the IDFs."
+}

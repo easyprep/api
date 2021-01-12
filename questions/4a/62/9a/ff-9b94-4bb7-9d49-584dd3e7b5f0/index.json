@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-07-20T21:12:13.000Z",
+  "updated_at": "2021-01-06T08:24:41.122Z",
+  "id": "4a629aff-9b94-4bb7-9d49-584dd3e7b5f0",
+  "labels": "current-affairs,2019-07-21",
+  "question": "Which of the following is used to treat Municipal water in India?",
+  "option1": "Chlorine",
+  "option2": "Potassium permanganate",
+  "option3": "Sodium Chloride",
+  "option4": "Sodium Carbonate",
+  "option5": "",
+  "answer": "Chlorine",
+  "explanation": "A combination selected from the following processes is used for municipal drinking water treatment worldwide:<br />• Pre-chlorination for algae control and arresting biological growth <br />• Aeration along with pre-chlorination for removal of dissolved iron when present with small amounts relatively of manganese"
+}
