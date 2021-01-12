@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "3a7b06f2-c66d-4b9b-a856-b6c278f94c44",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs: <ol> <li>Pratyush- World’s fastest supercomputer</li> <li>Sophia- India's first banking robot</li> <li>Lakshmi- First ever robot to be granted citizenship</li> </ol>  Which of the above is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "<em>Sophia</em> is a social humanoid robot developed by Hong Kong-based Company Hanson Robotics. Recently, in October 2017, the robot became a Saudi Arabian citizen thereby becoming the first robot in the world to be recognised as the citizen of a country. <em>Pratyush</em> is the fourth fastest supercomputer in the world and fastest in India. It was unveiled by the Indian Institute of Tropical Meteorology (IITM) in Pune. It is the first multi-petaflop supercomputer to date that is a part of the efforts made by Ministry of Earth Sciences to grow ‘High Performance Computing’ (HPC) in the country. <em>Lakshmi </em>is India’s first banking robot. It was launched by the Kumbakonam-based City Union Bank. It is capable of providing the real time updates of foreign exchange movement, current interest rates at different banks like for personal loan, education loan, and home loan and car loans."
+}

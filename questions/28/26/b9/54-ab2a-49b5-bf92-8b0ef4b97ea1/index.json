@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "2826b954-ab2a-49b5-bf92-8b0ef4b97ea1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the climate pollutant with the help of given information: <ol> <li>It is the most abundant reactive trace gas in the atmosphere and arises from both natural and anthropogenic sources.</li> <li>This gas is 30 times more powerful than carbon dioxide in its heat-trapping potential.</li> <li>Agriculture and dairy farming are the most significant human sources of this gas while wetlands and oceans form the natural sources.</li> <li>It’s a common fabric, plastic, anti-freeze and fertilizer ingredient. </li> </ol>  Select the correct answer from options given below:",
+  "option1": "Sulfur Hexafluoride",
+  "option2": "Methane",
+  "option3": "Nitrous Oxide",
+  "option4": "Carbon Monoxide",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Methane is the most abundant reactive trace gas in the atmosphere and arises from both natural and anthropogenic sources. The main natural sources of methane are wetlands, termites and oceans. Wetlands are by far the largest source, accounting for 30% of total emissions. Methane is also produced by the digestive processes of termites, resulting in the generation of around 20 Mt per year-approximately 5% of world methane emissions. It’s a common fabric, plastic, anti-freeze and fertilizer ingredient. Industrial natural gas consumers include companies that make pulp and paper."
+}

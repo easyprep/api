@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "ef86d435-b020-4f8b-be67-dc1d79d6885a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about GeoMGNREGA: <ol> <li>It is a software solution to Photo Geotag all completed assets under the MGNREGA with the help of space technology</li> <li>All the assets created under the GeoMGNREGA must be either a primary asset or attached asset</li> <li>It leverages “Bhuvan”, a software platform developed by National Remote Sensing Centre (NRSC)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "<u>First statement is correct</u>. GeoMGNREGA is a software solution to Photo Geotag all completed assets under Mahatma Gandhi NREGA (MGNREGA) by the use of space technology. The major objective of GeoMGNREGA is to create a Geographical Information System (GIS) solution to visualise, analyse and explore the data of assets created under the MGNREGA. It essentially enables to view the assets created under MGNREGA across India on a map. <u>Second statement is correct</u>. All the assets created under the GeoMGNREGA must be primary or attached assets. A “Primary Asset” is one which uniquely creates and identifies an asset in the physical space, while an attached asset is one which is not a newly created property but an improvisation of old asset. <u>Third statement is incorrect</u> GeoMGNREGA leverages “Bhuvan”, the software platform developed by National Remote Sensing Centre (NRSC) of ISRO."
+}

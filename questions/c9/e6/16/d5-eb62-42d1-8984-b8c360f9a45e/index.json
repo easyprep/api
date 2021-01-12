@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "c9e616d5-eb62-42d1-8984-b8c360f9a45e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about National Financial Switch (NFS): <ol> <li>It was developed by the National Institute of Bank Management&nbsp;</li> <li>It is the largest interoperable ATM network in the country&nbsp;</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because it was designed, developed and deployed by the&nbsp;Institute for Development and Research in Banking Technology&nbsp;(IDRBT) in 2004. National Financial Switch&nbsp;(NFS) is India&#039;s largest interbank network, which is a network of over 2,30,000 ATMs and has about 100 banks as its direct members. Second statement is correct."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "7e3e8a86-fa57-43df-967c-8b4c6cc7d132",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Organic Farming: <ol> <li>It avoids the use of genetically modified organisms</li> <li>It helps to greatly improve the soil quality</li> <li>It promotes the use of crop rotation and cover crops</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All given statements are correctOrganic farming promotes the use of crop rotations and cover crops, and encourages balanced host/predator relationships. It avoids use of insecticides, pesticides and GMOs. It promotes the use of crop rotation and cover crops and helps in improving the soil quality."
+}

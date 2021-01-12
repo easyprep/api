@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "65f321cf-7b9f-4f97-aa5b-5050853927e7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Rural Infrastructure Development Fund (RIDF): <ol> <li>The Fund is maintained by the National Bank for Agriculture and Rural Development (NABARD).</li> <li>It is used to provide subsidized loans to farmers to manage the farm inputs and agriculture-related infrastructure</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. The Fund is maintained by the National Bank for Agriculture and Rural Development (NABARD). <u>Second statement is incorrect</u> because the RIDF does not provide loan to farmers but to State Governments and State-owned corporations to enable them to complete ongoing rural infrastructure projects. The activities that are financed under RIDF are minor irrigation projects/micro irrigation, watershed development, drainage, forest development, market yard, rural haats and other marketing infrastructure, cold storage, seed/agriculture/ horticulture farms, plantation and horticulture, grading and certifying mechanisms such as testing and certifying laboratories, etc."
+}

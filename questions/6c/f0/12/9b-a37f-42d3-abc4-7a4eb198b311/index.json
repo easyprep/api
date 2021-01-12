@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "6cf0129b-a37f-42d3-abc4-7a4eb198b311",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the “Peer to Peer Lending” in India: <ol><li>It is the practice of lending money to unrelated individuals without the use of financial intermediaries like banks</li><li>Recently, RBI has proposed to manage P2P Lending in India</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements"
+}

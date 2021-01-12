@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "eda79144-47ae-4862-97ff-9cd6c7d5a629",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about the Treasury Bills: <ol> <li>Treasury bills are issued by both central and state government</li> <li>Treasury bills are money market instruments</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because there are no treasury bills issued by State Governments. Treasury bills (T-bills) offer short-term investment opportunities, generally up to one year and hence are short term money market instruments. They are thus useful in managing short-term liquidity. The Government of India issues three types of treasury bills through auctions, namely, 91-day, 182-day and 364-day. &nbsp;"
+}

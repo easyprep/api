@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "6d1b586e-eccf-4457-ac53-be884ec3db57",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent years, the Terahertz imaging technology is emerging as a scanning technique with widespread uses. Consider the following statements with this context: <ol> <li>Tetahertz technology is mostly used to penetrate into dense surfaces by using extremely high frequency waves.</li> <li>Terahertz imaging uses the frequencies between the infrared and millimeter wave.</li> </ol> Which of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Terahertz imaging uses the frequencies between the infrared and millimeter wave. The major advantage of terahertz waves is that it is useful to study many materials which block visible and IR spectra because most of those materials reveal to be transparent in terahertz. Some of the applications with Terahertz imaging technology are: <ul> <li>As compared to X-rays, Terahertz imaging uses non ionizing radiation for scanning therefore its emissions are harmlessness for biological entities. Therefore it has potential applications in medical field like detecting skin cancer e.t.c</li> <li>Terrahertz imaging is used in security scanners to identify concealed contraband or weapons.</li> <li>It is also used to identify cracks or damage between layers in the aerospace industry, most notably to identify defects in NASA's Space Shuttles.</li> <li>By using this technology it is possible to read the pages of a closed book which may help archaeologists to look into antique books without touching them.</li> <li>It is used to analyse any materials organised in thin layers, such as coatings on machine parts or pharmaceuticals.</li> </ul> This technique is also used in Art restoration. As this technology helps to penetrate into dense layers it is possible to study paintings done before the 18th century which have been challenging to study because their paint layers tend to be very thin."
+}

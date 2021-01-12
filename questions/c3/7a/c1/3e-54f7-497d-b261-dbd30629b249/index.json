@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "c37ac13e-54f7-497d-b261-dbd30629b249",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the correct equation?",
+  "option1": "Real Interest Rate= Nominal Interest Rate-Inflation",
+  "option2": "Nominal Interest Rate=Real Interest Rate- Deflation",
+  "option3": "Nominal Interest Rate= Real Interest Rate- Inflation",
+  "option4": "Real Interest Rate= Nominal Interest Rate+ Deflation",
+  "option5": "",
+  "answer": "Real Interest Rate= Nominal Interest Rate-Inflation",
+  "explanation": "First option is the correct answer<br> A real interest rate is an interest rate which is calculated by subtracting Inflation from Nominal Interest rate. It shows the clear picture of the yield by the lender and payment by the borrower. While the nominal interest rate is the interest rate officially assigned to the product or investment, the real interest rate is a reflection of the change in purchasing power derived from an investment based on shifts in the rate of inflation."
+}

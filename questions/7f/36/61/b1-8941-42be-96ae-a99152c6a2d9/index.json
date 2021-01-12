@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "7f3661b1-8941-42be-96ae-a99152c6a2d9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As per India State of Forest Report (ISFR) 2017, which of the following has/have shown a decline in area in comparison to assessment made in 2015? <ol> <li>Very dense forest</li> <li>Moderately dense forest</li> <li>Open forest</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "As per India State of Forest Report (ISFR) 2017, the category of moderately dense forest has shown a decline of .21% in comparison to assessment made in 2015. The categories of Very Dense Forest and Open Forest have shown an increase by .73% and .04%."
+}

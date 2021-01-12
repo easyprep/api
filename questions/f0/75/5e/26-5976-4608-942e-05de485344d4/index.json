@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "f0755e26-5976-4608-942e-05de485344d4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the term “gharat”, sometimes seen in news: <ol> <li>It is a traditional watermill technology widespread in Southern India</li> <li>This technology not only provides electricity but is also used for grinding grains</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the technology is a traditional watermill technology widespread in Northern India, especially in Uttarakhand. Second statement is correct because this technology not only provide electricity but is also used for grinding grains."
+}

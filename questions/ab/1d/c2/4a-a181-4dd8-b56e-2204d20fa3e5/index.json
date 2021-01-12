@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "ab1dc24a-a181-4dd8-b56e-2204d20fa3e5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the Bureau of Energy Efficiency (BEE) has introduced a new star rating methodology called Indian Seasonal Energy Efficiency Ratio (ISEER) for _?",
+  "option1": "Refrigerators",
+  "option2": "Air conditioners",
+  "option3": "Televisions",
+  "option4": "Solar Rooftops",
+  "option5": "",
+  "answer": "Air conditioners",
+  "explanation": "The Bureau of Energy Efficiency (BEE) has introduced a new star rating methodology called Indian Seasonal Energy Efficiency Ratio (ISEER) for air conditioners. Keeping the performance of air conditioners during higher temperature in mind, ISEER will address the different climatic zones in India and higher temperature. ISEER measures energy efficiency of air conditioners based on a weighted average of the performance at outside temperatures between 24 and 43 degree C based on Indian weather data."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "fffca743-ad80-494e-a27d-a878f25447f3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Evolved Laser Interferometry Space Antenna (eLISA) project: <ol> <li>It aims to measure gravitational waves in the frequency range from 0.1 MHz to about 100 MHz</li> <li>It will also endeavour to measure the spin of the black holes to high precision</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The European Space Agency (ESA) under its ambitious agenda called “Cosmic Vision” for its scientific space programme is using the technique of laser Interferometry and has named the project as eLISA. The eLISA project aims of setting into space three spacecraft, a mother and two daughter spacecraft, which will fly in a triangular formation. It will probe massive black holes in terms of masses and their spin, and will measure the gravitational waves in the frequency range from .1 MHz to about 100 MHz."
+}

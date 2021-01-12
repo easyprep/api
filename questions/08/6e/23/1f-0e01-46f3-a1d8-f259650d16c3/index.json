@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "086e231f-0e01-46f3-a1d8-f259650d16c3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As per WTO norms, which of the following Tariffs are used by countries for International trade? <ol><li>Bound Tariff</li><li>Applied Tariff</li><li>Preference Tariff</li></ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Bound tariffs are specific commitments made by individual WTO member governments. The bound tariff is the maximum MFN tariff level for a given commodity line. Preference tariff is the tariff imposed by countries on goods and services one preferential trade agreement. Applied Tariff is the actual tariff applied by a country on a particular good or service, thus, there exist a difference between the bound tariff rate and applied tariff rate which is called water."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "df85859b-849e-49ab-8f8a-cfa57eca3973",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the NISAR mission: <ol> <li>It is a joint project between NASA and ISRO </li> <li>It aims at building the world's most expensive earth monitoring satellite</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "NISAR stands for NASA-ISRO Synthetic Aperture Radar. It is a project that aims to establish the world’s most expensive earth monitoring satellite. The satellite will be the first radar imaging satellite to use dual frequency and it is planned to be used for remote sensing to observe and understand natural processes on Earth. Data collected from NISAR will reveal information about the evolution and state of Earth's crust, help scientists better understand our planet's processes and changing the climate. It has been planned to be launched in 2020-21."
+}

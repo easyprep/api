@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "0862f7ba-3d83-4401-9bc4-3c63a53efe49",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the eVIN (electronic vaccine intelligence network) project: <ol> <li>It is an indigenously developed technology system in India</li> <li>It is implemented by the United Nations Development Programme (UNDP)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "eVIN (Electronic Vaccine Intelligence Network) is an indigenously developed technology system in India that digitizes vaccine stocks and monitors the temperature of the cold chain through a smartphone application. The innovative eVIN is presently being implemented called across twelve states in India. eVIN aims to support the Government of India’s Universal Immunization Programme by providing real-time information on vaccine stocks and flows, and storage temperatures across all cold chain points in these states. The technological innovation is implemented by the United Nations Development Programme (UNDP). The new technology provides an integrated solution to address widespread inequities in vaccine coverage by supporting state governments in overcoming constraints of infrastructure, monitoring and management information systems and human resources, often resulting in overstocking and stock-outs of vaccines in storage centres."
+}

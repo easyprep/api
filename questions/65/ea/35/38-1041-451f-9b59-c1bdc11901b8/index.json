@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "65ea3538-1041-451f-9b59-c1bdc11901b8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the Ministry of Electronics and Information Technology (MeitY) in association with the Indian Institute of Technology Madras successfully tested Light Fidelity (Li-Fi) technology. In this context, consider the following statements: <ol> <li>Li-Fi is a wireless optical networking technology that uses light emitting diodes (LEDs) for transmission of data</li> <li>It can provide Internet speeds that are 100 times faster than conventional Wi-Fi</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Currently, Internet uses radio waves to transmit data. However, Li-Fi as a technology is capable to transmit data or power the Internet using light. Li-Fi stands for Light Fidelity and is wireless optical networking technology that uses light emitting diodes (LEDs) for transmission of data. It is capable to provide Internet speeds that are 100 times faster than conventional Wi-Fi. Recently, the ministry of electronics and IT successfully tested a technology called Li-Fi (Light Fidelity), which uses LED bulbs and light spectrum to transmit data at speeds as high as 10 GB per second over a 1-km radius."
+}

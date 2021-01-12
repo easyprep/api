@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "e60df7b1-7726-4d31-8ed4-b1f1d6ccc7a3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Zika Virus: <ol> <li>Zika virus is primarily spread through the bite of the Aedes Aegypti mosquito</li> <li>There is still no licensed vaccine available against the disease</li> <li>The first case of Zika virus in India was reported in Maharashtra</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "First statement is correct. The Aedes Aegypti mosquitoes can hibernate in cooler region to survive. Aedes Aegypti mosquito carry dengue, chikungunya and Zika virus. There is no commercially available test to specifically detect this virus called Zika. Second statement is also correct. There is still no licensed vaccine available to prevent illness caused by the virus. There is still no cure for the illness caused by the virus. Though, scientists at the Bharat Biotech International Limited in Hyderabad claim that they have developed the world's first vaccine against the Zika Virus and have got it patented, there is still no official announcement of it by WHO. Third statement is incorrect because on 27th May 2017, WHO confirmed the first case of Zika virus in India. India's first three cases of the Zika virus were reported between February 2016 and January 2017 in Bapunagar area of Ahmedabad district in Gujarat."
+}

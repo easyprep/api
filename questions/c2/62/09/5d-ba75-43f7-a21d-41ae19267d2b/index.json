@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "c262095d-ba75-43f7-a21d-41ae19267d2b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with Equator, consider the following statements: <ol> <li>The length of Day &amp; Night are practically equal always</li> <li>Places on the Equator experience the quickest rates of sunrise and sunset in the world</li> <li>Equator is the only line of latitude which is also a great circle</li> </ol> Which among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Please note that the first statement is not correct. Equator has theoretical constant 12 hours of day and night throughout the year, though in practice there are variations of a few minutes due to the effects of atmospheric refraction and because sunrise and sunset are measured from the time that the edge of the Sun's disk is on the horizon, rather than the center of the disk."
+}

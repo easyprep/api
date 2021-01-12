@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "5726edce-38a5-4296-a2ed-8f71d7feb61b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the E-RaktKosh initiative: <ol> <li>It is an integrated Blood Bank Management Information System that interconnects all the Blood Banks of the State into a single network. </li> <li>Uttar Pradesh became the first state in the country to have rolled out e-raktkosh in all its government blood banks</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct. E-Raktkosh is a web-based mechanism that interconnects all the Blood Banks of the State into a single network. Second statement is incorrect. Recently, Punjab’s Health Minister declared that Punjab became the first state in the country to have rolled out e-raktkosh in all 45 government blood banks for easy public access to blood availability status as per blood group, blood bank and districts. However, no state so far has been declared by the central government to have rolled out e-raktkosh in all its government blood banks."
+}

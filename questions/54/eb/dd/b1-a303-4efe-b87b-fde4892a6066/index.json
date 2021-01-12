@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "54ebddb1-a303-4efe-b87b-fde4892a6066",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Many parts of India are experiencing a rapid <em>epidemiological transition</em>. The current phase of India’s <em>epidemiological transition</em> is characterized by:",
+  "option1": "low mortality, high morbidity, and double burden of communicable diseases and non-communicable diseases (NCDs)",
+  "option2": "low mortality, low morbidity and burden of non-communicable diseases (NCDs)",
+  "option3": "high mortality, low morbidity and double burden of communicable diseases and non-communicable diseases (NCDs)",
+  "option4": "high mortality, high morbidity and burden of communicable diseases",
+  "option5": "",
+  "answer": "low mortality, high morbidity, and double burden of communicable diseases and non-communicable diseases (NCDs)",
+  "explanation": "India is experiencing the third phase of “epidemiological transition,” the process of changes in patterns of disease as societies develop. The current phase of India’s epidemiological transition is characterized by low mortality, high morbidity, and double burden of communicable diseases and NCDs. Epidemiological transition ratio of DALYs (disability-adjusted life year) caused by CMNNDs (communicable, maternal, neonatal, and nutritional diseases) to those caused by NCDs (non-communicable diseases). While a ratio greater than one indicates a higher burden of CMNNDs than NCDs, a ratio less than one indicates the opposite. As per recent report by WHO, nearly 61% of deaths in India are now attributed to non-communicable diseases, including heart disorders, cancer and diabetes."
+}

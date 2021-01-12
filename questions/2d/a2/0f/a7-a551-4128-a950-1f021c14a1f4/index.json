@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:37.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "2da20fa7-a551-4128-a950-1f021c14a1f4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "For election to which of the following seats, a person's name must be in voter list of same constituency in which he / she is contesting elections? <ol> <li>Lok Sabha</li> <li>Rajya Sabha</li> <li>Legislative Assemblies in States</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "None of them",
+  "explanation": "A contestant must be eligible voter but it is not mandatory to be a voter of same constituency in any of these elections."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "d50b5bae-7134-4fd9-bf62-44e2fd9d2664",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Portable Diver Detection Sonar (PDDS) system: <ol> <li>This system will be manufactured by DRDO with assistance of Russia</li> <li>This contract is a part of Make in India initiative to enhance the underwater surveillance capability of Indian Navy</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<u>First statement is incorrect. </u> As per recent contract between Indian Navy and Tata Power, the PDDS system would be manufactured by Tata Power SED in India at their facility at Bengaluru with Transfer of Technology from DSIT Israel. Tata Power SED is already committed along with our partner DSIT Solutions to deliver a world class solution to Indian Navy.  <u>Second statement is correct.</u> This Contract between Indian Navy and Tata Power is a part of Make in India initiative and the second contract under the MoD procurement category Buy and Make (India) signed by MoD. This PDDS would enhance the underwater surveillance capability of Indian Navy."
+}

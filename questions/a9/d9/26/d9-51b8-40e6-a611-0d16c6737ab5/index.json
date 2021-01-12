@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a9d926d9-51b8-40e6-a611-0d16c6737ab5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about the Power System Development Fund (PSDF): <ol> <li>The fund helps in creating necessary transmission systems of strategic importance</li> <li>The fund envisages to support stranded gas based generation</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Power System Development Fund is being utilised for creating necessary transmission systems of strategic importance based on operational feedback by Load Dispatch Centres for relieving congestion in Inter-State Transmission Systems. The fund will also be utilised towards installation of shunt capacitors, series compensators and other reactive energy generators for improvement of voltage profile in the grid, installation of standard and special protection schemes."
+}

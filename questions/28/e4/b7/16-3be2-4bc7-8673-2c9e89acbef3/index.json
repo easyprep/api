@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "28e4b716-3be2-4bc7-8673-2c9e89acbef3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Gini-Coefficient: <ol> <li>It is a popular statistical method to measure the nutritional imbalance in an individual</li> <li>The higher value of the Gini-Coefficient shows conducive policies of government towards healthcare and nutrition</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<strong>First statement is incorrect </strong> Gini Coefficient is a popular statistical method used to measure the gap between rich-poor income and wealth divide in the country. It measures inequality of a distribution be it of income or wealth and therefore brings out a clear picture of government policies <strong>Second statement is incorrect</strong> The value of Gini-Coefficient lies between 0 and 1. The higher the value, the greater is the degree of income inequality. India’s Gini Coefficient is estimated to be close to .50."
+}

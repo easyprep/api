@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "bcd80c22-fa51-4dcc-9db7-713c78f69d81",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Consider the following differences between NAVIC and GPS: <ol> <li>While NAVIC has seven satellites GPS has total of 31 satellites</li> <li>While satellites of NAVIC are in geostationary earth orbit, satellites of GPS are in medium earth orbits</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements"
+}

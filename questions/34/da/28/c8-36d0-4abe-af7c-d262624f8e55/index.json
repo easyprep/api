@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "34da28c8-36d0-4abe-af7c-d262624f8e55",
+  "labels": "current-affairs,2018-08-04",
+  "question": "InSight (Interior Exploration using Seismic Investigations, Geodesy and Heat Transport) is a NASA Discovery Program mission to explore which of the following planet?",
+  "option1": "Mercury",
+  "option2": "Venus",
+  "option3": "Mars",
+  "option4": "Saturn",
+  "option5": "",
+  "answer": "Mars",
+  "explanation": "InSight (Interior Exploration using Seismic Investigations, Geodesy and Heat Transport) is a NASA Discovery Program mission that will place a single geophysical lander on Mars to study its deep interior. With help of sophisticated geophysical instruments, InSight will address one of the most fundamental issues of planetary and solar system science trying to understand the processes that shaped the rocky planets of the inner solar system (including Earth) more than four billion years ago."
+}

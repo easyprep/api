@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "6e3d9088-249d-4346-b698-00cfc700e1db",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The term \"Data Secure Status\" that was recently making news is related to which of the following organisations?",
+  "option1": "European Union",
+  "option2": "BRICS",
+  "option3": "ASEAN",
+  "option4": "SAARC",
+  "option5": "",
+  "answer": "European Union",
+  "explanation": "The Indian government has been thriving hard to get the \\\"Data Secure status\\\" from European Union but has not received it as of now. If the European Union provides India with “Data Protection” status, it will lift restrictions on the flow of outsourcing business to India. This would help Indian IT Industry to a great extent. India is not currently included in the list of countries considered data secure by the EU, thus preventing the flow of sensitive data, especially those related to telemedicine, to reach India."
+}

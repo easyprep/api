@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "472fdbfc-3143-446b-aa37-c740cc65bfd7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about CriSidEx: <ol> <li>It is a sentiment index for micro and small enterprises (MSEs) developed jointly by CRISIL and SIDBI.</li> <li>It measures MSE business sentiment on a scale of 0 to 100</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct.</u> CriSidEx is a sentiment index for micro and small enterprises (MSEs) developed jointly by CRISIL and SIDBI. <u>Second statement is incorrect.</u> CriSidEx is a composite index based on a diffusion index of 8 parameters, and measures MSE business sentiment on a scale of 0 to 200. The index will help to indicate the current state and expected outlook on the MSME sector every quarter."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "7e46b8fd-483c-44a4-8fca-48ffbb5e139d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to economy, which of the following statements is/are correct about the term “Dutch Disease”, that was recently in news? <ol> <li>It leads to development in the country that result in a large inflow of foreign currency</li> <li>It has adverse effects on domestic manufacturing sectors thus making them less competitive in international market</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Dutch Disease is defined as development in one sector of an economy that brings adverse results to the manufacturing sectors in the economy. While it results in a large inflow of foreign currency for the exploitation of natural resources, simultaneously leading to decline in the manufacturing sector. For example, when a country experiences a resource boom due to a new tradable resource discovery (shale gas in U.S.A or discovery of oil reserves in Venezuela) and/or due to an increase in a resource price, there is a sudden increase in the demand of its new resource in international market. This in turn leads to huge inflow of foreign currency in the economy thereby causing currency appreciation. We know that currency depreciation increases export of a country, while appreciation declines export. The Dutch Disease has similar effect on the economy. It appreciates the currency and thereby reducing the potential of domestic manufacturing industries in international market."
+}

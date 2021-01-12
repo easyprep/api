@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:38.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "7d546ad9-ef1c-40db-aee1-4017fabe2de9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the election of members of Rajya Sabha: <ol> <li>Members of Rajya Sabha are elected by the elected members of the Assemblies of States and Union territories in accordance with the system of proportional representation by means of the single transferable vote.</li> <li>If a voter (MLA) of a party defies his/her party directives and votes against or uses NOTA in the Rajya Sabha elections then the person is subject to disqualification under the Tenth Schedule.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "First statement is correct. Second statement is incorrect. In the Rajya Sabha polls, MLAs have to show their ballot paper to an authorised party agent before putting it in the ballot box. If a voter (MLA) defies the party directive and votes for someone else or uses NOTA option, he cannot be disqualified as a legislator. According to the EC rules, the party is free to take disciplinary action, including expulsion. The defiant voter can continue to be an MLA and his vote can also not be invalidated for defying party directions."
+}

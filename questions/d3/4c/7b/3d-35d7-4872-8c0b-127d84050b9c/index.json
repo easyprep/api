@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:42.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "d34c7b3d-35d7-4872-8c0b-127d84050b9c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp;Consider the following statements: <ol> <li>When a&nbsp;satellite&nbsp;falls from high altitude to&nbsp;lower&nbsp;altitude, it gains&nbsp;speed</li> <li>Speed of satellite is directly proportional to mass of satellite</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because speed of satellite is independent of mass of satellite.&nbsp;"
+}

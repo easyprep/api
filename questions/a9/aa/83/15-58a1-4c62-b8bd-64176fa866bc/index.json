@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a9aa8315-58a1-4c62-b8bd-64176fa866bc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following comparisons drawn between United Nation Security Council and the International Court of Justice: <ol> <li>While the United Nation Security Council has fifteen member states, the International Court of Justice has five judges</li> <li>While election to the UNSC is conducted only in the General Assembly, election for ICJ is held concurrently in the UNGA and UNSC</li> </ol>  Which of the above is/are correct statements?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct.",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "<strong>First statement is incorrect </strong> While the Security Council has 15 member states, the International Court of Justice has 15 judges. <strong>Second statement is correct</strong> While election to the UNSC is conducted only in the General Assembly, election for ICJ is held concurrently in the UNGA and UNSC. While it requires two-third majority in UNGA to get elected to non permanent seat of UNSC, it requires absolute majority of the total membership in each organ- UNGA and UNSC to be elected as judge into the International Court of Justice. While veto applies to UNSC, it does not apply for election to the ICJ."
+}

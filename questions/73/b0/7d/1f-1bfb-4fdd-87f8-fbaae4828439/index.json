@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:58.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "73b07d1f-1bfb-4fdd-87f8-fbaae4828439",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Trade Receivables Discounting System (TReDS): <ol> <li>It is an electronic platform that allows auctioning of trade receivables for MSMEs</li> <li>India’s first trade receivables exchange platform has been launched by Bharti Airtel Limited</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. Trade Receivables Discounting System (TReDS) is an electronic platform that allows auctioning of trade receivables for MSMEs. <u>Second statement is incorrect.</u> Recently the Reserve Bank of India has authorised Receivables Exchange of India (RXIL) to launch India’s first trade receivables exchange. Trade receivables are amounts billed by a business to its customers as a part of normal business operations. Thus it consists of Debtors and Bills Receivables. The system driven platform is expected to benefit MSMEs by facilitating them to auction their trade receivables at competitive market rates through transparent bidding process."
+}

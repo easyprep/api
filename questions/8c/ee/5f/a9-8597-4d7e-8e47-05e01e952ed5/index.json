@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8cee5fa9-8597-4d7e-8e47-05e01e952ed5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs: <ol> <li>India's first nano satellite- KalamSat</li> <li>India's first dedicated multi-wavelength space observatory- ARIES</li> <li>India's largest ground-based optical telescope- located in Ladakh</li> </ol> Which of the above is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "India’s first nano satellite named Jugnu was prepared by students of IIT Kanpur. The nano satellite Jugnu weighing 3 kg intended to evaluate GPS receiver for its use in satellite navigation and to test indigenously developed MEMS based Inertial Measurement Unit (IMU) in space. AstroSat is the first dedicated Indian astronomy mission aimed at studying celestial sources in X-ray, optical and UV spectral bands simultaneously. India’s largest ground-based optical telescope is located in Devasthal in Uttarakhand. The telescope is the product of an Indo-Belgian collaborative effort, assisted by the Russian Academy of Sciences. It is going to be operated by the Aryabhatta Research Institute of Observational Sciences (ARIES), an autonomous research body under the Department of Science and Technology."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "c073e9a2-cfd2-4f02-8c1d-1b6dcc6b1e86",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following have been declared by RBI as Domestically Systematically Important Banks in recent months? <ol> <li>HDFC Bank Ltd</li> <li>State Bank of India (SBI)</li> <li>ICICI Bank Ltd</li> <li>NABARD</li> </ol> Select the correct option from codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Recently, the Reserve Bank of India (RBI) declared HDFC Bank Ltd to be a domestic systemically important bank (D-SIB). In 2015, RBI declared State Bank of India and ICICI Bank Ltd. as Domestic Systemically Important Banks (D-SIBs). D-SIB refers to the banks that are too big to fail. Banks are declared systemically important due to their size, cross-jurisdictional activities, complexity and lack of substitute and interconnection. The D-SIB Framework specifies a two-step process of identification of D-SIBs. In the first step, the sample of banks to be assessed for systemic importance has to be decided. The selection of banks in the sample for computation of SIS is based on analysis of their size as a percentage of annual GDP. Banks whose assets exceed 2% of GDP are considered part of this group. In case of distress, the government is expected to support these banks. Due to this perception, these banks enjoy certain advantages in funding. It also means that these banks have a different set of policy measures regarding systemic risks and moral hazard issues."
+}

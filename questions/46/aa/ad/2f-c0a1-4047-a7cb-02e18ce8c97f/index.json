@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "46aaad2f-c0a1-4047-a7cb-02e18ce8c97f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following policies: <ol><li>Commercial banks reducing their base rate</li><li>Reduction in Statutory liquidity ratio (SLR)</li><li>Increase in Reverse Repo Rate</li></ol> Which of the above will increase the liquidity in the Indian market?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Base rate is the minimum rate set by the Reserve Bank of India below which banks are not allowed to lend to its customers. Base rate reduction will encourage loan growth in the economy. The ratio of liquid assets to net demand and time liabilities (NDTL) is called statutory liquidity ratio (SLR). Banks have to maintain a stipulated proportion of their net demand and time liabilities in the form of liquid assets like cash, gold and unencumbered securities. Reduction in SLR increases the lending capacity of banks and thus increases the liquidity in market. Reverse repo rate is the rate at which Reserve Bank of India borrows money from commercial banks within the country. An increase in Reverse Repo Rate shows tight monetary policies and thus decreases the liquidity in market."
+}

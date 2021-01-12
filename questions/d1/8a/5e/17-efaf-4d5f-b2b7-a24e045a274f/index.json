@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "d18a5e17-efaf-4d5f-b2b7-a24e045a274f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Government of India has recently notified the Scheme of Electoral Bonds to cleanse the system of political funding in the country. In this context, consider the following statements: <ol> <li>Electoral bonds have been designed as interest-free bearer instruments</li> <li>Aadhaar card is mandatory for donors under the electoral bonds scheme</li> <li>Only those political parties that have been recognised as national party are eligible for electoral bond scheme</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<u>First statement is correct</u>. Electoral Bond would be a bearer instrument in the nature of a Promissory Note and an interest free banking instrument. <u>Second statement is incorrect</u> because as of now there is no proposal to make the use of Aadhaar card mandatory under the scheme. <u>Third statement is incorrect</u>. Every party that is registered under section 29A of the Representation of the Peoples Act, 1951 and has secured at least one per cent of the votes polled in the most recent Lok Sabha or State election will be allotted a verified account by the Election Commission of India. Electoral bond transactions can be made only via this account."
+}

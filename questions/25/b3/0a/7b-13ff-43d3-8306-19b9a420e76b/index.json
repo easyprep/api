@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:37.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "25b30a7b-13ff-43d3-8306-19b9a420e76b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements best define(s) the contours of SHAKTI (Scheme for Harnessing and Allocating Koyla Transparently in India) scheme? <ol> <li>In this scheme, government-owned Coal India offers assured coal supply to units through bidding.</li> <li>The scheme introduces market-based pricing for Independent Power Producers</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "SHAKTI aims to reform the bureaucratic and often non-transparent process of coal allocation for power projects. Under the present system, an independent power producer (IPP) proposing to set up a coal-fired power plant will have to request the power ministry for coal linkage. The ministry will forward the request with its own recommendations to a standing committee that will decide on approving the request along with the quantum and duration. SHAKTI proposes to do away with the discretionary element and introduce market-based pricing for IPPs. Those IPPs that have already stitched up power purchase agreements (PPAs) will have to bid for coal supply on the basis of discount over the tariff. Those without PPAs will have to bid over the notified price of coal by the supplier, Coal India or Singareni Collieries."
+}

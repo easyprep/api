@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "3b841565-78fc-4c2c-a6f6-1491cab9691a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with the Emperor Penguin, Consider the following statements: <ol> <li>It is endemic to only Antarctica</li> <li>It is known for unusually structured haemoglobin and solid bones</li> <li>It is the only Penguin species that breeds during Antarctic winter</li> <li>Egg is generally incubated by males</li> </ol> Which among the above statements is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All of these important trivia about Emperor Penguin."
+}

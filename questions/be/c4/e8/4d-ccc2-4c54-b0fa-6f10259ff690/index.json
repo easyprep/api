@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:38.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "bec4e84d-ccc2-4c54-b0fa-6f10259ff690",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:\r\n<ol>\r\n<li>H7N9 - Swine Flu</li>\r\n<li>H3N2v - Bird Flu</li>\r\n<li>H5N1 -Dog Flu</li>\r\n</ol>\r\nWhich of the above is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "<strong>H7N9</strong><strong><br /></strong>H7N9 is a bird flu strain. Human infections with an Asian lineage avian influenza A (H7N9) virus (“Asian H7N9”) were first reported in China in March 2013. <br /><strong>H3N2v<br /></strong>H3N2v is a non-human influenza virus that normally circulates in pigs and that has infected humans. Viruses that normally circulate in pigs are “swine influenza viruses.” When these viruses infect humans, they are termed “variant” viruses. H3N2v is a variant virus. <br /><strong>H5N1</strong> <br />H5N1 is a type of influenza virus that causes a highly infectious, severe respiratory disease in birds called avian influenza (or \\\"bird flu\\\"). Human cases of H5N1 avian influenza occur occasionally, but it is difficult to transmit the infection from person to person. H5N1 is more dangerous form of influenza than H1N1."
+}

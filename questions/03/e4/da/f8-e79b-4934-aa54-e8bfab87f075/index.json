@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:11.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "03e4daf8-e79b-4934-aa54-e8bfab87f075",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The term “Monero”, which was recently in news, is:",
+  "option1": "the world's first emotionally intelligent? robot",
+  "option2": "an alternative to Bitcoin",
+  "option3": "India's first quantum-enabled satellite",
+  "option4": "the name of world's oldest tigress",
+  "option5": "",
+  "answer": "an alternative to Bitcoin",
+  "explanation": "Monero (XMR) is an open-source cryptocurrency created in April 2014 that focuses on privacy, decentralisation and scalability."
+}

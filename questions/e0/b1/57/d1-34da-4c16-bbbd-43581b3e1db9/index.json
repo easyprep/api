@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "e0b157d1-34da-4c16-bbbd-43581b3e1db9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the term “Standing Deposit Facility”, which was recently in news? <ol> <li>It is a new monetary instrument by RBI to suck out liquidity from the market</li> <li>It does not require the provision of collateral for liquidity absorption</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Generally, when banks need funds for short term they borrow from RBI at Repo Rate. Similarly, when banks have excess funds, they lend it to RBI at the reverse repo rate. In both cases RBI uses government securities as collateral. But Standing Deposit Facility is an initiative by RBI to absorb surplus funds from banks without issuing collaterals to them. <strong>Why RBI using Standing Deposit Facility?</strong> Demonetisation exercise has deposited nearly Rs 14 lakh crore in banks. Now, banks can disburse this money to RBI as CRR, maintain a portion in the form SLR, and can even lend it to public in the form of loan. But lending such huge amount will increase the money supply in Indian market that can lead to inflation. To cope up with the problem, RBI increased the CRR rate and allowed the banks to keep maximum amount with RBI. For CRR, RBI requires to issue collaterals in the form of government securities. Since it was very difficult for RBI to issue collaterals to absorb such huge amount of liquid money from commercial banks, the government decided to go with the concept of <em>Standing Deposit Facility</em> which will allow the RBI to absorb surplus funds from banks without collateral. Banks can even earn interest by depositing in the form of Standing Deposit Facility to RBI."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:38.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "e87030f5-3bcd-4cf4-b537-2eea274a8f0f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The term <strong>Massive MIMO </strong>is sometimes seen in the news in the context of _:",
+  "option1": "Deep Space Exploration",
+  "option2": "Particle Physics",
+  "option3": "Information Technology",
+  "option4": "Earth Science",
+  "option5": "",
+  "answer": "Information Technology",
+  "explanation": "To understand Massive MIMO, one must know about the smaller scale MIMO (multiple-input/multiple-output). The MIMO essentially deploys many antennas both at the source and the destination. This helps in increasing efficiency and reducing error in the network. Several wireless technology standards such as LTE, 802.11n (Wi-FI), 802.11ac (Wi-Fi), and more use MIMO as a basic element, that multiplies the antenna capacity. When it comes to the Massive MIMO, it takes the previous technology and multiplies it by hundreds. This means that a network will have thousands of antennae and destinations. These help in focussing the transmission and increase the levels of efficiency. While the idea to use so many antennae has been around for a long time now, but rarely any network provider uses it. {read full article <a href=\\\"http://www.financialexpress.com/industry/technology/what-is-5g-massive-mimo-reliance-jio-airtel-others-eyeing-rollout-of-this-big-benefit-for-you/887261/\\\">here</a>}"
+}

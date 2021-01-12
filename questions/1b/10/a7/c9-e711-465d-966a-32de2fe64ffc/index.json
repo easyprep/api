@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "1b10a7c9-e711-465d-966a-32de2fe64ffc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In which of the following commodities, the Price Elasticity of Demand is less than Unity?\r\n<ol>\r\n<li>Vegetables</li>\r\n<li>Gold</li>\r\n<li>Tea</li>\r\n<li>Real Estate</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "1 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 3 Only",
+  "explanation": "Demand for those goods is inelastic for which consumers becomes habituated e.g. cigarette, coffee, vegetables etc. Despite rise in prices the people demand such goods in more or less the same quantity. If PED= 0 demand is perfectly inelastic i.e. demand does not change at all when the price changes. If PED is between 0 and 1 then demand is inelastic. If PED= 1 then demand is unit elastic. If PED &gt; 1, then demand responds more than proportionately to a change in price i.e. demand is elastic. For Gold and Real Estate the Price Elasticity of Demand is greater than Unity i.e. Demand is very much vulnerable to price."
+}

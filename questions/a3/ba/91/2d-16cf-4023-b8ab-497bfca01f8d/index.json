@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:47.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a3ba912d-16cf-4023-b8ab-497bfca01f8d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following chemical elements recently found in most of the soft drinks are said to cause respiratory problems? <ol> <li>Lead</li> <li>Cadmium</li> <li>Chromium</li> <li>Bromine</li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "As per recent study done by the Drug Technical Advisory Board on sampled multiple products manufactured by reputed brands which included Mountain Dew, Sprite, 7UP, Pepsi and Coca Cola, it shows the presence of toxic chemicals like lead, chromium, bromine and cadmium in most of the soft drinks available in the market. According to World Health Organisation (WHO) these metals can cause damage to health of the people. At high level of exposure, lead impacts the central nervous system and can cause coma, convulsions and even death, cadmium affect the kidney, respiratory system and is a human carcinogen. Bromine is used in the form of Brominated vegetable oils (BVOs) in many soft drinks."
+}

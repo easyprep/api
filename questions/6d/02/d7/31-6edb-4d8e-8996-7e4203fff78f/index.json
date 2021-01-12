@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "6d02d731-6edb-4d8e-8996-7e4203fff78f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Internet Saathi programme: <ol> <li>It is an initiative by the Ministry of Communications</li> <li>It aims to facilitate digital literacy among women in rural areas</li> </ol>  Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because Internet Saathi programme is an initiative by Google run in partnership with Tata Trusts. <u>Second statement is correct</u>. It aims to create “digitally-enabled livelihood opportunities” for women. Under this programme, Google has deployed nearly 30,000 trained officials called Internet Saathis to educate women in rural India about internet and its usage."
+}

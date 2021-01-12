@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "e5b77b09-7318-4298-89e9-fae5c4a09925",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Financial Resolution and Deposit Insurance (FRDI) Bill, 2017: <ol> <li>One of the objectives of this bill is to scrap the Deposit Insurance and Credit Guarantee Corporation</li> <li>The bill provides recapitalisation plan for public sector banks </li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<u>First statement is correct.</u> The Financial Resolution and Deposit Insurance Bill has provision for establishment of a Resolution Corporation to monitor financial firms, anticipate risk of failure, take corrective action, and resolve them in case of such failure. The bill has provision for scrapping of the Deposit Insurance and Credit Guarantee Corporation. However, the new Resolution Corporation will also provide deposit insurance up to a certain limit, in case of bank failure. <u>Second statement is correct. </u> In an effort to prevent the banks and other financial entities from becoming bankrupt, the government has drafted the FRDI Bill, 2017 which has certain provision to resolving bankruptcy scenarios in the country. The government has promised a 2.11-lakh crore recapitalisation plan for public sector banks. The new Bill will enable the banks to be “bailed in” by depositors’ funds."
+}

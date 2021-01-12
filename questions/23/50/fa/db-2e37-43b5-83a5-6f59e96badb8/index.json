@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "2350fadb-2e37-43b5-83a5-6f59e96badb8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The terms LoU, SWIFT and CBS, which were frequently making news, are associated with which of the following?",
+  "option1": "Banking",
+  "option2": "Healthcare",
+  "option3": "Defence",
+  "option4": "Poverty",
+  "option5": "",
+  "answer": "Banking",
+  "explanation": "LoU (Letter of Undertaking), SWIFT (Society of Worldwide Interbank Financial Telecommunication) and Core Banking System (CBS) were recently in news for their involvement in the Punjab National Bank fraud case. Letter of Undertaking (LoU) is a guarantee that a bank is obliged to repay the loan if the actual borrower. Officials of Punjab National Bank issued LoU to foreign banks on behalf of the PNB to sanction loan to Nirav Modi. Society of Worldwide Interbank Financial Telecommunication (SWIFT) is a system to send instant messages. Once the foreign bank receives SWIFT message, it disburses the loan to the borrower. SWIFT transactions are supposed to be regularly reviewed but PNB didn’t follow the same. Core Banking System (CBS) is centralised software that keeps all records across branches and is capable of generating alerts over any undue activity."
+}

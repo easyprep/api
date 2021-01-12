@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "775f9661-95a8-4205-9418-b37851f72299",
+  "labels": "current-affairs,2018-08-04",
+  "question": "According to recent news, India’s infrastructure sector growth slowed to 4.2 per cent in August, 2018 due to sluggish growth in core sectors. Which of the following industries are included in the India’s Core Sector?\r\n<ol>\r\n<li>Coal</li>\r\n<li>Crude Oil</li>\r\n<li>Cement</li>\r\n<li>Banking</li>\r\n</ol>\r\n  Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "1, 2 & 4 Only",
+  "option3": "2, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 3 Only",
+  "explanation": "The core sector index measures output in eight infrastructure sectors – steel, cement, coal, refinery, natural gas, crude oil, fertilisers and electricity generation. Banking, Agriculture, Automobiles &amp; Biotechnology are not included in the core sector industries."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:35.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "ab7756b2-4b76-4409-9b1c-fdfb29384320",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Indian Ocean Dipole: <ol> <li>The positive phase of Indian Ocean Dipole occurs when the sea surface temperatures are greater than normal in the Arabian Sea and less than normal in the tropical eastern Indian Ocean.</li> <li>The Indian Ocean Dipole attains its peak mostly in month of January</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The positive Indian Ocean Dipole (IOD) occurs when the sea surface temperatures are greater than normal in the Arabian Sea and less than normal in the tropical eastern Indian Ocean. In reverse case, a negative IOD is said to develop. A positive IOD leads to greater monsoon rainfall and more active (above normal rainfall) monsoon days while negative IOD leads to less rainfall and more monsoon break days (no rainfall). There are three types of Indian Ocean Dipole (IOD): normal IOD, early IOD and prolonged IOD. While an early IOD, reaches its peaks in the mid-monsoon months (July and August), the normal IOD and prolonged IOD peak in September, October, and November and hence play a lesser role in the monsoon rainfall."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "29848cd0-02aa-4b4a-af13-27f9d16a3b1f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Public Financial Management System (PFMS): <ol> <li>It has been developed by the office of the Controller General of Accounts, Ministry of Finance</li> <li>Department of Expenditure is the nodal department administering the Public Financial Management</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Public Financial Management System (PFMS) was earlier known as Central Plan Schemes Monitoring System (CPSMS). It is a web-based online software application developed by the Office of Controller General of Accounts (CGA). Department of Expenditure is the nodal department administering the Public Financial Management."
+}

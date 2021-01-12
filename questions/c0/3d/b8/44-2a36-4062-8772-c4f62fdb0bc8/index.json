@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:44.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "c03db844-2a36-4062-8772-c4f62fdb0bc8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Pradhan Mantri Krishi Sinchai Yojana (PMKSY): <ol> <li>The programme is supervised and monitored by the Nabard</li> <li>It aims to enhance the adoption of precision-irrigation and other water saving technologies</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the programme is supervised and monitored by an Inter-Ministerial National Steering Committee (NSC). Second statement is correct."
+}

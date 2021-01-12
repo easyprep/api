@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8fdc30e9-62c9-4db5-84aa-63a13768450b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the terms “Kepler-80g” and “Kepler-90i” that were recently making in news: <ol> <li>These are extra-solar planets recently discovered by Indian Space Research Organisation</li> <li>These are the closest known exoplanets to earth discovered so far</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<strong>First statement is incorrect</strong> Recently, on December 14, NASA announced that it has discovered two new exoplanets with a little help from Google. The scientists used the artificial intelligence technology from Google to analyse the data from Kepler- a telescope placed in space. Kepler-80g was found in the planetary system around Kepler 80. The other exoplanet Kepler-90i was found orbiting Kepler 90. An extrasolar or exoplanet is a planet outside of our solar system that orbits a star. <strong>Second statement is again incorrect</strong> While Kepler 90 star is 2722 light years away, Kepler 80 is a star about 1364 light years away. Proxima b is the closest known exoplanet to Earth, located nearly 4.2 light-years away from earth."
+}

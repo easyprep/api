@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "b53e6720-fb21-4b6f-a83e-c92c8ce1b17d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are correct about Carbon Nanotube? <ol> <li>It is extremely lightweight</li> <li>It is electrically highly conductive</li> <li>It is more stable than steel</li> <li>It can separate salt from seawater</li> </ol> Select the correct option from codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Recently, scientists from Northeastern University in the U.S have developed carbon nanotubes over 50,000 times thinner than a human hair which can separate salt from seawater. The narrow hydrophobic channel in the nanotube forces water to translocate in a single-file arrangement. The new technology can help the scientists to meet the increasing demands for fresh water in the society. Carbon nanotube are extremely lightweight, electrically highly conducive, more stable than steel, and due to their several other unique properties, form an ideal for numerous applications, from ultra-lightweight batteries to high-performance plastics, right through to medical implants."
+}

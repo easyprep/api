@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8b5d6f18-ee8f-40ff-bddc-fb8b4f07b06d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Japanese Encephalitis (JE): <ol> <li>It is a viral infection caused by RNA viruses affecting liver.</li> <li>The disease can affect people of all ages but most commonly affects the adults in the age group 30 to 50 years</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u> because Japanese Encephalitis is a mosquito-borne viral infection of the brain. The infection caused by RNA viruses belonging to the Flavivirus genus. <u>Second statement is incorrect</u> because the disease can occur in people of all ages, but children and the elderly are more at risk of being afflicted with the disease. Currently, JE Infection can be easily detected throughout the country except in Dadra and Nagar Haveli, Daman and Diu, Gujarat, Himachal Pradesh, Jammu and Kashmir, Lakshadweep, Meghalaya, Punjab, Rajasthan, and Sikkim. Several vaccines are available for preventing the disease. The efficacy of the JE vaccine is between 85-90%. The first case of Japanese Encephalitis was recognised in 1955 in the country reported in North Arcat district of Tamil Nadu."
+}

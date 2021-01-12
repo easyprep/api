@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "47ee2245-c4cd-409d-9461-c7ffbc5c9ee2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Rotavac vaccine: <ol> <li>It prevents children against diarrhea</li> <li>It is India’s first designed vaccine that has received “pre-qualified” status by the World Health Organisation</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Rotavac vaccine has been developed by Hyderabad based Bharat Biotech International Limited. It was included in India’s national immunisation programme. The vaccine has been recently “pre-qualified” by the World Health Organisation. The “pre-qualified” status means that the vaccine can now be sold internationally to several countries. Rotavac vaccine protects against childhood diarrhoea caused by the rotavirus."
+}

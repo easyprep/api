@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:08.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "fbfd4319-b9a6-47dd-89f6-d130509a5f22",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the MCA21 project: <ol> <li>It is the first Mission Mode Project (MMP) to be launched under the National e-Governance Plan (NeGP) </li> <li>It is being implemented by the Department of Consumer Affairs</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. MCA21 is the first Mission Mode Project to be implemented under the national e-Governance initiative. <u>Second statement is incorrect </u>because the project is being implemented under the Ministry of Corporate Affairs (MCA) and not Department of Consumer Affairs. The project aims to meet the stakeholder needs in the 21st century. It is envisioned to provide anytime and anywhere services to businesses by Ministry of Corporate Affairs."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "4dc5fc57-7f8f-4b11-94a3-b4837eaa6eb1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements are correct about the Asian Infrastructure Investment Bank (AIIB)? <ol><li>Both India and China are its founder members</li><li>A member country's quota determines its voting power in the bank</li><li>No country other than Asian countries is its member</li><li>It aims at providing Sovereign-backed financing as well as Non-sovereign-backed Financing for Projects</li></ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 4 Only",
+  "option2": "2, 3 & 4 Only",
+  "option3": "1, 3 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 4 Only",
+  "explanation": "First statement is correct because both India and China are its founder members. Second statement is correct because a member country's quota determines its voting power. Third statement is incorrect because non Asian countries are also its members. Fourth statement is correct because AIIB aims at providing sovereign-backed financing as well as non-sovereign backed financing for projects."
+}

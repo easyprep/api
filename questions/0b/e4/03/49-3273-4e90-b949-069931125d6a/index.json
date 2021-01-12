@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "0be40349-3273-4e90-b949-069931125d6a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following general observations about the mutations: <ol> <li>Mutations generally occur because DNA polymerase does not always do a perfect job</li> <li>The cells which are under impact of something which can harm DNA, are more prone to mutations</li> </ol> Which among the above observations is / are correct? &nbsp; &nbsp;",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Both 1 & 2 are correct",
+  "explanation": "A mutation is when there is some change in the DNA blueprint that makes it different than it used to be. There are many different types of mutations, including the change of just a single letter or the loss of significant chunks of the genome. Mutations can be harmful to the cell if they occur in a part of the genome that codes for something important. We know that the protein machine that makes copies of the genome, which is called \\\"DNA polymerase\\\", does not always do a perfect job. One estimate is that it makes a mistake about once for every 10 million letters of DNA it copies. This might sound pretty good, but the human genome has about 3 billion letters, so there will be about 300 mistakes made every time the genome is copied. Cells have other proteins whose job is to fix these mistakes, and they usually work well, so typically a cell can copy its DNA without any mistakes. However, every once in a while, a mistake can go unfixed, and then becomes a part of the genome and is called a mutation. Mutations are more likely to occur when cells are under stress or are exposed to something that can damage DNA. For example, there are toxic chemicals in cigarette smoke that are known to cause mutations that can lead to lung cancer. Also, the UV rays in sunlight can damage DNA in skin cells, which can lead to skin cancer. So, there really is a good reason not to smoke and to use sunblock!"
+}

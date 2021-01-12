@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "10e52a17-0112-47ab-9d21-8e36b3625c65",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following differences between White Cement and Ordinary Portland Cement (OPC): <ol> <li>The amount of chromium, manganese, and iron compounds is significantly less in white cement in comparison to OPC</li> <li>Production of white cement consumes significantly more energy in comparison to OPC</li> </ol> &nbsp; Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "&nbsp; Both are correct statements <ul> <li>The amount of chromium, manganese, iron compounds is significantly less in white cement in comparison to gray cement</li> <li>Production of white cement consumes significantly more energy in comparison to gray cement</li> </ul>"
+}

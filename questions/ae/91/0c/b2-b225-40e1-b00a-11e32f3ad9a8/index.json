@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "ae910cb2-b225-40e1-b00a-11e32f3ad9a8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about deposits made in banks: <ol> <li>Time deposits are less liquid than&nbsp;demand deposits</li> <li>Time Deposits with banks return higher rate of Interest when compared to Demand deposits</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Time deposits are investment deposits made for a predetermined period of time. The depositor receives a predetermined rate of interest on the term deposit over the specified time period. Funds deposited for longer time periods command a higher interest rate. Demand deposits accounts offer greater liquidity but pay lower interest rates, and they may also include various fees for handling the account. Depositors can withdraw any or all of the funds in a demand deposit account at any time without penalty or prior notice required."
+}

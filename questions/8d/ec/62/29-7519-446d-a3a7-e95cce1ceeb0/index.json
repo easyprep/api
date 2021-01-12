@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:46.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8dec6229-7519-446d-a3a7-e95cce1ceeb0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following Industrial elements: <ol> <li>Extraction of raw materials</li> <li>Manufacturing</li> <li>Transportation</li> </ol> &nbsp; Which of the above is/are associated to upstream Industries?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Raw material extraction and production are elements of the supply chain considered to be&nbsp;upstream. Transportation is associated with the downstream element."
+}

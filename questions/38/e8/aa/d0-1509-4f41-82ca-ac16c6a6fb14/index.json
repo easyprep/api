@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:38.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "38e8aad0-1509-4f41-82ca-ac16c6a6fb14",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In which of the following plants, the male and female flowers are found on seperate individual plants? <ol> <li>Coconut Palm</li> <li>Date Palm</li> <li>Banana</li> <li>Papaya</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 4",
+  "option3": "Only 3 & 4",
+  "option4": "Only 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2 & 4",
+  "explanation": "In coconut both male and female flowers are present on the same plant so they are monoecious but in date palm both male and female flowers are present on different plants so they are called dioecious. Banana is a monoecious plant. Monoecious plants are the plants that bear seperate male and female flowers on the same plant. In the wild, papayas are dioecious plants, meaning that there are male trees and female trees. However, it is very curious the fact that they can quickly change gender. These changes can respond to both seasonal factors and human actions. For example, branches of samples that were born males whose trunks were cut can produce female flowers after sprouting."
+}

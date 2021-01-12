@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "ce369c9c-6c7f-4bc4-b9a3-f4e87675344d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the government made it mandatory for all new four-wheelers to have FASTag devices attached to the vehicles. In this context, consider the following statements: <ol> <li>FASTag device employs Radio Frequency Identification (RFID) technology</li> <li>Use of FASTag helps in environment protection as well as reducing air pollution</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<strong>FASTag device employs Radio Frequency Identification (RFID) technology</strong> This is a correct statement. FASTag is a device that employs Radio Frequency Identification (RFID) technology. The device is used for digital payments. It allows toll payments directly from the prepaid or savings account linked to it. Like Aadhaar, it will likely to emerge as unique identity numbers for vehicles. <strong>Use of FASTag helps in environment protection as well as reducing air pollution</strong> This is also a correct statement. Use of FastTag reduced time to be spent on toll plaza and thus in reducing air pollution. It also cuts down use of paper, so environment friendly."
+}

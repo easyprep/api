@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "0a0cff7c-3257-41ab-8a1a-0093f0983378",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Literacy in India: <ol> <li>As per census 2011 rules, a person is treated as literate if he/she has received any formal education or has passed minimum class 8<sup>th</sup> from any state or central board</li> <li>As per census 2011, Kerala has the highest literacy rate while Bihar has the lowest literacy rate in the country</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u>. The criteria for literacy in India that was set in 1991 and has been retained for 2001 as well as in census 2011. As per criteria, a person aged 7 years and above who can read and write with understanding in any language is treated as literate. A person, who can only read but cannot write, is not literate. Also, a person need not require any formal education or any minimum qualification to be treated as literate. <u>Second statement is correct</u>. As per the census 2011, Kerala has the highest literacy rate (94%) while Bihar has the lowest literacy rate (61.80%)."
+}

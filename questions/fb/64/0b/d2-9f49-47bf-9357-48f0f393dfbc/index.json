@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:54.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "fb640bd2-9f49-47bf-9357-48f0f393dfbc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about National Company Law Appellate Tribunal (NCLAT): <ol> <li>It is a quasi-judicial body established under the Companies Act 2013</li> <li>An appeal against the orders passed by NCLT can be made only in Supreme Court</li> </ol>  Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<strong>First statement is correct</strong> The National Company Law Appellate Tribunal (NCLAT) is a quasi-judicial body established under the Companies Act 2013. <strong>Second statement is incorrect</strong> An appeal against the orders passed by National Company Law Tribunal (NCLT) is made to the National Company Law Appellate Tribunal. The decisions of NCLAT may be appealed to the Supreme Court of India. NCLT would be dealing in various matters pertaining to winding up of Companies, Revival and Restructuring which presently hitherto falls under the jurisdiction of High Court and BIFR respectively. NCLT entertains the proceedings which have been transferred to the Tribunal from High Court as provided in section 434 of the Companies Act,2013 (“Act”). The NCLT has all powers of a civil court. It can summon and enforce the attendance of any person; requiring the discovery and production of documents; receiving evidence on affidavits; subject to the provisions of sections 123 and 124 of the Indian Evidence Act, 1872, etc."
+}

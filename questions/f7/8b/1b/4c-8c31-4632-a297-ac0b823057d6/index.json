@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "f78b1b4c-8c31-4632-a297-ac0b823057d6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, the term “Therapeutic clones” was making news. Consider the following statements in this context: <ol> <li>Therapeutic cloning pertains to the removal of a nucleus, which contains the genetic material, from virtually any cell of the body</li> <li>Dolly, a lamb, is the first mammal to have been successfully cloned using this technique</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "First statement is correct. Therapeutic cloning is another phrase for a procedure known as somatic cell nuclear transfer (SCNT). A major benefit of therapeutic cloning is that the cells removed are pluripotent. Pluripotent Cells can give rise to all cells in the body with the exception of the embryo. This means that pluripotent cells can potentially treat diseases in any body organ or tissue by replacing damaged and dysfunctional cells. Second statement is incorrect. Dolly, a lamb, was the first animal to be cloned from an adult of its species. It was cloned at the Roslin Institute in Scotland. The method used was reproductive cloning."
+}

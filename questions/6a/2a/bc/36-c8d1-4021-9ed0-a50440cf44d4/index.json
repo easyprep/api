@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "6a2abc36-c8d1-4021-9ed0-a50440cf44d4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following activities is/are causing the rapid increase in methane emissions? <ol> <li>Decrease in the population of termites</li> <li>Addition of seaweeds to cattle feed</li> <li>Fermentation in rice fields</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "<u>First is incorrect</u>. Methane is produced in a termite’s digestive track during the breakdown of the cellulose by symbiotic micro-organisms. Each termite produces, on average, about half a microgram of methane per day. However, when this is multiplied up by the world population of termites, global methane emission from this source is estimated to be about 20 million tonnes each year. So, decrease in termite population will reduce the methane production and not increase the same. <u>Second is incorrect</u>. Similarly, in a research, it has been found that adding seaweed to cattle feed could reduce the methane production by 70%. Seaweeds or sea vegetables are algae that can be eaten and used in the preparation of food. Methane emission from livestock comes from their farts and burps, out of which 90% results from burps. In a scientific study conducted it has been found that addition of seaweeds to cattle feed improves the digestion system of animals and therefore reduces the methane gas production from them. <u>Third is correct</u>. Fermentation in rice fields is one of the major sources for methane emissions. Paddy fields for rice production are man-made wetlands. These wetlands have high moisture content and an environment for methane producing microbes to decompose the organic matter to generate methane."
+}

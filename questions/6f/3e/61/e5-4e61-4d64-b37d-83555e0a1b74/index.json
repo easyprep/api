@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:48.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "6f3e61e5-4e61-4d64-b37d-83555e0a1b74",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about the GAGAN project: <ol> <li>It is joint effort of Airport Authority of India (AAI) and Indian Space Research Organization (ISRO)</li> <li>GAGAN is the first SBAS system in the world&nbsp;to serve the equatorial region</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The primary objective of GAGAN (GPS&nbsp;Aided&nbsp;Geo&nbsp;Augmented&nbsp;Navigation)&nbsp;is to establish a certifiable satellite based augmentation system for safety-of-life applications. GAGAN provides the additional accuracy, availability, and integrity necessary for all phases of flight, from enroute through approach for all qualified airports within the GAGAN service volume.&nbsp;GAGAN is the first SBAS (Satellite Based Augmentation System) system in the world to serve the equatorial region."
+}

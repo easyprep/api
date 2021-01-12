@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a5d7e4d1-e87f-4e3b-9bea-713ac9d0437d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is included in calculation of GVA (Gross Value Addition)?",
+  "option1": "Indirect taxes",
+  "option2": "Subsidies",
+  "option3": "Property tax",
+  "option4": "Stamp duties",
+  "option5": "",
+  "answer": "Indirect taxes",
+  "explanation": "Two years back, the Central Statistical Organization (CSO) introduced a new method called GVA (Gross Value Addition) to calculate growth numbers. This differed from the earlier method known as GDP. Another key change was to move from factor cost to basic prices. GDP at factor cost represents what the producers in the economy make from industrial activity — wages, profits, rents and capital called “factors of production”. Beside these, a producer also incurs other expenses such as property tax, stamp duties and registration fees before sale. These other expenses are included in the GDP, but not the GVA. Essentially, GVA captures what accrues to the producer, before a product is sold. The RBI too considers only GVA to spell out its economic projections in its policy reviews. While calculating GVA, Indirect taxes are added while subsidies are subtracted."
+}

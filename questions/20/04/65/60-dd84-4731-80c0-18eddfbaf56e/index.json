@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "20046560-dd84-4731-80c0-18eddfbaf56e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Equality before law means that if two persons belonging to two different communities commit the same crime and both of them get the same punishment.</li> <li>Equal protection of laws means that no person is above law</li> </ol> Which of the above is / are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Neither 1 nor 2 is correct",
+  "explanation": "Equality before law means that no person is above law and all are equal before law, every individual has equal access to the courts. ‘Equal protection of laws’ means that if two persons belonging to two different communities commit the same crime, both of them will get the same punishment."
+}

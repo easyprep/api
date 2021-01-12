@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "b938cf26-db14-49b7-835b-529fb23d287b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Non-Banking Financial Companies (NBFCs) in India. <ol> <li>NBFCs are registered under the Companies Act and deal in business related to finance. </li> <li>All NBFCs in India are regulated by RBI</li> </ol> Which of the above is / are correct statements?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Only 1 is correct statement. NBFCs cannot accept demand deposits and cannot issue cheques drawn on them and thus does not forms a part of the payment and settlement system. But they do business related to finance except some. Second statement is incorrect because not all NBFCs are registered / regulated under RBI. Housing Finance Companies, Merchant Banking Companies, Stock Exchanges, Companies engaged in the business of stock-broking/sub-broking, Venture Capital Fund Companies, Nidhi Companies, Insurance companies and Chit Fund Companies are NBFCs but they have been exempted from the requirement of registration under Section 45-IA of the RBI Act, 1934 subject to certain conditions. <p align=\\\"justify\\\">Housing Finance Companies are regulated by National Housing Bank, Merchant Banker/Venture Capital Fund Company/stock-exchanges/stock brokers/sub-brokers are regulated by Securities and Exchange Board of India, and Insurance companies are regulated by Insurance Regulatory and Development Authority. Similarly, Chit Fund Companies are regulated by the respective State Governments and Nidhi Companies are regulated by Ministry of Corporate Affairs, Government of India. Companies that do financial business but are regulated by other regulators are given specific exemption by the Reserve Bank from its regulatory requirements for avoiding duality of regulation. {<a href=\\\"https://www.rbi.org.in/scripts/FAQView.aspx?Id=92\\\">Reference</a>}"
+}

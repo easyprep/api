@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "058870e3-5e59-4d4b-80b5-2081604c8635",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Financial Stability and Development Council (FSDC): <ol> <li>The Finance Secretary is the chairperson of the council</li> <li>It monitors macro-prudential supervision of the economy</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because union finance minister is the chairperson of the council. <u>Second statement is correct</u>. The members of FSDC include heads of financial sector regulators like RBI, SEBI, and PFRDA &amp; IRDA. It has been entrusted with performing two functions- first is to strengthen financial stability and second is enhancing coordination among the financial regulators."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "31b73ca0-ba8d-4f03-8fd1-5be92da797a2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following steps can be taken by RBI under the Prompt Corrective Action (PCA)? <ol><li>RBI can impose restrictions on branch expansion of a bank</li><li>RBI can cap bank's lending limit to a particular entity</li><li>RBI can supersede a bank's board</li></ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The PCA is triggered when banks breach certain regulatory requirements like minimum capital, return on asset and quantum of non-performing assets. It is the mechanism used by the central bank to improve the dismal conditions of commercial banks. Under the Prompt Corrective Action (PCA), the central bank can place certain restrictions such as halting branch expansion and stopping dividend payment. It can even cap a bank's lending limit to one entity or sector. The central bank can also supersede the bank's board, under PCA. The revised PCA framework is effective from April 1, 2017 in India."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "531b7521-b29a-4525-a2f6-3c60a35a7a10",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following bonds: <ol> <li>Carbon-Carbon</li> <li>Carbon-Hydrogen</li> <li>Carbon-Oxygen</li> <li>Hydrogen-Oxygen</li> </ol> Which among the above make flames when hydrocarbons burn?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 3 & 4",
+  "option3": "Only 1, 3 & 4",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "The main gases that make up air are nitrogen and oxygen; it is only the oxygen that is required to make a flame. Before the flame starts, the fuel contains molecules in which hydrogen atoms are connected (or bonded, as chemists say) to carbon atoms. The oxygen in the air is also in the form of molecules; each oxygen molecule consists of two oxygen atoms bonded to each other. During the burning of the fuel, the atoms exchange partners. Carbon?carbon, carbon?hydrogen, and oxygen?oxygen bonds are broken, and new carbon?oxygen and hydrogen?oxygen bonds are made. In the end the fuel plus oxygen is converted to just two kinds of molecules containing only carbon?oxygen and hydrogen?oxygen bonds. These molecules are carbon dioxide and water. However the fuel molecules contain lots of carbon?carbon and carbon?hydrogen bonds, and these do not all get broken at once. So in the flame there are fuel molecules that are in various stages of breaking their carbon?carbon and carbon?hydrogen bonds and replacing them with bonds to oxygen from the air. These really are the materials of which the flame is made. The reshuffling of the atoms releases lots of energy in the form of the heat and light that we usually think of as being a flame."
+}

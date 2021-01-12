@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "03abe0d3-39d3-4bfd-b0fa-47b61ccce045",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Third Generation Biofuel: <ol> <li>It is produced from crops such as corn and sugar beet</li> <li>India’s first Third Generation (3G) Ethanol Bio-refinery has been opened at Bathinda in Punjab</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u>. Third Generation Biofuel is produced using specially engineered crops such as algae. Corn and Sugar beet are used for production of First Generation (1G) Biofuel. <u>Second statement is incorrect</u>. India’s first Second Generation (2G) Ethanol Bio-refinery has been inaugurated at Bathinda in Punjab. As of now, there is no 3G Ethanol Bio-refinery in India. In order to reduce the import of crude oil and to fulfil the target of becoming Green India by 2030, government has taken yet another step to promote biofuel usage in the country by inaugurating country’s first 2G ethanol bio-refinery at Bathinda in Punjab. First Generation biofuels compete with our food source which is a major drawback with them. On the other hand, second-generation biofuels are produced from non-food resource such as wood and organic waste."
+}

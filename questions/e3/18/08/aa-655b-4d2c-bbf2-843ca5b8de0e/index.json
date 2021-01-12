@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:57.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "e31808aa-655b-4d2c-bbf2-843ca5b8de0e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In order to strengthen the security of Aadhaar data, the Unique Identification Authority of India (UIDAI) introduced the concept of “Virtual ID”. In this context, consider the following statements: <ol> <li>The virtual ID is a random 12-digit number</li> <li>It is temporary and revocable after specified time period</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because the “Virtual ID” is a random 16-digit number. <u>Second statement is correct</u>. The VID is revocable and can be replaced by a new one by Aadhaar number holder after the specified period of time. The Aadhaar-issuing body will start accepting the 'Virtual ID' from March 1, 2018. The Unique Identification Authority of India (UIDAI), which issues the 12-digit Unique Identity Number as well as Aadhaar card, has taken this step to strengthen the security features of Aadhaar system through \\\"Virtual ID\\\"."
+}

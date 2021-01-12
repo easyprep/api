@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a0bfe695-7cd9-49a6-83ff-1f482d22bf58",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Wholesale Price Index in India: <ol> <li>The base year for the calculation of Wholesale Price Index is 2011-12</li> <li> The Food Index in the Wholesale price Index is made of both unprocessed and processed food items. </li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements. The new series of Wholesale Price Index (WPI) with base 2011-12 is effective from April 2017. A new “Food Index” is being compiled combining the “Food Articles” under “Primary Articles” and “Food Products” under “Manufactured Products”. {<a href=\\\"http://eaindustry.nic.in/uploaded_files/Press_Release.pdf\\\">Reference</a>}"
+}

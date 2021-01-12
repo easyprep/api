@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "4a85bce3-5c15-4b06-825e-a9a451d6962a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Intercontinental Ballistic Missile (ICBM): <ol> <li>It is a guided ballistic missile with a maximum range of 5,500 kilometres</li> <li>BRAHMOS-II is India's first indigenously developed ICBM</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<strong><u>First statement is incorrect </u></strong> Intercontinental Ballistic Missile (ICBM) is a guided ballistic missile with a minimum range of 5,500 kilometres. The maximum range varies from 7,000 to 16,000 kilometres. It is mainly designed for nuclear weapons delivery and also can carry chemical and biological weapons. These have a greater range and speed as compared to the other ballistic missiles. <strong><u>Second statement is incorrect</u></strong> Brahmos-II is a hypersonic cruise missile with expected range of 600Km.India made its entry into the Intercontinental ballistic Missile (ICBM) on April 19, 2012 when it entered into the club after the successful test launch of its indigenous Agni V missile. The reported range of Agni-V is 6000 Km. India is developing a second generation BrahMos-II missile is collaboration with Russia."
+}

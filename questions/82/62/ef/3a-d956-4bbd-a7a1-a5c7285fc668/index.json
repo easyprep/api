@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8262ef3a-d956-4bbd-a7a1-a5c7285fc668",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; The&nbsp;height&nbsp;(h) to which a&nbsp;liquid&nbsp;will&nbsp;rise&nbsp;in a capillary&nbsp;tube: <ol> <li>increases with increase in surface tension of liquid</li> <li>decreases with increase in radius of the tube</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The height (h) to which a liquid will rise in a capillary tube is directly proportional to surface tension of liquid and inversely proportional to radius of the tube."
+}

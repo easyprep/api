@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "af7c124d-48a9-4cc5-a527-5ec3c2a96f09",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the term “Hyperloop”, that was recently in news: <ol> <li>It is India’s first indigenously developed pod-based terrestrial transportation system </li> <li>It has been jointly developed by BARC and DRDO</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Hyperloop is a pod-based terrestrial transportation system which can carry passengers or freight through a near-vacuum tube at airline speeds. “Hyperloop” concept is the brainchild of tech billionaire Elon Musk, a South African-born Canadian American business magnate. Recently, Maharashtra, Andhra Pradesh and Karnataka have signed deals with Virgin Hyperloop One (VHO) to assess the possibility of developing hyperloops in these states. Hyperloop is a high speed train system with potential to cover the 100km line between Navi Mumbai and Pune will cost around Rs 26,000 crore, which is lower than the cost of an underground Metro."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a5d50427-9042-4da5-960c-e059af8933ca",
+  "labels": "current-affairs,2018-08-04",
+  "question": "ISRO is planning to place its solar mission Aditya-L1 at L1 Lagrange point to do imaging and study of the sun. What is / are advantages of choose Lagrange point in space for placing such satellites?\r\n<ol>\r\n<li>At Lagrange point, satellites require very little energy to maintain their orbit</li>\r\n<li>A satellite at Lagrange point is not eclipsed from the sun</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "ISRO is planning to place its solar mission Aditya-L1 at L1 Lagrange point to do imaging and study of the including various phenomena on sun such as coronal mass ejections. This launch will happen in the early part of the next solar cycle - an occurrence in which sunspots form on the face of the sun, growing in size and number and eventually diminishing, all over a period of eleven years. It will be a mission of many firsts. The so-called L1 point is 1.5 million kilometres away. Here, due to the delicate balance of gravitational forces, the satellite will require very little energy to maintain its orbit. Also it will not be eclipsed from the sun."
+}

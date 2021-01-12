@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "d5e680f1-53e7-405f-80a0-9949b240d08c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are correct as per the Economic Survey 2017-18? <ol> <li>The GDP growth rate has been projected to be between 6.5 and 6.75 percent for the financial year 2017-18.</li> <li>The GVA and GDP growth rates have been projected to be at 6.5% and 6.7 percent, respectively.</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<u>First statement is correct</u>. As per the economy survey 2017-18, the GDP growth rate has been projected to be between 6.5 and 6.75 percent. <u>Second statement is correct</u>. The projected GVA and GDP growth rates are 6.5% and 6.7% percent respectively."
+}

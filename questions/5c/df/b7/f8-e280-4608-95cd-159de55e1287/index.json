@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:37.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "5cdfb7f8-e280-4608-95cd-159de55e1287",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, government promotes use of gypsum in agriculture. How addition of gypsum helps in farming? <ol> <li>Gypsum provides calcium and sulphur, which are sources of plant nutrition</li> <li>Gypsum neutralizes the acidity of the soil thus increasing soil pH</li> <li>Applying gypsum before irrigating the field helps in water conservation</li> </ol> Which of the above is / are correct statements?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "The second statement is not correct. Gypsum is neutral in pH, and since it has no carbonate ion as part of its makeup, it will not neutralize acidity. However, it is much more soluble than most lime products (about 200 times as soluble), so it does make a very good source for soluble calcium and sulfate. In other words, applying gypsum to the soil will raise the calcium and sulfur levels of the soil, but it will not raise the pH."
+}

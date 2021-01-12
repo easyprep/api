@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:37.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "1b0dad1c-25e9-457b-aab0-9ef7e42dc1fe",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, T-cell therapy is becoming common with respect to some of the critical diseases such as Cancer. Consider the following statements about T-cells: <ol> <li>T-cells originate and mature in thymus</li> <li>T-cells work as the core of the system that tailors the body's immune response to specific pathogens</li> </ol> Which of the above is / are correct statements?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 2 is correct",
+  "explanation": "All T cells originate from haematopoietic stem cells in the bone marrow but the organ in which these cells mature is Thymus, so they are called T-cells. It is a type of white blood cell that is of key importance to the immune system and is at the core of adaptive immunity, the system that tailors the body's immune response to specific pathogens. The T cells are like soldiers who search out and destroy the targeted invaders. Immature T cells (termed Tstem cells) migrate to the thymus gland in the neck, where they mature and differentiate into various types of mature T cells and become active in the immune system. <br />Recently, US has approved the first treatment to redesign a patient's own immune system so it attacks cancer. Novartis is charging $475,000 (£367,000) for this so called \\\"living drug\\\" therapy, which leaves 83% of people free of a type of blood cancer. The living drug is tailor-made to each patient, unlike conventional therapies such as surgery or chemotherapy. It is called CAR-T and is made by extracting white blood cells from the patient's blood. The cells are then genetically reprogrammed to seek out and kill cancer. The cancer-killers are then put back inside the patient and once they find their target they multiply. It is the first T-cell therapy that uses chimeric antigen receptor (CAR) technology to be approved by the USFDA. The FDA describes the new product as a cell-based gene therapy, and more specifically as a genetically modified autologous T-cell immunotherapy, prepared individually for each patient."
+}

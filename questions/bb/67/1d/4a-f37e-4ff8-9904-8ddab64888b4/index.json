@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:37.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "bb671d4a-f37e-4ff8-9904-8ddab64888b4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The amount of dissolved oxygen that the water can hold depends on the temperature and salinity of the water. Consider the following statements with this reference: <ol> <li>Cold water can hold more dissolved oxygen than warm water</li> <li>Salt water can hold more dissolved oxygen than fresh water</li> </ol> Which of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The amount of dissolved oxygen that the water can hold depends on the temperature and salinity of the water. Cold water can hold more dissolved oxygen than warm water and fresh water can hold more dissolved oxygen than salt water."
+}

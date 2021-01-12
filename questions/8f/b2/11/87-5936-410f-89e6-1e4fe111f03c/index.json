@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8fb21187-5936-410f-89e6-1e4fe111f03c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, India successfully test fired the nuclear-capable “Dhanush” ballistic missile. In this context, consider the following statements: <ol> <li>Dhanush can carry a payload of 1500 kg and is capable of striking both land and sea-based targets in the range of 3500 km</li> <li>It has been developed by Defence Research Development Organisation (DRDO) under the Integrated Guided Missile Development Programme (IGMDP)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u> because the striking capacity of the missile is in the range of 350 km. The missile is capable of carrying a payload of 500 kg and hitting both land and sea-based targets. <u>Second statement is correct</u>. Dhanush has been developed by the Defence Research and Development Organisation (DRDO) under the Integrated Guided Missile Development Programme (IGMDP)."
+}

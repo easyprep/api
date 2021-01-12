@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "86d7b435-db8f-44c7-8c83-f01aa5829400",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Bank Board Bureau: <ol><li>It aims to strategise the state-run banks in raising capital </li><li>It selects the top officials for public sector banks </li><li>It formulates the fiscal policy of the government</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Third statement is incorrect. First and Second statements are correct."
+}

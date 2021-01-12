@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:45.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8955c9d4-d112-45b6-87ef-538a2b8a1185",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; Consider the following statements about RuPay Card: <ol> <li>National Payment Corporation initiated the launch of RuPay Card in India</li> <li>Processing fees or transaction cost is lower in case of RuPay card in comparison to other cards</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statementsNational Payment Corporation initiated the launch of RuPay Card in India. Processing fees or transaction cost is lower in case of RuPay card in comparison to other cards. The card comes with high end technology chip named EMV (EuroPay, MasterCard and Visa). It has an embedded microprocessor circuit with information about the card holder."
+}

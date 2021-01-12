@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:50.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "160db6cd-fd40-439d-9e3e-8d223eb30cb2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As per recent research, the new technology based on CRISPR called “Gene Drive” is capable to eradicate which of the following diseases?",
+  "option1": "Cancer",
+  "option2": "Malaria",
+  "option3": "Diabetes",
+  "option4": "Zika virus disease",
+  "option5": "",
+  "answer": "Malaria",
+  "explanation": "<strong></strong> Based on CRISPR, the technology named “gene drive” uses genome-editing technique, thereby introducing genetic changes into mosquito populations to effectively control malaria. In nearly all cases, the genetic modification encoding the trait of interest is very unlikely to confer any positive fitness effect to the mosquito, and therefore its frequency is not likely to increase over time as a result of natural selection. This technique is being used in Africa to control Malaria."
+}

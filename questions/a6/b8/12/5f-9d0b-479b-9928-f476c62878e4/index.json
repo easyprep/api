@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a6b8125f-9d0b-479b-9928-f476c62878e4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Soil Health Card Scheme: <ol> <li>Under this scheme, the government issues <em>Soil Card</em> to farmers in every five years</li> <li>The scheme is being implemented by the NABARD</li> <li>The status of the soil card is prepared based on five parameters</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "<u>First statement is incorrect</u>. Under the Soil Health Card scheme, the government issues Soil Card to farmers in every three years. <u>Second statement is also incorrect.</u> The scheme is being implemented through the Department of Agriculture of all the State and Union Territory Governments. <u>Third Statement is also incorrect.</u> The status of the soil card is prepared based on 12 parameters, namely N, P, K (Macro-nutrients); S (Secondary- nutrient); Zn, Fe, Cu, Mn, Bo (Micronutrients); and pH, EC, OC (Physical parameters). The Soil Health Card is a printed report that a farmer gets for his land holdings. The report indicated the condition of soil and recommends necessary fertilizers required by the farm."
+}

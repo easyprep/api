@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "f127ee60-9913-4b96-9104-7c48bcf6ab69",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Mahatma Gandhi National Rural Employment Scheme (MGNREGS): <ol> <li>The wages under MGNREGA are currently aligned to Consumer Price Index-Rural (CPI-R)</li> <li>It is a demand driven wage employment programme and resource transfer from Centre to States</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "<u>First statement is incorrect</u> because under the Mahatma Gandhi National Rural Employment Scheme (MGNREGS) wages are paid on the basis of consumer price index (CPI) for agricultural labourers, which is based on the consumption pattern of 1983. Recently, an expert committee set up by the Government has recently recommended aligning the wages paid under MNREGA to Consumer Price Index-Rural (CPI-R). <u>Second statement is correct</u> as MGNREGA is demand driven wage employment programme and resource transfer from Centre to States is based on the demand for employment in each State."
+}

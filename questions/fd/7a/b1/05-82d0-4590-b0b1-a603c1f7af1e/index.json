@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "fd7ab105-82d0-4590-b0b1-a603c1f7af1e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Global Tiger Initiative (GTI): <ol> <li>It is an initiative led by the 13 tiger range countries (TRCs)</li> <li>World Bank is one of the founding fathers of the GTI</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<u>First statement is correct</u>. Global Tiger Initiative (GTI) is led by the 13 tiger range countries (TRCs). <u>Second statement is correct</u>. The GTI’s founding partners include the World Bank, the Global Environment Facility (GEF), the Smithsonian Institution, Save the Tiger Fund, and International Tiger Coalition (representing more than 40 non-government organizations)."
+}

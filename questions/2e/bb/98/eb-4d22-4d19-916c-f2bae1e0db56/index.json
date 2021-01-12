@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:10.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "2ebb98eb-4d22-4d19-916c-f2bae1e0db56",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the National Agriculture Market (NAM): <ol> <li>It acts as a pan-India electronic trading portal for farm produce</li> <li>National Bank for Agriculture and Rural Development (NABARD) is the lead promoter of NAM</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. National Agriculture Market (NAM) acts as a pan-India electronic trading portal for farm produce which creates a unified national market for agricultural commodities by integrating the existing Agriculture Produce Market Committee (APMC) markets. <u>Second statement is incorrect</u> because Small Farmers Agribusiness Consortium (SFAC) is the lead promoter of NAM and not NABARD. SFAC is a registered society of Department of Agriculture, Cooperation &amp; Farmers’ Welfare (DAC&amp;FW) under Ministry of Agriculture and Farmer Welfare."
+}

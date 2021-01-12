@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "5a5d0230-c85c-457a-8e8c-f781f4683b27",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, scientists have identified the second-fastest known pulsar, named PSR J0952-0607. With this reference, consider the following statements: <ol> <li>A pulsar is the core of a massive star that exploded as a supernova</li> <li>It is a highly magnetized and emits a beam of electromagnetic radiation</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "A pulsar is the core of a massive star that exploded as a supernova. Recently, scientists have identified the second-fastest known pulsar, named PSR J0952-0607. The pulsar is spinning at more than 42,000 revolutions per minute and located between 3,200 and 5,700 light-years away. The pulsar contains about 1.4 times the Sun's mass and is orbited every 6.4 hours by a companion star that has been whittled away to less than 20 times the mass of the planet Jupiter. Due to their similarity to spiders that consume their mates, systems like J0952 are called black widow or redback pulsars, depending on how much of the companion star remains."
+}

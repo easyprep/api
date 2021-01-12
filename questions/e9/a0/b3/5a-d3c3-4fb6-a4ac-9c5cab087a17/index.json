@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "e9a0b35a-d3c3-4fb6-a4ac-9c5cab087a17",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following ministries has developed a Rapid Assessment System (RAS) for continuous feedback for e-services delivered by Government of India and State Governments?",
+  "option1": "Ministry of Electronics and Information Technology",
+  "option2": "Ministry of Communications",
+  "option3": "Ministry of Information and Broadcasting",
+  "option4": "Ministry of Human Resource Development",
+  "option5": "",
+  "answer": "Ministry of Electronics and Information Technology",
+  "explanation": "Rapid Assessment System (RAS) has been developed by National e-Governance Division, a division of Ministry of Electronics and Information Technology. It is used for continuous feedback for e-services delivered by Government of India and State Governments. This system has multiple channels for receiving feedback and is backed by analytics. Such analytics help to integrate several departments for continuous system improvement and better governance."
+}

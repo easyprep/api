@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:41.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "81a176d5-9ae0-4b8f-8e60-0a0d2a56cc0a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp; &nbsp; Consider the following statements about Krebs cycle: <ol> <li>This is also known as reductive pentose phosphate cycle</li> <li>While the Krebs cycle occurs in mitochondrion in eukaryotic cell, it occurs in cytosol in prokaryotic cell</li> </ol> &nbsp; &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "The Krebs cycle is also known as the tricarboxylic acid (TCA) cycle or the citric acid cycle. The citric acid cycle occurs in both eukaryotic cells and prokaryotic cells. In eukaryotic cells it occurs in mitochondrion whereas in prokaryotic cell it occurs in cytosol in prokaryotic cells."
+}

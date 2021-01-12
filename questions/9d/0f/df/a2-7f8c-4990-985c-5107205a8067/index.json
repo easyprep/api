@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "9d0fdfa2-7f8c-4990-985c-5107205a8067",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&nbsp;Consider the following statements about the Non-Banking Financial Company (NBFC): <ol> <li>It is a company registered under the Companies Act, 1956&nbsp;</li> <li>It cannot accept demand deposits and cannot issue cheques drawn on itself</li> </ol> &nbsp;Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statementsNBFC is a company registered under the Companies Act, 1956. It cannot accept demand deposits and cannot issue cheques drawn on it and thus does not forms a part of the payment and settlement system. Also the deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation is not available to depositors of NBFCs, unlike in case of banks."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:05.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "7e50612b-f584-421a-8645-44cada8e50e0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Haemoglobin A1c (HbA1c) testing, which was frequently making news, is used for diagnosis of which of the following diseases?",
+  "option1": "HIV/AIDS",
+  "option2": "Diabetes",
+  "option3": "Japanese encephalitis (JE)",
+  "option4": "Hepatitis C",
+  "option5": "",
+  "answer": "Diabetes",
+  "explanation": "HbA1c is a form of hemoglobin. The HbA1c test is a routine test for people suffering from diabetes (Type1 and Type 2). The normal range of HbA1c is less than 6%. If the percentage of A1c goes above 6%, the person can be said to be suffering from diabetes. Hemoglobin is the oxygen-carrying pigment that is responsible for the red colour of blood. It is also the predominant protein in red blood cells. About 90% of hemoglobin is hemoglobin A (the \\\"A\\\" stands for adult type). The other types include hemoglobin A1c, A1b, A1a1, and A1a2."
+}

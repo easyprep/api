@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "a2cb0f1f-84c0-498a-9cd7-21e288f5dbdd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about seismic zones in India: <ol> <li>The Bureau of Indian Standards has classified regions in India into six seismic zones</li> <li>Zone VI has been rated as the most seismically active region in the country</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u> because the Bureau of Indian Standards has classified regions in India into four seismic zones. These are zones II, III, IV and V. Zone-V comprises of entire north-eastern India, parts of Jammu and Kashmir, Himachal Pradesh, Uttaranchal, Rann of Kutch in Gujarat, parts of North Bihar and Andaman &amp; Nicobar Islands. Zone-IV covers remaining parts of Jammu &amp; Kashmir and Himachal Pradesh, Union Territory of Delhi, Sikkim, northern parts of Uttar Pradesh, Bihar and West Bengal, parts of Gujarat and small portions of Maharashtra near the west coast and Rajasthan. Zone-III comprises of Kerala, Goa, Lakshadweep islands, and remaining parts of Uttar Pradesh, Gujarat and West Bengal, parts of Punjab, Rajasthan, Madhya Pradesh, Bihar, Jharkhand, Chhattisgarh, Maharashtra, Orissa, Andhra Pradesh, Tamilnadu and Karnataka. Zone-II covers remaining parts of the country. <u>Second statement is incorrect</u> because Zone V has been rated as the most seismically active region and zone II is the least active. According to Modified Mercalli scale, the seismic zone intensity is classified as zone II (low intensity zone), zone III (moderate intensity zone), zone IV (severe intensity zone) and zone V (very severe intensity zone)."
+}

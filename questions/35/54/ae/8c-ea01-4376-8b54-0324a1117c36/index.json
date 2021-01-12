@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:59.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "3554ae8c-ea01-4376-8b54-0324a1117c36",
+  "labels": "current-affairs,2018-08-04",
+  "question": "“Proton Beam Therapy”, which was frequently making news, is used for the treatment of which of the following diseases?",
+  "option1": "Diabetes",
+  "option2": "Cancer",
+  "option3": "Leprosy",
+  "option4": "Tuberculosis",
+  "option5": "",
+  "answer": "Cancer",
+  "explanation": "Proton is a positively charged particle. Proton beam therapy is highly advanced radiation based therapy for treating cancer without damaging tissues. <strong>How Proton Beam Therapy works?</strong> Our tissues are made up of molecules. Each molecule is combination of several atoms. In the center of every atom is the nucleus. Orbiting around nucleus are the negatively charged electrons. When energized charged particles such as protons are forced into the body through external means, they pass the orbiting electrons and drag them out of atom. This process is called ionization. This in turn changes the characteristics of the atoms and therefore the overall character of the molecule. Radiation damages the unhealthy molecules within the cells, causing less damage to healthy tissue."
+}

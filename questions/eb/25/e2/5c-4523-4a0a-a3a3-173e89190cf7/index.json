@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:04.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "eb25e25c-4523-4a0a-a3a3-173e89190cf7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about National Supercomputing Mission: <ol> <li>The Mission is being jointly implemented by the Department of Science and Technology (DST) and Department of Electronics and Information Technology (DeitY) </li> <li>IIT Kanpur is the first academic institution in the country to get a supercomputing facility under the National Supercomputing Mission (NSM)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. National Supercomputing Mission aims to enable India to leapfrog to the league of world class computing power nations. The mission is being is being jointly implemented by the Department of Science and Technology (DST) and Department of Electronics and Information Technology (DeitY). <u>Second statement is incorrect</u>. The Indian Institute of Technology, Kharagpur, is the first academic institution to get a supercomputing facility under the National Supercomputing Mission (NSM). Such initiative will facilitate with computational support to users to carry out both research and teaching activities that involve state-of-the-art High Performance Computing (HPC)."
+}

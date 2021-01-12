@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "b4912366-464b-4e81-b8af-25511d0f90fd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "When a body is in uniform circular motion, we can say that <ol> <li>There is no change in speed</li> <li>There is no change in amplitude</li> <li>There is no change in velocity</li> <li>There is no change in acceleration</li> </ol> Which among the above is / are true? &nbsp;",
+  "option1": "Only 1",
+  "option2": "1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "1, 2 , 3 & 4",
+  "option5": "",
+  "answer": "1 & 2",
+  "explanation": "Uniform circular motion describes the motion of a body traversing a circular path at constant speed. The distance of the body from the axis of rotation remains constant at all times. Though the body's speed is constant, its velocity is not constant: velocity, a vector quantity, depends on both the body's speed and its direction of travel. This changing velocity indicates the presence of an acceleration; this centripetal acceleration is of constant magnitude and directed at all times towards the axis of rotation. This acceleration is, in turn, produced by a centripetal force which is also constant in magnitude and directed towards the axis of rotation."
+}

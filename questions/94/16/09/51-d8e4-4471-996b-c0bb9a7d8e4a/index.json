@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "94160951-d8e4-4471-996b-c0bb9a7d8e4a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The hydrocarbons have carbon-carbon and carbon-hydrogen bonds. Why they don't have hydrogen-hydrogen bonds? <ol> <li>There is no polarity in Bonds</li> <li>The electronegativity difference is too large</li> </ol> Which among the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "For hydrogen atoms to have the ability to create hydrogen bonds they must be bonded to an electronegative atom such as fluorine or oxygen. (This creates a partial positive charge on the hydrogen.) Since hydrocarbons are composed of only hydrogen and carbon there is no polarity in the bonds (electronegativity difference of 0.4)."
+}

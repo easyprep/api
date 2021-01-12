@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "dd048a64-81d9-4a55-b953-d24781e53b3c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the Tiger Reserve with the help of given information: <ol> <li>Government is going to organise an international bird festival in this tiger reserve from February 9 to 11 this year</li> <li>The area is a vast alluvial floodplain traversed by numerous rivers and streams flowing in south-easterly direction</li> <li>The vegetation here is North Indian Moist Deciduous type</li> <li>Of the nearly 1300 birds found in the Indian subcontinent, over 450 species can be seen in this Reserve.</li> </ol> Select the correct answer from options given below:",
+  "option1": "Sundarban Tiger Reserve",
+  "option2": "Dudhwa Tiger Reserve",
+  "option3": "Valmiki Tiger Reserve",
+  "option4": "Corbett Tiger Reserve",
+  "option5": "",
+  "answer": "Dudhwa Tiger Reserve",
+  "explanation": "Recently, Government has planned to organise an international bird festival in this Dudhwa tiger reserve. The bird festival is being organized jointly by the state forest department and Indian Chambers of Commerce and Industry (FICCI). This region is home to 450 bird species, including the endangered Bengal florican and vulnerable bird species like swamp partridge, also called swamp francolin, sarus crane and herons."
+}

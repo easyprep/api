@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:53.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "9c0e5967-9c91-47d2-b6e1-4954448d65de",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Cyclone Ockhi that was frequently in news: <ol> <li>It originated in the form of depression in the Bay of Bengal and has struck the country’s east coast</li> <li>It has been categorised as a super-cyclone by the India Meteorological Department</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<strong>First statement is incorrect </strong> Ockhi originated near the south-western coast of Sri Lanka, and travelled very near the southern-most tip of the Indian mainland, along the coasts of Tamil Nadu and Kerala, towards the Lakshadweep islands, Maharashtra and Gujarat. <strong>Second statement is incorrect</strong> Ockhi was described as a “very severe cyclonic storm” as it had wind speeds between 155 and 165 km per hour. Super-cyclones are those with wind speed above 220 km per hour."
+}

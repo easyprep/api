@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "240668bc-abd1-4bf6-8dea-80e32111ecc0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The term \"UIWIX\", which was recently in news, is:",
+  "option1": "an exoplanet",
+  "option2": "a computer virus",
+  "option3": "cryptocurrency",
+  "option4": "vaccine",
+  "option5": "",
+  "answer": "a computer virus",
+  "explanation": "Uiwix is a ransomware which has been recently discovered in China. It uses the Eternal Blue exploit to infect vulnerable victims."
+}

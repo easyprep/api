@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "f5941cdc-13b7-402c-ae2f-01f90212e116",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Gramin Krishi Mausam Seva (GKMS): <ol> <li>It is an initiative under Ministry of Earth Science</li> <li>Under this, the Indian Meteorological Department (IMD) provides crop specific advisories to the farmers at the district level twice in a week</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<u>First statement is correct</u>. Gramin Krishi Mausam Seva (GKMS) is an initiative under the Ministry of Earth Science. <u>Second statement is correct</u>. Under this initiative, the Indian Meteorological Department (IMD) provides crop specific advisories to the farmers at the district level twice in a week. The information is being provided to farmers through different media like print/visual/Radio/IT based including short message service (SMS) and Integrated Voice Response System (IVRS)."
+}

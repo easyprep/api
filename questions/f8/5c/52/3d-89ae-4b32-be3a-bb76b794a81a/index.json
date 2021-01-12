@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "f85c523d-89ae-4b32-be3a-bb76b794a81a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is / are correct about the Green Climate Fund? <ol> <li>It aims to encourage private sector support for measures that address climate change in developing countries.</li> <li>“GCF 101” is a new web-based guide that provides Partners with detailed information on how to access the Fund’s resources. </li> <li>NABARDbecame the first Indian entity to get direct access entity status allowing accessing the Green Climate Fund</li> <li>Till now, not a single project from India qualified to receive funds from GCF</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Fourth statement is the incorrect statement. Till now, only one project, Installation of Groundwater Recharge System in Odisha amounting to $34 million is underway using funds from GCF."
+}

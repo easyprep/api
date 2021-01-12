@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "bd73645e-c1a3-4fc0-966e-0ee971b5fff9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following vaccines developed in India has/have recently received prequalification status by World Health Organisation (WHO)? <ol> <li>Typbar TCV</li> <li>Rotavac</li> <li>Zika virus vaccine (MR 766) </li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Typbar TCV is the world’s first clinically proven Typhoid Conjugate Vaccine against typhoid fever that has received prequalification from World Health Organisation (WHO). It has been developed by Bharat Biotech, a Hyderabad based vaccine manufacturer. Rotavac is a vaccine that is intended to prevent Rotavirus. Rotavirus is the leading cause of severe diarrhea among children younger than five years of age. Rotavac has been developed by Bharat Biotech. This vaccine has also received the prequalification status by World Health Organisation (WHO). Zika virus vaccine (MR 766) has been developed by Bharat Biotech, but has not received prequalification status."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:38.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "3d24d52a-6c94-4274-b9a2-a014cab0bcf5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Western Himalayas and Eastern Himalayas: <ol> <li>The rate of melting of ice in Western Himalayas is relatively lower than that in Eastern Himalayas</li> <li>While western Himalayas receive most of their precipitation in winters, eastern Himalayas receive it in summer</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Western Himalayas are at higher latitude than Eastern Himalayas. The 8 degree difference in latitude between eastern and western Himalayas has affected the snowline in the regions. In higher latitudes sun rays fall on the surface of earth obliquely and they transfer less heat than in the lower latitudes where the sun rays fall at a higher angle of incidence. Since south facing slopes of the Himalayas receive maximum tropical sunshine, therefore, in any year, snow melts earlier in southern slopes than in northern slopes. So, first statement is correct. Second statement is also correct because western Himalayas receive most of the precipitation in winter months, eastern Himalayas receive it in summer months."
+}

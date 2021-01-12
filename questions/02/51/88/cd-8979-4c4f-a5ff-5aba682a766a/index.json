@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:01.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "025188cd-8979-4c4f-a5ff-5aba682a766a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the NASA’s Parker Solar Probe Mission: <ol> <li>It will be the first-ever mission to “touch” the sun</li> <li>It aims to determine the structure and dynamics of the magnetic fields at the sources of solar wind</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<u>First statement is correct</u>. The Solar Parker Probe will be the first spacecraft to fly into the low solar corona, or the first ever mission to touch the sun. <u>Second statement is also correct</u>. The mission aims to determine the structure and dynamics of the magnetic fields at the sources of solar wind. The mission was originally scheduled in 2015, but was rescheduled to be launched in 2018."
+}

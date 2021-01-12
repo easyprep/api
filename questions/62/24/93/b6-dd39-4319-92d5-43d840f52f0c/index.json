@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "622493b6-dd39-4319-92d5-43d840f52f0c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Prepaid Payment Instruments: <ol><li>These are regulated by RBI</li><li>These instruments do not permit cash withdrawal facilities</li></ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Pre-paid Payment Instruments (PPIs) are payment instruments that facilitate transactions like purchase of goods and services, including funds transfer, against the value stored on such instruments. These prepaid payments instruments are regulated by RBI. The existing prepaid payment instruments (PPI model) like Airtel Money does not give pay any interest on deposits. Closed system payment instruments facilitate the purchase of goods and services from it but do not facilitate cash withdrawal, whereas open system payment instruments facilitate purchase of goods and services as well as provide cash withdrawal facilities."
+}

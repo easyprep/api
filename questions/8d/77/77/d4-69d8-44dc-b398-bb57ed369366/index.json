@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:03.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8d7777d4-69d8-44dc-b398-bb57ed369366",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following diseases: <ol> <li>Guinea worm</li> <li>Yaws</li> <li>Maternal and neonatal tetanus</li> <li>Cattle plague</li> </ol> Which of the above has/have been eradicated from India as per WHO?",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 3 Only",
+  "option3": "3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "<ul> <li>India officially received certificates from World Health Organisation (WHO), declaring the country yaws and maternal and neonatal tetanus free in 2015.</li> <li>India has internationally been declared as free from Rinderpest or cattle plague, a fatal viral disease that hits livestock population.</li> <li>Indian Government started implementation of National Guinea Worm Eradication Programme (GWEP) in 1983-84 which helped India to become a guinea worm free country by the year 2000.</li> </ul>"
+}

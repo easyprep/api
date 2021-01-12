@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "95ea8429-1e04-4380-961c-13b90a58fbe6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Industrial sectors in India have been categorised into colour codes by the Environment Ministry based on their pollution load. Which of the following is the correct set of colour codes?",
+  "option1": "Black, Green, Blue, Red",
+  "option2": "Red, Orange, Green, White",
+  "option3": "White, Black, Orange, Green",
+  "option4": "Green, Red, Blue, Brown",
+  "option5": "",
+  "answer": "Red, Orange, Green, White",
+  "explanation": "Based on “Range of Pollution Index”, the Environment Ministry has classified the industrial sectors into four categories viz. Red, Orange, Green and White. White is the newly added category of industries. It pertains to those industrial sectors which are practically non-polluting, such as Biscuit trays. Industrial Sectors having Pollution Index score of 60 and above have been categorised into Red category. Industrial Sectors having Pollution Index score of 41 to 59 into Orange category. Those with Pollution Index score of 21 to 40 into Green category. Those with Pollution Index score incl. &amp; up to 20 into White category."
+}

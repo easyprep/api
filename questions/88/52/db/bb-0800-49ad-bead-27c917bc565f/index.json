@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8852dbbb-0800-49ad-bead-27c917bc565f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Sunspots: <ol> <li>These are temporary phenomena observed on the Sun’s Chromosphere</li> <li>They can be observed with land-based and Earth-orbiting solar telescopes</li> <li>These are darker and cooler areas on the surface of the sun</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "First and second are correct statements. Third statement is incorrect because Sunspots are darker, cooler areas on the surface of the sun in a region called the photosphere. The photosphere has a temperature of 5800 degrees Kelvin. Sunspots have temperature of about 3800 degrees Kelvin. They look dark only in comparison with the brighter and hotter regions of the photosphere around them. Sunspots are observed with land-based and Earth-orbiting solar telescopes. Specialized tools such as spectroscopes and spectrohelioscopes are used to examine sunspots and sunspot areas. These sunspots can become many times bigger than the Earth. Sunspots consist of two parts- Umbra and Penumbra."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:34.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "f84b954f-0883-4ef9-adcb-b5ae0920fcff",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following are used as tool for the Liquidity adjustment facility (LAF)? <ol><li>Repo Rate</li><li>Reverse Repo Rate</li><li>Cash Reserve Ratio</li><li>Statutory liquidity ratio</li></ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "3 & 4 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Liquidity adjustment facility (LAF) is a monetary policy tool which allows banks to borrow money through repurchase agreements. It consists of Rep and Reverse Repo Rate."
+}

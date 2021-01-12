@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:00.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "d4c23b05-1773-463a-bad6-be84b7139598",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about EBLM J0555-57Ab, which was recently in news: <ol> <li>It is the smallest star of the universe discovered so far</li> <li>It was detected by SuperWASP, the United States's leading extra-solar planet detection programme.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. EBLM J0555-57Ab is the smallest star discovered so far. <u>Second statement is incorrect</u>. The star was identified by SuperWASP, a planet-finding experiment run by several universities. SuperWASP is the UK's leading extra-solar planet detection programme."
+}

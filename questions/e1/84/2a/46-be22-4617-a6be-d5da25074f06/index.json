@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "e1842a46-be22-4617-a6be-d5da25074f06",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The timing of the arrival of the tidal wave shifts each day.</li> <li>Revolutinary movements of earth around Sun, and Moon around earth decide the timing of waves</li> </ol> Which among the above statements is / are correct? &nbsp;",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Both 1 & 2 are incorrect",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "Tidal waves are the large-scale periodic ocean waves that travel around the planet in response to the gravitational attraction of the earth and moon, and the earth and sun. Gravitational attraction between two objects is regulated by the mass of the two objects divided by the square of the distance between them. So, although the mass of the sun is 27 million times greater than the mass of the moon, the moon has the dominant influence over the timing of the tides because the great distance to the sun diminishes its gravitational influence relative to the moon. The timing of the arrival of the tidal wave shifts each day. As the earth spins to the east on its axis, the moon revolves around the earth in the same direction, but more slowly than the earth's spin. Therefore, it takes an extra 50 minutes longer than the 24-hour day for the moon to catch up to the same location above the earth that it was the day before, resulting in the timing shift of the tides each day."
+}

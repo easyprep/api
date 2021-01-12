@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:55.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "c834732d-939e-4d3e-8708-87fa44290842",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The terms “Walopi” and “Chemvist” which were recently in news, are associated with Indian:",
+  "option1": "Shipping Industry",
+  "option2": "Railways",
+  "option3": "Pharmaceutical Industry",
+  "option4": "Space Programme",
+  "option5": "",
+  "answer": "Railways",
+  "explanation": "<em>“Walopi”</em> (Warning Loco Pilots) and <em>“Chemvist”</em> (Check My Vigilance State) are the two technologies, which have been patented by IIT-Kharagpur Professor Aurobinda Routray and his team in the Electrical Engineering department. These technologies will now be developed for Indian Railways. A globally conducted survey reveals that driver drowsiness is a major problem identified as a cause of accidents. To curb the menace in India, the research team of IIT Kharagpur has developed the two technologies. Both the technologies are based on what is globally called PERCLOS (percentage of eyelid closure over the pupil over time), and reflects slow eyelid closures (“droops”) rather than blinks. “Chemvist” uses Electrooculography (EOG) signals, which essentially give the voltage difference between the cornea and retina of the eye. Drivers will have to wear a specially-designed headband to play a “video game” on a screen. The headband will detect if the driver is fatigued or will be alert for the next few hours. “Walopi” on the other hand, checks the on-board level of alertness. It uses a camera with face-detection technology, which assesses if the driver is falling asleep."
+}

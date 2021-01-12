@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "c7a63d35-225b-45af-bd41-a7e298130861",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>There is no refraction during the Total Internal Reflection</li> <li>The image formed due to Total Internal Reflection is much less bright in comparison to the object</li> </ol> Which of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Total internal reflection takes place only when a ray of light travels from a denser medium to rarer medium with the angle of incidence greater than critical angle. The Reflection is total with no refraction into the second medium. The resultant image formed due to Total Internal Reflection is almost equally bright compared to the object."
+}

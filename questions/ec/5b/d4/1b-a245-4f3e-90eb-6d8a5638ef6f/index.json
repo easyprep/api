@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:56.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "ec5bd41b-a245-4f3e-90eb-6d8a5638ef6f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Rooppur nuclear power plant that was in news recently: <ol> <li>It is being developed by India in collaboration with Russia</li> <li>It is located in Myanmar</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<strong>First statement is correct</strong> The Rooppur nuclear power plant is being developed by India in collaboration with Russia. Second statement is incorrect. The plant is located in Bangladesh and is first nuclear power plant of Bangladesh. The plant with 2.4GW capacity is located on bank of Padma River and has two units (1200 MW each)."
+}

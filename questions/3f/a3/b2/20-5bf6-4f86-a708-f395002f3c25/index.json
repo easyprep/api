@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "3fa3b220-5bf6-4f86-a708-f395002f3c25",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The terms IBAN, BBAN, SEPA and SWIFT are associated with:",
+  "option1": "International Banking",
+  "option2": "Disaster Management",
+  "option3": "Nuclear Waste Management",
+  "option4": "International Maritime Boundaries",
+  "option5": "",
+  "answer": "International Banking",
+  "explanation": "SWIFT stands for Society for Worldwide Interbank Financial Telecommunication. SEPA stands for Single Euro Payment Are. The aim of SEPA is to ensure that payments within Europe take place as simply and effectively as those within a single country. IBAN stands for the International Bank Account Number is a unique identifier helping banks process payments from person to person automatically. The IBAN contains all necessary information of the owner if a bank account such as the account number, bank and branch information and country code. BBAN is short for Basic Bank Account Number. It represents a country-specific bank account number."
+}

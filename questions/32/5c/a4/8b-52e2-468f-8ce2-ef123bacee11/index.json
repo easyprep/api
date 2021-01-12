@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:52.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "325ca48b-52e2-468f-8ce2-ef123bacee11",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Precision agriculture is sometimes regarded as the solution to India's farming crisis and way to second green revolution. Which of the following is/are the feature/features of the same? <ol> <li>It is highly mechanized form of farming that involves use of satellite data for cultivation of crops</li> <li>This type of agriculture is restricted to areas like Punjab and Western UP in India</li> </ol> Select the correct option from codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Precision agriculture, also known as satellite farming, is a highly mechanised form of farming that involves use of pesticides, fertilizers, satellite data of the land, machine data, soil data &amp; topographical mapping for cultivation of crops. This type of farming is practiced in India and is restricted to areas like Punjab and Western UP. Precision farming is predominantly used in US and European countries. It is characterized by extensive use of Global Positioning Satellite (GPS) for precise mapping of farms and appropriate use of software that informs the farmer about status of his crop and which part of the farm requires inputs like water, fertilizer and pesticide etc."
+}

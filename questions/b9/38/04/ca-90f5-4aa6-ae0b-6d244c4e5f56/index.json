@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:51.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "b93804ca-90f5-4aa6-ae0b-6d244c4e5f56",
+  "labels": "current-affairs,2018-08-04",
+  "question": "How the National Natural Resources Management System helps towards the optimal utilisation of the natural resources of the country? <ol> <li>It maps the forests and grasslands and monitors the forest encroachment and shifting cultivation</li> <li>It works towards Environmental Impact Assessment (EIA) involving land, water and air pollution in the country</li> <li>It delineates ocean areas with higher fish catch potential</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "NNRMS is an integrated resources management system aimed at optimal utilisation of the natural resources of the country by proper and systematic inventory of resource availability using Remote Sensing data in conjunction with conventional techniques. Kindly refer to its wiki page <a href=\\\"https://en.wikipedia.org/wiki/National_Natural_Resources_Management_System\\\">here</a>"
+}

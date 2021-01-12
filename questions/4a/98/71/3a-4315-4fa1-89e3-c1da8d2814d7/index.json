@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:36.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "4a98713a-4315-4fa1-89e3-c1da8d2814d7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The government has launched the Nutrition and Health Tracking System (NHTS) as an online data base for the monitoring nutrition and health services of __? <ol> <li>Pregnant &amp; Lactating women</li> <li>Children below 1 year and malnourished children below 5 yrs of age</li> <li>Adolescent girls</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Nutrition and Health Tracking system was started for name based follow up of Pregnant and Lactating women, Children below 1 year, Malnourished children below 5 yrs of age. This system closely monitors the ANCs, PNCs, Immunization in children and nutrition services like Supplementary Nutrition. This system also helps in motivating mothers in fallowing good feeding practices, Institutional deliveries, Cholesterol feeding and Exclusive Breast feeding till 6 months."
+}

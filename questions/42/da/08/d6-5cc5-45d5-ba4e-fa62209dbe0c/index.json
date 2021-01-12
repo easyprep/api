@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:38.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "42da08d6-5cc5-45d5-ba4e-fa62209dbe0c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the correct sequence of occurrence of the European countries as one proceeds from East to West?\r\n<ol>\r\n<li>Vatican City</li>\r\n<li>Republic of Macedonia</li>\r\n<li>Republic of Moldova</li>\r\n<li>Switzerland</li>\r\n</ol>\r\nSelect the correct option from codes given below:",
+  "option1": "1-2-3-4",
+  "option2": "2-3-1-4",
+  "option3": "3-2-1-4",
+  "option4": "1-4-3-2",
+  "option5": "",
+  "answer": "3-2-1-4",
+  "explanation": "<strong>Vatican City</strong><br />Capital is Vatican City with Lat/Long - 41°54.2\\'N 12°27.2\\'E <br />Vatican City is a country located within the city of Rome. With an area of approximately 44 hectares (110 acres), and a population of 1,000, it is the smallest state in the world by both area and population. <br /><strong>Republic of Macedonia</strong><br />Capital city is Skopje with Lat/long- 42°0\\'N 21°26\\'E. <br />Republic of Macedonia is a country in the Balkan Peninsula in Southeast Europe. It is one of the successor states of the former Yugoslavia, from which it declared independence in 1991. <br /><strong>Republic of Moldova</strong><br />The capital city is Chisinau- 47°0\\'N 28°55\\'E It is a landlocked country in Eastern Europe, bordered by Romania to the west and Ukraine to the north, east, and south. <br /><strong>Switzerland</strong><br />Capital City is Bern- 46°57\\'N 7°27\\'E Switzerland is situated in Western-Central Europe, and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura."
+}

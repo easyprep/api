@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:49.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "b68843f9-70e3-43cf-9c15-82e9be513e6a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between Type 1 and Type 2 Diabetes: <ol> <li>While Type -1 diabetes results when body doesn’t produce enough insulin, in Type -2 diabetes body produces insulin</li> <li>While Type-1 diabetes develops most often in young people, Type-2 diabetes develops most often in middle-aged and older people.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Type 1 diabetes, is also called juvenile diabetes because it develops most often in young people; however, type 1 diabetes can also develop in adults. Type 2 diabetes, which used to be called adult-onset diabetes, begins with insulin resistance—a condition that occurs when fat, muscle, and liver cells do not use insulin to carry glucose into the body’s cells to use for energy."
+}

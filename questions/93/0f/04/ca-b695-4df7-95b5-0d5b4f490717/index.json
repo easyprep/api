@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:00:02.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "930f04ca-b695-4df7-95b5-0d5b4f490717",
+  "labels": "current-affairs,2018-08-04",
+  "question": "According to the recently released SRS Bulletin, which of the following statements is/are correct? <ol> <li>The Infant Mortality Rate (IMR) in India has declined in 2016 compared to that in 2015</li> <li>The highest IMR in 2016 was reported in Odisha</li> <li>The highest increase in IMR in 2016 in comparison to 2015 was reported in Madhya Pradesh</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "<u>First statement is correct</u>. The IMR of India has declined by 8% in 2016, from 37 per 1000 live births in 2015 to 34 per 1000 live births in 2016. <u>Second statement is incorrect</u>. The highest IMR in 2016 was reported in Madhya Pradesh (47) followed by Assam and Odisha (44), Uttar Pradesh (43) and Rajasthan (41). <u>Third statement is incorrect</u>. 5 states/UTs have shown an increase in IMR in 2016 while 29 States/UTs have shown a decline in IMR. State of Arunachal Pradesh has shown the highest increase in IMR (6 points) among states while Chandigarh has shown the highest (7 points) among UTs."
+}

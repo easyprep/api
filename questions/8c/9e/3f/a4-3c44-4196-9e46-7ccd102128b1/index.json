@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T20:59:39.000Z",
+  "updated_at": "2021-01-06T08:24:30.854Z",
+  "id": "8c9e3fa4-3c44-4196-9e46-7ccd102128b1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Gravity Recovery and Climate Experiment (GRACE): <ol> <li>It is a joint initiative by the NASA and the German Aerospace Centre</li> <li>This experiment has provided detail study about the earth’s ice cover</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "<strong>It is a joint initiative by the NASA and the German Aerospace Centre</strong> This statement is correct because Gravity Recovery and Climate Experiment (GRACE) is a joint mission of NASA and the German Aerospace Centre. <strong>This experiment has provided detail study about the earth’s ice cover.</strong> This statement is again correct. Under GRACE, twin satellites were launched in March 2002, to conduct detail measurements of Earth's gravity field. Recently in October 2017, after more than 15 productive years in orbit, the U.S./German GRACE (Gravity Recovery and Climate Experiment) satellite mission has ended science operations. During their mission, the twin GRACE satellites have provided unprecedented insights into how our planet is changing by tracking the continuous movement of liquid water, ice and the solid Earth."
+}
