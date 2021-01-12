@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d9983cd3-7a8b-4454-b3ee-851dd253099c",
+  "labels": "current-affairs,2019-01-23",
+  "question": "EDVAC was one of the earliest electronic computers. What is its full form?",
+  "option1": "Electronic Diverse Variable Automatic Computer",
+  "option2": "Electronic Digital Variable Automatic Computer",
+  "option3": "Electronic Data Variable Automatic Computer",
+  "option4": "Electronic Discrete Variable Automatic Computer",
+  "option5": "",
+  "answer": "Electronic Discrete Variable Automatic Computer",
+  "explanation": "EDVAC or Electronic Discrete Variable Automatic Computer was one of the earliest electronic computers. It was binary and a stored-program computer."
+}

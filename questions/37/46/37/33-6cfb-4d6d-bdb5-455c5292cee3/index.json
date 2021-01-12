@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "37463733-6cfb-4d6d-bdb5-455c5292cee3",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What is the full form of ALU?",
+  "option1": "Arithmetic Logic Unit",
+  "option2": "Algebra Logic Unit",
+  "option3": "Arithmetic Logical Unit",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Arithmetic Logic Unit",
+  "explanation": "The arithmetic and logic unit (ALU) of a computer system is the place where the actual execution of the instructions take place during the processing operations."
+}

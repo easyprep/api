@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1ad6ed4e-40b5-4867-84fd-ea2a1ff7e5e5",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What do we call the potential energy of surface molecules per unit area of the surface?",
+  "option1": "Surface energy",
+  "option2": "Surface Tension",
+  "option3": "Reynolds number",
+  "option4": "Potential constant",
+  "option5": "",
+  "answer": "Surface energy",
+  "explanation": "The potential energy of surface molecules per unit area of the surface is called as surface energy. Some work is required to be done, in bringing a molecule from the interior of the liquid to the free surface, against the intermolecular force of attraction. This work which is stored as potential energy of the molecule on the surface."
+}

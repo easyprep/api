@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e5fa4a62-b0bd-40b5-9ff8-6718b333e044",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the full form of a FRU?",
+  "option1": "Filled Replaceable Unit",
+  "option2": "Field Replaceable Unit",
+  "option3": "Full Replaceable Unit",
+  "option4": "Frequent Replaceable Unit",
+  "option5": "",
+  "answer": "Field Replaceable Unit",
+  "explanation": "FRU stands for Field Replaceable Unit. It is a printed circuit board that can be quickly and easily removed from a computer and replaced by the user or a technician without having to send the entire product or system to a repair facility."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b49b6fe9-454a-4634-a24f-bd453ae09a4f",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following issues clearly points to the overheating of the system?",
+  "option1": "Abrupt Shut Downs",
+  "option2": "Blue Screen Crashes",
+  "option3": "Freezes",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Overheating of a system can be caused by various reasons. Internal issues in the circuit board or failure of cooling mechanism can cause it. Abrupt Shut Down of a system, Blue Screen Crashes, Freezes are some of the issues which shows that system is overheated."
+}

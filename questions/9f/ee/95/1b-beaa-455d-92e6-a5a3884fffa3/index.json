@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9fee951b-beaa-455d-92e6-a5a3884fffa3",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What is a Carnot engine?",
+  "option1": "A reversible refrigeration device operating between two temperatures",
+  "option2": "A reversible heat engine operating between two temperatures",
+  "option3": "An irreversible heat engine operating between two temperatures",
+  "option4": "A reversible heat engine operating between multiple range of temperatures",
+  "option5": "",
+  "answer": "A reversible heat engine operating between two temperatures",
+  "explanation": "A reversible heat engine operating between two temperatures is called a Carnot engine."
+}

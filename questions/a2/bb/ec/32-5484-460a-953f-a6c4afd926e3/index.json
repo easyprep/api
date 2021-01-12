@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T14:03:00.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a2bbec32-5484-460a-953f-a6c4afd926e3",
+  "labels": "current-affairs,2019-01-28",
+  "question": "The Certificate of Initial Registration for an underwriter with SEBI remains valid for how many years?",
+  "option1": 3,
+  "option2": 4,
+  "option3": 5,
+  "option4": 7,
+  "option5": "",
+  "answer": 5,
+  "explanation": "The Certificate of Initial Registration remains valid for five years. The Merchant Banker has to apply for grant of Certificate of Permanent Registration to SEBI, three months before the expiry of the validity of the Certificate of Initial Registration."
+}

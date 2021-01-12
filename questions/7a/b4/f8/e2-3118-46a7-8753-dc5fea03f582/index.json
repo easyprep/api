@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7ab4f8e2-3118-46a7-8753-dc5fea03f582",
+  "labels": "current-affairs,2019-01-26",
+  "question": "A computer cannot boot if it does not have which of the following?",
+  "option1": "Compiler",
+  "option2": "Loader",
+  "option3": "Operating System",
+  "option4": "Assembler",
+  "option5": "",
+  "answer": "Operating System",
+  "explanation": "An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware."
+}

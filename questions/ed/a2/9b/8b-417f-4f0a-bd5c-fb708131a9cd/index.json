@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "eda29b8b-417f-4f0a-bd5c-fb708131a9cd",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the freezing point of water as per the Fahrenheit scale?",
+  "option1": "0°",
+  "option2": "32°",
+  "option3": "100°",
+  "option4": "212°",
+  "option5": "",
+  "answer": "32°",
+  "explanation": "The ice and steam point have values 32 °F and 212 °F, respectively, on the Fahrenheit scale and 0 °C and 100 °C on the Celsius scale."
+}

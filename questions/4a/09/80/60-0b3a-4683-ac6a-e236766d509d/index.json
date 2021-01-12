@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4a098060-0b3a-4683-ac6a-e236766d509d",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What are those oscillations whose amplitude goes on decreasing with time are known as?",
+  "option1": "Damped oscillation",
+  "option2": "Maintained oscillation",
+  "option3": "Free oscillation",
+  "option4": "Forced oscillation",
+  "option5": "",
+  "answer": "Damped oscillation",
+  "explanation": "The oscillation of a body whose amplitude goes on decreasing with time are defined as damped oscillation. In these oscillation the amplitude of oscillation decreases exponentially due to damping forces like frictional force, viscous force, hystersis etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5fc38904-24d8-4b78-9725-58134a4ae44d",
+  "labels": "current-affairs,2019-02-01",
+  "question": "A storage device type that stores computer data after it is turned off. It is added to a computer beyond the immediately usable main storage. What is the name given to this device?",
+  "option1": "Floppy disk",
+  "option2": "Hard disk",
+  "option3": "Backing store",
+  "option4": "Punched card",
+  "option5": "",
+  "answer": "Backing store",
+  "explanation": "The term backing storage refers to non-volatile data storage. Common types of backing storage devices are hard drives, SSD, external hard disk drives, optical media such as CD or DVD, and flash media such as thumb drives and memory sticks."
+}

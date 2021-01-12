@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "62c7181b-4273-418b-ab66-1795e025f097",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the wavelength of a stationary wave?",
+  "option1": "twice the distance between two consecutive nodes or antinodes",
+  "option2": "equal to the distance between two consecutive nodes or antinodes",
+  "option3": "half the distance between two consecutive nodes or antinodes",
+  "option4": "four times the distance between two consecutive nodes or antinodes",
+  "option5": "",
+  "answer": "twice the distance between two consecutive nodes or antinodes",
+  "explanation": "Wavelength (<span class=\\'symbol\\'>λ</span>) of a progressive wave is the distance between two consecutive points of the same phase at a given time. In a stationary wave, it is twice the distance between two consecutive nodes or antinodes."
+}

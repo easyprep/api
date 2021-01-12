@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ce2b2679-22a2-4294-a05b-47ac33e53a8e",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the triple point of water?",
+  "option1": "Temperature = -273.16 K, pressure= 6.11×10<sup>-6</sup>Pa",
+  "option2": "Temperature = -273.16 K, pressure= 6.11×10<sup>-3</sup> Pa",
+  "option3": "Temperature = 273.16 K, pressure= 6.11×10<sup>-6</sup> Pa",
+  "option4": "Temperature = 273.16 K, pressure= 6.11×10<sup>-3</sup> Pa",
+  "option5": "",
+  "answer": "Temperature = 273.16 K, pressure= 6.11×10<sup>-3</sup> Pa",
+  "explanation": "The triple point of water is represented by the temperature 273.16 K and pressure 6.11×10<sup>-3</sup> Pa."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "76ec6070-bb4e-4596-b617-33e1d55a1281",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following tasks can be performed by a digital computer?",
+  "option1": "Analyze vast amount of business data",
+  "option2": "Simulating Global weather patterns",
+  "option3": "Regulating operations of machines",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "All the tasks mentioned above can be performed by a digital computer like analyzing vast amount of business data, simulation of global weather patterns, regulation of operations of machines etc."
+}

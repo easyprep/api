@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a5437240-393c-44ed-a5db-21251115c3e0",
+  "labels": "current-affairs,2019-01-18",
+  "question": "Which of the following statements represent Hooke's law?",
+  "option1": "Stress is directly proportional to strain",
+  "option2": "Stress is inversely proportional to strain",
+  "option3": "Stress is equal to strain",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Stress is directly proportional to strain",
+  "explanation": "According to this law, within the elastic limit, stress is directly proportional to the strain. Therefore, Stress/Strain = constant and is known as modulus of elasticity."
+}

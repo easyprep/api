@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T19:34:02.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "01fb1ed2-db4d-4730-a665-ea2e4e5cb37c",
+  "labels": "current-affairs,2019-02-04",
+  "question": "What is the general electron configuration of all alkaline earth metals?",
+  "option1": "ns<sup>1</sup>",
+  "option2": "ns<sup>2</sup>",
+  "option3": "ns<sup>2</sup> np<sup>6</sup>",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "ns<sup>2</sup>",
+  "explanation": "The general electron configuration of all alkaline earth metals is ns<sup>2</sup>."
+}

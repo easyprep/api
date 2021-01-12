@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "94b48a8f-c889-4de3-adf7-0d555b4aa1f3",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the total diode forward current?",
+  "option1": "hole diffusion current",
+  "option2": "difference between hole diffusion current and conventional current due to electron diffusion",
+  "option3": "sum of hole diffusion current and conventional current due to electron diffusion",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "sum of hole diffusion current and conventional current due to electron diffusion",
+  "explanation": "The total diode forward current is sum of hole diffusion current and conventional current due to electron diffusion."
+}

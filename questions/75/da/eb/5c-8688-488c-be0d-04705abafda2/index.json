@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "75daeb5c-8688-488c-be0d-04705abafda2",
+  "labels": "current-affairs,2019-02-05",
+  "question": "What is the full form of CASE tools?",
+  "option1": "Computer Aided Software Engineering",
+  "option2": "Common Aided Software Engineering",
+  "option3": "Common Application Software Engineering",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Computer Aided Software Engineering",
+  "explanation": "CASE stands for Computer Aided Software Engineering. CASE tools are set of automated software application programs, which are used to support, accelerate and smoothen the SDLC activities."
+}

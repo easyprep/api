@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "223b1667-99bf-4ee4-9b08-0b0be5566f9f",
+  "labels": "current-affairs,2019-01-31",
+  "question": "What is the relationship between the magnetisation of a paramagnetic material and the absolute temperature?",
+  "option1": "they are directly proportional to each other",
+  "option2": "they are inversely proportional to each other",
+  "option3": "they are independent of each other",
+  "option4": "None",
+  "option5": "",
+  "answer": "they are inversely proportional to each other",
+  "explanation": "The magnetisation of a paramagnetic material is inversely proportional to the absolute temperature. This is known as Curie’s law."
+}

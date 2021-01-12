@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ca12436c-364a-48e3-ace0-76605fea3eb0",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following is correct about mechanical waves?",
+  "option1": "they require a medium to propagate",
+  "option2": "they don’t require a medium to propagate",
+  "option3": "may or may not require a medium to propagate",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "they require a medium to propagate",
+  "explanation": "Mechanical waves require a medium for propagation as they cannot propagate through vacuum. Waves on a string, water waves, sound waves, seismic waves, etc. are the examples of mechanical waves."
+}

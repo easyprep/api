@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b3775abe-6fc7-4793-b7a4-ae9215f76863",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the SI unit of radioactivity?",
+  "option1": "Becquerel",
+  "option2": "candela",
+  "option3": "curie",
+  "option4": "Henry",
+  "option5": "",
+  "answer": "Becquerel",
+  "explanation": "The System International of units (SI system) uses the unit of Becquerel (Bq) as its unit of radioactivity. 1 Becquerel is simply equal to 1 disintegration or decay per second."
+}

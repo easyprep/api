@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5e10d22b-4bf7-4a3b-b5be-9892e795b1d2",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following is correct about reverse biasing?",
+  "option1": "the barrier height increases",
+  "option2": "the depletion region widens",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "In reverse biasing, the barrier height increases and the depletion region widens due to change in electric field."
+}

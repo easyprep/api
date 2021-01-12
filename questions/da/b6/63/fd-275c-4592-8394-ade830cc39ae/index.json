@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "dab663fd-275c-4592-8394-ade830cc39ae",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the lowest bus speed on a Pentium IV processor?",
+  "option1": "200 MHz",
+  "option2": "133MHz",
+  "option3": "400MHz",
+  "option4": "150MHz",
+  "option5": "",
+  "answer": "400MHz",
+  "explanation": "The recent Pentium entries are Pentium III and Pentium 4.Pentium 4 are smaller than Pentium Iain Pentium III, the bus speed is generally 133 MHz while the bus speed in Pentium 4 is at least 400MHz."
+}

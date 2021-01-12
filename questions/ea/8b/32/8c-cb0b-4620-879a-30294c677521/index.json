@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ea8b328c-cb0b-4620-879a-30294c677521",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Which of the following is the type of a software?",
+  "option1": "Firmware and Hardware",
+  "option2": "System Software and Firmware",
+  "option3": "System Software and Application Software",
+  "option4": "Application Software and Hardware",
+  "option5": "",
+  "answer": "System Software and Application Software",
+  "explanation": "Software can be grouped into a few broad categories: Application Software System Software Malicious Software"
+}

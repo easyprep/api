@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4797ec18-8a57-451e-8f09-c68143e98fd9",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the fuel in the Sun?",
+  "option1": "Helium",
+  "option2": "Hydrogen",
+  "option3": "Oxygen",
+  "option4": "Carbon dioxide",
+  "option5": "",
+  "answer": "Hydrogen",
+  "explanation": "The sun generates its energy by nuclear fusion of hydrogen nuclei into helium."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-18T18:31:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f8205067-28ef-4320-84b4-3a956659d396",
+  "labels": "current-affairs,2019-01-19",
+  "question": "Which of the following is not the type of Exchange rates?",
+  "option1": "Ready",
+  "option2": "Value Tom",
+  "option3": "Backward Transaction",
+  "option4": "Forward Transaction",
+  "option5": "",
+  "answer": "Backward Transaction",
+  "explanation": "There are 4 types of Exchange rates: 1.Ready 2.Value Tom 3.Spot Transaction 4.Forward Transaction"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:11.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "72f57d94-6953-447a-bced-7df206262f8b",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the value of Rydberg constant?",
+  "option1": "1.0973 x 10<sup>3</sup> m<sup>-1</sup>",
+  "option2": "1.0973 x 10<sup>5</sup> m<sup>-1</sup>",
+  "option3": "1.0973 x 10<sup>7</sup> m<sup>-1</sup>",
+  "option4": "1.0973 x 10<sup>9</sup> m<sup>-1</sup>",
+  "option5": "",
+  "answer": "1.0973 x 10<sup>7</sup> m<sup>-1</sup>",
+  "explanation": "The value of Rydberg constant is 1.0973 x 10<sup>7</sup> m<sup>-1</sup>"
+}

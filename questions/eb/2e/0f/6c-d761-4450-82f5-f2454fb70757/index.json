@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "eb2e0f6c-d761-4450-82f5-f2454fb70757",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What is the oscillation known as if it can be expressed in terms of single harmonic function?",
+  "option1": "Harmonic oscillation",
+  "option2": "Functional oscillation",
+  "option3": "Regular oscillation",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Harmonic oscillation",
+  "explanation": "Harmonic oscillation is that oscillation which can be expressed in terms of single harmonic function (i.e. sine or cosine function). Example :y =asin w t or y = acos w t"
+}

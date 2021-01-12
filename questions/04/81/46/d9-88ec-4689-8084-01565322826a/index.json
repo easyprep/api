@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "048146d9-88ec-4689-8084-01565322826a",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Who was associated with the first large-scale digital computer known as the Harvard Mark I or the IBM Automatic Sequence Controlled Calculator?",
+  "option1": "Clifford Berry",
+  "option2": "Howard Aiken",
+  "option3": "Konrad Zuse",
+  "option4": "John Atanasoff",
+  "option5": "",
+  "answer": "Howard Aiken",
+  "explanation": "The first large-scale digital computer was built by mathematician Howard Aiken which was sponsored by IBM and thus called as the Howard Mark I  or IBM Automatic Sequence Controlled Calculator."
+}

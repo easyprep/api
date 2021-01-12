@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:30:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e198b0bf-5097-453f-b01f-a1b808c15f8a",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following is the S.I. unit of density?",
+  "option1": "m<sup>-2</sup>",
+  "option2": "m<sup>-3</sup>",
+  "option3": "kg m<sup>-2</sup>",
+  "option4": "kg m<sup>-3</sup>",
+  "option5": "",
+  "answer": "kg m<sup>-3</sup>",
+  "explanation": "The SI unit of density is kg m<sup>-3</sup>. It is a positive scalar quantity. The Gaussian unit of density is the gram per cubic centimeter which is equivalent to a gram per milliliter [1 g/cm3 = 1 g/ml]."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ac92a695-e949-4bf1-9705-d87784b7caf7",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following is the commercial unit of electric power?",
+  "option1": "Joule",
+  "option2": "KWh",
+  "option3": "Watt",
+  "option4": "Ampere",
+  "option5": "",
+  "answer": "KWh",
+  "explanation": "The commercial unit of electric power or electric energy is s kilowatt hour (kW h) which is commonly known as ‘unit’.1 kWh= 3.6 x 10<sup>6</sup> Joule. The SI unit of electric power is watt (W)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "be8e38a0-dc20-4c54-a2a9-9c6f1a5255e7",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following statements state that no process is possible whose sole result is the transfer of heat from a colder object to a hotter object?",
+  "option1": "Kevin-Plank statement",
+  "option2": "Einstein's statement",
+  "option3": "Clausius statement",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Clausius statement",
+  "explanation": "Clausius statement: No process is possible whose sole result is the transfer of heat from a colder object to a hotter object."
+}

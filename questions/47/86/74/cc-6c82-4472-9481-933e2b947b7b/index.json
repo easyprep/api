@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "478674cc-6c82-4472-9481-933e2b947b7b",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the charge of a p-type semiconductor?",
+  "option1": "Positive",
+  "option2": "Negative",
+  "option3": "Neutral",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Neutral",
+  "explanation": "The number of free electrons is exactly equal to the total number of holes and positively charged ions and a semiconductor, whether intrinsic or doped, is electrically neutral"
+}

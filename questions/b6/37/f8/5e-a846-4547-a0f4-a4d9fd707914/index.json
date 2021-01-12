@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-18T18:31:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b637f85e-a846-4547-a0f4-a4d9fd707914",
+  "labels": "current-affairs,2019-01-19",
+  "question": "What is the full form of NDF?",
+  "option1": "Non Deliverable Forward",
+  "option2": "National Deliverable Fund",
+  "option3": "Non Durable Forward",
+  "option4": "Not Defined Fund",
+  "option5": "",
+  "answer": "Non Deliverable Forward",
+  "explanation": "A non-deliverable forward (NDF) is a future contract in which parties settle the difference between the contracted NDF rate and the prevailing spot p rate on an agreed notional amount. It is used in various markets such as foreign exchange and commodities."
+}

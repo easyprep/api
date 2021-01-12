@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "eec96528-04a5-41b1-85c4-6c120020e1b7",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the maximum limit of data a Compact Disc can store up to ?",
+  "option1": "550 MB",
+  "option2": "1000 MB",
+  "option3": "750 MB",
+  "option4": "1500 MB",
+  "option5": "",
+  "answer": "750 MB",
+  "explanation": "Compact disc is a digital optical disc data storage device .It was co-developed by Philips and Sony and released in 1982.These have a diameter of 120 millimeters and can hold up to about 80 minutes of uncompressed audio or about 750 MB of data."
+}

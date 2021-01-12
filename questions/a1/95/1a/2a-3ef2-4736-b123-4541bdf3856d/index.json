@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:56:02.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a1951a2a-3ef2-4736-b123-4541bdf3856d",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the full form of NAV?",
+  "option1": "Net Assessment Value",
+  "option2": "National Asset Value",
+  "option3": "Net Asset Value",
+  "option4": "National Asset Variation",
+  "option5": "",
+  "answer": "Net Asset Value",
+  "explanation": "NAV stands for Net asset value. It is the value of an entity's assets minus the value of its liabilities. It is used in relation to mutual funds."
+}

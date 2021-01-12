@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "382fc58c-3f32-4f91-8dbf-496487b38dcc",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the internal restoring force acting per unit area of cross section of the deformed body called?",
+  "option1": "Strain",
+  "option2": "Stress",
+  "option3": "Pressure",
+  "option4": "Surface Tension",
+  "option5": "",
+  "answer": "Stress",
+  "explanation": "Stress is the internal restoring force acting per unit area of cross section of the deformed body. Stress is given by Force/Area."
+}

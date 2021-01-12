@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "23d49763-4345-44f6-84c5-f81d956e1c06",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following represents the speed of a sound wave?",
+  "option1": "wavelength x frequency",
+  "option2": "2 x wavelength x frequency",
+  "option3": "wavelength/frequency",
+  "option4": "(wavelength x frequency)/2",
+  "option5": "",
+  "answer": "wavelength x frequency",
+  "explanation": "The speed of sound is defined as the distance which a point on a wave, such as a compression or a rarefaction, travels per unit time. It is represented by s = wavelength x frequency."
+}

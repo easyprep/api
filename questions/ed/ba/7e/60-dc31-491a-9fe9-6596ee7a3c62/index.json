@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "edba7e60-dc31-491a-9fe9-6596ee7a3c62",
+  "labels": "current-affairs,2019-01-31",
+  "question": "How can a moving coil galvanometer be converted into a ammeter?",
+  "option1": "by introducing shunt resistance in parallel",
+  "option2": "by introducing shunt resistance in series",
+  "option3": "by introducing large resistance in series",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "by introducing shunt resistance in parallel",
+  "explanation": "A moving coil galvanometer can be converted into a ammeter by introducing a shunt resistance r<sub>s</sub> of small value in parallel."
+}

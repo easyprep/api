@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7104900e-641c-4626-80f7-354875b3e397",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which is correct about the height of a capillary column of a liquid, at a particular temperature, as per Jurin's law?",
+  "option1": "equal to the diameter of the tube",
+  "option2": "directly proportional to the diameter of the tube",
+  "option3": "inversely proportional to the diameter of the tube",
+  "option4": "half of the diameter of the tube",
+  "option5": "",
+  "answer": "inversely proportional to the diameter of the tube",
+  "explanation": "Jurin's law: the height of a capillary column of a liquid at a particular temperature is inversely proportional to the diameter of the tube."
+}

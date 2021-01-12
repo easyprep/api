@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9b0ebc19-ee16-4082-88e7-27270e6e9e2c",
+  "labels": "current-affairs,2019-02-02",
+  "question": "How does a semiconductor behave at absolute zero temperature?",
+  "option1": "like an insulator",
+  "option2": "like a conductor",
+  "option3": "depends on the material",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "like an insulator",
+  "explanation": "At or close to absolute zero a semiconductor behaves like an insulator. When an electron gains enough energy to participate in conduction (is \"free\"), it is at a high energy state. When the electron is bound, and thus cannot participate in conduction, the electron is at a low energy state."
+}

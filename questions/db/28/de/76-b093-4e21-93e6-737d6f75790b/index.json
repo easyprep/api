@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "db28de76-b093-4e21-93e6-737d6f75790b",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the unit of Stress?",
+  "option1": "N/m",
+  "option2": "Kg/m",
+  "option3": "Nm",
+  "option4": "It has no units",
+  "option5": "",
+  "answer": "N/m",
+  "explanation": "If an external force F is applied on the area A of a body then, Stress is given by Force/Area Units of Stress: S.I unit: N / m C.g.s unit: dyne / cm"
+}

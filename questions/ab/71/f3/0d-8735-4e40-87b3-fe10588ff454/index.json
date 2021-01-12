@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ab71f30d-8735-4e40-87b3-fe10588ff454",
+  "labels": "current-affairs,2019-01-28",
+  "question": "The most common method of entering text and numerical data into a computer system is through the use of which of the following?",
+  "option1": "Plotter",
+  "option2": "Scanner",
+  "option3": "Printer",
+  "option4": "Keyboard",
+  "option5": "",
+  "answer": "Keyboard",
+  "explanation": "The keyboard is used as a text entry interface for typing text and numbers .Keyboard keys typically have characters engraved on them and each press of a key typically corresponds to a single written symbol."
+}

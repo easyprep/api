@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "780dd746-1bc2-4a6c-b17d-1451fd995752",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which among of the following was the world's first electronic stored-program computer?",
+  "option1": "Colossus",
+  "option2": "ENIAC",
+  "option3": "Manchester Baby",
+  "option4": "EDVAC",
+  "option5": "",
+  "answer": "Manchester Baby",
+  "explanation": "The Manchester Baby was the world\\'s first electronic stored-program computer built at Victoria University of Manchester by Frederic C. Wiiliams."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "07950802-036b-4c77-9cfc-a12e76a88daf",
+  "labels": "current-affairs,2019-01-26",
+  "question": "A device which is not connected to the CPU is known as which of the following?",
+  "option1": "Land-line device",
+  "option2": "On-line device",
+  "option3": "Off-line device",
+  "option4": "Device",
+  "option5": "",
+  "answer": "Off-line device",
+  "explanation": "When a computer or other device is not turned on or connected to other devices, it is said to be \"offline.\"Offline can also mean not being connected to the Internet."
+}

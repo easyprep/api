@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a8cb4969-a620-4b8f-9bea-d28d8bbf1d8a",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What happens to the frequency of the pendulum if it is suspended from the ceiling of the lift moving downward with acceleration equal to acceleration due to gravity ?",
+  "option1": "it increases",
+  "option2": "it decreases",
+  "option3": "No change",
+  "option4": "No oscillation",
+  "option5": "",
+  "answer": "No oscillation",
+  "explanation": "If the lift is moving down ward with acceleration a = g then frequency becomes zero. It means there will be no oscillation in a pendulum."
+}

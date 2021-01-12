@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4ec3f95c-72f5-4c44-8812-fe30376f12e3",
+  "labels": "current-affairs,2019-02-02",
+  "question": "How many pins are there on a Video Graphics Array connector?",
+  "option1": 12,
+  "option2": 13,
+  "option3": 15,
+  "option4": 16,
+  "option5": "",
+  "answer": 15,
+  "explanation": "A Video Graphics Array or VGA connector is a three-row 15-pin connector.VGA connectors and cables carry analog component of video signals, and VESA Display Data Channel (VESA DDC) data."
+}

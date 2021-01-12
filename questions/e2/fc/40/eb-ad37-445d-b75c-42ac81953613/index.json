@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e2fc40eb-ad37-445d-b75c-42ac81953613",
+  "labels": "current-affairs,2019-02-05",
+  "question": "What is the name given to the program in execution?",
+  "option1": "Process",
+  "option2": "Instruction",
+  "option3": "Procedure",
+  "option4": "Function",
+  "option5": "",
+  "answer": "Process",
+  "explanation": "A process is the instance of a computer program that is being executed. It contains the program code and its activity. A process may be made up of multiple threads of execution that execute instructions concurrently."
+}

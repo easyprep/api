@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "559bdea2-4ce7-42e0-9fee-b5e1e371240c",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What are the majority charge carriers in p-type semiconductors?",
+  "option1": "electrons",
+  "option2": "holes",
+  "option3": "equal concentration of holes and electrons",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "holes",
+  "explanation": "Note that in a p-type semiconductor, more holes are created due to addition of acceptor impurity than by breaking covalent bonds due to thermal energy at room temperature. Hence, the net concentration of holes is significantly greater than that of electrons. That is, in a p-type semiconductor, the holes are the majority charge carriers."
+}

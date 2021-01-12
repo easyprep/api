@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d7549af7-b1a2-4bbc-8521-5df429f23340",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What is the effect of rise of temperature on the time period of a simple pendulum?",
+  "option1": "it increases",
+  "option2": "it decreases",
+  "option3": "it may or may not increase",
+  "option4": "No relationship",
+  "option5": "",
+  "answer": "it increases",
+  "explanation": "If the bob of simple pendulum is suspended by a wire then effective length of pendulum will increase with the rise of temperature due to which the time period will increase."
+}

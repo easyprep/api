@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bb962fac-663f-46d9-8222-82b2715d0db1",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What will be the buoyant force acting on the stone, on being immersed in water, if it displaces 100gms of water?",
+  "option1": "1000 gm-weight",
+  "option2": "100 gm-weight",
+  "option3": "10 gm-weight",
+  "option4": "1 gm-weight",
+  "option5": "",
+  "answer": "100 gm-weight",
+  "explanation": "As per Archimedes’ principle, if a stone, on being immersed in water, displaces 100gms of water, the buoyant force acting on the stone will be equal to 100gm-weight."
+}

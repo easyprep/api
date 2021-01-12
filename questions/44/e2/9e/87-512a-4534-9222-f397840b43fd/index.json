@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "44e29e87-512a-4534-9222-f397840b43fd",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What is the full form of SMPS?",
+  "option1": "Switched-Mode Power Supply",
+  "option2": "Switching Manual Power Supply",
+  "option3": "Switched Maintenance Power Supply",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Switched-Mode Power Supply",
+  "explanation": "A switched-mode power supply (SMPS) is an electronic circuit that converts power using switching devices. They are used in many places in a computer."
+}

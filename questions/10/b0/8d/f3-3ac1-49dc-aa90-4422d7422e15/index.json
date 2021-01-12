@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "10b08df3-3ac1-49dc-aa90-4422d7422e15",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What happens to the resistance of a p-n junction diode when forward biased?",
+  "option1": "it becomes high",
+  "option2": "No effect",
+  "option3": "it becomes low",
+  "option4": "it becomes zero",
+  "option5": "",
+  "answer": "it becomes low",
+  "explanation": "The resistance of a p-n junction diode becomes low when forward biased and becomes high when reverse biased. This is the principle of the working of rectifier."
+}

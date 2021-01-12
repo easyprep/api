@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ee82e146-9371-483d-b9a4-0e08e63409e4",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following includes Logic Operations?",
+  "option1": "AND",
+  "option2": "XOR",
+  "option3": "NOT",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Logic Operations involve Boolean logic: AND, OR, XOR and NOT. These are used for creating complicated conditional statements and processing boolean logic."
+}

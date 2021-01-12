@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a3a005b8-0963-4c35-a6c9-4da4ee5fced7",
+  "labels": "current-affairs,2019-01-23",
+  "question": "In which computer was magnetic core memory first demonstrated?",
+  "option1": "Manchester baby",
+  "option2": "Ferranti I",
+  "option3": "IBM 650",
+  "option4": "Whirlwind Computer",
+  "option5": "",
+  "answer": "Whirlwind Computer",
+  "explanation": "The first use of magnetic core was demonstrated in the Whirlwind Computer in 1953.  Soon after that commercial production of the same began and it was seen in IBM 704 and Ferranti Mercury."
+}

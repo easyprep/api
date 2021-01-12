@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7138de2f-351d-4321-97f0-1463f991d8b1",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What do we call the wave if the constituents of the medium oscillate perpendicular to the direction of wave propagation?",
+  "option1": "Transverse wave",
+  "option2": "Longitudinal wave",
+  "option3": "Electromagnetic wave",
+  "option4": "Matter wave",
+  "option5": "",
+  "answer": "Transverse wave",
+  "explanation": "If the constituents of the medium oscillate perpendicular to the direction of wave propagation, we call the wave a transverse wave. If they oscillate along the direction of wave propagation, we call the wave a longitudinal wave"
+}

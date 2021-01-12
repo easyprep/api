@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "14e7f406-5df0-4dc1-a311-e2d90fff5098",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What of following is equivalent to 1 a.m.u?",
+  "option1": "1.660539 x 10<sup>-18</sup> kg",
+  "option2": "1.660539 x 10<sup>-21</sup> kg",
+  "option3": "1.660539 x 10<sup>-24</sup> kg",
+  "option4": "1.660539 x 10<sup>-27</sup> kg",
+  "option5": "",
+  "answer": "1.660539 x 10<sup>-27</sup> kg",
+  "explanation": "1 a.m.u = 1.660539 x 10<sup>-27</sup> kg"
+}

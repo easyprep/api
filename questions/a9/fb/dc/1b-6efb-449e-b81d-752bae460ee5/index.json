@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a9fbdc1b-6efb-449e-b81d-752bae460ee5",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Who invented mercury barometer?",
+  "option1": "Blaise Pascal",
+  "option2": "Daniel Bernoulli",
+  "option3": "Albert Einstein",
+  "option4": "Evangelista Torricelli",
+  "option5": "",
+  "answer": "Evangelista Torricelli",
+  "explanation": "Evangelista Torricelli devised for the first time a method for measuring atmospheric pressure. A long glass tube closed at one end and filled with mercury is inverted into a trough of mercury. This device is known as ‘mercury barometer’."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "30c476c5-c72d-43ce-8684-3786ed6ae4e2",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following law states that if two systems are in thermal equilibrium with a third system separately, then they are in thermal equilibrium with each other?",
+  "option1": "First law of Thermodynamics",
+  "option2": "Zeroth law of Thermodynamics",
+  "option3": "Second law of Thermodynamics",
+  "option4": "Third law of Thermodynamics",
+  "option5": "",
+  "answer": "Zeroth law of Thermodynamics",
+  "explanation": "Zeroth Law of Thermodynamics states that ‘two systems in thermal equilibrium with a third system separately are in thermal equilibrium with each other’."
+}

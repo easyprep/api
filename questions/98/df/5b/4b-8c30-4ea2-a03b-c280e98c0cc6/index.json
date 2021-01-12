@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "98df5b4b-8c30-4ea2-a03b-c280e98c0cc6",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following devices is used for video games, flight simulators, training simulators and for controlling industrial robots?",
+  "option1": "Mouse",
+  "option2": "Light pen",
+  "option3": "Joystick",
+  "option4": "Keyboards",
+  "option5": "",
+  "answer": "Joystick",
+  "explanation": "Joystick is the device used for the same. It is a point-and-draw device. It has a click button, a stick, a ball, a socket as well as a light indicator."
+}

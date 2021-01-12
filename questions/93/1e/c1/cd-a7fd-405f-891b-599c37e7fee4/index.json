@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "931ec1cd-a7fd-405f-891b-599c37e7fee4",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following is seen as the earliest mechanical analog computer?",
+  "option1": "Tally Stick",
+  "option2": "Antikythera mechanism",
+  "option3": "Planisphere",
+  "option4": "Astrolabe",
+  "option5": "",
+  "answer": "Antikythera mechanism",
+  "explanation": "The Antikythera mechanism is believed to be the earliest mechanical analog computer. It was designed to calculate astronomical positions."
+}

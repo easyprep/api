@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e6054224-7192-40b4-adf6-6c22eb69237c",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following about S.H.M is correct?",
+  "option1": "In S.H.M. acceleration is maximum at extreme position",
+  "option2": "In S.H.M. velocity is minimum at extreme position",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "In S.H.M: 1. acceleration is maximum at extreme position. 2. velocity is minimum at extreme position. 3. Direction of velocity is either towards or away from mean position depending on the position of particle."
+}

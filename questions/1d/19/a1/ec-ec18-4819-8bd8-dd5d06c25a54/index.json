@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1d19a1ec-ec18-4819-8bd8-dd5d06c25a54",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following is true about metals?",
+  "option1": "They are good conductors of electricity",
+  "option2": "They have low resistivity",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The metals and alloys have very low resistivity in the range of 10<sup>–8</sup> Ω m to 10<sup>–6</sup> Ω m. They are good conductors of electricity."
+}

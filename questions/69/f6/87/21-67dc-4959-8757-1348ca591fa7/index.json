@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "69f68721-67dc-4959-8757-1348ca591fa7",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What are the components of the Central Processing Unit?",
+  "option1": "Control Unit",
+  "option2": "Arithmetic Logic Unit",
+  "option3": "Memory",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Control Unit, Arithmetic Logic Unit and Memory together are called the Central Processing Unit or the CPU."
+}

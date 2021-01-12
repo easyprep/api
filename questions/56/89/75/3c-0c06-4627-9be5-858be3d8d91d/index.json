@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5689753c-0c06-4627-9be5-858be3d8d91d",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following represents Boyle's law?",
+  "option1": "Pressure = Volume when temperature is constant",
+  "option2": "Pressure x Volume = constant when temperature is constant",
+  "option3": "Pressure =2 x Volume when temperature is constant",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Pressure x Volume = constant when temperature is constant",
+  "explanation": "When temperature is held constant, the pressure and volume of a quantity of gas are related as PV = constant. This relationship is known as Boyle’s law"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:11.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3258a38d-e604-44bb-9eb1-2a5ee285156b",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following metal foils was used in the Rutherford's alpha particle scattering experiment?",
+  "option1": "Copper",
+  "option2": "Silver",
+  "option3": "Gold",
+  "option4": "Aluminium",
+  "option5": "",
+  "answer": "Gold",
+  "explanation": "Rutherford directed beams of alpha particles (which are the nuclei of helium atoms and hence positively charged) at thin gold foil and noted how the alpha particles scattered from the foil."
+}

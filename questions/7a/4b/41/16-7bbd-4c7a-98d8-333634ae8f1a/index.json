@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7a4b4116-7bbd-4c7a-98d8-333634ae8f1a",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following was the first commercial transistor computer?",
+  "option1": "EDSAC",
+  "option2": "Metrovick 950",
+  "option3": "SIRAC",
+  "option4": "Zuse Z4",
+  "option5": "",
+  "answer": "Metrovick 950",
+  "explanation": "Metrovick 950 was the first commercial transistor computer."
+}

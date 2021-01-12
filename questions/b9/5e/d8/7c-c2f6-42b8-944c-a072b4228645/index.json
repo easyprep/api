@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b95ed87c-c2f6-42b8-944c-a072b4228645",
+  "labels": "current-affairs,2019-01-23",
+  "question": "In which of the following applications are analog computers used?",
+  "option1": "Measurement of Electric Current",
+  "option2": "Measurement of Frequency",
+  "option3": "Measurement of Resistance of a Capacitor",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "An Analog computer is used in a variety of industrial and scientific applications like measurement of electric current,  measurement of frequency and also resistance of a capacitor."
+}

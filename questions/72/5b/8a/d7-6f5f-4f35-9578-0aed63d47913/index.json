@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "725b8ad7-6f5f-4f35-9578-0aed63d47913",
+  "labels": "current-affairs,2019-01-18",
+  "question": "Which of the following statements is correct?",
+  "option1": "Bulk stress occurs only in liquids",
+  "option2": "Longitudinal stress occurs only in solids",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Longitudinal stress occurs only in solids",
+  "explanation": "Longitudinal stress occurs only in solids. It comes in picture only when one of the three dimensions viz. length, breadth, height is much greater than other two."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "325cc66e-03b7-419b-8340-b7451eae1cd4",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the minimum number of logic gates in a VLSI?",
+  "option1": 10,
+  "option2": 100,
+  "option3": 1000,
+  "option4": 10000,
+  "option5": "",
+  "answer": 1000,
+  "explanation": "If the number of logic gates in a circuit is greater than 1000, we call it as VLSI – very large scale integration"
+}

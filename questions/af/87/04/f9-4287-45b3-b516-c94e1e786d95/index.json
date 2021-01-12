@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "af8704f9-4287-45b3-b516-c94e1e786d95",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following represents the relationship between the Fahrenheit temperature and Celsius temperature?",
+  "option1": "t<sub>f</sub> = (t<sub>c</sub> x 180)/100 - 32",
+  "option2": "t<sub>f</sub> = (t<sub>c</sub> x 100)/180 - 32",
+  "option3": "t<sub>f</sub> = (t<sub>c</sub> x 100)/180 + 32",
+  "option4": "t<sub>f</sub> = (t<sub>c</sub> x 180)/100 + 32",
+  "option5": "",
+  "answer": "t<sub>f</sub> = (t<sub>c</sub> x 180)/100 + 32",
+  "explanation": "A relationship for converting between the two scales may be obtained as: t<sub>f</sub> = (t<sub>c</sub> x 180)/100 + 32"
+}

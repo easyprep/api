@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d2c0e682-0a5a-480f-8608-1ddbfa8cf95e",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following are part of the Logical Operations of the computer?",
+  "option1": "Addition",
+  "option2": "Greater Than",
+  "option3": "Subtraction",
+  "option4": "Differentials",
+  "option5": "",
+  "answer": "Greater Than",
+  "explanation": "A computer performs both arithmetic and logical operations. Examples of logical operations are greater than, less than, equal to , opposite etc."
+}

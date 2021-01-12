@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4ab348b3-f822-44a0-8356-ed5a8ab89b41",
+  "labels": "current-affairs,2019-01-26",
+  "question": "The system unit of a personal computer typically contains which of the following?",
+  "option1": "Microprocessor",
+  "option2": "Disk Controller",
+  "option3": "Serial Interface",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "The system unit, also known as a \"tower\", is the main part of a desktop computer. It includes the motherboard, CPU, RAM, and other components. A CPU is only a small part of a system unit. ."
+}

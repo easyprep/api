@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:30:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9b43dde3-05e1-4d5a-a5ac-a0fbe729f3fb",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following represents the Density of a material?",
+  "option1": "Mass/weight",
+  "option2": "Mass/Length",
+  "option3": "Mass/Volume",
+  "option4": "Mass/Area",
+  "option5": "",
+  "answer": "Mass/Volume",
+  "explanation": "Density is the ratio of mass to volume. It is a measure of material's compactness. Density = Mass/Volume"
+}

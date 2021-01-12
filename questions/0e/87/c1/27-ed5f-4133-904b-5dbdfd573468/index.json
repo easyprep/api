@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "0e87c127-ed5f-4133-904b-5dbdfd573468",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following is NOT a mechanical wave?",
+  "option1": "Sound wave",
+  "option2": "Seismic wave",
+  "option3": "Light wave",
+  "option4": "Water waves",
+  "option5": "",
+  "answer": "Light wave",
+  "explanation": "Sound wave, seismic wave and water waves are mechanical waves whereas light wave is an electromagnetic wave."
+}

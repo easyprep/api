@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a1ea1d83-394b-422a-8584-6850298aac0e",
+  "labels": "current-affairs,2019-01-23",
+  "question": "What is the function of a digital component in a hybrid computer?",
+  "option1": "Controller",
+  "option2": "Storage",
+  "option3": "Solver of Differential equations",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Controller",
+  "explanation": "The digital component in a hybrid computer acts as a controller and provides logical and numerical operations."
+}

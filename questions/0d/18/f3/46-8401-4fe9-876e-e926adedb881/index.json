@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "0d18f346-8401-4fe9-876e-e926adedb881",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What is the work done to move a unit charge from point to another called as?",
+  "option1": "Current",
+  "option2": "Resistance",
+  "option3": "Conductance",
+  "option4": "Potential Difference",
+  "option5": "",
+  "answer": "Potential Difference",
+  "explanation": "Work done to move a unit charge from one point to another is known as the electric potential difference between two points. Potential difference (V) = Work done (W)/Charge (Q) Volt is the SI unit of electric potential difference named after Alessandro Volta"
+}

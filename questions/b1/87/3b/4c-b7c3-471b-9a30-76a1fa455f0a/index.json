@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b1873b4c-b7c3-471b-9a30-76a1fa455f0a",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following represents Charles' law?",
+  "option1": "Volume x Temperature = constant when Pressure is constant",
+  "option2": "Volume/Temperature = constant when Pressure is constant",
+  "option3": "Temperature = Volume when Pressure is constant",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Volume/Temperature = constant when Pressure is constant",
+  "explanation": "When the pressure is held constant, the volume of a quantity of the gas is related to the temperature as V/T = constant. This relationship is known as Charles’ law."
+}

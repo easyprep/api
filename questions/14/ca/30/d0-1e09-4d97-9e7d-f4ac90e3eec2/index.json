@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "14ca30d0-1e09-4d97-9e7d-f4ac90e3eec2",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following is the SI unit of Kinematic viscosity?",
+  "option1": "m<sup>3</sup>/s",
+  "option2": "Kg/s",
+  "option3": "m s<sup>-1</sup>",
+  "option4": "m<sup>2</sup>/s",
+  "option5": "",
+  "answer": "m<sup>2</sup>/s",
+  "explanation": "The SI unit of kinematic viscosity is the square meter per second [m<sup>2</sup>/s]. It is denoted by ν(nu)."
+}

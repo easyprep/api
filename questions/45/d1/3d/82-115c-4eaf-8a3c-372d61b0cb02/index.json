@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "45d13d82-115c-4eaf-8a3c-372d61b0cb02",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of these is an acceptor impurity?",
+  "option1": "Phosphorus",
+  "option2": "Arsenic",
+  "option3": "Antimony",
+  "option4": "Indium",
+  "option5": "",
+  "answer": "Indium",
+  "explanation": "A donor impurity donates an electron to the conduction band. An acceptor impurity like indium has only electrons in its valence shell. It can accept an electron from nearest atom as it has a vacancy of electron."
+}

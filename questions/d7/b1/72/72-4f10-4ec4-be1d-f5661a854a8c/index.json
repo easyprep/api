@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d7b17272-4f10-4ec4-be1d-f5661a854a8c",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following is the other name used for a Daughter Board?",
+  "option1": "Daughter card",
+  "option2": "Mezzanine board",
+  "option3": "Piggyback board",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "A daughterboard, daughter card, mezzanine board or piggyback board is an expansion card that attaches to a system directly. Daughterboard's often have only internal connections within a computer."
+}

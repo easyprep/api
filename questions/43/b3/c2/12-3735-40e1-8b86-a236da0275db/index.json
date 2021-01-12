@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "43b3c212-3735-40e1-8b86-a236da0275db",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What do we call the centre of gravity of the liquid displaced by a body?",
+  "option1": "fluidic centre",
+  "option2": "meta-centre",
+  "option3": "centre of buoyancy",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "centre of buoyancy",
+  "explanation": "The centre of gravity of the fluid which is displaced by an object is known as centre of buoyancy. For stable equilibrium for floating body, the line joining the centre of gravity of the body and centre of floatation should be vertical."
+}

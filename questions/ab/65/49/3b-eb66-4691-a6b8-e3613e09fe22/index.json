@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ab65493b-eb66-4691-a6b8-e3613e09fe22",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following correctly defines the Digital Visual Interface?",
+  "option1": "It is a video display interface developed by the Digital Display Working Group.",
+  "option2": "It is used to connect a video source, such as a video display controller to a display device.",
+  "option3": "The interface is designed to transmit uncompressed digital video.",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "DVI is a video display interface. It was developed to be an industry standard for transmitting digital video content to display devices at resolutions as high as 2560 x 1600."
+}

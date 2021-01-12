@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:08.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "fa5b18ef-9bad-4ead-a2ba-3e84bed81fbd",
+  "labels": "current-affairs,2019-01-30",
+  "question": "What is the full form of ESD?",
+  "option1": "Electric supply Delay",
+  "option2": "Electrostatic Discharge",
+  "option3": "Electric Software Duty",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Electrostatic Discharge",
+  "explanation": "ESD stands for Electrostatic discharge. It is the sudden flow of electricity between two electrically charged objects caused by contact or an electrical short."
+}

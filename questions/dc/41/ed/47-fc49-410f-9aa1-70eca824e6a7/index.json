@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "dc41ed47-fc49-410f-9aa1-70eca824e6a7",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the upward force experienced by a body, when it is immersed in a fluid, known as?",
+  "option1": "Tangential force",
+  "option2": "Buoyant force",
+  "option3": "Centrifugal force",
+  "option4": "Hydraulic force",
+  "option5": "",
+  "answer": "Buoyant force",
+  "explanation": "When a body is immersed in a fluid (liquid or gas) it exerts an upward force on that body. This upward force is called up thrust or buoyant force, The whole phenomenon is called as buoyancy."
+}

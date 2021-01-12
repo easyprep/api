@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5bb62333-731a-4419-8ed9-be2485e0b4f1",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the direction of electric and magnetic fields in an electromagnetic wave?",
+  "option1": "parallel to each other",
+  "option2": "perpendicular to each other",
+  "option3": "at 45° to each other",
+  "option4": "at 120° to each other",
+  "option5": "",
+  "answer": "perpendicular to each other",
+  "explanation": "Electric and magnetic fields in an electromagnetic wave are perpendicular to each other and to the direction of propagation."
+}

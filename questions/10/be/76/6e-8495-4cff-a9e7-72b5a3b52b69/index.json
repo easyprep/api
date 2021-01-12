@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "10be766e-8495-4cff-a9e7-72b5a3b52b69",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Who among the following had designed and realised the first single-chip microprocessor?",
+  "option1": "Ted Hoff",
+  "option2": "Federico Faggin",
+  "option3": "Stanley Mazor",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The first single-chip microprocessor was Intel 4004 was both designed and realised by Ted Hoff,  Federico Faggin and Stanley Mazor at Intel Corp."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "70468522-62e4-40cf-a4b8-6bdd851b8675",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What do we call a device by which a system is made to undergo a cyclic process resulting in conversion of heat to work?",
+  "option1": "Heat engine",
+  "option2": "Refrigerator",
+  "option3": "No such device exists",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Heat engine",
+  "explanation": "Heat engine is a device by which a system is made to undergo a cyclic process that results in conversion of heat to work."
+}

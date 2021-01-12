@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b35d33e6-affa-4761-98eb-088ac8f1392a",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of these diodes convert electrical energy into light?",
+  "option1": "Photodiodes",
+  "option2": "Light emitting diodes",
+  "option3": "Photovoltaic devices",
+  "option4": "None",
+  "option5": "",
+  "answer": "Light emitting diodes",
+  "explanation": "Light emitting diodes (LED) are special diodes which convert electrical energy into light."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:56:02.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e86c0a82-7b34-4201-8988-d268eda40f80",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which type of Fund is required to be listed on Stock Exchange?",
+  "option1": "Debit Fund",
+  "option2": "Liquid Fund",
+  "option3": "Close Ended Funds",
+  "option4": "Sector Funds",
+  "option5": "",
+  "answer": "Close Ended Funds",
+  "explanation": "A closed-end fund is organized as a publicly traded investment company by the Securities and Exchange Commission. Like a mutual fund, a closed-end fund is a pooled investment fund and raises a fixed amount of capital through an initial public offering (IPO). The fund is then structured, listed and traded like a stock on a stock exchange."
+}

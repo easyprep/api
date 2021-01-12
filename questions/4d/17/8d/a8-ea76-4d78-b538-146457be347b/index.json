@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:53:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4d178da8-ea76-4d78-b538-146457be347b",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following are the ways to repay the personal loan?",
+  "option1": "Equated Monthly Installments via Cheques",
+  "option2": "Electronic Clearing Services",
+  "option3": "Cash",
+  "option4": "Both a and b",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The loan can be repaid in the form of Equated Monthly Installment (EMI) via post-dated cheques drawn in favour of the bank or by releasing a mandate allowing payment through the Electronic Clearing Services (ECS) system."
+}

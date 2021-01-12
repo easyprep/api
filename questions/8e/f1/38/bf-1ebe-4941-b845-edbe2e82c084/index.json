@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8ef138bf-1ebe-4941-b845-edbe2e82c084",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What is current density?",
+  "option1": "Current per unit volume",
+  "option2": "Current per unit area",
+  "option3": "Charge per unit area",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Current per unit area",
+  "explanation": "Current per unit area (taken normal to the current), I/A, is called current density and is denoted by j. The SI units of the current density are A/m<sup>2</sup>."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "00130e41-0b87-4ac2-b93b-261fe5f2c571",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What do we call the process taking place at constant volume?",
+  "option1": "Adiabatic",
+  "option2": "Isothermal",
+  "option3": "Isochoric",
+  "option4": "Isobaric",
+  "option5": "",
+  "answer": "Isochoric",
+  "explanation": "The process taking place in a thermodynamic system at constant volume is known as Isochoric process."
+}

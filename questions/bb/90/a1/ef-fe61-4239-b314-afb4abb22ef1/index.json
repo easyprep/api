@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bb90a1ef-fe61-4239-b314-afb4abb22ef1",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following principles is used to define the First law of Thermodynamics?",
+  "option1": "Conservation of mass",
+  "option2": "Conservation of energy",
+  "option3": "Conservation of momentum",
+  "option4": "Conservation of charge",
+  "option5": "",
+  "answer": "Conservation of energy",
+  "explanation": "The first law of thermodynamics is the general law of conservation of energy applied to any system in which energy transfer from or to the surroundings (through heat and work) is taken into account."
+}

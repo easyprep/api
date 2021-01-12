@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d1fc9ea9-6c02-468c-800c-a23b8bf85d7f",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the unit of surface tension in c.g.s system?",
+  "option1": "N/m",
+  "option2": "dyne/cm",
+  "option3": "erg/cm",
+  "option4": "dyne cm",
+  "option5": "",
+  "answer": "dyne/cm",
+  "explanation": "The unit of surface tension is S.I system is N/m and in c.g.s system is dyne/cm. It is represented by T = force/length."
+}

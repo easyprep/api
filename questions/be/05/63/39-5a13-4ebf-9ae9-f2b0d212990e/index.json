@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "be056339-5a13-4ebf-9ae9-f2b0d212990e",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following is correct about a Sound wave?",
+  "option1": "It is a mechanical wave",
+  "option2": "It is an electromagnetic wave",
+  "option3": "It is both a mechanical and electromagnetic wave",
+  "option4": "It is neither a mechanical nor an electromagnetic wave",
+  "option5": "",
+  "answer": "It is a mechanical wave",
+  "explanation": "Sound is a mechanical wave and cannot travel through a vacuum. It needs a medium to travel."
+}

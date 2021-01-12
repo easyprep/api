@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1b2657d5-6244-4d1d-8099-2edcb0826fa8",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What is the relationship between the time period and effective length of a simple pendulum?",
+  "option1": "T <span class='symbol'>∝ </span>l",
+  "option2": "T = √l",
+  "option3": "T <span class='symbol'>∝</span> √1/l",
+  "option4": "T <span class='symbol'>∝</span> √l",
+  "option5": "",
+  "answer": "T <span class='symbol'>∝</span> √l",
+  "explanation": "Time period T <span class=\\\"symbol\\\">∝</span> √l where l is the distance between point of suspension and center of mass of bob and is called effective length."
+}

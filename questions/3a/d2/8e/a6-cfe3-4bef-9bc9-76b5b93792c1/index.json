@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3ad28ea6-cfe3-4bef-9bc9-76b5b93792c1",
+  "labels": "current-affairs,2019-02-01",
+  "question": "The copies of data or program files are always stored as a safety. Which of the following is the name given to these copies?",
+  "option1": "Backups",
+  "option2": "Programs",
+  "option3": "Extras",
+  "option4": "Stores",
+  "option5": "",
+  "answer": "Backups",
+  "explanation": "Backup refers to the copying into an archive file of computer data so it may be used to restore the original after a data loss event. The main reason for data backup is to save important files if a system crash or hard drive failure occurs."
+}

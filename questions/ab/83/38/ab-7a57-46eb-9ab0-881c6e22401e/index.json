@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ab8338ab-7a57-46eb-9ab0-881c6e22401e",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Who had developed a computer named \"Woz\" described as the hacker's hacker?",
+  "option1": "Steve Wozniack",
+  "option2": "Ed Roberts",
+  "option3": "Steve Jobs",
+  "option4": "Federico Faggin",
+  "option5": "",
+  "answer": "Steve Wozniack",
+  "explanation": "Steve Wozniak was a Californian electronics wizard, had developed a computer of his own named \\\"Woz\\\" often described as the hacker\\'s hacker."
+}

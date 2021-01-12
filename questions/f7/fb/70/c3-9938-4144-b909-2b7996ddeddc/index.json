@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-18T22:15:23.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f7fb70c3-9938-4144-b909-2b7996ddeddc",
+  "labels": "current-affairs,2019-01-19",
+  "question": "Which of the following institutions issue the Special Drawing Rights?",
+  "option1": "IMF",
+  "option2": "World Bank",
+  "option3": "RBI",
+  "option4": "BIS",
+  "option5": "",
+  "answer": "IMF",
+  "explanation": "The SDR is an international reserve asset, created by the IMF in 1969.The main purpose was to supplement its member countries’ official reserves. The SDR is neither a currency nor a claim on the IMF. Rather, it is a potential claim on the freely usable currencies of IMF members. SDRs can be exchanged for these currencies."
+}

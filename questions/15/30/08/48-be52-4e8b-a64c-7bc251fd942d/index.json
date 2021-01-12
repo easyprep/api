@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "15300848-be52-4e8b-a64c-7bc251fd942d",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following electromagnetic waves are produced due to the radioactive decay of the nucleus?",
+  "option1": "X-rays",
+  "option2": "Gamma rays",
+  "option3": "Radio waves",
+  "option4": "UV rays",
+  "option5": "",
+  "answer": "Gamma rays",
+  "explanation": "Gamma rays are produced due to the radioactive decay of the nucleus. Gamma rays have wavelength less than 10<sup>–3</sup> nm."
+}

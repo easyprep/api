@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c36f9c1c-3a87-448a-96b9-f25d64b9757d",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What is the phase of a vibrating particle at t = 0 known as?",
+  "option1": "epoch",
+  "option2": "eon",
+  "option3": "path difference",
+  "option4": "period",
+  "option5": "",
+  "answer": "epoch",
+  "explanation": "Initial phase or epoch is the phase of a vibrating particle at t = 0. When t = 0; Phase is the angle of epoch."
+}

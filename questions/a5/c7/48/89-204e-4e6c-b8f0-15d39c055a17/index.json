@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a5c74889-204e-4e6c-b8f0-15d39c055a17",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following is correct?",
+  "option1": "1 rutherford (Rd) = 10<sup>3</sup> decays/second",
+  "option2": "1 rutherford (Rd) = 10<sup>4</sup> decays/second",
+  "option3": "1 rutherford (Rd) = 10<sup>5</sup> decays/second",
+  "option4": "1 rutherford (Rd) = 10<sup>6</sup> decays/second",
+  "option5": "",
+  "answer": "1 rutherford (Rd) = 10<sup>6</sup> decays/second",
+  "explanation": "The activity of a radioactive sample is said to be one rutherford. 1 rutherford (Rd) = 10<sup>6</sup> decays/second"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:30:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7c550d35-ea16-42a3-bb89-23f949cb260b",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of these instruments is used for testing the purity of milk?",
+  "option1": "Hydrometer",
+  "option2": "Lactometer",
+  "option3": "Galvanometer",
+  "option4": "Ammeter",
+  "option5": "",
+  "answer": "Lactometer",
+  "explanation": "Lactometer is used for measuring the relative density of milk and hence testing the purity of milk. It is a specially designed hydrometer."
+}

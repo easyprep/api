@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "30e0c6d6-13ab-4ce6-aec7-6324778a6fb7",
+  "labels": "current-affairs,2019-02-01",
+  "question": "How many Gigabyte of information a Digital Versatile Disk (DVD) can store?",
+  "option1": 4.6,
+  "option2": 5.6,
+  "option3": 6.6,
+  "option4": 7.6,
+  "option5": "",
+  "answer": 4.6,
+  "explanation": "DVD is a digital optical disc storage device developed in 1995.The basic types of DVD are referred to by a rough approximation of their capacity in gigabytes."
+}

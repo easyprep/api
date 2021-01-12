@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a62d941d-0323-4799-9371-56447a36690d",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which one is the common device used for drawing, painting, or interactively selecting coordinate positions on an object ?",
+  "option1": "Image scanner",
+  "option2": "Digitizers",
+  "option3": "Data glove",
+  "option4": "Touch panels",
+  "option5": "",
+  "answer": "Digitizers",
+  "explanation": "Digitizers can be used for drawing, painting and selecting positions. It is any device which receives analog information and creates a digital representation of it."
+}

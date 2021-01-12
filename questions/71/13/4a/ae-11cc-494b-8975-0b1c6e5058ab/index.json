@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "71134aae-11cc-494b-8975-0b1c6e5058ab",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following represents the unit ampere?",
+  "option1": "Kg/metre",
+  "option2": "coulomb/metre",
+  "option3": "coulomb/second",
+  "option4": "Kg/coulomb",
+  "option5": "",
+  "answer": "coulomb/second",
+  "explanation": "One ampere is constituted by the flow of one coulomb of charge per second i.e 1 Ampere = 1 Coulomb/1 second."
+}

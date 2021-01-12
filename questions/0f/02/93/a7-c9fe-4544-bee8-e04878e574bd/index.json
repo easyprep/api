@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "0f0293a7-c9fe-4544-bee8-e04878e574bd",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following can be measured using SONAR?",
+  "option1": "distance of underwater objects",
+  "option2": "direction of underwater objects",
+  "option3": "speed of underwater objects",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The acronym SONAR stands for Sound Navigation And Ranging. Sonar is a device that uses ultrasonic waves to measure the distance, direction and speed of underwater objects."
+}

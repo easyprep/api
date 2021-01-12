@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "43569473-fd7c-4285-ab2b-d957f48aafc6",
+  "labels": "current-affairs,2019-02-02",
+  "question": "SysRq (System Request) key is a feature of which of the following type of keyboards?",
+  "option1": "XT Keyboard",
+  "option2": "AT Keyboard",
+  "option3": "Enhanced Keyboard",
+  "option4": "Windows Keyboard",
+  "option5": "",
+  "answer": "AT Keyboard",
+  "explanation": "System Request is a key on personal computer keyboard. It has no standard use. It was Introduced by IBM with the PC/AT. It was intended to be available as a special key to directly invoke low-level operating system functions."
+}

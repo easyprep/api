@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "11e2ef41-abfa-44ab-8b56-7c5f6022ea73",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the difference of pressure between two sides of the liquid surface called as?",
+  "option1": "Excess Pressure",
+  "option2": "Surface Pressure",
+  "option3": "Fluidic Tension",
+  "option4": "Viscosity",
+  "option5": "",
+  "answer": "Excess Pressure",
+  "explanation": "In equilibrium the pressure inside a bubble or drop is more than the pressure outside. The difference of pressure between two sides of the liquid surface is called as excess pressure."
+}

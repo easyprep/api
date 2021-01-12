@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b2cff780-a564-417a-a5cd-c32bf937aa11",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the S.I unit of the propagation constant?",
+  "option1": "radian metre",
+  "option2": "radian per metre",
+  "option3": "radian per second",
+  "option4": "radian per centimetre",
+  "option5": "",
+  "answer": "radian per metre",
+  "explanation": "The SI unit of propagation constant is radian per metre. It is also known as the angular wave number and represented by K."
+}

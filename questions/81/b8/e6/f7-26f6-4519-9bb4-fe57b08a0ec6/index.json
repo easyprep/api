@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T02:05:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "81b8e6f7-26f6-4519-9bb4-fe57b08a0ec6",
+  "labels": "current-affairs,2019-01-30",
+  "question": "What do we call the resistance offered by the electrolyte and electrodes when the current flows?",
+  "option1": "External resistance",
+  "option2": "Internal resistance",
+  "option3": "Electrolytic power",
+  "option4": "Electrode Potential",
+  "option5": "",
+  "answer": "Internal resistance",
+  "explanation": "Internal resistance is the resistance offered by the electrolyte and electrodes when the current flows."
+}

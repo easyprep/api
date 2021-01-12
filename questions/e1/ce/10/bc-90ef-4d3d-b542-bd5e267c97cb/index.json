@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e1ce10bc-90ef-4d3d-b542-bd5e267c97cb",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Who has conceived the first automatic digital computer?",
+  "option1": "Blaise Pascal",
+  "option2": "Gottfried Leibniz",
+  "option3": "Charles Babbage",
+  "option4": "George Boole",
+  "option5": "",
+  "answer": "Charles Babbage",
+  "explanation": "English inventor Charles Babbage is credited with the being the first one to conceive a successful first automatic digital computer."
+}

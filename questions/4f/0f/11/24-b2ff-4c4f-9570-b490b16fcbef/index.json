@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4f0f1124-b2ff-4c4f-9570-b490b16fcbef",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is the correct sequence of stages of data processing in a computer?",
+  "option1": "Data Collection- Input Raw Data- Processing of Data-Information- Output",
+  "option2": "Data Collection-Input Information-Processing of Data- Output",
+  "option3": "Data Collection- Data Processing- Information-Data Output",
+  "option4": "Data Input-Data Processing-Data Collection-Information-Output",
+  "option5": "",
+  "answer": "Data Collection- Input Raw Data- Processing of Data-Information- Output",
+  "explanation": "The correct sequence of stages of data processing is Data Collection-Input Raw Data-Processing of Data-Information-Output"
+}

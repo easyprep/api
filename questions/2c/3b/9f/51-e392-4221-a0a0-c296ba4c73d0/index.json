@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2c3b9f51-e392-4221-a0a0-c296ba4c73d0",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is not an input device of the computer?",
+  "option1": "Trackball",
+  "option2": "Image Scanner",
+  "option3": "Joystick",
+  "option4": "Sound Card",
+  "option5": "",
+  "answer": "Sound Card",
+  "explanation": "A sound card is not an input device of the computer.  A trackball is a pointing device which consists of a ball held by a socket."
+}

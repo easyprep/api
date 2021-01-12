@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "08f36e6a-d7b6-49db-9f7d-5bbd8439feac",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is a p-n diode said to be in reverse-bias?",
+  "option1": "positive terminal of the external battery is connected to the p-side",
+  "option2": "positive terminal of the external battery is connected to the n-side",
+  "option3": "negative terminal of the external battery is connected to the n-side",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "positive terminal of the external battery is connected to the n-side",
+  "explanation": "If the positive terminal of the external battery is connected to the n-side and the negative terminal of the external battery is connected to the p- side, then the p-n junction is said to be reverse biased."
+}

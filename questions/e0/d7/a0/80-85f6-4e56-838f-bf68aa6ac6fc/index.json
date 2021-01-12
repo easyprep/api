@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e0d7a080-85f6-4e56-838f-bf68aa6ac6fc",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What happens to the viscosity of a liquid with increase in temperature?",
+  "option1": "it increases",
+  "option2": "it decreases",
+  "option3": "it may increase or decrease",
+  "option4": "No change",
+  "option5": "",
+  "answer": "it decreases",
+  "explanation": "The viscosity of liquids decreases with increase in temperature, while it increases in the case of gases."
+}

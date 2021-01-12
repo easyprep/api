@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7a766924-2787-48e1-8b47-650f090a7ddd",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following are the areas of application of Doppler's effect?",
+  "option1": "At airports to guide aircraft",
+  "option2": "in the military to detect enemy aircraft",
+  "option3": "Sonography",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The change in frequency caused by a moving object due to Doppler effect is used to measure their velocities in diverse areas. It is used by police to check over-speeding of vehicles. It is used at the airports to guide aircraft, and in the military to detect enemy aircraft. Doctors use it to study heart beats and blood flow in different parts of the body. Here they use ultrasonic waves, and in common practice, it is called as sonography."
+}

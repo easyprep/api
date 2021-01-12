@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "724172a7-d25e-4f3b-a3df-8bbaabcb86af",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What will happen if a wire of length L is cut into two or more parts?",
+  "option1": "each part can hold half the weight as full length wire",
+  "option2": "each part can hold the same weight as full length wire",
+  "option3": "each part can hold twice the weight as full length wire",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "each part can hold the same weight as full length wire",
+  "explanation": "If a wire of length L is cut into two or more parts, then it's each part can hold the same weight. Since breaking force is independent of the length of wire."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "fa09c9ee-4789-4ba7-9a69-1ab0d17718d4",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is a single integrated circuit on which a CPUs are typically constructed?",
+  "option1": "Microprocessor",
+  "option2": "Memory",
+  "option3": "Motherboard",
+  "option4": "Hard Disk",
+  "option5": "",
+  "answer": "Microprocessor",
+  "explanation": "CPUs are typically constructed on a single integrated circuit known as the microprocessor."
+}

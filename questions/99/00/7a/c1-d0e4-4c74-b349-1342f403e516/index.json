@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "99007ac1-d0e4-4c74-b349-1342f403e516",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following represents ideal gas law?",
+  "option1": "PVT = constant",
+  "option2": "PT/V = constant",
+  "option3": "PV/T = constant",
+  "option4": "VT/P = constant",
+  "option5": "",
+  "answer": "PV/T = constant",
+  "explanation": "Since PV = constant and V/T = constant for a given quantity of gas, then PV/T should also be a constant. This relationship is known as ideal gas law."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e55d1012-bf34-4481-aebf-677934b0f79b",
+  "labels": "current-affairs,2019-01-23",
+  "question": "A digital computer processes information in which form?",
+  "option1": "Continuous form",
+  "option2": "Discrete form",
+  "option3": "Semi-Continuous form",
+  "option4": "Semi-discrete form",
+  "option5": "",
+  "answer": "Discrete form",
+  "explanation": "A digital computer stands for a class of devices which can solve many problems by processing information in a discrete form. It works on data like magnitude, symbols, letters etc."
+}

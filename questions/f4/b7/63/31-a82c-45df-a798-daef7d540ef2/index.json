@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f4b76331-a82c-45df-a798-daef7d540ef2",
+  "labels": "current-affairs,2019-01-29",
+  "question": "Virtual Memory of a computer system has which of the following characteristics?",
+  "option1": "It is of unlimited size.",
+  "option2": "It is as big as maximum addressing capability of the computer system.",
+  "option3": "It is of size equivalent to total capacity of secondary storage plus size of RAM.",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It is as big as maximum addressing capability of the computer system.",
+  "explanation": "Virtual Memory is an imaginary memory area supported by some operating systems. Virtual memory combines computer's RAM with temporary space on your hard disk."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c7ca66e5-b231-4415-a893-565d4a90b554",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following factors affect the Surface Tension?",
+  "option1": "Nature of liquid",
+  "option2": "Area of Surface",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Nature of liquid",
+  "explanation": "The Surface tension depends only on the nature of liquid and is independent of the area of surface or length of line considered. Surface tension of a liquid is measured by the force acting per unit length on either side of an imaginary line drawn on the free surface of liquid."
+}

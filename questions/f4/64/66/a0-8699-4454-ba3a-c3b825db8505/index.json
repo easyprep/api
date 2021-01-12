@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f46466a0-8699-4454-ba3a-c3b825db8505",
+  "labels": "current-affairs,2019-01-18",
+  "question": "In which form is the work done in stretching a wire stored as?",
+  "option1": "Kinetic energy",
+  "option2": "Potential energy",
+  "option3": "Heat energy",
+  "option4": "Electrical energy",
+  "option5": "",
+  "answer": "Potential energy",
+  "explanation": "In stretching a wire work is done against internal restoring forces. This work is stored in the wire as elastic potential energy. It is also known as strain energy"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T21:29:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bc9d9970-ed74-425b-9fdd-ab01ca078720",
+  "labels": "current-affairs,2019-01-31",
+  "question": "Who among the following is a Benamidar of a property as per the Prohibition of Benami Property Transactions Act, 2016?",
+  "option1": "The person who has property title registered in his name but is not its actual owner",
+  "option2": "The person who is actual owner of the property but does not have its title in his name",
+  "option3": "Any of the above is a benamidar",
+  "option4": "None of the above is a benamidar",
+  "option5": "",
+  "answer": "The person who has property title registered in his name but is not its actual owner",
+  "explanation": "A Benami transaction is an arrangement in which a property (movable or immovable) is transferred to or held in the name of one person (benamidar) but is actually owned and enjoyed by another person (beneficial owner). This is illegal in India."
+}

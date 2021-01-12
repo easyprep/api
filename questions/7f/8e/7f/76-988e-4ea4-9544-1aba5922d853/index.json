@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7f8e7f76-988e-4ea4-9544-1aba5922d853",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following is correct about Pressure?",
+  "option1": "Pressure is a scalar quantity",
+  "option2": "Pressure is a vector quantity",
+  "option3": "Pressure is a scalar quantity but obeys vector laws",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Pressure is a scalar quantity",
+  "explanation": "Pressure is a scalar quantity. Pressure is derived from Force which is a vector quantity but still pressure is a scalar. The reason for this is that pressure always acts perpendicular to the surface it acts upon."
+}

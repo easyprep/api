@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "322f60e2-a8cd-4891-821f-f594e414c5e9",
+  "labels": "current-affairs,2019-02-05",
+  "question": "There is a software that protects a computer against viruses by identifying and removing any computer virus. What is name of this software?",
+  "option1": "Diagnostic Utility",
+  "option2": "Antivirus",
+  "option3": "Screen Saver",
+  "option4": "Windows Facility",
+  "option5": "",
+  "answer": "Antivirus",
+  "explanation": "Antivirus software, or anti-virus software is a computer program used to prevent, detect, and remove malware. If properly installed on a computer system, it can prevent access to computer systems by unwanted computer malwares ."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "acfa2fd2-4856-4ff1-9da7-8f5c89440b90",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Where are the instructions which are used to run a digital computer stored?",
+  "option1": "Motherboard",
+  "option2": "Hard Disk",
+  "option3": "Memory",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Memory",
+  "explanation": "The digital computer works by counting, comparing and manipulating various digits and their combinations as per the instructions which are stored in the memory."
+}

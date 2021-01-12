@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T21:29:38.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e4aa30b9-0f30-4d43-a62c-a8dd5666bbde",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following types of corporate loans are known as balloon loans?",
+  "option1": "Short-term Loans",
+  "option2": "Intermediate term Loans",
+  "option3": "Long term Loans",
+  "option4": "Both a and b",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Both intermediate-term loans and shorter long-term loans are also called balloon loans because these come with balloon payments. They are so-called because the final installment swells or \"balloons\" into a much larger amount than any of the previous ones."
+}

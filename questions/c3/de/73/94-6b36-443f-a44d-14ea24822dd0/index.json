@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c3de7394-6b36-443f-a44d-14ea24822dd0",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following defines the term computer maintainence properly?",
+  "option1": "It means changing your system frequently.",
+  "option2": "It means changing parts of system regularly.",
+  "option3": "It is the practice of keeping computers in a good state of repair.",
+  "option4": "It means changing system fan regularly.",
+  "option5": "",
+  "answer": "It is the practice of keeping computers in a good state of repair.",
+  "explanation": "Computer maintenance is the practice of keeping computers in a good state of repair. A computer containing accumulated dust and debris may not run properly."
+}

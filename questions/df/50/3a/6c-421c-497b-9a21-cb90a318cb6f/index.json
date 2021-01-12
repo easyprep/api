@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T17:40:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "df503a6c-421c-497b-9a21-cb90a318cb6f",
+  "labels": "current-affairs,2019-02-04",
+  "question": "Which of these physical quantities is measured in ångström?",
+  "option1": "Time",
+  "option2": "Distance",
+  "option3": "Work",
+  "option4": "Power",
+  "option5": "",
+  "answer": "Distance",
+  "explanation": "The ångström or angstrom is a unit of length equal to 0.1 nanometre."
+}

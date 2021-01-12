@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:56:03.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b55a6277-c46a-411b-855e-244bc0400434",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following include the primary structure of the Mutual Funds?",
+  "option1": "Open-end funds",
+  "option2": "Unit Investment Trusts",
+  "option3": "Exchange traded Funds",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Primary structures of mutual funds include open-end funds, unit investment trusts, and closed-end funds. Exchange-traded funds (ETFs) are open-end funds or unit investment trusts that trade on an exchange."
+}

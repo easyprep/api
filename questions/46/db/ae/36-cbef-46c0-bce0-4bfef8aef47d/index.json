@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T14:06:26.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "46dbae36-cbef-46c0-bce0-4bfef8aef47d",
+  "labels": "current-affairs,2019-01-28",
+  "question": "The type of lease that includes a third party, a lender, is called as which of the following?",
+  "option1": "Sale and leaseback",
+  "option2": "Leveraged lease",
+  "option3": "Direct leasing arrangement",
+  "option4": "Operating lease.",
+  "option5": "",
+  "answer": "Leveraged lease",
+  "explanation": "A leveraged lease is a lease agreement that is partially financed by the lessor through a third-party financial institution. The lender is given a senior secured interest on the asset and an assignment of the lease and lease payments."
+}

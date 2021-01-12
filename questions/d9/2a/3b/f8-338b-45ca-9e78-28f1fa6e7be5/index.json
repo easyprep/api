@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:30:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d92a3bf8-338b-45ca-9e78-28f1fa6e7be5",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the density of air at room temperature?",
+  "option1": 1.41,
+  "option2": 1.75,
+  "option3": 1.29,
+  "option4": 1.9,
+  "option5": "",
+  "answer": 1.29,
+  "explanation": "The density of air at room temperature near the surface of the Earth is approximately 1.29 kg/m3."
+}

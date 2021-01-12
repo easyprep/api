@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d2c88d34-5563-41c6-aadf-f730b358a27e",
+  "labels": "current-affairs,2019-01-23",
+  "question": "What kind of information each of the electrical circuits represents?",
+  "option1": "Arithmetic",
+  "option2": "Tertiary",
+  "option3": "Binary",
+  "option4": "Quaternary",
+  "option5": "",
+  "answer": "Binary",
+  "explanation": "Each circuit represents a bit (binary digit) information. When the circuit is on, it represents a \\\"1\\\" and a \\\"0\\\" when it is off in a positive logic representation."
+}

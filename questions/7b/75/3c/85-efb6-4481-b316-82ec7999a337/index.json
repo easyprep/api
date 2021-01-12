@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7b753c85-efb6-4481-b316-82ec7999a337",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following are related to finding information from the RAM?",
+  "option1": "Memory Buffer Register",
+  "option2": "Memory Data Register",
+  "option3": "Memory Address Register",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "All three i.e. Memory Buffer Register, Memory Data Register and Memory Address Register represent a collection of storage registers which are located on separate chips from CPU.  They all fetch information from memory."
+}

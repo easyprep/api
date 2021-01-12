@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ce6206bf-d69f-42b4-afeb-e4af3585c35a",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following was the first commercial computer?",
+  "option1": "Manchester Baby",
+  "option2": "Manchester Mark 1",
+  "option3": "EDVAC",
+  "option4": "Ferranti Mark 1",
+  "option5": "",
+  "answer": "Ferranti Mark 1",
+  "explanation": "The first commercial computer was Ferranti Mark 1 built by Ferranti and was delivered to the University of Manchester and was based on Manchester Mark 1."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7933ee5a-382b-4f1e-891f-f21d4132ce9f",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following lies within the CPU?",
+  "option1": "Primary Memory",
+  "option2": "Secondary Memory\nSecondary Memory",
+  "option3": "Mouse",
+  "option4": "Keyboard",
+  "option5": "",
+  "answer": "Primary Memory",
+  "explanation": "All input data and instructions are stored in the memory which is of two types-primary memory and the secondary memory.  Primary memory resides within the CPU while the secondary memory is external to it."
+}

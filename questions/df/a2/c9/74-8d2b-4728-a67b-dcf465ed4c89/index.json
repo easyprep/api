@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "dfa2c974-8d2b-4728-a67b-dcf465ed4c89",
+  "labels": "current-affairs,2019-01-23",
+  "question": "How are the four main components of a computer interconnected internally?",
+  "option1": "Cars",
+  "option2": "Buses",
+  "option3": "Lines",
+  "option4": "Rods",
+  "option5": "",
+  "answer": "Buses",
+  "explanation": "A general purpose computer has four components like the Arithmetic Logical Unit, the Control Unit, the memory and input-output devices. These parts are interconnected by buses."
+}

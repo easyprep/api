@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:30:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "913044bc-d6cd-4c8f-ab5f-4bb89955944b",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the density of water at 4°?",
+  "option1": 1,
+  "option2": "1.0 × 10<sup>2</sup> kg m–3",
+  "option3": "1.0 × 10<sup>3</sup> kg m–3",
+  "option4": "10 kg m–3",
+  "option5": "",
+  "answer": "1.0 × 10<sup>3</sup> kg m–3",
+  "explanation": "The density of water at 4°C (277 K) is 1.0 × 10<sup>3</sup> kg m–3. The relative density of a substance is the ratio of its density to the density of water at 4° C."
+}

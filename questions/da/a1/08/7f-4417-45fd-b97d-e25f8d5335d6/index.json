@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "daa1087f-4417-45fd-b97d-e25f8d5335d6",
+  "labels": "current-affairs,2019-01-23",
+  "question": "How do the Analog computers perform arithmetic operations?",
+  "option1": "With the help of Non-Measurable quantities",
+  "option2": "With the help of Measurable quantities",
+  "option3": "Both 1 and 2",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "With the help of Measurable quantities",
+  "explanation": "An analog computer performs arithmetical operations with the help of measurable quantities like mechanical movement, rotation of gears etc."
+}

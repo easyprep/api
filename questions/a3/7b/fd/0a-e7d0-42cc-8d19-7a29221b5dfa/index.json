@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a37bfd0a-e7d0-42cc-8d19-7a29221b5dfa",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the value of Wien’s constant?",
+  "option1": "2.9 × 10<sup>–1</sup> m K",
+  "option2": "2.9 × 10<sup>–2</sup> m K",
+  "option3": "2.9 × 10<sup>–3</sup> m K",
+  "option4": "2.9 × 10<sup>–4</sup> m K",
+  "option5": "",
+  "answer": "2.9 × 10<sup>–3</sup> m K",
+  "explanation": "The value of the Wien’s constant is 2.9 × 10<sup>–3</sup> m K."
+}

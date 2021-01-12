@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a2f0d5e8-c6b2-4b38-ae26-51d236f8b0e9",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the SI unit of viscosity?",
+  "option1": "candela",
+  "option2": "poiseiulle",
+  "option3": "Newton/m",
+  "option4": "No units",
+  "option5": "",
+  "answer": "poiseiulle",
+  "explanation": "The SI unit of viscosity is poiseiulle (Pl). Its other units are N s m<sup>-2</sup> or Pa s."
+}

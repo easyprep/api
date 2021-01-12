@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a30609f9-0502-41f5-82f7-f17fd5bce714",
+  "labels": "current-affairs,2019-02-01",
+  "question": "The smallest unit in which data can be stored is known by which of the following names?",
+  "option1": "Bit",
+  "option2": "Byte",
+  "option3": "Kilobyte",
+  "option4": "Megabyte",
+  "option5": "",
+  "answer": "Bit",
+  "explanation": "The bit is a basic unit of information. The words bit and binary digit are used interchangeably. The binary digit can have only one of two values. It may be physically represented with a two-state device."
+}

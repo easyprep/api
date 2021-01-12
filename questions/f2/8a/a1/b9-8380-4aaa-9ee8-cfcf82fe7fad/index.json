@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f28aa1b9-8380-4aaa-9ee8-cfcf82fe7fad",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What do we call the distance between two consecutive compressions of a sound wave?",
+  "option1": "Wave number",
+  "option2": "Frequency",
+  "option3": "Wavelength",
+  "option4": "Amplitude",
+  "option5": "",
+  "answer": "Wavelength",
+  "explanation": "The distance between two consecutive compressions (C) or two consecutive rarefactions (R) is called the wavelength."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "899b5922-5b8e-452d-ab30-e233d97222d2",
+  "labels": "current-affairs,2019-01-23",
+  "question": "In the history of computing which computer fits the designation as the first personal computer?",
+  "option1": "Bendix G15",
+  "option2": "LGP-30",
+  "option3": "ENIAC",
+  "option4": "Programma 101",
+  "option5": "",
+  "answer": "ENIAC",
+  "explanation": "ENIAC was the first personal computer. It had become operational in 1946.  ENIAC stands for Electronic Numerical Integrator and Computer."
+}

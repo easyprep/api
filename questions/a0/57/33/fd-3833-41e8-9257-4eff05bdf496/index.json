@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a05733fd-3833-41e8-9257-4eff05bdf496",
+  "labels": "current-affairs,2019-01-23",
+  "question": "What does the amplitude of an analog wave measure?",
+  "option1": "Frequency",
+  "option2": "Intensity",
+  "option3": "Wavelength",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Intensity",
+  "explanation": "The amplitude of an analog wave is a measure of its intensity which is related to the highest point called crest and the lowest point called trough."
+}

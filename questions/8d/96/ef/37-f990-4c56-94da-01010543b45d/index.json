@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8d96ef37-f990-4c56-94da-01010543b45d",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What is the job of the Mother Board?",
+  "option1": "Sends power to all the components",
+  "option2": "Holds all the circuits and components together",
+  "option3": "Displays information",
+  "option4": "Tells the computer what to do",
+  "option5": "",
+  "answer": "Holds all the circuits and components together",
+  "explanation": "A motherboard is the circuit board found in general purpose microcomputers . It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit and memory, and provides connectors for other peripherals."
+}

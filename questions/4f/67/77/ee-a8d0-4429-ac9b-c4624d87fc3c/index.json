@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4f6777ee-a8d0-4429-ac9b-c4624d87fc3c",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following devices usually come with touchscreens?",
+  "option1": "Nintendo Game Consoles",
+  "option2": "Electronic Voting Machines",
+  "option3": "Point of Sale Systems",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "A touchscreen is basically an input device which is present on top of an electronic visual display. It is found in devices like Nintendo Game Consoles, EVMs, Personal computers, POS systems."
+}

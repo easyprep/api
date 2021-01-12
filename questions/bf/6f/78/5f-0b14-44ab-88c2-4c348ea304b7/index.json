@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bf6f785f-0b14-44ab-88c2-4c348ea304b7",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following is the processing unit of the computer?",
+  "option1": "CPU",
+  "option2": "Memory",
+  "option3": "Graphic Card",
+  "option4": "Mother Board",
+  "option5": "",
+  "answer": "CPU",
+  "explanation": "A modern computer consists of at least one processing element called the Central Processing Unit or CPU."
+}

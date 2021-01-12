@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "79a8b33d-1bd3-4a52-afcf-d068115c4e0b",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following sound waves are used in echocardiography?",
+  "option1": "Infrasonic",
+  "option2": "Ultrasonic",
+  "option3": "Between 20 Hz and 2000 Hz",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Ultrasonic",
+  "explanation": "Ultrasonic waves are made to reflect from various parts of the heart and form the image of the heart. This technique is called ‘echocardiography’."
+}

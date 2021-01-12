@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c544f6ec-ce0c-4bd1-981e-00d55960681f",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following is correct about the rate of loss of heat of the body, as per the Newton’s law of cooling?",
+  "option1": "It is directly proportional to the difference of body's temperature and the surroundings",
+  "option2": "It is inversely proportional to the difference of body's temperature and the surroundings",
+  "option3": "It is equal to the difference of body's temperature and the surroundings",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It is directly proportional to the difference of body's temperature and the surroundings",
+  "explanation": "According to Newton’s law of cooling, the rate of loss of heat, – dQ/dt of the body is directly proportional to the difference of temperature of the body and the surroundings."
+}

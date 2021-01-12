@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7a05190a-cd4e-416f-8cb3-43bdc023e5b2",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following can change the sequence of instructions to be fetched by the processor?",
+  "option1": "Jumps",
+  "option2": "Subroutine Calls",
+  "option3": "Returns",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Processors usually get instructions from memory but the sequence is usually changed by placing of a new value in the PC like branches also called jumps, subroutine calls and returns."
+}

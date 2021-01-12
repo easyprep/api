@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "36f0fb5e-0b5f-4c7c-8e24-c5d45e591409",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of these is a physical quantity which completely express the position and direction of motion of the particle?",
+  "option1": "Frequency",
+  "option2": "Displacement",
+  "option3": "Phase",
+  "option4": "Time period",
+  "option5": "",
+  "answer": "Phase",
+  "explanation": "Phase of a vibrating particle at any instant is a physical quantity, which completely express the position and direction of motion, of the particle at that instant with respect to its mean position."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:08.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b99d4ef0-0fd2-4864-9063-eebc585c8af3",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following is the another name for the error or bug in software or hardware?",
+  "option1": "Leech",
+  "option2": "Squid",
+  "option3": "Slug",
+  "option4": "Glitch",
+  "option5": "",
+  "answer": "Glitch",
+  "explanation": "A glitch is a short-lived fault in a system. Computer glitches are often only a temporary disruption. The most common causes are errors within the operating system and defects in a piece of software."
+}

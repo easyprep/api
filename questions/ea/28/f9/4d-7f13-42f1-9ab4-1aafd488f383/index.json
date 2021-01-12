@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ea28f94d-7f13-42f1-9ab4-1aafd488f383",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the relation between Time period(T) and angular frequency(<span class='symbol'>ω</span>) of a wave?",
+  "option1": "T = 2π/<span class=\\'symbol\\'>ω</span>",
+  "option2": "T = 2π<span class=\\'symbol\\'>ω</span>",
+  "option3": "T = π/2<span class=\\'symbol\\'>ω</span>",
+  "option4": "T = <span class=\\'symbol\\'>ω</span>",
+  "option5": "",
+  "answer": "T = 2π/<span class=\\'symbol\\'>ω</span>",
+  "explanation": "Period T of oscillation of a wave is defined as the time any element of the medium takes to move through one complete oscillation. It is related to the angular frequency <span class=\\'symbol\\'>ω</span> through the relation T = 2π/<span class=\\'symbol\\'>ω</span>."
+}

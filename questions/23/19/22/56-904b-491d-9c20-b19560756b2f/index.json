@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "23192256-904b-491d-9c20-b19560756b2f",
+  "labels": "current-affairs,2019-01-30",
+  "question": "There is a situation when BIOS cannot read the partition table information. What is the name given to such an error?",
+  "option1": "Hard Drive crash",
+  "option2": "Drive cannot be recovered",
+  "option3": "Bad RAM",
+  "option4": "Invalid drive or drive specification",
+  "option5": "",
+  "answer": "Invalid drive or drive specification",
+  "explanation": "When BIOS can not read the partition table information an error is there found to have occurred. The error is known as Invalid drive or drive specification."
+}

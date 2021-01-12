@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "522c33c1-4c02-477e-9b18-93eac6244576",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the angle of contact for pure water and glass?",
+  "option1": "0°",
+  "option2": "30°",
+  "option3": "180°",
+  "option4": "90°",
+  "option5": "",
+  "answer": "0°",
+  "explanation": "Angle of contact between a liquid and a solid is defined as the angle enclosed between the tangents to the liquid surface and the solid surface inside the liquid, both the tangents being drawn at the point of contact of the liquid with the solid. Its value lies between 0° and 180°: 0°for pure water and glass, 8°for tap water and glass, 90° for water and silver"
+}

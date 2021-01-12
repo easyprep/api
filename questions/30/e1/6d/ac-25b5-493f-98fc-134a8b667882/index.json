@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:56:02.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "30e16dac-25b5-493f-98fc-134a8b667882",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following best define an open-funded mutual fund?",
+  "option1": "It has an option to invest in any kind of security.",
+  "option2": "It has units available for sale and repurchase at all times.",
+  "option3": "It does not have a NAV.",
+  "option4": "It has fixed fund size.",
+  "option5": "",
+  "answer": "It has units available for sale and repurchase at all times.",
+  "explanation": "Open-end fund is a fund that can issue and redeem shares at any time. An investor purchase shares in this fund directly from the fund itself, rather than from the existing shareholders."
+}

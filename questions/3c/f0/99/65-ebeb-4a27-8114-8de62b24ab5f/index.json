@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3cf09965-ebeb-4a27-8114-8de62b24ab5f",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following has no effect on the pressure beneath the surface of a liquid?",
+  "option1": "Area of the liquid surface",
+  "option2": "Density of the liquid",
+  "option3": "Strength of the gravitational field",
+  "option4": "Depth of the liquid",
+  "option5": "",
+  "answer": "Area of the liquid surface",
+  "explanation": "P<sub>water</sub> = <span class=\\'symbol\\'>⍴</span>gh It is clear from the above formula that water pressure only depends on density of water, gravitational acceleration and height of water column."
+}

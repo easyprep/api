@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T20:00:20.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "18562d0a-f3f4-4816-8929-c3655dd5c0e1",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which score is considered as the maximum credit score in India?",
+  "option1": 345,
+  "option2": 750,
+  "option3": 900,
+  "option4": 700,
+  "option5": "",
+  "answer": 900,
+  "explanation": "The credit score ranges from 300 to 900. The closer you are to 900, the more confidence the credit institution will have in your ability to repay the loan and hence, the better the chances of your application getting approved. Anything above 750 is considered a good credit score."
+}

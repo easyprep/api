@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "06568ad1-1acc-464c-8509-c195abb3687c",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the ratio of change in configuration to the original configuration called as?",
+  "option1": "Strain",
+  "option2": "Stress",
+  "option3": "Elasticity",
+  "option4": "Rebound",
+  "option5": "",
+  "answer": "Strain",
+  "explanation": "The ratio of change in configuration to the original configuration is called strain. Strain are of three types : 1. Linear 2. Volumetric 3. Shearing"
+}

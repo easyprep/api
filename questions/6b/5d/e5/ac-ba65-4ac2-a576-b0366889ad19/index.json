@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T20:00:20.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6b5de5ac-ba65-4ac2-a576-b0366889ad19",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Who pays for the Credit Ratings in India?",
+  "option1": "RBI",
+  "option2": "Government of India",
+  "option3": "Issuer",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "Issuer",
+  "explanation": "Most credit rating agencies across the world use a revenue model where the issuer pays for the credit rating. In India, the issuer company pays for the credit rating."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "45345ae0-8e28-43bb-a6d8-93a15c9c111c",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Who among the following is most likely to operate a personal computer?",
+  "option1": "End-user",
+  "option2": "Technician",
+  "option3": "Software Engineer",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "End-user",
+  "explanation": "A personal computer is basically a multipurpose computer which is designed specifically for individual use. It is thus more likely to be used by an end-user."
+}

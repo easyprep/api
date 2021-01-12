@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "aa7c3586-33b3-4cf6-b438-e8be4991c29f",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Who among the following gave the first theory related to computer software?",
+  "option1": "Ada Lovelace",
+  "option2": "Alan Turing",
+  "option3": "Steve Jobs",
+  "option4": "Bill Gates",
+  "option5": "",
+  "answer": "Alan Turing",
+  "explanation": "The first theory about software prior to creation of computers was proposed by Alan Turing in his 1935.This eventually led to the creation of the academic fields of computer science and software engineering."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "446e5008-25e3-4052-a0eb-252a3ce81a8f",
+  "labels": "current-affairs,2019-01-28",
+  "question": "In MICR, Which of the following is the meaning of C ?",
+  "option1": "Code",
+  "option2": "Colour",
+  "option3": "Computer",
+  "option4": "Character",
+  "option5": "",
+  "answer": "Character",
+  "explanation": "MICR code is a character-recognition technology used mainly by the banking industry. Every bank branch is given a unique MICR code and this helps the RBI to identify the bank branch and speed up the clearing process."
+}

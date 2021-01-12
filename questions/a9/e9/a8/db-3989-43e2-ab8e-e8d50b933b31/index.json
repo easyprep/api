@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a9e9a8db-3989-43e2-ab8e-e8d50b933b31",
+  "labels": "current-affairs,2019-01-29",
+  "question": "Which of the following is the fastest form of RAM and also the most expensive so not used as main memory but rather for cache memory?",
+  "option1": "SRAM",
+  "option2": "DRAM",
+  "option3": "SDRAM",
+  "option4": "None of These",
+  "option5": "",
+  "answer": "SRAM",
+  "explanation": "Static random-access memory is a type of memory that uses bistable latching circuitry to store each bit. SRAM is volatile in the conventional sense that data is eventually lost when the memory is not powered."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5002c4f1-59a5-4eb2-bbdc-c832dca000bf",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following is true about an ideal gas, if Cp =molar specific heat capacities at constant pressure, Cp= molar specific heat capacities at constant volume and R is the universal gas constant?",
+  "option1": "Cp + Cv = R",
+  "option2": "Cp/ Cv = R",
+  "option3": "Cp – Cv = R",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Cp – Cv = R",
+  "explanation": "For an ideal gas, the molar specific heat capacities at constant pressure and volume satisfy the relation Cp – Cv = R, where R is the universal gas constant."
+}

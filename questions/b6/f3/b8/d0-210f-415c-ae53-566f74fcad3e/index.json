@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b6f3b8d0-210f-415c-ae53-566f74fcad3e",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of these fluids has the highest viscosity?",
+  "option1": "Water",
+  "option2": "Honey",
+  "option3": "Blood",
+  "option4": "Air",
+  "option5": "",
+  "answer": "Honey",
+  "explanation": "Viscosities of some common fluids: Water:1 Honey: 200 Blood: 2.7 Air: 0.017"
+}

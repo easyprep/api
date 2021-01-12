@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6ad43ac2-a108-43dc-8ded-937f853a4439",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following comprise the software components of a computer?",
+  "option1": "Programs",
+  "option2": "Keyboard",
+  "option3": "BIOS",
+  "option4": "Memory",
+  "option5": "",
+  "answer": "Programs",
+  "explanation": "The set of instructions or programs that make the computer function using the hardware parts are called the software.  We cannot see or touch software."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "de67f8c7-3fb7-4a5f-960e-0b0b423852e0",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What will be the general value of angle of contact when the liquid does not wet the solid?",
+  "option1": "acute",
+  "option2": "obtuse",
+  "option3": "zero",
+  "option4": "90°",
+  "option5": "",
+  "answer": "obtuse",
+  "explanation": "When angle of contact is an obtuse angle then molecules of liquids are attracted strongly to themselves and weakly to those of solid, it costs a lot of energy to create a liquid-solid surface, and liquid then does not wet the solid. For example: water on a waxy or oily surface."
+}

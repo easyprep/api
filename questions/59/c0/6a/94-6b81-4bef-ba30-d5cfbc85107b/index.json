@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "59c06a94-6b81-4bef-ba30-d5cfbc85107b",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of these are called as Universal logic gates?",
+  "option1": "NAND",
+  "option2": "NOR",
+  "option3": "NOT",
+  "option4": "Both a and b",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The NAND gate and the NOR gate are called as universal gates as any Boolean function can be implemented without the need to use any other gate."
+}

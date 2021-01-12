@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "baf424fa-3915-4cf7-ab3d-e109eaea9b51",
+  "labels": "current-affairs,2019-01-31",
+  "question": "What happens to a bar magnet of dipole moment (m) is placed in a uniform magnetic field (B)?",
+  "option1": "the force on the bar magnet is zero",
+  "option2": "the torque on the bar magnet is m × B",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "When a bar magnet of dipole moment m is placed in a uniform magnetic field B: (a) the force on it is zero, (b) the torque on it is m × B, (c) its potential energy is –m.B, where we choose the zero of energy at the orientation when m is perpendicular to B."
+}

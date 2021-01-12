@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "423d5303-5e7b-426a-953b-494ce693cf7e",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following electromagnetic waves in the EM spectrum has the highest wavelength?",
+  "option1": "X-rays",
+  "option2": "Visible",
+  "option3": "Infrared",
+  "option4": "UV-rays",
+  "option5": "",
+  "answer": "Infrared",
+  "explanation": "The electromagnetic spectrum when arranged from longest wavelength to shortest includes radio waves, microwaves, infrared, optical, ultraviolet, X-rays, and gamma-rays."
+}

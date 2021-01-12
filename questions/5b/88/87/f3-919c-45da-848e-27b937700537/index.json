@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5b8887f3-919c-45da-848e-27b937700537",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the order of distance for interatomic forces to be active?",
+  "option1": "10<sup>–7</sup> metre",
+  "option2": "10<sup>–8</sup> metre",
+  "option3": "10<sup>–9</sup> metre",
+  "option4": "10<sup>–10</sup> metre",
+  "option5": "",
+  "answer": "10<sup>–10</sup> metre",
+  "explanation": "The forces between the atoms because of the electrostatic interaction between the charges of the atoms are called interatomic forces. These forces are active if the distance between the two atoms is of the order of atomic size i.e. 10<sup>–10</sup> metre. These forces are electrical in nature."
+}

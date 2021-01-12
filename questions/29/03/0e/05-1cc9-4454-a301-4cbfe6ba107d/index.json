@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "29030e05-1cc9-4454-a301-4cbfe6ba107d",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What happens to a body when its density is equal to the density of the fluid?",
+  "option1": "it floats",
+  "option2": "it sinks",
+  "option3": "it remains suspended",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it remains suspended",
+  "explanation": "If the buoyant force equals the object’s weight, the object will remain suspended at that depth. If the buoyant force is greater than the object’s weight, the object will rise to the surface and float. If the buoyant force is less than the object’s weight, the object will sink. The buoyant force is always present whether the object floats, sinks, or is suspended in a fluid."
+}

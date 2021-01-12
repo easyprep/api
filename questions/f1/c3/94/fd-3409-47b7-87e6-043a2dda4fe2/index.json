@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f1c394fd-3409-47b7-87e6-043a2dda4fe2",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the wavelength range of ultraviolet rays?",
+  "option1": "Between 40 nm and 40000 nm",
+  "option2": "Between 60 nm and 4000 nm",
+  "option3": "Between 0.0006 nm and 400 nm",
+  "option4": "Between 0.6 nm and 400 nm",
+  "option5": "",
+  "answer": "Between 0.6 nm and 400 nm",
+  "explanation": "The ultraviolet rays cover wavelengths ranging from about 4 × 10<sup>–7</sup> m (400 nm) down to 6 × 10<sup>–10</sup>m (0.6 nm). The sun is an important source of ultraviolet light."
+}

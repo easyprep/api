@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2060bc8b-3dbe-482c-a12f-cae3a426618b",
+  "labels": "current-affairs,2019-01-26",
+  "question": "This part of the computer does all of the 'thinking'. It can carry out billions of instructions per second and gets very hot.",
+  "option1": "Motherboard",
+  "option2": "Hard Drive",
+  "option3": "Processor",
+  "option4": "RAM",
+  "option5": "",
+  "answer": "Processor",
+  "explanation": "A processor is the computer's engine. The CPU is the part that actually does stuff by following the instructions of the computer program that it's running."
+}

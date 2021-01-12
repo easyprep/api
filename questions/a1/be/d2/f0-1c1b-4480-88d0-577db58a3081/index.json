@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a1bed2f0-1c1b-4480-88d0-577db58a3081",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of these dopants is NOT used to increase the conductivity of a semi-conductor?",
+  "option1": "Indium",
+  "option2": "Aluminium",
+  "option3": "Arsenic",
+  "option4": "Boron",
+  "option5": "",
+  "answer": "Aluminium",
+  "explanation": "There are two types of dopants used in doping the tetravalent Si or Ge: (i) Pentavalent (valency 5); like Arsenic (As), Antimony (Sb), Phosphorous (P), etc (ii) Trivalent (valency 3); like Indium (In), Boron (B), Aluminium (Al), etc"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "343e9a21-f93a-46ab-984b-847844d121e8",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following comprise vital electronic components of an analog clock?",
+  "option1": "Multipliers",
+  "option2": "Potentiometers",
+  "option3": "Operational amplifiers",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Key electronic components of an analog computer include precision resistors,  multipliers, potentiometers, operational amplifiers, fixed-function generators etc."
+}

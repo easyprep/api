@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "66e71dfe-d9a2-46cf-b4e9-21546ada46a3",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which type of semiconductor do we get when pure silicon is doped with a group-3 element?",
+  "option1": "n-type semiconductor",
+  "option2": "p-type semiconductor",
+  "option3": "Intrinsic semiconductor",
+  "option4": "None",
+  "option5": "",
+  "answer": "p-type semiconductor",
+  "explanation": "If silicon (or germanium) is doped with a trivalent (three electrons in the outermost shell) atom like boron, aluminium, gallium or indium, three valence electrons form covalent bonds with three silicon atoms and deficiency of one electron is created. Such a semiconductor is said to be a p- type semiconductor."
+}

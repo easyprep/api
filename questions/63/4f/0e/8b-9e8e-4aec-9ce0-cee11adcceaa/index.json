@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "634f0e8b-9e8e-4aec-9ce0-cee11adcceaa",
+  "labels": "current-affairs,2019-01-21",
+  "question": "In which of the following positions is the potential energy minimum in S.H.M?",
+  "option1": "Extreme position",
+  "option2": "Mean position",
+  "option3": "can be at extreme or mean position",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Mean position",
+  "explanation": "Potential energy maximum and equal to total energy at extreme positions. Potential energy is minimum at mean position."
+}

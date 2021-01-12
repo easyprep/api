@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "19726999-a94a-4864-bce3-72e2abbaf17f",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is  a common property of a computer program?",
+  "option1": "Terms of Reference",
+  "option2": "Reference files",
+  "option3": "Locality of Reference",
+  "option4": "Line of Reference",
+  "option5": "",
+  "answer": "Locality of Reference",
+  "explanation": "A highly common property of a computer program is the locality of reference. This basically refers to accessing of the same values repeatedly and frequently holding these in registers for improvement of performance."
+}

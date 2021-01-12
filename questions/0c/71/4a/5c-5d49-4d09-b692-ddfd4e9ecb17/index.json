@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "0c714a5c-5d49-4d09-b692-ddfd4e9ecb17",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which among the following is considered as the first true personal computer based on the 8-bit Intel 8080 microprocessor?",
+  "option1": "Xerox Alto",
+  "option2": "Wang 2200",
+  "option3": "HP 9800",
+  "option4": "Altair 8800",
+  "option5": "",
+  "answer": "Altair 8800",
+  "explanation": "First true personal computer Altair 8800 which was created by Micro Instrumentation and Telemetry Systems MITS. It was based on 8-bit Intel 8080 microprocessor. It was introduced in 1974."
+}

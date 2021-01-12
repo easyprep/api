@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:30:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f65e30cd-4ee9-4f58-af28-b76b94f2a56e",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is Specific Gravity of a liquid?",
+  "option1": "ratio of the density of a liquid to the density of water",
+  "option2": "product of the density of a substance to the density of water",
+  "option3": "ratio of the density of water to the density of a liquid",
+  "option4": "ratio of density of the liquid to the mass of the equal density of water",
+  "option5": "",
+  "answer": "ratio of the density of a liquid to the density of water",
+  "explanation": "Specific gravity of a liquid is the ratio of the density of a substance to the density of water. The density of liquid water at standard conditions on earth is approximately 1,000 kg/m3."
+}

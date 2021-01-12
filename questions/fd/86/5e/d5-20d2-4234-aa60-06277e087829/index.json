@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "fd865ed5-20d2-4234-aa60-06277e087829",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What is the full form of UPS?",
+  "option1": "Unplugged Power Supply",
+  "option2": "Uninterruptible Power System",
+  "option3": "Unknown Power Source",
+  "option4": "Uninterrupted Power Source",
+  "option5": "",
+  "answer": "Uninterruptible Power System",
+  "explanation": "A backup UPS i.e. Uninterruptible Power System is often used with computers. If a UPS is not used with computers ,the data stored in the computer is almost when power is switched off."
+}

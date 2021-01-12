@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "92cc557c-ab45-403e-9e12-9aa337d0865b",
+  "labels": "current-affairs,2019-01-31",
+  "question": "What is the magnetic field at any point in the open space inside the toroid?",
+  "option1": "zero",
+  "option2": "one",
+  "option3": "Depends on the current in the turns",
+  "option4": "Depends on number of turns",
+  "option5": "",
+  "answer": "zero",
+  "explanation": "The magnetic field at any point in the open space inside the toroid is zero."
+}

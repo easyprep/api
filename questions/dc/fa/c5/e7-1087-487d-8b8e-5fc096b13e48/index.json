@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "dcfac5e7-1087-487d-8b8e-5fc096b13e48",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What will be the change in the height of water in a capillary tube in stationary condition on earth if the same tube is taken in a lift going downward with acceleration?",
+  "option1": "height increases",
+  "option2": "height decreases",
+  "option3": "Remains same",
+  "option4": "can decrease or increase",
+  "option5": "",
+  "answer": "height increases",
+  "explanation": "In a lift going downward with acceleration, the effective acceleration decreases. So height increases as height is inversely proportional to the acceleration due to gravity."
+}

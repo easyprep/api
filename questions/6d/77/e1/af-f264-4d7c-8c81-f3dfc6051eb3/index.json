@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6d77e1af-f264-4d7c-8c81-f3dfc6051eb3",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following represents the condition for floatation?",
+  "option1": "F<sub>b</sub> = mg",
+  "option2": "F<sub>b</sub> + mg =0",
+  "option3": "F<sub>b</sub>/ mg =1",
+  "option4": "F<sub>b</sub> = mgh",
+  "option5": "",
+  "answer": "F<sub>b</sub> = mg",
+  "explanation": "As per the Archimedes principle, an object will float if the buoyancy force exerted on it by the fluid balances its weight, i.e. if F<sub>b</sub> = mg."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d0e751f2-0532-4b8e-b9a5-ee72052c05e1",
+  "labels": "current-affairs,2019-01-21",
+  "question": "When are the two particles said to be in same phase?",
+  "option1": "if the phase difference between them is an even multiple of π",
+  "option2": "if the path difference is an even multiple of (<span class='symbol'>λ / 2)",
+  "option3": "if the time interval is an even multiple of (T/ 2)",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Two vibrating particle are said to be in same phase, if the phase difference between them is an even multiple of π or path difference is an even multiple of (<span class=\\'symbol\\'>λ</span> / 2) or time interval is an even multiple of (T/ 2)."
+}

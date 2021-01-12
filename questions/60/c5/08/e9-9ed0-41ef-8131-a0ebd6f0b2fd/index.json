@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "60c508e9-9ed0-41ef-8131-a0ebd6f0b2fd",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of these diodes is used to detect optical signals?",
+  "option1": "Photodiode",
+  "option2": "Light emitting diode",
+  "option3": "Photovoltaic diode",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Photodiode",
+  "explanation": "Photodiode can be used as a photodetector to detect optical signals."
+}

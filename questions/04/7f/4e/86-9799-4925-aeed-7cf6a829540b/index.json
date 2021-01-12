@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T02:05:17.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "047f4e86-9799-4925-aeed-7cf6a829540b",
+  "labels": "current-affairs,2019-01-30",
+  "question": "What is the device used to measure the cell potential?",
+  "option1": "Ammeter",
+  "option2": "Voltmeter",
+  "option3": "Wattmeter",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Voltmeter",
+  "explanation": "The voltmeter measures the cell potential, denoted by E<sub>cell</sub> which is the potential difference between two half cells."
+}

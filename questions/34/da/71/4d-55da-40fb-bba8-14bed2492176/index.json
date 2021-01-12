@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "34da714d-55da-40fb-bba8-14bed2492176",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following is known as the brain of the personal computer?",
+  "option1": "Control Unit",
+  "option2": "CPU",
+  "option3": "ALU",
+  "option4": "Monitor",
+  "option5": "",
+  "answer": "Control Unit",
+  "explanation": "Control unit is known as the brain of the computer. The control unit (CU) is a component of a computer's central processing unit (CPU) that directs the operation of the processor."
+}

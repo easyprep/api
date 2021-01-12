@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5b986fdd-abeb-47ad-8a10-68dcdd586a44",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following is true about an adiabatic wall?",
+  "option1": "it allows flow of heat from one system to another",
+  "option2": "it allows flow of particles from one system to another",
+  "option3": "it does not allow flow of heat from one system to another",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it does not allow flow of heat from one system to another",
+  "explanation": "An adiabatic wall is an insulating wall (can be movable) that does not allow flow of energy (heat) from one to another."
+}

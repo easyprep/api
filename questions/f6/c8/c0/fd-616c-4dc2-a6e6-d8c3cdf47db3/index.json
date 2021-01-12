@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f6c8c0fd-616c-4dc2-a6e6-d8c3cdf47db3",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is / are operating systems?",
+  "option1": "Windows",
+  "option2": "UNIX",
+  "option3": "Linux",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "All of the mentioned options are called as Operating Systems."
+}

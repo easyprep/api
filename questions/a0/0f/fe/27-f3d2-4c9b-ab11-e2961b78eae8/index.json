@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a00ffe27-f3d2-4c9b-ab11-e2961b78eae8",
+  "labels": "current-affairs,2019-01-31",
+  "question": "Which of the following properties of a material make it suitable to become a permanent magnet?",
+  "option1": "The material should have high retentivity",
+  "option2": "The material should have low coercivity",
+  "option3": "The material should have low permeability",
+  "option4": "Both b and c",
+  "option5": "",
+  "answer": "The material should have high retentivity",
+  "explanation": "The material should have high retentivity so that the magnet is strong and high coercivity so that the magnetisation is not erased by stray magnetic fields, temperature fluctuations or minor mechanical damage. Further, the material should have a high permeability."
+}

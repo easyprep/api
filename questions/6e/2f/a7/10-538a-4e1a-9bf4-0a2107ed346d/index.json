@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6e2fa710-538a-4e1a-9bf4-0a2107ed346d",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following is the mirror formula?",
+  "option1": "v + u =f",
+  "option2": "1/v + 1/u = 1/f",
+  "option3": "1/v + 1/u = f",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1/v + 1/u = 1/f",
+  "explanation": "Mirror formula represents image distance (v), object distance (u) and focal length (f) of the mirror. The mirror formula is 1/v + 1/u = 1/f. In case of lens it is 1/v - 1/u = 1/f."
+}

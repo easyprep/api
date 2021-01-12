@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "46e98420-7c4f-4890-8010-ac69b76a0911",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is the system bus?",
+  "option1": "Bus connecting Keyboard and Motherboard",
+  "option2": "Bus connecting CPU and Memory",
+  "option3": "Bus connecting Memory and Monitor",
+  "option4": "Bus connecting Hard Disk and Monitor",
+  "option5": "",
+  "answer": "Bus connecting CPU and Memory",
+  "explanation": "The bus connecting the CPU and memory is one of the defining characteristics of the system and is known as the system bus. Mostly the CPU and Memory they work synchronously."
+}

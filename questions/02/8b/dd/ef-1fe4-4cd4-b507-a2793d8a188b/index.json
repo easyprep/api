@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "028bddef-1fe4-4cd4-b507-a2793d8a188b",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What do we call the ratio of the speed of light in vacuum to speed of light in a medium?",
+  "option1": "power of that medium",
+  "option2": "refractive index of that medium",
+  "option3": "reflective index of that medium",
+  "option4": "None",
+  "option5": "",
+  "answer": "refractive index of that medium",
+  "explanation": "The refractive index of a transparent medium is the ratio of the speed of light in vacuum to that in the medium."
+}

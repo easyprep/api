@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "519ad953-5235-4d65-8bf5-50e9384c00f9",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is Young's Modulus?",
+  "option1": "ratio of longitudinal strain to normal stress",
+  "option2": "product of normal stress of longitudinal strain",
+  "option3": "ratio of normal stress to longitudinal strain",
+  "option4": "ratio of normal stress to lateral strain",
+  "option5": "",
+  "answer": "ratio of normal stress to longitudinal strain",
+  "explanation": "Young's Modulus is defined as the ratio of normal stress to longitudinal strain within limit of proportionality. Y = normal stress/longitudinal strain"
+}

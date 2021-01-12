@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8b7ecc54-cd42-425a-9d5e-43211c49cf06",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following define the information that comes from an external source and is fed into computer software?",
+  "option1": "Input",
+  "option2": "Output",
+  "option3": "Throughput",
+  "option4": "Reports",
+  "option5": "",
+  "answer": "Input",
+  "explanation": "Whatever goes into the computer is called as Input. Input can take a variety of forms, from commands that are entered from the keyboard to data from another computer or device."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T19:34:03.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "11cc762a-814b-4e9d-965e-492766275705",
+  "labels": "current-affairs,2019-02-04",
+  "question": "What is water gas?",
+  "option1": "mixture of CO and H<sub>2</sub>",
+  "option2": "mixture of CO and H<sub>2</sub>O",
+  "option3": "mixture of CO<sub>2</sub> and H<sub>2</sub>",
+  "option4": "Carbon mono-oxide",
+  "option5": "",
+  "answer": "mixture of CO and H<sub>2</sub>",
+  "explanation": "The mixture of CO and H<sub>2</sub> produced is known as water gas or synthesis gas."
+}

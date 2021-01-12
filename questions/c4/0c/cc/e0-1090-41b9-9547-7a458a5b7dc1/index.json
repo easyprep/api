@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c40ccce0-1090-41b9-9547-7a458a5b7dc1",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the equilibrium distance for Hydrogen atoms?",
+  "option1": "0.54 Å",
+  "option2": "0.64 Å",
+  "option3": "0.74 Å",
+  "option4": "0.84 Å",
+  "option5": "",
+  "answer": "0.74 Å",
+  "explanation": "When the interatomic force between two atoms is zero, the distance between them is called as normal or equilibrium distance. The equilibrium distance for Hydrogen atoms is 0.74 Å."
+}

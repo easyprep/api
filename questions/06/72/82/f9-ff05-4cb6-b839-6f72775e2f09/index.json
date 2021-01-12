@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "067282f9-ff05-4cb6-b839-6f72775e2f09",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What is the full form of CPU?",
+  "option1": "Central Processing Unit",
+  "option2": "Central Primary Unit",
+  "option3": "Control Primary Unit",
+  "option4": "Control Processing Unit",
+  "option5": "",
+  "answer": "Central Processing Unit",
+  "explanation": "The control unit and ALU usually are referred to as a processor, or central processing unit (CPU). The operational speed of the CPU primarily determines the speed of the computer as a whole."
+}

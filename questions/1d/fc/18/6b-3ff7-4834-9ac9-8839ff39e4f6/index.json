@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1dfc186b-3ff7-4834-9ac9-8839ff39e4f6",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following is true about the force between two point charges as per the Coulomb's law?",
+  "option1": "inversely as the square of the distance between the charges",
+  "option2": "directly proportional to the product of the magnitude of the two charges",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "As per Coulomb's law, the force between two point charges varied inversely as the square of the distance between the charges and was directly proportional to the product of the magnitude of the two charges and acted along the line joining the two charges."
+}

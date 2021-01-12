@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6a20e08a-d7aa-4451-9ad7-a6cd9571bce5",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What will be the spring constant of each part if the spring of force constant k is divided in to n equal parts?",
+  "option1": "k",
+  "option2": "k/n",
+  "option3": "nk",
+  "option4": "k<sup>n</sup>",
+  "option5": "",
+  "answer": "nk",
+  "explanation": "If the spring of force constant k is divided in to n equal parts then spring constant of each part will become nk."
+}

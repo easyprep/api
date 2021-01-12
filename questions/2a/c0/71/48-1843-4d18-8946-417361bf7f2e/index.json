@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2ac07148-1843-4d18-8946-417361bf7f2e",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following is the smallest high-speed storage area in the CPU?",
+  "option1": "Control Unit",
+  "option2": "ALU",
+  "option3": "Hard Disk",
+  "option4": "Register",
+  "option5": "",
+  "answer": "Register",
+  "explanation": "The register is the smallest high speed storage area in the CPU. All data must be represented in register before it can not be processed. A register may hold an instruction, a storage address, or any kind of data ."
+}

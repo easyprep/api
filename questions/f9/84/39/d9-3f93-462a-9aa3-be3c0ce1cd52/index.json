@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f98439d9-3f93-462a-9aa3-be3c0ce1cd52",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following is correct about the electromagnetic waves?",
+  "option1": "They require a solid medium to travel",
+  "option2": "They can travel through vacuum",
+  "option3": "Electromagnetic waves can only travel through gases",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "They can travel through vacuum",
+  "explanation": "Electromagnetic waves do not necessarily require a medium - they can travel through vacuum. Light, radio waves, X-rays, are all electromagnetic waves."
+}

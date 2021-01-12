@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a051a1fe-3916-424a-8786-98a4659f6293",
+  "labels": "current-affairs,2019-01-31",
+  "question": "Which of these is used to accelerate charged particles or ions to high energies?",
+  "option1": "Solenoid",
+  "option2": "Cyclotron",
+  "option3": "Electric motor",
+  "option4": "Toroid",
+  "option5": "",
+  "answer": "Cyclotron",
+  "explanation": "The cyclotron is a machine to accelerate charged particles or ions to high energies."
+}

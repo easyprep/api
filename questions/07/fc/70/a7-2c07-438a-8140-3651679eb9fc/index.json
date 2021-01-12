@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "07fc70a7-2c07-438a-8140-3651679eb9fc",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Monitors, printers, disk drives, keyboard, mouse are included in which of the following categories?",
+  "option1": "Storage Device",
+  "option2": "Hardware",
+  "option3": "Software",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Hardware",
+  "explanation": "Monitors, printers, disk drives, keyboard, mouse are Hardware devices. Hardware devices refer to the physical components .Computer hardware is any physical device used in or with your machine, whereas software is a collection of code installed onto your computer's hard drive."
+}

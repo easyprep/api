@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bda6fdc3-d83c-4507-8c6a-1c680f32c04f",
+  "labels": "current-affairs,2019-01-23",
+  "question": "In what form is the data expressed in a digital computer?",
+  "option1": "Binary",
+  "option2": "Tertiary",
+  "option3": "Primary",
+  "option4": "Secondary",
+  "option5": "",
+  "answer": "Binary",
+  "explanation": "Digital data works on various kinds of data which include magnitude, letters, symbols, etc.  and are expressed in binary code i.e. using numbers only in two digits like 0 and 1."
+}

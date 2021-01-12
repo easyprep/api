@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c3cda273-cc79-4496-9da3-2ab706e4a82b",
+  "labels": "current-affairs,2019-01-31",
+  "question": "What is the susceptibility of a diamagnetic material?",
+  "option1": "positive and small",
+  "option2": "positive and large",
+  "option3": "negative",
+  "option4": "None",
+  "option5": "",
+  "answer": "negative",
+  "explanation": "In terms of the susceptibility <span class=\\\"symbol\\\">χ </span>, a material is diamagnetic if  <span class=\\\"symbol\\\"> χ </span> is negative, para- if  <span class=\\\"symbol\\\">χ </span> is positive and= small, and ferro- if  <span class=\\\"symbol\\\">χ</span> is large and positive"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "0403e509-726f-4a0d-b84e-c821145593c6",
+  "labels": "current-affairs,2019-01-30",
+  "question": "If your computer is overheating, Which of the following things you can do about it?",
+  "option1": "Ensure Proper Ventilation",
+  "option2": "Clean Out Computer’s Case",
+  "option3": "Tune Up Heat Sinks",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "If there is no idea of why your computer started overheating, open its case and check that all the fans are running. If CPU is overheating, its heat sink may not be seated correctly or its thermal paste may be old."
+}

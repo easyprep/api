@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "23e31246-8be2-479d-994e-163099dd6818",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What kind of operations can a computer carry out?",
+  "option1": "Arithmetic and Logical",
+  "option2": "Verbal and Logical",
+  "option3": "Logical and Cognitive",
+  "option4": "Verbal and Arithmetic",
+  "option5": "",
+  "answer": "Arithmetic and Logical",
+  "explanation": "A computer is a device which can carry out sequences of arithmetic and logical operations automatically with the help of computer programming."
+}

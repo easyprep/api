@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3e080eef-c4a6-4081-87fd-eaac71b75881",
+  "labels": "current-affairs,2019-02-05",
+  "question": "What is the full form of SDLC?",
+  "option1": "Software Developed Life Cycle",
+  "option2": "Software Development Life Cycle",
+  "option3": "Software Designing Life Cycle",
+  "option4": "Software Developed Live Circuit",
+  "option5": "",
+  "answer": "Software Development Life Cycle",
+  "explanation": "Software Development Life Cycle is the systematic development of software by following every stage in the development process namely, Requirement Gathering, System Analysis, Design, Coding, Testing, Maintenance and Documentation etc."
+}

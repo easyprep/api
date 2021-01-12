@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b925d381-7ffd-4abb-a8ea-63988b91da94",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following registers can hold both data and addresses?",
+  "option1": "General Purpose Register",
+  "option2": "Data Register",
+  "option3": "Address Register",
+  "option4": "Status Register",
+  "option5": "",
+  "answer": "General Purpose Register",
+  "explanation": "A General Purpose Register can hold both Data and Address.  This means they are combined data/address registers."
+}

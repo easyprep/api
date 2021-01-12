@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1a8309cc-bc57-4f9f-a943-8d66723f5d60",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of these devices is used to increase the power of a signal?",
+  "option1": "Amplifier",
+  "option2": "Voltage regulator",
+  "option3": "Attenuator",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Amplifier",
+  "explanation": "An amplifier is an electronic device that can increase the power of a signal."
+}

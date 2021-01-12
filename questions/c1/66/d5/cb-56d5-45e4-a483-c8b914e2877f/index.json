@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c166d5cb-56d5-45e4-a483-c8b914e2877f",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which is the effect of increase in the temperature on the surface tension of the liquid?",
+  "option1": "it decreases",
+  "option2": "it increases",
+  "option3": "it remains the same",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it decreases",
+  "explanation": "The surface tension of liquid decreases with rise of temperature. The surface tension of a liquid is zero at its boiling point and it vanishes at critical temperature."
+}

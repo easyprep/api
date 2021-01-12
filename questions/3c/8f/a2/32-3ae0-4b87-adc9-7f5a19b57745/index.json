@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3c8fa232-3ae0-4b87-adc9-7f5a19b57745",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What do we call the magnitude of the drift velocity per unit electric field?",
+  "option1": "Current Density",
+  "option2": "Mobility",
+  "option3": "Conductance",
+  "option4": "Resistance",
+  "option5": "",
+  "answer": "Mobility",
+  "explanation": "Mobility is the magnitude of the drift velocity per unit electric field."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T17:59:15.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "808be541-4bbc-4745-a4b6-3998b3106626",
+  "labels": "current-affairs,2019-01-23",
+  "question": "With which scientist is the discovery of first practical mechanical calculator associated?",
+  "option1": "Gottfried Leibniz",
+  "option2": "Blaise Pascal",
+  "option3": "George Boole",
+  "option4": "Charles Babbage",
+  "option5": "",
+  "answer": "Blaise Pascal",
+  "explanation": "Blaise Pascal had invented the first practical mechanical calculator. It was called the Pascaline and was used to help his father who was a tax-collector to solve his sums."
+}

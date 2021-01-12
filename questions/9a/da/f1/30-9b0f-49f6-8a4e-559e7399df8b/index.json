@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9adaf130-9b0f-49f6-8a4e-559e7399df8b",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What is the S.I. unit of power of a lens?",
+  "option1": "metre",
+  "option2": "watt",
+  "option3": "dioptre",
+  "option4": "second",
+  "option5": "",
+  "answer": "dioptre",
+  "explanation": "The SI unit of power of a lens is ‘dioptre’. It is denoted by the letter D. If f is expressed in metres, then, power is expressed in dioptres."
+}

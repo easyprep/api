@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2dae0731-0e6a-4224-a63f-4e3f3ee7dc03",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the S.I unit of specific heat capacity?",
+  "option1": "J kg<sup>-2</sup> K<sup>-1</sup>",
+  "option2": "J kg<sup>-1</sup> K<sup>1</sup>",
+  "option3": "J kg<sup>-1</sup> K<sup>-2</sup>",
+  "option4": "J kg<sup>-1</sup> K<sup>-1</sup>",
+  "option5": "",
+  "answer": "J kg<sup>-1</sup> K<sup>-1</sup>",
+  "explanation": "The specific heat capacity is the property of the substance which determines the change in the temperature of the substance (undergoing no phase change) when a given quantity of heat is absorbed (or given off) by it. The SI unit of specific heat capacity is J kg <sup>1</sup> K<sup>- 1</sup>."
+}

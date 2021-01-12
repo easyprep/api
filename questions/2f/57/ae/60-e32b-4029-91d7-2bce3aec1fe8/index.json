@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2f57ae60-e32b-4029-91d7-2bce3aec1fe8",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following terms is often used for the programs that are used to find out possible faults in the computer system?",
+  "option1": "Operating system extensions",
+  "option2": "Cookies",
+  "option3": "Diagnostic software",
+  "option4": "Boot Diskettes",
+  "option5": "",
+  "answer": "Diagnostic software",
+  "explanation": "A diagnostic program is a computer program sequence that determines the operational status within the software, hardware, or any combination there of in a system."
+}

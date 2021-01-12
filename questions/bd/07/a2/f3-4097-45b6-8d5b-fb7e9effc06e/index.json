@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bd07a2f3-4097-45b6-8d5b-fb7e9effc06e",
+  "labels": "current-affairs,2019-02-02",
+  "question": "When is a p-n diode said to be forward biased?",
+  "option1": "when p-side is connected to the positive terminal of the battery",
+  "option2": "when n-side is connected to the positive terminal of the battery",
+  "option3": "when p-side is connected to the negative terminal of the battery",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "when p-side is connected to the positive terminal of the battery",
+  "explanation": "When an external voltage V is applied across a semiconductor diode such that p-side is connected to the positive terminal of the battery and n- side to the negative terminal."
+}

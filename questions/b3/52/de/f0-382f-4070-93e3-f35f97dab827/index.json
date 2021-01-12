@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b352def0-382f-4070-93e3-f35f97dab827",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following is the data storage device that is used to store very high resolution video formats?",
+  "option1": "Blu Ray",
+  "option2": "CD-ROM",
+  "option3": "Floppy Drive",
+  "option4": "Hard Disk",
+  "option5": "",
+  "answer": "Blu Ray",
+  "explanation": "Blu-ray is a digital optical disc. It is capable of storing several hours of video in high-definition and ultra high-definition resolution. The name \"Blu-ray\" refers to the blue laser which is used to read the disc."
+}

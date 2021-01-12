@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1bafe16a-3b1e-4658-8434-1d6de04ea924",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following is correct about conductors?",
+  "option1": "The conduction band and the valence band partly overlap each other",
+  "option2": "There is no forbidden energy band gap between conduction band and the valence band",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The conduction band and the valence band partly overlap each other and there is no forbidden energy band gap in between. The electrons from the valence band can easily move into the conduction band. Hence, large number of electrons are available for conduction."
+}

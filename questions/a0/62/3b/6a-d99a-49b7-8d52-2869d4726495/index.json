@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:08.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a0623b6a-d99a-49b7-8d52-2869d4726495",
+  "labels": "current-affairs,2019-01-30",
+  "question": "What is the meaning of SMART commands in a system maintainence?",
+  "option1": "Self-Monitoring, Analysis and Reporting Technology Commands",
+  "option2": "Software Management Analysis Reporting Technology Commands",
+  "option3": "Specific Measurable Attainable Realistic Technology Commands",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Self-Monitoring, Analysis and Reporting Technology Commands",
+  "explanation": "Modern hard drives have Self-Monitoring, Analysis and Reporting Technology (SMART) commands that provide information about internal error conditions, e.g., spin retry counts, bad sector counts, etc."
+}

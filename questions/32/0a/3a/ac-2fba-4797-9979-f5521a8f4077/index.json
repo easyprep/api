@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "320a3aac-2fba-4797-9979-f5521a8f4077",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following devices produces a permanent human-readable text of graphic document?",
+  "option1": "Headphone",
+  "option2": "Speaker",
+  "option3": "Printer",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Printer",
+  "explanation": "A printer is a device which makes a human-readable representation of graphics or text on paper. A printer is a device that accepts text and graphic output from a computer and transfers the information to paper, usually to standard size sheets of paper."
+}

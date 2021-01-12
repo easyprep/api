@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7282dbd8-2d7a-44c6-97bb-cf9099932250",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following diodes is mostly commonly used as a voltage regulator?",
+  "option1": "LED",
+  "option2": "Varactor diode",
+  "option3": "Shockley diode",
+  "option4": "Zener diode",
+  "option5": "",
+  "answer": "Zener diode",
+  "explanation": "Zener diode is a special purpose semiconductor diode, named after its inventor C. Zener. It is designed to operate under reverse bias in the breakdown region and used as a voltage regulator."
+}

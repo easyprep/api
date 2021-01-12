@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "cf3f43a0-6085-4376-af70-a1478207938b",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What are the dimensions of Co-efficient of volume expansion?",
+  "option1": "T<sup>-1</sup> K<sup>-1</sup>",
+  "option2": "M<sup>2</sup> K<sup>-1</sup>",
+  "option3": "K<sup>-1</sup>",
+  "option4": "M<sup>1</sup> K<sup>-2</sup>",
+  "option5": "",
+  "answer": "K<sup>-1</sup>",
+  "explanation": "The dimensions of Co-efficient of volume expansion is given by K<sup>-1</sup>."
+}

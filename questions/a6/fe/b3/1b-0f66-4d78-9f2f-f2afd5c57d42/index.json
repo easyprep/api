@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:56:03.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a6feb31b-0f66-4d78-9f2f-f2afd5c57d42",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following funds is basically an index fund which trades like a closed-end fund?",
+  "option1": "Open-end fund",
+  "option2": "Money market fund",
+  "option3": "Mutual fund",
+  "option4": "Exchange-traded fund",
+  "option5": "",
+  "answer": "Exchange-traded fund",
+  "explanation": "An ETF is a basket of stocks .It looks like a composition of an Index including many stocks like S&P CNX Nifty or BSE Sensex. The ETFs trading value is based on the net asset value of the underlying stocks that it represents."
+}

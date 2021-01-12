@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "cba599c9-78fb-4b8d-b107-2d9049ae7f88",
+  "labels": "current-affairs,2019-02-01",
+  "question": "There exist a device that stores computer data on a loop of flexible celluloid-like material. What is the name given to this device?",
+  "option1": "Tape Drive",
+  "option2": "CD-ROM",
+  "option3": "Magnetic Tape",
+  "option4": "Floppy Disk",
+  "option5": "",
+  "answer": "Tape Drive",
+  "explanation": "A tape drive is a data storage device that reads and writes data on a magnetic tape. A tape drive provides sequential access storage. Tape drives can stream data very quickly off a tape."
+}

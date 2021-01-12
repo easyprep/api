@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T19:34:02.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "dec3cb01-c546-4a28-811c-5ab3d2b624f0",
+  "labels": "current-affairs,2019-02-04",
+  "question": "Which of the following element has the highest first ionization enthalpy?",
+  "option1": "Magnesium",
+  "option2": "Strontium",
+  "option3": "Beryllium",
+  "option4": "Barium",
+  "option5": "",
+  "answer": "Beryllium",
+  "explanation": "The alkaline earth metals have low ionization enthalpies due to fairly large size of the atoms. Since the atomic size increases down the group, their ionization enthalpy decreases."
+}

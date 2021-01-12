@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "666346d6-92c9-4611-8e5b-a93ba58381ec",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What happens to the frequency of the pendulum if it is suspended from the ceiling of the lift moving up ward with constant acceleration?",
+  "option1": "it decreases",
+  "option2": "it increases",
+  "option3": "may increase or decrease",
+  "option4": "No change",
+  "option5": "",
+  "answer": "it increases",
+  "explanation": "If the lift is moving up ward with constant acceleration a then the time period of the pendulum decreases and frequency increases."
+}

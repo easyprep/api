@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8a58cfd0-c450-4e4f-b474-fc80c85449d6",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Which of the following softwares is used to drive microprocessor-based systems?",
+  "option1": "Firmware",
+  "option2": "Assembly Language Program",
+  "option3": "Flowchart Instructions",
+  "option4": "Basic Interpreter Instructions",
+  "option5": "",
+  "answer": "Assembly Language Program",
+  "explanation": "An assembly language is any low-level programming language in which there is a very strong correspondence between the program's statements."
+}

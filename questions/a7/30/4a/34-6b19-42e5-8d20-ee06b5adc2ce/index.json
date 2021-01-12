@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a7304a34-6b19-42e5-8d20-ee06b5adc2ce",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following nuclear processes is the source of energy output in the interior of stars?",
+  "option1": "Nuclear Fission",
+  "option2": "Nuclear Fusion",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Nuclear Fusion",
+  "explanation": "Thermonuclear fusion is the source of energy output in the interior of stars."
+}

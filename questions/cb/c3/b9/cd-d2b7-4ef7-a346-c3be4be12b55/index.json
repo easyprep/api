@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "cbc3b9cd-d2b7-4ef7-a346-c3be4be12b55",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the S.I unit of Latent heat of fusion?",
+  "option1": "J kg<sup>-1</sup> K<sup>-1</sup>",
+  "option2": "J kg<sup>-2</sup>",
+  "option3": "J kg K<sup>-1</sup>",
+  "option4": "J kg<sup>-1</sup>",
+  "option5": "",
+  "answer": "J kg<sup>-1</sup>",
+  "explanation": "The latent heat for a solid liquid state change is called the latent heat of fusion The S.I. unit of the latent heat of fusion is J kg<sup>-1</sup>."
+}

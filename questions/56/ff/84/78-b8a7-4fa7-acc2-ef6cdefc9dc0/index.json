@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "56ff8478-b8a7-4fa7-acc2-ef6cdefc9dc0",
+  "labels": "current-affairs,2019-01-23",
+  "question": "An analog computer uses an analog signal which is usually represented as what?",
+  "option1": "Sine Wave",
+  "option2": "Sine Curve",
+  "option3": "Bell curve",
+  "option4": "Cos Wave",
+  "option5": "",
+  "answer": "Sine Wave",
+  "explanation": "An Analog computer uses an analog signal which can also be represented as a sine wave or a continuous wave which contains many time-varying quantities."
+}

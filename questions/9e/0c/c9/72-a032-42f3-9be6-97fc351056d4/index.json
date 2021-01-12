@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9e0cc972-a032-42f3-9be6-97fc351056d4",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the S.I unit of Stefan-Boltzmann constant?",
+  "option1": "2.34 × 10<sup>–4</sup> W m<sup>–2</sup> K<sup>–4</sup>",
+  "option2": "1.44 × 10<sup>–6</sup> W m<sup>–2</sup> K<sup>–4</sup>",
+  "option3": "3.99 × 10<sup>–7</sup> W m<sup>–2</sup> K<sup>–4</sup>",
+  "option4": "5.67 × 10<sup>–8</sup> W m<sup>–2</sup> K<sup>–4</sup>",
+  "option5": "",
+  "answer": "5.67 × 10<sup>–8</sup> W m<sup>–2</sup> K<sup>–4</sup>",
+  "explanation": "The value of Stefan-Boltzmann constant in SI units is 5.67 × 10<sup>–8</sup> W m<sup>–2</sup> K<sup>–4</sup>."
+}

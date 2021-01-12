@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b5e23e84-5da1-4a8f-93a2-1eed6fa9c740",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Who had designed ENIAC?",
+  "option1": "Gladeon Bames",
+  "option2": "Herman Goldstine",
+  "option3": "Betty Snyder",
+  "option4": "John Mauchly",
+  "option5": "",
+  "answer": "John Mauchly",
+  "explanation": "ENIAC was designed by John Mauchly and J. Presper Eckert of University of Pennsylvania. There were many design engineers who had assisted them."
+}

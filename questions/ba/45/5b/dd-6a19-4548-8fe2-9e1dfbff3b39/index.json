@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:11.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ba455bdd-6a19-4548-8fe2-9e1dfbff3b39",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is not a characteristic of a desktop replacement computer?",
+  "option1": "Full capabilities of a desktop",
+  "option2": "Remains fixed and is not mobile",
+  "option3": "Large display than most portable systems",
+  "option4": "Powerful components",
+  "option5": "",
+  "answer": "Remains fixed and is not mobile",
+  "explanation": "Unlike desktops, the desktop replacement computer has full capabilities of the desktop computer but is not mobile. They are in the category of a bulkier laptop."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "87347511-69fe-4938-b19d-3dabeb9a01f4",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is a quickly accessible location which is available to the Central Processing Unit of the computer?",
+  "option1": "Memory",
+  "option2": "BIOS",
+  "option3": "Processor Register",
+  "option4": "Graphic Card",
+  "option5": "",
+  "answer": "Processor Register",
+  "explanation": "A processor register is a quickly accessible location which is available to a computer\\'s CPU.  Registers usually consist of a small amount of fast storage and may be read-only or write-only."
+}

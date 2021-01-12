@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6c550422-2aaf-45c2-ac08-be1138b13f26",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the main cause of capillarity?",
+  "option1": "difference in weight of fluids",
+  "option2": "pressure difference",
+  "option3": "temperature difference",
+  "option4": "velocity gradient",
+  "option5": "",
+  "answer": "pressure difference",
+  "explanation": "The main cause of capillarity is the difference in pressures on two sides of (concave and convex) curved surface of liquid."
+}

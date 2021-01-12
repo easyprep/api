@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d09fbbe6-2ae1-48e9-b473-df15278b1246",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following is true about a cyclic process?",
+  "option1": "the total heat absorbed equals the work done by the system.",
+  "option2": "the system returns to its initial state",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "In a cyclic process, the system returns to its initial state and the total heat absorbed equals the work done by the system."
+}

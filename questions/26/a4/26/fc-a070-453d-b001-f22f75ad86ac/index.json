@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "26a426fc-a070-453d-b001-f22f75ad86ac",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What is the S.I unit of frequency?",
+  "option1": "Second",
+  "option2": "Watt",
+  "option3": "Hertz",
+  "option4": "Joule",
+  "option5": "",
+  "answer": "Hertz",
+  "explanation": "The frequency is defined as the number of periodic motions executed by body per second. The S.I unit of frequency is hertz (Hz)."
+}

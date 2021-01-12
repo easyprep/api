@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T21:29:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "768568a6-a343-4f0f-b2ba-ed61a3f4dcf1",
+  "labels": "current-affairs,2019-01-31",
+  "question": "Which of the following is / are correct statements? <ol><li>Vaccines provide us passive immunity</li><li>Passive immunity can be acquired only artificially</li></ol>  Which among the above statements is/ are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "There are two types of immunity for infectious microorganisms: active immunity and passive immunity. Passive immunity is provided by artificial means such as injections of antibodies and vaccines. The agents used for passive immunity include antibodies from humans or animals Passive immunity can occur naturally, when maternal antibodies are transferred to the fetus through the placenta, and can also be induced artificially, when high levels of human (or horse) antibodies specific for a pathogen or toxin are transferred to non-immune individuals."
+}

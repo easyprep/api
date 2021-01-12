@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a7a8bd3b-23d7-42e5-a994-92fefd337ab5",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following models of processing has the master/slave architecture as a feature?",
+  "option1": "Distributed memory processing",
+  "option2": "Shared memory processing",
+  "option3": "Symmetric multi processing",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Shared memory processing",
+  "explanation": "Shared memory is memory that may be simultaneously accessed by multiple programs .Shared memory is a method by which program processes can exchange data more quickly than by reading and writing ."
+}

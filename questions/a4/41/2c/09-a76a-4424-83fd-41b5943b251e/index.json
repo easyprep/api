@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a4412c09-a76a-4424-83fd-41b5943b251e",
+  "labels": "current-affairs,2019-01-21",
+  "question": "In which of the following positions is the kinetic energy maximum in S.H.M?",
+  "option1": "Extreme position",
+  "option2": "Mean position",
+  "option3": "Can be at extreme or mean position",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Mean position",
+  "explanation": "Kinetic energy is maximum at mean position and equal to total energy at mean position. Kinetic energy is minimum at extreme position."
+}

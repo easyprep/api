@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b31535ef-2583-4f28-8b65-7939a4ddc672",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is rectifier used for?",
+  "option1": "for converting alternating current into direct current",
+  "option2": "for converting direct current into alternating current",
+  "option3": "for increasing the power of signal",
+  "option4": "for decreasing the voltage",
+  "option5": "",
+  "answer": "for converting alternating current into direct current",
+  "explanation": "Rectifier is a device which is used for converting alternating current or voltage into direct current or voltage."
+}

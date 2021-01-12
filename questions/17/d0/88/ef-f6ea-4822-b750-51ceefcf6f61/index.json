@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "17d088ef-f6ea-4822-b750-51ceefcf6f61",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Every computer runs an OS software program. What does OS stand for?",
+  "option1": "Operating Software",
+  "option2": "Operating System",
+  "option3": "Operating Status",
+  "option4": "Operating Supplier",
+  "option5": "",
+  "answer": "Operating System",
+  "explanation": "An operating system is system software that manages computer hardware and software resources and provides common services for computer programs."
+}

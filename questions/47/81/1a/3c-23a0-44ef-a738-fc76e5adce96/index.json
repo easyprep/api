@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "47811a3c-23a0-44ef-a738-fc76e5adce96",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the value of universal gas constant?",
+  "option1": "2.31 J mol<sup>-1</sup> K<sup>–1</sup>",
+  "option2": "4.31 J mol<sup>-1</sup> K<sup>–1</sup>",
+  "option3": "6.31 J mol<sup>-1</sup> K<sup>–1</sup>",
+  "option4": "8.31 J mol<sup>-1</sup> K<sup>–1</sup>",
+  "option5": "",
+  "answer": "8.31 J mol<sup>-1</sup> K<sup>–1</sup>",
+  "explanation": "As per the ideal gas equation, PV = nRT where R is the Universal Gas constant and has a value of 8.31 J mol<sup>-1</sup> K<sup>–1</sup>."
+}

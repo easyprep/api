@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:08.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "66f5dd9f-2190-4746-affb-765679195696",
+  "labels": "current-affairs,2019-01-30",
+  "question": "What is the term used for verification of a login name and password in computer terminology?",
+  "option1": "Configuration",
+  "option2": "Authentication",
+  "option3": "Accessibility",
+  "option4": "Logging",
+  "option5": "",
+  "answer": "Authentication",
+  "explanation": "Authentication is the process of identifying an individual, usually based on a username and password. Authentication is distinct from authorization ."
+}

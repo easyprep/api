@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "0572f99f-2c10-4869-93a6-ae747cd6eda5",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following represents the total momentum transferred to a surface by an electromagnetic wave?",
+  "option1": "Total energy transferred/Speed of light",
+  "option2": "Total energy transferred/ 2 x Speed of light",
+  "option3": "2 x Total energy transferred/Speed of light",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Total energy transferred/Speed of light",
+  "explanation": "If the total energy transferred to a surface in time t is U, then the magnitude of the total momentum delivered to this surface (for complete absorption) is U/c."
+}

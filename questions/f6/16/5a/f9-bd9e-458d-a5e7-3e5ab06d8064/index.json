@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f6165af9-bd9e-458d-a5e7-3e5ab06d8064",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the dimensional formula of Stress?",
+  "option1": "M <sup>1</sup> L<sup>-2</sup> T<sup>-2</sup>",
+  "option2": "M <sup>1</sup> L<sup>-1</sup> T<sup>-1</sup>",
+  "option3": "M <sup>1</sup> L<sup>1</sup> T<sup>-3</sup>",
+  "option4": "M <sup>1</sup> L<sup>-1</sup> T<sup>-2</sup>",
+  "option5": "",
+  "answer": "M <sup>1</sup> L<sup>-1</sup> T<sup>-2</sup>",
+  "explanation": "Stress is defined as external force per unit area on a body that tends to cause it to deform. The dimensional formula of Stress is M <sup>1</sup> L<sup>-1</sup> T<sup>-2</sup>"
+}

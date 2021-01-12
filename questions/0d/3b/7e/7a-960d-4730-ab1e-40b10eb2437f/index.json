@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "0d3b7e7a-960d-4730-ab1e-40b10eb2437f",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What is the refractive index of water?",
+  "option1": 1,
+  "option2": 1.01,
+  "option3": 1.33,
+  "option4": 1.78,
+  "option5": "",
+  "answer": 1.33,
+  "explanation": "The refractive index of air is 1.33."
+}

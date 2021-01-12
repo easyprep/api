@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4bb0c6c5-7f2b-4493-89df-c23d09f25fc8",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of these phenomenon is due to the scattering of light?",
+  "option1": "blue colour of sky",
+  "option2": "reddening of the Sun at sunrise",
+  "option3": "reddening of the Sun at sunset",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Scattering of light causes the blue colour of sky and the reddening of the Sun at the sunrise and sunset."
+}

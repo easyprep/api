@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c40d7983-ec47-43c0-8f4e-ec29f302d66f",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What of the following represents Ohm's law (V= potential difference and I=current)?",
+  "option1": "V = I <sup>2</sup>",
+  "option2": "V = 1/I",
+  "option3": "V/I = constant",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "V/I = constant",
+  "explanation": "The potential difference, V, across the ends of a given metallic wire in an electric circuit is directly proportional to the current flowing through it, provided its temperature remains the same. This is called Ohm’s law. V/I =constant"
+}

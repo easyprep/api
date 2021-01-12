@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c83dc73f-c3a9-4a96-8be2-463faca923a7",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which is the effect of increase in impurities on the surface tension of the liquid?",
+  "option1": "It increases",
+  "option2": "It decreases",
+  "option3": "It may increase or decrease",
+  "option4": "No change",
+  "option5": "",
+  "answer": "It may increase or decrease",
+  "explanation": "The presence of impurities considerably affect the force of surface tension, depending upon the degree of contamination. A highly soluble substance like sodium chloride when dissolved in water, increases the surface tension of water. But the sparingly soluble substances like phenol when dissolved in water, decreases the surface tension of water."
+}

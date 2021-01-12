@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "547dc9f9-9c30-4877-9859-138718a1b236",
+  "labels": "current-affairs,2019-01-23",
+  "question": "How is data transmitted in analog computers?",
+  "option1": "Continuous Signals",
+  "option2": "Discrete Signals",
+  "option3": "Intermittent Signals",
+  "option4": "Interrupted Signals",
+  "option5": "",
+  "answer": "Continuous Signals",
+  "explanation": "In Analog computers, data is transmitted for operation in the form of continuous signals."
+}

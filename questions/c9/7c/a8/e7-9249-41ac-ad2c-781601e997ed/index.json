@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T02:05:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c97ca8e7-9249-41ac-ad2c-781601e997ed",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of these are electrochemical cells?",
+  "option1": "Galvanic cells",
+  "option2": "Electrolytic cells",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "There are two types of electrochemical cells: 1. A Galvanic Cell or Voltaic Cell 2. An Electrolytic cell"
+}

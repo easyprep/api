@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "83033e6b-4a8e-4220-b48a-05eb71d2ce38",
+  "labels": "current-affairs,2019-01-28",
+  "question": "In which of the following cases a concave mirror will form a virtual and erect image?",
+  "option1": "when object is placed at infinity",
+  "option2": "when object is at focus",
+  "option3": "when object is between pole and focus",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "when object is between pole and focus",
+  "explanation": "When the object is between pole and focus, a concave mirror will form a virtual and erect image."
+}

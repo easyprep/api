@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:08.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b8166754-bb73-4029-9595-97f0258a2a13",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following is the ability of a system to jump directly to the requested data?",
+  "option1": "Sequential Access",
+  "option2": "Random Access",
+  "option3": "Quick Access",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Random Access",
+  "explanation": "Random-access memory is a form of computer data storage that stores data and machine code currently being used. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory."
+}

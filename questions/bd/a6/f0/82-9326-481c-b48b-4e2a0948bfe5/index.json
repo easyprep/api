@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bda6f082-9326-481c-b48b-4e2a0948bfe5",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What of the following represents linear magnification?",
+  "option1": "ratio of the height of the image to the height of the object",
+  "option2": "ratio of the height of the object to the height of the image",
+  "option3": "product of the height of the object to the height of the image",
+  "option4": "difference of the height of the image to the height of the object",
+  "option5": "",
+  "answer": "ratio of the height of the image to the height of the object",
+  "explanation": "The linear magnification (m) is defined as the ratio of the height of the image to the height of the object."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "29ad7110-360d-43e0-a72c-f2b34fedf43c",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following are the hardware components of the computer system?",
+  "option1": "Graphic Card",
+  "option2": "CPU",
+  "option3": "Keyboard",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Computer hardware includes the physical, tangible components of a computer system .It includes CPU, Cabinet, Graphic Card, Sound Card, Motherboard, Speaker, Keyboard, Mouse, Desktop etc."
+}

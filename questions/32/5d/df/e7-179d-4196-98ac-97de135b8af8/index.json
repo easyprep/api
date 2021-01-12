@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "325ddfe7-179d-4196-98ac-97de135b8af8",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Which of the following are the software analysis and design tools?",
+  "option1": "Data Flow Diagrams",
+  "option2": "ER Diagrams",
+  "option3": "HIPO Diagrams",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Various system design and analysis tools are DFDs (Data Flow Diagrams), Structured Charts, Structured English, Data Dictionary, HIPO (Hierarchical Input Process Output) diagrams, ER (Entity Relationship) Diagrams and Decision tables."
+}

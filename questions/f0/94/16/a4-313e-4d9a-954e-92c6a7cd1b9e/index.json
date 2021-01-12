@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f09416a4-313e-4d9a-954e-92c6a7cd1b9e",
+  "labels": "current-affairs,2019-01-28",
+  "question": "On which of the following does the resistance of a conductor depend?",
+  "option1": "Length",
+  "option2": "Area of cross-section",
+  "option3": "Nature of material",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The resistance of any conductor depends on : 1. its length 2. Area of its cross-section 3. Nature of its material The resistance of a uniform metallic conductor is directly proportional to its length and inversely proportional to its area of cross-section and is given by the formula:"
+}

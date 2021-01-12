@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "767bed12-cf78-498b-b4ec-656c0f5e4d5d",
+  "labels": "current-affairs,2019-02-02",
+  "question": "It is a type of printer which can print multiple carbon copies at once. What is the name of this type of printer?",
+  "option1": "Impact Printer",
+  "option2": "Laser Printer",
+  "option3": "Inkjet Printer",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Impact Printer",
+  "explanation": "Impact printer refers to printers that work by banging a head or needle against an ink ribbon to make a mark on the paper. This includes dot-matrix printers, daisy-wheel printers, and line printers."
+}

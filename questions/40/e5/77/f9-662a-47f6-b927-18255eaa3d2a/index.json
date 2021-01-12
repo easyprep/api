@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "40e577f9-662a-47f6-b927-18255eaa3d2a",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What do we call the ratio of the radiant energy absorbed by a body in a given time to the total radiant energy incident on it in the same time?",
+  "option1": "Coefficient of volume expansion",
+  "option2": "Thermal strain",
+  "option3": "Absorptive power",
+  "option4": "Radiation limit",
+  "option5": "",
+  "answer": "Absorptive power",
+  "explanation": "The ratio of the radiant energy absorbed by it in a given time to the total radiant energy incident on it in the same time is called the absorptive power (a) of the surface."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5a951f25-57a2-4fb6-a38d-92eebacc627e",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the Gaussian unit of kinematic viscosity?",
+  "option1": "Henry",
+  "option2": "Stokes",
+  "option3": "poiseiulle",
+  "option4": "Watt",
+  "option5": "",
+  "answer": "Stokes",
+  "explanation": "The Gaussian unit of kinematic viscosity is stokes. Ten thousand stokes equal one square meter per second."
+}

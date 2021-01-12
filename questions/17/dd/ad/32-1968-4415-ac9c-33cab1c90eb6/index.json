@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "17ddad32-1968-4415-ac9c-33cab1c90eb6",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following eaves will be produced on bombarding a metal target by high energy electrons?",
+  "option1": "Gamma rays",
+  "option2": "X rays",
+  "option3": "Infra red",
+  "option4": "Microwaves",
+  "option5": "",
+  "answer": "X rays",
+  "explanation": "One common way to generate X-rays is to bombard a metal target by high energy electrons. X-rays covers wavelengths from about 10<sup>–8</sup> m (10 nm) down to 10<sup>–13</sup> m (10<sup>–4</sup> nm)."
+}

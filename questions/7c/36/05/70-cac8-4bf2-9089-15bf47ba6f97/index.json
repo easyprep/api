@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7c360570-cac8-4bf2-9089-15bf47ba6f97",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the full form of a PCI bus?",
+  "option1": "Peripheral Computer Interconnect",
+  "option2": "Peripheral Component Interconnect",
+  "option3": "Passed Component Interconnect",
+  "option4": "Phased Computer Interconnect",
+  "option5": "",
+  "answer": "Peripheral Component Interconnect",
+  "explanation": "PCI stands for Peripheral Component Interconnect. It is a local computer bus for attaching hardware devices in a computer. The first version of conventional PCI found in consumer desktop computers was a 32-bit bus using a 33 MHz bus clock ."
+}

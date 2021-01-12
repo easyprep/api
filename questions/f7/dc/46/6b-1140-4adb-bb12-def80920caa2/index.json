@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f7dc466b-1140-4adb-bb12-def80920caa2",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What happens to the liquid in a capillary of insufficient length?",
+  "option1": "liquid overflows from the upper end like a fountain",
+  "option2": "liquid tickles along the vertical sides of the tube",
+  "option3": "liquid does not rise at all",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "In case of capillary of insufficient length, the liquid will neither overflow from the upper end like a fountain nor will it tickle along the vertical sides of the tube. The liquid after reaching the upper end will increase the radius of its meniscus without changing nature."
+}

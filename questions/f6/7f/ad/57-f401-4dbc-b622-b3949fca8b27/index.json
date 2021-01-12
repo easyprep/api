@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T17:40:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f67fad57-f401-4dbc-b622-b3949fca8b27",
+  "labels": "current-affairs,2019-02-04",
+  "question": "Which of these instrument measures the viscosity of fluid?",
+  "option1": "Radiometer",
+  "option2": "Thermopile",
+  "option3": "Viscometer",
+  "option4": "Venturi meter",
+  "option5": "",
+  "answer": "Viscometer",
+  "explanation": "Viscometer measures the viscosity of fluid."
+}

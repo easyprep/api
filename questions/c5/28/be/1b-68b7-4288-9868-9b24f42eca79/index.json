@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c528be1b-68b7-4288-9868-9b24f42eca79",
+  "labels": "current-affairs,2019-01-28",
+  "question": "How many electrons constitutes a 1 coulomb charge?",
+  "option1": "3 × 10<sup>16</sup>",
+  "option2": "6 × 10<sup>18</sup>",
+  "option3": "9 × 10<sup>21</sup>",
+  "option4": 1,
+  "option5": "",
+  "answer": "6 × 10<sup>18</sup>",
+  "explanation": "1 coulomb(C) of charge is equivalent to the charge contained in approximately 6 × 10<sup>18</sup> electrons. An electron possesses a negative charge of 1.6 X 10<sup>-19</sup>c. Coulomb is the S.I unit of electric charge."
+}

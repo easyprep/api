@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "672ca50a-3bcb-473d-bc5c-7b2d4b3db14d",
+  "labels": "current-affairs,2019-01-31",
+  "question": "What is the direction of force as per Fleming’s left hand rule?",
+  "option1": "parallel to the direction of magnetic field and perpendicular to the direction of current",
+  "option2": "parallel to the direction of magnetic field and current",
+  "option3": "perpendicular to the direction of magnetic field and current",
+  "option4": "perpendicular to the direction of magnetic field and at 45° to the direction of current",
+  "option5": "",
+  "answer": "perpendicular to the direction of magnetic field and current",
+  "explanation": "The direction of force is perpendicular to the direction of magnetic field and current as given by Fleming’s left hand rule."
+}

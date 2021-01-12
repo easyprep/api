@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "09e58b4b-62e1-4892-8d6c-dad077c5a87b",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What part of the electromagnetic spectrum is detected by the human eye?",
+  "option1": "Between 400 nm and 700 nm",
+  "option2": "Between 40 nm and 70 nm",
+  "option3": "Between 400 nm and 7000 nm",
+  "option4": "Between 4 nm and 700 nm",
+  "option5": "",
+  "answer": "Between 400 nm and 700 nm",
+  "explanation": "The part that is detected by the human eye runs from about 4 × 10<sup>14<sup> Hz to about 7 × 10<sup>14</sup> Hz or a wavelength range of about 700 –400 nm."
+}

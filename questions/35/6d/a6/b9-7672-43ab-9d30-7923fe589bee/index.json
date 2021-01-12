@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "356da6b9-7672-43ab-9d30-7923fe589bee",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is not an arithmetic capability of a computer?",
+  "option1": "Addition and Subtraction",
+  "option2": "Calculation",
+  "option3": "Copy and Paste",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Copy and Paste",
+  "explanation": "A computer is much more than an arithmetic number crunching device and performs many other operations like copy, paste, delete, print etc."
+}

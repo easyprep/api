@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "64afb903-3dee-4322-ae80-be4a5dbd27ca",
+  "labels": "current-affairs,2019-01-26",
+  "question": "What do we call the process taking place at constant temperature?",
+  "option1": "Adiabatic",
+  "option2": "Isothermal",
+  "option3": "Isochoric",
+  "option4": "isobaric",
+  "option5": "",
+  "answer": "Isothermal",
+  "explanation": "A change in pressure and volume of a gas without any change in its temperature, is called an isothermal change and the process taking place at constant temperature is called as Isothermal process."
+}

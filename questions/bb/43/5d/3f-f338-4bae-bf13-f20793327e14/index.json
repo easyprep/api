@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:09.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bb435d3f-f338-4bae-bf13-f20793327e14",
+  "labels": "current-affairs,2019-01-30",
+  "question": "A spare monitor made by a different manufacturer than the original computer's desktop will work when the original one breaks in any situation. Which feature of computer design concept makes this possible?",
+  "option1": "Standardization",
+  "option2": "Firmware",
+  "option3": "Plug and play",
+  "option4": "Componentization",
+  "option5": "",
+  "answer": "Standardization",
+  "explanation": "Standardization is the process of implementing and developing technical standards based on the consensus of different parties. Standardization can help to maximize compatibility, interoperability, safety, repeatability ."
+}

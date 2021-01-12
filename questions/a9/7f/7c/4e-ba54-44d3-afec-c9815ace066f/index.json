@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a97f7c4e-ba54-44d3-afec-c9815ace066f",
+  "labels": "current-affairs,2019-02-01",
+  "question": "A floppy disk is a magnetic storage medium for computer systems. What is the size limit of data to be stored on a floppy disk?",
+  "option1": "250KB to 360 KB",
+  "option2": "360 KB to 1 GB",
+  "option3": "360 KB to 2 GB",
+  "option4": "360 KB to 2.88 MB",
+  "option5": "",
+  "answer": "360 KB to 2.88 MB",
+  "explanation": "A floppy disk is a type of disk storage composed of a disk of thin and flexible magnetic storage medium.3 1⁄2-inch floppy disk can store data up to 360 KB.8-inch floppy disk cab store data up to 2.88 MB."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ec5ca7fa-45b1-4956-9a22-ce75c688b9fc",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following store data temporarily and pass it on as directed by the control unit?",
+  "option1": "Address",
+  "option2": "Register",
+  "option3": "Number",
+  "option4": "Memory",
+  "option5": "",
+  "answer": "Register",
+  "explanation": "CPU registers perform a variety of functions, a primary one of which is to offer temporary storage for the CPU to access information stored on the hard drive."
+}

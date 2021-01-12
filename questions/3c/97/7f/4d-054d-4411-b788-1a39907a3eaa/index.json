@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3c977f4d-054d-4411-b788-1a39907a3eaa",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following represents the Boiling process?",
+  "option1": "Adiabatic change",
+  "option2": "Isothermal change",
+  "option3": "Isochoric process",
+  "option4": "None",
+  "option5": "",
+  "answer": "Isothermal change",
+  "explanation": "Boiling and Melting both are an example of Isothermal processes because temperature is constant."
+}

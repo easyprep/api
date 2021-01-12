@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "177c6f3b-7cc9-4eae-89d0-21359f82bf1f",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the relationship between excess pressure and the radius of the bubble?",
+  "option1": "are equal in value",
+  "option2": "inversely proportional to each other",
+  "option3": "directly proportional to each other",
+  "option4": "no relationship",
+  "option5": "",
+  "answer": "inversely proportional to each other",
+  "explanation": "Excess pressure is inversely proportional to the radius of bubble (or drop). It means that the pressure inside a smaller bubble is higher than inside a larger bubble."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8715bd7d-d2db-4574-b6b9-875a61c5d5a9",
+  "labels": "current-affairs,2019-01-29",
+  "question": "Which of the following is the memory in CPU that holds program instructions, input data and the output information produced?",
+  "option1": "System",
+  "option2": "Primary Memory",
+  "option3": "Secondary Memory",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Primary Memory",
+  "explanation": "Primary memory is computer memory that is accessed directly by the CPU. Primary memory is the main memory of the computer which can be directly accessed by the central processing unit,."
+}

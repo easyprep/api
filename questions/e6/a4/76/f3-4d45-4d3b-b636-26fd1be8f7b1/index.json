@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e6a476f3-4d45-4d3b-b636-26fd1be8f7b1",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which type of failure occurs because of input device that does not read data correctly ?",
+  "option1": "input error",
+  "option2": "output error",
+  "option3": "read error",
+  "option4": "write error",
+  "option5": "",
+  "answer": "read error",
+  "explanation": "This error appears with such a message \"A disk read error occurred. This message refers to the problem on your hard drive or issues during the process of the reading disk with the operating system."
+}

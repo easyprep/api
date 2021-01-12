@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T19:34:03.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ae1ab498-fdad-4315-ad2b-47b1755f54dd",
+  "labels": "current-affairs,2019-02-04",
+  "question": "What is the half life of the longest lived isotope of Francium?",
+  "option1": "1 minute",
+  "option2": "21 minute",
+  "option3": "21 hours",
+  "option4": "100 days",
+  "option5": "",
+  "answer": "21 minute",
+  "explanation": "Francium is highly radioactive. its longest-lived isotope <sup>223</sup>Fr has a half-life of only 21 minutes."
+}

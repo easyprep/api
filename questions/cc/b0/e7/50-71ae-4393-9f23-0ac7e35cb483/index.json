@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ccb0e750-71ae-4393-9f23-0ac7e35cb483",
+  "labels": "current-affairs,2019-01-20",
+  "question": "On which of these factors, the buoyancy depends?",
+  "option1": "Density of the fluid",
+  "option2": "Volume of the body",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The buoyancy depends upon the following two factors: 1. The volume of the body submerged in the fluid. 2. The density of fluid in which the body is immersed"
+}

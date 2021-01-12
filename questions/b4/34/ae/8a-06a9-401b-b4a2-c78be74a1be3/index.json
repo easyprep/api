@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b434ae8a-06a9-401b-b4a2-c78be74a1be3",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following devices comprise the output unit?",
+  "option1": "Control Unit",
+  "option2": "Visual Display Unit",
+  "option3": "Secondary Memory",
+  "option4": "Primary Memory",
+  "option5": "",
+  "answer": "Visual Display Unit",
+  "explanation": "Devices like a printer and visual display unit that are used to provide information to the user in the desired format are called output unit."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "99d0d0e5-07c0-4033-bed1-3dfb0b9e834a",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following represents Kinematic viscosity?",
+  "option1": "Viscosity/temperature",
+  "option2": "Viscosity/area",
+  "option3": "Viscosity/density",
+  "option4": "Viscosity/mass",
+  "option5": "",
+  "answer": "Viscosity/density",
+  "explanation": "Kinematic viscosity is defined mathematically as the ratio of the viscosity of a fluid to its density. It is the measure of the resistive flow of a fluid under the influence of gravity."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2162fb8c-342f-4eec-8ea6-a5c7d74cf3c0",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following represents the absolute zero temperature?",
+  "option1": "0° C",
+  "option2": "-100° C",
+  "option3": "-273.15° C",
+  "option4": "273.15° C",
+  "option5": "",
+  "answer": "-273.15° C",
+  "explanation": "This temperature is found to be –273.15 °C and is designated as absolute zero. This is the absolute minimum temperature for an ideal gas."
+}

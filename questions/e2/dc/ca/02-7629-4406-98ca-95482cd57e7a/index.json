@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e2dcca02-7629-4406-98ca-95482cd57e7a",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following equation represents the Torricelli's law?",
+  "option1": "(2gh)<sup>1/2</sup>",
+  "option2": "√3 gh",
+  "option3": "√2 gh",
+  "option4": "2gh",
+  "option5": "",
+  "answer": "(2gh)<sup>1/2</sup>",
+  "explanation": "Torricelli’s theorem is also called as Torricelli’s law, It states that the speed, v, of a liquid flowing under the force of gravity out of an opening in a tank is proportional jointly to the square root of the vertical distance, h, between the liquid surface and the centre of the opening and to the square root of double the acceleration due to gravity. V = (2gh)<sup>1/2</sup>"
+}

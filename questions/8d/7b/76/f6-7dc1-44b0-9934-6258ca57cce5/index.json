@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8d7b76f6-7dc1-44b0-9934-6258ca57cce5",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Which of the following is the first layer of software loaded into computer memory when it starts up?",
+  "option1": "Device Driver",
+  "option2": "Operating System",
+  "option3": "Language Translator",
+  "option4": "System Utilities",
+  "option5": "",
+  "answer": "Operating System",
+  "explanation": "An operating system is a system software that manages computer hardware and software resources and provides common services for computer programs."
+}

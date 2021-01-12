@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ee0a4083-7747-480a-a3b3-d26d18792417",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following statements about Pressure and Stress is NOT correct?",
+  "option1": "Pressure is always normal to the area",
+  "option2": "Pressure is always compressive in nature",
+  "option3": "Stress can be normal or tangential to the area",
+  "option4": "Stress is always compressive in nature",
+  "option5": "",
+  "answer": "Stress is always compressive in nature",
+  "explanation": "Pressure is always normal to the area but Stress can be normal or tangential to the area. Pressure is always compressive in nature but Stress may be compressive or tensile in nature."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "694d8753-ac90-47ad-af1f-cb98650686d8",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is supersonic speed?",
+  "option1": "When the speed of any object exceeds the speed of sound",
+  "option2": "When the speed of any object exceeds the speed of light",
+  "option3": "When the speed of any object exceeds 10000 m/s",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "When the speed of any object exceeds the speed of sound",
+  "explanation": "When the speed of any object exceeds the speed of sound it is said to be travelling at supersonic speed. Bullets, jet aircrafts etc. often travel at supersonic speeds."
+}

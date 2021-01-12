@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5a8a0209-7e68-456b-b9e7-13ec4be84729",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the relationship between the frequency and the pitch of a sound wave?",
+  "option1": "Higher the frequency, higher the pitch",
+  "option2": "Lower the frequency, higher the pitch",
+  "option3": "Pitch is not dependant on the frequency",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Higher the frequency, higher the pitch",
+  "explanation": "How the brain interprets the frequency of an emitted sound is called its pitch. The faster the vibration of the source, the higher is the frequency and the higher is the pitch,"
+}

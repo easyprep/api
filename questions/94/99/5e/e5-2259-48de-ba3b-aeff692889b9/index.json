@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "94995ee5-2259-48de-ba3b-aeff692889b9",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What do we call the maximum velocity of a fluid in a tube for which the flow remains streamlined?",
+  "option1": "Hyper velocity",
+  "option2": "critical velocity",
+  "option3": "stream velocity",
+  "option4": "laminar velocity",
+  "option5": "",
+  "answer": "critical velocity",
+  "explanation": "The maximum velocity of a fluid in a tube for which the flow remains streamlined is called its critical velocity."
+}

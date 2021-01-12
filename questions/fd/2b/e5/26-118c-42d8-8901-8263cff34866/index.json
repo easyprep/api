@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "fd2be526-118c-42d8-8901-8263cff34866",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of these is correct about Simple Harmonic Motion?",
+  "option1": "Restoring force is directly proportional to the displacement from mean position",
+  "option2": "Restoring force is equal to the displacement from mean position",
+  "option3": "Restoring force is inversely proportional to the displacement from mean position",
+  "option4": "Restoring force is half of the displacement from mean position",
+  "option5": "",
+  "answer": "Restoring force is directly proportional to the displacement from mean position",
+  "explanation": "Simple harmonic motion is a special type of periodic motion, in which a particle moves to and fro repeatedly about a mean position under a restoring force which is always directed towards the mean position and whose magnitude at any instant is directly proportional to the displacement of the particle from the mean position at that instant. Restoring force <span class=\"symbol\"> Displacement of the particle from mean position."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "adda6ffb-8278-47c0-b5f7-866cf9b7dd5b",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What of the following represents viscosity?",
+  "option1": "resistance to fluid motion",
+  "option2": "pressure difference between two fluids",
+  "option3": "potential energy stored in a fluid",
+  "option4": "roughness of the surface",
+  "option5": "",
+  "answer": "resistance to fluid motion",
+  "explanation": "Most of the fluids offer some resistance to motion. This resistance to fluid motion is called viscosity. This resistance is like an internal friction analogous to friction when a solid moves on a surface."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5ea1a374-7dc2-436f-9300-b3cbbc1d4830",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the relationship between the velocity of sound and the pressure of gas when the temperature remains constant?",
+  "option1": "directly proportional to each other",
+  "option2": "inversely proportional to each other",
+  "option3": "independent of each other",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "independent of each other",
+  "explanation": "The velocity of sound is independent of the pressure of gas provided the temperature remains constant."
+}

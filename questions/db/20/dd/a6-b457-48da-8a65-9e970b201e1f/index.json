@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "db20dda6-b457-48da-8a65-9e970b201e1f",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following represents Electric Power (V=Voltage, I=Current)?",
+  "option1": "V x I",
+  "option2": "V/I",
+  "option3": "2( V x I)",
+  "option4": "1/VI",
+  "option5": "",
+  "answer": "V x I",
+  "explanation": "If V is the voltage across R and I the current through it, then Power = V I"
+}

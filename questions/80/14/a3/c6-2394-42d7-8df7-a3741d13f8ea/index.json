@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:11.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8014a3c6-2394-42d7-8df7-a3741d13f8ea",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of these rays have the highest penetrating power?",
+  "option1": "Alpha",
+  "option2": "Beta",
+  "option3": "Gamma",
+  "option4": "All have the same",
+  "option5": "",
+  "answer": "Gamma",
+  "explanation": "Gamma rays have the highest penetrating power followed by Beta and the Alpha."
+}

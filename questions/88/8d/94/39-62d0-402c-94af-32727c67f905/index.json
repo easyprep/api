@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "888d9439-62d0-402c-94af-32727c67f905",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What happens to the time period of the simple pendulum if the solid bob is replaced by a hollow sphere of same radius but half the mass?",
+  "option1": "time period becomes double",
+  "option2": "time period remains unchanged",
+  "option3": "time period becomes half",
+  "option4": "time period becomes four times",
+  "option5": "",
+  "answer": "time period remains unchanged",
+  "explanation": "Time period of simple pendulum is independent of mass of the bob. Therefore, If the solid bob is replaced by a hollow sphere of same radius but different mass, time period remains unchanged."
+}

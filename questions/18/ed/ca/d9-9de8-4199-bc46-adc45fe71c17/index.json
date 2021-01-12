@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "18edcad9-9de8-4199-bc46-adc45fe71c17",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the name given to the device invented by Dr. Bobeck in 1966 for mass storage of data ?",
+  "option1": "Punched Paper Tape",
+  "option2": "Magnetic Bubble Storage",
+  "option3": "Magnetic Tape",
+  "option4": "Magnetic Disk",
+  "option5": "",
+  "answer": "Magnetic Bubble Storage",
+  "explanation": "Bubble memory is a type of non-volatile computer memory that uses a thin film of a magnetic material to hold small magnetized areas. Bubble memory is largely the brainchild of a single person, Andrew Bobeck."
+}

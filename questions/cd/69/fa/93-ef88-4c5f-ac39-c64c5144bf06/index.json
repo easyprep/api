@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "cd69fa93-ef88-4c5f-ac39-c64c5144bf06",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following phenomena is used by the Blu Rays to store data?",
+  "option1": "Magnetic",
+  "option2": "Optical",
+  "option3": "Laser",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Laser",
+  "explanation": "A blue laser is a laser that emits electromagnetic radiation with a wavelength between 360 and 480 nanometers, which the human eye sees as blue or violet. Some of the most commercially common blue lasers are the diode lasers used in Blu-ray applications."
+}

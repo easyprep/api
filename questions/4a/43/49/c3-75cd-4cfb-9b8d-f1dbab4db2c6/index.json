@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4a4349c3-75cd-4cfb-9b8d-f1dbab4db2c6",
+  "labels": "current-affairs,2019-02-01",
+  "question": "When 8 bits are combined, the resulting unit of storage is known by which of the following names?",
+  "option1": "Byte",
+  "option2": "Nibble",
+  "option3": "Kilobyte",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Byte",
+  "explanation": "The byte is a unit of digital information that most commonly consists of eight bits. The term byte was coined by Werner Buchholz in June 1956.The term octet is used to specify a size of eight bits."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "19e1c333-0748-4b77-a18f-89c87df7dbad",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following is correct?",
+  "option1": "The nuclear force does not depend on the electric charge",
+  "option2": "The nuclear force is much weaker than the Coulomb force",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "The nuclear force does not depend on the electric charge",
+  "explanation": "The nuclear force is much stronger than the Coulomb force acting between charges or the gravitational forces between masses. The nuclear force does not depend on the electric charge."
+}

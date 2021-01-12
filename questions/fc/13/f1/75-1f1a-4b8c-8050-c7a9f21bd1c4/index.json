@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "fc13f175-1f1a-4b8c-8050-c7a9f21bd1c4",
+  "labels": "current-affairs,2019-01-23",
+  "question": "In which of the following industries are touchscreens used?",
+  "option1": "Heavy Industry",
+  "option2": "Automated Teller Machines",
+  "option3": "Medical Field",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The popularity of smart devices has increased the popularity of touchscreens for both portable and functional electronics. These are found in the medical line, heavy industries, ATMs, room automation etc."
+}

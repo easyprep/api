@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T19:34:03.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "88a737e5-75db-4967-9bfd-6d281ce07e1a",
+  "labels": "current-affairs,2019-02-04",
+  "question": "Which of the following is NOT correct about Group 14 elements?",
+  "option1": "All of them are solids",
+  "option2": "Melting points are much higher than those of corresponding elements of group 13",
+  "option3": "Carbon is a non-metal",
+  "option4": "Germanium is a metal",
+  "option5": "",
+  "answer": "Germanium is a metal",
+  "explanation": "All members of group 14 are solids. Carbon and silicon are non-metals, germanium is a metalloid, whereas tin and lead are soft metals. Melting points and boiling points of group 14 elements are much higher than those of corresponding elements of group 13."
+}

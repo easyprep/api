@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9c7183d3-22e3-4cea-9651-7ac7420e98ef",
+  "labels": "current-affairs,2019-02-02",
+  "question": "In which of these transistors, the two segments of n-type semiconductor are separated by a segment of p-type semiconductor?",
+  "option1": "p-n-p transistor",
+  "option2": "n-p-n transistor",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "n-p-n transistor",
+  "explanation": "n-p-n transistor :The two segments of n-type semiconductor (emitter and collector) are separated by a segment of p-type semiconductor (base)."
+}

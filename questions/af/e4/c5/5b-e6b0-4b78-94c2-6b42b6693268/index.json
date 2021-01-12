@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T20:59:31.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "afe4c55b-e6b0-4b78-94c2-6b42b6693268",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following is the efficiency of a Carnot engine(a = Temperature of source, b=Temperature of sink)?",
+  "option1": "1 - b/a",
+  "option2": "1 - a/b",
+  "option3": "1 + b/a",
+  "option4": "1 + a/b",
+  "option5": "",
+  "answer": "1 - b/a",
+  "explanation": "Carnot engine is a reversible engine operating between two temperatures T1 (source) and T2 (sink). The Carnot cycle consists of two isothermal processes connected by two adiabatic processes. The efficiency of a Carnot engine is given as: 1 - T2/T1"
+}

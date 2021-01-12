@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "75ca7288-ceed-4a55-baf9-cac8fbe74305",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is Reynolds number?",
+  "option1": "ratio of inertial force to viscous force",
+  "option2": "ratio of weight of fluid to viscous force",
+  "option3": "ratio of velocity gradient to viscous force",
+  "option4": "reciprocal of viscous force",
+  "option5": "",
+  "answer": "ratio of inertial force to viscous force",
+  "explanation": "Reynolds number is a dimensionless number, whose value gives one an approximate idea whether the flow would be turbulent. The Reynolds number (Re) is the ratio of inertial force (force due to inertia i.e., mass of moving fluid or due to inertia of obstacle in its path) to viscous force."
+}

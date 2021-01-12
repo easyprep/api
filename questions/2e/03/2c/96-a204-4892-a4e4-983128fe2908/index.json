@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2e032c96-a204-4892-a4e4-983128fe2908",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is wavelength of a wave?",
+  "option1": "square of the distance between two points having the same phase",
+  "option2": "maximum distance between two points having the same phase",
+  "option3": "minimum distance between two points having the same phase",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "minimum distance between two points having the same phase",
+  "explanation": "The minimum distance between two points having the same phase is called the wave length of the wave. It is represented by <span class=\\'symbol\\'> λ</span>."
+}

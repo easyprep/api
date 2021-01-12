@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c03c4b31-52f3-4ba2-9a5f-8ba46c0d8558",
+  "labels": "current-affairs,2019-01-31",
+  "question": "How can a moving coil galvanometer be converted into a voltmeter?",
+  "option1": "by introducing shunt resistance in parallel",
+  "option2": "by introducing shunt resistance in series",
+  "option3": "by introducing large resistance in series",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "by introducing large resistance in series",
+  "explanation": "A moving coil galvanometer can be converted into a voltmeter by introducing a resistance of a large value in series."
+}

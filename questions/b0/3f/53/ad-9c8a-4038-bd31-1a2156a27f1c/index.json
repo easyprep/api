@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T21:29:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b03f53ad-9c8a-4038-bd31-1a2156a27f1c",
+  "labels": "current-affairs,2019-01-31",
+  "question": "If a company declares a 100% dividend, the shareholder will get an amount equal to the ___",
+  "option1": "Face Value of the Share",
+  "option2": "Market Value of the Share",
+  "option3": "Previous dividend announced",
+  "option4": "Face Value or Market Value, whichever is higher",
+  "option5": "",
+  "answer": "Face Value of the Share",
+  "explanation": "Dividend is the portion of profits that a company distributes among its shareholders in the form of cash. Usually it is expressed per share. In some cases it is expressed as a percentage of the share’s face value. So if your company declares a 100% dividend, you will get an amount equal to the face value of the share and not equal to its market price. When dividend is expressed in percentage terms, it is the face value that is referred to. The same holds good when it comes to dividends declared by mutual funds — it is the par value of units that is considered — which usually stands at Rs 10."
+}

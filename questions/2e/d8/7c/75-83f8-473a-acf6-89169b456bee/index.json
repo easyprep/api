@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:41.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2ed87c75-83f8-473a-acf6-89169b456bee",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the devices converts drawing, printed text or other images into digital form ?",
+  "option1": "Keyboard",
+  "option2": "Scanner",
+  "option3": "Plotter",
+  "option4": "OMR",
+  "option5": "",
+  "answer": "Scanner",
+  "explanation": "Scanner is a device that optically scans images, printed text, handwriting or an object and converts it to a digital image. Scanners come in hand-held, feed-in, and flatbed types ."
+}

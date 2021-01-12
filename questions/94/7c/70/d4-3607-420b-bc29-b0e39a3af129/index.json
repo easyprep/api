@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "947c70d4-3607-420b-bc29-b0e39a3af129",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following indicates where is the computer is in terms of the program sequence?",
+  "option1": "Logic Gate",
+  "option2": "Knot Circuit",
+  "option3": "Program Manager",
+  "option4": "Program Counter",
+  "option5": "",
+  "answer": "Program Counter",
+  "explanation": "The program counter which is commonly known as the instruction pointer is actually a processor register that points where a computer is in its program sequence."
+}

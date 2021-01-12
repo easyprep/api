@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T21:11:52.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1d8c585d-6525-4910-8630-88c2106112d8",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the full form of LTV In Housing Finance?",
+  "option1": "Loan to Value Ratio",
+  "option2": "Lending Term Value",
+  "option3": "Loan Terms Value",
+  "option4": "Lending Tenure Value",
+  "option5": "",
+  "answer": "Loan to Value Ratio",
+  "explanation": "LTV stands for Loan to Term Value. In order to prevent excessive leveraging, the LTV ratio in respect of housing loans should not exceed 80 per cent."
+}

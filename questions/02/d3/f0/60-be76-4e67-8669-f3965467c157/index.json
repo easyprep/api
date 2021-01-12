@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "02d3f060-be76-4e67-8669-f3965467c157",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following represents the Snell's law?",
+  "option1": "sine of angle of incidence/sine of angle of refraction = constant",
+  "option2": "cosine of angle of incidence/cosine of angle of refraction = constant",
+  "option3": "tangent of angle of incidence/tangent of angle of refraction = constant",
+  "option4": "angle of incidence - angle of refraction = constant",
+  "option5": "",
+  "answer": "sine of angle of incidence/sine of angle of refraction = constant",
+  "explanation": "The ratio of sine of angle of incidence to the sine of angle of refraction is a constant, for the light of a given colour and for the given pair of media. This law is also known as Snell’s law of refraction."
+}

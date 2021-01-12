@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:18:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5a57a909-69b5-4261-8a73-02e451c4a96b",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Who had invented the magnetic card system for program storage?",
+  "option1": "Pier Giorgio Perotto",
+  "option2": "Stan Frankel",
+  "option3": "John Mauchly",
+  "option4": "Victor Glushkov",
+  "option5": "",
+  "answer": "Pier Giorgio Perotto",
+  "explanation": "Pier Giorgio Perotto had first developed the magnetic card system for program storage. It is a type of card which can store data by modification of tiny iron-based magnetic particles on a band of magnetic material on a card."
+}

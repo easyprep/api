@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b5eabb34-6e85-4901-ba4b-39b94a7f252d",
+  "labels": "current-affairs,2019-01-26",
+  "question": "A CPU contains which of the following?",
+  "option1": "A card reader and a printing device",
+  "option2": "An analytical engine and a control unit",
+  "option3": "A control unit and an arithmetic logic unit",
+  "option4": "An arithmetic logic unit and a card reader",
+  "option5": "",
+  "answer": "A control unit and an arithmetic logic unit",
+  "explanation": "CPU is the main processing unit of a computer system. It consists of a control unit and an arithmetic logic unit. A central processing unit (CPU) carries out the instructions of a computer program by performing the basic arithmetic, logic, controlling, and input/output operations specified by the instructions."
+}

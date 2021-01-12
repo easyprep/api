@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b4d360e2-3e0b-4e2a-b389-7217b531f150",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which type of semiconductor do we get when pure silicon is doped with a group-5 element?",
+  "option1": "n-type semiconductor",
+  "option2": "p-type semiconductor",
+  "option3": "Intrinsic semiconductor",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "n-type semiconductor",
+  "explanation": "The semiconductor doped with pentavalent impurity, electrons become the majority carriers and holes the minority carriers. These semiconductors are, therefore, known as n-type semiconductors."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2a68ad2c-aa21-4933-a3dd-559200a9e92b",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the output of an AND gate when both the inputs are 0?",
+  "option1": 0,
+  "option2": 1,
+  "option3": "Either 0 or 1",
+  "option4": 2,
+  "option5": "",
+  "answer": 0,
+  "explanation": "The AND gate is a basic digital logic gate that gives a LOW output If none or not all inputs to the AND gate are HIGH."
+}

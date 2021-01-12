@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5e3e40b6-e333-4d51-a01c-c38ce84354b1",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What is the value of permittivity of free space?",
+  "option1": "8.854 × 10<sub>–10</sub> C<sub>2</sub> N<sub>–1</sub> m<sub>–2</sub>",
+  "option2": "8.854 × 10<sub>–11</sub> C<sub>2</sub> N<sub>–1</sub> m<sub>–2</sub>",
+  "option3": "8.854 × 10<sub>–12</sub> C<sub>2</sub> N<sub>–1</sub> m<sub>–2</sub>",
+  "option4": "8.854 × 10<sub>–13</sub> C<sub>2</sub> N<sub>–1</sub> m<sub>–2</sub>",
+  "option5": "",
+  "answer": "8.854 × 10<sub>–12</sub> C<sub>2</sub> N<sub>–1</sub> m<sub>–2</sub>",
+  "explanation": "The value of permittivity of free space (<span class=\\'symbol\\'>ε</span><sub>0</sub>) in SI units is 8.854 × 10<sub>–12</sub> C<sub>2</sub> N<sub>–1</sub> m<sub>–2</sub>."
+}

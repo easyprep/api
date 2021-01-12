@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "728d2b71-4cb4-4e35-babd-bc83a05e84cc",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Who had proposed the principle of modern computer in his 1936 paper?",
+  "option1": "Alan Turing",
+  "option2": "Geoff Tootill",
+  "option3": "Ferranti Mark",
+  "option4": "Grace Hopper",
+  "option5": "",
+  "answer": "Alan Turing",
+  "explanation": "The principle of the modern computer was proposed by Alan Turing. His seminal paper \\\"On Computable Numbers\\\" has proposed a device called the Universal Computing Machine."
+}

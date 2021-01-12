@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1f93162a-c7d7-43f8-b55c-7ee7e31b4c41",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following is the correct equivalent of 1 atmosphere?",
+  "option1": "1 atmosphere = 1.013 × 10<sup>5</sup>Pa",
+  "option2": "1 atmosphere = 1.013 × 10<sup>4</sup>Pa",
+  "option3": "1 atmosphere = 1.013 × 10<sup>3</sup>Pa",
+  "option4": "1 atmosphere = 1.013 × 10<sup>2</sup>Pa",
+  "option5": "",
+  "answer": "1 atmosphere = 1.013 × 10<sup>5</sup>Pa",
+  "explanation": "A common unit of pressure is the atmosphere (atm), i.e. the pressure exerted by the atmosphere at sea level (1 atm = 1.013 × 10<sup>5</sup>Pa)."
+}

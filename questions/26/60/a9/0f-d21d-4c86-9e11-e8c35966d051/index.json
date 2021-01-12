@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2660a90f-d21d-4c86-9e11-e8c35966d051",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the full form of UDF ?",
+  "option1": "Universal data frequency",
+  "option2": "Unique disk format",
+  "option3": "Universal disk format",
+  "option4": "Undated disk format",
+  "option5": "",
+  "answer": "Universal disk format",
+  "explanation": "Universal Disk Format (UDF) is a file system for computer data storage for a broad range of media. UDF is developed and maintained by the Optical Storage Technology Association (OSTA)."
+}

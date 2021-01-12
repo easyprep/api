@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:14:21.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "485e480a-5f7c-48c4-9a8d-d0a0123dda55",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the relationship between Kelvin scale temperature (T) and Celsius scale temperature (t<sub>c</sub>)?",
+  "option1": "T = t<sub>c</sub> + 273.15",
+  "option2": "T = t<sub>c</sub> - 273.15",
+  "option3": "T = t<sub>c</sub> + 100",
+  "option4": "T = t<sub>c</sub> - 100",
+  "option5": "",
+  "answer": "T = t<sub>c</sub> + 273.15",
+  "explanation": "The size of unit in Kelvin and Celsius temperature scales is the same. So, T = t<sub>c</sub> + 273.15."
+}

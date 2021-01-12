@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d11ee462-d551-41e3-873d-21b7b69ccba2",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the device used to measure the flow speed of incompressible called as?",
+  "option1": "Torri-meter",
+  "option2": "Bernoulli-meter",
+  "option3": "Hydro-meter",
+  "option4": "Venturi-meter",
+  "option5": "",
+  "answer": "Venturi-meter",
+  "explanation": "The Venturi-meter is a device to measure the flow speed of incompressible fluid. It consists of a tube with a broad diameter and a small constriction at the middle."
+}

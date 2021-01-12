@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T21:29:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "bd35af31-5568-4b6c-b583-35198c8c1212",
+  "labels": "current-affairs,2019-01-31",
+  "question": "Which of the following is / are correct observations about the LIN (Labour Identification Number) that was making news recently? <ol><li>Any individual can get his / her Labour Identification Number from the Shram Suvidha Portal</li><li>Labour Identification Number will gradually replace ESIC registration Number, EPFO number etc.</li></ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "First statement is incorrect because this number is for firms. Second statement is correct. IN (Labour Identification Number) provided by Shram Suvidha Portal has been issued to about 18 Lakh units covered under various labour laws. The LIN number so allotted was communicated by using the email addresses and mobile numbers of the unit representatives available in our database. Shram Suvidha Portal facilitates businessmen to get all kinds of registrations and submit returns that are required under labour laws at a single online window. It also makes available to them the inspection reports prepared by the enforcement agency inspectors online. The procedures have been simplified; returns and registration forms have been unified to provide a business environment that encourages compliance by reducing transaction costs and promoting ease of business. To be able to provide all of the above unified services Shram Suvidha Portal can be accessed at the URL https://ShramSuvidha.Gov.in . A unit registered with different labour enforcement agencies is identified uniquely and allotted a single unique LIN. It would not be an overstatement to say that LIN is the pivot around which all other services work. The LIN would gradually subsume the multiple registration numbers presently being issued separately by Labour Enforcement Agencies i.e. ESIC registration Number, EPFO number, Registration or license number issued under Contract Labour (Regulation & Abolition) Act, 1970, etc. This indeed would meet an objective of ease of business itself as maintenance of multiple registration numbers by businessmen itself is a cumbersome task. [PIB]"
+}

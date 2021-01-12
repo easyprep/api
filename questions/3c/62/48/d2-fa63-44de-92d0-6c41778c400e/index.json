@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T23:13:08.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3c6248d2-fa63-44de-92d0-6c41778c400e",
+  "labels": "current-affairs,2019-01-30",
+  "question": "Which of the following parts of the system is most affected by the ESD problem?",
+  "option1": "Mother Board",
+  "option2": "Expansion Board",
+  "option3": "Power Supply",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Expansion Board",
+  "explanation": "Expansion board is a printed circuit board that can be inserted into an electrical connector, or expansion slot, on a computer motherboard."
+}

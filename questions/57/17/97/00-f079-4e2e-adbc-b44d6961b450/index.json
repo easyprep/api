@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-29T02:05:17.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "57179700-f079-4e2e-adbc-b44d6961b450",
+  "labels": "current-affairs,2019-01-30",
+  "question": "What do we call the cell that converts the potential energy from a fuel into electricity?",
+  "option1": "Electrolytic cell",
+  "option2": "Galvanic cell",
+  "option3": "Dry cell",
+  "option4": "Fuel cell",
+  "option5": "",
+  "answer": "Fuel cell",
+  "explanation": "A fuel cell is an electrochemical cell that converts the potential energy from a fuel into electricity through an electrochemical reaction of hydrogen fuel with oxygen or another oxidizing agent"
+}

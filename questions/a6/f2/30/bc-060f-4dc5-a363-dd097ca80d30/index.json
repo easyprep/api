@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a6f230bc-060f-4dc5-a363-dd097ca80d30",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which is the primary technical problem associated with hybrid computers?",
+  "option1": "Reduction of Digital-computer noise",
+  "option2": "Reduction of Analog-computer noise",
+  "option3": "Increase of Digital-computer noise",
+  "option4": "Increase of Analog-computer noise",
+  "option5": "",
+  "answer": "Reduction of Digital-computer noise",
+  "explanation": "The main technical problem associated with hybrid computers is the reduction of digital computer noise."
+}

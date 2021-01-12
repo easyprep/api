@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "a0160801-863d-421e-a23f-3161a69d656f",
+  "labels": "current-affairs,2019-01-23",
+  "question": "In each of the computer parts, there are many trillions of electrical circuits which can be turned on or off with the help of an electronic switch. How are these arranged?",
+  "option1": "Circuit Gates",
+  "option2": "Circuit Bypass",
+  "option3": "Logic Gates",
+  "option4": "Data Knots",
+  "option5": "",
+  "answer": "Logic Gates",
+  "explanation": "Each of the electrical circuits is arranged in logic gates so that one of the circuits may control the other circuits."
+}

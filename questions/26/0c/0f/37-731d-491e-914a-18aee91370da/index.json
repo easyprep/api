@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "260c0f37-731d-491e-914a-18aee91370da",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following is a pointing device that uses light to determine mouse motion?",
+  "option1": "Trackball",
+  "option2": "Touch screen",
+  "option3": "Optical Mouse",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Optical Mouse",
+  "explanation": "An optical mouse is a computer mouse which uses a light source, typically a light-emitting diode (LED), and a light detector, such as an array of photodiodes, to detect movement relative to a surface."
+}

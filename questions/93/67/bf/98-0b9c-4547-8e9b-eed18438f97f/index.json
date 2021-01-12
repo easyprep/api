@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9367bf98-0b9c-4547-8e9b-eed18438f97f",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Which of the following represents angular frequency of a body?",
+  "option1": "twice the frequency of the body",
+  "option2": "product of frequency of the body with &#960;",
+  "option3": "half the frequency of the body",
+  "option4": "product of frequency of the body with 3 π",
+  "option5": "",
+  "answer": "twice the frequency of the body",
+  "explanation": "Angular frequency of a body executing periodic motion is equal to product of frequency of the body with factor 2π. Angular frequency = 2 &#960; n The unit of Angular frequency will be rad per second."
+}

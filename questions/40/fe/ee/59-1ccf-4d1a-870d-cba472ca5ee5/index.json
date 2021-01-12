@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "40feee59-1ccf-4d1a-870d-cba472ca5ee5",
+  "labels": "current-affairs,2019-01-21",
+  "question": "Who is considered as the father of the computer?",
+  "option1": "William Thomson",
+  "option2": "Lord Kelvin",
+  "option3": "Charles Babbage",
+  "option4": "Pierre Jaquet-Droz",
+  "option5": "",
+  "answer": "Charles Babbage",
+  "explanation": "Charles Babbage, an English mechanical engineer and polymath gave the concept of a programmable computer. He is considered as the \\\"Father of the Computer\\\"."
+}

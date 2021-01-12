@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "64c14e62-286f-4b77-be4c-a34be7123b91",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What causes the twinkling of stars?",
+  "option1": "Atmospheric refraction of starlight",
+  "option2": "Dispersion of starlight",
+  "option3": "Scattering of starlight",
+  "option4": "None",
+  "option5": "",
+  "answer": "Atmospheric refraction of starlight",
+  "explanation": "The twinkling of a star is due to atmospheric refraction of starlight. The starlight, on entering the earth’s atmosphere, undergoes refraction continuously before it reaches the earth."
+}

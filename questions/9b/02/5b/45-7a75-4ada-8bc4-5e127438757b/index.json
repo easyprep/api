@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-03T19:34:03.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9b025b45-7a75-4ada-8bc4-5e127438757b",
+  "labels": "current-affairs,2019-02-04",
+  "question": "What do we call the energy required to remove loosely bound electron from an atom?",
+  "option1": "Excitation energy",
+  "option2": "Atom energy",
+  "option3": "Ionization energy",
+  "option4": "Shell energy",
+  "option5": "",
+  "answer": "Ionization energy",
+  "explanation": "Ionization energy is the quantity of energy required to remove loosely bound electron from an atom."
+}

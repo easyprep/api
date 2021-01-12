@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:37:29.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "07824adc-e8ef-42b8-a9ab-25d7c9f500d5",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of these ratios give the viscosity of a fluid?",
+  "option1": "ratio of the shearing stress to the velocity gradient",
+  "option2": "ratio of the shearing stress to the weight of the fluid",
+  "option3": "ratio of the shearing stress to the density of fluid",
+  "option4": "ratio of the velocity gradient and shearing stress",
+  "option5": "",
+  "answer": "ratio of the shearing stress to the velocity gradient",
+  "explanation": "Viscosity is defined mathematically as the ratio of the shearing stress to the velocity gradient in a fluid. It is represented by the Greek letter <span class=\\'symbol\\'>η</span> (eta)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6668e98b-0438-45bc-b591-5de2f75bbdb9",
+  "labels": "current-affairs,2019-01-18",
+  "question": "On which of the following factors the breaking stress depends?",
+  "option1": "Area of cross-section",
+  "option2": "length of the material",
+  "option3": "Nature of the material",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Nature of the material",
+  "explanation": "Breaking force = P × A Here P is a constant of proportionality and known as breaking stress. Breaking stress is constant for a given material and does not depend upon the dimension (length or thickness) of wire."
+}

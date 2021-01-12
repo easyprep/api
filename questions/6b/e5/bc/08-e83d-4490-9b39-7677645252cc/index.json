@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6be5bc08-e83d-4490-9b39-7677645252cc",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following clearly defines the LGA?",
+  "option1": "A LGA Socket is the connection point for the CPU.",
+  "option2": "It stands for Land Grid Array.",
+  "option3": "It provide connection to motherboard.",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "LGA is a chip package with a very high density of contacts. LGAs differ from traditional chips with protruding pins that are inserted into a socket. An LGA chip has flat pads on the bottom of its package that touch contacts on the motherboard socket."
+}

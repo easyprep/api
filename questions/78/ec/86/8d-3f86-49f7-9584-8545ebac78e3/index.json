@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "78ec868d-3f86-49f7-9584-8545ebac78e3",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the name given to the linear strain produced in the direction of deforming force?",
+  "option1": "Linear strain",
+  "option2": "Longitudinal strain",
+  "option3": "Directional strain",
+  "option4": "Zero strain",
+  "option5": "",
+  "answer": "Longitudinal strain",
+  "explanation": "Linear strain: If the deforming force produces a change in length alone, the strain produced in the body is called linear strain or tensile strain. Linear strain in the direction of deforming force is called longitudinal strain and in a direction perpendicular to force is called lateral strain."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T20:00:20.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "72c17708-a963-4f92-bd64-9e147f3b747f",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Credit Rating Agencies denote the rating score by which of the following symbols?",
+  "option1": "Simple Alphanumeric Symbols",
+  "option2": "Special Symbols",
+  "option3": "Numerical",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Simple Alphanumeric Symbols",
+  "explanation": "Credit Rating Agencies denote the credit ratings by Simple Alphanumeric Symbols like AAA,BBB,Baa etc. These symbols sometimes include numerical also such as Baa2,Baa3 etc."
+}

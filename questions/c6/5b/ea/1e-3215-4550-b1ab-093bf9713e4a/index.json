@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c65bea1e-3215-4550-b1ab-093bf9713e4a",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following is correct about the speed of the sound, at same temperature?",
+  "option1": "sound travels faster in humid air than in dry air",
+  "option2": "sound travels slower in humid air than in dry air",
+  "option3": "speed of sound is same in humid air and dry air",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "sound travels faster in humid air than in dry air",
+  "explanation": "With increase in humidity, density of air decreases. So with rise in humidity velocity of sound increases. This is why sound travels faster in humid air (rainy season) than in dry air (summer) at the same temperature."
+}

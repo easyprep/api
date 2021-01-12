@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "775fc1eb-8ef6-4ef3-aefd-c685ecafce69",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Where will be the image formed by a convex lens when the object is placed at the focus?",
+  "option1": "No image is formed",
+  "option2": "At focus",
+  "option3": "Between focus and optical centre",
+  "option4": "At infinity",
+  "option5": "",
+  "answer": "At infinity",
+  "explanation": "The image is formed at infinity by a convex lens when the object is placed at the focus."
+}

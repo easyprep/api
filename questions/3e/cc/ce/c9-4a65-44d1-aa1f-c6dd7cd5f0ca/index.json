@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3ecccec9-4a65-44d1-aa1f-c6dd7cd5f0ca",
+  "labels": "current-affairs,2019-01-29",
+  "question": "What is the definition of a nibble?",
+  "option1": "A small byte",
+  "option2": "A group of 2 bytes",
+  "option3": "A group of 4 bits",
+  "option4": "A hand held device for playing games",
+  "option5": "",
+  "answer": "A group of 4 bits",
+  "explanation": "A nibble is a four-bit aggregation. It is also known as half-byte or tetrade. A nibble can be conveniently represented by one hexadecimal digit."
+}

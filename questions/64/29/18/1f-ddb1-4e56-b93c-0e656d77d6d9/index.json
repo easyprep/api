@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6429181f-ddb1-4e56-b93c-0e656d77d6d9",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the ratio of the change in collector current to the change in base current at a constant collector-emitter voltage, when the common emitter transistor is in active state, known as?",
+  "option1": "Input resistance",
+  "option2": "Output resistance",
+  "option3": "Current amplification factor",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Current amplification factor",
+  "explanation": "Current amplification factor β: This is defined as the ratio of the change in collector current to the change in base current at a constant collector-emitter voltage (VCE) when the transistor is in active state."
+}

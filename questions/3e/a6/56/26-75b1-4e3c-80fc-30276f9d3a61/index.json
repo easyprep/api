@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3ea65626-75b1-4e3c-80fc-30276f9d3a61",
+  "labels": "current-affairs,2019-01-29",
+  "question": "When a person turn on your computer, which of the following computer memory is the first to activate?",
+  "option1": "RAM",
+  "option2": "ROM",
+  "option3": "BIOS",
+  "option4": "All of the e Above",
+  "option5": "",
+  "answer": "BIOS",
+  "explanation": "BIOS instructions set up the computer and boot the operating system. The BIOS\\'s primary function is to handle the system setup process including driver loading and operating system booting."
+}

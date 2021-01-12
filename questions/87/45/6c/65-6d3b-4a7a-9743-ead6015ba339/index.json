@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "87456c65-6d3b-4a7a-9743-ead6015ba339",
+  "labels": "current-affairs,2019-01-31",
+  "question": "Which of the following is correct about magnetic field lines?",
+  "option1": "Magnetic field lines are closed curves",
+  "option2": "Degree of closeness of the field lines shows the strength of the magnetic field",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The magnetic field lines are closed curves. The relative strength of the magnetic field is shown by the degree of closeness of the field lines."
+}

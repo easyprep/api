@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "722af57d-82e9-42d9-bc4a-a38e1a4aaa95",
+  "labels": "current-affairs,2019-01-25",
+  "question": "Which of the following electromagnetic waves in the EM spectrum has the shortest frequency?",
+  "option1": "Radio",
+  "option2": "Gamma",
+  "option3": "X-rays",
+  "option4": "Infrared",
+  "option5": "",
+  "answer": "Radio",
+  "explanation": "The electromagnetic spectrum when arranged from the lowest to the highest frequency includes all radio waves (e.g., commercial radio and television, microwaves, radar), infrared radiation, visible light, ultraviolet radiation, X-rays, and gamma rays."
+}

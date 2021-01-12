@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "04fed2f0-9762-46a3-b86a-096bffe0353f",
+  "labels": "current-affairs,2019-01-23",
+  "question": "How are registers measured?",
+  "option1": "Number of programs",
+  "option2": "Number of bits",
+  "option3": "Number of Occurence",
+  "option4": "Number of reference points",
+  "option5": "",
+  "answer": "Number of bits",
+  "explanation": "Registers are normally measured by the number of bits they can hold like an 8-bit register, a 32-bit register etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c3af5cb1-a1c0-447b-9596-31fb506353d4",
+  "labels": "current-affairs,2019-01-28",
+  "question": "Which of the following devices is used for reading bar coded data ?",
+  "option1": "Graphic Tablet",
+  "option2": "Numeric Pad",
+  "option3": "Bar Code Reader",
+  "option4": "Magnetic Stripe Reader",
+  "option5": "",
+  "answer": "Bar Code Reader",
+  "explanation": "A bar code reader is an electronic device that can read and output printed barcodes to a computer. A barcode reader works by directing a beam of light across the bar code and measuring the amount of light that is reflected back."
+}

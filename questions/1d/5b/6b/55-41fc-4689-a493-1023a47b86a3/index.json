@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:30:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1d5b6b55-41fc-4689-a493-1023a47b86a3",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the unit of Specific gravity?",
+  "option1": "kg m<sup>-3</sup>",
+  "option2": "kg m<sup>-2</sup>",
+  "option3": "kg m<sup>-1</sup>",
+  "option4": "No units",
+  "option5": "",
+  "answer": "No units",
+  "explanation": "Specific gravity is a unitless quantity. Specific gravity is the ratio of two same dimensions. The dimensions of density is M<sup>1</sup> L<sup>- 3</sup>"
+}

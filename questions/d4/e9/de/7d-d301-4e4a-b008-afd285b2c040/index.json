@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d4e9de7d-d301-4e4a-b008-afd285b2c040",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What do we call the rate at which electric energy is dissipated or consumed in an electric circuit?",
+  "option1": "Conductance",
+  "option2": "Power",
+  "option3": "Resistance",
+  "option4": "Potential Difference",
+  "option5": "",
+  "answer": "Power",
+  "explanation": "Power is the rate at which electric energy is dissipated or consumed in an electric circuit."
+}

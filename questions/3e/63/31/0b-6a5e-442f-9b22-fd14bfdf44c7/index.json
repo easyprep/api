@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3e63310b-6a5e-442f-9b22-fd14bfdf44c7",
+  "labels": "current-affairs,2019-01-31",
+  "question": "Which of the following is correct?",
+  "option1": "Soft iron is a hard ferromagnetic material",
+  "option2": "Alnico is a soft ferromagnetic material",
+  "option3": "At high enough temperature, a ferromagnet becomes a paramagnet",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "At high enough temperature, a ferromagnet becomes a paramagnet",
+  "explanation": "The ferromagnetic property depends on temperature. At high enough temperature, a ferromagnet becomes a paramagnet. Soft iron is a soft ferromagnetic material and Alnico is a hard ferromagnetic material."
+}

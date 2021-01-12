@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d2ea909f-5dc8-4a9b-9781-c40e6061b53d",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following represents Pressure?",
+  "option1": "Force/Density",
+  "option2": "Force x Area",
+  "option3": "Force/Area",
+  "option4": "Force/ Acceleration",
+  "option5": "",
+  "answer": "Force/Area",
+  "explanation": "The pressure is defined as the normal force acting per unit area. It is denoted by P. P = Force/Area It is the physical force exerted on an object and the force applied is perpendicular to the surface of objects per unit area."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9915e4f6-3a7d-4b3e-82e2-852a19ec1e62",
+  "labels": "current-affairs,2019-01-28",
+  "question": "For how long approximately an image persists on the retina before vanishing?",
+  "option1": "1/8 seconds",
+  "option2": "1/16 seconds",
+  "option3": "1/32 seconds",
+  "option4": "1 second",
+  "option5": "",
+  "answer": "1/16 seconds",
+  "explanation": "The impression of an image does not vanish immediately from the retina. It persists there for about 1/16th of a second. So, if still images of a moving object are flashed on the eye at a rate faster than 16 per second, then the eye perceives this object as moving."
+}

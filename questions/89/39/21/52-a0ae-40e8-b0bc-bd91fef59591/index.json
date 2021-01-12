@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "89392152-a0ae-40e8-b0bc-bd91fef59591",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following stands for the input function of the computer?",
+  "option1": "Receiving or accepting information from outside sources",
+  "option2": "Processing information in structured format",
+  "option3": "Transforming raw data into information",
+  "option4": "Store results for future use",
+  "option5": "",
+  "answer": "Receiving or accepting information from outside sources",
+  "explanation": "Input, storage,  processing and output are four basic functions of the computer. Input basically stands for entering data or receiving or accepting information from outside sources."
+}

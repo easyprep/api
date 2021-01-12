@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "34141e43-b076-4b1e-a88a-bc4bee084504",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What are the oscillations of a body whose amplitude goes on decreasing with time called as?",
+  "option1": "Free oscillation",
+  "option2": "Maintained oscillation",
+  "option3": "Forced oscillation",
+  "option4": "Damped oscillation",
+  "option5": "",
+  "answer": "Damped oscillation",
+  "explanation": "The oscillation of a body whose amplitude goes on decreasing with time are defined as damped oscillation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "310f686a-896c-4df3-9e52-38027e058001",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Which of the following is equal to the upthrust of the body?",
+  "option1": "mass of body",
+  "option2": "weight of liquid",
+  "option3": "weight of liquid displaced",
+  "option4": "density of liquid",
+  "option5": "",
+  "answer": "weight of liquid displaced",
+  "explanation": "Archimedes Principle: when a body is immersed partially or completely in a liquid, it experiences an upthrust, which is equal to the weight of the liquid displaced by the body."
+}

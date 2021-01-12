@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2e374e87-75ee-41a8-baf6-34e504c716d7",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the effect on apparent frequency when the distance between the source of the sound and listener is decreased?",
+  "option1": "it increases",
+  "option2": "it decreases",
+  "option3": "it remains same",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it increases",
+  "explanation": "As per the Doppler effect, when the distance between the source and listener is decreasing the apparent frequency increases. It means the apparent frequency is more than the actual frequency of sound."
+}

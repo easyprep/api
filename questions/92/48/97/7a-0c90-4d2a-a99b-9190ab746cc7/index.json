@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "9248977a-0c90-4d2a-a99b-9190ab746cc7",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following is the storage device that uses rigid, permanently installed magnetic disks to store data ?",
+  "option1": "Non-volatile Disk",
+  "option2": "Permanent disk",
+  "option3": "Optical disk",
+  "option4": "Hard disk",
+  "option5": "",
+  "answer": "Hard disk",
+  "explanation": "A hard disk drive is an electromechanical data storage device that uses magnetic storage to store and retrieve digital information. HDDs are the dominant secondary storage device for general-purpose computers."
+}

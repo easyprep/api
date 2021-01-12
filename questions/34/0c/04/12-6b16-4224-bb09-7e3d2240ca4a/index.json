@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-25T23:18:36.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "340c0412-6b16-4224-bb09-7e3d2240ca4a",
+  "labels": "current-affairs,2019-01-26",
+  "question": "Which of the following computer component allows you to connect to the internet?",
+  "option1": "Sound Board",
+  "option2": "ROM",
+  "option3": "Hard Drive",
+  "option4": "Modem",
+  "option5": "",
+  "answer": "Modem",
+  "explanation": "A modem is a hardware device that converts data between transmission media so that it can be transmitted from computer to computer. Computer information is stored digitally, whereas information transmitted over telephone lines is transmitted in the form of analog waves."
+}

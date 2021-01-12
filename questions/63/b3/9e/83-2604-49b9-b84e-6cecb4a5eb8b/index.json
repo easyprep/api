@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "63b39e83-2604-49b9-b84e-6cecb4a5eb8b",
+  "labels": "current-affairs,2019-01-18",
+  "question": "Which of the following factors do not affect the value of modulus of elasticity of a body?",
+  "option1": "Nature of material",
+  "option2": "Temperature of the body",
+  "option3": "Length and volume and of the body",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Length and volume and of the body",
+  "explanation": "Modulus of elasticity (E) depends upon the nature of material of the body and the manner in which the body is deformed. Modulus of elasticity (E) depends upon the temperature of the body. Modulus of elasticity (E) is independent of the dimensions (length, volume etc.) of the body"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f71524a8-50e0-4808-bac6-c775762b78ee",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What happens to a body when its density is greater than the density of the fluid?",
+  "option1": "it floats",
+  "option2": "it sinks",
+  "option3": "it stays at rest",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it sinks",
+  "explanation": "The body sinks in the fluid in case its density is greater than the density of the fluid. For example, an iron nail has greater density than water, therefore it sinks in water."
+}

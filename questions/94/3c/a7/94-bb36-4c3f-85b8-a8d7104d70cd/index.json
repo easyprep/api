@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "943ca794-bb36-4c3f-85b8-a8d7104d70cd",
+  "labels": "current-affairs,2019-01-29",
+  "question": "Which is the memory that works on time sharing principle in order to create an illusion of infinite memory space?",
+  "option1": "Cache memory",
+  "option2": "Register",
+  "option3": "Virtual memory",
+  "option4": "Primary memory",
+  "option5": "",
+  "answer": "Virtual memory",
+  "explanation": "Virtual memory is that uses hardware and software to allow a computer to compensate for physical memory shortages by temporarily transferring data from random access memory (RAM) to disk storage."
+}

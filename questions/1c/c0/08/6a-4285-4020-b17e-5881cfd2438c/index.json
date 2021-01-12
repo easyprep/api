@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1cc0086a-4285-4020-b17e-5881cfd2438c",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following is a display device in which images are produced when an electron beam strikes a phosphorescent surface?",
+  "option1": "CRT",
+  "option2": "LCD",
+  "option3": "LED",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "CRT",
+  "explanation": "A cathode ray tube (CRT) is a specialized vacuum tube in which images are produced when an electron beam strikes a phosphorescent surface. Most desktop computer displays make use of CRTs."
+}

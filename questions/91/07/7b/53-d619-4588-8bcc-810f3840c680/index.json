@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "91077b53-d619-4588-8bcc-810f3840c680",
+  "labels": "current-affairs,2019-01-29",
+  "question": "The CPU and Memory are located in which of the following ?",
+  "option1": "Expansion Board",
+  "option2": "Mother Board",
+  "option3": "Storage Device",
+  "option4": "Output Device",
+  "option5": "",
+  "answer": "Mother Board",
+  "explanation": "Motherboard holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit and memory, and provides connectors for other peripherals."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:10.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ea42a53d-8f7b-4228-bc00-f2afc9044aae",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What do we call the nuclides having same mass number?",
+  "option1": "Isotopes",
+  "option2": "Isobars",
+  "option3": "Isotones",
+  "option4": "Such species don’t exist",
+  "option5": "",
+  "answer": "Isobars",
+  "explanation": "All nuclides with same mass number A are called isobars."
+}

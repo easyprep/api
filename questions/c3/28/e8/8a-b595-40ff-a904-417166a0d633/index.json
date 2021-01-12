@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "c328e88a-b595-40ff-a904-417166a0d633",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the name given to the most recent storage device technology?",
+  "option1": "Floppy Drive",
+  "option2": "Optical",
+  "option3": "NVMe",
+  "option4": "Laser",
+  "option5": "",
+  "answer": "Floppy Drive",
+  "explanation": "Non-Volatile Memory Express, also known as NVMe, is a device technology introduced by Intel in 2007. It standardizes the way that non- volatile memory devices, such as SSDs, can be connected to a computer."
+}

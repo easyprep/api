@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:06:45.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6ceb56fe-1f01-48b8-a41e-e9c8986fdcf3",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the effect of increase of temperature on the speed of sound?",
+  "option1": "it increases",
+  "option2": "it decreases",
+  "option3": "it may or may not increase",
+  "option4": "No effect",
+  "option5": "",
+  "answer": "it increases",
+  "explanation": "In any medium as we increase the temperature the speed of sound increases. For example, the speed of sound in air is 331 m s–1 at 0 ºC and 344 m s–1 at 22 ºC."
+}

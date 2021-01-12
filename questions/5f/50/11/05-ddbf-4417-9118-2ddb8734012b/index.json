@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:19:11.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "5f501105-ddbf-4417-9118-2ddb8734012b",
+  "labels": "current-affairs,2019-02-01",
+  "question": "Which of the following represents the angular momentum of an electron as per Bohr's model (h= Planck's constant)?",
+  "option1": "h/π",
+  "option2": "nh/2π",
+  "option3": "2πnh",
+  "option4": "πnh",
+  "option5": "",
+  "answer": "nh/2π",
+  "explanation": "Bohr's postulate states that the electron revolves around the nucleus only in those orbits for which the angular momentum is some integral multiple of h/2π where h is the Planck’s constant (= 6.6 × 10<sup>–34</sup> J s). Thus the angular momentum (L) of the orbiting electron is quantised. That is L = nh/2π"
+}

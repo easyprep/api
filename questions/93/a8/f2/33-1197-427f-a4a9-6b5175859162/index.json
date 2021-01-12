@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "93a8f233-1197-427f-a4a9-6b5175859162",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the full form of SSD?",
+  "option1": "Solid State Drive",
+  "option2": "Software State Drive",
+  "option3": "Solid Software Drive",
+  "option4": "Solid State Driver",
+  "option5": "",
+  "answer": "Solid State Drive",
+  "explanation": "A SSD is a storage medium that uses non-volatile memory as a means of holding and accessing data.SSD has no moving parts which gives it advantages such as faster access time, noiseless operation, higher reliability, and lower power consumption."
+}

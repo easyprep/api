@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:17:30.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "088a58d1-5f06-4257-84eb-fb2b0b559579",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the S.I unit of Pressure?",
+  "option1": "N/Kg m<sup>2</sup>",
+  "option2": "N/m",
+  "option3": "N/m<sup>3</sup> s",
+  "option4": "N/m<sup>2</sup>",
+  "option5": "",
+  "answer": "N/m<sup>2</sup>",
+  "explanation": "The SI unit of pressure is N/m<sup>2</sup> It has been named as Pascal (Pa) in honour of the French scientist Blaise Pascal for carrying out pioneering studies on fluid pressure. Its dimensions are M L<sup>-1</sup>T <sup>-2</sup>"
+}

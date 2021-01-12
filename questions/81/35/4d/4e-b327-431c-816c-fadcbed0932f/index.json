@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:52:42.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "81354d4e-b327-431c-816c-fadcbed0932f",
+  "labels": "current-affairs,2019-02-02",
+  "question": "What is the output of an OR gate when both the inputs are 1?",
+  "option1": 0,
+  "option2": 1,
+  "option3": "Either 0 or 1",
+  "option4": "None",
+  "option5": "",
+  "answer": 1,
+  "explanation": "The OR gate is a digital logic gate that gives a HIGH output if one or both the inputs to the gate are HIGH."
+}

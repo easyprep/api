@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "8c12d496-c44e-4915-b6cd-ddef63edf1a2",
+  "labels": "current-affairs,2019-01-18",
+  "question": "Which of the following strains is produced in a body if the deforming force produces a change in the shape of the body without changing its volume?",
+  "option1": "Linear",
+  "option2": "Volumetric",
+  "option3": "Shearing",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Shearing",
+  "explanation": "If the deforming force produces a change in the shape of the body without changing its volume, the strain produced in the body is called as shearing strain. Shearing strain is defined as angle in radians through which a plane perpendicular to the fixed surface of the cubical body gets turned under the effect of tangential force."
+}

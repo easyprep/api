@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "863b7131-4d81-4fd7-8ff3-690f64015f76",
+  "labels": "current-affairs,2019-01-23",
+  "question": "What kind of data is processed by an analog computer?",
+  "option1": "Discrete Data",
+  "option2": "Intermittent Data",
+  "option3": "Discretely varying Data",
+  "option4": "Continuously varying Data",
+  "option5": "",
+  "answer": "Continuously varying Data",
+  "explanation": "An analog computer is the one which is used to process continuously varying data. This changeable yet continuous data is generally referred to as the analog data."
+}

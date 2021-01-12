@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "858b88a5-3e6b-4d63-aec7-45477b2a05ed",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following is the another name given to the LCD display?",
+  "option1": "LED",
+  "option2": "TFT",
+  "option3": "CRT",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "TFT",
+  "explanation": "A thin-film-transistor or TFT is a variant of a liquid-crystal display (LCD) that uses thin-film-transistor (TFT) technology to improve image qualities such as addressability and contrast."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "84608c86-80ca-4178-aff3-420ffb603d41",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the force that is required to produce unit elongation in a wire known as?",
+  "option1": "Bulk modulus",
+  "option2": "Thermal strain",
+  "option3": "Thermal stress",
+  "option4": "Force constant",
+  "option5": "",
+  "answer": "Force constant",
+  "explanation": "Force constant of material of wire is the force required to produce unit elongation in a wire. It is denoted by k. K = F/l or K = YA/l"
+}

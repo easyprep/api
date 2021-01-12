@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T18:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "67921e1b-fdd3-4343-954e-3e13c33bcf96",
+  "labels": "current-affairs,2019-01-23",
+  "question": "What are four basic functional elements of a digital computer?",
+  "option1": "Input-Output Equipment",
+  "option2": "Main Memory",
+  "option3": "Control Unit and ALU",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "A digital computer system has four basic functional elements like the input-output equipment, main memory, control unit and the arithmetic logic unit."
+}

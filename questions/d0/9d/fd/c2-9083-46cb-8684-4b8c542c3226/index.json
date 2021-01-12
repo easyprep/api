@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-24T20:04:46.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "d09dfdc2-9083-46cb-8684-4b8c542c3226",
+  "labels": "current-affairs,2019-01-25",
+  "question": "What is the relation between frequency(ν) and angular frequency(<span class='symbol'>ω</span>) of a wave?",
+  "option1": "<span class='symbol'>ν </span> = π/<span class=\\'symbol\\'>ω</span>",
+  "option2": "<span class='symbol'>ν </span>= π/<span class=\\'symbol\\'>ω</span>",
+  "option3": "<span class='symbol'>ν </span>= 2π<span class=\\'symbol\\'>ω</span>",
+  "option4": "<span class='symbol'>ν</span> = 2π/<span class=\\'symbol\\'>ω</span>",
+  "option5": "",
+  "answer": "<span class='symbol'>ν </span>= 2π<span class=\\'symbol\\'>ω</span>",
+  "explanation": "The frequency <span class=\\'symbol\\'>ν </span> is the number of oscillations per second and it is related to the angular frequency(<span class=\\'symbol\\'>ω</span>) as <span class=\\'symbol\\'>ν </span> = 2π<span class=\\'symbol\\'>ω</span>."
+}

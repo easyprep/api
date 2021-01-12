@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-30T17:35:59.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "fc1d5018-bbc1-48d6-9da3-cbfe4c675572",
+  "labels": "current-affairs,2019-01-31",
+  "question": "What is the relationship between the magnetic field in the straight conductor and the distance from it?",
+  "option1": "magnetic field decreases as the distance increases",
+  "option2": "magnetic field increases as the distance increases",
+  "option3": "magnetic field is independent of the distance",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "magnetic field decreases as the distance increases",
+  "explanation": "The magnetic field produced by a given current in the conductor decreases as the distance from it increases."
+}

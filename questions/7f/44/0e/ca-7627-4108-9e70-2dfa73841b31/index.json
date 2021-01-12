@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7f440eca-7627-4108-9e70-2dfa73841b31",
+  "labels": "current-affairs,2019-01-20",
+  "question": "When will the height of water in capillary tube be minimum?",
+  "option1": "When water temperature is 0° C",
+  "option2": "When water temperature is 4° C",
+  "option3": "When water temperature is -4° C",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "When water temperature is 4° C",
+  "explanation": "The height up to which water will rise in a capillary tube will be minimum when water temperature is 4° C. It is the temperature at which liquid water has the highest density."
+}

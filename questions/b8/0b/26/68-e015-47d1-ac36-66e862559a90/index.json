@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b80b2668-e015-47d1-ac36-66e862559a90",
+  "labels": "current-affairs,2019-02-05",
+  "question": "What is the name given to a person who designs the programs in a software package?",
+  "option1": "User",
+  "option2": "Software Instructor",
+  "option3": "Software Designer",
+  "option4": "System Programmer",
+  "option5": "",
+  "answer": "System Programmer",
+  "explanation": "The programs included in a system software package are called system programs. The programmers who design them and prepare them are called system programmers."
+}

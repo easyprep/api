@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "6fff0d96-760b-47c2-9c92-cece4accbaa6",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following are the another names for a PEN Drive?",
+  "option1": "USB Flash Drive",
+  "option2": "Gig Stick",
+  "option3": "Thumb Drive",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Pen Drive is also known as a USB flash drive, thumb drive, pen drive, gig stick, flash stick, jump drive, disk key. It is a data storage device that includes flash memory with an integrated USB interface. It is typically removable, rewritable and much smaller than an optical disc."
+}

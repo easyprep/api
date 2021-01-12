@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "50d843e9-a7fa-463c-a7eb-785e792bca3e",
+  "labels": "current-affairs,2019-01-20",
+  "question": "What is the shape of meniscus when angle of contact is greater than 90°?",
+  "option1": "Concave",
+  "option2": "Convex",
+  "option3": "Plane",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Convex",
+  "explanation": "When angle of contact is greater than 90°, the shape of meniscus is convex. When angle of contact is less than 90°, the shape of meniscus is concave. When angle of contact is equal to 90°, the shape of meniscus is plain."
+}

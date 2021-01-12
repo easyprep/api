@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "f7260eca-d80d-4a07-9255-d7f645916216",
+  "labels": "current-affairs,2019-01-29",
+  "question": "What is the storage element for a static RAM ?",
+  "option1": "Diode",
+  "option2": "Resistor",
+  "option3": "Capacitor",
+  "option4": "Flip-flop",
+  "option5": "",
+  "answer": "Flip-flop",
+  "explanation": "The flip flop is an electronic circuit with two stable states that can be used to store binary data. Flip-flops and latches are fundamental building blocks of digital electronics systems used in computers and communications."
+}

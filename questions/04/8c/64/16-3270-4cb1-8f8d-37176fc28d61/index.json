@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "048c6416-3270-4cb1-8f8d-37176fc28d61",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Which of the following are different SDLC Models?",
+  "option1": "Waterfall Model",
+  "option2": "Iterative Model",
+  "option3": "Big Bang Model",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "There are several SDLC models available such as Waterfall Model, Iterative Model, Spiral model, V-model and Big-bang Model etc."
+}

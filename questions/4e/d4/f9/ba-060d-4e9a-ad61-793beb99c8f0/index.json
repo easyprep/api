@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-19T16:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "4ed4f9ba-060d-4e9a-ad61-793beb99c8f0",
+  "labels": "current-affairs,2019-01-20",
+  "question": "Why a small liquid drop is in spherical shape?",
+  "option1": "due to surface tension",
+  "option2": "due to low viscosity",
+  "option3": "due to hydrogen bonding",
+  "option4": "due to low density",
+  "option5": "",
+  "answer": "due to surface tension",
+  "explanation": "For a given volume, the sphere has minimum surface area. A small liquid drop has spherical shape as due to surface tension the liquid surface tries to have minimum surface area."
+}

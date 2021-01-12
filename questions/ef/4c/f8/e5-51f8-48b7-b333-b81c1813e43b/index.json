@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T02:38:12.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "ef4cf8e5-51f8-48b7-b333-b81c1813e43b",
+  "labels": "current-affairs,2019-01-21",
+  "question": "In a book of which author was the word computer first mentioned?",
+  "option1": "Mark Twain",
+  "option2": "Sherlock Holmes",
+  "option3": "Richard Braithwait",
+  "option4": "Enid Blyton",
+  "option5": "",
+  "answer": "Richard Braithwait",
+  "explanation": "As per the Oxford English Dictionary, the word \\\"computer\\\" was first used in 1613 in a book called The Yong Mans Gleanings by English writer Richard Braithwait."
+}

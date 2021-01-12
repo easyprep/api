@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e5d0f9f5-1356-4f80-b9ac-a8249fd2340e",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What is the use of Output devices?",
+  "option1": "To input data",
+  "option2": "To store data",
+  "option3": "To scan data",
+  "option4": "To view or print data",
+  "option5": "",
+  "answer": "To view or print data",
+  "explanation": "An output device is any device that receives data from a computer. It is any piece of computer hardware equipment which converts the electronically generated information into human-readable form."
+}

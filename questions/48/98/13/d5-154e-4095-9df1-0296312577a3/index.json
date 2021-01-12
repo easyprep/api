@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-20T16:04:49.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "489813d5-154e-4095-9df1-0296312577a3",
+  "labels": "current-affairs,2019-01-21",
+  "question": "What happens to the time period of a spring pendulum based clock kept on the earth when it is taken to moon?",
+  "option1": "Time period reduces to half",
+  "option2": "Time period becomes twice",
+  "option3": "Time period becomes one-sixth",
+  "option4": "No change",
+  "option5": "",
+  "answer": "No change",
+  "explanation": "Time of a spring pendulum is independent of acceleration due to gravity. That is why a clock based on spring pendulum will keep proper time every where on a hill or moon or in a satellite and time period of a spring pendulum will not change inside a liquid if damping effects are neglected."
+}

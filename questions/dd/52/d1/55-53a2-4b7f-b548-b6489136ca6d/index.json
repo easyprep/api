@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "dd52d155-53a2-4b7f-b548-b6489136ca6d",
+  "labels": "current-affairs,2019-02-05",
+  "question": "A software is a set of instructions or programs to execute a specific task. Which one is not a form of software?",
+  "option1": "Microsoft Word",
+  "option2": "Microsoft Excel",
+  "option3": "Microsoft PowerPoint",
+  "option4": "Monitor",
+  "option5": "",
+  "answer": "Monitor",
+  "explanation": "Software is a general term for the various kinds of programs used to operate computers and related devices. Monitor is a hardware component soft the computer system."
+}

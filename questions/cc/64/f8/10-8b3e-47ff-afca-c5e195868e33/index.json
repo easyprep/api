@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T13:53:40.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "cc64f810-8b3e-47ff-afca-c5e195868e33",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What is the full form of GUI ?",
+  "option1": "Graphical User Instruction",
+  "option2": "Ground User Interface",
+  "option3": "General User Instruction",
+  "option4": "Graphical User Interface",
+  "option5": "",
+  "answer": "Graphical User Interface",
+  "explanation": "GUI stands for a graphical user interface. Graphical user interface basically provides a set of graphical elements on the screen to the users. Commonly used for point-and-draw devices."
+}

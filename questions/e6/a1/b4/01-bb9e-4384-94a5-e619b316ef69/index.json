@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "e6a1b401-bb9e-4384-94a5-e619b316ef69",
+  "labels": "current-affairs,2019-02-02",
+  "question": "There are many types of plotters available. Which of the following is the type of a plotter?",
+  "option1": "Drum Plotter",
+  "option2": "Flatbed Plotter",
+  "option3": "Handheld plotter",
+  "option4": "Both a and b",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "There are two main types of plotters – drum and flatbed plotters. Drum plotters spin the paper back and forth on a cylindrical drum while the ink pens move left and right. The drum plotters are generally smaller than flatbed plotters."
+}

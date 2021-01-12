@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-31T01:24:22.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7ba1cec1-a8b2-49d5-9c3f-76959809bb23",
+  "labels": "current-affairs,2019-02-01",
+  "question": "What is the name given to the storage device used for storing very small amounts of data such as small audio and video files?",
+  "option1": "Magnetic card",
+  "option2": "Magnetic tape",
+  "option3": "Punched card",
+  "option4": "Optical mark reader",
+  "option5": "",
+  "answer": "Magnetic card",
+  "explanation": "A magnetic card is a type of card capable of storing data. The magnetic card sometimes called swipe card or magstripe. Magnetic cards are commonly used in credit cards, identity cards, and transportation tickets."
+}

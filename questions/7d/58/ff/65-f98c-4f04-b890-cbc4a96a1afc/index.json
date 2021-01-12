@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "7d58ff65-f98c-4f04-b890-cbc4a96a1afc",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following comprise commonly used Assembly language?",
+  "option1": "ARM",
+  "option2": "COBOL",
+  "option3": "BASIC",
+  "option4": "Python",
+  "option5": "",
+  "answer": "ARM",
+  "explanation": "ARM is a commonly used Assembly language. Its full form is known as Advanced RISC Machine."
+}

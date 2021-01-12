@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-01T20:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "feae5d36-8fa3-4e13-9b28-f61ada376ba9",
+  "labels": "current-affairs,2019-02-02",
+  "question": "Which of the following components of Personal Computer maintains date and time of the system?",
+  "option1": "CMOS RAM",
+  "option2": "VRAM",
+  "option3": "PROM",
+  "option4": "Motherboard",
+  "option5": "",
+  "answer": "CMOS RAM",
+  "explanation": "CMOS RAM is a volatile, low-power complementary metal-oxide-semiconductor. It is alternatively referred to as Real Time Clock."
+}

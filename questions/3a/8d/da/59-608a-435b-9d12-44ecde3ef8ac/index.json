@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:02.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "3a8dda59-608a-435b-9d12-44ecde3ef8ac",
+  "labels": "current-affairs,2019-01-18",
+  "question": "What is the order of distance for Vander Wall forces to be active?",
+  "option1": "10<sup>–6</sup> metre",
+  "option2": "10<sup>–7</sup> metre",
+  "option3": "10<sup>–8</sup> metre",
+  "option4": "10<sup>–9</sup> metre",
+  "option5": "",
+  "answer": "10<sup>–9</sup> metre",
+  "explanation": "The forces between the molecules because of the electrostatic interaction between the charges of the molecules are called intermolecular forces. These forces are also called Vander Waal forces. They are quite weak as compared to inter-atomic forces. These forces are also electrical in nature. They are active if the separation between two molecules is of the order of molecular size i.e. 10<sup>–9</sup> metre."
+}

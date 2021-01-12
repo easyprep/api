@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-22T15:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "1b45b33c-c40c-4320-a718-40c7c0f72978",
+  "labels": "current-affairs,2019-01-23",
+  "question": "Which of the following is not the basic capability of a computer?",
+  "option1": "Speed",
+  "option2": "Accuracy",
+  "option3": "Prediction",
+  "option4": "Processing",
+  "option5": "",
+  "answer": "Prediction",
+  "explanation": "The basic functions of a computer include speed, accuracy, reliability, adaptability and storage. A computer cannot make predictions by itself. It can only make assessments based on the data which is fed into it."
+}

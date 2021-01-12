@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:55.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b4330c61-16ea-4ef9-af70-fbb1b313c554",
+  "labels": "current-affairs,2019-01-29",
+  "question": "Which of the following is the another name for Secondary Memory?",
+  "option1": "Auxiliary Memory",
+  "option2": "Virtual memory",
+  "option3": "Main memory",
+  "option4": "Internal Storage",
+  "option5": "",
+  "answer": "Auxiliary Memory",
+  "explanation": "Auxiliary memory, also known as Secondary memory or External memory, is a non-volatile memory. Secondary Memory isn't directly accessible to the CPU like primary storage."
+}

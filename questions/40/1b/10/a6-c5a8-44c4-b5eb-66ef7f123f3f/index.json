@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "401b10a6-c5a8-44c4-b5eb-66ef7f123f3f",
+  "labels": "current-affairs,2019-01-28",
+  "question": "What number does orange colour represent in the resistance colour code?",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 3,
+  "explanation": "The resistors have a set of co-axial coloured rings on them. The first two bands from the end indicate the first two significant figures of the resistance in ohms. The third band indicates the decimal multiplier. The last band stands for tolerance or possible variation in percentage about the indicated values."
+}

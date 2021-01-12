@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-27T16:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "b9d0837d-07ad-4003-ae10-45846d24b01c",
+  "labels": "current-affairs,2019-01-28",
+  "question": "As per Ohm's law, if the resistance of a conductor is doubled, what will be the effect on the current flowing through it?",
+  "option1": "it gets doubled",
+  "option2": "it gets halved",
+  "option3": "it increases 4 times",
+  "option4": "No change",
+  "option5": "",
+  "answer": "it gets halved",
+  "explanation": "As per Ohm's law, if the resistance of a conductor is doubled, the electric current flowing through it gets halved. As per Ohm's Law: R = V/I where R= Resistance, V= Potential Difference, I = Current"
+}

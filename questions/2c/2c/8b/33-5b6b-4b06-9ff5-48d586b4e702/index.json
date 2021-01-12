@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-28T23:45:56.000Z",
+  "updated_at": "2021-01-06T08:24:35.506Z",
+  "id": "2c2c8b33-5b6b-4b06-9ff5-48d586b4e702",
+  "labels": "current-affairs,2019-01-29",
+  "question": "Which of the following is the use of nano control memory ?",
+  "option1": "Improve the speed of execution",
+  "option2": "Reduce the overall control memory size",
+  "option3": "Reduce the complexity of hardware",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Reduce the overall control memory size",
+  "explanation": "Nano-RAM is a computer memory technology . It is developed by Nantero. It is a type of nonvolatile random access memory. Nantero was founded in 2001, and headquartered in Woburn, Massachusetts."
+}
