@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-30T13:44:04.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "33cc755b-5896-420d-adf9-bd97b1b056cd",
+  "labels": "current-affairs,2019-05-01",
+  "question": "Who among the following advises the Government of India on legal matters?",
+  "option1": "Speaker of the Lok Sabha",
+  "option2": "Governor of Reserve Bank of India",
+  "option3": "President",
+  "option4": "Attorney General",
+  "option5": "",
+  "answer": "Attorney General",
+  "explanation": "The attorney general is a member of the government but not of the cabinet. He is consulted on the drafting of all government bills, advises government departments on matters of law, and has a wide range of court-related duties."
+}

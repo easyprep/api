@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T21:28:04.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "b73d0da7-911e-4f3c-a862-acaa6384a8d0",
+  "labels": "current-affairs,2019-05-29",
+  "question": "Who manages the registration and management activities of Urban co-operative banks in India?",
+  "option1": "RBI",
+  "option2": "NABARD",
+  "option3": "RCS",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "RCS",
+  "explanation": "Registration and Management activities are managed by Registrar of Cooperative Societies (RCS). These RCS operate in single-state and Central RCS (CRCS) in multiple states."
+}

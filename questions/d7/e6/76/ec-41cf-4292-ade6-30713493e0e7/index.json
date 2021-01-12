@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T22:11:13.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d7e676ec-41cf-4292-ade6-30713493e0e7",
+  "labels": "current-affairs,2019-05-29",
+  "question": "Which of these accounts can be opened in a Payment Bank?",
+  "option1": "Savings Account",
+  "option2": "Current Account",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Both current account and savings accounts can be opened in a Payment Bank. The deposit limit is Rs 100000 at present."
+}

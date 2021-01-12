@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T14:36:33.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "30bb7ad0-5f3c-4088-9676-83ac926b9287",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is downpayment?",
+  "option1": "Difference between the total purchase value and the loan amount",
+  "option2": "First EMI of the loan amount",
+  "option3": "Last EMI of the loan amount",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Difference between the total purchase value and the loan amount",
+  "explanation": "The difference between the total purchase value and the loan amount. The borrower is responsible for providing the funds for the downpayment."
+}

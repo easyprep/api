@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:45:01.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "952ad7b2-b764-4e26-a8d2-21a6fe72f015",
+  "labels": "current-affairs,2019-05-30",
+  "question": "In how many languages is the amount is written on the bank note?",
+  "option1": 15,
+  "option2": 17,
+  "option3": 19,
+  "option4": 22,
+  "option5": "",
+  "answer": 17,
+  "explanation": "The amount of a banknote is written on it in 17 languages out of 22 official languages of India. The languages are Assamese, Bengali, Gujarati, Kannada, Kashmiri, Konkani, Malayalam, Marathi, Nepali, Oriya, Punjabi, Sanskrit, Tamil, Telugu and Urdu."
+}

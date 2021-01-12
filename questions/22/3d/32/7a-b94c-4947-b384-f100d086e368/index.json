@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "223d327a-b94c-4947-b384-f100d086e368",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Consider the following statements with regard to the Remove DEBRIS Mission, sometimes seen in news:\r\n<ol>\r\n<li>It is a satellite to test possible solutions in cleaning up space junk</li>\r\n<li>It will attempt to capture simulated space debris using a net and a harpoon</li>\r\n<li>The technology used in this mission has been developed by NASA</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Statement 1 is correct: The Remove Debris spacecraft is the first-ever satellite to test possible solutions in cleaning up space junk has been deployed by the International Space Station (ISS) and would soon begin experiments in orbit. The Britain-built satellite, named Remove DEBRIS mission, is one of the world’s first attempts to tackle the build-up of dangerous space debris orbiting the Earth. <br />Statement 2 is correct: The Remove Debris spacecraft will attempt to capture simulated space debris using a net and a harpoon while also testing advanced cameras and radar systems.<br />Statement 3 is incorrect: The Remove DEBRIS mission is led by the University of Surrey and built by the world’s leading small satellite manufacturer Surrey Satellite Technology Limited (SSTL), with technology on board designed by Airbus. It was launched on a SpaceX Dragon spacecraft from Florida in April."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T20:44:46.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "8cb07cc7-9bdd-447c-b3de-3ea8bd9f8a28",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What is the current deposit limit of Payment banks?",
+  "option1": "Rs 2 lakhs",
+  "option2": "Rs 1 lakh",
+  "option3": "Rs 50000",
+  "option4": "Rs 5 lakhs",
+  "option5": "",
+  "answer": "Rs 1 lakh",
+  "explanation": "Payment banks can accept a restricted deposit, which is currently limited to ₹1 lakh per customer. Payment banks offer both current and savings accounts."
+}

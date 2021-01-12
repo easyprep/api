@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "fd0ac6ff-64c3-4930-bdd5-bc089508543a",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Consider the following statements with reference to 'Flex-Fuel', sometimes mentioned in the news:\r\n<ol>\r\n<li>It is a blend of common fuel and ethanol</li>\r\n<li>It burns more cleanly than conventional gasoline</li>\r\n<li>It gives less mileage as compared to conventional gasoline</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "1 and 2 only",
+  "option2": "3 only",
+  "option3": "2 and 3 only",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Statement 1 is correct: The term \\'Flex-Fuel\\' is used to denote ethanol-blended fuels. In India, the government issued a directive allowing blending of ethanol in fuel up to 10%. Statement 2 is correct: From an environmental perspective like CNG, expect flex-fuel to burn more cleanly than conventional gasoline. The presence of alcohol in the burning process allows for better oxidation and means that greenhouse gases will be radically reduced in the exhaust. Statement 3 is correct: Generally Ethanol has 33 percent less energy than gasoline. The more ethanol in your fuel, the worse your fuel mileage is going to be. Thus Ethanol may reduce fuel mileage."
+}

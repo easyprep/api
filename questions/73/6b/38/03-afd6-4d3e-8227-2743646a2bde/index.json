@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-16T21:32:31.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "736b3803-afd6-4d3e-8227-2743646a2bde",
+  "labels": "current-affairs,2019-05-17",
+  "question": "Which country has recently blocked all language editions of Wikipedia?",
+  "option1": "United States",
+  "option2": "China",
+  "option3": "Iran",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China has expanded its ban on Wikipedia to block the community-edited online encyclopedia in all available languages. Hence, Wikipedia had joined thousands of other websites which cannot be accessed in China. According to a report by the Open Observatory of Network Interference (OONI), China started blocking all language editions of Wikipedia from April 2019. China\\'s online censorship apparatus -- dubbed the \\'Great Firewall\\' -- blocks a large number of foreign sites in the country, such as Google, Facebook, LinkedIn and The New York Times. Topics that are deemed too sensitive are also scrubbed. An earlier enforced ban barred Internet users from viewing the Chinese version, as well as the pages for sensitive search terms such as Dalai Lama and the Tiananmen massacre."
+}

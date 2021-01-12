@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T14:36:33.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "5da80bb5-c818-4ffa-a807-ab2ed3e4dfbb",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What do we call the money that is lent for one day in the call money market?",
+  "option1": "Call Money",
+  "option2": "Notice Money",
+  "option3": "Term Money",
+  "option4": "Day Money",
+  "option5": "",
+  "answer": "Call Money",
+  "explanation": "The money that is lent for one day in this market is known as \"Call Money\", and if it exceeds one day (but less than 15 days) it is referred to as \"Notice Money\"."
+}

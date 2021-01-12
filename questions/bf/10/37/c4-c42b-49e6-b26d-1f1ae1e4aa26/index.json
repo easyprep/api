@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:45.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "bf1037c4-c42b-49e6-b26d-1f1ae1e4aa26",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Typhoid fever is caused by which of the following?",
+  "option1": "Allergy",
+  "option2": "Fungus",
+  "option3": "Bacteria",
+  "option4": "Virus",
+  "option5": "",
+  "answer": "Bacteria",
+  "explanation": "Typhoid fever is a systemic infection caused by bacteria <em>Salmonella typhi</em>, usually through ingestion of contaminated food or water. The acute illness is characterized by prolonged fever, headache, nausea, loss of appetite, and constipation or sometimes diarrhoea."
+}

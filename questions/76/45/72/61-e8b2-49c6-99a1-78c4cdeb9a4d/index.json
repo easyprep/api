@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T20:34:07.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "76457261-e8b2-49c6-99a1-78c4cdeb9a4d",
+  "labels": "current-affairs,2019-05-29",
+  "question": "Which section of RBI is not correctly matched?",
+  "option1": "Section 26 - describes the legal tender character of Indian bank notes.",
+  "option2": "Section 18 - manner in which RBI can conduct business",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Section 18 - manner in which RBI can conduct business",
+  "explanation": "Section 18 of the RBI Act deals with emergency loans to banks and Section 17 of the Act defines the manner in which the RBI can conduct business."
+}

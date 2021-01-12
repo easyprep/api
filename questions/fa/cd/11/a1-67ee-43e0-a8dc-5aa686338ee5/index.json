@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-01T15:14:57.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "facd11a1-67ee-43e0-a8dc-5aa686338ee5",
+  "labels": "current-affairs,2019-05-02",
+  "question": "With reference to the Saubhagya scheme, which of the following is / are correct observations?\r\n<ol>\r\n<li>Rural Electrification Corporation has been designated as nodal agency</li>\r\n<li>Maharashtra has completed the 100% electrification under Saubhagya.</li>\r\n<li>The beneficiary households for free electricity connections under the scheme were identified using 2001 census data.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1 and 2",
+  "explanation": "Maharashtra has completed the 100% electrification under the Saubhagya and has illuminated 10,93,614 homes. The beneficiary households for free electricity connections under the scheme would be identified using SECC 2011 data."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-01T15:21:29.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "1e6c8ac5-3168-4c08-8108-b4378baa8001",
+  "labels": "current-affairs,2019-05-02",
+  "question": "Consider the following statements about Lunar probes: 1.Chang-e’4 is china's lunar probe lander-rover. 2.Chandrayaan-1 was India’s first lunar probe. 3.Chang-e'4 touched down at a targeted area near the moon’s south pole in the Von Karman Crater. Which of the above is true?",
+  "option1": "1 only",
+  "option2": "1 and 2 only",
+  "option3": "3 only",
+  "option4": "1,2,3",
+  "option5": "",
+  "answer": "1,2,3",
+  "explanation": "China’s Chang-e’4 lunar probe lander-rover touched down on the lunar far side.Chandrayaan-1 was launched by the Indian Space Research Organization in October 2008."
+}

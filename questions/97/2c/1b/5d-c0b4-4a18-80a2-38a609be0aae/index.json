@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-12T19:44:47.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "972c1b5d-c0b4-4a18-80a2-38a609be0aae",
+  "labels": "current-affairs,2019-05-13",
+  "question": "Which of the following is / are correct statements about Central Bureau of investigation (CBI)?\r\n<ol>\r\n<li>CBI director is appointed by the Centre</li>\r\n<li>CBI derives its powers from Delhi Special Police Establishment Act, 1946</li>\r\n<li>At present, Lokpal Act governs the appointment of the CBI director</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "1 and 2",
+  "option3": "1, 2 & 3",
+  "option4": "2 and 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The CBI draws its legality from the 1946-Delhi Special Police Establishment Act (DSPE). Before the Lokpal Act was legislated, the CBI director was appointed by the DSPE Act. The Lokpal Act governs the appointment of the CBI director. The CBI director is appointed by the Centre on the basis of the recommendation of a search committee."
+}

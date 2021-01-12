@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-26T15:34:27.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "3d5740bd-02d0-406f-a513-f8adb4dfadeb",
+  "labels": "current-affairs,2019-05-27",
+  "question": "Consider the following statements with reference to the effects of Asian Enigma, sometimes in news:\r\n<ol>\r\n<li>It increases the balance of payments of a country</li>\r\n<li>The fiscal deficit and core inflation both increase</li>\r\n<li>It increases the extent of malnutrition in a country</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Statement 1 and 2 are incorrect: The Asian Enigma refers to the fact that South Asian underweight rates in the 1990s and till now are higher than many countries in Africa, south of the Sahara, despite having similar or better levels of GNP per capita.<br />Statement 3 is correct: Generally the home of the malnourished child is sub-Saharan Africa. But the league tables clearly show that the worst- affected region is not Africa but South Asia. Just over 30% of Africa\\'s children are underweight, but the corresponding figure for South Asia is over 50%."
+}

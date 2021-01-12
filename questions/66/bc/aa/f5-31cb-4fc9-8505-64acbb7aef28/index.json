@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:51:17.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "66bcaaf5-31cb-4fc9-8505-64acbb7aef28",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Which of the following functions are performed by RBI as a banker of banks?",
+  "option1": "settlements of inter-bank transactions",
+  "option2": "enables banks to maintain their accounts with RBI for statutory reserve requirements",
+  "option3": "acts as the lender of last resort",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "As a banker of banks, RBI enables smooth and swift clearing and settlements of inter-bank transactions. It also provides efficient means of funds transfer for all banks. It enables banks to maintain their accounts with RBI for statutory reserve requirements and maintenance of transaction balances. The RBI acts as lender of last resort."
+}

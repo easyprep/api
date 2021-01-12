@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "ccc75d10-7d7f-4822-8500-895f45b66dd4",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Which of the following methods can be used to send money over UPI?",
+  "option1": "Mobile number",
+  "option2": "VPA",
+  "option3": "Bank Account Number",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Money can be sent or requested over UPI by following methods: Virtual Payment Address (VPA) or UPI ID, Mobile number, Account number & IFSC, Aadhaar, QR code."
+}

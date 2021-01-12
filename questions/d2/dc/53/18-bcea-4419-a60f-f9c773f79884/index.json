@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:45:01.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d2dc5318-bcea-4419-a60f-f9c773f79884",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the maximum amount for which a note can be printed by the RBI?",
+  "option1": 2000,
+  "option2": 5000,
+  "option3": 10000,
+  "option4": 50000,
+  "option5": "",
+  "answer": 10000,
+  "explanation": "As per RBI act, RBI can issue any note of any denomination but NOT exceeding Rs. 10,000. The notes denomination is notified by Government and RBI acts accordingly."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:50.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "ed83e0e7-8a92-427f-abcc-a313574f642c",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the main constituent of coal gas?",
+  "option1": "Oxygen",
+  "option2": "Water",
+  "option3": "Nitrogen",
+  "option4": "Methane",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "By the destructive distillation of coal, we can obtain coal gas, coal tar and ammonia. Coke is left as a residue. Coal gas contains methane, carbon monoxide and hydrogen. Since all the three are combustible, coal gas is a good fuel with a high calorific value."
+}

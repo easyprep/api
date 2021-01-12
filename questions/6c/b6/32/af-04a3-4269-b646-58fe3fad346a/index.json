@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "6cb632af-04a3-4269-b646-58fe3fad346a",
+  "labels": "current-affairs,2019-05-19",
+  "question": "With reference to Android Things recently in the news, consider the following statements:\r\n<ol>\r\n<li>It is an alternative to the Internet of Things (IoT) which works without internet</li>\r\n<li>It is a project of Google</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "Statement 1 is incorrect. Android Things is designed to work on what we typically call the Internet of Things devices - those connected gadgets that can run without you controlling them and connect to anything else that has an internet connection. It helps us in building smart, connected devices for a wide variety of consumer, retail, and industrial applications. It is not an alternative to the Internet of Things (IoT). Rather, Android Things provides turnkey hardware designs to solve the problems inherent in building an Internet of Things (IoT) device. Statement 2 is correct. Android Things is an Android-based embedded operating system platform by Google."
+}

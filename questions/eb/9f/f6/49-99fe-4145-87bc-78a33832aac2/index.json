@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:10.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "eb9ff649-99fe-4145-87bc-78a33832aac2",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Which of the following statements is/ are correct regarding 'Project Navlekha', sometimes seen in news?\r\n<ol>\r\n<li>It is an initiative to help Indian publishers to easily make their offline content fully editable and publish it online without expert digital knowledge</li>\r\n<li>It is an initiative of Ministry of Communications</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "Statement 1 is correct: Project Navlekha helps publishers to easily make offline content fully editable and to publish it online without expert digital knowledge. It uses artificial intelligence to identify the letters in a Hindi text and converts them into a standardised font. Statement 2 is incorrect: It is an initiative of Google. It will allow local publishers who do not have websites to make their offline content fit for online publishing in less than a minute. They can simply scan documents or PDFs and create instant web pages on the platform. Navlekha is aimed at publishers who wish to take their content online. Project Navlekha will make content in Indian languages more accessible by converting it into standardised digital format."
+}

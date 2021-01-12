@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:09.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "6842629f-3596-4e7c-8510-8516a7b6b1ce",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Consider the following statements with reference to the recently launched 'Chiller Star Labelling Program':\r\n<ol>\r\n<li>It aims to provide star rating to chillers used for space conditioning of buildings</li>\r\n<li>It has been formulated by Bureau of Energy Efficiency</li>\r\n<li>All commercial spaces are mandatorily required to participate in the rating process</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "1 only",
+  "option2": "1 and 2 only",
+  "option3": "2 and 3 only",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 2 only",
+  "explanation": "Statement 1 and statement 2 are correct. Chillers are used extensively for space conditioning of buildings and for industrial process cooling applications. Chillers contribute more than 40 per cent of the total energy consumption in commercial buildings. Therefore, it is important to optimize energy performance of chillers and create awareness amongst the end users to adopt transition towards energy efficient chillers. Ministry of Power launched an ambitious program to encourage the deployment of Energy Efficient chiller systems in the country. The Chiller Star Labelling Program has been formulated by Bureau of Energy Efficiency (BEE). Statement 3 is not correct. The program envisages providing star rating in terms of its energy performance. Initially, the program is launched on voluntary basis and will be valid up to 31st December 2020."
+}

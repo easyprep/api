@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:26:40.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d9bdc5b1-f86e-4d7d-9e2c-86a9540fcf55",
+  "labels": "current-affairs,2019-05-30",
+  "question": "After how many crop seasons, an unpaid short duration Farm loan will be termed as NPA?",
+  "option1": "1 crop season",
+  "option2": "2 crops seasons",
+  "option3": "2 years",
+  "option4": "4 crop seasons",
+  "option5": "",
+  "answer": "2 crops seasons",
+  "explanation": "For short duration crop agriculture loans such as paddy, Jowar, Bajra etc. if the loan (installment / interest) is not paid for 2 crop seasons , it would be classified as NPA."
+}

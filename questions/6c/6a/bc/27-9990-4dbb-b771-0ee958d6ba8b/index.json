@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-04T14:11:24.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "6c6abc27-9990-4dbb-b771-0ee958d6ba8b",
+  "labels": "current-affairs,2019-05-05",
+  "question": "Which of the following is true about the GST Council?\r\n<ol>\r\n<li>GST Council responsible for ensuring one uniform tax rate for goods and services in the country</li>\r\n<li>Article 279 (1) of Indian Constitution states that the GST Council has to be constituted</li>\r\n<li>GST Council has to be constituted by Prime Minister</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 and 2",
+  "option2": "Only 2 and 3",
+  "option3": "Only 1 and 3",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Only 1 and 2",
+  "explanation": "Article 279 (1) of the amended Indian Constitution states that the GST Council has to be constituted by the President within 60 days of the commencement of the Article 279A. It is a decision making body ensures uniform goods and service tax rate across the country."
+}

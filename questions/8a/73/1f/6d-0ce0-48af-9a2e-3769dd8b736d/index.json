@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-04T14:11:25.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "8a731f6d-0ce0-48af-9a2e-3769dd8b736d",
+  "labels": "current-affairs,2019-05-05",
+  "question": "Consider the following statements with respect to gas hydrates. Which of the following is true? 1.Gas hydrates are also known as Clathrate hydrates. 2.They are crystalline water-based solids physically resembling ice. 3.Methane hydrate is more thermodynamically stable than carbon dioxide hydrate.",
+  "option1": "1 only",
+  "option2": "1,2 and 3",
+  "option3": "2 and 3",
+  "option4": "1 and 3",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "Gas hydrates are clathrate compounds in which the host molecule is water and the guest molecule is typically a gas or liquid. Methane hydrate is less thermodynamically stable than carbon dioxide hydrate."
+}

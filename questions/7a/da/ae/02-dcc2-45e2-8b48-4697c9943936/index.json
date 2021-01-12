@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-04T14:11:24.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "7adaae02-dcc2-45e2-8b48-4697c9943936",
+  "labels": "current-affairs,2019-05-05",
+  "question": "Consider the following about Vote on account:\r\n<ol>\r\n<li>Vote on account is the interim permission of the parliament to the government to spend money</li>\r\n<li>It does not contain any direct tax proposals anyway</li>\r\n</ol>\r\nWhich of the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 2",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both 1 and 2",
+  "explanation": "Vote on account is the interim permission of the parliament to the government to spend money. It usually does not contain any direct tax proposals. Therefore, any decrease/increase or exemption/inclusion related to income tax will be on hold if there’s a vote on account."
+}

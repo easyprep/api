@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:18.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "355aeccc-85fb-4abf-8f6b-77812229cb5b",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What does BHIM stand for?",
+  "option1": "Bharat Instant Money Transfer",
+  "option2": "Bharat Interface for Money",
+  "option3": "Bank Hotline Instant Money",
+  "option4": "Banking Hit Instant Money",
+  "option5": "",
+  "answer": "Bharat Interface for Money",
+  "explanation": "BHIM stands for Bharat Interface for Money. It is a payment service based on the UPI. It allows the real time transfer of fund just using a single identity like name or mobile number."
+}

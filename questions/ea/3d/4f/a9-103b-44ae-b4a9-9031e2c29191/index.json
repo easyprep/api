@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-04T14:11:24.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "ea3d4fa9-103b-44ae-b4a9-9031e2c29191",
+  "labels": "current-affairs,2019-05-05",
+  "question": "Consider the following statements about Performance Grading Index (PGI):\r\n<ol>\r\n<li>The Union Human Resource Development (HRD) ministry is compiling this schooling index.</li>\r\n<li>The Index will assess states on a 500 point grading system</li>\r\n</ol>\r\nWhich of the above is / are correct statements?",
+  "option1": "1 only",
+  "option2": "1 and 2 only",
+  "option3": "2 only",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "The index is aimed at helping states understand where they may be lagging behind. The Index will assess states on a 1,000 point grading system with 10-20 points per parameter."
+}

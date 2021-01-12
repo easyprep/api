@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:51:17.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "151d2db2-59e7-4967-bd4f-c5f5a1d920f2",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Which of these facilities is given by RBI to the banks for inter-bank transactions?",
+  "option1": "RTGS",
+  "option2": "SWIFT",
+  "option3": "M-PESA",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "RTGS",
+  "explanation": "RBI provides the Real Time Gross Settlement System (RTGS) facility to the banks for inter-bank fund transfers. It is applicable only for money transfer within the country."
+}

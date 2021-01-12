@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:26:40.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "6242feaf-d39f-4c6e-8302-2cd41b276aa6",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the primary aim of enacting the SARFAESI Act?",
+  "option1": "Recovering Loans",
+  "option2": "Increasing Deposits",
+  "option3": "Transparent appointment of Directors",
+  "option4": "Reducing Corruptions and Scams",
+  "option5": "",
+  "answer": "Recovering Loans",
+  "explanation": "The SARFAESI Act allowed the creation of asset reconstruction companies (ARC) and allowed banks to sell their non-performing assets to ARCs."
+}

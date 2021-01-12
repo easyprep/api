@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "f32eda17-20a7-422d-a2d1-42f7c1dd00ae",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the length of UPI pin?",
+  "option1": "2 digits",
+  "option2": "10 digits",
+  "option3": "4-6 digits",
+  "option4": "2-4 digits",
+  "option5": "",
+  "answer": "4-6 digits",
+  "explanation": "UPI-PIN (UPI Personal Identification Number) is a 4-6 digit pass code you create/set during first time registration with the App."
+}

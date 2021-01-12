@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T22:33:10.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "6de4e595-bf1e-4f42-8041-0378963b0835",
+  "labels": "current-affairs,2019-05-29",
+  "question": "Which of these is a quantitative instrument of Monetary Policy?",
+  "option1": "Repo rate",
+  "option2": "CRR",
+  "option3": "SLR",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The quantitative instruments are: Open Market Operations, Liquidity Adjustment Facility (Repo and Reverse Repo), Marginal Standing Facility, SLR, CRR Bank Rate etc."
+}

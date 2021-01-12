@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:26:40.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "29aacf23-be85-4ec7-8d1a-f374887efafc",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Where is the SARFAESI Act not applicable?",
+  "option1": "On unsecured loans",
+  "option2": "Loans below 100000",
+  "option3": "where remaining debt is below 20% of the original principal",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The SARFAESI Act does not apply to unsecured loans, loans below ₹100,000 or where remaining debt is below 20% of the original principal."
+}

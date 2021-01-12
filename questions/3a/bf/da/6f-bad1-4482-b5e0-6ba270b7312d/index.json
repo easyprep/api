@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-04T14:11:24.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "3abfda6f-bad1-4482-b5e0-6ba270b7312d",
+  "labels": "current-affairs,2019-05-05",
+  "question": "Which of the following is / are the features of the recently passed New Delhi International Arbitration Centre Bill?\r\n<ol>\r\n<li>It will establish New Delhi International Arbitration Centre (NDIAC).</li>\r\n<li>The NDIAC will consist of 14 members.</li>\r\n<li>The members of NDIAC will hold office for five years.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "1 only",
+  "option2": "1 and 2 only",
+  "option3": "2 and 3 only",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "The Bill seeks to provide for the establishment of the NDIAC to conduct arbitration, mediation, and conciliation proceedings. The NDIAC will consist of seven members. The members of NDIAC will hold office for three years and will be eligible for re-appointment."
+}

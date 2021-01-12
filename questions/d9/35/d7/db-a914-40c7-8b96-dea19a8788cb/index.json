@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T22:11:13.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d935d7db-a914-40c7-8b96-dea19a8788cb",
+  "labels": "current-affairs,2019-05-29",
+  "question": "How many branches of Payment banks must be in the unbanked rural area?",
+  "option1": 0.25,
+  "option2": 0.5,
+  "option3": 0.35,
+  "option4": 0.75,
+  "option5": "",
+  "answer": 0.25,
+  "explanation": "The Reserve Bank of India mandates that atleast 25% branches of Payment banks must be in the unbanked rural area."
+}

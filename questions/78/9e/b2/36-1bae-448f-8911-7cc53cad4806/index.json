@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T21:01:46.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "789eb236-1bae-448f-8911-7cc53cad4806",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What is not true about Payment bank?",
+  "option1": "It cannot issue loans",
+  "option2": "It can accept deposits",
+  "option3": "It can issue credit cards",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It can issue credit cards",
+  "explanation": "Payments banks is a new model of banks conceptualised by the Reserve Bank of India (RBI). These banks can accept a restricted deposit and cannot issue loans and credit cards."
+}

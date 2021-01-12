@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:09.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "e7bbe6a4-369d-44f5-b413-e8c17e136762",
+  "labels": "current-affairs,2019-05-19",
+  "question": "With reference to the EMISAT MISSION, consider the following statements:\r\n<ol>\r\n<li>It is an advanced electronic intelligence satellite jointly developed by ISRO-DRDO</li>\r\n<li>It was launched using GSLV-MK-III</li>\r\n<li>The satellite was placed in Geostationary Orbit of the earth for better interception of electronic signals</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "1 only",
+  "option2": "1 and 2 only",
+  "option3": "3 only",
+  "option4": "2 and 3 only",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "Statement 1 is correct: EMISAT is an advanced electronic intelligence satellite jointly developed by ISRO-DRDO. It is meant for electromagnetic spectrum measurements. It is modelled after a famous Israeli spy satellite called SARAL (Satellite with ARgos and ALtika). EMISAT also has a special altimeter called ̳AltiKa‘that works in the Ka-band microwave region of the spectrum. The electronic surveillance payload of EMISAT was developed under a DRDO‘s project called KAUTILYA. Statement 2 is not correct: India\\'s PSLV-C45 was used to successfully inject EMISAT and 28 international customer satellites into their designated orbits on April 01, 2019 from Satish Dhawan Space Centre SHAR, Sriharikota. This flight marked the first mission of PSLV-QL, a new variant of PSLV with four strap-on motors. Statement 3 is not correct: It was launched to sun-synchronous polar orbit of 748 km height. It was also the first mission of ISRO where it launched satellites in three different orbits."
+}

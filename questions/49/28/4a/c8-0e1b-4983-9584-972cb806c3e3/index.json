@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-01T16:03:55.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "49284ac8-0e1b-4983-9584-972cb806c3e3",
+  "labels": "current-affairs,2019-05-02",
+  "question": "Which of the following terms in news recently are named of asteroids of the solar system?\r\n<ol>\r\n<li>Bennu</li>\r\n<li>Ultima Thule</li>\r\n<li>Ryugu</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Every 6 years, Bennu’s orbit brings it within 200,000 miles of the Earth, which means it has a high probability of impacting Earth in the late 22nd Century. Bennu is a primitive asteroid, meaning it hasn’t significantly changed since the beginning of the Solar System.\r\nUltima Thule is located in the Kuiper belt in the outermost regions of the Solar System, beyond the orbit of Neptune. Ultima Thule belongs to a class of Kuiper belt objects called the “cold classicals”, which have nearly circular orbits with low inclinations to the solar plane.\r\n162173 Ryugu is a near-Earth object and a potentially hazardous asteroid of the Apollo group. It measures approximately 1 kilometer (0.6 mi) in diameter. In June 2018, a spacecraft, Hayabusa2, arrived at the asteroid."
+}

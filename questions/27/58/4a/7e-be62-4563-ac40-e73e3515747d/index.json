@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:26:40.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "27584a7e-be62-4563-ac40-e73e3515747d",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the time period for a term loan to be classified as NPA?",
+  "option1": "30 days",
+  "option2": "60 days",
+  "option3": "90 days",
+  "option4": "365 days",
+  "option5": "",
+  "answer": "90 days",
+  "explanation": "According to RBI, terms loans on which interest or installment of principal remain overdue for a period of more than 90 days from the end of a particular quarter is called a Non-performing Asset."
+}

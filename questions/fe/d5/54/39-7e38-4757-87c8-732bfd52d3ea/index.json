@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T14:36:33.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "fed55439-7e38-4757-87c8-732bfd52d3ea",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Which of these is used as promise from a bank to make a payment assuming certain conditions are met?",
+  "option1": "Cash Credit",
+  "option2": "Over Draft",
+  "option3": "Letter of Credit",
+  "option4": "Term Loan",
+  "option5": "",
+  "answer": "Letter of Credit",
+  "explanation": "A letter of credit is a letter from a bank guaranteeing that a buyer's payment to a seller will be received on time and for the correct amount."
+}

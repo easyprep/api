@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:49:29.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "ed044377-b8ea-46fa-a6e3-4548c987553d",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the duration for which RBI makes the WMA to the state governments?",
+  "option1": "30 days",
+  "option2": "60 days",
+  "option3": "90 days",
+  "option4": "180 days",
+  "option5": "",
+  "answer": "90 days",
+  "explanation": "RBI makes WMA to the state governments for a period of 90 Days. The interest rate on WMA is at or around bank rate and overdrawing if any carries 2% higher interest."
+}

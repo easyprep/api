@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "b20565be-49fd-4a00-b630-92605f8667eb",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What does VPA stand for?",
+  "option1": "Virtual Person Account",
+  "option2": "Very Personal Address",
+  "option3": "Verified Personal Address",
+  "option4": "Virtual Payment Address",
+  "option5": "",
+  "answer": "Virtual Payment Address",
+  "explanation": "Virtual Payment Address also referred as VPA is something like an email-ID, which is given to an individual using the Unified Payment Interface (UPI) service to send or receive money."
+}

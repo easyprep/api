@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:07.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "dfdd67b2-7795-497d-a213-2735fa8bfdd0",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Consider the following statements with reference to INSTEX which is in news these days:\r\n<ol>\r\n<li>INSTEX will allow trade between the EU and Iran without relying on direct financial transactions</li>\r\n<li>It will be used for both sanctionable and non-sanctionable trade, excluding food and medical equipments</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "Statement 1 is correct: It is a payment mechanism being setup by the European Union to secure trade with Iran and skirt US sanctions after Washington pulled out of the landmark nuclear deal last May. INSTEX is registered at Paris with an initial 3,000 Euros in the capital and a supervisory board with members from France and Germany and chaired by the UK. It is a project of the governments of France, Germany and Britain and will receive the formal endorsement of all 28 EU members. Statement 2 is incorrect: It will initially be used for non-sanctionable trade, including humanitarian goods such as medicine, food and medical devices. This mechanism is the first concrete step by the EU to counter Trump’s unilateral decision to withdraw from the nuclear deal."
+}

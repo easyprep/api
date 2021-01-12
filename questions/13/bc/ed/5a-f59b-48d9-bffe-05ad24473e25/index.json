@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:10.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "13bced5a-f59b-48d9-bffe-05ad24473e25",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Consider the following statements about the Green bonds, the term often seen in news:\r\n<ol>\r\n<li>These are debt instruments whose proceeds are used for renewable energy projects</li>\r\n<li>These are issued only by the public sector banks</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "Statement 1 is correct: Green bonds are debt instruments like normal bonds, but the proceeds are used for renewable energy projects, or for services that are ecologically sustainable. SBI is in the process of going through its maiden issue of green bonds of at least $500 million. Statement 2 is not correct: The bond is voluntary and may be issued by a financial institution, the government or even a company to raise funds for a defined period. India entered the green bond market in 2015 with the YES Bank issuing the first green bond for financing the renewable and clean energy projects particularly, for wind and solar."
+}

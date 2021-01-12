@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:51:17.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "98cb2989-d565-4e6a-94ee-b2de60d3ca21",
+  "labels": "current-affairs,2019-05-30",
+  "question": "In what form the banks are required to maintain deposits with RBI under CRR?",
+  "option1": "Cash",
+  "option2": "Government Securities",
+  "option3": "Gold",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Cash",
+  "explanation": "Cash Reserve Ratio (CRR) is the share of a bank’s total deposit that is mandated by the Reserve Bank of India (RBI) to be maintained with the latter in the form liquid cash."
+}

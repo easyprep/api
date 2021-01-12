@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:50.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "6815ee04-072b-4aed-926a-21106e9d5ee5",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the process used to separate the different components of oil?",
+  "option1": "Destructive Distillation",
+  "option2": "Deadly Distillation",
+  "option3": "Fractional Distillation",
+  "option4": "Simple Distillation",
+  "option5": "",
+  "answer": "Fractional Distillation",
+  "explanation": "Fractional Distillation is based on the fact that the different components of oil have different boiling points. In this process, oil is heated in a furnace to 400 degree Celsius(752 F) and it vapourises. The vapours are introduced into a tall fractionating column."
+}

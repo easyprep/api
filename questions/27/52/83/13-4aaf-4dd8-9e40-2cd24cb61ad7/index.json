@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T20:34:07.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "27528313-4aaf-4dd8-9e40-2cd24cb61ad7",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What can be the maximum denomination of notes as per the Section 24 of the RBI Act?",
+  "option1": "₹10,000",
+  "option2": "₹50,000",
+  "option3": "₹1,00,000",
+  "option4": "No such limit exists",
+  "option5": "",
+  "answer": "₹10,000",
+  "explanation": "Section 24 of the Reserve Bank of India Act, 1934 states that the maximum denomination a note can be is ₹10,000 (US$140)."
+}

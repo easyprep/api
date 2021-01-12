@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:07.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "4ff4925e-0029-46d1-8f77-0edf357089a5",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Consider the following statements about Terahertz (THz) transmitter technology that was recently in news:\r\n<ol>\r\n<li>It is the ultraviolet version of the Li-Fi Technology</li>\r\n<li>It will use quantum communication technology to deliver device less messages</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "Statement 1 and statement 2 both are incorrect: Terahertz wireless is high-data-rate minimum-latency communications. Scientists from Japan have developed terahertz (THz) transmitter technology, a next generation system which can transmit digital data over 10 times faster than 5G mobile networks. It will pave transmitting digital data at a rate exceeding 100 gigabits per second (gbps) over a single channel using the 300- gigahertz band. Its possible applications include fast download from contents servers to mobile devices and ultrafast wireless links between base stations."
+}

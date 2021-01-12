@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T22:33:10.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "0d2c5cba-d3e5-4083-9384-3787ee9f9e17",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What do we call the official interest rate at which RBI provides loans to the banking system?",
+  "option1": "Reverse repo rate",
+  "option2": "Bank rate",
+  "option3": "SLR",
+  "option4": "CRR",
+  "option5": "",
+  "answer": "Bank rate",
+  "explanation": "Bank Rate refers to the official interest rate at which RBI will provide loans to the banking system which includes commercial / cooperative banks, development banks etc."
+}

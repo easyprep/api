@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T21:37:52.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "bf84aeab-571e-4a03-92b9-755210cb5b1f",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What is the share of Sponsor Banks in the Regional Rural Banks?",
+  "option1": 0.75,
+  "option2": 0.25,
+  "option3": 0.15,
+  "option4": 0.35,
+  "option5": "",
+  "answer": 0.35,
+  "explanation": "The Regional Rural Banks were owned by the Central Government, the State Government and the Sponsor Bank who held shares in the ratios as follows Central Government – 50%, State Government – 15% and Sponsor Banks – 35%."
+}

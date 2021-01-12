@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:46.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "9cfd78bb-667c-4685-978c-2afd45ea8e0d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "IRS series satellites are used for which of the following?",
+  "option1": "Communication",
+  "option2": "Astronomy",
+  "option3": "Remote Sensing",
+  "option4": "Forestry",
+  "option5": "",
+  "answer": "Remote Sensing",
+  "explanation": "The IRS satellite constellation series targets operational requirements of natural resource management. IRS satellites acquire three different types of imagery applicable to diverse applications: broad-area images at coarse spatial resolutions for regional overviews with frequent coverage, urban-sized multi-spectral images for land cover mapping at moderate resolutions, etc."
+}

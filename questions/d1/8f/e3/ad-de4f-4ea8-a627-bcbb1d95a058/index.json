@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T22:49:01.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d18fe3ad-de4f-4ea8-a627-bcbb1d95a058",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What is the population limit at a place under which the banks don’t require a license from RBI to open a branch?",
+  "option1": 10000,
+  "option2": 20000,
+  "option3": 40000,
+  "option4": 50000,
+  "option5": "",
+  "answer": 50000,
+  "explanation": "At present, Indian banks no longer require a license from the Reserve Bank for opening a branch at a place with population of below 50,000."
+}

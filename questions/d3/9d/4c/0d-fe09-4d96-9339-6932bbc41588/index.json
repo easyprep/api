@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:45.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d39d4c0d-fe09-4d96-9339-6932bbc41588",
+  "labels": "current-affairs,2019-05-31",
+  "question": "HIV often changes its shape due to the presence of which of the following enzymes?",
+  "option1": "Reverse Transcriptase",
+  "option2": "Enterokinase",
+  "option3": "Nucleoditase",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Reverse Transcriptase",
+  "explanation": "A reverse transcriptase is an enzyme used to generate complementary DNA from an RNA template, a process termed reverse transcription. The viral DNA is cut and paste into the host cell DNA. The host cell gets tricked into making lots of proteins for the virus."
+}

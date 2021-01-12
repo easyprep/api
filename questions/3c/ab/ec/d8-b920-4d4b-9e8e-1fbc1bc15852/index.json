@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-29T21:07:15.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "3cabecd8-b920-4d4b-9e8e-1fbc1bc15852",
+  "labels": "current-affairs,2019-04-30",
+  "question": "The researchers at which Indian university have developed an ultrasensitive quantum thermometer?",
+  "option1": "Osmania University",
+  "option2": "Aligarh Muslim University",
+  "option3": "Jamia Millia Islamia",
+  "option4": "Azim Premji University",
+  "option5": "",
+  "answer": "Jamia Millia Islamia",
+  "explanation": "The researchers at Jamia Millia Islamia (New Delhi) have developed an ultrasensitive quantum thermometer using graphene quantum dots. The thermometer can precisely measure a wide range of temperature: 27 degree C to –196 degree C. It has high sensitivity when measuring different temperatures and can measure very minute (micro Kelvin) changes in temperature. It showed extremely quick response time of just about 300 milliseconds to register a change in temperature from 27 degree C to –196 degree C. And, the time taken to return to its initial temperature value was as little as about 800 milliseconds. It also showed excellent repeatability with negligible variation in sensing response when tested for over 50 cycles during a one-year period. The thermometer is developed by a team led by Prof. Saikh S. Islam, Director of the Centre for Nanoscience and Nanotechnology. The results of the study were published in the journal Nanoscale Advances."
+}

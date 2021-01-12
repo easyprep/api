@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T21:53:33.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d8d449b5-b9e2-4549-a86f-52a43f8be2a2",
+  "labels": "current-affairs,2019-05-29",
+  "question": "Under which act the Local Area banks are registered?",
+  "option1": "Banking Regulations Act 1949",
+  "option2": "Companies Act 1956",
+  "option3": "RBI Act 1935",
+  "option4": "None",
+  "option5": "",
+  "answer": "Companies Act 1956",
+  "explanation": "Each local Area bank is registered as a public limited company under the Companies Act, 1956. However, they are licensed under the Banking Regulation."
+}

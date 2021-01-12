@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:51:17.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "13a2b79b-ea29-4ec3-be5a-0a46b47787b4",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the minimum limit of CRR that can be set by the RBI?",
+  "option1": "No Limit",
+  "option2": 0.12,
+  "option3": 0.15,
+  "option4": 0.2,
+  "option5": "",
+  "answer": "No Limit",
+  "explanation": "The Reserve Bank of India (RBI) Act implicitly prescribed the CRR originally at a minimum of 3 per cent of any bank’s net demand and time liabilities. That restriction was removed by an amendment in 2006."
+}

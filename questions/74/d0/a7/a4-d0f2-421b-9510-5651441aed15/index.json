@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:18.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "74d0a7a4-d0f2-421b-9510-5651441aed15",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What does UPI stand for?",
+  "option1": "Union Public Interface",
+  "option2": "Unified Payment India",
+  "option3": "Unified Payment Interface",
+  "option4": "United Payment India",
+  "option5": "",
+  "answer": "Unified Payment Interface",
+  "explanation": "Unified Payments Interface (UPI) is an instant real-time payment system developed by National Payments Corporation of India facilitating inter- bank transactions."
+}

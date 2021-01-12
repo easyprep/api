@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:36:06.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "87b7ee8f-67a5-4666-97f7-3203651e840b",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Which of these payment modes can be used for payment over BBPS?",
+  "option1": "Cash",
+  "option2": "Transfer Cheques",
+  "option3": "Electronic modes",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Payments can be made through the BBPS payment system using cash, transfer cheques, and various electronic modes."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T20:37:02.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "5d896149-baab-43f5-91c5-9d77af9ffd20",
+  "labels": "current-affairs,2019-05-29",
+  "question": "Which of the following entities are not covered under the Banking Regulation Act 1949?",
+  "option1": "Public Sector banks",
+  "option2": "Cooperative Banks",
+  "option3": "Primary Agricultural Credit Society",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Primary Agricultural Credit Society",
+  "explanation": "Primary Agricultural Credit Society and cooperative land mortgage banks are excluded from the Banking Regulation Act 1949."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:45.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "8703b3a5-222f-4d87-a9d3-6d3c614eeaff",
+  "labels": "current-affairs,2019-05-31",
+  "question": "METSAT, the first exclusive meteorological satellite built by ISRO is associated with which of the following?",
+  "option1": "Polar Orbit Satellite",
+  "option2": "Low Earth Orbit Satellite",
+  "option3": "Geosynchronous Satellite",
+  "option4": "Deep Space Probe",
+  "option5": "",
+  "answer": "Geosynchronous Satellite",
+  "explanation": "METSAT (Meteorological Satellite), launched by PSLV, is the first exclusive meteorological satellite built by ISRO. METSAT's solar array was automatically deployed immediately after its injection into Geosynchronous Transfer Orbit (GTO) by PSLV-C4."
+}

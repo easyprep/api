@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:50.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "7ec3b3a5-5597-44c5-a2c1-f8c94544baa2",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which process is responsible for producing photons in a diode laser?",
+  "option1": "Fermi level shift",
+  "option2": "Majority carrier injection",
+  "option3": "Carrier freeze out",
+  "option4": "Electron-hole recombination",
+  "option5": "",
+  "answer": "Electron-hole recombination",
+  "explanation": "Generation recombination of electron hole pairs in semiconductors. Semiconductors are characterized by two types of mobile carriers, electrons in the conduction band and holes in the valence band. Both bands are separated by the energy gap. It is responsible for producing photons in a diode laser."
+}

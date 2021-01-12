@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:26:40.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "579a9db7-2697-4ffd-84e9-3ce56d615513",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What do we call a loan which remains NPA for a period less than or equal to 12 months?",
+  "option1": "Doubtful asset",
+  "option2": "Sub-standard Asset",
+  "option3": "Loss",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Sub-standard Asset",
+  "explanation": "If the loan remains under Special Mention Account for a period less than or equal to 12 months, it is termed as Sub-standard Asset."
+}

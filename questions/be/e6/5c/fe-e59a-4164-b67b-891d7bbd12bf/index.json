@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:46.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "bee65cfe-e59a-4164-b67b-891d7bbd12bf",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which mountain of the Himalayan range is the highest mountain of India?",
+  "option1": "Everest",
+  "option2": "Cardamom",
+  "option3": "Karakoram",
+  "option4": "Kanchenjunga",
+  "option5": "",
+  "answer": "Kanchenjunga",
+  "explanation": "Everest is the highest peak in the world, but it is located in Nepal, K2, the second highest is located in Pakistan-China border belongs to the Karakoram range of mountains (it is not a peak), while Kanchenjunga is the third highest located in the Indo-Nepal border. Cardamom Hills is not a part of Himalayas, it is located in South India."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:50.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "e02666a0-eb66-4b5f-8152-b4a884763438",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is not a primary fuel?",
+  "option1": "Natural Gas",
+  "option2": "Wood",
+  "option3": "Kerosene",
+  "option4": "Coal",
+  "option5": "",
+  "answer": "Kerosene",
+  "explanation": "A primary fuel is that which is used in the same form as it occurs in nature. Kerosene is obtained by the fractional distillation of oil, and hence is a 'secondary fuel'."
+}

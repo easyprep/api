@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-26T15:34:28.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "a9e764a8-a2b4-4f0e-946a-441d9ba5fb8d",
+  "labels": "current-affairs,2019-05-27",
+  "question": "Consider the following statements regarding Bramble Cay Melomys, which was seen recently in news:\r\n<ol>\r\n<li>It is categorized as vulnerable species by IUCN</li>\r\n<li>It is mainly found in Western Ghats</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "Statement 1 is incorrect: Its IUCN Status is Extinct.<br />Statement 2 is incorrect: The Melomysrubicola is considered to be the Great Barrier Reef’s only endemic mammal species. It was first discovered on the cay in 1845 by Europeans who shot the “large rats” for sport. The Bramble Cay Melomys is an extinct species of rodent in the family Muridae and subfamily Murinae. Australia officially declared this Great Barrier Reef rodent extinct, making it the first mammal believed to have been killed off by human-induced climate change."
+}

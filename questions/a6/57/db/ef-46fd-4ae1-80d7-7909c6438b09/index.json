@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:26:40.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "a657dbef-46fd-4ae1-80d7-7909c6438b09",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What are the funds that are set aside by the banks as fraction to the loans known as?",
+  "option1": "NPA Coverage Ratio",
+  "option2": "Loan Default Ratio",
+  "option3": "Provisioning Coverage Ratio",
+  "option4": "Credit Exposure Ratio",
+  "option5": "",
+  "answer": "Provisioning Coverage Ratio",
+  "explanation": "Provisioning Coverage Ratio (PCR) refers to the funds to be set aside by the banks as fraction to the loans. For every loan given out, the banks to keep aside some extra funds to cover up losses if something goes wrong with those loans."
+}

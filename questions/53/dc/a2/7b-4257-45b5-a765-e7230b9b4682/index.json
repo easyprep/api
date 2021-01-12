@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "53dca27b-4257-45b5-a765-e7230b9b4682",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Consider the following statements with respect to the Legal Entity Identifier (LEI) code, that was in news recently:\r\n<ol>\r\n<li>It is a code given to accompany by the Ministry of Corporate Affairs</li>\r\n<li>It is applicable for both Public and private banks</li>\r\n<li>The CCI – Clearing Corporation of India has been designated as the body entrusted with this responsibility</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "2 and 3 only",
+  "option2": "1 and 2 only",
+  "option3": "2 only",
+  "option4": "1 only",
+  "option5": "",
+  "answer": "2 and 3 only",
+  "explanation": "The LEI is a 20-charactrer unique identity number assigned to entities which are parties to a financial transaction. It was conceived as a key measure to improve the quality and accuracy of financial data systems for better risk management post the Global Financial Crisis. Statement 1 is incorrect - CCIL (Clearing Corporation of India) has been appointed by the Reserve Bank of India (RBI) for rendering this service for Indian entities undertaking financial transactions. Statement 2 is correct - The Reserve Bank of India (RBI) has decided to make Legal Entity Identifier (LEI) code mandatory for all market participants regulated by the central bank. This includes both private and public but it should be regulated by the RBI. Statement 3 is correct – The Clearing Corporation of India (CCIL) has launched its services as a local operating unit for issuing globally compatible legal entity identifiers (LEIs) in India."
+}

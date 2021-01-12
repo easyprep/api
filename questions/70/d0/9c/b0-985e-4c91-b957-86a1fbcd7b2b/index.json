@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T14:36:33.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "70d09cb0-985e-4c91-b957-86a1fbcd7b2b",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the maturity period of Money Market Instruments?",
+  "option1": "Less than 15 days",
+  "option2": "Less than 1 year",
+  "option3": "Less than 181 days",
+  "option4": "Less than 90 days",
+  "option5": "",
+  "answer": "Less than 1 year",
+  "explanation": "Money market instruments are those instruments, which have a maturity period of less than one year. Overnight call and term money between banks and institutions and repo transactions are the most important part of the money market."
+}

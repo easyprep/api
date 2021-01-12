@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:51:17.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "493694a2-ee8f-4d3d-bbdd-65a61cc03eb0",
+  "labels": "current-affairs,2019-05-30",
+  "question": "How is Capital Adequacy Ratio of banks calculated by RBI?",
+  "option1": "(Tier 1 Capital + Tier 2 capital + Tier 3 capital)/ Risk weighted assets",
+  "option2": "(Tier 1 Capital - Tier 2 capital)/ Risk weighted assets",
+  "option3": "(Tier 1 Capital + Tier 2 capital)/ Risk weighted assets",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "(Tier 1 Capital + Tier 2 capital)/ Risk weighted assets",
+  "explanation": "Capital Adequacy Ratio (CAR) is also known as Capital to Risk (Weighted) Assets Ratio (CRAR). Capital adequacy ratios (CARs) are a measure of the amount of a bank's core capital expressed as a percentage of its risk-weighted asset. It is defined as (Tier 1 Capital + Tier 2 capital)/ Risk weighted assets."
+}

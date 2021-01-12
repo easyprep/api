@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-26T15:34:26.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "babd1ea6-945b-4302-9d64-2ab7363f4db4",
+  "labels": "current-affairs,2019-05-27",
+  "question": "Which of the following statements is/are correct with regard to Panda bonds, sometimes seen in news?\r\n<ol>\r\n<li>They are Chinese renminbi-denominated bonds issued by a non-Chinese issuer</li>\r\n<li>Panda Bonds would be used for wildlife conservation in National Parks of China</li>\r\n<li>Pakistan issued the Panda bonds</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Statement 1 is correct - Panda bonds are onshore yuan- or renminbi-denominated debt issued in China by overseas companies. In 2005 the International Finance Corporation (IFC) and the Asian Development Bank (ADB) issued the first “Panda” bonds. <br />Statement 2 is incorrect – They would be issued by non-Chinese investors but would be denominated in Renminbi. Thus they would help China to diversify its currency into other countries and help the issuer country to raise foreign exchange.<br />Statement 3 is correct - The federal cabinet of Pakistan approved the issuance of Pakistan’s first renminbi-denominated bonds to raise loans from Chinese capital markets. This will help Pakistan rely less on Dollar and gather funds for development."
+}

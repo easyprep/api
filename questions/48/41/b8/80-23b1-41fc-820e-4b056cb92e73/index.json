@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T15:26:40.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "4841b880-23b1-41fc-820e-4b056cb92e73",
+  "labels": "current-affairs,2019-05-30",
+  "question": "When was the SARFAESI Act enacted?",
+  "option1": 2004,
+  "option2": 2006,
+  "option3": 1999,
+  "option4": 2002,
+  "option5": "",
+  "answer": 2002,
+  "explanation": "The Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest Act, 2002 (or the SARFAESI Act) allows the banks and other financial institution to auction residential or commercial properties(of Defaulter) to recover loans."
+}

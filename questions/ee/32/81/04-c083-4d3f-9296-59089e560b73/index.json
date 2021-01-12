@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "ee328104-c083-4d3f-9296-59089e560b73",
+  "labels": "current-affairs,2019-05-19",
+  "question": "With reference to 'Eyerovtuna', recently in the news, consider the following statements:\r\n<ol>\r\n<li>It is the first modified fishing gear that can improve fishing selectivity and reduce the incidental capture of non-target</li>\r\n<li>It is developed by the Central Institute of Fisheries Technology (ICAR CIFT)</li>\r\n</ol>\r\nWhich of the statements given above is/are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 or 2",
+  "option5": "",
+  "answer": "Neither 1 or 2",
+  "explanation": "Both the statements are incorrect: Eyerovtuna is a India’s first underwater robotic drone. It is a remote-controlled submersible capable of sending real-time videos of ships and other underwater structures. It was developed by EyeROV Technologies, a company incubated at the Maker Village in Kochi, the country’s largest hardware incubator. It landed the first order from the Naval Physical and Oceanographic Laboratory (NPOL), a DRDO facility, here on Friday. The development of EyeROV was largely supported by Kerala Startup Mission (KSUM) through various schemes."
+}

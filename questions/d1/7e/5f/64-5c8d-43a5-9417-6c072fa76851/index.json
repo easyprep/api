@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T13:51:17.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d17e5f64-5c8d-43a5-9417-6c072fa76851",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Which department of the RBI offers the facility of opening deposit accounts to other banks?",
+  "option1": "DBR",
+  "option2": "DAD",
+  "option3": "DBS",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "DAD",
+  "explanation": "The ‘Banker to Banks’ function of the Reserve Bank is delivered through the Deposit Accounts Department (DAD) of RBI at regional office."
+}

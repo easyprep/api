@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T22:33:10.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "af58fe8c-25ba-4d51-9e14-aa68ed349b5c",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What do we call the rate at which the Reserve Bank of India lends money to commercial banks?",
+  "option1": "Repo rate",
+  "option2": "Reverse repo rate",
+  "option3": "CRR",
+  "option4": "SLR",
+  "option5": "",
+  "answer": "Repo rate",
+  "explanation": "Repo rate is the rate at which the Reserve Bank of India lends money to the commercial banks of India. It is an important Monetary policy tool."
+}

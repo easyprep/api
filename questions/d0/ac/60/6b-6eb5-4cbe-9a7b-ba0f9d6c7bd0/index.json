@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T14:36:33.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d0ac606b-6eb5-4cbe-9a7b-ba0f9d6c7bd0",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What do we call the facility given to a current account holder of withdrawal of more amount than his deposit?",
+  "option1": "Overdraft",
+  "option2": "EMI",
+  "option3": "Sweep-in Facility",
+  "option4": "Recurring Deposit",
+  "option5": "",
+  "answer": "Overdraft",
+  "explanation": "An overdraft facility is a credit agreement made with a bank that allows an account holder to use or withdraw more money than what they have in their account up to the approved limit."
+}

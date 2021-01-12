@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-29T21:03:57.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "d3f6d41e-c8fc-4c83-86b4-51fe0550a542",
+  "labels": "current-affairs,2019-04-30",
+  "question": "Which IIT has developed  an easy OCR system for reading Bharti script?",
+  "option1": "IIT Delhi",
+  "option2": "IIT Kanpur",
+  "option3": "IIT Madras",
+  "option4": "IIT Bombay",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "Dr. Srinivasa Chakravathy and his team at IIT Madras has developed a unified script for nine Indian languages, named the Bharati script.   The team has developed a method for reading documents in Bharati script using a multi-lingual Optical Character Recognition (OCR) scheme. The team has also created a finger-spelling method that can be used to generate a sign language for hearing-impaired persons. In collaboration with TCS Mumbai, the researchers have found a way for persons with hearing disability to generate signatures using this finger-spelling technique. The scripts that have been integrated include Devnagari, Bengali, Gurmukhi, Gujarati, Oriya, Telugu, Kannada, Malayalam and Tamil. Here, it must be noted that Urdu and English alphabet systems have a very different phonetic organisation. But that does not mean a mapping is not possible. It is quite possible and can be done."
+}

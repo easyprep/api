@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-01T15:19:59.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "7360e131-aee5-4c63-b678-dda68c8f5064",
+  "labels": "current-affairs,2019-05-02",
+  "question": "Which of the following statements is true about NIA?\r\n<ol>\r\n<li>It is headquartered in Mumbai</li>\r\n<li>NIA is functioning as the Central Counter Terrorism Law Enforcement Agency in India</li>\r\n<li>NIA comes under the Ministry of Defence</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 and 2",
+  "option2": "2 and 3",
+  "option3": "1,2,and 3",
+  "option4": "2 only",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "National Investigation Agency is headquartered in New Delhi. The National Investigation Agency was established after the enactment of the NIA Act on 31st Dec 2008.Presently, NIA is functioning as the Central Counter Terrorism Law Enforcement Agency in India.NIA comes under the Ministry of Home Affairs."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-26T15:34:27.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "21c3e058-b1ce-425b-9308-3693c1f2de10",
+  "labels": "current-affairs,2019-05-27",
+  "question": "Consider the following statements regarding the ‘Scrub Typhus’, a term recently seen in news:\r\n<ol>\r\n<li>It is a parasitic infection that can cause acute encephalitis syndrome</li>\r\n<li>Scrub typhus is transmitted by some species of trombiculid mites which are found in areas of heavy scrub vegetation</li>\r\n</ol>\r\nWhich of the above statements is/are correct?",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 and 2",
+  "explanation": "Statement 1 is correct: Scrub Typhus is a form of typhus caused by the intracellular parasite Orientia tsutsugamushi. It has particularly been shown to be the most common cause of acute encephalitis syndrome in Bihar and now in UP also. <br />Statement 2 is correct: Scrub typhus is transmitted by some species of trombiculid mites which are found in areas of heavy scrub vegetation. No licensed vaccines are available for this."
+}

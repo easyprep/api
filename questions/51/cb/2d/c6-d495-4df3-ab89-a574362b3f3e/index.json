@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-12T19:44:47.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "51cb2dc6-d495-4df3-ab89-a574362b3f3e",
+  "labels": "current-affairs,2019-05-13",
+  "question": "Which of the following is / are correct statements about the Congenital Central Hypoventilation Syndrome (CCHS), that was making news recently:\r\n<ol>\r\n<li>It is a disorder of the nervous system</li>\r\n<li>The disease is also known as Ondine’s Curse</li>\r\n<li>The disorder is completely congenital</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "1 and 2 only",
+  "option3": "2 and 3 only",
+  "option4": "1,2,3",
+  "option5": "",
+  "answer": "1 and 2 only",
+  "explanation": "CCHS is a disorder of the nervous system in which the cue to breathe is lost when the patient goes to sleep. Some forms of the disease may also be present in adults. It can also be genetically acquired."
+}

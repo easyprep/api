@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "bd840826-272a-4e69-8a0c-f94b13fc6d19",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Which of the following statements is/are correct about the Medipix3 chip, recently in the news?\r\n<ol>\r\n<li>It has recently made headlines for being used in a new 3D scanner to take color X-rays</li>\r\n<li>It has been developed by the Birbal Sahni Institute of Palaeoscience</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "Statement 1 is correct: Recently, scientists from New Zealand have performed world’s first-ever 3-D, colour X-ray on human. It has potential to improve the field of medical diagnostics. Statement 2 is incorrect: The new device is based on the traditional black-and-white X-ray but incorporates particle-tracking technology called Medipix developed by European Organization for Nuclear Research (CERN).The new device, based on the traditional black-and-white X-ray, incorporates particle-tracking technology developed for CERN’s Large Hadron Collider, which in 2012 discovered the elusive Higgs Boson particle."
+}

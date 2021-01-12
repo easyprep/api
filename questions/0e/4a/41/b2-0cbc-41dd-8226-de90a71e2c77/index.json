@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "0e4a41b2-0cbc-41dd-8226-de90a71e2c77",
+  "labels": "current-affairs,2019-05-30",
+  "question": "On which architecture is UPI built upon?",
+  "option1": "IMPS",
+  "option2": "NEFT",
+  "option3": "RBI",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "IMPS",
+  "explanation": "UPI is built on the IMPS architecture. Immediate Payment Service (IMPS) is an instant payment inter-bank electronic funds transfer system in India."
+}

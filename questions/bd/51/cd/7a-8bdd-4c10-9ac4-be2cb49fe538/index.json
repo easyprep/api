@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T22:33:10.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "bd51cd7a-8bdd-4c10-9ac4-be2cb49fe538",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What do we call the funds that the banks keep with RBI as a portion of their Net Demand and Time Liabilities?",
+  "option1": "Statutory Liquidity Ratio",
+  "option2": "Cash Reserve Ratio",
+  "option3": "Bank Rate",
+  "option4": "Reverse Repo Rate",
+  "option5": "",
+  "answer": "Cash Reserve Ratio",
+  "explanation": "The Cash Reserve Ratio is the amount of funds that the banks are bound to keep with Reserve bank of India as a portion of their Net Demand and Time Liabilities (NDTL)."
+}

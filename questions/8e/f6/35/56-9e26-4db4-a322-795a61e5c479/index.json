@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-18T19:38:11.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "8ef63556-9e26-4db4-a322-795a61e5c479",
+  "labels": "current-affairs,2019-05-19",
+  "question": "Which of the following statements is/are the components of Digi Yatra initiative? 1. A biometrics-based digital processing system for passenger entry and related requirements at the airport. 2. Real-time notifications about congestion and delays of flights. 3. Discounts in air and railway ticketing booking for Aadhaar verified users in the Digi Yatra mobile application. Select the correct option from the codes given below:",
+  "option1": "1 and 3 only",
+  "option2": "",
+  "option3": "1 and 2 only",
+  "option4": "1,2,3",
+  "option5": "",
+  "answer": "1 and 2 only",
+  "explanation": "Statement 1 and 2 are correct: Air passengers can soon use facial recognition technology to enter any airport in the country under the recently unveiled Digi Yatra initiative by the Ministry of Civil Aviation. The initiative seeks to promote paperless and hassle-free air travel. There would be one-time verification at the departure airport while travelling for the first time using the ID. After successful verification, facial recognition biometric would be captured and stored in the Digi Yatra ID. Key features of the initiative : 1) Centralised registration system for passengers and each of them would get a unique ID on booking the tickets 2) ID can be created by sharing name, e-mail id, mobile number and details of any identity proof, including Aadhaar 3) The airline would share the passenger data and the ID with the airport from where the passenger would be flying out 4) Optionally linking of Aadhaar to airlines at the time of booking for faster airport entry and automated check-ins without requiring any paper- based interventions 5) A biometrics-based digital processing system for passenger entry and related requirements at the airport 6) Voluntary for passengers on whether to opt for facial recognition biometric for air travel 7) The Digi Yatra platform would be operational by February 2019 8) Will be available at major airports in the country 9) Real-time notifications about congestion and delays of flights"
+}

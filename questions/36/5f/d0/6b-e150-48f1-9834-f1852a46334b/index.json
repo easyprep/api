@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:19.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "365fd06b-e150-48f1-9834-f1852a46334b",
+  "labels": "current-affairs,2019-05-30",
+  "question": "What is the correct format of a VPA on UPI?",
+  "option1": "abc/upi",
+  "option2": "abc@upi",
+  "option3": "abc-upi",
+  "option4": "abc*upi",
+  "option5": "",
+  "answer": "abc@upi",
+  "explanation": "The VPA or UPI ID (UPI Address) is the key to BHIM UPI fund transfer system. The correct format for VPA is username@upi."
+}

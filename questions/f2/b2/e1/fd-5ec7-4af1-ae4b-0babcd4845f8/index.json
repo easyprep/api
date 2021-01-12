@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-02T21:24:39.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "f2b2e1fd-5ec7-4af1-ae4b-0babcd4845f8",
+  "labels": "current-affairs,2019-05-03",
+  "question": "SEBI has barred which stock exchange from securities market for 6 months on co-location case?",
+  "option1": "BSE",
+  "option2": "NASDAQ",
+  "option3": "NSE",
+  "option4": "London Stock Exchange",
+  "option5": "",
+  "answer": "NSE",
+  "explanation": "On 30th April 2019, Market regulator Securities and Exchange Board of India (SEBI) barred the National Stock Exchange from raising money on the securities market directly or indirectly for six months on the collocation case. This means the NSE will not able to access the capital market in terms of IPO during this period.  The regulator has also asked the exchange to disgorge around Rs 1,000 crore (i.e. Rs 624.89 crore plus 12% interest) from April 1, 2014  to the SEBI’s Investor Protection and Education Fund (IPEF). As per 104-page SEBI order, NSE has committed a fraudulent and unfair trade practice as contemplated under the SEBI (PFUTP) Regulations and has not exercised the requisite due diligence while putting in place the TBT architecture.  Here, PFUTP refers to Prohibition of Fraudulent and Unfair Trade Practices rules.  Tick-by-Tick (TBT) is a data feed that  which provides information regarding every change in the order book on the NSE. The Co-location refers to the system wherein a broker’s server is kept in the exchange premises to reduce latency (or delay in computing terms) while executing trades."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-24T21:45:58.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "b08143e2-28c7-4f59-90f5-626dbb6f2aa7",
+  "labels": "current-affairs,2019-05-25",
+  "question": "What is the India’s GDP forecast in FY 20, as per latest UN-WESP 2019 Mid-year Update?",
+  "option1": 0.074,
+  "option2": 0.073,
+  "option3": 0.071,
+  "option4": 0.072,
+  "option5": "",
+  "answer": 0.071,
+  "explanation": "The United Nations (UN)  has recently released the World Economic Situation and Prospects (WESP) 2019 Mid-year Update. In it, the UN has lowered its forecast for India’s GDP growth in 2019-20 to 7.1% from its estimate in January of 7.5%, citing an overall slowdown in global growth. The report stated that the global economy is experiencing a broad-based growth slowdown led by slowing industrial production coupled with the weakening of international trade activity due in large part to the unresolved trade disputes between the U.S. and China. Overall, the UN lowered its growth forecast for South Asia marginally to 5.8% in 2020 from the 5.9% estimated for the year in January."
+}

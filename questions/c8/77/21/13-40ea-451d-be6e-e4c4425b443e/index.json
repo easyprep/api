@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-28T20:48:51.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "c8772113-40ea-451d-be6e-e4c4425b443e",
+  "labels": "current-affairs,2019-05-29",
+  "question": "What is Retail Banking?",
+  "option1": "where transactions are held with other banks",
+  "option2": "where transactions are held directly with individuals",
+  "option3": "where transactions are held with other big corporations",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "where transactions are held directly with individuals",
+  "explanation": "Retail banking means banking where transactions are held directly with customers and there are no transactions with other banks or corporations."
+}

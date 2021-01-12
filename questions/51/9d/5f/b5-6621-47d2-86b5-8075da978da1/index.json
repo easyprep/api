@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-29T18:03:18.000Z",
+  "updated_at": "2021-01-06T08:24:39.193Z",
+  "id": "519d5fb5-6621-47d2-86b5-8075da978da1",
+  "labels": "current-affairs,2019-05-30",
+  "question": "Which organisation developed BHIM Application?",
+  "option1": "SBI",
+  "option2": "RBI",
+  "option3": "NPCI",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "NPCI",
+  "explanation": "The BHIM mobile app was developed by the National Payments Corporation of India (NPCI). It is based on the Unified Payments Interface (UPI)."
+}
