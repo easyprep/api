@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T20:38:32.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "a7b5718b-683c-4884-8596-d74de63204fa",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Consider the following financial institution of India: <br />1. Industrial Finance Corporation of India (IFCI)<br />2. Industrial Credit and Investment Corporation of India (ICICI) <br />3. Industrial Development Bank of India (IDBI)<br />4. National Bank for Agriculture and Rural Development (NABARD)<br />The correct chronological sequence of the establishment of these institutions is?",
+  "option1": "1, 2, 3, 4",
+  "option2": "2, 3, 4, 1",
+  "option3": "3, 4, 1, 2",
+  "option4": "4, 1, 2, 3",
+  "option5": "",
+  "answer": "1, 2, 3, 4",
+  "explanation": "FCI – 1948<br />ICICI – 1955<br />IDBI – 1964<br />NABARD – 1982\r\n&nbsp;"
+}

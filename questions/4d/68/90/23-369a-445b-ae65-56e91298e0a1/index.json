@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T21:02:16.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "4d689023-369a-445b-ae65-56e91298e0a1",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Consider the following statements regarding the National Human Rights Commission of India:<br />I. Its Chairman must be a retired Chief Justice of India.<br />II. It has formations in each state as State Human Rights Commission.<br />III. Its powers are only recommendatory in nature.<br />IV. It is mandatory to appoint a woman as a member of the Commission.<br />Which of the above statements are correct?",
+  "option1": "I, II, III and IV",
+  "option2": "II and IV",
+  "option3": "II and III",
+  "option4": "I and III",
+  "option5": "",
+  "answer": "I and III",
+  "explanation": "Here the possible answer is (d) because Statement 2 is incorrect as it is not mandatory that each state must have a State Human Rights Commission. But statement 4 is correct as Chairperson of the National Commission on Women is also the member of NHRC."
+}

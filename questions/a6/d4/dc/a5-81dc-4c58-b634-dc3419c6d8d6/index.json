@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-29T23:04:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "a6d4dca5-81dc-4c58-b634-dc3419c6d8d6",
+  "labels": "current-affairs,2019-10-30",
+  "question": "Which tech giant has developed a new 54-qubit processor ‘Sycamore’?",
+  "option1": "Microsoft",
+  "option2": "Facebook",
+  "option3": "Google",
+  "option4": "Twitter",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Google has officially claimed that its researchers achieved a breakthrough in the field of ‘Quantum Supremacy’. The term was coined by American theoritical physicist ‘ John Preskill’  to describe a point where quantum computers can perform any task that can\\'t be performed by the classical computers. The tech giant have claimed that they have developed a new 54-qubit processor - ‘Sycamore’ - that is comprised of fast, high-fidelity quantum logic gates, in order toperform the benchmark testing"
+}

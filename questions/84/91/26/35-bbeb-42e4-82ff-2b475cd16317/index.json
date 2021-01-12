@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T20:19:31.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "84912635-bbeb-42e4-82ff-2b475cd16317",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Cobalt-60 is commonly used in radiation therapy because it emits?",
+  "option1": "alpha rays.",
+  "option2": "Beta rays.",
+  "option3": "Gamma rays.",
+  "option4": "X-rays.",
+  "option5": "",
+  "answer": "Gamma rays.",
+  "explanation": "Cobalt-60 (<sup>60</sup>Co) has been used for radiotherapy cancer treatment, food irradiation and industrial applications. As cobalt-60 decays into a stable nickel-60 isotope, two wavelengths of high-energy gamma-rays are emitted (1.17 and 1.33 MeV- average of 1.25 MeV used)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T18:39:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "676f9cc1-cae4-45f7-bac3-6509c61105e4",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Consider the following statements:<br />1. Longitude of Jabalpur’s location is between those of Indore and Bhopal<br />2. Latitude of Aurangabad’s location is between those of Vadodara and Pune<br />3. Bangalore is situated more southward than Chennai.<br />Which of these statements is/are correct?",
+  "option1": "1 and 3",
+  "option2": "Only 2",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "The longitude of Jabalpur\\'s location is to the east of Bhopal, Bangalore is north of Chennai."
+}

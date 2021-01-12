@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-29T23:18:20.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "40788c88-44bf-43e2-90e0-22613aaf673a",
+  "labels": "current-affairs,2019-10-30",
+  "question": "Which IIT has created applications for AI, Machine Learning and Deep Learning to solve engineering problems?",
+  "option1": "IIT Indore",
+  "option2": "IIT Madras",
+  "option3": "IIT Delhi",
+  "option4": "IIT Bombay",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "The researchers at IIT Madras have developed algorithms on novel applications for Artificial Intelligence (AI), Machine Learning and Deep Learning to solve engineering problems. They will soon start a startup to deploy their AI Software called ‘AISoft’. Through their startup, the researchers aim to develop solutions to engineering problems in varied fields such as in thermal management, semiconductors, automobile, aerospace and electronic cooling applications. They have also developed hardware products using GPU and multi-threading processing to solve thermal management problems in thermal and electronic cooling industries."
+}

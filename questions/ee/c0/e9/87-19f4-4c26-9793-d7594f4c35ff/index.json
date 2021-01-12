@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T16:23:54.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "eec0e987-19f4-4c26-9793-d7594f4c35ff",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Consider the following statements about the European Union: <br />I. The European Union was known earlier as the European Community.<br />II. The Single European Act (1986) and the Maastricht Treaty were milestones in its formation.<br />III. Citizens of European Union countries enjoy dual citizenship.<br />IV. Switzerland is a member of the European Union.<br />Which of the above statements are correct?",
+  "option1": "II and IV",
+  "option2": "I and III",
+  "option3": "III and IV",
+  "option4": "I, II and III",
+  "option5": "",
+  "answer": "I, II and III",
+  "explanation": "All the statement given in the question is correct except ‘4’ because Switzerland is not a member of European Union. The European Union is a political and economic union of 28 member states that are located primarily in Europe. It has an area of 4,475,757 km² and an estimated population of about 513 million."
+}

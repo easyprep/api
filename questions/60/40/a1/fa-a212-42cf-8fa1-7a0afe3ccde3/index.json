@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:02:25.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "6040a1fa-a212-42cf-8fa1-7a0afe3ccde3",
+  "labels": "current-affairs,2019-10-25",
+  "question": "Most of the explosions in mines occur due to the mixing of which of the following gases?",
+  "option1": "hydrogen with oxygen",
+  "option2": "oxygen with acetylene",
+  "option3": "methane with air",
+  "option4": "carbon dioxide with ethane",
+  "option5": "",
+  "answer": "methane with air",
+  "explanation": "Methane explosions occur in mines when a buildup of methane gas, a byproduct of coal, comes into contact with a heat source, and there is not enough air to dilute the gas to levels below its explosion point, said Yi Luo, an associate professor of mining engineering at West Virginia University."
+}

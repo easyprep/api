@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T21:56:29.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "960e47a6-73c3-4410-a31c-d51784f53400",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Consider the following statements regarding the earthquakes :<br />I. The intensity of earthquake is measured on Mercalli scale.<br />II. The magnitude of an earthquake is a measure of energy released.<br />III. Earthquake magnitudes are based on direct measurements of the amplitude of seismic waves.<br />IV. In the Richter scale, each whole number demonstrates a hundredfold increase in the amount of energy released.<br />\"Which of these statements are correct?",
+  "option1": "I, II and III",
+  "option2": "II, III and IV",
+  "option3": "I and IV",
+  "option4": "I and III",
+  "option5": "",
+  "answer": "II, III and IV",
+  "explanation": "Magnitude measures the energy released at the source of the earthquake. Magnitude is determined from measurements on seismographs. Intensity measures the strength of shaking produced by the earthquake at a certain location. Intensity is determined from effects on people, human structures, and the natural environment.<br />The Richter magnitude scale is a scale of numbers used to tell the power (or magnitude) of earthquakes. Charles Richter developed the Richter Scale in 1935. His scale worked like a seismogram, measured by a particular type of seismometer at a distance of 100 kilometers (62 mi) from the earthquake.\r\n&nbsp;"
+}

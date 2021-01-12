@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T19:18:02.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "77070df2-12a2-4b97-9cd1-3cd31d5b47a4",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Which among the following cities is nearest to the Tropic of Cancer?",
+  "option1": "Delhi",
+  "option2": "Kolkata",
+  "option3": "Jodhpur",
+  "option4": "Nagpur",
+  "option5": "",
+  "answer": "Kolkata",
+  "explanation": "The Tropic of Cancer located at 23.5° north. Location of Kolkata is 22°33’ N. So, Kolkata is nearer to Tropic of Cancer. Delhi is 28.38°N. Distance between Kolkata, India and the Tropic of Cancer, 97 km = 61 miles."
+}

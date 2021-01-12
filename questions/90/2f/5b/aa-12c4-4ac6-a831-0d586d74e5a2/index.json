@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T21:07:26.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "902f5baa-12c4-4ac6-a831-0d586d74e5a2",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Match List I with List II and select the correct answer using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Theory of Mutation\r\n</td>\r\n<td>\r\n(A) Beadk and Tatum\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Theory of Evolution\r\n</td>\r\n<td>\r\n(B) Jacob and Monod\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. One gene one enzyme hypothesis\r\n</td>\r\n<td>\r\n(C) Darwin\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Operon concept\r\n</td>\r\n<td>\r\n(D) De Vries\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-D, III-A, IV-B",
+  "option2": "I-D, II-C, III-A, IV-B",
+  "option3": "I-D, II-C, III-B, IV-A",
+  "option4": "I-C, II-D, III-B, IV-A",
+  "option5": "",
+  "answer": "I-D, II-C, III-A, IV-B",
+  "explanation": "In his own time, De Vries was best known for his mutation theory. <br />Darwinism is a theory of biological evolution developed by the English naturalist Charles Darwin and others, stating that all species of organisms arise and develop through the natural selection of small, inherited variations that increase the individual\\'s ability to compete, survive, and reproduce.<br />The George Beadle and Edward Tatum experiment proved that genes are responsible for making enzymes that control metabolic processes. From there, they determined that the mold needed the amino acid arginine, and their mutation was to a single gene that could encode for the enzyme that could produce it.<br />Operon Theory is the concept of gene regulation proposed by François Jacob and Jacques Monod. An operon is a group of structural genes whose expression is coordinated by an operator. The repressor encoded by a regulatory gene binds to the operator and represses the transcription of operon."
+}

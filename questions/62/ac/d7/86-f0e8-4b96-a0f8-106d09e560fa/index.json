@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T20:16:13.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "62acd786-f0e8-4b96-a0f8-106d09e560fa",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Which reference to the Wholesale Price Index (WPI), consider the following statements: <br />1. The new WPI series with base 1993-94 = 100 became effective from April 1998<br />2. In the new WPI series, became effective from 1 April 2000. Statements 2 and 3 are correct<br />3. The weight for electricity has increased in the new WPI series<br />Which of these statements are correct?",
+  "option1": "1, 2 and 3",
+  "option2": "2 and 3",
+  "option3": "1 and 3",
+  "option4": "1 and 2",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "The new WPI series with base 1993-94 = 100 became effective from April 2000. In the new WPI series, the weight for primary articles has gone down by 10 percentage points from 32 -22%. The weight for electricity has increased in the new WPI series from 11-14%."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T20:58:13.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "ca337231-cf52-4c54-a8ff-5d15fefa5974",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Match List I with List II and select the correct answer by using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Special Characteristic)\r\n</td>\r\n<td>\r\n(Name of Planet)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Farthest planet from the sun\r\n</td>\r\n<td>\r\n(A) Mercury\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Largest planet of the solar system\r\n</td>\r\n<td>\r\n(B) Venus\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Planet second from the Sun in the solar system\r\n</td>\r\n<td>\r\n(C) Jupiter\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Planet nearest to the Sun\r\n</td>\r\n<td>\r\n(D) Pluto\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Saturn\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-B, II-C, III-E, IV-A",
+  "option2": "I-C, II-E, III-A, IV-B",
+  "option3": "I-D, II-A, III-B, IV-C",
+  "option4": "I-D, II-C, III-B, IV-A",
+  "option5": "",
+  "answer": "I-D, II-C, III-B, IV-A",
+  "explanation": "In order of distance from the sun they are; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Pluto, which until recently was considered to be the farthest planet, is now classified as a dwarf planet.<br />The largest planet in our solar system by far is Jupiter, which beats out all the other planets in both mass and volume. Jupiter\\'s mass is more than 300 times that of Earth, and its diameter, at 140,000 km, is about 11 times Earth\\'s diameter.<br />Venus is the second planet from the Sun. In many ways, Venus is a twin to our own Earth.<br />Mercury is the closest planet to the sun. As such, it circles the sun faster than all the other planets, which is why Romans named it after their swift-footed messenger god."
+}

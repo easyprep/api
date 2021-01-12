@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T21:12:39.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "777e8515-75c3-4c58-84e2-f36a3877852b",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Which one of the following statements is not correct?",
+  "option1": "The velocity of sound in air increases with the increase of temperature",
+  "option2": "The velocity of sound in air is independent of pressure",
+  "option3": "The velocity of sound in air decreases as the humidity increases",
+  "option4": "The velocity of sound in air is not affected by the change in amplitude and frequency",
+  "option5": "",
+  "answer": "The velocity of sound in air decreases as the humidity increases",
+  "explanation": "The velocity of sound in air is determined by the air itself and is not dependent upon the amplitude, frequency, or wavelength of the sound. The velocity of sound c depends on the temperature of air and not on the air pressure. Thus, velocity of sound in air increases with temperature and remains unaffected with increase of pressure. Therefore, statements 1, 2 and 4 are right. Only statement 3 is wrong. The only other factor that has any effect on the speed of sound in air is the amount of humidity in the air. An increase in the amount of humidity in the air increases the speed by a small amount."
+}

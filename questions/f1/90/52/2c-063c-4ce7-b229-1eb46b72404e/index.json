@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T21:08:37.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "f190522c-063c-4ce7-b229-1eb46b72404e",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Consider the following States: <br />I. Gujarat<br />II. Karnataka<br />III. Maharashtra<br />IV. Tamil Nadu.<br />The descending order of these States with reference to their level of Per Capita Net State Domestic Product is",
+  "option1": "I, III, IV, II",
+  "option2": "III, IV, I, II",
+  "option3": "I, III, II, IV",
+  "option4": "III, I, IV, II",
+  "option5": "",
+  "answer": "III, IV, I, II",
+  "explanation": "According to 2011-12 data the correct order is- Maharashtra (101314 INR), Tamil Nadu 84496 (INR), Gujarat (75115 INR), Karnataka (68374 INR)."
+}

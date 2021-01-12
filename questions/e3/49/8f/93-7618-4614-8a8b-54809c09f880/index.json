@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T21:12:58.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "e3498f93-7618-4614-8a8b-54809c09f880",
+  "labels": "current-affairs,2019-11-02",
+  "question": "When water is heated from 0°C to 10°C, what will happen to its volume?",
+  "option1": "increases",
+  "option2": "decreases",
+  "option3": "does not change",
+  "option4": "first decreases and then increases",
+  "option5": "",
+  "answer": "first decreases and then increases",
+  "explanation": "Initially at start of heating from 0°C to 4°C there will be a contraction as a result of which volume decreases. On further heating beyond 4°C to 10°C the molecules gain kinetic energy and start moving more randomly. Thus, intermolecular distance increases as a result of which its volume increases."
+}

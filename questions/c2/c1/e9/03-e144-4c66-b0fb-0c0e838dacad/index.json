@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T20:03:56.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "c2c1e903-e144-4c66-b0fb-0c0e838dacad",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Consider the following high yielding varieties of crops in India: <br />1. Arjun<br />2. Jaya<br />3. Padma<br />4. Sonalika<br />Which of these are wheat?",
+  "option1": "1 and 2",
+  "option2": "2 and 3",
+  "option3": "1 and 4",
+  "option4": "3 and 4",
+  "option5": "",
+  "answer": "1 and 4",
+  "explanation": "Arjun and Sonalika are hybrid variety of wheat produced by Indian Council of Agricultural Research."
+}

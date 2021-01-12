@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T16:46:59.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0369aed5-18c6-47c9-ad0e-caeec77a7497",
+  "labels": "current-affairs,2019-11-01",
+  "question": "A man whose blood group is not known meets with a serious accident and needs blood transfusion immediately. Which one of the blood groups mentioned below and readily available in the hospital will be safe for transfusion?",
+  "option1": "O, Rh-",
+  "option2": "O, Rh+",
+  "option3": "AB, Rh-",
+  "option4": "AB, Rh+",
+  "option5": "",
+  "answer": "O, Rh+",
+  "explanation": "There is no A and B antigen on RBC of “O– ”bloodgroup , So O, Rh– is known as universal blood donor."
+}

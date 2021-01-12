@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T21:20:09.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "06326a19-9d09-4b54-affc-1736ea2880c8",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Consider the following statements:<br />1. Liquefied Natural Gas (LNG) is liquefied under extremely cold temperatures and high pressure to facilitate storage or transportation in specially designed vessels.<br />2. Fist LNG terminal in India was built in Hassan.<br />3. Natural Gas Liquids (NGL) are separated from LPG and these include ethane, propane, butane and natural gasoline.<br />Which of the statements is/are correct?",
+  "option1": "1 only",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "• Liquified Natural Gas or LNG is natural gas (predominantly methane, CH4) that has been converted temporarily to liquid form for ease of storage or transport. The liquefaction process involves removal of certain components, such as dust, acid gases, helium, water, and heavy hydrocarbons, which could cause difficulty downstream. The natural gas is then condensed into a liquid maximum transport pressure set at around 25 kPa/3.6 psi by cooling it to approximately –162 °C (–260 °F). <br />• Dahej, in India has begun its first import of natural gas. <br />• Natural gas liquids recovery (NGL) involves refrigerated gas plants, turboexpanders, debutanizers, depropanizers, and JT plants. NGL can be separated using debutanizers and depropanizers into propane, butane, naphtha, etc."
+}

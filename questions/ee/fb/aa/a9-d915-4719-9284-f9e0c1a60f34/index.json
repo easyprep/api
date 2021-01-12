@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T18:56:13.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "eefbaaa9-d915-4719-9284-f9e0c1a60f34",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Which of the following cell organelles play the most significant role in protein synthesis?",
+  "option1": "Lysosome and Centrosome",
+  "option2": "Endoplasmic reticulum and Ribosome",
+  "option3": "Golgi apparatus and Mitochondria",
+  "option4": "Lysosome and Mitochondria",
+  "option5": "",
+  "answer": "Endoplasmic reticulum and Ribosome",
+  "explanation": "Ribosome and Endoplasmic reticulum are main site for protein synthesis. Ribosome, which serve as staging area where some RNA helps in protein synthesis. Endoplasmic reticulum is an irregular, double membrane network scattered in cytoplasm, also helps in protein synthesis."
+}

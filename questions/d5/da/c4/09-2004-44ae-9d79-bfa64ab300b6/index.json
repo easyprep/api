@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T15:32:50.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "d5dac409-2004-44ae-9d79-bfa64ab300b6",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Consider the following statements: <br />I. If a person looks at a coin which is in a bucket of water, the coin will appear to be closer than it really is.<br />II. If a person under water looks at a coin above the water surface, the coin will appear to be at a higher level than it really it.<br />Which of the above statements is/are correct?",
+  "option1": "I and II",
+  "option2": "I alone",
+  "option3": "II alone",
+  "option4": "Neither I nor II",
+  "option5": "",
+  "answer": "I and II",
+  "explanation": "Both 1 and 2 <br />When the person looks at a coin which is in a bucket of water, the coin will appear closer and at a higher level than it really is. <br />µ2 = real depth / apparent depth"
+}

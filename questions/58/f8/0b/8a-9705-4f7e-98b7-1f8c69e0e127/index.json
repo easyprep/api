@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T17:37:23.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "58f80b8a-9705-4f7e-98b7-1f8c69e0e127",
+  "labels": "current-affairs,2019-11-04",
+  "question": "With reference to ionic compounds, consider the following statements:<br />1. Ionic compounds are insoluble in alcohol.<br />2. Ionic compounds in the solid state are good conductors of electricity.<br />Which of these statements is/are correct?\r\n&nbsp;",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Ionic compound is a chemical compound in which ions are held together in a lattice structure by ionic bonds. Following the aphorism, \\\"like dissolves like\\\", ionic compounds dissolve in polar solvents, especially those that ionize, such as water and ionic liquids. They are usually appreciably soluble in other polar solvents such as alcohols, acetone. Solid ionic compounds cannot conduct electricity because there are no mobile ions or electrons present in the lattice."
+}

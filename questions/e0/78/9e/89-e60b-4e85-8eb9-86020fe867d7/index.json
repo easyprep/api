@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T22:23:41.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "e0789e89-e60b-4e85-8eb9-86020fe867d7",
+  "labels": "current-affairs,2019-11-05",
+  "question": "Consider the following companies:<br />1. Voltas<br />2. Titan Industries<br />3. Rallis India<br />4. Indian Hotels<br />Which of the above companies are in the Tata Group of Industries?",
+  "option1": "1 and 2",
+  "option2": "2, 3 and 4",
+  "option3": "1, 3 and 4",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2, 3 and 4",
+  "explanation": "Voltas, Titan Industries, Rallis India and Indian Hotels are all companies under Tata Group."
+}

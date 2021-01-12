@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T21:07:14.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "aa1da16e-eeac-495a-82de-af6ad020a414",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Which one of the following is the correct sequence of the given Continents in the decreasing order of their percentage of earth’s land?",
+  "option1": "North America-Africa-South America-Europe",
+  "option2": "Africa-North America-South America-Europe",
+  "option3": "North America-Africa-Europe-South America",
+  "option4": "Africa-North America-Europe-South America",
+  "option5": "",
+  "answer": "Africa-North America-South America-Europe",
+  "explanation": "The decreasing order of arrangement of continent according to the percentage of Earth\\'s land is Africa (29800000 sq km), North America (21510000 sq km) South America (17598000 sq km) and Europe (9699550 sq km)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-23T18:33:14.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "76a69395-15a0-4b63-a4a2-d7268a772c41",
+  "labels": "current-affairs,2019-10-24",
+  "question": "Match List I (Books) with List II (Authors) and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. My Music, My Life\r\n</td>\r\n<td>\r\n(A) Laxman Gaikwad\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Adha Gaon\r\n</td>\r\n<td>\r\n(B) Rahi Masoom Raza\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Radha\r\n</td>\r\n<td>\r\n(C) Ramakanta Rath\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. The Pilferer\r\n</td>\r\n<td>\r\n(D) Ravi Shankar\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-B, III-D, IV-A",
+  "option2": "I-D, II-B, III-C, IV-A",
+  "option3": "I-D, II-A, III-C, IV-B",
+  "option4": "I-C, II-A, III-D, IV-B",
+  "option5": "",
+  "answer": "I-D, II-B, III-C, IV-A",
+  "explanation": "“My Music my Life” is written by famous sitar player Pandit Ravi Shankar <br />“Adha Goon” is written by Rahi Masoom Raza. <br />“Radha” is a novel of Ramakanta Rath <br />“The Pilferer” is written by Laxman Gaikwad.\r\n&nbsp;"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T17:13:29.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "a1c0c35f-0714-45c9-84ec-95ca16319fea",
+  "labels": "current-affairs,2019-11-05",
+  "question": "Consider the following tasks:<br />1. Superintendence, direction and conduct of free and fair elections.<br />2. Preparation of electoral rolls for all elections to the Parliament, State Legislatures and the Office of the President and the Vice-President.<br />3. Giving recognition to political parties and allotting election symbols to political parties and individuals contesting the election.<br />4. Proclamation of final verdict in the case of election disputes.<br />Which of the above are the functions of the Election Commission of India?",
+  "option1": "1, 2 and 3",
+  "option2": "2, 3 and 4",
+  "option3": "1 and 3",
+  "option4": "1, 2 and 4",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "The High Court (and not the Election Commission) is the final authority to give a final verdict in case of election disputes. In the alternative special election benches may be constituted in high courts and earmarked exclusively for the disposal of election petitions and disputes."
+}

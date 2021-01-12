@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T20:49:21.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "06473e19-88d7-4632-b6c4-2751bcb9aff8",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Which of the following statements are true about the Indian-born woman astronaut Kalpana Chawla?<br />I. She was born in Kamal.<br />II. She flew on board the shuttle flight STS-87.<br />III. She was trained at the Kennedy Space Centre.<br />IV. She did a space-walk to retrieve the Spartan Satellite.<br />Select the correct answer using the codes given below: <br />Codes:",
+  "option1": "I and II",
+  "option2": "II and III",
+  "option3": "I, II and III",
+  "option4": "I, II and IV",
+  "option5": "",
+  "answer": "I, II and III",
+  "explanation": "During STS-87, she was responsible for deploying the Spartan satellite which malfunctioned, necessitating a spacewalk by Winston Scott and Takao Doi to capture the satellite."
+}

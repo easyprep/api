@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T20:45:58.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "f8de30d6-be06-4456-b4f2-7d76555abe89",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Consider the following statements :<br />Glass can be etched or scratched by<br />I. diamond.<br />II. hydrofluoric acid.<br />III. aquaregia.<br />IV. cone, sulphuric acid.<br />Which of these statements are correct?",
+  "option1": "I and IV",
+  "option2": "II and III",
+  "option3": "I and II",
+  "option4": "II and IV",
+  "option5": "",
+  "answer": "I and II",
+  "explanation": "Glass is etched by applying a caustic compound to the glass surface. The compound chemically eats away at the glass substrate (borosilicate), and causes etching in the glass surface. Another method involves physically grinding the glass surface with an abrasive, like a grinding wheel. The surface is worn away where the wheel hits, and the etched surface remains. Some very artistic designs can be created with both methods. Glass can be etched or scratched by diamond and hydrofluoric acid."
+}

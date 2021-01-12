@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T21:35:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "48b43810-bd46-4134-a3a7-37ae9116c3b5",
+  "labels": "current-affairs,2019-11-05",
+  "question": "Consider the following statements:<br />1. The Islamic Calendar is twelve days shorter than the Gregorian Calendar.<br />2. The Islamic Calendar began in AD 632.<br />3. The Gregorian Calendar is a solar calendar.<br />Which of the statements given above is/are correct?",
+  "option1": "1 only",
+  "option2": "1 and 2",
+  "option3": "1 and 3",
+  "option4": "3 only",
+  "option5": "",
+  "answer": "3 only",
+  "explanation": "The Islamic calendar began in AD 622, during which the emigration of Muhammad from Mecca to Medina, known as Hijra occurred. It is a lunar calendar consisting of 12 lunar months in a year of 354 or 355 days. It is also called Hijri calendar. The Gregorian calendar is a lunar calendar."
+}

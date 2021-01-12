@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T20:38:04.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "fb4b658a-a7c2-4ec1-8d5c-17584c543f1b",
+  "labels": "current-affairs,2019-11-02",
+  "question": "A radioactive substance has a half-life of four months. Three-fourth of the substance would decay in how many months?",
+  "option1": "3 months",
+  "option2": "4 months",
+  "option3": "8 months",
+  "option4": "12 months",
+  "option5": "",
+  "answer": "8 months",
+  "explanation": "As it is given that half life of given substance is 4 months. <br />The amount of substance left after 4 months = 1/2 <br />The amount of substance left after 8 months = 1/4 <br />Therefore the amount of substance decay in 8 months = (1 – 1/4) = 3/4\r\n&nbsp;"
+}

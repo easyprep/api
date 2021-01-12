@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T17:25:26.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "2de8e3a6-d12f-4be2-9ea3-0bc20ccffa53",
+  "labels": "current-affairs,2019-10-18",
+  "question": "In the vicinity of Mumbai, a number of specialized towns have been developed. Match the lists of specialization with towns and select the correct answer using the codes given below the lists :\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Towns)\r\n</td>\r\n<td>\r\n(Specialisation)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Alibag\r\n</td>\r\n<td>\r\n(A) Fishing Centre\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Balapur\r\n</td>\r\n<td>\r\n(B) Holiday resort\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Nhava Sheva\r\n</td>\r\n<td>\r\n(C) Petro-chemical complex\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Ratnagiri\r\n</td>\r\n<td>\r\n(D) Port\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-A, II-C, III-B, IV-D",
+  "option2": "I-B, II-C, III-D, IV-A",
+  "option3": "I-C, II-D, III-B, IV-A",
+  "option4": "I-B, II-A, III-D, IV-C",
+  "option5": "",
+  "answer": "I-B, II-A, III-D, IV-C",
+  "explanation": "Alibag                – Holiday Resort\r\nBalapur              – Fishing Centre\r\nNhave Sheva     – Port\r\nRatnagiri            – Petrochemical complex"
+}

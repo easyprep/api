@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T22:44:33.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "bb1bfe29-011e-4ad2-b684-e6252a86535f",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Consider the following statements:<br />1. The common blue green algae Spirogyra and Ulothrix are found in both fresh water ponds and oceans.<br />2. The chameleon can look ahead with one eye, and at the same time look behind with another.<br />Which of these statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Spirogyra and Ulothrix are green algae not blue algae. The chamelean can see in both the direction forward and backward at the same time."
+}

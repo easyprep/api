@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T16:58:35.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "3310b31a-1c6e-4a83-ad82-7426aa86ba80",
+  "labels": "current-affairs,2019-10-18",
+  "question": "A fuse is used in main electric supply as a safety device. Which one of the following statements about the fuse is correct?",
+  "option1": "It is connected in parallel with the main switch",
+  "option2": "It is made mainly from silver alloys",
+  "option3": "It must have a low melting point",
+  "option4": "It must have a very high resistance",
+  "option5": "",
+  "answer": "It must have a low melting point",
+  "explanation": "A fuse is a type of sacrificial overcurrent protection device. Its essential component is a metal wire or strip that melts when too much current flows. Short circuit, overload or device failure is often the reason for excessive current. The resistance of the element used in fuse generates heat due to the current flow. It has low melting point so that it melts when a short-circuit or overloading takes place."
+}

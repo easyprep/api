@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T16:14:39.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "62078427-917f-4baa-8aee-d9bf7803d3d9",
+  "labels": "current-affairs,2019-11-05",
+  "question": "Consider the following statements:<br />1. The Speaker of Lok Sabha has the power to adjourn the House sine die but, on prorogation, it is only the President who can summon the House.<br />2. Unless sooner dissolved or there is an extension of the term, there is an automatic dissolution of the Lok Sabha by efflux of time, at the end of the period of five years, even if no formal order of dissolution is issued by the President.<br />3. The Speaker of Lok Sabha continues in office even after the dissolution of the House and until ‘immediately before the first meeting of the House’.<br />Which of the statements given above are correct?",
+  "option1": "1 and 2",
+  "option2": "2 and 3",
+  "option3": "1 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1 and 2",
+  "explanation": "The Speaker continues in office till immediately before the first meeting of Lok Sabha after dissolution of the one to which he/she was elected, unless he/she ceases to be a Member by any of the reasons specified in articles 94, 101 and 102 of the Constitution."
+}

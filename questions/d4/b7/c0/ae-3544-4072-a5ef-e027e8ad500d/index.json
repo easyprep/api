@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T22:27:08.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "d4b7c0ae-3544-4072-a5ef-e027e8ad500d",
+  "labels": "current-affairs,2019-11-05",
+  "question": "Consider the following geological phenomena :<br />1. Development of a fault<br />2. Movement along a fault<br />3. Impact produced by a volcanic eruption<br />4. Folding of rocks<br />Which of the above cause earthquakes?",
+  "option1": "1, 2 and 3",
+  "option2": "2 and 4",
+  "option3": "1, 3 and 4",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2, 3 and 4",
+  "explanation": "An earthquake is caused by tectonic plates getting stuck and putting a strain on the ground. The strain becomes so great that rocks give way by breaking and sliding along fault planes. Plate boundaries lock as the plates move past each other, creating frictional stress.<br />Volcanic activity and volcanic eruption is usually triggered by alterations of tectonic plates, resulting in landslides or earthquakes. Volcanic eruptions can be extremely damaging to the environment, particularly because of a number of toxic gases possibly present in pyroclastic material.<br />Early in the folding, earthquakes occur on the slipping fault. But as time goes on, the quakes are increasingly caused by the slipping rock layers above and around the fault as the folds buckle under pressure."
+}

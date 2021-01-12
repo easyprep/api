@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T20:14:18.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0b86e55c-627a-4367-b3b5-35309fa5dbaf",
+  "labels": "current-affairs,2019-11-02",
+  "question": "Consider the following statements: <br />I. Arya Samaj was founded in 1835.<br />II. Lala Lajpat Rai opposed the appeal of Arya Samaj to the authority of Vedas in support of its social reform programmes.<br />III. Under Keshab Chandra Sen, the Brahmo Samaj campaigned for women’s education.<br />IV. Vinoba Bhave founded the Sarvodaya Samaj to work among rufugees.<br />Which of these statements are correct?",
+  "option1": "I and II",
+  "option2": "II and III",
+  "option3": "II and IV",
+  "option4": "III and IV",
+  "option5": "",
+  "answer": "II and IV",
+  "explanation": "Arya Samaj was founded in 1875 (not 1835) at Bombay by Dayananda Saraswati. Though Lala Lajpat Rai was follower of Arya Samaj but never opposed it."
+}

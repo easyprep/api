@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T17:31:04.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "5c3ce201-e77d-4674-91da-584a6d269b5d",
+  "labels": "current-affairs,2019-10-18",
+  "question": "Match List I with List II and select the correct answer using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Agricultural products)\r\n</td>\r\n<td>\r\n(Foremost producer)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Cotton\r\n</td>\r\n<td>\r\n(A) Madhya Pradesh\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Gram\r\n</td>\r\n<td>\r\n(B) Gujarat\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Black pepper\r\n</td>\r\n<td>\r\n(C) West Bengal\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Pineapple\r\n</td>\r\n<td>\r\n(D) Kerala\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-B, II-A, III-D, IV-C",
+  "option2": "I-B, II-A, III-C, IV-D",
+  "option3": "I-A, II-B, III-D, IV-C",
+  "option4": "I-A, II-B, III-C, IV-D",
+  "option5": "",
+  "answer": "I-B, II-A, III-D, IV-C",
+  "explanation": "Gujarat is the foremost producer of cotton. <br />Gram is produced in Madhya Pradesh, <br />Black pepper is produced in Kerala and <br />Pineapple is produced highest in West Bengal.\r\n&nbsp;"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-29T22:05:05.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "98656d32-e383-4f43-88b6-b1350f020a86",
+  "labels": "current-affairs,2019-10-30",
+  "question": "The term “Adjusted Gross Revenue (AGR)” is associated to which field?",
+  "option1": "Oil",
+  "option2": "Telecom",
+  "option3": "Insurance",
+  "option4": "Banking",
+  "option5": "",
+  "answer": "Telecom",
+  "explanation": "The Supreme Court (SC) has recently upheld the definition of Adjusted Gross Revenue (AGR) calculation as stipulated by the Department of Telecommunications (DoT).  As per SC ruling, the telecom companies will now have to pay up approx Rs 92,642 crore to the government, more than half of which are owed by Airtel and Vodafone. The AGR is the spectrum usage charges and licensing fees that telecom operators are charged by the DoT. As per DoT, the charges are calculated based on all revenues earned by a telco – including non-telecom related sources such as deposit interests and asset sales. Though, Telco insist that AGR should comprise only the revenues generated from telecom services."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:03:48.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "ce4a634f-04a2-4bd5-ba53-dd7fc7153625",
+  "labels": "current-affairs,2019-10-25",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists :\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. German Silver\r\n</td>\r\n<td>\r\n(A) Tin\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Solder\r\n</td>\r\n<td>\r\n(B) Nickel\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Bleaching Powder\r\n</td>\r\n<td>\r\n(C) Sodium\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Hypo\r\n</td>\r\n<td>\r\n(D) Chlorine\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-A, II-B, III-D, IV-C",
+  "option2": "I-B, II-A, III-C, IV-D",
+  "option3": "I-A, II-B, III-C, IV-D",
+  "option4": "I-B, II-A, III-D, IV-C",
+  "option5": "",
+  "answer": "I-B, II-A, III-D, IV-C",
+  "explanation": "German silver varies in composition, the percentage of the three elements ranging approximately as follows: copper, from 50% to 61.6%; zinc, from 19% to 17.2%; nickel, from 30% to 21.1%. The proportions are always specified in commercial alloys.<br />A type of lead-free solder made from tin and copper. SnCu is a commonly used type of lead-free solder. A metal alloy, with a melting point or melting range below 840°F (450°C), which is melted to join metallic surfaces. Powdered solder alloy formed into small spheres and coated with a layer of flux.<br />Calcium hypochlorite is an inorganic compound with formula Ca(ClO)₂. It is the main active ingredient of commercial products called bleaching powder, chlorine powder, or chlorinated lime, used for water treatment and as a bleaching agent.<br />Hyponatremia is the term used to describe low sodium levels in the bloodstream (hypo=low + natr=sodium + emia=blood). Acute hyponatremia describes the situation in which sodium levels drop quickly, while chronic hyponatremia describes situations with a gradual fall in the sodium concentrations over days or weeks."
+}

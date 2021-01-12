@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-23T18:57:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "65a3e896-8d66-4bae-8b9c-b861ff28a174",
+  "labels": "current-affairs,2019-10-24",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Artist)\r\n</td>\r\n<td>\r\n(Medium of music delivery)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Balamurali Krishna\r\n</td>\r\n<td>\r\n(A) Hindustani vocal\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Mita Pandit\r\n</td>\r\n<td>\r\n(B) Ghatam\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Kanyakumari\r\n</td>\r\n<td>\r\n(C) Sitar\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Nikhil Bannerjee\r\n</td>\r\n<td>\r\n(D) Violin\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Carnatic vocal\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-E, II-A, III-B, IV-C",
+  "option2": "I-D, II-C, III-A, IV-E",
+  "option3": "I-C, II-A, III-E, IV-B",
+  "option4": "I-E, II-D, III-A, IV-C",
+  "option5": "",
+  "answer": "I-E, II-A, III-B, IV-C",
+  "explanation": "Balamurali Krishna is famous carnatic vocalist<br />Mita Pandit is famous Hindustani vocalist <br />Kanyakumari is famous for Ghatam from of singing<br />Nikhil Banerjee is famous sitar player.\r\n&nbsp;"
+}

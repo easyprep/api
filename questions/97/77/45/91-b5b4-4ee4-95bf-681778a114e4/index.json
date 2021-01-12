@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T18:16:17.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "97774591-b5b4-4ee4-95bf-681778a114e4",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Consider the following statements: <br />A simple pendulum is set into oscillation. Then<br />I. the acceleration is zero when the bob passes through the mean position.<br />II. in each cycle the bob attains a given velocity twice.<br />III. both acceleration and velocity of the bob are zero when it reaches its extreme position during its oscillation.<br />IV. the amplitude of oscillation of the simple pendulum decreases with time.<br />Which of these statements are correct?",
+  "option1": "I and II",
+  "option2": "III and IV",
+  "option3": "I, II and IV",
+  "option4": "II, III and IV",
+  "option5": "",
+  "answer": "I, II and IV",
+  "explanation": "<img src= \\\"https://www.gktoday.com/wp-content/uploads/2019/10/Screenshot_3.png\\\">\r\nThe bob of a simple pendulum is attached to a string which pulls the bob along its length. Here B and C are extreme positions whereas A is mean position. The speed of the bob increases as it approaches the mean position A and continues to move till it reaches C. At C the speed becomes zero. Due to the unbalanced force the bob moves towards the mean position. The speed of the bob is maximum at the mean position and is zero at the extreme positions. Thus, it is clear that in each cycle bob velocity increases from zero to maximum. This means that it attains a given velocity twice. Suppose the bob of the pendulum reaches up to B while oscillating, then AB is the amplitude. For the next oscillation the bob fails to reach B but it will reverse the direction from point B¢ instead of B. The amplitude of oscillation in the second case is AB¢ which is less than AB. That means, a retarding force is acting on the bob thereby reducing the amplitude of oscillation. This retarding force is nothing but air-resistance or air-friction. At extreme position, acceleration is maximum. So statement 3 is not correct."
+}

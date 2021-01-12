@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T18:31:02.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "5271caa3-d8da-40b9-bd03-fb2fed934622",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Consider the following natural phenomena: <br />1. Terrestrial heating<br />2. Reflection of light<br />3. Refraction of light<br />4. Diffraction of light<br />Due to which of these phenomena is mirage formed?",
+  "option1": "1 and 2",
+  "option2": "2, 3 and 4",
+  "option3": "1 and 3",
+  "option4": "4 only",
+  "option5": "",
+  "answer": "1 and 3",
+  "explanation": "Convection currents of hot air rising off a surface have a lower density than the air directly above it. The difference in density cause light passing through the air to refract differently, which causes the formation of mirage."
+}

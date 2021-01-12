@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T14:58:51.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "6b152bda-6b87-48df-8097-80518dbcebd6",
+  "labels": "current-affairs,2019-10-25",
+  "question": "Match the cities labelled as 1, 2, 3, 4 and 5 in the given map with the names of the institutes located in these cities and select the correct answer using the codes given below the names of the institutes.\r\n<img src= \"https://www.gktoday.in/wp-content/uploads/2019/10/1-22.png\">\r\nNames of Institutes\r\n(A) Central Marine Fisheries Research Institute\r\n(B) Central Sheep Breeding Farm\r\n(C) National Dairy Research Institute\r\n(D) National Institute of Agricultural Extension Management\r\nCodes:",
+  "option1": "A-5, B-1, C-3, D-2",
+  "option2": "A-5, B-2, C-1, D-4",
+  "option3": "A-4, B-2, C-1, D-3",
+  "option4": "A-1, B-2, C-3, D-4",
+  "option5": "",
+  "answer": "A-5, B-2, C-1, D-4",
+  "explanation": "Central Marine Fisheries Research Institute is located in Cochin of Kerala, which is marked as ‘5’ in the given map. <br />Central sheep breeding farm is located in Hissar of Haryana, which is marked as ‘2’. <br />National Dairy Research Institute is situated in Karnal of Haryana is marked by ‘1’ in the map. National Institute of Agricultural Extension is situated at Hyderabad of Andhra Pradesh and is marked by ‘4’ in the given map."
+}

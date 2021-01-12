@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-22T21:36:18.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "64d9850a-e44a-4075-93bb-56bbbdc684d7",
+  "labels": "current-affairs,2019-10-23",
+  "question": "The researchers of which country have developed renewable energy storage device?",
+  "option1": "United Kingdom",
+  "option2": "United States",
+  "option3": "France",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "United Kingdom",
+  "explanation": "The researchers from Queen Mary institute of London have developed a new dielectric capacitor- a device that stores energy like a battery, taking inspiration from a French pastry. The croissant is made by folding multiple layers of dough. They found that by pressing and folding a polymer film capacitor, they were able to store 30 times more energy than the best-performing commercially available dielectric capacitor. This is the highest energy density ever reported in a polymer film capacitor. The advance may pave the way for efficient, low-cost, and environmentally-friendly electric energy storage systems for wind and solar sources. With this technique, large amounts of renewable energy can be stored."
+}

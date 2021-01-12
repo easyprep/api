@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T22:21:14.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "715c2f68-54a0-4cda-9180-759a46739904",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Life expectancy is highest in which of the following countries?",
+  "option1": "Canada",
+  "option2": "Germany",
+  "option3": "Japan",
+  "option4": "Norway",
+  "option5": "",
+  "answer": "Japan",
+  "explanation": "<table width=\\\"606\\\">\r\n<tbody>\r\n<tr>\r\n<td>\r\n<strong>Country</strong>\r\n</td>\r\n<td>\r\n<strong>Rank 2018</strong>\r\n</td>\r\n<td>\r\n<strong>Life expectancy 2018</strong>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nJapan\r\n</td>\r\n<td>\r\n1\r\n</td>\r\n<td>\r\n83.7\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nSpain\r\n</td>\r\n<td>\r\n2\r\n</td>\r\n<td>\r\n82.9\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nSwitzerland\r\n</td>\r\n<td>\r\n3\r\n</td>\r\n<td>\r\n83.3\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

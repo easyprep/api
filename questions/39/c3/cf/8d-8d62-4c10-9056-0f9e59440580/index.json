@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T21:14:39.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "39c3cf8d-8d62-4c10-9056-0f9e59440580",
+  "labels": "current-affairs,2019-11-02",
+  "question": "When light waves pass from air to glass, which of the following variables are affected?",
+  "option1": "Wavelength, frequency and velocity",
+  "option2": "Velocity and frequency",
+  "option3": "Wavelength and frequency",
+  "option4": "Wavelength and velocity",
+  "option5": "",
+  "answer": "Wavelength and velocity",
+  "explanation": "When light enters from rarer (air) to denser (glass) medium wavelength and velocity will get affected. The velocity will decrease. Moreover, as the ray bent in passing through different media which results in decrease of wavelength. As such there is no change in frequency when light enters from air to glass."
+}

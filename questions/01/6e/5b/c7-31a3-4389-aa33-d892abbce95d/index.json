@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-26T13:18:59.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "016e5bc7-31a3-4389-aa33-d892abbce95d",
+  "labels": "current-affairs,2019-10-27",
+  "question": "What is the half life of Carbon-14 isotope which is radio active in nature?",
+  "option1": "2600 years",
+  "option2": "3412 years",
+  "option3": "5730 years",
+  "option4": "8480 years",
+  "option5": "",
+  "answer": "5730 years",
+  "explanation": "Carbon-14 (C-14) isotope which is radio active in nature is used in Carbon Dating to determine the age of plants and fossils. It has a half-life (decays to half the strength) of 5,730 years."
+}

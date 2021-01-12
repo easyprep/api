@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T18:41:22.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "7c211ace-9386-4c5f-bc04-4aca33386408",
+  "labels": "current-affairs,2019-11-05",
+  "question": "With reference to Indian Parliament, which one of the following is not correct?",
+  "option1": "The Appropriation Bill must be passed by both Houses of Parliament before it can be enacted into law.",
+  "option2": "No money shall be withdrawn form the Consolidated Fund of India except under the appropriation made by the Appropriation Act.",
+  "option3": "Finance Bill is required for proposing new taxes but no another Bill/ Act is required for making changes in the rates of taxes which are already under operation.",
+  "option4": "No Money Bill can be introduced except on the recommendation of the President.",
+  "option5": "",
+  "answer": "The Appropriation Bill must be passed by both Houses of Parliament before it can be enacted into law.",
+  "explanation": "Appropriation Bill is a money bill. In case of money bill, RS has only recommendatory power and need not to be passed by RS."
+}

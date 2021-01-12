@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:01:30.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "60d6d116-5674-449c-b1f5-c83acfce5aae",
+  "labels": "current-affairs,2019-10-25",
+  "question": "What does the stones formed in human kidney consist of?",
+  "option1": "calcium oxalate",
+  "option2": "sodium acetate",
+  "option3": "magnesium sulphate",
+  "option4": "calcium",
+  "option5": "",
+  "answer": "calcium oxalate",
+  "explanation": "Stones are typically classified by their location: nephrolithiasis (in the kidney), ureterolithiasis (in the ureter), cystolithiasis (in the bladder), or by what they are made of (calcium oxalate, uric acid, struvite, cystine)."
+}

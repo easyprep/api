@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T21:04:12.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "a7a67d62-37ad-42cf-98b4-ce409af3245d",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Match the names of outstanding Indian scientists given in List I with area of their specialized work given in List II and select the correct answer using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Dr. Raja Ramanna\r\n</td>\r\n<td>\r\n(A) Plant Chemistry\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Dr. M.S. Swaminathan\r\n</td>\r\n<td>\r\n(B) Nuclear Physics\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Prof. U.R. Rao\r\n</td>\r\n<td>\r\n(C) Thermodynamics and astrophysics\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Prof. Meghnad Saha\r\n</td>\r\n<td>\r\n(D) Space research\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Agricultural sciences\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-E, III-B, IV-A",
+  "option2": "I-B, II-A, III-D, IV-C",
+  "option3": "I-B, II-E, III-D, IV-C",
+  "option4": "I-C, II-A, III-D, IV-B",
+  "option5": "",
+  "answer": "I-B, II-E, III-D, IV-C",
+  "explanation": "Raja Ramanna was an Indian physicist who is best known for his role in India\\'s nuclear program during its early stages. Having joined the nuclear program in 1964, Ramanna worked under Homi Jehangir Bhabha, and later became the director of this program in 1967.<br />Mankombu Sambasivan Swaminathan is an Indian geneticist and administrator, known for his role in India\\'s Green Revolution, a program under which high-yield varieties of wheat and rice were planted.<br />Prof U R Rao was an internationally renowned space scientist who had made original contributions to the development of space technology in India and its extensive application to communications and remote sensing of natural resources.<br />Meghnad Saha FRS was a Bangladeshi-Indian astrophysicist best known for his development of the Saha ionization equation, used to describe chemical and physical conditions in stars."
+}

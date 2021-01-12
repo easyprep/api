@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T20:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "ff1ae198-c3f1-4d03-accf-45d7cc0e765b",
+  "labels": "current-affairs,2019-11-03",
+  "question": "When one gene controls two or more different characters simultaneously, the phenomenon is known by which of the following names?",
+  "option1": "Apomixis",
+  "option2": "Pleiotropy",
+  "option3": "Polyploidy",
+  "option4": "Polyteny",
+  "option5": "",
+  "answer": "Pleiotropy",
+  "explanation": "• Polyploidy occurs in cells and organisms when there are more than two paired (homologous) set of chromosome founds which controls more than one characters simultaneously. <br />• Apomixis is the process of asexual reproduction in which the embryo grows from egg cells without being fertilized. <br />• Pleiotropy occurs when a single gene influences multiple phenotypic traits. <br />• Polytene is a giant chromosome found in some two-winged flies."
+}

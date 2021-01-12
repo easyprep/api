@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T21:08:57.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "b906004e-4e97-4de6-aee1-d96505289d08",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Which bank has recently launched contactless mobile phone payments facility?",
+  "option1": "SBI",
+  "option2": "ICICI Bank",
+  "option3": "HDFC bank",
+  "option4": "BoB",
+  "option5": "",
+  "answer": "SBI",
+  "explanation": "The SBI Card has  launched the ‘SBI Card Pay’ that allows contactless payment using mobile phones at PoS terminals. Using SBI Card Pay, customers can make contactless payments at Near Field Communication (NFC) enabled point of sale terminals with just one tap of their mobiles, without using the physical credit card or entering any PIN. The SBI Card Pay is a payment feature based on Host Card Emulation (HCE) technology for faster, convenient and more secure card payments using mobile phones."
+}

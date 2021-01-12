@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T21:05:44.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "cf823437-c87e-4252-bfa1-87ec118413bc",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Which of the following is the minimum land area recommended for forest cover to maintain proper ecological balance in India?",
+  "option1": 0.25,
+  "option2": 0.33,
+  "option3": 0.43,
+  "option4": 0.53,
+  "option5": "",
+  "answer": 0.33,
+  "explanation": "For proper ecological balance 33% of forest land is recommended, but in India we have only 20.14% of forest coverage."
+}

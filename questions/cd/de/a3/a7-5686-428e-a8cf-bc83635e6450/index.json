@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T21:47:23.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "cddea3a7-5686-428e-a8cf-bc83635e6450",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Consider the following statements regarding Reserve Bank of India: <br />I. It is a banker to the Central Government.<br />II. It formulates and administers monetary policy.<br />III. It acts as an agent of the Government in respect of India’s membership of IMF.<br />IV. It handles the borrowing programme of Government of India.<br />Which of these statements are correct?",
+  "option1": "I and II",
+  "option2": "II, III and IV",
+  "option3": "I, II, III and IV",
+  "option4": "III and IV",
+  "option5": "",
+  "answer": "I and II",
+  "explanation": "Functions of RBI: sole authority to issue currency; government’s bank; banker’s bank; guardian of money market; lender of the last resort; sole reservoir of Foreign exchange reserves; controller of credit; clearing house for settling inter bank transactions. It follows an independent monetary policy."
+}

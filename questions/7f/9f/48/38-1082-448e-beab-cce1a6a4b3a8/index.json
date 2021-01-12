@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T20:46:51.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "7f9f4838-1082-448e-beab-cce1a6a4b3a8",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Match the following research institutes A, B, C and D with their respective location labelled as 1 to 6 in the given rough outline map\r\n<img src= \"https://www.gktoday.in/wp-content/uploads/2019/10/4-2.png\">\r\nA. Central Drug Research Institute\r\nB. National Atlas and Thematic Mapping Organisation\r\nC. National Institute of Ocean Technology\r\nD. Temperate Forest Research Centre\r\nSelect the correct answer using the codes given below :\r\nCodes:",
+  "option1": "A-4, B-3, C-2, D-6",
+  "option2": "A-4, B-5, C-1, D-6",
+  "option3": "A-2, B-3, C-4, D-5",
+  "option4": "A-1, B-6, C-2, D-3",
+  "option5": "",
+  "answer": "A-4, B-3, C-2, D-6",
+  "explanation": "In the given map <br />‘Central Drug Research Institute’ is marked by ‘4’ which is situated in Lucknow of Uttar Pradesh. ‘National Atlas and Thematic Mapping Organisation’ is situated in Calcutta which is marked as ‘3’. National Institute of Ocean Technology is situated in Chennai, which is marked ‘2’ and Temperate Forest Research Centre is situated in Shimla which is marked as ‘6’ on the map.\r\n&nbsp;"
+}

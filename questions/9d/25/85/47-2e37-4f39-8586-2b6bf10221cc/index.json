@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T18:58:50.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "9d258547-2e37-4f39-8586-2b6bf10221cc",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Writers)\r\n</td>\r\n<td>\r\n(Books)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Sashi Tharoor\r\n</td>\r\n<td>\r\n(A) Clear Light of Day\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Amitav Ghosh\r\n</td>\r\n<td>\r\n(B) Circle of Reason\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Anita Desai\r\n</td>\r\n<td>\r\n(C) Love and Longing in Bombay\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Vikram Chandra\r\n</td>\r\n<td>\r\n(D) Show Business\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-D, II-B, III-A, IV-C",
+  "option2": "I-D, II-B, III-C, IV-A",
+  "option3": "I-B, II-D, III-A, IV-C",
+  "option4": "I-B, II-D, III-C, IV-A",
+  "option5": "",
+  "answer": "I-B, II-D, III-C, IV-A",
+  "explanation": "Shashi Tharoor is the writer of “Show Business<br />Amitabha Ghosh wrote “Circle of Reason”<br />Anita Desai wrote “Clear light of Day”<br />Vikram Chandra wrote” Love and longing in Bombay”."
+}

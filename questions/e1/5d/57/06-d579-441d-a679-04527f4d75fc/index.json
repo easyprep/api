@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T18:42:52.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "e15d5706-d579-441d-a679-04527f4d75fc",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Consider the following statements: <br />An amendment of the Constitution of India can be initiated by the<br />I. Lok Sabha.<br />II. Rajya Sabha.<br />III. State Legislatures.<br />IV. President.<br />Which of the above statements is/are correct?",
+  "option1": "I alone",
+  "option2": "I, II and III",
+  "option3": "II, III and IV",
+  "option4": "I and II",
+  "option5": "",
+  "answer": "I and II",
+  "explanation": "An amendment of the Constitution can be initiated only by the introduction of a Bill in either House of Parliament. The Bill must then be passed in each House by a majority of the total membership of that House and by a majority of not less than two-thirds of the members of that House present and voting."
+}

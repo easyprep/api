@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T16:08:58.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "856c7420-0fe7-403c-8f06-e5430893cc08",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Which of the following defines the process of Metastasis?",
+  "option1": "cells divide rapidly under the influence of drugs",
+  "option2": "cancer cells spread through the blood or laymphatic system to other sites or organs",
+  "option3": "the chromosomes in cell nuclei are attached to the spindle before moving to the anaphase poles",
+  "option4": "cancer cells are successfully inhibited to divide any further",
+  "option5": "",
+  "answer": "cancer cells spread through the blood or laymphatic system to other sites or organs",
+  "explanation": "Metastasis is a complex process that involves the spread of a tumor or cancer to distant parts of the body from its original site. The cancerous cells are sloughed from the tumours and reach distant sites through blood, and whenever they get lodged in the body, they start a new tumour there. This property called metastasis is the most feared property of malignant tumours."
+}

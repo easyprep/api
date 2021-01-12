@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T17:10:19.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0320eef2-8503-43e6-b93c-fa845f06897c",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Match List I (Organisation) with List II (Location) and select the correct answer using the codes given below the list:\r\n<img src=\"https://www.gktoday.com/wp-content/uploads/2019/11/1-3.png\">",
+  "option1": "3 1 4 2",
+  "option2": "5 1 4 3",
+  "option3": "3 4 5 2",
+  "option4": "5 4 2 3",
+  "option5": "",
+  "answer": "5 4 2 3",
+  "explanation": "Organisation                                                     Location <br />A. National Sugar Institute                            Kanpur <br />B. Mishra Dhata Nigam Limited                   Hyderabad <br />C. Institute of military law                              Kamputee <br />D. Institute of Nationals Intergration           Pune"
+}

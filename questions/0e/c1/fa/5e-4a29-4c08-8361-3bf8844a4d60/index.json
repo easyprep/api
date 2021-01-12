@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T17:27:19.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0ec1fa5e-4a29-4c08-8361-3bf8844a4d60",
+  "labels": "current-affairs,2019-10-18",
+  "question": "Which of the following is the accounting year of the Reserve Bank of India?",
+  "option1": "April-March",
+  "option2": "July-June",
+  "option3": "October-September",
+  "option4": "January-December",
+  "option5": "",
+  "answer": "July-June",
+  "explanation": "The banks in India follow April to March financial year and hence their annual financial information is compiled after that. RBI follows July to June financial year because RBI as a supervisor and regulator looks into the books of banks and then analyses and prepares its statutory document called as Annual Report."
+}

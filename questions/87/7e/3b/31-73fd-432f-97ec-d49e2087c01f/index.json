@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T17:44:23.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "877e3b31-73fd-432f-97ec-d49e2087c01f",
+  "labels": "current-affairs,2019-11-04",
+  "question": "As per Indian Protocol, who among the following ranks highest in the order of precedence?",
+  "option1": "Deputy Prime Minister",
+  "option2": "Former President",
+  "option3": "Governor of a State within his state",
+  "option4": "Speaker of Lok Sabha",
+  "option5": "",
+  "answer": "Governor of a State within his state",
+  "explanation": "Order of precedence is President, Vice President, PM, Governor of State within their respective states, Former Presidents and Deputy PM, CJI and Speaker of LS."
+}

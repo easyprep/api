@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T15:46:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0b7704cb-fda2-48b2-8d12-9df149508bfd",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Who among the following invented Lasers?",
+  "option1": "Theodore Maiman",
+  "option2": "Denis Papin",
+  "option3": "William Morton",
+  "option4": "Francis Cricks",
+  "option5": "",
+  "answer": "Theodore Maiman",
+  "explanation": "The term \\\"laser\\\" originated as an acronym for \\\"light amplification by stimulated emission of radiation\\\". The first laser was built in 1960 by Theodore H. Maiman at Hughes Research Laboratories, based on theoretical work by Charles Hard Townes and Arthur Leonard Schawlow."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T20:06:36.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "06de165c-9c55-4c12-b6a5-caf8fcf4339d",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Consider the following statements: <br />The price of any currency in international market is decided by the<br />I. World Bank.<br />II. Demand for goods/services provided by the country concerned.<br />III. Stability of the government of the concerned country.<br />IV. economic potential of the country in question<br />Of these statements :",
+  "option1": "I, II, III and IV are correct",
+  "option2": "II and III are correct",
+  "option3": "III and IV are correct",
+  "option4": "I and IV are correct",
+  "option5": "",
+  "answer": "II and III are correct",
+  "explanation": "From the holy bundle<br />1 is definitely wrong as prices are market determined<br />2 is definitely correct as prices depend on demand supply<br />Eliminate 1, include 2, you reach the correct answer\r\n&nbsp;"
+}

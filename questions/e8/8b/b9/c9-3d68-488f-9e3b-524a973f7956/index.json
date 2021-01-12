@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T20:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "e88bb9c9-3d68-488f-9e3b-524a973f7956",
+  "labels": "current-affairs,2019-11-02",
+  "question": "Consider the following taxes: <br />I. Corporation tax<br />II. Customs duty<br />III. Wealth tax<br />IV. Excise duty<br />Which of these is/are indirect taxes?",
+  "option1": "I only",
+  "option2": "II and IV",
+  "option3": "I and III",
+  "option4": "II and III",
+  "option5": "",
+  "answer": "II and IV",
+  "explanation": "A government levy on the income, property, or wealth of people or companies. A direct tax is borne entirely by the entity that pays it, and cannot be passed on to another entity. Examples include corporation tax, income tax, and social security contributions.<br />Examples of indirect taxes are excise tax, VAT, and service tax. Examples of direct taxes are income tax, personal property tax, real property tax, and corporate tax.\r\n&nbsp;"
+}

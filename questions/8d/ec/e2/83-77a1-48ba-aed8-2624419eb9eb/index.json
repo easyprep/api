@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-23T21:49:38.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "8dece283-77a1-48ba-aed8-2624419eb9eb",
+  "labels": "current-affairs,2019-10-24",
+  "question": "Which one of the following statements about a Money Bill is not correct?",
+  "option1": "A Money Bill can be tabled in either House of Parliament",
+  "option2": "The Speaker of Lok Sabha is the final authority to decide whether a Bill is a Money Bill or not",
+  "option3": "The Rajya Sabha must return a Money Bill passed by Lok Sabha and send it for consideration within 14 days",
+  "option4": "The President cannot return a Money Bill to Lok Sabha for reconsideration",
+  "option5": "",
+  "answer": "A Money Bill can be tabled in either House of Parliament",
+  "explanation": "Money Bill refers to a bill (draft law) introduced in the Lower Chamber of Indian Parliament (Lok Sabha) which generally covers the issue of receipt and spending of money, such as tax laws, laws governing borrowing and expenditure of the Government, prevention of black money etc. A Money Bill cannot be tabled in either House of Parliament. A Money bill can be introduced only in LS (not in RS) that too on the recommendation of the President."
+}

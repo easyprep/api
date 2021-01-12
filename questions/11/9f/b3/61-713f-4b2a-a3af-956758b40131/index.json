@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T15:58:29.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "119fb361-713f-4b2a-a3af-956758b40131",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Consider the following statements: <br />1. Ocean currents are the slow-surface movement of water in the ocean.<br />2. Ocean currents assist in maintaining the Earth’s heat balance.<br />3. Ocean currents are set in motion primarily by prevailing winds.<br />4. Ocean currents are affected by the configuration of the ocean.<br />Which of these statements are correct?",
+  "option1": "1 and 2",
+  "option2": "2, 3 and 4",
+  "option3": "1, 3 and 4",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2, 3 and 4",
+  "explanation": "Surface Currents are generally wind driven movements of water at or near the ocean\\'s surface. Thermohaline currents (which are caused by variation of temperature and salinity and density) are slow deep currents that affect bulk of the seawater beneath the Pycnocline.<br />Due to uneven heating by the sun, water in Equatorial regions is warm, while that in Polar regions is much colder. The currents in the Atlantic Ocean operate to reduce this energy imbalance and redistribute the energy. In the Atlantic Ocean in the Northern Hemisphere currents are set up in clockwise loops called gyres.<br />Oceanic factors include the pressure gradient, temperature variations and salinity differences. Ex-oceanic factors are atmospheric pressure and winds, evaporation and precipitation. Tides caused by the gravitational pull of the Moon and the Sun also play role in the forming of oceanic currents."
+}

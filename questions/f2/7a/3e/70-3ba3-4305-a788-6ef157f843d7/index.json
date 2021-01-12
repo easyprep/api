@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T21:21:31.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "f27a3e70-3ba3-4305-a788-6ef157f843d7",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Consider the following: <br />I. Market borrowing<br />II. Treasury bills<br />III. Special securities issued to RBI<br />Which of these is/are component(s) of internal debt?",
+  "option1": "I only",
+  "option2": "I and II",
+  "option3": "II only",
+  "option4": "I, II and III",
+  "option5": "",
+  "answer": "I, II and III",
+  "explanation": "Internal debt is that part of the total debt that is owed to lenders within the country. It is the money the government borrows from its own citizens. The government borrows by issuing the Government Bonds and T-Bills (Treasury Bills). It also includes the Market borrowings by the government."
+}

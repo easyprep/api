@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T21:50:28.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "aa7074de-9944-455f-aa2a-1385d108c6f3",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Consider the following statements with reference to the Periodic Table of chemical elements: <br />I. lonisation potential gradually decreases along a period.<br />II. In a group of elements, electron affinity decreases as the atomic weight increases.<br />III. In a given period, electronegativity decreases as the atomic number increases.<br />Which of these statement(s) is/are correct?",
+  "option1": "I only",
+  "option2": "II only",
+  "option3": "I and III",
+  "option4": "II and III",
+  "option5": "",
+  "answer": "II only",
+  "explanation": "• lonisation potential gradually increases along a period.<br />• From top to bottom down a group, electronegativity decreases. This is because atomic number increases down a group, and thus there is an increased distance between the valence electrons and nucleus, or a greater atomic radius. Important exceptions of the above rules include the noble gases, lanthanides, and actinides. <br />• The values of electronegativity are higher for elements that more strongly attract electrons. However, the nuclear charge increases, so the attraction that atoms have for the valence electrons increases. The electronegativity of atoms decreases as you move from top to bottom down a group in the periodic table."
+}

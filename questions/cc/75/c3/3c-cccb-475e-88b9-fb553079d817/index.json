@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:19:32.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "cc75c33c-cccb-475e-88b9-fb553079d817",
+  "labels": "current-affairs,2019-10-25",
+  "question": "Which one of the following does a TV remote control unit use to operate a TV set?",
+  "option1": "Light waves",
+  "option2": "Sound waves",
+  "option3": "Micro waves",
+  "option4": "Radio waves",
+  "option5": "",
+  "answer": "Radio waves",
+  "explanation": "Radio waves are a type of electromagnetic radiation with wavelengths in the electromagnetic spectrum longer than infrared light. Like all other electromagnetic waves, they travel at the speed of light. Artificially-generated radio waves are used for fixed and mobile radio communication, broadcasting, radar and other navigation systems, satellite communication, computer networks and innumerable other applications."
+}

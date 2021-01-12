@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T21:43:29.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "7e4197b9-05be-44fd-9e9b-41601e061d40",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Which of the following pairs are correctly matched?<br />I. Dow Jones: New York<br />II. Hang Seng : Seoul<br />III. FTSE - 100: London<br />Select the correct answer using the codes given below:",
+  "option1": "I, II and III",
+  "option2": "II and III",
+  "option3": "I and II",
+  "option4": "I and III",
+  "option5": "",
+  "answer": "I and III",
+  "explanation": "The Dow Jones Industrial Average, or simply the Dow, is a stock market index that measures the stock performance of 30 large companies listed on stock exchanges in the United States.<br />The Hang Seng Index is a freefloat-adjusted market-capitalization-weighted stock-market index in Hong Kong. It is used to record and monitor daily changes of the largest companies of the Hong Kong stock market and is the main indicator of the overall market performance in Hong Kong.<br />The Financial Times Stock Exchange 100 Index, also called the FTSE 100 Index, FTSE 100, FTSE, or, informally, the \\\"Footsie\\\", is a share index of the 100 companies listed on the London Stock Exchange with the highest market capitalisation. It is seen as a gauge of prosperity for businesses regulated by UK company law."
+}

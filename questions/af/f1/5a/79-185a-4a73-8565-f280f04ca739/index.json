@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-23T21:22:20.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "aff15a79-185a-4a73-8565-f280f04ca739",
+  "labels": "current-affairs,2019-10-24",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists :\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Iqta\r\n</td>\r\n<td>\r\n(A) Marathas\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Jagir\r\n</td>\r\n<td>\r\n(B) Delhi Sultans\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Amaram\r\n</td>\r\n<td>\r\n(C) Mughals\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Mokasa\r\n</td>\r\n<td>\r\n(D) Vijayanagara\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-B, III-A, IV-D",
+  "option2": "I-B, II-C, III-D, IV-A",
+  "option3": "I-B, II-C, III-A, IV-D",
+  "option4": "I-C, II-B, III-D, IV-A",
+  "option5": "",
+  "answer": "I-B, II-C, III-D, IV-A",
+  "explanation": "• Iqta was introduced by Delhi Sultans while Jagir was introduced by Mughals. <br />• Amaram was introduced by Vijaynagar empire. The land pieces assigned to military chiefs were called as Amaram during Vijayanagar empire.<br />• Mokasa was introduced by Maratha. ‘Iqta’ is an Arabic word, which became a tool of administration in Islamicate tradtions."
+}

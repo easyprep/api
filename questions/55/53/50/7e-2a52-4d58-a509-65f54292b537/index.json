@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T18:44:26.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "5553507e-2a52-4d58-a509-65f54292b537",
+  "labels": "current-affairs,2019-11-02",
+  "question": "An aqueous solution of copper sulphate is acidic in nature because the salt undergoes?",
+  "option1": "dialysis",
+  "option2": "electrolysis",
+  "option3": "hydrolysis",
+  "option4": "photolysis",
+  "option5": "",
+  "answer": "hydrolysis",
+  "explanation": "Aqueous solution of copper sulphate is acidic in nature because copper sulphate on dissolving with water, following chemical reaction takes place CuSO4(s) + 2H2O  -  Cu(OH)2(l) + H2SO4(aq) Now as we can see in above chemical equation the sulphuric acid generated is strong mineral acid which results into increase in acidity of solution. Thus aqueous solution of copper sulphate is acidic in nature."
+}

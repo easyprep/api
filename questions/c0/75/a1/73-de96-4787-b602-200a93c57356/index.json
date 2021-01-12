@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T16:10:55.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "c075a173-de96-4787-b602-200a93c57356",
+  "labels": "current-affairs,2019-10-18",
+  "question": "Consider the following climatic conditions (northern hemisphere):\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\nTemperature<br />°C\r\n</td>\r\n<td>\r\nRainfall<br />cm\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nJanuary\r\n</td>\r\n<td>\r\n3.9\r\n</td>\r\n<td>\r\n4.7\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nFebruary\r\n</td>\r\n<td>\r\n4.4\r\n</td>\r\n<td>\r\n5.7\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nMarch\r\n</td>\r\n<td>\r\n8.3\r\n</td>\r\n<td>\r\n8.2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nApril\r\n</td>\r\n<td>\r\n14.4\r\n</td>\r\n<td>\r\n9.2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nMay\r\n</td>\r\n<td>\r\n20.0\r\n</td>\r\n<td>\r\n9.2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nJune\r\n</td>\r\n<td>\r\n23.3\r\n</td>\r\n<td>\r\n17.7\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nJuly\r\n</td>\r\n<td>\r\n27.8\r\n</td>\r\n<td>\r\n14.5\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nAugust\r\n</td>\r\n<td>\r\n27.8\r\n</td>\r\n<td>\r\n14.0\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nSeptember\r\n</td>\r\n<td>\r\n22.3\r\n</td>\r\n<td>\r\n12.7\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nOctober\r\n</td>\r\n<td>\r\n18.3\r\n</td>\r\n<td>\r\n7.0\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nNovember\r\n</td>\r\n<td>\r\n12.2\r\n</td>\r\n<td>\r\n5.0\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nDecember\r\n</td>\r\n<td>\r\n6.7\r\n</td>\r\n<td>\r\n3.5\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nThese are most likely to be found in the natural regions of",
+  "option1": "China type",
+  "option2": "Equatorial type",
+  "option3": "Hot desert type",
+  "option4": "Monsoon type",
+  "option5": "",
+  "answer": "China type",
+  "explanation": "In the west of China, there are two types of climate, temperate continental climate and plateau climate and highland climate. Most regions are cold and dry in winter and have a warm and rainy climate in summer. The Qinghai-Tibet Plateau in the southwest has a highland climate with a low temperature throughout the year."
+}

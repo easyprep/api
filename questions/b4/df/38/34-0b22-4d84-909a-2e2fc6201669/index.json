@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T16:37:56.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "b4df3834-0b22-4d84-909a-2e2fc6201669",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Indian farmers are unhappy over the introduction of “Terminator Seed Technology” because the seeds produced by this technology are expected to?",
+  "option1": "show poor germination",
+  "option2": "form low-yielding plants despite the high quality",
+  "option3": "give rise to sexually sterile plants",
+  "option4": "give rise to plants incapable of forming viable seeds",
+  "option5": "",
+  "answer": "give rise to sexually sterile plants",
+  "explanation": "The terminator gene is a specific genetic sequence inserted into a seed’s DNA. Once activated by a synthetic chemical catalyst of the manufacturer’s choosing, the sequence renders the seed and crop it produces sterile. This means that the farmer cannot retain seeds for future crops as is the practice in India. The farmer has to repurchase the seeds at a heavy cost."
+}

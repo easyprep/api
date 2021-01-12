@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T21:25:07.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "3d4db988-6da3-47b1-8042-bbc4e1de2676",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Which one of following is produced during the formation of photochemical smog?",
+  "option1": "Hydrocarbons",
+  "option2": "Nitrogen Oxides",
+  "option3": "Ozone",
+  "option4": "Methane",
+  "option5": "",
+  "answer": "Ozone",
+  "explanation": "During the photochemical smog NO and O3 both are produced but major production is of nitrogen oxide (NO) and NO2. The components of automobile exhaust are particularly important in the formation of atmospheric ozone and are the primary contributors to Los Angeles smog. Photochemical smog is a mixture of pollutants that are formed when nitrogen oxides and volatile organic compounds (VOCs) react to sunlight, creating a brown haze above cities. It tends to occur more often in summer, because that is when we have the most sunlight."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T19:02:13.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0c0e08a9-0fe1-417b-8a74-48438076cbe2",
+  "labels": "current-affairs,2019-11-02",
+  "question": "Which one of the following is the correct sequence in increasing order of molecular weights of the hydrocarbons?",
+  "option1": "Methane, ethane, propane and butane",
+  "option2": "Propane, butane, ethane and methane",
+  "option3": "Butane, ethane, propane and methane",
+  "option4": "Butane, propane, ethane and methane",
+  "option5": "",
+  "answer": "Methane, ethane, propane and butane",
+  "explanation": "As molecular weight increases with increase in the length of carbon-carbon chain. Methane, ethane, propane and butane."
+}

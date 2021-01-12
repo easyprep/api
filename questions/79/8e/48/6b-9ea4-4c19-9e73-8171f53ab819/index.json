@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:20:36.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "798e486b-9ea4-4c19-9e73-8171f53ab819",
+  "labels": "current-affairs,2019-10-25",
+  "question": "A noise level of 100 decibels would correspond to?",
+  "option1": "just audible sound",
+  "option2": "ordinary conversation",
+  "option3": "sound from a noisy street",
+  "option4": "noise from a machine-shop",
+  "option5": "",
+  "answer": "noise from a machine-shop",
+  "explanation": "The decibel is widely known as a measure of sound pressure level, but is also used for a wide variety of other measurements in science and engineering. The decibel is commonly used in acoustics to quantify sound levels relative to a 0 dB reference which has been defined as a sound pressure level of .0002 microbar. The noise level of 100 decibel would corresponds to noise from a machine shop."
+}

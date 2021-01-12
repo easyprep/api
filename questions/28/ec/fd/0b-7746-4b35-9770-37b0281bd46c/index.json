@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T18:36:48.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "28ecfd0b-7746-4b35-9770-37b0281bd46c",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Consider the following statements: <br />1. Steam at 100° C and boiling water at 100° C contain same amount of heat.<br />2. Latent heat of fusion of ice is equal to the latent heat of vaporization of water.<br />3. In an air-conditioner, heat is extracted from the room-air at the evaporator coils and is rejected out at the condenser coils.<br />Which of these statements is/are correct?",
+  "option1": "1 and 2",
+  "option2": "2 and 3",
+  "option3": "Only 2",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Steam causes severe burns than water. Particles in steam, that is, water vapour at 373 K (100oC) have more energy than boiling water at the same temperature as particles in steam have absorbed extra energy in the form of latent heat of vaporisation.<br />While ice melts, it remains at 0 °C (32 °F), and the liquid water that is formed with the latent heat of fusion is also at 0 °C. The heat of fusion for water at 0 °C is approximately 334 joules (79.7 calories) per gram, and the heat of vaporization at 100 °C is about 2,230 joules (533 calories) per gram.<br />An air conditioning system has two coils, condenser coils and evaporator coils usually made of copper tubes with aluminum fins. The evaporator coil, or indoor coil, is often described as the “cold” coil because it provides indoor cooling. The coil works by absorbing heat from the indoor air that is blown over by the air handler’s fan. The condenser coil or outdoor coil is the “warm” coil as it rejects the heat as a fan blows outside air over the surface."
+}

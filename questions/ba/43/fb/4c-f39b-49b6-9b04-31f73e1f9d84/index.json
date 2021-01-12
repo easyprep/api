@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:00:30.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "ba43fb4c-f39b-49b6-9b04-31f73e1f9d84",
+  "labels": "current-affairs,2019-10-25",
+  "question": "When a CD (Compact Disc used in audio and video systems) is seen in sunlight, rainbow like colours are seen. This can be explained on the basis of which of the following the phenomenon?",
+  "option1": "reflection and diffraction",
+  "option2": "reflection and transmission",
+  "option3": "diffraction and transmission",
+  "option4": "refraction, diffraction and transmission",
+  "option5": "",
+  "answer": "refraction, diffraction and transmission",
+  "explanation": "The reason CDs reflect rainbow colors is because they have a clear plastic coating on top of a mirrorized surface. Light refracts (bends) when it moves from one medium (such as air) to another with a different optical density (such as the clear plastic surface of a CD). Different wave lengths of light (every color has a different wave length) travel at different speeds, so that full spectrum appears when white light passes from the air through the plastic surface of a CD, separated light rays which are then reflected back to us by the mirrorized center surface of a CD. Here the diffraction and transmission also takes place because diffraction of light rays occur when it strikes the surface of CD and transmission is obvious when light enters from one medium to another. The thickness of the different optical media, angle of source light, and brightness of source light all affect which rainbow patterns are visible on a CD."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T21:04:03.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "c79d21fc-f54a-4a56-a56c-8ab290f1c0e8",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Which one of the following statements is not correct?",
+  "option1": "Milk contains none of the B-vitamins",
+  "option2": "Vitamin-A (retinal) deficiency leads to dry and scaly skin",
+  "option3": "One of the symptoms of scurvy is pain in the joints",
+  "option4": "Vitamin B1 (thiamine) deficiency can lead to heart failure",
+  "option5": "",
+  "answer": "Milk contains none of the B-vitamins",
+  "explanation": "Milk contains the water soluble vitamins thiamin (vitamin B1), riboflavin (vitamin B2), niacin (vitamin B3), pantothenic acid (vitamin B5), vitamin B6 (pyridoxine), vitamin B12 (cobalamin), vitamin C, and folate. Milk is a good source of thiamin, riboflavin and vitamin B12."
+}

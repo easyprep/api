@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:23:54.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "841653b4-2515-4f41-963d-44acbd84849c",
+  "labels": "current-affairs,2019-10-25",
+  "question": "Consider the following features of newer models of motor cars :<br />I. Radial tyres<br />II. Streamlined body<br />III. Multipoint fuel injection<br />IV. Catalytic converter with exhaust<br />Which of these features make the newer models of motor cars more fuel efficient?",
+  "option1": "I and II",
+  "option2": "II and III",
+  "option3": "II, III and IV",
+  "option4": "I, III and IV",
+  "option5": "",
+  "answer": "II and III",
+  "explanation": "A \\\"streamlined\\\" design is one in which objects that move through a gas or liquid are shaped to match these lines, and therefore, reduce the energy required to produce that motion. Multi point fuel injection system injects fuel into individual cylinders, based on commands from the \\'on board engine management system computer—popularly known as the Engine Control Unit/ECU. These techniques result not only in better \\'power balance\\' amongst the cylinders but also in higher output from each one of them, along with faster throttle response. The other two options radial tyres and catalytic converter with exhaust do not contribute to make the car more fuel efficient."
+}

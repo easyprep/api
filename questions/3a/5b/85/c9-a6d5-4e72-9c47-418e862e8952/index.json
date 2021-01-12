@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T21:23:02.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "3a5b85c9-a6d5-4e72-9c47-418e862e8952",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Pandit Vishnu Digamber Paluskar\r\n</td>\r\n<td>\r\n(A) Introduced the scheme of Raga classification of Indian music\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Venkatamahi\r\n</td>\r\n<td>\r\n(B) Proponent of Carnatic music\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Shyama Shastri\r\n</td>\r\n<td>\r\n(C) Proponent of the Khayal form of Hindustani music\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Amir Khusru\r\n</td>\r\n<td>\r\n(D) Wrote the music for the song ‘Vande Mataram’\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-D, II-A, III-C, IV-B",
+  "option2": "I-D, II-A, III-B, IV-C",
+  "option3": "I-A, II-D, III-C, IV-B",
+  "option4": "I-A, II-D, III-B, IV-C",
+  "option5": "",
+  "answer": "I-D, II-A, III-B, IV-C",
+  "explanation": "Pandit Vishnu Digambar Paluskar introduced the scheme of Raga classification of Indian music, Venkatamahi wrote the music of the song ‘Vande Matram’ Shyama Shastri was a proponent of Karnatic music and  Amir Khusrau was the proponent of Khyal form of Hindustani music."
+}

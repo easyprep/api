@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T21:04:11.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "3695ed9d-5578-4d06-bf14-ef64237a2913",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists :\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Cotton\r\n</td>\r\n<td>\r\n(A) Rainfall 1000-1500 mm; Temperature 40° - 60°C\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Flax\r\n</td>\r\n<td>\r\n(B) Rainfall 1500-2000 mm; Temperature 25° - 35°C\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Sugar beet\r\n</td>\r\n<td>\r\n(C) Rainfall 600 - 800 mm; Temperature 5° - 18°C\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Jute\r\n</td>\r\n<td>\r\n(D) Rainfall 500 - 1000 mm; Temperature 18° - 22°C\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Rainfall 500 - 600 mm; Temperature 18°- 22°C\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-A, II-C, III-D, IV-B",
+  "option2": "I-B, II-C, III-E, IV-D",
+  "option3": "I-D, II-E, III-B, IV-A",
+  "option4": "I-D, II-C, III-E, IV-B",
+  "option5": "",
+  "answer": "I-D, II-C, III-E, IV-B",
+  "explanation": "Cotton grows in tropical and sub-tropical warm humid climate. Annual temperature requirement is 20°-28°C. Equitable temperature distribution and bright sunshine is desirable. (ii) Rainfall: Annual rainfall of 550-1000 cm is ideal for cotton Cultivation.<br />Flax is a crop of the temperate zone and long day plant. Flax requires a cool humid climate temperature ranging from 100C to 270C, rainfall ranging from 500-800 mm with high humidity (60-65%) during growing season. Fibre type generally require cool, moist climate, somewhat cloudy weather during growing season.<br />Tropical sugar beet requires good sunshine during its growth period. Sugar beet can be grown during October to March with a well distributed rainfall of 500 – 600 mm across the growing period. This condition favours vegetative growth and acts as a base for tuber enlargement."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T18:23:39.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0351104e-287d-4b81-89c2-f03304b48a5b",
+  "labels": "current-affairs,2019-10-19",
+  "question": "If it is 10.00 a.m. I.S.T., then what would be the local time at Shillong on 92°E longitude?",
+  "option1": "9.38 a.m.",
+  "option2": "10.38 a.m.",
+  "option3": "10.22 a.m.",
+  "option4": "9.22 a.m.",
+  "option5": "",
+  "answer": "10.38 a.m.",
+  "explanation": "IST meridian passes through 82.5 degree.<br />Difference between two given longitudes= 9.5 degrees.<br />As we know 1 degree= 4 minutes, therefore 9.5 degrees= 4 x 9.5= 38 minutes.<br />Thus, time is 10+38 minutes= 10:38 AM\r\n&nbsp;"
+}

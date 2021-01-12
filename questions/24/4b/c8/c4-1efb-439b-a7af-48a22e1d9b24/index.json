@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-24T21:22:37.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "244bc8c4-1efb-439b-a7af-48a22e1d9b24",
+  "labels": "current-affairs,2019-10-25",
+  "question": "The memory of a computer is commonly expressed in terms of Kilobytes or Megabytes. A byte is made up of how many digits?",
+  "option1": "eight binary digits",
+  "option2": "eight decimal digits",
+  "option3": "two binary digits",
+  "option4": "two decimal digits",
+  "option5": "",
+  "answer": "eight binary digits",
+  "explanation": "The byte is a unit of digital information in computing and telecommunications, that most commonly consists of eight bits."
+}

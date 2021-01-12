@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T22:22:26.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "1a59a64e-bcd0-4e36-b8d8-acee1045f752",
+  "labels": "current-affairs,2019-11-01",
+  "question": "The researchers at which institute have created the first-ever ‘Indian Brain Atlas (IBA)'?",
+  "option1": "IIT Kanpur",
+  "option2": "IIT Delhi",
+  "option3": "IIIT Hyderabad",
+  "option4": "IIT Bombay",
+  "option5": "",
+  "answer": "IIIT Hyderabad",
+  "explanation": "The researchers at the International Institute of Information Technology-Hyderabad (IIITH) have created the first ever Indian Brain Atlas (IBA). They stated that the average Indian brain is smaller in height, width, and volume as compared to the western and eastern population like the Chinese and Korean. The immediate implication of this finding can be seen in treatment outcomes of neurological problems or brain related ailments - like dementia, Alzheimer’s disease, Parkinson’s disease etc."
+}

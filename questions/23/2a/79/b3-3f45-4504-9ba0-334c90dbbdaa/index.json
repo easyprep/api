@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T20:12:34.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "232a79b3-3f45-4504-9ba0-334c90dbbdaa",
+  "labels": "current-affairs,2019-11-02",
+  "question": "Which of the following is the central metal in naturally occurring chelate compound?",
+  "option1": "Magnesium",
+  "option2": "Copper",
+  "option3": "Calcium",
+  "option4": "Iron",
+  "option5": "",
+  "answer": "Magnesium",
+  "explanation": "Chelate is chlorophyll, the green pigment of plants. In chlorophyll the central ion is magnesium, and the large organic molecule is a porphyrin. The porphyrin contains four nitrogen atoms that form bonds to magnesium in a square planar arrangement."
+}

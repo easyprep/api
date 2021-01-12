@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T20:05:48.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "883ca594-f89b-4fb5-9ce2-fc5e523ef0cc",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Rivers)\r\n</td>\r\n<td>\r\n(Dams)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Cauvery\r\n</td>\r\n<td>\r\n(A) Alamatti\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Krishna\r\n</td>\r\n<td>\r\n(B) Mettur\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Narmada\r\n</td>\r\n<td>\r\n(C) Gandhi Sagar\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Chambal\r\n</td>\r\n<td>\r\n(D) Sardar Sarovar\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-A, II-D, III-B, IV-C",
+  "option2": "I-B, II-A, III-D, IV-C",
+  "option3": "I-B, II-A, III-C, IV-D",
+  "option4": "I-A, II-C, III-D, IV-B",
+  "option5": "",
+  "answer": "I-B, II-A, III-D, IV-C",
+  "explanation": "The Almatti Dam is a hydroelectric project on the Krishna River in North Karnataka, India which was completed in July 2005. The target annual electric output of the dam is 560 MU.<br />The Mettur Dam is one of the largest dams in India and the largest in Tamil Nadu, located across the river Cauvery where it enters the plains. Built in 1934, it took 9 years to complete. Maximum height and width of the dam are 214 and 171 feet respectively. <br />The Gandhi Sagar Dam is one of the four major dams built on India\\'s Chambal River. The dam is located in the Mandsaur, Neemuch districts of the state of Madhya Pradesh.<br />The Sardar Sarovar Dam is a gravity dam on the Narmada River near Navagam, Gujarat in India. Four Indian states, Gujarat, Madhya Pradesh, Maharastra and Rajasthan, receive water and electricity supplied from the dam. The foundation stone of the project was laid out by Prime Minister Jawaharlal Nehru on 5 April 1961."
+}

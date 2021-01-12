@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T18:46:51.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "bfd64f80-21c7-41dc-9239-2e4e0c9e3d19",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Persons below the poverty line in India are classified as such based on whether?",
+  "option1": "they are entitled to a minimum prescribed food basket",
+  "option2": "they get work for a prescribed minimum number of days in a year",
+  "option3": "they belong to agricultural labourer household and the scheduled caste/tribe social group",
+  "option4": "their daily wages fall below the prescribed minimum wages",
+  "option5": "",
+  "answer": "they are entitled to a minimum prescribed food basket",
+  "explanation": "Poverty line in India is classified on the basis of calories per day available to a person. It is a simple average and does not show the actual availability to a person or a household."
+}

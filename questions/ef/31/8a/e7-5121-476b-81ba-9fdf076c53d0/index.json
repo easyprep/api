@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T16:47:18.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "ef318ae7-5121-476b-81ba-9fdf076c53d0",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Which one of the following statements is not correct?",
+  "option1": "The boiling point of an aqueous solution is higher than that of pure water",
+  "option2": "Addition of solutes to a solution causes an increase in its water potential",
+  "option3": "The vapour pressure of the water in a solution is lower than that of pure water",
+  "option4": "When a solution is separated from water by a semi permeable membrane, water movement can be prevented by applying pressure to the solution.",
+  "option5": "",
+  "answer": "Addition of solutes to a solution causes an increase in its water potential",
+  "explanation": "Adding solute lowers the water potential. When a solution is enclosed by a rigid cell wall, the movement of water into the cell will exert pressure on the cell wall. This increase in pressure within the cell will raise the water potential."
+}

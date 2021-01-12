@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T20:52:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "7870629d-710a-4642-a8ae-be1ae398baf8",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Match List I (Naturally occurring substances) with List II (Elements) and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Diamond\r\n</td>\r\n<td>\r\n(A) Calcium\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Marble\r\n</td>\r\n<td>\r\n(B) Silicon\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Sand\r\n</td>\r\n<td>\r\n(C) Aluminium\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Ruby\r\n</td>\r\n<td>\r\n(D) Carbon\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-A, III-B, IV-D",
+  "option2": "I-D, II-B, III-A, IV-C",
+  "option3": "I-B, II-A, III-C, IV-D",
+  "option4": "I-D, II-A, III-B, IV-C",
+  "option5": "",
+  "answer": "I-D, II-A, III-B, IV-C",
+  "explanation": "Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. At room temperature and pressure, another solid form of carbon known as graphite is the chemically stable form, but diamond almost never converts to it. <br />Marble is a metamorphic rock composed of recrystallized carbonate minerals, most commonly calcium or dolomite. Marble is typically not foliated, although there are exceptions.<br />The most common constituent of sand, in inland continental settings and non-tropical coastal settings, is silica (silicon dioxide, or SiO2), usually in the form of quartz, which, because of its chemical inertness and considerable hardness, is the most common mineral resistant to weathering.<br />Ruby, Red. Emery, Black granular corundum intimately mixed with magnetite, hematite, or hercynite. Corundum is a crystalline form of aluminium oxide (Al 2O 3) typically containing traces of iron."
+}

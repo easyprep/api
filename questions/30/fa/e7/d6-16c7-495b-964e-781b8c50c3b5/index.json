@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-23T21:44:54.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "30fae7d6-16c7-495b-964e-781b8c50c3b5",
+  "labels": "current-affairs,2019-10-24",
+  "question": "Consider the following statements about the megacities of India: <br />I. Population of each megacity is more than 5 million.<br />II. All the megacities are important sea ports.<br />III. Megacities are either national or State capitals.<br />Which of these statements are correct?",
+  "option1": "I, II and III",
+  "option2": "I and II",
+  "option3": "II and III",
+  "option4": "I and III",
+  "option5": "",
+  "answer": "I and III",
+  "explanation": "Megacities of India have more than 5 million population. But not all the major megacities are located on the sea coast or are sea ports. Delhi, which is the national capital is not a sea port."
+}

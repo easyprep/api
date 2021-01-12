@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T17:15:53.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "d77d738e-3b8f-4737-8843-2e9a92703edd",
+  "labels": "current-affairs,2019-10-18",
+  "question": "Match List I with List II and select the correct answer using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Places)\r\n</td>\r\n<td>\r\n(Industries)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Jamnagar\r\n</td>\r\n<td>\r\n(A) Aluminium\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Hospet\r\n</td>\r\n<td>\r\n(B) Woollen Textile\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Korba\r\n</td>\r\n<td>\r\n(C) Fertilizers\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Haldia\r\n</td>\r\n<td>\r\n(D) Cement\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Iron and Steel\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-D, II-C, III-A, IV-B",
+  "option2": "I-B, II-E, III-A, IV-C",
+  "option3": "I-D, II-E, III-B, IV-A",
+  "option4": "I-B, II-A, III-D, IV-C",
+  "option5": "",
+  "answer": "I-B, II-E, III-A, IV-C",
+  "explanation": "<table>\r\n<tbody>\r\n<tr>\r\n<td width=\\\"213\\\">\r\nPlaces\r\n</td>\r\n<td width=\\\"213\\\">\r\nIndustries\r\n</td>\r\n<td width=\\\"213\\\">\r\nState\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\\\"213\\\">\r\nJamnagar\r\n</td>\r\n<td width=\\\"213\\\">\r\nWoollen Textiles\r\n</td>\r\n<td width=\\\"213\\\">\r\nGujarat\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\\\"213\\\">\r\nHospet\r\n</td>\r\n<td width=\\\"213\\\">\r\nIorn and Steel Industry\r\n</td>\r\n<td width=\\\"213\\\">\r\nKarnataka\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\\\"213\\\">\r\nKorba\r\n</td>\r\n<td width=\\\"213\\\">\r\nAluminium Industry\r\n</td>\r\n<td width=\\\"213\\\">\r\nChhattisgarh\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\\\"213\\\">\r\nHaldia\r\n</td>\r\n<td width=\\\"213\\\">\r\nFertilizers\r\n</td>\r\n<td width=\\\"213\\\">\r\nAssam\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

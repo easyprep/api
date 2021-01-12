@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T21:19:36.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "f0dec356-030e-4e39-8bcc-a6bcd7b3140f",
+  "labels": "current-affairs,2019-11-01",
+  "question": "How much is the range of Agni-II missile?",
+  "option1": "500 km",
+  "option2": "2000 km",
+  "option3": "3500 km",
+  "option4": "5000 km",
+  "option5": "",
+  "answer": "2000 km",
+  "explanation": "This missile has a theoretical maximum range of some 3,000 km with a 1,000 kg payload (conventional or strategic). Tested to range of over 2,000 km, the Agni-II has an all-solid propellant system."
+}

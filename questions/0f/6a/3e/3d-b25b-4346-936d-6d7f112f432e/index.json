@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T16:37:58.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0f6a3e3d-b25b-4346-936d-6d7f112f432e",
+  "labels": "current-affairs,2019-10-18",
+  "question": "The correct sequence of different layers of the atmosphere from the surface of the Earth upwards is?",
+  "option1": "Troposphere, Stratosphere, Ionosphere, Mesosphere",
+  "option2": "Stratosphere, Troposphere, Ionosphere, Mesosphere",
+  "option3": "Troposphere, Stratosphere, Mesosphere, Ionosphere",
+  "option4": "Stratosphere, Troposphere, Mesosphere, Ionosphere",
+  "option5": "",
+  "answer": "Troposphere, Stratosphere, Mesosphere, Ionosphere",
+  "explanation": "The atmosphere is comprised of layers based on temperature. These layers are the troposphere, stratosphere, mesosphere and ionosphere. A further region at about 500 km above the Earth\\'s surface is called the exosphere."
+}

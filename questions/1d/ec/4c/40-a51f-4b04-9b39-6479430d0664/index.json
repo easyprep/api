@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T21:09:42.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "1dec4c40-a51f-4b04-9b39-6479430d0664",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Consider the following statements: <br />I. Tapeworm is a hermaphrodite.<br />II. Round-worm has separate sexes.<br />III. Filaria is caused by a nematode.<br />IV. Guinea-worm is an annelid.<br />Which of these are correct?",
+  "option1": "I and II",
+  "option2": "I, II and III",
+  "option3": "III and IV",
+  "option4": "II, III and IV",
+  "option5": "",
+  "answer": "I, II and III",
+  "explanation": "Filariasis is a parasitic disease caused by an infection with roundworms of the Filarioidea type. These are spread by blood-feeding diptera such as black flies and mosquitoes. Lymphatic filariasis is caused by the worms Wuchereria bancrofti, Brugia malayi, and Brugia timori."
+}

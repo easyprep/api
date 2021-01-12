@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T17:35:30.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "7fb05c5c-b9ee-4dc9-80bf-79e6d9b73cee",
+  "labels": "current-affairs,2019-11-05",
+  "question": "Amongst the following Indian States which one has the minimum total forest cover?",
+  "option1": "Sikkim",
+  "option2": "Goa",
+  "option3": "Haryana",
+  "option4": "Kerala",
+  "option5": "",
+  "answer": "Haryana",
+  "explanation": "Haryana has 6.83% of area is forest cover area of the total land coverage, whereas Sikkim has 36%, 38.5% in Goa and 28.9% of Kerala has forest area of their total land mass."
+}

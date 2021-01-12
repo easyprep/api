@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T21:38:25.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "22ae8b67-93ac-4a34-8ed5-9c2f29112f38",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Match the cities labelled as A, B, C and D in the given map with the names of cities and select the correct answer using the codes given below the names of cities :\r\n<img src= \"https://www.gktoday.in/wp-content/uploads/2019/10/2-10.png\">\r\nNames of Cities:\r\n1. Darwin\r\n2. Kuala Lumpur\r\n3. Lagos\r\n4. Nairobi\r\n5. Singapore\r\nCodes:",
+  "option1": "A-1, B-2, C-4, D-3",
+  "option2": "A-2, B-1, C-4, D-3",
+  "option3": "A-1, B-4, C-5, D-2",
+  "option4": "A-4, B-3, C-5, D-2",
+  "option5": "",
+  "answer": "A-1, B-2, C-4, D-3",
+  "explanation": "‘A’ marked city in map is Darwin in Australia. <br />‘B’ marked city in the given map is Kualalumpur in Malayasia. <br />‘C’ marked city in map is Nairobi in Kenya. <br />The city marked ‘D’ in the map is Lagos in Nigeria.\r\n&nbsp;"
+}

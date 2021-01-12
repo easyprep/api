@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T20:15:51.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "4dc881fd-4547-41e0-bac8-5d4f3c3da301",
+  "labels": "current-affairs,2019-10-19",
+  "question": "In the given map, which one of the following pairs of ocean currents is shown?\r\n<img src= https://www.gktoday.in/wp-content/uploads/2019/10/1-12.png\">",
+  "option1": "Benguela and Falkland",
+  "option2": "Agulhas and Guinea",
+  "option3": "Canary and Humboldt",
+  "option4": "Benguela and Guinea",
+  "option5": "",
+  "answer": "Benguela and Guinea",
+  "explanation": "Benguela Current, oceanic current that is a branch of the West Wind Drift of the Southern Hemisphere. It flows northward in the South Atlantic Ocean along the west coast of southern Africa nearly to the Equator before merging with the westward-flowing Atlantic South Equatorial Current. <br />Guinea Current, surface oceanic current of the Atlantic Ocean, the eastward continuation of the Atlantic Equatorial Countercurrent, off the western coast of Africa near the Gulf of Guinea. The warm, highly saline Guinea Current reaches a depth of less than 660 feet (200 m)."
+}

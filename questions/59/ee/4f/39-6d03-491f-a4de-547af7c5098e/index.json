@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T16:35:33.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "59ee4f39-6d03-491f-a4de-547af7c5098e",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Consider the following countries: <br />1. Brazil<br />2. Indonesia<br />3. Japan<br />4. Russia<br />What is the descending order of the size of the following countries population wise?",
+  "option1": "1, 2, 4, 3",
+  "option2": "2, 3, 1, 4",
+  "option3": "2, 1, 4, 3",
+  "option4": "1, 2, 3, 4",
+  "option5": "",
+  "answer": "2, 1, 4, 3",
+  "explanation": "1. China<br />1,384,688,986<br />2. India<br />1,296,834,042<br />3. United States<br />329,256,465<br />4. Indonesia<br />262,787,403<br />5. Brazil<br />208,846,892<br />6. Pakistan<br />207,862,518<br />7. Nigeria<br />195,300,343<br />8. Bangladesh<br />159,453,001<br />9. Russia<br />142,122,776<br />10. Japan<br />126,168,156"
+}

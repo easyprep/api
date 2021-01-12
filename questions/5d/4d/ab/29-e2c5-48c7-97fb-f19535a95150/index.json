@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T15:54:08.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "5d4dab29-e2c5-48c7-97fb-f19535a95150",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Among living organisms, which one of the following is the most responsible factor for bringing about the origin of a new species?",
+  "option1": "Isolation",
+  "option2": "Mutation",
+  "option3": "Natural Selection",
+  "option4": "Sexual Reproduction",
+  "option5": "",
+  "answer": "Isolation",
+  "explanation": "Origin of new species depends on isolation of gene flow between new species and develops significant genetic divergence."
+}

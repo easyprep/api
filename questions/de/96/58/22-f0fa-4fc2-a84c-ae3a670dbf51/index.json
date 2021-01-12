@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T17:15:11.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "de965822-f0fa-4fc2-a84c-ae3a670dbf51",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Consider the following statements:<br />1. The Headquarters of the International Organisation for Standardization are located in Rome.<br />2. ISO 9000 is related to the quality management system and standards.<br />3. ISO 14000 relates to environmental management system standards.<br />Which of the statements is/are correct?",
+  "option1": "1, 2 and 3",
+  "option2": "3 only",
+  "option3": "2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "• The organization has its headquarters in Geneva, Switzerland, where a central secretariat oversees operations.<br />• ISO 9000 is defined as a set of international standards on quality management and quality assurance developed to help companies effectively document the quality system elements needed to maintain an efficient quality system. They are not specific to any one industry and can be applied to organizations of any size.<br />• ISO 14000 is a series of environmental management standards developed and published by the International Organization for Standardization ( ISO ) for organizations. The ISO 14000 standards provide a guideline or framework for organizations that need to systematize and improve their environmental management efforts."
+}

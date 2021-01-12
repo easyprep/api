@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T20:57:08.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "73e30fb8-04a8-41ee-8ddc-a47be70368a5",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Match List I (Drugs / Chemicals) with List II (Their uses) and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Atropine\r\n</td>\r\n<td>\r\n(A) Local anaesthesia\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Ether\r\n</td>\r\n<td>\r\n(B) Heart trouble\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Nitroglycerine\r\n</td>\r\n<td>\r\n(C) Dilation of pupil\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Pyrethrin\r\n</td>\r\n<td>\r\n(D) Mosquito control\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-A, II-C, III-B, IV-D",
+  "option2": "I-A, II-C, III-D, IV-B",
+  "option3": "I-C, II-A, III-D, IV-B",
+  "option4": "I-C, II-A, III-B, IV-D",
+  "option5": "",
+  "answer": "I-C, II-A, III-B, IV-D",
+  "explanation": "Ether is used as an anesthesia at the time of surgery to prevent pain.  Atropine is used as eye drops to dilate the pupil before eye examination.  Nitroglycerine is widely used in the treatment of heart. Pyrethrin is biodegradable, non-persistent pesticide which is used to kill mosquitoes, fleas and other insects."
+}

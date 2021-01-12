@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T21:20:57.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "c53aeda3-a71b-4b18-9d9b-e5c0afb6f77d",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Which one of the following Bills must be passed by each House of the Indian Parliament separately, by special majority?",
+  "option1": "Ordinary Bill",
+  "option2": "Money Bill",
+  "option3": "Finance Bill",
+  "option4": "Constitution Amendment Bill",
+  "option5": "",
+  "answer": "Constitution Amendment Bill",
+  "explanation": "According to Article 368 an amendment of this Constitution may be initiated only by the introduction of a Bill for the purpose in either House of Parliament, and when the Bill is passed in each House by a majority of the total membership of that House present and voting, it shall be presented to the President who shall give his assent to the Bill and thereupon the Constitution shall stand amended in accordance with the terms of the Bill."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-17T16:59:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "5153f1a0-9c4f-461b-b824-281ada51e1da",
+  "labels": "current-affairs,2019-10-18",
+  "question": "The banks are required to maintain a certain ratio between their cash in hand and total assets. Which of the following is the name given to this ratio?",
+  "option1": "SBR (Statutory Bank Ratio)",
+  "option2": "SLR (Statutory Liquid Ratio)",
+  "option3": "CBR (Central Bank Reserve)",
+  "option4": "CLR (Central Liquid Reserve)",
+  "option5": "",
+  "answer": "SLR (Statutory Liquid Ratio)",
+  "explanation": "The banks are required to maintain a certain ratio between their cash in hand and total assets. This is called SLR (Statutory Liquid Ratio). <br />The ratio of liquid assets to net demand and time liabilities (NDTL) is called statutory liquidity ratio (SLR). Banks have to report to the RBI every alternate Friday their SLR maintenance, and pay penalties for failing to maintain SLR as mandated."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-31T18:58:36.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "94c198d7-ae57-4aff-9cf7-f1f6261fd8c0",
+  "labels": "current-affairs,2019-11-01",
+  "question": "Which organelle in the cell, other than nucleus, contains DNA?",
+  "option1": "Centriole",
+  "option2": "Golgi apparatus",
+  "option3": "Lysosome",
+  "option4": "Mitochondrion",
+  "option5": "",
+  "answer": "Mitochondrion",
+  "explanation": "Mitochondrion is the organelle in the cell, other than nucleus that contains DNA. Mitochondria are the working organelles that keep the cell full of energy. Mitochondria are small organelles floating free throughout the cell. Some cells have several thousand mitochondria while others have none. Muscle cells need a lot of energy so they have loads of mitochondria."
+}

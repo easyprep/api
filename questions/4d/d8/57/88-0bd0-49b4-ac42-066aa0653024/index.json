@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T21:37:46.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "4dd85788-0bd0-49b4-ac42-066aa0653024",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Haemophilia is a genetic disorder that leads to which of the following conditions?",
+  "option1": "Decrease in haemoglobin level",
+  "option2": "rheumatic heart disease",
+  "option3": "decrease in WBC",
+  "option4": "non-clotting of blood",
+  "option5": "",
+  "answer": "non-clotting of blood",
+  "explanation": "Hemophilia is a mostly inherited genetic disorder that impairs the body\\'s ability to make blood clots, a process needed to stop bleeding. Rarely a new mutation may occur during early development or haemophilia may develop later in life due to antibodies forming against a clotting factor."
+}

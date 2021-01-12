@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T20:29:54.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "0ac8441d-1dcb-495e-bdb3-8e2f44846567",
+  "labels": "current-affairs,2019-11-02",
+  "question": "The American multinational company, Monsanto has produced an insect-resistant cotton variety that is undergoing field- trails in India. A toxin gene from which ONE of the following bacteria has been transferred to this transgenic cotton?",
+  "option1": "Bacillus subtilis",
+  "option2": "Bacillus thurigiensis",
+  "option3": "Bacillus amyloliquifanciens",
+  "option4": "Bacillus globlii",
+  "option5": "",
+  "answer": "Bacillus thurigiensis",
+  "explanation": "The cotton incorporated the cry1Ac gene from the soil bacterium Bacillus thuringiensis (Bt), making the cotton toxic to bollworms."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T20:33:30.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "977fe4c0-f475-4193-9550-f0ead9897c31",
+  "labels": "current-affairs,2019-11-03",
+  "question": "A hollow sphere of radius R, a hollow cube of side R and a thin circular plate of radius R, made up of the same material, are all heated to 20°C above room temperature. When left to cool in the room, which of them will reach the room temperature first?",
+  "option1": "Circular plate",
+  "option2": "Cube",
+  "option3": "Sphere",
+  "option4": "All of them will reach the room temperature at the same time",
+  "option5": "",
+  "answer": "Sphere",
+  "explanation": "The loss of heat is directly proportional to the surface area, hence loss of heat will be earlier in case of sphere because it has the maximum surface area."
+}

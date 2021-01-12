@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T16:05:41.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "55c73ed7-fb6f-42c6-a3a5-14e05dd03588",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Which one of the following is the correct sequence of the given Indian Cities in the decreasing order of their normal annual rainfall?",
+  "option1": "Kochi-Kolkata-Delhi-Patna",
+  "option2": "Kolkata-Kochi-Patna-Delhi",
+  "option3": "Kochi-Kolkata-Patna-Delhi",
+  "option4": "Kolkata-Kochi-Delhi-Patna",
+  "option5": "",
+  "answer": "Kochi-Kolkata-Patna-Delhi",
+  "explanation": "The correct sequence of the given Indian cities in the decreasing order of their normal annual rainfall is Kochi (3228.3 mm) – Kolkata (1,582 mm) – Patna (1000 –1237 mm) – Delhi (707 mm)."
+}

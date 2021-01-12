@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-03T19:22:34.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "3c5d7253-2089-4582-87fc-c06e8af343dd",
+  "labels": "current-affairs,2019-11-04",
+  "question": "Debenture holders of a company are known as what from these?",
+  "option1": "Shareholders",
+  "option2": "Creditors",
+  "option3": "Debtors",
+  "option4": "Directors",
+  "option5": "",
+  "answer": "Creditors",
+  "explanation": "Debenture holders are not the owners like shareholders but are creditors of the company. They do not enjoy voting rights in the management of the company. Debenture holders being creditors of the company have to be repayed after a specified time period on its maturity."
+}

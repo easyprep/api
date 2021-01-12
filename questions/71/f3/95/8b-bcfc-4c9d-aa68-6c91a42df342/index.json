@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T20:42:51.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "71f3958b-bcfc-4c9d-aa68-6c91a42df342",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Consider the following: <br />1. Currency with the public<br />2. Demand deposits with banks<br />3. Time deposits with banks<br />Which of these are included in Broad Money (M3) in India?",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "M1 = Currency with public + Demand deposits with the Banking system (current account, saving account) + Other deposits with RBI. M2 = M1 + Savings deposits of post office savings banks. Broad Money (M3) M3 = M1 + Time deposits with the banking system."
+}

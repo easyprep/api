@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-04T18:37:18.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "c827aa12-754d-490e-b7b8-eb7ec6861f37",
+  "labels": "current-affairs,2019-11-05",
+  "question": "Which among the following National Highway routes is the longest?",
+  "option1": "Agra-Mumbai",
+  "option2": "Chennai-Thane",
+  "option3": "Kolkata-Hajira",
+  "option4": "Pune-Machilipatnam",
+  "option5": "",
+  "answer": "Kolkata-Hajira",
+  "explanation": "Length of Agra-Mumbai NH – 1161 km Length of Chennai-Thane NH – 1235 km Length of Kolkata-Hajira NH – 1946 km Length of Pune-Machilipatnam NH – 841 km."
+}

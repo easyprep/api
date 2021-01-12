@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-02T16:42:41.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "b36e0302-2e96-4ce8-a26e-b6345bce6f32",
+  "labels": "current-affairs,2019-11-03",
+  "question": "Ticks and mites belongs to which of the following classes?",
+  "option1": "Arachnids",
+  "option2": "Crustaceans",
+  "option3": "Insects",
+  "option4": "Myriapods",
+  "option5": "",
+  "answer": "Arachnids",
+  "explanation": "The order Acarina (class Arachnida) includes mites and ticks. Members of this order differ from other arachnids in that the body is not segmented, and the cephalothorax and abdomen are combined into one body region. Larval mites and ticks have three pairs of legs, whereas nymphs and adults have four pairs."
+}

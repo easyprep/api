@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-01T21:10:48.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "478d756d-ba02-40a4-aa77-9a3b94d35ede",
+  "labels": "current-affairs,2019-11-02",
+  "question": "Which of the following weather conditions is indicated by a sudden fall in barometer reading?",
+  "option1": "Stormy weather",
+  "option2": "Calm weather",
+  "option3": "Cold and dry weather",
+  "option4": "Hot and sunny Weather",
+  "option5": "",
+  "answer": "Stormy weather",
+  "explanation": "Stormy weather condition is indicated by a sudden fall in barometer reading because decrease of pressure indicates the advent of storms."
+}

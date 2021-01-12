@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-29T02:10:53.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "e2d0b8da-991f-458a-9f34-e2af738db4dc",
+  "labels": "current-affairs,2019-10-30",
+  "question": "In Mumbai, Indian Railways recently launched 42 Automatic Ticket Vending Machines for fast delivery of tickets of local trains. These ATVMs work on which operating system?",
+  "option1": "Windows",
+  "option2": "Linux",
+  "option3": "Debian",
+  "option4": "HeliOS",
+  "option5": "",
+  "answer": "Linux",
+  "explanation": "On October 24, 2019, the Indian Railways launched the “one touch ATVM” at 42 suburban stations. The purpose of the service is to render fast ticketing to millions of commuters, especially in the Mumbai Suburban Network. ATVM are Automatic Ticket Vending Machines. They work on Linux software."
+}

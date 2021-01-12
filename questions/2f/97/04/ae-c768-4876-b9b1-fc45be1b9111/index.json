@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-23T21:28:58.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "2f9704ae-c768-4876-b9b1-fc45be1b9111",
+  "labels": "current-affairs,2019-10-24",
+  "question": "Consider the following statements: <br />Hard water is not suitable for<br />I. drinking.<br />II. Washing cloths with soap.<br />III. use in boilers.<br />IV. irrigating crops.<br />Which of these statements are correct?",
+  "option1": "I and III",
+  "option2": "II and III",
+  "option3": "I, II and IV",
+  "option4": "I, II, III and IV",
+  "option5": "",
+  "answer": "I, II, III and IV",
+  "explanation": "Hardness of water is due to presence of chlorides, sulphates and nitrates of calcium and magnesium. Hard water cannot be used for washing purposes as soap do not form lather with hard water easily which results in to wastage of soap in laundaries. Moreover use of hard water in industries results in to scale formation in inner layers of boilers on which insoluble calcium and magnesium carbonates gets deposited and being a bad conductor of heat result in to wastage of energy. Moreover hard water is not fit for drinking purpose as it hinders ionic imbalance in body. Repeated irrigation of crops by hard water increases calcium and magnesium ions in soil which increases soil alkalinity."
+}

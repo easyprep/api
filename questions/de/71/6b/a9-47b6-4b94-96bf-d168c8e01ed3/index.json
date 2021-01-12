@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-19T18:22:37.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "de716ba9-47b6-4b94-96bf-d168c8e01ed3",
+  "labels": "current-affairs,2019-10-20",
+  "question": "Match List I (Quantity) with List II (Units) and select the correct answer using the codes given below the Lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. High speed\r\n</td>\r\n<td>\r\n(A) Mach\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Wavelength\r\n</td>\r\n<td>\r\n(B) Angstrom\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Pressure\r\n</td>\r\n<td>\r\n(C) Pascal\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Energy\r\n</td>\r\n<td>\r\n(D) Joule\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-B, II-A, III-C, IV-D",
+  "option2": "I-A, II-B, III-D, IV-C",
+  "option3": "I-A, II-B, III-C, IV-D",
+  "option4": "I-B, II-A, III-D, IV-C",
+  "option5": "",
+  "answer": "I-A, II-B, III-C, IV-D",
+  "explanation": "In fluid dynamics, the Mach number is a dimensionless quantity representing the ratio of flow velocity past a boundary to the local speed of sound. Where: M is the Mach number, u is the local flow velocity with respect to the boundaries, and c is the speed of sound in the medium.<br />An angstrom is a unit of length used to measure very small distances. One angstrom is equal to 10−10 m (one ten-billionth of a meter or 0.1 nanometers).<br />The pascal is the SI derived unit of pressure used to quantify internal pressure, stress, Young\\'s modulus and ultimate tensile strength. The unit, named after Blaise Pascal, is defined as one Newton per square metre.<br />The joule is a derived unit of energy in the International System of Units. It is equal to the energy transferred to an object when a force of one newton acts on that object in the direction of the force\\'s motion through a distance of one metre."
+}

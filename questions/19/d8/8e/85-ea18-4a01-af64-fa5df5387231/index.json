@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-18T20:06:37.000Z",
+  "updated_at": "2021-01-06T08:24:44.055Z",
+  "id": "19d88e85-ea18-4a01-af64-fa5df5387231",
+  "labels": "current-affairs,2019-10-19",
+  "question": "Match List I with List II and select the correct answer using the codes given below the Lists :\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Volcanic Mountain)\r\n</td>\r\n<td>\r\n(Country)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Mt. Rainier\r\n</td>\r\n<td>\r\n(A) Italy\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Etna\r\n</td>\r\n<td>\r\n(B) Mexico\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Paricutin\r\n</td>\r\n<td>\r\n(C) Philippines\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Taal\r\n</td>\r\n<td>\r\n(D) USA\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-D, II-B, III-A, IV-C",
+  "option2": "I-D, II-A, III-B, IV-C",
+  "option3": "I-B, II-A, III-D, IV-C",
+  "option4": "I-D, II-C, III-B, IV-A",
+  "option5": "",
+  "answer": "I-D, II-A, III-B, IV-C",
+  "explanation": "Mount Rainier, also known as Tahoma or Tacoma, is a large active stratovolcano located 59 miles south-southeast of Seattle, USA in Mount Rainier National Park.<br />Mount Etna, or Etna, is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania. It lies above the convergent plate margin between the African Plate and the Eurasian Plate.<br />Parícutin is a cinder cone volcano located in the Mexican state of Michoacán, near the city of Uruapan and about 322 kilometers west of Mexico City. The volcano surged suddenly from the cornfield of local farmer Dionisio Pulido in 1943, attracting both popular and scientific attention.<br />Taal Volcano is a complex volcano located on the island of Luzon in the Philippines. It is the second most active volcano in the Philippines with 33 historical eruptions. All of these eruptions are concentrated on Volcano Island, an island near the middle of Taal Lake."
+}
