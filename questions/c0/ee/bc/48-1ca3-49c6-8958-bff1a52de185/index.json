@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-09T17:32:44.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "c0eebc48-1ca3-49c6-8958-bff1a52de185",
+  "labels": "current-affairs,2020-05-10",
+  "question": "Which term is used to define the ratio of speed of the object to the speed of sound in that particular medium?",
+  "option1": "Avogadro number",
+  "option2": "Tach number",
+  "option3": "Mach number",
+  "option4": "Bernoulis number",
+  "option5": "",
+  "answer": "Mach number",
+  "explanation": "Mach number is defined as the ratio of speed of the object to the speed of sound in that particlar medium. Speed of the aeroplanes and airforce jet planes are expressed on mach numbers."
+}

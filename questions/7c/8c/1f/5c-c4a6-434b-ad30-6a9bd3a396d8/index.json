@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-09T17:32:44.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "7c8c1f5c-c4a6-434b-ad30-6a9bd3a396d8",
+  "labels": "current-affairs,2020-05-10",
+  "question": "Which vitamin deficiency leads to the disease rickets?",
+  "option1": "Vitamin A",
+  "option2": "Vitamin C",
+  "option3": "Vitamin D",
+  "option4": "Vitamin K",
+  "option5": "",
+  "answer": "Vitamin D",
+  "explanation": "Rickets is a disease related to bone disorder due to the deficiency of vitamin D. Vitamin D is a fat soluble vitamin. Vitamin D is also called as calciferol. Lack of calcium also leads to rickets."
+}

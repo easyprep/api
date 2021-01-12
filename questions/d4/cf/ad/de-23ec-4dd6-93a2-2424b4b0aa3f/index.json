@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "d4cfadde-23ec-4dd6-93a2-2424b4b0aa3f",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which among the following quantities does not have units?",
+  "option1": "Pressure",
+  "option2": "Strain",
+  "option3": "Stress",
+  "option4": "Velocity",
+  "option5": "",
+  "answer": "Strain",
+  "explanation": "As the strain is defined as the ratio of elongation to the original length of the material due to stress applied on it, strain has no units and dimensions."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-15T04:32:33.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "2d823db7-2ee5-46fa-91eb-5f3001e16127",
+  "labels": "current-affairs,2020-05-16",
+  "question": "What is the name of the first automated testing machine procured by the Government of India, for testing of COVID-19 cases?",
+  "option1": "CDC 6800",
+  "option2": "COVID 6800",
+  "option3": "COBAS 6800",
+  "option4": "NCDC 6800",
+  "option5": "",
+  "answer": "COBAS 6800",
+  "explanation": "Union Minister of Health & Family Welfare Dr Harsh Vardhan recently dedicated the first testing machine that has been procured by the Government called COBAS 6800. It has been installed in the National Centre for Disease Control (NCDC). It is an institute under the Indian Directorate General of Health Services, Health Ministry.\r\nCOBAS 6800 is a fully automated, high end machine which performs real time PCR testing for COVID-19. It will also provide high-quality testing and can perform around 1200 samples in 24 hours. This is expected to increase the testing capacity in the country."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-13T02:11:17.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "4a4d95fe-4ec6-4380-8812-25c23761afd1",
+  "labels": "current-affairs,2020-05-14",
+  "question": "As per the new guidelines issued regarding the Aarogya Setu app, what is the maximum number of days the data can be stored?",
+  "option1": 120,
+  "option2": 150,
+  "option3": 180,
+  "option4": 200,
+  "option5": "",
+  "answer": 180,
+  "explanation": "The Government of India has recently issued a set of guidelines to be followed for data processing of Aarogya Setu app users.\r\nAs per the new rules, the storage of data beyond 180 days is prohibited and users can seek deletion of their data from the government’s records within 30 days of request. The new norms allow collection of only demographic, contact, self-assessment and location data of infected persons and their contacts. Any violation of these directions may lead to penalties under the Disaster Management Act, 2005."
+}

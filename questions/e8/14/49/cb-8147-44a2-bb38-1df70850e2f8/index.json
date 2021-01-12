@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T01:23:53.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "e81449cb-8147-44a2-bb38-1df70850e2f8",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which books were authored by Sri Aurobindo Ghosh?<br />1. The Life Divine<br />2. India for Indians<br />3. Savitri<br />4. New Lamps for Old<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 3",
+  "option2": "1, 3 & 4",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 3 & 4",
+  "explanation": "Books are written by Sri Aurobindo Ghosh- The Life Divine, Savitri, New Lamps for Old. India for Indians was written by Chittaranjan Das."
+}

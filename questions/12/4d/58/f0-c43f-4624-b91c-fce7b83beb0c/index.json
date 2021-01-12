@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "124d58f0-c43f-4624-b91c-fce7b83beb0c",
+  "labels": "current-affairs,2020-05-07",
+  "question": "For which of the following devices Flemimg's right hand rule can be applied?",
+  "option1": "Eelctrical generator",
+  "option2": "Electrical motor",
+  "option3": "Transformer",
+  "option4": "Induction motor",
+  "option5": "",
+  "answer": "Eelctrical generator",
+  "explanation": "Fleming\\'s right hand rule is used to find the direction of induced current in the generator where as left hand rule is used for electrical motors."
+}

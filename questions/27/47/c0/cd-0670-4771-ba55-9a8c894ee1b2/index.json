@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:22.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "2747c0cd-0670-4771-ba55-9a8c894ee1b2",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which machine/instrument is used to convert alternating current(AC) to direct current(DC)?",
+  "option1": "Rectifier",
+  "option2": "Inverter",
+  "option3": "Transformer",
+  "option4": "Induction motor",
+  "option5": "",
+  "answer": "Rectifier",
+  "explanation": "Rectifier is a device which is used to convert alternating current into direct current with the use of electronic switches such as diodes, transistors, SCRs etc."
+}

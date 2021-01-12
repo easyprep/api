@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T10:58:04.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "d8be61be-5948-4f7f-aef7-0995f00451f8",
+  "labels": "current-affairs,2020-05-09",
+  "question": "What is the imaginary line which joins the points of equal salinity in an aquatic system?",
+  "option1": "Isobar",
+  "option2": "Isosalt",
+  "option3": "Isotherm",
+  "option4": "Isohaline",
+  "option5": "",
+  "answer": "Isohaline",
+  "explanation": "Isohaline is the imaginary line which joins the points with equal salinity in an aquatic system.<br />Isotherm is the imaginary line which joins the points with equal temeperature."
+}

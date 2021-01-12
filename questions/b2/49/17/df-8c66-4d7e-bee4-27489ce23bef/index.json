@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "b24917df-8c66-4d7e-bee4-27489ce23bef",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which gas is mixed with domestic gas cylinders to add odour to it?",
+  "option1": "Methyl iodide",
+  "option2": "Methyl bromide",
+  "option3": "Methyl isocyanate",
+  "option4": "Methyl mercapton",
+  "option5": "",
+  "answer": "Methyl mercapton",
+  "explanation": "Gas in the domestic gas cylinders is odour less which makes it difficult to identify the leakages. In order to rectify it, methyl mercapton is used to give odour to the gas so that leakages can be easily detected."
+}

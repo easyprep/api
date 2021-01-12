@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "c57792fd-b2ac-4228-bb66-7e7371730c64",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which device is used to measure the density/volume of any kind of solids?",
+  "option1": "Hydrometer",
+  "option2": "Pycnometer",
+  "option3": "Hygrometer",
+  "option4": "Picometer",
+  "option5": "",
+  "answer": "Pycnometer",
+  "explanation": "Pycnometer is a device which is used to measure the density/volume of solids with any kind of internal lattice structure."
+}

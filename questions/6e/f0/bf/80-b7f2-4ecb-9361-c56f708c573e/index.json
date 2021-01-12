@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T03:23:27.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "6ef0bf80-b7f2-4ecb-9361-c56f708c573e",
+  "labels": "current-affairs,2020-05-09",
+  "question": "Robert Baptiste, who was seen in news recently, is associated with which field?",
+  "option1": "Epidemiology",
+  "option2": "Virology",
+  "option3": "Cyber-security Research",
+  "option4": "Architecture",
+  "option5": "",
+  "answer": "Cyber-security Research",
+  "explanation": "French cybersecurity researcher and ethical hacker Robert Baptiste who writes in the pseudonym Elliot Alderson on Twitter, warned about the security issues in the Aarogya Setu application. He also explained how the application could be manipulated to retrieve data of people infected in a given area. \r\nAs per the recent announcement of the Indian government, more than 90 million people have downloaded the application. However, the team of Aarogya Setu assured that no data or security breach has been identified."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "cb63bb2c-4a23-4bbc-9d15-7b16c04c1c4c",
+  "labels": "current-affairs,2020-05-07",
+  "question": "What is rate of change of displacement?",
+  "option1": "Velocity",
+  "option2": "Acceleration",
+  "option3": "Deceleration",
+  "option4": "Angular momentum",
+  "option5": "",
+  "answer": "Velocity",
+  "explanation": "Rate of change of displacement is called velocity and rate of change of velocity is called acceleration."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "1de7b429-d46d-468d-bcb7-d84a32b698e8",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which law is responsible for the functioning of hydraulic brakes?",
+  "option1": "Boyle's law",
+  "option2": "Newton's law",
+  "option3": "Bernouli's law",
+  "option4": "Pascal's law",
+  "option5": "",
+  "answer": "Pascal's law",
+  "explanation": "Hydraulic brakes works on the principle of Pascal\\'s law. Pascal\\'s law states that whenever pressure is applied on a fluid, it travels uniformly in all the directions."
+}

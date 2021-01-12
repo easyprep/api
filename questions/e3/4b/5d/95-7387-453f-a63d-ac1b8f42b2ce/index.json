@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "e34b5d95-7387-453f-a63d-ac1b8f42b2ce",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which waves are used by bats to communicate with each other?",
+  "option1": "Infrasonic sound waves",
+  "option2": "Audible sound for human hear",
+  "option3": "Ultrasonic sound waves",
+  "option4": "Picasonic sound waves",
+  "option5": "",
+  "answer": "Ultrasonic sound waves",
+  "explanation": "Ultrasonic sound waves are the waves with frequencies greater than 20 kilo hertz and these are not observable by human ear."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-09T17:32:44.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "733a5fea-f852-405d-b681-7b4b198e703c",
+  "labels": "current-affairs,2020-05-10",
+  "question": "Which blood group is referred to as universal recipient?",
+  "option1": "AB +ve",
+  "option2": "AB -ve",
+  "option3": "O +ve",
+  "option4": "O -ve",
+  "option5": "",
+  "answer": "AB +ve",
+  "explanation": "Persons with AB +ve blood group are called as universal recipients as they can get blood from persons with any of the blood groups. AB -ve cannot be regarded as universal donor as it cannot accept blood from persons with Rh factor."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "1eef6842-0a95-4ecf-8421-98c77f847809",
+  "labels": "current-affairs,2020-05-07",
+  "question": "What is the speed of sound in vacuum?",
+  "option1": 0,
+  "option2": "330 m/s",
+  "option3": "1058 m/s",
+  "option4": "326 m/s",
+  "option5": "",
+  "answer": 0,
+  "explanation": "Sound being a longitudinal wave requires medium to travel. The denser the medium, the faster the sound. Hence we can conclude that sound does not travel through vacuum."
+}

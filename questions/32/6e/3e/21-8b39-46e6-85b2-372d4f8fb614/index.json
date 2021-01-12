@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T10:58:05.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "326e3e21-8b39-46e6-85b2-372d4f8fb614",
+  "labels": "current-affairs,2020-05-09",
+  "question": "Which among the following is the unit of flow rate?",
+  "option1": "Gallons",
+  "option2": "Cusec",
+  "option3": "Litres",
+  "option4": "kilogram",
+  "option5": "",
+  "answer": "Cusec",
+  "explanation": "Cusec is the short form for the cubic feet per second which is equal to the flow of 28.317 litres per second."
+}

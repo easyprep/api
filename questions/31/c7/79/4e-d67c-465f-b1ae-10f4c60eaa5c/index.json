@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "31c7794e-d67c-465f-b1ae-10f4c60eaa5c",
+  "labels": "current-affairs,2020-05-06",
+  "question": "What is the process through which impurities are added to intrinsic semiconducting material?",
+  "option1": "Latching",
+  "option2": "Doping",
+  "option3": "Breaking",
+  "option4": "Diluting",
+  "option5": "",
+  "answer": "Doping",
+  "explanation": "Doping is a process of adding trivalent and pentavalent impurities to the intrinsic semiconductor material to alter it\\'s electrical properties to get the desired results."
+}

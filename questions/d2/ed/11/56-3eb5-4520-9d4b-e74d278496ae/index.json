@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "d2ed1156-3eb5-4520-9d4b-e74d278496ae",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which among the following is a unit of pressure?",
+  "option1": "meter square per second",
+  "option2": "meters per second",
+  "option3": "No units",
+  "option4": "Pascal",
+  "option5": "",
+  "answer": "Pascal",
+  "explanation": "Pressure is defined as the force per unit area and the units of pressure include pascals, torr. one torr=133.3 pascals."
+}

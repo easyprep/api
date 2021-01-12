@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-09T17:32:44.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "34428cd4-faf2-4e0e-aef6-d12dda9f7f86",
+  "labels": "current-affairs,2020-05-10",
+  "question": "Which instrument is used to measure blood pressure?",
+  "option1": "Manometer",
+  "option2": "Barometer",
+  "option3": "Sphygmomanometer",
+  "option4": "Anemometer",
+  "option5": "",
+  "answer": "Sphygmomanometer",
+  "explanation": "Blood pressure is measured using sphygmomanometer. Blood pressure is the ratio of systolic pressure to diastolic pressure and the normal blood pressure rate is 120/80."
+}

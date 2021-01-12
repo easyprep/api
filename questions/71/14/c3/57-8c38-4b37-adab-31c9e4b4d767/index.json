@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "7114c357-8c38-4b37-adab-31c9e4b4d767",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which among the following is not a vector quantity?",
+  "option1": "Speed",
+  "option2": "Velocity",
+  "option3": "Acceleration",
+  "option4": "Displacement",
+  "option5": "",
+  "answer": "Speed",
+  "explanation": "Vectors are quantities which have both magnitude and direction where as scalars have only magnitude but not direction. Displacement, velocity, acceleration are vectors where as distance, speed are scalars."
+}

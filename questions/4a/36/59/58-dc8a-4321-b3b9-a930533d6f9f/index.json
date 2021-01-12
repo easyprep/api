@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-13T02:22:03.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "4a365958-dc8a-4321-b3b9-a930533d6f9f",
+  "labels": "current-affairs,2020-05-14",
+  "question": "What is \"Airlens Minus Corona\", that was seen in news recently?",
+  "option1": "Air purifier",
+  "option2": "Disinfectant Robot",
+  "option3": "Special Mask",
+  "option4": "Sanitiser",
+  "option5": "",
+  "answer": "Disinfectant Robot",
+  "explanation": "A team of Indian Institute of Technology (IIT) and Stanford alumni have developed a technology named \"Airlens Minus Corona\". It has received certification from the National Accreditation Board for Testing and Calibration Laboratories (NABL).\r\nIt is an 'intelligent robot' machine that can travel to hospitals and other crowded public places and disinfect surfaces with a water-based technology. Unlike the alcohol-based or UV-based method, the technology works on the basis of 'Water Electro Activation' technique. Charged or ionised water droplets will kill the virus by destroying its proteins."
+}

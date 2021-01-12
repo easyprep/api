@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "9b302f70-b375-4801-a8f4-80800d6110fd",
+  "labels": "current-affairs,2020-05-06",
+  "question": "At what temperature the reading on both celsius scale and fahrenheit scale are equal?",
+  "option1": "-20 degrees",
+  "option2": "+20 degrees",
+  "option3": "-40 degrees",
+  "option4": "+40 degrees",
+  "option5": "",
+  "answer": "-40 degrees",
+  "explanation": "At -40 degrees, the reading on both celsius and fahrenheit scale reads same value."
+}

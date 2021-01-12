@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "3dd0568f-29f6-4b28-a78c-1afc84270671",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which kind of coal has highest carbon content in it?",
+  "option1": "Anthracite",
+  "option2": "Bituminous",
+  "option3": "Lignite",
+  "option4": "Peat",
+  "option5": "",
+  "answer": "Anthracite",
+  "explanation": "Anthracite type of coal has highest amount of carbon and hence it\\'s calorific value is high compared to other types of coal. Anthracite contains nearly 92-98 percent of carbon. Ascending order of coals depending on carbon content: peat, lignite, bituminous, anthracite."
+}

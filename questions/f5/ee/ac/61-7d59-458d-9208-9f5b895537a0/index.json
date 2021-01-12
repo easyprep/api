@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "f5eeac61-7d59-458d-9208-9f5b895537a0",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which device is used to step up/step down the voltage levels in an electrical system?",
+  "option1": "Generator",
+  "option2": "Electrical motor",
+  "option3": "Rectifier",
+  "option4": "Transformer",
+  "option5": "",
+  "answer": "Transformer",
+  "explanation": "Electrical transformer is a device which is used to step up or step down the voltage levels depending on the requirement by keeping the power levels almost constant."
+}

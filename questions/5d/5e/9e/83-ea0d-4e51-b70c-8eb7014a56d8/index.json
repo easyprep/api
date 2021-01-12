@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T10:58:05.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "5d5e9e83-ea0d-4e51-b70c-8eb7014a56d8",
+  "labels": "current-affairs,2020-05-09",
+  "question": "Which among the following has highest mass?",
+  "option1": "Proton",
+  "option2": "Neutron",
+  "option3": "Electron",
+  "option4": "All have same mass",
+  "option5": "",
+  "answer": "Neutron",
+  "explanation": "Masses of the electron, proton and neutron in amu(atomic mass unit):<br />Electron: 0.000549<br />Proton: 1.007316<br />Neutron: 1.008701."
+}

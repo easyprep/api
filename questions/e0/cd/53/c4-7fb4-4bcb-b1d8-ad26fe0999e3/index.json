@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-15T04:29:01.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "e0cd53c4-7fb4-4bcb-b1d8-ad26fe0999e3",
+  "labels": "current-affairs,2020-05-16",
+  "question": "As per the recent Transparency report released by the Facebook, which nation sought for the highest number of user data?",
+  "option1": "India",
+  "option2": "China",
+  "option3": "United States",
+  "option4": "North Korea",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "According to the latest Transparency Report released by Facebook, government requests for user data increased by 9.5% during the second half of 2019. United States topped the list with 51,121 requests for user data. It is followed by India and UK.\r\nThe report also revealed that India topped the list for internet disruption affecting Facebook services during both the first and second half of 2019, accounting for 40 disruptions. Also, the number of user data requests from the Indian government to Facebook increased 28% during the second half of 2019."
+}

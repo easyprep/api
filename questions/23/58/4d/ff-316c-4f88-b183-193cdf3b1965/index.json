@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "23584dff-316c-4f88-b183-193cdf3b1965",
+  "labels": "current-affairs,2020-05-06",
+  "question": "What is the charge of X rays?",
+  "option1": "Positive",
+  "option2": "Negative",
+  "option3": "No charge",
+  "option4": "Charge varies",
+  "option5": "",
+  "answer": "No charge",
+  "explanation": "X rays are part of electromagnetic spectrum which does not contain any charge i.e. it is neutral."
+}

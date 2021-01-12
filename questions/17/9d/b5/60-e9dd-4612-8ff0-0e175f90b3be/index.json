@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "179db560-e9dd-4612-8ff0-0e175f90b3be",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which quantity is measured using bolometer?",
+  "option1": "Intensity of sound",
+  "option2": "Intensity of electromagnetic radiation",
+  "option3": "Intensity of pain",
+  "option4": "Intensity of wind movement",
+  "option5": "",
+  "answer": "Intensity of electromagnetic radiation",
+  "explanation": "When electromagnetic radiation of a particluar frequency is incident on bolometer\\'s temperature dependent resistance, which results in the rise in temperature and using this the intensity of the radiation can be calculated."
+}

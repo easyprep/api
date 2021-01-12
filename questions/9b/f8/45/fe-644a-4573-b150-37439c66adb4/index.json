@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:41:09.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "9bf845fe-644a-4573-b150-37439c66adb4",
+  "labels": "current-affairs,2020-05-06",
+  "question": "In which of the following cases the government (Union or states) in India cannot be sued for torts (civil wrongs) committed by its officials?<br />1. Administering justice<br />2. Constructing a military road<br />3. Commandeering goods during war<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1,2 & 3",
+  "option5": "",
+  "answer": "1,2 & 3",
+  "explanation": "The government (Union or states) of India can be sued for torts (civil wrongs) committed by its officials only in the exercise of its non-sovereign functions but not in the case of sovereign functions. Sovereign functions include administering justice, constructing a military road, commandeering goods during war, etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T10:58:05.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "4e7c286d-4cef-4c56-b729-bb23553f422e",
+  "labels": "current-affairs,2020-05-09",
+  "question": "Which chemical is used for cloud seeding in creating artificial rains?",
+  "option1": "Silver Iodide",
+  "option2": "Silver nitrate",
+  "option3": "Magnesium Chloride",
+  "option4": "Sodium chloride",
+  "option5": "",
+  "answer": "Silver Iodide",
+  "explanation": "Cloud seeding is a process of condensing the clouds by spraying artificial chemicals into the air. The chemicals include silver iodide and dry ice."
+}

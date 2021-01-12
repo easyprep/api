@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T03:18:38.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "58387186-f287-4d7f-a9c2-60304e9e2687",
+  "labels": "current-affairs,2020-05-09",
+  "question": "In the context of recent gas leakage incident at Visakhapatnam polymer plant, which gas was found to be leaked?",
+  "option1": "Styrene",
+  "option2": "Ethyl Benzene",
+  "option3": "Toluene",
+  "option4": "Xylene",
+  "option5": "",
+  "answer": "Styrene",
+  "explanation": "When a polymer plant in Vishakhapatnam resumed its operations after lock down, there was a leakage of styrene gas, that has killed about 11 people. Thousands of people were evacuated from around the plant and many of them were hospitalised.\r\nThe styrene gas is a poisonous, inflammable gas used in plastic engineering industry, which caused nausea and dizziness. As per the experts, the gas could have triggered a series of explosions from the LG Polymers plant, which manufactures polystyrene."
+}

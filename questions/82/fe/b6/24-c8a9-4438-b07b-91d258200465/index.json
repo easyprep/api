@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "82feb624-c8a9-4438-b07b-91d258200465",
+  "labels": "current-affairs,2020-05-07",
+  "question": "What among the following is the unit of electrical energy?",
+  "option1": "Watts",
+  "option2": "Volts",
+  "option3": "kilo watt hours",
+  "option4": "Amperes",
+  "option5": "",
+  "answer": "kilo watt hours",
+  "explanation": "Electrical energy can be measured in joules, kilowatt hours. In general power consumption is denoted in electrical units which is equal to 1 kilowatt hour."
+}

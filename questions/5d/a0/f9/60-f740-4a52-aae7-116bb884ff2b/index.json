@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "5da0f960-f740-4a52-aae7-116bb884ff2b",
+  "labels": "current-affairs,2020-05-07",
+  "question": "What happens to the mass of an object on moon compared to mass on Earth?",
+  "option1": "Reduces",
+  "option2": "Increases",
+  "option3": "Remains same",
+  "option4": "No mass on moon",
+  "option5": "",
+  "answer": "Remains same",
+  "explanation": "Mass of an object remains same everywhere in the universe where as the weight differs from planet to planet. Weight is the product of mass and gravity. As the gravity on moon is less compared to Earth, weight on moon is less than the weight on Earth."
+}

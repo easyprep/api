@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:23.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "f090aaa6-f9d4-4cac-abd0-d78790993f9d",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which device converts DC/direct current to AC/alternating current?",
+  "option1": "Rectifier",
+  "option2": "Inverter",
+  "option3": "Generator",
+  "option4": "Transformer",
+  "option5": "",
+  "answer": "Inverter",
+  "explanation": "Rectifier converts AC to DC where as inverter converts DC to AC. Inverters are used as backup in case of power failures."
+}

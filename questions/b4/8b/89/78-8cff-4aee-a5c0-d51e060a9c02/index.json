@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "b48b8978-8cff-4aee-a5c0-d51e060a9c02",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which colour of visible spectrum has highest wavelength?",
+  "option1": "Violet",
+  "option2": "Red",
+  "option3": "Blue",
+  "option4": "Yellow",
+  "option5": "",
+  "answer": "Red",
+  "explanation": "Among all the colours of visible spectrum, red colour has highest wavelength and violet has least wavelength. This is the reason why red is used in the traffic signals to indicate stop."
+}

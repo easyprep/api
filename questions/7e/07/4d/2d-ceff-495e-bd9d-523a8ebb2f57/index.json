@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T10:58:05.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "7e074d2d-ceff-495e-bd9d-523a8ebb2f57",
+  "labels": "current-affairs,2020-05-09",
+  "question": "What is the charge of beta particle emitted in the radioactive decay?",
+  "option1": "Positive",
+  "option2": "Negative",
+  "option3": "Neutral",
+  "option4": "Charges switches regularly",
+  "option5": "",
+  "answer": "Negative",
+  "explanation": "Alpha, beta and gamma radiations are emitted during the radioactive decay process. Alpha is positive particle with double positive charge, beta particle is an electron and hence negative charge, gamma radiation is neutral."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T20:14:00.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "8d83f45b-7e5b-4593-bd0c-8545ea5dd6af",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which of the following can include or exclude any caste or tribe from Presidential notification?",
+  "option1": "Supreme Court",
+  "option2": "President",
+  "option3": "Parliament",
+  "option4": "National Commission for minorities",
+  "option5": "",
+  "answer": "Parliament",
+  "explanation": "The lists of Scheduled Castes or Scheduled Tribes vary from state to state and union territory to union territory in India. Inclusion or exclusion of any caste or tribe from Presidential notification can be done only by the Parliament of India and not by a subsequent Presidential notification."
+}

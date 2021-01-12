@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-08T10:23:19.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "b5a52a5c-a5c7-4419-8dbc-987ab1204dc8",
+  "labels": "current-affairs,2020-05-09",
+  "question": "Mines and Minerals (Regulation and Development) Act, 1957 is applicable to which of the following?<br />1. Minor minerals<br />2. Atomic minerals<br />3. Iron ore<br />4. Limestone<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "The Mines and Minerals (Regulation and Development) Act of the year 1957 is applicable to both iron ore and limestone. It is applicable to all the minerals except minor minerals and atomic minerals."
+}

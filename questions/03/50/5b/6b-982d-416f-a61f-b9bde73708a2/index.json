@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "03505b6b-982d-416f-a61f-b9bde73708a2",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which instrument is used to measure specific gravity/relative density?",
+  "option1": "Hydrometer",
+  "option2": "Hygrometer",
+  "option3": "Anemometer",
+  "option4": "Barometer",
+  "option5": "",
+  "answer": "Hydrometer",
+  "explanation": "Hydrometer is a device which is used to measure the specific gravity/relative density of a liquid i.e the ratio of density of a liquid under observation  to the density of water."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "99a78be5-02c7-4a07-b1ba-a3eda8cf64c4",
+  "labels": "current-affairs,2020-05-06",
+  "question": "At what temperature does water possess maximum density?",
+  "option1": "0 degrees centigrade",
+  "option2": "4 degrees centigrade",
+  "option3": "-4 degrees centigrade",
+  "option4": "10 degrees centigrade",
+  "option5": "",
+  "answer": "4 degrees centigrade",
+  "explanation": "Water\\'s density is not absolute and it depends on temperature. Density of water is maximum at 4 degree centigrade.Because of spaces between crystals of ice, ice is not denser, it is the reason for ice floating on water."
+}

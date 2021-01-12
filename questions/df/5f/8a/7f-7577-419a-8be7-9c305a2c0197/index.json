@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "df5f8a7f-7577-419a-8be7-9c305a2c0197",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Which device converts light energy into electrical energy?",
+  "option1": "Dynamo",
+  "option2": "Synchronous generator",
+  "option3": "Photovoltaic cell",
+  "option4": "DC geenrator",
+  "option5": "",
+  "answer": "Photovoltaic cell",
+  "explanation": "Photovoltaic cell is a device which converts the light energy of incident photon into electrical energy."
+}

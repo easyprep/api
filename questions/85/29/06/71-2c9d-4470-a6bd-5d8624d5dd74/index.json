@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "85290671-2c9d-4470-a6bd-5d8624d5dd74",
+  "labels": "current-affairs,2020-05-06",
+  "question": "What is the unit of frequency?",
+  "option1": "Decibels",
+  "option2": "Dels",
+  "option3": "Seimens",
+  "option4": "Hertz",
+  "option5": "",
+  "answer": "Hertz",
+  "explanation": "Frequency of anything is the rate of repetitiveness of an event. Wave frequency is given as the number of waves pass through a given point in a given time which is given as number of waves per second."
+}

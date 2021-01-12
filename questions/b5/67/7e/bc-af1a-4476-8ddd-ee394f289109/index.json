@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T19:59:22.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "b5677ebc-af1a-4476-8ddd-ee394f289109",
+  "labels": "current-affairs,2020-05-07",
+  "question": "What happens to the boiling point of water at high altitude areas above sea level?",
+  "option1": "Decreases",
+  "option2": "Increases",
+  "option3": "Remains same",
+  "option4": "First increases then decreases",
+  "option5": "",
+  "answer": "Decreases",
+  "explanation": "Boiling point of water reduces by 1 degree centigrade for every 300 meters above sea level. Hence in hilly terrains, pressure cookers are preferred for boiling rice, vegetables etc."
+}

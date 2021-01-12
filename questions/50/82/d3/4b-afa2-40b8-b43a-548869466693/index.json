@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-12T04:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "5082d34b-afa2-40b8-b43a-548869466693",
+  "labels": "current-affairs,2020-05-13",
+  "question": "What is 'Covid Kavach Elisa', that was seen in news recently?",
+  "option1": "Personal Protective Equipment (PPE)",
+  "option2": "Mask",
+  "option3": "Testing Kit",
+  "option4": "Disinfectant",
+  "option5": "",
+  "answer": "Testing Kit",
+  "explanation": "Pune-based National Institute of Virology under the Indian Council of Medical Research has successfully developed the first indigenous antibody detection kit for Covid-19 named 'Covid Kavach Elisa'. \r\nTechnically, it is an anti-SARS-CoV-2 human IgG ELISA (enzyme-linked immunosorbent assay) test kit for detecting coronavirus. As per the Union Health Ministry, the kit can test up to 90 samples together in 2.5 hours. This is expected to ramp up the testing speed in the country."
+}

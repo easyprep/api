@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-06T01:23:53.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "3dee2afd-84c5-4bd1-b234-7dd917db8d98",
+  "labels": "current-affairs,2020-05-07",
+  "question": "Which books was/were authored by Bal Gangadhar Tilak?<br />1. Karmayog Shashtra<br />2. The Orion<br />3. The Arctic Home in the Vedas<br />Choose the correct option from the codes given below :",
+  "option1": "1 only",
+  "option2": "1 & 2",
+  "option3": "1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The name of the book authored by Tilak- Karmayog Shashtra (Also known as Gita Rahasya or Shrimadh Bhagvad Gita Rahasya. Published in 1915), The Orion (A book of sociology based on astronomy. Published in 1893), The Arctic Home in the Vedas (A book on the context of the origin of Aryanic People. Published in 1903)."
+}

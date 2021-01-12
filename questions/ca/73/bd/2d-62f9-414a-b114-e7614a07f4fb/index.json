@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-09T10:49:03.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "ca73bd2d-62f9-414a-b114-e7614a07f4fb",
+  "labels": "current-affairs,2020-05-10",
+  "question": "Where is the principal bench of the National Green Tribunal?",
+  "option1": "Mumbai",
+  "option2": "New Delhi",
+  "option3": "Hyderabad",
+  "option4": "Lucknow",
+  "option5": "",
+  "answer": "New Delhi",
+  "explanation": "The principal bench of the National Green Tribunal is in New Delhi. NGT also has regional benches in Pune, Bhopal, Chennai and Kolkata. Each bench has a specified geographical jurisdiction in a region."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-15T04:23:44.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "d1ef69be-ca86-4be2-a56d-e154bbb66927",
+  "labels": "current-affairs,2020-05-16",
+  "question": "What is the percentage reduction in the rates of Tax Deduction at Source (TDS) and Tax Collection at Source (TCS), as per the recent economic package?",
+  "option1": 10,
+  "option2": 15,
+  "option3": 25,
+  "option4": 50,
+  "option5": "",
+  "answer": 25,
+  "explanation": "Union Finance Minister Nirmala Sitharaman recently proposed Rs 50,000 crore of liquidity by reducing the TDS and TCS rates for certain payments including interest, dividend, rent payments and other payments by non-individuals.\r\nThe rates of Tax Deduction at Source (TDS) for non-salaried payments made to residents and rates of Tax Collection at Source (TCS) for receipts will be reduced by 25 per cent of the existing rates. This reduction in rates will be effective from 14.05.2020 to 31.03.2021."
+}

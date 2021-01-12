@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-05-05T13:44:29.000Z",
+  "updated_at": "2021-01-06T08:24:54.327Z",
+  "id": "92f0c608-e7bc-4ec2-90e2-429403bee46c",
+  "labels": "current-affairs,2020-05-06",
+  "question": "Who discovered X-rays?",
+  "option1": "Paul Villard",
+  "option2": "Albert Einstein",
+  "option3": "Wilhelm Conrad Roentgen",
+  "option4": "Johann Riter",
+  "option5": "",
+  "answer": "Wilhelm Conrad Roentgen",
+  "explanation": "Roentgen discovered X-rays in 1895. X rays are part of high energy electromagnetic radiation with a wavelength ranging from 10 picometers to 10 nanometers."
+}
