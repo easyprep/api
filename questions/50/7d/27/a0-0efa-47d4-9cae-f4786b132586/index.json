@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "507d27a0-0efa-47d4-9cae-f4786b132586",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following sub-atomic particle accompanies an electron emission in Beta<sup>-</sup>decay?",
+  "option1": "antineutrino",
+  "option2": "neutrino",
+  "option3": "proton",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "antineutrino",
+  "explanation": "The emission of electron in β<sup>−</sup>decay is accompanied by the emission of an antineutrino (ν ) and in β<sup>+</sup> decay, a neutrino (ν) is generated."
+}

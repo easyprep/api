@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e5443747-dc36-44f2-ad79-9f6a919a5b22",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is not a strong electrolyte?",
+  "option1": "HCl",
+  "option2": "KOH",
+  "option3": "H<sub>2</sub>CO<sub>3</sub>",
+  "option4": "NaoH",
+  "option5": "",
+  "answer": "H<sub>2</sub>CO<sub>3</sub>",
+  "explanation": "A solute or substance which completely ionize or dissociates in a solution is called as strong electrolyte. The ions of strong electrolytes are good conductors of electricity in the solution. For example, HCl, HBr, HI, HNO3, NaOH, KOH, etc."
+}

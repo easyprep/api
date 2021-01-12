@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:14:26.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "fe54c90d-b37d-455d-91e6-2e341bc05fa5",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is incorrect?",
+  "option1": "Alloying helps in improving the properties of a metal",
+  "option2": "An alloy is a heterogeneous mixture of two or more metals",
+  "option3": "The melting point of an alloy is less than that of pure metals",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "An alloy is a heterogeneous mixture of two or more metals",
+  "explanation": "An alloy is a homogeneous mixture of two or more metals, or a metal and a nonmetal. Alloying helps in improving the properties of a metal. The melting point of an alloy is less than that of pure metals."
+}

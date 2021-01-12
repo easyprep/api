@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a5607975-cdbb-44e1-960c-efcfe771284f",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What are the by-products of a hydrogen fuel cell?",
+  "option1": "Water, heat and ozone",
+  "option2": "Water and heat",
+  "option3": "Water and ozone",
+  "option4": "Heat, methane and Carbon dioxide",
+  "option5": "",
+  "answer": "Water and heat",
+  "explanation": "The only by-products in a fuel cell by combining hydrogen and oxygen are water and heat. They do not emit greenhouse gases or other air pollutants."
+}

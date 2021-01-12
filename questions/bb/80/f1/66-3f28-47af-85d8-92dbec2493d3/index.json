@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "bb80f166-3f28-47af-85d8-92dbec2493d3",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following factors affect the lattice energy of an ionic compound?",
+  "option1": "Size of the ion",
+  "option2": "Charge of the ion",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Lattice energy of an ionic compound depends on these factors: (i) Size of the ions: Smaller the size, greater will be the lattice energy. (ii) Charge on the ions: Greater the magnitude of charge, greater the interionic attraction and hence higher the lattice energy."
+}

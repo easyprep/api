@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T12:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "64b0db2d-71cd-4ce8-bf2a-ed163c934936",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of these is not a natural polymer?",
+  "option1": "Starch",
+  "option2": "cellulose",
+  "option3": "Proteins",
+  "option4": "Bakelite",
+  "option5": "",
+  "answer": "Bakelite",
+  "explanation": "The polymers obtained from nature (plants and animals) are called natural polymers. Starch, cellulose, natural rubber, proteins, etc. are some examples. Bakelite is an example of synthetic polymer."
+}

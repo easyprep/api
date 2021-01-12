@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "cd935768-c84f-41ec-a6ec-2a6aca44534d",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is the term used to describe the process of forecasting in data?",
+  "option1": "Data integrity",
+  "option2": "Data Mining",
+  "option3": "Data Encryption",
+  "option4": "PERT Chart",
+  "option5": "",
+  "answer": "Data Mining",
+  "explanation": "Data mining is the process of discovering patterns in large data sets. It involves methods at the intersection of machine learning, statistics, and database systems."
+}

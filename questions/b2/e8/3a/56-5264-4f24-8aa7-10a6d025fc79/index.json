@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:54.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b2e83a56-5264-4f24-8aa7-10a6d025fc79",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is the relation between mass and wavelength of any matter, as per de Broglie's relation?",
+  "option1": "Both are directly proportional",
+  "option2": "Both are inversely proportional",
+  "option3": "Both are independent of each other",
+  "option4": "wavelength is twice the square of the mass",
+  "option5": "",
+  "answer": "Both are inversely proportional",
+  "explanation": "According to de Broglie, every object in motion has a wave character. As per de Broglie's relation, mass and wavelength are inversely proportional to each other."
+}

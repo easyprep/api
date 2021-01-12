@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c2376981-d4b5-408c-96f4-b1663dba52b7",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is true regarding the process of Sharding?",
+  "option1": "Sharding is a technique for partitioning data.",
+  "option2": "It is a horizontal partition of data within a database.",
+  "option3": "Both a and b",
+  "option4": "It is a relational database locking method.",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Sharding is a type of database partitioning that separates very large databases the into smaller, faster, more easily managed parts called data shards. The word shard means a small part of a whole."
+}

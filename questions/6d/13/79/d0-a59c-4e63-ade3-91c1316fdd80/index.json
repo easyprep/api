@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6d1379d0-a59c-4e63-ade3-91c1316fdd80",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which of the following is the final step when it has determined that a transaction has been completed successfully?",
+  "option1": "Rollback",
+  "option2": "Commit",
+  "option3": "Transit",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Commit",
+  "explanation": "A commit is the final step in the successful completion of a previously started database change as part of handling a transaction in a computing system."
+}

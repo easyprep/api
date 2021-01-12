@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "281164fb-10e1-4915-b991-99b24b225c76",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What happens to the molar conductivity of a weak electrolyte in case of dilution?",
+  "option1": "No change",
+  "option2": "increases slowly",
+  "option3": "increases steeply",
+  "option4": "decreases slowly",
+  "option5": "",
+  "answer": "increases steeply",
+  "explanation": "In case of weak electrolyte, molar conductivity increases steeply on dilution, especially near lower concentrations. The weak electrolytes have lower degree of dissociation at higher concentrations."
+}

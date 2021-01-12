@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T13:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "250d1c0c-a7ef-4ea4-94a9-25c8ef89798f",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of the following metals is involved in the anodisation process?",
+  "option1": "Aluminium",
+  "option2": "Copper",
+  "option3": "Bismuth",
+  "option4": "Calcium",
+  "option5": "",
+  "answer": "Aluminium",
+  "explanation": "Anodising is a process of forming a thick oxide layer of aluminium. Aluminium develops a thin oxide layer when exposed to air. This layer of aluminium oxide makes aluminium resistant to further corrosion."
+}

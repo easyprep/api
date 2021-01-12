@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d1599fee-4797-4c40-a24d-2965fa8751c3",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is the attribute which can be used to uniquely identify a row of data in a given table?",
+  "option1": "Secondary Key",
+  "option2": "Personal Key",
+  "option3": "Primary Key",
+  "option4": "Foreign Key",
+  "option5": "",
+  "answer": "Secondary Key",
+  "explanation": "A primary key is a single attribute, or combination of attributes, which can be used to uniquely identify a row of data in a given table. Common primary keys include vendor ID, user ID, email address, or combination of attributes considered together such as first name, last name, and city of residence, all considered together as a single entity."
+}

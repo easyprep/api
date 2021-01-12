@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "02f36f82-7292-4abd-90e6-d7ae32c1bbad",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the reason for the increase in the electronegativity across a period from left to right?",
+  "option1": "attraction between the valence electrons and the nucleus increases",
+  "option2": "attraction between the valence electrons and the nucleus decreases",
+  "option3": "increase in the atomic weight",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "attraction between the valence electrons and the nucleus increases",
+  "explanation": "The attraction between the outer (or valence) electrons and the nucleus increases as the atomic radius decreases in a period. The electronegativity also increases."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:51:08.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "13372c2d-0719-491f-91ee-fdda5b7ccf17",
+  "labels": "current-affairs,2019-02-09",
+  "question": "Which of the following Microsoft applications is used to create a budget?",
+  "option1": "Microsoft Excel",
+  "option2": "Microsoft Access",
+  "option3": "Microsoft PowerPoint",
+  "option4": "Microsoft Word",
+  "option5": "",
+  "answer": "Microsoft Excel",
+  "explanation": "Microsoft Excel is a spreadsheet developed by Microsoft. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T12:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "02c82195-1010-4e74-a31b-aed81c357d3c",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of these polymers is used for controlled drug release in the body?",
+  "option1": "PLA",
+  "option2": "PHBV",
+  "option3": "PGA",
+  "option4": "PCL",
+  "option5": "",
+  "answer": "PHBV",
+  "explanation": "PHBV is a copolymer of 3 – hydroxy butanoic acid, and (3 – hydroxypentanoic acid). It is used in controlled drug release in the body as the drug put in PHBV capsule is released after this polymer is degraded by enzymatic action."
+}

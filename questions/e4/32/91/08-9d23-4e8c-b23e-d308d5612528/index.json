@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e4329108-9d23-4e8c-b23e-d308d5612528",
+  "labels": "current-affairs,2019-02-09",
+  "question": "What does the term SQALE stands for?",
+  "option1": "Software Questionable Assessment Lifecycle",
+  "option2": "Software Quality Assessment based on Lifecycle Expectations",
+  "option3": "Software Questions and Large Scale Enquiry",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Software Quality Assessment based on Lifecycle Expectations",
+  "explanation": "SQALE stands for Software Quality Assessment based on Lifecycle Expectations. It is a method to support the evaluation of a software application source code. It is a generic method, independent of the language and source code analysis tools."
+}

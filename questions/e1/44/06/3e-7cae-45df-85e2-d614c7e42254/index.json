@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e144063e-7cae-45df-85e2-d614c7e42254",
+  "labels": "current-affairs,2019-02-18",
+  "question": "<p>Which of the following is / are correct statements about unsaturated carbon compounds?\r\n<ol>\r\n<li>They have either double or triple bonds between the carbon atoms</li>\r\n<li>They are more reactive than the saturated carbon compounds</li>\r\n</ol>\r\n<p>Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The compounds of carbon having double or triple bonds between the carbon atoms are known as unsaturated carbon compounds. They are known to be more reactive than the saturated carbon compounds."
+}

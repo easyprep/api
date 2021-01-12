@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "bfc6fa7e-a7dc-4425-b5c3-ce82f3d21f27",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following are found in abundance in a relational database?",
+  "option1": "Keys",
+  "option2": "Tables",
+  "option3": "Records",
+  "option4": "Sets",
+  "option5": "",
+  "answer": "Tables",
+  "explanation": "In Relational model, data is stored in tables and is represented in form of tuples. RDBMS is used to manage Relational database. Relational database is a collection of organized set of tables related to each other, and from which data can be accessed easily."
+}

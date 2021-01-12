@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "091331fc-b3b1-4df9-b78f-5cab06c9d88b",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of these catalyst is generally used in the hydrogenation of vegetable oils?",
+  "option1": "Copper",
+  "option2": "Iron",
+  "option3": "Nickel",
+  "option4": "Manganese",
+  "option5": "",
+  "answer": "Nickel",
+  "explanation": "Unsaturated hydrocarbons add hydrogen in the presence of catalysts such as palladium or nickel to give saturated hydrocarbons. This is called as Addition reaction and is commonly used in the hydrogenation of vegetable oils using a nickel catalyst."
+}

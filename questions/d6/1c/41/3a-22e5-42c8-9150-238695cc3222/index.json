@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:17:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d61c413a-22e5-42c8-9150-238695cc3222",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is correct about electrolytic refining?",
+  "option1": "Strip of pure metal is used as anode",
+  "option2": "Strip of pure metal is used as cathode",
+  "option3": "Copper cannot be refined using an electrolytic method",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Strip of pure metal is used as cathode",
+  "explanation": "In electrolytic refining, the impure metal is made to act as anode. A strip of the same metal in pure form is used as cathode. Copper is generally refined using an electrolytic method."
+}

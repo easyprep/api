@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "cf2b1d10-6672-41c2-a3fd-1daf497c7ab6",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the relationship between half-life period and initial concentration of the reacting species for a first order reaction?",
+  "option1": "Both are directly proportional to each other",
+  "option2": "Both are inversely proportional to each other",
+  "option3": "Both are independent of each other",
+  "option4": "The half life is twice the concentration of reacting species",
+  "option5": "",
+  "answer": "Both are independent of each other",
+  "explanation": "For a first order reaction, half-life period is constant, i.e., it is independent of initial concentration of the reacting species. for a zero order reaction, it is directly proportional to the initial concentration of the reactants and inversely proportional to the rate constant. ."
+}

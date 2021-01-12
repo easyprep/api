@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "03bfcaa5-7bde-4741-9818-6d0a582ff874",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which of the following networking devices forwards data packets between computer networks?",
+  "option1": "Router",
+  "option2": "Gateway",
+  "option3": "Switch",
+  "option4": "Hub",
+  "option5": "",
+  "answer": "Router",
+  "explanation": "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet."
+}

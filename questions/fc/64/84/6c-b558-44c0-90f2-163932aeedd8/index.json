@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "fc64846c-b558-44c0-90f2-163932aeedd8",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the bond length in C=C bond?",
+  "option1": "156 pm",
+  "option2": "148 pm",
+  "option3": "134 pm",
+  "option4": "172 pm",
+  "option5": "",
+  "answer": "134 pm",
+  "explanation": "The double bond is shorter in bond length (134 pm) than the C–C single bond (154 pm). Alkenes are unsaturated hydrocarbons containing at least one double bond."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "adf77a5c-325c-435a-bf49-19b901f357ea",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What can we call the carbon atom present in Methane?",
+  "option1": "primary carbon atom",
+  "option2": "secondary carbon atom",
+  "option3": "tertiary carbon atom",
+  "option4": "quaternary carbon atom",
+  "option5": "",
+  "answer": "primary carbon atom",
+  "explanation": "Carbon atom attached to no other carbon atom as in methane or to only one carbon atom as in ethane is called primary carbon atom."
+}

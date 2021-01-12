@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "eb20c390-8c3a-4d4d-86ba-762e414732f2",
+  "labels": "current-affairs,2019-02-09",
+  "question": "Which of the following terms is used for a software that is built from an existing program?",
+  "option1": "Brownfield",
+  "option2": "Greenfield",
+  "option3": "Pre-existing",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Brownfield",
+  "explanation": "Brownfield software development is software that is built from an existing program. It may be contrasted with \"Greenfield\" development, which involves creating a software program from scratch."
+}

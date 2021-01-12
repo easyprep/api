@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-16T22:56:04.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "824a9620-8f3f-4e41-8e46-e2f7468b1953",
+  "labels": "current-affairs,2019-02-17",
+  "question": "The researchers of which country has developed the first ant-like walking robot without GPS?",
+  "option1": "France",
+  "option2": "Germany",
+  "option3": "England",
+  "option4": "Japan",
+  "option5": "",
+  "answer": "France",
+  "explanation": "The researchers from the French National Center for Scientific Research (CNRS) have developed the first ant-like walking robot ‘AntBot’ that can explore its environment and find its way home without Global Positioning System (GPS). The scientists took inspiration from desert ants, which are extraordinary solitary navigators, to design the AntBot. Ants use polarised light and ultraviolet radiation to locate themselves in space. Cataglyphis desert ants in particular can cover several hundreds of metres in direct sunlight in the desert to find food, then return in a straight line to the nest, without getting lost. AntBot copies the desert ants’ exceptional navigation capacities, allowing it to explore without using GPS. The six-legged robot has an optical compass that uses polarised light to determine its direction, and an optical movement sensor directed to the sun to measure covered distance."
+}

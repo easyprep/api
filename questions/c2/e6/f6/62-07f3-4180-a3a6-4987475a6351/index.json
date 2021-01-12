@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:47.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c2e6f662-07f3-4180-a3a6-4987475a6351",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Indentify an island in Asia Pacific on the basis of given information: <ol> <li>It is world's most populous island and also one of the densely populated islands of the world</li> <li>It was once upon a time famous for Barley Crops and in late medieval era served as a Dutch Colony</li> <li>It is home to famous volcanoes such as Mount Semeru and Mount Merapi.</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Sumatra",
+  "option2": "Java",
+  "option3": "Kalimantan",
+  "option4": "Maluku",
+  "option5": "",
+  "answer": "Java",
+  "explanation": "Java is an island of Indonesia, which with a population of 136 million, is the world's most populous island, and one of the most densely populated regions in the world. It is home to 60% of Indonesia's population. The Indonesian capital city, Jakarta, is in west Java. Area wise, Java is the 13th largest island in the world and the fifth largest island in Indonesia."
+}

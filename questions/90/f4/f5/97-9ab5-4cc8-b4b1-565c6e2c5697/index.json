@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "90f4f597-9ab5-4cc8-b4b1-565c6e2c5697",
+  "labels": "current-affairs,2019-02-21",
+  "question": "What is the name given to the device that converts between two different types of transmission for interoperation?",
+  "option1": "Bridge Router",
+  "option2": "Protocol Convertor",
+  "option3": "Multilayer Switch",
+  "option4": "Hub Jointer",
+  "option5": "",
+  "answer": "Protocol Convertor",
+  "explanation": "A Protocol Converter is a device used to convert standard or proprietary protocol of one device to the protocol suitable for the other device or tools to achieve the interoperability."
+}

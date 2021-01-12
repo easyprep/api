@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "47e1d336-84b0-418b-81b6-bda063aadb82",
+  "labels": "current-affairs,2019-02-08",
+  "question": "An assembler is a program that converts assembly language into machine code. Which of the following is not a type of assembler ?",
+  "option1": "One pass",
+  "option2": "Two pass",
+  "option3": "Load and Go",
+  "option4": "Three pass",
+  "option5": "",
+  "answer": "Three pass",
+  "explanation": "An assembler is a program that translates assembly language into machine language. There are many types of assemblers .Some of them are one pass assembler, two pass assemble, laod and go assembler etc."
+}

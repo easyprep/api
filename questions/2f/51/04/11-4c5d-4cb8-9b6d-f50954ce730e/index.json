@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2f510411-4c5d-4cb8-9b6d-f50954ce730e",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following graphs tell us the correct and appropriate way to determine the deadlock situation occurrence?",
+  "option1": "Starvation Graph",
+  "option2": "Resource Allocation Graph",
+  "option3": "Inversion Graph",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Resource Allocation Graph",
+  "explanation": "A resource allocation graph tracks which resource is held by which process and which process is waiting for a resource of a particular type. It is very powerful and simple tool to illustrate how interacting processes can deadlock."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "3409ce11-b69d-480d-83f9-5b7f587652f3",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is correct about effective nuclear charge experienced by the orbital?",
+  "option1": "it increases with increase of azimuthal quantum number",
+  "option2": "it increases with increase of magnetic quantum number",
+  "option3": "it decreases with increase of azimuthal quantum number",
+  "option4": "It is same everywhere",
+  "option5": "",
+  "answer": "it decreases with increase of azimuthal quantum number",
+  "explanation": "Because of the screening effect, the net positive charge experienced by the electron from the nucleus is lowered and is known as effective nuclear charge. Effective nuclear charge experienced by the orbital decreases with increase of azimuthal quantum number(l)."
+}

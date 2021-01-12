@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c79c0b78-c7d4-418a-9349-75a28a764056",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following molecules have a T-shape arrangement?",
+  "option1": "Ozone",
+  "option2": "Water",
+  "option3": "Chlorine Trifluoride",
+  "option4": "Sulphur dioxide",
+  "option5": "",
+  "answer": "Chlorine Trifluoride",
+  "explanation": "Chlorine trifluoride has 10 electrons around the central chlorine atom. There are five electron pairs arranged in a trigonal bipyramidal shape and two equatorial lone pairs making the final structure T-shaped."
+}

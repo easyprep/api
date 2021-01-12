@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "02184c23-f9f4-4614-bcd0-d9c450ec6dfe",
+  "labels": "current-affairs,2019-02-09",
+  "question": "What is a Headless Software?",
+  "option1": "It is a software used without license.",
+  "option2": "It is an open source software.",
+  "option3": "It is a software working on a device without GUI.",
+  "option4": "Both b and c",
+  "option5": "",
+  "answer": "It is a software working on a device without GUI.",
+  "explanation": "Headless software is a software capable of working on a device without a graphical user interface. Such software receives inputs and provides output through other interfaces like network or serial port."
+}

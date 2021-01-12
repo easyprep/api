@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "385cb92d-27f2-4594-acf6-845a46586edd",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What do we call the device which uses electrical energy to carry non-spontaneous chemical reactions?",
+  "option1": "Voltaic cell",
+  "option2": "Galvanic cell",
+  "option3": "Daniel cell",
+  "option4": "Electrolytic cell",
+  "option5": "",
+  "answer": "Electrolytic cell",
+  "explanation": "An electrolytic cell is an electrochemical cell which uses electrical energy to drive a non-spontaneous redox reaction."
+}

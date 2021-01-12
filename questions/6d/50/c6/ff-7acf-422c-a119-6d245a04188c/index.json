@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6d50c6ff-7acf-422c-a119-6d245a04188c",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Who among the following developed the LISP programming language family?",
+  "option1": "Ken Thompson",
+  "option2": "Donald Knuth",
+  "option3": "John McCarthy",
+  "option4": "Von Belt",
+  "option5": "",
+  "answer": "John McCarthy",
+  "explanation": "John McCarthy was an American computer scientist. McCarthy was one of the founders of the discipline of artificial intelligence. He coined the term \"artificial intelligence\" and developed the LISP programming language family."
+}

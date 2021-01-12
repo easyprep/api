@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "be3e94a3-e7ad-4aff-b203-01770c60c0c0",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is correct about the principal quantum number?",
+  "option1": "It determines the size of the orbital",
+  "option2": "It can have positive integer values",
+  "option3": "It identifies the shell",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Principal quantum number determines the size and to a large extent the energy of the orbital. It can have positive integer values of 1, 2, 3 and so on. It also identifies the shell."
+}

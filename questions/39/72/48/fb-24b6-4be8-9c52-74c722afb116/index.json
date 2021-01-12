@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:17:49.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "397248fb-24b6-4be8-9c52-74c722afb116",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following methods is most suitable for ore concentration if the ore is soluble in some suitable solvent?",
+  "option1": "Hydraulic Washing",
+  "option2": "Magnetic Separation",
+  "option3": "Froath floatation",
+  "option4": "Leaching",
+  "option5": "",
+  "answer": "Leaching",
+  "explanation": "Leaching is used for ore concentration if the ore is soluble in some suitable solvent. For example: Leaching of alumina from bauxite using conc. NaOH."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "49da66c2-eea7-4017-9c08-ffa1e2d10ffd",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following acts as anode in a mercury cell?",
+  "option1": "paste of HgO and carbon",
+  "option2": "zinc – mercury amalgam",
+  "option3": "Copper and iron rod",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "zinc – mercury amalgam",
+  "explanation": "Mercury cell consists of zinc – mercury amalgam as anode and a paste of HgO and carbon as the cathode. The electrolyte is a paste of KOH and ZnO. It is suitable for low current devices like hearing aids, watches, etc."
+}

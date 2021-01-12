@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c9e12a7b-ac3a-40fe-aae6-72d7c0a29591",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which of the following are the advantages of using a DBMS?",
+  "option1": "Data security",
+  "option2": "Data abstraction",
+  "option3": "Data integrity",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Data abstraction and independence A DBMS provides following advantages: Data security A locking mechanism for concurrent access An efficient handler to balance the needs of multiple applications using the same data The ability to swiftly recover from crashes and errors, including restart ability and recoverability Robust data integrity capabilities Logging and auditing of activity."
+}

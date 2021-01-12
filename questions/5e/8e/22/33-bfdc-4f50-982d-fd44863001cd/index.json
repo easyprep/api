@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "5e8e2233-bfdc-4f50-982d-fd44863001cd",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Choose the correct statement about the modern periodic table:",
+  "option1": "Elements in any one group contain the same number of valence electrons",
+  "option2": "Elements in any one period contain the same number of shells",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Elements present in any one group of the modern periodic table have the same number of valence electrons. Elements in any one period contain the same number of shells."
+}

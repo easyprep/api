@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "3ac43fc7-35c6-4c1c-8610-de9f1b5742d9",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Who is the father of Open Source Software?",
+  "option1": "Richard Stallman",
+  "option2": "Noumen",
+  "option3": "Ven Alley",
+  "option4": "Bill Gates",
+  "option5": "",
+  "answer": "Richard Stallman",
+  "explanation": "In 1983, Richard Stallman launched the GNU Project to write a complete operating system free from constraints on use of its source code."
+}

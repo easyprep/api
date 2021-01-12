@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ffe1ccb9-51ea-48b9-982d-b8f945230d7a",
+  "labels": "current-affairs,2019-02-08",
+  "question": "With respect to computers, which of the following translates commands from the operating system or user into commands understood by the component computer part it interfaces with?",
+  "option1": "Memory",
+  "option2": "Drivers",
+  "option3": "Disks",
+  "option4": "Cache",
+  "option5": "",
+  "answer": "Drivers",
+  "explanation": "Driver translates the commands from the operating system or user into commands understood by the component computer part it interfaces with. It also translates responses from the component computer part back to responses that can J;;le understood by the operate- . ing system, applicationpr.9gram, or user."
+}

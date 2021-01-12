@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "89a4a1dd-98a1-4a74-b9fa-62619cc9b6d8",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the general trend for first ionisation enthalpy in a group of the periodic table as we move from top to bottom?",
+  "option1": "It increases",
+  "option2": "it decreases",
+  "option3": "It is constant",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it decreases",
+  "explanation": "The first ionization enthalpy generally increases as we go across a period and decreases as we descend in a group. ionization enthalpy represents the energy required to remove an electron from an isolated gaseous atom (X) in its ground state."
+}

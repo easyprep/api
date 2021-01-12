@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "0c476109-79cd-4010-a13d-fd5f32d733ca",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the octane number of iso-octane?",
+  "option1": 1,
+  "option2": 0,
+  "option3": 100,
+  "option4": 200,
+  "option5": "",
+  "answer": 100,
+  "explanation": "Octane number, also known as octane rating, are based on a scale on which iso-octane is 100, which means minimal knock, and heptane is 0. The higher the octane number, the more compression required for fuel ignition."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "25dbf56b-b886-4d3f-8ff0-fe150b25034c",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following are real time operating system?",
+  "option1": "VxWorks",
+  "option2": "WindowsCE",
+  "option3": "RTLinux",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "A real-time operating system is any operating system intended to serve real-time applications that process data as it comes in. It is an operating system that guarantees a certain capability within a specified time constraint."
+}

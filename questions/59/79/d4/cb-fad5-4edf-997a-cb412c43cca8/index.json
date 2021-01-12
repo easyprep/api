@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "5979d4cb-fad5-4edf-997a-cb412c43cca8",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the effect of increase in concentration on the Molar conductivity?",
+  "option1": "It increases",
+  "option2": "It decreases",
+  "option3": "It remains constant",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It decreases",
+  "explanation": "Molar conductivity increases with decrease in concentration and decreases with increase in concentration. This is because the total volume of solution containing one mole of electrolyte also increases as the concentration decreases."
+}

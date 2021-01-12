@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "8c3dab50-ec48-4639-8004-5a127d375dd5",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the product of the reaction between Ethanol and excess concentrated sulphuric acid at 443K?",
+  "option1": "Ethane",
+  "option2": "Ethene",
+  "option3": "Ethyne",
+  "option4": "Methane",
+  "option5": "",
+  "answer": "Ethene",
+  "explanation": "Reaction of ethanol with excess concentrated sulphuric acid acting as dehydrating agent at 443 K results in the dehydration of Ethanol leading to the formation of Ethene."
+}

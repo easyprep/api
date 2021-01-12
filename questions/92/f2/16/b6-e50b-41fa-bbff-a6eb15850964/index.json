@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "92f216b6-e50b-41fa-bbff-a6eb15850964",
+  "labels": "current-affairs,2019-02-09",
+  "question": "Which of the following is the another term used for Software hosting?",
+  "option1": "Cloud computing",
+  "option2": "On demand service",
+  "option3": "Software as a service or Saas",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Hosted, on-demand, cloud computing, software as a service all mean the same thing. Organizations host their software and data externally with a provider and can access it over the internet from anywhere at any time."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2defaac5-57fb-4fbb-9c9e-25c67d117e40",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following elements has the largest atomic radii?",
+  "option1": "Lithium",
+  "option2": "Beryllium",
+  "option3": "Boron",
+  "option4": "Carbon",
+  "option5": "",
+  "answer": "Lithium",
+  "explanation": "The atomic radius generally decreases across a period. Therefore, Lithium will have the largest atomic radii among the given elements as it is placed before others as we move from left to right in the periodic table."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:17:49.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "49fc77c5-d61f-42ca-906a-e64a2c452136",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of these industrial processes is used for production of aluminium from alumina?",
+  "option1": "Vunyukov process",
+  "option2": "Hall–Heroult process",
+  "option3": "Betts process",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Hall–Heroult process",
+  "explanation": "The Hall–Heroult process is the major industrial process for production of aluminium. It involves dissolving aluminium oxide in molten cryolite and electrolysing the molten salt bath to get pure aluminium."
+}

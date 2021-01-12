@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f81fdf83-4aab-469e-b881-982d8a59f881",
+  "labels": "current-affairs,2019-02-21",
+  "question": "What are the other names for a Network Interface Card?",
+  "option1": "LAN adaptor",
+  "option2": "Network adaptor",
+  "option3": "Network Card",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "A Network Interface Card is circuit board or a card that allows computers to communicate over a network via cables or wirelessly. Every network adaptor is assigned a unique 48-bit Media Access Control address, which is stored in ROM to identify themselves in a network."
+}

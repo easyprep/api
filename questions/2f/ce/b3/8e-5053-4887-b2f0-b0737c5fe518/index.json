@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2fceb38e-5053-4887-b2f0-b0737c5fe518",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which among the following correctly defines a Wide Area Network?",
+  "option1": "A Wide Area Network is quite bigger network than the LAN.",
+  "option2": "The internet is one of the biggest WAN in the world.",
+  "option3": "In a WAN network, messages are transmitted fast.",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "A Wide Area Network is not limited to a single location, but it spans over a large geographical area through a telephone line, fiber optic cable or satellite links."
+}

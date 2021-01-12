@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "1412ed81-b913-4bf5-b925-73555396837c",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What of these is the chemical formula of Rust?",
+  "option1": "Fe<sub>2</sub>O<sub>3</sub>. nH<sub>2</sub>O",
+  "option2": "Fe<sub>2</sub>Cl<sub>3</sub>. nH<sub>2</sub>O",
+  "option3": "FeCO<sub>2</sub>. nH<sub>2</sub>O",
+  "option4": "FeO. nH<sub>2</sub>O",
+  "option5": "",
+  "answer": "Fe<sub>2</sub>O<sub>3</sub>. nH<sub>2</sub>O",
+  "explanation": "Rusting is the corrosion of Iron in which iron (Fe) combines with oxygen to form rust, or iron oxide. Fe<sub>2</sub>O<sub>3</sub>. nH<sub>2</sub>O is usually called as hydrated ferric Oxide."
+}

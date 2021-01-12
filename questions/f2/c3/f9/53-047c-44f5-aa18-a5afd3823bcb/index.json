@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:51:08.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f2c3f953-047c-44f5-aa18-a5afd3823bcb",
+  "labels": "current-affairs,2019-02-09",
+  "question": "An application program that gathers user information and sends it to someone through the Internet is known as?",
+  "option1": "Spyware",
+  "option2": "Virus",
+  "option3": "Logic Bomb",
+  "option4": "Patch",
+  "option5": "",
+  "answer": "Spyware",
+  "explanation": "Spyware is an unwanted software that infiltrates the computing device, stealing internet usage data and sensitive information and sending it to someone across internet."
+}

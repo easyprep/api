@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "dd423544-9d9e-4137-af12-c44bbb2eb722",
+  "labels": "current-affairs,2019-02-16",
+  "question": "What is the name given to the view of database that appears to an application program?",
+  "option1": "Schema",
+  "option2": "Metadata",
+  "option3": "Front end",
+  "option4": "Subschema",
+  "option5": "",
+  "answer": "Subschema",
+  "explanation": "The subschema is the logical description of that section of the database which is relevant and available to an application. A subschema is a subset of the schema and inherits the same property that a schema has."
+}

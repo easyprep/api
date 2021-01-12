@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9a9e053a-de36-46f9-8129-fd71879c8ce7",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following languages was first conceived by Alain Colmerauer?",
+  "option1": "Prolog",
+  "option2": "FORTRAN",
+  "option3": "Java",
+  "option4": "COBOL",
+  "option5": "",
+  "answer": "Prolog",
+  "explanation": "The most characteristic features of the programming language Prolog are its built-in support for unification and backtracking. It was developed by Alain Colmerauer."
+}

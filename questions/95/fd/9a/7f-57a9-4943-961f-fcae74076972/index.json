@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "95fd9a7f-57a9-4943-961f-fcae74076972",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following factors affect the electronic conductance of an electrolytic solution?",
+  "option1": "the nature of the electrolyte added",
+  "option2": "size of the ions produced and their solvation",
+  "option3": "the nature of the solvent and its viscosity",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The conductance of electricity by ions present in the solutions is called electrolytic or ionic conductance. The conductivity of electrolytic (ionic) solutions depends on: (i) the nature of the electrolyte added (ii) size of the ions produced and their solvation (iii) the nature of the solvent and its viscosity (iv) concentration of the electrolyte (v) temperature (it increases with the increase of temperature)."
+}

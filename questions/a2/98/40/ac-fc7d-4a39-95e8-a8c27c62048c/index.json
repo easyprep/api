@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a29840ac-fc7d-4a39-95e8-a8c27c62048c",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following statements related to principal quantum number (n) is not correct?",
+  "option1": "Energy of the orbital increases with increase of n",
+  "option2": "Size of an orbital increases with increase of n",
+  "option3": "The shell M is represented by principal quantum number 2",
+  "option4": "Total number of allowed orbitals in Shell K is 1",
+  "option5": "",
+  "answer": "The shell M is represented by principal quantum number 2",
+  "explanation": "Statement 3 is incorrect. The shell M is represented by principal quantum number 3. Size of an orbital increases with increase of principal quantum number ‘n’. The energy of the orbital also increases with increase of n. Total number of allowed orbitals in Shell K is 1."
+}

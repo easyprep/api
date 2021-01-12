@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f79d3903-21c0-4753-aeb1-23a5a5b879bb",
+  "labels": "current-affairs,2019-02-16",
+  "question": "What is the name given to the skilled and trained professional who directs all activities related to an organization’s database?",
+  "option1": "System Administrator",
+  "option2": "System Manager",
+  "option3": "Database administrator",
+  "option4": "Database Manager",
+  "option5": "",
+  "answer": "Database administrator",
+  "explanation": "A database administrator is a specialized computer systems administrator who maintains a successful database environment by directing or performing all related activities to keep the data secure."
+}

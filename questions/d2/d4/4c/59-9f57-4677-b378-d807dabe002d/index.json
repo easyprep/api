@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d2d44c59-9f57-4677-b378-d807dabe002d",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Consider the following statements: <ol> <li>An electron and Positron have the same charge (in opposite signs) and same mass</li> <li>When a positron comes to rest in matter, it is quickly annihilated by an Electron and a gamma photon is produced.</li> </ol>  Which among the above statements is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "The second statement has a little tweaked info. When a positron comes to rest in matter, it is quickly annihilated by an Electron and two gamma photons are produced."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "0c71c2d4-01d9-4d25-9fde-5480f0d0181b",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following is one among the time-sharing programming languages?",
+  "option1": "JOSS",
+  "option2": "COBOL",
+  "option3": "HTML",
+  "option4": "BASIC",
+  "option5": "",
+  "answer": "JOSS",
+  "explanation": "JOSS stands for JOHNNIAC Open Shop System. It was one of the very first interactive, time-sharing programming languages. JOSS was developed by J. Clifford Shaw."
+}

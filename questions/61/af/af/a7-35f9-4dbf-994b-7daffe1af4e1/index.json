@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "61afafa7-35f9-4dbf-994b-7daffe1af4e1",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the bond order in O<sub>2</sub> molecule?",
+  "option1": 1,
+  "option2": 2,
+  "option3": 3,
+  "option4": 4,
+  "option5": "",
+  "answer": 2,
+  "explanation": "The Bond Order is given by the number of bonds between the two atoms in a molecule. The bond order O<sub>2</sub> molecule is 2 as they share two electrons."
+}

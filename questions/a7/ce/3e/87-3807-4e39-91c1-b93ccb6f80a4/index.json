@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a7ce3e87-3807-4e39-91c1-b93ccb6f80a4",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following are examples of Access network?",
+  "option1": "ADSL",
+  "option2": "ISP",
+  "option3": "Mobile Network",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "An access network is a type of network which physically connects an end system to the immediate router on a path from the end system to any other distant end system. Examples of access networks are ISP, home networks, enterprise networks, ADSL, mobile network, FTTH etc."
+}

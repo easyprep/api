@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "99bcdc90-b980-4985-baff-b555ad80dd7d",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which of the following is used as an application programming interface with RDBMS?",
+  "option1": "VB",
+  "option2": "COBOL",
+  "option3": "SQL",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "SQL",
+  "explanation": "With relational DBMSs known as RDBMSs, the Application programming interface is SQL.SQL a standard programming language for defining, protecting and accessing data in a RDBMS."
+}

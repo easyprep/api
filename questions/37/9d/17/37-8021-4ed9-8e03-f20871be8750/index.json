@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-05T12:08:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "379d1737-8021-4ed9-8e03-f20871be8750",
+  "labels": "current-affairs,2019-02-06",
+  "question": "How is Aqua regia formed?",
+  "option1": "by mixing 2 parts of concentrated HCl and one part of concentrated HNO<sub>3</sub>",
+  "option2": "by mixing 3 parts of concentrated HCl and one part of concentrated HNO<sub>3</sub>",
+  "option3": "by mixing 1 part of concentrated HCl and three parts of concentrated HNO<sub>3</sub>",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "by mixing 3 parts of concentrated HCl and one part of concentrated HNO<sub>3</sub>",
+  "explanation": "When three parts of concentrated HCl and one part of concentrated HNO<sub>3</sub> are mixed, aqua regia is formed which is used for dissolving noble metals, e.g., gold, platinum."
+}

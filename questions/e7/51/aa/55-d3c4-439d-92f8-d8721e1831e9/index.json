@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e751aa55-d3c4-439d-92f8-d8721e1831e9",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following has the shell as an exclusive feature?",
+  "option1": "DOS",
+  "option2": "UNIX",
+  "option3": "System Software",
+  "option4": "Linux",
+  "option5": "",
+  "answer": "UNIX",
+  "explanation": "Unix is a family of multitasking, multiuser computer operating systems. The main features of UNIX include multitasking and portability capabilities."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "17996be5-1b66-4ffb-9520-89ef615ff333",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which among the following are the database languages?",
+  "option1": "Data Definition Language",
+  "option2": "Data Manipulation Language",
+  "option3": "Data Control Language",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "There are many types of Database Languages. A few among them are - Data Definition Language. DDL stands for Data Definition Language, Data Manipulation Language, Data Control Language etc."
+}

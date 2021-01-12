@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a73f8b61-4e6a-442b-ac2c-83822c16e9b4",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Who among the following is known as the father of the DBMS?",
+  "option1": "Van Neumann",
+  "option2": "E.F.Codd",
+  "option3": "Steve Jobs",
+  "option4": "Bill Gates",
+  "option5": "",
+  "answer": "E.F.Codd",
+  "explanation": "Dr E.F.Codd is also known to the world as the 'Father of Database Management Systems'. He had propounded 12 rules which are in-fact 13 in number. The rules are numbered from zero to twelve. According to him, a DBMS is fully relational if it abides by all his twelve rules."
+}

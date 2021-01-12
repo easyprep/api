@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:17:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e023951c-2a0b-4850-a01e-f200083b5d7e",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following refining methods works on the principle of adsorbtion?",
+  "option1": "Zone refining",
+  "option2": "Vapour Phase refining",
+  "option3": "Chromatographic methods",
+  "option4": "Liquation",
+  "option5": "",
+  "answer": "Chromatographic methods",
+  "explanation": "Chromatographic methods are based on the principle that different components of a mixture are differently adsorbed on an adsorbent. There are several chromatographic techniques used for refining such as paper chromatography, column chromatography, gas chromatography, etc"
+}

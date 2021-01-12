@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c0b3c61d-e02a-467b-ac56-fee24c3c3d51",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of these laws state that limiting molar conductivity of an electrolyte can be represented as the sum of the individual contributions of the anion and cation of the electrolyte?",
+  "option1": "Nernst Equation",
+  "option2": "Kohlrausch law",
+  "option3": "Afbau Principle",
+  "option4": "Faraday's law of electrolyte",
+  "option5": "",
+  "answer": "Kohlrausch law",
+  "explanation": "Kohlrausch law of independent migration of ions states that limiting molar conductivity of an electrolyte can be represented as the sum of the individual contributions of the anion and cation of the electrolyte."
+}

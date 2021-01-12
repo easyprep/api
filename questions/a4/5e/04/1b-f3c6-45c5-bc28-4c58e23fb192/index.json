@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a45e041b-f3c6-45c5-bc28-4c58e23fb192",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following acids is used in  the Lead storage battery?",
+  "option1": "Hydrochloric Acid",
+  "option2": "Sulphuric Acid",
+  "option3": "Nitric Acid",
+  "option4": "Phosphoric  Acid",
+  "option5": "",
+  "answer": "Sulphuric Acid",
+  "explanation": "Lead storage battery is an example of secondary battery. It consists of a lead anode and a grid of lead packed with lead dioxide (PbO2 ) as cathode. A 38% solution of sulphuric acid is used as an electrolyte."
+}

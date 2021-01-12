@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "3e9835d3-6e3b-4553-bdf4-51d2cb11f646",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following programming languages was designed for the use in Healthcare Industry?",
+  "option1": "FORTRAN",
+  "option2": "MUMPS",
+  "option3": "COBOL",
+  "option4": "BASIC",
+  "option5": "",
+  "answer": "MUMPS",
+  "explanation": "MUMPS stands for Massachusetts General Hospital Utility Multi-Programming System. It is a general-purpose computer programming language originally designed in 1966 for the healthcare industry."
+}

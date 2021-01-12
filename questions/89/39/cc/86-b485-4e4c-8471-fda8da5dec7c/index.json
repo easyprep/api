@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "8939cc86-b485-4e4c-8471-fda8da5dec7c",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following quantum number determines the number of sub-shells?",
+  "option1": "Electron spin quantum number",
+  "option2": "Principal quantum number",
+  "option3": "Magnetic quantum number",
+  "option4": "Azimuthal quantum number",
+  "option5": "",
+  "answer": "Azimuthal quantum number",
+  "explanation": "Azimuthal quantum number determines the number of subshells or sub levels in a shell. Total number of subshells in a particular shell is equal to the value of Principal quantum number."
+}

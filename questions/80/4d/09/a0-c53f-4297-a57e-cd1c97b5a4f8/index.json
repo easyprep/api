@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "804d09a0-c53f-4297-a57e-cd1c97b5a4f8",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is the total number of allowed orbitals in a shell, if principal quantum number is n?",
+  "option1": "n",
+  "option2": "2n",
+  "option3": "n<sup>2</sup>",
+  "option4": "n<sup>3</sup>",
+  "option5": "",
+  "answer": "n<sup>2</sup>",
+  "explanation": "The principal quantum number also helps in identifying the shell. As the value of ‘n’ increases, the number of allowed orbital increases and are given by n<sup>2</sup>."
+}

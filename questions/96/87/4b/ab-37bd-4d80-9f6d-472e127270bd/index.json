@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:47.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "96874bab-37bd-4d80-9f6d-472e127270bd",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following statements about the global energy production by Nuclear Fission and Nuclear Fusion is / are correct? <ol> <li>In almost all nuclear plants in world, nuclear fission is being used for producing energy</li> <li>The Nuclear fission produces Nuclear fusion bye products and Nuclear Fusion produces Nuclear Fission bye products</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Neither 1 nor 2 is correct",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "There are potentially two sources of nuclear power. Fission is used in all current nuclear power plants. Fusion is the reaction that exists in stars, including the sun, which remains impractical for use on earth with current technology, as fusion reactors are not currently economical. Conventional fission power is sometimes referred to as sustainable, but this is controversial politically due to concerns about peak uranium, radioactive waste disposal, and the risks of a severe accident. Fission nuclear power has the potential to significantly expand its sustainability from a fuel and waste perspective, such as by the use of breeder reactors; however, significant challenges exist in expanding the role of nuclear power in such a manner. One significant difference between fusion and fission can be radioactive waste. This is due to their respective byproducts. Fission produces highly radioactive fission products as well as neutrons that can activate structural materials. Fusion does not produce fission products, and aneutronic fusion, such as 3He-D fusion or boron-proton fusion, does not produce neutrons or the associated neutron-activated structural materials. However, this type of fusion is physically more difficult to achieve."
+}

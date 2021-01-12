@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "1ebf2ecf-3d33-45c1-a91d-4ac900e20267",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which of the following are being managed by a database management systems",
+  "option1": "Data",
+  "option2": "Database Engine",
+  "option3": "Database Schema",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "The DBMS manages three important things: the data, the database engine and the database schema. The database schema defines the database’s logical structure."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "3741debb-23a0-48a5-ac07-7ed4c63abf57",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What percent of Carbon is present in the earth's crust?",
+  "option1": 0.1,
+  "option2": 0.76,
+  "option3": 0.0018,
+  "option4": 0.382,
+  "option5": "",
+  "answer": 0.0018,
+  "explanation": "Carbon is the 15th most abundant element in the earth's crust with a percentage of 0.18%. Oxygen is the most abundant element at 46%, followed by silicon at 27% and aluminum at 8.1."
+}

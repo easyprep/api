@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c5b18c3a-84cb-4190-98ab-f8c72217cf96",
+  "labels": "current-affairs,2019-02-19",
+  "question": "System Area Network is used to provide high-speed connection in which of the following environments?",
+  "option1": "Server-to-server application",
+  "option2": "Storage Area Network",
+  "option3": "Processor-to-Processor application",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "System Area Network is used to explain a relatively local network that is designed to provide high-speed connection in server-to-server applications, storage area network and processor-to-processor applications. The computers connected on a SAN operate as a single system at very high speeds."
+}

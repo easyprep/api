@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c7d70a7c-edbf-4dab-8015-fb2e1877fce6",
+  "labels": "current-affairs,2019-02-16",
+  "question": "What is the full form of IMDBMS?",
+  "option1": "In-Memory database management system",
+  "option2": "In-Module database management system",
+  "option3": "Indian Memory database management system",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "In-Memory database management system",
+  "explanation": "IMDBMS stands for In-memory database management system. It provides faster response times and better performance. It is a database management system that predominantly relies on main memory for data storage, management and manipulation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "556d9e02-5fe9-4005-a4b7-06fd0978237c",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following chemical is produced when Ethene reacts with cold aqueous solution of Bayer's reagent?",
+  "option1": "Methanol",
+  "option2": "Glycol",
+  "option3": "Methanal",
+  "option4": "Ethyne",
+  "option5": "",
+  "answer": "Glycol",
+  "explanation": "Alkenes on reaction with cold, dilute, aqueous solution of potassium permanganate (Baeyer’s reagent) produce vicinal glycols."
+}

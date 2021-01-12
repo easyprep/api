@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9fea8fb6-440c-40a0-99f4-5b23cbacf020",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What amount of carbon dioxide is present in earth's atmosphere?",
+  "option1": 0.12,
+  "option2": 0.01,
+  "option3": 0.0004,
+  "option4": 0.038,
+  "option5": "",
+  "answer": 0.0004,
+  "explanation": "Earth's atmosphere contains 78.09% nitrogen, 20.95% oxygen, 0.93% argon, 0.04% carbon dioxide, and small amounts of other gases."
+}

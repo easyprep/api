@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2e842ee4-ed63-41c1-9238-c18cce9d0395",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is an example of secondary battery?",
+  "option1": "Mercury cell",
+  "option2": "Nickel-cadmium cell",
+  "option3": "Dry cell",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Nickel-cadmium cell",
+  "explanation": "Nickel-cadmium cell is an example of secondary battery. It has longer life than the lead storage cell but more expensive to manufacture."
+}

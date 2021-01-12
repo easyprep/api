@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:09:12.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "66eb3f62-dce5-4d86-8535-eca72f2ab515",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Choose the incorrect acid-source pair?",
+  "option1": "Citric acid - Lemon",
+  "option2": "Lactic acid - Sour milk",
+  "option3": "Oxalic acid - Ant sting",
+  "option4": "Methanoic acid - Nettle sting",
+  "option5": "",
+  "answer": "Oxalic acid - Ant sting",
+  "explanation": "An ant sting contains Methanoic acid. The sting leaves an acid which causes irritation. Use of a mild base like baking soda on the stung area gives relief."
+}

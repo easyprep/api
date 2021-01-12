@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "be987f67-41be-4e6b-b726-98f137b367cd",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Which of the following programs remains in the memory while other programs are executing?",
+  "option1": "Non Resident Program",
+  "option2": "Resident Program",
+  "option3": "Permanent Program",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Resident Program",
+  "explanation": "A resident program is a computer program that uses a system call in DOS operating systems to return control of the computer to the operating system."
+}

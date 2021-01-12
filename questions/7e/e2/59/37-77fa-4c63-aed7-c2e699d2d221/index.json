@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "7ee25937-77fa-4c63-aed7-c2e699d2d221",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following molecules have an electrovalent bonding?",
+  "option1": "NaCl",
+  "option2": "MgO",
+  "option3": "NH<sub>3</sub>",
+  "option4": "Both a and b",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Both NaCl and MgO are an electrovalent compound formed by the complete transfer of electrons from one atom to another. NH<sub>3</sub> is a covalent compound."
+}

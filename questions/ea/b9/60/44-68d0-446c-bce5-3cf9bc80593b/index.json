@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-25T20:02:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "eab96044-68d0-446c-bce5-3cf9bc80593b",
+  "labels": "current-affairs,2019-02-26",
+  "question": "Which crease lies at right angles to the popping crease?",
+  "option1": "Bowling crease",
+  "option2": "Return creases",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "Return creases",
+  "explanation": "The popping crease in drawn four feet in front of the bowling crease and lies parallel to it. The return creases are drawn at right angles to the popping crease so they intersect at the ends of the bowling crease."
+}

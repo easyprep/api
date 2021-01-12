@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "64760827-f828-44d7-8ed2-1cc5fccbe151",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the general formula for alkyl groups?",
+  "option1": "C<sub>n</sub>H<sub>2n+2</sub>",
+  "option2": "C<sub>n</sub>H<sub>2n</sub>",
+  "option3": "C<sub>n</sub>H<sub>2n-1</sub>",
+  "option4": "C<sub>n</sub>H<sub>2n+1</sub>",
+  "option5": "",
+  "answer": "C<sub>n</sub>H<sub>2n+1</sub>",
+  "explanation": "Alkyl groups are derived from alkanes by removal of one hydrogen atom. The general formula for alkyl groups is C<sub>n</sub>H<sub>2n+1</sub>."
+}

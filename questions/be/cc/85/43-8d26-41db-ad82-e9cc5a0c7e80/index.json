@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T12:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "becc8543-8d26-41db-ad82-e9cc5a0c7e80",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of these is a Thermoplastic polymer?",
+  "option1": "Terylene",
+  "option2": "Polythene",
+  "option3": "PVC",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Thermoplastic polymers are linear polymers with very few cross linkages or no cross linkages at all. Polythene, PVC, polystyrene are addition type thermoplastics and Terylene, nylon are condensation type thermoplastics."
+}

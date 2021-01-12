@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6a0674cb-f317-4627-a9b6-91ebf52752ee",
+  "labels": "current-affairs,2019-02-09",
+  "question": "Which of the following is the term used for the way in which multiple teams of developers collaborate on a software project?",
+  "option1": "Iterative",
+  "option2": "Agile",
+  "option3": "Waterfall",
+  "option4": "Front End",
+  "option5": "",
+  "answer": "Agile",
+  "explanation": "Agile development methods are a set of procedures that dictate the ways in which multiple teams of developers collaborate on a project. The term \"agile software development\" was introduced in 2001."
+}

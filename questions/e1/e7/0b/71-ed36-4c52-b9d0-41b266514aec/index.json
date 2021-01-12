@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e1e70b71-ed36-4c52-b9d0-41b266514aec",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following programming languages is designed to connect simple HTML pages to a database?",
+  "option1": "FORTRAN",
+  "option2": "Cold Fusion",
+  "option3": "Phython",
+  "option4": "ASP",
+  "option5": "",
+  "answer": "Cold Fusion",
+  "explanation": "ColdFusion Markup Language is commonly known as CFML. It is a scripting language for web development.CFML augments standard HTML files with database commands, conditional operators, high-level formatting functions, and other elements to produce web applications."
+}

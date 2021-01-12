@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9ce6eff0-3741-483a-ad57-e69ac334db84",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which one of the following made up a layer 3 Switch?",
+  "option1": "Hub",
+  "option2": "Switch",
+  "option3": "Router",
+  "option4": "Both b and c",
+  "option5": "",
+  "answer": "Both b and c",
+  "explanation": "A layer 3 switch is a switch and a router built together for fast performance. A router is a networking device that forwards data packets between computer networks."
+}

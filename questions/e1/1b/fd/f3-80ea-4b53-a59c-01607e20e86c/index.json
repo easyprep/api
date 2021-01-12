@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e11bfdf3-80ea-4b53-a59c-01607e20e86c",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following carbon compound is used as liquid rocket fuel?",
+  "option1": "Carbon Tetrachloride",
+  "option2": "Methane",
+  "option3": "Propane",
+  "option4": "All of Above",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Methane is a saturated hydrocarbon. Its chemical formula is CH<sub>4</sub>. It is the main constituent of natural gas. Also, refined liquid methane is used as a rocket fuel. Use of Methane based rocket is currently in trend and SpaceX uses pure methane. Propane has inherent properties such as large mass and need of very low cooling point due to which it is not used as rocket fuel."
+}

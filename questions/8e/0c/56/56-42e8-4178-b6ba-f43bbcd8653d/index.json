@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "8e0c5656-42e8-4178-b6ba-f43bbcd8653d",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following are the primary ways to enable LAN connections?",
+  "option1": "Ethernet",
+  "option2": "Wi-Fi",
+  "option3": "Both a and b",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Ethernet and Wi-Fi are the two primary ways to enable LAN connections. Ethernet is a specification that enables computers to communicate with each other. Wi-Fi uses radio waves to connect computers to the LAN."
+}

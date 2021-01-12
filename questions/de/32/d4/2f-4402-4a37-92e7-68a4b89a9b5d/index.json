@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "de32d42f-4402-4a37-92e7-68a4b89a9b5d",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following equation represents combination of Hydrogen gas with nitrogen to form ammonia?",
+  "option1": "2H<sub>2</sub> + N --> NH<sub>3</sub>",
+  "option2": "2H + N<sub>3</sub> --> NH<sub>3</sub>",
+  "option3": "3H<sub>2</sub> + N<sub>2</sub> --> 2NH<sub>3</sub>",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "3H<sub>2</sub> + N<sub>2</sub> --> 2NH<sub>3</sub>",
+  "explanation": "3H<sub>2</sub> + N<sub>2</sub> --> 2NH<sub>3</sub> is the balance equation which represents combination of Hydrogen gas with nitrogen to form ammonia."
+}

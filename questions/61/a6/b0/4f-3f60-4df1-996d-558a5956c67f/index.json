@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "61a6b04f-3f60-4df1-996d-558a5956c67f",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following is the reference model used for internetworking ?",
+  "option1": "TCP",
+  "option2": "Relay",
+  "option3": "OSI",
+  "option4": "Intranet",
+  "option5": "",
+  "answer": "OSI",
+  "explanation": "An interconnection between public, private, commercial, industrial, or government computer networks can also be defined as internetworking. The reference model used for internetworking is Open System Interconnection(OSI)."
+}

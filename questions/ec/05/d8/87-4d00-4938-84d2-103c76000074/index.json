@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ec05d887-4d00-4938-84d2-103c76000074",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which gas is produced when Sodium ethanoate is heated with Soda lime?",
+  "option1": "Methane",
+  "option2": "Ethane",
+  "option3": "Acetylene",
+  "option4": "Ethene",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Sodium salts of carboxylic acids on heating with soda lime (mixture of sodium hydroxide and calcium oxide) give alkanes containing one carbon atom less than the carboxylic acid. This represents deCarboxylation."
+}

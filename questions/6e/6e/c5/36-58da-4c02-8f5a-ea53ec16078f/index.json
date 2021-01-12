@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6e6ec536-58da-4c02-8f5a-ea53ec16078f",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following does not represent the Atomic number of an atom?",
+  "option1": "number of protons in the nucleus of an atom",
+  "option2": "number of electrons in a neutral atom",
+  "option3": "number of neutrons in the nucleus of an atom",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "number of neutrons in the nucleus of an atom",
+  "explanation": "The number of protons present in the nucleus of an atom or the number of electrons in a neutral atom is equal to its atomic number. It is represented by Z."
+}

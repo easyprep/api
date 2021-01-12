@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "da7a105f-cf77-4fb4-9072-7b279bb5a804",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What will be the number of neutrons in an atom having atomic number 35 and mass number 80?",
+  "option1": 35,
+  "option2": 45,
+  "option3": 55,
+  "option4": 80,
+  "option5": "",
+  "answer": 45,
+  "explanation": "The total number of nucleons is termed as mass number (A) of the atom. In this case, mass number is 80. Therefore, sum of the number of neutrons and protons is 80. As atomic number is 35, we know that number of protons is 35. Hence, number of neutrons = 80-35 = 45."
+}

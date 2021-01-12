@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f822afdf-ac82-4c54-a407-be2a22357107",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the name given to the wireless network communication over short distances using radio or infrared signals?",
+  "option1": "Wireless Local Area Network",
+  "option2": "Local Area Wireless Network",
+  "option3": "Both a and b",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Wireless Local Area Networks is sometimes referred to as local area wireless network. It provide wireless network communication over short distances using radio or infrared signals instead of traditional network cabling."
+}

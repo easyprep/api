@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "acb035a7-63f2-4377-8773-1fa4e5d1b40b",
+  "labels": "current-affairs,2019-02-18",
+  "question": "The cell constant does not depend on which of the following?",
+  "option1": "distance between the electrodes",
+  "option2": "area of cross-section of electrodes",
+  "option3": "nature of electrolyte",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "nature of electrolyte",
+  "explanation": "The cell constant depends on the distance between the electrodes and their area of cross-section. It has the dimension of length<sup>-1</sup>."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "bd49f16c-f75f-4676-8893-94cb53cbb75c",
+  "labels": "current-affairs,2019-02-16",
+  "question": "There are many types of database models .Which among the following are those types ?",
+  "option1": "Network Database Model",
+  "option2": "Relational Database Model",
+  "option3": "Object Oriented Database Model",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "A database model is a type of data model that determines the logical structure of a database and fundamentally determines in which manner data can be stored, organized and manipulated.Types of database models are Hierarchical database model,Relational model,Network model,Object oriented database model,Entity-relationship model,Document model,Entity-attribute-value model,Star schema etc."
+}

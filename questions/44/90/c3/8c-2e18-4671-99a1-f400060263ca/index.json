@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:09:12.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "4490c38c-2e18-4671-99a1-f400060263ca",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Choose the correct statement:",
+  "option1": "An alkali is an acid that dissolves in water",
+  "option2": "Alkali is soapy to touch",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Alkali is soapy to touch",
+  "explanation": "All bases do not dissolve in water. An alkali is a base that dissolves in water. They are soapy to touch, bitter and corrosive and may cause harm on touching."
+}

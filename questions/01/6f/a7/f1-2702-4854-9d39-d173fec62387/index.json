@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "016fa7f1-2702-4854-9d39-d173fec62387",
+  "labels": "current-affairs,2019-02-09",
+  "question": "Which of the following clearly defines the Ripple effect?",
+  "option1": "It is the ability of software systems to react appropriately to abnormal conditions.",
+  "option2": "It is a phenomenon where a change in one piece of a software system affects other area of the",
+  "option3": "It is the process of adapting generalized components to various contexts of use.",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "It is a phenomenon where a change in one piece of a software system affects other area of the",
+  "explanation": "Ripple effect states that a change to a single variable will have effect on the rest of a program. It provides a measure of the program's complexity."
+}

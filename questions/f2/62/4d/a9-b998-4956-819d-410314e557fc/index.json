@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-05T12:08:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f2624da9-b998-4956-819d-410314e557fc",
+  "labels": "current-affairs,2019-02-06",
+  "question": "Which of the following is NOT correct about Phosphine?",
+  "option1": "The chemical formula is PH<sub>3</sub>",
+  "option2": "The electronic structure is like Ammonia",
+  "option3": "It is odorless",
+  "option4": "it is used as a dopant in semiconductor industries",
+  "option5": "",
+  "answer": "It is odorless",
+  "explanation": "Phosphine is PH<sub>3</sub>. The electronic structure of Phosphine (pyramidal structure) is like Ammonia. It is a colourless gas and has a spoiled fish smell. It is used as a dopant in semiconductor industries."
+}

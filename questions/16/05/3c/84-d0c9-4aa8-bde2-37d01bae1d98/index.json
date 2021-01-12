@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "16053c84-d0c9-4aa8-bde2-37d01bae1d98",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is the formula of cell constant?",
+  "option1": "length/2 x Area",
+  "option2": "length/Area",
+  "option3": "2 x length/Area",
+  "option4": "length x Area",
+  "option5": "",
+  "answer": "length/Area",
+  "explanation": "The quantity length/Area is called cell constant denoted by the symbol, G*. The cell constant is usually determined by measuring the resistance of the cell containing a solution whose conductivity is already known."
+}

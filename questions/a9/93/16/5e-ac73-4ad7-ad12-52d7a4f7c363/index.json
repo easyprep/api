@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a993165e-ac73-4ad7-ad12-52d7a4f7c363",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the full form of BASIC?",
+  "option1": "Beginners All Purpose Symbolic Instruction Code",
+  "option2": "Basic All Purpose Synthesis Instruction Code",
+  "option3": "Beginners All Purpose Symbolic Instruction Code",
+  "option4": "Beginners All Possible Symbolic Instruction Code",
+  "option5": "",
+  "answer": "Beginners All Purpose Symbolic Instruction Code",
+  "explanation": "BASIC stands for Beginners All Purpose Symbolic Instruction Code. It is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use."
+}

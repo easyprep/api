@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-22T23:07:49.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "220a5769-983b-42e5-be68-ab6714cf4133",
+  "labels": "current-affairs,2019-02-23",
+  "question": "Param Shivay, sometimes seen in news, is associated with which field?",
+  "option1": "Missile",
+  "option2": "Satellite",
+  "option3": "Super computer",
+  "option4": "Rocket",
+  "option5": "",
+  "answer": "Super computer",
+  "explanation": "Prime Minister Narendra Modi has recently launched the supercomputer \\'Param of 833 teraflop capacity built at the IIT-BHU. It is built at the cost of Rs 32.5 crore under the National Super Computing Mission. About 40% of the total computer power will be used by the students of Navodaya Vidyalaya. The institute claims that relevant social issues faced by common people like irrigation schemes, traffic management, health, an affordable drug will also be taken care of with the help of this supercomputer centre. The ‘Param Shivay’ will include 1 peta byte secondary storage and appropriate open source system and application software suite using 223 processor nodes, 384 GB per node DDR4 RAM, parallel file system, including CPU and GPU. India\\'s first supercomputer called PARAM 8000 was launched in 1991. At present, Indian Institute of Tropical Meteorology (IITM) has Pratyush, National Centre for Medium-Range Weather Forecasting (NCMRWF) has Mihir and IISc has SERC-Cray as supercomputers in India."
+}

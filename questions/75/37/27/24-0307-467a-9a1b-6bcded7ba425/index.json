@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "75372724-0307-467a-9a1b-6bcded7ba425",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the order of the reaction which is independent of the concentration of reactants?",
+  "option1": "Zero order",
+  "option2": "First order",
+  "option3": "Second order",
+  "option4": "Third order",
+  "option5": "",
+  "answer": "Zero order",
+  "explanation": "Order of a reaction can be 0, 1, 2, 3 and even a fraction. A zero order reaction means that the rate of reaction is independent of the concentration of reactants."
+}

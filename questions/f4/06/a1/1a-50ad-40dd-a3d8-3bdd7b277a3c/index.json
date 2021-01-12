@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f406a11a-50ad-40dd-a3d8-3bdd7b277a3c",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following was equal to the atomic weight of the middle element in the Dobereiner's Triads?",
+  "option1": "arithmetic mean of the atomic weights of the other two elements",
+  "option2": "geometric mean of the atomic weights of the other two elements",
+  "option3": "difference between the atomic weights of the other two elements",
+  "option4": "sum of the atomic weights of the other two elements",
+  "option5": "",
+  "answer": "arithmetic mean of the atomic weights of the other two elements",
+  "explanation": "Dobereiner was the first scientist to classify the elements in some groups. In the triads of elements the atomic weight of the middle element was the arithmetic mean of the atomic weights of the other two."
+}

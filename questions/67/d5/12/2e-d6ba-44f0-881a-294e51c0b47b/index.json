@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:51:08.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "67d5122e-d6ba-44f0-881a-294e51c0b47b",
+  "labels": "current-affairs,2019-02-09",
+  "question": "There are many application software packages available at present. Which of the following is an application software package?",
+  "option1": "Redhat Linux",
+  "option2": "Adobe PageMaker",
+  "option3": "Open Office",
+  "option4": "Both b and c",
+  "option5": "",
+  "answer": "Both b and c",
+  "explanation": "Red Hat is an American multinational software company providing open-source software products to the enterprise community. It is not an application software rather it is a software firm."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "25d60146-da95-418b-8c2b-2d2d15847541",
+  "labels": "current-affairs,2019-02-18",
+  "question": "As per Faraday’s Laws of Electrolysis, the amount of chemical reaction which occurs at any electrode during electrolysis proportional to which of the following?",
+  "option1": "the concentration of electrolyte",
+  "option2": "length of the electrode",
+  "option3": "quantity of electricity passed through the electrolyte",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "quantity of electricity passed through the electrolyte",
+  "explanation": "As per Faraday’s 1st Law of Electrolysis, the amount of chemical reaction which occurs at any electrode during electrolysis by a current is proportional to the quantity of electricity passed through the electrolyte (solution or melt)."
+}

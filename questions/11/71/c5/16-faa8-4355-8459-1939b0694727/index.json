@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "1171c516-faa8-4355-8459-1939b0694727",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following statements in SQL are considered as Data manipulation language?",
+  "option1": "Update",
+  "option2": "Insert",
+  "option3": "Delete",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "In SQL, such statements as UPDATE, INSERT and DELETE are considered DML. Some people also lump the SELECT statement in the DML classification."
+}

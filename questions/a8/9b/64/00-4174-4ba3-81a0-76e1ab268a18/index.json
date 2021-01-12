@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a89b6400-4174-4ba3-81a0-76e1ab268a18",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which among the following is the term given to the three rules to find logically implied functional dependencies?",
+  "option1": "Reflexivity Rules",
+  "option2": "Normalization Rules",
+  "option3": "W. Armstrong's Axioms",
+  "option4": "Closure Rules",
+  "option5": "",
+  "answer": "W. Armstrong's Axioms",
+  "explanation": "The three rules given by Armstrong are known as Armstrong's axioms. It refers to the sound and complete set of inference rules that is used to test logical implication of functional dependencies."
+}

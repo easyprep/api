@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e603ce8c-5cd9-4efe-878b-fef06d28f036",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Where does the oxidation takes place in a Galvanic cell?",
+  "option1": "Anode",
+  "option2": "Cathode",
+  "option3": "Oxidation does not take place",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Anode",
+  "explanation": "In a galvanic cell, the half-cell in which oxidation takes place is called anode and it has a negative potential with respect to the solution. The other half-cell in which reduction takes place is called cathode and it has a positive potential with respect to the solution."
+}

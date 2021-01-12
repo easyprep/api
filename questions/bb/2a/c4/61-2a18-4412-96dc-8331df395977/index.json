@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "bb2ac461-2a18-4412-96dc-8331df395977",
+  "labels": "current-affairs,2019-02-16",
+  "question": "ACID is a set of properties of database transactions intended to guarantee validity even in the event of errors, power failures etc.What is the full form of ACID?",
+  "option1": "Aquired Consistency In Database",
+  "option2": "Atomicity, Consistency, Isolation, Durability",
+  "option3": "Atomicity,Control,Isolation,Dependency",
+  "option4": "Atomicity,Concurrecny,Isolation,Durability",
+  "option5": "",
+  "answer": "Atomicity, Consistency, Isolation, Durability",
+  "explanation": "Andreas Reuter and Theo Harder coined the acronym ACID for Atomicity, Consistency, Isolation, and Durability. In the context of databases, a sequence of database operations that satisfies the ACID properties is called a transaction."
+}

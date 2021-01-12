@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ddc99785-896d-4461-b11c-853a2ab4447c",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following is the dominant Operating System in the world?",
+  "option1": "MacOS",
+  "option2": "Microsoft",
+  "option3": "Linux",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "The dominant desktop operating system is Microsoft Windows with a market share of around 82.74%. macOS by Apple Inc. is in second place (13.23%), and the varieties of Linux are collectively in third place (1.57%)."
+}

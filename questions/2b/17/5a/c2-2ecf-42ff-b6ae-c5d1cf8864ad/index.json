@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:09:12.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2b175ac2-2ecf-42ff-b6ae-c5d1cf8864ad",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the pH of water in the Acid rain?",
+  "option1": "More than 12",
+  "option2": "Less than 5.5",
+  "option3": "Between 7 and 11",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Less than 5.5",
+  "explanation": "When pH of rain water is less than 5.5, it is called acid rain. When acid rain flows into the rivers, it lowers the pH of the river water. The survival of aquatic life in such rivers becomes difficult."
+}

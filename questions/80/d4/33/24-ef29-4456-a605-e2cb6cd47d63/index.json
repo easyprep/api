@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "80d43324-ef29-4456-a605-e2cb6cd47d63",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is correct about Photoelectric effect?",
+  "option1": "number of electrons ejected is twice the wavenumber of radiation",
+  "option2": "number of electrons ejected is proportional to the intensity of light",
+  "option3": "number of electrons ejected is proportional to the duration of light",
+  "option4": "number of electrons ejected is not dependent on the intensity of light",
+  "option5": "",
+  "answer": "number of electrons ejected is proportional to the intensity of light",
+  "explanation": "The phenomenon of ejection of electrons from the surface of metal when light of suitable frequency strikes it is called photoelectric effect. The number of electrons ejected is proportional to the intensity or brightness of light."
+}

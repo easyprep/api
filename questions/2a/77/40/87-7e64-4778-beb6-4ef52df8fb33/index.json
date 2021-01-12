@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2a774087-7e64-4778-beb6-4ef52df8fb33",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following quantum numbers give information about the spatial orientation of the orbital with respect to standard set of co-ordinate axis?",
+  "option1": "Azimuthal quantum number",
+  "option2": "Principal quantum number",
+  "option3": "Magnetic quantum number",
+  "option4": "Electron spin quantum number",
+  "option5": "",
+  "answer": "Magnetic quantum number",
+  "explanation": "Magnetic quantum number gives information about the spatial orientation of the orbital with respect to standard set of co-ordinate axis."
+}

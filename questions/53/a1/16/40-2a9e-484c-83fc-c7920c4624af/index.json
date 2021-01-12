@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "53a11640-2a9e-484c-83fc-c7920c4624af",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following Operating systems was designed as a high dependability OS in which the kernel, device drivers, and application software were all written in managed code?",
+  "option1": "Singularity",
+  "option2": "Unix",
+  "option3": "Linux",
+  "option4": "MacOS",
+  "option5": "",
+  "answer": "Singularity",
+  "explanation": "Singularity is an experimental operating system built by Microsoft Research between 2003 and 2010.It was designed as a high dependability OS in which the kernel, device drivers, and application software were all written in managed code"
+}

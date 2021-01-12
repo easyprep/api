@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6483abfd-d057-40e3-9655-190ff7e89c5b",
+  "labels": "current-affairs,2019-02-18",
+  "question": "The CAP Theorem concludes that it is not possible for a distributed computer system to provide three guarantees at the same time. Which of the following are among these three guarantees?",
+  "option1": "Consistency",
+  "option2": "Availability",
+  "option3": "Partition Tolerance",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "The CAP Theorem consists three following terms: Consistency states that each computer node contain all of the same data at the same time. Availability states that each database request is responded to as either successful or failure. Partition tolerance states that the database system continues operating even when not all nodes are connected to one another and suffer communication issues."
+}

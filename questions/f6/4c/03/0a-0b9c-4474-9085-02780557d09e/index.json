@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f64c030a-0b9c-4474-9085-02780557d09e",
+  "labels": "current-affairs,2019-02-10",
+  "question": "How many values of Magnetic quantum numbers are possible for any sub-shell (l)?",
+  "option1": "2l",
+  "option2": "2l + 1",
+  "option3": "2l -1",
+  "option4": "l",
+  "option5": "",
+  "answer": "2l + 1",
+  "explanation": "For any sub-shell (l), 2l+1 values of Magnetic quantum numbers (m<sub>l</sub>) are possible."
+}

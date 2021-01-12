@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T13:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "17cf77e8-a47d-4d64-854d-1c85d61fe050",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of these metals is most commonly used as control rods in the nuclear reactors?",
+  "option1": "Platinum",
+  "option2": "Cadmium",
+  "option3": "Cobalt",
+  "option4": "Silver",
+  "option5": "",
+  "answer": "Cadmium",
+  "explanation": "Cadmium is most commonly used as control rods in the nuclear reactors. Cadmium absorbs neutrons in the reactors, preventing them from creating additional fission events."
+}

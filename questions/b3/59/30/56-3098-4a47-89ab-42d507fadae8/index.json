@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b3593056-3098-4a47-89ab-42d507fadae8",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which of the following hubs can store, amplify, split and retransmit the received signals?",
+  "option1": "Passive Hub",
+  "option2": "Active Hub",
+  "option3": "Intelligent Hub",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Active Hub",
+  "explanation": "Active hub can store, amplify, split and retransmit the received signals. It requires additional electronic circuit for performing different functions."
+}

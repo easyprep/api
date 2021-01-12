@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9cb9482f-47a3-411f-ac8f-3f499e9d2172",
+  "labels": "current-affairs,2019-02-21",
+  "question": "What is the full form of NIC?",
+  "option1": "Network Interface Card",
+  "option2": "Network Interface Censorship",
+  "option3": "Node in Connection",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Network Interface Card",
+  "explanation": "NIC stands for Network Interface Card. It is used to connect the computer to the external network. It will normally have a PCI connector to connect to one of the PC expansion slots."
+}

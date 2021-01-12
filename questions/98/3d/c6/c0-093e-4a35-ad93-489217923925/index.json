@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T12:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "983dc6c0-093e-4a35-ad93-489217923925",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of these polymers is formed by the polymerization of the dimer of lactic acid?",
+  "option1": "PLA",
+  "option2": "PCL",
+  "option3": "PGA",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "PLA",
+  "explanation": "PLA, also known as Polyactic acid, is obtained by polymerization of the dimer of lactic acid. It is also produced by micro biological synthesis of lactic acid followed by the polycondensation and removal of water by evaporation."
+}

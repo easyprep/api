@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2696e94c-a790-4fef-b217-9c7730e09bb0",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Choose the correct statement:",
+  "option1": "If a substance gains oxygen during a reaction, it is said to be reduced",
+  "option2": "If a substance loses oxygen during a reaction, it is said to be oxidised",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "If a substance gains oxygen during a reaction, it is said to be oxidised and If a substance loses oxygen during a reaction, it is said to be reduced. Such type of reactions are known as oxidation-reduction reactions or redox reactions."
+}

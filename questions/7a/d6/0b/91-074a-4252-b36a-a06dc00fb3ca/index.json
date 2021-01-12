@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "7ad60b91-074a-4252-b36a-a06dc00fb3ca",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the full form of CSMA?",
+  "option1": "Carrier Sense Multiple Access",
+  "option2": "Collision Sense Model Arrangement",
+  "option3": "Carrier Sense Model Access",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Carrier Sense Multiple Access",
+  "explanation": "The most common access method of the bus topologies is CSMA or Carrier Sense Multiple Access. It is a media access control used to control the data flow so that data integrity is maintained so that the packets do not get lost."
+}

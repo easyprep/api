@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6e0b8b1d-5a8e-434e-ac4c-ac08d6210fc7",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following comprises a standard hydrogen electrode?",
+  "option1": "a copper electrode coated with carbon black",
+  "option2": "an iron electrode coated with platinum black",
+  "option3": "a platinum electrode coated with platinum black",
+  "option4": "a gold electrode coated with carbon black",
+  "option5": "",
+  "answer": "a platinum electrode coated with platinum black",
+  "explanation": "The standard hydrogen electrode consists of a platinum electrode coated with platinum black. According to convention, a half-cell called standard hydrogen electrode is assigned a zero potential at all temperatures corresponding to the reaction."
+}

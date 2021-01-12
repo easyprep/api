@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ded790d7-ab8d-4f34-a91b-d33499a349df",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the bond angle between H<sub>2</sub>O molecule?",
+  "option1": "90°",
+  "option2": "104.5°",
+  "option3": "122°",
+  "option4": "180°",
+  "option5": "",
+  "answer": "104.5°",
+  "explanation": "The bond angle between H<sub>2</sub>O molecule is 104.5°. It is defined as the angle between the orbitals containing bonding electron pairs around the central atom in a molecule/complex ion."
+}

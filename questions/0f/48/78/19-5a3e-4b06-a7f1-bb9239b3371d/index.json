@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "0f487819-5a3e-4b06-a7f1-bb9239b3371d",
+  "labels": "current-affairs,2019-02-18",
+  "question": "There is a situation in which resources are held by two or more connections that are each needed by the other connections. What is the name given to such a situation?",
+  "option1": "Deadlock",
+  "option2": "Debugging",
+  "option3": "Instance",
+  "option4": "Remote Procedure Call",
+  "option5": "",
+  "answer": "Deadlock",
+  "explanation": "Deadlock is a situation in which resources are held by two or more connections that are each needed by the other connections so that they are stuck in an infinite wait loop."
+}

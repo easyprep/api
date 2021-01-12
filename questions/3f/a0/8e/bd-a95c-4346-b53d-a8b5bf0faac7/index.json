@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "3fa08ebd-a95c-4346-b53d-a8b5bf0faac7",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Choose the correct statement about corrosion:",
+  "option1": "Corrosion of metals is an electrochemical phenomenon",
+  "option2": "Bisphenol can be used to cover the metal surface to prevent corrosion",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "One of the simplest methods of to prevent corrosion is to prevent the surface of the metallic object to come in contact with atmosphere. This can be achieved by covering the surface with paint or by some chemicals (e.g. bisphenol)."
+}

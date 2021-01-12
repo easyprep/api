@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e6bd5da3-2339-4071-98e3-0cfae50721fa",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Choose the correct statement about covalent compounds?",
+  "option1": "The forces of interaction between them is weak",
+  "option2": "They are poor conductors of electricity",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The covalent compounds have low melting and boiling points due to weak forces of interaction between the molecules. The covalent compounds are poor conductors of electricity as these lack ionic species."
+}

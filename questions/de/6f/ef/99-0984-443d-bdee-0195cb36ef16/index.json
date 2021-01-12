@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "de6fef99-0984-443d-bdee-0195cb36ef16",
+  "labels": "current-affairs,2019-02-09",
+  "question": "What is full form of the YAGNI principle used in software system designing?",
+  "option1": "You are not gonna need it.",
+  "option2": "You are going not into it.",
+  "option3": "You are gonna need it.",
+  "option4": "You aint get to know it.",
+  "option5": "",
+  "answer": "You are not gonna need it.",
+  "explanation": "You aren't gonna need it or YAGNI is a principle of extreme programming that states a programmer should not add functionality until deemed necessary."
+}

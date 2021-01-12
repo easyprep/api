@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a8ec460d-6ada-48f2-8ef8-59de89d74053",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is meant by Bond length of two bonded atoms in a molecule?",
+  "option1": "equilibrium distance between their valence electrons",
+  "option2": "equilibrium distance between their outermost shell",
+  "option3": "equilibrium distance between their nuclei",
+  "option4": "twice the distance between their valence electrons",
+  "option5": "",
+  "answer": "equilibrium distance between their nuclei",
+  "explanation": "Bond length is defined as the equilibrium distance between the nuclei of two bonded atoms in a molecule."
+}

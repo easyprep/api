@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d127b23f-a100-4a51-a456-afd6b894be01",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What do we call the molar conductivity when the concentration approaches zero?",
+  "option1": "Reacting molar conductivity",
+  "option2": "Zero level molar conductivity",
+  "option3": "Limiting molar conductivity",
+  "option4": "Ideal molar conductivity",
+  "option5": "",
+  "answer": "Limiting molar conductivity",
+  "explanation": "When concentration approaches zero, the molar conductivity is known as limiting molar conductivity."
+}

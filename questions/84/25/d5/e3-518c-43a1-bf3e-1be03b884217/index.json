@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "8425d5e3-518c-43a1-bf3e-1be03b884217",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following is the name given to the computers on a network?",
+  "option1": "Point",
+  "option2": "Server",
+  "option3": "Nodes",
+  "option4": "Connection",
+  "option5": "",
+  "answer": "Nodes",
+  "explanation": "A computer network is a set of connected computers. Computers on a network are called nodes. The connection between computers can be done via cabling, most commonly the Ethernet cable, or wirelessly through radio waves."
+}

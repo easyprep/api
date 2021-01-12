@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "af937602-aa4c-4d09-8977-0c91808b9d93",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following hydrogen bond is formed in the case of o-nitrophenol?",
+  "option1": "Intramolecular",
+  "option2": "Intermolecular",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Intermolecular",
+  "explanation": "Intermolecular Hydrogen bond is formed when hydrogen atom is in between the two highly electronegative atoms present within the same molecule. For example: hydrogen is in between two Oxygen atom in the case of o-nitrophenol."
+}

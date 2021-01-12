@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c88e80dc-d44f-4331-b7bc-bf04a1efac7e",
+  "labels": "current-affairs,2019-02-21",
+  "question": "In the OSI model, Bridging is performed in which of the following layers?",
+  "option1": "Layer 7",
+  "option2": "Data Link Layer",
+  "option3": "Session Layer",
+  "option4": "Transport Layer",
+  "option5": "",
+  "answer": "Data Link Layer",
+  "explanation": "In the OSI model, bridging is performed in the data link layer. A network bridge is a computer networking device that creates a single aggregate network from multiple communication networks or network segments."
+}

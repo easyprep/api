@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9641b001-b846-4588-a89c-8899734ce35b",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is used to represent a Weak entity set?",
+  "option1": "Line",
+  "option2": "Diamond",
+  "option3": "Double Diamond",
+  "option4": "Double Rectangle",
+  "option5": "",
+  "answer": "Double Diamond",
+  "explanation": "In a relational database, a weak entity is an entity that cannot be uniquely identified by its attributes alone. It must use a foreign key in conjunction with its attributes to create a primary key."
+}

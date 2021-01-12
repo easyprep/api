@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "95f7ff63-f28b-453f-b053-6c615ca94e6c",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the molecular geometry of a Methane molecule?",
+  "option1": "Linear",
+  "option2": "Trigonol Planar",
+  "option3": "Tetrahedral",
+  "option4": "Trigonol bipyramidal",
+  "option5": "",
+  "answer": "Tetrahedral",
+  "explanation": "The hydrogen atoms sharing electrons with the central carbon atom have a 109 degree bond angle giving the molecule a tetrahedral geometry."
+}

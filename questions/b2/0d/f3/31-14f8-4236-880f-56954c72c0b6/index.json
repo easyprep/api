@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b20df331-14f8-4236-880f-56954c72c0b6",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of these hybridization is found in Phosphorus pentachloride molecule?",
+  "option1": "sp",
+  "option2": "sp<sub>2</sub>",
+  "option3": "sp<sub>3</sub>",
+  "option4": "sp<sub>2</sub>d",
+  "option5": "",
+  "answer": "sp<sub>2</sub>d",
+  "explanation": "The Phosphorus pentachloride molecule formed due to sp<sub>2</sub>d hybridisation. It has a trigonal bipyramidal geometry. Three P–Cl bonds (equatorial) make an angle of 120º with each other and lie in one plane."
+}

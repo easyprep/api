@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:08.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d850795b-6d7e-411e-b782-6816456227a4",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which one of the following routers sits on the periphery of the network?",
+  "option1": "Core Router",
+  "option2": "Access Router",
+  "option3": "Edge Router",
+  "option4": "Both b and c",
+  "option5": "",
+  "answer": "Both b and c",
+  "explanation": "An access router is a router that sits at the periphery of a network. It is also known as edge router. It Contrast with \"core router,\" which is a router that resides in the middle of the network."
+}

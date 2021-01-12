@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:17:49.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "7f2737ed-81df-48c9-8410-168d78a23e0b",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Choose the incorrect statement:",
+  "option1": "Epsom salt is an ore containing Sodium",
+  "option2": "Bauxite is an ore of Aluminium",
+  "option3": "Asbestos is an ore containing Calcium",
+  "option4": "Milarite mineral contains Nickel",
+  "option5": "",
+  "answer": "Epsom salt is an ore containing Sodium",
+  "explanation": "Epsom salt is an ore containing Magnesium. It is also known as the heptahydrate sulfate mineral. Its chemical formula is MgSO<sub>4</sub>·7H<sub>2</sub>O."
+}

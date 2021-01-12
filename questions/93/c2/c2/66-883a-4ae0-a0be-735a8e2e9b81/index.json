@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "93c2c266-883a-4ae0-a0be-735a8e2e9b81",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following LAN technologies uses a token-bus scheme?",
+  "option1": "Netware",
+  "option2": "Interface",
+  "option3": "ARCNET",
+  "option4": "Ethernet",
+  "option5": "",
+  "answer": "ARCNET",
+  "explanation": "ARCNET is a LAN technology that uses a token-bus scheme for managing line sharing among the workstations and other devices connected on the LAN.ARCNET is one of four major LAN technologies, which also include Ethernet, token ring and FDDI."
+}

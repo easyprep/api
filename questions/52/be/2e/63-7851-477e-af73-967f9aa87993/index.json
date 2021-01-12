@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "52be2e63-7851-477e-af73-967f9aa87993",
+  "labels": "current-affairs,2019-02-09",
+  "question": "What is the name given to the program capable of running on any computer regardless of the operating system?",
+  "option1": "Applet",
+  "option2": "Back-end",
+  "option3": "Open source software",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Applet",
+  "explanation": "An applet is a program capable of running on any computer regardless of the operating system. Many applets can be downloaded from various sites on the Internet."
+}

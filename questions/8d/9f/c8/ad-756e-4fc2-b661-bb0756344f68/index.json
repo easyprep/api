@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "8d9fc8ad-756e-4fc2-b661-bb0756344f68",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the dipole moment in BF<sub>3</sub> molecule?",
+  "option1": 0,
+  "option2": 1,
+  "option3": 1.85,
+  "option4": 6.22,
+  "option5": "",
+  "answer": "",
+  "explanation": "The dipole moment in BF<sub>3</sub> molecule is 0 because the two equal bond dipoles point in opposite directions and cancel the effect of each other."
+}

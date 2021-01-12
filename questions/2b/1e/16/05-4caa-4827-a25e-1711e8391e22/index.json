@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2b1e1605-4caa-4827-a25e-1711e8391e22",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which one of the following is not an example of WAN?",
+  "option1": "Ethernet",
+  "option2": "ISDN",
+  "option3": "Frame Relay",
+  "option4": "ATM",
+  "option5": "",
+  "answer": "Ethernet",
+  "explanation": "In MAN, various LANs are connected to each other through a telephone exchange line. The most widely used protocols in MAN are RS- 232, Frame Relay, ATM, ISDN, OC-3, ADSL, etc."
+}

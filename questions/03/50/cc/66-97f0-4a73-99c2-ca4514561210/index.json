@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "0350cc66-97f0-4a73-99c2-ca4514561210",
+  "labels": "current-affairs,2019-02-18",
+  "question": "When does a saturated hydrocarbon gives a sooty flame on burning?",
+  "option1": "When the supply of oxygen is limited",
+  "option2": "When the supply of oxygen is full",
+  "option3": "A saturated hydrocarbon never gives a sooty flame on burning",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "When the supply of oxygen is limited",
+  "explanation": "Saturated hydrocarbons will generally give a clean flame while unsaturated carbon compounds will give a yellow flame with lots of black smoke. However, limiting the supply of air results in incomplete combustion of even saturated hydrocarbons giving a sooty flame."
+}

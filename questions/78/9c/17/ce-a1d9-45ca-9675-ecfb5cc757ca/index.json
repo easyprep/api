@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:12.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "789c17ce-a1d9-45ca-9675-ecfb5cc757ca",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is the general Q-value for alpha-decay?",
+  "option1": "greater than 0",
+  "option2": "less than 0",
+  "option3": "equal to 0",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "greater than 0",
+  "explanation": "Q-value is the net kinetic energy gained in the process or, if the initial nucleus X is at rest, the kinetic energy of the products. Clearly, Q> 0 for exothermic processes such as α-decay."
+}

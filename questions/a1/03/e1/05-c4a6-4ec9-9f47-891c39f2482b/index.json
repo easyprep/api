@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a103e105-c4a6-4ec9-9f47-891c39f2482b",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following is correct about the properties of the elements as per the Mendeleev's Periodic Law?",
+  "option1": "they are a periodic function of the element's atomic number",
+  "option2": "they are a periodic function of the element's atomic weight",
+  "option3": "they don’t depend on the element's atomic weight",
+  "option4": "they are same for every 4th element",
+  "option5": "",
+  "answer": "they are a periodic function of the element's atomic weight",
+  "explanation": "As per Mendeleev's Periodic Law, the properties of the elements are a periodic function of their atomic weights."
+}

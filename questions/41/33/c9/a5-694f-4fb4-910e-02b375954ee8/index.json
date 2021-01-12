@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "4133c9a5-694f-4fb4-910e-02b375954ee8",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following quantum numbers is not necessary to identify an orbital?",
+  "option1": "Principal quantum number",
+  "option2": "Azimuthal quantum number",
+  "option3": "Magnetic quantum number",
+  "option4": "Electron Spin quantum number",
+  "option5": "",
+  "answer": "Electron Spin quantum number",
+  "explanation": "An orbital is identified by the set of 3 quantum numbers: Principal quantum number, Azimuthal quantum number and magnetic quantum number."
+}

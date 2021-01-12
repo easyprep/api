@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:17:49.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "80e27c5f-f230-4a35-986f-7eb2bd873b21",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of these ores is not an oxide?",
+  "option1": "Sphalerite",
+  "option2": "Haematite",
+  "option3": "Cuprite",
+  "option4": "Magnetite",
+  "option5": "",
+  "answer": "Sphalerite",
+  "explanation": "Sphalerite (ZnS) is a sulphide. All others are oxides. Haematite and Magnetite are the oxides of iron and Cuprite is an oxide of Copper."
+}

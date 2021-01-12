@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "28bd1f7a-acd9-41f0-b30a-5a0c9714a01b",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following are the most important criteria for measuring the performance of an Operating system?",
+  "option1": "Waiting Time",
+  "option2": "Turnaround Time",
+  "option3": "Both a and b",
+  "option4": "System Clock",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The CPU efficiency/input decreases as the turnaround time/ waiting time of the processor increases. it is desirable to have less turnaround time and waiting time for all processes."
+}

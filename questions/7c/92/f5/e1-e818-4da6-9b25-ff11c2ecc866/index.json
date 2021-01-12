@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "7c92f5e1-e818-4da6-9b25-ff11c2ecc866",
+  "labels": "current-affairs,2019-02-21",
+  "question": "What is the full form of HIDS?",
+  "option1": "Host Based Intrusion Detection System",
+  "option2": "Housing Intruder Detection System",
+  "option3": "Host In Device Server",
+  "option4": "None of the Above.",
+  "option5": "",
+  "answer": "Host Based Intrusion Detection System",
+  "explanation": "A host-based intrusion detection system is an intrusion detection system that is capable of monitoring and analyzing the internals of a computing system as well as the network packets on its network interfaces."
+}

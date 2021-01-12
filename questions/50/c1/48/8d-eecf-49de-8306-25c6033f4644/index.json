@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:47.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "50c1488d-eecf-49de-8306-25c6033f4644",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following is / are correct statements about the so called Cisgenic plants? <ol> <li>They are genetically modified organisms (GMOs)</li> <li>It involves genetic modification of a recipient plant with one or more genes from any non-plant organism, or from a donor plant that is sexually incompatible with the recipient plant.</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "There are three concepts. One is traditional breeding, another is transgenesis and third one is Cisgenesis. Traditional breeding encompasses all plant breeding methods that do not fall under current GMO regulations. Cisgenesis is the genetic modification of a recipient plant with a natural gene from a crossable—sexually compatible—plant. Such a gene includes its introns and is flanked by its native promoter and terminator in the normal sense orientation. Cisgenic plants can harbour one or more cisgenes, but they do not contain any transgenes. Transgenesis is the genetic modification of a recipient plant with one or more genes from any non-plant organism, or from a donor plant that is sexually incompatible with the recipient plant. This includes gene sequences of any origin in the anti-sense orientation, any artificial combination of a coding sequence and a regulatory sequence, such as a promoter from another gene, or a synthetic gene. While some transgenic genetically modified plants are developed by the introduction of a gene originating from distant, sexually incompatible species into the host genome, cisgenic plants contain genes that have been isolated either directly from the host species or from sexually compatible species. The new genes are introduced using recombinant DNA methods and gene transfer. Kindly note this difference."
+}

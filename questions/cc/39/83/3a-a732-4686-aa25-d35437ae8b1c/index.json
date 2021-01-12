@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "cc39833a-a732-4686-aa25-d35437ae8b1c",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following factors affect the electronic conductance of a metal?",
+  "option1": "the nature and structure of the metal",
+  "option2": "the number of valence electrons per atom",
+  "option3": "temperature",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Electrical conductance through metals is called metallic or electronic conductance and is due to the movement of electrons. The electronic conductance depends on (i) the nature and structure of the metal (ii) the number of valence electrons per atom (iii) temperature (it decreases with increase of temperature)."
+}

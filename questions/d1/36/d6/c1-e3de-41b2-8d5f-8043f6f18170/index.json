@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:51:09.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d136d6c1-e3de-41b2-8d5f-8043f6f18170",
+  "labels": "current-affairs,2019-02-09",
+  "question": "What is the name given to the specialized application that is build for a specific business?",
+  "option1": "Vertical Application",
+  "option2": "Horizontal Application",
+  "option3": "Both a and b",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Vertical Application",
+  "explanation": "A vertical application is a specialized system that is built for a specific business. These applications require domain expertise and generally are not used by multiple groups or business units."
+}

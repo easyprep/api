@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:47.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d3b7990f-e21a-4a01-9692-c2e91bcc9466",
+  "labels": "current-affairs,2019-02-08",
+  "question": "If we take 1 kg of iron and let it rust, and none of the rust falls off, then the total weight will be___?",
+  "option1": "Less than 1 Kg",
+  "option2": "More than 1 Kg",
+  "option3": "Exact 1 Kg",
+  "option4": "More or Less than 1 Kg",
+  "option5": "",
+  "answer": "More than 1 Kg",
+  "explanation": "If the rust stays attached to the main body or the flakes of rust that fall off are collected and weighed than the weight will increase. If you are using for example iron shavings than the chemical formula would look like this Fe(II) + O2 = FeO2 And the weight will increase by the mass of the shavings divided by the molar mass of iron times 2 times the molar mass of oxygen (in this case taking the molar mass of oxygen as a single oxygen atom not a pair). Thus, When rust forms, the mass of the iron object is increased by the mass of oxygen that has combined with some of the iron"
+}

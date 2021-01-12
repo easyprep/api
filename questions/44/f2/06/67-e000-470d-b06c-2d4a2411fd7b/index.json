@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "44f20667-e000-470d-b06c-2d4a2411fd7b",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following languages is widely known for the use of turtle graphics?",
+  "option1": "FORTRAN",
+  "option2": "LOGO",
+  "option3": "BASIC",
+  "option4": "Java",
+  "option5": "",
+  "answer": "LOGO",
+  "explanation": "Logo is an educational programming language. The name was coined by Feurzeig. Logo is widely known for its use of turtle graphics, in which commands for movement and drawing produced line or vector graphics."
+}

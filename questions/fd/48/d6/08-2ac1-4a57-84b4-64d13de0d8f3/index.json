@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "fd48d608-2ac1-4a57-84b4-64d13de0d8f3",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which type of bridge is used on token ring networks?",
+  "option1": "Transparent Bridge",
+  "option2": "Translational Bridge",
+  "option3": "Source Route Bridge",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Source route bridge is used on token ring networks. Bridge derives the entire path of the frame embedded in the header of the frame and decides how to forward the frame through out the network till it reaches its destination."
+}

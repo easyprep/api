@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "98eb924f-3d7a-4ff8-96f8-068d8c4a012a",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following is the balance equation for Aluminium + Copper chloride  -  Aluminium chloride + Copper?",
+  "option1": "2Al + 2CuCl<sub>3</sub>  -  2AlCl<sub>3</sub> + Cu",
+  "option2": "Al + 2CuCl<sub>2</sub>  -  AlCl<sub>3</sub> + 2Cu",
+  "option3": "2Al + 3CuCl<sub>2</sub>  -  2AlCl<sub>3</sub> + 3Cu",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "2Al + 3CuCl<sub>2</sub>  -  2AlCl<sub>3</sub> + 3Cu",
+  "explanation": "2Al + 3CuCl<sub>2</sub>  -  2AlCl<sub>3</sub> + 3Cu is the balanced equation of Aluminium + Copper chloride  -  Aluminium chloride + Copper."
+}

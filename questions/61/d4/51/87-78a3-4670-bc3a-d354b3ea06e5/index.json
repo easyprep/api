@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "61d45187-78a3-4670-bc3a-d354b3ea06e5",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What do we call the ratio of number of fission produced by a given generation of neutrons to the number of fission of the preceding generation?",
+  "option1": "Critical factor",
+  "option2": "Energy factor",
+  "option3": "Multiplication factor",
+  "option4": "Moderation factor",
+  "option5": "",
+  "answer": "Multiplication factor",
+  "explanation": "The multiplication factor is the ratio of number of fission produced by a given generation of neutrons to the number of fission of the preceding generation."
+}

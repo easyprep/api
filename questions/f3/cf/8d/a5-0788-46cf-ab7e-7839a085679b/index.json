@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T20:52:09.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f3cf8da5-0788-46cf-ab7e-7839a085679b",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following terms denotes the funds set aside by the banks to cover loan losses?",
+  "option1": "Statutory Liquidity Ratio",
+  "option2": "Provision Coverage Ratio",
+  "option3": "Acid Ratio",
+  "option4": "Liquidity Ratio",
+  "option5": "",
+  "answer": "Provision Coverage Ratio",
+  "explanation": "PCR indicates extent of funds a bank has kept aside to cover loan losses. A higher provision coverage ratio leads to higher risk taking capacity of the bank. The desirable limit of PCR is 70% though not mandatory. Recently, we read in the newspapers that out of 21 public sector banks in India, only 6 have crossed the 'desirable' level of 70% Provision Coverage Ratio (PCR)."
+}

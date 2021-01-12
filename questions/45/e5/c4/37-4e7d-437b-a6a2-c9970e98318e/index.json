@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "45e5c437-4e7d-437b-a6a2-c9970e98318e",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What do we call the molecular orbital obtained by subtraction of atomic orbitals?",
+  "option1": "Bonding orbital",
+  "option2": "Anti-bonding orbital",
+  "option3": "Lateral orbital",
+  "option4": "Sub-orbital",
+  "option5": "",
+  "answer": "Anti-bonding orbital",
+  "explanation": "The molecular orbital obtained by the addition of atomic orbitals is of lower energy than that of the atomic orbitals and is called a bonding orbital. The orbital obtained by subtraction of atomic orbitals is of higher energy and is called an anti-bonding orbital."
+}

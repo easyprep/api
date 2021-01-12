@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:09:12.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9ac00d0c-1e72-4d1d-85de-ecd34ce721d8",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the process known as where acids produce ions when dissolved in water?",
+  "option1": "Vulcanisation",
+  "option2": "Dissociation",
+  "option3": "Scattering",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Dissociation",
+  "explanation": "When an acid dissolves in water, a covalent bond between an electronegative atom and a hydrogen atom is broken by heterolytic fission. It gives out a proton (H+) and a negative ion. This process is called as Disassociation."
+}

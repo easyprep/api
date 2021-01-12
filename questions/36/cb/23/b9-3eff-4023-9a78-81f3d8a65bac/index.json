@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "36cb23b9-3eff-4023-9a78-81f3d8a65bac",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What can we predict about the magnetic nature of a doubly occupied molecule?",
+  "option1": "It will be paramagnetic",
+  "option2": "It will be diamagnetic",
+  "option3": "It will exhibit both paramagnetism and diamagnetism",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It will be diamagnetic",
+  "explanation": "The Molecular orbital electronic configuration can be used to predict the magnetic nature of the molecule. If all the MO’s are doubly occupied the substance shows diamagnetic behaviour and if one or more MO’s are singly occupied the substance shows paramagnetic behaviour."
+}

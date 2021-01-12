@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "85ee7188-f820-473f-ba4e-c850eb3436ff",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which of the following is used to connect computers and other end user devices to networking devices such as hubs & switches?",
+  "option1": "Router",
+  "option2": "Straight-Through Cable",
+  "option3": "Patch Cable",
+  "option4": "Both b and c",
+  "option5": "",
+  "answer": "Both b and c",
+  "explanation": "Straight-Through cable is also referred to as a “patch cable.” Straight-through cable is used to connect computers and other end user devices to networking devices such as hubs & switches."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "4f026ba7-b939-4b44-89f0-455d5b700322",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is the relationship between becquerel and curie unit?",
+  "option1": "1 curie = 0.5 Bq",
+  "option2": "1 curie = 9 × 10<sup>6</sup> Bq",
+  "option3": "1 curie = 3.7 × 10<sup>10</sup> Bq",
+  "option4": "1 curie = 5.7 Bq",
+  "option5": "",
+  "answer": "1 curie = 3.7 × 10<sup>10</sup> Bq",
+  "explanation": "1 curie = 1 Ci = 3.7 × 10<sup>10</sup> decays per second = 3.7 × 10<sup>10</sup> Bq. This is approximately the amount of radioactivity emitted by one gram (1 g) of radium-226. The 'curie' unit is named after Pierre Curie, a French physicist."
+}

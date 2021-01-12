@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "5e1c530f-8598-4b85-9d51-aaa72194bb32",
+  "labels": "current-affairs,2019-02-09",
+  "question": "What are the terms used for Technical Debt?",
+  "option1": "Code Debt",
+  "option2": "Design Debt",
+  "option3": "Both a and b",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Technical debt is a concept in software development. It reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "08dc29fc-7701-45a5-9056-bb9ccb29e420",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is the most commonly used operation in relational algebra for projecting a collection of records from a relation?",
+  "option1": "Join",
+  "option2": "Union",
+  "option3": "Select",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Select",
+  "explanation": "Select is used to view the tuples of the relation with or without some constraints. This operation is used to select rows from a table that specifies a given logic, which is called as a predicate. The predicate is a user defined condition to select rows of user's choice."
+}

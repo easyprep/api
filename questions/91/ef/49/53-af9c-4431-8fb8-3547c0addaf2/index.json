@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "91ef4953-af9c-4431-8fb8-3547c0addaf2",
+  "labels": "current-affairs,2019-02-08",
+  "question": "How many phases does a compiler has?",
+  "option1": 3,
+  "option2": 5,
+  "option3": 7,
+  "option4": 8,
+  "option5": "",
+  "answer": 8,
+  "explanation": "The compilation process is a sequence of various phases. Each phase takes input from its previous stage, has its own representation of source program, and feeds its output to the next phase of the compiler. There are around 8 phases in a compiler."
+}

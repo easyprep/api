@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "8ce49031-cc69-4ac3-a0a7-ad7982f837e5",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Garnet Operating System was developed to be used in which of the following devices?",
+  "option1": "Laptops",
+  "option2": "PDAs",
+  "option3": "Smartphones",
+  "option4": "Both b and c",
+  "option5": "",
+  "answer": "Both b and c",
+  "explanation": "Garnet OS is also known as Palm OS. It is a discontinued mobile operating system initially developed for personal digital assistants (PDAs) in 1996. Later versions of the OS have been extended to support smartphones."
+}

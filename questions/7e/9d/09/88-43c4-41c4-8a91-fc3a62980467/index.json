@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "7e9d0988-43c4-41c4-8a91-fc3a62980467",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the molecular geometry of HgCl<sub>2</sub>?",
+  "option1": "Linear",
+  "option2": "Trigonal Planar",
+  "option3": "Tetrahedral",
+  "option4": "Octahedral",
+  "option5": "",
+  "answer": "Linear",
+  "explanation": "The molecular geometry of Mercuric chloride (HgCl<sub>2</sub>) is Linear. As there is no lone pairs with Hg and the number of bonding pairs. Therefore, the hybridization is SP hybridization and the structure is Linear."
+}

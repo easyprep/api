@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "720a5e48-0940-4bd3-912b-8129a1d6720a",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following orbital will be filled first among two orbitals?",
+  "option1": "Orbital with higher value of (n+l)",
+  "option2": "Orbital with lower value of (n+l)",
+  "option3": "Orbital with lower value of (n)",
+  "option4": "Orbital with lower value of (l)",
+  "option5": "",
+  "answer": "Orbital with lower value of (n+l)",
+  "explanation": "The rule for orbital filling states that the orbitals with lower value of (n+l) are filled first as they have lower energy."
+}

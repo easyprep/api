@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e68c3384-7622-4f1c-96ed-72341397ef61",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the full form of RAID?",
+  "option1": "Redundant Array of Inexpensive Disks",
+  "option2": "Replicated Array of Independent Data",
+  "option3": "Redundant Array of Independent Disks",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Redundant Array of Independent Disks",
+  "explanation": "RAID stands for Redundant Array of Independent Disks. It is a data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both."
+}

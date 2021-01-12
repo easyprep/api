@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f803aee5-83e5-4281-bec1-05d1a0075a04",
+  "labels": "current-affairs,2019-02-14",
+  "question": "In which of the following pairs is the repulsion greatest as per the VSEPR Theory?",
+  "option1": "lone pair - lone pair",
+  "option2": "lone pair - bond pair",
+  "option3": "bond pair - bond pair",
+  "option4": "Same for all",
+  "option5": "",
+  "answer": "lone pair - lone pair",
+  "explanation": "The repulsion of a lone pair of electrons for another lone pair is greater than that between a bond pair and a lone pair which in turn is greater than that between two bond pairs. The correct order of repulsive force is as: lone pair - lone pair > lone pair - bond pair > bond pair - bond pair."
+}

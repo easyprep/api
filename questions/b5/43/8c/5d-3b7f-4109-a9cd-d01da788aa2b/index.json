@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b5438c5d-3b7f-4109-a9cd-d01da788aa2b",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following scheduling techniques is the most widely used in a time shared operating system?",
+  "option1": "Round Robin",
+  "option2": "Shortest Job First",
+  "option3": "Elevator",
+  "option4": "First Come First Serve",
+  "option5": "",
+  "answer": "Round Robin",
+  "explanation": "Round robin is used in time shared operating system, as it is more responsible. Time slices are assigned to each process in equal portions and in circular order, handling all processes without priority."
+}

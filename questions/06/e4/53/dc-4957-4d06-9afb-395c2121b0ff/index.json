@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "06e453dc-4957-4d06-9afb-395c2121b0ff",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of these methods can be used to prevent rancidity?",
+  "option1": "Adding antioxidants to the food",
+  "option2": "Storing food at low temperature",
+  "option3": "Replace the air with nitrogen in the packing material",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "When food containing fats and oils are exposed to the atmosphere, the oxidation of fat and oil occurs, this is called as Rancidity."
+}

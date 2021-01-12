@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "7bba974a-de58-49f6-b4fa-0ea118e66a7e",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the main constituent of Bio gas?",
+  "option1": "Methane",
+  "option2": "Butane",
+  "option3": "Ethyne",
+  "option4": "Nitrogen dioxide",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "Biogas refers to a mixture of different gases produced by the breakdown of organic matter in the absence of oxygen. Biogas is mainly methane and carbon dioxide and may have small amounts of hydrogen sulphide, moisture and siloxanes."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e0436956-ebe2-45e3-a90b-7deeba92fbe6",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is not a weak electrolyte?",
+  "option1": "Acetic acid",
+  "option2": "Carbonic acid",
+  "option3": "Potassium Hydroxide",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Potassium Hydroxide",
+  "explanation": "An electrolyte that does not completely dissociate in aqueous solution is known as weak electrolyte. For example: acetic acid, carbonic acid etc. Potassium Hydroxide is a strong electrolyte."
+}

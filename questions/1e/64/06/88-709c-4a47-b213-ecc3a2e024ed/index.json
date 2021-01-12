@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "1e640688-709c-4a47-b213-ecc3a2e024ed",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which among the following is most advantageous in storage in fuel cells used in small, portable electronics such as phones and laptop computers?",
+  "option1": "Methanol",
+  "option2": "Hydrogen",
+  "option3": "Formic Acid",
+  "option4": "Acetic Acid",
+  "option5": "",
+  "answer": "Formic Acid",
+  "explanation": "The cells are called Direct-formic acid fuel cells, in which formic acid is directly fed in the cells. Storage of formic acid is much easier and safer than that of hydrogen because it does not need to be done at high pressures and (or) low temperatures, as formic acid is a liquid at standard temperature and pressure. Formic acid does not cross over the polymer membrane, so its efficiency can be higher than that of methanol. Use of acetic acid in cells does not arise."
+}

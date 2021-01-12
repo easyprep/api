@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "70cdecb9-9738-4ea6-81cb-4b07af732292",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which of the following names is given to the near-minimum amount of software that can provide the mechanisms needed to implement an operating system?",
+  "option1": "Microkernel",
+  "option2": "μ-kernel",
+  "option3": "Both a and b",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "A microkernel is often abbreviated as μ-kernel. It is the near-minimum amount of software that can provide the mechanisms needed to implement an operating system."
+}

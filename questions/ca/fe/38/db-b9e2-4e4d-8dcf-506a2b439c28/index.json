@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T13:20:16.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "cafe38db-b9e2-4e4d-8dcf-506a2b439c28",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of the following metal finds its use as a radiocontrast agent in X-ray imaging?",
+  "option1": "Scandium",
+  "option2": "Lithium",
+  "option3": "Barium",
+  "option4": "Titanium",
+  "option5": "",
+  "answer": "Barium",
+  "explanation": "Barium sulfate is used as a radiocontrast agent in X-ray imaging of the digestive system. It increases the contrast of medical X-rays of the digestive system."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "a032ac6f-7ca8-4c16-818a-e4ee5b5ab535",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of these principles state that in the ground state of the atoms, the orbitals are filled in order of their increasing energies?",
+  "option1": "Pauli's exclusion principle",
+  "option2": "Hund's rule of multiplicity",
+  "option3": "Afbau principle",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Afbau principle",
+  "explanation": "Afbau principle governs the filling up of orbitals with electrons. It states that in the ground state of the atoms, the orbitals are filled in order of their increasing energies."
+}

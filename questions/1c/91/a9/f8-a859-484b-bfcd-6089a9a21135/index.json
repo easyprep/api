@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "1c91a9f8-a859-484b-bfcd-6089a9a21135",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is Zeeman effect?",
+  "option1": "splitting of spectral line in presence of magnetic field",
+  "option2": "splitting of spectral line in presence of electric field",
+  "option3": "convergence of spectral line in presence of magnetic field",
+  "option4": "convergence of spectral line in presence of electric field",
+  "option5": "",
+  "answer": "splitting of spectral line in presence of magnetic field",
+  "explanation": "Zeeman effect refers to the splitting of a spectrum line into several components by the application of a magnetic field. It is named after the Dutch physicist Pieter Zeeman."
+}

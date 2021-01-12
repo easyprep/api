@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e302d72c-98ae-4c34-8bd9-9768d7a7af60",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the reason for different molecular arrangements as per VSEPR theory?",
+  "option1": "To minimize mutual repulsion",
+  "option2": "To minimize mutual attraction",
+  "option3": "To minimize surface tension",
+  "option4": "To have the minimum area",
+  "option5": "",
+  "answer": "To minimize mutual repulsion",
+  "explanation": "As per the Valence Shell Electron Pair Repulsion (VSEPR) theory, the electron pairs (both bonding and non-bonding) around the central atom in a molecule arrange themselves in space in such a way that they minimize their mutual repulsion."
+}

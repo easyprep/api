@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "00a72a6e-0e5c-470c-b58b-6378f128dd4a",
+  "labels": "current-affairs,2019-02-16",
+  "question": "What is the name given to the undoing of partly completed database changes?",
+  "option1": "Commit",
+  "option2": "Edit",
+  "option3": "Undo",
+  "option4": "Rollback",
+  "option5": "",
+  "answer": "Rollback",
+  "explanation": "A rollback is the undoing of partly completed database changes when a database transaction is determined to have failed."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "bfe90021-0d6c-42de-a8ba-72b2f67cdb70",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which one of the following sends data packets to all devices on a network regardless of any MAC addresses?",
+  "option1": "Host Server",
+  "option2": "Switch",
+  "option3": "Hub",
+  "option4": "Central Server",
+  "option5": "",
+  "answer": "Hub",
+  "explanation": "A hub is a hardware device that relays communication data. A hub sends data packets to all devices on a network. The hub allow system administrators to monitor data passing through and to configure each port."
+}

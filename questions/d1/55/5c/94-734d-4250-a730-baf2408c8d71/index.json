@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:54.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d1555c94-734d-4250-a730-baf2408c8d71",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What do we call the region of space around the nucleus where the probability of finding an electron is maximum?",
+  "option1": "Shell",
+  "option2": "sub-shell",
+  "option3": "Orbital",
+  "option4": "electron cloud",
+  "option5": "",
+  "answer": "Orbital",
+  "explanation": "The region of space around the nucleus where the probability of finding an electron is maximum is called an orbital. The electron cloud is a visual model that represents all the orbitals in an atom"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "68866480-e977-4ee1-83bd-ae600e3376c2",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Who among the following invented the FORTRAN language?",
+  "option1": "J.W.Backus",
+  "option2": "Steff Warner",
+  "option3": "Von Neuman",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "J.W.Backus",
+  "explanation": "John Warner Backus was an American computer scientist. He invented and implemented FORTRAN which is the first widely used high- level programming language. He was the inventor of the Backus–Naur form (BNF)."
+}

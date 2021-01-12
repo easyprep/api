@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e1dd913d-5029-48ff-842f-f7d4b235492d",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the name given to the library of related functions that are not loaded into memory until they are called by the application program?",
+  "option1": "DML",
+  "option2": "DLL",
+  "option3": "DCL",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "DLL",
+  "explanation": "Dynamic Link Library is the library of related functions that are not loaded into memory until they are called by the application program. All RDM APIs are contained in DLLs on those operating systems that support them."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-05T12:08:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ea051697-abde-49cd-8e0b-d3020dec62c9",
+  "labels": "current-affairs,2019-02-06",
+  "question": "Which of the following represents the general formula for alkanes?",
+  "option1": "C<sub>n</sub>H<sub>2n</sub>",
+  "option2": "C<sub>n</sub>H<sub>2n-2</sub>",
+  "option3": "C<sub>n</sub>H<sub>2n+2</sub>",
+  "option4": "C<sub>n</sub>H<sub>n</sub>",
+  "option5": "",
+  "answer": "C<sub>n</sub>H<sub>2n+2</sub>",
+  "explanation": "Alkanes are saturated open chain hydrocarbons containing carbon - carbon single bonds."
+}

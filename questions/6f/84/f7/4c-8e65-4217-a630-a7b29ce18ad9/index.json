@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6f84f74c-8e65-4217-a630-a7b29ce18ad9",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the name given to the computing infrastructure close to the sources of data?",
+  "option1": "Edge Computing",
+  "option2": "Embedded Computing",
+  "option3": "Encrypted Computing",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Edge Computing",
+  "explanation": "Edge computing refers to the computing infrastructure at the edge of the network, close to the sources of data. Edge computing reduces the communications bandwidth needed between sensors and the datacenter."
+}

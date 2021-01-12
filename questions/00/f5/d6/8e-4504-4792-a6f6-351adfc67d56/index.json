@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "00f5d68e-4504-4792-a6f6-351adfc67d56",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the name given to the technique of connecting computers?",
+  "option1": "Node",
+  "option2": "Topology",
+  "option3": "Architecture",
+  "option4": "Ring",
+  "option5": "",
+  "answer": "Topology",
+  "explanation": "Computer networks can be broken down historically into topologies, which is a technique of connecting computers. The most common topology today is a collapsed ring."
+}

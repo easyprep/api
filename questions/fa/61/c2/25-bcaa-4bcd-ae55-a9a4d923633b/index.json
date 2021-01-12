@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T12:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "fa61c225-bcaa-4bcd-ae55-a9a4d923633b",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of these is not an addition polymer?",
+  "option1": "PVC",
+  "option2": "Nylon 66",
+  "option3": "Polypropylene",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Nylon 66",
+  "explanation": "A polymer formed by direct addition of repeated monomers without the elimination of any small molecule is called addition polymer. Examples are polyethene, polypropylene and polyvinyl chloride, etc."
+}

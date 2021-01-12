@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c83b48ce-e113-47ab-89d6-ca860dd9b9f9",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the shape of XeF<sub>4</sub> molecule?",
+  "option1": "T-shaped",
+  "option2": "Bent",
+  "option3": "See-saw",
+  "option4": "Square planar",
+  "option5": "",
+  "answer": "Square planar",
+  "explanation": "The shape of XeF<sub>4</sub> molecule is Square planar. As per VSEPR theory, there is repulsion between lone pair electrons and bond pair electrons as a result the Xenon tetrafluoride becomes square planar to achieve the stable state."
+}

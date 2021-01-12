@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "504d55d6-81ee-48af-a99b-e3a1695a8358",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following types a PEM cell belongs to?",
+  "option1": "Galvanic cell",
+  "option2": "Fuel cell",
+  "option3": "Dry cell",
+  "option4": "Electrolytic cell",
+  "option5": "",
+  "answer": "Fuel cell",
+  "explanation": "Proton-exchange membrane fuel cells or polymer electrolyte membrane (PEM) fuel cells (PEMFC), are a type of fuel cell which uses hydrogen gas (H2) and oxygen gas (O2) as fuel. A fuel cell is a device that converts chemical potential energy (energy stored in molecular bonds) into electrical energy."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "56196652-fbec-48fa-b9e0-dee23e92282a",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following are the two categories of the Low Level Languages?",
+  "option1": "Machine Level and Assembly Level Language",
+  "option2": "Algorithms and Assembly Level Language",
+  "option3": "Assembly and Binary Level Language",
+  "option4": "Machine Level and Algorithms",
+  "option5": "",
+  "answer": "Machine Level and Assembly Level Language",
+  "explanation": "In case of Low-level languages, the programmer is able to tune the code to be smaller or more efficient. There are two types of low-level languages. Machine Language which is a language that is directly interpreted into the hardware. Assembly Language is slightly more user-friendly language that directly corresponds to machine language."
+}

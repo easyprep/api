@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "cdfb0efe-cfe5-496f-9e8f-6fb194145d42",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Choose the correct statement about the modern periodic table:",
+  "option1": "Metallic character increases across a period",
+  "option2": "Metallic character decreases down a group",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "As the effective nuclear charge acting on the valence shell electrons increases across a period, the tendency to lose electrons will decrease. The Metallic character decreases across a period and increases down a group."
+}

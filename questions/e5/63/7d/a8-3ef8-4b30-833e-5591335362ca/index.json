@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e5637da8-3ef8-4b30-833e-5591335362ca",
+  "labels": "current-affairs,2019-02-14",
+  "question": "From which element in the modern periodic table, the 3d transition series starts?",
+  "option1": "Zinc",
+  "option2": "Iron",
+  "option3": "Scandium",
+  "option4": "Copper",
+  "option5": "",
+  "answer": "Scandium",
+  "explanation": "The 3d transition series starts from scandium (Z = 21) and completes at zinc (Z=30). Reason for this transition series is that before the 4p orbital is filled, filling up of 3d orbitals becomes energetically favourable."
+}

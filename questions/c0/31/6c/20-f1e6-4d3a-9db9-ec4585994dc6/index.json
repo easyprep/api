@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c0316c20-f1e6-4d3a-9db9-ec4585994dc6",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Choose the correct order in terms of Metallic character of these elements?",
+  "option1": "Na> Mg >Be > P",
+  "option2": "Mg >Be > P > Na",
+  "option3": "Be> Mg > P > Na",
+  "option4": "P> Be >Mg > Na",
+  "option5": "",
+  "answer": "Na> Mg >Be > P",
+  "explanation": "The correct order would be Na> Mg >Be > P. Metallic character increases down a group and decreases along a period as we move from left to right."
+}

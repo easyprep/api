@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c7400d4b-0cd1-4939-985c-e33f661fbd2b",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following material is used to make control rods in a nuclear reactor?",
+  "option1": "Indium",
+  "option2": "Boron",
+  "option3": "Cadmium",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The reaction rate is controlled through control-rods made out of neutron-absorbing materials. They are composed of chemical elements such as boron, silver, indium and cadmium that are capable of absorbing many neutrons without themselves fissioning."
+}

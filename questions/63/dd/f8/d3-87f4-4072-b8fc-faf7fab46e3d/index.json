@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "63ddf8d3-87f4-4072-b8fc-faf7fab46e3d",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of these elements do not belong to the same group?",
+  "option1": "Nickel",
+  "option2": "Platinum",
+  "option3": "Darmstadtium",
+  "option4": "Roentgenium",
+  "option5": "",
+  "answer": "Roentgenium",
+  "explanation": "Nickel, Platinum and Darmstadtium belongs to Group number 10 whereas element Roentgenium is placed in group number 11."
+}

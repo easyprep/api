@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "4c19e221-6ff8-436d-832f-09deed8fea2d",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which language is used to make changes made by the DML statement?",
+  "option1": "Data Definition Language",
+  "option2": "Data Control Language",
+  "option3": "Transaction Control Language",
+  "option4": "Structured Query Language",
+  "option5": "",
+  "answer": "Transaction Control Language",
+  "explanation": "Transaction Control Language is used to run the changes made by the DML statement.(TCL) commands are used to manage transactions in the database."
+}

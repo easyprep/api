@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f59b7bec-1b15-431a-929a-9b553f07d4a5",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of these species will have the largest atomic size?",
+  "option1": "Na",
+  "option2": "Mg",
+  "option3": "Mg<sup>2+</sup>",
+  "option4": "K",
+  "option5": "",
+  "answer": "K",
+  "explanation": "Atomic size increases down the group as new shells are added. Therefore, Potassium (K) will have the largest size among the given elements as it belongs to the 4th period where as other elements belong to 3rd period."
+}

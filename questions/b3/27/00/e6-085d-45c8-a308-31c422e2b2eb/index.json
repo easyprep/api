@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b32700e6-085d-45c8-a308-31c422e2b2eb",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which one of the following devices converts digital signal to analog signal and vice versa?",
+  "option1": "Switch",
+  "option2": "Router",
+  "option3": "Modem",
+  "option4": "Bridge",
+  "option5": "",
+  "answer": "Modem",
+  "explanation": "Modem is a device that converts digital signal to analog signal as a modulator and analog signal to digital signal as a demodulator. Asynchronous modem uses start and stop bit for synchronization instead of clock."
+}

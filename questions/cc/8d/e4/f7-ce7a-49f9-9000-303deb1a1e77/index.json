@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "cc8de4f7-ce7a-49f9-9000-303deb1a1e77",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following is correct about Mendeleev's Periodic Table?",
+  "option1": "Argon is placed before Potassium",
+  "option2": "Cobalt is placed before Nickel",
+  "option3": "Tellurium is placed before iodine",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "All statements represent the anomalous pairs of elements in Mendeleev's Periodic Table. The atomic mass of argon is 39.9 and that of potassium 39.1. But argon is placed before potassium in the periodic table. Similarly, Tellurium is placed before iodine and Cobalt is placed before Nickel."
+}

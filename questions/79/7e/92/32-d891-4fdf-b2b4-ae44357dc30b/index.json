@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "797e9232-d891-4fdf-b2b4-ae44357dc30b",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the direction of current in a galvanic cell?",
+  "option1": "same as the direction of electrons",
+  "option2": "opposite to the direction of electrons",
+  "option3": "Cant be determined",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "opposite to the direction of electrons",
+  "explanation": "As the switch in the galvanic cell is in the on position, the electrons flow from negative electrode to positive electrode. The direction of current flow is opposite to that of electron flow."
+}

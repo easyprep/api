@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c18e87ae-a2b2-42bb-bf43-43875a0261cd",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the full form of DHCP?",
+  "option1": "Dynamic Host Configuration Protocol",
+  "option2": "Destined Host Configuration Protocol",
+  "option3": "Data Hosting Central Protocol",
+  "option4": "Dynamic Housing Central Protocol",
+  "option5": "",
+  "answer": "Dynamic Host Configuration Protocol",
+  "explanation": "DHCP stands for Dynamic Host Configuration Protocol. It is a client/server protocol that automatically provides an Internet Protocol host with its IP address and other related configuration information."
+}

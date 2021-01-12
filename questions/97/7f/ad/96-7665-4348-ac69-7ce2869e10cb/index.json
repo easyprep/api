@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "977fad96-7665-4348-ac69-7ce2869e10cb",
+  "labels": "current-affairs,2019-02-10",
+  "question": "When is the gamma ray emitted?",
+  "option1": "When a nucleus in a ground state goes to the excited state",
+  "option2": "When a nucleus in an excited state spontaneously decays to its ground state",
+  "option3": "When alpha rays and beta rays collide",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "When a nucleus in an excited state spontaneously decays to its ground state",
+  "explanation": "When a nucleus in an excited state spontaneously decays to its ground state (or to a lower energy state), a photon is emitted with energy equal to the difference in the two energy levels of the nucleus. This is the so-called gamma decay."
+}

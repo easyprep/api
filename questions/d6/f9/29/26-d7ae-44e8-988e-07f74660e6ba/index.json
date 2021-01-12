@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d6f92926-d7ae-44e8-988e-07f74660e6ba",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which of the following are the objects in Microsoft Access?",
+  "option1": "Tables",
+  "option2": "Queries",
+  "option3": "Reports",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Databases in MS Access are composed of four objects.These are tables, queries, forms, and reports.Together, these objects allow us to enter, store, analyze, and compile data according to the wish."
+}

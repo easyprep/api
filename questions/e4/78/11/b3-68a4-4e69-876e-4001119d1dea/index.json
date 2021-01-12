@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e47811b3-68a4-4e69-876e-4001119d1dea",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is true about Rutherford model of atom?",
+  "option1": "it explains how the electrons are distributed around the nucleus",
+  "option2": "It cannot explain about the stability of an atom around the nucleus",
+  "option3": "It tells us about the energies of the electrons around the nucleus",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "It cannot explain about the stability of an atom around the nucleus",
+  "explanation": "A serious limitation of the Rutherford model is that it says nothing about the electronic structure of atoms i.e., how the electrons are distributed around the nucleus and what are the energies of these electrons. Also, the Rutherford model cannot explain the stability of an atom."
+}

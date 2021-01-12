@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-05T12:08:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "46956e57-9db0-403c-965b-256fd5f98194",
+  "labels": "current-affairs,2019-02-06",
+  "question": "Which of the following is correct about Hard water?",
+  "option1": "it is free from soluble salts of calcium and magnesium",
+  "option2": "it does not give lather with soap",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it does not give lather with soap",
+  "explanation": "Presence of calcium and magnesium salts in the form of hydrogencarbonate, chloride and sulphate in water makes water ‘hard’. Hard water does not give lather with soap."
+}

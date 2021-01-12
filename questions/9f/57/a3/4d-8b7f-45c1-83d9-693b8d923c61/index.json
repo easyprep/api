@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9f57a34d-8b7f-45c1-83d9-693b8d923c61",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following features are considered for a compound to be aromatic?",
+  "option1": "Planarity",
+  "option2": "Complete delocalisation of the π electrons in the ring",
+  "option3": "Presence of (4n + 2) π electrons in the ring where n is an integer",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The following features are considered for a compound to be aromatic as per Huckel rule: (i) Planarity (ii) Complete delocalisation of the π electrons in the ring (iii) Presence of (4n + 2) π electrons in the ring where n is an integer (n = 0, 1, 2, . . .) where n can be any integer."
+}

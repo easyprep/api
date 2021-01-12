@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "236f7422-0c98-46ce-a7fa-898c2028a51e",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following quantum number is also known as orbital angular momentum?",
+  "option1": "Principal quantum number",
+  "option2": "Azimuthal quantum number",
+  "option3": "Magnetic quantum number",
+  "option4": "Electron spin quantum number",
+  "option5": "",
+  "answer": "Azimuthal quantum number",
+  "explanation": "Azimuthal quantum number is also known as orbital angular momentum or subsidiary quantum number. It is represented by ‘l’."
+}

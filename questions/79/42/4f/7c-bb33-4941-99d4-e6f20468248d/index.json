@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:14:26.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "79424f7c-bb33-4941-99d4-e6f20468248d",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is correct about the properties of a solution?",
+  "option1": "The particles of a solution can be seen by naked eyes",
+  "option2": "The particles of a solution scatter a beam of light passing through the solution",
+  "option3": "The solute particles do not settle down when left undisturbed",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "The solute particles do not settle down when left undisturbed",
+  "explanation": "The particles of a solution are smaller than 1 nm in diameter. So, they cannot be seen by naked eyes. Because of very small particle size, they do not scatter a beam of light passing through the solution. The solute particles do not settle down when left undisturbed, that is, a solution is stable."
+}

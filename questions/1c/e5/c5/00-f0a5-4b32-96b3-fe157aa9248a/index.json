@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:09:11.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "1ce5c500-f0a5-4b32-96b3-fe157aa9248a",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Choose the correct statement about Litmus solution:",
+  "option1": "Its colour is brown",
+  "option2": "It is slightly acidic in nature",
+  "option3": "It is extracted from lichen",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "It is extracted from lichen",
+  "explanation": "Litmus solution is purple in colour. It is neither acidic nor basic in nature. It is extracted from lichen, a plant belonging to the division Thallophyta, and is commonly used as an indicator."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:08:48.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b9a1979e-9292-43fb-acc7-cbdf01d1f02a",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What does the COMAL stands for?",
+  "option1": "Common Algebraic Language",
+  "option2": "Common Algorithmic Language",
+  "option3": "Common Algebraic Language",
+  "option4": "Computer Algebraic Language",
+  "option5": "",
+  "answer": "Common Algorithmic Language",
+  "explanation": "COMAL stands for Common Algorithmic Language. It is a computer programming language developed by Benedict Lofstedt in 1973. COMAL was one of the few structured programming languages that was available for and comfortably usable on 8-bit home computers."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b6399383-c4d5-4681-bb52-0478050cd4db",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which among the following are the basic components of a relational database model?",
+  "option1": "Table",
+  "option2": "Record",
+  "option3": "Field",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "In the relational database model, data is stored in relations, more commonly known as tables. Tables, records (sometimes known as tuples), and fields (sometimes known as attributes) are the basic components of a RDBMS."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "bba9ed6c-c77b-46d6-a8be-626604da55a5",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the change in the rate constant for a chemical reaction when temperature rises by 10° C?",
+  "option1": "The rate constant is constant",
+  "option2": "The rate constant is nearly doubled",
+  "option3": "The rate constant is nearly halved",
+  "option4": "The rate constant becomes four times",
+  "option5": "",
+  "answer": "The rate constant is nearly doubled",
+  "explanation": "For a chemical reaction with rise in temperature by 10°, the rate constant is nearly doubled. Most of the chemical reactions are accelerated by increase in temperature."
+}

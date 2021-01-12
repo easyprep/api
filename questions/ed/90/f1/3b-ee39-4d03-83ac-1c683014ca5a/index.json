@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ed90f13b-ee39-4d03-83ac-1c683014ca5a",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which one of the following is a discontinued computer network operating system developed by Novell, Inc.?",
+  "option1": "Netware",
+  "option2": "Novellware",
+  "option3": "IPX network",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Netware",
+  "explanation": "NetWare is a discontinued computer network operating system developed by Novell, Inc. It uses IPX network protocol."
+}

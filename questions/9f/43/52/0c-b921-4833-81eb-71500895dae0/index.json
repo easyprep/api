@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9f43520c-b921-4833-81eb-71500895dae0",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of these species are isoelectronic?",
+  "option1": "Al<sup>+</sup> , B<sup>-</sup>",
+  "option2": "Mg<sup>+</sup> , Cu<sup>-</sup>",
+  "option3": "Na<sup>+</sup> , Al<sup>-</sup>",
+  "option4": "Na<sup>+</sup> , F<sup>-</sup>",
+  "option5": "",
+  "answer": "Na<sup>+</sup> , F<sup>-</sup>",
+  "explanation": "Isoelectronic species are those species which have the same number of electrons. In the above case, both Na<sup>+</sup> and F<sup>- </sup> have 10 electrons."
+}

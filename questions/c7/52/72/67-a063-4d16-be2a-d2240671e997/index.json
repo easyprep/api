@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c7527267-a063-4d16-be2a-d2240671e997",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the product when Methane reacts with steam in the presence of Nickel catalyst?",
+  "option1": "Carbon dioxide and ethane",
+  "option2": "Ethyne",
+  "option3": "Carbon monoxide and dihydrogen",
+  "option4": "Carbon monoxide and Water vapour",
+  "option5": "",
+  "answer": "Carbon monoxide and dihydrogen",
+  "explanation": "Methane reacts with steam at 1he temperature of 273 K in the presence of nickel catalyst to form carbon monoxide and dihydrogen. This method is used for industrial preparation of dihydrogen gas."
+}

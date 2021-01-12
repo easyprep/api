@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:17:49.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "1edcb0ba-c8bb-4dc1-a93d-95305a92cc64",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is a correct statement about minerals and ores?",
+  "option1": "All minerals are ores",
+  "option2": "All ores are minerals",
+  "option3": "Minerals are the native form in which various metals exist",
+  "option4": "Ores are usually used to extract metals economically",
+  "option5": "",
+  "answer": "All minerals are ores",
+  "explanation": "All ores are minerals but all minerals are not ores. Minerals are the native form in which various metals exist and ores are those minerals which are used to extract metals economically."
+}

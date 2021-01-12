@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-04T15:54:57.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "888e8444-86a2-4683-968c-4ea6cc6cea00",
+  "labels": "current-affairs,2019-02-05",
+  "question": "Which of the following is the software that resides on a single computer and does not interact with any other software installed in a different computer?",
+  "option1": "Embedded Software",
+  "option2": "Stand Alone Software",
+  "option3": "Real time software",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "Stand Alone Software",
+  "explanation": "Standalone program is one that run as a separate computer process, not an add-on of an existing process. It is an application, which can be run without the need for installation procedure."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:12.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b49a594f-12be-4ab0-8b5b-0da6ced58167",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is the S.I unit of activity?",
+  "option1": "becquerel",
+  "option2": "curie",
+  "option3": "candela",
+  "option4": "henry",
+  "option5": "",
+  "answer": "becquerel",
+  "explanation": "The SI unit for activity is becquerel, named after the discoverer of radioactivity, Henry Becquerel. The c.g.s unit of activity is curie."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:49:30.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ced2d900-daef-4759-bf2e-2e40df7ef1e9",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Choose the correct statement:",
+  "option1": "Molecularity can be zero",
+  "option2": "Molecularity cannot be a non integer",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Molecularity cannot be a non integer",
+  "explanation": "Order of a reaction is an experimental quantity. It can be zero and even a fraction but molecularity cannot be zero or a non integer."
+}

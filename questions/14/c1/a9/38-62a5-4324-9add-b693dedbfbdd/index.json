@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:14:27.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "14c1a938-62a5-4324-9add-b693dedbfbdd",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following is correct about Manganin?",
+  "option1": "It is an alloy of copper, manganese and nickel",
+  "option2": "It has virtually zero temperature coefficient of resistance",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Manganin is an alloy of copper, manganese and nickel. It is used in the manufacture of resistors due to its virtually zero temperature coefficient of resistance."
+}

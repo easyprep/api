@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "da22ba89-abd1-4f13-b74a-35bb8e8f39b9",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following is the connectivity range of a Personal Area Network?",
+  "option1": "10 meters",
+  "option2": "7 meters",
+  "option3": "6 meters",
+  "option4": "9 meters",
+  "option5": "",
+  "answer": "10 meters",
+  "explanation": "A Personal Area Network is smallest network which is very personal to a user.PAN has connectivity range up to 10 meters. PAN may include wireless computer keyboard and mouse, Bluetooth enabled headphones, wireless printers and TV remotes."
+}

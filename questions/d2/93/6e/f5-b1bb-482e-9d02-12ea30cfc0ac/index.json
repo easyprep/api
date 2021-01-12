@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d2936ef5-b1bb-482e-9d02-12ea30cfc0ac",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which of the following devices has high bandwidth?",
+  "option1": "Switch",
+  "option2": "Router",
+  "option3": "Modem",
+  "option4": "Bridge",
+  "option5": "",
+  "answer": "Switch",
+  "explanation": "A network switch is a computer networking device that connects devices on a computer network by using packet switching to receive, process, and forward data to the destination device."
+}

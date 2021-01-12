@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:14:26.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "dbe20775-ab40-485f-876c-c92bd193f2ba",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is Tyndall effect?",
+  "option1": "scattering of a beam of light by the particles of a suspension",
+  "option2": "refraction of a beam of light by the particles of a solution",
+  "option3": "scattering of a beam of light by the particles of a colloid",
+  "option4": "reflection of a beam of light by the particles of a suspension",
+  "option5": "",
+  "answer": "scattering of a beam of light by the particles of a colloid",
+  "explanation": "The scattering of a beam of light by the particles of a colloid is called the Tyndall effect."
+}

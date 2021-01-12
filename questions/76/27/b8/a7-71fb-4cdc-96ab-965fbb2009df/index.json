@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T17:26:38.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "7627b8a7-71fb-4cdc-96ab-965fbb2009df",
+  "labels": "current-affairs,2019-02-19",
+  "question": "What is the H-C-H bond angle in a methane molecule?",
+  "option1": "120°",
+  "option2": "75°",
+  "option3": "109.5°",
+  "option4": "150°",
+  "option5": "",
+  "answer": "109.5°",
+  "explanation": "According to VSEPR theory, methane has a tetrahedral structure which is multiplanar, in which carbon atom lies at the centre and the four hydrogen atoms lie at the four corners of a regular tetrahedron. All H-C-H bond angles are of 109.5°."
+}

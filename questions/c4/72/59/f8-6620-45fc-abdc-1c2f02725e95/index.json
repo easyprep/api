@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:09:12.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c47259f8-6620-45fc-abdc-1c2f02725e95",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Choose the correct statement:",
+  "option1": "Tooth enamel is made up of calcium phosphate",
+  "option2": "Tooth decay starts when the pH of the mouth is lower than 5.5",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "pH change of the mouth is the cause of tooth decay. Tooth decay starts when the pH of the mouth is lower than 5.5. Tooth enamel, made up of calcium phosphate is the hardest substance in the body. It does not dissolve in water, but is corroded when the pH in the mouth is below 5.5."
+}

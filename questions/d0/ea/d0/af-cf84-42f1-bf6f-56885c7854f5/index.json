@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-15T16:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "d0ead0af-cf84-42f1-bf6f-56885c7854f5",
+  "labels": "current-affairs,2019-02-16",
+  "question": "Which of the following are the examples of ORDBMS?",
+  "option1": "PostgreSQL",
+  "option2": "Greenplum",
+  "option3": "SQL Server",
+  "option4": "All of the Above",
+  "option5": "",
+  "answer": "All of the Above",
+  "explanation": "Examples of ORDBMSs include PostgreSQL developed by the PostgreSQL Global Development Group,Oracle Database by Oracle Corporation, Informix by IBM,SQL Server by Microsoft and Greenplum Database by Pivotal Software etc."
+}

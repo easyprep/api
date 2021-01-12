@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f69e14dc-0c27-424d-bdd8-c6f04dd69996",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What do we call the cell potential when no current is drawn through the galvanic cell?",
+  "option1": "Zero potential",
+  "option2": "E.M.F",
+  "option3": "Equilibrium potential",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "E.M.F",
+  "explanation": "The cell potential is called the cell electromotive force (emf) of the cell when no current is drawn through the cell. Also, It is now an accepted convention that we keep the anode on the left and the cathode on the right while representing the galvanic cell."
+}

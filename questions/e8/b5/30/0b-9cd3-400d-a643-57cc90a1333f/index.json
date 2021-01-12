@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "e8b5300b-9cd3-400d-a643-57cc90a1333f",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What can be the maximum number of electrons in a shell, if principal quantum number is n?",
+  "option1": "n",
+  "option2": "n<sup>2</sup>",
+  "option3": "2n<sup>2</sup>",
+  "option4": "3n<sup>3</sup>",
+  "option5": "",
+  "answer": "2n<sup>2</sup>",
+  "explanation": "The general formula is that the nth shell can hold up to 2n<sup>2</sup> electrons. For example: for L shell n =2, so maximum number of electrons will be 2(2<sup>2</sup>) i.e. 8."
+}

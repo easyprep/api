@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "441b220d-4400-4cad-9a0f-570c584c4c0d",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the full form of BLOB?",
+  "option1": "Binary Long Object",
+  "option2": "Binary Large Object",
+  "option3": "Basic Leverage Object",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Binary Long Object",
+  "explanation": "BLOB stands for Binary Large Object. In SQL, BLOB can be a general term for any data of type long varbinary, long varchar, or long wvarchar. It is also a specific term for data of type long varbinary."
+}

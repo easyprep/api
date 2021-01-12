@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f1501e10-5ede-46b1-99b7-aab4f1bc243e",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which of the following device distributes network traffic across a number of servers?",
+  "option1": "IDS",
+  "option2": "Load Balancer",
+  "option3": "Switch",
+  "option4": "Hub",
+  "option5": "",
+  "answer": "Load Balancer",
+  "explanation": "A load balancer is a device that acts as a reverse proxy and distributes network or application traffic across a number of servers. Load balancers are used to increase capacity and reliability of applications"
+}

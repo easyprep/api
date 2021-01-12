@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "cf3b6f71-69a1-49ce-9844-887df9bd9217",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Which of the following represents the bond order in Molecular orbital theory?",
+  "option1": "half the difference between the number of bonding and antibonding electrons",
+  "option2": "twice the difference between the number of bonding and antibonding electrons",
+  "option3": "the difference between the number of bonding and antibonding electrons",
+  "option4": "the sum of the number of bonding and antibonding electrons",
+  "option5": "",
+  "answer": "half the difference between the number of bonding and antibonding electrons",
+  "explanation": "The bond order in Molecular orbital theory is given by half the difference between the number of bonding and antibonding electrons."
+}

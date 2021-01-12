@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T17:21:56.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "0f481fc4-7d9f-4714-b32b-5299b3fc794f",
+  "labels": "current-affairs,2019-02-08",
+  "question": "A parser generator takes a grammar as input and automatically generates source code that can parse streams of characters using the grammar. Which of the following software tools is a parse generator?",
+  "option1": "Lex",
+  "option2": "Yacc",
+  "option3": "Both a and b",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Yacc",
+  "explanation": "Yacc stands for \"yet another compiler compiler. It is the standard parser generator for the Unix operating system. Yacc generates code for the parser in the C programming language."
+}

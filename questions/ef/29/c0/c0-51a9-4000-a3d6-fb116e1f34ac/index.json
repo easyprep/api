@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "ef29c0c0-51a9-4000-a3d6-fb116e1f34ac",
+  "labels": "current-affairs,2019-02-14",
+  "question": "Choose the correct statement:",
+  "option1": "A cation and an anion are smaller than their parent atom",
+  "option2": "An Anion with the greater negative charge has larger radius",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "An Anion with the greater negative charge has larger radius",
+  "explanation": "A cation is smaller than its parent atom because it has fewer electrons while its nuclear charge remains the same. The size of an anion will be larger than that of the parent atom because the addition of one or more electrons would result in increased repulsion among the electrons and a decrease in effective nuclear charge. Also, An Anion with the greater negative charge has larger radius."
+}

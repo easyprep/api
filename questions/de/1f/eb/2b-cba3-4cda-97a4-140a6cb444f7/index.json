@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:19:58.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "de1feb2b-cba3-4cda-97a4-140a6cb444f7",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following is / are correct statements with respect to diamond?\r\n<ol>\r\n \t<li>Diamond is the hardest known natural material</li>\r\n \t<li>At room temperature, diamonds do not react with any chemical reagents including strong acids and bases.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Diamond is the hardest natural substance known on earth. Diamond is extremely hard and transparent. It doesn’t conduct electricity and has a higher melting point than Graphite. At room temperature, diamonds do not react with any chemical reagents including strong acids and bases."
+}

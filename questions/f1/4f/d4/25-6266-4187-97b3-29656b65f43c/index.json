@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:32.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "f14fd425-6266-4187-97b3-29656b65f43c",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the name given to the special type of stored procedure that automatically executes when an event occurs in the database server?",
+  "option1": "Deadlock",
+  "option2": "Trigger",
+  "option3": "Instance",
+  "option4": "Rollback",
+  "option5": "",
+  "answer": "Trigger",
+  "explanation": "A database trigger is procedural code that is automatically executed in response to certain events on a particular table or view in a database. The trigger is mostly used for maintaining the integrity of the information on the database."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-21T12:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "10f431d8-cbd2-4df5-b840-e289fda9c71d",
+  "labels": "current-affairs,2019-02-22",
+  "question": "Which of these polymers are used to produce Butyl-rubber?",
+  "option1": "butadiene and neoprene",
+  "option2": "butadiene and styrene",
+  "option3": "butadiene and acrylonitrile",
+  "option4": "butadiene and isobutylene",
+  "option5": "",
+  "answer": "butadiene and isobutylene",
+  "explanation": "Butyl-rubber is a synthetic rubber which is obtained as a result of co-polymerization of butadiene and isobutylene."
+}

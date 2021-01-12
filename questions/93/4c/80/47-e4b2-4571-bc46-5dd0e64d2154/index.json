@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T02:16:03.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "934c8047-e4b2-4571-bc46-5dd0e64d2154",
+  "labels": "current-affairs,2019-02-18",
+  "question": "Which of the following represents the conductivity of the solution?",
+  "option1": "Cell constant x Resistance",
+  "option2": "Cell constant / Resistance",
+  "option3": "Cell constant x (Resistance)<sup>2</sup>",
+  "option4": "2 x Cell constant x Resistance",
+  "option5": "",
+  "answer": "Cell constant / Resistance",
+  "explanation": "The conductivity of the solution is given by the equation: Cell constant / Resistance. The conductivity of solutions of different electrolytes in the same solvent and at a given temperature varies due to charge and size of the ions in which they dissociate, the concentration of ions or ease with which the ions move under a potential gradient"
+}

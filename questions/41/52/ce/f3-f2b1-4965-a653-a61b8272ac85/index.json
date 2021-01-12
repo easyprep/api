@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:08.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "4152cef3-f2b1-4965-a653-a61b8272ac85",
+  "labels": "current-affairs,2019-02-21",
+  "question": "Which of the following are the basic functions of a gateway?",
+  "option1": "Protocol Translation",
+  "option2": "DHCP Service",
+  "option3": "Network Address Translation",
+  "option4": "All of the Above4",
+  "option5": "",
+  "answer": "All of the Above4",
+  "explanation": "A gateway performs many function. Some of them are Protocol translation, network address translation and DHCP service. It is used to route the traffic from one network to another and to connect LAN to WAN or VPN."
+}

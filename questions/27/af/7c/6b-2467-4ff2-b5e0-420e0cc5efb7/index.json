@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "27af7c6b-2467-4ff2-b5e0-420e0cc5efb7",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which orbital will have lower energy if two orbitals have the same value of (n+l)?",
+  "option1": "orbital with lower value of n",
+  "option2": "orbital with lower value of l",
+  "option3": "orbital with lower value of (n-l)",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "orbital with lower value of n",
+  "explanation": "If two orbitals have the same value of (n+l) then orbital with lower value of n will have lower energy. Also, energies of the orbitals in the same subshell decrease with increase in atomic number."
+}

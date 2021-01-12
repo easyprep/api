@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "2ac1f4c6-2b71-456a-99c1-90ca4148830f",
+  "labels": "current-affairs,2019-02-10",
+  "question": "What is the multiplication factor when the nuclear reactor is said to be critical?",
+  "option1": 0,
+  "option2": 1,
+  "option3": 2,
+  "option4": 10,
+  "option5": "",
+  "answer": 1,
+  "explanation": "The multiplication factor is the measure of the growth rate of the neutrons in the reactor. For K = 1, the operation of the reactor is said to be critical."
+}

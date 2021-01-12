@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c669bc71-c01b-4b36-bba2-93686ef5d2c7",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of these processes is responsible for the energy released in an atom bomb?",
+  "option1": "Nuclear Fission",
+  "option2": "Nuclear Fusion",
+  "option3": "Gamma decay",
+  "option4": "None",
+  "option5": "",
+  "answer": "Nuclear Fission",
+  "explanation": "The source of energy in nuclear reactors, which produce electricity, is nuclear fission. The enormous energy released in an atom bomb comes from uncontrolled nuclear fission."
+}

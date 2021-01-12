@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-17T01:56:33.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6d0109bc-ff16-4ae6-b175-3adfb70e6d3d",
+  "labels": "current-affairs,2019-02-18",
+  "question": "What is the name given to the situation where the lock waits only for a specified amount of time for another lock to be released?",
+  "option1": "Wait Around",
+  "option2": "Timeout",
+  "option3": "Lock Timeout",
+  "option4": "Wait Wound",
+  "option5": "",
+  "answer": "Lock Timeout",
+  "explanation": "The Lock Timeout event class indicates that a request for a lock on a resource. It has timed out because another transaction is holding a blocking lock on the required resource."
+}

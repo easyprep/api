@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:58:00.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "4493f151-7080-46c3-b653-e0dfe3d35052",
+  "labels": "current-affairs,2019-02-09",
+  "question": "Which of the following issues are related to the Software aging?",
+  "option1": "Quality of Software decreases",
+  "option2": "Entropy of Software increases",
+  "option3": "Both a and b",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Software aging refers to progressive performance degradation of a software system due to exhaustion of operating system resources, fragmentation and accumulation of errors."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:36:55.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c54fad41-0002-4e63-913a-86754675aef6",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following was discovered in Milikan's oil drop experiment?",
+  "option1": "Charge on a proton",
+  "option2": "Charge on an electron",
+  "option3": "Charge to mass ratio of an electron",
+  "option4": "Mass of a Hydrogen atom",
+  "option5": "",
+  "answer": "Charge on an electron",
+  "explanation": "R.A. Millikan devised a method known as oil drop experiment (1906-14), to determine the charge on the electrons. As per the experiment, the charge on the electron was found to be – 1.6 × 10<sup>–19</sup> C."
+}

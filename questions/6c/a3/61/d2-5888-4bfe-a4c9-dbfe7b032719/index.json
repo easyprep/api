@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "6ca361d2-5888-4bfe-a4c9-dbfe7b032719",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the period and group number of Silicon (Z=14) in the periodic table?",
+  "option1": "2nd Period, 4th Group number",
+  "option2": "2nd Period, 14th Group number",
+  "option3": "3rd Period, 4th Group number",
+  "option4": "3rd Period, 14th Group number",
+  "option5": "",
+  "answer": "3rd Period, 14th Group number",
+  "explanation": "Silicon has an atomic number 14 and the outer electronic configuration is 3s<sup>2</sup> 3ps<sup>2</sup>. It is placed at the 3rd Period and 14th Group number."
+}

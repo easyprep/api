@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-09T01:40:13.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "c54c3b78-b2cf-4ad3-9d72-d15e95e2463b",
+  "labels": "current-affairs,2019-02-10",
+  "question": "Which of the following alpha-emitter is commonly used in smoke detectors?",
+  "option1": "Bismuth - 209",
+  "option2": "Amrecium-231",
+  "option3": "Uranium-238",
+  "option4": "Protactinium-231",
+  "option5": "",
+  "answer": "Amrecium-231",
+  "explanation": "Americium-241 is an isotope of americium. It is the most common isotope of americium having a half-life of 432.2 years. It is radioactive and is commonly used in ionization type smoke detectors."
+}

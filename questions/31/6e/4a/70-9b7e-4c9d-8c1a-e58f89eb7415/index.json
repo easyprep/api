@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-07T21:23:47.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "316e4a70-9b7e-4c9d-8c1a-e58f89eb7415",
+  "labels": "current-affairs,2019-02-08",
+  "question": "Which among the following is / are significant uses of Hydrogen globally? <ol> <li>Fuel for Vehicles</li> <li>Production of Fertilizers</li> <li>Production of Petroleum Fuels</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "As of now, some companies are working to develop technologies that might efficiently exploit the potential of hydrogen energy for mobile uses. The attraction of using hydrogen as an energy currency is that, if hydrogen is prepared without using fossil fuel inputs, vehicle propulsion would not contribute to carbon dioxide emissions. The drawbacks of hydrogen use are low energy content per unit volume, high tankage weights, very high storage vessel pressures, the storage, transportation and filling of gaseous or liquid hydrogen in vehicles, the large investment in infrastructure that would be required to fuel vehicles, and the inefficiency of production processes. <br> Use given in 1 is incorrect because, there are two primary uses for hydrogen today. About half is used in the Haber process to produce ammonia (NH3), which is then used directly or indirectly as fertilizer. Because both the world population and the intensive agriculture used to support it are growing, ammonia demand is growing. The other half of current hydrogen production is used to convert heavy petroleum sources into lighter fractions suitable for use as fuels. This latter process is known as hydrocracking. Hydrocracking represents an even larger growth area, since rising oil prices encourage oil companies to extract poorer source material, such as tar sands and oil shale. The scale economies inherent in large-scale oil refining and fertilizer manufacture make possible on-site production and \"captive\" use. Smaller quantities of \"merchant\" hydrogen are manufactured and delivered to end users as well."
+}

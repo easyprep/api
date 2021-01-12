@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-08T17:51:08.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "632e144c-14a6-4728-b847-54dfb080181c",
+  "labels": "current-affairs,2019-02-09",
+  "question": "Which of the following are the features of a Spreadsheet?",
+  "option1": "Layers and Lines",
+  "option2": "Rows and Columns",
+  "option3": "Layers and Planes",
+  "option4": "Height and Width",
+  "option5": "",
+  "answer": "Rows and Columns",
+  "explanation": "A spreadsheet is an interactive computer application for organization, analysis and storage of data in tabular form. The program operates on data entered in cells of a table."
+}

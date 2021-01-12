@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-18T16:57:17.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "9d29cea6-392d-4515-bd80-e2b904f24435",
+  "labels": "current-affairs,2019-02-19",
+  "question": "Which of the following networking is used when centralized management is desired or if there is little room for cabling?",
+  "option1": "Local Area Networking",
+  "option2": "Wide Area Networking",
+  "option3": "Passive Optical Local Area Networking",
+  "option4": "Optical Area Networking",
+  "option5": "",
+  "answer": "Passive Optical Local Area Networking",
+  "explanation": "Passive optical LANs or POLANs are adapted to indoor network architectures, and can decrease the amount of cable and equipment required to deploy a network. POLANs are ideal if there is little room for cabling."
+}

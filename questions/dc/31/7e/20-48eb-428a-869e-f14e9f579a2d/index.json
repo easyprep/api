@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-13T13:59:01.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "dc317e20-48eb-428a-869e-f14e9f579a2d",
+  "labels": "current-affairs,2019-02-14",
+  "question": "What is the relationship between bond energy and bond length?",
+  "option1": "Bond energy is independent of bond length",
+  "option2": "Bond energy increases with the increase of bond length",
+  "option3": "Bond energy decreases with the increase of bond length",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Bond energy decreases with the increase of bond length",
+  "explanation": "The general relationship between bond energy and bond length is that the bond energy decreases with the increase of bond length between two atoms."
+}

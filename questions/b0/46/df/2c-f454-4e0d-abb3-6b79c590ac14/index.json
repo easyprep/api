@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-20T03:00:07.000Z",
+  "updated_at": "2021-01-06T08:24:36.633Z",
+  "id": "b046df2c-f454-4e0d-abb3-6b79c590ac14",
+  "labels": "current-affairs,2019-02-21",
+  "question": "What is the name given to the electronic device that receives a signal and retransmits it at a higher level?",
+  "option1": "Hub",
+  "option2": "Repeater",
+  "option3": "Switch",
+  "option4": "HIDS",
+  "option5": "",
+  "answer": "Repeater",
+  "explanation": "Repeater is an electronic device that receives a signal and retransmits it at a higher level onto the other side of an obstruction, so that the signal can cover longer distances."
+}
