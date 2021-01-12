@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "c25a6498-31db-454b-8a31-5d8fa5f566b2",
+  "labels": "current-affairs,2019-01-16",
+  "question": "The acceleration due to gravity on any planet does not depend on which of the following?",
+  "option1": "Radius of the planet",
+  "option2": "Mass of the planet",
+  "option3": "Density of the planet",
+  "option4": "Mass of the object",
+  "option5": "",
+  "answer": "Mass of the object",
+  "explanation": "The value of acceleration due to gravity on any planet depends upon the mass radius and density of planet and it is independent of mass, shape and density of the body placed on the surface of the planet."
+}

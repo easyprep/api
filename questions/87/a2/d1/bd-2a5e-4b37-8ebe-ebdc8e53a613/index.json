@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "87a2d1bd-2a5e-4b37-8ebe-ebdc8e53a613",
+  "labels": "current-affairs,2019-01-16",
+  "question": "What is the SI unit of acceleration due to gravity?",
+  "option1": "ms<sup>-2</sup>",
+  "option2": "ms<sup>-3</sup>",
+  "option3": "Kgms<sup>-2</sup>",
+  "option4": "ms<sup>-1</sup>",
+  "option5": "",
+  "answer": "ms<sup>-2</sup>",
+  "explanation": "The acceleration due to gravity is the acceleration set up in the body when it falls freely under the effect of gravity alone. The SI unit of acceleration due to gravity is ms<sup>-2</sup>"
+}

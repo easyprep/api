@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:16.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "0488f37e-9dc9-4d52-855d-61e8757d8993",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following pairs represent two scalar quantities?",
+  "option1": "Mass, Acceleration",
+  "option2": "Temperature, Torque",
+  "option3": "Distance, Speed",
+  "option4": "Gravitational Intensity, Work",
+  "option5": "",
+  "answer": "Distance, Speed",
+  "explanation": "The physical quantities which have only magnitude and no direction are called as Scalar quantities. Some examples of Scalar quantities: Work, Mass, Temperature, Distance, Speed."
+}

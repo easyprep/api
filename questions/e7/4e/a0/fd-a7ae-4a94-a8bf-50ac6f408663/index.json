@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "e74ea0fd-a7ae-4a94-a8bf-50ac6f408663",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following is correct about Kinetic energy during the projectile motion?",
+  "option1": "it is minimum at the point of projection",
+  "option2": "it is minimum at the highest point",
+  "option3": "it is maximum at the highest point",
+  "option4": "it is minimum at the point of reaching the ground",
+  "option5": "",
+  "answer": "it is minimum at the highest point",
+  "explanation": "The Kinetic energy of an object is maximum at the point of projection or at the point of reaching the ground. It is minimum at the highest point."
+}

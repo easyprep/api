@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "50dc52b2-81fd-4613-9773-b03d10eecb3a",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the S.I unit of Pressure Energy?",
+  "option1": "Nm",
+  "option2": "Watt",
+  "option3": "Joule",
+  "option4": "No units",
+  "option5": "",
+  "answer": "Joule",
+  "explanation": "Joule is the unit of Pressure energy. Pressure energy is the energy stored in a fluid due to the force per unit area applied onto it Pressure energy = Pressure x volume Its dimensional formula is M L<sup>2 </sup>T<sup>-2</sup>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "792b1f1a-f086-4eaf-b95e-d6fe05b851d5",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following laws state that the orbits of the planets are ellipses, with the Sun at one focus of the ellipse?",
+  "option1": "Kepler's First law",
+  "option2": "Kepler's Second law",
+  "option3": "Kepler's Third law",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Kepler's First law",
+  "explanation": "Kepler's First law: It is also known as law of orbits. It states that every planet revolves around the sun in an elliptical orbit. The sun is situated at one foci of the ellipse."
+}

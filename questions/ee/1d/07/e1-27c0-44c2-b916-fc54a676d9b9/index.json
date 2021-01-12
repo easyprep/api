@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-11-22T22:31:26.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "ee1d07e1-27c0-44c2-b916-fc54a676d9b9",
+  "labels": "current-affairs,2018-11-23",
+  "question": "The researchers at which IIT have developed smartphone-based sensor to detect adulteration in milk?",
+  "option1": "IIT-Bombay",
+  "option2": "IIT-Hyderabad",
+  "option3": "IIT-Madras",
+  "option4": "IIT-Kanpur",
+  "option5": "",
+  "answer": "IIT-Hyderabad",
+  "explanation": "The researchers at IIT-Hyderabad have developed a smartphone-based system to detect adulteration in milk. The detector system can measure the level of acidity in milk using an indicator paper. The sensor-chip based method measures pH, which is an indicator of the acidity and the colour of the paper indicates different pH levels. The IIT team, led by Prof. Shiv Govind Singh, used a process called \\\"electrospinning\\\" to produce paper-like material made of nanosized nylon fibre, loaded with a combination of three dyes. The paper is \\\"halochromic\\\" which changes colour in response to changes in acidity. They have also developed a prototype smartphone-based algorithm, in which, the colours of the sensor strips after dipping in milk are captured using the camera of the phone and the data is transformed into pH (acidity) ranges. On being tested, the above method is found to be  99.71% accurate to detect adulteration in milk."
+}

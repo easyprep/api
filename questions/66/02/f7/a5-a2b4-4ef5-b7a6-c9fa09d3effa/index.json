@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "6602f7a5-a2b4-4ef5-b7a6-c9fa09d3effa",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The dot product of two vectors A and B is equal to the product of magnitude of A and B and __________?",
+  "option1": "cosine of the largest angle between them",
+  "option2": "sine of the largest angle between them",
+  "option3": "cosine of the smallest angle between them",
+  "option4": "sine of the smallest angle between them",
+  "option5": "",
+  "answer": "cosine of the smallest angle between them",
+  "explanation": "The dot product of two vectors A and B is equal to the product of magnitude of A and B and cosine of the smallest angle between them. A.B = A B Cos <span class=\\'symbol\\'>θ  where <span class=\\'symbol\\'>θ  = smallest angle between A and B Note: The dot product of two vectors is a scalar quantity."
+}

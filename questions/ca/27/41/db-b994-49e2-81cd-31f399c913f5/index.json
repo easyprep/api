@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-11-14T01:26:51.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "ca2741db-b994-49e2-81cd-31f399c913f5",
+  "labels": "current-affairs,2018-11-15",
+  "question": "As per latest US-based  National Bureau of Economic Research (NBER) report, which of the following cities is the India’s most congested city?",
+  "option1": "Bengaluru",
+  "option2": "Delhi",
+  "option3": "Chennai",
+  "option4": "Kolkata",
+  "option5": "",
+  "answer": "Bengaluru",
+  "explanation": "The US-based  National Bureau of Economic Research (NBER) has recently published the report titled ‘Mobility and Congestion in Urban India’. In it, Bengaluru has been ranked India’s most congested city followed by Mumbai, Delhi, Chennai, Kolkata, Hyderabad and Pune. The report further found that Bengaluru was the second slowest city in terms of traffic speeds only behind Kolkata. The report also notes that in terms of traffic speeds, the fastest Indian cities surveyed were slower than the American cities surveyed. The researchers studied 154 Indian cities and measured trips based on the web-mapping service ‘Google Maps’. They particularly studied pairs of trip instances taking place around the same time on different days. The study was conducted by a team of researchers at theUniversity of California, Berkeley and three other U.S. universities."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "9555f126-259e-4357-bbbc-a44661b84f1e",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following statements is correct?",
+  "option1": "The acceleration due to gravity is same at the equator and the poles",
+  "option2": "The acceleration due to gravity is maximum at the poles",
+  "option3": "The acceleration due to gravity is least at the poles",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "The acceleration due to gravity is maximum at the poles",
+  "explanation": "The acceleration due to gravity is maximum at the poles and is least at the equator. The value of acceleration due to gravity increases as we go from the equator to the pole."
+}

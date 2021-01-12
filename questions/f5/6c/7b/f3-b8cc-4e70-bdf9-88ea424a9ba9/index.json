@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f56c7bf3-b8cc-4e70-bdf9-88ea424a9ba9",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following is correct about acceleration due to gravity?",
+  "option1": "it increases with depth",
+  "option2": "it decreases with depth",
+  "option3": "it is independent of depth",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it decreases with depth",
+  "explanation": "The value of acceleration due to gravity decreases with depth. g<sub>0</sub>= g(1-d/R) where d is the depth below the centre of the earth."
+}

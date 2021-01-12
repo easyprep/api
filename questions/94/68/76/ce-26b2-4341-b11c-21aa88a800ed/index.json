@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "946876ce-26b2-4341-b11c-21aa88a800ed",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following is the unit of Solid Angle?",
+  "option1": "radian",
+  "option2": "steradian",
+  "option3": "m<sup>2</sup>",
+  "option4": "π",
+  "option5": "",
+  "answer": "steradian",
+  "explanation": "Steradian is the unit of Solid Angle (Angle in Space). One steradian is defined as the solid angle of a sphere subtended at the centre of a sphere by that surface of the surface whose area is equal to the square of the sphere’s radius. Its symbol is sr."
+}

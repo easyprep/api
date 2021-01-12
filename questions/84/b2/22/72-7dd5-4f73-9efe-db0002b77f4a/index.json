@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "84b22272-7dd5-4f73-9efe-db0002b77f4a",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What will be the work done in holding a 25 kg iron plate for 25 seconds?",
+  "option1": "25 j",
+  "option2": "1 j",
+  "option3": 0,
+  "option4": "625 j",
+  "option5": "",
+  "answer": 0,
+  "explanation": "The work done in holding a 25 kg iron plate for 25 seconds will be zero as there is no displacement taking place. Work done = Force x Displacement"
+}

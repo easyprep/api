@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "5985b99b-467b-43b5-8e95-33cee1e47aa8",
+  "labels": "current-affairs,2019-01-16",
+  "question": "As per the Kepler's third law, the square of the time period of revolution of a planet is directly proportional to which of the following?",
+  "option1": "semi-major axis of its elliptical orbit",
+  "option2": "cube root of semi-major axis of its elliptical orbit",
+  "option3": "square of semi-major axis of its elliptical orbit",
+  "option4": "cube of semi-major axis of its elliptical orbit",
+  "option5": "",
+  "answer": "cube of semi-major axis of its elliptical orbit",
+  "explanation": "Kepler's third law: the square of the time period of revolution of a planet is directly proportional to the cube of semi-major axis of its elliptical orbit. It is also known as the Law of periods."
+}

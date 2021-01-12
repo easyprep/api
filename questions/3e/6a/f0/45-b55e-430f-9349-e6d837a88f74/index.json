@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "3e6af045-b55e-430f-9349-e6d837a88f74",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The work done in moving a body over a smooth inclined plane does not depend on which of the following?",
+  "option1": "mass of the body",
+  "option2": "height of the inclined plane",
+  "option3": "slope of the inclined plane",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "slope of the inclined plane",
+  "explanation": "The work done in moving a body over a smooth inclined plane does not depend on the slope of the inclined plane. W = mgh in case of smooth inclined plane, where m = mass of the body, g = acceleration due to gravity and h = height of the inclined plane."
+}

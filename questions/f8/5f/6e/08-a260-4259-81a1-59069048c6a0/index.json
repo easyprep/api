@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f85f6e08-a260-4259-81a1-59069048c6a0",
+  "labels": "current-affairs,2019-01-12",
+  "question": "1 nautical mile is equivalent to which of the following?",
+  "option1": "1.44 x 1000 m",
+  "option2": "1.852 x 100 m",
+  "option3": "1.852 x 1000 m",
+  "option4": "1.44 x 100 m",
+  "option5": "",
+  "answer": "1.852 x 1000 m",
+  "explanation": "nautical mile is a unit of length. 1 nautical mile is equal to 1.852 x 1000 m Other important units of length are: <br />\r\n<ul>\r\n<li>1 mile = 1.609 x 1000 m</li>\r\n<li>1 light year = 9.46 x 10<sup>15</sup> m</li>\r\n<li>1 AU = 1.5 x 10<sup>11</sup>m</li>\r\n<li>1 Par sec = 3.1 x 10<sup>16</sup>m</li>\r\n</ul>"
+}

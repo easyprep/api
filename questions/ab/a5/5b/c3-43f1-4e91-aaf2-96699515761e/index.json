@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-16T15:49:53.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "aba55bc3-43f1-4e91-aaf2-96699515761e",
+  "labels": "current-affairs,2019-01-17",
+  "question": "What happens to the orbital velocity of a satellite when the radius of orbit is increased?",
+  "option1": "it decreases",
+  "option2": "it increases",
+  "option3": "it remains same",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it decreases",
+  "explanation": "The orbital velocity of a satellite decreases when the radius of orbit is increased or height of the satellite is increased."
+}

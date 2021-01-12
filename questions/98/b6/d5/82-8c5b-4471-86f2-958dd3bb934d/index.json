@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:58.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "98b6d582-8c5b-4471-86f2-958dd3bb934d",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Which of these branches of Physics deal with heat and temperature and their relation to energy and work?",
+  "option1": "Geophysics",
+  "option2": "Mechanics",
+  "option3": "Atomic Physics",
+  "option4": "Thermodynamics",
+  "option5": "",
+  "answer": "Thermodynamics",
+  "explanation": "Thermodynamics is that branch of physics which deals with heat and temperature and their relation to energy (such as mechanical, electrical, or chemical energy) and work. The behaviour of these quantities is governed by the four laws of thermodynamics"
+}

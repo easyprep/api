@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "e888cc90-4fe2-4f13-a71d-94748ba45ffe",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following is NOT correct about Vectors addition?",
+  "option1": "Vectors addition is associative",
+  "option2": "Vectors addition is commutative",
+  "option3": "Vectors of different natures can be added",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Vectors of different natures can be added",
+  "explanation": "Vectors addition is associative and commutative. But vectors of the same nature alone can be added. Example: a Force vector cannot be added to velocity vector as they are of different nature."
+}

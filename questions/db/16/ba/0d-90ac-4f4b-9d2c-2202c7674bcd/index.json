@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "db16ba0d-90ac-4f4b-9d2c-2202c7674bcd",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following physical quantities has no units?",
+  "option1": "Reynold Number",
+  "option2": "Rydberg constant",
+  "option3": "Wave number",
+  "option4": "Hubble constant",
+  "option5": "",
+  "answer": "Reynold Number",
+  "explanation": "Reynold Number has no units. The Reynolds number is the ratio of inertial forces to viscous forces. It is used for predicting if a flow condition will be laminar or turbulent. <br />\r\n<ul>\r\n<li>Unit of Rydberg constant: m<sup>-1</sup></li>\r\n<li>Unit of Wave number = m<sup>-1 </sup></li>\r\n<li>Unit of Hubble constant = sec<sup>-1</sup></li>\r\n</ul>"
+}

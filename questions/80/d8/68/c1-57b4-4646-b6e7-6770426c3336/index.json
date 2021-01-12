@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "80d868c1-57b4-4646-b6e7-6770426c3336",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Who among the following is credited for the Corpuscular theory of light?",
+  "option1": "Isaac Newton",
+  "option2": "Christiaan Hyugens",
+  "option3": "Albert Einstein",
+  "option4": "James Clerk Maxwell",
+  "option5": "",
+  "answer": "Isaac Newton",
+  "explanation": "The Corpuscular theory of light was given by Isaac Newton. It was replaced by Huygens' wave theory when it failed to adequately explain the diffraction, interference and polarization of light. The Huygens' wave theory was replaced by Planck's quantum theory and finally de-Broglie's Dual-Theory of light replaced all previous ones."
+}

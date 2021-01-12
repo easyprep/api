@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-11-21T22:52:20.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1db0790e-eaf2-4756-a8c2-35fb215eebaf",
+  "labels": "current-affairs,2018-11-22",
+  "question": "The researchers at which IIT have devised a Decision Support System (DSS) to boost LPG distribution in households below poverty line?",
+  "option1": "IIT Indore",
+  "option2": "IIT Kanpur",
+  "option3": "IIT Kharagpur",
+  "option4": "IIT Madras",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "The researchers at IIT Kharagpur have devised a Decision Support System (DSS) to help maximise the number of LPG connections in Below Poverty Level (BPL) households in the \\'Pradhan Mantri Ujjwala Yojana (PMUY)\\' . A DSS is a computer programme that helps in making sound rational decisions using mathematical programming and operation research techniques.  The DSS mathematical model devised at IIT KGP has found the optimum number of total (BPL) connections required in a region and the number of dealerships that need to be commissioned in a region over the policy time frame. This type of mathematical modeling of a policy (LPG) can be used as a reference for mathematical model.  The PMUY, launched in May 2016, aimed at providing 5 crore LPG connections by 2019 to BPL families with the support of Rs 1,600 to each family. The Central government has recently revised the target to 8 crore LPG connections by 2020."
+}

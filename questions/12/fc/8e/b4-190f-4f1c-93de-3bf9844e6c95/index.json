@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "12fc8eb4-190f-4f1c-93de-3bf9844e6c95",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The centripetal force and centrifugal force are ______:",
+  "option1": "equal in magnitude and have same direction",
+  "option2": "unequal in magnitude and have same direction",
+  "option3": "equal in magnitude and have opposite direction",
+  "option4": "unequal in magnitude and have opposite direction",
+  "option5": "",
+  "answer": "equal in magnitude and have opposite direction",
+  "explanation": "The centripetal force and centrifugal force are equal in magnitude and have opposite direction. Centrifugal force can be regarded as the reaction of centripetal force."
+}

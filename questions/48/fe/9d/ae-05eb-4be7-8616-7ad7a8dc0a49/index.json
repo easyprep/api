@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "48fe9dae-05eb-4be7-8616-7ad7a8dc0a49",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What happens to the velocity of a heavy body when it undergoes an elastic collision in one dimension with a very light body at rest?",
+  "option1": "it stops and comes to rest",
+  "option2": "it keeps on moving with the same velocity",
+  "option3": "it starts moving with half of its initial velocity",
+  "option4": "it rebounds with the same velocity",
+  "option5": "",
+  "answer": "it keeps on moving with the same velocity",
+  "explanation": "The heavy body keeps on moving with the same velocity when it undergoes an elastic collision in one dimension with a very light body at rest. Note: the body at rest starts moving with double the initial velocity of the heavy body."
+}

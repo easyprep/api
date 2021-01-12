@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1bf01138-f100-4cc7-821e-d712d9016a56",
+  "labels": "current-affairs,2019-01-12",
+  "question": "The magnitude of the resultant of two vectors is maximum in which of the following case?",
+  "option1": "when vectors act in the same direction",
+  "option2": "when vectors act in the opposite direction",
+  "option3": "when vectors act at 90° to each other",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "when vectors act in the same direction",
+  "explanation": "The magnitude of the resultant of two vectors is maximum when vectors act in the same direction. The magnitude of the resultant of two vectors is minimum when vectors act in the opposite directions."
+}

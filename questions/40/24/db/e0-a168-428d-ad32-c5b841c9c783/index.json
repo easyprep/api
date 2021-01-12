@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:16.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "4024dbe0-a168-428d-ad32-c5b841c9c783",
+  "labels": "current-affairs,2019-01-12",
+  "question": "The motion of an object under free fall is an example of which of the following?",
+  "option1": "uniform velocity",
+  "option2": "uniform acceleration",
+  "option3": "zero acceleration",
+  "option4": "non-uniform acceleration",
+  "option5": "",
+  "answer": "uniform acceleration",
+  "explanation": "The motion of an object under free fall is a case of uniform acceleration. If an object is released from a height near the surface of earth, it accelerates downwards under the influence of a gravity pull with acceleration due to gravity."
+}

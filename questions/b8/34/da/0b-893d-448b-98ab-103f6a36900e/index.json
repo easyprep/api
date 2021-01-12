@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "b834da0b-893d-448b-98ab-103f6a36900e",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The work done by a variable force is given by:",
+  "option1": "area under the force curve and the displacement axis",
+  "option2": "square of the area under the force curve and the displacement axis",
+  "option3": "natural log of the area under the force curve and the displacement axis",
+  "option4": "twice the area under the force curve and the displacement axis",
+  "option5": "",
+  "answer": "area under the force curve and the displacement axis",
+  "explanation": "The work done by a variable force is given by the area under the force curve and the displacement axis. W = Area ABCDA"
+}

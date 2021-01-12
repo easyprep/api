@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "95ba1e9a-be2c-4635-879c-90011d37a21b",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following statements regarding vectors is NOT correct?",
+  "option1": "A unit vector is dimensionless",
+  "option2": "A vector cannot be divided by a vector",
+  "option3": "A vector changes, when it is displaced to itself",
+  "option4": "Current is not a vector quantity",
+  "option5": "",
+  "answer": "A vector changes, when it is displaced to itself",
+  "explanation": "A unit vector is unit less and dimensionless. A vector cannot be divided by a vector as a vector cannot be divided by a direction. A vector does not change, when it is displaced to itself. Time, Pressure, Surface Tension, Current are some of the quantities that have direction but are not vectors. A physical quantity is a vector only when it follows commutative law of addition of vectors."
+}

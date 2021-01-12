@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "b3e62873-b7a3-4b21-b8a3-57d9aad7dd5d",
+  "labels": "current-affairs,2019-01-16",
+  "question": "The Universal Gravitational Constant for two bodies is dependent on which of the following?",
+  "option1": "Nature of the bodies",
+  "option2": "Size of the bodies",
+  "option3": "Nature of medium between the bodies",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "The value of Universal Gravitational Constant is same throughout the universe. It is independent of nature of the bodies, size of the bodies and nature of medium between the bodies."
+}

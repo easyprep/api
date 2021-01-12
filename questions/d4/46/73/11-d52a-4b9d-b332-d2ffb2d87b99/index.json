@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "d4467311-d52a-4b9d-b332-d2ffb2d87b99",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which one of the following has 'ohm' as its unit?",
+  "option1": "Resistivity",
+  "option2": "Conductivity",
+  "option3": "Conductance",
+  "option4": "Inductive Reactance",
+  "option5": "",
+  "answer": "Inductive Reactance",
+  "explanation": "The unit of Inductive Reactance is 'ohm'. Inductive Reactance = Angular frequency x Inductance Inductive reactance is defined as the opposition to a changing current flow. It is measured in ohm. Any changing current in an inductor will be impeded because of the inductance associated with it."
+}

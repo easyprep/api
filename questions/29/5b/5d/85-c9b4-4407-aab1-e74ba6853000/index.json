@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "295b5d85-c9b4-4407-aab1-e74ba6853000",
+  "labels": "current-affairs,2019-01-16",
+  "question": "What is the dimensional formula of Gravitational Potential?",
+  "option1": "M<sup>1</sup> L<sup>2</sup> T<sup>-2</sup>",
+  "option2": "M<sup>1</sup> L<sup>-2</sup> T<sup>2</sup>",
+  "option3": "M<sup>0</sup> L<sup>2</sup> T<sup>-2</sup>",
+  "option4": "M<sup>0</sup> L<sup>2</sup> T<sup>2</sup>",
+  "option5": "",
+  "answer": "M<sup>0</sup> L<sup>2</sup> T<sup>-2</sup>",
+  "explanation": "The dimensional formula of Gravitational Potential is M<sup>0</sup> L<sup>2</sup> T<sup>-2</sup> It is a scalar quantity. S.I. units of Gravitational Potential is J/kg"
+}

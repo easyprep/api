@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "bdd004e8-3464-4105-9c94-b50e6de0d035",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following conditions is true for an object to be in equilibrium?",
+  "option1": "No linear motion of the object",
+  "option2": "No rotational motion of the object",
+  "option3": "Minimum potential energy of the object",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The conditions for equilibrium for an object: 1. There is no linear motion of the object i.e. the resultant force on the object is zero 2. There should not be any rotational motion of the object i.e. the torque on the object should be zero 3. The potential energy of the object should be minimum for stable equilibrium."
+}

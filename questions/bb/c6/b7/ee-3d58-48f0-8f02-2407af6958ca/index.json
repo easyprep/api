@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "bbc6b7ee-3d58-48f0-8f02-2407af6958ca",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What kind of energy is stored in the spring of a watch?",
+  "option1": "Kinetic",
+  "option2": "Potential",
+  "option3": "Heat",
+  "option4": "Chemical",
+  "option5": "",
+  "answer": "Potential",
+  "explanation": "Potential energy is stored in the spring of a watch. Potential energy is the energy by virtue of an object's position relative to other objects. It is often associated with restoring forces such as a spring or the force of gravity."
+}

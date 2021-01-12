@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-29T20:48:00.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "265a89e7-beee-4af2-aa9a-dc362f6a48a7",
+  "labels": "current-affairs,2018-10-30",
+  "question": "The researchers of which IIT has launched India’s first indigenously-developed microprocessor?",
+  "option1": "IIT-Kharagpur",
+  "option2": "IIT-Indore",
+  "option3": "IIT-Bombay",
+  "option4": "IIT-Madras",
+  "option5": "",
+  "answer": "IIT-Madras",
+  "explanation": "The researchers at IIT-Madras have designed and booted up India’s first indigenously developed microprocessor that can be used in mobile computing devices, embedded low power wireless systems and networking systems besides reducing reliance on imported microprocessors in communications and defence sectors. The \\'Shakti\\' family of processors was fabricated at Semi-Conductor Laboratory (SCL) of Indian Space Research Organisation (ISRO) in Chandigarh. Hence, it is claimed that the launch would help reduce reliance on import of microprocessors. The SCL is an autonomous body engaged in research and development in microelectronics to meet strategic needs of the country."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "8da0ae3f-2af9-4993-bc31-9037bba9a277",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Which of the following is NOT correct about an inelastic collision?",
+  "option1": "Linear momentum is conserved",
+  "option2": "Kinetic energy is conserved",
+  "option3": "Total energy is conserved",
+  "option4": "Some or all the forces involved may be non-conservative in nature",
+  "option5": "",
+  "answer": "Kinetic energy is conserved",
+  "explanation": "Following are the basic characteristics of an inelastic collision: 1. Linear momentum is conserved 2. Kinetic energy is NOT conserved 3. Total energy is conserved 4. Some or all the forces involved may be non-conservative in nature"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "9daddbc2-3d58-4f18-a9c3-66e9bc596343",
+  "labels": "current-affairs,2019-01-16",
+  "question": "What is the gravitational potential energy for infinite distance?",
+  "option1": 0,
+  "option2": "infinity",
+  "option3": "9.8 J",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0,
+  "explanation": "The gravitational potential energy of a body at a point is defined as the amount of work done in bringing the body from infinity to that point against the gravitational force. U = - GMm/r When r =infinity, then U =0"
+}

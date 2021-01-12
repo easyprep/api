@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "74a472de-ec67-4bc6-9e4c-5d5504a2c7cf",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the S.I. unit for Luminous Intensity?",
+  "option1": "mole",
+  "option2": "ampere",
+  "option3": "candela",
+  "option4": "weber",
+  "option5": "",
+  "answer": "candela",
+  "explanation": "The S.I. unit for Luminous Intensity is candela. The symbol used for candela is cd. Mole is the S.I unit for Quantity of Matter ampere is the S.I unit for Electric Current. Weber is the S.I unit for Magnetic Flux Luminous Intensity is the amount of light that a point source radiates in a given direction"
+}

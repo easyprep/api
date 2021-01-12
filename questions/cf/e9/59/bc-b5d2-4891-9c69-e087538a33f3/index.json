@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-12-28T23:04:02.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "cfe959bc-b5d2-4891-9c69-e087538a33f3",
+  "labels": "current-affairs,2018-12-29",
+  "question": "The researchers of which country have recently built Virtual Reality (VR) 3D model of cancer?",
+  "option1": "Brazil",
+  "option2": "France",
+  "option3": "UK",
+  "option4": "Japan",
+  "option5": "",
+  "answer": "UK",
+  "explanation": "The scientists at Cambridge University have built a Virtual Reality (VR) 3D model of cancer that will help increase the understanding of cancer as well as in the search for new treatment.  Researchers from the Cancer Research UK (CRUK) Researchers started with a one millimetre cubed piece of breast cancer tissue biopsy, containing around 100,000 cells. They cut wafer thin slices, scanned and then stained them with markers to show their molecular make-up and DNA characteristics.  The tumour was then rebuilt using virtual reality (VR), which allows multiple users from anywhere, in the world to examine the tumour.  Although the human tissue sample was about the size of a pinhead, using the VR headsets, it could be magnified to appear several metres across.  To explore the tumour in more detail, the VR system allows one to \\'fly through\\' the cells."
+}

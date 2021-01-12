@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f31581e2-30b3-4288-9ed1-53c5fdc43300",
+  "labels": "current-affairs,2019-01-16",
+  "question": "At sea level, what is the difference between the value of acceleration due to gravity at the poles and at the equator?",
+  "option1": "No difference",
+  "option2": "9.8 cm s<sup>-2</sup>",
+  "option3": "1.80 cm s<sup>-2</sup>",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1.80 cm s<sup>-2</sup>",
+  "explanation": "At sea level, the difference between the value of acceleration due to gravity at the poles and at the equator is 1.80 cm s<sup>-2</sup>. The value of acceleration due to gravity increases as we go from equator to the poles."
+}

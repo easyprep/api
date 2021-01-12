@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "2999ac6e-a532-41f0-8e0a-944952d2e290",
+  "labels": "current-affairs,2019-01-13",
+  "question": "On which of the following quantities, Work done does not depend?",
+  "option1": "Force applied",
+  "option2": "Displacement",
+  "option3": "Time",
+  "option4": "Depends on all of the above",
+  "option5": "",
+  "answer": "Time",
+  "explanation": "Work done does not depend on the time for which the force was applied. Work done is only dependant on the force and displacement. Time is involved in the case of Power only"
+}

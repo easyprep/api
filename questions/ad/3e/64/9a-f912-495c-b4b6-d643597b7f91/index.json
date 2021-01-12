@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-11-03T22:47:12.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "ad3e649a-f912-495c-b4b6-d643597b7f91",
+  "labels": "current-affairs,2018-11-04",
+  "question": "RBI has recently permitted banks to provide PCE to NBFC bonds. What does ‘PCE’ stands for?",
+  "option1": "Premium Credit Enhancement",
+  "option2": "Personal Credit Enhancement",
+  "option3": "Prone Credit Enhancement",
+  "option4": "Partial Credit Enhancement",
+  "option5": "",
+  "answer": "Partial Credit Enhancement",
+  "explanation": "The Reserve Bank of India  (RBI) has recently permitted banks to grant Partial Credit Enhancement (PCE), or a partial guarantee, to bonds issued by systematically important non-deposit taking Non-Banking Financial Companies (NBFC-ND-SIs) registered with the Reserve Bank of India and Housing Finance Companies (HFCs) registered with National Housing Bank. The move is aimed at enhancing the credit rating of the bonds and enabling these NBFCs to access funds from the bond market on better terms. PCE is expected to help NBFCs and HFCs raise money from insurance and provident or pension funds who invest only in highly-rated instruments. The proceeds from the bonds, whose tenor cannot be less than three years, backed by PCE from banks can only be utilised for refinancing the existing debt. The central bank has restricted the exposure of a bank through PCEs to bonds issued by each such NBFC or HFC to 1% of capital funds of the bank within the current single and group borrower exposure limits."
+}

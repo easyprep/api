@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "d78b7bfa-66a8-4d3a-b129-a08167514c73",
+  "labels": "current-affairs,2019-01-18",
+  "question": "In which of the following states of matter the Interatomic or intermolecular distance is fixed?",
+  "option1": "Solids",
+  "option2": "Liquids",
+  "option3": "Gases",
+  "option4": "Both a and b",
+  "option5": "",
+  "answer": "Solids",
+  "explanation": "The Interatomic or intermolecular distance is fixed in the case of solids. But in cases of liquids and gases, it is not fixed."
+}

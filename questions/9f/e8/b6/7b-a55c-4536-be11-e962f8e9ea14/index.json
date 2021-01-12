@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "9fe8b67b-a55c-4536-be11-e962f8e9ea14",
+  "labels": "current-affairs,2019-01-13",
+  "question": "As per the Newton's second law of motion, what is the relation between the rate of change of linear momentum and the external force applied?",
+  "option1": "directly proportional",
+  "option2": "inversely proportional",
+  "option3": "independent of each other",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "inversely proportional",
+  "explanation": "As per the Newton's second law of motion, the rate of change of linear momentum of a body is inversely proportional to the external force applied on the body. This change always takes place in the direction of the force applied."
+}

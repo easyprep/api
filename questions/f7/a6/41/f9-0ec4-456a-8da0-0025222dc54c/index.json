@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f7a641f9-0ec4-456a-8da0-0025222dc54c",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Which of the following is correct about the properties of Gravitational Forces?",
+  "option1": "They are the strongest forces in nature",
+  "option2": "They observe inverse square law",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "They observe inverse square law",
+  "explanation": "Gravitational Forces are the weakest forces in nature. They obey inverse square law as they vary inversely as the square of the distance between the two bodies. They are central forces and conservative forces. They operate over very long distances having an infinite range."
+}

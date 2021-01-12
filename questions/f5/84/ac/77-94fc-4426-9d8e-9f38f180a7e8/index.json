@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f584ac77-94fc-4426-9d8e-9f38f180a7e8",
+  "labels": "current-affairs,2019-01-16",
+  "question": "What will be the effect on the value of acceleration due to gravity at the poles if the rate of rotation of earth increases?",
+  "option1": "No effect",
+  "option2": "it will increase",
+  "option3": "it will decrease",
+  "option4": "it will become zero",
+  "option5": "",
+  "answer": "No effect",
+  "explanation": "If the rate of rotation of earth increases then the value of acceleration due to gravity decreases at all the places on the surface of earth except at poles."
+}

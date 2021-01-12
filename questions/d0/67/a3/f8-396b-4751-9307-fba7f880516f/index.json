@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "d067a3f8-396b-4751-9307-fba7f880516f",
+  "labels": "current-affairs,2019-01-16",
+  "question": "On which of the following the gravitational force between two objects does not depend?",
+  "option1": "Gravitational constant",
+  "option2": "Distance between the objects",
+  "option3": "Product of the masses of the objects",
+  "option4": "Sum of the masses of the objects",
+  "option5": "",
+  "answer": "Sum of the masses of the objects",
+  "explanation": "The gravitational force between two objects depends on the Gravitational constant, Distance between the objects and Product of the masses of the objects. F = Gravitational constant x (Product of the masses of the objects) / Square of Distance between the objects"
+}

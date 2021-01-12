@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "a97cdca9-6d2a-4c1d-9420-9c303f580822",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following statements is correct about the value of acceleration due to gravity (g) in a light and heavy falling body?",
+  "option1": "the value of g will be greater in the light body",
+  "option2": "the value of g will be greater in the heavy body",
+  "option3": "the value of g will be equal in both the bodies",
+  "option4": "the value of g depends on the mass",
+  "option5": "",
+  "answer": "the value of g will be equal in both the bodies",
+  "explanation": "Acceleration due to gravity is independent of mass, shape, size etc. of falling body. Therefore, a light and heavy body will have equal acceleration."
+}

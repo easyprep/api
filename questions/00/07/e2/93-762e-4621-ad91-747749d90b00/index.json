@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "0007e293-762e-4621-ad91-747749d90b00",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The forces acting at a point are called as:",
+  "option1": "Collinear forces",
+  "option2": "Coplanar forces",
+  "option3": "Concurrent forces",
+  "option4": "Unit forces",
+  "option5": "",
+  "answer": "Concurrent forces",
+  "explanation": "The forces which are acting at a point are called as concurrent forces. Note: When concurrent forces in equilibrium act on a body, the state of the body shall remain unchanged i.e. if the body is at rest, it will continue to be at rest. Similarly, a body will continue to move uniformly along the same straight line, if concurrent forces in equilibrium are applied on the body."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1b48ba4a-567a-44c9-a4b9-e6ef017847ec",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Who among the following gave the Uncertainity principle?",
+  "option1": "R.A Milkman",
+  "option2": "Ernset Rutherford",
+  "option3": "S.N Bose",
+  "option4": "Werner Heisenberg",
+  "option5": "",
+  "answer": "Werner Heisenberg",
+  "explanation": "Werner Heisenberg, a german Physicist, discovered the Uncertainity principle. As per the uncertainty principle, we cannot measure the position (x) and the momentum (p) of a particle with absolute precision. The more accurately we know one of these values, the less accurately we know the other. It represnts the effects of wave-particle duality on the properties of subatomic objects."
+}

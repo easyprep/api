@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "ba7e0da1-212f-4f05-a173-589d0a508085",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What is the apparent weight of the person when the elevator is accelerating downwards?",
+  "option1": "equal to the actual weight",
+  "option2": "greater than the actual weight",
+  "option3": "less than the actual weight",
+  "option4": 0,
+  "option5": "",
+  "answer": "less than the actual weight",
+  "explanation": "The apparent weight of the person becomes less than the actual weight when the elevator is accelerating downwards. The apparent weight of the person becomes more than the actual weight when the elevator is accelerating upwards."
+}

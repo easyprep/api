@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "69113194-044e-42f5-9cc8-5a485579d9ff",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The second law of motion gives us a measure of which of the following physical quantities?",
+  "option1": "Acceleration",
+  "option2": "Force",
+  "option3": "Power",
+  "option4": "Work done",
+  "option5": "",
+  "answer": "Force",
+  "explanation": "The second law of motion gives us a measure of force. The product of the mass of the body and the acceleration produced in it gives us the magnitude of force. Force (f) = mass (m) x acceleration (a) Force is a vector quantity and the direction is same as that of acceleration"
+}

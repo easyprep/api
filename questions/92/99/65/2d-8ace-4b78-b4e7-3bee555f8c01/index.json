@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "9299652d-8ace-4b78-b4e7-3bee555f8c01",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Which of these is the force required to move a body uniformly in a circle?",
+  "option1": "Centrifugal force",
+  "option2": "Centripetal force",
+  "option3": "Kinetic force",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Centripetal force",
+  "explanation": "Centripetal force is the force required to move a body uniformly in a circle. This force acts along the radius and towards the centre of the circle. Centrifugal force is the force that arises when a body is moving actually along a circular path by virtue of the tendency of the body to regain its path."
+}

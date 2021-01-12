@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "b033d069-1cc6-4db3-b7b6-f2ac57e3692a",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What is the product of the mass of the body and its velocity called as?",
+  "option1": "Force",
+  "option2": "Linear Momentum",
+  "option3": "Energy",
+  "option4": "Power",
+  "option5": "",
+  "answer": "Linear Momentum",
+  "explanation": "Linear Momentum is the product of the mass of the body and its velocity. Linear Momentum (p) = mass(m) x velocity(v) p= mv Linear momentum is a vector quantity having the direction same as the direction of velocity of the body"
+}

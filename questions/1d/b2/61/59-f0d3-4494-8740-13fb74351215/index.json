@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1db26159-f0d3-4494-8740-13fb74351215",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following is true about universal gravitational constant in the case of two bodies each of unit mass having their centres placed at unit distance apart?",
+  "option1": "It is equal to the force of attraction between them",
+  "option2": "It is equal to twice the force of attraction between them",
+  "option3": "It is equal to half the force of attraction between them",
+  "option4": "It is equal to ten times the force of attraction between them",
+  "option5": "",
+  "answer": "It is equal to the force of attraction between them",
+  "explanation": "The universal gravitational constant is equal to the force of attraction between two bodies each of unit mass having their centres placed at unit distance apart. F = Gm<sub>1</sub>m<sub>2</sub>/r When m<sub>1</sub> and m<sub>2</sub> = 1 and r=1 then F=G."
+}

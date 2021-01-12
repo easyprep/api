@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "8835ac9f-f7ae-4d6e-972f-255da9706021",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following units is the smallest in terms of length?",
+  "option1": "micron",
+  "option2": "nanometer",
+  "option3": "fermi",
+  "option4": "angstrom",
+  "option5": "",
+  "answer": "fermi",
+  "explanation": "Out of the given options, fermi is the smallest unit for measurement of distance. 1 micron = 10<sup>-6</sup> m 1 nanometre = 10<sup>-9</sup> m 1 angstrom = 10<sup>-10m 1 fermi = 10<sup>-15</sup>m The above four units are used for the measurement of small distances."
+}

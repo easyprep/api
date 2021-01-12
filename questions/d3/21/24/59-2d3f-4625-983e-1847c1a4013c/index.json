@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "d3212459-2d3f-4625-983e-1847c1a4013c",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the angular acceleration of a body moving with constant angular velocity?",
+  "option1": "equal to the angular velocity",
+  "option2": 1,
+  "option3": 0,
+  "option4": "Can't be determined",
+  "option5": "",
+  "answer": 0,
+  "explanation": "The angular acceleration of a body moving with constant angular velocity is 0. Angular acceleration of an object in circular motion is defined as the time rate of change of its angular velocity."
+}

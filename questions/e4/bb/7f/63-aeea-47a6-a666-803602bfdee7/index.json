@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "e4bb7f63-aeea-47a6-a666-803602bfdee7",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What is the dot product of two perpendicular vectors?",
+  "option1": 1,
+  "option2": 0,
+  "option3": -1,
+  "option4": "2021-01-01T18:30:00.000Z",
+  "option5": "",
+  "answer": 0,
+  "explanation": "When two vectors are perpendicular to each other, then <span class=\\'symbol\\'>θ  = 90° and Cos 90° = <span class=\\'symbol\\'>θ . Therefore, A.B = A x B x Cos <span class=\\'symbol\\'>θ  = A x B x Cos 90° = <span class=\\'symbol\\'>θ  When two vectors are parallel to each other, then <span class=\\'symbol\\'>θ  = <span class=\\'symbol\\'>θ ° and Cos <span class=\\'symbol\\'>θ ° = 1. Therefore, A.B = A x B x Cos <span class=\\'symbol\\'>θ  = A x B x Cos <span class=\\'symbol\\'>θ ° = AB When two vectors are anti-parallel to each other, then <span class=\\'symbol\\'>θ  =180° and Cos 180° = -1. Therefore, A.B = A x B x Cos <span class=\\'symbol\\'>θ  = A x B x Cos 180° = -AB"
+}

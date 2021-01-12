@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "24c43c2e-1f82-40cd-afa2-89b43e59f47c",
+  "labels": "current-affairs,2019-01-16",
+  "question": "What is the value of acceleration due to gravity at the centre of the earth?",
+  "option1": "1 N/kg",
+  "option2": 0,
+  "option3": "-9.8 N/kg",
+  "option4": "9.8 N/kg",
+  "option5": "",
+  "answer": 0,
+  "explanation": "The value of acceleration due to gravity at the centre of the earth is 0. g1 = g2(1 - d/R) As d = R in case of centre of earth, g1 = 0"
+}

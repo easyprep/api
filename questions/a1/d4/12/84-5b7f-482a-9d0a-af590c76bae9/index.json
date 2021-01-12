@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "a1d41284-5b7f-482a-9d0a-af590c76bae9",
+  "labels": "current-affairs,2019-01-10",
+  "question": "An Electric generator is based on which of the following scientific principles?",
+  "option1": "Faraday's law of Electromagnetic Induction",
+  "option2": "Super Conductivity",
+  "option3": "Laws of Thermodynamics",
+  "option4": "Newton's Law of Motion",
+  "option5": "",
+  "answer": "Faraday's law of Electromagnetic Induction",
+  "explanation": "An Electric generator works on the principle of Faraday's law of Electromagnetic Induction. An electric generator uses mechanical energy to generate electricity applying Faraday's law of induction. It spins a coil at a constant rate in a magnetic field to induce an oscillating emf."
+}

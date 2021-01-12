@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "b5d4afd1-42c8-43a8-8b30-ce8d5d304917",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following has an effect on the value of acceleration due to gravity?",
+  "option1": "Shape of the earth",
+  "option2": "Height above the earth surface",
+  "option3": "Axial rotation of the earth",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The value of acceleration due to gravity vary due to the following factors : (a) Shape of the earth (b) Height above the earth surface (c) Depth below the earth surface (d) Axial rotation of the earth"
+}

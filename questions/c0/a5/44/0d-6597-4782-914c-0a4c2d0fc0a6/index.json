@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-11-10T21:48:05.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "c0a5440d-6597-4782-914c-0a4c2d0fc0a6",
+  "labels": "current-affairs,2018-11-11",
+  "question": "Which news agency has recently launched the world's first AI news anchor?",
+  "option1": "Yonhap",
+  "option2": "Kyodo News",
+  "option3": "Xinhua",
+  "option4": "Lankapuvath",
+  "option5": "",
+  "answer": "Xinhua",
+  "explanation": "China’s state news agency Xinhua  has recently launched the world\\'s first Artificial Intelligence (AI) news anchor at the ongoing 5th World Internet Conference in Wuzhen.  The anchor resembles a male human anchor with the voice and facial expressions of a real person. “He” learns from live broadcasting videos by himself and can read texts as naturally as a professional human anchor. Two AI news anchors that can read news in English as well as Mandarin were jointly developed by Xinhua and the Chinese search engine “Sogou”. The anchors were developed through Machine Learning (ML) programme to simulate the voice, facial movements, and gestures of real-life broadcasters, to present a “a lifelike image instead of a cold robot”."
+}

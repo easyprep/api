@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "fbf53eeb-89f0-4373-95d2-f4e2f0eb016b",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What is the relationship between Kinetic and limiting friction?",
+  "option1": "Kinetic friction is slightly greater than limiting friction",
+  "option2": "Kinetic friction is slightly less than limiting friction",
+  "option3": "Kinetic friction is equal to limiting friction",
+  "option4": "No relationship",
+  "option5": "",
+  "answer": "Kinetic friction is slightly less than limiting friction",
+  "explanation": "The Kinetic friction is always slightly less than the limiting friction. This is because once the motion has started, the inertia of has been overcome and irregularities of one surface have little or no time to get locked into the irregularities of the other surface."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f3c4f613-6885-4a6b-a60a-3e162f53d98d",
+  "labels": "current-affairs,2019-01-12",
+  "question": "The Atomic clock is based on the periodic vibrations produced in the atom of which element?",
+  "option1": "Hydrogen",
+  "option2": "Rubidium",
+  "option3": "Cesium",
+  "option4": "Barium",
+  "option5": "",
+  "answer": "Cesium",
+  "explanation": "The Atomic clock is based on the periodic vibrations produced in cesium atom. The atomic clock is also called as Cesium clock."
+}

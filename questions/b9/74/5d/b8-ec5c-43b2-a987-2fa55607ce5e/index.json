@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "b9745db8-ec5c-43b2-a987-2fa55607ce5e",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Nuclear Reactors are based on which of the following phenomenon?",
+  "option1": "Magnetic confinement of Plasma",
+  "option2": "Nuclear Fusion",
+  "option3": "Controlled Nuclear Fission",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Controlled Nuclear Fission",
+  "explanation": "Nuclear Reactors uses Controlled Nuclear Fission to generate electricity. A nuclear reactor splits the atoms of nuclear fuel (eg. uranium) to generate energy to turn water into steam to drive turbine generators. Nuclear fission is the splitting of a heavy nucleus into two lighter ones. Fission was discovered in 1938 by the German scientists Otto Hahn, Lise Meitner, and Fritz Strassmann."
+}

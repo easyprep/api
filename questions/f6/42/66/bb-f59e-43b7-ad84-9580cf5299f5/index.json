@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f64266bb-f59e-43b7-ad84-9580cf5299f5",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Which of the following is correct about the coefficient of limiting friction between any two surfaces in contact?",
+  "option1": "it is equal to twice the tangent of angle of friction",
+  "option2": "it is equal to twice the sine of angle of friction",
+  "option3": "it is equal to the tangent of angle of friction",
+  "option4": "it is equal to the sine of angle of friction",
+  "option5": "",
+  "answer": "it is equal to the tangent of angle of friction",
+  "explanation": "The coefficient of limiting friction between any two surfaces in contact is equal to the tangent of angle of friction between them. u = tan Q where u = coefficient of limiting friction and Q = angle of friction"
+}

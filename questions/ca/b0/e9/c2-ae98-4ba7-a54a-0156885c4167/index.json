@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "cab0e9c2-ae98-4ba7-a54a-0156885c4167",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The thrust on the rocket is:",
+  "option1": "in the same direction of the rocket",
+  "option2": "in the opposite direction of the rocket",
+  "option3": "at 90° to the direction of the rocket",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "in the opposite direction of the rocket",
+  "explanation": "The thrust on the rocket is in the opposite direction of the rocket. The thrust is the force with which rocket moves upwards. F = -u (dm/dt)"
+}

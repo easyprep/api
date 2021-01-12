@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "69b29f1c-2992-42bb-b5c5-a8394aa4bd53",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following physical quantities do not have any unit of measurement?",
+  "option1": "Universal Constant of Gravitation",
+  "option2": "Specific Gravity",
+  "option3": "Tension",
+  "option4": "Plancks constant",
+  "option5": "",
+  "answer": "Specific Gravity",
+  "explanation": "Specific Gravity does not have any unit of measurement Specific Gravity = Density of body/ Density of water at 4°C It is the ratio between the density of an object and a reference substance. Based on the value of specific gravity , we can tell whether the object will sink or float in our reference substance."
+}

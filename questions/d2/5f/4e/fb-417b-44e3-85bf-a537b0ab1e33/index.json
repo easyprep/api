@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "d25f4efb-417b-44e3-85bf-a537b0ab1e33",
+  "labels": "current-affairs,2019-01-12",
+  "question": "1 femto metre is equal to how many metres?",
+  "option1": "10<sup>-12</sup>",
+  "option2": "10<sup>-14</sup>",
+  "option3": "10<sup>-15</sup>",
+  "option4": "1<sup>-24</sup>",
+  "option5": "",
+  "answer": "10<sup>-15</sup>",
+  "explanation": "1 femto metre is equal to 10<sup>-15 </sup>metre. Some other metric prefixes are:<br />\r\n<ul>\r\n<li>nano = 10<sup>-9</sup></li>\r\n<li>pico = 10<sup>-12</sup></li>\r\n<li>atto = 10<sup>-18</sup></li>\r\n<li>tera = 10<sup>12</sup></li>\r\n<li>peta = 10<sup>-15</sup></li>\r\n<li>exa = 10<sup>-18</sup></li>\r\n</ul>"
+}

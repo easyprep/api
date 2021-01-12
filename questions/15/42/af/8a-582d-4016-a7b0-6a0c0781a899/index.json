@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-16T15:49:53.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1542af8a-582d-4016-a7b0-6a0c0781a899",
+  "labels": "current-affairs,2019-01-17",
+  "question": "Two satellites, A having mass of 500 kgs and B having mass of 1200 kgs, are launched from earth. Which of these will have a greater orbital velocity if the radius of orbit is same for both?",
+  "option1": "Satellite A",
+  "option2": "Satellite B",
+  "option3": "Both satellites will have the same orbital velocity",
+  "option4": "Cant be determined",
+  "option5": "",
+  "answer": "Both satellites will have the same orbital velocity",
+  "explanation": "Both satellites will have the same orbital velocity as the orbital velocity of a satellite is independent of mass of satellite."
+}

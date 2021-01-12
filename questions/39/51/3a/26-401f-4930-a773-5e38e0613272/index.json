@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:16.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "39513a26-401f-4930-a773-5e38e0613272",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the slope of the velocity-time graph when an object moves with constant negative acceleration, having positive initial velocity?",
+  "option1": "90°",
+  "option2": "more than 90°",
+  "option3": "less than 90°",
+  "option4": "0°",
+  "option5": "",
+  "answer": "more than 90°",
+  "explanation": "When an object moves with constant negative acceleration, having positive initial velocity, the velocity-time graph is a straight line having slope more than 90°. When an object moves with constant positive acceleration, having positive initial velocity, the velocity-time graph is a straight line having slope less than 90°."
+}

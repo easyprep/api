@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:16.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "f366e2c8-ed98-48cb-a920-1d34cf1b585c",
+  "labels": "current-affairs,2019-01-12",
+  "question": "The branch of mechanics which deals with the study of motion of material objects without taking into account the factors which cause motion is called as:",
+  "option1": "Statics",
+  "option2": "Kinematics",
+  "option3": "Dynamics",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Kinematics",
+  "explanation": "The branch of mechanics which deals with the study of motion of material objects without taking into account the factors which cause motion is called as Kinematics. The branch of mechanics which deals with the study of motion of material objects taking into account the factors which cause motion is called as Dynamics. The branch of mechanics which deals with the study of material objects at rest is called as Statics."
+}

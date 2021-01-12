@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-16T15:49:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "6a268c9c-5afa-41c1-af4d-efbe0be6ce46",
+  "labels": "current-affairs,2019-01-17",
+  "question": "What is the escape velocity of a planet having mass 6 times and radius 2 times as that of earth?",
+  "option1": "3 v<sub>e</sub>",
+  "option2": "√2 v<sub>e</sub>",
+  "option3": "√3 v<sub>e</sub>",
+  "option4": "2 v<sub>e</sub>",
+  "option5": "",
+  "answer": "√3 v<sub>e</sub>",
+  "explanation": "Escape velocity of a satellite is given by v<sub>e</sub> = (2GM/r)<sup>1/2</sup> So when M=6times and R=2R, then v<sub>e</sub> becomes √3 v<sub>e</sub>."
+}

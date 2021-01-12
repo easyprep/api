@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "32fa6f41-7fd1-4a63-9acb-b281ba2b0e1a",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Light year is a unit of which of these following?",
+  "option1": "distance",
+  "option2": "time",
+  "option3": "pressure",
+  "option4": "power",
+  "option5": "",
+  "answer": "distance",
+  "explanation": "Light year is a unit of distance. One light year is the distance travelled by light in vacuum in one year. 1 light year = 9.46 x 10<sup>15 </sup>m velocity of light in vacuum = 3 x10<sup>8 m/s</sup>"
+}

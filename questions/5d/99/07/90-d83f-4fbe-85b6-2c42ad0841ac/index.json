@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "5d990790-d83f-4fbe-85b6-2c42ad0841ac",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The force acting on a body for a short time are called as:",
+  "option1": "Average force",
+  "option2": "Momentum",
+  "option3": "Impulse",
+  "option4": "Tension",
+  "option5": "",
+  "answer": "Impulse",
+  "explanation": "The force acting on a body for a short time are called as Impulse. Example: hitting a ball with a bat. Impulse = average force x time It is a measure of total effect of the force. Its unit is Ns"
+}

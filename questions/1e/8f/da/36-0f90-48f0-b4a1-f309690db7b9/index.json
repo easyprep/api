@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1e8fda36-0f90-48f0-b4a1-f309690db7b9",
+  "labels": "current-affairs,2019-01-18",
+  "question": "Which of these states of matter has the maximum density?",
+  "option1": "Solids",
+  "option2": "Liquids",
+  "option3": "Gases",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Solids",
+  "explanation": "The density is maximum in case of solids. In the case of liquids, the density is less than solids but more than gases. In gases, the density is minimum."
+}

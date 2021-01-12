@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-16T15:49:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1314d81e-5d4c-4cae-82b4-d10c203263b8",
+  "labels": "current-affairs,2019-01-17",
+  "question": "What will happen to a ball if it is dropped from a spacecraft revolving around the earth at a height of 120 km?",
+  "option1": "It will go very far in the space",
+  "option2": "It will fall down to the earth gradually",
+  "option3": "If will move with the same speed tangentially to the spacecraft",
+  "option4": "It will continue to move with velocity v along the original orbit of spacecraft",
+  "option5": "",
+  "answer": "It will continue to move with velocity v along the original orbit of spacecraft",
+  "explanation": "If a ball is dropped from a spacecraft revolving around the earth at a height of 120 km, it will continue to move with velocity v along the original orbit of spacecraft. As the ball possess same initial tangential speed as that of space craft. So, it also feels the condition of weightlessness."
+}

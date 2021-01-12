@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "fa18cb21-d746-4045-94f6-4a1ce5001a41",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Which of the following is/are correct about Kinetic energy?",
+  "option1": "Kinetic energy can be positive or negative",
+  "option2": "Kinetic energy is independent of frame of reference",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "Kinetic energy of a body is half the product of mass of the body and square of the velocity of the body. K.E = 1/2(mv<sup>2</sup>) Kinetic energy depends on the frame of reference. Kinetic energy of a body is always positive."
+}

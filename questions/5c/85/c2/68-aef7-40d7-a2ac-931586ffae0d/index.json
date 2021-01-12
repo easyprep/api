@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-16T15:49:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "5c85c268-aef7-40d7-a2ac-931586ffae0d",
+  "labels": "current-affairs,2019-01-17",
+  "question": "What is the relation between the orbital velocity and the radius of the orbit for a given planet?",
+  "option1": "greater the radius of orbit, lesser will be the orbital velocity",
+  "option2": "greater the radius of orbit, greater will be the orbital velocity",
+  "option3": "orbital velocity is independent of radius of orbit",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "greater the radius of orbit, lesser will be the orbital velocity",
+  "explanation": "For a given planet, greater the radius of orbit, lesser will be the orbital velocity of the satellite. The Orbital velocity depends on the mass of central body and radius of orbit."
+}

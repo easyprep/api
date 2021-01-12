@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "bd31c85b-3d39-4cdf-ab33-05b74ae42d4d",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the relation between velocity and acceleration at the highest point of projectile path?",
+  "option1": "both are at an angle of 45° to each other",
+  "option2": "both are perpendicular to each other",
+  "option3": "both are at an angle of 180° to each other",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "both are perpendicular to each other",
+  "explanation": "At the highest point of projectile path, the velocity and acceleration are perpendicular to each other. At the highest point of projectile path, the projectile possesses velocity only along the horizontal direction."
+}

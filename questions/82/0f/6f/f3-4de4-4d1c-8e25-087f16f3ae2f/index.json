@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "820f6ff3-4de4-4d1c-8e25-087f16f3ae2f",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the S.I unit of Coefficient of Mutual inductance?",
+  "option1": "weber",
+  "option2": "candela",
+  "option3": "henry",
+  "option4": "lambert",
+  "option5": "",
+  "answer": "henry",
+  "explanation": "The unit of Coefficient of Mutual inductance is henry lambert is the S.I unit of Luminance weber is the S.I unit of Magnetic Flux candela is the S.I unit of Luminous Intensity"
+}

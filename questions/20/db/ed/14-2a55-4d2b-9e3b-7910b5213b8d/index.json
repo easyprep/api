@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "20dbed14-2a55-4d2b-9e3b-7910b5213b8d",
+  "labels": "current-affairs,2019-01-13",
+  "question": "The Newton's third law is applicable when:",
+  "option1": "bodies are at rest",
+  "option2": "bodies are in motion",
+  "option3": "bodies are in the air",
+  "option4": "bodies are at rest or in motion",
+  "option5": "",
+  "answer": "bodies are at rest or in motion",
+  "explanation": "The Newton's third law is applicable whether the bodies are at rest or in motion. It states that to every action there is an equal and opposite reaction."
+}

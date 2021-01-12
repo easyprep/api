@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "310dbfa4-cc32-45ce-9158-71814d663b62",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Who gave the Theory of Relativity?",
+  "option1": "Isaac Newton",
+  "option2": "Archimedes",
+  "option3": "Albert Einstein",
+  "option4": "Galileo Galilei",
+  "option5": "",
+  "answer": "Albert Einstein",
+  "explanation": "Albert Einstein was the founder of Theory of Relativity. According to Einstein’s theory, mass m is equivalent to energy E given by the relation E = mc^2 where c is speed of light in vacuum. Albert Einstein was awarded the 1921 Nobel Prize in Physics for his contribution to the field of Theoretical Physics."
+}

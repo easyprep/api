@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:58.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "bfb965ac-048d-4a55-aa03-70068cc56c2e",
+  "labels": "current-affairs,2019-01-10",
+  "question": "The force between charged particles is called as:",
+  "option1": "Nuclear Force",
+  "option2": "Gravitational Force",
+  "option3": "Centrifugal Force",
+  "option4": "Electromagnetic Force",
+  "option5": "",
+  "answer": "Electromagnetic Force",
+  "explanation": "Electromagnetic force is the force between charged particles. It can be attractive for unlike charges and repulsive for like charges. It does not need any intervening medium to act and is enormously strong as compared to gravitational force."
+}

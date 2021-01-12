@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "14e4acc0-0646-4bc5-903a-32097205df07",
+  "labels": "current-affairs,2019-01-16",
+  "question": "The ratio of the magnitude of the external force applied on a body to the magnitude of acceleration produced in its motion is known as:",
+  "option1": "Inertial Mass",
+  "option2": "Angular Momentum",
+  "option3": "Gravitational Potential",
+  "option4": "Gravitational Constant",
+  "option5": "",
+  "answer": "Inertial Mass",
+  "explanation": "The inertial mass of a body may be measured as the ratio of the magnitude of the external force applied on it to the magnitude of acceleration produced in its motion. It is the measure of ability of the body to oppose the production of acceleration in its motion by an external force."
+}

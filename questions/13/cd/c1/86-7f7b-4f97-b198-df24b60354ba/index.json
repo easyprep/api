@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "13cdc186-7f7b-4f97-b198-df24b60354ba",
+  "labels": "current-affairs,2019-01-10",
+  "question": "The recoiling of gun is an example of which of the following?",
+  "option1": "Law of Conservation of Angular Momentum",
+  "option2": "Law of Conservation of Linear Momentum",
+  "option3": "Conversion of Kinetic Energy to Potential Energy",
+  "option4": "Law of Conservation of Energy",
+  "option5": "",
+  "answer": "Law of Conservation of Linear Momentum",
+  "explanation": "The recoiling of gun is an example of Law of Conservation of Linear Momentum. When gun fires a bullet, it experiences a force in forward direction (action) , as a result the gun exerts a backward force (reaction) on the shoulder. Thus, it is in accordance with Law of Conservation of Linear Momentum which is also the Newton's 3rd law of motion."
+}

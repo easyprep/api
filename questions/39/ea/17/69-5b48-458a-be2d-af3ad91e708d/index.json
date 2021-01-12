@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "39ea1769-5b48-458a-be2d-af3ad91e708d",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Work done is defined as the dot product of which of the following vectors?",
+  "option1": "Force and acceleration",
+  "option2": "Force and area",
+  "option3": "Force and instantaneous velocity",
+  "option4": "Force and displacement",
+  "option5": "",
+  "answer": "Force and displacement",
+  "explanation": "Work done is defined as the dot product of Force vector and displacement vector. W = F.s Work done is a scalar quantity. Note: Instantaneous power is defined as the dot product of Force vector and instantaneous velocity."
+}

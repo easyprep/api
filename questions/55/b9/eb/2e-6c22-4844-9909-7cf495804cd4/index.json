@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "55b9eb2e-6c22-4844-9909-7cf495804cd4",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Joule/kg is the S.I unit of which of these physical quantities?",
+  "option1": "Entropy",
+  "option2": "Permittivity of free space",
+  "option3": "Latent heat",
+  "option4": "Gas constant",
+  "option5": "",
+  "answer": "Latent heat",
+  "explanation": "Joule/kg is the S.I unit of Latent heat Latent heat(L) = heat(Q)/mass(m) Latent heat is the heat required to convert a solid into a liquid or vapor, or a liquid into a vapor, without any change in temperature. Unit of Entropy: J/K Unit of Permittivity of free space: H/m Unit of Gas constant : J/K"
+}

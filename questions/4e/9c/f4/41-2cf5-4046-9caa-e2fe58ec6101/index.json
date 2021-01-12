@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "4e9cf441-2cf5-4046-9caa-e2fe58ec6101",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of these pairs has the same unit of measurement?",
+  "option1": "Rate of flow and Acceleration",
+  "option2": "Impulse and Moment of Force",
+  "option3": "Rydberg constant and Gas constant",
+  "option4": "Pressure and Coefficient of Elasticity",
+  "option5": "",
+  "answer": "Pressure and Coefficient of Elasticity",
+  "explanation": "Pressure and Coefficient of Elasticity have the same unit i.e. N m<sup>-2</sup> (Newton per metre square) Other important units: Rate of Flow: m<sup>3</sup>s<sup>-1</sup> Acceleration: ms<sup>-2</sup> Rydberg constant: 1/m Gas constant: J/K Impulse: Ns Moment of Force: Nm"
+}

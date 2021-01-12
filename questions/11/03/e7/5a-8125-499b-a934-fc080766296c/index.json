@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "1103e75a-8125-499b-a934-fc080766296c",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Two vectors are said to be equal if:",
+  "option1": "they have equal magnitude and same direction",
+  "option2": "they have equal magnitude and opposite direction",
+  "option3": "they have equal magnitude and common initial point",
+  "option4": "they have equal magnitude irrespective of the direction",
+  "option5": "",
+  "answer": "they have equal magnitude and same direction",
+  "explanation": "Two vectors are said to be equal if they have equal magnitude and same direction. Two vectors are said to be co-initial if their initial point is common."
+}

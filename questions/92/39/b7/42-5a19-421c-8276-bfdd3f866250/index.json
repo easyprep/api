@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "9239b742-5a19-421c-8276-bfdd3f866250",
+  "labels": "current-affairs,2019-01-16",
+  "question": "What is the value of Universal Gravitational Constant?",
+  "option1": "6.67×10<sup>-9</sup> N–m2 kg–2",
+  "option2": "6.67×10<sup>-10</sup> N–m2 kg–2",
+  "option3": "6.67×10<sup>11</sup> N–m2 kg–2",
+  "option4": "6.67×10<sup>-11</sup> N–m2 kg–2",
+  "option5": "",
+  "answer": "6.67×10<sup>-11</sup> N–m2 kg–2",
+  "explanation": "The value of Universal Gravitational Constant is same throughout the universe and is equal to 6.67×10<sup>-11</sup> Nm<sup>2</sup> kg<sup>-2</sup> in S.I. and 6.67×10<sup>-8</sup> dyne cm<sup>2</sup> g<sup>-2</sup>"
+}

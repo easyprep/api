@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "803890da-edc5-46ca-a8f4-5d03ba29573b",
+  "labels": "current-affairs,2019-01-16",
+  "question": "What is the unit of intensity of Gravitational field in the c.g.s system?",
+  "option1": "dyne cm g<sup>-1</sup>",
+  "option2": "dyne g<sup>-2</sup>",
+  "option3": "dyne cm g<sup>2</sup>",
+  "option4": "dyne g<sup>-1</sup>",
+  "option5": "",
+  "answer": "dyne g<sup>-1</sup>",
+  "explanation": "The unit of intensity of Gravitational field in the c.g.s system is dyne g<sup>-1</sup> or cm s<sup>-2</sup>. S.I. unit of intensity of Gravitational field is N Kg<sup>-1</sup> m s<sup>-2</sup>."
+}

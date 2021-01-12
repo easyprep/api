@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "47a36610-2fed-418a-9ddf-8d21cd9ca15c",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Which of these is the cause of Friction?",
+  "option1": "Roughness of surfaces in contact",
+  "option2": "Force of adhesion between the molecules of the surfaces in contact",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Friction is the force that opposes the relative motion between the two surfaces of objects in contact. Friction is caused due to: 1. Roughness of surfaces in contact 2. Force of adhesion between the molecules of the surfaces in contact"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "6034ae72-6e1f-4160-88b1-969509c79cc9",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following is incorrect:",
+  "option1": "Gravitational force of attraction is independent of nature of intervening medium",
+  "option2": "Gravitational forces are central forces",
+  "option3": "Gravitational forces are non-conservative forces",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Gravitational forces are non-conservative forces",
+  "explanation": "Characteristics of Gravitational Forces:\r\n<ol>\r\n<li>It is always attractive in nature.</li>\r\n<li>It is independent of the medium between the bodies.</li>\r\n<li>It holds good over a wide range of distances</li>\r\n<li>It is a central force i.e. acts along the line joining the centres of two interacting bodies</li>\r\n<li>The gravitational force between two particles is independent of the presence or absence of other bodies</li>\r\n<li>It is the weakest force in nature.</li>\r\n<li>It is a conservative force i.e. work done by it is path independent or work done in moving a particle round a closed path under the action of gravitational force is zero.</li>\r\n<li>It is an action-reaction pair.</li>\r\n</ol>"
+}

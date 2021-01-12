@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "24f120f2-4242-425b-9e63-72181df63881",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the time taken by the earth to complete one rotation about its axis with regard to a fixed star?",
+  "option1": "Sidereal day",
+  "option2": "Solar day",
+  "option3": "Shake",
+  "option4": "Tropical year",
+  "option5": "",
+  "answer": "Sidereal day",
+  "explanation": "Sidereal day is the time taken by the earth to complete one rotation about its axis w.r.t a fixed star Solar day is the time taken by the earth to complete one rotation about its axis w.r.t the sun. Shake is the smallest practical unit of time 1 shake = 10<sup>-8</sup>s Tropical year: The year in which there is a total solar eclipse."
+}

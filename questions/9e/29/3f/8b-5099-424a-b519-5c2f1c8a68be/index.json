@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "9e293f8b-5099-424a-b519-5c2f1c8a68be",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Who among the following discovered X-rays?",
+  "option1": "Marie Curie",
+  "option2": "J.J Thomson",
+  "option3": "W.C Roentgen",
+  "option4": "James Chadwick",
+  "option5": "",
+  "answer": "W.C Roentgen",
+  "explanation": "X-rays were discovered by Wilhelm Conrad Roentgen. W.C Roengten discovered X-Rays while actually working on Cathode rays. X-rays is a form of electromagnetic radiation having a wavelength ranging from 0.01 to 10 nanometers and frequencies in the range 30 petahertz to 30 exahertz. Some Uses of X-Rays: The main use of X-rays is in medicine to check for a broken bone inside body. X-rays can also be used to kill cancer cells. X-rays are used at security checks at airports, railway stations etc. to check customers and baggage. X-rays are also used art historians to see if a picture has been painted on top of an older one. X-ray diffraction is also very important in spectroscopy and as a basis for X-ray crystallography."
+}

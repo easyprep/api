@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "cffbf8e3-7195-4fdb-8d7a-859744a42832",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the relation between Time period and Frequency in case of uniform circular motion?",
+  "option1": "reciprocal to each other",
+  "option2": "equal to each other",
+  "option3": "no relation between them",
+  "option4": "Time period is one half of the Frequency",
+  "option5": "",
+  "answer": "reciprocal to each other",
+  "explanation": "Time period and Frequency are reciprocal to each other in case of uniform circular motion. Time period = 1 /Frequency Time Period is the time taken by the object to complete one revolution. Frequency is the number of revolutions completed by the object in unit time."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "2d9d251a-b11e-4f04-9d38-aa4a5a1a02a2",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is the maximum height that can be attained by a projectile?",
+  "option1": "equal to its maximum range",
+  "option2": "one half of its maximum range",
+  "option3": "one-fourth of its maximum range",
+  "option4": "twice of its maximum range",
+  "option5": "",
+  "answer": "one-fourth of its maximum range",
+  "explanation": "The maximum height that can be attained by a projectile is equal to one-fourth of its maximum range."
+}

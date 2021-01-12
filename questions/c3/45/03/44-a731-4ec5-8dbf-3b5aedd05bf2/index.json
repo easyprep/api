@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "c3450344-a731-4ec5-8dbf-3b5aedd05bf2",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following units is NOT used for measuring length?",
+  "option1": "Astronomical Unit",
+  "option2": "Light year",
+  "option3": "Par sec",
+  "option4": "slug",
+  "option5": "",
+  "answer": "slug",
+  "explanation": "Astronomical Unit, Light year and Par sec are the units used to measure very large distances whereas slug is a unit to measure heavy masses. 1 slug = 14.57 kg"
+}

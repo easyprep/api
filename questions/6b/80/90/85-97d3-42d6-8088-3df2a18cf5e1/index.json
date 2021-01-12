@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-12-29T22:31:25.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "6b809085-97d3-42d6-8088-3df2a18cf5e1",
+  "labels": "current-affairs,2018-12-30",
+  "question": "Indian Railways has developed which AI-powered robot to check for faults in trains?",
+  "option1": "Madad",
+  "option2": "Milap",
+  "option3": "Cris",
+  "option4": "Ustaad",
+  "option5": "",
+  "answer": "Ustaad",
+  "explanation": "The Central Zone of Indian Railways has developed an AI-powered robot, named as ‘USTAAD’, which will scrutinize parts of train coaches in real time and transmit them over a WiFi connection. The acronym ‘USTAAD’ stands for Undergear Surveillance Through Artificial Intelligence Assisted Droid.   The robot is developed by the mechanical branch of Central Railway’s Nagpur division. It would click pictures and record videos of the under-gears of trains and send them to engineers for repairs and maintenance. The robot is also capable of zooming into a spot in case of any doubt. It is equipped with LED flood light and able to capture the videos in low light as well as in dark mode. By use of this robot the chances of mistake and any deficiency overlooked by human eye can be eliminated thus reducing chances of human error. With the help of USTAAD, engineers can easily see and examine areas which are hard to see and hard to approach such as cramped or narrow spaces between under-gear parts."
+}

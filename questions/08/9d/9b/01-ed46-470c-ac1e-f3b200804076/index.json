@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "089d9b01-ed46-470c-ac1e-f3b200804076",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Work done will NOT be zero in which of the following case/cases?",
+  "option1": "When displacement is zero",
+  "option2": "When angle between force and displacement vector is zero",
+  "option3": "When angle between force and displacement vector is 90°",
+  "option4": "When force is zero",
+  "option5": "",
+  "answer": "When angle between force and displacement vector is zero",
+  "explanation": "Work done will be zero: 1. When displacement is zero 2. When force is zero 3. When angle between force and displacement vector is zero"
+}

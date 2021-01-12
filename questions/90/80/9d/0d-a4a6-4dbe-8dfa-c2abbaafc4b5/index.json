@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-17T16:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "90809d0d-a4a6-4dbe-8dfa-c2abbaafc4b5",
+  "labels": "current-affairs,2019-01-18",
+  "question": "Which of the following relations between Kinetic energy and Potential energy is true about solids?",
+  "option1": "Kinetic energy = Potential energy",
+  "option2": "Kinetic energy > Potential energy",
+  "option3": "Kinetic energy >> Potential energy",
+  "option4": "Kinetic energy < Potential energy",
+  "option5": "",
+  "answer": "Kinetic energy < Potential energy",
+  "explanation": "In Solids, Kinetic energy is always less than the Potential energy. For liquids, Kinetic energy > Potential energy. For Gases, Kinetic energy >> Potential energy."
+}

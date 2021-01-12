@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-09T03:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "884aa8c0-3971-4f7b-846d-1143f48ec41e",
+  "labels": "current-affairs,2019-01-10",
+  "question": "Which of the following is not a valid conservation law of classical Physics?",
+  "option1": "Law of conservation of energy",
+  "option2": "Law of conservation of current",
+  "option3": "Law of conservation of angular momentum",
+  "option4": "Law of conservation of charge",
+  "option5": "",
+  "answer": "Law of conservation of current",
+  "explanation": "The following laws are dealt with in the classical physics: 1. Law of conservation of energy 2. Law of conservation of angular momentum 3. Law of conservation of linear momentum 4. Law of conservation of charge"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T22:11:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "423cfe07-681f-4fec-ba8e-d1c35da7fb96",
+  "labels": "current-affairs,2019-01-13",
+  "question": "What is the coefficient of restitution for a perfectly elastic collision?",
+  "option1": 0,
+  "option2": 1,
+  "option3": -1,
+  "option4": 100,
+  "option5": "",
+  "answer": 1,
+  "explanation": "For a perfectly elastic collision, the coefficient of restitution is equal to 1 as the velocity of separation after collision is equal to the velocity of approach before collision. For a perfectly inelastic collision, the coefficient of restitution is equal to 0 as the velocity of separation after collision is equal to 0. The coefficient of restitution or coefficient of resilience is the ratio of relative velocity of separation after collision and the velocity of approach before collision."
+}

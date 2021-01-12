@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "95c03298-f670-46f6-8d55-28b99132d8e2",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following represents the dimensional formula of Universal Gravitational Constant?",
+  "option1": "M<sup>1</sup> L<sup>2</sup> T<sup>-2</sup>",
+  "option2": "M<sup>-1</sup> L<sup>1</sup> T<sup>-2</sup>",
+  "option3": "M<sup>-1</sup> L<sup>3</sup> T<sup>-2</sup>",
+  "option4": "M<sup>1</sup> L<sup>3</sup> T<sup>-2</sup>",
+  "option5": "",
+  "answer": "M<sup>-1</sup> L<sup>3</sup> T<sup>-2</sup>",
+  "explanation": "The dimensional formula of Universal Gravitational Constant is M<sup>-1</sup> L<sup>3</sup> T<sup>-2</sup> Universal Gravitational Constant is a scalar quantity."
+}

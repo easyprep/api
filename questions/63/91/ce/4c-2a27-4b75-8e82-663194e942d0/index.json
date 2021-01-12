@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "6391ce4c-2a27-4b75-8e82-663194e942d0",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following is correct about the value of acceleration due to gravity?",
+  "option1": "it is greater at mountains than in plains",
+  "option2": "it is lesser at mountains than in plains",
+  "option3": "it is equal for mountains and plains",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "it is lesser at mountains than in plains",
+  "explanation": "The value of acceleration due to gravity decreases with increase in height. Therefore, it is lesser at mountains than in plains."
+}

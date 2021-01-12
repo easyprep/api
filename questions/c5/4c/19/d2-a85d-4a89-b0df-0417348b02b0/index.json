@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "c54c19d2-a85d-4a89-b0df-0417348b02b0",
+  "labels": "current-affairs,2019-01-13",
+  "question": "1 kilogram force produces how much acceleration in a body of mass 1 kg?",
+  "option1": "1 ms<sup>-2</sup>",
+  "option2": 0,
+  "option3": "9.8 ms<sup>-2</sup>",
+  "option4": "-1 ms<sup>-2</sup>",
+  "option5": "",
+  "answer": "9.8 ms<sup>-2</sup>",
+  "explanation": "1 Kilogram force or 1 Kilogram weight is that much force which produces an acceleration of 9.8 ms<sup>-2</sup> in a body of mass 1 kg. Also, 1 kg wt. or 1 kg f = 9.8 N"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "906f97e3-3766-4781-bf1a-6c29e6463af1",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Power of lens is measured in which of the following units?",
+  "option1": "metre",
+  "option2": "dioptre",
+  "option3": "lumen",
+  "option4": "watt",
+  "option5": "",
+  "answer": "dioptre",
+  "explanation": "Power of lens is measured in dioptre(D). Power of lens = 1/focal length The power of a lens is its ability to bend light. The greater the power the greater the refraction of light."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:32:36.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "21737c2e-1ae4-4b15-b085-276cc3f67070",
+  "labels": "current-affairs,2019-01-12",
+  "question": "Which of the following is NOT a unit for measuring pressure?",
+  "option1": "bar",
+  "option2": "torr",
+  "option3": "Pascal",
+  "option4": "shake",
+  "option5": "",
+  "answer": "shake",
+  "explanation": "bar, torr and Pascal are the units used for measuring pressure whereas shake is a unit of time. 1 bar = 10<sup>5</sup> Pa 1 bar = 760 torr 1 bar = 1 atmospheric pressure Shake is the smallest practical unit of time. 1 shake = 10<sup>-8</sup>s"
+}

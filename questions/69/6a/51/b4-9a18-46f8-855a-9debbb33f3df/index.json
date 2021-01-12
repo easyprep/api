@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-11-06T21:59:17.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "696a51b4-9a18-46f8-855a-9debbb33f3df",
+  "labels": "current-affairs,2018-11-07",
+  "question": "Which company has received India’s first Letter of Credit (LC) payment via blockchain?",
+  "option1": "Tata  Motors",
+  "option2": "Wipro",
+  "option3": "Reliance Industries",
+  "option4": "Infosys",
+  "option5": "",
+  "answer": "Reliance Industries",
+  "explanation": "HSBC Holdings Plc has executed India\\'s first trade financial transaction using blockchain for a deal involving an export by Reliance Industries Ltd (RIL) to US-based Tricon Energy. The blockchain-enabled letter of credit (LC) reduces transaction timeline from 7-10 days to less than a day. The Letter of Credit (LC) was issued by ING Bank for Tricon Energy USA (importer) with HSBC India as the advisory and negotiation bank for RIL. The blockchain platform was integrated with the electronic bill of lading (eBL) platform to issue and manage an electronic bill of lading. This allows a digital transfer of the title of goods from the seller to the buyer in the underlying trade. It is claimed that the blockchain solution is a major improvement for any organisation involved in buying and selling goods internationally, as it brings together all parties onto one platform. It is a distributed database that maintains a continuously-growing list of ordered records called blocks and is deemed to be very transparent as all the stakeholders can view progress real time."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-10-21T21:37:19.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "568f7a0c-6511-44d8-acd6-825926bdf92e",
+  "labels": "current-affairs,2018-10-22",
+  "question": "Consider the following statements about the Robot Sophia\r\n<ol>\r\n<li>It is world’s first AI powered humanoid robot.</li>\r\n<li>It is world's first robot citizen. Saudi Gave citizenship to Sophia.</li>\r\n<li>Sophia was named the United Nations Development Programme's first ever Innovation Champion</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Sophia is a humanoid robot developed by Hong Kong-based company Hanson Robotics. Sophia was granted Saudi Arabian citizenship, becoming the first robot ever to have a nationality. In November 2017, Sophia was named the United Nations Development Programme\\'s first ever Innovation Champion. Sophia was the first non-human to be given any United Nations title. [<a href=\\\"https://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/humanoid-robot-sophia-set-to-win-many-a-heart/article25185635.ece\\\">Source</a>]"
+}

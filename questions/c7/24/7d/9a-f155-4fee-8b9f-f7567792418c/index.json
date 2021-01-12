@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-12T16:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "c7247d9a-f155-4fee-8b9f-f7567792418c",
+  "labels": "current-affairs,2019-01-13",
+  "question": "Which of the following is NOT correct about the velocity of rocket at any time?",
+  "option1": "it is directly proportional to the exhaust speed of the gases",
+  "option2": "it is directly proportional to the natural log of ratio of intial mass of rocket to its mass at that instant",
+  "option3": "length of the rocket",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "length of the rocket",
+  "explanation": "The velocity of rocket at any time is directly proportional to the exhaust speed of the gases and to the natural log of ratio of intial mass of rocket to its mass at that instant. V = u log(m1/m2)"
+}

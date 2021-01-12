@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "30723080-d1f0-4d16-a134-fd2330b7da0f",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Which of the following is true about the effect of altitude on the value of acceleration due to gravity?",
+  "option1": "The acceleration due to gravity decreases with height",
+  "option2": "The acceleration due to gravity increases with height",
+  "option3": "The acceleration due to gravity is not dependent on height",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "The acceleration due to gravity decreases with height",
+  "explanation": "The acceleration due to gravity decreases with height. G<sub>0</sub>= g(1-2h/R) where h is the height above the surface of the earth."
+}

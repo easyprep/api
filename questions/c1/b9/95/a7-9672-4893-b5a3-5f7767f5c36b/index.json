@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-15T16:01:22.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "c1b995a7-9672-4893-b5a3-5f7767f5c36b",
+  "labels": "current-affairs,2019-01-16",
+  "question": "Choose the correct statement about weight:",
+  "option1": "It is a scalar quantity",
+  "option2": "Its value is independent of g",
+  "option3": "It is determined by a spring balance",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It is determined by a spring balance",
+  "explanation": "Weight is the attractive force exerted by earth on any body. Its value changes with g. It is determined by a spring balance. It is a vector quantity."
+}

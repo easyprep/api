@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-12-06T22:48:54.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "0c914cb1-6df8-4841-ae37-bc8504d254b6",
+  "labels": "current-affairs,2018-12-07",
+  "question": "Which of the following is the India’s heaviest communication satellite i.e. recently launched successfully from French Guiana?",
+  "option1": "GSAT-10",
+  "option2": "GSAT-17",
+  "option3": "GSAT-11",
+  "option4": "GSAT-9",
+  "option5": "",
+  "answer": "GSAT-11",
+  "explanation": "On December 4, ISRO’s  heaviest and most advanced high throughput  communication satellite ‘GSAT-11’ was successfully launched by an European Ariane-5 vehicle (Flight VA246) rocket from Guiana Space Centre at Kourou in French Guiana. Initially, the satellite is placed in the Geosynchronous Transfer Orbit (GTO) and will be raised to the Geostationary Orbit (36,000 km above the equator) through phase-wise orbit-raising manoeuvres in the days ahead, using its on-board propulsion systems. GSAT-11 will be positioned at 74-degree east longitude in the geostationary orbit.The mission of the 5,854-kg giant \\'bird\\' is to provide high data rate connectivity to users of Indian mainland and islands through 32 user beams in Ku-band and 8 hub beams in Ka-band. It will boost the broadband connectivity to rural and inaccessible Gram Panchayats under BharatNet Project which is part of the Digital India initiative. The satellite is capable of providing high bandwidth connectivity with speeds of up to 16 gigabytes per second. GSAT-11’ s co-passenger is South Korea’s GEO-KOMPSAT-2A, a meteorology satellite."
+}

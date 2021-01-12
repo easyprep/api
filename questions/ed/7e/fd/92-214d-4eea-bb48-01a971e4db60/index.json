@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-01-11T17:40:16.000Z",
+  "updated_at": "2021-01-06T08:24:34.670Z",
+  "id": "ed7efd92-214d-4eea-bb48-01a971e4db60",
+  "labels": "current-affairs,2019-01-12",
+  "question": "What is represented by the slope of a straight line joining two points on a velocity-time graph?",
+  "option1": "Average velocity",
+  "option2": "Instantaneous acceleration",
+  "option3": "Average acceleration",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Average acceleration",
+  "explanation": "The slope of a straight line joining two points on a velocity-time graph gives the average acceleration between these two points. Depending on the sign of slope, the average acceleration can be positive or negative."
+}
