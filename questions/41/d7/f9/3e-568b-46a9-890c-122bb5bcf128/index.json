@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-08T02:18:50.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "41d7f93e-568b-46a9-890c-122bb5bcf128",
+  "labels": "current-affairs,2020-03-09",
+  "question": "‘Whole Genome Sequencing (WGS)’, which was seen in news recently, is associated with research in which field?",
+  "option1": "Agriculture",
+  "option2": "Genetics",
+  "option3": "Environment",
+  "option4": "Energy",
+  "option5": "",
+  "answer": "Genetics",
+  "explanation": "A genetic research project named ‘GenomeIndia: Cataloguing the Genetic Variation in Indians’ has been recently sanctioned by Department of Biotechnology (DBT) to 20 institutions for a period of 3 years.\r\nUnder GenomeIndia project, the ‘Whole Genome Sequencing (WGS)’, which analyses 10,000 individuals representing the country’s diverse population is to be carried out. The resultant information can enable future human genetics research and helps in developing precise diagnostics for major diseases."
+}

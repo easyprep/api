@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-27T11:02:21.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "6f71a23d-eff8-4c4f-bde0-1611d7bf34ad",
+  "labels": "current-affairs,2020-03-28",
+  "question": "What is the name of the unit of the Subdivision?",
+  "option1": "Gram Sabha",
+  "option2": "Tehsils",
+  "option3": "Taluk",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Tehsils",
+  "explanation": "Subdivisions are divided into Tehsils. It is headed by Tehsildar."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-09T11:28:52.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "413dff4d-b800-4cc2-9eee-b0e2ef24caba",
+  "labels": "current-affairs,2020-03-10",
+  "question": "What is the landholding capacity of a small farmer in Odisha?",
+  "option1": "2-3 hectares",
+  "option2": "0.01-2 hectares",
+  "option3": "2-5 hectares",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "0.01-2 hectares",
+  "explanation": "Small farmers have land holdings greater than 0.01 hectares but less than 2 hectares."
+}

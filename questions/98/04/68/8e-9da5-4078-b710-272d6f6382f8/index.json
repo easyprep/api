@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-10T02:38:06.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "9804688e-9da5-4078-b710-272d6f6382f8",
+  "labels": "current-affairs,2020-03-11",
+  "question": "What is the recent growth projection for India by Moody’s Investors Service, as of March 2020?",
+  "option1": 0.051,
+  "option2": 0.053,
+  "option3": 0.055,
+  "option4": 0.057,
+  "option5": "",
+  "answer": 0.053,
+  "explanation": "Global rating agency Moody’s Investors Service has revised downward its growth projections for India to 5.3% for 2020 from its earlier projection earlier this month-5.4%. \r\nThe latest revision is part of the rating agency’s latest ‘Global Macro Outlook’ report. As per the agency, an extensive crash due to the COVID-19 outbreak will reduce growth to 5% during the same calendar year. The OECD last week lowered India’s growth forecast for 2020-21 to 5.1%"
+}

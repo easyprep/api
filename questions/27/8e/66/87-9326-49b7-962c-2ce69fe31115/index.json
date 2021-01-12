@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-14T05:12:13.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "278e6687-9326-49b7-962c-2ce69fe31115",
+  "labels": "current-affairs,2020-03-15",
+  "question": "What is the Current Account Deficit (in terms of percentage of GDP) in the April to December of 2019-20, as per the recent notification of the RBI?",
+  "option1": 0.01,
+  "option2": 0.02,
+  "option3": 0.026,
+  "option4": 0.03,
+  "option5": "",
+  "answer": 0.01,
+  "explanation": "As per the recent notification of the Reserve Bank of India, Current Account Deficit (CAD) was 0.2% of GDP in December quarter when compared to 0.9% of GDP in the September quarter. \r\nIt also stated that the CAD narrowed to 1% of GDP in April to December of 2019-20 when compared to 2.6% in April-December of 2018-19. The main reason for the easing was the reduction in the trade deficit which decreased to $118.9 billion in April-December 2019-20."
+}

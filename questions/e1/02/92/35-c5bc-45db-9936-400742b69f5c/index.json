@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-19T03:27:10.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "e1029235-c5bc-45db-9936-400742b69f5c",
+  "labels": "current-affairs,2020-03-20",
+  "question": "Which famous application introduced a unique feed named ‘Discover’, which lets users report negative content and provides customised articles?",
+  "option1": "Google",
+  "option2": "Facebook",
+  "option3": "Twitter",
+  "option4": "LinkedIn",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Technological Major Google introduced a unique feed named ‘Discover’ which provides curated articles to Google Pixel and Google app users based on their interests.\r\nIn its latest update to the app, this new feature has been introduced which enables the users to report misleading articles on the ‘Discover’ feed. Users can now report misleading content as various categories which includes violent, misleading, abusive and others."
+}

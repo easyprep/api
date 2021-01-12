@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-09T11:28:52.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "296147db-4fb2-4a16-8b88-8b2b4633302a",
+  "labels": "current-affairs,2020-03-10",
+  "question": "Canals and Ponds irrigation is responsible for what percent of irrigated area in Odisha?",
+  "option1": 0.35,
+  "option2": 0.256,
+  "option3": 0.1998,
+  "option4": 0.05,
+  "option5": "",
+  "answer": 0.1998,
+  "explanation": "Canals and Ponds irrigate a 19.98% area. The high rate of investment creating impediments to the development of this type of irrigation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-13T02:51:40.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "b4df706f-6aa8-47b5-8017-5b376cbc67df",
+  "labels": "current-affairs,2020-03-14",
+  "question": "What does the term ‘Necurs’ represent, which was seen in news recently?",
+  "option1": "A virus",
+  "option2": "A botnet",
+  "option3": "A bitcoin",
+  "option4": "A worm",
+  "option5": "",
+  "answer": "A botnet",
+  "explanation": "The Necurs is a botnet and is one of the largest networks in the spam-mail threat system. It has infected more than nine million computers worldwide. Botnet means a computer network which is infected with malware, through which cyber criminals gain access to computers.\r\nIt was seen in news recently as Microsoft and its partners across 35 countries took legal and technical steps to disrupt Necurs botnet."
+}

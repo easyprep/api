@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-10T23:08:51.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "32ef4525-1b62-447d-a8ef-0b69c16f2f8a",
+  "labels": "current-affairs,2020-03-11",
+  "question": "What percent of the livestock population has increased in census 2019 with compared to the previous census of 2012?",
+  "option1": 0.03,
+  "option2": 0.039,
+  "option3": 0.046,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.046,
+  "explanation": "20<sup>th</sup> Livestock population census showed an increase of 4.6%. West Bengal witnessed the maximum increase."
+}

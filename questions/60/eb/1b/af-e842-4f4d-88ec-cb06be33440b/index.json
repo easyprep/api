@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-07T22:13:32.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "60eb1baf-e842-4f4d-88ec-cb06be33440b",
+  "labels": "current-affairs,2020-03-08",
+  "question": "Arrange the following rivers of Odisha in ascending order of their length.<br />1. Brahmani<br />2. Mahanadi<br />3. Subarnarekha<br />4. Baitarani<br />Choose the correct option from the codes given below",
+  "option1": "1, 2, 3, 4",
+  "option2": "4, 1, 2, 3",
+  "option3": "4, 3, 1, 2",
+  "option4": "1, 4, 3, 2",
+  "option5": "",
+  "answer": "4, 3, 1, 2",
+  "explanation": "Mahanadi (900 km), Brahmani (799 km), Subarnarekha (474 km), Baitarani (360 km)"
+}

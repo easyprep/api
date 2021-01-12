@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-22T05:01:01.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "1a13b859-cac9-4a9f-9890-cecf73e6ace6",
+  "labels": "current-affairs,2020-03-23",
+  "question": "Which country successfully conducted a test-flight of a hypersonic missile after Russia?",
+  "option1": "United States",
+  "option2": "France",
+  "option3": "South Korea",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The United States announced that it has successfully tested a hypersonic missile on March 20, 2020. This is a follow-up exercise of the first joint US Army and Navy flight experiment conducted in 2017.\r\nThe hypersonic missile can travel faster than the current nuclear-capable ballistic and cruise missiles. They travel at low altitudes and switch direction in flight and as they do not follow a predictable arc like traditional missiles, it is harder to track and intercept them."
+}

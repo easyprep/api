@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-07T22:07:59.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "4d2a0902-854b-41fc-9803-8e682124660f",
+  "labels": "current-affairs,2020-03-08",
+  "question": "The scale of soil acidity measures the concentration of which of the following?",
+  "option1": "Hydrogen ion",
+  "option2": "Oxygen ion",
+  "option3": "Nitrogen ion",
+  "option4": "Ammonia ion",
+  "option5": "",
+  "answer": "Hydrogen ion",
+  "explanation": "It is a scale that measures the concentration of Hydrogen ion held by the soil particles. Acidic soil has a pH value of less than 7.2"
+}

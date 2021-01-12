@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-15T03:21:42.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "f2bcec20-db64-48ad-90f8-544dcad2c24a",
+  "labels": "current-affairs,2020-03-16",
+  "question": "As per the recent notification of the Reserve Bank of India, what is the limit for Urban cooperative banks (UCBs), to lend to a single borrower?",
+  "option1": "10% of tier-I capital",
+  "option2": "15% of tier-I capital",
+  "option3": "20% of tier-I capital",
+  "option4": "25% of tier-I capital",
+  "option5": "",
+  "answer": "15% of tier-I capital",
+  "explanation": "The Reserve Bank of India (RBI) the single borrower and group exposure limit for Urban cooperative banks (UCBs) to 15% and 25% of tier I capital, respectively.\r\nThis reduction in limit is to mitigate concentration risks arising out of large loans. Existing norms allowed 15% for single borrowers and 40% to group exposures of a bank’s total capital (tier I and tier II capital). The banks will have to bring their existing exposures to the new limits by 31 March 2023."
+}

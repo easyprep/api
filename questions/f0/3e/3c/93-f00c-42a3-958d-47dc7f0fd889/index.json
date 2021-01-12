@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-25T04:54:37.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "f03e3c93-f00c-42a3-958d-47dc7f0fd889",
+  "labels": "current-affairs,2020-03-26",
+  "question": "A 650 TFLOPS-Supercomputing facility is set to be installed in which institution?",
+  "option1": "IIT Mumbai",
+  "option2": "IIT Delhi",
+  "option3": "IIT Guwahati",
+  "option4": "IIT Chennai",
+  "option5": "",
+  "answer": "IIT Guwahati",
+  "explanation": "The Technical Advisory Committee of the National Supercomputing Mission (MSM-TAC) has approved the installation of a Supercomputing facility with 650 TFLOPS, at IIT Guwahati, Assam. \r\nThe installation of the supercomputing system has been started under the National Supercomputing Mission (NSM). It is co-ordinated by the Department of Science and Technology (DST) and the Ministry of Electronics and Information Technology (MeitY). The mission is being implemented by the Centre for Development of Advanced Computing (C-DAC), Pune, and Indian Institute of Science (IISc), Bengaluru."
+}

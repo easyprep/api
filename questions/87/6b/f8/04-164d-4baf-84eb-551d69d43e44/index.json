@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-18T12:51:06.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "876bf804-164d-4baf-84eb-551d69d43e44",
+  "labels": "current-affairs,2020-03-19",
+  "question": "What percent of telephone subscribers of India belongs to Odisha?",
+  "option1": 0.08,
+  "option2": 0.065,
+  "option3": 0.029,
+  "option4": 0.015,
+  "option5": "",
+  "answer": 0.029,
+  "explanation": "Odisha has 2.90% of total telephone subscribers of India (99.15% wireless and 0.85% wireline)."
+}

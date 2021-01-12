@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-17T00:11:52.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "cd3d75e7-b482-419a-beb0-25fddf4d8a5d",
+  "labels": "current-affairs,2020-03-18",
+  "question": "Which global technological company was first to launch a web portal which tracks COVID-19 infections worldwide?",
+  "option1": "Google",
+  "option2": "Microsoft",
+  "option3": "Facebook",
+  "option4": "Amazon",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Microsoft Bing team has launched a web portal for tracking COVID-19 infections worldwide. The interactive website has been developed to provide up-to-date infection statistics for each country.\r\nIt also features an interactive map for number of cases for specific location and related articles from publishers. The portal hosts the data from reliable sources like the World Health Organization (WHO), the US Centers for Disease Control and Prevention (CDC) and the European Centre for Disease Prevention and Control (ECDC)."
+}

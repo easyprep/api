@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-27T10:36:44.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "4ef4e26b-125b-4d5d-8b86-16f63febce2b",
+  "labels": "current-affairs,2020-03-28",
+  "question": "Which of the following article of the Indian Constitution empowers a High Court to issue Writs?",
+  "option1": 214,
+  "option2": 220,
+  "option3": 223,
+  "option4": 226,
+  "option5": "",
+  "answer": 226,
+  "explanation": "Article 226 of the Indian Constitution empowers a High Court to issue Writs. Five types of writs- Habeas Corpus, Mandamus, Quo warranto, Prohibition, Certiorari."
+}

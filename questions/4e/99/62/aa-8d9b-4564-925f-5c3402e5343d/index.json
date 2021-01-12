@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-10T23:08:51.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "4e9962aa-8d9b-4564-925f-5c3402e5343d",
+  "labels": "current-affairs,2020-03-11",
+  "question": "What percent of the state Net Domestic Product of Odisha is contributed by the livestock sector?",
+  "option1": 0.02,
+  "option2": 0.045,
+  "option3": 0.0725,
+  "option4": 0.091,
+  "option5": "",
+  "answer": 0.0725,
+  "explanation": "The livestock sector contributes 7.25% of the state Net Domestic Product. Odisha has a considerable population of livestock ranging from Buffalo, Goat, Sheep, Pig and Poultry."
+}

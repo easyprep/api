@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-18T12:51:05.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "afb604ee-e13c-430c-88a3-b5003071b9f9",
+  "labels": "current-affairs,2020-03-19",
+  "question": "As per the 2019 report, what is the teledensity percentage of Odisha circle?",
+  "option1": 0.7722,
+  "option2": 0.61,
+  "option3": 0.523,
+  "option4": 0.35,
+  "option5": "",
+  "answer": 0.7722,
+  "explanation": "The total teledensity of Odisha is 77.22 % (2019 report by TRAI)"
+}

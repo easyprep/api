@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-21T03:15:42.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "b3dd38c7-53cf-47c8-83f8-7abb18fa3f20",
+  "labels": "current-affairs,2020-03-22",
+  "question": "Which space agency is set to send astronauts to the International Space Station for the first time in May 2020?",
+  "option1": "NASA",
+  "option2": "ISRO",
+  "option3": "SpaceX",
+  "option4": "European Space Agency",
+  "option5": "",
+  "answer": "SpaceX",
+  "explanation": "America-based Private space agency owned by Elon Musk, SpaceX will send astronauts to the International Space Station (ISS) for the first time in May.\r\nThis was announced by NASA, which also revealed that the first crewed launch from the United States to the ISS platform since 2011 is to be sent through SpaceX. The space company will launch a Falcon 9 rocket to transport NASA astronauts Bob Behnken and Doug Hurley to the station."
+}

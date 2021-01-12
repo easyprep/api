@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-27T11:01:19.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "d47408e4-8773-44c5-9341-b0eaacc4de01",
+  "labels": "current-affairs,2020-03-28",
+  "question": "The Panchayat Laws Amendment Bill of 2011 increased the reservation of women to what percent?",
+  "option1": 0.85,
+  "option2": 0.6,
+  "option3": 0.5,
+  "option4": 0.45,
+  "option5": "",
+  "answer": 0.5,
+  "explanation": "The amendment bill of 2011 increased the reservation from 33% to 50%. It came into force on 31<sup>st</sup> May 2011."
+}

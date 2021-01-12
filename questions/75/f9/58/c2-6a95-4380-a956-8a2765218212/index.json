@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-25T04:23:17.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "75f958c2-6a95-4380-a956-8a2765218212",
+  "labels": "current-affairs,2020-03-26",
+  "question": "Which drug is recommended by the National Task Force constituted by Indian Council of Medical Research for high-risk cases infected by coronavirus?",
+  "option1": "Hydroxy-chloroquine",
+  "option2": "Chloroquine",
+  "option3": "Sulfasalazine",
+  "option4": "Azathioprinethe",
+  "option5": "",
+  "answer": "Hydroxy-chloroquine",
+  "explanation": "The national task force for COVID-19 constituted by Indian Council for Medical Research (ICMR) has recommended hydroxy-chloroquine as a preventive drug for high-risk cases, who are infected by coronavirus.\r\nThe medication should be given to the asymptomatic healthcare workers, who are under high risk by serving the infected patients. It is also recommended to asymptomatic household contacts of laboratory confirmed cases. The protocol recommended by the National Task Force is approved by the Drug Controller General of India (DGCI) for use in emergency situations."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-25T22:19:24.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "5aed1fb8-51ca-4e0a-9f52-d0973e5d1f35",
+  "labels": "current-affairs,2020-03-26",
+  "question": "‘Clara’, an Artificial Intelligence (AI) bot, which helps to self-check COVID-19, is introduced by which country?",
+  "option1": "United States",
+  "option2": "China",
+  "option3": "Russia",
+  "option4": "Italy",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The U.S. Centers for Disease Control and Prevention (CDC) has introduced an Artificial Intelligence (AI) bot, called ‘Clara’ to assist people in finding the potential symptoms of COVID-19.\r\nThe CDC has collaborated with CDC Foundation and Healthcare Bot service of Microsoft Azure to develop the self-checking bot Clara. It is currently available only in the United States on the CDC website. It provides information about the disease, suggests the course of action and helps to handle the illness at home."
+}

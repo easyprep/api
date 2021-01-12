@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-15T03:30:51.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "6f2627df-d72a-4194-9d12-13e9ffd1bd01",
+  "labels": "current-affairs,2020-03-16",
+  "question": "As per the recent announcement from the US government, which technological company is developing a website to help with coronavirus test?",
+  "option1": "Microsoft",
+  "option2": "Google",
+  "option3": "Facebook",
+  "option4": "Amazon",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "The US President Donald Trump recently announced that tech giant Google is engaged in the process of developing a website to help with coronavirus test.\r\nHe also revealed that more than 1700 engineers are working on the project to develop the website. It will determine whether a test is necessary and will also enable testing at a convenient location nearby. Donald Trump also declared national emergency in the wake of coronavirus outbreak."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-16T16:07:05.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "66f59274-809c-4357-b8ef-eeaed717cc89",
+  "labels": "current-affairs,2020-03-17",
+  "question": "Which among the following is/ are non-conventional energy sources?<br />1. Natural gas<br />2.Wind<br />3. Solar<br />4. Tidal<br />Choose the correct option from the codes given below :",
+  "option1": "1 only",
+  "option2": "2 & 3",
+  "option3": "4 only",
+  "option4": "2, 3 & 4",
+  "option5": "",
+  "answer": "2, 3 & 4",
+  "explanation": "Sources of non-conventional energy- Wind, Solar, Tidal, Geothermal, Biogas."
+}

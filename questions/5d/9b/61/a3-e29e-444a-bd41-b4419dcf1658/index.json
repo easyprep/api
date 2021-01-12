@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-27T11:01:19.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "5d9b61a3-e29e-444a-bd41-b4419dcf1658",
+  "labels": "current-affairs,2020-03-28",
+  "question": "What percent of the seat was reserved for women in Panchayats as per the Panchayati Raj Bill passed by Odisha Assembly in 1991?",
+  "option1": 0.33,
+  "option2": 0.4,
+  "option3": 0.6,
+  "option4": 0.65,
+  "option5": "",
+  "answer": 0.33,
+  "explanation": "33% reservation of seat for women was provided by the Panchayati Raj Bills including SC and ST. The amendment bill of 2011 increased the reservation from 33% to 50%."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-03-08T02:23:44.000Z",
+  "updated_at": "2021-01-06T08:24:50.637Z",
+  "id": "69b0e47c-4d8f-4a7b-914c-441dd1eac20d",
+  "labels": "current-affairs,2020-03-09",
+  "question": "According to the recent study of UNGC (United Nations Global Compact) India, what is the female labour-force participation in India in 2020?",
+  "option1": 0.44,
+  "option2": 0.348,
+  "option3": 0.248,
+  "option4": 0.14,
+  "option5": "",
+  "answer": 0.248,
+  "explanation": "According to the recent study of UNGC (United Nations Global Compact) India, female labour-force participation in India has declined from 34 per cent in 2006 to 24.8 per cent in 2020.\r\nThe study also found that India is the only country among the 153 surveyed countries, where the economic gender gap is larger than the political gap. It revealed that raising women\\'s participation in the labour force to the same level as men can increase India\\'s GDP by 27 per cent."
+}
