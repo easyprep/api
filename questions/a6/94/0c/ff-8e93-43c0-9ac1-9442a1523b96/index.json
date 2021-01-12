@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T18:25:42.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "a6940cff-8e93-43c0-9ac1-9442a1523b96",
+  "labels": "current-affairs,2019-11-08",
+  "question": "What is the Universal Product Code (UPC) adopted for?",
+  "option1": "Fire safety code in buildings",
+  "option2": "Earthquake-resistance building code",
+  "option3": "Bar code",
+  "option4": "Against adulteration in eatables",
+  "option5": "",
+  "answer": "Bar code",
+  "explanation": "The Universal Product Code (UPC) is a 12-digit barcode that is assigned to a consumer product for identifying it and its manufacturer. The barcode consists of a series of variable-width vertical bars and was originally created by IBM in 1973 for tracking merchandise in stores, mainly at the point of sale (POS)."
+}

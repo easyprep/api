@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-12T22:37:55.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "67a78d04-19cf-4615-926f-88b2ff7a2d9e",
+  "labels": "current-affairs,2019-11-13",
+  "question": "Which aerospace manufacturer recently launched 60 mini satellites for global internet?",
+  "option1": "NASA",
+  "option2": "Blue Origin",
+  "option3": "SpaceX",
+  "option4": "Boeing",
+  "option5": "",
+  "answer": "SpaceX",
+  "explanation": "SpaceX launched 60 mini satellites into low-earth orbit. It is the second batch of an orbiting network meant to provide cheaper global internet coverage. The Falcon rocket carried the satellites in to the space. The \\\"Starlink\\\" satellites will be deployed at an altitude of 280 km to beam broadband Internet services. SpaceX is developing a low latency, broadband internet system to meet the needs of consumers across the globe."
+}

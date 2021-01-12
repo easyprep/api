@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-16T21:24:24.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "bcfb0a2c-c6ac-4f64-8eb6-08b456eea0a5",
+  "labels": "current-affairs,2019-11-17",
+  "question": "Which country topped the list in government requests for user data from Facebook in first half of 2019?",
+  "option1": "England",
+  "option2": "India",
+  "option3": "Germany",
+  "option4": "USA",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "The Indian government\\'s requests for user data from Facebook increased nearly 37% in the first half of 2019, and at 22,684 queries, was the second highest globally, according to the Transparency Report of the U.S.-based social networking site.The US government sent Facebook total 50,741 requests about users\\' data in the same period."
+}

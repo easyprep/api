@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-21T22:20:19.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "969fb848-f95d-4e79-b77d-28d6d3e2bd2d",
+  "labels": "current-affairs,2019-11-22",
+  "question": "Which international organisation has released  World Energy Outlook (WEO-2019)?",
+  "option1": "IMF",
+  "option2": "WHO",
+  "option3": "IEA",
+  "option4": "WB",
+  "option5": "",
+  "answer": "IEA",
+  "explanation": "The International Energy Agency (IEA) has recently released its latest World Energy Outlook (WEO) report. In the 2019 edition, IEA projected a rapid increase in installed installed solar capacity by 2040, from 495 GW now to 3,142 GW. Though, it expects (CO2) emissions to continue rising for decades unless polices reflect greater ambition on climate change. This is primarily due to the longevity of the existing stock of coal-based plants, which account for 30% of all energy-related emissions. IEA is an inter-governmental organisation established in the framework of the Organisation for Economic Co-operation and Development (OECD)."
+}

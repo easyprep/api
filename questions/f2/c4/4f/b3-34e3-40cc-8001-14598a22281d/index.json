@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-15T00:00:34.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "f2c44fb3-34e3-40cc-8001-14598a22281d",
+  "labels": "current-affairs,2019-11-16",
+  "question": "Which Indian app has gone international with a pilot demo at the ongoing Singapore FinTech Festival 2019?",
+  "option1": "BHIM",
+  "option2": "PayUMoney",
+  "option3": "YONO",
+  "option4": "Paytm",
+  "option5": "",
+  "answer": "BHIM",
+  "explanation": "BHIM app has gone international with a pilot demo of BHIM UPI QR- based payments beginning at the ongoing Singapore FinTech Festival 2019.This QR code-based system would allow anyone with a BHIM app to scan the SGQR at NETS terminals for payments in Singapore. The project is being jointly developed by NPCI and NETS of Singapore. It is targeted to go live by Feb 2020."
+}

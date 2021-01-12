@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T21:23:58.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "9fa946dc-7243-4182-855e-bebbf10fb71c",
+  "labels": "current-affairs,2019-11-08",
+  "question": "Consider the following statements:<br />I. Sikkim has the minimum area among the 28 Indian States (Delhi and Pondicherry not included)<br />II. Chandigarh had the highest literacy rate among Pondicherry, NCT of Delhi and other Union Territories.<br />III. Maharashtra has the highest population after Uttar Pradesh among the 28 Indian States (Delhi and Pondicherry not included)<br />Which of the statements given above is/are correct?",
+  "option1": "I and II",
+  "option2": "II and III",
+  "option3": "I only",
+  "option4": "III only",
+  "option5": "",
+  "answer": "II and III",
+  "explanation": "Maharashtra is ranked 2nd after Uttar Pradesh among 28 Indian states. So, option \\'3\\' is correct. But option \\'1\\' and \\'2\\' are incorrect, because Goa is the smallest state based on area (i.e., 3702 sq km), not the Sikkim. Highest literacy rate is of Union territory is Lakshadweep i.e. 86.7%."
+}

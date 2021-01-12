@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T22:52:46.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "2ac74274-a499-4e61-a632-c232d1dd8e93",
+  "labels": "current-affairs,2019-11-08",
+  "question": "Consider the following statements with reference to human body:<br />I. The common bile duct releases its contents into stomach.<br />II. The pancreatic duct releases its contents into duodenum.<br />Which of the statements given above is/are correct?",
+  "option1": "I only",
+  "option2": "II only",
+  "option3": "Both I and II",
+  "option4": "Neither I nor II",
+  "option5": "",
+  "answer": "II only",
+  "explanation": "Bile duct and pancreatic duct both releases its contents into duodenum. The digestive enzyme (pancreatic juices) releases to duodenum from pancreatic duct."
+}

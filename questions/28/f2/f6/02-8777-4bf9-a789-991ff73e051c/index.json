@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T22:40:05.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "28f2f602-8777-4bf9-a789-991ff73e051c",
+  "labels": "current-affairs,2019-11-07",
+  "question": "What is the order of magnitude of electric resistance of the human body (dry)?",
+  "option1": "102 ohm",
+  "option2": "104 ohm",
+  "option3": "106 ohm",
+  "option4": "108 ohm",
+  "option5": "",
+  "answer": "104 ohm",
+  "explanation": "Human body has different resistances, when dry, resistance is 100,000 ohms. When wet because of sweat or water, resistance is only 1,000 ohms."
+}

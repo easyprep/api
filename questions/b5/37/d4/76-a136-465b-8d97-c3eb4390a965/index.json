@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T22:35:40.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "b537d476-a136-465b-8d97-c3eb4390a965",
+  "labels": "current-affairs,2019-11-08",
+  "question": "Consider the following statements:<br />I. ELISA test is employed as the first and most basic test for an individual to detect cancer.<br />II. Almost 50 per cent of human beings have Rh+ blood while the remaining have Rh–blood.<br />Which of the statements given above is/are correct?",
+  "option1": "I only",
+  "option2": "II only",
+  "option3": "Both I and II",
+  "option4": "Neither I nor II",
+  "option5": "",
+  "answer": "II only",
+  "explanation": "ELISA (Enzyme-Linked Immuno Sorbent Assay) is most widely used in detecting the presence of HIV antibodies. Rh+ blood group is found in more than 85% of people."
+}

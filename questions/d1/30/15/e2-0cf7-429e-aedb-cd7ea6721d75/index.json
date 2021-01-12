@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-28T21:45:22.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "d13015e2-0cf7-429e-aedb-cd7ea6721d75",
+  "labels": "current-affairs,2019-11-29",
+  "question": "Which launch vehicle has successfully carried out  remote sensing satellite Cartosat-3 into orbit?",
+  "option1": "PSLV-44",
+  "option2": "PSLV-49",
+  "option3": "PSLV-48",
+  "option4": "PSLV-47",
+  "option5": "",
+  "answer": "PSLV-47",
+  "explanation": "Through PSLV-47 vehicle, ISRO has successfully launched the India’s latest earth observation remote sensing satellite Cartosat-3 into Sun Synchronous orbit from Satish Dhawan Space Centre (SDSC) SHAR, Sriharikota. Cartosat-3 satellite is a third generation agile advanced satellite having high resolution imaging capability. Beside this, 13 Commercial Nanosatellites from USA were also successfully injected into designated orbit. These satellites were launched under commercial arrangement with NewSpace India Limited (NSIL), the commercial arm of ISRO."
+}

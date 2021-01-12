@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-19T02:07:13.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "00b4aa82-8dc1-4e74-af28-00e9308b5195",
+  "labels": "current-affairs,2019-11-20",
+  "question": "Which city has topped the tap water quality ranking released by the Bureau of Indian Standards?",
+  "option1": "Telangana",
+  "option2": "Mumbai",
+  "option3": "Chennai",
+  "option4": "Aizawl",
+  "option5": "",
+  "answer": "Mumbai",
+  "explanation": "According to a Bureau of Indian Standards (BIS) study, Mumbai ranks the highest in the quality of water among capital cities in states where samples of tap water were tested. In Mumbai, all 10 samples of tap water passed the BIS test. Second in the list is Hyderabad, where only one sample failed. However, at the bottom of the list is Delhi, where all 11 samples failed the BIS test — thereby reaffirming that the capital city has the poorest water quality, the BIS study put."
+}

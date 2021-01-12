@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-08T20:52:55.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "505f8f43-bab4-4e31-bc41-0b6808221d92",
+  "labels": "current-affairs,2019-11-09",
+  "question": "Who has been conferred with the Infosys Prize 2019 in the Engineering and Computer Science Category?",
+  "option1": "Sunita Sarawagi",
+  "option2": "Manu V Devadevan",
+  "option3": "Siddhartha Mishra",
+  "option4": "G Mugesh",
+  "option5": "",
+  "answer": "Sunita Sarawagi",
+  "explanation": "The Infosys Prize 2019 for Engineering and Computer Science is awarded to Professor Sunita Sarawagi from the Indian Institute of Technology (IIT), Bombay for her research in databases, data mining, machine learning and natural language processing, and for important applications of these research techniques. The prize recognizes her pioneering work in developing information extraction techniques for unstructured data. Her work has practical applications in helping clean up unstructured data like addresses on the web and in repositories which then helps in more efficient handling of queries."
+}

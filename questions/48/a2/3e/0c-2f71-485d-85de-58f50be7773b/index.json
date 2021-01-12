@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-08T16:22:03.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "48a23e0c-2f71-485d-85de-58f50be7773b",
+  "labels": "current-affairs,2019-11-09",
+  "question": "Match List I(Finding/Invention/Calculation) with List II(Ancient Indian Scholar) and select the correct answer using the codes given below the Lists:\r\n<img src= \"https://www.gktoday.com/wp-content/uploads/2019/11/1-12.png\">",
+  "option1": "I-B, II-D, III-A, IV-C",
+  "option2": "I-A, II-C, III-B, IV-D",
+  "option3": "I-B, II-C, III-A, IV-D",
+  "option4": "I-A, II-D, III-B, IV-C",
+  "option5": "",
+  "answer": "I-A, II-C, III-B, IV-D",
+  "explanation": "Aryabhata calculated the sidereal rotation (the rotation of the earth referencing the fixed stars) as 23 hours, 56 minutes, and 4.1 seconds; the modern value is 23:56:4.091.<br />One Babylonian tablet indicates a value of 3.125 for π, which is a closer approximation. <br />The Rhind Papyrus gives us insight into the mathematics of ancient Egypt. The Egyptians calculated the area of a circle by a formula that gave the approximate value of 3.1605 for π.<br />\\\"Zero and its operation are first defined by Brahmagupta in 628. He developed a symbol for zero.<br />The game of snakes and ladders was invented by Gyandev."
+}

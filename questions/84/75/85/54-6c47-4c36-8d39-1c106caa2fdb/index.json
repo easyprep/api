@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-19T22:02:58.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "84758554-6c47-4c36-8d39-1c106caa2fdb",
+  "labels": "current-affairs,2019-11-20",
+  "question": "Which company has launched 60 Starlink satellites for cheaper global Internet?",
+  "option1": "SpaceX",
+  "option2": "Blue Origin",
+  "option3": "Virgin Galactic",
+  "option4": "Boeing",
+  "option5": "",
+  "answer": "SpaceX",
+  "explanation": "Elon Musk-run SpaceX has recently launched 60 \\\"Starlink\\\" satellites into Low-Earth Orbit (LEO) from Cape Canaveral Air Force Station, Florida that will bring cheaper  and reliable space-based internet access to the world. The \\\"Starlink\\\" satellites will be deployed at an altitude of 280 km to beam broadband Internet services. These satellites are part of the 2nd batch of SpaceXs broadband Internet mega constellation. Enabled by a constellation of low Earth-orbit satellites, Starlink will provide fast, reliable internet to populations with little or no connectivity, including those in rural communities and places where existing services are too expensive or unreliable.  The Starlink network is one of several ongoing efforts to start beaming data signals from space, and also the most ambitious."
+}

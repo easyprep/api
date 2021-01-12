@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T18:41:16.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "871faff2-48eb-4ea6-b16a-ede9ac76dfa3",
+  "labels": "current-affairs,2019-11-08",
+  "question": "Which are the materials generally employed as solder in soldering operations in electronics?",
+  "option1": "Iron and tin",
+  "option2": "Lead and tin",
+  "option3": "Aluminium and lead",
+  "option4": "Aluminium and iron",
+  "option5": "",
+  "answer": "Lead and tin",
+  "explanation": "Solder is a fusible metal alloy with a melting point or melting range of 90 to 450 degree Celsius (190 to 840 °F), used in a process called soldering where it is melted to join metallic surfaces. It is especially useful in electronics and plumbing. Solder is an alloy of lead and tin."
+}

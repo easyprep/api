@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-21T21:12:51.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "056e13aa-376e-4be5-8440-e7e955815a2a",
+  "labels": "current-affairs,2019-11-22",
+  "question": "According the Chit Funds (Amendment) Bill, 2019, what is the maximum commission for a person managing the fund?",
+  "option1": 0.03,
+  "option2": 0.05,
+  "option3": 0.07,
+  "option4": 0.09,
+  "option5": "",
+  "answer": 0.07,
+  "explanation": "The Chit Funds (Amendment) Bill, 2019 was passed by the Lok Sabha on November 20, 2019.The Bill raises the monetary limits for chit funds by three times. The maximum chit amount raised from Rs 1 lakh to Rs 3 lakh for those managed by individuals or less than four partners, and from Rs 6 lakh to Rs 18 lakh for firms with four or more partners. The maximum commission for the person managing the fund raised to 7% from the current 5%. The bill removes the limit of Rs 100, and allows the state governments to specify the base amount over which the provisions of the Act would apply."
+}

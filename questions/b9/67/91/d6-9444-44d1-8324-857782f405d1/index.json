@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T22:18:24.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "b96791d6-9444-44d1-8324-857782f405d1",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Which spacecraft has become the second in place to reach interstellar space in November- 2019?",
+  "option1": "Voyager 3",
+  "option2": "InSight",
+  "option3": "Voyager 2",
+  "option4": "Parker",
+  "option5": "",
+  "answer": "Voyager 2",
+  "explanation": "Voyager 2 has entered the interstellar medium (ISM).It is the region of space outside the bubble-shaped boundary produced by wind streaming outward from the Sun. A noted increase in plasma density indicated that the spacecraft has travelled form hot and lower-density plasma characteristic of the solar wind to the cool and higher-density plasma of interstellar space. This makes Voyager 2 the second human-made object to journey out of the Sun’s influence. The first one was the Voyager 1’s 2012."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-13T22:38:14.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "50726db8-39be-41bb-b696-0eeb9e26a9e1",
+  "labels": "current-affairs,2019-11-14",
+  "question": "Which telescope has recently detected a huge X Ray burst from outer space?",
+  "option1": "Hubble",
+  "option2": "Spitzer",
+  "option3": "Fermi",
+  "option4": "NICER",
+  "option5": "",
+  "answer": "NICER",
+  "explanation": "NASA’s NICER (Neutron star Interior Composition Explorer) telescope detected a sudden spike of X Rays. The spike was caused by a massive thermo nuclear flash on the surface of a pulsar. A Pulsar is a neutron star whose compact core is left behind when a massive star runs out of fuel. It later collapses under its own weight and explodes."
+}

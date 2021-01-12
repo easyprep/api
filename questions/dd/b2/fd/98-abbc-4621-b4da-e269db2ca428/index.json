@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T22:21:00.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "ddb2fd98-abbc-4621-b4da-e269db2ca428",
+  "labels": "current-affairs,2019-11-08",
+  "question": "To which one of the following processes is the term CMYK related?",
+  "option1": "Railway signaling",
+  "option2": "Navigation",
+  "option3": "Offset printing",
+  "option4": "Electronic voting statements",
+  "option5": "",
+  "answer": "Offset printing",
+  "explanation": "CMYK refers to the primary colors of pigment: Cyan, Magenta, Yellow, and Black. These are the inks used on the press in \\\"4-color process printing\\\", commonly referred to as \\\"full color printing\\\" or \\\"four color printing\\\"."
+}

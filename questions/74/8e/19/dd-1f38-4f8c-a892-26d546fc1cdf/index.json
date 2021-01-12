@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-29T17:24:33.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "748e19dd-1f38-4f8c-a892-26d546fc1cdf",
+  "labels": "current-affairs,2019-11-30",
+  "question": "Which cross-platform messaging is to add self-destruct feature for messages?",
+  "option1": "Facebook",
+  "option2": "Whatsapp",
+  "option3": "Skype",
+  "option4": "Telegram",
+  "option5": "",
+  "answer": "Whatsapp",
+  "explanation": "Facebook-owned WhatsApp is working on a feature that will delete messages automatically after a stipulated time as set by users. Renamed ‘Delete Messages’ from earlier ‘Disappearing Messages’, the feature is being tested in beta mode. Once available, the ‘Delete Message’ feature will come with a toggle on/off button and users can choose a stipulated time — 1 hour, 1 day, 1 week, 1 month or 1 year — for the messages to automatically disappear."
+}

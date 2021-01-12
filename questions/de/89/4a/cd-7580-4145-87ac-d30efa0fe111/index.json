@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-14T23:02:10.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "de894acd-7580-4145-87ac-d30efa0fe111",
+  "labels": "current-affairs,2019-11-15",
+  "question": "Which countries have partnered to explore an alternative to the SWIFT mechanism?",
+  "option1": "India, Russia, China",
+  "option2": "India, Russia, Japan",
+  "option3": "India, USA, Japan",
+  "option4": "India, Nepal, Australia",
+  "option5": "",
+  "answer": "India, Russia, China",
+  "explanation": "India, Russia, and China have partnered to explore an alternative to the US-dominated Society for Worldwide Inter-bank Financial Telecommunication (SWIFT) payment mechanism. The move aims to smoothen trade with countries that face American sanctions. The countries have decided to link Russia\\'s financial messaging system of the Bank of Russia (SPFS) with the Chinese cross-border inter-bank payment system Chartered Institute of Procurement &amp; Supply (CIPS). As India does not have a domestic financial messaging system, it plans to link the Central Bank of Russia\\'s platform with a service that is being developed."
+}

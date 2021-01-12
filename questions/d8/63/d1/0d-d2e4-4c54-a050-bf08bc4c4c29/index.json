@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-27T18:34:31.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "d863d10d-d2e4-4c54-a050-bf08bc4c4c29",
+  "labels": "current-affairs,2019-11-28",
+  "question": "Which high resolution imaging satellite has recently been launched by ISRO?",
+  "option1": "WorldView 1",
+  "option2": "GeoEye-1",
+  "option3": "QuickBird",
+  "option4": "Cartosat-3",
+  "option5": "",
+  "answer": "Cartosat-3",
+  "explanation": "Cartosat-3 satellite will be launched from Satish Dhawan Space Centre on November 27. Cartosat-3 is the highest resolution imaging satellite which will be useful in weather mapping and for defence purposes. The satellite will be joined by 13 commercial nanosatellites from the US."
+}

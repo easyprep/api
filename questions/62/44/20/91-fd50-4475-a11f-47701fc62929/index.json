@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T19:11:38.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "62442091-fd50-4475-a11f-47701fc62929",
+  "labels": "current-affairs,2019-11-08",
+  "question": "In which one among the following is the speed of sound maximum?",
+  "option1": "Air at 0C",
+  "option2": "Air at 1000C",
+  "option3": "Water",
+  "option4": "Wood",
+  "option5": "",
+  "answer": "Wood",
+  "explanation": "It depends on the temperature and material. Since sound is transferred easily through densely packed molecules, it is faster in denser substances. Thus the speed of sound increases with the stiffness of the material. So in wood the speed of sound is maximum."
+}

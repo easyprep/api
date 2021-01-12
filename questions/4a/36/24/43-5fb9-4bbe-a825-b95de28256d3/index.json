@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T22:16:22.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "4a362443-5fb9-4bbe-a825-b95de28256d3",
+  "labels": "current-affairs,2019-11-08",
+  "question": "Consider the following statements in respect of India’s advanced satellite INSAT-4A.<br />I. INSAT-4A was launched in Dec-2005 from New Mexico.<br />II. The European commercial launched service provider Arianespace was associated with the launch of INSAT-4A.<br />III. Tata-Sky – a digital cable service provider is associated with DTH television broadcasting services from INSAT-4A.<br />Which of the statements given above are correct?",
+  "option1": "I, II and III",
+  "option2": "I and II only",
+  "option3": "II and III only",
+  "option4": "I and III only",
+  "option5": "",
+  "answer": "I, II and III",
+  "explanation": "Statement \\'2\\' and \\'3\\' is correct, but \\'1\\' is incorrect. Because INSAT–4A was launched on 22 December 2005 from French Guiana."
+}

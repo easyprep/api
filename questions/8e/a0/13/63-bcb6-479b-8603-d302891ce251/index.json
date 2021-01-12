@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-15T23:48:57.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "8ea01363-bcb6-479b-8603-d302891ce251",
+  "labels": "current-affairs,2019-11-16",
+  "question": "IBM is to launch which Global weather forecasting model?",
+  "option1": "North American Mesoscale Model, NAM",
+  "option2": "Long standing Nested Grid Model, GM",
+  "option3": "Global Forecast System, GFS",
+  "option4": "Global High-Resolution Atmospheric Forecasting System, GRAF",
+  "option5": "",
+  "answer": "Global High-Resolution Atmospheric Forecasting System, GRAF",
+  "explanation": "IBM is to launch IBM GRAF, the Global High-Resolution Atmospheric Forecasting System, which will be able to predict conditions up to 12 hours in advance. Such kind of precise forecasting system has been available in the United States, Japan, and some west European countries.<br />The new weather forecasting system will cover parts of the world which did not have access to such detailed data. The move by IBM is due to the demand for very precise and quicker weather forecasts has grown as more extreme conditions increase due to climate change and as more variable renewable energy goes to the grid. The current global weather models cover 10-15 kilometres squared (km sq) and are updated every 6 to 12 hours. IBM\\'s new weather forecasting system will forecast down to 3 km sq and update hourly."
+}

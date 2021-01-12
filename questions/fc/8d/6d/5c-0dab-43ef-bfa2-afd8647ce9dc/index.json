@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-25T18:25:51.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "fc8d6d5c-0dab-43ef-bfa2-afd8647ce9dc",
+  "labels": "current-affairs,2019-11-26",
+  "question": "What is India's rank in 2019 Nomuras Food Vulnerability Index?",
+  "option1": 22,
+  "option2": 36,
+  "option3": 44,
+  "option4": 57,
+  "option5": "",
+  "answer": 44,
+  "explanation": "Nomura’s Food Vulnerability Index (NFVI) ranks countries based on their exposure to large swings in food prices.NFVI has three components: (1) the country’s GDP per person, (2) the share of food in household consumption, and (3) the net food imports. The lower per capita GDP, a higher percentage of food in household consumption, and top net food imports would make a country more vulnerable to spikes in food prices. India ranked 44 out of 110 countries; a higher rank is worse. At 4.6%, India’s retail inflation for October touched a 16-month high because of the jump in food prices. Food inflation grew by almost 8% – nearly double the rate of overall retail inflation."
+}

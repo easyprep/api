@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-13T21:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "aab093c5-62d5-4860-8303-2b98943d1495",
+  "labels": "current-affairs,2019-11-14",
+  "question": "Which space agency has detected huge X-ray burst from outer space?",
+  "option1": "NASA",
+  "option2": "ISRO",
+  "option3": "JAXA",
+  "option4": "Roscosmos",
+  "option5": "",
+  "answer": "NASA",
+  "explanation": "According to NASA Scientists, they have detected a massive thermonuclear X-ray explosion from outer space through their Neutron Star Interior Composition Explorer (NICER) telescope on the International Space Station (ISS).The explosion released as much energy in 20 seconds as the Sun does in nearly 10 days. The X-ray burst has came from an object named \\\"J1808\\\" i.e., located about 11,000 light-years away in the constellation Sagittarius. NASA spotted the burst because it sent out an intense beam of x-rays that got picked up by its  orbital observatory NICER."
+}

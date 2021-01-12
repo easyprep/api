@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T18:31:48.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "410f8bf4-c0ad-4265-a22e-09e54e01bb97",
+  "labels": "current-affairs,2019-11-08",
+  "question": "Consider the following statements:<br />I. The Richter Scale is a logarithmic scale and so an increase of one magnitude unit represents a factor of 10 times in amplitude.<br />II. Each integer reading of the Richter scale has an energy 100 times that of the previous integer reading.<br />Which of the statements given above is/are correct?",
+  "option1": "I only",
+  "option2": "II only",
+  "option3": "Both I and II",
+  "option4": "Neither I nor II",
+  "option5": "",
+  "answer": "I only",
+  "explanation": "The magnitude of intensity of energy released by an earthquake is measured by Richter Scale. The number indicating magnitude on Richter Scale ranges between 0 and 9 but infact the scale has no upper limited of number because it is a logarithmic scale. But each integer reading of the Richter scale has in energy 32 times of previous integer reading. So the statement is not correct."
+}

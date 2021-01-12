@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T22:23:18.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "1e9790a9-1945-42e6-8d5d-edc7ad44d86b",
+  "labels": "current-affairs,2019-11-08",
+  "question": "What is the approximate mean velocity with which the Earth moves round the Sun in its orbit?",
+  "option1": "20 km/s",
+  "option2": "30 km/s",
+  "option3": "40 km/s",
+  "option4": "50 km/s",
+  "option5": "",
+  "answer": "30 km/s",
+  "explanation": "Earth\\'s average orbital speed is about 30 kilometers per second. In other units, that\\'s about 19 miles per second, or 67,000 miles per hour, or 110,000 kilometers per hour (110 million meters per hour)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-07T18:30:38.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "6834b966-9fe9-469f-9ce8-f4d38739526e",
+  "labels": "current-affairs,2019-11-08",
+  "question": "What does the term ‘Dolby B’ or ‘Dolby C’ printed on tape recorders and other sound systems refer to?",
+  "option1": "Frequency modulated system",
+  "option2": "Amplitude modulated system",
+  "option3": "Noise reduction circuit",
+  "option4": "Both DC and AC power can be used",
+  "option5": "",
+  "answer": "Noise reduction circuit",
+  "explanation": "Dolby B and C are the noise reduction circuits developed by Dolby laboratories. Dolby noise reduction has made it possible to protect the music from tape noise, and helped make cassette the most popular audio product ever devised."
+}

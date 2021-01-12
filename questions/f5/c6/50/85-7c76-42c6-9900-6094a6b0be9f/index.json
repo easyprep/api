@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T21:35:44.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "f5c65085-7c76-42c6-9900-6094a6b0be9f",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Which one of the following cities is not a former capital of the given country (country given in the brackets)?",
+  "option1": "Karachi (Pakistan)",
+  "option2": "Auckland (New Zealand)",
+  "option3": "Kyoto (Japan)",
+  "option4": "Brisbane (Australia)",
+  "option5": "",
+  "answer": "Auckland (New Zealand)",
+  "explanation": "Karachi was the capital of Pakistan from 1947 – 1959. <br />Kyoto was the capital of Japan before Tokyo. <br />Brisbane was the capital of Australia before Cannbera in 1842 – 1859.\r\n&nbsp;"
+}

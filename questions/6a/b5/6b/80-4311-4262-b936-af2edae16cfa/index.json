@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-11-06T21:49:37.000Z",
+  "updated_at": "2021-01-06T08:24:44.951Z",
+  "id": "6ab56b80-4311-4262-b936-af2edae16cfa",
+  "labels": "current-affairs,2019-11-07",
+  "question": "Which one of the following is the correct sequence of the given substances in the decreasing order of their densities?",
+  "option1": "Steel>Mercury>Gold",
+  "option2": "Gold>Mercury>Steel",
+  "option3": "Steel>Gold>Mercury",
+  "option4": "Gold>Steel>Mercury",
+  "option5": "",
+  "answer": "Gold>Mercury>Steel",
+  "explanation": "Density of gold is 19.30 g/cm3. <br />The density of ultra pure liquid mercury is 13.534 g/cm3 <br />The density of steel is 7.80 g/cm3."
+}
