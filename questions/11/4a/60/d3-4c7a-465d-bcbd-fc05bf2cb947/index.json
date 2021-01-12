@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "114a60d3-4c7a-465d-bcbd-fc05bf2cb947",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is an endothermic reaction?",
+  "option1": "Reaction in which heat is absorbed",
+  "option2": "Reaction in which heat is released",
+  "option3": "Reaction in which neither heat is released nor absorbed",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Reaction in which heat is absorbed",
+  "explanation": "An endothermic process is any process which requires or absorbs energy from its surroundings, usually in the form of heat. It may be a chemical process, such as dissolving ammonium nitrate in water, or a physical process, such as the melting of ice cubes."
+}

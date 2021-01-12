@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:58.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "7276f320-6fbd-40a8-a998-dacc3a8ec3a5",
+  "labels": "current-affairs,2019-05-31",
+  "question": "An IP address constitutes how many bit number?",
+  "option1": 8,
+  "option2": 64,
+  "option3": 32,
+  "option4": 1,
+  "option5": "",
+  "answer": 32,
+  "explanation": "An IP address serves two principal functions: host or network interface identification and location addressing. Internet Protocol version 4 (IPv4) defines an IP address as a 32-bit number."
+}

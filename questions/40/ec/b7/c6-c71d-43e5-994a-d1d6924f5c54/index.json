@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:50:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "40ecb7c6-c71d-43e5-994a-d1d6924f5c54",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is e-payment?",
+  "option1": "Electronic payment for buying and selling through the Internet",
+  "option2": "Payment of online software",
+  "option3": "Payment of online services",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Electronic payment for buying and selling through the Internet",
+  "explanation": "The definition of an electronic payment system is a way of paying for a goods or services electronically, instead of using cash or a check, in person or by mail."
+}

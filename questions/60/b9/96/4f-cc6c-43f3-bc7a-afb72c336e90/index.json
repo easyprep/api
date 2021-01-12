@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T14:01:14.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "60b9964f-cc6c-43f3-bc7a-afb72c336e90",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which of the following bank has launched ‘mVisa’ – a mobile-based payments solution?",
+  "option1": "SBI",
+  "option2": "ICICI Bank",
+  "option3": "HSBC Bank",
+  "option4": "Canara Bank",
+  "option5": "",
+  "answer": "SBI",
+  "explanation": "State Bank of India(SBI) has launched mVisa, a Mobile-based payment solution. mVisa is faster and innovative and secure way to make cardless payment using mobile."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "7d8d170c-b7cb-42f6-8489-f15be7602682",
+  "labels": "current-affairs,2019-06-13",
+  "question": "How many parliamentary seats (Rajya Sabha Constituency) are there in Punjab?",
+  "option1": 5,
+  "option2": 1,
+  "option3": 10,
+  "option4": 7,
+  "option5": "",
+  "answer": 7,
+  "explanation": "There are total seven rajya sabha seats in Punjab. Unlike lok sabha or state assembly, these members are not representing an electoral constituency, rather the members from these seats are representatives of the state."
+}

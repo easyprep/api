@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "46b1cd8b-8ada-468a-8556-7f9d4007ba92",
+  "labels": "current-affairs,2019-06-13",
+  "question": "What is the maximum limit per transaction in NEFT?",
+  "option1": "Rs 1,00,000",
+  "option2": "Rs 50,000",
+  "option3": "Rs 1,50,000",
+  "option4": "No Such Limit",
+  "option5": "",
+  "answer": "No Such Limit",
+  "explanation": "There is no maximum amount assigned by the Reserve Bank of India (RBI) for NEFT Transactions. However, a limit may be specified by the bank that you hold your account with. For instance, HDFC Bank NEFT Transfer Limit is Rs.25 Lakh per day per customer ID via online NEFT Transfer."
+}

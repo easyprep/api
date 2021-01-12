@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "c327bb78-8cd7-41c2-b133-d046fa00ebb4",
+  "labels": "current-affairs,2019-06-13",
+  "question": "Which of the following optical data storages is a technology where data is stored in multiple layers in the optical disc?",
+  "option1": "3D",
+  "option2": "30D",
+  "option3": "300D",
+  "option4": "3000D",
+  "option5": "",
+  "answer": "3D",
+  "explanation": "3D optical data storage is any form of optical data storage in which information can be recorded or read with three-dimensional resolution. This innovation has the potential to provide petabyte-level mass storage on DVD-sized discs."
+}

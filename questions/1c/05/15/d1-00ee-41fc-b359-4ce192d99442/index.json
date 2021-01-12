@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-31T19:35:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "1c0515d1-00ee-41fc-b359-4ce192d99442",
+  "labels": "current-affairs,2019-06-01",
+  "question": "Which of the following is the placement of funds in an account with a bank?",
+  "option1": "Bank deposit",
+  "option2": "Foreign currency",
+  "option3": "Loan",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Bank deposit",
+  "explanation": "Bank deposits refer to this liability rather than to the actual funds that have been deposited. When someone opens a bank account and makes a cash deposit, he surrenders legal title to the cash, and it becomes an asset of the bank."
+}

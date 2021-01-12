@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-17T14:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9bacf0d3-e572-4281-b0c5-cc93ea839eb6",
+  "labels": "current-affairs,2019-06-18",
+  "question": "What is ‘future trading’?",
+  "option1": "a trade between any two stock exchanges",
+  "option2": "an agreement between two parties to buy or sell an underlying asset in the future at a",
+  "option3": "an agreement between stock exchanges that they will not trade the stocks of each other",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "an agreement between two parties to buy or sell an underlying asset in the future at a",
+  "explanation": "In finance, a single-stock future (SSF) is a type of futures contract between two parties to exchange a specified number of stocks in a company for a price agreed today (the futures price or the strike price) with delivery occurring at a specified future date, the delivery date."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:58.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "48f24d8b-c176-4895-94fd-ec04a3eaa225",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Who is known for the invention of 'World Wide Web'?",
+  "option1": "Sir Tim-Berners-Lee",
+  "option2": "S.A.Forbes",
+  "option3": "Martin Cooper",
+  "option4": "Maxwell",
+  "option5": "",
+  "answer": "Sir Tim-Berners-Lee",
+  "explanation": "In 1989, Tim Berners-Lee invented the World Wide Web, an Internet-based hypermedia initiative for global information sharing while at CERN, the European Particle Physics Laboratory."
+}

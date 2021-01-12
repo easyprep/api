@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T14:01:14.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "002ebcf8-ce83-4e1a-8710-33702f912af2",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Baroda Gift Card can be used for transactions at which of the following?",
+  "option1": "POS only",
+  "option2": "POS & Online purchases",
+  "option3": "POS & BoB ATM",
+  "option4": "POS & Online purchases & Bob ATM",
+  "option5": "",
+  "answer": "POS & Online purchases",
+  "explanation": "Bank Of Baroda gift card has several benefits like Easy Access, Flexibility,maximum validity etc. It can be used for transactions at POS & Online purchases."
+}

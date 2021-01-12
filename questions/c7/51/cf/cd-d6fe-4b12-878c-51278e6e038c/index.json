@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "c751cfcd-d6fe-4b12-878c-51278e6e038c",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Which of the following contracts involves future exchange of assets at a specified price?",
+  "option1": "future contract",
+  "option2": "forward contract",
+  "option3": "Present contract",
+  "option4": "Spot contract",
+  "option5": "",
+  "answer": "forward contract",
+  "explanation": "A forward contract is a private agreement between two parties giving the buyer an obligation to purchase an asset (and the seller an obligation to sell an asset) at a set price at a future point in time."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "8501e21f-f2f0-4cfd-81ed-2595b05f2a44",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the SI unit of pressure?",
+  "option1": "Newton",
+  "option2": "Weber",
+  "option3": "Henry",
+  "option4": "Pascal",
+  "option5": "",
+  "answer": "Pascal",
+  "explanation": "The pascal is the SI derived unit of pressure used to quantify internal pressure, stress, Young's modulus and ultimate tensile strength. It is defined as one newton per square metre. It is named after the French polymath Blaise Pascal."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:02.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "46b2aadd-f272-4405-97b4-d520719f5f44",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which phenomena shows the particle nature of light?",
+  "option1": "Polarisation",
+  "option2": "Diffraction",
+  "option3": "Photoelectric effect",
+  "option4": "Interference",
+  "option5": "",
+  "answer": "Photoelectric effect",
+  "explanation": "The photoelectric effect is the emission of electrons or other free carriers when light falls on a material. Electrons emitted in this manner can be called photoelectrons. It shows the particle nature of light."
+}

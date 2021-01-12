@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:57.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "3465009d-00bc-486b-ba3e-d8b63aa8cc0d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "It is difficult to fix a nail on a freely suspended wooden frame. Which law supports this statement?",
+  "option1": "Law of inertia",
+  "option2": "Pascal's law",
+  "option3": "Newton's third law",
+  "option4": "Newton's second law",
+  "option5": "",
+  "answer": "Newton's third law",
+  "explanation": "When the wooden block is not resting against a support, the block and nails both move forward on being hit with a hammer. However, when the block is held firmly against a support, and the nail is hit, an equal reaction of the support drives the nail into the block."
+}

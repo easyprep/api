@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "48795d5a-f340-4181-92e9-d400aa7cb6b9",
+  "labels": "current-affairs,2019-05-31",
+  "question": "At which rate, Reserve Bank of India borrows money from commercial banks?",
+  "option1": "Bank Rate",
+  "option2": "Repo Rate",
+  "option3": "Reverse Repo Rate",
+  "option4": "Statutory Liquidity Rate",
+  "option5": "",
+  "answer": "Reverse Repo Rate",
+  "explanation": "Reverse repo rate is the rate at which the central bank of a country (Reserve Bank of India in case of India) borrows money from commercial banks within the country. It is a monetary policy instrument which can be used to control the money supply in the country."
+}

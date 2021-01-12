@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-07T17:03:29.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "6381e800-d610-4738-87c8-96206b8f1e83",
+  "labels": "current-affairs,2019-06-08",
+  "question": "Biometric ATM cards are generally issued for which of the following?",
+  "option1": "Illiterates",
+  "option2": "Sick & old persons",
+  "option3": "Inoperative accountholders",
+  "option4": "Both 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Biometrics ATM offer ATM type interface along with at-least one Biometrics capture device like Fingerprint Scanner, Iris camera, Palm/Finger Vein scanner , Face recognition camera."
+}

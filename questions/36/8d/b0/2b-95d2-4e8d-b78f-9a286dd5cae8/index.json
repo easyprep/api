@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-17T14:21:34.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "368db02b-95d2-4e8d-b78f-9a286dd5cae8",
+  "labels": "current-affairs,2019-06-18",
+  "question": "Price of underlying asset is added into intrinsic value of option to calculate which of the following?",
+  "option1": "forward price of option",
+  "option2": "exercise price of option",
+  "option3": "book value of option",
+  "option4": "spot price of option",
+  "option5": "",
+  "answer": "exercise price of option",
+  "explanation": "Price of underlying asset is added into intrinsic value of option to calculate exercise price of option."
+}

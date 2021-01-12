@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5b48c976-2e41-4837-868f-af62c9ecc7b2",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following bonds is weakest in nature?",
+  "option1": "Single bond",
+  "option2": "Double bond",
+  "option3": "Hydrogen bond",
+  "option4": "Triple bond",
+  "option5": "",
+  "answer": "Hydrogen bond",
+  "explanation": "Molecules that have nonpolar covalent bonds donot form hydrogen bonds. Hydrogen bonds are classified as weak bonds because they are easily and rapidly formed and broken under normal biological conditions."
+}

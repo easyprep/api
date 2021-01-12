@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5d0fa42b-d159-4f54-be06-48f147e47f0f",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Soap bubble attains spherical shape due to which of the following reasons?",
+  "option1": "Surface tension",
+  "option2": "Inertia",
+  "option3": "Pressure",
+  "option4": "Viscosity",
+  "option5": "",
+  "answer": "Surface tension",
+  "explanation": "Bubbles are spherical because there is an attractive force called surface tension that pulls molecules of water into the tightest possible groupings. And the tightest possible grouping that any collection of particles can achieve is to pack together into a sphere."
+}

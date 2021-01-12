@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "813243a3-525c-4864-b52e-52cdddfd7929",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following gases is heavier than oxygen?",
+  "option1": "Ammonia",
+  "option2": "Methane",
+  "option3": "Helium",
+  "option4": "Carbon dioxide",
+  "option5": "",
+  "answer": "Carbon dioxide",
+  "explanation": "Carbon dioxide has one carbon atom and two oxygen atoms, and a molecular weight of 44 grams per mole. The oxygen in the air is actually O2, or molecular oxygen, with a molecular weight of 32. Hence, carbon dioxide has a higher density, or is heavier than oxygen."
+}

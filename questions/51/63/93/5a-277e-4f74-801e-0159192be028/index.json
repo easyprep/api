@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T14:01:15.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5163935a-277e-4f74-801e-0159192be028",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which of the following is not true about Immediate Payment Service (IMPS)?",
+  "option1": "To use IMPS, both the account holder and beneficiary needs to have Mobile Money Identifier (MMID).",
+  "option2": "Internet Banking Account facilitates IMPS to transfer money to any account.",
+  "option3": "The facility is provided by National Payments Corporation of India through its existing NFS switch.",
+  "option4": "IMPS offers an instant, 24X7, interbank electronic fund transfer service through mobile phones.",
+  "option5": "",
+  "answer": "To use IMPS, both the account holder and beneficiary needs to have Mobile Money Identifier (MMID).",
+  "explanation": "One can choose the IMPS method to transfer money using net banking, mobile banking, ATMs or SMSs.D) — As internet banking also facilitates IMPS, so all internet banking account holders can use IMPS to transfer funds."
+}

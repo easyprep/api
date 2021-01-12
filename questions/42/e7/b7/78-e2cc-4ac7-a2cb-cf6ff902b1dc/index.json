@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "42e7b778-e2cc-4ac7-a2cb-cf6ff902b1dc",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is a characteristic of an exothermic reaction?",
+  "option1": "Release of heat",
+  "option2": "Absorption of heat",
+  "option3": "Doesn't involve any change in temperature",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Release of heat",
+  "explanation": "An exothermic reaction is a chemical reaction that releases energy through light or heat. It is the opposite of an endothermic reaction. Expressed in a chemical equation: reactants  -  products + energy."
+}

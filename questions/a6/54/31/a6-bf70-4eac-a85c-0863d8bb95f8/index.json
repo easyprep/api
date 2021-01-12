@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "a65431a6-bf70-4eac-a85c-0863d8bb95f8",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following devices is used to measure humidity?",
+  "option1": "Hydrometer",
+  "option2": "Hygrometer",
+  "option3": "Anemometer",
+  "option4": "Psycho Meter",
+  "option5": "",
+  "answer": "Hygrometer",
+  "explanation": "A hygrometer is a weather instrument used to measure the amount of humidity in the atmosphere. There are two main types of hygrometers - a dry and wet bulb psychrometer and a mechanical hygrometer."
+}

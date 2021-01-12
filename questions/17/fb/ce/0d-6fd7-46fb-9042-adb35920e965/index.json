@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "17fbce0d-6fd7-46fb-9042-adb35920e965",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following gases absorbs long wave (infrared) radiation from the earth and emit it again towards the earth?",
+  "option1": "Ozone",
+  "option2": "Carbon dioxide",
+  "option3": "Greenhouse",
+  "option4": "Methane",
+  "option5": "",
+  "answer": "Greenhouse",
+  "explanation": "A greenhouse gas is a gas that absorbs and emits radiant energy within the thermal infrared range. Greenhouse gases cause the greenhouse effect. The primary greenhouse gases in Earth's atmosphere are water vapor, carbon dioxide, methane, nitrous oxide and ozone."
+}

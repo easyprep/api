@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "c37e5590-39dd-4cb6-9647-eddef1c67e65",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is the name of the first Supercomputer of the world?",
+  "option1": "USENET",
+  "option2": "COMODOR VIC/20",
+  "option3": "PARAM-10000",
+  "option4": "CDC 6600",
+  "option5": "",
+  "answer": "CDC 6600",
+  "explanation": "The CDC 6600 was the flagship of the 6000 series of mainframe computer systems manufactured by Control Data Corporation. Generally considered to be the first successful supercomputer, it outperformed the industry's prior recordholder, the IBM 7030 Stretch, by a factor of three."
+}

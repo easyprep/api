@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "4d61a3b9-1e16-4baa-b4d4-461b0d974875",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the other name of Galileo's law of falling bodies?",
+  "option1": "Law of motion",
+  "option2": "Newton's first law",
+  "option3": "Newton's second law",
+  "option4": "Newton's third law",
+  "option5": "",
+  "answer": "Newton's first law",
+  "explanation": "Newton's first law of motion is referred to as the law of inertia. An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced force."
+}

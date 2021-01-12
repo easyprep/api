@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "27b2e030-6c62-40df-9f9c-f54c5c7306de",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following was invented by Sir Humphry Davy?",
+  "option1": "Safety Lamp",
+  "option2": "Steam Engine",
+  "option3": "Safety Pin",
+  "option4": "X-Rays",
+  "option5": "",
+  "answer": "Safety Lamp",
+  "explanation": "The Davy lamp is a safety lamp for use in flammable atmospheres, invented in 1815 by Sir Humphry Davy. It consists of a wick lamp with the flame enclosed inside a mesh screen."
+}

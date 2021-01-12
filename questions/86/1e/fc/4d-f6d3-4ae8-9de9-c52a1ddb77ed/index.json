@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "861efc4d-f6d3-4ae8-9de9-c52a1ddb77ed",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is dry ice?",
+  "option1": "Liquid nitrogen",
+  "option2": "Water ice",
+  "option3": "Solid carbon dioxide",
+  "option4": "Frozen ethanol",
+  "option5": "",
+  "answer": "Solid carbon dioxide",
+  "explanation": "\"Dry ice\" is solid carbon dioxide (CO2). Carbon dioxide freezes at -78.5 degrees Centigrade. When dry ice \"melts\" it undergoes a process called sublimation. This means that it is converted from a solid directly to a gas, bypassing the intermediate liquid stage. This is where the name \"dry ice\" comes from - when it melts, you never get any liquid, hence it's \"dry\"."
+}

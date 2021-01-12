@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "716ff529-acfe-4af2-969e-e453f0f115d0",
+  "labels": "current-affairs,2019-05-31",
+  "question": "C++ is associated with which of the following?",
+  "option1": "An operating system",
+  "option2": "A programming language",
+  "option3": "software",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "A programming language",
+  "explanation": "C++ is a general-purpose programming language that was developed by Bjarne Stroustrup as an extension of the C language, or \"C with Classes\". It has imperative, object- oriented and generic programming features, while also providing facilities for low-level memory manipulation."
+}

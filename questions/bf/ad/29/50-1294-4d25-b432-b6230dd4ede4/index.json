@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:57.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "bfad2950-1294-4d25-b432-b6230dd4ede4",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Three-fourth of the radio-active substance will decay in how many months?",
+  "option1": "Twenty four months",
+  "option2": "Six months",
+  "option3": "Ten months",
+  "option4": "Twelve months",
+  "option5": "",
+  "answer": "Twelve months",
+  "explanation": "A radioactive substance has a half life of four months. Three fourth of the substance will decay in twelve months."
+}

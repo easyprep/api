@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T14:01:14.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "8670ad72-3c2a-46b8-8a4c-dc71a5089402",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which of the following is not true about National Electronic Funds Transfer (NEFT) system?",
+  "option1": "There is no limit on transaction through NEFT",
+  "option2": "NEFT operates in hourly batches.",
+  "option3": "NEFT is a payment system which facilitates one-to-one funds transfer.",
+  "option4": "Only bank branches which are NEFT enabled, can be a part of the NEFT funds transfer network.",
+  "option5": "",
+  "answer": "NEFT operates in hourly batches.",
+  "explanation": "RBI announced that additional 11 settlement batches at half- hourly intervals will be introduced from July 10 2017 , beginning from 8.30 am till 6.30 pm. With this, the total number of half hourly settlement batches during the day will increase to 23."
+}

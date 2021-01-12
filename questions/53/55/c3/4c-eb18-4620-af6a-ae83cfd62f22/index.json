@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-17T14:16:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5355c34c-eb18-4620-af6a-ae83cfd62f22",
+  "labels": "current-affairs,2019-06-18",
+  "question": "Which market involves transactions in which one party sells a financial asset to another party and agrees to repurchase an equivalent value of financial assets?",
+  "option1": "Sterling certificates of deposit market",
+  "option2": "Secondary market",
+  "option3": "Primary market",
+  "option4": "Gilt repo market",
+  "option5": "",
+  "answer": "Gilt repo market",
+  "explanation": "Gilt repo market involves transactions in which one party sells a financial asset to another party and agrees to repurchase an equivalent value of financial assets at some time in the future."
+}

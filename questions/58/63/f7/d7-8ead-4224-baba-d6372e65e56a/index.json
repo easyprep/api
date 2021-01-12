@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:58.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5863f7d7-8ead-4224-baba-d6372e65e56a",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the SI unit of frequency?",
+  "option1": "Watt",
+  "option2": "Hertz",
+  "option3": "Farad",
+  "option4": "Newton",
+  "option5": "",
+  "answer": "Hertz",
+  "explanation": "The hertz (symbol: Hz) is the derived unit of frequency in the International System of Units (SI) and is defined as one cycle per second. It is named for Heinrich Rudolf Hertz."
+}

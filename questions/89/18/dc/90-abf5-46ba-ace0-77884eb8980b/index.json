@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:53:48.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "8918dc90-abf5-46ba-ace0-77884eb8980b",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is a “Settlement”?",
+  "option1": "settlement of payment instructions which bank has send",
+  "option2": "settlement of refunds",
+  "option3": "settlement of payment instructions received",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "settlement of payment instructions received",
+  "explanation": "“Settlement” means the settlement of payment instructions received and these include settlement of securities, foreign exchange or derivatives or other transactions. Settlement can take place either on a net basis or on a gross basis. Both netting and gross settlement system are defined under the Act."
+}

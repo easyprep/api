@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "dd2d3748-42fe-4aed-bde5-4c104034209d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Who among the following discovered X-rays?",
+  "option1": "Edward Taylor",
+  "option2": "Samuel Cohen",
+  "option3": "Albert Einstein",
+  "option4": "W.C.Roentgen",
+  "option5": "",
+  "answer": "W.C.Roentgen",
+  "explanation": "Wilhelm Roentgen, a German professor of physics, was the first person to discover electromagnetic radiation in a wavelength range commonly known as X-rays today. X-rays are a form of electromagnetic radiation, similar to visible light."
+}

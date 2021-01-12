@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "123717dd-7f9a-4354-83cf-e4ef62700903",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Using futures contracts to transfer price risk is known as which of the following?",
+  "option1": "hedging",
+  "option2": "arbitrage",
+  "option3": "speculating",
+  "option4": "diversifying",
+  "option5": "",
+  "answer": "hedging",
+  "explanation": "A hedge is an investment to reduce the risk of adverse price movements in an asset. Normally, a hedge consists of taking an offsetting position in a related security."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T13:51:26.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f77e1d46-5e08-460e-a327-04f1eed97d50",
+  "labels": "current-affairs,2019-06-12",
+  "question": "According Negotiable Instruments Act, what is a Promissory Note?",
+  "option1": "A document written and Signed by the payer/maker",
+  "option2": "Containing an unconditional undertaking",
+  "option3": "To pay a certain sum of money only to a specific person or the bearer",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "A promissory note is a financial instrument that contains a written promise by one party (the note's issuer or maker) to pay another party (the note's payee) a definite sum of money, either on demand or at a specified future date."
+}

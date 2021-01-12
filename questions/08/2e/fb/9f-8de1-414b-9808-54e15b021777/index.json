@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "082efb9f-8de1-414b-9808-54e15b021777",
+  "labels": "current-affairs,2019-06-13",
+  "question": "How many digits are present in IFSC code?",
+  "option1": 9,
+  "option2": 15,
+  "option3": 10,
+  "option4": 11,
+  "option5": "",
+  "answer": 11,
+  "explanation": "IFSC – Indian Financial System Code. This is an 11 digit code with the first 4 alpha characters representing the bank, and the last 6 characters representing the branch. The 5th character is 0 (zero)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "12b97c98-039d-4039-8a71-46d5675a4ae9",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following is represented by 'Lorenz Curve'?",
+  "option1": "Inflation",
+  "option2": "Income Distribution",
+  "option3": "Employment",
+  "option4": "Deflation",
+  "option5": "",
+  "answer": "Income Distribution",
+  "explanation": "In economics, the Lorenz curve is a graphical representation of the distribution of income or of wealth. It was developed by Max O. Lorenz in 1905 for representing inequality of the wealth distribution."
+}

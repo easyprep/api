@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "aa075d07-0267-4992-8343-e3f632ac9616",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is not true about a Demand Draft?",
+  "option1": "It is a negotiable instrument.",
+  "option2": "It is a banker's cheque.",
+  "option3": "It may be dishonoured for lack of funds.",
+  "option4": "It is issued by a bank.",
+  "option5": "",
+  "answer": "It may be dishonoured for lack of funds.",
+  "explanation": "A demand draft is a negotiable instrument similar to a bill of exchange. A bank issues a demand draft to a client, directing another bank or one of its own branches to pay a certain sum to the specified party. A demand draft can also be compared to a cheque."
+}

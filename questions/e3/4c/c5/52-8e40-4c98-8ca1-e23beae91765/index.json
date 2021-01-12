@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-19T17:38:20.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "e34cc552-8e40-4c98-8ca1-e23beae91765",
+  "labels": "current-affairs,2019-06-20",
+  "question": "Which of the following is not the name of the sensitive index of any stock exchange?",
+  "option1": "SX 40",
+  "option2": "CRIS",
+  "option3": "Dow",
+  "option4": "Nifty",
+  "option5": "",
+  "answer": "CRIS",
+  "explanation": "SX40 is the flagship Index of MSE. The Dow Jones Industrial Average, or simply the Dow, is a stock market index that indicates the value of 30 large, publicly owned companies based in the United States. The NIFTY 50 index is National Stock Exchange of India's benchmark broad based stock market index for the Indian equity market."
+}

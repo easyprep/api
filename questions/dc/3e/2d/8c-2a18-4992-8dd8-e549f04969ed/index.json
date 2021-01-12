@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "dc3e2d8c-2a18-4992-8dd8-e549f04969ed",
+  "labels": "current-affairs,2019-06-12",
+  "question": "How many pairs of ribs are there in human body?",
+  "option1": 12,
+  "option2": 13,
+  "option3": 6,
+  "option4": 14,
+  "option5": "",
+  "answer": 12,
+  "explanation": "In humans there are normally 12 pairs of ribs. The first seven pairs are attached directly to the sternum by costal cartilages and are called true ribs. The 8th, 9th, and 10th pairs—false ribs—do not join the sternum directly but are connected to the 7th rib by cartilage"
+}

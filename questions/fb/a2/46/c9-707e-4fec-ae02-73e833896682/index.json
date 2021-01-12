@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "fba246c9-707e-4fec-ae02-73e833896682",
+  "labels": "current-affairs,2019-05-31",
+  "question": "FORTRAN is used for which of the following?",
+  "option1": "Drawing pictures",
+  "option2": "Carrying out mathematics computation",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Fortran is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing."
+}

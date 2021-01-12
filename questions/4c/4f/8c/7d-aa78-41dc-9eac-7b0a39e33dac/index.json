@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "4c4f8c7d-aa78-41dc-9eac-7b0a39e33dac",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Which of the following units guarantees that all buying and selling will be made by traders?",
+  "option1": "clearing house",
+  "option2": "trading house",
+  "option3": "guarantee house",
+  "option4": "professional house",
+  "option5": "",
+  "answer": "clearing house",
+  "explanation": "A clearing house is a financial institution formed to facilitate the exchange of payments, securities, or derivatives transactions. The clearing house stands between two clearing firms."
+}

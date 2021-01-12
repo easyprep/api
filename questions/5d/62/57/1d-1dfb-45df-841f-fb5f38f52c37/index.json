@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:50:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5d62571d-1dfb-45df-841f-fb5f38f52c37",
+  "labels": "current-affairs,2019-06-12",
+  "question": "How many payments banks have actually started operations since RBI has granted the in-principle approval?",
+  "option1": 3,
+  "option2": 5,
+  "option3": 9,
+  "option4": 6,
+  "option5": "",
+  "answer": 6,
+  "explanation": "Six payments that have started operations are Aditya Birla Payments Bank, Airtel Payments Bank, India Post Payments Bank, Fino Payments Bank, Jio Payments Bank, Paytm Payments Bank."
+}

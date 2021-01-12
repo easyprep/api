@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:50:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f9a3f07b-8940-4307-a4c6-b3f1382a07cb",
+  "labels": "current-affairs,2019-06-12",
+  "question": "How much percentage of its funds can be held by payments banks in current and time deposit with Scheduled Commercial Bank?",
+  "option1": 0.25,
+  "option2": 0.4,
+  "option3": 0.5,
+  "option4": 0.75,
+  "option5": "",
+  "answer": 0.25,
+  "explanation": "The payments bank can hold maximum 25% in current and time/fixed deposits with other scheduled commercial banks."
+}

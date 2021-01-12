@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-31T19:38:37.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "405230d6-efd7-41f5-924f-5a200fab4cb2",
+  "labels": "current-affairs,2019-06-01",
+  "question": "Which of the following is not acceptable as address proof for opening a bank account by an individual?",
+  "option1": "Letter from any recognized public authority",
+  "option2": "Domicile certificate",
+  "option3": "A rent agreement indicating the address of the customer duly registered with State Govt.",
+  "option4": "Other than those gives as options",
+  "option5": "",
+  "answer": "A rent agreement indicating the address of the customer duly registered with State Govt.",
+  "explanation": "Bank accounts such as savings account are opened on the basis of KYC. The list of documents required to open a savings account are: Identity Proof – Passport/Aadhaar Card/Voter ID/Driving License/PAN Card and Recent Passport Size Photographs."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "ba53adc2-850f-4f1e-a7f1-749bea97095d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following gas contributes the maximum to the phenomena of global warming?",
+  "option1": "Methane",
+  "option2": "Chlorofluorocarbon(CFC)",
+  "option3": "Carbon dioxide",
+  "option4": "Nitrogen dioxide",
+  "option5": "",
+  "answer": "Carbon dioxide",
+  "explanation": "72% of the totally emitted greenhouse gases is carbon dioxide (CO2). Carbon dioxide emissions therefore are the most important cause of global warming. CO2 is inevitably created by burning fuels like e.g. oil, natural gas, diesel, organic-diesel, petrol, organic-petrol, ethanol."
+}

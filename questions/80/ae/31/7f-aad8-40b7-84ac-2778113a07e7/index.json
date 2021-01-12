@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-07T16:50:23.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "80ae317f-aad8-40b7-84ac-2778113a07e7",
+  "labels": "current-affairs,2019-06-08",
+  "question": "Which of the following is true regarding BCA?",
+  "option1": "BCA works for Insurance companies",
+  "option2": "A BCA can provide services to only 1 bank",
+  "option3": "A BCA can provide services to more than 1 bank",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "A BCA can provide services to more than 1 bank",
+  "explanation": "Baseline Credit Assessment. is a measure of the probability that a bank will require support to avoid default beyond the support provided by its affiliates. overview."
+}

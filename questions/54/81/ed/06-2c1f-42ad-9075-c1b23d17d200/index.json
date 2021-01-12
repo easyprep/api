@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5481ed06-2c1f-42ad-9075-c1b23d17d200",
+  "labels": "current-affairs,2019-06-13",
+  "question": "The sliding friction is _____ than the static friction.",
+  "option1": "greater",
+  "option2": "smaller",
+  "option3": "Same",
+  "option4": "double",
+  "option5": "",
+  "answer": "smaller",
+  "explanation": "The sliding friction is less than static friction because of the interlocking of irregularities in the two surfaces. When the object starts sliding the contact points on its surface, do not get enough time to lock into the contact points on the floor."
+}

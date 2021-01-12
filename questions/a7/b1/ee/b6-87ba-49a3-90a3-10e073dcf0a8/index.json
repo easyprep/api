@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T16:41:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "a7b1eeb6-87ba-49a3-90a3-10e073dcf0a8",
+  "labels": "current-affairs,2019-06-12",
+  "question": "The term \"a cheque in the electronic form\" is defined in the Negotiable Instruments Act, 1881 - under which of the following sections?",
+  "option1": "Section 6",
+  "option2": "Section 6(l)",
+  "option3": "Section 6A",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Section 6",
+  "explanation": "Section 6 of the Negotiable Instruments Act, 1881 (26 of 1881) defines \"a cheque in the electronic form\" means a cheque drawn in electronic form by using any computer resource and signed in a secure system with digital signature and asymmetric crypto system."
+}

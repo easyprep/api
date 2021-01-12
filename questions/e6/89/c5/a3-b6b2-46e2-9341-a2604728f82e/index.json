@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "e689c5a3-b6b2-46e2-9341-a2604728f82e",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is not a vector quantity?",
+  "option1": "Displacement",
+  "option2": "Momentum",
+  "option3": "Torque",
+  "option4": "Speed",
+  "option5": "",
+  "answer": "Speed",
+  "explanation": "Speed, being a scalar quantity, is the rate at which an object covers distance. The average speed is the distance per time ratio. Speed is ignorant of direction. Whereas, vector quantity is a quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "50dbe4f6-d4e0-41e9-99ef-2ab1654e607c",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is called the final boundary between the Earth and the outer space?",
+  "option1": "ionosphere",
+  "option2": "magnetosphere",
+  "option3": "magnetopause",
+  "option4": "mesopause",
+  "option5": "",
+  "answer": "magnetopause",
+  "explanation": "For planetary science, the magnetopause is the boundary between the planet's magnetic field and the solar wind. It is the final boundary between the Earth and the outer space."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:37:45.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "c448db93-13ef-4c02-9fab-ad30132f1f9f",
+  "labels": "current-affairs,2019-06-13",
+  "question": "License to issue digital signature certificates are issued by which of the following?",
+  "option1": "Finance Minister",
+  "option2": "Banks",
+  "option3": "Controller",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Controller",
+  "explanation": "A licensed Certifying Authority (CA) issues the digital signature. Certifying Authority (CA) means a person who has been granted a license to issue a digital signature certificate under Section 24 of the Indian IT-Act 2000"
+}

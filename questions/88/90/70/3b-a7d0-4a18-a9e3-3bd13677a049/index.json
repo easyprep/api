@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:50.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "8890703b-a7d0-4a18-a9e3-3bd13677a049",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following has the highest calorific value?",
+  "option1": "Rubber",
+  "option2": "Hydrogen",
+  "option3": "Wood",
+  "option4": "Coal",
+  "option5": "",
+  "answer": "Hydrogen",
+  "explanation": "One gram of Hydrogen releases about 150 kilojoules of energy, almost thrice as much as methane does. I'm sure you know about liquid hydrogen! Coal comes second followed by wood having a low calorific value of 17 kJ/g."
+}

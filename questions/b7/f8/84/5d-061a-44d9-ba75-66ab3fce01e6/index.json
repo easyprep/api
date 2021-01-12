@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b7f8845d-061a-44d9-ba75-66ab3fce01e6",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following pair is INCORRECT? I.Parsec - Distance II.Barrel - Liquid III.Light year - Time",
+  "option1": "Only III",
+  "option2": "Only II",
+  "option3": "Only I",
+  "option4": "All are correct",
+  "option5": "",
+  "answer": "Only III",
+  "explanation": "The parsec is a unit of length used to measure large distances to astronomical objects outside the Solar System. A barrel is one of several units of volume applied in various contexts; there are dry barrels, fluid barrels oil barrels and so on. The light-year is a unit of length used to express astronomical distances and measures about 9.46 trillion kilometres or 5.88 trillion miles."
+}

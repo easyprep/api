@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T15:25:58.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "ed023a0c-0ef6-44f0-9242-f41d53952f77",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which among the following helps RBI to manage liquidity conditions in the economy with banks having an avenue to surplus funds or avail funds?",
+  "option1": "SLR",
+  "option2": "Money market Mutual Funds",
+  "option3": "Reverse repos",
+  "option4": "Repos",
+  "option5": "",
+  "answer": "Repos",
+  "explanation": "Repos are money market instruments which allow banks and financial institutions to sell securities to an investor with an agreement to repurchase at specified rate and date."
+}

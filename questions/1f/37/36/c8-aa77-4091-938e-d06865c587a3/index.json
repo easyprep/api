@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-07T17:03:29.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "1f3736c8-aa77-4091-938e-d06865c587a3",
+  "labels": "current-affairs,2019-06-08",
+  "question": "Which of the following is related to ATMs?",
+  "option1": "Branches of banks",
+  "option2": "manned counters of banks",
+  "option3": "Unmanned cash dispensers",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Unmanned cash dispensers",
+  "explanation": "An automated teller machine (ATM) is an electronic telecommunications device that enables customers of financial institutions to perform financial transactions at any time and without the need for direct interaction with bank staff."
+}

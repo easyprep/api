@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "50359aa7-429a-4132-8acf-84341a9ce8b2",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is not a component of Smog?",
+  "option1": "Volatile organic compounds",
+  "option2": "Chlorine oxide",
+  "option3": "Nitrogen Oxide",
+  "option4": "Sulphur dioxide",
+  "option5": "",
+  "answer": "Chlorine oxide",
+  "explanation": "Photochemical smog, often referred to as summer smog, is the chemical reaction of sunlight, nitrogen oxides and volatile organic compounds in the atmosphere, which leaves airborne particles and ground-level ozone."
+}

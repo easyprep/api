@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-19T17:38:20.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "2de8a431-0c9f-48ad-98ac-d2f68dd52560",
+  "labels": "current-affairs,2019-06-20",
+  "question": "Which of the following pairs is correctly matched?",
+  "option1": "FTSE-New York",
+  "option2": "Hang Seng-Korea",
+  "option3": "Nikkei-Japan",
+  "option4": "S&P-London",
+  "option5": "",
+  "answer": "Nikkei-Japan",
+  "explanation": "The Financial Times Stock Exchange 100 Index is a share index of the 100 companies listed on the London Stock Exchange with the highest market capitalisation. The Hang Seng Index is a freefloat-adjusted market-capitalization-weighted stock-market index in Hong Kong. The S&P 500, or just the S&P, is an American stock market index based on the market capitalizations of 500 large companies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-31T19:35:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "815782e7-d1ba-467f-b9e5-df5d9625989a",
+  "labels": "current-affairs,2019-06-01",
+  "question": "Which of the following about money supply measures adopted in 1998 is wrong?",
+  "option1": "M1= currency with public +demand deposits with banking system + other deposits with RBI",
+  "option2": "M2= M1 + savings deposits of post office savings bank",
+  "option3": "M3= M1+ time deposits with banking system",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "Money supply is defined as the total quantity of money circulating in the economy at a particular time. There are three measures of money supply M1, M2, and M3."
+}

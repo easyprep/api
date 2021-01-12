@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T15:25:58.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "97f5eca2-1408-41f2-8572-cddb9248810f",
+  "labels": "current-affairs,2019-06-15",
+  "question": "On which of the following instruments is the rate of return calculated on a 'discount basis'?",
+  "option1": "Commercial paper",
+  "option2": "Commercial bills",
+  "option3": "Both 1 and 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 and 2",
+  "explanation": "Discount instruments are money market instruments that are issued at a value less than (or “discounted” from) their stated face value and mature for their face value."
+}

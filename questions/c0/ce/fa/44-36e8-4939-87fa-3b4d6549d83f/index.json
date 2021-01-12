@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:50:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "c0cefa44-36e8-4939-87fa-3b4d6549d83f",
+  "labels": "current-affairs,2019-06-12",
+  "question": "How much percentage of its funds is required to be invested by payments banks in government securities or T-bills with maturity up to 1 year?",
+  "option1": 0.25,
+  "option2": 0.4,
+  "option3": 0.5,
+  "option4": 0.75,
+  "option5": "",
+  "answer": 0.75,
+  "explanation": "The payments banks need to invest 75% of its funds in government securities or T-bills with maturity upto 1 year."
+}

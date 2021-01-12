@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "4f12d6d7-96c7-44f4-9b90-0c315b8db796",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is the process of gaining electrons?",
+  "option1": "Reduction",
+  "option2": "Oxidation",
+  "option3": "Both Oxidation and Reduction",
+  "option4": "Radiation",
+  "option5": "",
+  "answer": "Reduction",
+  "explanation": "Reduction is chemical reaction that involves the gaining of electrons by one of the atoms involved in the reaction between two elements. The term refers to the element that accepts electrons, as the oxidation state of the element that gains electrons is lowered."
+}

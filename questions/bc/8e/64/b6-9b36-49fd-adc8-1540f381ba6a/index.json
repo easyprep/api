@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "bc8e64b6-9b36-49fd-adc8-1540f381ba6a",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Who discovered the Cholera causing germ?",
+  "option1": "Felix Hoffman",
+  "option2": "Robert Koch",
+  "option3": "M. Laveran",
+  "option4": "Filippo Pacini",
+  "option5": "",
+  "answer": "Robert Koch",
+  "explanation": "Koch developed a new experimental method to test whether a particular micro-organism is the cause of a disease. Building on Pasteur's work on germ theory, Koch used experiments to prove that the bacterium Bacillus anthracis was the cause of anthrax."
+}

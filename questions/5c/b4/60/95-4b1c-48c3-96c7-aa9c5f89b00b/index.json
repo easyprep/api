@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-07T21:31:03.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5cb46095-4b1c-48c3-96c7-aa9c5f89b00b",
+  "labels": "current-affairs,2019-06-08",
+  "question": "Which is the most congested city in the world, according to TomTom Traffic Index 2018?",
+  "option1": "Lima",
+  "option2": "New Delhi",
+  "option3": "Moscow",
+  "option4": "Mumbai",
+  "option5": "",
+  "answer": "Mumbai",
+  "explanation": "The TomTom Traffic Index 2018, carried out by location technology specialist TomTom, covered 403 cities in 56 countries and defined congestion as the extra time added to road travel when traffic doesn’t flow freely. Mumbai topped the list of cities with drivers expecting to spend an average of 65% extra travel time stuck in traffic. New Delhi ranked 4th with a congestion rank of 58%. Bogota (63%) in Colombia and Lima in Peru (58%) were ranked second and third on the list respectively, while the Russian capital Moscow (56%) ranked fifth. The study found that in 2018, the best time to drive in Mumbai was between 2 am and 5 am, when traffic flowed freely."
+}

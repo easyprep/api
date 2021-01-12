@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b6aaf820-f896-430a-81f8-df9997bcd79a",
+  "labels": "current-affairs,2019-06-13",
+  "question": "RTGS stands for which of the following?",
+  "option1": "Real Time Gross Settlement",
+  "option2": "Real type General scheme",
+  "option3": "Real Type gross settlement system",
+  "option4": "Real time Gross system",
+  "option5": "",
+  "answer": "Real Time Gross Settlement",
+  "explanation": "Real-time gross settlement systems are specialist funds transfer systems where the transfer of money or securities takes place from one bank to any other bank on a \"real time\" and on a \"gross\" basis."
+}

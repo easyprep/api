@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-31T19:38:37.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "0bf1f1ca-c0b1-4639-88a1-258c684cb4ab",
+  "labels": "current-affairs,2019-06-01",
+  "question": "In which of the following accounts, shares and securities are held in dematerialized form?",
+  "option1": "Salary account",
+  "option2": "Current account",
+  "option3": "Demat account",
+  "option4": "Savings account",
+  "option5": "",
+  "answer": "Demat account",
+  "explanation": "Demat account number is quoted for all transactions to enable electronic settlements of trades to take place. Every shareholder will have a Dematerialized account for the purpose of transacting."
+}

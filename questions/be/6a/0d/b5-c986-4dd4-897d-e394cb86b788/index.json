@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-31T21:16:47.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "be6a0db5-c986-4dd4-897d-e394cb86b788",
+  "labels": "current-affairs,2019-06-01",
+  "question": "The scientists at which US university  have developed a new prosthetic foot to help tackle tough terrain?",
+  "option1": "Harvard University",
+  "option2": "Stanford University",
+  "option3": "Clemson University",
+  "option4": "University of California",
+  "option5": "",
+  "answer": "Stanford University",
+  "explanation": "The scientists at the Stanford University in the US have developed a more stable prosthetic foot which they say could make challenging terrain more manageable for people who have lost a lower leg. The new design has a kind of tripod foot that responds to rough terrain by actively shifting pressure between three different contact points. Prosthetic emulators allow them to try lots of different designs without the overhead of new hardware. According to the study published in the journal IEEE Transactions on Biomedical Engineering,   prosthetic limbs can better handle the rough ground. Outfitted with position sensors and motors, the foot could adjust its orientation to respond to varying terrain, much as someone with an intact foot could move their toes and flex their ankles to compensate while walking over rough ground."
+}

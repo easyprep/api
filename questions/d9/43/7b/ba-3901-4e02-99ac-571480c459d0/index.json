@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:57.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "d9437bba-3901-4e02-99ac-571480c459d0",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the PH of the human blood?",
+  "option1": "Highly Basic",
+  "option2": "Slightly Acidic",
+  "option3": "Slightly Basic",
+  "option4": "Highly Acidic",
+  "option5": "",
+  "answer": "Slightly Basic",
+  "explanation": "The pH scale, ranges from 0 (strongly acidic) to 14 (strongly basic or alkaline). Blood is normally slightly basic, with a normal pH range of 7.35 to 7.45. Usually the body maintains the pH of blood close to 7.40."
+}

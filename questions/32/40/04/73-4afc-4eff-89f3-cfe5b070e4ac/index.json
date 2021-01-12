@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "32400473-4afc-4eff-89f3-cfe5b070e4ac",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the minimum distance (in metres) required to hear an echo?",
+  "option1": 10,
+  "option2": 13,
+  "option3": 21,
+  "option4": 17,
+  "option5": "",
+  "answer": 17,
+  "explanation": "The velocity of sound in dry air is approximately 343 m/s at a temperature of 25 °C. Therefore, the reflecting object must be more than 17.2m from the sound source for echo to be perceived by a person located at the source."
+}

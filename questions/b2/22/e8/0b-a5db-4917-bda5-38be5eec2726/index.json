@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T14:01:15.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b222e80b-a5db-4917-bda5-38be5eec2726",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which of the following is not true about Unified Payments Interface (UPI)?",
+  "option1": "UPI is an instant payment system developed by the National Payments Corporation of India (NPCI).",
+  "option2": "Through UPI, all payments are instant and takes place in banking hours.",
+  "option3": "Under UPI person will have a single identity and password for using multiple bank accounts.",
+  "option4": "UPI is based on the Immediate Payment Services (IMPS) infrastructure.",
+  "option5": "",
+  "answer": "Through UPI, all payments are instant and takes place in banking hours.",
+  "explanation": "UPI is an indigenously developed platform by National Payments Corporation of India (NPCI) and set up with the support of the Reserve Bank and Indian Banks Association (IBA). Through UPI, all payments are instant but it provides 24/7 service, irrespective of banking hours."
+}

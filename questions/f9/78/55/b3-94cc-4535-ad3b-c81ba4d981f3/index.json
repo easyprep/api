@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f97855b3-94cc-4535-ad3b-c81ba4d981f3",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following gases is most important for absorption of heat radiated from the Sun as well as from the Earth?",
+  "option1": "Carbon dioxide",
+  "option2": "Carbon monoxide",
+  "option3": "Nitrogen",
+  "option4": "Oxygen",
+  "option5": "",
+  "answer": "Carbon dioxide",
+  "explanation": "Once the extra energy has been removed by the emitted photon, the carbon dioxide molecule stops vibrating. This ability to absorb and re-emit infrared energy is what makes CO2 an effective heat-trapping greenhouse gas."
+}

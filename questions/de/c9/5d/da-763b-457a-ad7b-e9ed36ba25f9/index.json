@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:53:48.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "dec95dda-763b-457a-ad7b-e9ed36ba25f9",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What does “derivative” mean in Payment and Settlement Systems Act, 2007?",
+  "option1": "an instrument, to be settled at a future date",
+  "option2": "a payment, to be settled at a future date",
+  "option3": "an instrument, that has already got settled",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "an instrument, to be settled at a future date",
+  "explanation": "“Derivative” means an instrument, to be settled at a future date, whose value is derived from change in interest rate, foreign exchange rate, credit rating or credit index, price of securities and includes interest rate swaps, forward rate agreements, foreign currency swaps, foreign currency rupee swaps, foreign currency options, foreign currency rupee options or any other instrument, as may be specified by the RBI from time to time."
+}

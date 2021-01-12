@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-17T14:19:23.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "870e49f3-a1d3-4489-99ec-fa4e34609e2f",
+  "labels": "current-affairs,2019-06-18",
+  "question": "Which one out of the following is least liquid among the measures of money supply?",
+  "option1": "M1",
+  "option2": "M2",
+  "option3": "M3",
+  "option4": "M4",
+  "option5": "",
+  "answer": "M4",
+  "explanation": "Liquidity order is M1>M2>M3>M4 i.e. M1 is most liquid and M4 is least liquid."
+}

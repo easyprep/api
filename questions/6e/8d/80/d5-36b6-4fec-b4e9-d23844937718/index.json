@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "6e8d80d5-36b6-4fec-b4e9-d23844937718",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the chemical formula for Sodium Chloride (Salt)?",
+  "option1": "NaCl2",
+  "option2": "NaCl",
+  "option3": "Na2Cl",
+  "option4": "Na2c",
+  "option5": "",
+  "answer": "NaCl",
+  "explanation": "Sodium chloride, commonly known as salt, is an ionic compound with the chemical formula NaCl, representing a 1:1 ratio of sodium and chloride ions."
+}

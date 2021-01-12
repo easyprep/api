@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T20:58:21.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "cbfee2ae-4655-4aa7-a6b3-5c9ad9198ff9",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following countries has been removed from US currency watchlist?",
+  "option1": "Italy",
+  "option2": "South Korea",
+  "option3": "Switzerland",
+  "option4": "Japan",
+  "option5": "",
+  "answer": "Switzerland",
+  "explanation": "The Trump administration has recently removed India and Switzerland  from its currency monitoring list of major trading partners. Both the countries  were removed from the list because for two consecutive reports they had both met only one of three criteria necessary for inclusion on the monitoring list. According to the report, India had a significant bilateral surplus & Switzerland had a material current account surplus. The watch list contains the names of countries that have potentially questionable foreign exchange policies and are suspected to be manipulating their currencies to gain trade advantages over the US. However, the list includes China, Japan, South Korea, Germany, Italy, Ireland, Singapore, Malaysia and Vietnam among others."
+}

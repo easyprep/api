@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-07T16:37:14.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "698b7ea2-a8fc-4026-8b6e-fc1742498000",
+  "labels": "current-affairs,2019-06-08",
+  "question": "Which pension plan provides benefits of pension by employer of organization?",
+  "option1": "discretionary plan",
+  "option2": "non-contributory plan",
+  "option3": "contributory plan",
+  "option4": "Non-discretionary plan",
+  "option5": "",
+  "answer": "non-contributory plan",
+  "explanation": "Non-contributory pension plan is a retirement plan to which only the employer and/or the government contributes funds, but not the employees. Such plans are considered fringe benefits."
+}

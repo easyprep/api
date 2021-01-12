@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "27547389-83fc-4570-b3a3-d2f9ccb8b8bb",
+  "labels": "current-affairs,2019-05-31",
+  "question": "The bending of light when it passes around a corner or a slit is due to which of the following?",
+  "option1": "reflection",
+  "option2": "refraction",
+  "option3": "diffraction",
+  "option4": "total internal reflection",
+  "option5": "",
+  "answer": "diffraction",
+  "explanation": "Diffraction is the slight bending of light as it passes around the edge of an object. The amount of bending depends on the relative size of the wavelength of light to the size of the opening."
+}

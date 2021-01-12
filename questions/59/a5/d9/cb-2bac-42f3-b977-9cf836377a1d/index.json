@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "59a5d9cb-2bac-42f3-b977-9cf836377a1d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the SI unit of Force?",
+  "option1": "Pascal",
+  "option2": "Boyle",
+  "option3": "Newton",
+  "option4": "Watt",
+  "option5": "",
+  "answer": "Newton",
+  "explanation": "The Newton is the SI unit of force. It is the force that will give a mass of 1 kilogram an acceleration of 1 meter per second per second. The newton (symbol: N) is the International System of Units (SI) derived unit of force. It is named after Isaac Newton in recognition of his work."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T13:42:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b971503a-630e-4c1c-bc30-fb0326a8d2fc",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following is an account at a bank or credit union that earns interest over a specified amount of time?",
+  "option1": "Interest Bearing Account",
+  "option2": "Regular Checking Account",
+  "option3": "De-materialized Account",
+  "option4": "Savings Bank Account",
+  "option5": "",
+  "answer": "Interest Bearing Account",
+  "explanation": "An interest-bearing account that typically pays a higher interest rate than a savings account, and which provides the account holder with limited check-writing ability."
+}

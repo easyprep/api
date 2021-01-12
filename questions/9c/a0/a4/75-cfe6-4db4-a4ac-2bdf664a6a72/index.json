@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T16:41:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9ca0a475-cfe6-4db4-a4ac-2bdf664a6a72",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What happens if in an instrument the amount undertaken or ordered to be paid is stated differently in figures and in words?",
+  "option1": "the instrument is void due to uncertainty",
+  "option2": "the amount stated in figure shall be the amount undertaken or ordered to be paid",
+  "option3": "the amount stated in words shall be the amount undertaken or ordered to be paid",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "the instrument is void due to uncertainty",
+  "explanation": "The Negotiable Instruments must be freely transferable and unconditional from the make to the received/bearer."
+}

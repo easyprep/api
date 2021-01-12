@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9ca39b33-de4b-4e42-804f-eabe8eb463af",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Optical fibre works on which of the following principle of light?",
+  "option1": "Total internal reflection",
+  "option2": "Diffraction",
+  "option3": "Refraction",
+  "option4": "Reflection",
+  "option5": "",
+  "answer": "Total internal reflection",
+  "explanation": "Total internal reflection in an optical fiber. When light passes from a medium with one index of refraction (m1) to another medium with a lower index of refraction (m2), it bends or refracts away from an imaginary line perpendicular to the surface (normal line)."
+}

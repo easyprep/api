@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "70a7e543-2008-47d8-9436-979f3482292f",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which tax causes a burden on the poorer section of the society?",
+  "option1": "Indirect Tax",
+  "option2": "Direct Tax",
+  "option3": "Both Direct and Indirect Tax",
+  "option4": "None of these",
+  "option5": "",
+  "answer": "Indirect Tax",
+  "explanation": "Indirect taxes make the distribution of income more unequal because of their regressive effects. The poor will get taxed a higher proportion of their income than the rich, making it a regressive tax."
+}

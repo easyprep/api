@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "6ae7dfed-8ca3-447b-8fbe-59bc3bd5a57a",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Gravitational force is maximum at which of the following places?",
+  "option1": "At tropic of cancer",
+  "option2": "At equator",
+  "option3": "At Poles",
+  "option4": "At tropic of Capricorn",
+  "option5": "",
+  "answer": "At Poles",
+  "explanation": "The result is that the weight of a body on the Earth's surface increases slightly as it moves away from the equator and toward the poles. This is because the Earth's gravitational force is slightly less at the equator than at the poles."
+}

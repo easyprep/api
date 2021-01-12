@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "d8f80624-d8a0-45de-8759-6803b70c4ea3",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is the full form of ISDN?",
+  "option1": "Integrated Service Digital Network",
+  "option2": "Internal Service Digital Network",
+  "option3": "Indian Service Digital network",
+  "option4": "International Service Digital network",
+  "option5": "",
+  "answer": "Integrated Service Digital Network",
+  "explanation": "Integrated Services Digital Network (ISDN) is a set of communication standards for simultaneous digital transmission of voice, video, data, and other network services over the traditional circuits of the public switched telephone network."
+}

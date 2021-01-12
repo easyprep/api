@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "eafeeb0e-c83f-45eb-afb2-7d9ceccdd931",
+  "labels": "current-affairs,2019-05-31",
+  "question": "CAD stands for which of the following?",
+  "option1": "Common Aided Design",
+  "option2": "Complex Aided Design",
+  "option3": "Communication Aided Design",
+  "option4": "Computer Aided Design",
+  "option5": "",
+  "answer": "Computer Aided Design",
+  "explanation": "Computer-aided design is the use of computers to aid in the creation, modification, analysis, or optimization of a design. CAD software is used to increase the productivity of the designer, improve the quality of design, improve communications through documentation, and to create a database for manufacturing."
+}

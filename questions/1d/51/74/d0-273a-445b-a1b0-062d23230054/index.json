@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "1d5174d0-273a-445b-a1b0-062d23230054",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following curves represents the demand of all consumers in the market taken together at different levels of the price of the good?",
+  "option1": "Monotonic",
+  "option2": "Indifferent",
+  "option3": "Market demand",
+  "option4": "Diminishing",
+  "option5": "",
+  "answer": "Market demand",
+  "explanation": "The market demand curve is the summation of all the individual demand curves in a given market. It shows the quantity demanded of the good by all individuals at varying price points."
+}

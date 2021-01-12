@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "d6d46db2-e826-4086-b7b2-dece3e03931d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "How many sellers are there in market structure called monopoly?",
+  "option1": "One",
+  "option2": "Two",
+  "option3": "More than ten",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "One",
+  "explanation": "A monopoly exists when a specific person or enterprise is the only supplier of a particular commodity. This contrasts with a monopsony which relates to a single entity's control of a market to purchase a good or service, and with oligopoly which consists of a few sellers dominating a market."
+}

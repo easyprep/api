@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T13:51:26.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "35f28421-5c23-4d9f-804e-87c7468b0e60",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the followings are not the Negotiable Instruments as defined by the Statute (law)?",
+  "option1": "Banker’s Note",
+  "option2": "Promissory Note",
+  "option3": "Bill of Exchange",
+  "option4": "Cheques Answer",
+  "option5": "",
+  "answer": "Banker’s Note",
+  "explanation": "According to Negotiable Instruments Act 1882, Promissory Note, Bill of Exchange and Cheques are the instruments as defined by the statute (law). Banker’s note also performs like a Promissory Note and guaranteed by the government, but Banker’s note is said to be the Negotiable Instruments by custom (trade practices)."
+}

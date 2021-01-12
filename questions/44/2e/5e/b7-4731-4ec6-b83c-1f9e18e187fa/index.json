@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-07T14:58:15.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "442e5eb7-4731-4ec6-b83c-1f9e18e187fa",
+  "labels": "current-affairs,2019-06-08",
+  "question": "What does the microfinance model NOT predict?",
+  "option1": "a decrease in interest rates when repayment is regular and in time",
+  "option2": "homogenous risk groups",
+  "option3": "self-selection of the best borrowers",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "self-selection of the best borrowers",
+  "explanation": "Microfinance services are provided with different methods in India. A total of 14 models are existing in India. They include associations, bank guarantees, community banking, cooperatives, credit unions, Grameen, group, individual, intermediaries, NGOs, peer pressure, ROSCAs, small business, and village banking models."
+}

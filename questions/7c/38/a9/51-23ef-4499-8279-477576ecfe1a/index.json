@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:00.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "7c38a951-23ef-4499-8279-477576ecfe1a",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Why does water tank appear shallower when viewed from the top?",
+  "option1": "Due to refraction",
+  "option2": "Due to reflection",
+  "option3": "Due to diffraction",
+  "option4": "Due to total internal reflection",
+  "option5": "",
+  "answer": "Due to refraction",
+  "explanation": "Water tank appear shallower when viewed from the top of a simple phenomenon, refraction, the water in the pool refracts the light going in and this results in our viewing the pool as shallower than it actually is."
+}

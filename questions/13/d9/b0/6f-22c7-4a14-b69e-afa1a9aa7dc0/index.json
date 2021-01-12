@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "13d9b06f-22c7-4a14-b69e-afa1a9aa7dc0",
+  "labels": "current-affairs,2019-06-13",
+  "question": "What does N stands for in NUUP?",
+  "option1": "Network",
+  "option2": "Neutral",
+  "option3": "Net",
+  "option4": "National",
+  "option5": "",
+  "answer": "National",
+  "explanation": "NUUP (National Unified USSD Platform) is a USSD based mobile banking service from NPCI that brings together all the Banks and Telecom Service Providers."
+}

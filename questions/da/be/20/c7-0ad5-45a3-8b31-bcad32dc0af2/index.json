@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T13:56:41.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "dabe20c7-0ad5-45a3-8b31-bcad32dc0af2",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which type of remittances are received from abroad?",
+  "option1": "Blockchain Remittance",
+  "option2": "Inward Foreign Remittance",
+  "option3": "Outward Foreign Remittance",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Inward Foreign Remittance",
+  "explanation": "Inward Foreign Remittance means Remittance received from abroad. In other words remittance coming into our country from other countries by the remitter by way of permissible banking channel through freely convertible Foreign Currencies is called ‘Inward Foreign Remittance’ from the beneficiary country’s point of view. From the remitter’s point of view it is called outward Foreign Remittance."
+}

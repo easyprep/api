@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b77fcc87-a382-4d82-987d-57da19290003",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Which of the following does the most to reduce default risk for futures contracts?",
+  "option1": "High liquidity",
+  "option2": "Flexible delivery arrangements",
+  "option3": "Marking to market",
+  "option4": "Credit checks for both buyers and sellers",
+  "option5": "",
+  "answer": "Marking to market",
+  "explanation": "Marking to market refers to the daily settling of gains and losses due to changes in the market value of the security. For financial derivative instruments, such as futures contracts, use marking to market."
+}

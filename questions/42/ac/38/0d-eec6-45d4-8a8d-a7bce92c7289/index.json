@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "42ac380d-eec6-45d4-8a8d-a7bce92c7289",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is the reflection from a smooth surface like that of a mirror?",
+  "option1": "Regular reflection",
+  "option2": "Irregular reflection",
+  "option3": "Diffused reflection",
+  "option4": "Fused reflection",
+  "option5": "",
+  "answer": "Regular reflection",
+  "explanation": "When a beam pass of parallel light rays is incident on a smooth and plane surface, the reflected rays will also be parallel. This type of reflection is called Regular Reflection."
+}

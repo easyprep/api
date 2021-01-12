@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-19T17:38:20.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f7a5fb91-ce58-4492-bdf1-5c4a0953603d",
+  "labels": "current-affairs,2019-06-20",
+  "question": "For what kind of transactions, are demat accounts necessary?",
+  "option1": "For having mobile banking facilities",
+  "option2": "For taking retail loans from banks",
+  "option3": "For non resident account",
+  "option4": "For trading in shares of companies",
+  "option5": "",
+  "answer": "For trading in shares of companies",
+  "explanation": "A Demat Account is an account that allows investors to hold their shares in an electronic form."
+}

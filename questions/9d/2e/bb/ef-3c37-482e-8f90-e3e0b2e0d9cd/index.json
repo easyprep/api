@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-31T19:35:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9d2ebbef-3c37-482e-8f90-e3e0b2e0d9cd",
+  "labels": "current-affairs,2019-06-01",
+  "question": "What is the currency deposit ratio (CDR)?",
+  "option1": "ratio of money held by the public in currency to that of money held in bank deposits",
+  "option2": "ratio of money held by public in bank deposits to that of money held by public in currency",
+  "option3": "ratio of money held in demand drafts to that of money held in treasury bonds",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "ratio of money held by the public in currency to that of money held in bank deposits",
+  "explanation": "The currency deposit ratio shows the amount of currency that people hold as a proportion of aggregate deposits."
+}

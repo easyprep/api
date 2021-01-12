@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-07T17:03:29.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "3edb089c-0599-47da-8f36-3133e2964e41",
+  "labels": "current-affairs,2019-06-08",
+  "question": "ATMs cards are issued to a person who maintains which of the following accounts with the bank ?",
+  "option1": "saving bank accounts",
+  "option2": "Current accounts",
+  "option3": "term deposits",
+  "option4": "either 1 or 2",
+  "option5": "",
+  "answer": "either 1 or 2",
+  "explanation": "There are two kinds of accounts. At an ATM, we are always faced with the option of choosing between a Savings Account or a Current Account."
+}

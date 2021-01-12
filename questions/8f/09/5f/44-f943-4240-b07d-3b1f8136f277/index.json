@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:57.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "8f095f44-f943-4240-b07d-3b1f8136f277",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is the situation, when there is only one buyer and one seller of product?",
+  "option1": "Public monopoly",
+  "option2": "Monopsony",
+  "option3": "Franchised monopoly",
+  "option4": "Bilateral monopoly",
+  "option5": "",
+  "answer": "Bilateral monopoly",
+  "explanation": "A bilateral monopoly is a market structure consisting of both a monopoly (a single seller) and a monopsony (a single buyer)."
+}

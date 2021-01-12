@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "62dcf593-2c67-4d2c-9138-118c02537e33",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which device in a vehicle calculates distance covered by the vehicle?",
+  "option1": "Odometer",
+  "option2": "Kilometre",
+  "option3": "Thermometer",
+  "option4": "Speedometer",
+  "option5": "",
+  "answer": "Odometer",
+  "explanation": "An odometer or odograph is an instrument used for measuring the distance travelled by a vehicle, such as a bicycle or car. The device may be electronic, mechanical, or a combination of the two."
+}

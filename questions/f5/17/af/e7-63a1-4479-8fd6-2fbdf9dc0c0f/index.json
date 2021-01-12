@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:57.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f517afe7-63a1-4479-8fd6-2fbdf9dc0c0f",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which among the following is a 'Modifier Key'?",
+  "option1": "Control",
+  "option2": "Shift",
+  "option3": "Alt",
+  "option4": "All options are correct",
+  "option5": "",
+  "answer": "All options are correct",
+  "explanation": "A modifier key is a key that modifies the action of another key when the two are pressed together. Common modifier keys include Shift, Control, Alt, Command, Option, and Function."
+}

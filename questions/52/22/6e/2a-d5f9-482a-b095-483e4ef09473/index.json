@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "52226e2a-d5f9-482a-b095-483e4ef09473",
+  "labels": "current-affairs,2019-05-31",
+  "question": "How many types of writ are there in the Indian Constitution?",
+  "option1": 5,
+  "option2": 4,
+  "option3": 7,
+  "option4": 3,
+  "option5": "",
+  "answer": 5,
+  "explanation": "A writ is a formal written order issued by a government entity in the name of the sovereign power. There are five types of Writs - Habeas Corpus, Mandamus, Prohibition, Certiorari and Quo warranto."
+}

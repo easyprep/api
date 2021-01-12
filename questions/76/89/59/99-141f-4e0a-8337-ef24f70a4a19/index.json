@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "76895999-141f-4e0a-8337-ef24f70a4a19",
+  "labels": "current-affairs,2019-06-13",
+  "question": "If the orbit of a planet is an ellipse, then what is the point at which the Sun is located called?",
+  "option1": "Circumcentre",
+  "option2": "Centre",
+  "option3": "Focus",
+  "option4": "Incentre",
+  "option5": "",
+  "answer": "Focus",
+  "explanation": "Both the Sun and the planets move around each other with their center of mass lying at the focus of the elliptical orbits."
+}

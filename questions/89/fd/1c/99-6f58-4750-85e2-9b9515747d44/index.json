@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "89fd1c99-6f58-4750-85e2-9b9515747d44",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which key is used to move to next line in a Ms-Word document?",
+  "option1": "Escape Key",
+  "option2": "Return Key",
+  "option3": "Shift Key",
+  "option4": "Enter Key",
+  "option5": "",
+  "answer": "Enter Key",
+  "explanation": "In MS word, move the text cursor to where you want the new line to begin and then press and hold down the Shift key and then press the Enter key. You can continue to press Shift+Enter to move to each new line and when ready to move to the next paragraph press Enter."
+}

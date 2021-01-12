@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "e36022ad-8d39-4b9b-9919-2d9e5010f4b2",
+  "labels": "current-affairs,2019-06-13",
+  "question": "Which of the following attributes specify (in pixels) the distance between two adjacent cells?",
+  "option1": "Height",
+  "option2": "Cellspacing",
+  "option3": "Width",
+  "option4": "Cellpadding",
+  "option5": "",
+  "answer": "Cellspacing",
+  "explanation": "The cellspacing attribute of table is not supported in HTML5. The cellspacing attribute specifies the space, in pixels, between cells."
+}

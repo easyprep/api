@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:58.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "4ea79873-1a63-478b-8c8e-75379d61ee73",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which among the following is not an account under Balance of Payment?",
+  "option1": "Financial Account",
+  "option2": "Official Reserves Account",
+  "option3": "Capital Account",
+  "option4": "Current Account",
+  "option5": "",
+  "answer": "Official Reserves Account",
+  "explanation": "The balance of payments has three components. They are the current account, the financial account, and the capital account. Within these three categories are sub-divisions, each of which accounts for a different type of international monetary transaction."
+}

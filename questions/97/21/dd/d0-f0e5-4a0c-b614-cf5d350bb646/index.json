@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:53:48.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9721ddd0-f0e5-4a0c-b614-cf5d350bb646",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following is included in payment system of PSS Act?",
+  "option1": "clearing",
+  "option2": "payment",
+  "option3": "settlement service",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "PSS Act 2007 defines a payment system to mean a system that enables payment to be effected between a payer and a beneficiary, involving clearing, payment or settlement service or all of them, but does not include a stock exchange."
+}

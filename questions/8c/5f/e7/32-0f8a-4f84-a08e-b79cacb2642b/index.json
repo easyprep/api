@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "8c5fe732-0f8a-4f84-a08e-b79cacb2642b",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is the value of the Least Distance of Distinct vision(in cm) for a normal human being?",
+  "option1": 58,
+  "option2": 2.5,
+  "option3": 50,
+  "option4": 25,
+  "option5": "",
+  "answer": 25,
+  "explanation": "The least distance of distinct vision (LDDV) or the reference seeing distance (RSD) is the closest someone with \"normal\" vision (20/20 vision) can comfortably look at something. The range of vision of a healthy human eye is between it's near point and far point i.e, from 25cm to infinity."
+}

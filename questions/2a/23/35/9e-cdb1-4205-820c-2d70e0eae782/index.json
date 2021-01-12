@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "2a23359e-cdb1-4205-820c-2d70e0eae782",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which planet is considered as the Dwarf planet?",
+  "option1": "Earth",
+  "option2": "Jupiter",
+  "option3": "Pluto",
+  "option4": "Saturn",
+  "option5": "",
+  "answer": "Pluto",
+  "explanation": "Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune. It was the first Kuiper belt object to be discovered and is the largest known plutoid."
+}

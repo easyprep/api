@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T13:51:26.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "6dcb45a6-e56a-4808-a1fc-5c4139a91404",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following parties are involved in the Promissory notes?",
+  "option1": "The Maker",
+  "option2": "The Payee",
+  "option3": "Endorsee",
+  "option4": "Both 1 and 2",
+  "option5": "",
+  "answer": "Both 1 and 2",
+  "explanation": "The person who promises to pay money through Promissory Note is called as the maker (payer/drawer) and the person to whom the money is to be received is called as Payee/Drawee."
+}

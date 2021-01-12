@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:53:48.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9c8cc6ef-b91e-4469-9a67-3564b99fd76f",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is a “Payment Obligation”?",
+  "option1": "ontractual obligations of bank to pay an amount owed to another bank",
+  "option2": "contractual obligations of a Person to pay an amount owed to another",
+  "option3": "obligations of a Person to pay an amount distributed in a group",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "contractual obligations of a Person to pay an amount owed to another",
+  "explanation": "“Payment obligation” is defined as what is owed by one participant in a payment system to another such participant which results from clearing or settlement or payment instructions relating to funds, securities or foreign exchange or derivatives or other transactions."
+}

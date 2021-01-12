@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "0e17b181-bc64-46c0-abd2-13bc17b7f528",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the name of a group of similar cells performing a specific function?",
+  "option1": "Tissue",
+  "option2": "Organ",
+  "option3": "Organ system",
+  "option4": "Cellular organization",
+  "option5": "",
+  "answer": "Tissue",
+  "explanation": "A tissue is an ensemble of similar cells and their extracellular matrix from the same origin that together carry out a specific function. Organs are then formed by the functional grouping together of multiple tissues."
+}

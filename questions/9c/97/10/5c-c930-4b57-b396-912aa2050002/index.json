@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-17T14:21:34.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9c97105c-c930-4b57-b396-912aa2050002",
+  "labels": "current-affairs,2019-06-18",
+  "question": "In which markets, transactions are done through computers and telephone without any specific location?",
+  "option1": "over the counter markets",
+  "option2": "past counter market",
+  "option3": "Future counter market",
+  "option4": "Capital counter market",
+  "option5": "",
+  "answer": "over the counter markets",
+  "explanation": "Over-the-counter (OTC) or off-exchange trading is done directly between two parties, without the supervision of an exchange. It is contrasted with exchange trading, which occurs via exchanges."
+}

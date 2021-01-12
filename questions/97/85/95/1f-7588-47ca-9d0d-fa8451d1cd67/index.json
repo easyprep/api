@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9785951f-7588-47ca-9d0d-fa8451d1cd67",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following instruments is used to measure Soil Water Tension?",
+  "option1": "Photometer",
+  "option2": "Pyrometer",
+  "option3": "Psychrometer",
+  "option4": "Tensiometer",
+  "option5": "",
+  "answer": "Tensiometer",
+  "explanation": "A tensiometer in soil science is a measuring instrument used to determine the matric water potential in the vadose zone. This device typically consists of a glass or plastic tube with a porous ceramic cup, and is filled with water."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f90b9ce2-ae76-429a-bdc8-520ee00ea5bf",
+  "labels": "current-affairs,2019-06-13",
+  "question": "The 0 in IFSC Code is placed in which of the following positiona of the 11 digit IFSC code?",
+  "option1": "3rd",
+  "option2": "7th",
+  "option3": "6th",
+  "option4": "5th",
+  "option5": "",
+  "answer": "5th",
+  "explanation": "The IFSC is an 11-character code with the first four alphabetic characters representing the bank name, and the last six characters (usually numeric, but can be alphabetic) representing the branch. The fifth character is 0 (zero) and reserved for future use"
+}

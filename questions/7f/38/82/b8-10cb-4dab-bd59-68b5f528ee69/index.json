@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-06T21:56:35.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "7f3882b8-10cb-4dab-bd59-68b5f528ee69",
+  "labels": "current-affairs,2019-06-07",
+  "question": "Which among the following is correct?",
+  "option1": "EFTPOS - Online Debit or PIN debit",
+  "option2": "Offline Debit - Signature Debit",
+  "option3": "Electronic Purse Card System - Electronic Debit Dealings",
+  "option4": "All of The Above",
+  "option5": "",
+  "answer": "All of The Above",
+  "explanation": "EFTPOS is actually an abbreviation. It stands for Electronic Funds Transfer at Point Of Sale. Offline debit cards debit the amount spent to a card holder's bank account. An electronic purse is the store of value on a card, which can be used in a manner similar to cash to pay for travel or for other small-scale transactions."
+}

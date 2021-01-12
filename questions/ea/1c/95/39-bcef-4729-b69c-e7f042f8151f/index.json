@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T13:42:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "ea1c9539-bcef-4729-b69c-e7f042f8151f",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which account is opened by the investor while registering with an investment broker?",
+  "option1": "De-materialized Account",
+  "option2": "Recurring Account",
+  "option3": "Savings Bank Account",
+  "option4": "Fixed Deposit Account",
+  "option5": "",
+  "answer": "De-materialized Account",
+  "explanation": "DEMAT or De-materialized Account refers to a deposit made at an Indian financial institution that can be used for investing in shares of stocks and other financial assets.Securities are held electronically in a DEMAT Account, thereby eliminating the need for physical paper certificates."
+}

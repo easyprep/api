@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:02.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "06cfda24-552d-44c8-8034-f1edbe9f494f",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which among the following is a direct tax?",
+  "option1": "Corporate tax",
+  "option2": "Wealth tax",
+  "option3": "Income tax",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Direct tax is a government levy on the income, property, or wealth of people or companies. A direct tax is borne entirely by the entity that pays it, and cannot be passed on to another entity. Examples include corporation tax, income tax, and social security contributions."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T13:42:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b842fb58-cedf-483c-8f24-5acad1c2371f",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is Bancassurance?",
+  "option1": "an insurance scheme to insure bank deposits",
+  "option2": "an insurance scheme exclusively for the employees of banks",
+  "option3": "a composite financial service offering both bank and insurance products",
+  "option4": "a bank deposit scheme exclusively for employees of insurance companies",
+  "option5": "",
+  "answer": "a composite financial service offering both bank and insurance products",
+  "explanation": "Bancassurance is a relationship between a bank and an insurance company that is aimed at offering insurance products or insurance benefits to the bank's customers."
+}

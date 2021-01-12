@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T16:41:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "97f4eae7-5961-4a56-b38d-2d7ed200f564",
+  "labels": "current-affairs,2019-06-12",
+  "question": "A bill of exchange contains which of the following?",
+  "option1": "Unconditional order",
+  "option2": "Unconditional undertaking",
+  "option3": "Conditional undertaking",
+  "option4": "Conditional order",
+  "option5": "",
+  "answer": "Unconditional order",
+  "explanation": "The bill of exchange contains an unconditional order to pay a certain amount on an agreed date while the promissory note contains an unconditional promise to pay a certain sum of money on a certain date."
+}

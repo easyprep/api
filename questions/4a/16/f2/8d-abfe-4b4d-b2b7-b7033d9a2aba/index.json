@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "4a16f28d-abfe-4b4d-b2b7-b7033d9a2aba",
+  "labels": "current-affairs,2019-06-12",
+  "question": "In computer terminology, what is the full form of FTP?",
+  "option1": "File Transfer Protocol",
+  "option2": "File Transfer Position",
+  "option3": "Final Transfer Position",
+  "option4": "File Transfer Packet",
+  "option5": "",
+  "answer": "File Transfer Protocol",
+  "explanation": "The File Transfer Protocol (FTP) is a standard network protocol used for the transfer of computer files between a client and server on a computer network. FTP is built on a client- server model architecture using separate control and data connections between the client and the server."
+}

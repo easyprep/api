@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "4b1b8c01-1851-48e9-aecc-327565da35fa",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Electric Motor converts which of the following energies to mechanical energy?",
+  "option1": "mechanical",
+  "option2": "sound",
+  "option3": "electrical",
+  "option4": "chemical",
+  "option5": "",
+  "answer": "electrical",
+  "explanation": "An electric motor is an electrical machine that converts electrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of rotation of a shaft."
+}

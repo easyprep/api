@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "cd5a15fd-889c-41da-862e-b5a4be982102",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Which of the following is best described as selling a synthetic asset and simultaneously buying the actual asset?",
+  "option1": "Arbitrage",
+  "option2": "Diversifying",
+  "option3": "Speculating",
+  "option4": "Hedging",
+  "option5": "",
+  "answer": "Arbitrage",
+  "explanation": "Arbitrage is the simultaneous purchase and sale of an asset to profit from an imbalance in the price. It is a trade that profits by exploiting the price differences of identical or similar financial instruments on different markets or in different forms."
+}

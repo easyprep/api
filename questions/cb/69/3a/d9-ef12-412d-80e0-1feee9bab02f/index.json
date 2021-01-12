@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "cb693ad9-ef12-412d-80e0-1feee9bab02f",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following devices is best suited for measuring the temperature inside metallurgical furnaces?",
+  "option1": "Pyrometer",
+  "option2": "Thermistor",
+  "option3": "Thermocouple",
+  "option4": "Thermometer",
+  "option5": "",
+  "answer": "Pyrometer",
+  "explanation": "Pyrometer is a device for measuring relatively high temperatures, such as are encountered in furnaces. Most pyrometers work by measuring radiation from the body whose temperature is to be measured."
+}

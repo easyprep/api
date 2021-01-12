@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:50:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "0211b9c2-3007-4cf5-9a2d-b5bba3770b69",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is the maximum amount of loan can be extended by payments banks?",
+  "option1": 25000,
+  "option2": 50000,
+  "option3": 100000,
+  "option4": "No lending power",
+  "option5": "",
+  "answer": "No lending power",
+  "explanation": "Payments banks cannot lend. They cannot provide credit facilities."
+}

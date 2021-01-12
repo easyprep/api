@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "ea1c4eef-e28a-41ee-8437-b692c3707a2e",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Standardized futures contracts exist for all of the following underlying assets except which of the following?",
+  "option1": "Treasury bonds",
+  "option2": "Gold",
+  "option3": "Common stocks",
+  "option4": "Stock index",
+  "option5": "",
+  "answer": "Common stocks",
+  "explanation": "Common stock is a form of corporate equity ownership, a type of security. Common stock is a security that represents ownership in a corporation."
+}

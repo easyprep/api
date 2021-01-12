@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "817a66b6-58a3-4124-b23c-cabae8ad2d8b",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following transports water from the roots of the plant to its leaves?",
+  "option1": "Xylem",
+  "option2": "Phloem",
+  "option3": "Cortex",
+  "option4": "Both Xylem and phloem",
+  "option5": "",
+  "answer": "Xylem",
+  "explanation": "Water is passively transported into the roots and then into the xylem. The forces of cohesion and adhesion cause the water molecules to form a column in the xylem. Water moves from the xylem into the mesophyll cells, evaporates from their surfaces and leaves the plant by diffusion through the stomata."
+}

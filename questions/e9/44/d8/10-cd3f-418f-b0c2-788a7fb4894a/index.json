@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T15:23:37.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "e944d810-cd3f-418f-b0c2-788a7fb4894a",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which among the following surveys is not conducted by Reserve Bank of India?",
+  "option1": "Consumer Confidence Survey (CCS)",
+  "option2": "Inflation Expectations Survey of Households (IESH)",
+  "option3": "Survey of Professional Forecasters on Macroeconomic Indicators",
+  "option4": "Annual Survey of Industries",
+  "option5": "",
+  "answer": "Annual Survey of Industries",
+  "explanation": "Annual Survey of Industries is conducted by CSO while other three survey viz. Consumer Confidence Survey (CCS), Inflation Expectations Survey of Households (IESH), Survey of Professional Forecasters on Macroeconomic Indicators are conducted by Reserve Bank of India."
+}

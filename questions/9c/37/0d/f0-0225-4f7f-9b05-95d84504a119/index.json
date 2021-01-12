@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T14:01:15.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "9c370df0-0225-4f7f-9b05-95d84504a119",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which of the following is not true about Bharat Interface for Money (BHIM) app?",
+  "option1": "BHIM framework allows its usage without internet also.",
+  "option2": "Money can also be sent to non-UPI supported banks using IFSC code and account number.",
+  "option3": "BHIM allows daily transaction limit of Rs 20,000.",
+  "option4": "Through BHIM app, a maximum of Rs 5,000 is allowed per transaction.",
+  "option5": "",
+  "answer": "Through BHIM app, a maximum of Rs 5,000 is allowed per transaction.",
+  "explanation": "Bharat Interface for Money (BHIM) provides fast, secure, reliable medium to make digital payments through your mobile phone using UPI (Unified Payment Interface) platform via Mobile App and USSD (Unstructured Supplementary Service Data) platform via *99# service."
+}

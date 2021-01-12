@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "168bb3e1-3666-48d0-b111-feeeac5ba2b3",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the duration (in minutes) of one-half of a football match?",
+  "option1": 30,
+  "option2": 45,
+  "option3": 35,
+  "option4": 40,
+  "option5": "",
+  "answer": 45,
+  "explanation": "A football match consists of two halves and each half is 45 minutes long. Between the two halves, there is an interval, which is not more than 15 minutes long. Stoppage time (also called injury time) is the time added on at the end of each half at the discretion of the referee."
+}

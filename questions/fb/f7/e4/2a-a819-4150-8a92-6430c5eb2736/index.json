@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T14:01:15.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "fbf7e42a-a819-4150-8a92-6430c5eb2736",
+  "labels": "current-affairs,2019-06-15",
+  "question": "Which of the following is not true about Mobile Money Identifier (MMID)?",
+  "option1": "Mobile Money Identifier (MMID) is a seven-digit number, issued by banks for effecting financial",
+  "option2": "The user’s mobile number MMID are uniquely linked with his bank account number, and is one of the",
+  "option3": "Both the remitter and the beneficiary are required to have their MMIDs to effect a fund transfer through",
+  "option4": "A unique MMID and mobile number combination helps in identifying the beneficiary’s details. A single",
+  "option5": "",
+  "answer": "A unique MMID and mobile number combination helps in identifying the beneficiary’s details. A single",
+  "explanation": "It should be Multiple MMIDs can be linked to same mobile number. If a person has accounts in more than 1 bank, he can use his same mobile number with all MMIDs."
+}

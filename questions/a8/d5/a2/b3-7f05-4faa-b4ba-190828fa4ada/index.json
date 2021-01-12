@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:53.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "a8d5a2b3-7f05-4faa-b4ba-190828fa4ada",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is accepted average Calorie requirement for rural area in India?",
+  "option1": 2200,
+  "option2": 2100,
+  "option3": 2300,
+  "option4": 2400,
+  "option5": "",
+  "answer": 2400,
+  "explanation": "The nutritional requirement recommends a national norm of 2,400 kilo calories a day for rural areas and 2,100 calories a day for urban areas, the difference being attributed to the lower rate of physical activity in urban areas."
+}

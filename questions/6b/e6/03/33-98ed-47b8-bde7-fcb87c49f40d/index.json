@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "6be60333-98ed-47b8-bde7-fcb87c49f40d",
+  "labels": "current-affairs,2019-06-13",
+  "question": "World Wide Web uses an addressing scheme known as URL to indicate the location of files on the web?",
+  "option1": "World Wide Web",
+  "option2": "JavaScript",
+  "option3": "String",
+  "option4": "SQL",
+  "option5": "",
+  "answer": "World Wide Web",
+  "explanation": "The World Wide Web (WWW), commonly known as the Web, is an information system where documents and other web resources are identified by Uniform Resource Locators, which may be interlinked by hypertext, and are accessible over the Internet."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "742ab2c1-9051-429c-b541-1920be140e80",
+  "labels": "current-affairs,2019-06-13",
+  "question": "Which of the following exchange rates is the relative price of foreign goods in terms of domestic goods?",
+  "option1": "Nominal",
+  "option2": "Real",
+  "option3": "Artificial",
+  "option4": "Fixed",
+  "option5": "",
+  "answer": "Real",
+  "explanation": "The real exchange rate measures the price of foreign goods relative to the price of domestic goods. Mathematically, the real exchange rate is the ratio of a foreign price level and the domestic price level, multiplied by the nominal exchange rate."
+}

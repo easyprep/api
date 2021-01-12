@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "1f46a70b-4ca8-4e4e-b262-6a99a2f9084c",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What percent of earth's surface is covered by land?",
+  "option1": 0.3,
+  "option2": 0.2,
+  "option3": 0.4,
+  "option4": 0.7,
+  "option5": "",
+  "answer": 0.3,
+  "explanation": "Land cover about 30 percent of Earth's land surface, while accounting for 50 percent of plant productivity. As much as 45 percent of the carbon stored on land is tied up in forests. Forests cover 30 percent of the Earth's land."
+}

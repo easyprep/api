@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-01T21:33:42.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "3b6b7e9f-f00e-4fec-b2ed-8a3c28a18fe4",
+  "labels": "current-affairs,2019-06-02",
+  "question": "Which state government has decided to ban online food delivery without hygiene rating?",
+  "option1": "Punjab",
+  "option2": "Kerala",
+  "option3": "Karnataka",
+  "option4": "Tamil Nadu",
+  "option5": "",
+  "answer": "Punjab",
+  "explanation": "The Punjab government has decided to make it mandatory for all online aggregators to ensure that food supplied by them have hygiene rating as per the guidelines of Food Safety and Standards Authority of India (FSSAI). The online order and delivery mechanism of food supply has created a physical disconnect between the consumer and the food maker. Hence, the onus of ensuring the quality of food and the hygienic condition under which food is prepared, has shifted to the intermediate food delivery mechanism. Thus, keeping this in mind, the state government has decided that all the online food order-delivery companies shall ensure that FBO’s registered or affiliated with them have their hygiene rating done from the FSSAI empanelled companies."
+}

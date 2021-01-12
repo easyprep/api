@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "6b99a9e5-0d19-4c92-8fda-845479c09396",
+  "labels": "current-affairs,2019-05-31",
+  "question": "How many members of upper house (Rajya Sabha) can be nominated by President of India?",
+  "option1": 10,
+  "option2": 13,
+  "option3": 12,
+  "option4": 16,
+  "option5": "",
+  "answer": 12,
+  "explanation": "Under article 80 of the Constitution, the Council of States (Rajya Sabha) is composed of not more than 250 members, of whom 12 are nominated by the President of India from amongst persons who have special knowledge or practical experience in respect of such matters as literature, science, art and social service."
+}

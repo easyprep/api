@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:51.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "7dae044f-8570-4f7b-ac9f-ac849206035d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which one of the following is a bad Thermal conductor?",
+  "option1": "Aluminium",
+  "option2": "Glass",
+  "option3": "Silver",
+  "option4": "Copper",
+  "option5": "",
+  "answer": "Glass",
+  "explanation": "Glass, wood and plastic are all excellent insulators, but not good conductors. It doesn't allow the flow of electrons easily from atom to atom and are bad conductors of both heat and electricity."
+}

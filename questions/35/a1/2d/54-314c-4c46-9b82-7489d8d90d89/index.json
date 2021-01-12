@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "35a12d54-314c-4c46-9b82-7489d8d90d89",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Markets in which derivatives are traded, are classified as which of the following?",
+  "option1": "assets backed market",
+  "option2": "cash flow backed markets",
+  "option3": "mortgage backed markets",
+  "option4": "derivative securities markets",
+  "option5": "",
+  "answer": "derivative securities markets",
+  "explanation": "A derivative is a contract between two or more parties whose value is based on an agreed-upon underlying financial asset (like a security) or set of assets (like an index)."
+}

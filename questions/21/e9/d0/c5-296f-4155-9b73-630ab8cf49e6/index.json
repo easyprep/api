@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "21e9d0c5-296f-4155-9b73-630ab8cf49e6",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the full form of 'LAN'?",
+  "option1": "Land Area Network",
+  "option2": "Linear Area Network",
+  "option3": "Line Area Network",
+  "option4": "Local Area Network",
+  "option5": "",
+  "answer": "Local Area Network",
+  "explanation": "A local area network is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building."
+}

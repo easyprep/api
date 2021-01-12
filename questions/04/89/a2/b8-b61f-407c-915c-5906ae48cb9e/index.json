@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-17T14:24:11.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "0489a2b8-b61f-407c-915c-5906ae48cb9e",
+  "labels": "current-affairs,2019-06-18",
+  "question": "For what kind of transactions, are demat accounts necessary ?",
+  "option1": "For trading in shares of companies",
+  "option2": "For having mobile banking facilities",
+  "option3": "For taking retail loans from banks",
+  "option4": "For non resident account",
+  "option5": "",
+  "answer": "For trading in shares of companies",
+  "explanation": "Demat account number is quoted for all transactions to enable electronic settlements of trades to take place. Every shareholder will have a Dematerialized account for the purpose of transacting."
+}

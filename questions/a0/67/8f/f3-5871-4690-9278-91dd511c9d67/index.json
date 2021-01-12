@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "a0678ff3-5871-4690-9278-91dd511c9d67",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Synapse gap is present between which of the following?",
+  "option1": "Brain and Spinal cord",
+  "option2": "Two eyes",
+  "option3": "Two Kidneys",
+  "option4": "Two neurons",
+  "option5": "",
+  "answer": "Two neurons",
+  "explanation": "Information from one neuron flows to another neuron across a synapse. The synapse contains a small gap separating neurons. The synapse consists of: a presynaptic ending that contains neurotransmitters, mitochondria and other cell organelles."
+}

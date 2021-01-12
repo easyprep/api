@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T13:51:26.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b8c943a7-5159-4513-ae4b-203b6ae906fd",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following is not the Negotiable Instrument?",
+  "option1": "Currency Note",
+  "option2": "Promissory Note",
+  "option3": "Bill of Exchange",
+  "option4": "Cheques Answer",
+  "option5": "",
+  "answer": "Currency Note",
+  "explanation": "Currency is a legal tender, guaranteed by the government to transfer value but the Negotiable Instruments have following characteristics. 1- It is written document, signed and stamped by the maker/drawer 2- It has a specific payee to whom the value is transferable 3- Negotiable Instruments requires acceptance and endorsement."
+}

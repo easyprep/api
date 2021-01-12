@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "1256b2ad-81e4-4c84-bb6a-92f53b6e686a",
+  "labels": "current-affairs,2019-06-13",
+  "question": "What does S stands for in SFMS in relation to NEFT payment method?",
+  "option1": "Statutory",
+  "option2": "Systematic",
+  "option3": "Structured",
+  "option4": "Savings",
+  "option5": "",
+  "answer": "Structured",
+  "explanation": "NEFT SFMS message” means an electronic Structured Financial Messaging Solution (SFMS) message containing a batch of NEFT payment instructions for funds transfer, processed and consolidated in the manner specified for transmission of payment instructions from NEFT Service Centre to the NEFT Clearing Centre"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:02.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "24950b7b-a9ed-4d09-8e1b-5cb8fba79f35",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the common characteristic of the elements of the same group in the periodic table?",
+  "option1": "Total number of electrons",
+  "option2": "Total number of protons",
+  "option3": "Electrons in outer most shell",
+  "option4": "Atomic weight",
+  "option5": "",
+  "answer": "Electrons in outer most shell",
+  "explanation": "The electrons in the outermost occupied shell (or shells) determine the chemical properties of the atom; it is called the valence shell. Each shell consists of one or more subshells, and each subshell consists of one or more atomic orbitals."
+}

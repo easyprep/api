@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "a5e12d03-da48-4094-bcd6-aae790128a44",
+  "labels": "current-affairs,2019-06-13",
+  "question": "Supercooling is cooling of Liquid at which of the following points?",
+  "option1": "below freezing point",
+  "option2": "above melting point",
+  "option3": "melting point",
+  "option4": "below melting point",
+  "option5": "",
+  "answer": "below freezing point",
+  "explanation": "Supercooling, also known as undercooling, is the process of lowering the temperature of a liquid or a gas below its freezing point without it becoming a solid."
+}

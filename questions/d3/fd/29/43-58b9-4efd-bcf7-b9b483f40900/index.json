@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "d3fd2943-58b9-4efd-bcf7-b9b483f40900",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Which of the following is an example of derivative securities?",
+  "option1": "return backed security",
+  "option2": "cash flow backed security",
+  "option3": "interest backed security",
+  "option4": "mortgage backed security",
+  "option5": "",
+  "answer": "mortgage backed security",
+  "explanation": "Mortgage-backed securities are investments that are secured by mortgages. They're a type of asset-backed security. A security is an investment that is traded on a secondary market."
+}

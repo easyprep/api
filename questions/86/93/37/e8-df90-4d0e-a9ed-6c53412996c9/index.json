@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T20:50:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "869337e8-df90-4d0e-a9ed-6c53412996c9",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which among the following activities are not permitted to payments banks?",
+  "option1": "Remittance services",
+  "option2": "Issuing ATM cards",
+  "option3": "Issuing credit cards",
+  "option4": "Accepting demand deposits",
+  "option5": "",
+  "answer": "Issuing credit cards",
+  "explanation": "The payments banks cannot offer credit cards. The permitted activities are accepting demand deposits, issuing ATM cards, providing remittance services and issue pre-paid instruments."
+}

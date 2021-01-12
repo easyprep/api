@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f1a908f1-3385-49b5-911a-cf17e029b9f7",
+  "labels": "current-affairs,2019-06-13",
+  "question": "IMPS is functional through which of the following?",
+  "option1": "ECS",
+  "option2": "EFS",
+  "option3": "NFS",
+  "option4": "RTGS",
+  "option5": "",
+  "answer": "NFS",
+  "explanation": "National Financial Switch is a network of shared ATMs in India. The National Financial Switch facilitates routing of ATM transactions through inter-connectivity between the Bank’s Switches, thereby enabling the citizens of the country to utilize any ATM of a connected bank. IMPS utilizes this network."
+}

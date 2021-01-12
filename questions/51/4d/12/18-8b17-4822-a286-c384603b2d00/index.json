@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T16:41:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "514d1218-8b17-4822-a286-c384603b2d00",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following are included/excluded in determining reasonable time for the purpose of payment of a negotiable instrument?",
+  "option1": "public holidays are included",
+  "option2": "public holidays are excluded",
+  "option3": "only the holidays observed by the banks are excluded",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "public holidays are excluded",
+  "explanation": "In determining what is a reasonable time for presentment for acceptance or payment, for giving notice of dishonour and for noting, regard shall be had to the nature of the instrument and the usual course of dealing with respect to similar instruments; and, in calculating such time, public holidays shall be excluded."
+}

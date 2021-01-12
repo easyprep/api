@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:54.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "fef086be-0080-4425-a74c-a9cfbb33b13c",
+  "labels": "current-affairs,2019-05-31",
+  "question": "In which graphics, digital photos and scanned images are typically stored with extensions such as .bmp, .jpg, .png, .tif or .gif?",
+  "option1": "Bitmap",
+  "option2": "Pixels",
+  "option3": "Both Bitmap and Pixels",
+  "option4": "Plane",
+  "option5": "",
+  "answer": "Bitmap",
+  "explanation": "A bitmap (or raster graphic) is a digital image composed of a matrix of dots. When viewed at 100%, each dot corresponds to an individual pixel on a display. In a standard bitmap image, each dot can be assigned a different color."
+}

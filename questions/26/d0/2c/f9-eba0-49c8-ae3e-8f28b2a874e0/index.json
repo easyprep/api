@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T16:41:10.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "26d02cf9-eba0-49c8-ae3e-8f28b2a874e0",
+  "labels": "current-affairs,2019-06-12",
+  "question": "Which of the following means 'indorsement in blank' of an instrumentnder section 16 of the Negotiable Instrument Act?",
+  "option1": "where the indorser does not write anything on the instrument",
+  "option2": "where the indorser writes his name only on the instrument",
+  "option3": "where the indorser writes the name of the person who is directed to pay",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "where the indorser writes his name only on the instrument",
+  "explanation": "Along with name & Sign, if indorser adds a direction to pay the amount mentioned in the instrument to, or the order of, a specified person, the indorsement is said to be 'in full', and the person so specified is called the 'indorsee' of the instrument."
+}

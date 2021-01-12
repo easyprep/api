@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "a76e67d2-d282-4dd0-bda9-2f9c055da9bb",
+  "labels": "current-affairs,2019-06-12",
+  "question": "What is the process of conversion of solid state directly to gaseous state called?",
+  "option1": "Distillation",
+  "option2": "Condensation",
+  "option3": "Sublimation",
+  "option4": "Evaporation",
+  "option5": "",
+  "answer": "Sublimation",
+  "explanation": "Sublimation is the transition of a substance directly from the solid to the gas phase, without passing through the intermediate liquid phase."
+}

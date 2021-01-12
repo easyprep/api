@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:18:01.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "3a44e650-02f0-42eb-860f-e8ff9317594e",
+  "labels": "current-affairs,2019-05-31",
+  "question": "A difference between 2 longitudes at equator is nearby equivalent to how many Km?",
+  "option1": "101 km",
+  "option2": "111 km",
+  "option3": "91 km",
+  "option4": "121 km",
+  "option5": "",
+  "answer": "111 km",
+  "explanation": "At the equator, the distance between two longitudes is, 40075 km divided by 360 and that is, 111.32 km, indeed. That is, of course, if you measure the distance between two integer number longitudes."
+}

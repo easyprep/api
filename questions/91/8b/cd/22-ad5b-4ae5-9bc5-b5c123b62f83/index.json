@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "918bcd22-ad5b-4ae5-9bc5-b5c123b62f83",
+  "labels": "current-affairs,2019-06-13",
+  "question": "NEFT works on the principle of which of the following?",
+  "option1": "Gross Batch Settlement",
+  "option2": "Deferred Net Settlement",
+  "option3": "Priority Net Settlement",
+  "option4": "Domain Net Settlement",
+  "option5": "",
+  "answer": "Deferred Net Settlement",
+  "explanation": "NEFT is an electronic fund transfer system that operates on a Deferred Net Settlement (DNS) basis which settles transactions in batches."
+}

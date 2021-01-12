@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:19:56.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "f179fbe8-7097-4575-82f0-2a299ff7ef47",
+  "labels": "current-affairs,2019-06-13",
+  "question": "Which of the following equation is/are INCORRECT? I. NI=NDP+Net Foreign Income II. GNP=GDP+Net Foreign Income III. NDP=GNP-Depreciation",
+  "option1": "Only III",
+  "option2": "Only II",
+  "option3": "Only I and II",
+  "option4": "Only II and III",
+  "option5": "",
+  "answer": "Only III",
+  "explanation": "NI=NDP+Net Foreign Income. GNP=GDP+Net Foreign Income."
+}

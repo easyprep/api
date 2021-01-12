@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-11T21:47:19.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "6e151582-e406-4bf9-ae11-eb370853e6f2",
+  "labels": "current-affairs,2019-06-12",
+  "question": "On which principle does the hydraulic lift works?",
+  "option1": "Pascal's law",
+  "option2": "Joule's law",
+  "option3": "Newton's law",
+  "option4": "Archimedes's law",
+  "option5": "",
+  "answer": "Pascal's law",
+  "explanation": "Pascal's law states that the pressure applied at one point of the liquid is transmitted equally in all directions. This principle is applied in hydraulic lifts for lifting heavy objects."
+}

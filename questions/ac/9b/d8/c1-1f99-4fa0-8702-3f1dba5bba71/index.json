@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:52.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "ac9bd8c1-1f99-4fa0-8702-3f1dba5bba71",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is the technology where data is encrypted before storage?",
+  "option1": "Whole",
+  "option2": "Half",
+  "option3": "Double",
+  "option4": "Single",
+  "option5": "",
+  "answer": "Whole",
+  "explanation": "Disk encryption is a technology which protects information by converting it into unreadable code that cannot be deciphered easily by unauthorized people. Disk encryption uses disk encryption software or hardware to encrypt every bit of data that goes on a disk or disk volume."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T16:12:40.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "823366df-1a38-4555-8f31-295def9db112",
+  "labels": "current-affairs,2019-06-13",
+  "question": "What is the minimum amount of money that can be transferred through RTGS?",
+  "option1": "Rs 2 lakh",
+  "option2": "Rs 2.5 lakh",
+  "option3": "Rs 3 lakh",
+  "option4": "Rs 5 lakh",
+  "option5": "",
+  "answer": "Rs 2 lakh",
+  "explanation": "The minimum amount to be remitted through RTGS is Rs 2 lakh. There is no upper ceiling for RTGS transactions."
+}

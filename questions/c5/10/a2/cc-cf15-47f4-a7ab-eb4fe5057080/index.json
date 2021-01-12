@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-31T19:38:37.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "c510a2cc-cf15-47f4-a7ab-eb4fe5057080",
+  "labels": "current-affairs,2019-06-01",
+  "question": "What is an Demat account?",
+  "option1": "Zero Balance Accounts",
+  "option2": "Accounts which are opened to facilitate repayment of a loan taken from the bank. No other business",
+  "option3": "Accounts in which shares of various companies are traded in electronic form",
+  "option4": "Accounts which are operated through internet banking facility",
+  "option5": "",
+  "answer": "Accounts in which shares of various companies are traded in electronic form",
+  "explanation": "Demat account number is quoted for all transactions to enable electronic settlements of trades to take place. Every shareholder will have a Dematerialized account for the purpose of transacting."
+}

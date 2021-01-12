@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T13:56:41.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "c6a6f155-8810-42b2-9cf5-bb0af90726b7",
+  "labels": "current-affairs,2019-06-15",
+  "question": "In which type of remittances, money is transferred from one country to another?",
+  "option1": "Foreign Remittance",
+  "option2": "Digital Remittance",
+  "option3": "Blockchain Remittance",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Foreign Remittance",
+  "explanation": "In banking terminology, remittance means transfer of fund one place to another. When money transferred from one country to another, this is called Foreign Remittance."
+}

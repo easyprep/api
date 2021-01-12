@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "50818d28-34b0-4744-a672-5d2cff9fc58e",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following is not a vector quantity?",
+  "option1": "Acceleration",
+  "option2": "Electric current",
+  "option3": "Force",
+  "option4": "Velocity",
+  "option5": "",
+  "answer": "Electric current",
+  "explanation": "Current doesn't follow vector addition and decomposition law,so it is not a vector.Current density is a vector quantity. Electric current I = q/t. As both charge and time are scalars, therefore electric current is a scalar quantity."
+}

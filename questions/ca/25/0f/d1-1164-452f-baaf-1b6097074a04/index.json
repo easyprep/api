@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-12T15:37:45.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "ca250fd1-1164-452f-baaf-1b6097074a04",
+  "labels": "current-affairs,2019-06-13",
+  "question": "Name the bank which has launched the app called Truecaller Pay.",
+  "option1": "PNB",
+  "option2": "SBI",
+  "option3": "ICICI Bank",
+  "option4": "Kotak Mahindra Bank",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "ICICI Bank in partnership with Truecaller has introduced Truecaller Pay. Truecaller Pay will allow millions of users in the country to instantly create a UPI ID, send money to any UPI ID or a mobile number registered with the Bharat Interface for Money (BHIM) app."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-14T15:23:36.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "91cee856-911c-4684-9cbe-1e4ab5cb6f56",
+  "labels": "current-affairs,2019-06-15",
+  "question": "What is the maximum duration for which term money can be lent/borrowed?",
+  "option1": "1 day",
+  "option2": "15 days",
+  "option3": "30 days",
+  "option4": "1 year",
+  "option5": "",
+  "answer": "1 year",
+  "explanation": "Term Money refers to Money lent for 15 days or more in the Inter Bank Market. The money market is a market for short-term financial assets that are close substitutes of money."
+}

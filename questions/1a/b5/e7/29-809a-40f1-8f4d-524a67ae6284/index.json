@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:55.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "1ab5e729-809a-40f1-8f4d-524a67ae6284",
+  "labels": "current-affairs,2019-05-31",
+  "question": "Which of the following best defines isobars?",
+  "option1": "Elements with same atomic number but different mass number",
+  "option2": "Elements with different atomic number but same mass number",
+  "option3": "Elements with different atomic number and different mass number",
+  "option4": "Elements with same atomic number and same mass number",
+  "option5": "",
+  "answer": "Elements with different atomic number but same mass number",
+  "explanation": "Isobars are atoms of different chemical elements that have the same number of nucleons. Correspondingly, isobars differ in atomic number but have the same mass number."
+}

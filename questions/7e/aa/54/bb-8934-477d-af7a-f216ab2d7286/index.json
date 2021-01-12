@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "7eaa54bb-8934-477d-af7a-f216ab2d7286",
+  "labels": "current-affairs,2019-05-31",
+  "question": "What is the name of the hormone produced by thymus gland?",
+  "option1": "Thyroxine",
+  "option2": "Auxins",
+  "option3": "Cytokinins",
+  "option4": "Thymosin",
+  "option5": "",
+  "answer": "Thymosin",
+  "explanation": "Thymosins are small proteins present in many animal tissues. They are named thymosins because they were originally isolated from the thymus, but most are now known to be present in many other tissues."
+}

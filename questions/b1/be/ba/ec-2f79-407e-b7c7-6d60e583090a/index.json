@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-06-18T17:05:33.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "b1bebaec-2f79-407e-b7c7-6d60e583090a",
+  "labels": "current-affairs,2019-06-19",
+  "question": "Which of the following is most similar to a stock broker?",
+  "option1": "Floor broker",
+  "option2": "Futures commission merchant",
+  "option3": "Local",
+  "option4": "Pit trader",
+  "option5": "",
+  "answer": "Futures commission merchant",
+  "explanation": "A futures commission merchant (FCM) is an entity that solicits or accepts orders to buy or sell futures contracts, options on futures, retail off-exchange forex contracts or swaps, and accepts money or other assets from customers to support such orders."
+}

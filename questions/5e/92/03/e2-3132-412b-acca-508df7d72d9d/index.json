@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-05-30T17:17:59.000Z",
+  "updated_at": "2021-01-06T08:24:40.224Z",
+  "id": "5e9203e2-3132-412b-acca-508df7d72d9d",
+  "labels": "current-affairs,2019-05-31",
+  "question": "How does La-Nina affect the Pacific Ocean?",
+  "option1": "Decreases salinity of ocean",
+  "option2": "Cools downs the temperature of water",
+  "option3": "Maintains stable temperature of water",
+  "option4": "Increases salinity of ocean",
+  "option5": "",
+  "answer": "Cools downs the temperature of water",
+  "explanation": "During a La Nina period, the sea surface temperatures across the eastern and central Pacific Ocean tend to be lower than the normal temperatures (between 3-5 degrees Celsius)."
+}
