@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T13:15:04.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "b47880b9-7d8d-44b7-98c0-a355de4dcb42",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Who is authorized to remove a minister of state from office?",
+  "option1": "President",
+  "option2": "Parliament",
+  "option3": "Governor",
+  "option4": "Governor on the advice of Chief Minister",
+  "option5": "",
+  "answer": "Governor on the advice of Chief Minister",
+  "explanation": "The governor of a state can remove a minister only on the advice of the chief minister of the state. The chief minister can ask him to resign or advice the governor to dismiss him, in case of difference of opinion or dissatisfaction with the performance of a minister,"
+}

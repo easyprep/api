@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T19:32:10.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "1fb8b4a3-cbe3-44ec-b0ad-877ab1468636",
+  "labels": "current-affairs,2020-04-22",
+  "question": "Who elects the representatives of union territories in the Rajya Sabha?",
+  "option1": "President",
+  "option2": "Governors",
+  "option3": "Electoral College",
+  "option4": "Members of Lok Sabha",
+  "option5": "",
+  "answer": "Electoral College",
+  "explanation": "An electoral college especially constituted for the purpose of election of Union Territories to the Rajya Sabha indirectly elects the representatives of Union Territories in the Rajya Sabha . This election is also held as per the system of proportional representation and single transferable vote."
+}

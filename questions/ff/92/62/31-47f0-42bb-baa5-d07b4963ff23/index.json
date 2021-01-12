@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:46:38.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "ff926231-47f0-42bb-baa5-d07b4963ff23",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which city, under Smart Cities Mission, has developed a mobile application called ‘Saiyam’, which aims at tracking home-quarantined people?",
+  "option1": "Mumbai",
+  "option2": "Pune",
+  "option3": "Chennai",
+  "option4": "Hyderabad",
+  "option5": "",
+  "answer": "Pune",
+  "explanation": "The Pune Municipal Corporation has developed a mobile application called ‘Saiyam’ under Smart Cities Mission (SCM), which aims at tracking home-quarantined people.\r\nThe application has been developed to ensure the people follow strict quarantine measures by following their locations through GPS technology. All home quarantined citizens are mandated to install the application and based on their movements, the users are classified into three colours namely Red, Yellow and Green."
+}

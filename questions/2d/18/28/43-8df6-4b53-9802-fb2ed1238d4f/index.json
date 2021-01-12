@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T19:32:10.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "2d182843-8df6-4b53-9802-fb2ed1238d4f",
+  "labels": "current-affairs,2020-04-22",
+  "question": "What is the basis for the allocation of seats in the Rajya Sabha?\r\n<ol>\r\n<li>Area of the state</li>\r\n<li>Population</li>\r\n</ol>\r\nSelect the correct option from the codes below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both of them",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The seats in the Rajya Sabha are allotted on the basis of population of the respective states, which is why, the number of representatives vary from state to state. For example, Uttar Pradesh has 31 members and Tripura has only 1 member."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T13:23:18.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "2ed86709-1d12-43d4-8f8f-23d1b6fb50db",
+  "labels": "current-affairs,2020-04-24",
+  "question": "In which of the following states the minimum strength of legislative assembly is fixed at 30?<br />1. Arunachal Pradesh<br />2. Mizoram<br />3. Sikkim<br />4. Goa<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 4",
+  "option3": "Only 1, 3 & 4",
+  "option4": "1, 2 , 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 3 & 4",
+  "explanation": "In the states of Arunachal Pradesh, Sikkim and Goa the Constitution of India has fixed the minimum strength to 30 members in the state legislative assembly. However the strength in legislative assembles can vary from 60 to 500 according to the population of the states."
+}

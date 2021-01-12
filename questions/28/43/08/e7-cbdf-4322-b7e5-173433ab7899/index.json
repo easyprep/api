@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T13:23:19.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "284308e7-cbdf-4322-b7e5-173433ab7899",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which of the following statements are correct with respect to state legislature?<br />1. A minister cannot participate in the proceedings of a House, of which he is not a member.<br />2. A minister, who is not a member of either House, can participate in the proceedings of both the Houses.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Statement 1 is wrong as a minister can participate in the proceedings of a House, of which he is not a member however he is not entitled to vote. Also a minister, who is not a member of either House, can participate in the proceedings of both the Houses of state legislature."
+}

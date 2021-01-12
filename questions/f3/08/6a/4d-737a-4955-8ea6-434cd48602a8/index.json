@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-22T04:34:56.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "f3086a4d-737a-4955-8ea6-434cd48602a8",
+  "labels": "current-affairs,2020-04-23",
+  "question": "RBI has directed all its regulated entities to carry out periodical risk assessment exercise of money laundering (ML) and terrorist financing (TF), under which section of its master directions?",
+  "option1": "Financial Inclusion",
+  "option2": "Know your Customer",
+  "option3": "Foreign Exchange Management",
+  "option4": "Financial Market",
+  "option5": "",
+  "answer": "Know your Customer",
+  "explanation": "The Reserve Bank of India has stipulated all its regulated entities to carry out periodical risk assessment exercise of money laundering (ML) and terrorist financing (TF).\r\nThis notification has been included in the central bank’s Master Directions on Know your Customer (KYC). The regulated entities of RBI include banks, NBFCs, All India Financial institutions and payment system providers. The vulnerabilities should be assessed as per the directions of RBI."
+}

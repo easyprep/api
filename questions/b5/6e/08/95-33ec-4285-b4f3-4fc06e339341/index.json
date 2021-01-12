@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-24T02:03:38.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "b56e0895-33ec-4285-b4f3-4fc06e339341",
+  "labels": "current-affairs,2020-04-25",
+  "question": "Which article mentions about the oath or affirmation by judges of High Courts?",
+  "option1": 216,
+  "option2": 217,
+  "option3": 218,
+  "option4": 219,
+  "option5": "",
+  "answer": 219,
+  "explanation": "Article 219 of the Constitution of India specifically provides that every person who is appointed to be a judge of High Court of a state shall subscribe before the Governor of the concerned State or some other person appointed in that behalf by him, an oath or affirmation before entering upon office."
+}

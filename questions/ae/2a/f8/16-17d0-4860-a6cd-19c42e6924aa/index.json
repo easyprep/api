@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-25T01:45:08.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "ae2af816-17d0-4860-a6cd-19c42e6924aa",
+  "labels": "current-affairs,2020-04-26",
+  "question": "Which of the following are included in the expression ‘district judge’?<br />1. Additional district judge<br />2. Joint district judge<br />3. Sessions judge<br />4. Chief presidency magistrate<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The following are included in the expression ‘district judge’: judge of a city civil court, additional district judge, joint district judge, assistant district judge, chief judge of a small cause court, chief presidency magistrate, additional chief presidency magistrate, sessions judge, additional sessions judge and assistant sessions judge."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T12:58:37.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "ab7c08df-98b8-4c71-b874-65c2e4222591",
+  "labels": "current-affairs,2020-04-24",
+  "question": "What action can the Governor take on a bill sent to him after it is passed by the state legislature?<br />1. Give his assent to the bill<br />2. Withhold his assent to the bill<br />3. Return the bill for reconsideration of the state legislature<br />4. Reserve the bill for the consideration of the President<br />Select the correct code from the options given below:",
+  "option1": "All of the above",
+  "option2": "Only 1 and 4",
+  "option3": "Only 1, 2 and 3",
+  "option4": "Only 3 and 4",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "After a bill is passed by state legislature and is sent to the Governor, he can take following actions:<br />(a) Give his assent to the bill<br />(b) Withhold his assent to the bill<br />(c) Return the bill (if it is not a money bill) for reconsideration of the state legislature<br />(d) Reserve the bill for the consideration of the President"
+}

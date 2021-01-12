@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T19:32:11.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "1a5cf67c-a105-4c4d-8d09-e3f90af74ef7",
+  "labels": "current-affairs,2020-04-22",
+  "question": "What can a President do when a money bill is presented to him?<br />1. Return the bill<br />2. Reject the bill<br />3. Give assent to the bill<br />4. Recommend changes to the bill<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "When a money bill is presented to the president  he may either give his assent to the bill or withhold his assent to the bill.<br />He cannot return the bill for reconsideration of the Houses of the Parliament."
+}

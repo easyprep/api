@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T13:23:18.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "2a81154f-c5de-47ed-921f-7ef24ba23638",
+  "labels": "current-affairs,2020-04-24",
+  "question": "What is the minimum strength of state legislative assembly?",
+  "option1": 40,
+  "option2": 50,
+  "option3": 60,
+  "option4": 70,
+  "option5": "",
+  "answer": 60,
+  "explanation": "The maximum strength of state legislative assembly is fixed at 500 and minimum strength at 60. Therefore the strength of state legislative assembly varies from 60 to 500 depending on the population size of the state."
+}

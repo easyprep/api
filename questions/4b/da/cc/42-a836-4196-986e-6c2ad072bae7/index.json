@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-25T01:45:08.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "4bdacc42-a836-4196-986e-6c2ad072bae7",
+  "labels": "current-affairs,2020-04-26",
+  "question": "Which of the following statements are correct with respect to Lok adalats?<br />1. An award of a Lok Adalat shall be deemed to be a decree of a Civil Court.<br />2. Every award made by a Lok Adalat shall be final and binding on all the parties to the dispute.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "An award of a Lok Adalat is to be taken as a decree of a Civil Court or an order of any other court. Every award made by a Lok Adalat shall be final and binding on all the parties involved in the dispute. No appeal shall lie to any court against the award of the Lok Adalat."
+}

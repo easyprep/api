@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T12:58:37.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "6ef4f04d-af6c-43ac-89ec-088a230dbad7",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which statement about the appointment of the Governor is correct?",
+  "option1": "Governor is not directly elected by the people",
+  "option2": "Governor is not indirectly elected by a specially constituted electoral college",
+  "option3": "Both of them",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Both of them",
+  "explanation": "The governor is neither directly elected by the people nor indirectly elected by a specially constituted electoral college. He/she is appointed by the President by warrant under his hand and seal."
+}

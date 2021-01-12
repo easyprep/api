@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:30:56.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "d7f706c4-1af3-4201-90d0-b0ff384c7e12",
+  "labels": "current-affairs,2020-04-24",
+  "question": "The President can suspend enforcement of Fundamental Rights under which of the following Articles?",
+  "option1": "Article 13",
+  "option2": "Article 359",
+  "option3": "Article 358",
+  "option4": "Article 356",
+  "option5": "",
+  "answer": "Article 359",
+  "explanation": "The right to move any court for the enforcement of Fundamental Rights during National Emergency gets suspended under Article 359. The President is empowered to do so. The Fundamental Rights as such are not suspended, but only their enforcement."
+}

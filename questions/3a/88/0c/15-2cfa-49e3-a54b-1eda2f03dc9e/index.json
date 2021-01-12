@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-25T01:45:09.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "3a880c15-2cfa-49e3-a54b-1eda2f03dc9e",
+  "labels": "current-affairs,2020-04-26",
+  "question": "The family courts are established by state governments in consultation with?",
+  "option1": "Supreme Court",
+  "option2": "Chief Justice of India",
+  "option3": "High Court",
+  "option4": "Cabinet",
+  "option5": "",
+  "answer": "High Court",
+  "explanation": "Family Courts Act, 1984 provides for the establishment of Family Courts by the State Governments in consultation with the High Courts of the respective states. It is obligatory for the State Governments to set up a Family Court in every city or town with a population exceeding 1 million."
+}

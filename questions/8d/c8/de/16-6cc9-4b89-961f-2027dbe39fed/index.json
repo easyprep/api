@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:30:56.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "8dc8de16-6cc9-4b89-961f-2027dbe39fed",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which of the following statements are incorrect with respect to National Emergency?<br />1. A resolution for disapproval of is required to be passed by both the Houses of Parliament<br />2. Resolution for disapproval is to be adopted by a simple majority only<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "A resolution for disapproval of National Emergency is required to be passed by the Lok Sabha only, while for the continuation it needs to be passed by the both Houses of Parliament. Also the resolution for disapproval is to be adopted by a simple majority only, while for continuation it needs to be adopted by a special majority."
+}

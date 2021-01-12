@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:27:12.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "80f05c16-df66-4817-9f40-99f7de83b160",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which of the following list prevails when there is a conflict between the Concurrent List and the State List?",
+  "option1": "Concurrent List",
+  "option2": "State List",
+  "option3": "Union List",
+  "option4": "Residuary List",
+  "option5": "",
+  "answer": "Concurrent List",
+  "explanation": "In case of overlap between the Union List and the State List, the Union List should prevail. In case of overlapping between the Union List and the Concurrent List, the Union List should prevail. Where there is a conflict between the Concurrent List and the State List, it is the former that should prevail."
+}

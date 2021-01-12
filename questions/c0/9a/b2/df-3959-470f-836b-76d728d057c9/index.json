@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-21T19:32:10.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "c09ab2df-3959-470f-836b-76d728d057c9",
+  "labels": "current-affairs,2020-04-22",
+  "question": "What is the minimum quorum required in Lok Sabha to transact any business?",
+  "option1": "2021-01-01T18:30:00.000Z",
+  "option2": "2021-01-04T18:30:00.000Z",
+  "option3": "2021-01-02T18:30:00.000Z",
+  "option4": "2021-01-09T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-01-09T18:30:00.000Z",
+  "explanation": "Quorum is the minimum number of members required to be present in the house before it can transact any business as provided in Article 100(3). The required quorum is 1/10th of the total number of members of the house."
+}

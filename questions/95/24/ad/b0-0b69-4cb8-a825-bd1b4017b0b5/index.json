@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-25T04:45:31.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "9524adb0-0b69-4cb8-a825-bd1b4017b0b5",
+  "labels": "current-affairs,2020-04-26",
+  "question": "<strong>‘mCOVID19’</strong> is a mobile application launched by which Indian state, to enable the truck drivers to transport essential goods to the state?",
+  "option1": "Odisha",
+  "option2": "Mizoram",
+  "option3": "Assam",
+  "option4": "West Bengal",
+  "option5": "",
+  "answer": "Mizoram",
+  "explanation": "The state of Mizoram has launched a mobile application named ‘mCOVID19’, which enables easy transportation of essential goods by the truck drivers to the state from other states.\r\nThe new application will act as the online license or pass for the truck drivers. The drivers of the interstate-vehicles will be screened at the entry point. On registering with the application, they will be generated a license called mPASS. An sms with information about the goods and place, will be sent along with a mPASS id, which will be stored at the entry point."
+}

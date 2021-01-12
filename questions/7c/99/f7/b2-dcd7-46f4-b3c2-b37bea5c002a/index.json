@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:30:56.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "7c99f7b2-dcd7-46f4-b3c2-b37bea5c002a",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which of the following Statements are correct with respect to National Emergency?<br />1. The Centre becomes entitled to give executive directions to a state on ‘any’ matter<br />2. Parliament becomes empowered to make laws on any subject mentioned in the State List<br />3. Prime Minister can modify the constitutional distribution of revenues between the centre and the states<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "While a proclamation of national emergency is in operation, it is the President who can modify the constitutional distribution of revenues between the centre and the states and not Prime Minister. Other two statements are correct."
+}

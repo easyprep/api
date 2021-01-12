@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T12:58:38.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "3d7642be-8d30-49e6-b91a-babb6488ff31",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which of the following Articles deals with the bills reserved by the Governor for consideration of the President?",
+  "option1": 201,
+  "option2": 202,
+  "option3": 203,
+  "option4": 204,
+  "option5": "",
+  "answer": 201,
+  "explanation": "According to Article 201 of the Constitution of India when the governor reserves a bill for the consideration of the President, the President can either give his assent to the bill or withhold his assent to the bill. The Governor will not have any further role in the enactment of the bill. If the bill is returned by the President for the reconsideration of the House or Houses and is passed again, the bill must be presented again for the presidential assent only."
+}

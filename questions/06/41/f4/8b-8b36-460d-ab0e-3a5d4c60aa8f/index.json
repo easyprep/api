@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T13:23:18.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "0641f48b-8b36-460d-ab0e-3a5d4c60aa8f",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Who is authorized to dissolve the state legislative assembly even before the completion of its term?",
+  "option1": "President",
+  "option2": "Prime Minister",
+  "option3": "Parliament",
+  "option4": "Governor",
+  "option5": "",
+  "answer": "Governor",
+  "explanation": "The normal term of state legislative assembly is five years from the date of its first meeting after the general elections. However, the governor of the state is authorised to dissolve the assembly at any time even before the completion of five years to pave the way for fresh elections."
+}

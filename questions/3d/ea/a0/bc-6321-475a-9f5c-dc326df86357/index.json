@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-22T17:54:26.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "3deaa0bc-6321-475a-9f5c-dc326df86357",
+  "labels": "current-affairs,2020-04-23",
+  "question": "Which of the following is correct with respect to power of Judicial Review of Supreme Court?",
+  "option1": "Supreme Court can charge allegations against Prime Minister",
+  "option2": "Supreme Court has final authority over all issues",
+  "option3": "Supreme Court can review the issues decided by High Courts",
+  "option4": "Supreme Court can declare illegal any law of the State",
+  "option5": "",
+  "answer": "Supreme Court can declare illegal any law of the State",
+  "explanation": "The doctrine of Judicial Review states that if any laws are found to be violative of the Constitution of India (ultra-vires), the Supreme Court can declare them illegal, unconstitutional and invalid (null and void)."
+}

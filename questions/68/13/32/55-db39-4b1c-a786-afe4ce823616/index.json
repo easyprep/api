@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:47:24.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "68133255-db39-4b1c-a786-afe4ce823616",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which bank has recently launched voice-banking services on Amazon Alexa and Google Assistant, amid the lock-down due to Covid-19?",
+  "option1": "HDFC Bank",
+  "option2": "State Bank of India",
+  "option3": "ICICI Bank",
+  "option4": "Yes Bank",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "Leading Private sector bank of India, ICICI Bank recently launched voice-banking services to its customers by integrating its AI chatbot iPal with Amazon Alexa and Google Assistant.\r\nThis initiative is aimed at assisting customers avail the banking services amid the nation-wide lockdown due to Covid-19. The customers will have to download the Alexa / Google Assistant and link their ICICI Bank account to it. Queries about their account and products of the bank will be answered by the voice assistant apps."
+}

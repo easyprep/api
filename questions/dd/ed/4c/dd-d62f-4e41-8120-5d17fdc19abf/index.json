@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:30:56.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "dded4cdd-d62f-4e41-8120-5d17fdc19abf",
+  "labels": "current-affairs,2020-04-24",
+  "question": "On which basis the President cannot declare National Emergency?",
+  "option1": "War",
+  "option2": "External attack",
+  "option3": "Threat to internal peace",
+  "option4": "Armed Rebellion",
+  "option5": "",
+  "answer": "Threat to internal peace",
+  "explanation": "The original Constitution mentioned ‘internal disturbance’ as the third ground for the proclamation of a National Emergency, however by the 44th Amendment Act of 1978 the words ‘armed rebellion’ were substituted for ‘internal disturbance’."
+}

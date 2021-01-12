@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T12:58:37.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "ffc482dc-a0e5-4df7-a05c-e5bbcfb5b30c",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Who administers the oath of office to the Governor?",
+  "option1": "President",
+  "option2": "Prime Minister",
+  "option3": "Chief Minister",
+  "option4": "Chief Justice of the state high court",
+  "option5": "",
+  "answer": "Chief Justice of the state high court",
+  "explanation": "The oath of office to the governor is administered by the chief justice of the state high court. In his absence, the senior-most judge of that court available is responsible for administering the oath."
+}

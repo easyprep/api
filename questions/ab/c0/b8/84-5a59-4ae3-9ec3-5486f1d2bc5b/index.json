@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T02:30:56.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "abc0b884-5a59-4ae3-9ec3-5486f1d2bc5b",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Who can revoke National Emergency?",
+  "option1": "President",
+  "option2": "Prime Minister",
+  "option3": "Council of MInisters",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "President",
+  "explanation": "The President is empowered to revoke  proclamation of emergency at any time by a subsequent proclamation. Such a proclamation does not require any parliamentary approval. Also the President must revoke a proclamation if the Lok<br />Sabha passes a resolution disapproving its continuation."
+}

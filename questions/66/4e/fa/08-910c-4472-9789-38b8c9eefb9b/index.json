@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T12:58:37.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "664efa08-910c-4472-9789-38b8c9eefb9b",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which of the following statements are correct regarding the promulgation of ordinances in the state?",
+  "option1": "Governor can promulgate ordinances when the state legislature is not in session",
+  "option2": "Governor can withdraw an ordinance anytime",
+  "option3": "Both of them",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Both of them",
+  "explanation": "An ordinance can be promulgated by the Governor when the state legislature is not in session. However, such an ordinance has to be approved by the state legislature within six weeks from its reassembly. The Governor can also withdraw an ordinance when required."
+}

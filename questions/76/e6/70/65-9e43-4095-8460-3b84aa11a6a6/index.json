@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-22T17:54:25.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "76e67065-9e43-4095-8460-3b84aa11a6a6",
+  "labels": "current-affairs,2020-04-23",
+  "question": "Which of the following is correct with respect to removal of a judge of Supreme Court?",
+  "option1": "He can be removed by the President on the recommendation of the Parliament",
+  "option2": "He can be removed by the President",
+  "option3": "He can be removed by Chief Justice of India",
+  "option4": "He can be removed by the President on the recommendation of Chief Justice of India",
+  "option5": "",
+  "answer": "He can be removed by the President on the recommendation of Chief Justice of India",
+  "explanation": "According to the Article 124(4) of the Constitution a judge of the Supreme Court of India cannot be removed from his office except by an order of the President passed after an address in each House of Parliament supported by a majority of the total membership of that House and by a majority of not less than two-third of the members present and voting."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-22T23:34:26.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "c700a309-7dba-46e2-9d3e-6927c31cd11d",
+  "labels": "current-affairs,2020-04-23",
+  "question": "Arrange the following war into chronological order<br />1. Battle of St. Thomas<br />2. Battle of Wandiwash<br />3. Battle of Ambur<br />Choose the correct option from the codes given below :",
+  "option1": "2003-01-01T18:30:00.000Z",
+  "option2": "2002-01-02T18:30:00.000Z",
+  "option3": "2003-01-31T18:30:00.000Z",
+  "option4": "2002-02-28T18:30:00.000Z",
+  "option5": "",
+  "answer": "2002-01-02T18:30:00.000Z",
+  "explanation": "Battle of St. Thomas- 1746, Battle of Ambur- 1749, Battle of Wandiwash- 1760"
+}

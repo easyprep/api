@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T13:23:18.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "e6b9ccd9-75e7-4748-a4b0-03fa53c9cdc1",
+  "labels": "current-affairs,2020-04-24",
+  "question": "How much majority in the state assembly is required for creation or abolition of legislative council of state?",
+  "option1": "Simple Majority",
+  "option2": "Special Majority",
+  "option3": "Special Majority with ratification from half of the states",
+  "option4": "Absolute Majority",
+  "option5": "",
+  "answer": "Special Majority",
+  "explanation": "The resolution for creation or abolition o legislative council of state must be passed by the state assembly by a special majority, that is, a majority of the total membership of the assembly and a majority of not less than two-thirds of the members of the assembly present and voting."
+}

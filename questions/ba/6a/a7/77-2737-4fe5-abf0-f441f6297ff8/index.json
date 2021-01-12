@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-04-23T13:23:19.000Z",
+  "updated_at": "2021-01-06T08:24:52.543Z",
+  "id": "ba6aa777-2737-4fe5-abf0-f441f6297ff8",
+  "labels": "current-affairs,2020-04-24",
+  "question": "Which of the following are correct regarding lapsing of bills on the dissolution of the assembly?<br />1. A Bill passed by the assembly but pending in the council lapses.<br />2. A Bill pending in the council but not passed by the assembly does not lapse.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both the statements regarding lapsing of bills on the dissolution of the assembly are correct. (1) A Bill passed by the assembly but pending in the council lapses, (2) A Bill pending in the council but not passed by the assembly does not lapse."
+}
