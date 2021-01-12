@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:06:29.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "a5c9ec3e-bf6a-4d2d-b923-136135d3a0e2",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is<strong> not</strong> an igneous rock?",
+  "option1": "Granite",
+  "option2": "Limestone",
+  "option3": "Diorite",
+  "option4": "Gabbro",
+  "option5": "",
+  "answer": "Limestone",
+  "explanation": "Limestone is a sedimentary rock. Igneous rocks include - Granite, Diorite, Gabbro, Andesite, Basalt, etc."
+}

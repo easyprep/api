@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T20:40:32.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "52a095b3-9079-43b6-928f-30b0452c2f76",
+  "labels": "current-affairs,2020-06-12",
+  "question": "Which among the following is an optimum temperature for wheat seed germination?",
+  "option1": "11-15 deg celsius",
+  "option2": "15-25 deg celsius",
+  "option3": "10-12 deg celsius",
+  "option4": "20-22 deg celsius",
+  "option5": "",
+  "answer": "10-12 deg celsius",
+  "explanation": "10-12 deg celsius is the optimum temperature for wheat germination. 25-30 deg celsius is the optimum temperature for crop growth."
+}

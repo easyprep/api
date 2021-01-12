@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:31.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "bdd3717f-db58-462f-82e2-c042835e3b69",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is <strong>not</strong> a characteristic of Primary waves?",
+  "option1": "They are similar to sound waves",
+  "option2": "They are transverse waves",
+  "option3": "They travel through all mediums",
+  "option4": "They are first to reach the surface",
+  "option5": "",
+  "answer": "They are transverse waves",
+  "explanation": "Primary waves ( P - Waves) are the first to reach the surface. <br />They are similar to sound waves and hence they are longitudinal waves - in which particle movement is in the same direction of wave propagation.<br />Secondary waves are transverse waves."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:20:21.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "702d54a1-7785-4167-8ec6-13a5a1e68cda",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following statements is/are <strong>not</strong> correct about weathering and climate?<br />\n<ol>\n<li>Weathering is enhanced with climate</li>\n<li>Low temperature and high rainfall enhances weathering</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Weathering is enhanced by climate. Weathering is enhanced with high temperature and high rainfall."
+}

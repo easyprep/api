@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:20:23.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "ea77ffa0-9b55-4b24-9eb2-25ca17f73ccc",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is/are correctly matched?<br />\n<ol>\n<li>Mechanical weathering - includes exfoliation, solution, frost wedging, salt wedging and temperature changes.</li>\n<li>Chemical weathering - includes  carbonation, hydration, hydrolysis, oxidation and solution.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Mechanical (physical) weathering is the physical disintegration and reduction in the size of the rocks without changing their chemical composition. <br />It includes exfoliation, frost wedging, salt wedging, temperature changes and abrasion<br /><br />Chemical weathering decomposes, dissolves, alters, or weakens the rock through chemical processes to form residual materials.<br />It includes carbonation, hydration, hydrolysis, oxidation and <strong>solution.</strong>"
+}

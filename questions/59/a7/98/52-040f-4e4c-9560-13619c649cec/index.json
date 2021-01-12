@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:04:13.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "59a79852-040f-4e4c-9560-13619c649cec",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following units of the geological time is correctly arranged?",
+  "option1": "Eon, Epoch, Era, Period, Age",
+  "option2": "Eon, Period, Era, Epoch, Age",
+  "option3": "Eon, Era, Period, Epoch, Age",
+  "option4": "Period, Eon, Epoch, Period, Age",
+  "option5": "",
+  "answer": "Eon, Era, Period, Epoch, Age",
+  "explanation": "Eons are divided into eras, which are further sub divided into periods, epochs and ages."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T20:42:52.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "2514b91d-7178-435d-a728-86c89648cf80",
+  "labels": "current-affairs,2020-06-12",
+  "question": "Which activity sees the highest post-harvest losses?",
+  "option1": "Horticulture",
+  "option2": "Rice cultivation",
+  "option3": "Pulses cultivation",
+  "option4": "Oil seeds",
+  "option5": "",
+  "answer": "Horticulture",
+  "explanation": "Horticulture has the highest post-harvest losses among all other activities. In the case of fruits and vegetables (4.6%-15.9% of production), pulses (6.4%-8.4%), and oilseeds (5.3%-9.9%) is seen wasted."
+}

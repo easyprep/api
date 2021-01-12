@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-16T03:56:33.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "775ded8c-baaf-43fc-b62a-7eaa05a562d9",
+  "labels": "current-affairs,2020-06-17",
+  "question": "Which Indian security force has launched a robot named 'Captain Arjun' to perform medical screening?",
+  "option1": "Railway Protection Force",
+  "option2": "Central Industrial Security Force",
+  "option3": "Central Reserve Police Force",
+  "option4": "Border Security Force",
+  "option5": "",
+  "answer": "Railway Protection Force",
+  "explanation": "Railway Protection Force, Pune has launched a robot named 'Captain Arjun', to screen passengers while they board trains.\r\nARJUN stands for Always be Responsible and Just Use to be Nice. It is equipped with a motion sensor, PTZ camera (Pan, Tilt, Zoom Camera) and a Dome Camera. Captain Arjun also does thermal screening and also has a sensor-based sanitizer and mask dispenser. It also has a floor sanitization facility. The robot uses artificial intelligence to track suspicious activity and antisocial activity."
+}

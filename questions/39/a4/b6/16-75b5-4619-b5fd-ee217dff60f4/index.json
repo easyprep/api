@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "39a4b616-75b5-4619-b5fd-ee217dff60f4",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following zones is a moderate seismic zone?",
+  "option1": "Zone II",
+  "option2": "Zone III",
+  "option3": "Zone IV",
+  "option4": "Zone V",
+  "option5": "",
+  "answer": "Zone III",
+  "explanation": "The earthquake zoning map of India divides India into 4 seismic zones <br />Zone II - This is said to be the least active seismic zone. <br />Zone III - It is included in the moderate seismic zone.<br />Zone IV - This is considered to be the high seismic zone. <br />Zone V -It is the highest seismic zone"
+}

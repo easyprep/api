@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:09:34.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "7a0ae31f-7127-4b9e-9f25-523a394cd660",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is <strong>not</strong> a feature of divergent plate boundary?",
+  "option1": "Mid oceanic ridges",
+  "option2": "Faulted mountains",
+  "option3": "Fissure volcanoes",
+  "option4": "Rift valleys",
+  "option5": "",
+  "answer": "Faulted mountains",
+  "explanation": "Faulted Mountains is a feature of continent-continent convergence. Mid-oceanic ridges, Fissure volcanoes and rift valleys are a result of divergent plate boundaries."
+}

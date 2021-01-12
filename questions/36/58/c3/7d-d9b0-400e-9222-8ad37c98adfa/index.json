@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "3658c37d-d9b0-400e-9222-8ad37c98adfa",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following pairs is/are correctly matched?<br />\n<ol>\n<li>Primary waves - Transverse waves</li>\n<li>Secondary waves - Longitudinal waves</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Primary waves are also called as Longitudinal waves.<br />Secondary waves are also called as Transverse waves."
+}

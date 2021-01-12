@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-21T04:22:54.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "29a40651-7c94-4ba2-9fe4-b93e74cdb532",
+  "labels": "current-affairs,2020-06-22",
+  "question": "What is the limit of Foreign Direct Investment (FDI) in pension funds in India, under automatic route?",
+  "option1": 0.26,
+  "option2": 0.49,
+  "option3": 0.75,
+  "option4": 1,
+  "option5": "",
+  "answer": 0.49,
+  "explanation": "The Finance ministry has recently proposed restrictions on pension fund investments from any of India's bordering countries, including China.\r\nForeign Direct investment (FDI) in pension funds, that are regulated by the Pension Fund Regulatory and Development Authority (PFRDA) is fixed at 49 per cent under the automatic route. Till now, government permission is mandatory only for investments coming from Bangladesh and Pakistan. The draft guidelines make government permission mandatory for all bordering countries."
+}

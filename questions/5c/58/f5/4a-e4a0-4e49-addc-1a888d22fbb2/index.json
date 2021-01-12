@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:20:20.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "5c58f54a-e4a0-4e49-addc-1a888d22fbb2",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following statements is/are correct ?<br />\n<ol>\n<li>Mechanical weathering is more pronounced in humid areas</li>\n<li>Chemical weathering is more pronounced in arid and cold regions</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Mechanical weathering is more pronounced in arid and cold regions.<br />Whereas Chemical weathering is a characteristic feature of humid regions."
+}

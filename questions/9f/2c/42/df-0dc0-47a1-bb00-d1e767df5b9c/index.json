@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:06:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "9f2c42df-0dc0-47a1-bb00-d1e767df5b9c",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is <strong>not</strong> an intrusive igneous rock?",
+  "option1": "Basalt",
+  "option2": "Granite",
+  "option3": "Pegmatite",
+  "option4": "Diorite",
+  "option5": "",
+  "answer": "Basalt",
+  "explanation": "Basalt is an extrusive igneous rock. Intrusive igneous rocks include - granite, gabbro, diorite, pegmatite, peridotite, etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T20:40:32.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "8197e05c-c582-4334-92a0-90413fabcd4b",
+  "labels": "current-affairs,2020-06-12",
+  "question": "Which of the following is a type of Gene Modification of seed?<br />1. Mutation of genes<br />2. Insertion of genes<br />3. Deletion of genes<br />Choose the correct option from codes given below:",
+  "option1": "1,2 and 3",
+  "option2": "1 and 2 only",
+  "option3": "2 only",
+  "option4": "1 and 3 only",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "GM crops are the Genetically modified crops that involve mutation, insertion, and deletion of Genes. Genetic material(DNA) in the original seed is altered or artificially introduced using genetic engineering techniques."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:26:49.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "738b57ea-31c4-4561-acaa-52b9a7628162",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which of the following is correct about drip irrigation?<br />1. It is a micro-irrigation system<br />2. water is directly applied to roots<br />3. It reduces leaching<br />4. Field leveling is not necessary<br />Choose the correct option from the code given below:",
+  "option1": "1,2 and 4 only",
+  "option2": "1,2 and 3 only",
+  "option3": "1,2 ,3 and 4",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1,2 ,3 and 4",
+  "explanation": "Drip irrigation is a micro-irrigation technique. It is applied near the roots directly and leaching is reduced. Fertilizer and nutrient loss is reduced."
+}

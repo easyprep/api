@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T03:54:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "541126bd-5828-4e35-9f00-dfb5199edc3c",
+  "labels": "current-affairs,2020-06-12",
+  "question": "Which country has launched plasma exchange network for COVID 19 treatment?",
+  "option1": "South Korea",
+  "option2": "United Kingdom",
+  "option3": "Bangladesh",
+  "option4": "Vietnam",
+  "option5": "",
+  "answer": "Bangladesh",
+  "explanation": "Bangladesh has recently launched an online network to facilitate plasma exchange named ‘Shohojodha’.\r\nThis enables an exchange between the recovered patients of COVID 19 and those undergoing treatment for Covid-19. However, the plasma therapy for treating Coronavirus patients in Bangladesh is under trial process and is awaiting final approval from the government."
+}

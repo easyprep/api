@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T03:52:00.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "ef9304b0-fe0c-41c8-bf14-ca3bc042344b",
+  "labels": "current-affairs,2020-06-12",
+  "question": "Which technology company has dropped facial recognition software amid racial profiling concerns?",
+  "option1": "Google",
+  "option2": "IBM",
+  "option3": "Microsoft",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "IBM",
+  "explanation": "Major technology company IBM has dropped facial recognition software amid racial profiling concerns.\r\nThe Chief Executive Officer Arvind Krishna has notified the US Congress that IBM is not offering its the general-purpose facial recognition or analysis software any more. It also firmly opposes the technology that is used for mass surveillance, racial profiling and violations of basic human rights."
+}

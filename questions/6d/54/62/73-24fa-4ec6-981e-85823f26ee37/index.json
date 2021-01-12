@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:14:23.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "6d546273-24fa-4ec6-981e-85823f26ee37",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is <strong>not</strong> a composite volcano?",
+  "option1": "Mt. Rainier",
+  "option2": "Mt. Fuji",
+  "option3": "Hawaiian Volcano",
+  "option4": "Mayon Volcano",
+  "option5": "",
+  "answer": "Hawaiian Volcano",
+  "explanation": "Hawaiian Volcano is an example of Shield volcano. Composite volcanoes include Mt. Fuji, Mayon Volcano, Mt. Rainier and volcanoes in the Pacific Rim."
+}

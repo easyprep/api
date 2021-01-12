@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-18T04:47:46.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "8b392efa-90f0-4a0c-b1d4-fdf1c9db71a6",
+  "labels": "current-affairs,2020-06-19",
+  "question": "Which generic steroid drug has been found to reduce deaths by a third for patients affected by COVID-19?",
+  "option1": "Dexamethasone",
+  "option2": "Aspirin",
+  "option3": "Indomethacin",
+  "option4": "Naproxen",
+  "option5": "",
+  "answer": "Dexamethasone",
+  "explanation": "Scientists in UK have claimed that the generic steroid drug dexamethasone has reduced deaths by up to one third in severely ill hospitalised patients, affected by COVID-19.\r\nThis result is a part of one of the world’s largest randomised trial of drugs to treat COVID-19 patients, that also showed hydroxychloroquine was not working against the coronavirus. The drug is shown to cut the risk of death by a third for patients on ventilators and a fifth for those on oxygen. However, World Health Organisation said that the drug is reserved for severely ill and critical patients."
+}

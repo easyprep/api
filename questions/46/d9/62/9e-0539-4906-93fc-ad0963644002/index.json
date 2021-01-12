@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "46d9629e-0539-4906-93fc-ad0963644002",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following statements is/are correct ?<br />\n<ol>\n<li>The Richter scale measures the intensity of the earthquake.</li>\n<li>The Mercalli scale measures the magnitude of the earthquake.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "The Richter scale measures the magnitude of the earthquake.<br />The Mercalli scale measures the intensity of the earthquake."
+}

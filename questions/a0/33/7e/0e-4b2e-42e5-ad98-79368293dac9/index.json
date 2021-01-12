@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:31.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "a0337e0e-4b2e-42e5-ad98-79368293dac9",
+  "labels": "current-affairs,2020-06-18",
+  "question": "On which scale is the energy released during an earthquake is expressed in absolute numbers of 0-10?",
+  "option1": "Richter scale",
+  "option2": "Mercalli scale",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Richter scale",
+  "explanation": "The Richter scale is used to measure the magnitude of the earthquake. On the Richter scale the energy released during an earthquake is expressed in absolute numbers of 0-10."
+}

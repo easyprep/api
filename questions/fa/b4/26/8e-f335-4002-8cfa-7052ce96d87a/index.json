@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T20:40:31.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "fab4268e-f335-4002-8cfa-7052ce96d87a",
+  "labels": "current-affairs,2020-06-12",
+  "question": "From which species can a transgene introduced into the parent gene for a GM crop?",
+  "option1": "Plant to plant",
+  "option2": "Animal to plant",
+  "option3": "Micro organism to plant",
+  "option4": "All the above",
+  "option5": "",
+  "answer": "All the above",
+  "explanation": "In a GM crop during genetic modification of a plant, a foreign gene called “transgene” is inserted in the plant’s own genes. This could be introduced from one plant to another plant, from a plant to an animal, or from a microorganism to a plant."
+}

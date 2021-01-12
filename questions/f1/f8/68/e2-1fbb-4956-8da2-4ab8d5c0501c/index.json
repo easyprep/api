@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:06:29.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "f1f868e2-1fbb-4956-8da2-4ab8d5c0501c",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following statements about igneous rocks is <strong>not</strong> correct?",
+  "option1": "Igneous rocks cooled deep inside the earth are called as intrusive rocks",
+  "option2": "Igneous rocks in which the magma flows out and cools on the earth's surface are called as extrusive rocks",
+  "option3": "Intrusive rocks have small crystals",
+  "option4": "Basalt is an example of extrusive igneous rock",
+  "option5": "",
+  "answer": "Intrusive rocks have small crystals",
+  "explanation": "Intrusive igneous rocks are rocks formed when magma cools inside the earth's crust. They cool quite slowly and hence they have large crystals."
+}

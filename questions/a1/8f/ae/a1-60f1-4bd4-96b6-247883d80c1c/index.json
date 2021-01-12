@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:32.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "a18faea1-60f1-4bd4-96b6-247883d80c1c",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which is the largest Earthquake measured on the seismograph?",
+  "option1": "The Good Friday Earthquake",
+  "option2": "Shaanxi Earthquake",
+  "option3": "Tangshan Earthquake",
+  "option4": "Chilean Earthquake",
+  "option5": "",
+  "answer": "Chilean Earthquake",
+  "explanation": "The Chilean Earthquake of 1960 resulting from a magnitude 9.5 on the seismograph is the largest Earthquake."
+}

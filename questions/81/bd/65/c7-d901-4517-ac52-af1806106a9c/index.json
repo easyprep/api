@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "81bd65c7-d901-4517-ac52-af1806106a9c",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which seismic wave moves the material in a circular motion?",
+  "option1": "Longitudinal wave",
+  "option2": "Transverse wave",
+  "option3": "Raleigh wave",
+  "option4": "Love wave",
+  "option5": "",
+  "answer": "Raleigh wave",
+  "explanation": "Raleigh waves are slower an moves the particle in a circular motion just like ocean waves."
+}

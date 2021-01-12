@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:32.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "6be81c02-d311-41a7-a355-74710342feb2",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following scales is <strong>not</strong> related to the measurement of Earthquake?",
+  "option1": "Mercalli scale",
+  "option2": "Richter scale",
+  "option3": "Beaufort scale",
+  "option4": "Rossi-Forel scale",
+  "option5": "",
+  "answer": "Beaufort scale",
+  "explanation": "Beaufort scale is used to measure the wind speed. <br />Scales related to the measurement of earthquake:<br />Mercalli scale<br />Richter scale<br />Rossi-Forel scale"
+}

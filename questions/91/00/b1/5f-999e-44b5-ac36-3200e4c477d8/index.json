@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-12T20:49:55.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "9100b15f-999e-44b5-ac36-3200e4c477d8",
+  "labels": "current-affairs,2020-06-13",
+  "question": "Which of the factors determine the cropping pattern?<br />1. Rainfall<br />2. Climate<br />3. Temperature<br />4. Soil type<br />Choose the correct option from the codes given below:",
+  "option1": "1 ,2 and 4 only",
+  "option2": "1 ,2 and 3 only",
+  "option3": "2 ,3 and 4 only",
+  "option4": "1 ,2, 3 and 4 only",
+  "option5": "",
+  "answer": "1 ,2, 3 and 4 only",
+  "explanation": "In India, the cropping pattern is determined by factors like rainfall, climate, temperature, soil type, technology and socio-economic conditions of the farmers living in that area."
+}

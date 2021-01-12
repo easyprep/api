@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:31.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "712e111b-09d3-4033-9afa-a8fc29fe48b3",
+  "labels": "current-affairs,2020-06-18",
+  "question": "On which instrument are the earthquake waves recorded?",
+  "option1": "Barometer",
+  "option2": "Seismograph",
+  "option3": "Ammeter",
+  "option4": "Anemometer",
+  "option5": "",
+  "answer": "Seismograph",
+  "explanation": "Seismic waves are recorded on the Seismograph. Seismic waves are mainly 3 types: Primary waves ; Secondary waves and Surface or long waves."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:31.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "91c19407-3133-48a9-82f5-74ad6105827f",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is <strong>not</strong> a cause of earthquake?",
+  "option1": "Tsunami",
+  "option2": "Fault zone",
+  "option3": "Plate tectonics",
+  "option4": "Volcanic activity",
+  "option5": "",
+  "answer": "Tsunami",
+  "explanation": "Causes of earthquake include:<br />Fault Zones<br />Plate tectonics<br />Volcanic activity<br />Tsunamis are an effect of the earthquake and not a cause."
+}

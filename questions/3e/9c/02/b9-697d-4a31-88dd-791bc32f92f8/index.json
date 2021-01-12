@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:20:24.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "3e9c02b9-697d-4a31-88dd-791bc32f92f8",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following processes and the forces involved is/are correctly matched?<br />\n<ol>\n<li>Weathering - Gravitational/Molecular/Chemical action</li>\n<li>Mass movements - Gravitational force</li>\n<li>Erosion/Transportation - Kinetic energy</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "Only 1",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All the exogenic processes are covered under denudation.<br />Weathering - Gravitational, Molecular stress, Chemical actions<br />Mass movements - Gravitational force<br />Erosion/ Transportation - Kinetic Energy"
+}

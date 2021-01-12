@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T20:42:52.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "5d88d108-fea1-4f9a-b39b-bd48b336568a",
+  "labels": "current-affairs,2020-06-12",
+  "question": "Consider the following organisms<br />1. Agaricus<br />2. Nostoc<br />3. Spirogyra<br />4. Azospirillium<br /><br />Which of the above is/are used as biofertilizer/biofertilizers?",
+  "option1": "1 and 2 only",
+  "option2": "3 and 4 only",
+  "option3": "2 and 4 only",
+  "option4": "1,2 and 3 only",
+  "option5": "",
+  "answer": "2 and 4 only",
+  "explanation": "Nostoc and Azospirillium are the organisms that are used as bio fertilizers. Nostoc is a blue green algae while Azospirillium is aerobic free-living nitrogen fixers which live in associative symbiosis."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-20T05:45:31.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "2f8a2827-2883-4e5a-a3b5-a9ea15f5be08",
+  "labels": "current-affairs,2020-06-21",
+  "question": "Quantum communications satellite -<strong>Micius</strong>, that was seen in news recently, was launched by which country?",
+  "option1": "United States",
+  "option2": "China",
+  "option3": "Russia",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The World’s first Quantum communications satellite, Micius was launched by China in the year 2016. It has pioneered in the field of quantum encryption.\r\nThe satellite was seen in news recently, as it sends particles of light to Earth to establish the world’s most secure communication link. This is considered to be a milestone in the research, as long-range secure communication can be obtained without the help of traditional communication satellites. Secure long-distance links such will be the foundation of the future global network called the quantum internet."
+}

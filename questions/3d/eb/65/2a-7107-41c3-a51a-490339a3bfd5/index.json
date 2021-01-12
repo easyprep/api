@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-22T00:02:07.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "3deb652a-7107-41c3-a51a-490339a3bfd5",
+  "labels": "current-affairs,2020-06-23",
+  "question": "Which of the following services are under the Integrated Child development scheme?<br />1. Immunization<br />2. Health Checkup<br />3. Referral services<br />4. Supplementary nutrition<br />Choose the correct option from the codes given below:",
+  "option1": "1 and 2 only",
+  "option2": "2 and 3 only",
+  "option3": "1,2 and 4 only",
+  "option4": "1,2,3 and 4",
+  "option5": "",
+  "answer": "1,2,3 and 4",
+  "explanation": "The following services are sponsored under ICDS to help achieve its objectives<br />1. Immunization<br />2. Supplementary nutrition<br />3. Health checkup<br />4. Referral services<br />5. Pre-school education(Non-Formal)<br />6. Nutrition and Health information"
+}

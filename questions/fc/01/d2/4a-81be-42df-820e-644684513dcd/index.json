@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:11:19.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "fc01d24a-81be-42df-820e-644684513dcd",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following options is<strong> not</strong> correct about the Earth's layer and its thickness?",
+  "option1": "Crust - 0 to 50 km",
+  "option2": "Inner core - 2800 to 6371 km",
+  "option3": "Outer core - 2900 to 5100 km",
+  "option4": "Mantle - 50 to 2900 km",
+  "option5": "",
+  "answer": "Inner core - 2800 to 6371 km",
+  "explanation": "Crust - 0 to 50km<br />mantle - 50 to 2900 km<br />Outer core - 2900 to 5100 km <br />Inner core - 5100 to 6371 km"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:11:17.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "5c7678a5-1081-47c7-adde-c912215fead3",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following statements is/are correct?<br />\n<ol>\n<li>The outer core is in liquid state</li>\n<li>The inner core is in solid state</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The outer core comprises of melted metals of nickel and iron. It is in liquid state. The inner core has high temperature and pressure, so that all the metals are squeezed together. the inner core is in solid state."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:31.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "1b6374f7-2aff-46a1-9f15-943357c5f909",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which earthquakes are also called as 'crustal earthquakes'?",
+  "option1": "Shallow focus earthquakes",
+  "option2": "Deep focus earthquakes",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Shallow focus earthquakes",
+  "explanation": "Most of the earthquakes have shallow focus. Hence they are also called as crustal earthquakes. They occur quite frequently and at random."
+}

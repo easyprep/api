@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:26:49.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "1c2c26e6-587d-4251-84a0-1f6fc4429220",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which irrigation is the most efficient among the following?",
+  "option1": "Well Irrigation",
+  "option2": "Drip Irrigation",
+  "option3": "Sprinkler Irrigation",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Drip Irrigation",
+  "explanation": "Drip is the most efficient system. In drip irrigation, water is applied near the plant root through emitters or drippers, on or below the soil surface, at a low rate varying from 2-20 liters per hour. The soil moisture is kept at an optimum level with frequent irrigations."
+}

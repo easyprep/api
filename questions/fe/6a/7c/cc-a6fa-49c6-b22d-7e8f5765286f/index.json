@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:36:53.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "fe6a7ccc-a6fa-49c6-b22d-7e8f5765286f",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following statements is/are correctly matched?<br />\n<ol>\n<li>Landforms of first order - Mountains, plateaus, etc</li>\n<li>Landfroms of second order - Ocean basins and continents</li>\n<li>Landforms of third order - river valley, sand dune, flood plain, etc</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "Only 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Landforms of first order - oceans and continents<br />Landforms of second order - mountains, plateaus, continental slopes, etc."
+}

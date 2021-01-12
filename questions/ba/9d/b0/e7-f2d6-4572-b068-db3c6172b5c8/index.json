@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:11:19.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "ba9db0e7-f2d6-4572-b068-db3c6172b5c8",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following waves are surface waves?",
+  "option1": "P-Waves",
+  "option2": "S-Waves",
+  "option3": "L-Waves",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "L-Waves",
+  "explanation": "The L-Waves originate from the P waves and S waves. They are called Surface Waves because they can be observed only on the surface of the earth."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-13T04:44:49.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "d9f76102-8023-4266-9843-0a4b39a617d9",
+  "labels": "current-affairs,2020-06-14",
+  "question": "Which technology company has banned Police from using its facial recognition software “Rekognition”?",
+  "option1": "Google",
+  "option2": "Amazon",
+  "option3": "IBM",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Amazon",
+  "explanation": "Technology Major Amazon banned Police from using its facial recognition software “Rekognition”, for a year, amid the nation-wide protests in the United States.\r\nThe use of facial recognition systems has faced criticism for incorrectly identifying people with darker skin. Though law enforcement agencies use facial recognition only to identify suspects, the critics say it can be misused. Earlier, IBM revoked its facial recognition software. Microsoft also joined the companies in banning Police use its recognition software."
+}

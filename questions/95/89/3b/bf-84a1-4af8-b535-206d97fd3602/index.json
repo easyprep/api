@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:06:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "95893bbf-84a1-4af8-b535-206d97fd3602",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is <strong>not</strong> a foliated metamorphic rock?",
+  "option1": "Gneiss",
+  "option2": "Phyllite",
+  "option3": "Schist",
+  "option4": "Quartzite",
+  "option5": "",
+  "answer": "Quartzite",
+  "explanation": "Metamorphic rocks are classified into Foliated - gneiss, phyllite, schist and slate<br />Non-Foliated - Quartzite, Marble"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:26:49.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "9f36bb0a-63f9-4104-a978-bd67afd697cf",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which of the following is not an irrigation type?",
+  "option1": "Well",
+  "option2": "Tank",
+  "option3": "Link",
+  "option4": "Canal",
+  "option5": "",
+  "answer": "Link",
+  "explanation": "The main types of irrigation are:<br />1. Surface<br />2. Tank<br />3. Drip<br />4. Well<br />5.Canal<br />6. Sprinkler"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:12:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "4d8f72d6-21d0-4ef9-8ce0-dc77893c75f2",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which scale estimates the amount of energy released at the source of the earthquake?",
+  "option1": "Richter scale",
+  "option2": "Mercali scale",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Richter scale",
+  "explanation": "The Richter Magnitude scale estimates the amount of energy released at the source of the earthquake. The Richter Magnitude concept was introduced by Charles Richter in 1935."
+}

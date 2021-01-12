@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T20:42:52.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "8f91fd3f-278d-428f-bc16-60b92ef46f71",
+  "labels": "current-affairs,2020-06-12",
+  "question": "Which among the following is not a bio input?",
+  "option1": "Vermi compost",
+  "option2": "Urea",
+  "option3": "Azobacter",
+  "option4": "Clostridium",
+  "option5": "",
+  "answer": "Urea",
+  "explanation": "Biofertilizers are substances that contain microorganisms, which when added to the soil increase its fertility and promote plant growth. Urea is not a biofertilizer."
+}

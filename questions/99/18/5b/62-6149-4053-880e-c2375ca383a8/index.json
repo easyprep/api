@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:11:19.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "99185b62-6149-4053-880e-c2375ca383a8",
+  "labels": "current-affairs,2020-06-09",
+  "question": "On which of the following does the seismic wave velocity depend?",
+  "option1": "Density of the rock",
+  "option2": "Elasticity of the rock",
+  "option3": "Shape of the rock",
+  "option4": "Both 1 and 2",
+  "option5": "",
+  "answer": "Both 1 and 2",
+  "explanation": "Seismic wave velocity depends on the density and the elasticity of the rock. Seismic waves travel faster in denser elastic rocks."
+}

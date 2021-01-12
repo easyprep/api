@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:20:22.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "98016ef7-6123-4346-b21c-88ff38767539",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following statements is/are correct about the Angle of Repose?<br />\n<ol>\n<li> If the actual slope angle is more than the angle of repose, the slope is stable.</li>\n<li> If the actual slope angle is greater than the angle of repose, mass movement can occur.</li>\n<li>The angle of repose changes as slope conditions changes.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Angle of Repose is the maximum angle at which slope material can be inclined without moving downslope. It is a critical value for stability for a particular slope. If the actual slope angle is<strong> less</strong> than the angle of repose, the slope is stable."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:11:18.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "1b07c295-2e12-4109-a591-75c2ec14ac2f",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which among the following statements is/ are correct?<br />\n<ol>\n<li>The Lithosphere is about 75 km thick beneath the ocean</li>\n<li>The Lithosphere is about 50 km thick under the continents</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The Lithosphere comprises of the crust and the uppermost mantle. It is 75 km thick beneath the ocean and 125 km under the continents."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-11T20:42:51.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "ce48cb24-72a4-4b8c-9d88-257ffaa67d1e",
+  "labels": "current-affairs,2020-06-12",
+  "question": "How much phosphatic fertilizer need is met by the domestic production?",
+  "option1": 0.7,
+  "option2": 0.5,
+  "option3": 0.4,
+  "option4": 0.6,
+  "option5": "",
+  "answer": 0.5,
+  "explanation": "The fertilizer industry in India has the capacity to indigenously meet 50 % of the country’s phosphatic fertilizers. But India still depends heavily on imports for the raw ingredients for its phosphatic and potassium fertilizers."
+}

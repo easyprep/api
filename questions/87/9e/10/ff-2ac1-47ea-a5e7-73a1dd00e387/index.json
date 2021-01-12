@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-08T20:26:49.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "879e10ff-2ac1-47ea-a5e7-73a1dd00e387",
+  "labels": "current-affairs,2020-06-09",
+  "question": "Which Irrigation system cannot be used for growing Paddy?",
+  "option1": "Sprinkler",
+  "option2": "Canal",
+  "option3": "Tank",
+  "option4": "Well",
+  "option5": "",
+  "answer": "Sprinkler",
+  "explanation": "Sprinkler irrigation is spraying of water in the air which is not sufficient for the growth of paddy. Paddy needs flooding in the area."
+}

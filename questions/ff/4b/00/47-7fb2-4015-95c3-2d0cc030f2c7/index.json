@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-06-17T22:06:30.000Z",
+  "updated_at": "2021-01-06T08:24:56.759Z",
+  "id": "ff4b0047-7fb2-4015-95c3-2d0cc030f2c7",
+  "labels": "current-affairs,2020-06-18",
+  "question": "Which among the following is <strong>not</strong> an example of Acidic Rock?",
+  "option1": "Granite",
+  "option2": "Quartz",
+  "option3": "Basalt",
+  "option4": "Feldspar",
+  "option5": "",
+  "answer": "Basalt",
+  "explanation": "Basalt is a basic igneous rock. Acidic rocks have a high content of silica. Eg. Granite, Quartz and Feldspar."
+}
