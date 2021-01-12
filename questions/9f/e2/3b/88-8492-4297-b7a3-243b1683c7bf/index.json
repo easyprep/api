@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T15:10:55.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "9fe23b88-8492-4297-b7a3-243b1683c7bf",
+  "labels": "current-affairs,2019-10-11",
+  "question": "In which one of the following crops international trade is low in the context of total produce?",
+  "option1": "Rice",
+  "option2": "Coffee",
+  "option3": "Rubber",
+  "option4": "Wheat",
+  "option5": "",
+  "answer": "Rice",
+  "explanation": "Rice is mostly eaten in the same country where it is produced, so trade in rice is small, both in absolute terms and as a proportion of global production. With an average of 27 million tonnes, the size of the international rice market is only one quarter of that in wheat and little over one third of trade in maize."
+}

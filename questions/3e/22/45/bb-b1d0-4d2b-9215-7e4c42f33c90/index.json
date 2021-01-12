@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-21T14:45:38.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "3e2245bb-b1d0-4d2b-9215-7e4c42f33c90",
+  "labels": "current-affairs,2019-09-22",
+  "question": "The value of a vote of a member of the Parliament for the election of the President of India is determined by dividing  which of the following options?",
+  "option1": "Nation’s population as per the latest census by the number of Lok Sabha members.",
+  "option2": "Population as per the latest census by the total strength of the two Houses of the Parliament.",
+  "option3": "The total value of votes of the members of all the State Legislative Assemblies by the elected members of the two Houses of the Parliament.",
+  "option4": "Particular State’s population as per the latest census by the number of members of Parliament elected from that State.",
+  "option5": "",
+  "answer": "Particular State’s population as per the latest census by the number of members of Parliament elected from that State.",
+  "explanation": "The election to the President of India is an indirect election. Citizens do not elect the President directly. He is elected by MPs &amp; MLAs who are in turn elected by people. The election process is based on the concept of Single Transferrable Vote (STV) and the value of vote of MPs &amp; MLAs is different. The value of a MLA vote from one state differs from the value of the MLA vote of another state. The value of votes of electors (voters) is basically determined on the basis of population of the States by the number of members of Parliament elected from that State."
+}

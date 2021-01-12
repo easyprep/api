@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T16:38:08.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "39a5d098-7c9a-45bf-8038-7190223256c2",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Which of the following come under Non-plan expenditure?<br />I. Subsidies<br />II. Interest payments<br />III. Defence expenditure<br />IV. Maintenance expenditure for the infrastructure created in the previous plans<br />Choose the correct answer using the codes given below: <br />Codes:",
+  "option1": "I and II",
+  "option2": "I and III",
+  "option3": "II and IV",
+  "option4": "I, II, III and IV",
+  "option5": "",
+  "answer": "I, II, III and IV",
+  "explanation": "There are two components of expenditure - plan and non-plan.<br />Of these, plan expenditures are estimated after discussions between each of the ministries concerned and the Planning Commission.<br />Non-plan revenue expenditure is accounted for by interest payments, subsidies (mainly on food and fertilizers), wage and salary payments to government employees, grants to States and Union Territories governments, pensions, police, economic services in various sectors, other general services such as tax collection, social services, and grants to foreign governments.<br />Non-plan capital expenditure mainly includes defense, loans to public enterprises, loans to States, Union Territories and foreign governments."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T17:14:42.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "af1b5373-733d-473d-aabe-fd9b71f7d2e4",
+  "labels": "current-affairs,2019-09-28",
+  "question": "Which one of the following statements regarding the “veto” power in the Security Council is correct according to the United Nations Charter?",
+  "option1": "The decisions of the Security Council on all non-procedural matters must be made by an affirmative vote of nine members, including the concurring, votes of the permanent members of the Council",
+  "option2": "Every permanent member of the Security Council can prevent any decision from being accepted, by vetoing it",
+  "option3": "The term veto was used in Article 27 of the United Nations Charter to enable any permanent member of the Security Council to prevent any resolution from being passed by the majority",
+  "option4": "Any member of the Security Council can prevent any resolution from being passed by voting against it",
+  "option5": "",
+  "answer": "Every permanent member of the Security Council can prevent any decision from being accepted, by vetoing it",
+  "explanation": "The veto power originates in Article 27 of the United Nations Charter, which states: Each member of the Security Council shall have a vote. Decisions of the Security Council on procedural matters shall be made by an affirmative vote of five members."
+}

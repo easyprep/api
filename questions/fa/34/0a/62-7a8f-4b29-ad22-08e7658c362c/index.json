@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T22:21:46.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "fa340a62-7a8f-4b29-ad22-08e7658c362c",
+  "labels": "current-affairs,2019-10-11",
+  "question": "The 2019 Nobel prize in Physiology or Medicine has been awarded for discovery in which field?",
+  "option1": "Cellular Respiration",
+  "option2": "Cancer therapy",
+  "option3": "Circadian rhythm",
+  "option4": "Autophagy",
+  "option5": "",
+  "answer": "Cellular Respiration",
+  "explanation": "The Nobel Prize in Physiology or Medicine 2019 was awarded jointly to William G. Kaelin Jr, Sir Peter J. Ratcliffe and Gregg L. Semenza \\\"for their discoveries of how cells sense and adapt to oxygen availability\\\". The discoveries made by these scientists have fundamental importance for physiology and have paved the way for promising new strategies to fight anemia, cancer and many other diseases."
+}

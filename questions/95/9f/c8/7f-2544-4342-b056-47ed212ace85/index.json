@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T20:34:53.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "959fc87f-2544-4342-b056-47ed212ace85",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Which of the following I used to measure inflation in India?",
+  "option1": "Wholesale Price Index Number",
+  "option2": "Consumers Price Index for urban non-manual workers",
+  "option3": "Consumers Price Index for agricultural workers",
+  "option4": "National Income deflation",
+  "option5": "",
+  "answer": "Wholesale Price Index Number",
+  "explanation": "The Wholesale Price Index (WPI) was main index for measurement of inflation in India till April 2014 when RBI adopted new Consumer Price Index (CPI) (combined) as the key measure of inflation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T16:38:16.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "4ed57055-aa0a-4166-91a0-f32103b95fb4",
+  "labels": "current-affairs,2019-10-12",
+  "question": "Which of the following professional (s) are more likely to run the risk of a permanent change in their cell’s DNA?<br />I. Researchers using carbon-14 isotope<br />II. X-ray technician<br />III. Coal miner<br />IV. Dyer and Painter<br />Select the correct answer by using the codes given below:",
+  "option1": "II alone",
+  "option2": "I, II and III",
+  "option3": "I, II and IV",
+  "option4": "I, III and IV",
+  "option5": "",
+  "answer": "II alone",
+  "explanation": "X–Ray technique, C14 and Dyer technique is very important technique for permanent change in DNA. But in coal miner, C14 amount is very less. So, there is no risk of change in DNA."
+}

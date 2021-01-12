@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T17:10:34.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "b29c1ef1-aeb9-4cb6-822e-7bb8fd9ad54c",
+  "labels": "current-affairs,2019-10-14",
+  "question": "What is the reason behind the tail of a comet is directed away from the sun?",
+  "option1": "as the comet rotates around the sun, the lighter mass of the comet is pushed away due to the centrifugal force alone",
+  "option2": "as the comet rotates, the lighter mass of the comet is attracted by some star situated in the direction of its tail",
+  "option3": "the radiation emitted by the sun exerts a radial pressure on the comet throwing its tail away from the sun",
+  "option4": "the tail of the comet always exists in the same orientation",
+  "option5": "",
+  "answer": "the radiation emitted by the sun exerts a radial pressure on the comet throwing its tail away from the sun",
+  "explanation": "The streams of dust and gas thus released from a huge, extremely tenuous atmosphere around the comet called the coma, and the force exerted on the coma by the Sun\\'s radiation pressure and solar wind cause an enormous tail to form, which points away from the Sun."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T16:09:04.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "eeab514d-7e45-4786-b7b1-69683e8b2497",
+  "labels": "current-affairs,2019-09-24",
+  "question": "Which one of the following plants can fix nitrogen from air?",
+  "option1": "Rice",
+  "option2": "Wheat",
+  "option3": "Pea",
+  "option4": "Maize",
+  "option5": "",
+  "answer": "Pea",
+  "explanation": "Nitrogen fixing plants don\\'t pull nitrogen from the air on their own. They actually need help from a common bacteria called Rhizobium. The bacteria infect legume plants such as peas and beans and use the plant to help it draw nitrogen from the air."
+}

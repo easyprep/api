@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T16:02:36.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "250100f7-2088-4e0d-a58c-ad86933f1d8d",
+  "labels": "current-affairs,2019-10-12",
+  "question": "Physico-chemical characteristics of water in water sources undergo changes due to which of the following processes?",
+  "option1": "Aquatic macrophytes",
+  "option2": "aquatic fungi",
+  "option3": "effluents",
+  "option4": "evapotranspiration",
+  "option5": "",
+  "answer": "effluents",
+  "explanation": "Aquatic macrophytes, aquatic fungi are natural organism and evapotranspiration is a natural process by which plant losses water. Thus being natural they do not results into any change in physico-chemical characteristics of water while effluents discharged into water bodies by industrial units and domestic sewage results in to change in physico-chemical characteristics like pH, conductivity, temperature, electrical conductivity, dissolved oxygen, biochemical  oxygen demand, chemical oxygen demand, NH4+ and  NO3- ion contents etc."
+}

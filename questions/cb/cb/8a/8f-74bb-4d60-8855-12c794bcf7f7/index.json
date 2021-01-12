@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T16:47:35.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "cbcb8a8f-74bb-4d60-8855-12c794bcf7f7",
+  "labels": "current-affairs,2019-09-25",
+  "question": "Which of the following clearly define a deflator?",
+  "option1": "Adjusting for changes in price level",
+  "option2": "Adjusting for change in commodity",
+  "option3": "Accounting for decline of-GNP",
+  "option4": "Accounting for higher increase of GNP",
+  "option5": "",
+  "answer": "Adjusting for changes in price level",
+  "explanation": "In statistics, a deflator is a value that allows data to be measured over time in terms of some base period, usually through a price index, in order to distinguish between changes in the money value of a gross national product (GNP) that come from a change in prices, and changes from a change in physical output."
+}

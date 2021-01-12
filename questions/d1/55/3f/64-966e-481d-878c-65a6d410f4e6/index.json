@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T20:49:15.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "d1553f64-966e-481d-878c-65a6d410f4e6",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Which one of the following colloidal systems is represented by fog?",
+  "option1": "Liquid in gas",
+  "option2": "Gas in liquid",
+  "option3": "Solid in gas",
+  "option4": "Liquid in liquid",
+  "option5": "",
+  "answer": "Liquid in gas",
+  "explanation": "In chemistry, a colloid is a mixture in which one substance of microscopically dispersed insoluble particles is suspended throughout another substance. Sometimes the dispersed substance alone is called the colloid; the term colloidal suspension refers unambiguously to the overall mixture. <br />Fog is an aerosol, a type of colloid consisting of a liquid (water) dispersed in a gas (air)."
+}

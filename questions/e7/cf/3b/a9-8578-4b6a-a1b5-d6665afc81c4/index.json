@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T18:26:41.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "e7cf3ba9-8578-4b6a-a1b5-d6665afc81c4",
+  "labels": "current-affairs,2019-09-24",
+  "question": "Match List I with List II and select the answer using the codes given below the lists.\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nCrop\r\n</td>\r\n<td>\r\nTop Producers\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Olives\r\n</td>\r\n<td>\r\n1. USA\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Cotton\r\n</td>\r\n<td>\r\n2. Italy\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Tomato\r\n</td>\r\n<td>\r\n3. Brazil\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Coffee\r\n</td>\r\n<td>\r\n4. China\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n5. Indonesia\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "1 4 3 2",
+  "option2": "4 1 5 3",
+  "option3": "2 1 3 4",
+  "option4": "2 4 1 3",
+  "option5": "",
+  "answer": "2 4 1 3",
+  "explanation": "• Italy is the largest producer of olive oil by volume, followed by Spain and Greece. However, per capita national consumption is highest in Greece, followed by Spain, Italy, and Tunisia.<br />• China is the biggest producer of cotton in the world.<br />• USA is the biggest producer of tomato in the world.<br />• Brazil is the world\\'s largest coffee producer. In 2016, Brazil produced a staggering 2,595,000 metric tons of coffee beans. It is not a new development, as Brazil has been the highest global producer of coffee beans for over 150 years."
+}

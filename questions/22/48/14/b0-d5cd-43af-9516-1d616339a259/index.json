@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-21T15:25:30.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "224814b0-d5cd-43af-9516-1d616339a259",
+  "labels": "current-affairs,2019-09-22",
+  "question": "Match the following:\r\n<table width=\"407\">\r\n<tbody>\r\n<tr>\r\n<td width=\"153\">\r\nList I\r\n</td>\r\n<td width=\"238\">\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"153\">\r\n(Author)\r\n</td>\r\n<td width=\"238\">\r\n(Book)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. J. L. Nehru\r\n</td>\r\n<td>\r\n1. Golden Threshold\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Piloo Mody\r\n</td>\r\n<td>\r\n2. Glimpses of World History\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Sarojini Naidu\r\n</td>\r\n<td>\r\n3. The Judgement\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Kuldip Nayar\r\n</td>\r\n<td>\r\n4. Zulfi, My Friend\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "4 2 1 3",
+  "option2": "2 4 1 3",
+  "option3": "3 2 4 1",
+  "option4": "1 2 3 4",
+  "option5": "",
+  "answer": "2 4 1 3",
+  "explanation": "• Golden Threshold was written by Sarojini Naidu.<br />• Glimpses of World History is a book published by Jawaharlal Nehru in 1934.It is a panoramic sweep of the history of humankind. It is a collection of 196 letters on world history written from various prisons in British India between 1930–1933. They reflect the world view of Nehru, and his grasp of history.<br />• The Judgement was written by Kuldip Nayar.<br />• Zulfi, My Friend was written by Piloo Mody. He was an Indian architect and politician and one of the founding members of the Swatantra Party. Elected to the 4th and 5th Lok Sabhas, he served in the Rajya Sabha from 1978 until his death."
+}

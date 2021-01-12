@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T16:43:39.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "8d26523d-82f2-4104-811d-5ecd374151d1",
+  "labels": "current-affairs,2019-09-24",
+  "question": "If Amsterdam is X + 1, Montreal is X - 5, Tokyo is X + 9 and Lisbon is X, Which of the following is denoted by X?",
+  "option1": "GMT",
+  "option2": "The temperature as measured by the Kelvin scale to arrive at the temperature as measured by the Celsius s",
+  "option3": "Base from which height and depth from the sea-level is measured",
+  "option4": "The figure to be used for converting the Imperial System to the Metric System",
+  "option5": "",
+  "answer": "GMT",
+  "explanation": "Greenwich Mean Time is the mean solar time at the Royal Observatory in Greenwich, London, reckoned from midnight. At different times in the past, it has been calculated in different ways, including being calculated from noon; as a consequence, it cannot be used to specify a precise time unless a context is given."
+}

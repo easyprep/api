@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T20:21:32.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "3a95dafb-3b55-47dc-bf29-3d3f12217a5c",
+  "labels": "current-affairs,2019-09-28",
+  "question": "Which of the following are correctly matched?\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nA\r\n</td>\r\n<td>\r\nB\r\n</td>\r\n<td>\r\nC\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nEstablishment of Manufacturing Industries\r\n</td>\r\n<td>\r\nYear\r\n</td>\r\n<td>\r\nPlace\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Setting up of the first cotton mill\r\n</td>\r\n<td>\r\n1854\r\n</td>\r\n<td>\r\nBombay\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Manufacture of the first machine-made paper\r\n</td>\r\n<td>\r\n1870\r\n</td>\r\n<td>\r\nNear Calcutta\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Setting up of the first cement factory\r\n</td>\r\n<td>\r\n1904\r\n</td>\r\n<td>\r\nMadras\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nChoose the correct answer from the codes given below: <br />Codes:",
+  "option1": "I and II only",
+  "option2": "I and III only",
+  "option3": "II and III only",
+  "option4": "I, II and III",
+  "option5": "",
+  "answer": "II and III only",
+  "explanation": "The first Indian cotton cloth mill was established in 1818 at Fort Gloaster near Kolkata, albeit this mill was a failure. The second mill which was established by KGN Daber in 1854 is called the true foundation of modern cotton industry in India."
+}

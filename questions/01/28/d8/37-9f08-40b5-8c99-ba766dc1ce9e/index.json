@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T15:09:22.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "0128d837-9f08-40b5-8c99-ba766dc1ce9e",
+  "labels": "current-affairs,2019-09-28",
+  "question": "Which one from the following is shortest air-route from Perth to London?",
+  "option1": "Perth, Bombay, Rome, London",
+  "option2": "Perth, Ankara, Paris, London",
+  "option3": "Perth, Aden, Paris, London",
+  "option4": "Perth, Mombasa, Rome, London",
+  "option5": "",
+  "answer": "Perth, Ankara, Paris, London",
+  "explanation": "The shortest distance (air line) between Perth and London is 8,999.59 mi or 14,483.44 km. The shortest route between Perth and London is Perth, Ankara, Paris, and London."
+}

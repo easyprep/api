@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T21:15:37.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "d00895c0-0496-4986-a7e1-bf13fb4d48b6",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Domestic electrical wiring refers basically to which of the following connections?",
+  "option1": "Series connection",
+  "option2": "parallel connection",
+  "option3": "combination of series and parallel connections",
+  "option4": "series connection within each room and parallel connection elsewhere",
+  "option5": "",
+  "answer": "parallel connection",
+  "explanation": "Domestic electrical wiring is basically a parallel combination because when appliances are connected in a parallel attach men each of them can be put on or off independently."
+}

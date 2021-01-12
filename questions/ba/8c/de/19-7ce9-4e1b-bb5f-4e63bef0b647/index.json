@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-09T20:44:59.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "ba8cde19-7ce9-4e1b-bb5f-4e63bef0b647",
+  "labels": "current-affairs,2019-10-10",
+  "question": "Which of the following elements are present in all proteins?<br />I. Carbon<br />II. Hydrogen<br />III. Oxygen<br />IV. Nitrogen<br />Select the correct answer from the codes given below: <br />Codes:",
+  "option1": "II and III",
+  "option2": "I, II and IV",
+  "option3": "I, III and IV",
+  "option4": "I, II, III and IV",
+  "option5": "",
+  "answer": "I, II, III and IV",
+  "explanation": "Proteins are composed of molecules called amino acids, and each amino acid contains four elements: hydrogen, oxygen, nitrogen and carbon. Some might also contain a fifth element, sulfur."
+}

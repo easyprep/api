@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T18:03:02.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "78884edd-805c-4d98-a68e-f7883f7a95bf",
+  "labels": "current-affairs,2019-10-14",
+  "question": "What is the average fat content of buffalo milk?",
+  "option1": 0.072,
+  "option2": 0.045,
+  "option3": 0.09,
+  "option4": 0.1,
+  "option5": "",
+  "answer": 0.072,
+  "explanation": "Average fat content in buffalo milk is 7.2% and average fat content in cow milk is 4.4%. As per the nutrient components, buffalo milk contains all the nutrients in higher proportion than cow’s milk."
+}

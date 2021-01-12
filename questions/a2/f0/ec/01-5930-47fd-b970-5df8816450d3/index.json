@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T17:03:01.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "a2f0ec01-5930-47fd-b970-5df8816450d3",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Match List I with List II and select the correct answer using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Deccan Traps\r\n</td>\r\n<td>\r\n(A) Late Cenozoic\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Western Ghats\r\n</td>\r\n<td>\r\n(B) Pre-Cambrian\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Aravalli\r\n</td>\r\n<td>\r\n(C) Cretaceous-Eocene\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Narmada-Tapi Alluvial deposits\r\n</td>\r\n<td>\r\n(D) Cambrian\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Pleistocene\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-E, III-A, IV-D",
+  "option2": "I-C, II-A, III-B, IV-E",
+  "option3": "I-B, II-A, III-C, IV-D",
+  "option4": "I-A, II-D, III-B, IV-E",
+  "option5": "",
+  "answer": "I-C, II-A, III-B, IV-E",
+  "explanation": "Major Geological Eras Peninsular and Periods <br />A. Deccan Traps – Cretaceous era <br />B. Western Ghats – Late Cenozoic era <br />C. Aravalli – Pre-Cambrian era <br />D. Narmada-Tapti – Pleistocene period <br />Alluvial deposits\r\n&nbsp;"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T20:51:15.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "f560a40f-3814-4261-b9f8-344caba0c43b",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Which one of the following are/is stated in the Constitution of India?<br />I. The President shall not be a member of either House of Parliament.<br />II. The Parliament shall consist of the President and two Houses.<br />Choose the correct answer from the codes given below: <br />Codes:",
+  "option1": "Neither I nor II",
+  "option2": "Both I and II",
+  "option3": "I alone",
+  "option4": "II alone",
+  "option5": "",
+  "answer": "Both I and II",
+  "explanation": "The President shall not be a member of either House of Parliament or of a House of the Legislature of any State, and if a member of either House of Parliament or of a House of the Legislature of any State be elected President, he shall be deemed to have vacated his seat in that House on the date on which he enters.<br />Article 79: There shall be a Parliament for the Union which shall consists of the President and two Houses to be known respectively as the Council of States and the House of the People."
+}

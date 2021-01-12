@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T20:36:18.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "5263a23c-6f8c-4af5-801e-3e06bb8d809a",
+  "labels": "current-affairs,2019-10-12",
+  "question": "Which satellite-based advisory service has been launched for deep sea fishermen?",
+  "option1": "Aries",
+  "option2": "Gemini",
+  "option3": "Virgo",
+  "option4": "Aquarius",
+  "option5": "",
+  "answer": "Gemini",
+  "explanation": "The Indian National Centre for Ocean Information Services (INCOIS) and Airport Authority of India (AAI) has launched a new satellite-based GEMINI system that will alert deep-sea fishermen of upcoming disasters. The acronym ‘GEMINI’ stands for “GAGAN Enabled Mariner’s Instrument for Navigation and Information”& is works on GAGAN (GPS-Aided Geo Augmented Navigation) satellite system of ISRO & AAI. Through GEMINI, all key alerts and messages would be sent through GAGAN and the designated device would receive and transfer it to a mobile phone through Bluetooth communication. The related mobile application would then decode and display the information to the user. It can be decoded into 9 languages. The technology for the device has been transferred to a Bengaluru-based company ‘Acord’."
+}

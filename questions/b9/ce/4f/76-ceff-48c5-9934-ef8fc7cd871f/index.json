@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T18:24:23.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "b9ce4f76-ceff-48c5-9934-ef8fc7cd871f",
+  "labels": "current-affairs,2019-09-21",
+  "question": "The evidence for the rotation of stars comes mainly from the which of the following effects?",
+  "option1": "Doppler effect",
+  "option2": "Photoelectric effect",
+  "option3": "Stark effect",
+  "option4": "Zeeman effect",
+  "option5": "",
+  "answer": "Zeeman effect",
+  "explanation": "The evidence for the rotation of stars comes mainly from the Zeeman effect. The Zeeman effect, named after the Dutch physicist Pieter Zeeman, is the effect of splitting of a spectral line into several components in the presence of a static magnetic field. It is analogous to the Stark effect, the splitting of a spectral line into several components in the presence of an electric field."
+}

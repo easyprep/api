@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-09T20:56:41.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "51e38368-8c13-4e74-ad48-e8e9e9b97173",
+  "labels": "current-affairs,2019-10-10",
+  "question": "Which of the following are among the non-plan expenditures of the Government of India ?<br />I. Defence expenditure<br />II. Subsidies<br />III. All expenditures linked with the previous plan periods<br />IV. Interest payment<br />Choose the correct answer from the codes given below :<br />Codes :",
+  "option1": "I and II",
+  "option2": "I and III",
+  "option3": "II and IV",
+  "option4": "I, II, III and IV",
+  "option5": "",
+  "answer": "I, II, III and IV",
+  "explanation": "Non-plan expenditure is accounted for by interest payments, subsidies (mainly on food and fertilisers), wage and salary payments to government employees, grants to States and Union Territories governments, pensions, police, economic services in various sectors, other general services such as tax collection, social services, grants to foreign governments, defence, loans to public enterprises, loans to States, Union Territories. The Data contains Actual, Pre-actual and Budgeted Expenditure for Non plan expenditure, GSDP and Non plan expenditure as a percentage of GSDP of states &amp; Uts."
+}

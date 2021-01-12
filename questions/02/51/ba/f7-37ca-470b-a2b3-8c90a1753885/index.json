@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T20:53:24.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "0251baf7-37ca-470b-a2b3-8c90a1753885",
+  "labels": "current-affairs,2019-09-26",
+  "question": "The Government of India has totally banned the export of ‘Burnt Coal’ (Jhama), because it contains recoverable amount of a metal/element used in transistors. Which one is the element?",
+  "option1": "Phosphorus",
+  "option2": "Germanium",
+  "option3": "Silicon",
+  "option4": "Tungsten",
+  "option5": "",
+  "answer": "Silicon",
+  "explanation": "Depending on the coal that was burned, the chemical composition found in coal ash can vary. However, most coal ash will contain aluminum oxide (Al2O3), calcium oxide (CaO) and silicon dioxide (SiO2) which is very harmful for humans."
+}

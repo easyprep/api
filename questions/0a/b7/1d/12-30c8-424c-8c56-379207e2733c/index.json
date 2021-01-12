@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T21:01:35.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "0ab71d12-30c8-424c-8c56-379207e2733c",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Match List I with List II and select the correct answer using the codes given below them :\r\n<table width=\"301\">\r\n<tbody>\r\n<tr>\r\n<td width=\"159\">\r\nList I\r\n</td>\r\n<td width=\"142\">\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"159\">\r\n(Vectors)\r\n</td>\r\n<td width=\"142\">\r\n(Diseases)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Tsetse fly\r\n</td>\r\n<td>\r\n1. Yellow fever\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Aedes mosquito\r\n</td>\r\n<td>\r\n2. Sleeping sickness\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Water snail\r\n</td>\r\n<td>\r\n3. Bilharzia\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Sandflies\r\n</td>\r\n<td>\r\n4. Typhoid\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n5. Kala-azar\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "1 2 3 4",
+  "option2": "3 1 5 2",
+  "option3": "2 1 3 5",
+  "option4": "5 2 3 1",
+  "option5": "",
+  "answer": "2 1 3 5",
+  "explanation": "• African trypanosomiasis is also known as sleeping sickness. It is a disease spread by an infected tsetse fly, found in rural areas of sub-Saharan Africa. Sleeping sickness is caused by two different parasites, Trypanosoma brucei rhodesiense and Trypanosoma brucei gambiense. <br />• Aedes aegypti is the yellow fever mosquito. It is a mosquito that can spread dengue fever, chikungunya, Zika fever, Mayaro and yellow fever viruses, and other disease agents. The mosquito can be recognized by white markings on its legs and a marking in the form of a lyre on the upper surface of its thorax.<br />• Schistosomiasis is also known as snail fever and bilharzias. It is a disease caused by parasitic flatworms called schistosomes or water snail.The urinary tract or the intestines may be infected. Symptoms include abdominal pain, diarrhea, bloody stool, or blood in the urine.<br />• Kala azar is caused by bites from female phlebotomine sandflies – the vector of the leishmania parasite. The sand flies feed on animals and humans for blood, which they need for developing their eggs."
+}

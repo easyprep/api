@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T16:46:47.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c0974205-6320-4cb2-a573-b5fbb299c9b0",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Which of the following techniques is used to transmit audio signals in television broadcasts?",
+  "option1": "Amplitude Modulation",
+  "option2": "Frequency Modulation",
+  "option3": "Pulse Code Modulation",
+  "option4": "Time Division Multiplexing",
+  "option5": "",
+  "answer": "Frequency Modulation",
+  "explanation": "Frequency modulation is a process in which the frequency of the carrier is varied in accordance with the instantaneous value of modulating voltage. In telecommunications and signal processing, frequency modulation (FM) conveys information over a carrier wave by varying its instantaneous frequency. FM is most commonly used for radio and television broadcasting."
+}

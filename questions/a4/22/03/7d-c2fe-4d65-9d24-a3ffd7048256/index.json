@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T16:44:08.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "a422037d-c2fe-4d65-9d24-a3ffd7048256",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Which one of the following statements regarding ‘Exit Poll’ is correct?",
+  "option1": "‘Exit Poll’ is a term used to denote a post-election survey of voters regarding the candidate in whose favour they had exercised their franchise",
+  "option2": "‘Exit Poll’ and ‘Opinion Poll’ are one and the same",
+  "option3": "‘Exit Poll’ is a device through which results of voting can be most exactly predicted",
+  "option4": "‘Exit Poll’ is an administrative device made recently by the Chief Election Commissioner to prevent impersonation",
+  "option5": "",
+  "answer": "‘Exit Poll’ is a term used to denote a post-election survey of voters regarding the candidate in whose favour they had exercised their franchise",
+  "explanation": "An election exit poll is a poll of voters taken immediately after they have exited the polling stations. Unlike an opinion poll, which asks for whom the voter plans to vote, or some similar formulation, an exit poll asks for whom the voter actually voted."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T15:00:57.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "8dcddcec-15a7-448f-9059-f7c9dec3e598",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Which one of the following provides the correct sequence of occurence of four towns/cities as one proceeds from west to east?",
+  "option1": "Rajkot, Baroda, Kharagpur, Bilaspur",
+  "option2": "Bikaner, Aligarh, Darbhanga, Nowgong",
+  "option3": "Indore, Rourkela, Agartala, Jamshedpur",
+  "option4": "Nasik, Aurangabad, Berhampur, Nanded",
+  "option5": "",
+  "answer": "Bikaner, Aligarh, Darbhanga, Nowgong",
+  "explanation": "Bikaner- 28.0229° N, 73.3119° E<br />Aligarh- 27.8974° N, 78.0880° E<br />Darbhanga - 26.1542° N, 85.8918° E<br />Nowgong- 25.0623° N, 79.4397° E"
+}

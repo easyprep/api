@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T17:29:47.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c7d2ac04-a55b-4fa5-9ee7-bc7f405b972d",
+  "labels": "current-affairs,2019-09-21",
+  "question": "The conversion of electrical energy into chemical energy is observed in which of the following devices?",
+  "option1": "Fan",
+  "option2": "Heater",
+  "option3": "Incandescent bulb",
+  "option4": "Storage battery",
+  "option5": "",
+  "answer": "Storage battery",
+  "explanation": "A battery is a device that is able to store electrical energy in the form of chemical energy, and convert that energy into electricity."
+}

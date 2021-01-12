@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T21:49:01.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "d87f4090-5ca2-4613-86ec-40f022f8db0b",
+  "labels": "current-affairs,2019-09-28",
+  "question": "The colour of an opaque object is due to the colour it?",
+  "option1": "absorbs",
+  "option2": "refracts",
+  "option3": "reflects",
+  "option4": "scatters",
+  "option5": "",
+  "answer": "reflects",
+  "explanation": "The apparent color of an opaque object depends on the wavelength of the light that it reflects; e.g., a red object observed in daylight appears red because it reflects only the waves producing red light. The color of a transparent object is determined by the wavelength of the light transmitted by it."
+}

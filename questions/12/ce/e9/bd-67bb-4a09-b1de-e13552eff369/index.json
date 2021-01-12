@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-09T20:13:22.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "12cee9bd-67bb-4a09-b1de-e13552eff369",
+  "labels": "current-affairs,2019-10-10",
+  "question": "The standard time of the following countries is ahead or behind Greenwich Mean Time depending on whether they are east or west of the longitude passing through Greenwich :<br />I. Cuba<br />II. Greece<br />III. Iraq<br />IV. Costa Rica<br />V. Japan<br />Which one of the following sequential orders gives the correct arrangement of the countries according to their standard time from ahead to behind GMT?",
+  "option1": "V, III, II, I, IV",
+  "option2": "II, IV, I, III, V",
+  "option3": "IV, I, III, II, V",
+  "option4": "III, V, IV, I, II",
+  "option5": "",
+  "answer": "V, III, II, I, IV",
+  "explanation": ""
+}

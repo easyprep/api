@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T18:27:36.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "101a081f-3759-4aab-91f5-bb041c27dc7e",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Examine the following three statements: <br />I. Processed meat is a perishable food.<br />II. All perishable foods are packed in sealed tins.<br />III. Sealed tins sometimes do not contain processed meat.<br />Which one of the following inferences can be drawn from the above statements?",
+  "option1": "Sealed tins always contain perishable food",
+  "option2": "Processed meat is sometimes not packed in sealed tins",
+  "option3": "Processed meat is always packed in sealed tins",
+  "option4": "Non-perishable foods are never packed in sealed tins",
+  "option5": "",
+  "answer": "Processed meat is always packed in sealed tins",
+  "explanation": "We can draw the inference that processed meat is always packed in sealed tins."
+}

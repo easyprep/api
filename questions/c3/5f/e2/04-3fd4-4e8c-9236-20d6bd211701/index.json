@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T18:47:07.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c35fe204-3fd4-4e8c-9236-20d6bd211701",
+  "labels": "current-affairs,2019-09-24",
+  "question": "Which of the following listings are correct?\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nCash Crop\r\n</td>\r\n<td>\r\nPlantation Crop\r\n</td>\r\n<td>\r\nHorticulture Crop\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n1. Tobacco\r\n</td>\r\n<td>\r\nCoconut\r\n</td>\r\n<td>\r\nSugarcane\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n2. Sugarcane\r\n</td>\r\n<td>\r\nCoffee\r\n</td>\r\n<td>\r\nCoconut\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n3. Cotton\r\n</td>\r\n<td>\r\nTea\r\n</td>\r\n<td>\r\nCashew\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n4. Coconut\r\n</td>\r\n<td>\r\nRubber\r\n</td>\r\n<td>\r\nTobacco\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "option1": "1 and 2",
+  "option2": "1 and 3",
+  "option3": "2 and 3",
+  "option4": "3 and 4",
+  "option5": "",
+  "answer": "2 and 3",
+  "explanation": "• Tobacco is a cash crop. Since the first colonist to the \\\"New World\\\" began exporting tobacco, it has been considered a lucrative crop. Its cultivation has expanded throughout the world; its use in cigars, cigarettes, and pipes has become universal.<br />• Coconut is the only crop that has not failed the farmers so far. In fact, even the Tamil Nadu Agriculture University refers to coconut as a plantation crop under horticulture.<br />• A sugarcane crop is sensitive to the climate, soil type, irrigation, fertilizers, insects, disease control, varieties, and the harvest period. Sugarcane is a cash crop, but it is also used as livestock fodder."
+}

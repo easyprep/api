@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-21T15:05:23.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "bfc82b05-9eae-4403-a84e-a120a4d0adbb",
+  "labels": "current-affairs,2019-09-22",
+  "question": "Match List I with List II and select the correct answer using the codes given below them :\r\n<table width=\"273\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Plant tissue)\r\n</td>\r\n<td>\r\n(Function)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA.Sclerenchyma\r\n</td>\r\n<td>\r\n1. Conduction of water\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Xylem\r\n</td>\r\n<td>\r\n2. Transport of food\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Phloem\r\n</td>\r\n<td>\r\n3. Mechanical strength\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Meristem\r\n</td>\r\n<td>\r\n4. Cell division\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n5. Carbon assimilation\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "3 1 2 4",
+  "option2": "1 4 3 5",
+  "option3": "4 2 5 3",
+  "option4": "2 5 4 1",
+  "option5": "",
+  "answer": "3 1 2 4",
+  "explanation": "• Sclerenchyma, in plants, support tissue composed of any of various kinds of hard woody cells. Mature sclerenchyma cells are usually dead cells that have heavily thickened secondary walls containing lignin. Sclerenchyma cells occur in many different shapes and sizes, but two main types occur: fibres and sclereids.<br />• The basic function of xylem is to transport water from roots to stems and leaves, but it also transports nutrients. The word \\\"xylem\\\" meaning \\\"wood\\\"; the best-known xylem tissue is wood, though it is found throughout a plant.<br />• Phloem is the vascular tissue responsible for the transport of sugars from source tissues to sink tissues. Other molecules such as proteins and mRNAs are also transported throughout the plant via phloem.<br />• A meristem is the tissue in most plants containing undifferentiated cells found in zones of the plant where growth can take place. Meristematic cells give rise to various organs of a plant and are responsible for growth."
+}

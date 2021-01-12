@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T15:13:32.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "cb2a7d91-515e-413e-b229-f98aef65e26f",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Daily weather map showing isobars is an example of which of the following maps?",
+  "option1": "Choropleth map",
+  "option2": "Isopleth map",
+  "option3": "Chorochromatic map",
+  "option4": "Choroschematic map",
+  "option5": "",
+  "answer": "Isopleth map",
+  "explanation": "Daily weather map showing isobars is an example of isopleth map. Isopleth map is a map that uses lines or colors to indicate areas with similar regional aspects. Isopleth maps may use lines to show areas where elevation, temperature, rainfall, or some other quality is the same; values between lines can be interpolated."
+}

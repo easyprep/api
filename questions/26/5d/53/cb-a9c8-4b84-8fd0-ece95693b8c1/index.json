@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T20:55:03.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "265d53cb-a9c8-4b84-8fd0-ece95693b8c1",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Consider the following statements regarding a No-confidence Motion in the Parliament.\r\n<ol>\r\n<li>There is no mention of a No-confidence Motion in the Constitution of India.</li>\r\n<li>A period of six months must elapse between the introduction of one No-confidence Motion and the other.</li>\r\n<li>At least 100 members must support a Motion of No-confidence before it is introduced in the House.</li>\r\n<li>A motion of No-confidence can be introduced in the Lok Sabha only.</li>\r\n</ol>\r\nOf these statements",
+  "option1": "1,2 and 4 are correct",
+  "option2": "1, 2, 3 and 4 are correct",
+  "option3": "1, 2 and 3 are correct",
+  "option4": "1 and 4 are correct",
+  "option5": "",
+  "answer": "1 and 4 are correct",
+  "explanation": "Such a motion can be moved by any member of the house. The member moving such motion is generally a member of opposition. The motion needs support of at least 50 members to be admitted. Once admitted, it has to be passed within 10 days in the house. And there is no time limit between 2 non-confidence motions."
+}

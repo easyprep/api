@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T18:44:37.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "e8c539a5-4c14-404d-80a6-e9dd755b482a",
+  "labels": "current-affairs,2019-09-21",
+  "question": "If the difference in time of the two places is 2 hours and 20 minutes, then  what would be the difference in their longitudes?",
+  "option1": "30°",
+  "option2": "35°",
+  "option3": "40°",
+  "option4": "45°",
+  "option5": "",
+  "answer": "35°",
+  "explanation": "1 deg means 24*60/360 = 4 minutes. So 1 degree of longitude means a difference of 4 minutes. So the difference the longitudes of the two places = 140/4 = 35 deg."
+}

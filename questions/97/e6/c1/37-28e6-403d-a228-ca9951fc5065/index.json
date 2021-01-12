@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T18:52:22.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "97e6c137-28e6-403d-a228-ca9951fc5065",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Match List I with List II and select the correct answer by using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Features of the Indian Constitution)\r\n</td>\r\n<td>\r\n(Borrowed from)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Fundamental Rights\r\n</td>\r\n<td>\r\n(A) U.K.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Parliamentary system of Government\r\n</td>\r\n<td>\r\n(B) U.S.A.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Emergency provisons\r\n</td>\r\n<td>\r\n(C) Ireland\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Directive Principles of State Policy\r\n</td>\r\n<td>\r\n(D) German Reich\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Canada\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-B, II-D, III-E, IV-A",
+  "option2": "I-E, II-A, III-C, IV-D",
+  "option3": "I-B, II-A, III-D, IV-C",
+  "option4": "I-A, II-B, III-D, IV-C",
+  "option5": "",
+  "answer": "I-B, II-A, III-D, IV-C",
+  "explanation": "<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Features of the Indian Constitution)\r\n</td>\r\n<td>\r\n(Borrowed from)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Fundamental Rights\r\n</td>\r\n<td>\r\nU.S.A.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Parliamentary system of Government\r\n</td>\r\n<td>\r\nU.K.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Emergency provisions\r\n</td>\r\n<td>\r\nGerman Reich\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Directive Principles of State Policy\r\n</td>\r\n<td>\r\nIreland\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

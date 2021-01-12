@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T15:58:06.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "25bdbc7c-4847-436f-b5a6-2db09fc4e7be",
+  "labels": "current-affairs,2019-10-12",
+  "question": "It is possible to produce seedless tomato fruits by which of the following processes?",
+  "option1": "Applying trace elements in tomato fields",
+  "option2": "spraying mineral solution on plants",
+  "option3": "spraying hormones on flowers",
+  "option4": "applying fertilizers containing radioactive elements",
+  "option5": "",
+  "answer": "spraying hormones on flowers",
+  "explanation": "Seed and fruit development are intimately related processes controlled by internal signals and environmental cues. One method to produce seedless fruit is to develop plants able to produce fruits independently from pollination and fertilization of the ovules."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T14:33:19.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "121c1a03-e8ed-458d-9cb2-e53607aafb56",
+  "labels": "current-affairs,2019-09-26",
+  "question": "The blood pressure values of four persons are given below: <br />1. Mrs. X: 90/60<br />2. Mr. X: 160/120<br />3. Mr. Y: 120/80<br />4. Mrs. Y: 140/100<br />Who among the following has normal blood pressure?",
+  "option1": "Mrs. X",
+  "option2": "Mr. X",
+  "option3": "Mrs. Y",
+  "option4": "Mr. Y",
+  "option5": "",
+  "answer": "Mr. Y",
+  "explanation": "An optimal blood pressure level is a reading under 120/80 mmHg. Readings over 120/80mmHg and up to 139/89mmHg are in the normal to high range. Your doctor will advise what your ideal blood pressure should be based on your circumstances."
+}

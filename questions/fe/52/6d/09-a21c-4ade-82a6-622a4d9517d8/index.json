@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-09T20:11:25.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "fe526d09-a21c-4ade-82a6-622a4d9517d8",
+  "labels": "current-affairs,2019-10-10",
+  "question": "Match List I with List II and select the correct answer by using the codes given below the lists.\r\n<table width=\"211\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Eras)\r\n</td>\r\n<td>\r\n(Reckoned from)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Vikrama era\r\n</td>\r\n<td>\r\n(A) 3102 B.C.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Saka era\r\n</td>\r\n<td>\r\n(B) 320 A.D.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Gupta era\r\n</td>\r\n<td>\r\n(C) 78 A.D.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Kali era\r\n</td>\r\n<td>\r\n(D) 58 B.C.\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) 248 A.D.\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes :",
+  "option1": "I-B, II-D, III-E, IV-A",
+  "option2": "I-A, II-C, III-B, IV-D",
+  "option3": "I-D, II-E, III-B, IV-C",
+  "option4": "I-D, II-C, III-B, IV-A",
+  "option5": "",
+  "answer": "I-D, II-C, III-B, IV-A",
+  "explanation": "The Vikram era is an Indian calendar starting in 57 BC. The Vikram Samvat calendar starts half a century before the Gregorian calendar and works on an Indian calendar cycle.<br />The Shaka era is the vernal equinox of the year AD 78. The year of the official Shaka Calendar is tied to the Gregorian date of 22 March every year, except in Gregorian leap years when it starts on 21 March.<br />The Gupta Empire was an ancient Indian empire existing from the mid-to-late 3rd century CE to 543 CE. At its zenith, from approximately 319 to 543 CE, it covered much of the Indian subcontinent. This period is considered as the Golden Age of India by some historians.<br />The beginning of the Kali Yuga would come to (3600 - (476 + 23) + 1 (As only one year elapses between 1 BCE and 1 CE)) = 3102 BCE."
+}

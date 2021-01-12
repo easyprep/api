@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T18:35:31.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "a4828ee9-25aa-419b-b3db-fbbb8ad4ac81",
+  "labels": "current-affairs,2019-09-25",
+  "question": "As on today, which one of the following countries has the largest external debt?",
+  "option1": "India",
+  "option2": "Brazil",
+  "option3": "USA",
+  "option4": "Mexico",
+  "option5": "",
+  "answer": "Mexico",
+  "explanation": "<table width=\\\"321\\\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nRank\r\n</td>\r\n<td>\r\nCountry\r\n</td>\r\n<td>\r\nCurrent Total External Debt\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n1\r\n</td>\r\n<td>\r\nMexico\r\n</td>\r\n<td>\r\n$235,990,148,633\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n2\r\n</td>\r\n<td>\r\nBrazil\r\n</td>\r\n<td>\r\n$151,608,751,222\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

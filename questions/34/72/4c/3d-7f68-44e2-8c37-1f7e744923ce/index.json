@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T15:00:44.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "34724c3d-7f68-44e2-8c37-1f7e744923ce",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Which of the following is the working principle of a washing machine?",
+  "option1": "Centrifugation",
+  "option2": "dialysis",
+  "option3": "reverse osmosis",
+  "option4": "diffusion",
+  "option5": "",
+  "answer": "Centrifugation",
+  "explanation": "The principle behind the spinning dry of the clothes in a washing machine is centrifugal force. The fast spinning around of the clothes in the drum creates a large centrifugal force from center to the edge of the drum, and the wet clothes are flung outwards to the drum edge and the water escapes through the drum holes."
+}

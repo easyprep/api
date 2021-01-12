@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T14:58:21.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "2bbf3f41-0a5c-4bf7-ae0b-e34b42594ef1",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Match List I with List II and select the correct answer by using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Functionaries)\r\n</td>\r\n<td>\r\n(Oaths or affirmations)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. President of India\r\n</td>\r\n<td>\r\n(A) Secrecy of Information\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Judges of the Supreme Court\r\n</td>\r\n<td>\r\n(B) Faithful Discharge of Duties\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Members of Parliament\r\n</td>\r\n<td>\r\n(C) Faith and Allegiance to the Constitution of India\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Ministers for the Union\r\n</td>\r\n<td>\r\n(D) Upholding the Constitution and the Law\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-D, III-A, IV-B",
+  "option2": "I-D, II-C, III-B, IV-A",
+  "option3": "I-C, II-D, III-B, IV-A",
+  "option4": "I-D, II-C, III-A, IV-B",
+  "option5": "",
+  "answer": "I-C, II-D, III-B, IV-A",
+  "explanation": "<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(Functionaries)\r\n</td>\r\n<td>\r\n(Oaths or affirmations)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. President of India\r\n</td>\r\n<td>\r\n Faith and Allegiance to the Constitution of India\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Judges of the Supreme Court\r\n</td>\r\n<td>\r\n Upholding the Constitution and the Law\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Members of Parliament\r\n</td>\r\n<td>\r\n Faithful Discharge of Duties\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Ministers for the Union\r\n</td>\r\n<td>\r\n Secrecy of Information\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nOath or affirmation by the President under article 60<br />Oath or affirmation by Judge of SC, Members of Parliament, Ministers for the Union comes under Third Schedule of the Constitution."
+}

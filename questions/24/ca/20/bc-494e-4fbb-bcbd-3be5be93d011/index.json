@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T20:05:57.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "24ca20bc-494e-4fbb-bcbd-3be5be93d011",
+  "labels": "current-affairs,2019-09-28",
+  "question": "The time taken by the sun to revolve around the centre of our galaxy is how many years?",
+  "option1": "25 million years",
+  "option2": "100 million years",
+  "option3": "250 million years",
+  "option4": "500 million years",
+  "option5": "",
+  "answer": "250 million years",
+  "explanation": "Sun and our whole solar system orbit around the center of the Milky Way Galaxy. These are moving at an average velocity of 828,000 km/hr. But even at that high rate, it still takes about 250 million years to make one complete orbit around the Milky Way."
+}

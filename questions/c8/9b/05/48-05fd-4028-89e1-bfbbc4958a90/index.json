@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T15:19:28.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c89b0548-05fd-4028-89e1-bfbbc4958a90",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Of the following cities, in which city has the Olympic Games been held twice?<br />I. Paris<br />II. Berlin<br />III. London<br />IV. Seoul",
+  "option1": "Only I",
+  "option2": "I, II and III",
+  "option3": "III and IV",
+  "option4": "I and III",
+  "option5": "",
+  "answer": "I, II and III",
+  "explanation": "Ten cities have hosted the Olympic Games more than once: Athens (1896 and 2004 Summer Olympics), Paris (1900, 1924 and 2024 Summer Olympics), London (1908, 1948 and 2012 Summer Olympics), St. Moritz (1928 and 1948 Winter Olympics), Lake Placid (1932 and 1980 Winter Olympics), Los Angeles (1932, 1984 and 2028)."
+}

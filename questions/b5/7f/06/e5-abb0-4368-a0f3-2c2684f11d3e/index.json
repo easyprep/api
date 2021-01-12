@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T14:47:58.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "b57f06e5-abb0-4368-a0f3-2c2684f11d3e",
+  "labels": "current-affairs,2019-10-12",
+  "question": "When an air bubble at the bottom of a lake rises to the top, which of the following will happen to it?",
+  "option1": "Increase in size",
+  "option2": "decrease in size",
+  "option3": "maintain its size",
+  "option4": "flatten into a disk-like shape",
+  "option5": "",
+  "answer": "Increase in size",
+  "explanation": "Pressure starts decreasing as we go upwards. That is the reason that air bubble in water grow in size when it rises from bottom to top. As the pressure exerted by water is directly proportional to the depth of water, as the depth of water increases in a water body, the pressure increases linearly."
+}

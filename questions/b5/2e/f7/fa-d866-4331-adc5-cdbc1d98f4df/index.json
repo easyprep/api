@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T18:38:17.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "b52ef7fa-d866-4331-adc5-cdbc1d98f4df",
+  "labels": "current-affairs,2019-10-14",
+  "question": "What of the following Human Development Index comprises with literacy rates, life expectancy at birth?",
+  "option1": "Gross Domestic Product per head in US dollars",
+  "option2": "Gross Domestic Product per head at real purchasing power",
+  "option3": "Gross National Product in US dollars",
+  "option4": "National Income per head in US dollars",
+  "option5": "",
+  "answer": "National Income per head in US dollars",
+  "explanation": "HDI is a statistical tool which measures the country\\'s overall achievement in its socio-economic dimension. It is being prepared and published by the United Nations Development Programme. The basic components of HDI are Health (longevity of life), Education and living standards (Gross national income per capita)."
+}

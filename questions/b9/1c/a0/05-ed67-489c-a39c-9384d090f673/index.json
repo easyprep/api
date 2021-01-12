@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T18:26:18.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "b91ca005-ed67-489c-a39c-9384d090f673",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Given below are colours of the visible spectrum. Identify the correct sequence in order of increasing wavelengths.",
+  "option1": "Red, Yellow, Blue, Violet",
+  "option2": "Violet, Yellow, Blue, Red",
+  "option3": "Blue, Yellow, Red, Violet",
+  "option4": "Violet, Blue, Yellow, Red",
+  "option5": "",
+  "answer": "Violet, Blue, Yellow, Red",
+  "explanation": "There are seven wavelength ranges within the visible spectrum that each correspond to a different color. The colors fall in an order commonly referred to with the acronym ROYGBIV. ROYGBIV can aid in remembering the order of the colors: red, orange, yellow, green, blue, indigo, and violet."
+}

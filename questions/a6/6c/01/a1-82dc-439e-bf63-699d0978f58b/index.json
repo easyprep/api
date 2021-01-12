@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T18:41:03.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "a66c01a1-82dc-439e-bf63-699d0978f58b",
+  "labels": "current-affairs,2019-09-25",
+  "question": "Consider a specific point on the surface of the earth (say, the city of Delhi). The temperature at a given time of day (say, 12.00 noon) will in general be higher in summer than in winter. This is because?",
+  "option1": "the earth is closer to the sun in summer than in winter",
+  "option2": "sun-rays falling on the earth are inclined more towards the surface of the earth in winter",
+  "option3": "evaporation of water from atmospheric precipitation occurring in winter alone",
+  "option4": "the axis of the earth is inclined more towards the sun in winter",
+  "option5": "",
+  "answer": "the earth is closer to the sun in summer than in winter",
+  "explanation": "Summer is warmer than winter (in each hemisphere) because the Sun\\'s rays hit the Earth at a more direct angle during summer than during winter and also because the days are much longer than the nights during the summer. These effects are due to the tilt of the Earth\\'s axis. Also the earth is closer to the sun in summer than in winter."
+}

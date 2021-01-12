@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T17:15:01.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "d962a255-faf3-4bc4-9aa5-81a1449710d6",
+  "labels": "current-affairs,2019-10-14",
+  "question": "How much protein is recommended for daily intake for a moderately active woman?",
+  "option1": "30 g",
+  "option2": "37 g",
+  "option3": "40 g",
+  "option4": "46 g",
+  "option5": "",
+  "answer": "46 g",
+  "explanation": "The DRI (Dietary Reference Intake) is 0.8 grams of protein per kilogram of body weight. This amounts to: 56 grams per day for the average sedentary man and 46 grams per day for the average sedentary woman."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T18:28:51.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "6f082e0d-c531-40a8-af6e-394da16779cf",
+  "labels": "current-affairs,2019-10-15",
+  "question": "What is the correct sequence of the following Indian states in descending order of their length of surface roads per 100 km2 of their area?<br />I. Haryana<br />II. Maharashtra<br />III. Punjab<br />IV. Tamil Nadu<br />Select the correct answer using the codes given below: <br />Codes:",
+  "option1": "IV, III, II, I",
+  "option2": "IV, III, I, II",
+  "option3": "III, IV, I, II",
+  "option4": "III, IV, II, I",
+  "option5": "",
+  "answer": "IV, III, II, I",
+  "explanation": "Arrangement of descending order of the surface roads per 100 sq. km of their area: Tamil Nadu has 158.78 km, Punjab has 127.78 km, Maharashtra has 117.61 km, and Haryana has 63.70 km."
+}

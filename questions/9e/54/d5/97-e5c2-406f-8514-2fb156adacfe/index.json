@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T20:52:33.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "9e54d597-e5c2-406f-8514-2fb156adacfe",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Which one of the following has the highest fuel value?",
+  "option1": "Hydrogen",
+  "option2": "Charcoal",
+  "option3": "Natural Gas",
+  "option4": "Gasoline",
+  "option5": "",
+  "answer": "Hydrogen",
+  "explanation": "Fuel value can be expressed in terms of calorific value of fuel. The calorific value of a fuel is the amount of heat produced by burning 1 kg of fuel. Hydrogen has the highest calorific value of (141,790 KJ/kg) thus have highest fuel value. Calorific value of charcoal, natural gas and gasoline are (29,600; 43,000; 47,300 kJ/ kg) respectively. Natural gas majorly consists of methane."
+}

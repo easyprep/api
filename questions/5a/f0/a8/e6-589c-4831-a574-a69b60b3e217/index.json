@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T20:21:25.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "5af0a8e6-589c-4831-a574-a69b60b3e217",
+  "labels": "current-affairs,2019-09-23",
+  "question": "On a half-moon night, what is the angle between the moon and the sun when measured from earth?",
+  "option1": "45°",
+  "option2": "60°",
+  "option3": "90°",
+  "option4": "180°",
+  "option5": "",
+  "answer": "90°",
+  "explanation": "At 90° angular separation from the Sun, you on the Earth see half of the Moon\\'s illuminated side and half of its night side. The phase is called a quarter phase because you can see a quarter of the Moon\\'s entire surface (and 90 degrees is one-quarter of 360 degrees)."
+}

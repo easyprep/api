@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T20:16:30.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "8b184579-3926-4187-adda-83768c6aa6f0",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Next to Hindi which of the following is the language spoken by the largest number of people in the Indian sub-continent?",
+  "option1": "Urdu",
+  "option2": "Telugu",
+  "option3": "Bengali",
+  "option4": "Tamil",
+  "option5": "",
+  "answer": "Bengali",
+  "explanation": "<table width=\\\"264\\\">\r\n<thead>\r\n<tr>\r\n<td> </td>\r\n<td colspan=\\\"2\\\">\r\nFirst language speakers\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nLanguage\r\n</td>\r\n<td>\r\nFigure\r\n</td>\r\n<td>\r\n% of total<br />population\r\n</td>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>\r\nHindi\r\n</td>\r\n<td>\r\n422,048,642\r\n</td>\r\n<td>\r\n41.03%\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nBengali\r\n</td>\r\n<td>\r\n83,369,769\r\n</td>\r\n<td>\r\n8.10%\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

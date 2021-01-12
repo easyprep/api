@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T15:29:02.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "96ff6623-7754-4d25-a408-0a699182ac7f",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Which one of the following is used for dating archaeological specimens in wood, bones and shells?",
+  "option1": "Uranium-238",
+  "option2": "Argon isotope",
+  "option3": "Carbon-14",
+  "option4": "Strontium-90",
+  "option5": "",
+  "answer": "Carbon-14",
+  "explanation": "The most commonly used radiometric dating method is radiocarbon dating. It is also called carbon-14 and C-14 dating. This technique is used to date the remains of organic materials. Dating samples are usually charcoal, wood, bone, or shell, but any tissue that was ever alive can be dated."
+}

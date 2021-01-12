@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T21:08:27.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "3bf368f6-7f80-406c-bac3-c5d3001d5d19",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Parliament or a State Legislature can declare a seat vacant if a member abstains himself without permission from the sessions for atleast how many days?",
+  "option1": "30 days",
+  "option2": "60 days",
+  "option3": "90 days",
+  "option4": "120 days",
+  "option5": "",
+  "answer": "60 days",
+  "explanation": "An MP can be disqualified <em>if absent</em> continuously for <em>60 days</em> without permission from the parliament or state legislature."
+}

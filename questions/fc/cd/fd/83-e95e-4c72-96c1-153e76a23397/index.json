@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T21:12:52.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "fccdfd83-e95e-4c72-96c1-153e76a23397",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Consider the following statements regarding bones in the human body:\r\n<ol>\r\n<li>They consist of 80% solid matter and20% water.</li>\r\n<li>Solid matter in the bones is made mainly of cartilage.</li>\r\n<li>Impregnation of salts including carbonates and phosphates of lime imparts hardness to the bones.</li>\r\n<li>In old age, the proportion of lime decreases and bones become brittle and break easily.</li>\r\n</ol>\r\nOf these statements:",
+  "option1": "1,2 and 3 are correct",
+  "option2": "2 and 4 are correct",
+  "option3": "2 and 3 are correct",
+  "option4": "1, 2, 3 and 4 are correct",
+  "option5": "",
+  "answer": "1, 2, 3 and 4 are correct",
+  "explanation": "All of them are correct.<br />Bones consist of living cells embedded in a mineralized organic matrix. This matrix consists of organic components, mainly type I collagen – \\\"organic\\\" referring to materials produced as a result of the human body – and inorganic components, primarily hydroxyapatite and other salts of calcium and phosphate."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T21:47:50.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "facf145d-f2ce-4045-8bff-00fb58e2cb02",
+  "labels": "current-affairs,2019-09-28",
+  "question": "Which of the following can be indicated by the colour of a star?",
+  "option1": "distance from the sun",
+  "option2": "luminosity",
+  "option3": "distance from the earth",
+  "option4": "temperature",
+  "option5": "",
+  "answer": "temperature",
+  "explanation": "The color of a star mostly indicates a star\\'s temperature and it can also suggest the star\\'s age. Class O stars, which are blue in color, are the hottest, and class M stars, which are red in color, are the coldest."
+}

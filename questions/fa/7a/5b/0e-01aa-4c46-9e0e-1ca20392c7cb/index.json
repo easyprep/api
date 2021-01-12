@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "fa7a5b0e-01aa-4c46-9e0e-1ca20392c7cb",
+  "labels": "current-affairs,2019-09-25",
+  "question": "‘Terms of trade’ between agriculture and industry has reference to?",
+  "option1": "Relative price movements between the two sectors",
+  "option2": "Relative quantities of production in the two sectors",
+  "option3": "The extent of trade existent between the two sectors",
+  "option4": "Relative international valuation of the agricultural produce in contrast to the industrial produce",
+  "option5": "",
+  "answer": "Relative international valuation of the agricultural produce in contrast to the industrial produce",
+  "explanation": "Terms of trade between agriculture and industry can be thought of as the ratio of prices of agricultural products to that of prices of industrial products. This is analogous to International Terms of Trade that are given by the formula: (Price of exports)/ (price of imports)."
+}

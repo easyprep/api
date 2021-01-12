@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T17:41:53.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "238aba14-0c42-43fa-9ffd-4e34d4371d57",
+  "labels": "current-affairs,2019-10-14",
+  "question": "For what conditions Proportional representation is NOT necessary in a country?",
+  "option1": "there are no reserved constituencies",
+  "option2": "a two-party system has developed",
+  "option3": "the first-past-post system prevails",
+  "option4": "there is a fusion of Presidential and Parliamentary forms of governments",
+  "option5": "",
+  "answer": "a two-party system has developed",
+  "explanation": "The main purpose of the proportional representation system is to assure the representation of all groups and ideologies. So, it is usually adopted in a multi-party system representing multiple ideologies.<br /> In a two party system, the seats are ultimately going to be divided between the two parties and there is negligible chance of leaving out a group as compared to the multi-party system.<br />So, first past the post can be adopted in two party system, avoiding the complexities of proportional representation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T20:10:23.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "417fb4fe-9bdf-475b-b492-5d7436fb54e4",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Which of the following determines the protein quality of food?",
+  "option1": "Protein amalgamation",
+  "option2": "Fiber content",
+  "option3": "Amino acids mixture",
+  "option4": "Vegetable or animal origin",
+  "option5": "",
+  "answer": "Amino acids mixture",
+  "explanation": "The PDCAAS of a dietary protein is calculated by comparing its amino acid composition against a reference pattern that roughly represents human nutritional needs. Each amino acid contained in the protein is scored in relation to this pattern, then this preliminary score is corrected for digestion availability."
+}

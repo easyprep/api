@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T16:46:27.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "6af92c8b-d38a-4788-8867-a35aca7c0da9",
+  "labels": "current-affairs,2019-09-24",
+  "question": "Match List I with List II and select the correct answer by using the codes given below the lists.\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Nankana\r\n</td>\r\n<td>\r\n1. Guru Gobind Singh\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Nanded\r\n</td>\r\n<td>\r\n2. Guru Amar Das\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Dera Baba Nanak\r\n</td>\r\n<td>\r\n3. Guru Ram Das Nanak\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Amritsar\r\n</td>\r\n<td>\r\n4. Guru Nanak\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "4 1 3 2",
+  "option2": "1 3 2 4",
+  "option3": "4 1 2 3",
+  "option4": "3 2 4 1",
+  "option5": "",
+  "answer": "4 1 3 2",
+  "explanation": "<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Nankana\r\n</td>\r\n<td>\r\n Guru Nanak\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Nanded\r\n</td>\r\n<td>\r\n Guru Gobind Singh\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Dera Baba Nanak\r\n</td>\r\n<td>\r\n Guru Ram Das Nanak\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Amritsar\r\n</td>\r\n<td>\r\n Guru Amar Das\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

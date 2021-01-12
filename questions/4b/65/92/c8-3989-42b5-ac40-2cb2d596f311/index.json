@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T18:43:31.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "4b6592c8-3989-42b5-ac40-2cb2d596f311",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Match List I with List II and select the correct answer using the codes given below them:\r\n<table width=\"398\">\r\n<tbody>\r\n<tr>\r\n<td width=\"162\">\r\nList I\r\n</td>\r\n<td width=\"220\">\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Place)\r\n</td>\r\n<td>\r\n(Importance)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Bhubaneshwar\r\n</td>\r\n<td>\r\n1. Vijayanagara architecture\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Konark\r\n</td>\r\n<td>\r\n2. Rajarani temple\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Lepakshi\r\n</td>\r\n<td>\r\n3. Vijayanagara paintings\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Halebid\r\n</td>\r\n<td>\r\n4. Hoysala monument\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n5. Sun temple\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "3 2 4 5",
+  "option2": "2 5 4 3",
+  "option3": "5 4 2 3",
+  "option4": "2 5 3 4",
+  "option5": "",
+  "answer": "2 5 3 4",
+  "explanation": "• Rajarani Temple is an 11th-century Hindu temple located in Bhubaneswar, the capital city of Odisha.<br />• Konark Sun Temple is a 13th-century CE sun temple at Konark about 35 kilometres northeast from Puri on the coastline of Odisha, India. The temple is attributed to king Narasimha deva I of the Eastern Ganga Dynasty about 1250 CE.<br />• Lepakshi is culturally and archaeologically significant as it is the location of shrines dedicated to Shiva, Vishnu and Veerabhadra which were built during the Vijayanagara Kings\\' period. The temples are the location of mural paintings of the Vijayanagara kings, Vijayanagara paintings and Kannada inscriptions.<br />• Hoysaleswara temple is also referred simply as the Halebidu temple.It is a 12th-century Hindu temple dedicated to Shiva. It is the largest monument in Halebidu, a town in the state of Karnataka, India and the former capital of the Hoysala Empire."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T16:26:34.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "7581c514-a413-46e1-93f1-542031ef6055",
+  "labels": "current-affairs,2019-10-15",
+  "question": "The Badami rock inscription of Pulakesin I is dated in the Saka year 465. Which of the following year will be similar in Vikram Samvat?",
+  "option1": 601,
+  "option2": 300,
+  "option3": 330,
+  "option4": 407,
+  "option5": "",
+  "answer": 601,
+  "explanation": "The Saka era started in 78 AD, while Vikram era started from 58 BC. So if we want to convert Badami rock inscription of Pulakesin I to Vikram era, it will be 465 + 78 + 58 = 601 Vikram Samvat."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T15:34:13.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "6552f482-38f4-4036-913a-bfc1c023b668",
+  "labels": "current-affairs,2019-09-25",
+  "question": "In which type of rocks are metals like gold and copper mostly found?",
+  "option1": "Old igneous",
+  "option2": "Old metamorphic",
+  "option3": "Old sedimentary",
+  "option4": "New metamorphic",
+  "option5": "",
+  "answer": "Old igneous",
+  "explanation": "Gold and copper are found in ore bodies associated with porphry. Porphry is a general term applied to igneous rocks of any composition that contain conspicuous phenocrysts (crystals) in a fine-grained groundmass."
+}

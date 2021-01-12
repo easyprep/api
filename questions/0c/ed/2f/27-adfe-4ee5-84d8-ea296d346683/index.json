@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T20:17:22.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "0ced2f27-adfe-4ee5-84d8-ea296d346683",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Which of the following is the speed of revolution of the earth in its orbit round the sun?",
+  "option1": "Same throughout the year",
+  "option2": "Greatest when the earth is nearest to the sun",
+  "option3": "Greatest when the earth is farthest from the sun",
+  "option4": "Least when the earth is nearest to the sun",
+  "option5": "",
+  "answer": "Greatest when the earth is nearest to the sun",
+  "explanation": "Its speed is greatest in January when it is closest to the sun. Its speed is slowest in July when it is farthest away from the sun. The animation represents 24 hours of time. Earth travels in a circular orbit at a constant speed."
+}

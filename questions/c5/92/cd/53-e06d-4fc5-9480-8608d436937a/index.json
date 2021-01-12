@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T20:29:17.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c592cd53-e06d-4fc5-9480-8608d436937a",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Which one of the following techniques can be used to establish the paternity of a child?",
+  "option1": "Protein analysis",
+  "option2": "Chromosome counting",
+  "option3": "Quantitative analysis of DNA",
+  "option4": "DNA finger-printing",
+  "option5": "",
+  "answer": "DNA finger-printing",
+  "explanation": "DNA finger printing technology is the process of establishing the biological paternal relationship between individual and his alleged child on the analysis of sample cells taken from each of them. DNA finger printing can solve cases of rape murder etc."
+}

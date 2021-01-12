@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T18:34:11.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "cca08f46-4174-41da-88da-da1f000ebd29",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Due to which of the following reasons the Superconductors are so called?",
+  "option1": "Efficiently conduct heat from one hot body to another",
+  "option2": "Offer no resistance to conduction of heat at high temperatures",
+  "option3": "Offer no resistance to conduction of electricity at low temperatures",
+  "option4": "Produce high temperatures while conducting electricity",
+  "option5": "",
+  "answer": "Offer no resistance to conduction of electricity at low temperatures",
+  "explanation": "It takes a significant amount of energy to scatter an electron from the condensate – more than the thermal energy available to an electron below the critical temperature – so the superconducting electrons can flow without being scattered, that is, without any resistance."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T16:29:30.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "7289b5d6-0d54-4718-9a56-0bc4dc0729ff",
+  "labels": "current-affairs,2019-10-15",
+  "question": "The tendency of a liquid drop to contract and occupy minimum area is due to which of the following phenomenon?",
+  "option1": "Viscosity",
+  "option2": "surface tension",
+  "option3": "density",
+  "option4": "vapour pressure",
+  "option5": "",
+  "answer": "surface tension",
+  "explanation": "It is observed that liquid drop tend to contract and appear spherical when it is set free from external forces like gravity, etc. Surface tension is the property among liquids due to which they tend to occupy minimum surface area. That\\'s why water droplet appears spherical because for a given volume, a sphere has minimum surface area. Due to this property of surface tension liquid surface stretches and behaves like a stretched membrane."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T20:33:51.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "445b64d2-4c7c-447d-83f3-e2e806dab8c1",
+  "labels": "current-affairs,2019-10-12",
+  "question": "Which space agency has launched Icon satellite to explore where air meets space?",
+  "option1": "ISRO",
+  "option2": "NASA",
+  "option3": "JAXA",
+  "option4": "Roscosmos",
+  "option5": "",
+  "answer": "NASA",
+  "explanation": "NASA has recently launched its new Ionospheric Connection Explorer (Icon)  satellite  from the Cape Canaveral Air Force Station in Florida to explore the mysterious, dynamic region where air meets space. The refrigerator-size Icon satellite will study the airglow formed from gases in the ionosphere and also measure the charged environment right around the 360-mile-high (580-kilometer-high) spacecraft. Apart from this, a NASA satellite ‘Gold’ ( launched in 2018) is also studying the upper atmosphere, but from much higher up."
+}

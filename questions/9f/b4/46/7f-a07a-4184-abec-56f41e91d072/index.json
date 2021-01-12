@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-21T15:31:07.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "9fb4467f-a07a-4184-abec-56f41e91d072",
+  "labels": "current-affairs,2019-09-22",
+  "question": "Consider the following statements regarding ‘bio medication’. It involves the use of bacteria and fungi to\r\n<ol>\r\n<li>Clean up aquifers</li>\r\n<li>Clean up toxic dumps</li>\r\n<li>Clean up oil spills</li>\r\n<li>Cure bacterial and fungal disease</li>\r\n</ol>",
+  "option1": "1 and 2 are correct",
+  "option2": "1 and 3 are correct",
+  "option3": "1, 2 and 3 are correct",
+  "option4": "1, 2, 3 and 4 are correct",
+  "option5": "",
+  "answer": "1 and 3 are correct",
+  "explanation": "Bioremediation is a process used to treat contaminated media, including water, soil and subsurface material, by altering environmental conditions to stimulate growth of microorganisms and degrade the target pollutants. Most bioremediation processes involve oxidation-reduction reactions where either an electron acceptor is added to stimulate oxidation of a reduced pollutant or an electron donor is added to reduce oxidized pollutants."
+}

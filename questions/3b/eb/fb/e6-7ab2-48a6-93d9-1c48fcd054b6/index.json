@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T21:03:54.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "3bebfbe6-7ab2-48a6-93d9-1c48fcd054b6",
+  "labels": "current-affairs,2019-09-28",
+  "question": "In an electronic watch, which of the following is the component corresponding to pendulum of a pendulum clock?",
+  "option1": "Transistor",
+  "option2": "crystal oscillator",
+  "option3": "diode",
+  "option4": "balance wheel",
+  "option5": "",
+  "answer": "crystal oscillator",
+  "explanation": "A <em>crystal oscillator</em> is an <em>electronic</em> oscillator circuit that uses the mechanical resonance of a vibrating crystal of piezoelectric material to create an electrical signal with a precise frequency. This frequency is often used to keep track of time, as in quartz wristwatches, to provide a stable <em>clock</em> signal for <em>digital</em> watches."
+}

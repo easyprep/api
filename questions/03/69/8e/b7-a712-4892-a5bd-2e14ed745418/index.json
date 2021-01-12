@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T20:30:10.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "03698eb7-a712-4892-a5bd-2e14ed745418",
+  "labels": "current-affairs,2019-10-14",
+  "question": "If the earth’s direction of rotation is reversed, what would be the 1ST when it is noon at the International Date Line?",
+  "option1": "06.30 hrs",
+  "option2": "05.30 hrs",
+  "option3": "18.30 hrs",
+  "option4": "17.30 hrs",
+  "option5": "",
+  "answer": "06.30 hrs",
+  "explanation": "India is a large country spanning over 30° of longitude. It is unusual in having a single time zone all over the country, 5½ hours fast. If the direction of rotation of earth is reversed then Indian Standard Time will be – 5½ hr. When it is noon the time is 12:00; that will be 6:30 A.M.in place of 17:30 P.M. or 5:30 P.M."
+}

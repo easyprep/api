@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-21T14:32:26.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "273d4d33-e197-41bb-ac99-9e1488d9ecf9",
+  "labels": "current-affairs,2019-09-22",
+  "question": "Consider the following activities indulged in by a candidate during an election campaign:\r\n<ol>\r\n<li>Giving gifts to voters to induce them to vote</li>\r\n<li>Appealing for votes on the grounds of caste or religion</li>\r\n<li>False character assassination of other candidates</li>\r\n<li>Propagation and glorification of sati</li>\r\n</ol>\r\nWhich of these constitute the corrupt practices?",
+  "option1": "1 and 2",
+  "option2": "2 and 3",
+  "option3": "1, 2 and 3",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "There is no mention particularly of propagation and glorification of sati which can be used against the candidate."
+}

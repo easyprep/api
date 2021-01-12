@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T14:57:56.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "f016edc5-fd2f-4c3c-a223-34d0db0700dc",
+  "labels": "current-affairs,2019-10-12",
+  "question": "What is the system of governance in the Panchayati Raj setup?",
+  "option1": "Single-tier structure of local self-government at the village level",
+  "option2": "Two-tier system of local self-government at the village and block levels",
+  "option3": "Three-tier structure of local self-government, at the village, block and district levels",
+  "option4": "Four-tier system of local self-government at the village, block, district and state levels",
+  "option5": "",
+  "answer": "Three-tier structure of local self-government, at the village, block and district levels",
+  "explanation": "In India, the Panchayati Raj now functions as a system of governance in which gram panchayats are the basic units of local administration. The system has three levels: Gram Panchayat (village level), Mandal Parishad or Block Samiti or Panchayat Samiti (block level), and Zila Parishad (district level)."
+}

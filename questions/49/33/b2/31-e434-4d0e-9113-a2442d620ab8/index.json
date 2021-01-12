@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T15:32:14.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "4933b231-e434-4d0e-9113-a2442d620ab8",
+  "labels": "current-affairs,2019-09-23",
+  "question": "To elect the President of India which one of the following election procedures is used?",
+  "option1": "System of proportional representation by means of a single transferable vote",
+  "option2": "Proportional representation through list system",
+  "option3": "Collective voting system",
+  "option4": "Secondary voting system",
+  "option5": "",
+  "answer": "System of proportional representation by means of a single transferable vote",
+  "explanation": "The single transferable vote is a voting system designed to achieve proportional representation through ranked voting in multi-seat organizations or constituencies. Under STV, an elector has a single vote that is initially allocated to their most preferred candidate. Party list proportional representation is an electoral system in which seats are first allocated to parties based on vote share, and then assigned to party-affiliated candidates on the parties\\' electoral list."
+}

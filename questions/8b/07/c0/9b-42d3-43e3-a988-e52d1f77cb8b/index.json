@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T15:51:19.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "8b07c09b-42d3-43e3-a988-e52d1f77cb8b",
+  "labels": "current-affairs,2019-09-25",
+  "question": "Why man cannot digest cellulose whereas cows can do so?",
+  "option1": "Their gut contains certain bacteria capable of digesting cellulose",
+  "option2": "They have a many-chambered stomach",
+  "option3": "They have efficient grinding molars",
+  "option4": "They produce enzyme cellulose which can digest cellulose",
+  "option5": "",
+  "answer": "Their gut contains certain bacteria capable of digesting cellulose",
+  "explanation": "Unlike cows for example don\\'t have the necessary bacteria in their intestines that make the enzymes necessary to breakdown the 1-4 beta glucose bonds. So we cannot break down cellulose into its constituent glucose molecules as we do with starch."
+}

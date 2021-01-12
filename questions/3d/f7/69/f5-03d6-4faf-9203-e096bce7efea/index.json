@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T16:38:29.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "3df769f5-03d6-4faf-9203-e096bce7efea",
+  "labels": "current-affairs,2019-09-28",
+  "question": "Which of the following statements regarding the advisory jurisdiction of the Supreme Court are correct?<br />I. It is binding on the Supreme Court to give its opinion on any matter referred to it by the President.<br />II. The full bench of the Supreme Court hears any reference made to it under its power of advisory jurisdiction.<br />III. The opinion given by the Supreme Court on a reference under advisory jurisdiction is not binding on the government.<br />IV. Not more than one reference at a time can be made to the Supreme Court under its power of advisory jurisdiction.<br />Select the answer from the codes given below:",
+  "option1": "I and II",
+  "option2": "I and III",
+  "option3": "II and III",
+  "option4": "II and IV",
+  "option5": "",
+  "answer": "I and III",
+  "explanation": "1. Article 143 does not speak of administration of justice or any adjudication. It is not adjudication but consultation, an advisory function designed to assist the President (the Executive).<br />1. Accordingly, there is to be no judgement, decree or order but opinion to be forwarded to the President in a report.<br />2. Its scope is, however, wider, as it provides that any question of law or fact of public importance may be referred by the President for the consideration of the Supreme Court<br />3. The opinion of the Supreme Court is only advisory and not binding. The President is free to follow or not to follow. (Keshav Singh’s Case, AIR 1965 SC 745). However, even if the opinion given in the exercise of advisory jurisdiction may not be binding, it carries weight and has great persuasive value.<br />4. It was also held by the Supreme Court that the references made under this Article are not the “law declared by the Supreme Court” under Article 141 of the Constitution. So it is not binding on inferior courts, even though have high persuasive value."
+}

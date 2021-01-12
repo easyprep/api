@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T15:01:55.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "ce6928da-3506-496b-8a47-5e3b57774d59",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Which one of the following types of borrowings from the IMF has the softest servicing conditions?",
+  "option1": "Second tranche loan",
+  "option2": "SAF",
+  "option3": "ESAF",
+  "option4": "Oil Facility",
+  "option5": "",
+  "answer": "Second tranche loan",
+  "explanation": "A tranche is a common financial structure for securitized debt products, such as a collateralized debt obligation (CDO), which pools together a collection of cash flow-generating assets—such as mortgages, bonds and loans—or a mortgage-backed security (MBS)."
+}

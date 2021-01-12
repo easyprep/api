@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T15:36:29.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "698fa3e7-9842-4da6-ba5b-d4e6515efbea",
+  "labels": "current-affairs,2019-09-25",
+  "question": "Which one of the following will take place when a watch based on oscillating spring is taken to a deep mine?",
+  "option1": "It will become slow",
+  "option2": "it will become fast",
+  "option3": "It will indicate the same time as on earth",
+  "option4": "It will stop working",
+  "option5": "",
+  "answer": "It will indicate the same time as on earth",
+  "explanation": "Oscillating period T = 2PI√x/g<br />x being the spring compression<br />g the gravitational field<br />as x = F/k = m*g/k , then √x/g becomes √m*g/(k*g) = √m/k = constant ..(having mass m and spring constant k always the same value everywhere)<br />and finally :<br />T = 2PI*constant = constant<br />even though in deep mines g becomes less than gravitation as sea level so It will indicate the same time as on earth."
+}

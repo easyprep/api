@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T15:27:53.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "fdc13577-9bf6-4298-b6e2-7b4e7099a1d3",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Which one of the following can be prorogued but cannot be dissolved?",
+  "option1": "Rajya Sabha",
+  "option2": "State Council",
+  "option3": "Municipal Corporation",
+  "option4": "Governing Council in a Union Territory",
+  "option5": "",
+  "answer": "Rajya Sabha",
+  "explanation": "The Rajya Sabha is a permanent house. It cannot be dissolved. One-third of its members retire after every two years and elections to the vacant Rajya Sabha seats are held for those States."
+}

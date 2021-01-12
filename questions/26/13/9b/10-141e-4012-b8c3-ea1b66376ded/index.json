@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-24T18:28:43.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "26139b10-141e-4012-b8c3-ea1b66376ded",
+  "labels": "current-affairs,2019-09-25",
+  "question": "At what temperature are the readings of a Centigrade and Fahrenheit thermometer the same?",
+  "option1": -40,
+  "option2": 212,
+  "option3": 40,
+  "option4": 100,
+  "option5": "",
+  "answer": -40,
+  "explanation": "To find the temperature when both are equal, we use an old algebra trick and just set ºF = ºC and solve one of the equations. So the temperature when both the Celsius and Fahrenheit scales are the same is -40 degrees."
+}

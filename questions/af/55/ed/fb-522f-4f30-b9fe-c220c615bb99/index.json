@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T18:19:12.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "af55edfb-522f-4f30-b9fe-c220c615bb99",
+  "labels": "current-affairs,2019-09-24",
+  "question": "Match List I with List II and select the correct answer by using the codes given below the lists.\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Barometer\r\n</td>\r\n<td>\r\n1. Used for measuring altitudes and angles in navigation and astronomy\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Chronometer\r\n</td>\r\n<td>\r\n2. Used for measurement of angular distances between two digits\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Sextant\r\n</td>\r\n<td>\r\n3. Keeps very accurate time as the one that is used to determine longitude at sea\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Quadrant\r\n</td>\r\n<td>\r\n4. Used for measuring atmospheric pressure\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n5. An instrument used in the diagnosis of pregnancy\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "2 3 5 4",
+  "option2": "4 2 5 1",
+  "option3": "1 4 2 3",
+  "option4": "4 3 2 1",
+  "option5": "",
+  "answer": "4 3 2 1",
+  "explanation": "• A barometer is a scientific instrument that is used to measure air pressure in a certain environment. Pressure tendency can forecast short term changes in the weather. Many measurements of air pressure are used within surface weather analysis to help find surface troughs, pressure systems and frontal boundaries.<br />• The term chronometer was coined by Jeremy Thacker of Beverley, England in 1714, referring to his invention of a clock ensconced in a vacuum chamber. The term chronometer is also used to describe a marine chronometer used for celestial navigation and determination of longitude.<br />• A sextant is a doubly reflecting navigation instrument that measures the angular distance between two visible objects. The primary use of a sextant is to measure the angle between an astronomical object and the horizon for the purposes of celestial navigation.<br />• A quadrant is an instrument that is used to measure angles up to 90°. Different versions of this instrument could be used to calculate various readings, such as longitude, latitude, and time of day. It was originally proposed by Ptolemy as a better kind of astrolabe."
+}

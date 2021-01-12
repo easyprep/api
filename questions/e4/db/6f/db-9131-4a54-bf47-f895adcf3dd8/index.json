@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T15:06:28.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "e4db6fdb-9131-4a54-bf47-f895adcf3dd8",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Bank Rate implies the rate of interest?",
+  "option1": "paid by the Reserve Bank of India on the Deposits of Commercial Banks",
+  "option2": "charged by Banks on loans and advances",
+  "option3": "payable on Bonds",
+  "option4": "at which the Reserve Bank of India discounts the Bills of Exchange",
+  "option5": "",
+  "answer": "at which the Reserve Bank of India discounts the Bills of Exchange",
+  "explanation": "Under Section 49 of the Reserve Bank of India Act, 1934, the Bank Rate has been defined as \\\"the standard rate at which the Reserve Bank is prepared to buy or re-discount bills of exchange or other commercial paper eligible for purchase under the Act.\\\""
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T16:06:42.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c9470db8-61be-4de2-88e3-5f79db60269a",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Match:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Deforestation\r\n</td>\r\n<td>\r\n1. Vacuoles\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Cellular structure\r\n</td>\r\n<td>\r\n2. Maize\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Cross pollination\r\n</td>\r\n<td>\r\n3. Soil erosion\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Nitrogen fixation\r\n</td>\r\n<td>\r\n4. Legumes\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "3 1 2 4",
+  "option2": "1 2 4 3",
+  "option3": "4 1 2 3",
+  "option4": "2 3 4 1",
+  "option5": "",
+  "answer": "3 1 2 4",
+  "explanation": "• Soil erosion due to Deforestation: Tree roots anchor the soil. Without trees, the soil is free to wash or blow away, which can lead to vegetation growth problems. The WWF states that scientists estimate that a third of the world\\'s arable land has been lost to deforestation since 1960.<br />• A vacuole is a cell organelle found in a number of different cell types. Vacuoles are fluid-filled, enclosed structures that are separated from the cytoplasm by a single membrane. They are found mostly in plant cells and fungi. However, some protists, animal cells, and bacteria also contain vacuoles.<br />• Under self-pollination, the silks of an ear are pollinated by pollen from the same plant. Typically, little self-pollination occurs in a field of maize. Most silks of a given plant are pollinated by pollen from surrounding plants.<br />• In legumes and a few other plants, the bacteria live in small growths on the roots called nodules. Within these nodules, nitrogen fixation is done by the bacteria, and the NH3 they produce is absorbed by the plant. Nitrogen fixation by legumes is a partnership between a bacterium and a plant."
+}

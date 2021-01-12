@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T20:34:52.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "63dffd26-173d-4ae6-99fa-08fe343e0419",
+  "labels": "current-affairs,2019-09-21",
+  "question": "Consider the following commodities:\r\n<ol>\r\n<li>Tea</li>\r\n<li>Cotton cloth</li>\r\n<li>Cereals</li>\r\n<li>Edible oils</li>\r\n<li>Sugarcane</li>\r\n</ol>\r\nAmong these, whose per capita availability has remained more or less static in India?",
+  "option1": "1, 2 and 3",
+  "option2": "1, 2, 3 and 4",
+  "option3": "1, 4 and 5",
+  "option4": "2, 3, 4 and 5",
+  "option5": "",
+  "answer": "2, 3, 4 and 5",
+  "explanation": "Cotton cloth, Cereals, Edible oils, Sugarcane are the commodities whose per capita availability has remained more or less static in India."
+}

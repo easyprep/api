@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T20:36:13.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "10748c4f-c6f3-4197-b20c-98dadb8e6a12",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Which one of the following stars is nearest to the earth?",
+  "option1": "Polaris",
+  "option2": "Alpha Centauri",
+  "option3": "Sun",
+  "option4": "Sirius",
+  "option5": "",
+  "answer": "Sun",
+  "explanation": "Sun is the nearest star to the earth. The nearest stars except sun to Earth are in the Alpha Centauri triple-star system, about 4.37 light-years away. One of these stars, Proxima Centauri, is slightly closer, at 4.24 light-years. Of all the stars closer than 15 light-years, only two are spectral type G, similar to our sun: Alpha Centauri A and Tau Ceti."
+}

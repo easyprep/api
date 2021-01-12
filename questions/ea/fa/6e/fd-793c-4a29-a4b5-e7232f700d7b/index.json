@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-11T15:28:21.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "eafa6efd-793c-4a29-a4b5-e7232f700d7b",
+  "labels": "current-affairs,2019-10-12",
+  "question": "Which of the following would lead to ‘malnutrition’?<br />I. Overnutrition<br />II. Undernutrition<br />III. Imbalanced nutrition.<br />Select the correct answer by using the codes given below:",
+  "option1": "II alone",
+  "option2": "II and III",
+  "option3": "I and III",
+  "option4": "I, II and III",
+  "option5": "",
+  "answer": "I, II and III",
+  "explanation": "Malnutrition is defined as the insufficient, excessive or imbalanced consumption of nutrients. So under nutrition, over nutrition and imbalanced nutrition leads to malnutrition."
+}

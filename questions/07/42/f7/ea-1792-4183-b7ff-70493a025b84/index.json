@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T16:45:01.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "0742f7ea-1792-4183-b7ff-70493a025b84",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Which of the following chemicals is used as a ‘fixer’ in photography?",
+  "option1": "sodium sulphate",
+  "option2": "sodium thiosulphate",
+  "option3": "ammonium persulphate",
+  "option4": "borax",
+  "option5": "",
+  "answer": "sodium thiosulphate",
+  "explanation": "Fixation is commonly achieved by treating the film or paper with a solution of thiosulfate salt. Popular salts are sodium thiosulfate and ammonium thiosulfate. These are commonly used in modern rapid fixer formulae."
+}

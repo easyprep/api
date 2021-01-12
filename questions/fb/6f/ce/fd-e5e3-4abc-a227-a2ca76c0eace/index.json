@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T14:49:05.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "fb6fcefd-e5e3-4abc-a227-a2ca76c0eace",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Who among the following carries the Haemophilia, a hereditary disease?",
+  "option1": "females and expressed by females",
+  "option2": "females and expressed by males",
+  "option3": "males and expressed by females",
+  "option4": "males and expressed by males",
+  "option5": "",
+  "answer": "females and expressed by males",
+  "explanation": "If he inherits his mother\\'s other X chromosome, he will have normal blood clotting. So a carrier\\'s son has a 50% chance of having hemophilia. A baby girl will inherit an X chromosome with a dominant gene for normal blood clotting from her father. So the daughter will not have hemophilia."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-14T14:56:40.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "dd2948d0-08d9-49ea-86df-e30b12e3541a",
+  "labels": "current-affairs,2019-10-15",
+  "question": "Oxygen transportation in a human body takes place through<br />I. Blood<br />II. Lungs<br />III. Tissue<br />The correct sequence of transportation is",
+  "option1": "I, II, III",
+  "option2": "III, I, II",
+  "option3": "II, I, III",
+  "option4": "I, III, II",
+  "option5": "",
+  "answer": "II, I, III",
+  "explanation": "The lungs serve to exchange the two gases in the blood. Oxygen enters the blood from the lungs and carbon dioxide is expelled out of the blood into the lungs. The blood serves to transport both gases. Oxygen is carried to the cells and tissues."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T21:35:25.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "e8328d79-8180-4e55-9cc2-d4e0ded19a51",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Total internal reflection can take place when light travels from?",
+  "option1": "diamond to glass",
+  "option2": "water to glass",
+  "option3": "air to water",
+  "option4": "air to glass",
+  "option5": "",
+  "answer": "diamond to glass",
+  "explanation": "Total internal reflection can take place when light travels from diamond to glass.<br />When light travels from one medium to another it changes speed and is refracted. If the light rays are travelling for a less dense material to a dense medium they are refracted towards the normal and if they are travelling from a dense to less dense medium they are refracted away from the normal.<br />For total internal reflection to occur the light must travel from a dense medium to a less dense medium (e.g. glass to air or water to air).As the angle of incidence increases so does the angle of refraction. When the angle of incidence reaches a value known as the critical angle the refracted rays travel along the surface of the medium or in other words are refracted to an angle of 90°. The critical angle for the angle of incidence in glass is 42°."
+}

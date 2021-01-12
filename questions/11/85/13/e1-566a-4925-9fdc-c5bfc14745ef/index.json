@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-21T18:54:25.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "118513e1-566a-4925-9fdc-c5bfc14745ef",
+  "labels": "current-affairs,2019-09-22",
+  "question": "Which of the following has the similar properties to the Photons?",
+  "option1": "Waves",
+  "option2": "Particles",
+  "option3": "Both particles and waves",
+  "option4": "Neither particles nor waves",
+  "option5": "",
+  "answer": "Particles",
+  "explanation": "To put it simply photons are the fundamental particle of light. They have a unique property in that they are both a particle and a wave. This is what allows photons unique properties like refraction and diffusion. However light particles are not quite the same as other elementary particles."
+}

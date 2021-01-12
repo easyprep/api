@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T20:12:03.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "58da0378-a49a-467a-b006-50893d4bbd86",
+  "labels": "current-affairs,2019-09-23",
+  "question": "The path of Halley’s Comet in its orbit around the sun is of what shape?",
+  "option1": "Parabolic",
+  "option2": "Hyperbolic",
+  "option3": "Elliptical",
+  "option4": "Circular",
+  "option5": "",
+  "answer": "Elliptical",
+  "explanation": "Halley\\'s orbital period has varied between 74–79 years since 240 BC. Its orbit around the Sun is highly elliptical, with an orbital eccentricity of 0.967 (with 0 being a circle and 1 being a parabolic trajectory). The perihelion, the point in the comet\\'s orbit when it is nearest the Sun, is just 0.6 AU."
+}

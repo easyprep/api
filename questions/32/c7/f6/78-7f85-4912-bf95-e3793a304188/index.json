@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T17:43:06.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "32c7f678-7f85-4912-bf95-e3793a304188",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Match List I and List II and select the correct answer by using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Committees)\r\n</td>\r\n<td>\r\n(Chaired by)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Disinvestment of shares in Public Sector Enterprises\r\n</td>\r\n<td>\r\n(A) Rajah Chelliah\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Industrial Sickness\r\n</td>\r\n<td>\r\n(B) Onkar Goswami\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Tax Reforms\r\n</td>\r\n<td>\r\n(C) R.N. Malhotra\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. Reforms in Insurance Sector\r\n</td>\r\n<td>\r\n(D) C. Rangarajan\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-A, II-D. III-B, IV-C",
+  "option2": "I-D, II-B, III-A, IV-C",
+  "option3": "I-D, II-A, III-B, IV-C",
+  "option4": "I-A, II-C, III-D, IV-B",
+  "option5": "",
+  "answer": "I-D, II-B, III-A, IV-C",
+  "explanation": "Chelliah Committee on Tax Reforms – 1993 <br />Omkar Goswami Committee on Industrial Sickness – 1994<br />Rangarajan Committee on Disinvestment of Shares in PSUs – April 1993<br />RN Malhotra Committee on Reforms in Insurance Sector – 1993\r\n&nbsp;"
+}

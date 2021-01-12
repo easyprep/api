@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T15:38:55.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "2f8c592c-c171-4d04-8c0d-2379cbb64194",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Which one of the following techniques has helped to solve many mysteries involving murders, robberies and rapes?",
+  "option1": "Gene splicing",
+  "option2": "Computer tomography",
+  "option3": "DNA fingerprinting",
+  "option4": "Gene cloning",
+  "option5": "",
+  "answer": "DNA fingerprinting",
+  "explanation": "DNA profiling, also called DNA fingerprinting is a forensic technique in criminal investigations, comparing criminal suspects\\' profiles to DNA evidence so as to assess the likelihood of their involvement in the crime. It is also used in parentage testing, to establish immigration eligibility, and in genealogical and medical research."
+}

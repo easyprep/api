@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-21T14:55:16.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "e98a77b5-4bdf-4aa2-b4d5-bdc60b580282",
+  "labels": "current-affairs,2019-09-22",
+  "question": "Match List I with List II and select the correct answer using the codes given below them:\r\n<table width=\"176\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Pulse)\r\n</td>\r\n<td>\r\n(Protein%)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Cow pea\r\n</td>\r\n<td>\r\n1. 22.9\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Rajmah\r\n</td>\r\n<td>\r\n2. 43.2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Soybean\r\n</td>\r\n<td>\r\n3. 24.1\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Dry peas\r\n</td>\r\n<td>\r\n4. 19.7\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "1 2 3 4",
+  "option2": "1 4 3 2",
+  "option3": "3 1 2 4",
+  "option4": "4 3 1 2",
+  "option5": "",
+  "answer": "3 1 2 4",
+  "explanation": "Solution:\r\n<table width=\\\"176\\\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Pulse)\r\n</td>\r\n<td>\r\n(Protein%)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Cow pea\r\n</td>\r\n<td>\r\n24.1\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Rajmah\r\n</td>\r\n<td>\r\n22.9\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Soybean\r\n</td>\r\n<td>\r\n43.2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Dry peas\r\n</td>\r\n<td>\r\n19.7\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

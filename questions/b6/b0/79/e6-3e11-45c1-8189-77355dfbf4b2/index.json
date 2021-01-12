@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T20:52:02.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "b6b079e6-3e11-45c1-8189-77355dfbf4b2",
+  "labels": "current-affairs,2019-10-11",
+  "question": "If the number of seats allocated to a state in the Lok Sabha is 42, then which of the following will be the number of seats reserved for the Scheduled Castes in that state?",
+  "option1": 21,
+  "option2": 14,
+  "option3": 7,
+  "option4": 6,
+  "option5": "",
+  "answer": 6,
+  "explanation": "According to Article 330(2) the number of seats reserved in any state or Union territory for the scheduled caste or scheduled tribes under clause (1) shall been, as nearly as may be, the same proportion to the total number of seats allocated to that state/ UT in the House of the people as the population SC/ST bears to the total population of the state/ UT."
+}

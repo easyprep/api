@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T15:33:27.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "54f3da6a-267f-44a3-80d0-89191e4c8b0c",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Below, data regarding cultivation of a particular type of crop in four States/Union Territories of India is given. Of the following which is this cultivated crop?\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nState/Union Territory\r\n</td>\r\n<td>\r\nArea under cultivation<br />(million hectares)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nKerala\r\n</td>\r\n<td>\r\n108\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nTamil Nadu\r\n</td>\r\n<td>\r\n8\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nKarnataka\r\n</td>\r\n<td>\r\n2\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nAndaman &amp; Nicobar Islands\r\n</td>\r\n<td>\r\n0.8\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+  "option1": "Coffee",
+  "option2": "Tea",
+  "option3": "Rubber",
+  "option4": "Rice",
+  "option5": "",
+  "answer": "Rubber",
+  "explanation": "Kerala is the largest producer of natural rubber in India. Other important producers are Tamil Nadu, Karnataka and Andaman and Nicobar Islands. Kerala produces about 6 lakh tons of rubber, which is more than 80 per cent of the total rubber production in India."
+}

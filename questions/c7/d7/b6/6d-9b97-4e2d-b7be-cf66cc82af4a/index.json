@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-22T18:22:51.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c7d7b66d-9b97-4e2d-b7be-cf66cc82af4a",
+  "labels": "current-affairs,2019-09-23",
+  "question": "Which of the following is the atoms of the same element having the same atomic number but different atomic weight?",
+  "option1": "Isobars",
+  "option2": "Isotopes",
+  "option3": "Polymers",
+  "option4": "Isomers",
+  "option5": "",
+  "answer": "Isotopes",
+  "explanation": "The atoms of a chemical element can exist in different types. These are called isotopes. They have the same number of protons (and electrons), but different numbers of neutrons. Different isotopes of the same element have different masses."
+}

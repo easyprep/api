@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-27T21:41:24.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "87980d1e-ed58-4a4f-82d2-2871ef608c2f",
+  "labels": "current-affairs,2019-09-28",
+  "question": "A corked bottle full of water when frozen will break due to which of the following reasons?",
+  "option1": "the bottle contracts on freezing",
+  "option2": "the volume of water decreases on freezing",
+  "option3": "the volume of water increases on freezing",
+  "option4": "glass is a bad conductor of heat",
+  "option5": "",
+  "answer": "the volume of water increases on freezing",
+  "explanation": "If you put a glass bottle in the freezer, the level of the liquid will decrease as the temperature drops, until 3.98 C, at which point it starts to expand again as the volume of water increases on freezing. So unless the glass jar is tremendously strong, as the water freezes, it will break."
+}

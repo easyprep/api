@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T20:42:42.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "ffe8e794-459a-4b5c-8f1a-e8cf731ec204",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Which arrangement of the following show the correct sequence of demographic transition as typically associated with economic development?<br />I. High birth rate with high death<br />II. Low birth rate with low death<br />III. High birth rate with low death<br />Choose the answer from the codes given below: <br />Codes:",
+  "option1": "I, II, III",
+  "option2": "I, III, II",
+  "option3": "III, I, II",
+  "option4": "II, I, III",
+  "option5": "",
+  "answer": "I, III, II",
+  "explanation": "There are four stages to the classical demographic transition model:<br />• Stage 1: Pre-transition<br />Characterized by high birth rates, and high fluctuating death rates. Population growth was kept low by Malthusian \\\"preventative\\\" (late age at marriage) and \\\"positive\\\" (famine, war, pestilence) checks.<br />• Stage 2: Early transition<br />During the early stages of the transition, the death rate begins to fall. As birth rates remain high, the population starts to grow rapidly.<br />• Stage 3: Late transition<br />Birth rates start to decline. The rate of population growth decelerates.<br />• Stage 4: Post-transition<br />Post-transitional societies are characterized by low birth and low death rates. Population growth is negligible, or even enters a decline."
+}

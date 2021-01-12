@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-20T20:20:48.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "45e17270-8dd4-4a3d-be59-1817845a3d83",
+  "labels": "current-affairs,2019-09-21",
+  "question": "What does the sudden decrease in atmospheric pressure indicates?\r\nIt is an example of",
+  "option1": "Fair weather",
+  "option2": "Cyclone",
+  "option3": "Cold wave",
+  "option4": "Rain",
+  "option5": "",
+  "answer": "Cyclone",
+  "explanation": "Falling pressure indicates the mass of the atmosphere above a point is decreasing, which can happen as the result of various atmospheric processes. In general, weather systems with low pressure at their centers (called cyclones) are associated with unsettled weather (clouds and precipitation) and strong winds."
+}

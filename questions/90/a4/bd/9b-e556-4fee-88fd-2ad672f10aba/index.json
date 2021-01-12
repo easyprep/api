@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T15:49:13.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "90a4bd9b-e556-4fee-88fd-2ad672f10aba",
+  "labels": "current-affairs,2019-10-11",
+  "question": "A person with ‘AB’ blood group is sometimes called a universal recipient because of the?",
+  "option1": "lack of antigen in his blood",
+  "option2": "lack of antibodies in his blood",
+  "option3": "lack of both antigens and antibodies in his blood",
+  "option4": "presence of antibodies in his blood",
+  "option5": "",
+  "answer": "lack of antibodies in his blood",
+  "explanation": "Type AB is considered the universal recipient, as they have both A and B antigens on their red blood cells, and thus their body does not have antibodies against A or B antigen cells, so they can receive blood from any blood type."
+}

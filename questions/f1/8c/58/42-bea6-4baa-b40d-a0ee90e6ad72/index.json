@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T17:12:32.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "f18c5842-bea6-4baa-b40d-a0ee90e6ad72",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Match List I and List II and select the correct answer by using the codes given below the lists:\r\n<table width=\"244\">\r\n<tbody>\r\n<tr>\r\n<td width=\"105\">\r\nList I\r\n</td>\r\n<td width=\"139\">\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"105\">\r\nI. Malaria\r\n</td>\r\n<td width=\"139\">\r\n(A) Bone marrow\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"105\">\r\nII. Filaria\r\n</td>\r\n<td width=\"139\">\r\n(B) Brain\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"105\">\r\nIII. Encephalitis\r\n</td>\r\n<td width=\"139\">\r\n(C) Muscle\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"105\">\r\nIV. Leukaemia\r\n</td>\r\n<td width=\"139\">\r\n(D) Lymph node\r\n</td>\r\n</tr>\r\n<tr>\r\n<td width=\"105\">\r\n&nbsp;\r\n</td>\r\n<td width=\"139\">\r\n(E) Blood cells\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-E, II-C, III-B, IV-A",
+  "option2": "I-E, II-D, III-B, IV-A",
+  "option3": "I-D, II-C, III-E, IV-A",
+  "option4": "I-E, II-D, III-A, IV-B",
+  "option5": "",
+  "answer": "I-E, II-D, III-B, IV-A",
+  "explanation": "• Invasion by the malaria parasite, Plasmodium falciparum, brings about extensive changes in the host red cells. Numerous proteins secreted by the internalized parasite and interacting with red cell membrane proteins are responsible for the changes occurring to the host cell.<br />• Lymphatic filariasis is caused by the worms Wuchereria bancrofti, Brugia malayi, and Brugia timori. These worms occupy the lymphatic system, including the lymph nodes; in chronic cases these worms lead to the syndrome of elephantiasis. These worms occupy the subcutaneous layer of the skin, in the fat layer.<br />• Encephalitis is an acute inflammation of the brain usually resulting from either a viral infection or due to the body\\'s own immune system mistakenly attacking brain tissue.<br />• Leukaemia is a cancer that starts in blood-forming tissue, usually the bone marrow. It leads to the over-production of abnormal white blood cells, the part of the immune system which defends the body against infection."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T22:16:44.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "21cdaf31-6abf-4b30-8b7d-41eee0ce0467",
+  "labels": "current-affairs,2019-10-11",
+  "question": "The 2019 Nobel prize in Chemistry has been awarded for discovery in which field?",
+  "option1": "Directed evolution of enzymes",
+  "option2": "Cryo-electron microscopy",
+  "option3": "Lithium-ion batteries",
+  "option4": "Phage display of peptides and antibodies",
+  "option5": "",
+  "answer": "Lithium-ion batteries",
+  "explanation": "The Nobel Prize 2019 for Chemistry has jointly been awarded to three scientists  - John D. Goodenough, M. Stanley Whittingham and Akira Yoshino - for the development of lithium-ion batteries that we use in everyday life from mobile phones to electric vehicles."
+}

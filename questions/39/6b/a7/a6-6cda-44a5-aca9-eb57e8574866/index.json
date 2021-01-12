@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T17:34:45.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "396ba7a6-6cda-44a5-aca9-eb57e8574866",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Match List I and List II and select the correct answer by using the codes given below the lists:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n(Events)\r\n</td>\r\n<td>\r\n(Results)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Morley-Minto Reforms\r\n</td>\r\n<td>\r\n(A) Country-wide agitation\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Simon Commission\r\n</td>\r\n<td>\r\n(B) Withdrawal of a movement\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. The Chauri-Chaura incident\r\n</td>\r\n<td>\r\n(C) Communal Electorates\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. The Dandi March\r\n</td>\r\n<td>\r\n(D) Communal outbreaks\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n(E) Illegal manufacture of salt\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-C, II-D, III-E, IV-B",
+  "option2": "I-D, II-A. III-B, IV-C",
+  "option3": "I-B, II-C, III-D, IV-E",
+  "option4": "I-C, II-A, III-B, IV-E",
+  "option5": "",
+  "answer": "I-C, II-A, III-B, IV-E",
+  "explanation": "<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\n(Events)\r\n</td>\r\n<td>\r\n(Results)\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Morley-Minto Reforms\r\n</td>\r\n<td>\r\n(A) Communal Electorates \r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Simon Commission\r\n</td>\r\n<td>\r\n(B) Country-wide agitation \r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. The Chauri-Chaura incident\r\n</td>\r\n<td>\r\n(C) Withdrawal of a movement\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIV. The Dandi March\r\n</td>\r\n<td>\r\n Illegal manufacture of salt\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

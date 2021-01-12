@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T16:21:08.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "b6e346d1-fc13-4086-8f66-272924bc9c5d",
+  "labels": "current-affairs,2019-10-11",
+  "question": "Match the columns:\r\n<table>\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td>\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nNames of instruments\r\n</td>\r\n<td>\r\nThe quantities they measure\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nA. Anemometer\r\n</td>\r\n<td>\r\n1. Speed of rotation\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nB. Ammeter\r\n</td>\r\n<td>\r\n2. High temperatures\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nC. Tachometer\r\n</td>\r\n<td>\r\n3. Wind speed\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nD. Pyrometer\r\n</td>\r\n<td>\r\n4. Electric current\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td>\r\n5. Pressure difference\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n     A B C D",
+  "option1": "4 3 1 5",
+  "option2": "3 4 1 2",
+  "option3": "3 5 2 1",
+  "option4": "1 4 5 2",
+  "option5": "",
+  "answer": "3 4 1 2",
+  "explanation": "• An anemometer is a device used for measuring wind speed and is also a common weather station instrument. The term is derived from the Greek word anemos, which means wind, and is used to describe any wind speed instrument used in meteorology.<br />• An ammeter is a measuring instrument used to measure the current in a circuit. Electric currents are measured in amperes (A). Instruments used to measure smaller currents, in the milliampere or microampere range, are designated as milliammeters or microammeters.<br />• A tachometer is an instrument measuring the rotation speed of a shaft or disk, as in a motor or other machine. The device usually displays the revolutions per minute (RPM) on a calibrated analogue dial, but digital displays are increasingly common.<br />• A pyrometer is a type of remote-sensing thermometer used to measure the temperature of a surface. Various forms of pyrometers have historically existed. Modern pyrometers or infrared thermometers also measure the temperature of cooler objects, down to room temperature, by detecting their infrared radiation flux."
+}

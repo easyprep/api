@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-10T21:10:55.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "5143286d-c583-4d55-b3b5-0bf4e1f208bf",
+  "labels": "current-affairs,2019-10-11",
+  "question": "The alpha-particle carries two positive charges. Its mass is very nearly equal to that of?",
+  "option1": "two protons",
+  "option2": "an atom of helium",
+  "option3": "sum of masses of two positrons and two neutrons",
+  "option4": "two positrons as each positron carries a single positive charge",
+  "option5": "",
+  "answer": "an atom of helium",
+  "explanation": "Each alpha particle contains two protons and two neutrons. Total number of nucleons = Number of protons + Number of neutrons = 2 + 2 = 4 Total number of nucleons = Mass number of an element Thus mass number of alpha particle is 4 which is equal to molecular weight of helium atom."
+}

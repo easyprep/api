@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T16:04:20.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "c5a4d57c-a339-4b73-8be9-a9d6fb0c0bca",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Which one of the following pairs is correctly matched?",
+  "option1": "Rationing: Fiscal control",
+  "option2": "Cash Reserve Ratio: Selective Credit Control",
+  "option3": "Licensing: Comprehensive Control",
+  "option4": "Import Quota : Physical control",
+  "option5": "",
+  "answer": "Import Quota : Physical control",
+  "explanation": "An import quota is a type of trade restriction that sets a physical limit on the quantity of a good that can be imported into a country in a given period of time. Quotas, like other trade restrictions, are typically used to benefit the producers of a good in that economy."
+}

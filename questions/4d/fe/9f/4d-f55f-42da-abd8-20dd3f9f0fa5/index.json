@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T21:15:52.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "4dfe9f4d-f55f-42da-abd8-20dd3f9f0fa5",
+  "labels": "current-affairs,2019-09-24",
+  "question": "In which one of the following places the ‘boiling point’ of water is the highest?",
+  "option1": "Dead Sea",
+  "option2": "Mt. Everest",
+  "option3": "Nile delta",
+  "option4": "Sunderban delta",
+  "option5": "",
+  "answer": "Dead Sea",
+  "explanation": "Pure water boils at 100 degrees Celsius under normal atmospheric pressure, but the Dead Sea surface is so low that water boils at about 101 degrees there. Dead Sea water itself is much worse: it boils at 105 C under atmospheric pressure due to the large salt concentration."
+}

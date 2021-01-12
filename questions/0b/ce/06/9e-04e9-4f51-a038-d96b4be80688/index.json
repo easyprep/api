@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-23T16:34:55.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "0bce069e-04e9-4f51-a038-d96b4be80688",
+  "labels": "current-affairs,2019-09-24",
+  "question": "Which of the following is the minimum possible temperature beyond which matter cannot be cooled?",
+  "option1": "-98.10° C",
+  "option2": "-100.00° C",
+  "option3": "-273.15° C",
+  "option4": "-459.40° C",
+  "option5": "",
+  "answer": "-273.15° C",
+  "explanation": "At the physically impossible-to-reach temperature of zero kelvin, or minus 459.67 degrees Fahrenheit (minus 273.15 degrees Celsius), atoms would stop moving. As such, nothing can be colder than absolute zero on the Kelvin scale."
+}

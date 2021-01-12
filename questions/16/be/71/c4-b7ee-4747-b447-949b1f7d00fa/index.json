@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-09-25T15:33:52.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "16be71c4-b7ee-4747-b447-949b1f7d00fa",
+  "labels": "current-affairs,2019-09-26",
+  "question": "Match List I with List II and select the correct answer using the codes given below the lists:\r\n<table width=\"254\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td width=\"132\">\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Grand Slam\r\n</td>\r\n<td width=\"132\">\r\nA. Chess\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Grand Prix\r\n</td>\r\n<td width=\"132\">\r\nB. Polo\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Grand Master\r\n</td>\r\n<td width=\"132\">\r\nC. Bridge\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\n&nbsp;\r\n</td>\r\n<td width=\"132\">\r\nD. International race\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\nCodes:",
+  "option1": "I-A, II-B, III-C",
+  "option2": "I-B, II-D, III-C",
+  "option3": "I-C, II-D, III-A",
+  "option4": "I-D, II-B, III-A",
+  "option5": "",
+  "answer": "I-C, II-D, III-A",
+  "explanation": "<table width=\\\"254\\\">\r\n<tbody>\r\n<tr>\r\n<td>\r\nList I\r\n</td>\r\n<td width=\\\"132\\\">\r\nList II\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nI. Grand Slam\r\n</td>\r\n<td width=\\\"132\\\">\r\nBridge\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nII. Grand Prix\r\n</td>\r\n<td width=\\\"132\\\">\r\nInternational race\r\n</td>\r\n</tr>\r\n<tr>\r\n<td>\r\nIII. Grand Master\r\n</td>\r\n<td width=\\\"132\\\">\r\nChess\r\n</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+}

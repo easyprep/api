@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-10-13T18:35:23.000Z",
+  "updated_at": "2021-01-06T08:24:43.083Z",
+  "id": "01db582d-b810-4c4d-8645-186903d12d1c",
+  "labels": "current-affairs,2019-10-14",
+  "question": "Which one of the following organisms is likely to show the highest- concentration of DDT once it has been introduced into the ecosystem?",
+  "option1": "Grasshopper",
+  "option2": "Toad",
+  "option3": "Snake",
+  "option4": "Cattle",
+  "option5": "",
+  "answer": "Snake",
+  "explanation": "DDT is non-biodegradable chemical. Biomagnification is the phenomenon of increasing concentration of compound in the tissue of an organism, as the compound passes up a food chain, usually as a result of food intake. <br />In this case, the concentration of compound will increase with increasing trophic level. Biomagnifying pollutants which increases in concentration from producers ? Primary consumers ? Secondary consumers ? Tertiary consumers ?Top consumer. The snake is a tertiary consumer. So the DDT concentration will high in snake.\r\n&nbsp;"
+}
