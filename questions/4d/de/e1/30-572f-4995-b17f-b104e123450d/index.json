@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "4ddee130-572f-4995-b17f-b104e123450d",
+  "labels": "current-affairs,2019-03-03",
+  "question": "Which of these devices is installed in the computer to plug a network cable coming from the modem?",
+  "option1": "USB Drive",
+  "option2": "Network Interface card",
+  "option3": "Data card",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Network Interface card",
+  "explanation": "A computer must have a network card installed to be able to plug a network cable coming from the modem, router or gateway."
+}

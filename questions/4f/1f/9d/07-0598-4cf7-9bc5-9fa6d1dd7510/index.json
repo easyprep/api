@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "4f1f9d07-0598-4cf7-9bc5-9fa6d1dd7510",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following hardware device is essential for a computer to connect to a wireless network?",
+  "option1": "Graphics card",
+  "option2": "Wireless Printer",
+  "option3": "Wireless adapter",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Wireless adapter",
+  "explanation": "Wireless adapters are those hardware devices which are installed inside computers to enable wireless connectivity. If a computer does not have a wireless adapter, it will not be able to connect to a router in order to access the Internet."
+}

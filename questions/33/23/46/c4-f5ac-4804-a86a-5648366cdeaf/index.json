@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "332346c4-f5ac-4804-a86a-5648366cdeaf",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these network protocol is used to synchronize the time of a server to another server?",
+  "option1": "IGMP",
+  "option2": "ARP",
+  "option3": "NTP",
+  "option4": "SSH",
+  "option5": "",
+  "answer": "NTP",
+  "explanation": "The Network Time Protocol is used to synchronize the time of a computer client or server to another server or reference time source, such as a radio or satellite receiver or modem."
+}

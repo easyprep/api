@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "3dc8088b-fd75-4a74-96b3-0ab8d029ce61",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following represents bit length?",
+  "option1": "2 (Propagation speed * bit duration)",
+  "option2": "Propagation speed/ bit duration",
+  "option3": "1/2 (Propagation speed * bit duration)",
+  "option4": "Propagation speed * bit duration",
+  "option5": "",
+  "answer": "Propagation speed * bit duration",
+  "explanation": "The bit length is the distance one bit occupies on the transmission medium. It is given by the formula: Propagation speed * bit duration."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "641a8507-15ae-43e4-8518-f3a0e7770a4c",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which university was connected for the first time with the Stanford Research Institute under ARPANET?",
+  "option1": "University of California",
+  "option2": "University of Michigan",
+  "option3": "Harvard University",
+  "option4": "University of New York",
+  "option5": "",
+  "answer": "University of California",
+  "explanation": "The first ARPANET link was established between the University of California, Los Angeles (UCLA) and the Stanford Research Institute."
+}

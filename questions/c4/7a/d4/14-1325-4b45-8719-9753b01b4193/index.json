@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "c47ad414-1325-4b45-8719-9753b01b4193",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Who invented the Twister pair cables?",
+  "option1": "James Macmillan",
+  "option2": "Henry Ford",
+  "option3": "Alexander Graham Bell",
+  "option4": "Ron Cable",
+  "option5": "",
+  "answer": "Alexander Graham Bell",
+  "explanation": "Twisted-pair cabling was invented by Alexander Graham Bell in 1881. It is a type of wiring in which two conductors of a single circuit are twisted together for the purposes of improving electromagnetic compatibility."
+}

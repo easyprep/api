@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "65655647-ef2b-4419-abcf-f3b9301449fb",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What do we call the process of transferring a mobile station from one base station to another?",
+  "option1": "Looping",
+  "option2": "Hand off",
+  "option3": "Forwarding",
+  "option4": "Channeling",
+  "option5": "",
+  "answer": "Hand off",
+  "explanation": "Hand off is the process of transferring an active call or data session from one cell in a cellular network to another or from one channel in a cell to another."
+}

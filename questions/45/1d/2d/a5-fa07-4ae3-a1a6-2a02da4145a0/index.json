@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "451d2da5-fa07-4ae3-a1a6-2a02da4145a0",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following represents a nibble data?",
+  "option1": "2 bits",
+  "option2": "4 bits",
+  "option3": "6 bits",
+  "option4": "8 bits",
+  "option5": "",
+  "answer": "4 bits",
+  "explanation": "Nibble refers to the half of an eight-bit byte or four binary digits. Byte is a group of bits (8 bits) used to represent a character. A byte is considered as the basic unit of measuring memory size in computer."
+}

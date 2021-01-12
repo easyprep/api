@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:14:07.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "df674ed9-3e0c-458a-85c8-eecbad03bb08",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Why soaps do not work in hard water?",
+  "option1": "The water tastes bitter and it has an unpleasant smell",
+  "option2": "The water is hard to boil and the soap only works in boiled water",
+  "option3": "The insoluble soaps formed separate as scum in water",
+  "option4": "The hard water has lot of impurities",
+  "option5": "",
+  "answer": "The insoluble soaps formed separate as scum in water",
+  "explanation": "Hard water contains calcium and magnesium ions. These ions form insoluble calcium and magnesium soaps respectively when sodium or potassium soaps are dissolved in hard water. These insoluble soaps separate as scum in water and are useless as cleansing agent."
+}

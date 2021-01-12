@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "bd4bed34-9a7c-44e4-9920-549af2a1c97f",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following device is used to convert the native data into signal?",
+  "option1": "OCR",
+  "option2": "Modem",
+  "option3": "Printer",
+  "option4": "Monitor",
+  "option5": "",
+  "answer": "Modem",
+  "explanation": "As data cannot be sent in its native form, it is necessary to convert it into signal. This is performed with the help of a transmitter such as modem."
+}

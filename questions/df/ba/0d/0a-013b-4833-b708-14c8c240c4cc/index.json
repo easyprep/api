@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "dfba0d0a-013b-4833-b708-14c8c240c4cc",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What is the maximum download speed offered under LTE-Advanced standard?",
+  "option1": "10 Mbps",
+  "option2": "100 Mbps",
+  "option3": "1 Gbps",
+  "option4": "10 Gbps",
+  "option5": "",
+  "answer": "1 Gbps",
+  "explanation": "The maximum download speed offered under LTE-Advanced standard is 1 Gbps. The LTE advanced is the 10the version of LTE."
+}

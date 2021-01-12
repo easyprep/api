@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "f8cda193-3a2f-4c19-bfa9-cb91af64206c",
+  "labels": "current-affairs,2019-03-02",
+  "question": "In which year ARPANET was shut down?",
+  "option1": 1992,
+  "option2": 1990,
+  "option3": 1988,
+  "option4": 1984,
+  "option5": "",
+  "answer": 1990,
+  "explanation": "The ARPANET, which was initially funded by the Advanced Research Projects Agency (ARPA) of the United States Department of Defense, was shutdown and dismantled in the year 1990."
+}

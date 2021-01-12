@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "248dcca2-70ec-422d-b0db-26b92914ba0d",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following radio signals are used by 1G networks?",
+  "option1": "Analog",
+  "option2": "Digital",
+  "option3": "Both Analog and Digital",
+  "option4": "None",
+  "option5": "",
+  "answer": "Analog",
+  "explanation": "The radio signals used by 1G networks are analog. While the radio signals used by the 2G networks are digitals. This is one of the main differences between 1G and 2G."
+}

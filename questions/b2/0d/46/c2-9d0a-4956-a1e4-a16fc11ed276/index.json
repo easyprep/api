@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "b20d46c2-9d0a-4956-a1e4-a16fc11ed276",
+  "labels": "current-affairs,2019-03-03",
+  "question": "Which of these devices are used to send the data to a particular destination?",
+  "option1": "Repeater",
+  "option2": "Switch",
+  "option3": "Modem",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Switch",
+  "explanation": "A switch learns about MAC address connected to each port and will only send data on that port that is addressed to those MAC addresses."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-12T18:04:23.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "8a400d97-f5e6-4e23-bcdc-4063d2118910",
+  "labels": "current-affairs,2019-03-13",
+  "question": "What happens to a helium atom when it loses an electron?",
+  "option1": "It becomes an alpha particle",
+  "option2": "It becomes a negative helium Ion",
+  "option3": "It becomes a positive Helium ion",
+  "option4": "It becomes a proton",
+  "option5": "",
+  "answer": "It becomes a positive Helium ion",
+  "explanation": "When a helium atom loses electrons, it get positive charge because the number of protons in the helium atom becomes greater than the number of electrons. When helium atom loses one electron it becomes positive ion with +1 charge."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "dc3fd10f-be4a-4528-bc4d-62dc9a08fb5a",
+  "labels": "current-affairs,2019-03-03",
+  "question": "Which among the following is the cheapest type of internet connection?",
+  "option1": "Dial-up",
+  "option2": "ISDN",
+  "option3": "DSL",
+  "option4": "Wireless Internet",
+  "option5": "",
+  "answer": "Dial-up",
+  "explanation": "Dial-up internet connection is the cheapest method to connect to the Internet. But it is a very slow connection and the quality is also not very good. The Internet speeds range from 2400 bps to 56 Kbps."
+}

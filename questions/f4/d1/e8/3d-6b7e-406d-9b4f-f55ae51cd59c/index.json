@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "f4d1e83d-6b7e-406d-9b4f-f55ae51cd59c",
+  "labels": "current-affairs,2019-03-03",
+  "question": "Which of these terms refer to the technology that is used to effectively double the data transfer speed?",
+  "option1": "Channel bonding",
+  "option2": "Bandwidth allocation",
+  "option3": "Walling",
+  "option4": "None",
+  "option5": "",
+  "answer": "Channel bonding",
+  "explanation": "Channel bonding refers to the technology that combines two telephone lines into a single channel, effectively doubling the data transfer speeds. For example, bonding two modems of 56Kbps together would give you a 112 Kbps Internet connection."
+}

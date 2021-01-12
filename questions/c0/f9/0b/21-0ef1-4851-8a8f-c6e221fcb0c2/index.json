@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "c0f90b21-0ef1-4851-8a8f-c6e221fcb0c2",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of the following layer of the OSI model is used by the TCP for its operation?",
+  "option1": "Network layer",
+  "option2": "Transport layer",
+  "option3": "Data Link layer",
+  "option4": "Presentation layer",
+  "option5": "",
+  "answer": "Transport layer",
+  "explanation": "TCP operates at the transport layer of the OSI model. TCP provides reliable transport, in that if a segment is dropped, the sender can detect that drop and retransmit that dropped segment."
+}

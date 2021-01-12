@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "567f1fc3-8b55-4928-91c9-a627e238c384",
+  "labels": "current-affairs,2019-03-02",
+  "question": "UMTS is a standard for which of the following networks?",
+  "option1": "2G",
+  "option2": "3G",
+  "option3": "4G",
+  "option4": "5G",
+  "option5": "",
+  "answer": "3G",
+  "explanation": "UMTS stands for Universal Mobile Telecommunications Service. It is a third-generation (3G) broadband, packet-based transmission of text, digitized voice, video, and multimedia. It transfers data at rates up to 2 megabits per second (Mbps)."
+}

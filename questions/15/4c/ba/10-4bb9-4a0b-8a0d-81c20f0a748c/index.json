@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "154cba10-4bb9-4a0b-8a0d-81c20f0a748c",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these protocols is used to querying and modifying directory services running over a network?",
+  "option1": "NTP",
+  "option2": "LDAP",
+  "option3": "SNMP",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "LDAP",
+  "explanation": "Lightweight Directory Access Protocol, or LDAP is a networking protocol for querying and modifying directory services running over the network."
+}

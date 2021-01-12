@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-11T12:31:24.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "b76e51c6-bebb-477d-9c52-729f38bb9e3e",
+  "labels": "current-affairs,2019-03-12",
+  "question": "What percent of the earth's surface is covered with deserts?",
+  "option1": 0.2,
+  "option2": 0.45,
+  "option3": 0.33,
+  "option4": 0.1,
+  "option5": "",
+  "answer": 0.33,
+  "explanation": "Seen from space, the majority of the Earth’s surface is covered by oceans, that makes up 71% of the surface of the Earth, with the remaining 29% for land. Deserts actually make up 33%, or 1/3rd of the land’s surface area."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "b7beaba8-13b6-4d68-a7e9-6490a15e1e83",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following is a disadvantage of using twisted paired cables for transmitting data?",
+  "option1": "High cost",
+  "option2": "Installation is difficult",
+  "option3": "Delay Skew",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Delay Skew",
+  "explanation": "Twisted paired cables are cost-effective and easy to install. But different pairs within the cable have different delays, due to different twist rates that are used to minimize crosstalk between the pairs."
+}

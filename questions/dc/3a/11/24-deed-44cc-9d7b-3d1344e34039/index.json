@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "dc3a1124-deed-44cc-9d7b-3d1344e34039",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following cables work on the properties of light?",
+  "option1": "Coaxial cables",
+  "option2": "Twisted pair",
+  "option3": "Fiber optics",
+  "option4": "None",
+  "option5": "",
+  "answer": "Fiber optics",
+  "explanation": "Fiber Optic works on the properties of light. When light ray hits at critical angle it tends to refracts at 90 degree. This property is the basis of fiber optics."
+}

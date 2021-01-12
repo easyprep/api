@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "a7dfba9a-2aed-47e3-aed2-bf789e98ac00",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What is the loss of signal's energy due to resistance of the medium known as?",
+  "option1": "Distortion",
+  "option2": "Attenuation",
+  "option3": "Noise",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Attenuation",
+  "explanation": "Attenuation is the loss of signal's energy due to resistance of the medium. It is not the same as Distortion which is the alteration of the signal due to different propagation speeds."
+}

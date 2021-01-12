@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "2da1ed99-ec04-4217-9cc4-b6a6bda1886f",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What will be the bandwidth of a periodic signal if it is decomposed into five sine waves with frequencies of 100, 300, 500, 700 and 900 Hz?",
+  "option1": "900 Hz",
+  "option2": "100 Hz",
+  "option3": "500 Hz",
+  "option4": "800 Hz",
+  "option5": "",
+  "answer": "800 Hz",
+  "explanation": "Bandwidth = Highest frequency - Lowest frequency. In this case, bandwidth will be equal to 900Hz-100 Hz i.e. 800Hz."
+}

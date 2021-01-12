@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "d72e8367-febd-4527-ac7a-5d1a3583f968",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these protocols is considered as the effective predecessor of the World Wide Web?",
+  "option1": "LDAP",
+  "option2": "Gopher",
+  "option3": "SMTP",
+  "option4": "SSH",
+  "option5": "",
+  "answer": "Gopher",
+  "explanation": "The Gopher protocol is an application layer protocol which is designed for distributing, searching, and retrieving documents over the Internet. The Gopher ecosystem is considered as the effective predecessor of the World Wide Web."
+}

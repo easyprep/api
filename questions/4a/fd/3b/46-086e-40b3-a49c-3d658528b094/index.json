@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "4afd3b46-086e-40b3-a49c-3d658528b094",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Who invented the World Wide Web?",
+  "option1": "Robert Tappan",
+  "option2": "Charles Babbage",
+  "option3": "Tim Berners-Lee",
+  "option4": "Niko Hodiko",
+  "option5": "",
+  "answer": "Tim Berners-Lee",
+  "explanation": "Tim Berners-Lee invented the World Wide Web in 1989. HTML documents were transmitted over the Internet by a web server to web browsers using Uniform Resource Locators."
+}

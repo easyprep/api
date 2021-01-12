@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "6ca5a37d-803e-4752-87ca-b1971ff8ef52",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What does ARPANET stand for?",
+  "option1": "Automated Research Projects Agency Network",
+  "option2": "American Research Projects Agency Network",
+  "option3": "Advanced Research Projects Agency Network",
+  "option4": "American Research Projects Automatic Network",
+  "option5": "",
+  "answer": "Advanced Research Projects Agency Network",
+  "explanation": "ARPANET stands for Advanced Research Projects Agency Network. It was the first network to implement the TCP/IP protocol suite."
+}

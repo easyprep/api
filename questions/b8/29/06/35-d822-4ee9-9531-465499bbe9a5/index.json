@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-12T21:31:34.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "b8290635-d822-4ee9-9531-465499bbe9a5",
+  "labels": "current-affairs,2019-03-13",
+  "question": "The researchers of which institute have developed optical imaging system ‘DOLPHIN’ for finding tiny tumours?",
+  "option1": "Massachusetts Institute of Technology",
+  "option2": "Harvard University",
+  "option3": "University of Oxford",
+  "option4": "Stanford University",
+  "option5": "",
+  "answer": "Massachusetts Institute of Technology",
+  "explanation": "In USA, the researchers at the Massachusetts Institute of Technology (MIT) have developed an imaging system which could be deployed to find tiny tumours, as small as a couple of hundred cells, deep within the body. They used their imaging system, named \\\"DOLPHIN,\\\" which relies on near-infrared light, to track a 0.1-millimetre fluorescent probe through the digestive tract of a living mouse. They also showed that they can detect a signal to a tissue depth of eight centimeters, far deeper than any existing biomedical optical imaging technique. The researchers hope to adapt their imaging technology for early diagnosis of ovarian and other cancers that are currently difficult to detect until late stages. According to the study published in the journal Scientific Reports, existing methods for imaging tumours all have limitations that prevent them from being useful for early cancer diagnosis."
+}

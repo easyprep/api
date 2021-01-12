@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "aacdbe9a-6b53-4bd8-b819-8232acadf7b2",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following represents Latency?",
+  "option1": "propagation time +transmission time +queuing time + processing delay",
+  "option2": "propagation time - transmission time +queuing time + processing delay",
+  "option3": "propagation time +transmission time +queuing time - processing delay",
+  "option4": "(propagation time +transmission time) - (queuing time + processing delay)",
+  "option5": "",
+  "answer": "propagation time +transmission time +queuing time + processing delay",
+  "explanation": "It can be said that the Latency is made of four components: propagation time, transmission time, queuing time and processing delay. Latency =propagation time +transmission time +queuing time + processing delay"
+}

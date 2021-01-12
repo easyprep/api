@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-12T21:28:28.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "5dac0fe7-c501-4a4a-b826-94c0a58c1638",
+  "labels": "current-affairs,2019-03-13",
+  "question": "Lunar Reconnaissance Orbiter (LRO), sometimes seen in news, is a robotic spacecraft of which of the following space agencies?",
+  "option1": "NASA",
+  "option2": "ISRO",
+  "option3": "JAXA",
+  "option4": "Roscosmos",
+  "option5": "",
+  "answer": "NASA",
+  "explanation": "The Lunar Reconnaissance Orbiter (LRO) is a NASA robotic spacecraft currently orbiting the Moon in an eccentric polar mapping orbit. It is in news because by using NASA\\'s LRO, scientists at the Planetary Science Institute have observed water molecules moving around the dayside of the Moon. According to the study published in the journal Geophysical Research Letters, measurements from the Lyman Alpha Mapping Project (LAMP) instrument aboard the LRO of the sparse layer of molecules temporarily stuck to the surface helped characterise lunar hydration changes over the course of a day.  These results aid in understanding the lunar water cycle and will ultimately help scientists to learn about accessibility of water that can be used by humans in future missions to the Moon. Lunar water can potentially be used by humans to make fuel or to use for radiation shielding or thermal management; if these materials do not need to be launched from Earth, that makes these future missions more affordable."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "3d54be32-8908-4750-9623-cbb10c4107ec",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which port is used by DNS server?",
+  "option1": 53,
+  "option2": 63,
+  "option3": 779,
+  "option4": 110,
+  "option5": "",
+  "answer": 53,
+  "explanation": "A DNS server listens for requests on port 53 (both UDP and TCP). So all DNS requests are sent to port 53. Domain name system is used to convert the domain name to IP address."
+}

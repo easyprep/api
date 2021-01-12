@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "a01c2545-f8ed-43a0-9169-98ce530eaaf2",
+  "labels": "current-affairs,2019-03-03",
+  "question": "Schools often use an approach in creating a limited browsing environments for the students to access. What is this approach known as?",
+  "option1": "Hacked browsing",
+  "option2": "Walled Garden",
+  "option3": "Child Locking",
+  "option4": "Mini surfing",
+  "option5": "",
+  "answer": "Walled Garden",
+  "explanation": "A walled garden refers to a browsing environment that controls the information and Web sites the user is able to access. ISPs use this method in order to keep the user navigating only specific areas of the Web."
+}

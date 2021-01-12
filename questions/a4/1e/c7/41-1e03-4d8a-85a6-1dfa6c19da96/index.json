@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:21.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "a41ec741-1e03-4d8a-85a6-1dfa6c19da96",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these networks usually have all the computers connected to a hub?",
+  "option1": "Ring",
+  "option2": "Tree",
+  "option3": "Star",
+  "option4": "Bus",
+  "option5": "",
+  "answer": "Star",
+  "explanation": "In Star topology, all the computers are connected to a single hub through a cable. This hub is the central node and all others nodes are connected to the central node."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-09T23:19:09.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "471b1b95-e2e8-4757-ab36-9406927c45ba",
+  "labels": "current-affairs,2019-03-10",
+  "question": "Which is the most important raw material for generation of power in India?",
+  "option1": "Coal",
+  "option2": "Silicon",
+  "option3": "Aluminum",
+  "option4": "Ironstone",
+  "option5": "",
+  "answer": "Coal",
+  "explanation": "In India, major proportion of power is generated from thermal sources where the main raw material used is coal. Around 83% of thermal power is generated using coal as a raw material, whereas 16% of thermal power is generated with the help of Gas and 1% of thermal power is generated with the help of Oil."
+}

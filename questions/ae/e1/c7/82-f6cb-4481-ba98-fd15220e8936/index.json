@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "aee1c782-f6cb-4481-ba98-fd15220e8936",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What is the time needed by each device on a network, to hold the message before processing, called as?",
+  "option1": "Propagation time",
+  "option2": "Queuing time",
+  "option3": "Transmission time",
+  "option4": "Jitter",
+  "option5": "",
+  "answer": "Queuing time",
+  "explanation": "The time needed for each intermediate or end device to hold the message before it can be processed. The queuing time is not constant as it changes with the load imposed on the network."
+}

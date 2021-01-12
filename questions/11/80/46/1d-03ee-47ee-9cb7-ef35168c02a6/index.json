@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-09T23:19:09.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "1180461d-03ee-47ee-9cb7-ef35168c02a6",
+  "labels": "current-affairs,2019-03-10",
+  "question": "Which law validates the statement- \"Matter can neither be created nor be destroyed\"?",
+  "option1": "Avagadro's law",
+  "option2": "Law of conservation of mass",
+  "option3": "Law of conservation of energy",
+  "option4": "Law of osmosis",
+  "option5": "",
+  "answer": "Law of conservation of mass",
+  "explanation": "The law of conservation of mass states that the mass of an isolated system will remain constant over time. It cannot be changed as a result of processes acting inside the system. This principle is equivalent to the conservation of energy: when energy or mass is enclosed in a system & none is allowed in or out, its quantity cannot otherwise change over time. The law states that mass can neither be created nor be destroyed, although it may be rearranged in space and changed into different types and categories of particles."
+}

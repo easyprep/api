@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "e9949384-d830-4bd9-a6c0-6a5c9b9fd72b",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these was the split off version of ARPANET for the military use?",
+  "option1": "MILNET",
+  "option2": "DEFNET",
+  "option3": "MILTECH",
+  "option4": "USDEFNET",
+  "option5": "",
+  "answer": "MILNET",
+  "explanation": "MILNET was the name given to the part of the ARPANET internetwork designated for unclassified United States Department of Defense traffic. MILNET was physically separated from the ARPANET in 1984."
+}

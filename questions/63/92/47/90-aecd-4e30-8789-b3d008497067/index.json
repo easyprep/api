@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "63924790-aecd-4e30-8789-b3d008497067",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What is the name of the first computer virus, that affected ARPANET?",
+  "option1": "Mayhem",
+  "option2": "Creeper",
+  "option3": "Boom",
+  "option4": "Attack",
+  "option5": "",
+  "answer": "Creeper",
+  "explanation": "Creeper is the first network computer virus, which infected Arpanet in 1971. Bob Thomas created Creeper as an experimental self-duplicating program that was intended not to inflict damage on, but to illustrate a mobile application."
+}

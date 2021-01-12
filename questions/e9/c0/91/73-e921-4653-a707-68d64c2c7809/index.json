@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:52.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "e9c09173-e921-4653-a707-68d64c2c7809",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these IEEE standards represent wireless local area network?",
+  "option1": 802.3,
+  "option2": 802.11,
+  "option3": 802.7,
+  "option4": 802.9,
+  "option5": "",
+  "answer": 802.11,
+  "explanation": "The IEEE 802.11, which is a part of the IEEE 802 set of LAN protocols, defines the standards for implementing wireless local area network."
+}

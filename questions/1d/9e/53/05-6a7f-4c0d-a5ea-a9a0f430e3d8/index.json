@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "1d9e5305-6a7f-4c0d-a5ea-a9a0f430e3d8",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following devices can help to extend the range of a wireless router?",
+  "option1": "Wireless repeater",
+  "option2": "Wireless adapter",
+  "option3": "Wimax",
+  "option4": "Network interface card",
+  "option5": "",
+  "answer": "Wireless repeater",
+  "explanation": "Wireless repeater is used to extend the range of a wireless router. A repeater receives wireless signals and amplifies the strength of the signals, and then re-emits them."
+}

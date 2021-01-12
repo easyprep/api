@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "31c98dbb-9d32-4102-8fee-18f3d1ba7deb",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these protocols is used for monitoring networks and network components?",
+  "option1": "POP3",
+  "option2": "TCP",
+  "option3": "SNMP",
+  "option4": "HTTP",
+  "option5": "",
+  "answer": "SNMP",
+  "explanation": "SNMP stands for Simple Network Management Protocol. It is a TCP/IP protocol for monitoring networks and network components."
+}

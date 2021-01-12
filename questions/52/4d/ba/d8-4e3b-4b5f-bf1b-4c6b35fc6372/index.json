@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "524dbad8-4e3b-4b5f-bf1b-4c6b35fc6372",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What is the maximum data transfer speed offered by Bluetooth 4.0?",
+  "option1": "10 Mbps",
+  "option2": "5 Mbps",
+  "option3": "24 Mbps",
+  "option4": "50 Mbps",
+  "option5": "",
+  "answer": "24 Mbps",
+  "explanation": "The maximum data transfer speed offered by Bluetooth 4.0 is 24 Mbps. It is same as the speed offered by Bluetooth 3.0."
+}

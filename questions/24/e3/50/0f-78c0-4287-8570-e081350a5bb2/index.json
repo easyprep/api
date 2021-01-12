@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:49:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "24e3500f-78c0-4287-8570-e081350a5bb2",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these two gases are mainly involved in the Haber-Bosch process?",
+  "option1": "Oxygen, Sulphur",
+  "option2": "Carbon, Nitrogen",
+  "option3": "Nitrogen, Hydrogen",
+  "option4": "Sulphur, Hydrogen",
+  "option5": "",
+  "answer": "Nitrogen, Hydrogen",
+  "explanation": "The Haber–Bosch process is the main industrial procedure for the production of ammonia. The process converts atmospheric nitrogen to ammonia by a reaction with hydrogen gas using a metal catalyst under high temperatures and pressures."
+}

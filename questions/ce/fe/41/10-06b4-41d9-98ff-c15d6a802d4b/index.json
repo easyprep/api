@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "cefe4110-06b4-41d9-98ff-c15d6a802d4b",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these Internet protocols work at the Application layer?",
+  "option1": "IP",
+  "option2": "UDP",
+  "option3": "FTP",
+  "option4": "TCP",
+  "option5": "",
+  "answer": "FTP",
+  "explanation": "FTP stands for File Transfer Protocol. It works at the Application layer. It enables the uploading and downloading of files from a remote host."
+}

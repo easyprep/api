@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "d7bdbe12-29ca-4a19-9be4-c265c2fedd0c",
+  "labels": "current-affairs,2019-03-02",
+  "question": "In which year the Computer Science Network started functioning?",
+  "option1": 1978,
+  "option2": 1982,
+  "option3": 1981,
+  "option4": 1975,
+  "option5": "",
+  "answer": 1981,
+  "explanation": "The Computer Science Network (CSNET) was a computer network that began operation in 1981 in the United States. The CSNET project was funded by the National Science Foundation for an initial three-year period from 1981 to 1984."
+}

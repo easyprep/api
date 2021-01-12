@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "98e5e832-63e3-4a38-8a39-a90c85893e0c",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following is a standard for 1G network?",
+  "option1": "UMTS",
+  "option2": "GSM",
+  "option3": "AMPS",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "AMPS",
+  "explanation": "AMPS or the Advanced Mobile Phone System is a standard for 1G mobile network which was in use in North America and Australia."
+}

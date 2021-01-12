@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "b726ae21-3b89-4e1f-b39c-0b031242adb3",
+  "labels": "current-affairs,2019-03-03",
+  "question": "Which of the following is correct about Digital Subscriber Line?",
+  "option1": "It is always on",
+  "option2": "It is faster than Dial-up",
+  "option3": "Internet and phone can be used in the same time",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "A Digital Subscriber Line is always on and is faster than Dial-up. In DSL, Internet and phone can be used in the same time."
+}

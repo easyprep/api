@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "83b097b0-5c05-4db7-bce8-6cbec21d5606",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these organisations was created to manage IP address spaces?",
+  "option1": "TELNET",
+  "option2": "ICANN",
+  "option3": "W3C",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "ICANN",
+  "explanation": "ICANN was created in 1998 to manage IP address space and DNS root zone. The Internet Corporation for Assigned Names and Numbers (ICANN) is a nonprofit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet."
+}

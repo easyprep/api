@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:21.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "56eac730-0039-42de-8557-175a290989ea",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following transmission medium has categories named as RG-58, RG-59 and RG-11?",
+  "option1": "Coaxial cables",
+  "option2": "Twisted pair cables",
+  "option3": "Fiber Optics",
+  "option4": "None",
+  "option5": "",
+  "answer": "Coaxial cables",
+  "explanation": "There are three categories of coax cables namely, RG-59 (Cable TV), RG-58 (Thin Ethernet), and RG-11 (Thick Ethernet). RG stands for Radio Government."
+}

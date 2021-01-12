@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-10T16:16:29.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "11788d43-087f-4db7-bf4b-aee88291355f",
+  "labels": "current-affairs,2019-03-11",
+  "question": "What is the approximate equatorial circumference of the earth?",
+  "option1": "25008 km",
+  "option2": "55695 km",
+  "option3": "40700 km",
+  "option4": "40075 km",
+  "option5": "",
+  "answer": "40075 km",
+  "explanation": "Using those measurements, the equatorial circumference of Earth is about 24,901 miles (40,075 km). However, from pole-to-pole — the meridional circumference of the Earth is only 24,860 miles (40,008 km) around. This shape, caused by the flattening at the poles, is called an oblate spheroid."
+}

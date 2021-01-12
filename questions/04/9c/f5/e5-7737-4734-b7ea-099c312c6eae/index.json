@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-10T16:16:29.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "049cf5e5-7737-4734-b7ea-099c312c6eae",
+  "labels": "current-affairs,2019-03-11",
+  "question": "Which of the following fishes lives in Ocean but moves to fresh water stream during reproduction?",
+  "option1": "Eel",
+  "option2": "Salmon",
+  "option3": "Hilsa",
+  "option4": "Herring",
+  "option5": "",
+  "answer": "Salmon",
+  "explanation": "Most salmon are anadromous fish which means that they are born in freshwater (rivers or streams), and travel to and live much of their lives in salt water and return to freshwater during reproduction and spawning. After spawning, all Pacific salmon and up to 50% of other species die within a few weeks."
+}

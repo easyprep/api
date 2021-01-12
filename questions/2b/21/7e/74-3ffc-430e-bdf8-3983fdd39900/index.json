@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "2b217e74-3ffc-430e-bdf8-3983fdd39900",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these networks is used for communication between bulletin board systems?",
+  "option1": "FidoNet",
+  "option2": "GOSIP",
+  "option3": "Archie",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "FidoNet",
+  "explanation": "FidoNet is a worldwide computer network that is used for communication between bulletin board systems (BBSes). It is used a store-and-forward system to exchange private (email) and public (forum) messages."
+}

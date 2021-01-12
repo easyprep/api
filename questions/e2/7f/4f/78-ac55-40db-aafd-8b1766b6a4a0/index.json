@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "e27f4f78-ac55-40db-aafd-8b1766b6a4a0",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following represents the Transmission time?",
+  "option1": "Message size/Bandwidth",
+  "option2": "Message size *Bandwidth",
+  "option3": "1/2 (Message size/Bandwidth)",
+  "option4": "2 *(Message size/Bandwidth)",
+  "option5": "",
+  "answer": "Message size/Bandwidth",
+  "explanation": "The transmission time, is the amount of time from the beginning until the end of a message transmission. It depends on the size of the message and the bandwidth of the channel. Transmission time =Message size / Bandwidth"
+}

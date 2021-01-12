@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-25T20:02:24.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "af3449a6-9f23-47d8-82c6-a4eecd0ce750",
+  "labels": "current-affairs,2019-02-26",
+  "question": "Which is the correct format of a round-robin tournament of 8 teams?",
+  "option1": "All-play-all",
+  "option2": "All-play-two",
+  "option3": "All-play-four",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "All-play-all",
+  "explanation": "A round-robin tournament is a competition in which each contestant meets all other contestants in turn. It is in contrast with an elimination tournament. The term round-robin is derived from a French term ruban, meaning ribbon."
+}

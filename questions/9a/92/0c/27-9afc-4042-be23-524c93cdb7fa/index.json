@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "9a920c27-9afc-4042-be23-524c93cdb7fa",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What is the full form of Wi-Fi?",
+  "option1": "Wireless Fidelity",
+  "option2": "Wireless Find",
+  "option3": "Wireless Function",
+  "option4": "Wireless Fiber",
+  "option5": "",
+  "answer": "Wireless Fidelity",
+  "explanation": "WI-Fi stands for Wireless Fidelity. It is a local area wireless technology. It allows an electronic device to transfer data or connect to the internet using radio waves."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:23:27.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "3559d95f-50af-4026-b49c-182fa6eb1c8a",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these artificial sweeteners has the highest sweetness value?",
+  "option1": "Saccharin",
+  "option2": "Sucralose",
+  "option3": "Aspartame",
+  "option4": "Alitame",
+  "option5": "",
+  "answer": "Alitame",
+  "explanation": "Alitame is high potency sweetener having around 2000 times sweetness value in terms of cane sugar. The control of sweetness of food is difficult while using it."
+}

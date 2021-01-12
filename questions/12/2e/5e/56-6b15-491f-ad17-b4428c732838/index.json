@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "122e5e56-6b15-491f-ad17-b4428c732838",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What role does fibers play in Optical Fiber cables?",
+  "option1": "Prevent loss of signals",
+  "option2": "Provide immunity against electromagnetic interference",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "Fibers are used instead of metal wires because signals travel along them with less loss. Also, fibers are immune to electromagnetic interference, a problem from which metal wires suffer excessively. In addition, Fibers are also used for illumination and imaging."
+}

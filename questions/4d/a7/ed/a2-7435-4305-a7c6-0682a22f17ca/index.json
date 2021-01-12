@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "4da7eda2-7435-4305-a7c6-0682a22f17ca",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following uses digital signaling, which is inserted in the transmission channel as voltage pulses?",
+  "option1": "Base-band",
+  "option2": "Broadband",
+  "option3": "Narrow band",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Base-band",
+  "explanation": "Base-band signaling is defined as one that uses digital signaling, which is inserted in the transmission channel as voltage pulses."
+}

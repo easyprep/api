@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:14:06.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "e4cee17b-faf3-481f-b739-3bcce3d2bdc6",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these chemicals is used as a water softening agent?",
+  "option1": "Baking soda",
+  "option2": "Washing soda",
+  "option3": "Bleaching powder",
+  "option4": "Slaked lime",
+  "option5": "",
+  "answer": "Washing soda",
+  "explanation": "Washing soda\\'s chemical formula is Na<sub>2</sub>CO<sub>3</sub>. It binds calcium and magnesium present in the water and creates an insoluble substance."
+}

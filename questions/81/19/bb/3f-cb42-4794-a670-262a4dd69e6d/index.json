@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "8119bb3f-cb42-4794-a670-262a4dd69e6d",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What is the bandwidth limit for CAT2 cable?",
+  "option1": "upto 1 Mbps",
+  "option2": "upto 4 Mbps",
+  "option3": "upto 10 Mbps",
+  "option4": "upto 100 Mbps",
+  "option5": "",
+  "answer": "upto 4 Mbps",
+  "explanation": ".CAT2 or Category 2 cable supports speeds upto 4Mbps. It is used mostly for token ring networks. It is an improvement over Category 1 cable which supports speed upto 1 Mbps."
+}

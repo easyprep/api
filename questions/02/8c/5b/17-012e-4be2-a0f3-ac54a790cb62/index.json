@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "028c5b17-012e-4be2-a0f3-ac54a790cb62",
+  "labels": "current-affairs,2019-03-02",
+  "question": "In which year NSFNET program was established?",
+  "option1": 1983,
+  "option2": 1984,
+  "option3": 1985,
+  "option4": 1986,
+  "option5": "",
+  "answer": 1985,
+  "explanation": "NSFNET stands for National Science Foundation Network. It was a program which was sponsored by the National Science Foundation (NSF) beginning in 1985 to promote advanced research and education networking in the United States."
+}

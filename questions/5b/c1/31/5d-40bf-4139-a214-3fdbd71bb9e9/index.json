@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "5bc1315d-40bf-4139-a214-3fdbd71bb9e9",
+  "labels": "current-affairs,2019-03-02",
+  "question": "In which year the Domain Name System was invented?",
+  "option1": 1985,
+  "option2": 1984,
+  "option3": 1983,
+  "option4": 1982,
+  "option5": "",
+  "answer": 1983,
+  "explanation": "Domain Name System was invented in 1983. Paul Mockapetris invented the Domain Name System (DNS) thus expanding the internet."
+}

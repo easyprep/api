@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:14:07.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "9acec5d5-7490-4097-b8c1-674551898575",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following detergents is a cationic detergent?",
+  "option1": "Sodium dodecylbenzenesulphonates",
+  "option2": "Cetyltrimethyl ammonium bromide",
+  "option3": "Both a and b",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Cetyltrimethyl ammonium bromide",
+  "explanation": "Cetyltrimethyl ammonium bromide is an example of cationic detergent whereas Sodium dodecylbenzenesulphonates is an example of anionic detergent."
+}

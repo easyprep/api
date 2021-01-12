@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-11T21:37:58.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "84714a4e-74aa-4611-8a27-fd7a3316838f",
+  "labels": "current-affairs,2019-03-12",
+  "question": "The students of which IIT have devised solution to detect fake notes at Smart India Hackathon 2019?",
+  "option1": "IIT Bombay",
+  "option2": "IIT Kanpur",
+  "option3": "IIT Kharagpur",
+  "option4": "IIT Indore",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "The students from IIT Kharagpur have devised unique solutions ranging from detecting counterfeit currency to nuclear radiation tracking through wearable sensors at the recently concluded nationwide competition, Smart India Hackathon 2019. They developed a code for a smartphone application to address the problem of detecting fake Indian currency. For this, the 6-member team  have developed an image processing application which can detect counterfeit currency. The application, which can be installed on smartphones, can be used by people at various touch points thus reducing chances of fraud.  A user can upload a currency note image and the mobile app would verify its authenticity using 25 features extracted from the front and rear side of the currency note. In case of detection of a fake note, the user will also be notified of the failure checkpoints. The six students who developed the code are T.Y.S.S. Santosh, Satish Kumar Reddy, Vipul Tomar, Sai Krishna, Drishti Tulsi and D V Sai Surya."
+}

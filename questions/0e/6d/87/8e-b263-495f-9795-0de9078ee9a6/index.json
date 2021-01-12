@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-27T22:21:02.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "0e6d878e-b263-495f-9795-0de9078ee9a6",
+  "labels": "current-affairs,2019-02-28",
+  "question": "Which semiconductor company has launched India’s first indigenous semiconductor chips for 4G/LTE and 5G NR modems?",
+  "option1": "SignalChip",
+  "option2": "Ineda Systems",
+  "option3": "Saankhya Labs",
+  "option4": "Terminus Circuits",
+  "option5": "",
+  "answer": "SignalChip",
+  "explanation": "Bengaluru-based Semiconductor Company “SignalChip” has launched India’s first indigenous semiconductor chips for 4G /LTE and 5G NR modems in New Delhi. The SCBM34XX and SCRF34XX/45XX series of chips, code-named ‘Agumbe’, are the result of over 8 years of relentless and deep R&D by Signalchip engineers. The RF sections cover all LTE/5G-NR bands upto 6GHz.  These chips also support positioning using India’s own satellite navigation system, NAVIC. The Agumbe series builds up on SCRF1401: India’s first RF transceiver chip for high performance wireless standards like 3G/4G and WiFi, created by Signalchip in 2015. The combined multi-standard system-on-chip (SoC) can serve as a base station chipset for a wide range of form factors from low-cost indoor small cells to high performance base stations. These are optimally designed to support evolving network architectures like Open RAN/CRAN with flexible interface configurations. Through the IPs created for this device, the company now has the potential to design products for multiple related fields and is currently forging ahead with additional chipsets for advanced 5G NR features."
+}

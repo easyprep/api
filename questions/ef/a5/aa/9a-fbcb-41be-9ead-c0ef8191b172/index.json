@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "efa5aa9a-fbcb-41be-9ead-c0ef8191b172",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these factors affect the line of sight communication?",
+  "option1": "line of sight distance",
+  "option2": "curvature of the earth",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both a and b",
+  "explanation": "The line of sight communication is affected by (a) the line of sight distance (b) the curvature of the earth. The space waves are used for line of sight communication such as television broadcast, microwave link and satellite communication."
+}

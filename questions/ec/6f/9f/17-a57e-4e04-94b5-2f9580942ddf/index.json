@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "ec6f9f17-a57e-4e04-94b5-2f9580942ddf",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What do we call the network design containing more than one topology?",
+  "option1": "Hybrid",
+  "option2": "Mesh",
+  "option3": "Tree",
+  "option4": "Star",
+  "option5": "",
+  "answer": "Hybrid",
+  "explanation": "A network structure whose design contains more than one topology is said to be hybrid topology. Hybrid topology has all the merits and demerits of all the incorporating topologies."
+}

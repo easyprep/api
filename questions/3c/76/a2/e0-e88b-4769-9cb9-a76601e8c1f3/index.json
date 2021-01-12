@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-10T16:16:29.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "3c76a2e0-e88b-4769-9cb9-a76601e8c1f3",
+  "labels": "current-affairs,2019-03-11",
+  "question": "Within which of the following time BCG vaccination is to be given to a new-born child?",
+  "option1": "within 15 days",
+  "option2": "within 1 month",
+  "option3": "within 48 hours",
+  "option4": "within 7 days",
+  "option5": "",
+  "answer": "within 48 hours",
+  "explanation": "The BCG vaccine is an injection given to children who have a higher risk of catching TB. The BCG vaccine helps your child's immune system fight the germs that cause TB and helps stop them from getting serious TBdisease. It has to be given within 48 hours after the child is born."
+}

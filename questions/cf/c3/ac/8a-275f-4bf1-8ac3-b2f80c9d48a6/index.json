@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-10T16:16:29.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "cfc3ac8a-275f-4bf1-8ac3-b2f80c9d48a6",
+  "labels": "current-affairs,2019-03-11",
+  "question": "Which of the following is the hybrid between a horse and a donkey?",
+  "option1": "Mule",
+  "option2": "Hule",
+  "option3": "Tigon",
+  "option4": "Zorse",
+  "option5": "",
+  "answer": "Mule",
+  "explanation": "A mule is the offspring of a male donkey (a jack) and a female horse (a mare). A horse has 64 chromosomes, and a donkey has 62. The mule ends up with 63. Mules can be either male or female, but, because of the odd number of chromosomes, they can't reproduce"
+}

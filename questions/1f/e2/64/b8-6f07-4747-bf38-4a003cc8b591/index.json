@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:49:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "1fe264b8-6f07-4747-bf38-4a003cc8b591",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following non-metal has an isotope which can be used to detect secret nuclear fuel reprocessing facilities?",
+  "option1": "Selenium",
+  "option2": "Tellurium",
+  "option3": "Neon",
+  "option4": "Krypton",
+  "option5": "",
+  "answer": "Krypton",
+  "explanation": "Krypton-85 present in the atmosphere has been used to detect many secret nuclear fuel reprocessing facilities in North Korea and Pakistan."
+}

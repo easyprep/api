@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "34a54fe0-11fe-4702-b38d-c3c5eecc1997",
+  "labels": "current-affairs,2019-03-03",
+  "question": "What is meant by the terms 'connect time'?",
+  "option1": "Speed of data transfer in a connection",
+  "option2": "Amount of time it took for user to make a connection to a remote computer",
+  "option3": "Amount of time user is logged in to a remote computer",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Amount of time user is logged in to a remote computer",
+  "explanation": "The amount of time a user is logged in to a remote computer is called as connect time. This becomes important in as many online services charge users per connect time."
+}

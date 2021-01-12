@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "467e42e0-a911-45ea-838f-e3fdbb67c43a",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these protocols is used by TFTP for data transport?",
+  "option1": "TCP",
+  "option2": "UDP",
+  "option3": "Both a and b",
+  "option4": "None",
+  "option5": "",
+  "answer": "UDP",
+  "explanation": "TFTP or Trivial File Transfer Protocol makes use of UDP for data transport. Each TFTP message is carried in separate UDP datagram."
+}

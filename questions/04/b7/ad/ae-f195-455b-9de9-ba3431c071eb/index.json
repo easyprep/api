@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-25T20:02:25.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "04b7adae-f195-455b-9de9-ba3431c071eb",
+  "labels": "current-affairs,2019-02-26",
+  "question": "Which nation has won the maximum number of medals in the FINA Short Court Worlds ever?",
+  "option1": "United States",
+  "option2": "Australia",
+  "option3": "China",
+  "option4": "Sweden",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "United States has won maximum number of medals in the FINA World Swimming Championships (25m). It has won 100 golds, 90 silvers and 79 bronze medals. This makes a total of 269."
+}

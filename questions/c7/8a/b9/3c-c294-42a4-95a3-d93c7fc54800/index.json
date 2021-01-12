@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-25T20:02:29.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "c78ab93c-c294-42a4-95a3-d93c7fc54800",
+  "labels": "current-affairs,2019-02-26",
+  "question": "How many states are members of the Badminton Association of India?",
+  "option1": 20,
+  "option2": 25,
+  "option3": 28,
+  "option4": 22,
+  "option5": "",
+  "answer": 28,
+  "explanation": "Badminton Association of India has 28 state members that conduct badminton tournaments and have a 2X voting power compared to the 8 affiliate members, who do not conduct tournaments and have a single vote each in the association."
+}

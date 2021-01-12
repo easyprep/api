@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-06T02:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "74ed2f59-1beb-4478-bf96-68a0f4db303f",
+  "labels": "current-affairs,2019-03-07",
+  "question": "Why an electron microscope gives higher magnification than an optical microscope?",
+  "option1": "Because wavelength of electrons is bigger than wavelength of visible light.",
+  "option2": "Because wavelength of electrons is smaller than wavelength of visible light.",
+  "option3": "Because electron microscope uses good quality lenses.",
+  "option4": "Because electrons have more energy than light particles.",
+  "option5": "",
+  "answer": "Because wavelength of electrons is smaller than wavelength of visible light.",
+  "explanation": "An electron microscope gives higher magnification than an optical microscope because the wavelength of electrons is smaller than wavelength of visible light. Hence, making electron microscope to resolve objects that are very small more clearly."
+}

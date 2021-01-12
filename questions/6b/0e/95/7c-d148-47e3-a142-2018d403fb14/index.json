@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:14:06.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "6b0e957c-d148-47e3-a142-2018d403fb14",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What are the structures formed by the soap molecules, during cleansing, known as?",
+  "option1": "Stereates",
+  "option2": "Esters",
+  "option3": "Micelles",
+  "option4": "Tubes",
+  "option5": "",
+  "answer": "Micelles",
+  "explanation": "The ionic-end of soap dissolves in water while the carbon chain dissolves in oil. The soap molecules form structures called micelles where one end of the molecules is towards the oil droplet while the ionic-end faces outside."
+}

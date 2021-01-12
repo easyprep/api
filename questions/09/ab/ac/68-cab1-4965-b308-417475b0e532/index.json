@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "09abac68-cab1-4965-b308-417475b0e532",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What do we call the time it takes for an entire message to completely arrive at the destination from the time the first bit is sent out from the source?",
+  "option1": "Propagation time",
+  "option2": "Transmission time",
+  "option3": "Latency",
+  "option4": "Throughput",
+  "option5": "",
+  "answer": "Latency",
+  "explanation": "The latency or delay defines how long it takes for an entire message to completely arrive at the destination from the time the first bit is sent out from the source."
+}

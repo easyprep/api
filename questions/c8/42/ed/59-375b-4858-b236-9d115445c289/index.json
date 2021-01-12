@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "c842ed59-375b-4858-b236-9d115445c289",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What is the maximum amount of data that a channel can transmit called as?",
+  "option1": "Jitter rate",
+  "option2": "Throughput",
+  "option3": "Bandwidth",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Bandwidth",
+  "explanation": "The term bandwidth refers to the maximum amount of data that a channel can transmit. For example if the bandwidth of a Fast Ethernet network is a maximum of 100 Mbps then this network can send 100 Mbps or less depending on various factors."
+}

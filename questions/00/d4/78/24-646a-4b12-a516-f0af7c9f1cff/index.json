@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:23:27.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "00d47824-646a-4b12-a516-f0af7c9f1cff",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What do we call the drugs that bind to the receptor site and inhibit its natural function?",
+  "option1": "agonists",
+  "option2": "antagonists",
+  "option3": "antibiotics",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "antagonists",
+  "explanation": "Drugs that bind to the receptor site and inhibit its natural function are called as antagonists. These drugs are useful when blocking of message is required."
+}

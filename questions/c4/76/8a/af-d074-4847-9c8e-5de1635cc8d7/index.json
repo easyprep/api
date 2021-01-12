@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "c4768aaf-d074-4847-9c8e-5de1635cc8d7",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these protocols is used by network components to find other devices in the same broadcast domain?",
+  "option1": "LPR",
+  "option2": "LADP",
+  "option3": "NTP",
+  "option4": "ARP",
+  "option5": "",
+  "answer": "ARP",
+  "explanation": "The Address Resolution Protocol (ARP) is an Internet layer protocol that helps the network components find other devices in the same broadcast domain."
+}

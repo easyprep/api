@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "9bb8a15b-416c-4673-b172-73d025abea8a",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these protocols is used to manage the membership of Internet Protocol multicast groups?",
+  "option1": "SCP",
+  "option2": "LDAP",
+  "option3": "LPR",
+  "option4": "IGMP",
+  "option5": "",
+  "answer": "IGMP",
+  "explanation": "The Internet Group Management Protocol is a communications protocol used to manage the membership of Internet Protocol multicast groups."
+}

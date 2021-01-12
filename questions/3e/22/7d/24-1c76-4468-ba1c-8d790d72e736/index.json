@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:52.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "3e227d24-1c76-4468-ba1c-8d790d72e736",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these is not an unguided mode of transmission?",
+  "option1": "Infrared",
+  "option2": "Radiowaves",
+  "option3": "Optical Fiber",
+  "option4": "Microwaves",
+  "option5": "",
+  "answer": "Optical Fiber",
+  "explanation": "In unguided transmission, no physical medium is required for the transmission of electromagnetic signals. There are 3 major types of unguided mode of transmission - Infrared, Radiowaves and Microwaves."
+}

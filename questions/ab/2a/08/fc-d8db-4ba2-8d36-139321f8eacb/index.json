@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "ab2a08fc-d8db-4ba2-8d36-139321f8eacb",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What is the alteration of the signal due to differing propagation speeds of each of the frequencies called as?",
+  "option1": "Distortion",
+  "option2": "Attenuation",
+  "option3": "Noise",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Distortion",
+  "explanation": "Distortion is the change in the waveform of the signal due to noise. It is the alteration of the signal due to differing propagation speeds of each of the frequencies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:45.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "05098724-7b17-4e97-8fc7-67f91eac769c",
+  "labels": "current-affairs,2019-03-03",
+  "question": "Which of these internet connections is always connected to the internet?",
+  "option1": "Dial-up",
+  "option2": "ISDN",
+  "option3": "DSL",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "DSL",
+  "explanation": "DSL stands for digital subscriber line. It is a type of internet connection which is always connected to the Internet. So, in this case, we don't have to dialup to connect."
+}

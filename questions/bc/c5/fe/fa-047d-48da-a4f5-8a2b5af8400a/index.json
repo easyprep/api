@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "bcc5fefa-047d-48da-a4f5-8a2b5af8400a",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following represents a sine wave?",
+  "option1": "Non-periodic analog signal",
+  "option2": "Periodic analog signal",
+  "option3": "Periodic digital signal",
+  "option4": "Non-periodic digital signal",
+  "option5": "",
+  "answer": "Periodic analog signal",
+  "explanation": "The sine wave is the most fundamental form of a periodic analog signal. A periodic signal completes a pattern within a measurable time frame, called a period, and repeats that pattern over subsequent identical periods."
+}

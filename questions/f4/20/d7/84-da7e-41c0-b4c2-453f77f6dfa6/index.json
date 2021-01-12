@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:14:07.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "f420d784-da7e-41c0-b4c2-453f77f6dfa6",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What is the chemical formula of Stearic acid?",
+  "option1": "C<sub></sub>17H<sub>34</sub>CO<sub>2</sub>H",
+  "option2": "C<sub></sub>17H<sub>35</sub>CO<sub>2</sub>H",
+  "option3": "C<sub></sub>18H<sub>36</sub>CO<sub>2</sub>H",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "C<sub></sub>17H<sub>35</sub>CO<sub>2</sub>H",
+  "explanation": "Stearic acid is a waxy solid and its chemical formula is C<sub></sub>17H<sub>35</sub>CO<sub>2</sub>H. It is a raw material for the saponification process."
+}

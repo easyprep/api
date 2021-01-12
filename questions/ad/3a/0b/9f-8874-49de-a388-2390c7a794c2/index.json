@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-02T16:07:44.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "ad3a0b9f-8874-49de-a388-2390c7a794c2",
+  "labels": "current-affairs,2019-03-03",
+  "question": "What does ISDN stand for?",
+  "option1": "Integrated Services Data Network",
+  "option2": "Information Sources Digital Network",
+  "option3": "Integrated Services Digital Network",
+  "option4": "Information Standard Data Network",
+  "option5": "",
+  "answer": "Integrated Services Digital Network",
+  "explanation": "ISDN stands for Integrated Services Digital Network. It establishes the connection using the phone lines which carry digital signals instead of analog signals."
+}

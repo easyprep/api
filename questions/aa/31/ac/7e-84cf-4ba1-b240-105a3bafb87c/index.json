@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "aa31ac7e-84cf-4ba1-b240-105a3bafb87c",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these is a connection-oriented network protocol?",
+  "option1": "TCP",
+  "option2": "IP",
+  "option3": "UDP",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "TCP",
+  "explanation": "TCP stands for Transmission Control Protocol. It is a connection oriented protocol and offers end-to-end packet delivery. TCP acts as a backbone for connections."
+}

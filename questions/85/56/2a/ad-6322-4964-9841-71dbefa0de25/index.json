@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "85562aad-6322-4964-9841-71dbefa0de25",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Where does the bending of EM waves occurs in the atmosphere?",
+  "option1": "Troposphere",
+  "option2": "Mesosphere",
+  "option3": "Stratosphere",
+  "option4": "Ionosphere",
+  "option5": "",
+  "answer": "Ionosphere",
+  "explanation": "The phenomenon of bending of electromagnetic waves occurs in Ionosphere and they are diverted towards the earth. This is helpful in skywave propagation."
+}

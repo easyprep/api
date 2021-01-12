@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:23:27.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "a24e0941-b743-4dc6-9183-5cdc561f299d",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following drugs is an antacid?",
+  "option1": "Dimetapp",
+  "option2": "Terfenadine",
+  "option3": "Cimetidine",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Cimetidine",
+  "explanation": "The drug cimetidine (Tegamet) is an antacid which was designed to prevent the interaction of histamine with the receptors present in the stomach wall. This resulted in release of lesser amount of acid."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "3bb16272-5d54-46f6-8deb-4aee44c2f73e",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these standards is defined by IEEE 802.3ab?",
+  "option1": "Megabit Ethernet over copper wiring",
+  "option2": "Gigabit Ethernet over Fiber optics",
+  "option3": "Gigabit Ethernet over copper wiring",
+  "option4": "Fast Ethernet",
+  "option5": "",
+  "answer": "Gigabit Ethernet over copper wiring",
+  "explanation": "IEEE 802.3ab, which is also known as 1000BASE-T, is a standard for Gigabit Ethernet over copper wiring."
+}

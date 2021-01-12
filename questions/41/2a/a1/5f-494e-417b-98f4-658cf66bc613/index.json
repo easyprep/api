@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "412aa15f-494e-417b-98f4-658cf66bc613",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following switching methods was used by ARPANET?",
+  "option1": "Message-switching",
+  "option2": "Packet-switching",
+  "option3": "Circuit-switching",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Packet-switching",
+  "explanation": "The Advanced Research Projects Agency Network or as it is called as ARPANET was an early packet-switching network and the first network to implement the TCP/IP protocol suite."
+}

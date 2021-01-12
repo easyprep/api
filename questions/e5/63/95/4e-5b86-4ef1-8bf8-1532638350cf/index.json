@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-12T18:04:23.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "e563954e-5b86-4ef1-8bf8-1532638350cf",
+  "labels": "current-affairs,2019-03-13",
+  "question": "Which atmospheric layer reflects radio waves back to Earth?",
+  "option1": "Stratosphere",
+  "option2": "Ionosphere",
+  "option3": "Exosphere",
+  "option4": "Troposphere",
+  "option5": "",
+  "answer": "Ionosphere",
+  "explanation": "In radio communication, skywave or skip refers to the propagation of radio waves reflected or refracted back toward Earth from the ionosphere, an electrically charged layer of the upper atmosphere."
+}

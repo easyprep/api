@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:21.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "c8dda4f2-ce49-4985-810e-52741051edaf",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following is an advantage of using Ring network topology?",
+  "option1": "Troubleshooting is easy",
+  "option2": "Failure of one computer has no effect on others",
+  "option3": "Network is not affected by high traffic",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Network is not affected by high traffic",
+  "explanation": "In Ring topology, each computer is connected to another computer, with the last one connected to the first. Exactly two neighbours are there for each device. The advantage of using a Ring network topology is that the network is not affected by high traffic."
+}

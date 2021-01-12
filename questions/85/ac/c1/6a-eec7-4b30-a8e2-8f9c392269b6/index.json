@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:47:49.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "85acc16a-eec7-4b30-a8e2-8f9c392269b6",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these is an ITU-T standard protocol suite for packet-switched wide area network (WAN) communication?",
+  "option1": "X.25",
+  "option2": "X.15",
+  "option3": "X.5",
+  "option4": "X.35",
+  "option5": "",
+  "answer": "X.25",
+  "explanation": "X.25 is an ITU-T standard protocol suite for packet-switched wide area network (WAN) communication. Unlike ARPANET, it was available for business use."
+}

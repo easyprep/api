@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "ce290a57-f6d1-45d2-b261-50f9930ffe15",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What does NIC stand for?",
+  "option1": "Network Inside Computer",
+  "option2": "Network inter-connection",
+  "option3": "Network Interface call",
+  "option4": "Network Interface card",
+  "option5": "",
+  "answer": "Network Interface card",
+  "explanation": "NIC stands for Network Interface card. A network interface card (NIC) is a hardware component which is installed on a computer so that it can connect to a network."
+}

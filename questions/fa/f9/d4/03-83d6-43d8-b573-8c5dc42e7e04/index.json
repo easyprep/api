@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "faf9d403-83d6-43d8-b573-8c5dc42e7e04",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What is the number of bit interval per second known as?",
+  "option1": "Bit period",
+  "option2": "Bit lag",
+  "option3": "Bit capacity",
+  "option4": "Bit rate",
+  "option5": "",
+  "answer": "Bit rate",
+  "explanation": "The bit rate is the number of bit interval per second. This mean that the bit rate is the number of bits send in one second, usually expressed in bits per second."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:23:27.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "e6229fba-a03b-4869-8933-eeddc0f77f05",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these solution is not a disinfectant?",
+  "option1": "0.2 to 0.4 ppm chlorine solution",
+  "option2": "0.2 percent solution of phenol",
+  "option3": "1 percent solution of phenol",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "0.2 percent solution of phenol",
+  "explanation": "0.2 per cent solution of phenol is an antiseptic while its one percent solution is disinfectant. Chlorine in the concentration of 0.2 to 0.4 ppm in aqueous solution and sulphur dioxide in very low concentrations, are disinfectants."
+}

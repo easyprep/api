@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "ba160e14-0b5c-4f96-9ecd-02e20a24aab5",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which port is used by SMTP?",
+  "option1": 22,
+  "option2": 53,
+  "option3": 25,
+  "option4": 69,
+  "option5": "",
+  "answer": 25,
+  "explanation": "SMTP stands for Simple Mail Transfer Protocol. SMTP is a protocol that defines how mail messages are sent between hosts. It uses port number 25 to send messages."
+}

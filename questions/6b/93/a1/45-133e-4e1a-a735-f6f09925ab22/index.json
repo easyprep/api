@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:14:06.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "6b93a145-133e-4e1a-a735-f6f09925ab22",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of the following is the product of saponification process?",
+  "option1": "Ethanoic acid",
+  "option2": "Ethanol",
+  "option3": "Butanaldehyde",
+  "option4": "Glycerol",
+  "option5": "",
+  "answer": "Glycerol",
+  "explanation": "In saponification process, esters of fatty acids are hydrolysed and the soap obtained remains in colloidal form. The solution left after removing the soap contains glycerol, which can be recovered by fractional distillation."
+}

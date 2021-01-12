@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:21.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "bee79700-5081-474b-8443-1247a422e1c5",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these standards is used to define Fiber Optic connections?",
+  "option1": "IEEE 802.1",
+  "option2": "IEEE 802.8",
+  "option3": "IEEE 802.11",
+  "option4": "IEEE 802",
+  "option5": "",
+  "answer": "IEEE 802.8",
+  "explanation": "The IEEE 802.8 defines the LAN standard for fiber optic media used in token passing computer networks like FDDI."
+}

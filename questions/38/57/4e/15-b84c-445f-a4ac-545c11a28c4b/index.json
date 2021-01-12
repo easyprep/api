@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "38574e15-b84c-445f-a4ac-545c11a28c4b",
+  "labels": "current-affairs,2019-02-27",
+  "question": "Which of the following can be the source of data?",
+  "option1": "Computer",
+  "option2": "Telephone handset",
+  "option3": "Video Camera",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Typically the source of data is a computer, but it can be any other electronic equipment such as telephone handset, video camera, etc, which can generate data for transmission to some destination."
+}

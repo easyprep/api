@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-12T18:04:23.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "e162e57a-c36b-464e-a446-32a4f1de02c8",
+  "labels": "current-affairs,2019-03-13",
+  "question": "Which is the largest planet in our solar system?",
+  "option1": "Uranus",
+  "option2": "Neptune",
+  "option3": "Jupiter",
+  "option4": "Saturn",
+  "option5": "",
+  "answer": "Jupiter",
+  "explanation": "The largest planet in our solar system by far is Jupiter, which beats out all the other planets in both mass and volume. Jupiter's mass is more than 300 times that of Earth, and its diameter, at 140,000 km, is about 11 times Earth's diameter."
+}

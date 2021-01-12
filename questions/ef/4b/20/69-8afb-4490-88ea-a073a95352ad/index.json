@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:34:22.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "ef4b2069-8afb-4490-88ea-a073a95352ad",
+  "labels": "current-affairs,2019-03-02",
+  "question": "What does the number '10' depict in 10BASE-T?",
+  "option1": "10 Kbps",
+  "option2": "10 Mbps",
+  "option3": "10 Gbps",
+  "option4": "10 Tbps",
+  "option5": "",
+  "answer": "10 Mbps",
+  "explanation": "Traditional Ethernet uses 10BASE-T specifications. The number '10' depicts 10Mbps speed, BASE stands for baseband, and T stands for Thick Ethernet."
+}

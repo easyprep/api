@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-04T12:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "95fd36ab-c9c4-4d95-b19c-6b6ab715b1bc",
+  "labels": "current-affairs,2019-03-05",
+  "question": "Which of these protocols is used to retrieve email messages from a mail server?",
+  "option1": "IMAP",
+  "option2": "HTTPS",
+  "option3": "TFTP",
+  "option4": "SNMP",
+  "option5": "",
+  "answer": "IMAP",
+  "explanation": "The Internet Message Access Protocol or IMAP is an Internet standard protocol used by email clients to retrieve email messages from a mail server. The default port used is 143."
+}

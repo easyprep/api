@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T19:14:07.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "ee09bc1a-e331-4e60-8719-56c9e08b5f00",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these chemical is used to form soaps containing sodium salts?",
+  "option1": "Sulphuric acid",
+  "option2": "Sodium hydroxide",
+  "option3": "Nitric acid",
+  "option4": "Carbonic acid",
+  "option5": "",
+  "answer": "Sodium hydroxide",
+  "explanation": "Soaps containing sodium salts are formed by heating fat with aqueous sodium hydroxide solution. This reaction is known as saponification."
+}

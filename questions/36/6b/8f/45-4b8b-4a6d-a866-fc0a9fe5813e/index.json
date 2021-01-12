@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-26T01:01:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "366b8f45-4b8b-4a6d-a866-fc0a9fe5813e",
+  "labels": "current-affairs,2019-02-27",
+  "question": "What do we call the time required to send one single bit?",
+  "option1": "Bit interval",
+  "option2": "Bit lag",
+  "option3": "Bit rate",
+  "option4": "Bit frequency",
+  "option5": "",
+  "answer": "Bit interval",
+  "explanation": "The bit interval is the time required to send one single bit. It, along with bit rate, is used to describe the digital signals."
+}

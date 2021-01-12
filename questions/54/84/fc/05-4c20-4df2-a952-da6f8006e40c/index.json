@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-01T18:44:53.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "5484fc05-4c20-4df2-a952-da6f8006e40c",
+  "labels": "current-affairs,2019-03-02",
+  "question": "Which of these waves is most commonly used by wireless mouse to communicate?",
+  "option1": "Infrared",
+  "option2": "Microwaves",
+  "option3": "Radio waves",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Infrared",
+  "explanation": "Infrared waves are used for communication for very short distances. These are most commonly used in TV remotes, wireless mouse, keyboard, printer, etc."
+}

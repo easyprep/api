@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-02-25T20:02:26.000Z",
+  "updated_at": "2021-01-06T08:24:37.407Z",
+  "id": "42c93b07-ee2f-48e0-99b5-892d4e820bea",
+  "labels": "current-affairs,2019-02-26",
+  "question": "How many goals were scored in the 2018 FIFA World Cup?",
+  "option1": 200,
+  "option2": 150,
+  "option3": 169,
+  "option4": 118,
+  "option5": "",
+  "answer": 169,
+  "explanation": "The 2018 FIFA World Cup was held in Russia from 14 June to 15 July. 64 matches were played in all. Total number of goals scored were 169 which makes it nearly 2.64 goals per match."
+}
