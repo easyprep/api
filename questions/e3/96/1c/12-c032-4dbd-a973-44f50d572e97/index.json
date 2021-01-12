@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e3961c12-c032-4dbd-a973-44f50d572e97",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What does Autofill feature of MX Excel do?",
+  "option1": "Fill cells with a watermark",
+  "option2": "Fill cells with a background colour",
+  "option3": "Fill cells with data that follows a pattern",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Fill cells with data that follows a pattern",
+  "explanation": "MS Excel's AutoFill feature is used to fill cells with data that follows a pattern or that is based on data in other cells. Microsoft Excel's AutoFill feature makes data entry efficient."
+}

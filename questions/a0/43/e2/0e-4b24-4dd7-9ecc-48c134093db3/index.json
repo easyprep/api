@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a043e20e-4b24-4dd7-9ecc-48c134093db3",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which of these is the extension of MS Access 2007 database file?",
+  "option1": ".accdb",
+  "option2": ".adp",
+  "option3": ".mdw",
+  "option4": ".accde",
+  "option5": "",
+  "answer": ".accdb",
+  "explanation": "An .accdb file is a database created with Microsoft Access 2007 or later. It typically contains data organized into tables and fields and may also include custom forms, SQL queries, and other data. ACCDB files replaced .MDB files."
+}

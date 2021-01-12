@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-19T21:20:38.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ac0f5656-7c75-4cdf-a310-1d77121cd92b",
+  "labels": "current-affairs,2019-04-20",
+  "question": "Which of the following banks has become the first public sector bank in India to meet RBI’s EMV mandate?",
+  "option1": "Canara Bank",
+  "option2": "SBI",
+  "option3": "PNB",
+  "option4": "BoB",
+  "option5": "",
+  "answer": "Canara Bank",
+  "explanation": "A global provider of real-time electronic payment and banking solutions, ACI Worldwide has recently announced that Canara Bank has successfully rolled out major new functionality to support EMV (Europay, MasterCard and Visa) card acquiring across its ATM network and Aadhaar Authentication and leverage ACI’s UP Retail Payments solution to achieve market firsts. With this, Canara Bank  has become the first public sector bank in India to meet RBI’s EMV mandate. The EMV shift is aimed at reducing lost and stolen card fraud and making counterfeit card fraud more difficult. The Reserve Bank of India (RBI) had set a deadline of December 31, 2018 for the switch, mandating use of an embedded chip to replace the traditional magnetic stripe card. ACI’s UP Retail Payments solution is based on the Universal Payments (UP) Framework and built on open service-oriented architecture for robust payments orchestration. It supports core payment processing with 24x7 secure payment capabilities."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "763d399d-54ae-4bbf-a307-5d846e98620d",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is watermark feature of MS Word?",
+  "option1": "A password protection sign",
+  "option2": "A water sign on the document",
+  "option3": "A graphic displayed as the background",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "A graphic displayed as the background",
+  "explanation": "A watermark is a graphic or word(s) displayed as the background to a written document. Typically, It appears in a light color so it can be easily seen by readers of the document."
+}

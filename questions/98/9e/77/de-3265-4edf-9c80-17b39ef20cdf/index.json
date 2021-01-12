@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T21:23:42.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "989e77de-3265-4edf-9c80-17b39ef20cdf",
+  "labels": "current-affairs,2019-04-02",
+  "question": "Which of the following districts has become the world’s first district with 5G coverage?",
+  "option1": "Chaoyang",
+  "option2": "Mangalore",
+  "option3": "Hongkou",
+  "option4": "Kolkata",
+  "option5": "",
+  "answer": "Hongkou",
+  "explanation": "The Hongkou district of Shanghai has recently claimed to have the world’s first district with 5G coverage and a broadband gigabit network. It conducted trial runs of the 5G network, backed by telecom services provider China Mobile. Shanghai also aims to build over 10,000 5G base stations by the end of this year and the number of 5G base stations could cross 30,000 in 2021. 5G is the next generation of cellular technology with download speed 10 to 100 times faster than the 4G LTE networks."
+}

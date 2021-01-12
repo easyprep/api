@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "9c2b1a48-b553-40bc-aad9-f0d8016f6ab6",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which menu option in MS Excel has the option to sort the data?",
+  "option1": "Review",
+  "option2": "Data",
+  "option3": "Insert",
+  "option4": "Formulas",
+  "option5": "",
+  "answer": "Data",
+  "explanation": "The Data menu option has the option to sort the data. The Data tab in MS Excel contains the Sort & Filter group which can be used to sort the data."
+}

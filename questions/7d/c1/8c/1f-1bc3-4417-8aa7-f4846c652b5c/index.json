@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:36:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7dc18c1f-1bc3-4417-8aa7-f4846c652b5c",
+  "labels": "current-affairs,2019-03-26",
+  "question": "Why is the wall of a dam broader at the base?",
+  "option1": "Because streamlining is required",
+  "option2": "To withstand pressure that increases with depth",
+  "option3": "To withstand pressure that increases with atmosphere",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "To withstand pressure that increases with depth",
+  "explanation": "The wall of a dam is broad at its base. The reason behind this is, pressure exerted by the liquid increases with increase in depth. The dam contains huge amount of water and as we go deep the pressure exerted by such a huge amount of water increases to very high."
+}

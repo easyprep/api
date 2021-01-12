@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T21:14:09.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "76aedeef-1b5a-4eb1-b099-993ba7ccc6e0",
+  "labels": "current-affairs,2019-04-02",
+  "question": "ISRO has successfully launched EMISAT and 28 customer satellites by which launch vehicle?",
+  "option1": "PSLV-C44",
+  "option2": "PSLV-C46",
+  "option3": "PSLV-C47",
+  "option4": "PSLV-C45",
+  "option5": "",
+  "answer": "PSLV-C45",
+  "explanation": "On April 1, ISRO has successfully launched India’s latest EMISAT defence satellite from the Sriharikota spaceport.  In today’s mission, the rocket PSLV-C45 flew in a new configuration called “QL”. In this configuration, the rocket is fitted with four longer versions of strap-on motors that provide the vehicle the required additional thrust. Earlier, the rocket used to be in “XL” version with six strap-on motors or two or with no strap-on motors known as core alone configuration. The PSLV-C45 successfully injected EMISAT in a 748-km sun-synchronous polar orbit and 28 international customer satellites in a 504-km orbit. Of these, 24 are from the US, two from Lithuania, and one each from Spain and Switzerland. EMISAT is a satellite built around ISRO’s Mini Satellite-2 (IMS-2) bus weighing about 436 kg. The satellite is intended for electromagnetic spectrum measurement."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-15T12:08:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "155af37f-2cf5-4d5e-8d78-da4ce3d259d2",
+  "labels": "current-affairs,2019-03-16",
+  "question": "The latitude of a place is expressed by its angular distance in relation to which of the following?",
+  "option1": "North Pole",
+  "option2": "Equator",
+  "option3": "South Pole",
+  "option4": "Axis of the Earth",
+  "option5": "",
+  "answer": "Equator",
+  "explanation": "North latitude is the angular distance north of the equator, and south latitude is the angular distance south of the equator. Latitude is the angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself."
+}

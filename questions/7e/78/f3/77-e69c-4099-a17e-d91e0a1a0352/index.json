@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-15T12:08:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7e78f377-e69c-4099-a17e-d91e0a1a0352",
+  "labels": "current-affairs,2019-03-16",
+  "question": "What is the number of mitochondria present in a bacterial cell?",
+  "option1": "Zero",
+  "option2": "One",
+  "option3": "Two",
+  "option4": "Four",
+  "option5": "",
+  "answer": "Zero",
+  "explanation": "Bacterium contain no membrane bound nucleus and rarely contain membrane bound organelles. Simply, most don't have any large organelles with their own membranes; this means no nucleus, no mitochondria and no chloroplast. Even if a bacteria wanted to have mitochondria , it is couldn't."
+}

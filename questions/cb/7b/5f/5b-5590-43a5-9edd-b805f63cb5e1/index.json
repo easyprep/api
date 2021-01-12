@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "cb7b5f5b-5590-43a5-9edd-b805f63cb5e1",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What is a Macro in MS Access?",
+  "option1": "a datatype",
+  "option2": "tool that allows to automate tasks",
+  "option3": "a wizard that creates charts and infographs",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "tool that allows to automate tasks",
+  "explanation": "A Macro is a tool that allows the users to automate tasks and add functionality to the forms, reports, and controls in MS Access."
+}

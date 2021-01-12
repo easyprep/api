@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ea98633b-16d3-45a1-a866-e6f689505988",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these tech company owns Firefox web browser?",
+  "option1": "Lenovo",
+  "option2": "IBM",
+  "option3": "Apple",
+  "option4": "Mozilla",
+  "option5": "",
+  "answer": "Mozilla",
+  "explanation": "Firefox is an open-source web browser developed by Mozilla Corporation. It is available for Windows, macOS, Linux, BSD and many other operating systems."
+}

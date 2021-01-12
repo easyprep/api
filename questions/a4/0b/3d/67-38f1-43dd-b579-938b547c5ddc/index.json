@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a40b3d67-38f1-43dd-b579-938b547c5ddc",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which key combination is used to select the entire document?",
+  "option1": "Ctrl + A",
+  "option2": "Ctrl + S",
+  "option3": "Ctrl + W",
+  "option4": "Ctrl + E",
+  "option5": "",
+  "answer": "Ctrl + A",
+  "explanation": "Ctrl + A is used to select the entire document. Ctrl + S is used to save the document. Ctrl + E is used to centre align the document."
+}

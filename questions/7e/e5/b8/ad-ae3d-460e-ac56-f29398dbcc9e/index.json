@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7ee5b8ad-ae3d-460e-ac56-f29398dbcc9e",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which MS Access feature is used to copy a control's formatting?",
+  "option1": "Format Painter",
+  "option2": "Format Manager",
+  "option3": "AutoType",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Format Painter",
+  "explanation": "The Format Painter tool of MS Access is used to apply exactly the same formatting to several controls repeatedly."
+}

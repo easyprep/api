@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a885d816-94ff-4079-940e-e6a745e50a97",
+  "labels": "current-affairs,2019-03-21",
+  "question": "What is an Outbox in the email service?",
+  "option1": "Place to keep deleted emails",
+  "option2": "Emails which are received are kept here",
+  "option3": "Copies of email are kept here which are to be sent",
+  "option4": "None",
+  "option5": "",
+  "answer": "Copies of email are kept here which are to be sent",
+  "explanation": "An Outbox is a place on a computer where copies of email messages that you are going to send are kept."
+}

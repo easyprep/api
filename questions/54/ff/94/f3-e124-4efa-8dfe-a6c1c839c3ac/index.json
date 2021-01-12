@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "54ff94f3-e124-4efa-8dfe-a6c1c839c3ac",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the name of Virtual Assistant included in MS Windows 10?",
+  "option1": "Riya",
+  "option2": "Siri",
+  "option3": "Cortana",
+  "option4": "Nancy",
+  "option5": "",
+  "answer": "Cortana",
+  "explanation": "Cortana is a virtual assistant created by Microsoft for Windows 10, Windows 10 Mobile, Windows Phone 8.1, Invoke smart speaker, iOS, Android, Windows Mixed Reality, Amazon Alexa etc."
+}

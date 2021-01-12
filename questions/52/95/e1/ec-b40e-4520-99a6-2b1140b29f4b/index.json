@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-11T21:51:24.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "5295e1ec-b40e-4520-99a6-2b1140b29f4b",
+  "labels": "current-affairs,2019-04-12",
+  "question": "The scientists at which US university have developed a new pin-sized sensor that can detect dangerous chemicals?",
+  "option1": "Duke University",
+  "option2": "Yale university",
+  "option3": "Massachusetts Institute of Technology",
+  "option4": "University of Wisconsin-Madison",
+  "option5": "",
+  "answer": "University of Wisconsin-Madison",
+  "explanation": "The scientists at the University of Wisconsin-Madison in the US have developed a novel sensor that can be used in smartphone-sized devices to detect dangerous chemicals based on a unique fingerprint of absorbed and emitted light. Devices called spectrometers are light-splitting instruments that have long been both bulky and expensive, preventing their use outside the lab. However, researchers have now developed a spectrometer so small and simple that it could integrate with the camera of a typical cellphone without sacrificing accuracy. The device also has an advanced capability called hyperspectral imaging, which collects information about each individual pixel in an image to identify materials or detect specific objects amidst a complicated background. Hyperspectral sensing could be used to detect seams of valuable minerals within rock faces or to identify specific plants in a highly vegetated area."
+}

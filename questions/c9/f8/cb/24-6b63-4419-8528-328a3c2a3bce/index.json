@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T11:19:00.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c9f8cb24-6b63-4419-8528-328a3c2a3bce",
+  "labels": "current-affairs,2019-03-18",
+  "question": "Which of the following defines Cultivable land?",
+  "option1": "land actually under crops land",
+  "option2": "old fallow lands + current fallow lands",
+  "option3": "total fallow lands + net sown area",
+  "option4": "cultivable waste land + fallow land",
+  "option5": "",
+  "answer": "total fallow lands + net sown area",
+  "explanation": "Cultivated land is an arable land that is worked by sowing and raising crops. For Example: ploughland, plowland, tillage, tilled land, tilth, farmland. These are total fallow lands which are not seeded for one or more growing seasons."
+}

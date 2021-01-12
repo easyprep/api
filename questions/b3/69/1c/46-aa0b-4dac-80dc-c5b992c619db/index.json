@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b3691c46-aa0b-4dac-80dc-c5b992c619db",
+  "labels": "current-affairs,2019-03-19",
+  "question": "When was Chrome web browser launched?",
+  "option1": 2005,
+  "option2": 2008,
+  "option3": 2011,
+  "option4": 2000,
+  "option5": "",
+  "answer": 2008,
+  "explanation": "Chrome or Google Chrome was first released in 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS, and Android."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "99c02684-b662-4865-9f84-8d93aabce166",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is trigger used for in MS PowerPoint?",
+  "option1": "to start the slideshow",
+  "option2": "to end the slideshow",
+  "option3": "initiate a sequence of animations by clicking on a specific object",
+  "option4": "to start random special effects when a particular key is pressed",
+  "option5": "",
+  "answer": "initiate a sequence of animations by clicking on a specific object",
+  "explanation": "Triggers allow users to initiate a sequence of animations by clicking on a specific object on the slide rather than simply clicking your mouse."
+}

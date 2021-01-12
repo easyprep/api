@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-17T21:31:51.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "40a22208-62b4-4c12-9873-a81776ba5419",
+  "labels": "current-affairs,2019-04-18",
+  "question": "Which Indian institution has launched a 5G Lab for banking and financial sector?",
+  "option1": "IRDA",
+  "option2": "SIDBI",
+  "option3": "RBI",
+  "option4": "NHB",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Institute for Development and Research in Banking Technology (IDRBT), an arm of Reserve Bank of India (RBI), has launched a 5G Use Cases Lab for banking and financial sector. The use of 5G will change a range of technologies and applications including point of sale machines in the banking sector which were now using 2G . The 5G lab will develop and domesticate 5G use cases and set up a research and development experience platform for banking and financial services. It will also collaborate with various stakeholders including banks, government and financial institutions for 5G promotion and absorption of best practices."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ff77c946-8ad6-4d4d-9419-79aed6625279",
+  "labels": "current-affairs,2019-03-19",
+  "question": "How can a cell be activated in MS Excel?",
+  "option1": "By pressing TAB key",
+  "option2": "By pressing arrow keys",
+  "option3": "By clicking the cell",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "A cell in a sheet of MS Excel can be activated by pressing TAB key , by pressing arrow keys or by clicking the cell in the sheet."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "2db939e6-caf6-4af3-8073-45a68e67b71d",
+  "labels": "current-affairs,2019-03-21",
+  "question": "What is the full form of MIME?",
+  "option1": "Model Internet Media Email",
+  "option2": "Media Instant Messaging Extensions",
+  "option3": "Model Instant Messaging Extensions",
+  "option4": "Multi-Purpose Internet Mail Extensions",
+  "option5": "",
+  "answer": "Multi-Purpose Internet Mail Extensions",
+  "explanation": "MIME (Multi-Purpose Internet Mail Extensions) is an extension of the original Internet e-mail protocol that lets people use the protocol to exchange different kinds of data files on the Internet: audio, video, images, application programs, and other kinds, as well as the ASCII text handled in the original protocol, the Simple Mail Transport Protocol (SMTP)."
+}

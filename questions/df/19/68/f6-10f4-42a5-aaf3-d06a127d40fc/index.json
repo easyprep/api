@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-23T20:58:18.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "df1968f6-10f4-42a5-aaf3-d06a127d40fc",
+  "labels": "current-affairs,2019-03-24",
+  "question": "The researchers of which country have find cost-effective method for hydrogen fuel production?",
+  "option1": "India",
+  "option2": "United States",
+  "option3": "Russia",
+  "option4": "France",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "Researchers from the University of Arkansas and Argonne National Lab in the US have identified more cost-effective and efficient ways of producing hydrogen fuel by splitting water. They showed that nano-particles composed of nickel and iron are better alternatives than more costly materials when used as catalysts in the production of hydrogen fuel through water electrolysis. The team demonstrated that using nanocatalysts composed of nickel and iron increases the efficiency of water electrolysis, the process of breaking water atoms apart to produce hydrogen and oxygen and combining them with electrons to create hydrogen gas. When nanoparticles composed of an iron and nickel shell around a nickel core are applied to the process, they interact with the hydrogen and oxygen atoms to weaken the bonds, increasing the efficiency of the reaction by allowing the generation of oxygen more easily.This marks a step toward making water electrolysis a more practical and affordable method for producing hydrogen fuel. Current methods of water electrolysis are too energy-intensive to be effective."
+}

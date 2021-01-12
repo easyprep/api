@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-13T15:25:19.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0d2d8cf0-00b9-4b46-8225-fe52be981c68",
+  "labels": "current-affairs,2019-03-14",
+  "question": "A 'knot' is a measurement unit of which of the following?",
+  "option1": "Weight",
+  "option2": "Speed",
+  "option3": "Mass",
+  "option4": "Distance",
+  "option5": "",
+  "answer": "Speed",
+  "explanation": "The knot is a unit of speed equal to one nautical mile (1.852 km) per hour, approximately 1.151 mph. The ISO Standard symbol for the knot is kn. The same symbol is preferred by the IEEE, kt is also common."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:48:08.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "2cc21360-9dda-4427-bb78-a6ecb6492206",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following tests helps in diagnosis of cancer?",
+  "option1": "X-Ray",
+  "option2": "Urine test",
+  "option3": "Blood test",
+  "option4": "Biopsy",
+  "option5": "",
+  "answer": "Biopsy",
+  "explanation": "For most types of cancer, a biopsy is the main way doctors diagnose it. During a biopsy, a doctor removes a small amount of tissue to examine under a microscope. Other tests can suggest that cancer is present, but only a biopsy can make a diagnosis."
+}

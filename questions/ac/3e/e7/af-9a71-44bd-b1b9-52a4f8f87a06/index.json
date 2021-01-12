@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ac3ee7af-9a71-44bd-b1b9-52a4f8f87a06",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What is CodeRed?",
+  "option1": "An Anti-virus",
+  "option2": "A Computer worm",
+  "option3": "A Keylogger",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "A Computer worm",
+  "explanation": "Code Red was a computer worm observed on the Internet in 2001 and it launched DOS attack on White House’s website. It attacked computers running Microsoft's IIS web server."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-23T14:41:12.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "5ae693a7-d7d2-4bc5-958b-18d8bbfe083f",
+  "labels": "current-affairs,2019-03-24",
+  "question": "Which of the following money transfer system involves a waiting period?",
+  "option1": "NEFT",
+  "option2": "RTGS",
+  "option3": "IMPS",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "NEFT",
+  "explanation": "NEFT transfers funds in timed batches, while RTGS and IMPS are real-time transfer modes. NEFT stands for National Electronic Funds Transfer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0ff76bc8-aa2b-46a6-881f-a02ca4f6e3d0",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following softwares was not included in the first version of MS Office?",
+  "option1": "MS Word",
+  "option2": "MS Access",
+  "option3": "MS Powerpoint",
+  "option4": "MS Excel",
+  "option5": "",
+  "answer": "MS Access",
+  "explanation": "MS Office was announced in 1988 and the first version of Office contained Microsoft Word, Microsoft Excel, and Microsoft PowerPoint."
+}

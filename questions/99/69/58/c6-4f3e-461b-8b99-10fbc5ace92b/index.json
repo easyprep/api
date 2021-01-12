@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "996958c6-4f3e-461b-8b99-10fbc5ace92b",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these keys combination will open the start menu in Windows?",
+  "option1": "Ctrl + Alt",
+  "option2": "Ctrl + Esc",
+  "option3": "Ctrl + F4",
+  "option4": "Alt + S",
+  "option5": "",
+  "answer": "Ctrl + Esc",
+  "explanation": "When the Ctrl key is pressed with the Esc Key in Windows, it opens the start menu. It is a shortcut method to launch the start menu."
+}

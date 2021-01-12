@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-15T12:08:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f5ab6b74-9a3d-47d0-951c-60d679489340",
+  "labels": "current-affairs,2019-03-16",
+  "question": "What is a bug in computer terminology?",
+  "option1": "A virus",
+  "option2": "A program",
+  "option3": "An error in program",
+  "option4": "Magnetic disk storage device",
+  "option5": "",
+  "answer": "An error in program",
+  "explanation": "A software bug is an error, flaw, failure or fault in a computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways."
+}

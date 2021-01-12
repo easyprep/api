@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "10092cf2-8697-4326-ac61-cc9f6bc606af",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What is the use of Randomize function in MS Access?",
+  "option1": "It gives a random date",
+  "option2": "It initializes the Rnd function's random-number generator",
+  "option3": "It generates true or false randomly",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It initializes the Rnd function's random-number generator",
+  "explanation": "Randomize uses number to initialize the Rnd function's random-number generator, giving it a new seed value"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7fbd2870-e51f-413b-bb3f-5c9401ab00c8",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the default file extension of MS Excel files?",
+  "option1": ".acs",
+  "option2": ".exc",
+  "option3": ".exe",
+  "option4": ".xls",
+  "option5": "",
+  "answer": ".xls",
+  "explanation": "XLS file extension icon is the default MS Excel file extension. XLS is a file extension for a spreadsheet file format created by Microsoft for use with Microsoft Excel."
+}

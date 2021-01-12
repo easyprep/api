@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b25f9fe1-5b53-405a-abb0-f85b35053a11",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What do we call a malware computer program that replicates itself in order to spread to other computers?",
+  "option1": "Droppers",
+  "option2": "Trojans",
+  "option3": "Worms",
+  "option4": "Logic bombs",
+  "option5": "",
+  "answer": "Worms",
+  "explanation": "Worms differ from viruses in that they do not attach to a host file, but are self-contained programs that propagate across networks and computers. It is a standalone malware computer program that replicates itself in order to spread to other computers."
+}

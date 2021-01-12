@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "6f3c1aa9-b4d3-42ba-aee4-0853260de1f4",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these MS Office products is primarily used for notetaking?",
+  "option1": "Powernote",
+  "option2": "Access",
+  "option3": "Visio",
+  "option4": "Onenote",
+  "option5": "",
+  "answer": "Onenote",
+  "explanation": "MS One note is a notetaking program that gathers handwritten or typed notes, drawings, screen clippings and audio commentaries. With this software, notes can be shared with other users over the Internet."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b004e8aa-15ab-4944-bb16-82decf77774b",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What do we call a function inside a function?",
+  "option1": "Double function",
+  "option2": "Nested function",
+  "option3": "Switch function",
+  "option4": "Loop function",
+  "option5": "",
+  "answer": "Nested function",
+  "explanation": "A function inside a function is known as Nested function. A nested function takes another function as an argument to compute the result."
+}

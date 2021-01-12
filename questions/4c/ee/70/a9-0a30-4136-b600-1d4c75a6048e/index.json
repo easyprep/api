@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4cee70a9-0a30-4136-b600-1d4c75a6048e",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is motion path in MS PowerPoint?",
+  "option1": "An animation entrance effect",
+  "option2": "A tool to narrate the story",
+  "option3": "Ordering of various slides",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "An animation entrance effect",
+  "explanation": "Motion paths are animation effects that move slide objects in a sequence to tell an effective story. It is available under the Animation menu."
+}

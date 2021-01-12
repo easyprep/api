@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "17302dc9-6e13-400a-b89f-330d081ff52f",
+  "labels": "current-affairs,2019-03-21",
+  "question": "When was the first SMS sent?",
+  "option1": 1991,
+  "option2": 1992,
+  "option3": 1993,
+  "option4": 1994,
+  "option5": "",
+  "answer": 1992,
+  "explanation": "The first-ever text message was sent December 3, 1992, by software engineer Neil Papworth, to Vodafone director Richard Jarvis, who received the SMS on his husky Orbitel 901 cell phone."
+}

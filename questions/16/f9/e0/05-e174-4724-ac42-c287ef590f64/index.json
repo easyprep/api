@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "16f9e005-e174-4724-ac42-c287ef590f64",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which of these malicious programs collect information about users and sends the data to a remote user?",
+  "option1": "Polymorphic virus",
+  "option2": "Boot-record infector",
+  "option3": "Spyware",
+  "option4": "File Infector",
+  "option5": "",
+  "answer": "Spyware",
+  "explanation": "Spyware is a type of malicious program that is installed to collect information about users, their computers or their browsing habits. It tracks everything that the user does without his/her knowledge and sends the data to a remote user."
+}

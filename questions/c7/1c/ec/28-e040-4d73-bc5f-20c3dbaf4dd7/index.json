@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-27T22:03:47.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c71cec28-e040-4d73-bc5f-20c3dbaf4dd7",
+  "labels": "current-affairs,2019-03-28",
+  "question": "The researchers of which IIT have developed AI based disease detector?",
+  "option1": "IIT-Hyderabad",
+  "option2": "IIT-Kharagpur",
+  "option3": "IIT-Delhi",
+  "option4": "IIT-Bombay",
+  "option5": "",
+  "answer": "IIT-Delhi",
+  "explanation": "The researchers at IIT-Delhi have designed an “Artificial Intelligence (AI)-based low-power electronic hardware system” to easily detect  Malaria, Tuberculosis (TB), Intestinal parasite, and Cervical cancer in a few milliseconds. The research is focused on building an intelligent Neuromorphic system which can be used for healthcare access in resource-constrained areas with limited access to human specialists. The approach demonstrated by the researchers is portable, low-power and can classify with high accuracy in detection of the diseases.The long-term impact and goal of this work will be to enable potential future deployment of the platform in rural and resource-constrained areas and improve the access to diagnostic health-care. According to World Health Organisation (WHO), cervical cancer is the 4th most frequent cancer in women with an estimated 570,000 new cases in 2018 representing 6.6% of all female cancers."
+}

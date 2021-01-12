@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "93706a9e-7865-4bc4-af4f-721631db4564",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What are transitions in MS PowerPoint?",
+  "option1": "Password protection on the slides",
+  "option2": "The name given to file",
+  "option3": "Special effects added to the slides",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Special effects added to the slides",
+  "explanation": "Transitions in slides are the motion effects that occur in Slide Show view when we move from one slide to the next during a presentation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0d8ec20b-bd69-4da3-99e9-6d9715c73160",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the name of the first web browser?",
+  "option1": "World Wide Web",
+  "option2": "Mosaic",
+  "option3": "Safari",
+  "option4": "Navigator",
+  "option5": "",
+  "answer": "World Wide Web",
+  "explanation": "The first web browser was called as WorldWideWeb. It was invented in 1990 by Sir Tim Berners-Lee. It was later renamed to Nexus."
+}

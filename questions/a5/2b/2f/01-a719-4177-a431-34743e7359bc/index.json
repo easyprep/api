@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T22:01:56.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a52b2f01-a719-4177-a431-34743e7359bc",
+  "labels": "current-affairs,2019-04-02",
+  "question": "Which is the only giant planet whose equator is nearly at right angles to its orbit?",
+  "option1": "Jupiter",
+  "option2": "Uranus",
+  "option3": "Mars",
+  "option4": "Earth",
+  "option5": "",
+  "answer": "Uranus",
+  "explanation": "Uranus is the only planet whose equator is nearly at a right angle to its orbit, with a tilt of 97.77 degrees, which is possibly the result of a collision with an Earth-sized object long ago. This unique tilt causes the most extreme seasons in the solar system."
+}

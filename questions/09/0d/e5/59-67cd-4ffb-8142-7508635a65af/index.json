@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "090de559-67cd-4ffb-8142-7508635a65af",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these layout engines was used by Opera before it transitioned to Blink?",
+  "option1": "Goanna",
+  "option2": "KHTML",
+  "option3": "Gecko",
+  "option4": "Presto",
+  "option5": "",
+  "answer": "Presto",
+  "explanation": "Presto was developed by Opera Software for use in Opera. Its development was stopped as Opera transitioned to Blink layout engine."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1b734523-5a46-4217-849b-d97a66c54c67",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What happens when Windows Key + D is pressed in Windows?",
+  "option1": "It shut downs the PC",
+  "option2": "It minimises the open window",
+  "option3": "It closes the current application",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It minimises the open window",
+  "explanation": "Pressing the Windows Key and the letter 'D' together will minimise any program/window that is on the screen at the time."
+}

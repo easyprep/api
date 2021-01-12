@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:33:57.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1f87df0a-690b-4c15-898a-7296c09037ca",
+  "labels": "current-affairs,2019-03-26",
+  "question": "The modulus of rigidity is the ratio of which of the following?",
+  "option1": "Volume stress to volume strain",
+  "option2": "Longitudinal stress to longitudinal strain",
+  "option3": "Tensile stress to tensile strain",
+  "option4": "Shearing stress to sheering strain",
+  "option5": "",
+  "answer": "Shearing stress to sheering strain",
+  "explanation": "Shear modulus or modulus of rigidity is defined as the ratio of shear stress to the shear strain: where shear stress is the force which acts is the area on which the force acts is shear strain."
+}

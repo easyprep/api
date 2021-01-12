@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "081db4eb-eb22-4225-b3a8-91562daf060b",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these web browsers has the largest market share presently, across all platforms?",
+  "option1": "Edge",
+  "option2": "Chrome",
+  "option3": "Safari",
+  "option4": "Firefox",
+  "option5": "",
+  "answer": "Chrome",
+  "explanation": "As per W3Counter’s browser stats for January 2019, Google Chrome has a 62% worldwide browser market share across all platforms."
+}

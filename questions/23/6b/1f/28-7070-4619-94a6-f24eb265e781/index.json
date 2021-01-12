@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "236b1f28-7070-4619-94a6-f24eb265e781",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which of these is an XSS attack?",
+  "option1": "to run scripts in the victim’s web browser or scriptable application",
+  "option2": "to execute malicious SQL statements",
+  "option3": "to capture small packets from the network",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "to run scripts in the victim’s web browser or scriptable application",
+  "explanation": "XSS attacks use third-party web resources to run scripts in the victim’s web browser or scriptable application."
+}

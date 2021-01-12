@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "06a68c76-bb2e-4e18-9401-329a6821383a",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which of the following functions returns a string that contains the value of an operating system environment variable?",
+  "option1": "Env()",
+  "option2": "Environment()",
+  "option3": "Environ()",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Environ()",
+  "explanation": "The Environ() function returns a string that contains the value of an operating system environment variable:"
+}

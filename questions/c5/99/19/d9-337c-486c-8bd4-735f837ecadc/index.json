@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c59919d9-337c-486c-8bd4-735f837ecadc",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these tools is available in MS Excel?",
+  "option1": "Spelling",
+  "option2": "Thesaurus",
+  "option3": "Research",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Spelling, Thesaurus and Research tools are available in MS Excel. All these tools are available under the Review menu of MS Excel."
+}

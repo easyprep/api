@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "5eb73d21-6387-4c15-bae1-0878dc11cf60",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these versions of Windows introduced overlapping windows?",
+  "option1": "Windows 1.0",
+  "option2": "Windows 2.0",
+  "option3": "Windows 2.03",
+  "option4": "Windows 3.0",
+  "option5": "",
+  "answer": "Windows 2.03",
+  "explanation": "Windows 1.0 does not allow overlapping windows but windows are tiled only. Windows 2.03 changed the OS from tiled windows to overlapping windows."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-18T21:26:51.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "3b79a017-f4e2-418e-88cd-d3d0470e1cbf",
+  "labels": "current-affairs,2019-04-19",
+  "question": "Learning Coin, which is in news recently, is launched by which of the following international organisations?",
+  "option1": "IMF",
+  "option2": "AIIB",
+  "option3": "ADB",
+  "option4": "UN",
+  "option5": "",
+  "answer": "IMF",
+  "explanation": "The International Monetary Fund (IMF) and the World Bank (WB) have jointly launched a project called “Learning Coin”. It is a private blockchain-based coin and only accessible within IMF and the World Bank to help both multinational agencies learn about the merits of blockchain. The coin project has been launched in order to conduct research and learn more about the core technologies that have been used to implement cryptographic assets such as Bitcoin (BTC) and Ether (ETH)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "35dc80f7-58c9-4689-be50-8a8dde4ccdb7",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which software is commonly used for retrieving information on the World Wide Web?",
+  "option1": "Web browser",
+  "option2": "Multimedia Player",
+  "option3": "Text Editor",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Web browser",
+  "explanation": "A web browser is a software application that lets users retrieve, traverse and present information resources on the World Wide Web."
+}

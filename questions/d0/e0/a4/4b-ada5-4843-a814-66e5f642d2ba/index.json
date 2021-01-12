@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d0e0a44b-ada5-4843-a814-66e5f642d2ba",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What happens when one crosses 180 degrees longitude from east to west?",
+  "option1": "gains a day",
+  "option2": "loses a day",
+  "option3": "neither gains a day nor loses a day",
+  "option4": "may gain or lose a day depending upon latitude at which one crosses",
+  "option5": "",
+  "answer": "loses a day",
+  "explanation": "One loses a day when he/she crosses 180 degrees longitude from east to west and gains a day when crosses 180 degrees from west to east. Depending on which time zone the country follows, the time difference on either side of the line is not always 24 hours."
+}

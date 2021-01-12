@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "86354ceb-0e06-449b-91fb-afef272da08a",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What do we call the attack which is made against hash algorithms that are used to verify the integrity of a message, software or digital signature?",
+  "option1": "Birthday attacks",
+  "option2": "Password attacks",
+  "option3": "Session Hijacking",
+  "option4": "MIM attack",
+  "option5": "",
+  "answer": "Birthday attacks",
+  "explanation": "Birthday attacks are made against hash algorithms that are used to verify the integrity of a message, software or digital signature. The birthday attack refers to the probability of finding two random messages that generate the same Message Digest (MD) when processed by a hash function."
+}

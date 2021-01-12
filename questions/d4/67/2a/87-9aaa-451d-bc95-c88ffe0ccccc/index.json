@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:36:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d4672a87-9aaa-451d-bc95-c88ffe0ccccc",
+  "labels": "current-affairs,2019-03-26",
+  "question": "Why does a bird sitting on a high tension electric wire do not get electrocuted?",
+  "option1": "The body is earthed",
+  "option2": "It has high resistance",
+  "option3": "Its feet are good insulator",
+  "option4": "It does not form a closed path for the flow of electricity",
+  "option5": "",
+  "answer": "It does not form a closed path for the flow of electricity",
+  "explanation": "Birds don't get shocked when they sit on electrical wires because they are not good conductors of electricity. If the bird would touch the ground while sitting on the wire or flap its wings and touch another electric wirewith a different voltage, then it would get shocked and likely die by electrocution."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T17:45:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4769a5d8-69b8-4df0-910c-4c28a01bc660",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Who created the first worm for computer i.e. “The Morris worm’’?",
+  "option1": "Robert Tappan Morris",
+  "option2": "Charles Alderton",
+  "option3": "George Bangs",
+  "option4": "William Beldue",
+  "option5": "",
+  "answer": "Robert Tappan Morris",
+  "explanation": "The Morris worm or Internet worm was created by Robert Tappan Morris on November 2, 1988, was one of the first computer worms distributed via the Internet, and the first to gain significant mainstream media attention. It also resulted in the first felony conviction in the US under the 1986 Computer Fraud and Abuse Act."
+}

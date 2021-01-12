@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "6c4f5184-cc17-4885-9490-a40f0264d5b6",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is meant by NTFS?",
+  "option1": "New Table Format System",
+  "option2": "Neutral Tables File Sectors",
+  "option3": "New Technology File System",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "New Technology File System",
+  "explanation": "NTFS stands for New Technology File System. It is the file system that the Windows NT operating system uses for storing and retrieving files on a hard disk."
+}

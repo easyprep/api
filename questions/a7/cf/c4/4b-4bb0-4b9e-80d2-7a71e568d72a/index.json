@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a7cfc44b-4bb0-4b9e-80d2-7a71e568d72a",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What do we call an attack which overwhelms a system’s resources so that it cannot respond to service requests?",
+  "option1": "Brute force",
+  "option2": "Eavesdropping",
+  "option3": "denial-of-service attack",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "denial-of-service attack",
+  "explanation": "A denial-of-service attack overwhelms a system’s resources so that it cannot respond to service requests. A Double denial-of-service (DDoS) attack is also an attack on system’s resources, but it is launched from a large number of other host machines that are infected by malicious software controlled by the attacker."
+}

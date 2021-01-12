@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "08479a21-2a7a-448e-bbf6-e1bd52eb5e90",
+  "labels": "current-affairs,2019-03-21",
+  "question": "What is the part of the email address before '@' symbol known as?",
+  "option1": "Username",
+  "option2": "Password",
+  "option3": "Domain",
+  "option4": "Website",
+  "option5": "",
+  "answer": "Username",
+  "explanation": "The part before the @ symbol identifies the name of a mailbox and is often the username of the recipient, e.g., robertsmith. The part after the @ symbol (domain) is a domain name."
+}

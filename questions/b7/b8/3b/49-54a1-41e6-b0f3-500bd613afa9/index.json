@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b7b83b49-54a1-41e6-b0f3-500bd613afa9",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these keys combination will insert a hyperlink in MS PowerPoint?",
+  "option1": "Ctrl + N",
+  "option2": "Ctrl + M",
+  "option3": "Ctrl + K",
+  "option4": "Ctrl + H",
+  "option5": "",
+  "answer": "Ctrl + K",
+  "explanation": "Ctrl + K is used to insert a hyperlink in MS PowerPoint. When Ctrl and K keys are pressed together, insert hyperlink dialog box opens up."
+}

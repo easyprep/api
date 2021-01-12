@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7f5f79fc-4fd8-4b96-a991-a960c2fef0a4",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these operating system is used in Apple iPhone 6?",
+  "option1": "Windows",
+  "option2": "Symbian",
+  "option3": "Android",
+  "option4": "iOS",
+  "option5": "",
+  "answer": "iOS",
+  "explanation": "iOS is developed by Apple Inc and it presently powers many of the Apple's mobile devices, including the iPhone, iPad, and iPod Touch."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c37806bb-4213-4390-b37f-85b043dc569b",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What is the shortcut key to switch between the field names and properties panels in table design view?",
+  "option1": "F3",
+  "option2": "F5",
+  "option3": "F8",
+  "option4": "F6",
+  "option5": "",
+  "answer": "F6",
+  "explanation": "The F6 key is used to switch between the windows, or between design panes / properties / etc. in the Microsoft Access."
+}

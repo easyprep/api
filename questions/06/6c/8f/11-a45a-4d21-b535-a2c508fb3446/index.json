@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "066c8f11-a45a-4d21-b535-a2c508fb3446",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the shortcut to insert a comment in MS Excel?",
+  "option1": "Ctrl+ F6",
+  "option2": "Alt + F8",
+  "option3": "Shift + F2",
+  "option4": "Shift + F9",
+  "option5": "",
+  "answer": "Shift + F2",
+  "explanation": "Shift + F2 inserts a comment in MS Excel. When a cell is active, pressing Shift and F2 button will allow entering comment in that cell."
+}

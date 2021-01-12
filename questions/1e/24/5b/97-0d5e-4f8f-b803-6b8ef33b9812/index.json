@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:53:10.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1e245b97-0d5e-4f8f-b803-6b8ef33b9812",
+  "labels": "current-affairs,2019-03-23",
+  "question": "In a photocell, light energy is converted into which of the following?",
+  "option1": "Heat energy",
+  "option2": "Electric energy",
+  "option3": "Chemical energy",
+  "option4": "Potential energy",
+  "option5": "",
+  "answer": "Heat energy",
+  "explanation": "A solid-state device that converts light into electrical energy by producing a voltage, as in a photovoltaic cell, or uses light to regulate the flow of current, as in a photoconductive cell: used in automatic control systems for doors, lighting, etc."
+}

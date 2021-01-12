@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "72176227-5e08-4544-8a20-7253aebe8f81",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What is Iif function in MS Access?",
+  "option1": "Indexed If",
+  "option2": "Immediate If",
+  "option3": "Integer If",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Immediate If",
+  "explanation": "The IIf() Function is an abbreviation for “Immediate If” and this function evaluates an expression as either true or false and returns a value for each."
+}

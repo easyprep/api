@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "9a63bec3-3f90-4be1-a833-4795058c6d12",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What do we call the malicious computer programs that gains root or administrative access to the computer?",
+  "option1": "Antivirus",
+  "option2": "Spamware",
+  "option3": "Rootkits",
+  "option4": "Backdoors",
+  "option5": "",
+  "answer": "Rootkits",
+  "explanation": "A rootkit is a clandestine computer program designed to provide continued privileged access to a computer while actively hiding its presence."
+}

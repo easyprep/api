@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-13T15:25:19.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "5210b5e7-c849-4364-9652-85c204d7a56c",
+  "labels": "current-affairs,2019-03-14",
+  "question": "Which of the following elements is present in heavy water?",
+  "option1": "Heavy Oxygen",
+  "option2": "Heavy Hydrogen",
+  "option3": "Heavy Chlorine",
+  "option4": "Heavy Nitrogen",
+  "option5": "",
+  "answer": "Heavy Hydrogen",
+  "explanation": "Heavy water is water that contains heavy hydrogen or deuterium. Deuterium differs from the hydrogen usually found in water, protium, in that each atom of deuterium contains a proton and a neutron. Heavy water may be deuterium oxide, D2O or it may be deuterium protium oxide, DHO."
+}

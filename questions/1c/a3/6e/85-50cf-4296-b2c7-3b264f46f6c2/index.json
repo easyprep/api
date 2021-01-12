@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:53:10.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1ca36e85-50cf-4296-b2c7-3b264f46f6c2",
+  "labels": "current-affairs,2019-03-23",
+  "question": "In a Database Management System(DBMS), the content and the location of the data is defined by which of the following?",
+  "option1": "sequence data",
+  "option2": "multi dimensional data",
+  "option3": "metadata",
+  "option4": "subdata",
+  "option5": "",
+  "answer": "metadata",
+  "explanation": "Administrative metadata refers to the technical information, including file type, or when and how the file was created. Two sub-types of administrative metadata are rights management metadata and preservation metadata."
+}

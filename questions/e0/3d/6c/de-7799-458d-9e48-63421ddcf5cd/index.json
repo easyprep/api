@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e03d6cde-7799-458d-9e48-63421ddcf5cd",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is Office Lens?",
+  "option1": "A document scanner",
+  "option2": "A dictionary",
+  "option3": "Software to turn mobile into remote",
+  "option4": "Free app version of MS Word",
+  "option5": "",
+  "answer": "A document scanner",
+  "explanation": "Office Lens, is an image scanner optimized for mobile devices. It captures the document via the camera and then straightens the document portion of the image."
+}

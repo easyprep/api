@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "50e49c92-057f-4eee-a87e-9e99f2866d9f",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which of the following files can be sent through an MMS?",
+  "option1": "Image",
+  "option2": "Video",
+  "option3": "Audio",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "MMS can deliver a variety of media, including up to forty seconds of video, one image, a slideshow of multiple images, or audio."
+}

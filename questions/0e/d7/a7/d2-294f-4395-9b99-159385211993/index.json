@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T21:49:07.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0ed7a7d2-294f-4395-9b99-159385211993",
+  "labels": "current-affairs,2019-03-26",
+  "question": "PRISMA Satellite, which is in news recently, is associated to which of the following European countries?",
+  "option1": "United Kingdom",
+  "option2": "Germany",
+  "option3": "France",
+  "option4": "Italy",
+  "option5": "",
+  "answer": "Italy",
+  "explanation": "On 21st March, Italy’s PRISMA Earth observation satellite launched into orbit by the European Vega rocket from the Guiana Space Center in Kourou, French Guiana. PRISMA (or Precursore Iperspettrale della Missione Applicativa) is a small hyperspectral imaging satellite i.e. designed to provide information about environmental monitoring, resources management, pollution and crop health. The satellite includes a medium resolution camera that can view across all visual wavelengths, as well as a hyperspectral imager that can capture a wider range of wavelengths between 400 and 2500 nanometers. The satellite will operate in a sun-synchronous orbit, meaning that it circles the Earth in such a way that the sun is always in the same position as the satellite takes pictures of the planet below. PRISMA has been constructed by OHB Italia and will be operated by the Italian Space Agency “Agenzia Spaziale Italiana (ASI)”."
+}

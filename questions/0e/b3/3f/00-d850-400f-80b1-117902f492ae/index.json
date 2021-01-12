@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0eb33f00-d850-400f-80b1-117902f492ae",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these is the default text editor for Windows operating system?",
+  "option1": "Notepad",
+  "option2": "MS Paint",
+  "option3": "Edge",
+  "option4": "Groove",
+  "option5": "",
+  "answer": "Notepad",
+  "explanation": "Notepad is a simple text editor for MS Windows. It is a basic text-editing program which enables computer users to create documents."
+}

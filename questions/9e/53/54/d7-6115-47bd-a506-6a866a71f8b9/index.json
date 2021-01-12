@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "9e5354d7-6115-47bd-a506-6a866a71f8b9",
+  "labels": "current-affairs,2019-03-21",
+  "question": "What is the character limit for a single SMS?",
+  "option1": 80,
+  "option2": 160,
+  "option3": 200,
+  "option4": "No limit",
+  "option5": "",
+  "answer": 160,
+  "explanation": "The communication protocols allows users to send and receive messages of up to 160 alpha-numeric characters to and from GSM mobiles."
+}

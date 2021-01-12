@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ba69ae54-a075-47d1-af8d-9e9409cb24c1",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which of these folders in Gmail will contain the emails which are composed but not yet sent?",
+  "option1": "Inbox",
+  "option2": "Sent",
+  "option3": "Spam",
+  "option4": "Drafts",
+  "option5": "",
+  "answer": "Drafts",
+  "explanation": "A draft is simply an email message which hasn't been yet sent. It’s not the same thing as an email waiting to be sent."
+}

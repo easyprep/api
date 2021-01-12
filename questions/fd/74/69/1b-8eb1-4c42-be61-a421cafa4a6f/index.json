@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "fd74691b-8eb1-4c42-be61-a421cafa4a6f",
+  "labels": "current-affairs,2019-03-19",
+  "question": "How to insert current time in a cell in MS Excel?",
+  "option1": "By pressing Ctrl + Shift + T",
+  "option2": "By pressing Ctrl + Shift + (",
+  "option3": "By pressing Ctrl + Shift + :",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "By pressing Ctrl + Shift + :",
+  "explanation": "The current time can be inserted in an active cell by pressing 'Ctrl + Shift + :'. The Ctrl + ; key combination inserts current date."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-23T20:29:23.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "dbd9d650-1418-4958-8382-6aa8db2cbf91",
+  "labels": "current-affairs,2019-04-24",
+  "question": "Which of the following IT services companies has signed a deal with India Post to transform country's mail delivery system?",
+  "option1": "TCS",
+  "option2": "Wipro",
+  "option3": "Infosys",
+  "option4": "HCL",
+  "option5": "",
+  "answer": "TCS",
+  "explanation": "India\\'s largest IT services company, Tata Consultancy Services(TCS) has partnered with the Department of Posts (DoP) to modernise a network of more than 1.5 lakh post offices across the country. The multi-year digital core programme will transform the DoP into a multi-service digital hub, modernise the delivery of mail and packages, enhance customer experience and launch innovative services that will drive new revenues. At the heart of this transformation is the Core System Integration (CSI) program designed and implemented by TCS. This involved deploying an integrated ERP (Enterprise Resource Planning) solution that caters to mail operations, finance and accounting, and HR functions.  Besides, it will also connect the network of more than 1.5 lakh post offices to make this largest distributed ePostal network in the world. The integrated solution is built to cater to the Department’s immense scale, and future needs. It supports the HR needs of over 500,000 employees, services over 40,000 concurrent users, and processes over 3 million postal transactions a day."
+}

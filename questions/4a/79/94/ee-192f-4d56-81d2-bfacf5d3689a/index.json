@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4a7994ee-192f-4d56-81d2-bfacf5d3689a",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What do we call a file in MS PowerPoint which is a pattern of a group of slides that can be used for a presentation?",
+  "option1": "Text Styles",
+  "option2": "Template",
+  "option3": "Colour scheme",
+  "option4": "Master slide",
+  "option5": "",
+  "answer": "Template",
+  "explanation": "A PowerPoint template is a pattern or blueprint of a slide or group of slides that you save as a .potx file. Templates can contain layouts, colors, fonts, effects, background styles, and even content."
+}

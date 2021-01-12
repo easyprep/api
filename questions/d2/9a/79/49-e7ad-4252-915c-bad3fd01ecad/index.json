@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d29a7949-e7ad-4252-915c-bad3fd01ecad",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which menu option is used to add Header and Footer in a document?",
+  "option1": "File",
+  "option2": "Review",
+  "option3": "References",
+  "option4": "Insert",
+  "option5": "",
+  "answer": "Insert",
+  "explanation": "Insert tab is used to insert page breaks, tables, illustrations, links, header and footer, text and symbols etc."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "35d7afa9-af40-4614-b66a-2e62e0d03365",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What do we call a malicious computer program which pretends to be a useful application?",
+  "option1": "Worms",
+  "option2": "Trojan horse",
+  "option3": "Ransomware",
+  "option4": "Keylogger",
+  "option5": "",
+  "answer": "Trojan horse",
+  "explanation": "A Trojan horse is a malicious computer program which pretends to be a useful application. Trojans generally do not attempt to inject themselves into other files or otherwise propagate themselves."
+}

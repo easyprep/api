@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-04T21:18:19.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "3ec0bba9-e40d-4cfd-bff5-9b3cf0572dbb",
+  "labels": "current-affairs,2019-04-05",
+  "question": "What is the current repo rate, as per RBI’s first bi-monthly policy of FY20?",
+  "option1": 0.065,
+  "option2": 0.06,
+  "option3": 0.0625,
+  "option4": 0.072,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "The Reserve Bank of India (RBI) has cut its repo rate under Liquidity Adjustment Facility (LAF) by 25 basis points to 6.0% in its first bi-monthly policy statement of the current financial year FY20, with immediate effect. The move will cheer markets and investors and is the second consecutive rate cut by the RBI. It has also maintained the policy stance neutral and lowered the retail inflation and GDP forecasts. This is the second consecutive rate cut from RBI under new Governor Shaktikanta Das, after a rate cut in February 2019. Consequently, the reverse repo rate under the LAF stands adjusted to 5.75%, and the Marginal Standing Facility (MSF) rate and the Bank Rate to 6.25%. These decisions are in consonance with the objective of achieving the medium-term target for consumer price index (CPI) inflation of 4% within a band of plus or minus 2% while supporting growth."
+}

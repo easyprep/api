@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a7cf273f-38ef-407a-b91a-1617c7f4dc46",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which of these virus infects a software program and causes a series of actions to begin automatically when the program is opened?",
+  "option1": "Trojans",
+  "option2": "Stealth virus",
+  "option3": "Adware",
+  "option4": "Macro virus",
+  "option5": "",
+  "answer": "Macro virus",
+  "explanation": "Macro viruses attach to an application’s initialization sequence. When the application is opened, the virus executes instructions before transferring control to the application. These viruses infect applications such as Microsoft Word or Excel."
+}

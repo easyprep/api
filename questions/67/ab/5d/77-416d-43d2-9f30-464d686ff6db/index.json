@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:43:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "67ab5d77-416d-43d2-9f30-464d686ff6db",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which of the following is the process to remove calcium and magnesium from hard water?",
+  "option1": "Filtration",
+  "option2": "Flocculation",
+  "option3": "Sedimentation",
+  "option4": "Water softening",
+  "option5": "",
+  "answer": "Water softening",
+  "explanation": "Water softening is the removal of calcium, magnesium, and certain other metal cations in hard water. The resulting soft water requires less soap for the same cleaning effort, as soap is not wasted mopping up calcium ions."
+}

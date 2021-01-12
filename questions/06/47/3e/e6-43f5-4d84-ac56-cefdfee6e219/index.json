@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:36:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "06473ee6-43f5-4d84-ac56-cefdfee6e219",
+  "labels": "current-affairs,2019-03-26",
+  "question": "What should be the pressure range of compressor to obtain high COP?",
+  "option1": "High",
+  "option2": "Low",
+  "option3": "Optimum",
+  "option4": "Any value",
+  "option5": "",
+  "answer": "Low",
+  "explanation": "To improve the coefficient of performance, it requires that the compressor work should decrease and refrigeration effect should increase. It means that decrease in condenser pressure and temperature so the refrigeration effect will increase and compressor input work due to this cop will increase."
+}

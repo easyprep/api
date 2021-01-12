@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T17:45:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "253a056a-c79a-480e-b877-e52520757915",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Why does an egg sinks in normal water but floats in salty water?",
+  "option1": "egg increases in salt water",
+  "option2": "salt water is more dense than normal water",
+  "option3": "egg decreases in salt water",
+  "option4": "normal water is more dense than salt water",
+  "option5": "",
+  "answer": "salt water is more dense than normal water",
+  "explanation": "The fresh egg sinks in fresh water and floats in salt water. The salt water is denser than the fresh water therefore; the egg which is less dense than salt water will float."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-13T15:25:19.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a8ccb3e0-1861-48fc-8c32-131d98c77575",
+  "labels": "current-affairs,2019-03-14",
+  "question": "Which of the following is not an example of solid waste?",
+  "option1": "Industrial waste",
+  "option2": "Mining residues",
+  "option3": "Municipal garbage",
+  "option4": "Food waste",
+  "option5": "",
+  "answer": "Food waste",
+  "explanation": "Solid waste means any garbage, refuse, sludge from a wastewater treatment plant, water supply treatment plant, or air pollution control facility and other discarded materials including solid, liquid, semi-solid, or contained gaseous material, resulting from industrial, commercial, mining and agricultural operations."
+}

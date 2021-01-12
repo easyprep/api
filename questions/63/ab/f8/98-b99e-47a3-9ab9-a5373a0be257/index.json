@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "63abf898-b99e-47a3-9ab9-a5373a0be257",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these HTML editors replaced FrontPage in MS Office?",
+  "option1": "Dreamweaver",
+  "option2": "Expression Web",
+  "option3": "Notepad++",
+  "option4": "Joomla",
+  "option5": "",
+  "answer": "Expression Web",
+  "explanation": "Microsoft Expression Web is an HTML editor and general web design software. It is a component of the discontinued Expression Studio by Microsoft."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0381eb71-ce9d-461e-ab3c-67456179d540",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What will happen if Shift + Delete key combination is pressed after selecting a file in Windows?",
+  "option1": "The file gets copied",
+  "option2": "The file gets deleted permanently",
+  "option3": "The file goes to the Recycle Bin",
+  "option4": "The filename changes to 'Unnamed'",
+  "option5": "",
+  "answer": "The file gets deleted permanently",
+  "explanation": "When “Shift+Delete” keys are used together after selecting any file from the PC, the file will get erased permanently from the computer system."
+}

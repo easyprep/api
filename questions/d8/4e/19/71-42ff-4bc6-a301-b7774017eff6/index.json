@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d84e1971-42ff-4bc6-a301-b7774017eff6",
+  "labels": "current-affairs,2019-03-19",
+  "question": "How can we ungroup selected groups in MS PowerPoint?",
+  "option1": "By pressing Ctrl + Shift + U",
+  "option2": "By pressing Shift + G",
+  "option3": "By pressing Shift + U",
+  "option4": "By pressing Ctrl + Shift + G",
+  "option5": "",
+  "answer": "By pressing Ctrl + Shift + G",
+  "explanation": "To group shapes, pictures, or WordArt objects in MS PowerPoint, select the items that needs to be grouped, and press Ctrl+G. To ungroup a group, select the group, and press Ctrl+Shift+G."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T11:19:00.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1b8266f9-0026-4581-b7e5-0108d88cbceb",
+  "labels": "current-affairs,2019-03-18",
+  "question": "Which of the following is the function of calorimeter?",
+  "option1": "Measures the amount of calories in the body",
+  "option2": "Measures the heat of chemical reactions and physical change",
+  "option3": "Measures the density of an object",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Measures the heat of chemical reactions and physical change",
+  "explanation": "A calorimeter is an object used for calorimetry, or the process of measuring the heat of chemical reactions or physical changes as well as heat capacity. Differential scanning calorimeters, isothermal micro calorimeters, titration calorimeters and accelerated rate calorimeters are among the most common types."
+}

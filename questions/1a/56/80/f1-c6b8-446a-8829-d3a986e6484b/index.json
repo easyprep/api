@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1a5680f1-c6b8-446a-8829-d3a986e6484b",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Under which menu there is an option to export data in MS Access?",
+  "option1": "External Data",
+  "option2": "Database tools",
+  "option3": "Home",
+  "option4": "Create",
+  "option5": "",
+  "answer": "External Data",
+  "explanation": "Data can be exported the data from table, query, form, and report objects etc. The option to export the data in MS Access is given under the External Data tab."
+}

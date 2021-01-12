@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1f4d4f61-01d6-4063-92e3-ce559708c501",
+  "labels": "current-affairs,2019-03-19",
+  "question": "How can all the text in all the slides be selected in MS PowerPoint?",
+  "option1": "By clicking Ctrl + A in Slides view",
+  "option2": "By clicking Ctrl + A in Outline view",
+  "option3": "By clicking Ctrl + O in Slides view",
+  "option4": "By clicking Ctrl + S in Outline view",
+  "option5": "",
+  "answer": "By clicking Ctrl + A in Outline view",
+  "explanation": "All the text in all the slides can be selected in MS PowerPoint by clicking Ctrl + A in Outline view. All the slides can be selected by clicking Ctrl + A in Slides view."
+}

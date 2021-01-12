@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c680ec9c-db4c-4b68-b2d6-0058d2dc58f2",
+  "labels": "current-affairs,2019-03-19",
+  "question": "When was the first version of Windows released?",
+  "option1": 1981,
+  "option2": 1998,
+  "option3": 1985,
+  "option4": 1987,
+  "option5": "",
+  "answer": 1985,
+  "explanation": "Windows 1 was released in November 1985. The development of Windows was spearheaded by Microsoft founder Bill Gates."
+}

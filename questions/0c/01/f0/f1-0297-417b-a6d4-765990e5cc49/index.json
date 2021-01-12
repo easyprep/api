@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0c01f0f1-0297-417b-a6d4-765990e5cc49",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What are the viruses that rewrite themselves completely each time they are to infect new executables, known as?",
+  "option1": "Metamorphic virus",
+  "option2": "Polymorphic virus",
+  "option3": "Macro virus",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Metamorphic virus",
+  "explanation": "To avoid being detected by emulation, some viruses rewrite themselves completely each time they are to infect new executables. Viruses that utilize this technique are said to be in metamorphic code."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-09T21:34:42.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "bbe21219-8708-4959-9b03-a70e543eb27c",
+  "labels": "current-affairs,2019-04-10",
+  "question": "RBI has recently tweaked LCR norms to boost liquidity. What does ‘LCR’ stands for?",
+  "option1": "Liquidity Coverage Ratio",
+  "option2": "Liquidity Carbon Ratio",
+  "option3": "Liquidity Commodity Ratio",
+  "option4": "Liquidity Calculative Ratio",
+  "option5": "",
+  "answer": "Liquidity Coverage Ratio",
+  "explanation": "In a bid to further improve the cash position of banks, the Reserve Bank of India (RBI) has recently tweaked Liquidity Coverage Ratio (LCR) norms to provide an additional 2% window to lenders.  The move will harmonise the liquidity requirements of banks and release additional money for lending.  The LCR indicates the proportion of highly liquid assets held by banks to ensure their ability to meet short-term obligations. In a statement on ‘Developmental and Regulatory Policies’ the RBI has extended the timeline for linking floating interest rates on personal, home, auto and MSEs loans to external benchmarks."
+}

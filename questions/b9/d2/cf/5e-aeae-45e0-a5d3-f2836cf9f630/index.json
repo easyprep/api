@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b9d2cf5e-aeae-45e0-a5d3-f2836cf9f630",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What is the attack called where the hackers look for insecure websites and plant a malicious script into the sourcecode?",
+  "option1": "Drive-by attack",
+  "option2": "IP Spoofing",
+  "option3": "Phishing",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Drive-by attack",
+  "explanation": "Drive-by downloads are a common method of spreading malware. Cybercriminals look for insecure web sites and plant a malicious script into the sourcecode."
+}

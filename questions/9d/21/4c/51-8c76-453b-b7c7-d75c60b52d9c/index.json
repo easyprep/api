@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "9d214c51-8c76-453b-b7c7-d75c60b52d9c",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these MS Office product is a DBMS software?",
+  "option1": "MS Word",
+  "option2": "MS Outlook",
+  "option3": "MS Access",
+  "option4": "MS Business",
+  "option5": "",
+  "answer": "MS Access",
+  "explanation": "Microsoft Access is a database management system (DBMS) from Microsoft and a part of MS Office suite. It combines the relational Microsoft Jet Database Engine with a graphical user interface and software-development tools."
+}

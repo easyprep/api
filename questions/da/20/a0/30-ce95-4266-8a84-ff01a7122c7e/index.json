@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:48:08.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "da20a030-ce95-4266-8a84-ff01a7122c7e",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the full form of 'AM' regarding radio broadcasting?",
+  "option1": "Amplitude Modulation",
+  "option2": "Analysis Modulation",
+  "option3": "Amplifier Modem",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Amplitude Modulation",
+  "explanation": "Amplitude Modulation Signalling System, a digital system for adding low bitrate information to an AM broadcast signal. With AM radio, the amplitude, or overall strength, of the signal is varied to incorporate the sound information."
+}

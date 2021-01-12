@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a284149b-e4bc-41b9-aa7b-9aebe6fa6eb9",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which menu option in MS Word contains the Ruler option?",
+  "option1": "Insert Menu",
+  "option2": "View Menu",
+  "option3": "Edit Menu",
+  "option4": "File Menu",
+  "option5": "",
+  "answer": "View Menu",
+  "explanation": "Ruler option is available under View menu. To see the rulers, choose View and select the Ruler check box."
+}

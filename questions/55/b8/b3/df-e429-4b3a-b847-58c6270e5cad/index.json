@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "55b8b3df-e429-4b3a-b847-58c6270e5cad",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which of the following are types of MS Access Database object?",
+  "option1": "Form",
+  "option2": "Modules",
+  "option3": "Tables",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Databases in Access are composed of many objects but the major objects are Tables, Queries, Forms and Reports."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d2e329f9-e76d-4b58-9abc-702d04edb965",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following key combination is used to create a new document in MS Word?",
+  "option1": "Ctrl + W",
+  "option2": "Shift + N",
+  "option3": "Ctrl + N",
+  "option4": "Alt + N",
+  "option5": "",
+  "answer": "Ctrl + N",
+  "explanation": "Ctrl + N is the key combination used to create a new document in Microsoft Word. Also, the new document can be created from the File option."
+}

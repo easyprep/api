@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-15T12:08:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4413683c-4b80-46ce-ac23-7752e6bc2e98",
+  "labels": "current-affairs,2019-03-16",
+  "question": "Which of the following devices converts AC to DC?",
+  "option1": "Transformer",
+  "option2": "Amplifier",
+  "option3": "Rectifier",
+  "option4": "Stabiliser",
+  "option5": "",
+  "answer": "Rectifier",
+  "explanation": "A rectifier is an electrical device that converts alternating current (AC), which periodically reverses direction, to direct current (DC), which flows in only one direction. The process is known as rectification, since it \"straightens\" the direction of current."
+}

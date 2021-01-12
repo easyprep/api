@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a2458520-a930-4da0-b014-15ec5091ab35",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these rendering engines is used by Chrome web browser?",
+  "option1": "Gecko",
+  "option2": "Blink",
+  "option3": "Quantum",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Blink",
+  "explanation": "Initial versions of Chrome use WebKit as the rendering engine. But Google eventually forked it to create the Blink engine. Now all Chrome variants except iOS use Blink."
+}

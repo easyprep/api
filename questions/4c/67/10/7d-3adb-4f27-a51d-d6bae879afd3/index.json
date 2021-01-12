@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4c67107d-3adb-4f27-a51d-d6bae879afd3",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which web browser comes pre-installed with MS Windows 10?",
+  "option1": "Edge",
+  "option2": "Chrome",
+  "option3": "Safari",
+  "option4": "Firefox",
+  "option5": "",
+  "answer": "Edge",
+  "explanation": "Microsoft Edge is a web browser developed by Microsoft. It was first released for Windows 10 and Xbox One in 2015. Later, it was released for Android and iOS in 2017."
+}

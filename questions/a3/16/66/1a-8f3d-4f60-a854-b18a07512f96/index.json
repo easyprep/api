@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a316661a-8f3d-4f60-a854-b18a07512f96",
+  "labels": "current-affairs,2019-03-20",
+  "question": "How many number of characters can be entered in a field name in MS Access 2010?",
+  "option1": 32,
+  "option2": 48,
+  "option3": 56,
+  "option4": 64,
+  "option5": "",
+  "answer": 64,
+  "explanation": "Number of characters in a field name in MS Access 2010 can be 64. Number of fields in a table can be a maximum of 255."
+}

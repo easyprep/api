@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "bfc41064-d004-4ee1-9cf4-9266b2f0839f",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following pollutants can cause human kidney disorder?",
+  "option1": "Cadmium",
+  "option2": "Iron",
+  "option3": "Cobalt",
+  "option4": "Carbon",
+  "option5": "",
+  "answer": "Cadmium",
+  "explanation": "The heavy metal cadmium (Cd) is known to be a widespread environmental contaminant and a potential toxin that may adversely affect human health. The kidney is the main organ affected by chronic Cd exposure and toxicity."
+}

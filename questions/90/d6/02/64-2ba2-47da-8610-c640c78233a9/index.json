@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "90d60264-2ba2-47da-8610-c640c78233a9",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these was the first web browser for Microsoft Windows?",
+  "option1": "ViolaWWW",
+  "option2": "Cello",
+  "option3": "Mosaic",
+  "option4": "Erwise",
+  "option5": "",
+  "answer": "Cello",
+  "explanation": "Cello was the first web browser to run on the Microsoft Windows. Cello is an early graphical web browser for Windows 3.1 and it was developed by Thomas R. Bruce."
+}

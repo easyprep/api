@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T21:20:37.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e682e4f9-9f48-4814-80df-19c765262ac2",
+  "labels": "current-affairs,2019-04-02",
+  "question": "Which IIT has successfully converted petroleum waste toluene into useful product?",
+  "option1": "IIT Indore",
+  "option2": "IIT Kanpur",
+  "option3": "IIT Madras",
+  "option4": "IIT Bombay",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "Using platinum nanocatalyst, a two-member team at the IIT Madras has successfully converted petroleum waste-product toluene into benzoic acid. Benzoic acid is used as a food preservative (E210) and medicine for fungal/bacterial infection. Toluene is converted into benzoic acid through selective and controlled oxidation in the presence of a catalyst — binaphthyl-stabilised platinum nanoparticles (Pt-BNP). Generally, organic reactions are carried out using organic solvents, which makes it expensive and also generates toxic waste. So, the team led by G. Sekar used water as solvent to make it environment-friendly. Also, a green oxidant (70% aqueous tert-butyl hydroperoxide or TBHP) is used for converting toluene into benzoic acid. When toluene is oxidised, it gives four products. But, the team used catalyst that they developed and then only benzoic acid is produced. No alcohol, aldehyde or ester is produced. The yield of benzoic acid varied from 68-96% depending on whether the toluene used is electron-deficient or electron-rich."
+}

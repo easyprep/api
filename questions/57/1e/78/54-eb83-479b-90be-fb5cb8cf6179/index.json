@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "571e7854-eb83-479b-90be-fb5cb8cf6179",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which do we call the dangerous programs that can get downloaded by opening E-mail attachments?",
+  "option1": "Virus",
+  "option2": "Spam",
+  "option3": "Utility",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Virus",
+  "explanation": "Viruses can easily be transferred from one computer to another through sending mails. This is the most common way used nowadays. They may come as an attachment along with the emails."
+}

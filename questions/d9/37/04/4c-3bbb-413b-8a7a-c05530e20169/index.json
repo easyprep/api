@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d937044c-3bbb-413b-8a7a-c05530e20169",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which menu in MS Word contains the 'Restrict Editing' option?",
+  "option1": "View",
+  "option2": "Edit",
+  "option3": "Insert",
+  "option4": "Review",
+  "option5": "",
+  "answer": "Review",
+  "explanation": "Selecting Restrict Editing provides authors with options to limit options within the document. This option can also be accessed through the Review tab in the Protect toolbox"
+}

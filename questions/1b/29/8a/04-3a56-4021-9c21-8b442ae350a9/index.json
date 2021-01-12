@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1b298a04-3a56-4021-9c21-8b442ae350a9",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these is not an MS Office product?",
+  "option1": "Office Sway",
+  "option2": "Office 365 Video",
+  "option3": "Open Office",
+  "option4": "Delve",
+  "option5": "",
+  "answer": "Open Office",
+  "explanation": "OpenOffice is a discontinued open-source office suite. Sun open-sourced the OpenOffice software in July 2000 as a competitor to MS Office."
+}

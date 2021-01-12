@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "07471379-cf75-40ca-8215-e52db55b64da",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these folders in Windows is used by browsers to cache web pages?",
+  "option1": "Recycle Bin",
+  "option2": "Pictures",
+  "option3": "Temporary Internet Files",
+  "option4": "Documents",
+  "option5": "",
+  "answer": "Temporary Internet Files",
+  "explanation": "Temporary Internet Files is a Microsoft Windows folder which contains Web page content that is stored on your hard disk. Web browsers like Chrome, Edge etc. uses this folder to cache pages and other multimedia content from visited websites."
+}

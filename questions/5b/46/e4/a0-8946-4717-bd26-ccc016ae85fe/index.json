@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "5b46e4a0-8946-4717-bd26-ccc016ae85fe",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these files can be inserted in MS PowerPoint?",
+  "option1": ".Gif",
+  "option2": ".Jpg",
+  "option3": ".mp4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "All of the above files can be inserted in MS PowerPoint. On Home tab of the ribbon, under Insert, click Picture > Picture from File. Navigate to the location of the animated GIF you want to add"
+}

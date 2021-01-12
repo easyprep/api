@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "6597f389-04a2-4ac5-a7a7-08e2e933f056",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the key combination is used to hide a selected row?",
+  "option1": "Ctrl + 8",
+  "option2": "Ctrl + 9",
+  "option3": "Ctrl +10",
+  "option4": "Ctrl + H",
+  "option5": "",
+  "answer": "Ctrl + 9",
+  "explanation": "Ctrl + 9 is used to hide a selected row. When a row is selected and Ctrl + 9 key is pressed, the row gets hidden."
+}

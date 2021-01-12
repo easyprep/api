@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "9720e706-4bc2-43b3-a0b1-a9db9419f425",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is Ctrl + R used for in MS Word?",
+  "option1": "it reopens the last closed document",
+  "option2": "it reprints the document",
+  "option3": "it right-aligns the selected text",
+  "option4": "it removes the formatting",
+  "option5": "",
+  "answer": "it right-aligns the selected text",
+  "explanation": "Ctrl + R is used in MS Word to right-align the selected text or selected paragraph. It is same as using the alignment options from the Formatting toolbar."
+}

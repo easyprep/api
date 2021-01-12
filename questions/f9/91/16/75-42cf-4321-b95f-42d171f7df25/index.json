@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-03T12:00:46.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f9911675-42cf-4321-b95f-42d171f7df25",
+  "labels": "current-affairs,2019-04-04",
+  "question": "Which of the following is / are correct statements about “<strong>BlueLink Connectivity</strong>” that was making news recently:\r\n<ol>\r\n<li>It is a flagship programme started between India and Norway to boost waterways transport.</li>\r\n<li>It is an initiative launched by South Korean car maker Hyundai.</li>\r\n<li>It will allow the users to interact with their cars using voice while enabling them to remotely switch on/off the car or its AC.</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "South Korean company Hyundai is going to launch “BlueLink Connectivity” feature in India that will allow users to interact with their cars using their voice which will enable to give instructions and remotely switch on and off the car or its AC. The feature will be first introduced in its upcoming model SUV Venue. BlueLink Connectivity has overall 33 features, 10 of which have been made compatible with Indian – specifications like panic button, cloud based voice recognition, eSim module to make it secure and tamper-proof. Apart from this it will switch to networks accordingly as per the availability. For Example, if it is unable to get 4G network, it will try to connect with 3G and 2G whichever is available."
+}

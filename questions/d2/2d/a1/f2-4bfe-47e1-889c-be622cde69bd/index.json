@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d22da1f2-4bfe-47e1-889c-be622cde69bd",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is Ctrl + Q used for in MS Word?",
+  "option1": "To remove the paragraph formatting",
+  "option2": "To open an existing file",
+  "option3": "To delete the selected text",
+  "option4": "To spell check the document",
+  "option5": "",
+  "answer": "To remove the paragraph formatting",
+  "explanation": "Ctrl + Q is a shortcut key combination which used to remove paragraph formatting in MS Word. It removes line space and paragraph space."
+}

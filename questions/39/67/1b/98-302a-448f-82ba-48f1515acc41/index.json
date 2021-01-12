@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "39671b98-302a-448f-82ba-48f1515acc41",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which key combination is used for manual page break?",
+  "option1": "Shift + Enter",
+  "option2": "Ctrl + Enter",
+  "option3": "Ctrl + B",
+  "option4": "Ctrl + F6",
+  "option5": "",
+  "answer": "Shift + Enter",
+  "explanation": "Page break can be manually inserted in the MS Word document by pressing SHIFT + ENTER key . It is same as using page break option from the insert tab."
+}

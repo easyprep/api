@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:50:14.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "eb8b601e-5e1b-4567-bae2-ee548dbb02a3",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Cream gets separated out of milk when it is churned due to which of the following reasons?",
+  "option1": "Gravitational pull",
+  "option2": "Centripetal force",
+  "option3": "Centrifugal force",
+  "option4": "Frictional force",
+  "option5": "",
+  "answer": "Centrifugal force",
+  "explanation": "When Milk is churned vigorously the cream from it is separated out due to Centrifugal Force. Churning physically agitates the cream until it ruptures the fragile membranes surrounding the milk fat."
+}

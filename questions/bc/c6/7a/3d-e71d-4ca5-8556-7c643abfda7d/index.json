@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:50:56.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "bcc67a3d-e71d-4ca5-8556-7c643abfda7d",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these is a Russian search engine?",
+  "option1": "AOL",
+  "option2": "Naver",
+  "option3": "Yandex",
+  "option4": "Quihoo360",
+  "option5": "",
+  "answer": "Yandex",
+  "explanation": "Yandex is a Russian search engine. Quihoo360 belongs to China and Naver search engine belongs to South Korea. AOL is a web portal and online service provider based in New York City."
+}

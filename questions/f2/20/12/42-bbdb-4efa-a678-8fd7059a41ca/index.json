@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f2201242-bbdb-4efa-a678-8fd7059a41ca",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the use of VLOOKUP function in MS Excel?",
+  "option1": "to get the maximum value among set of data",
+  "option2": "to copy a row",
+  "option3": "to find things in a table",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "to find things in a table",
+  "explanation": "VLOOKUP is an Excel function that is used to find things in a table or a range by row. VLOOKUP stands for Vertical Lookup and it supports approximate and exact matching, and wildcards for partial matches."
+}

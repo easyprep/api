@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "eaed446b-3946-4ee3-a3d0-7218e8c22a7f",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What is the name of the attack which happens when a malefactor executes a SQL query to the database via the input data from the client to server?",
+  "option1": "Password attack",
+  "option2": "Sandboxing",
+  "option3": "SQL injection attack",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "SQL injection attack",
+  "explanation": "SQL Injection (SQLi) is a type of an injection attack that makes it possible to execute malicious SQL statements. It is a common issue with database-driven websites. It occurs when a malefactor executes a SQL query to the database via the input data from the client to server."
+}

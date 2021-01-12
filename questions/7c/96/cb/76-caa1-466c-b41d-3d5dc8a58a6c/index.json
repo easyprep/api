@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7c96cb76-caa1-466c-b41d-3d5dc8a58a6c",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What is Firewall?",
+  "option1": "A malware",
+  "option2": "Type of Phishing attack",
+  "option3": "Security system",
+  "option4": "A DOS attack",
+  "option5": "",
+  "answer": "Security system",
+  "explanation": "A firewall refers to a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules."
+}

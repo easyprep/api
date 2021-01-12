@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "39911ca9-7b80-4939-a78e-31856136914f",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What do we call the columns of a table in Microsoft Access?",
+  "option1": "Rows",
+  "option2": "Records",
+  "option3": "Fields",
+  "option4": "Category",
+  "option5": "",
+  "answer": "Fields",
+  "explanation": "A field in MS Access is a piece of information related to a single person or thing. Related fields are grouped together to form a record."
+}

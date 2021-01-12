@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T17:45:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "6f078ccf-86f2-4277-a03a-8a8dac23d821",
+  "labels": "current-affairs,2019-03-21",
+  "question": "What is the full of form ALU?",
+  "option1": "Analyst Logic Unit",
+  "option2": "Algebraic Logic Unit",
+  "option3": "Arithmetic Logic Unit",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Arithmetic Logic Unit",
+  "explanation": "An arithmetic logic unit is a combinational digital electronic circuit that performs arithmetic and bitwise operations on integer binary numbers. This is in contrast to a floating-point unit, which operates on floating point numbers."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:53:10.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "bffb19ad-a702-48b8-94e0-d1aa5061b0bb",
+  "labels": "current-affairs,2019-03-23",
+  "question": "The UNIX operating system is suitable for which of the following?",
+  "option1": "Single user",
+  "option2": "Distributed Processing",
+  "option3": "Multi user",
+  "option4": "Real-Time Processing",
+  "option5": "",
+  "answer": "Multi user",
+  "explanation": "Some examples of a multi-user OS are Unix, Virtual Memory System (VMS) and mainframe OS. The server allows multiple users to access the same OS and share the hardware and the kernel, performing tasks for each user concurrently."
+}

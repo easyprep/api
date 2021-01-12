@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4bdb4260-0931-42fe-9f66-b042a0ef3067",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Where are files moved in Windows after deletion?",
+  "option1": "Recycle Bin",
+  "option2": "Temp",
+  "option3": "System",
+  "option4": "My Documents",
+  "option5": "",
+  "answer": "Recycle Bin",
+  "explanation": "Recycle Bin in Windows is temporary storage for files that have been deleted but not yet permanently erased from the file system."
+}

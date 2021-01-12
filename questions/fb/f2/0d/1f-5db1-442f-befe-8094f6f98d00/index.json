@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "fbf20d1f-5db1-442f-befe-8094f6f98d00",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the best way to add a background image to all the slides?",
+  "option1": "By adding a background image to the first slide",
+  "option2": "By using Autocorrect option",
+  "option3": "By editing the master slide",
+  "option4": "It is not possible in MS PowerPoint",
+  "option5": "",
+  "answer": "By editing the master slide",
+  "explanation": "By editing the master slide, we can add a background image to all the slides. It helps in giving a uniform appearance to all the slides."
+}

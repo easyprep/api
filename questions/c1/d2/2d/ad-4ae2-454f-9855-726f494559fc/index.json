@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c1d22dad-4ae2-454f-9855-726f494559fc",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which menu option has the option to print document in MS Word?",
+  "option1": "File",
+  "option2": "Edit",
+  "option3": "Tools",
+  "option4": "Review",
+  "option5": "",
+  "answer": "File",
+  "explanation": "Print and Print preview are given under the File menu in MS Word. Also, Ctrl + P is a shortcut which lets the users print the current document."
+}

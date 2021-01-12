@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:42:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "640b76a5-d6b2-4a11-b770-74111b8fa603",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following instruments determines the purity of milk?",
+  "option1": "Thermometer",
+  "option2": "Stalagmometer",
+  "option3": "Lactometer",
+  "option4": "Hydrometer",
+  "option5": "",
+  "answer": "Lactometer",
+  "explanation": "A lactometer is used to check purity of milk. The specific gravity of milk does not give a conclusive indication of its composition since milk contains a variety of substances that are either heavier or lighter than water."
+}

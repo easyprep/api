@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T22:01:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1bead546-3d0c-42ff-80d8-f97675156af2",
+  "labels": "current-affairs,2019-04-02",
+  "question": "Lens is made up of which of the following?",
+  "option1": "Ordinary glass",
+  "option2": "Pyrex glass",
+  "option3": "Cobalt glass",
+  "option4": "Flint glass",
+  "option5": "",
+  "answer": "Flint glass",
+  "explanation": "Flint glass is optical glass that has relatively high refractive index and low Abbe number (high dispersion). Flint glasses are arbitrarily defined as having an Abbe number of 50 to 55 or less."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a8dee02e-7c78-428a-8f25-4b7d7cb2a182",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which key shortcut is used to move a word to the right of the cursor?",
+  "option1": "Ctrl + >",
+  "option2": "Ctrl + <",
+  "option3": "Ctrl +)",
+  "option4": "Ctrl + (",
+  "option5": "",
+  "answer": "Ctrl + >",
+  "explanation": "Ctrl + > (right arrow) moves one word to the right. It is a shortcut for quick editing to move the position of one word. Ctrl + <(left arrow) moves one word to the left."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "cb9f5236-0494-4605-9bdd-05c67240e654",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of MS Office program is a graphics editor?",
+  "option1": "MS Paint",
+  "option2": "MS Planner",
+  "option3": "MS Bookings",
+  "option4": "MS Project",
+  "option5": "",
+  "answer": "MS Paint",
+  "explanation": "Microsoft Paint is a simple graphics editor that comes with all versions of Microsoft Windows. It is a part of MS Office family."
+}

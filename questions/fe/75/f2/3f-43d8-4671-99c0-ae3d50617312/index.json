@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:48:08.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "fe75f23f-43d8-4671-99c0-ae3d50617312",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following ministries is responsible for calculating GDP in India?",
+  "option1": "Ministry of Finance",
+  "option2": "Ministry of Commerce and Industry",
+  "option3": "Ministry of Central Statistical and Program Implementation",
+  "option4": "Ministry of consumer Affairs",
+  "option5": "",
+  "answer": "Ministry of Central Statistical and Program Implementation",
+  "explanation": "The work of computing the GDP is done by the Central Statistical Organization (CSO) which is under the Ministry of Statistical and Program Implementation. It is is responsible for macroeconomic data gathering and statistical record keeping."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T11:19:00.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "23c64b5d-0347-47d5-8ed5-832fa3729f9f",
+  "labels": "current-affairs,2019-03-18",
+  "question": "Which of the following apparatus is used to measure the intensity of light?",
+  "option1": "Anemometer",
+  "option2": "Calorimeter",
+  "option3": "Luxmeter",
+  "option4": "Altimeter",
+  "option5": "",
+  "answer": "Luxmeter",
+  "explanation": "The lux (symbol: lx) is the SI derived unit of illuminance and luminous emittance, measuring luminous flux per unit area. It is equal to one lumen per square metre. In photometry, this is used as a measure of the intensity, as perceived by the human eye, of light that hits or passes through a surface."
+}

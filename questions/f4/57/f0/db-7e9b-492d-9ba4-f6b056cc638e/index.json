@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f457f0db-7e9b-492d-9ba4-f6b056cc638e",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which of these is a program is used to install viruses on computers?",
+  "option1": "A Dropper",
+  "option2": "A Wrapbox",
+  "option3": "A Logic bomb",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "A Dropper",
+  "explanation": "A dropper is a program used to install viruses on computers. In many instances, the dropper is not infected with malicious code and, therefore might not be detected by virus-scanning software."
+}

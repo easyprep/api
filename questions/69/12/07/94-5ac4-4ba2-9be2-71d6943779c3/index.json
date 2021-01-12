@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:41.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "69120794-5ac4-4ba2-9be2-71d6943779c3",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the use of Shift + F11 in MS Excel?",
+  "option1": "Deletes the workbook",
+  "option2": "Deletes the current sheet",
+  "option3": "Inserts a new sheet",
+  "option4": "Inserts a new row",
+  "option5": "",
+  "answer": "Inserts a new sheet",
+  "explanation": "When Shift and F11 key is pressed together, a new sheet is inserted in MS Excel. It is a quick way to add a new sheet."
+}

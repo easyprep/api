@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e08c3d3f-9228-4c94-9dae-9b30847ba4cf",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Where is the Insert function button located in MS Excel?",
+  "option1": "Under Formulas Menu",
+  "option2": "Under Insert Menu",
+  "option3": "Under Review Menu",
+  "option4": "Under View Menu",
+  "option5": "",
+  "answer": "Under Formulas Menu",
+  "explanation": "Ms Excel supports a wide variety of built-in functions that can be used when building formulas. The Insert Function button is located on the Formula bar."
+}

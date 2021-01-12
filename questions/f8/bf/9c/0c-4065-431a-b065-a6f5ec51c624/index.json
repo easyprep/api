@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f8bf9c0c-4065-431a-b065-a6f5ec51c624",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which is the correct formula for SUM function in MS Excel",
+  "option1": "/SUM (A1+A5)",
+  "option2": "#VALUE!",
+  "option3": 174151.48699074076,
+  "option4": "+SUM (A1:A5)",
+  "option5": "",
+  "answer": 174151.48699074076,
+  "explanation": "The SUM function in MS Excel adds the arguments you enter in the SUM formula. The correct example of SUM formula is =SUM (A1:A5)."
+}

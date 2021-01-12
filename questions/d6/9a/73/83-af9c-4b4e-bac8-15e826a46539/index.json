@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-28T21:11:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d69a7383-af9c-4b4e-bac8-15e826a46539",
+  "labels": "current-affairs,2019-03-29",
+  "question": "Who of the following has /have won the 2018 ACM A.M. Turing Award?",
+  "option1": "Yann LeCun",
+  "option2": "Geoffrey Hinton",
+  "option3": "Yoshua Bengio",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Three researchers - Yoshua Bengio,  Geoffrey Hinton, and Yann LeCun have won the 2018 ACM A.M. Turing Award for conceptual and engineering breakthroughs in Artificial Intelligence (AI) that have made deep neural networks a critical component of computing. Bengio is Professor at the University of Montreal and Scientific Director at Mila, Quebec’s Artificial Intelligence Institute; Hinton is VP and Engineering Fellow of Google, Chief Scientific Adviser of The Vector Institute, and University Professor Emeritus at the University of Toronto; and LeCun is Professor at New York University and VP and Chief AI Scientist at Facebook. The ACM A.M. Turing Award is often referred to as the “Nobel Prize of Computing”. It is the premier international award for achievements in computing and includes a $1 million prize funded by Google Inc. It is named for Alan M. Turing, the British mathematician who articulated the mathematical foundation and limits of computing."
+}

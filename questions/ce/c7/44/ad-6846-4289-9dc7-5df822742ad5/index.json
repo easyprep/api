@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:36:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "cec744ad-6846-4289-9dc7-5df822742ad5",
+  "labels": "current-affairs,2019-03-26",
+  "question": "Which of the following is the bank of tubes at the back of domestic refrigerator?",
+  "option1": "Evaporator tubes",
+  "option2": "Refrigerant cooling tubes",
+  "option3": "Condenser tubes",
+  "option4": "Capillary tubes",
+  "option5": "",
+  "answer": "Condenser tubes",
+  "explanation": "In systems involving heat transfer, a condenser is a device or unit used to condense a substance from its gaseous to its liquid state, by cooling it. For example, arefrigerator uses a condenser to get rid of heat extracted from the interior of the unit to the outside air."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7801ddb5-c402-4e6a-8ac7-8ec975e024b2",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these keys will end the slideshow?",
+  "option1": "Esc",
+  "option2": "F10",
+  "option3": "Space",
+  "option4": "Enter",
+  "option5": "",
+  "answer": "Esc",
+  "explanation": "ESC key is used to end the slideshow. It is a shortcut to end the current slideshow. The F5 is used to start the slideshow."
+}

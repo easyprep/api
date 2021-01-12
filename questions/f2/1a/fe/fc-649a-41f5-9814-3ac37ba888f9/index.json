@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:36:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f21afefc-649a-41f5-9814-3ac37ba888f9",
+  "labels": "current-affairs,2019-03-26",
+  "question": "Which of the following is correlated with blood pressure?",
+  "option1": "Pancreas",
+  "option2": "Liver",
+  "option3": "Adrenal",
+  "option4": "Testis",
+  "option5": "",
+  "answer": "Adrenal",
+  "explanation": "Pheochromocytoma, a rare, usually benign, tumor of the adrenal glands resulting in the glands secreting excessive amounts of the hormones adrenaline and noradrenaline (catecholamines). This causes variable symptoms such as high blood pressure, sweating, etc."
+}

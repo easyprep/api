@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0e91eacc-cbec-4f82-8599-796135a28611",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these key shortcuts will change the case of the selected text?",
+  "option1": "Shift + F1",
+  "option2": "Shift + F3",
+  "option3": "Shift + F5",
+  "option4": "Shift + F7",
+  "option5": "",
+  "answer": "Shift + F5",
+  "explanation": "Shift + F5 shortcut changes the text case. When this key combination is pressed, the case of the selected text changes."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:53:10.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "a1ea2d93-8d58-4f03-b71b-21abaf199843",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which of the following is the major gaseous pollutant of the thermal power stations?",
+  "option1": "H2S",
+  "option2": "NH3",
+  "option3": "NO2",
+  "option4": "SO2",
+  "option5": "",
+  "answer": "SO2",
+  "explanation": "Sulfur dioxides and Combustion of coal is major important source for particulate air pollutant than oil in thermal power plants. The amount of fly ash and SO2 depend on the sulfur and ash content of the fuel used."
+}

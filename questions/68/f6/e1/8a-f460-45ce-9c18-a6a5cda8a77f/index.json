@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "68f6e18a-f460-45ce-9c18-a6a5cda8a77f",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What do we call the boxes in the slides that contain content in them?",
+  "option1": "Word Art",
+  "option2": "Text Styles",
+  "option3": "Placeholder",
+  "option4": "Animation",
+  "option5": "",
+  "answer": "Placeholder",
+  "explanation": "In Microsoft PowerPoint, placeholders are boxes with dotted borders that contain content and reside within a slide layout."
+}

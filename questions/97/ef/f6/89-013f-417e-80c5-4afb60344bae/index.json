@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "97eff689-013f-417e-80c5-4afb60344bae",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What do we call the attack that focuses on capturing small packets from the network transmitted by other computers and reading the data content?",
+  "option1": "Eavesdropping",
+  "option2": "Phishing",
+  "option3": "Denial of Service",
+  "option4": "Spamming",
+  "option5": "",
+  "answer": "Eavesdropping",
+  "explanation": "Eavesdropping is the unauthorized real-time interception of a private communication, such as a phone call, instant message, videoconference or fax transmission. It focuses on capturing small packets from the network transmitted by other computers and reading the data content in search of some information."
+}

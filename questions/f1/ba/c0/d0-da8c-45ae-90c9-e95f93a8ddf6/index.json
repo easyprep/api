@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f1bac0d0-da8c-45ae-90c9-e95f93a8ddf6",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which was the first purely 32-bit version of Windows?",
+  "option1": "Windows Vista",
+  "option2": "Windows NT",
+  "option3": "Windows 98",
+  "option4": "Windows 95",
+  "option5": "",
+  "answer": "Windows NT",
+  "explanation": "Windows NT was the first purely 32-bit version of Windows, whereas Windows 3.1x and Windows 9x, were 16-bit/32-bit hybrids."
+}

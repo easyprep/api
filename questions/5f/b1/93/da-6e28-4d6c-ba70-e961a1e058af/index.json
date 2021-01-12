@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "5fb193da-6e28-4d6c-ba70-e961a1e058af",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What does OLE in MS Access stand for?",
+  "option1": "Object Length Extension",
+  "option2": "Object Linking and Embedding",
+  "option3": "Object Load Estimate",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Object Linking and Embedding",
+  "explanation": "OLE stands for Object Linking and Embedding. It is a proprietary technology developed by Microsoft that allows embedding and linking to documents and other objects."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-23T14:41:12.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ee414845-0a30-4e8e-9d8c-abae279b3445",
+  "labels": "current-affairs,2019-03-24",
+  "question": "What is the length of ATM card Pin?",
+  "option1": "2 digits and 2 alphabets",
+  "option2": "4 digits",
+  "option3": "10 digits",
+  "option4": "2 digits",
+  "option5": "",
+  "answer": "4 digits",
+  "explanation": "Usually all the debit cards, credit cards and mobile phones require a pin to unlock them. The length of ATM card is four digits."
+}

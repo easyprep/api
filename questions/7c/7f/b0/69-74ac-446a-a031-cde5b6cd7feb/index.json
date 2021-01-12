@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T17:45:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7c7fb069-74ac-446a-a031-cde5b6cd7feb",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which is the most abundant inert gas in the atmosphere?",
+  "option1": "Argon",
+  "option2": "Helium",
+  "option3": "Neon",
+  "option4": "Krypton",
+  "option5": "",
+  "answer": "Argon",
+  "explanation": "Argon's elemental symbol is Ar, and it is the most abundant noble gas in the atmosphere. There's so much Ar in the atmosphere because most of it was produced by a long-lived radioactive isotope of potassium in the earth's crust and released over geologic time."
+}

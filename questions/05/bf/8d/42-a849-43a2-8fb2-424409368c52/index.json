@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T22:01:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "05bf8d42-a849-43a2-8fb2-424409368c52",
+  "labels": "current-affairs,2019-04-02",
+  "question": "Which of the following are the postulates of Darwin’s theory of evolution?",
+  "option1": "Within any population, there is natural variation.",
+  "option2": "Even though all species produce a large number of offsprings, populations remain fairly constant",
+  "option3": "The struggle for survival within populations eliminates the unfit individuals.",
+  "option4": "All the above are correct",
+  "option5": "",
+  "answer": "All the above are correct",
+  "explanation": "Darwin’s theory of evolution can be described as: within any population, there is natural variation. Some individuals have more favourable variations than others. Even though all species produce a large number of offsprings, populations remain fairly constant naturally. The struggle for survival within populations eliminates the unfit individuals. This is called natural selection."
+}

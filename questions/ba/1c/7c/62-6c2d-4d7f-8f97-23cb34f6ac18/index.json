@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:50:14.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ba1c7c62-6c2d-4d7f-8f97-23cb34f6ac18",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which of the following energies is produced commercially from coal?",
+  "option1": "Light energy",
+  "option2": "Kinetic energy",
+  "option3": "Thermal energy",
+  "option4": "Potential energy",
+  "option5": "",
+  "answer": "Thermal energy",
+  "explanation": "Coal burnt as a solid fuel in coal power stations to generate electricity is called thermal coal. When coal is used for electricity generation, it is usually pulverized and then burned in a furnace with a boiler."
+}

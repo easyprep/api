@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f7af7917-3cc4-47c0-a468-ddb05a980472",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the maximum zoom percentage available in MS PowerPoint?",
+  "option1": 2,
+  "option2": 4,
+  "option3": 6,
+  "option4": 10,
+  "option5": "",
+  "answer": 4,
+  "explanation": "The maximum zoom percentage available in MS PowerPoint is 400%.We can zoom the slides up to 400% in Microsoft PowerPoint."
+}

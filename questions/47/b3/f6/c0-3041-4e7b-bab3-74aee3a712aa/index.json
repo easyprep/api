@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:43:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "47b3f6c0-3041-4e7b-bab3-74aee3a712aa",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Trade winds are caused due to which of the following processes?",
+  "option1": "Conduction",
+  "option2": "Convection",
+  "option3": "Radiation",
+  "option4": "Scattering",
+  "option5": "",
+  "answer": "Convection",
+  "explanation": "Trade wind is the horizontal movement of air. All wind is caused by the uneven heating of Earth's surface, which sets convection currents in motion. Convection currents on a large scale cause global winds; convection currents on a small scale cause local winds."
+}

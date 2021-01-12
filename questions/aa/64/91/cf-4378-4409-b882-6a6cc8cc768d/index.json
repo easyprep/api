@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T17:45:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "aa6491cf-4378-4409-b882-6a6cc8cc768d",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which device is used to measure blood pressure?",
+  "option1": "Thermometer",
+  "option2": "Stalagmometer",
+  "option3": "Lactometer",
+  "option4": "Shygmomanometer",
+  "option5": "",
+  "answer": "Shygmomanometer",
+  "explanation": "A sphygmomanometer, also known as a blood pressure meter is a device used to measure blood pressure, composed of an inflatable cuff to collapse and then release the artery under the cuff in a controlled manner, and a mercury or mechanical manometer to measure the pressure."
+}

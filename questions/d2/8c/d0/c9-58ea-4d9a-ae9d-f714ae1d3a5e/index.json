@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d28cd0c9-58ea-4d9a-ae9d-f714ae1d3a5e",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the use of Start button in MS Windows?",
+  "option1": "To access Device settings",
+  "option2": "To shut down the PC",
+  "option3": "To start an application",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The Start button allows the PC users to access their computer programs, start applications, access device settings or shut down the computer."
+}

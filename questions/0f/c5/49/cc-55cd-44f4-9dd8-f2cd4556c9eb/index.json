@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0fc549cc-55cd-44f4-9dd8-f2cd4556c9eb",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these key shortcut will change the case of selected text in MS word?",
+  "option1": "Ctrl + H",
+  "option2": "Alt + F8",
+  "option3": "Shift + F3",
+  "option4": "Ctrl + Shift",
+  "option5": "",
+  "answer": "Shift + F3",
+  "explanation": "When Shift+F3 key combination is pressed, it changes the case. Any selected text, or the word upon which the toothpick cursor flashes gets affected when the Shift + F3 is pressed."
+}

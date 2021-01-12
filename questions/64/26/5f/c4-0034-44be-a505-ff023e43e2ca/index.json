@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:04:50.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "64265fc4-0034-44be-a505-ff023e43e2ca",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these apps are available in Opera mobile store?",
+  "option1": "iOS apps",
+  "option2": "Android apps",
+  "option3": "Java apps",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "Opera Mobile Store is a platform independent app store which was launched in 2011. It has mobile apps for iOS, Java, BlackBerry OS, Symbian, iOS, and Windows Mobile, and Android based mobile phones."
+}

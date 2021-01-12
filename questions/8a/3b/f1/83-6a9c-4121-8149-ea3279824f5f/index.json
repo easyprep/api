@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "8a3bf183-6a9c-4121-8149-ea3279824f5f",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these was the first browser to display images inline with text?",
+  "option1": "Nexus",
+  "option2": "Safari",
+  "option3": "Internet Explorer",
+  "option4": "Mosaic",
+  "option5": "",
+  "answer": "Mosaic",
+  "explanation": "Mosaic was the first web browser to display images inline with text instead of displaying images in a separate window."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7b92da7c-cae6-4bb1-88f3-eeb7892f78dd",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which menu option in MS word has the 'Track Changes' feature?",
+  "option1": "Page Layout",
+  "option2": "Review",
+  "option3": "Insert",
+  "option4": "View",
+  "option5": "",
+  "answer": "Review",
+  "explanation": "Track changes option can be turned on or off. It is available in the Review menu. On the Review tab, in the Tracking group, the Track Changes button is available."
+}

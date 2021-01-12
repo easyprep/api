@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4ecb1cb1-d8e5-45ea-8bae-3645b281cea8",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following file extension is used in MS Word 2003?",
+  "option1": ".exe",
+  "option2": ".doc",
+  "option3": ".docx",
+  "option4": ".acs",
+  "option5": "",
+  "answer": ".doc",
+  "explanation": "DOC or doc is a filename extension for word processing documents which were created in Microsoft Word 97 – 2003 versions."
+}

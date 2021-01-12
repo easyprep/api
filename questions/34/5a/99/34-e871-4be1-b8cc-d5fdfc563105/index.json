@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:36:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "345a9934-e871-4be1-b8cc-d5fdfc563105",
+  "labels": "current-affairs,2019-03-26",
+  "question": "A NOT gate can be implemented by which of the following?",
+  "option1": "A single transistor",
+  "option2": "A single resistor",
+  "option3": "A single diode",
+  "option4": "Two diodes",
+  "option5": "",
+  "answer": "A single transistor",
+  "explanation": "In digital logic, an inverter or NOT gate is a logic gate which implements logical negation. The truth table is shown on the right. It can be implemented by a single transistor."
+}

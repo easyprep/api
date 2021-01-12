@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-23T14:41:12.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "2b0327cf-59de-40c6-bc19-da2ce947d6f8",
+  "labels": "current-affairs,2019-03-24",
+  "question": "What do we call those ATMs where hardware is owned by service provider, but cash management and network connectivity is provided by sponsor bank?",
+  "option1": "White label ATM",
+  "option2": "Brown label ATM",
+  "option3": "Black label ATM",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Brown label ATM",
+  "explanation": "Brown Label ATM is sharing cost concept. In Brown Label ATM hardware is owned by service provider, but cash management and network connectivity is provided by sponsor bank."
+}

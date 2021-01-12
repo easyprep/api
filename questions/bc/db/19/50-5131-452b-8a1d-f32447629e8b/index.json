@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:41.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "bcdb1950-5131-452b-8a1d-f32447629e8b",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which function in MS Excel counts the number of characters in a cell?",
+  "option1": "Length",
+  "option2": "LEN",
+  "option3": "Count",
+  "option4": "LNG",
+  "option5": "",
+  "answer": "LEN",
+  "explanation": "If there is a need to count the total characters in a cell, it can be done by using the LEN function. To use the function, enter =LEN(cell) in a cell or in the formula bar and press Enter."
+}

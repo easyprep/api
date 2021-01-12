@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "12fc8c83-c2dc-4a45-b58d-ffe78bf8e739",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these was the first browser for the classic Mac operating system?",
+  "option1": "Samba",
+  "option2": "Pumba",
+  "option3": "Timothy",
+  "option4": "Tyson",
+  "option5": "",
+  "answer": "Samba",
+  "explanation": "MacWWW, also known as Samba, was the web browser launched in1992 which was meant to run on Macintosh computers. It was the first web browser for any non-Unix operating system."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T17:45:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e7f9e23f-be9e-4e99-ab41-f31964dbd4c9",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which metal is usually extracted from sea water?",
+  "option1": "Ca",
+  "option2": "Na",
+  "option3": "K",
+  "option4": "Mg",
+  "option5": "",
+  "answer": "Mg",
+  "explanation": "In the US, 63% of magnesium production came from seawater. The Metal is extracted from seawater and brines by means of electrolysis, a process that requires the passing of a current through a molten salt. This extracts the metal from the salt, but requires a high temperature to melt the salt."
+}

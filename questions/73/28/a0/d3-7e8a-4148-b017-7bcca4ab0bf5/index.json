@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T17:45:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7328a0d3-7e8a-4148-b017-7bcca4ab0bf5",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which measure of computer memory is the largest?",
+  "option1": "TB Terabyte",
+  "option2": "GB Gigabyte",
+  "option3": "KB Kilobyte",
+  "option4": "MB Megabyte",
+  "option5": "",
+  "answer": "TB Terabyte",
+  "explanation": "Terabyte is the largest measure of computer memory. The terabyte is a multiple of the unit byte for digital information. The prefix tera represents the fourth power of 1000, and means 10¹² in the International System of Units, and therefore one terabyte is one trillion bytes. The unit symbol for the terabyte is TB."
+}

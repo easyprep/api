@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T22:01:35.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0d8db60f-c3b2-476f-8f68-a9dcbdeb57b8",
+  "labels": "current-affairs,2019-04-02",
+  "question": "Which of the following is a re-usable space rocket?",
+  "option1": "Apollo",
+  "option2": "Satellite",
+  "option3": "Space shuttle",
+  "option4": "Skylab",
+  "option5": "",
+  "answer": "Space shuttle",
+  "explanation": "The Space Shuttle was a partially reusable low Earth orbital spacecraft system operated by the U.S. National Aeronautics and Space Administration as part of the Space Shuttle programme."
+}

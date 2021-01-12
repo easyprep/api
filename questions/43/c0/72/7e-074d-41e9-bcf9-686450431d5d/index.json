@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "43c0727e-074d-41e9-bcf9-686450431d5d",
+  "labels": "current-affairs,2019-03-19",
+  "question": "When was MS Excel launched for Windows OS?",
+  "option1": 1986,
+  "option2": 1985,
+  "option3": 1987,
+  "option4": 1988,
+  "option5": "",
+  "answer": 1987,
+  "explanation": "Microsoft released the first version of Excel for the Mac OS in 1985, and the first Windows version in November 1987. It is a spreadsheet editor."
+}

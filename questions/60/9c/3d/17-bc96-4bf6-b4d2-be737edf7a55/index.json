@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "609c3d17-bc96-4bf6-b4d2-be737edf7a55",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the default file extension of MS PowerPoint 2003?",
+  "option1": ".doc",
+  "option2": ".acs",
+  "option3": ".xls",
+  "option4": ".ppt",
+  "option5": "",
+  "answer": ".ppt",
+  "explanation": "A PPT file is an editable slide show created by Microsoft PowerPoint 2003. The default file format in PowerPoint version 2007 or newer is .pptx."
+}

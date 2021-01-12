@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "55a9c6f9-a6c5-4398-8c5e-521636ee75c6",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these Microsoft Office apps can be used for conferences and meetings in real time?",
+  "option1": "MS Powerpoint",
+  "option2": "MS Excel",
+  "option3": "Skype for Business",
+  "option4": "MS Project",
+  "option5": "",
+  "answer": "Skype for Business",
+  "explanation": "Skype for Business is an integrated communications client for conferences and meetings in real time it is the only Microsoft Office desktop app that does not have the \"Microsoft\" prefix in its name."
+}

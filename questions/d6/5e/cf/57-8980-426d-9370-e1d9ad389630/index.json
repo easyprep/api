@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-08T21:03:35.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d65ecf57-8980-426d-9370-e1d9ad389630",
+  "labels": "current-affairs,2019-04-09",
+  "question": "With respect to 5G technology, a term \"Network slicing\" makes news frequently as a network management feature. What does this mean users can have?",
+  "option1": "The ability to set up multiple connection points to one 5G network",
+  "option2": "The ability to create multiple virtual networks within a single 5G network",
+  "option3": "The ability to designate multiple passwords for one 5G network",
+  "option4": "The ability to utilize connections from other nearby networks",
+  "option5": "",
+  "answer": "The ability to create multiple virtual networks within a single 5G network",
+  "explanation": "Network slicing will allow IoT devices to utilize unique 5G network features based on need or importance."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "eddd5515-27af-44b0-b4b8-7c582c693d99",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Who invented the first email program?",
+  "option1": "Tim Berners-Lee",
+  "option2": "Ray Tomlinson",
+  "option3": "Ajay Bhatt",
+  "option4": "Dav Moron",
+  "option5": "",
+  "answer": "Ray Tomlinson",
+  "explanation": "Raymond Samuel Tomlinson is internationally known and credited as the inventor of email. He implemented the first email program on the ARPANET system."
+}

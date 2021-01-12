@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:34:54.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "44fb56ed-ba70-45f6-bdf5-7f82de7089d3",
+  "labels": "current-affairs,2019-03-19",
+  "question": "How can we copy the attributes of an object in MS PowerPoint?",
+  "option1": "By Pressing Shift + C",
+  "option2": "By Pressing Ctrl + Shift + C",
+  "option3": "By Pressing Ctrl + C",
+  "option4": "By Pressing Ctrl + O",
+  "option5": "",
+  "answer": "By Pressing Ctrl + Shift + C",
+  "explanation": "We can copy the attributes of an object in MS PowerPoint by pressing Ctrl + Shift + C. For pasting the attributes to an object, we will select an object and then press Ctrl+Shift+V."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:33:58.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "77553bec-7ee6-473c-a45b-ac097702fd68",
+  "labels": "current-affairs,2019-03-26",
+  "question": "In India, which is the largest single item of current government expenditure?",
+  "option1": "Investment in social overhead",
+  "option2": "Defence Expenditure",
+  "option3": "Interest payment of debt",
+  "option4": "Payment of subsidies",
+  "option5": "",
+  "answer": "Interest payment of debt",
+  "explanation": "Interest payments are actual amounts of interest paid by the borrower in currency, goods, or services in the year specified. Long-term external debt is defined as debt that has an original or extended maturity of more than one year and that is owed to nonresidents and repayable in currency, goods, or services."
+}

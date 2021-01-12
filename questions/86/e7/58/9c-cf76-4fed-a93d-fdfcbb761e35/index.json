@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-25T21:28:46.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "86e7589c-cf76-4fed-a93d-fdfcbb761e35",
+  "labels": "current-affairs,2019-04-26",
+  "question": "Which of the following banks has become the first Destination Bank to launch debit card-based e-mandate on NPCI’s API platform?",
+  "option1": "ICICI Bank",
+  "option2": "Kotak Mahindra Bank",
+  "option3": "HDFC Bank",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "Kotak Mahindra Bank",
+  "explanation": "The Kotak Mahindra Bank (KMB) has become the first Destination Bank to go live with Net Banking and Debit Card-based authentication solution on NPCI’s e-Mandate API platform. The facility will enable its customers to create electronic mandates (similar to the erstwhile eNACH with Aadhaar + OTP) via both the Debit Card and Net Banking channels. This allows Kotak to go live as a sponsor or acquirer bank for corporates and merchants seeking recurring payments. In a first-of-its-kind initiative in the industry, customers can register both physical and e-mandates on a single platform with validation on the mandate fields to remove rejections on account of various reasons."
+}

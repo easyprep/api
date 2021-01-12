@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-23T21:02:34.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ee84cee8-71bd-43fe-8692-ff96230c1305",
+  "labels": "current-affairs,2019-03-24",
+  "question": "ESPNcricinfo has tied up with which IIT to launch Superstats AI tool to analyse cricket statistics?",
+  "option1": "IIT Bombay",
+  "option2": "IIT Madras",
+  "option3": "IIT Kanpur",
+  "option4": "IIT Indore",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "In Mumbai, ESPNcricinfo has partnered with IIT Madras to launch ‘Superstats’, a next level artificial intelligence tool that can analyse cricket statistics through machine learning. The tool will forecast if and how a player’s or a team’s performance can turn around a game, on real time. Superstats will analyse the game of cricket on a combination of stats metrics- Luck index, Forecaster and Smart Stats using data science for the first time to give a context to every event in a game and also venture into new territories such as luck and forecasting. According to IIT researchers, the algorithms process data to quantify the impact of luck and analyse the real value of a player’s performance in the game of cricket on real time. Apart from forecasting, it also reveals trends and patterns during a game as the actual match data is fed on real time. For this, Superstats uses the vast ball-by-ball database of ESPNcricinfo, which has more than a decade of detailed data, and scientific methods, processes and complex algorithms based machine learning. This work was led by Raghunathan Rengaswamy and Mahesh Panchagnula of IIT-Madras along with the ESPN team."
+}

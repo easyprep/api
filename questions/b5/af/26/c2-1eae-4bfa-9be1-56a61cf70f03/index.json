@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-13T15:25:19.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b5af26c2-1eae-4bfa-9be1-56a61cf70f03",
+  "labels": "current-affairs,2019-03-14",
+  "question": "Per Capita Income of a country is obtained by dividing National Income by which of the following?",
+  "option1": "Total working population",
+  "option2": "Total population of the country",
+  "option3": "Area of the country",
+  "option4": "Volume of the capital used",
+  "option5": "",
+  "answer": "Total population of the country",
+  "explanation": "Per capita income or average income measures the average income earned per person in a given area in a specified year. It is calculated by dividing the area's total income by its total population."
+}

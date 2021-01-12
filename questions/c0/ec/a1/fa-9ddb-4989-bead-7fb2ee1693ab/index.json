@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c0eca1fa-9ddb-4989-bead-7fb2ee1693ab",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following is the oldest web browser still in general use?",
+  "option1": "Lynx",
+  "option2": "Safari",
+  "option3": "Internet Explorer",
+  "option4": "Navigator",
+  "option5": "",
+  "answer": "Lynx",
+  "explanation": "Lynx is a customizable text-based web browser for use on cursor-addressable character cell terminals. Presently, it is the oldest web browser still in general use. It was launched in 1992 and still has active development."
+}

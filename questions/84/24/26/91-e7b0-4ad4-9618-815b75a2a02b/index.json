@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "84242691-e7b0-4ad4-9618-815b75a2a02b",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What is the use of Cascade Delete option in MS Access?",
+  "option1": "Deletes all records of a table",
+  "option2": "Deletes all records with duplicate values",
+  "option3": "Deletes all records automatically when the record is deleted in the parent table",
+  "option4": "Makes a Duplicate table",
+  "option5": "",
+  "answer": "Deletes all records automatically when the record is deleted in the parent table",
+  "explanation": "Cascade Delete option means that if a record from one table is deleted, corresponding records in the other table are also deleted."
+}

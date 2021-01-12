@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:43:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1631b3d3-a0bd-41a6-a042-dc8daa89251f",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which of the following is the major chemical compound found in kidney stones?",
+  "option1": "urea",
+  "option2": "calcium carbonate",
+  "option3": "calcium oxalate",
+  "option4": "calcium sulphate",
+  "option5": "",
+  "answer": "calcium oxalate",
+  "explanation": "Calcium oxalate stones are the most common type of kidney stone. Kidney stones are solid masses that are found in the kidney when there are high levels of calcium, oxalate, cystine, or phosphate and too little liquid. Calcium oxalate stones are caused by too much oxalate in the urine."
+}

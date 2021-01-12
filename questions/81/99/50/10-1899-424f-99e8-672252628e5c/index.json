@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:53:10.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "81995010-1899-424f-99e8-672252628e5c",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What is the actual shape of the Earth ?",
+  "option1": "Flat",
+  "option2": "Circle",
+  "option3": "Sphere",
+  "option4": "Oblate spheroid",
+  "option5": "",
+  "answer": "Oblate spheroid",
+  "explanation": "Since the Earth is flattened at the poles and bulges at the Equator, geodesy represents the figure of the Earth as an oblate spheroid. The oblate spheroid, or oblate ellipsoid, is an ellipsoid of revolution obtained by rotating an ellipse about its shorter axis."
+}

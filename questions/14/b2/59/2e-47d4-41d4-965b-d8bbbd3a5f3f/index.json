@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:41.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "14b2592e-47d4-41d4-965b-d8bbbd3a5f3f",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which function in MS Excel will be used to convert miles into Kilometres?",
+  "option1": "Conv",
+  "option2": "Con",
+  "option3": "Convert",
+  "option4": "Change",
+  "option5": "",
+  "answer": "Convert",
+  "explanation": "The Convert function will convert miles into kilometres. Excel's convert function (\"=CONVERT()\") converts a measurement from one unit to another."
+}

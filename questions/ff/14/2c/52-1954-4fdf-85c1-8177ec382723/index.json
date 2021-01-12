@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ff142c52-1954-4fdf-85c1-8177ec382723",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which version of Windows introduced support for native 32-bit applications?",
+  "option1": "Windows 95",
+  "option2": "Windows XP",
+  "option3": "Windows 98",
+  "option4": "Windows NT",
+  "option5": "",
+  "answer": "Windows 95",
+  "explanation": "Windows 95 was the first version of windows introduced support for native 32-bit applications, plug and play hardware, preemptive multitasking, long file names of up to 255 characters, and provided increased stability over its predecessors."
+}

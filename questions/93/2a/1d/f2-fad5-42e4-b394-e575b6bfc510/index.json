@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "932a1df2-fad5-42e4-b394-e575b6bfc510",
+  "labels": "current-affairs,2019-03-21",
+  "question": "What do we call the files sent in an email?",
+  "option1": "Packet",
+  "option2": "Parcel",
+  "option3": "Attachments",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Attachments",
+  "explanation": "A computer file that is sent together with an email message is known as attachment. It can be an image, document or any other file."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e0fba3dc-c080-4919-98e4-e840b6361b4c",
+  "labels": "current-affairs,2019-03-20",
+  "question": "What is MS Access?",
+  "option1": "A RDBMS",
+  "option2": "An OODBMS",
+  "option3": "An ORDBMS",
+  "option4": "A Network Database Model",
+  "option5": "",
+  "answer": "A RDBMS",
+  "explanation": "Microsoft Access is a low cost relational database management system (RDBMS) from Microsoft that combines the relational Microsoft Jet Database Engine with a graphical user interface and software-development tools."
+}

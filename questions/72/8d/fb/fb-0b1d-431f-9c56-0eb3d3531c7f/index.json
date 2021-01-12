@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T16:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "728dfbfb-0b1d-431f-9c56-0eb3d3531c7f",
+  "labels": "current-affairs,2019-03-23",
+  "question": "What do we call a malicious program that is appended to an application and is triggered by a specific event, such as a logical condition or a specific date and time?",
+  "option1": "Worm",
+  "option2": "Adware",
+  "option3": "Logic bomb",
+  "option4": "Stealth virus",
+  "option5": "",
+  "answer": "Logic bomb",
+  "explanation": "A logic bomb is a type of malicious software that is appended to an application and is triggered by a specific event, such as a logical condition or a specific date and time."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:20.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "0a93871b-5c8c-423c-8b0e-f1834fe2d0c9",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these was the first web browser to handle all HTML 3 features?",
+  "option1": "Cello",
+  "option2": "Erwise",
+  "option3": "UdiWWW",
+  "option4": "Mosaic",
+  "option5": "",
+  "answer": "UdiWWW",
+  "explanation": "UdiWWW was the first web browser that was able to handle all HTML 3 features. UdiWWW was created for the UDINE Project (Universal Document Information and Navigation Environment), which started in 1992."
+}

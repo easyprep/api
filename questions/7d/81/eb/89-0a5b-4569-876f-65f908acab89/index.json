@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "7d81eb89-0a5b-4569-876f-65f908acab89",
+  "labels": "current-affairs,2019-03-19",
+  "question": "With which version of Microsoft Office, the MS OneNote became a core component?",
+  "option1": "Microsoft Office 2007",
+  "option2": "Microsoft Office 2013",
+  "option3": "Microsoft Office 2001",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Microsoft Office 2013",
+  "explanation": "OneNote was initially introduced as a standalone app but it eventually became a core component of Microsoft Office; with the release of Microsoft Office 2013."
+}

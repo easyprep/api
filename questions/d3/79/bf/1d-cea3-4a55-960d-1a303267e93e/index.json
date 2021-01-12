@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T11:19:00.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d379bf1d-cea3-4a55-960d-1a303267e93e",
+  "labels": "current-affairs,2019-03-18",
+  "question": "Why does an oil drop spread over water?",
+  "option1": "Because oil is lighter than water",
+  "option2": "Because oil does not mix with water",
+  "option3": "Because surface tension of oil is much smaller than that of water",
+  "option4": "Because oil is more viscous",
+  "option5": "",
+  "answer": "Because surface tension of oil is much smaller than that of water",
+  "explanation": "The surface tension of the water is more than that of oil.Therefore,when oil is poured over water,the greater value of surface tension of water pulls oil in all directions,and as such it spreads on the water."
+}

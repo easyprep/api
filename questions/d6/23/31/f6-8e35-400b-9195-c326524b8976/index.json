@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:43:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d62331f6-8e35-400b-9195-c326524b8976",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which device is used to measure the speed of wind ?",
+  "option1": "Altimeter",
+  "option2": "Anemometer",
+  "option3": "Calorimeter",
+  "option4": "Chronometer",
+  "option5": "",
+  "answer": "Anemometer",
+  "explanation": "An anemometer is a device used for measuring wind speed, and is also a common weather station instrument. The term is derived from the Greek word anemos, which means wind, and is used to describe any wind speed instrument used in meteorology."
+}

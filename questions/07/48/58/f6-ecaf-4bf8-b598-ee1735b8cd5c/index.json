@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:47:21.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "074858f6-ecaf-4bf8-b598-ee1735b8cd5c",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these layout engines was used in Internet Explorer 4?",
+  "option1": "Trident",
+  "option2": "Servo",
+  "option3": "Blink",
+  "option4": "WebKit",
+  "option5": "",
+  "answer": "Trident",
+  "explanation": "Trident is a browser engine which was developed by Microsoft for use in the Windows versions of Internet Explorer 4 to Internet Explorer 11."
+}

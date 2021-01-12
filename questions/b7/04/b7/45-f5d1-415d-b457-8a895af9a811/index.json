@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-23T14:41:12.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b704b745-f5d1-415d-b457-8a895af9a811",
+  "labels": "current-affairs,2019-03-24",
+  "question": "What is the difference between IMPS and NEFT?",
+  "option1": "IMPS is managed by RBI whereas NEFT is managed by NPCI",
+  "option2": "IMPS is available 24*7 whereas NEFT is available during NEFT business hours",
+  "option3": "NEFT is a real time transfer system whereas IMPS is not",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "IMPS is available 24*7 whereas NEFT is available during NEFT business hours",
+  "explanation": "IMPS is managed by NPCI whereas NEFT is managed by RBI. IMPS is available 24*7 whereas NEFT is available during NEFT business hours. IMPS is a real time transfer system whereas NEFT is not."
+}

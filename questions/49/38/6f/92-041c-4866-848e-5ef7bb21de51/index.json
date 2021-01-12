@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:50:56.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "49386f92-041c-4866-848e-5ef7bb21de51",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following is an e-commerce website?",
+  "option1": "Amazon.com",
+  "option2": "Flipkart.com",
+  "option3": "Alibaba.com",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "An e-commerce site is a site offering goods and services for online sale and enabling online transactions for such sales. Examples are Amazon.com, Flipkart.com and Alibaba.com."
+}

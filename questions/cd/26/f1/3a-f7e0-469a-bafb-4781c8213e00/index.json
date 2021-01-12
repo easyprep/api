@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "cd26f13a-f7e0-469a-bafb-4781c8213e00",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these is a word processor included in MS Office?",
+  "option1": "MS Word",
+  "option2": "MS Powerpoint",
+  "option3": "MS Excel",
+  "option4": "MS Paint",
+  "option5": "",
+  "answer": "MS Word",
+  "explanation": "Microsoft Word is a word processor which is included in Microsoft Office. The first version of Word was released in 1983 and it was for the MS- DOS operating system."
+}

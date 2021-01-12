@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "02e94895-298c-4eb1-aee9-a3a04d7fb308",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the use of 'Ctrl + ;' key combination in MS Excel?",
+  "option1": "Inserts current date",
+  "option2": "Inserts current time",
+  "option3": "Inserts current day",
+  "option4": "Inserts current timestamp",
+  "option5": "",
+  "answer": "Inserts current date",
+  "explanation": "CTRL + ; key combination inserts the current date in the selected cell. When the Ctrl key is pressed with ;(semi colon) key, the current date gets inserted."
+}

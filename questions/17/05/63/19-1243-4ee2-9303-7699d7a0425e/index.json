@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "17056319-1243-4ee2-9303-7699d7a0425e",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is the maximum font size available in MS Word from the dropdown list?",
+  "option1": 36,
+  "option2": 84,
+  "option3": 72,
+  "option4": 110,
+  "option5": "",
+  "answer": 72,
+  "explanation": "The maximum font size available in MS Word from the dropdown list is 72. However, a greater size value for a font can be added manually."
+}

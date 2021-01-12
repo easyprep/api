@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d28f855a-f11e-45c6-a280-1273bf97b8ba",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which function in MS Access gives the number of time intervals between two specified dates?",
+  "option1": "DateInter()",
+  "option2": "DateSub()",
+  "option3": "DateDiff()",
+  "option4": "DaysBetween()",
+  "option5": "",
+  "answer": "DateDiff()",
+  "explanation": "The DateDiff() Function is another very popular date/time function. The DateDiff Function returns a Variant (long), specifying the number of time intervals between two specified dates."
+}

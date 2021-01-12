@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "61d8b5f4-48b2-4afe-b47d-b9e71349e93b",
+  "labels": "current-affairs,2019-03-21",
+  "question": "What does SMS stand for?",
+  "option1": "Short Message service",
+  "option2": "Sim Mobile Service",
+  "option3": "Short Mobile Sim",
+  "option4": "Safe Messaging Service",
+  "option5": "",
+  "answer": "Short Message service",
+  "explanation": "SMS (short message service) is a text messaging service component of most telephone, internet, and mobile-device systems."
+}

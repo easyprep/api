@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-16T18:20:41.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e0357d61-efa6-4d32-8dbf-89e0233e0ff3",
+  "labels": "current-affairs,2019-04-17",
+  "question": "Banking system uses Capital Adequacy Ratio as a very important tool for its operations. Which of the following linked with CAR are correct?\r\n<ol>\r\n<li>Risk-weighted assets are used to determine the minimum amount of capital that must be held by banks and other institutions to reduce the risk of insolvency. </li>\r\n<li>The current Capital Adequacy Ratio stands at 10.875%.</li>\r\n<li>It is used for the protection of depositors and stability in the financial system.</li>\r\n</ol>\r\nSelect the correct option given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The capital adequacy ratio (CAR) is a measurement of a bank\\'s available capital expressed as a percentage of a bank\\'s risk-weighted credit exposures. The capital adequacy ratio, also known as capital-to-risk weighted assets ratio (CRAR), is used to protect depositors and promote the stability and efficiency of financial systems around the world <strong>(1)</strong>. The ratio is usually decided by the Central banks and other bank regulators primarily to put a check on commercial banks to keep enough cushion to be able to manage reasonable losses and prevent from taking excess leverage thereby ultimately becoming insolvent.\r\nIt is calculated by the following formula:\r\nCapital Adequacy Ratio = (Tier I + Tier II + Tier III (Capital funds)) /Risk-weighted assets\r\n<strong>Why in news recently? </strong>Recently Lakshmi Vilas Bank has merged with IndiaBulls Housing Board Finance (IHBF). This will enhance the Capital Adequacy Ratio of Lakshmi Vilas Bank which currently stands at 7.7%.  This merger will boost to reach up to the level of 20% to cross the threshold by Central Bank Regulator (RBI) at 10.875% <strong>(2)</strong>. This merger will help IHBF to gain access to low bank funds which was denied earlier when due to not getting bank licenses."
+}

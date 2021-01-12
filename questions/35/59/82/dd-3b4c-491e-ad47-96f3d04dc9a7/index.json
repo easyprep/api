@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T11:19:00.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "355982dd-3b4c-491e-ad47-96f3d04dc9a7",
+  "labels": "current-affairs,2019-03-18",
+  "question": "What happens when the moon appears between the earth and the sun?",
+  "option1": "Lunar eclipse",
+  "option2": "Solar eclipse",
+  "option3": "Partial Lunar eclipse",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Solar eclipse",
+  "explanation": "When the Moon passes between Sun and Earth, the lunar shadow is seen as a solar eclipse on Earth. A solar eclipse occurs when an observer passes through the shadow cast by the Moon which fully or partially blocks the Sun. This can only happen when the Sun, Moon and Earth are nearly aligned on a straight line in three dimensions during a new moon when the Moon is close to the ecliptic plane."
+}

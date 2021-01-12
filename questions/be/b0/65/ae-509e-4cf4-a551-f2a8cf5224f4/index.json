@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T22:01:57.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "beb065ae-509e-4cf4-a551-f2a8cf5224f4",
+  "labels": "current-affairs,2019-04-02",
+  "question": "In geometry, which figure gets its name from the Greek word for ‘table’?",
+  "option1": "Trapezoid",
+  "option2": "Square",
+  "option3": "Rhombus",
+  "option4": "Circle",
+  "option5": "",
+  "answer": "Trapezoid",
+  "explanation": "The word trapezoid comes from the Greek trapeza meaning \"table\" and -oeides meaning \"shaped.\" Think of a trapezoid as table-shaped. It has a pair of parallel sides that are also known as the bases of the figure."
+}

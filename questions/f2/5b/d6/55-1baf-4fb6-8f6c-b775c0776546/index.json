@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f25bd655-1baf-4fb6-8f6c-b775c0776546",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is Microsoft Project's proprietary file format?",
+  "option1": ".map",
+  "option2": ".msp",
+  "option3": ".mpp",
+  "option4": ".mop",
+  "option5": "",
+  "answer": ".mpp",
+  "explanation": "Microsoft Project is a project management software product that is developed and sold by Microsoft. Microsoft Project's proprietary file format is .mpp."
+}

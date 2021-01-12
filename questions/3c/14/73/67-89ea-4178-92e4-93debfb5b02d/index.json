@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "3c147367-89ea-4178-92e4-93debfb5b02d",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the key combination is used to move to the bottom of the column in MS Excel?",
+  "option1": "Ctrl + D",
+  "option2": "Ctrl + U",
+  "option3": "Ctrl + Down Arrow",
+  "option4": "Ctrl + End",
+  "option5": "",
+  "answer": "Ctrl + Down Arrow",
+  "explanation": "When the Ctrl key is pressed with the Down Arrow, the last cell of the column gets activated. It is a shortcut to move to the bottom of the column in MS Excel."
+}

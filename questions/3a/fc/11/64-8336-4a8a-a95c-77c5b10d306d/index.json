@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:44.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "3afc1164-8336-4a8a-a95c-77c5b10d306d",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these HTML editors was a part of MS Office 2003?",
+  "option1": "Dreamweaver",
+  "option2": "Microsoft FrontPage",
+  "option3": "Notepad++",
+  "option4": "SharePoint Designer",
+  "option5": "",
+  "answer": "Microsoft FrontPage",
+  "explanation": "Microsoft FrontPage was a WYSIWYG HTML editor and website administration tool. It was included as part of the Microsoft Office suite from 1997 to 2003."
+}

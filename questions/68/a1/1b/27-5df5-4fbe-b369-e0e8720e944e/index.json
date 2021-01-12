@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "68a11b27-5df5-4fbe-b369-e0e8720e944e",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which button in MS Excel is clicked to calculate the sum of a series of numbers?",
+  "option1": "Autosum",
+  "option2": "Fill",
+  "option3": "Merge",
+  "option4": "Insert",
+  "option5": "",
+  "answer": "Autosum",
+  "explanation": "When AutoSum option is clicked in MS Excel, it automatically enters a formula (that uses the SUM function) to sum the numbers."
+}

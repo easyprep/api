@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-01T22:01:42.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "ebc99a9c-a598-4af0-b734-797b02a4600a",
+  "labels": "current-affairs,2019-04-02",
+  "question": "Longitudinal waves cannot travel through which of the following?",
+  "option1": "Liquid",
+  "option2": "Fixed dimension",
+  "option3": "Vacuum",
+  "option4": "Gas",
+  "option5": "",
+  "answer": "Vacuum",
+  "explanation": "Longitudinal waves are waves in which the displacement of the medium is in the same direction as, or the opposite direction to, the direction of propagation of the wave. Longitudinal waves cannot travel in vacuum."
+}

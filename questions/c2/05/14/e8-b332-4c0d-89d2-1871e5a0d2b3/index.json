@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "c20514e8-b332-4c0d-89d2-1871e5a0d2b3",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of the following feature is not available in MS Word?",
+  "option1": "Mail Merge",
+  "option2": "Tables",
+  "option3": "PHP coding",
+  "option4": "WYSIWYG editing",
+  "option5": "",
+  "answer": "PHP coding",
+  "explanation": "PHP coding is not supported in MS Word. It is a word processing software and cannot decode programming languages like PHP."
+}

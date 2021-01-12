@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T11:19:00.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e124f21f-1b22-4e1f-a68a-05a06cf0c8e4",
+  "labels": "current-affairs,2019-03-18",
+  "question": "Which of the following is the smallest known prokaryotic organism?",
+  "option1": "Mycoplasma",
+  "option2": "Bacteria",
+  "option3": "Chlorella",
+  "option4": "Microcystis",
+  "option5": "",
+  "answer": "Mycoplasma",
+  "explanation": "Mycoplasma genitalium, a parasitic bacterium which lives in the primate bladder, waste disposal organs, genital, and respiratory tracts, is thought to be the smallest known organism capable of independent growth and reproduction."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T11:25:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1c443e35-263a-4874-bfc0-8bf90cc1eab0",
+  "labels": "current-affairs,2019-03-18",
+  "question": "Which of the following input devices is used for converting pictures, maps and drawings into digital form storage in computers?",
+  "option1": "OCR",
+  "option2": "Digitizer",
+  "option3": "OMR",
+  "option4": "MICR",
+  "option5": "",
+  "answer": "Digitizer",
+  "explanation": "Digitizer is an Input Device that use a special ink that is used for converting pictures, maps and drawings into digital format. The digitizer is used for digitizing pictures, maps and drawings into digital form for storage in computers. It is used in CAD by architects and engineers."
+}

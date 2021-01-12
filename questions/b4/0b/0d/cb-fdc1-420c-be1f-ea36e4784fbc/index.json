@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:31:41.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "b40b0dcb-fdc1-420c-be1f-ea36e4784fbc",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these is a shortcut to add a border to the selected cell in MS Excel?",
+  "option1": "CTRL + Shift + /",
+  "option2": "CTRL + Shift + &",
+  "option3": "ALT + Shift + /",
+  "option4": "ALT + Shift + B",
+  "option5": "",
+  "answer": "CTRL + Shift + &",
+  "explanation": "CTRL + Shift + & is used to add a border to the selected cell in MS Excel. It is a shortcut to add border to the active cell."
+}

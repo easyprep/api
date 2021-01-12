@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-04-12T21:00:19.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1a5661ef-ddb8-40f5-89a6-80beac382df0",
+  "labels": "current-affairs,2019-04-13",
+  "question": "Which of the following telescopes has captured the first-ever Black hole image?",
+  "option1": "James Webb Space",
+  "option2": "Hubble",
+  "option3": "EHT",
+  "option4": "Spitzer Space",
+  "option5": "",
+  "answer": "EHT",
+  "explanation": "Astronomers have captured  the first-ever image of a black hole, which is located in a distant galaxy known as ‘Messier 87’ (M87), through a network of 8 linked radio telescopes known as the Event Horizon Telescope (EHT) Collaboration. The black hole in the centre of M87 has a mass of more than six billion solar masses. The picture shows an intensely bright ‘ring of fire’ surrounding a perfectly circular dark hole.  MIT Computer scientist Dr. Katie Bouman has been credited for developing an algorithm that allowed the world to see what a black hole actually looks like. The EHT is a consortium of more than 200 scientists that has been in the works for about two decades. The EHT telescope achieved the necessary firepower by combining data from 8 of the world’s leading radio observatories, including the Atacama Large Millimetre Array (Alma) in Chile and the South Pole Telescope and created an effective telescope size of the Earth. Black holes were first predicted by Einstein’s theory of relativity and now, the first black hole photo confirms his theory. A black hole is a region of space whose mass is so large and dense that not even light can escape its gravitational attraction."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:29:51.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f9c78411-9b57-4dc7-8f89-6075b5015f13",
+  "labels": "current-affairs,2019-03-26",
+  "question": "Who invented vaccination for small pox?",
+  "option1": "Sir Frederick Grant Banting",
+  "option2": "Sir Alexander Fleming",
+  "option3": "Edward Jenner",
+  "option4": "Loius Pasteur",
+  "option5": "",
+  "answer": "Edward Jenner",
+  "explanation": "Edward Jenner was an English country doctor who introduced the vaccine for smallpox. Previously a keen practitioner of smallpox inoculation, Jenner took the principle a stage further by inducing immunity against this killer disease via exposure to a harmless related disease, cowpox."
+}

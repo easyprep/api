@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-22T15:53:10.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "1490b6c0-a777-4e60-bd1f-f89780fd89dd",
+  "labels": "current-affairs,2019-03-23",
+  "question": "Which one of the following has the highest wind velocity?",
+  "option1": "Typhoon",
+  "option2": "Hurricane",
+  "option3": "Cyclone",
+  "option4": "Tornado",
+  "option5": "",
+  "answer": "Tornado",
+  "explanation": "A tornado is a rapidly rotating column of air that is in contact with both the surface of the Earth and a cumulonimbus cloud or, in rare cases, the base of a cumulus cloud. It has the highest wind velocity."
+}

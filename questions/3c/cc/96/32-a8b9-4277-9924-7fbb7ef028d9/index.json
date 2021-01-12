@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T13:50:56.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "3ccc9632-a8b9-4277-9924-7fbb7ef028d9",
+  "labels": "current-affairs,2019-03-19",
+  "question": "What is meant by DOM?",
+  "option1": "Data Object Model",
+  "option2": "Document Object Model",
+  "option3": "Data Organisation Model",
+  "option4": "Document Organisation Markup",
+  "option5": "",
+  "answer": "Document Object Model",
+  "explanation": "DOM means Document Object Model. It represents the page so that programs can change the document structure, style, and content."
+}

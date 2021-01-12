@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "56ec97db-6b8b-419b-a419-823e840469ee",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which protocol is used for fetching e-mail from a mailbox?",
+  "option1": "FTP",
+  "option2": "POP3",
+  "option3": "HTTP",
+  "option4": "IMAP",
+  "option5": "",
+  "answer": "POP3",
+  "explanation": "POP3 is a client/server protocol in which e-mail is received and held by the Internet server. Periodically, the mail-box is checked on the server and download any mail, probably using POP3."
+}

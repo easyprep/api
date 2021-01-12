@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f0ad56ff-0517-4e6a-8614-f6ff96f27b89",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these MS Office product is an upgrade of Microsoft's Skype for Business?",
+  "option1": "Microsoft Teams",
+  "option2": "Microsoft Project",
+  "option3": "Microsoft Publisher",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Microsoft Teams",
+  "explanation": "Microsoft Teams is a unified communications platform that combines features like workplace chat, video meetings, file storage and application integration. It is considered as an upgrade from Microsoft Skype for Business."
+}

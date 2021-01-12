@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:23:40.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "3118f903-2b87-42e8-aea0-9c814d2c6180",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which key is used to use the spellcheck tool in MS Word?",
+  "option1": "F5",
+  "option2": "F6",
+  "option3": "F7",
+  "option4": "F8",
+  "option5": "",
+  "answer": "F7",
+  "explanation": "The F7 key s used to run the spellcheck and grammar check on the selected text or document. It’s a quick way to run spell check using the only the keyboard."
+}

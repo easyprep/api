@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-25T15:33:58.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "d26082a6-7e95-4fb0-8663-7b76d3c87ef6",
+  "labels": "current-affairs,2019-03-26",
+  "question": "What is complete form of 'IC' in electronics?",
+  "option1": "Internal circuit",
+  "option2": "Independent circuit",
+  "option3": "Integrated circuit",
+  "option4": "Inbuilt circuit",
+  "option5": "",
+  "answer": "Integrated circuit",
+  "explanation": "An integrated circuit or monolithic integrated circuit is a set of electronic circuits on one small flat piece of semiconductor material that is normally silicon."
+}

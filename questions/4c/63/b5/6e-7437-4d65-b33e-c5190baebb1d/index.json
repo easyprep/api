@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "4c63b56e-7437-4d65-b33e-c5190baebb1d",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which of these is not an email service provider?",
+  "option1": "Yahoo",
+  "option2": "Rediff",
+  "option3": "WhatsApp",
+  "option4": "Hotmail",
+  "option5": "",
+  "answer": "WhatsApp",
+  "explanation": "Gmail, Yahoo, Rediff, Hotmail, Outlook are some of the email service providers. WhatsApp is an instant messaging mobile application."
+}

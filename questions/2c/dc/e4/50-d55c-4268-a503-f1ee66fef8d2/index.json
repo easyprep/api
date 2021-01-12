@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-23T14:41:12.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "2cdce450-d55c-4268-a503-f1ee66fef8d2",
+  "labels": "current-affairs,2019-03-24",
+  "question": "What serviced do BHIM mobile app offer?",
+  "option1": "Transfer money through VPA",
+  "option2": "Transfer money through account number",
+  "option3": "Balance Enquiry",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "You can make direct bank payments to anyone on UPI using their UPI ID or scanning their QR with the BHIM app or via their account numbers. Money can be requested through the BHIM app from a UPI ID. Balance in the account can be checked too."
+}

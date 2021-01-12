@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T22:21:43.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "cbf1b3c9-3373-4470-8632-ba14660e884b",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which of these programs is a spreadsheet editor?",
+  "option1": "MS Access",
+  "option2": "MS Project",
+  "option3": "MS Excel",
+  "option4": "MS Onenote",
+  "option5": "",
+  "answer": "MS Excel",
+  "explanation": "MS Excel a spreadsheet editor that was first released in 1985 for Mac OS. The first Windows version (numbered 2.05 to line up with the Mac) was launched in November 1987."
+}

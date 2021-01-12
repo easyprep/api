@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-18T15:54:13.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "f87db24f-fa56-4416-bf24-b5a664b132c9",
+  "labels": "current-affairs,2019-03-19",
+  "question": "Which key combination can make the Windows operating system reboot?",
+  "option1": "Ctrl + F10",
+  "option2": "Ctrl + Alt",
+  "option3": "Ctrl + Alt + Del",
+  "option4": "Ctrl + F12",
+  "option5": "",
+  "answer": "Ctrl + Alt + Del",
+  "explanation": "Ctrl-Alt-Delete is the combination of keyboard keys in MS Windows that the computer user can press at the same time to terminate an application task or to reboot the operating system."
+}

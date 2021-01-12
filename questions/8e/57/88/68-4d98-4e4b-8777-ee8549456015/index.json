@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-20T18:52:53.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "8e578868-4d98-4e4b-8777-ee8549456015",
+  "labels": "current-affairs,2019-03-21",
+  "question": "Which of the following is the correct format for an email?",
+  "option1": "abc.com",
+  "option2": "abc@def.com",
+  "option3": "www.abc.email",
+  "option4": "abc@def",
+  "option5": "",
+  "answer": "abc@def.com",
+  "explanation": "The general format of an email address is local-part@domain.. An address consists of two parts. The part before the @ symbol (local-part) identifies the name of a mailbox."
+}

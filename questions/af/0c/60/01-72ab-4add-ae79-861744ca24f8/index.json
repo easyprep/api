@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-17T20:07:58.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "af0c6001-72ab-4add-ae79-861744ca24f8",
+  "labels": "current-affairs,2019-03-18",
+  "question": "Which IIT has signed a pact with C-DAC to build India's first state-of-the-art 1.3 PetaFlop High-Performance Computing facility?",
+  "option1": "IIT Kanpur",
+  "option2": "IIT Kharagpur",
+  "option3": "IIT Indore",
+  "option4": "IIT Madras",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "The IIT Kharagpur has signed a MoU with Centre for Development of Advanced Computing (C-DAC) to set up India\\'s first state-of-the-art 1.3 PetaFlop high performance computing facility and data center funded under the National Supercomputing Mission. PetaFlop is the measurement of computing power based on the frequency of mathematical calculations that can be done per second. This computing facility will provide large-scale computational support to the researchers, who are engaged in research activities in diverse areas of national importance. It will be used for specific challenge domains like cryptography, molecular dynamics, chemistry, drug discovery, artificial intelligence (AI) and data sciences. The facility is expected to come up in the next 3-4 months with the work to be carried in three phases of - \\'assembling, assembling and manufacturing and design and manufacturing. C-DAC is a premier R&D organisation of the Ministry of Electronics and Information Technology (MeitY)."
+}

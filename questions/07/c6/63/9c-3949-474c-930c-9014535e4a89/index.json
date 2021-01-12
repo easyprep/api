@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-13T21:37:23.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "07c6639c-3949-474c-930c-9014535e4a89",
+  "labels": "current-affairs,2019-03-14",
+  "question": "Which space observatory has been used by Indian astronomers to identify a new group of stars in the globular cluster NGC 2808?",
+  "option1": "Euclid",
+  "option2": "AstroSat",
+  "option3": "IXPE",
+  "option4": "Athena",
+  "option5": "",
+  "answer": "AstroSat",
+  "explanation": "By using Indian multi-wavelength space observatory AstroSat, the astronomers from Thiruvananthapuram and Mumbai have identified a new population of ultraviolet stars in the globular cluster NGC 2808. Globular clusters are collections of thousands to millions of stars, moving as one unit. These stars are tightly held together by gravity of the cluster itself, and are believed to have formed together at roughly the same time. The NGC 2808 is one of the most massive globular clusters that we know of, and is located at a distance of 47,000 light years from us. This cluster was observed by the team of researchers using the UltraViolet Imaging Telescope (UVIT) on-board AstroSat. So far, AstroSat has taken images of over 2,000 individual stars in NGC 2808 through various ultraviolet filters. AstroSat is the India’s first dedicated multi wavelength space observatory. It was launched in September 2015. It orbits in low earth equatorial orbit at altitude of 650 km and has mission life of 5 years. It observes universe in the optical, Ultraviolet (UV), low and high energy X-ray regions of the electromagnetic spectrum."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "e2aba669-f089-4071-8a59-8f2faacc66a4",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which of these MS Access functions check whether the expression is a Null value?",
+  "option1": "Null()",
+  "option2": "IsNull()",
+  "option3": "Zero()",
+  "option4": "IsZero()",
+  "option5": "",
+  "answer": "IsNull()",
+  "explanation": "The IsNull() function checks whether the expression is a Null value. This function returns a Boolean value whether the value is true or false."
+}

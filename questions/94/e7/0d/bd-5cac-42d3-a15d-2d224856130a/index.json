@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-19T17:56:06.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "94e70dbd-5cac-42d3-a15d-2d224856130a",
+  "labels": "current-affairs,2019-03-20",
+  "question": "Which of the following functions in MS Access is used to reverse the string?",
+  "option1": "StrRev()",
+  "option2": "StrReverse()",
+  "option3": "StringRev()",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "StrReverse()",
+  "explanation": "The StrReverse() function reverses a string and returns the result. The format to use this function is 'SELECT StrReverse(\"a string\") AS StringReverse'."
+}

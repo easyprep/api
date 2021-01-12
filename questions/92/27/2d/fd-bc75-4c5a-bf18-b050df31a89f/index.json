@@ -1,0 +1,14 @@
+{
+  "created_at": "2019-03-14T21:10:36.000Z",
+  "updated_at": "2021-01-06T08:24:38.299Z",
+  "id": "92272dfd-bc75-4c5a-bf18-b050df31a89f",
+  "labels": "current-affairs,2019-03-15",
+  "question": "Which of the following organizations has decided to inject liquidity via forex swaps?",
+  "option1": "IRDA",
+  "option2": "NABARD",
+  "option3": "RBI",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Reserve Bank of India (RBI) has decided to inject rupee liquidity into the system through long-term foreign exchange buy/sell swap — a first-of-its-kind instrument used for liquidity management. The RBI would conduct dollar-rupee buy/sell swap auction of $5 billion for tenor of 3 years on March 26 to inject rupee liquidity for longer duration. Under the buy/sell foreign exchange swap, a bank will sell US dollars to the RBI and simultaneously agree to buy the same amount of US dollars at the end of the swap period. The liquidity generated due to the buy/sell USD/INR swap auction could support credit growth and soften bond yields.  The move is seen to lower the dependence on open market operations which have been a significant amount of the overall borrowing. According to RBI, the market participants would be required to place their bids in terms of the premium that they are willing to pay to the Reserve Bank for the tenor of the swap, expressed in paisa terms up to two decimal places. The auction cut-off would be based on the premium. The auction would be a multiple-price based auction -- successful bids will get accepted at their respective quoted premium."
+}
