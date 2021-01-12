@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "19cebd3c-acd8-492d-a0b1-ea39f9ddb174",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following places in news with their countries: <ol> <li>Molenbeek - Syria</li> <li>Ramadi - Iraq</li> <li>Palmyra - Syria</li> </ol> Which of the above is/are correctly matched?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "<strong>Molenbeek</strong>, is one of 19 municipalities in the Brussels-Capital Region (Belgium).<br> In 2015, the municipality gained international attention as the base of numerous Islamic terrorists, who carried out attacks in both France and Belgium."
+}

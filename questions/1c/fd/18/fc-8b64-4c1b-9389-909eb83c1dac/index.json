@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "1cfd18fc-8b64-4c1b-9389-909eb83c1dac",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, the Securities and Exchange Board of India (SEBI), issued new norms for Real Estate Investment Trusts (REITs), allowing the public issue of maximum 75 per cent to Qualified Institutional Buyers (QIBs) and at least 25 per cent to other investors. Who among the following may fall in the category of Qualified Institutional Buyer? <ol> <li>Pension Funds</li> <li>Mutual Funds</li> <li>Individuals with certain networth</li> <li>Scheduled Commercial Banks</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "SEBI is the regulator of capital market in India while RBI is the regulator of money market in India. Qualified institutional investors are investors are institutions and not individuals who invest in primary market in India. As per SEBI documents Qualified Institutional Buyers are those institutional investors who are generally perceived to possess expertise and the financial muscle to evaluate and invest in the capital markets. In terms of clause 2.2.2B (v) of DIP Guidelines, a `Qualified Institutional Buyer&#039; shall mean: <ul> <li>Public financial institution as defined in section 4A of the Companies Act, 1956;</li> <li>Scheduled commercial banks;</li> <li>Mutual funds;</li> <li>Foreign institutional investor registered with SEBI;</li> <li>Multilateral and bilateral development financial institutions;</li> <li>Venture capital funds registered with SEBI.</li> <li>Foreign Venture capital investors registered with SEBI.</li> <li>State Industrial Development Corporations.</li> <li>Insurance Companies registered with the Insurance Regulatory and Development Authority (IRDA).</li> <li>Provident Funds with minimum corpus of Rs. 25 crore</li> <li>Pension Funds with minimum corpus of Rs. 25 crore.</li> </ul> These entities are not required to be registered with SEBI as QIBs. Any entities falling under the categories specified above are considered as QIBs for the purpose of participating in primary issuance process.<br>"
+}

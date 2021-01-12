@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "01c742ab-4825-42aa-b299-b45f2426d7ec",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: <ol> <li>Stamp Duty</li> <li>Taxes on the consumption or sale of electricity</li> <li>Taxes on agricultural income</li> </ol> Which among the above is/are levied by state government in India?",
+  "option1": "1 Only",
+  "option2": "1 and 3 Only",
+  "option3": "1 and 2 Only",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Agricultural income is tax free from central government.Constitution allows States to tax agriculture; the Centre does not levy any tax on farm income. While central government levies stamp duty in respect of some instruments like bills of exchange, cheques, promissory notes etc. Any sale or transfer of property involves payment of stamp duty, which can be levied by state government. Taxes on sale and consumption of electricity are levied by state government."
+}

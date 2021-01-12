@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "730e3c1b-5bc6-4c6f-a13c-efec0d5db450",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following differences between the Bio-amplification and Bio-concentration:\r\n<ol>\r\n<li>Bio-concentration occurs within an organism, Bio-amplification occurs across food chain</li>\r\n<li>Bio-concentration pertains to inorganic substances such as metals, Bio-amplification pertains to organic persistent chemicals</li>\r\n</ol>\r\nWhich among the above is/ are correct?",
+  "option1": "Only 1 is correct",
+  "option2": "Only 2 is correct",
+  "option3": "Both 1 & 2 are correct",
+  "option4": "Both 1 & 2 are incorrect",
+  "option5": "",
+  "answer": "Only 1 is correct",
+  "explanation": "Bioaccumulation occurs within a trophic level, and is the increase in concentration of a substance in certain tissues of organisms’ bodies due to absorption from food and the environment. Bioconcentration is defined as occurring when uptake from the water is greater than excretion. So, bioconcentration and bioaccumulation occur within an organism, and biomagnification occurs across trophic (food chain) levels. Biodilution is also a process that occurs to all trophic levels in an aquatic environment; it is the opposite of biomagnification, thus a pollutant gets smaller in concentration as it progresses up a food web."
+}

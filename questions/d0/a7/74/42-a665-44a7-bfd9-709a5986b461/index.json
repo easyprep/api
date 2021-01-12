@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:50.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "d0a77442-a665-44a7-bfd9-709a5986b461",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Coalition for Epidemic Preparedness and Innovations (CEPI): <ol> <li>It is an initiative of World Health Organization (WHO)</li> <li>It aims to finance and coordinate the development of new vaccines</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because CEPI is currently being steered by five founding partners. They are: Department of Biotechnology, Ministry of Science &amp; Technology, GOI; Government of Norway; Wellcome Trust; Bill &amp; Melinda Gates Foundation; and World Economic Forum. Second statement is correct because it aims to finance and coordinate the development of new vaccines and contain infectious disease epidemics."
+}

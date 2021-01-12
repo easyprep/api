@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:48.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "7c492886-f780-497d-b5e5-4d06cf07f5b1",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Aadhaar Enabled Payment System (AEPS): <ol> <li>It is an initiative of National Payments Corporation of India (NPCI)</li> <li>It functions through the National Financial Switch</li> <li>It can be used for Interbank Mobile Payment Service (IMPS)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All given statements are correct<br> AEPS is a bank led model which allows online interoperable financial transaction at PoS (Point of Sale/Micro ATM) through the Business Correspondent.<br> The only inputs required for a customer to do a transaction under this scenario are:- <ul> <li>IIN (Identifying the Bank to which the customer is associated)</li> <li>Aadhaar Number</li> <li>Fingerprint captured during enrollment</li> </ul>"
+}

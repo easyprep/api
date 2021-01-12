@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "1e2ff50b-4e1e-4d80-82ff-685b19702ac9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Railwire Saathi project: <ol> <li>It is an initiative by the Indian Railway Stations Development Corporation Limited (IRSDC)</li> <li>It aims to provide railway stations in India with high-speed public Wi-Fi service</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the project is an initiative of the RailTel Corporation of India Limited (RailTel), a Government of India enterprise. Second statement is correct because the project aims to provide almost 7000 railway stations in India with high-speed public Wi-Fi service."
+}

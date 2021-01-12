@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:03.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "5b9f9c26-ebb9-41a6-bc84-1b94944e8a97",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is a correct decreasing order?",
+  "option1": "Repo Rate >Marginal Standing Facility > Reverse Repo Rate",
+  "option2": "Marginal Standing Facility >Repo Rate >Reverse Repo Rate",
+  "option3": "Reverse Repo Rate > Marginal Standing Facility >Repo Rate",
+  "option4": "Reverse Repo Rate> Repo Rate> Marginal Standing Facility",
+  "option5": "",
+  "answer": "Marginal Standing Facility >Repo Rate >Reverse Repo Rate",
+  "explanation": "Kindly remember that MSF is highest while Reverse Repo is lowest among these three while Repo remains in Middle."
+}

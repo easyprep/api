@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:00.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b94595d6-1460-40d5-b11c-2c9a8d57e4e4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the UJALA scheme: <ol> <li>The scheme aims for reduction of  daily CO<sub>2 </sub>emission </li> <li>The scheme is being implemented by the Energy and Resources Institute</li> <li>Under this scheme, the government provides LED bulbs to households at one third the market price</li> </ol> Which of the above is / are correct statements?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "<u>Second statement is incorrect</u> because the scheme will be implemented by Energy Efficiency Services Limited (EESL) across rural and urban areas of the country."
+}

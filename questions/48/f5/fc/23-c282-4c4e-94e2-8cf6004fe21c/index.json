@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "48f5fc23-c282-4c4e-94e2-8cf6004fe21c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>Colonel in the Indian army is equivalent to Captain in Indian Navy</li> <li>Major in the Indian army is equivalent to Commodore in Indian Navy</li> </ol> Which of the above is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "[table id=176 /]"
+}

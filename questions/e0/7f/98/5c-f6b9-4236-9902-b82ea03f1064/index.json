@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:57.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "e07f985c-f6b9-4236-9902-b82ea03f1064",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Both Panchayats and Municipalities have been discussed under Directive Principles of State Policy<br> 2. Both Panchayats and Municipalities come under the definition of &#8216;state&#8217; under Article 12 of the Indian Constitution<br> Which among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "While the Directive Principles of State Policy refer to village Panchayats, there is no specific reference to Municipalities except the implicity in Entry 5 of the State List, which places the subject of local self-governments as a responsibility of the states. According to Article 12 of the Indian Constitution, the term ‘state’ includes:- (1) the Government and Parliament of India; (2) the Government and the Legislature of the State; (3)all local authorities; and (4)other authorities within the territory of India, or under the control of the Central Government."
+}

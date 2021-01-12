@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:57.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "7ce10d2f-2215-4a50-bda9-c5a318afe88f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The members of the Constituent Assembly included the following:<br> 1. Directly elected members<br> 2. Indirectly elected members<br> 3. Nominated members<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Members of the constituent assembly were elected by the Legislatures of various provinces (i.e. indirect election) and nominated by the rulers of the princely states."
+}

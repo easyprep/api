@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:53.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b6be2322-930f-404c-a467-80569e003431",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following: 1. Oxides of Sulphur 2. Oxides of Carbon 3. Oxides of Nitrogen 4. Ground Level Ozone Which among the above have been included in the Air Quality Index (AQI) scheme?",
+  "option1": "1, 2 & 3",
+  "option2": "2, 3 & 4",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "AQI scheme was launched on October 17, 2014 for inviting public comments. AQI scheme comprises of six categories, namely Good, Satisfactory, Moderately polluted, Poor, Very Poor, and Severe with different colour codes. It considers eight pollutants (PM10, PM2.5, NO2, SO2, CO, O3, NH3, and Pb) for which short-term (up to 24-hourly averaging period) National Ambient Air Quality Standards are prescribed. Based on the measured ambient concentrations, corresponding standards and likely health impact, a sub-index is calculated for each of these pollutants. The worst sub-index reflects overall AQI. Information on likely health impacts for these categories is also provided"
+}

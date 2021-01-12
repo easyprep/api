@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:05.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "e364fac5-fe42-476e-901f-9d6516f6f106",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following schemes:<br> 1.MGNREGA<br> 2.Pradhan Mantri Gramin Sadak Yojana<br> 3.Indira Awas Yojana<br> Currently, conducting social audit is compulsory for which of the above schemes?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "At present social audit is conducting only for Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). Recently, the rural development ministry has proposed social audit of all its government-run welfare schemes and asked the Centre to set up a Rs 2,000 crore dedicated fund for the task."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:50.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "7aabc2e3-4e92-414a-ab12-27e47ee92a52",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The term HIMANSH, which was recently making news, is: <ol> <li>a high altitude research station in Himalaya</li> <li>located in the remote region in Lahaul-Spiti district of Himachal Pradesh</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "First statement is incorrect because HIMANSH is a high altitude research station in Himalaya. Second statement is correct because the research station is located in the remote region in Lahaul-Spiti district of Himachal Pradesh. The research station has been established under the Ministry of Earth Sciences."
+}

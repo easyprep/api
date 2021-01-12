@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "ffdb02bc-42ba-4fa2-b2c8-e6bdb2b32d6f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the 2016 Summer Olympics: <ol> <li>Kosovo and South Sudan will participate for the first time in Olympics</li> <li>Brazil is the first country in South America to host a summer Olympics</li> <li>Mascot for the Olympics is Vinicius which represents Brazilian wildlife</li> <li>Golf will be played for the first time in Olympics</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "Fourth statement is incorrect because Golf was earlier played in summer Olympics of 1904. All other given statements are correct."
+}

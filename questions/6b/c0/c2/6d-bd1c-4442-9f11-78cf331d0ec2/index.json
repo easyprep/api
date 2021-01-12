@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:02.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "6bc0c26d-bd1c-4442-9f11-78cf331d0ec2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> <strong> Bilateral Exercise : Participating countries</strong> <ol> <li>CORPAT 2015 : India and Japan</li> <li>Indra-2015 : India and Russia</li> <li>Hand in Hand 2015 : India and China</li> </ol> Which of the above pairs is/are correctly matched?",
+  "option1": "2 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "First pair is wrong because CORPAT 2015 is between India and Indonesia."
+}

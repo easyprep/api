@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "cd084b7a-5296-4cf4-ab4e-b07082c1d1f5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Foreign Direct Investment Confidence Index, 2017: <ol> <li>The Index is published by the World Bank</li> <li>India has been ranked second in the index published for 2017</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "The US topped the list with Germany and China at the second and third spot. India was ranked 8<sup>th</sup> in the report. AT Kearney, a London based consulting firm, constructs the Index using the primary data from a proprietary survey administered to senior executives of the world&rsquo;s leading corporations. The Index makes analysis of how political, economic, and regulatory changes will likely affect FDI inflows into countries in the coming years."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "9cabfbb3-79ab-4a54-9ab2-c297ad2e3d1f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following crops is most water intensive than other crops?",
+  "option1": "Cotton",
+  "option2": "Sugarcane",
+  "option3": "Rice",
+  "option4": "Soybean",
+  "option5": "",
+  "answer": "Cotton",
+  "explanation": "Typical water requirement (in litres) per kilogram of crop<br />Cotton  -  7,000 – 29,000<br />Rice  - 3,000 – 5,000<br />Sugar Cane  -  1,500-3,000<br />Soya  -  2,000<br />Wheat  -  900"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "c7cccb57-f97d-4849-99e2-756fc4a9220d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about recently approved country’s first National Civil Aviation Policy: <ol> <li>The policy has scrapped the 5/20 rule</li> <li>The policy has introduced regional connectivity fund</li> <li>The policy has introduced tax incentives for airlines operating on unserved routes</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All given statements are features of National civil aviation policy"
+}

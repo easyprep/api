@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "3f394c66-d81d-42c9-8b13-be85ae72f24d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Mulching as a farming practice is helpful in which among the following?<br> 1. Seed germination<br> 2. Improvement of soil structure<br> 3. Increasing soil fertility<br> 4. Moisture conservation<br> 5. Control of pests<br> Select the correct option from the codes given below:",
+  "option1": "Only 1, 2, 3 & 5",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2, 3 & 4",
+  "option4": "Only 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "Only 2, 3, 4 & 5",
+  "explanation": "First statement should be paid attention. Mulch retards the heating of the soil by the sun, which can inhibit the germination of seeds and the growth of seedlings in early Spring."
+}

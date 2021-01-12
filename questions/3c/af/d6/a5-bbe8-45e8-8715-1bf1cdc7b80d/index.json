@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:07.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "3cafd6a5-bbe8-45e8-8715-1bf1cdc7b80d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Cabinet Committee on Security (CCS): <ol> <li>The committee is chaired by the Home Minister</li> <li>The committee is responsible for decisions on external as well as internal security</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "<u>First statement is incorrect</u>. Cabinet Committee on Security (CCS) is chaired by the Prime Minister of India and not by the Defence Minister. The committee also comprises of the Minister of Defence, the Minister of Home Affairs and Minister of External Affairs. <u>Second statement is correct</u>. The committee is responsible for decisions on external as well as internal security."
+}

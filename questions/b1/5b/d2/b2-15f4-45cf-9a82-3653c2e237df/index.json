@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b15bd2b2-15f4-45cf-9a82-3653c2e237df",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Central Board of Film Certification: <ol> <li>It is a statutory body</li> <li>It serves under the Ministry of Information and Broadcasting</li> <li>Its decision on matters related to clearance of a film can be challenged only in Supreme Court</li> </ol> Which of the above statements is/are correct?<br>",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1 & 2 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Third statement is incorrect because the decision of Central Board of Film Certification can be challenged even in High Courts. Recent example is in case of Udta Punjab.<br>"
+}

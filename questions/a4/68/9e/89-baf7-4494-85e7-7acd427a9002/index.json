@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:06.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "a4689e89-baf7-4494-85e7-7acd427a9002",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Identify the vessel with the help of given information: <ol> <li>It is a 55-foot sailing vessel constructed in India by M/s Aquarius Shipyard Pvt Ltd, Goa.</li> <li>It is the second sailboat of Indian Navy that was inducted into the Navy in February 2017</li> <li>It has a mast of 25 metres which has been custom-built by a South Africa manufacturing concern </li> </ol> Select the correct answer from options given below:",
+  "option1": "INSV Tarini",
+  "option2": "INSV Mhadei",
+  "option3": "INS Nireekshak",
+  "option4": "INS Varuna",
+  "option5": "",
+  "answer": "INSV Tarini",
+  "explanation": "All given features are of INSV Tarini. INSV Tarini: <ul> <li>is a 55-foot sailing vessel has been built in India by M/s Aquarius Shipyard Pvt Ltd, Goa</li> <li>was inducted into the Indian Navy recently in February 2017</li> <li>is the sister vessel of INSV Mhadei</li> <li>has a mast of 25 meters which has been custom-built by a South Africa manufacturing concern for sailing in extreme conditions</li> <li>carries a suite of six sails, including a main sail, head sails (Genoa and stay sails), downwind sails and storm sail</li> <li>has Raymarine navigation suite and an array of satellite communication systems for perfect navigation anywhere in the world</li> </ul>"
+}

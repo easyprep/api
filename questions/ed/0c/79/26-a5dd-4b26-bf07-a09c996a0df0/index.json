@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "ed0c7926-a5dd-4b26-bf07-a09c996a0df0",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Spirullina is a green algae that is cultivated commercially for its food value<br> 2. The protein obtained from Spirullina is superior to proteins obtained from milk or egg<br> Which of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "First statement is incorrect because Spirullina is a blue green algae and not green algae. Second statement is also incorrect. Dried spirulina contains about 60% (51–71%) protein. It is a complete protein containing all essential amino acids, though with reduced amounts of methionine, cysteine and lysine when compared to the proteins of meat, eggs and milk. It is, however, superior to typical plant protein, such as that from legumes. [wikipedia]"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "f79a9700-67b2-461d-bf73-0a92bd3838d2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, Landfill gases (LFG) have been making news with reference to their influence on climate change. Consider the following statements with this reference:\r\n<ol>\r\n<li>Landfill gas has mostly composed of Methane and Carbon Dioxide</li>\r\n<li>Landfill gas can be used for commercial production of electricity</li>\r\n</ol>\r\nWhich among the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Landfill gas production results from chemical reactions and microbes acting upon the waste as the putrescible materials begins to break down in the landfill. Landfill gas is approximately forty to sixty percent methane, with the remainder being mostly carbon dioxide. Landfill gas also contains varying amounts of nitrogen and oxygen gas, water vapour, hydrogen sulphide, and other contaminants. Landfill gases have an influence on climate change. The major components are CO2 and methane, both of which are greenhouse gas. Landfill gas can be converted to high-Btu gas by reducing its carbon dioxide, nitrogen, and oxygen content. The high-Btu gas can be piped into existing natural gas pipelines or in the form of CNG (compressed natural gas) or LNG (liquid natural gas). If the landfill gas extraction rate is large enough, a gas turbine or internal combustion engine could be used to produce electricity to sell commercially or use on site."
+}

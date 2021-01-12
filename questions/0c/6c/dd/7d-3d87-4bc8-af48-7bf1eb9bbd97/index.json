@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "0c6cdd7d-3d87-4bc8-af48-7bf1eb9bbd97",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Government of India has fixed February 10 to be observed as National Deworming Day to combat the menace of Soil transmitted helminthes (STH) in children. Which among the following is / are Soil transmitted helminthes (STH)?\r\n<ol>\r\n<li>Earthworm</li>\r\n<li>Roundworm</li>\r\n<li>Hookworm</li>\r\n<li>Whipworm</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 2 & 3",
+  "option4": "Only 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "The main species that infect people are the roundworm (Ascaris lumbricoides), the whipworm (Trichuris trichiura) and the hookworms (Necator americanus and Ancylostoma duodenale."
+}

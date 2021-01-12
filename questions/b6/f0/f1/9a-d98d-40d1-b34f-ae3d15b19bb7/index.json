@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b6f0f19a-d98d-40d1-b34f-ae3d15b19bb7",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Attorney General of India: <ol> <li>must have been appointed as a Judge of the Supreme Court or High Court earlier</li> <li>has the right of audience in all courts within the territory of India</li> <li>is allowed to take private practice within certain limitations</li> <li>holds office during the pleasure of the President</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "1, 2 and 4 Only",
+  "option3": "2, 3 and 4 Only",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "2, 3 and 4 Only",
+  "explanation": "First statement is incorrect because there is no such mandatory provision. Attorney General represents Union of states and is allowed to take private practice provided that the other party is not the state. The Attorney-General shall hold office during the pleasure of the President, and shall receive such remuneration as the President may determine."
+}

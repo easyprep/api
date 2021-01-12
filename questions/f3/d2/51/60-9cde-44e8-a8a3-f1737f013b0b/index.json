@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:56.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "f3d25160-9cde-44e8-a8a3-f1737f013b0b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Pradhanmantri Gram Sinchai Yojana: <ol> <li>The scheme is aimed at ‘Per Drop More Crop’</li> <li>Department of Agricultural Research and Education (DARE) will fund the scheme through Rural Infrastructure Development Fund (RIDF)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "<u>Second statement is incorrect</u> because the scheme will be funded by NABARD through Rural Infrastructure Development Fund (RIDF) set up in NABARD"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:05.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "507baa1b-aea8-4aec-b002-35b5121a70f9",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Majority of the nuclear power reactors in India are of boiling water type<br> 2. Majority of the nuclear power reactors in India are located in coastal regions<br> 3. Majority of the nuclear power plants in India are located in weak seismicity zones viz. Zone II and III<br> Which among the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "First statement is incorrect. Majority of nuclear power reactors in India are of Pressurized Heavy Water Reactors type. Second statement is correct. Third is also correct. Earthquake-prone regions are categorized between Zones I and IX from least earthquake prone to most earthquake prone. Indian nuclear power plants are situated in Zone II and III except Narora plant in Uttar Pradesh, which is situated in Zone IV."
+}

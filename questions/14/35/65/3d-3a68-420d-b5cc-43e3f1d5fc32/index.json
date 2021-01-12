@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "1435653d-3a68-420d-b5cc-43e3f1d5fc32",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is the correct sequence?",
+  "option1": "Kingdom - Phylum - Class - Clade",
+  "option2": "Kingdom - ??Class - ??Phylum - Clade",
+  "option3": "Kingdom - Phylum - Clade - ??Class",
+  "option4": "Kingdom - Clade - Class - Phylum",
+  "option5": "",
+  "answer": "Kingdom - Phylum - Clade - ??Class",
+  "explanation": "C is correct answer."
+}

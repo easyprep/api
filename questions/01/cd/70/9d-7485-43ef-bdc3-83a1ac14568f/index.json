@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:48.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "01cd709d-7485-43ef-bdc3-83a1ac14568f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Unified Payment Interface: <ol> <li>It has been developed by the National Payments Corporation of India (NPCI)</li> <li>It allows money transfer between any two bank accounts by using a Smartphone</li> <li>The system is operational both online as well as offline mode</li> </ol>  Which of the above statements is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All given statements are correct<br> Unified Payment Interface has been developed by the National Payment Corporation of India. It allows money transfer between any two bank accounts by using a Smartphone. The system is operation both online and offline mode but there is per transaction limit is Rs.1 lakh"
+}

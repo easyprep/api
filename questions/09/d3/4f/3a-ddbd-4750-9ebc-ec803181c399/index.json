@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "09d34f3a-ddbd-4750-9ebc-ec803181c399",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Supreme Court has recently suggested installation of catalytic convertors in all diesel vehicles. The catalytic converter will help to reduce: <ol> <li>Carbon monoxide (CO)</li> <li>Carbon dioxide (CO2)</li> <li>Nitrogen oxides (NO<sub>x</sub>)</li> <li>Sulphur dioxide (SO2)</li> <li>Hydrocarbons (HC)</li> </ol> Select the correct option from codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 5",
+  "option3": "Only 1, 2, 3 & 5",
+  "option4": "Only 1, 3 & 5",
+  "option5": "",
+  "answer": "Only 1, 3 & 5",
+  "explanation": "In order to reduce air pollution, Supreme Court suggested installation of catalytic convertor in diesel vehicles. The device will help to reduce: <ul> <li>Carbon monoxide (a poisonous gas);</li> <li>Nitrogen oxides (a cause of smog and acid rain); &amp;</li> <li>Hydrocarbons (a cause of smog)</li> </ul> These are converted into less harmful compounds before leaving the car’s exhaust system. This is accomplished using a catalyst, which gives the device its name. The catalyst used in a catalytic converter is a combination of platinum (Pt), palladium (Pd), and rhodium (Rh)."
+}

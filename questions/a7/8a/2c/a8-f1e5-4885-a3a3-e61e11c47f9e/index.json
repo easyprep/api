@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "a78a2ca8-f1e5-4885-a3a3-e61e11c47f9e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As per reports of National Crime Records Bureau, which of the following natural killers holds the responsibility for maximum number of deaths in India in between 2005 to 2015?",
+  "option1": "Lightning",
+  "option2": "Heat stroke",
+  "option3": "Earth Quake",
+  "option4": "Contaminated Water",
+  "option5": "",
+  "answer": "Lightning",
+  "explanation": "Lightning&gt;Heat Stroke&gt;Earthquakes&gt;Contaminated water."
+}

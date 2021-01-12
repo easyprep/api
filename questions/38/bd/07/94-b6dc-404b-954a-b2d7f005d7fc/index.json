@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "38bd0794-b6dc-404b-954a-b2d7f005d7fc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following bodies: <ol> <li>International Bank for Reconstruction and Development (IBRD)</li> <li>International Development Association (IDA)</li> <li>International Finance Corporation (IFC)</li> <li>Multilateral Investment Guarantee Agency (MIGA)</li> <li>International Centre for Settlement of Investment Disputes (ICSID)</li> </ol> Currently, India is a member of which of the above?",
+  "option1": "1, 2, 3 & 5 Only",
+  "option2": "2, 3, 4 & 5 Only",
+  "option3": "1, 2 & 4 Only",
+  "option4": "1, 2, 3 & 4 Only",
+  "option5": "",
+  "answer": "1, 2, 3 & 4 Only",
+  "explanation": "India is a member of four of the five constituents of the World Bank Group International Bank for Reconstruction and Development (IBRD), International Development Association (IDA), International Finance Corporation (IFC) and Multilateral Investment Guarantee Agency (MIGA). India is not a member of ICSID (International Centre for Settlement of Investment Disputes)."
+}

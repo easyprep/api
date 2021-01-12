@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "8985ed3c-fa6f-43d8-9bb1-af7637410af8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Who among the following is/are directly appointed by the President? <ol> <li>Special officer for linguistic minorities</li> <li>Attorney General of India</li> <li>Advocate General of India</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 & 2 Only",
+  "option2": "2 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1 & 2 Only",
+  "explanation": "Advocate General is appointed by the Governor of respective state."
+}

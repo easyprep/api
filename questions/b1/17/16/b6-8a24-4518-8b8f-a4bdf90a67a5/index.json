@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b11716b6-8a24-4518-8b8f-a4bdf90a67a5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A recent study claimed that the red tide or algal bloom causes respiratory impairment in humans and affects marine life adversely. Which of the following would lead to increased algal blooms? <ol> <li>Discharge of phosphorus-containing sewage in oceans</li> <li>Mixing of warm and cold water currents in oceans</li> <li>Increased salt amount in water</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "First two statements are correct because both would increase nutrient supply resulting in growth of algal bloom. Third statement is incorrect because algae become stressed and die when they deplete the nutrient supply or move from freshwater into saltier waters. Algae are referred to large seaweeds which grow in water with large nutrients added through different sources. When algal blooms block vital sunlight from reaching beneficial underwater plants that provide food and a place to live and grow for fish and other animals, the ecosystem can be negatively impacted. Further, algae when dead; their decay requires large oxygen; thus increasing the Biological Oxygen Demand of water and killing many marine animals."
+}

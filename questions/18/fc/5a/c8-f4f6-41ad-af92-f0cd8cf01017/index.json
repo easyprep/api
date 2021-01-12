@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "18fc5ac8-f4f6-41ad-af92-f0cd8cf01017",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following operations in news with their respective countries: <ol> <li>Operation Zarb-e-Azb - Turkey</li> <li>Operation Raahat - Syria</li> <li>Operation Blossom - Iraq</li> </ol> Which of the above is/are correctly matched?",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "Operation Zarb-e-Azb was conducted by the Pakistan Armed Forces against various militant groups. Operation Rahat (relief) during early 2015, through which India had evacuated 5,600 displaced persons from Yemen. Operation Blossom was carried out by India as steps up evacuation operations from Libya during 2011 and 2014."
+}

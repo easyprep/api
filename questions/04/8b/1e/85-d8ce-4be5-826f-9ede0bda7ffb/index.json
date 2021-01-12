@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "048b1e85-d8ce-4be5-826f-9ede0bda7ffb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the East Coast Economic Corridor: <ol> <li>It extends from Kolkata (West Bengal) in the northeast of India to Kanyakumari (Tamil Nadu)</li> <li>The project is funded by the Asian Infrastructure Investment Bank (AIIB)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Second statement is incorrect because the project is not funded by the Asian Infrastructure Investment Bank; in fact, it is funded by the Asian Development Bank."
+}

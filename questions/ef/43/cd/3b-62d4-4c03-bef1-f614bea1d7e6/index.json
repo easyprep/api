@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:56.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "ef43cd3b-62d4-4c03-bef1-f614bea1d7e6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, Ecuador and Japan were struck by Earthquakes. In this context, consider the following statements: <ol> <li>Both Ecuador and Japan are located on the Pacific Ring of Fire</li> <li>While Ecuador lies in the  subduction zone  of the Nazca Plate and Antarctic Plate, Japan lies in the subduction zone of North American plate  and Pacific plate</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements."
+}

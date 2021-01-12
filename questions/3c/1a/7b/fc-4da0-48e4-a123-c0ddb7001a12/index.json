@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:04.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "3c1a7bfc-4da0-48e4-a123-c0ddb7001a12",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Indian Depository Receipt is :<br> 1. denominated in Indian Rupee<br> 2. used to raise funds by Indians in foreign markets<br> 3. created by a domestic custodian<br> Which among the above is / are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "An Indian Depository Receipt is an instrument denominated in Indian Rupees in the form of a depository receipt created by a Domestic Depository (custodian of securities registered with the Securities and Exchange Board of India) against the underlying equity of issuing company to enable foreign companies to raise funds from the Indian securities Markets. Standard Chartered PLC became the first global company to file for an issue of Indian depository receipts in India."
+}

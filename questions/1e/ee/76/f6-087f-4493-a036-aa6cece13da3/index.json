@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "1eee76f6-087f-4493-a036-aa6cece13da3",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following:<br> 1. National Calamity Contingency Fund<br> 2. National Disaster Response Fund<br> 3. Universal Service Obligation Fund<br> 4. National Investment Fund<br> 5. Backward Regions Grant Fund<br> Which of the above is / are active at present?",
+  "option1": "Only 1, 2, 3 & 4",
+  "option2": "Only 2, 3, 4 & 5",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 2 & 4",
+  "option5": "",
+  "answer": "Only 2, 3, 4 & 5",
+  "explanation": "National Calamity Contingency Fund has ceased to exist after the National Disaster Response Fund has been created under DM Act 2005. National Disaster Response Fund is a part of Public Account of India. Backward Regions Grants Fund (BRGF) is still active but now has been de-linked from central support and left to state governments to implement."
+}

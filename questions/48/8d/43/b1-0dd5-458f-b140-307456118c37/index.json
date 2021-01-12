@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "488d43b1-0dd5-458f-b140-307456118c37",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Ayush-82, which was recently in news: <ol> <li>It has been developed by Central Council for Research in Ayurvedic Sciences (CCRAS)</li> <li>The drug is very effective for the treatment of Malaria</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct because Ayush-82 has been developed by Central Council for Research in Ayurvedic Sciences (CCRAS), an apex organization for research in Ayurveda under the Ministry of AYUSH (Ayurveda, Yoga &amp; Naturopathy, Unani, Siddha and Homeopathy). Second statement is incorrect because Ayush-82 is an Ayurvedic formulation for prevention and management of Diabetes. Ayurvedic Drug-Ayush-64 is very effective for the treatment of Malaria."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:53.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b5322a01-06f2-4984-ba32-5a2426b3fe3c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is/are secondary pollutant(s)? <ol> <li>Ozone</li> <li>Sulphur dioxide</li> <li>Nitrogen oxides</li> <li>Carbon Monoxide</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "Sulphur dioxide, nitrogen oxides and carbon monoxide are primary pollutants"
+}

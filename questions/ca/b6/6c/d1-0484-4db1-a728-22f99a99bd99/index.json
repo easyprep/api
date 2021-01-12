@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:00.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "cab66cd1-0484-4db1-a728-22f99a99bd99",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following countries:<br> 1. Russia<br> 2. Vietnam<br> 3. Indonesia<br> 4. Bangladesh<br> Tigers are found under natural habitats in which among the above?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "This question was framed on Tiger Range Countries. The 13 Tiger Range Countries (TRCs) are Bangladesh, Bhutan, China, India, Indonesia, Cambodia, Laos, Malaysia, Myanmar, Nepal, Russia, Thailand and Vietnam. In these countries, only 6 subspecies exist viz. Sumatran, Bengal, Amur, Indochinese, South China and Malayan tiger."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "248b1bd6-f3bd-4fdd-840f-d19269927c47",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Sathyabamasat, a satellite recently launched by ISRO, aims to:",
+  "option1": "monitor the green house gases in the atmosphere",
+  "option2": "collect data about agriculture and geological formations",
+  "option3": "develop better cyclone detection and weather forecasting",
+  "option4": "study the composition of the earth's crust",
+  "option5": "",
+  "answer": "monitor the green house gases in the atmosphere",
+  "explanation": "Sathyabamasat is a micro experimental satellite developed by students and faculty of Sathyabama University, a private university of Chennai. It aims to collect data on greenhouse gases. It was launched on June 22<sup>nd</sup>, 2016."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b6673945-85e2-4063-9737-0ce1f5fa6cfc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br> 1. Asiatic Lion ? Gir National Park<br> 2. Rhinoceros ? Kaziranga National Park<br> 3. Hangul ? Corbett National Park<br> 4. Lion tailed Macaque ? Western Ghats<br> Which among the above is / are correct matches?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "Hangul - Dachigam National Park"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "48b4513b-dcaa-419e-afd2-7d6249ff2fe2",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following space observatories has recently observed the deepest gamma-ray burst (GRB) event?",
+  "option1": "Chandra X-ray Observatory (CXO)",
+  "option2": "ASTROSAT",
+  "option3": "Hubble Space Telescope",
+  "option4": "High Energy Transient Explorer-2",
+  "option5": "",
+  "answer": "Chandra X-ray Observatory (CXO)",
+  "explanation": "The NASA&rsquo;s X-ray source, Chandra X-ray Observatory (CXO), located in a region of the sky known as the Chandra Deep Field-South (CDF-S), has observed the deepest gamma-ray burst (GRB) event. The two major possibilities to explain the X-ray source invoke gamma-ray burst (GRB) events are- GRBs are jetted explosions triggered either by the collapse of a massive star or by the merger of a neutron star with another neutron star or a black hole."
+}

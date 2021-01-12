@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "43c92a30-9abe-4bb5-b913-9c7b5b01c06f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In recent times, &quot;bad loans&quot; are eating into bank profitability and eroding investor confidence. With this reference, consider the following statements: <ol> <li>A loan is termed as bad loan on which instalment remain overdue for a period of more than 90 days.</li> <li>The SARFAESI Act provides banks with provisions to reduce their bad loans.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "According to RBI, terms loans on which interest or instalment of principal remain overdue for a period of more than 90 days from the end of a particular quarter is called a Non-performing Asset. The Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act have provisions for the banks to take legal recourse to recover their dues. When a borrower makes any default in repayment and his account is classified as NPA; the secured creditor has to issue notice to the borrower giving him 60 days to pay his dues. If the dues are not paid then the bank can take possession of the assets and can also give it on lease or sell it; as per provisions of the SARFAESI Act."
+}

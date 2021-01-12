@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "d4c1fe9f-a987-4011-9535-af01c072d1ab",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Mines and Minerals (Development &amp; Regulation) Amendment Act, 2015: <ol> <li>The act introduces a mandatory provision to establish District Mineral Foundation (DMF) in all districts of India.</li> <li>The act increased all mining leases for a period of fifty years with only one time renewal policy.</li> <li>The act allows transfer of mining leases after approval from State Government.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "First statement is incorrect because the amendment act introduced a mandatory provision to establish a trust, a non-profit body known as the District Mineral Foundation (DMF) in all districts where mining related operations take place. Second statement is incorrect because the act says that there will be no renewal of any mining concession and all mining leases would be put for auction at the completion of the tenure."
+}

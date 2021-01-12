@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "79c92380-b223-4f12-809e-1ce5f323a12d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the resolutions passed by the United Nations General Assembly (UNGA) and United Nations Security Council (UNSC), which among the following statements is / are correct? <ol> <li>The UNGA resolutions are legally non-binding upon member nations , while the UNSC Resolutions are legally binding upon all members.</li> <li>The UNGA resolutions are sponsored by any member, UNSC Resolutions are sponsored by only permanent members.</li> </ol> Choose the correct option from the codes given below:<br>",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "It is correct to say that UNGA resolutions are legally non-binding upon member nations but saying that UNSC Resolutions are legally binding upon all members, is incorrect. This is because the UNSC resolutions are of two kinds taken as per chapter VI and VII of the UN Charter which correspond to nonbinding and binding resolutions. It is correct to say that UNGA resolutions are sponsored by any member, however, again it is incorrect to say that UNSC Resolutions are sponsored by only permanent members"
+}

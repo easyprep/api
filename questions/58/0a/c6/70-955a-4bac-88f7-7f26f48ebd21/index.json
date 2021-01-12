@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:49.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "580ac670-955a-4bac-88f7-7f26f48ebd21",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Refugee Convention: <ol> <li>The signatory to the convention cannot repatriate any refugee without his/her will</li> <li>India is a signatory to the convention</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "1 Only",
+  "explanation": "First statement is correct because the core principle of the 1951 Refugee Convention is non-refoulement, which asserts that a refugee should not be returned or repatriated to a country where they face serious threats to their life or freedom. Second statement is incorrect because India is not a signatory to the convention."
+}

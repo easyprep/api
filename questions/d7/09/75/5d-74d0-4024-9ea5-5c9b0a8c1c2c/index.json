@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "d709755d-74d0-4024-9ea5-5c9b0a8c1c2c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Zika virus is considered a risk for pregnant women as it can cause birth defects in babies. Which of the following statements is/are correct about Zika Virus?\r\n<ol>\r\n<li>The virus spreads through fruit bats</li>\r\n<li>The virus has caused outbreaks in north-eastern India</li>\r\n<li>Conjunctivitis is one of the most common symptoms of Zika virus disease.</li>\r\n</ol>\r\nSelect the correct option from codes given below:",
+  "option1": "Only 3",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "First statement is incorrect because Zika virus spreads through mosquito bites. Second statement is incorrect because there have been no outbreaks in India but passive immunity has been traced in Indian samples during 1952-53. Since then, there are no reports on this virus in India. Third statement is correct because fever, rash, joint pain, and conjunctivitis (red eyes) are few common symptoms of Zika virus disease."
+}

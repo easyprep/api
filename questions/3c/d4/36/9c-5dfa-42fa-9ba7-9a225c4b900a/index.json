@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:03.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "3cd4369c-5dfa-42fa-9ba7-9a225c4b900a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following statements is/are correct? <ol> <li>A low debt -GDP ratio denotes higher capacity to meet debt obligations</li> <li>A low tax-GDP ratio denotes higher equitable distribution of national income</li> </ol> Which of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The second statement is written reverse. A higher tax-GDP ratio means more taxes are part of GDP and shows more equal distribution of national income."
+}

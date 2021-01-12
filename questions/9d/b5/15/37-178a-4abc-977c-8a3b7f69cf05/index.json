@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:00.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "9db51537-178a-4abc-977c-8a3b7f69cf05",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The presence of Carbon Monoxide in the atmosphere can__: 1. Enhance global warming 2. Enhance formation of Ground Level Ozone Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "As far as Green House Effect is concerned; Carbon monoxide (CO) is only a very weak and insignificant greenhouse gas, but it has important indirect effects on global warming. Carbon monoxide reacts with hydroxyl (OH) radicals in the atmosphere, reducing their abundance. As OH radicals help to reduce the lifetimes of strong greenhouse gases, like methane, carbon monoxide indirectly increases the global warming potential of these gases. Carbon monoxide in the atmosphere can also lead to the formation of the Ground level Ozone."
+}

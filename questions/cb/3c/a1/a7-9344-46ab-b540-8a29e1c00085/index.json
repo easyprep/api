@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:00.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "cb3ca1a7-9344-46ab-b540-8a29e1c00085",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In terms of electricity generation, Grid parity occurs when__:",
+  "option1": "a new power plant gets connected to an existing electricity grid",
+  "option2": "when all sources of electricity in an electricity grid exactly meet the demand",
+  "option3": "an alternative energy source can generate electricity at same cost as that from an existing electricity grid",
+  "option4": "an alternative energy source can generate same amount of electricity as an existing electricity grid",
+  "option5": "",
+  "answer": "an alternative energy source can generate electricity at same cost as that from an existing electricity grid",
+  "explanation": ""
+}

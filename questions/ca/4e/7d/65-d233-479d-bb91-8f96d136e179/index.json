@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "ca4e7d65-d233-479d-bb91-8f96d136e179",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements:<br> 1. Both APSARA and CIRUS were indigenous reactors<br> 2. APSARA was built with assistance from the United Kingdom<br> Which among the above statements is / are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "First statement is incorrect because CIRUS was supplied by Canada to India in 1954."
+}

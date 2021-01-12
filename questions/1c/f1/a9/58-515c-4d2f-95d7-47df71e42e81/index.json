@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "1cf1a958-515c-4d2f-95d7-47df71e42e81",
+  "labels": "current-affairs,2018-08-04",
+  "question": "United Nations High Commissioner for Refugees (UNHCR): <ol> <li>is a member of United Nations Development Group</li> <li>has its headquarters at New York, United States</li> <li>has received two Nobel Peace Prizes</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "<u>Second statement is incorrect</u> because its headquarters are located at Geneva, Switzerland. Other two statements are correct"
+}

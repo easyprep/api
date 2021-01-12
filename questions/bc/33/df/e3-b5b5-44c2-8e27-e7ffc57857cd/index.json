@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:56.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "bc33dfe3-b5b5-44c2-8e27-e7ffc57857cd",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements: <ol> <li>The Earth&#039;s gravity is stronger at the poles than at the equator</li> <li>The centrifugal force cancels out the gravity negligibly,more so at the equator than at the poles.</li> <li>The poles are closer to the center due to the equatorial bulge, and thus have a stronger gravitational field.</li> </ol> Which of the above statements is/are correct?<br>",
+  "option1": "1 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "All the three statemments are correct.The first statement is a fact and second and third statements are its reasons."
+}

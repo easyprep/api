@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "800593e6-8536-4632-8036-a61a88716ffc",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As per recent health reports, one in every three children in India does not get a full course of DPT immunization. Which of the following infections is not included in DPT immunization?",
+  "option1": "Whooping cough",
+  "option2": "Tetanus",
+  "option3": "Diphtheria",
+  "option4": "Pneumonia",
+  "option5": "",
+  "answer": "Pneumonia",
+  "explanation": "DPT includes diphtheria, pertussis (Whooping cough) and tetanus immunization."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:04.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "a46e04ce-917b-45e5-b374-53da71e55d0c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The government of India has launched a new initiative called MeghRaj. What is this MeghRaj?",
+  "option1": "Its a new Monsoon prediction system",
+  "option2": "It's a new project related to Cloud Computing",
+  "option3": "It's a new service under Department of Posts",
+  "option4": "It's a new scheme for India's Rainfed areas",
+  "option5": "",
+  "answer": "It's a new project related to Cloud Computing",
+  "explanation": "<strong>MeghRaj:</strong> To harness the benefits of cloud technology, DeitY has initiated a project named as ‘MeghRaj’ for creating a Government of India cloud (GI Cloud) computing environment at the national level. This will act as a common repository of cloud-based infrastructure resources and applications available on demand. The GI Cloud is envisaged to provide the following outcomes: Optional utilisation of ICT infrastructure; Speedy development and deployment of e-Gov applications; Quick replication of successful applications; and e-Gov. App Store hosting certified applications. Major components of GI Cloud include the following: Cloud computing platforms at national and state levels; eGov App Store to host and run applications; GI Cloud Services Directory to act as the single window for service delivery; Common set of protocols, guidelines and standards for GI Cloud; An institutional mechanism to operate and manage the GI Cloud; and Centre of Excellence for cloud computing. Current status of Cloud initiative is as follows: <ol> <li>Phase-I for implementing National Cloud has been approved at a cost of Rs. 99 cr.</li> <li>An e-Gov-App Store with 20 applications has been launched on 31st May, 2013.</li> <li>SFC approval for application store augmentation has been approved at a cost of 81 crore.</li> </ol>"
+}

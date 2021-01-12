@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:56.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "d798846b-90aa-40f8-9fc9-39e7a672a480",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:<br>           <strong>Festival</strong>                     <strong>Month</strong> <ol> <li>Ramanavmi                  :       Chaitra</li> <li>Makar Sankranti       :       Pausa</li> <li>Dussehra                       :       Bhaado</li> <li>Ganesh Chaturthi     :      Ashwin</li> </ol> Which of the above is/are correctly matched?<br>",
+  "option1": "1 and 2 Only",
+  "option2": "1,2 and 3 Only",
+  "option3": "2,3 and 4 Only",
+  "option4": "1,2,3 and 4",
+  "option5": "",
+  "answer": "1 and 2 Only",
+  "explanation": "Dussehra is celebrated on the tenth day of the month of Ashwin and Ganesh Chaturthi is celebrated in the month of Bhaadrapada<br> according to the Hindu lunisolar calendar."
+}

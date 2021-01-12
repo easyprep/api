@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:03.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "58df15f2-c112-4e12-97b1-b594d154d81d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "With reference to the &#039;Mega Food Park Scheme&#039;, which of the following statements is / are correct? <ol> <li>Each Mega Food Park has primary processing centres as smallest unit</li> <li>The central government provides land as well as a grant up to Rs. 50 Crore</li> <li>A mega food park needs at least 50 acres of contiguous land</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "We have studied that the &#039;Mega food Park scheme&#039; is based on hub and spoke architecture with &#039;collection centres&#039; as smallest Unit. So first statement is wrong. Second statement is also wrong because the central government neither provides land nor bears cost of the land. Land cost is borne by the Special purpose Vehicle responsible for each MFP. Third statement is correct."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b2d63f77-c0a9-454f-a4b7-d30a758cee80",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Why O-18 isotope of Oxygen is used in estimation of climate changes over a geological time scale?\r\n<ol>\r\n<li>Water molecules containing the heavier O-18 evaporate at a higher temperature</li>\r\n<li>When temperature increases the Ratio of O-18 to O-16 will be higher</li>\r\n</ol>\r\nWhich of the above is / are correct statements?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Mountain Glaciers and the polar ice caps/ice sheets have been widely used in paleoclimatology. This is done by studying the Ice Cores. Ice Cores are samples of the accumulated snow and ice over many years which got recrystallized and trapped air bubbles from previous time periods. The presence of Hydrogen and Oxygen Isotopes in these ice cores has helped to redraw a picture of the climate at the time. This is called Ice Coring. The Ice coring projects have yielded data of the climates of hundreds of years back and European Project for Ice Coring in Antarctica has yielded data of over 8 lakh years back. The changes in the Oxygen-18 quantity in the ice layers represent changes in average ocean surface temperature. This is because the water molecules containing the heavier O-18 evaporate at a higher temperature than water molecules containing the normal Oxygen-16 isotope. The ratio of O-18 to O-16 is relatively higher as temperature increases and relatively less as temperature decreases. This ratio can be used to determine the temperature of precipitation through time."
+}

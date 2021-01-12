@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:04.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "34f90a37-7c1f-4f62-a0eb-8099a838ee79",
+  "labels": "current-affairs,2018-08-04",
+  "question": "In context with the irrigation policy in India, which of the following is / are correct statements?\r\n<ol>\r\n<li>A minor irrigation scheme has Cultural Command Area (CCA) up to 2000 Hectares</li>\r\n<li>Tubewells come within the score of minor irrigation scheme</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "A minor irrigation scheme has Cultural Command Area (CCA) up to 2000 Hectares. A medium Irrigation scheme has CCA from 2000 Hectares to 10000 Hectares. A major irrigation scheme has a CCA above 10,000 hectares."
+}

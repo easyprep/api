@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "4cb8d93d-ecbf-455d-a18a-9dbe314bf6bb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Gini coefficient represents which of the following?\r\n<ol>\r\n<li>Income / Population Ratio</li>\r\n<li>Income Distribution</li>\r\n<li>Variation in Economic Growth</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Gini coefficient represents the income distribution of a country’s residents. It was developed by the Italian statistician and sociologist Corrado Gini. It measures the inequality. The coefficient ranges from zero to one, with zero representing perfect equality and one showing perfect inequality. The more the inequality, the more is Gini Coefficient. The more is the value of Gini Coefficient, the more is gap between rich and poor."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "3562391a-dda6-41d2-b482-b80935ff9f65",
+  "labels": "current-affairs,2018-08-04",
+  "question": "What could be the geological reason(s) that India has a very high frequency of great earthquakes?\r\n<ol>\r\n<li>India is currently penetrating in Asia</li>\r\n<li>India is rotating clockwise</li>\r\n<li>The molten magma under the earth’s crust beneath India is under enormous pressure</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The reasons of high magnitude earthquakes in India are hidden in the tectonic setting of India. India is currently penetrating into Asia at a rate of approximately 45 mm/year and rotating slowly anticlockwise. This rotation and translation results in left-lateral transform slip in Baluchistan at approximately 42 mm/year and right-lateral slip relative to Asia in the Indo-Burman ranges at 55 mm/year. At the same time, deformation within Asia reduces India’s convergence with Tibet to approximately 18 mm/year. Since Tibet is extending east-west, there Is a convergence across the Himalaya that results in the development of potential slip available to drive large thrust earthquakes beneath the Himalaya at roughly 1.8 m/century."
+}

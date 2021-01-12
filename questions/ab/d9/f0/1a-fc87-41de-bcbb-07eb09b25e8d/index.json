@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "abd9f01a-fc87-41de-bcbb-07eb09b25e8d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following bacteria:\r\n<ol>\r\n<li>Rhizobium</li>\r\n<li>Azotobacter</li>\r\n<li>Anabaena</li>\r\n<li>Nostoc</li>\r\n</ol>\r\nWhich among the above fix nitrogen without being in symbiotic relation with other biota?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 2 & 4",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "Two kinds of nitrogen-fixing bacteria are recognized:\r\n<ul>\r\n<li>Free-living (non-symbiotic) bacteria, including the cyanobacteria (or blue-green algae) Anabaena and Nostoc and genera such as Azotobacter, Beijerinckia, and Clostridium;</li>\r\n<li>Mutualistic (symbiotic) bacteria such as Rhizobium, associated with leguminous plants (e.g., various members of the pea family), and certain Azospirillum species, associated with cereal grasses.</li>\r\n</ul>"
+}

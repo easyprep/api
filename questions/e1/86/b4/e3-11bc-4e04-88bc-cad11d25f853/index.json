@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "e186b4e3-11bc-4e04-88bc-cad11d25f853",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following pairs:\r\n<ol>\r\n<li>National Unity Day - Bhimrao Ramji Ambedkar</li>\r\n<li>Good Governance Day - Sardar Vallabhbhai Patel</li>\r\n<li>Antyodaya Diwas - Pandit Deendayal Upadhyaya</li>\r\n</ol>\r\nWhich of the above is/are correctly matched?",
+  "option1": "Only 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "Only 1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "<ul> <li>Antyodaya Diwas - Pandit Deendayal Upadhyaya</li> <li>National Unity Day - Sardar Vallabhbhai Patel</li> <li>Good Governance Day - Atal Bihari Vajpayee</li> </ul> These days are celebrated to mark the birth anniversary of given personalities."
+}

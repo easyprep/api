@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "c240d1f9-3ce0-44f9-a12e-60da0ac08e80",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the DRDO&#8217;s Varunastra: <ol> <li>It is India’s first indigenous heavy weight ship launched anti-submarine electric torpedo</li> <li>It has been developed jointly by Bharat Dynamics &amp; Naval Science and Technological Laboratory (NSTL)</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Both are correct statements<br> Varunastra is also known as underwater missile. It is the first indigenous heavy weight ship launched anti-submarine electric torpedo. It has been jointly developed by the Naval Science and Technological Laboratory (NSTL) and Bharat Dynamics limited. The torpedo has advanced autonomous guidance algorithms with low drift navigational aids, insensitive warhead which can operate in various combat scenarios."
+}

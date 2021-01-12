@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "68581ff7-f34e-4248-b57f-4526e4106622",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following defence equipments with their origin countries: <ol> <li>Dassault Rafale - France</li> <li>SPYDER - Israel</li> <li>Barak 8 - Russia</li> </ol> Which of the above pairs is/are correctly matched?",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "<ul> <li>Barak 8 is an Indian-Israeli surface-to-air missile.</li> <li>SPYDER is an Israeli short and medium range mobile air defence system.</li> <li>Dassault Rafale is a French multirole fighter aircraft.</li> </ul>"
+}

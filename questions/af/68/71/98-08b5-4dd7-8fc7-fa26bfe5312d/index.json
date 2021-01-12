@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:02.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "af687198-08b5-4dd7-8fc7-fa26bfe5312d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following matches:<br> 1. Budapest Convention - Cybercrime<br> 2. Bonn Convention - Migratory Species<br> 3. Basel Convention - Hazardous wastes<br> Which of the above is / are correct matches?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "All three are correct matches."
+}

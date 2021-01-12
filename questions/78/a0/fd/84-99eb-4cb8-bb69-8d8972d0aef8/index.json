@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:02.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "78a0fd84-99eb-4cb8-bb69-8d8972d0aef8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A person weighing 80 Kg. is standing on an accurate scale in an elevator. The elevator is slowing down while moving downwards. In this case the scale will read__?",
+  "option1": "80 Kg.",
+  "option2": "Less than 80 Kg",
+  "option3": "More than 80 Kg",
+  "option4": "Either less or more than 80 Kg",
+  "option5": "",
+  "answer": "More than 80 Kg",
+  "explanation": "When the elevator is slowing down while moving downwards, that means there is an acceleration upwards. The gravitational force must be lesser than the normal force. Thus, during slowing down while moving downwards, the normal force on the feet of a passenger is greater than her weight. In this case the scale will read more than 80 kg."
+}

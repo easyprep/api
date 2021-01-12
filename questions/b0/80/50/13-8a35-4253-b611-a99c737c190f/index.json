@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:04.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b0805013-8a35-4253-b611-a99c737c190f",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The 2014 Nobel Prize in physics was awarded to the inventors of blue LEDs. Consider the following statements in this context:<br> 1. Gallium phosphate is the key ingredient used by the Nobel laureates in their ground breaking blue LEDs<br> 2. Blue LEDs are used in high-speed networking, data storage, smartphones, water purification, and efficient home illumination.<br> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura were awarded 2014 Nobel Prize in Physics for inventing blue LEDs. The trios used Gallium Nitride / Nitrate as the key ingredient in their ground breaking blue LEDs. LEDs are nearly twenty times as efficient as incandescent bulbs, and they aren&#8217;t saddled with the risky mercury-related health risks of fluorescent bulbs. As an added bonus, LED lights last longer, too. Blue light-emitting diode (LED), technology now used in high-speed networking, data storage, smartphones, water purification, and efficient home illumination."
+}

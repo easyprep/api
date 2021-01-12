@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "e2c26e75-c7dc-46f3-aa3b-93d90021620d",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following species of Anopheles Mosquitoes generally breeds in man-made water containers in urban areas?",
+  "option1": "Anopheles culicifacies",
+  "option2": "Anopheles minimus",
+  "option3": "Anopheles fluviatilis",
+  "option4": "Anopheles stephensi",
+  "option5": "",
+  "answer": "Anopheles stephensi",
+  "explanation": "Correct answer is Anopheles stephensi. Further note that Anopheles culicifacies is found in rural areas all over India. An.minimus and An.fluviatilis breed in running channels, streams with clean water."
+}

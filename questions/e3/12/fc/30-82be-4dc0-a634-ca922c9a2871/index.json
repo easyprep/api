@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:50.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "e312fc30-82be-4dc0-a634-ca922c9a2871",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following cities: <ol> <li>Chennai</li> <li>Ahmedabad</li> <li>Varanasi</li> </ol> Which of the above has/have been recently chosen by Japan to be developed as smart city/cities?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Japan has decided to develop Chennai, Ahmedabad and Varanasi as smart cities."
+}

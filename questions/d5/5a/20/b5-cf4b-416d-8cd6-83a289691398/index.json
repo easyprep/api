@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "d55a20b5-cf4b-416d-8cd6-83a289691398",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the European Union (EU): <ol> <li>As of now, the European Union consists of 28 member countries</li> <li>A law made in European Parliament is applicable and binding on all Member States directly</li> <li>The capital of European Union is located in Brussels, Belgium</li> <li>European Union has once received the Nobel Peace Prize</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "1 & 2 Only",
+  "option3": "1, 2 & 3 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "All given statements are correct"
+}

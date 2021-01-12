@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:57.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "4068fd78-693e-4f56-82fe-3e245e4b845b",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is / are objectives of the SPICE Project, which was in news recently? <ol> <li>decreasing atmospheric albedo</li> <li>removal of  sulphate particles, or aerosols from the stratosphere</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "The SPICE (Stratospheric Particle Injection for Climate Engineering) project aims at Global dimming. First statement is incorrect because the project aims to as cloud-whitening or surface albedo enhancements and not albedo reduction. Second statement is incorrect because the project aims at injecting sulfate particles, or aerosols in stratosphere."
+}

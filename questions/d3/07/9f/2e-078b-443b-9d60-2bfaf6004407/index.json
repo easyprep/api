@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "d3079f2e-078b-443b-9d60-2bfaf6004407",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Artemisinin drug, which was recently making news, is used in the treatment of which disease?",
+  "option1": "Malaria",
+  "option2": "Dengue",
+  "option3": "Chikungunya",
+  "option4": "Japanese encephalitis",
+  "option5": "",
+  "answer": "Malaria",
+  "explanation": "Artemisinin drug is used in the treatment of Malaria. The drug has been in news due to emergence of resistance to the drug. The drug was introduced when resistance to commonly used chloroquine was making malaria treatment inefficient."
+}

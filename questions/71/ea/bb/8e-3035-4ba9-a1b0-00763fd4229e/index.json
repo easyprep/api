@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:55.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "71eabb8e-3035-4ba9-a1b0-00763fd4229e",
+  "labels": "current-affairs,2018-08-04",
+  "question": "&lsquo;IMPRINT India&rsquo;: <ol> <li>is an initiative under Ministry of Science and Technology</li> <li>aims to solve major engineering and technological challenges to foster development</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "First statement is incorrect because IMPRINT India is an initiative under Ministry of Human Resource Development."
+}

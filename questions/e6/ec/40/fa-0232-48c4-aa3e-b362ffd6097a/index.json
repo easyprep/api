@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "e6ec40fa-0232-48c4-aa3e-b362ffd6097a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, nine rebel MLAs of the Uttarakhand Congress were disqualified under the anti-defection law. With this reference, consider the following statements about the anti-defection law: <ol> <li>The power to decide cases of such disqualification is vested in the hands of the governor of the state</li> <li>The decision regarding disqualification arising out of defection is not be subject to judicial review</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Neither 1 nor 2",
+  "explanation": "<u>First statement is incorrect</u> because the power to decide the cases of such disqualification is vested in the hands of the Speaker of the state legislative assembly or the presiding officer of the house under the anti-defection law. <u>Second statement is incorrect</u> because the decision regarding disqualification arising out of defection is subject to judicial review."
+}

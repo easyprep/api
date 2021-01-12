@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "2b2f6adc-8aa2-40b0-8187-5d4153c54590",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The &lsquo;Field Medal&rsquo; is often described as the &quot;Nobel Prize of Mathematics&quot;. How is it different from Nobel Prize? <ol> <li>While Nobel Prize is given annually, Field Medal is given once in four years.</li> <li>While Nobel Prize can be awarded posthumously, Field Medal cannot be awarded posthumously.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Second statement is incorrect because while Nobel Prize cannot be given posthumously, Field Medal and Abel prize can be given posthumously. The <strong>Fields Medal</strong> is a prize awarded to two, three, or four mathematicians less than 40 years of age at the International Congress of the International Mathematical Union (IMU), a meeting that takes place every four years. The Fields Medal is sometimes viewed as the highest honor a mathematician can receive. The Fields Medal and the Abel Prize have often been described as the &quot;mathematician&#039;s Nobel Prize&quot;. Also, while the recipient, or laureate of Nobel Prize gets cash sum in &lsquo;Swedish krona&rsquo;, the recipient of Field Medal gets cash sum in Canadian dollar."
+}

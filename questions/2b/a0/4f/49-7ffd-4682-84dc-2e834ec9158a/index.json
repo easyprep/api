@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "2ba04f49-7ffd-4682-84dc-2e834ec9158a",
+  "labels": "current-affairs,2018-08-04",
+  "question": "As per estimates of GDP deflators in 2015, it was reported that India is experiencing disinflation and not deflation. With this reference, consider the following statements: <ol> <li>Disinflation implies negative inflation.</li> <li>Deflation leads to problem of increased unemployment.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Deflation implies negative inflation. Disinflation means decrease in rate of inflation. A reduced money supply or credit availability in an economy is the reason for deflation. Reduced investment spending by government or individuals may also lead to this situation. Deflation leads to low demands for goods and services, which in turn leads to low production in the factories and hence, low requirement of manpower to factories. Thus, it leads to a problem of increased unemployment in an economy."
+}

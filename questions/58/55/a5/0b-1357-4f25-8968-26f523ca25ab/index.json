@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:50.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "5855a50b-1357-4f25-8968-26f523ca25ab",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about the Vittiya Saksharata Abhiyan: <ol> <li>It is an initiative of Ministry of Human Resource Development</li> <li>It aims to create awareness among the people about digital and cashless economy</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Vittiya Saksharata Abhiyan is an initiative of Ministry of Human Resource Development. It aims to create awareness among people about digital economy and cashless. The HRD Ministry has appealed different modes of digital payment like Pre-Paid Card, Debit Card/RuPay, Unstructured Supplementary Service Data (USSD), Mobile Wallet, Aadhar Enabled Payment System (AEPS), Unified Payment Interface (UPI), also Point of Sale (Physical/Virtual)."
+}

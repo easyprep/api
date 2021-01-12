@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:49.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "2df5e8c0-cb5b-4bfc-a14c-166aa885fb50",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about Suryamitra, which was recently in news: <ol> <li>It is a GPS based mobile app developed by Tata Power Solar </li> <li>It aims to provide employability and entrepreneurship to rural and urban youth &amp; women</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the Suryamitra Mobile App is a GPS based mobile app, and is developed by National Institute of Solar Energy (NISE) which is an autonomous institution of Ministry of New &amp; Renewable Energy (MNRE). This is an innovative method to enhance solar power production in the country as the app provides for the employment of trained youth in solar PV technology and also improve the businesses of solar entrepreneurs because of quality servicing, maintenance and repairing professionals are now available to customers at the click of a button on their mobiles."
+}

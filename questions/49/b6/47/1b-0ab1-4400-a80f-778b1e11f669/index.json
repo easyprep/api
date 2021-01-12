@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "49b6471b-0ab1-4400-a80f-778b1e11f669",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The Leq symbol is used in measuring which of the following kinds of pollutions?",
+  "option1": "Air",
+  "option2": "Water",
+  "option3": "Noise",
+  "option4": "None of them",
+  "option5": "",
+  "answer": "Noise",
+  "explanation": "As per the ambient noise standards, that have been notified for different categories like, industrial, commercial and residential areas and silence zones etc, for residential areas, 55 dB (A) Leq during ‘day time’ and 45 dB (A) Leq during ‘night time’ for residential areas have been fixed. Leq is a symbol that represents “Equivalent Continuous Noise Level”. Usually the signal that you are measuring is varying in amplitude.Leq noise levels are logarithmic (dB) values and cannot be added directly. A doubling of sound level results in a measured increase of 3 dB, four identical sources in a room would increase the noise level by 6 dB and so on."
+}

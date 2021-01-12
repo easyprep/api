@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "23102d08-2b5e-4260-b14d-cfe0ded01232",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is/are likely to contribute in reducing fiscal deficit of the government? <ol> <li>Cutting subsidies</li> <li>Increasing  tax-GDP ratio</li> <li>Money raised through government securities</li> <li>Loan from IMF and World Bank</li> </ol> Select the correct option from codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 2",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Money raised through government securities and loans from IMF and World Bank will create liability to the government and hence, will not reduce fiscal deficit of the government."
+}

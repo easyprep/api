@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "1a1328c2-af19-4072-a42f-8dac0e9cbf09",
+  "labels": "current-affairs,2018-08-04",
+  "question": "The \"STRAND LB\" test, which was recently in news, is used to detect:",
+  "option1": "Cancer",
+  "option2": "Tuberculosis (TB)",
+  "option3": "HIV/AIDS",
+  "option4": "Swine flu",
+  "option5": "",
+  "answer": "Cancer",
+  "explanation": "Recently, Strand Life Sciences has launched a Liquid Biopsy test portfolio, called STRAND LB that provides highly sensitive detection of tumour traces from a simple blood draw.  The test is helpful in detecting the wide variety of cancer types &#8211; including lung, colorectal, breast, and bladder cancer."
+}

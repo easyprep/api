@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:50.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "3714941e-b2b9-4c54-8ecd-1de301a50ae5",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following Apps launched by the government with services provided by them: <ol> <li>GARV App -  provides access to digital textbooks and eResources</li> <li>DGFT App -  provide information about foreign trade policy</li> <li>Bhim App -  to promote digital payment</li> </ol> Which of the above is/are correct?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 & 3 Only",
+  "explanation": "DGFT App is an Android app to provide information on foreign trade policy. GARV app provides real time data about rural electrification in India.  Bharat Interface for Money (BHIM) App aims to promote the use of digital modes of transaction."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:56.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "bace25e9-ab96-4e06-b600-be00dd68c702",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following countries: <ol> <li>Bolivia</li> <li>Madagascar</li> <li>South Africa</li> </ol> The Tropic of capricorn passes through which of the above countr(y)/ (ies)?<br>  <br>",
+  "option1": "3 Only",
+  "option2": "2 and 3 Only",
+  "option3": "1,2 and 3",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 and 3 Only",
+  "explanation": "Tropic of capricorn does not pass through Bolivia"
+}

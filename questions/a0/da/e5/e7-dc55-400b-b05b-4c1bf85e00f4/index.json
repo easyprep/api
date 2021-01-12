@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:01.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "a0dae5e7-dc55-400b-b05b-4c1bf85e00f4",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which among the following has the largest share in the renewable energy basket of India at present?",
+  "option1": "Wind Energy",
+  "option2": "Solar Energy",
+  "option3": "Biomass",
+  "option4": "Small Hydropower projects",
+  "option5": "",
+  "answer": "Wind Energy",
+  "explanation": "Sixty-five percent of power from renewable sources comes from wind energy. Biomass accounts for 14%, small hydro- power projects contribute 13% and solar energy 5%. Other sources contribute about 3%."
+}

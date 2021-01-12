@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:54.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "8ad3425c-3c55-4c61-b032-25fcf73311df",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following action(s) will raise Inflation? <ol> <li>Increase in Government expenditure</li> <li>Increase in salaries of working employees</li> <li>Decrease in Bank Rate</li> <li>Increase in Cash Reserve Ratio</li> </ol> Select the correct option from codes given below:",
+  "option1": "1 and 2 Only",
+  "option2": "1, 2 and 3 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1, 2, 3 and 4",
+  "option5": "",
+  "answer": "1, 2 and 3 Only",
+  "explanation": "Increase in Cash Reserve Ratio will increase the amount of money that commercial banks have to keep with the RBI. This will decrease the lending capacity of banks and hence results in low liquidity in the market. Low liquidity creates low demand means less inflation."
+}

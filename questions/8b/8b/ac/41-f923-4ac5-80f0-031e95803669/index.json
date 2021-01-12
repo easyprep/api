@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:49.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "8b8bac41-f923-4ac5-80f0-031e95803669",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about DISANET, which was recently in news: <ol> <li>It is a low-cost communication system developed by IIT Madras</li> <li>It will enable rescue workers to communicate with a locally established centre during natural disasters</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The system, named DISANET is a low-cost communication system developed by IIT Madras. It allows basic services such as voice, text and video communications to be exchanged within this network of rescue workers, Master Operation Centre and the NDMA. The design has four subsystems &mdash; WiFi, a satellite link, single-carrier GSM and LTE (Long Term Evolution) which is a standard for high-speed wireless communication for mobile phones and data terminals."
+}

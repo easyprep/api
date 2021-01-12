@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "e15e9ba3-81e0-4473-a300-deeacbb4f364",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following entities: <ol> <li>Airtel</li> <li>Paytm</li> <li>India Post</li> </ol> As of now, which of the above has/have received &quot;payment bank&quot; permit?",
+  "option1": "1 & 2 Only",
+  "option2": "3 Only",
+  "option3": "2 & 3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Airtel, Paytm and India Post Payments Bank have received the payments bank permit. Payments banks can accept deposits up to 1 lakh per account from individuals and small businesses."
+}

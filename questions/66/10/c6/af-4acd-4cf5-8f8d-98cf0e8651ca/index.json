@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:56.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "6610c6af-4acd-4cf5-8f8d-98cf0e8651ca",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following operations RBI is/are likely to increase liquidity in the market?<br> 1. Increase in reverse repo rate<br> 2. Decreasing the Cash reserve ratio<br> 3. Increase in statutory liquidity Ratio<br> Select the correct option from codes given below:<br>",
+  "option1": "2 Only",
+  "option2": "1 and 2 Only",
+  "option3": "2 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "Only second is the correct answer.Increase in reverse repo rate and increase in SLR will decrease the liquidity in the market."
+}

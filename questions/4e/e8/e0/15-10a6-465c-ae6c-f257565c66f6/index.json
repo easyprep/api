@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:53.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "4ee8e015-10a6-465c-ae6c-f257565c66f6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about SAFANSI Fund: <ol> <li>It is joint initiative of Asian Development Bank (ADB) and SAARC</li> <li>It aims to improve food and nutrition security in South Asia</li> </ol> Which of the above statements is/are correct?",
+  "option1": "1 Only",
+  "option2": "2 Only",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "2 Only",
+  "explanation": "First statement is incorrect because the South Asia Food and Nutrition Security Initiative is a multi-donor trust fund. It is a joint undertaking by both the World Bank and Department for International Development (DfID). DfID is a United Kingdom government department responsible for administering overseas aid."
+}

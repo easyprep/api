@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:02.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "bfbf458b-9e3b-486b-9276-2844d0b43f29",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following forces come under the purview of Defense Ministry?<br> 1. Assam Rifles<br> 2. Border Security Force<br> 3. Central Industrial Security Force<br> 4. Sashastra Seema Bal<br> Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 1, 2 & 4",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Assam Rifles is a paramilitary force, while remaining are CAPFs which come under Home Ministry."
+}

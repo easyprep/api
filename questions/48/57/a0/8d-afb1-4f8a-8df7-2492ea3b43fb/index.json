@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:08.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "4857a08d-afb1-4f8a-8df7-2492ea3b43fb",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following joint military exercises along with countries associated with them:\r\n<ol>\r\n<li>Nomadic Elephant  - India and Thailand</li>\r\n<li>Surya Kiran- India and Bangladesh</li>\r\n<li>Garuda Shakti- India and Indonesia</li>\r\n</ol>\r\nWhich of the above is/are correctly matched?",
+  "option1": "1 Only",
+  "option2": "2 & 3 Only",
+  "option3": "3 Only",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "First pair is incorrect because Nomadic Elephant is a joint military exercise between India and Mongolia. Second pair is incorrect because Surya Kiran is a joint military exercise between India and Nepal. Third pair is correct. Garuda Shakti is a joint military exercise between India and Indonesia."
+}

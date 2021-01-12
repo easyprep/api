@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:58.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "dc2c00df-4170-4a3c-9e08-f27693c7319c",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Coriolis force is:<br> 1. an apparent force caused by the earth&#8217;s rotation and revolution<br> 2. responsible for deflection of winds towards the right in the northern hemisphere and left in the southern hemisphere<br> 3. responsible for deflection of the south-east trade winds which enter the Indian peninsula as the south-west monsoon<br> Choose the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Coriolis Force is an apparent force caused by the earth’s rotation not revolution. The Coriolis force is responsible for deflection of winds towards the right in the northern hemisphere and left in the southern hemisphere. It is also known as Ferrel’s law, and is responsible for deflection of the south-east trade winds which enter the Indian peninsula as the south-west monsoon."
+}

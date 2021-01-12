@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:47.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "075d3984-b701-4bf7-b1b0-75e642168762",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following are the features of Aadhaar Enabled Payment System? <ol> <li>Balance Enquiry</li> <li>Cash Withdrawal</li> <li>Cash Deposit</li> <li>Funds Transfer</li> </ol> Select the correct option from codes given below:",
+  "option1": "1, 2 & 3 Only",
+  "option2": "2 & 3 Only",
+  "option3": "1, 2 & 4 Only",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Aadhaar Enabled Payment System is a payment service empowering a bank customer to use Aadhaar as his/her identity to access his/ her respective Aadhaar enabled bank account and perform basic banking transactions like balance enquiry, cash deposit, cash withdrawal, remittances through a Business Correspondent. It provides the facilities of Balance Enquiry, Cash Withdrawal, Cash Deposit and Fund Transfer."
+}

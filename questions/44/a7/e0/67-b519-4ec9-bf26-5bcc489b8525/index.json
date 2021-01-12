@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:57.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "44a7e067-b519-4ec9-bf26-5bcc489b8525",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following organizations:<br> 1. Central Drugs Standard Control Organisation<br> 2. Drug Controller General of India<br> 3. National Pharma Pricing Authority<br> Which among the above come under the purview of Health Ministry?",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "At present the Central Drugs Standard Control Organisation (CDSCO) and Drug Controller General of India (DGCI), which deal in regulatory control over the import of drugs, approval of new drugs and clinical trials, are governed by the Health Ministry. Whereas, National Pharma Pricing Authority (NPPA), which sets the price limit on essential medicines, comes under Ministry of Chemicals and Fertilisers."
+}

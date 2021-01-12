@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:46.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "d7817005-e4b8-48b6-a703-c1842630e8d6",
+  "labels": "current-affairs,2018-08-04",
+  "question": "A novel small molecule (Disarib), which was recently making news, is used in the treatment of:",
+  "option1": "Cancer",
+  "option2": "Malaria",
+  "option3": "HIV/AIDS",
+  "option4": "Diabetes",
+  "option5": "",
+  "answer": "Cancer",
+  "explanation": "The molecule (Disarib) works by binding itself to a protein called BCL2, which suppresses the death of cancerous cells. While BCL2 protein is produced in excess in cancer cells, its expression is almost undetectable in normal cells. Hence, Disarib targets and kills only cancer cells while sparing normal cells."
+}

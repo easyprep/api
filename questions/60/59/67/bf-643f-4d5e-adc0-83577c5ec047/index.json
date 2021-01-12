@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:03.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "605967bf-643f-4d5e-adc0-83577c5ec047",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Which of the following is/are included under Narrow Money? <ol> <li>Time deposit with banks</li> <li>Demand deposit with banks  </li> <li>Money with public in the form of cash</li> <li>Post office deposit</li> </ol> Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Time deposit and Post office deposit are not a part of narrow money because they are less liquid in market. They are part of the broad money. Post office saving deposit is long term deposit with maturity period of 6 years. Post office also provides time deposits for 1, 2, 3, 5 years without any tax benefit<br>"
+}

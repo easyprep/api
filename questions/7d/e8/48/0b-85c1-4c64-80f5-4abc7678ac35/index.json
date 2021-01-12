@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:59.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "7de8480b-85c1-4c64-80f5-4abc7678ac35",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following statements about MUDRA Bank Loans: <ol> <li>There is no fix Interest rate in MUDRA loan.</li> <li>MUDRA Bank loan is refinanced only through SIDBI.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Mudra Bank stands for Micro Units Development Refinance Agency. It has been established as a subsidiary of SIDBI to refinance small business loans under the Pradhan Mantri Mudra Yojana (PMMY). MUDRA Bank is refinancing through State level institutions, MUDRA will deliver the loan through NBFCs, MFIs, Rural Banks, District Banks, Nationalize Banks, Private Banks, Primary Lending Institutions and other intermediaries.Currently, MUDRA operates as an NBFC registered under RBI. However, MUDRA Bill is proposed to be tabled in parliament, which is likely to enable its conversion into MUDRA Bank. Every bank branch is advised to fund at least one SC/ST and one women entrepreneur."
+}

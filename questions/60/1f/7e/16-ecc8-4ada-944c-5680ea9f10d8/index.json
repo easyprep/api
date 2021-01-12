@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:07:04.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "601f7e16-ecc8-4ada-944c-5680ea9f10d8",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following organizations:<br> 1. Financial Action Task Force on Money Laundering (FATF)<br> 2. Shanghai Cooperation Organisation<br> 3. Arctic Council<br> 4. CERN<br> In Which of the above, India is currently having the Observer status?",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 3 & 4",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "India is a full member of FATF. For rest of the three organizations, India is observer."
+}

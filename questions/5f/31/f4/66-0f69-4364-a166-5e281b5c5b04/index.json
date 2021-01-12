@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:56.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "5f31f466-0f69-4364-a166-5e281b5c5b04",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Consider the following water bodies: <ol> <li>Lake Baikal</li> <li>Lake Victoria</li> <li>Dead Sea</li> </ol> Which of the above is/are salt water bod(y)/ (ies)?<br>  <br>",
+  "option1": "3 Only",
+  "option2": "1 and 2 Only",
+  "option3": "1 and 3 Only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "3 Only",
+  "explanation": "Lake Baikal (Russia) and Lake Victoria (Africa) are Fresh water bodies of the world."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2018-08-03T21:06:57.000Z",
+  "updated_at": "2021-01-06T08:24:32.579Z",
+  "id": "b136627a-8e95-40c6-9385-9533d21f9f43",
+  "labels": "current-affairs,2018-08-04",
+  "question": "Recently, Rajya Sabha passed the Women&#039;s Reservation Bill, which proposes to amend the Constitution of India. In this context, consider the following statements: <ol> <li>A Constitution Amendment Bill can be introduced only with prior permission of the president.</li> <li>The bill can be introduced either by a minister or by a private member.</li> <li>The President can neither withhold his assent to the bill nor return the bill for reconsideration of the Parliament.</li> </ol> Which of the above statements is/are correct?",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "<u>First statement is incorrect</u> because this type of constitution amendment Bill does not require prior permission of the president. Second statement is correct. Third statement is also correct. After duly passed by both the Houses of Parliament and ratified by the state legislatures, where necessary, the bill is presented to the president for assent. The president must give his assent to the bill.<br>"
+}
