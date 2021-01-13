@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:54:10.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "47e5d942-a6e3-4f71-878c-24fd9ea16791",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which among the chemicals come under Basic Chemicals?<br />1. Adhesive sealant<br />2. Plastics<br />3. Fertilizers<br />4. Petrochemicals<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3 only",
+  "option2": "2,3 and 4 only",
+  "option3": "1,2,3 and 4",
+  "option4": "3 and 4 only",
+  "option5": "",
+  "answer": "3 and 4 only",
+  "explanation": "The basic chemicals are - Petrochemicals, Fertilizers,Inorganic chemicals, Other Industrial chemicals. The Speciality chemicals are Adhesive sealant,catalysts,industrial gases,plastic additives."
+}

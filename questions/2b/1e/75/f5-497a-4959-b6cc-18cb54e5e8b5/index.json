@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "2b1e75f5-497a-4959-b6cc-18cb54e5e8b5",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the frequency of the publication of IIP?",
+  "option1": "1 year",
+  "option2": "6 months",
+  "option3": "1 month",
+  "option4": "1 week",
+  "option5": "",
+  "answer": "",
+  "explanation": "The Index of Industrial Production(IIP) is produced monthly. It is produced with a time lag of 6 weeks. It is released by CSO."
+}

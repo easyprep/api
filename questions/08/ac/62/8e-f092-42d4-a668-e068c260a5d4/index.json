@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:49.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "08ac628e-f092-42d4-a668-e068c260a5d4",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following layers of the earth's atmosphere helps in Radio transmission?",
+  "option1": "Troposphere",
+  "option2": "Stratosphere",
+  "option3": "Mesosphere",
+  "option4": "Thermosphere",
+  "option5": "",
+  "answer": "Thermosphere",
+  "explanation": "The Thermosphere is located between 80 and 400 km above the mesopause. It contains electrically charged particles known as ions.It is therefore known as Ionosphere. The temperature here starts increasing with heights. Radio waves transmitted from the earth are reflected back to the earth by this layer."
+}

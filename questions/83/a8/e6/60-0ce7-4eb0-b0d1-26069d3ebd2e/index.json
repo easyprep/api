@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:52:59.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "83a8e660-0ce7-4eb0-b0d1-26069d3ebd2e",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about atmospheric pressure?<br />\n<ol>\n<li>A rising pressure indicates fine and settled weather.</li>\n<li>A falling pressure indicates unstable and cloudy weather.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The force exerted on the surface by the column of air above it is called atmospheric pressure or air pressure. A change in either temperature or density will cause a corresponding change in the air pressure. A rising pressure indicates fine, settled weather whereas a falling pressure indicates unstable and cloudy weather."
+}

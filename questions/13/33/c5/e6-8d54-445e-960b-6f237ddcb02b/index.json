@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-26T01:07:27.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "1333c5e6-8d54-445e-960b-6f237ddcb02b",
+  "labels": "current-affairs,2020-07-27",
+  "question": "Which among the following statements is/are correct about land and sea breeze?<br />\n<ol>\n<li>In Land breeze the winds blow the sea to the land during the night</li>\n<li>In Sea breeze the winds blow from the land to the sea during the day </li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "The land and sea absorb and transfer heat differently. During the day the land heats up faster and becomes warmer than the sea whereas the sea is relatively cool and the pressure over sea is relatively high. Thus, pressure gradient from sea to land is created and the wind blows from the sea to the land as the sea breeze.  <br /><br />In the night the reversal of condition takes place. The land loses heat faster and is cooler than the sea. The pressure gradient is from the land to the sea and hence land breeze results.."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:20.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "d9a34147-f3d0-4b39-83c1-96d1a37a0371",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the Coriolis Force?<br />\n<ol>\n<li>It is the effect of rotation of earth on direction of winds</li>\n<li>It is maximum at the equator and zero at the poles.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "It is an apparent force produced due to the rotation of earth. It deflects the wind rightward in northern hemisphere and leftward in southern hemisphere. The Coriolis force is directly proportional to the angle of latitude. It is maximum at the poles and is absent at the equator."
+}

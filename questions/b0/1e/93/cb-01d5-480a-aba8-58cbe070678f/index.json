@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:50.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "b01e93cb-01d5-480a-aba8-58cbe070678f",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the Thermosphere?<br />\n<ol>\n<li>It lies upto an altitude of 80 km from the earth’s surface.</li>\n<li>It contains electrically charged particles known as ions.</li>\n<li>The temperature here starts increasing with heights.</li>\n<li>The International Space Station and other satellites orbit in this layer.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1, 3 & 4",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "The Thermosphere is located between 80 and 400 km above the mesopause. It contains electrically charged particles known as ions. It is therefore known as Ionosphere. The temperature here starts increasing with heights. Radio waves transmitted from the earth are reflected back to the earth by this layer. The International Space Station and other satellites orbit in this layer. Auroras are observed in the lower parts of this layer."
+}

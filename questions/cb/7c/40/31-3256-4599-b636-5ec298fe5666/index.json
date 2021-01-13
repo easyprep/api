@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:49.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "cb7c4031-3256-4599-b636-5ec298fe5666",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following layers of the Earth's atmosphere is electrically charged?",
+  "option1": "Troposphere",
+  "option2": "Mesosphere",
+  "option3": "Stratosphere",
+  "option4": "Thermosphere",
+  "option5": "",
+  "answer": "Thermosphere",
+  "explanation": "The Thermosphere is located between 80 and 400 km above the mesopause. It contains electrically charged particles known as ions. It is therefore known as Ionosphere."
+}

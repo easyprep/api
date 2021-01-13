@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:10.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "b4f9d2dd-5cc7-4928-af78-bccdba4e64c2",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which sector of the economy has more weightage in IIP calculation?",
+  "option1": "Manufacturing",
+  "option2": "Mining",
+  "option3": "Electricity",
+  "option4": "Services",
+  "option5": "",
+  "answer": "Manufacturing",
+  "explanation": "The weights of the sectors of the economy are : <br />1. Manufacturing – 77.63%<br />2. Mining – 14.37%<br />3. Electricity – 7.99%"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:57:27.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "3524eaa7-aa40-4088-9205-c26bfe0b7dc8",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is India's contribution to global smartphone market in 2019?",
+  "option1": 0.09,
+  "option2": 0.16,
+  "option3": 0.35,
+  "option4": 0.22,
+  "option5": "",
+  "answer": 0.16,
+  "explanation": "India’s contribution to the global smartphone market is 16% in 2019. It increased from 9 percent in 2016 to 16 percent in 2019."
+}

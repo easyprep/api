@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:43:08.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "9a24eb2a-59d6-4a1f-955b-97b66268a0a4",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the total output from MSME's out of total Manufacturing output?",
+  "option1": 0.5,
+  "option2": 0.45,
+  "option3": 0.35,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.45,
+  "explanation": "MSME accounts for more than 45% of total manufacturing output of the country. It contributes majorly towards employment and to the GDP."
+}

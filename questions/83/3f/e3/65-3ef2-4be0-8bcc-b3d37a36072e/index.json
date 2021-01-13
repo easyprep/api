@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:20.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "833fe365-3ef2-4be0-8bcc-b3d37a36072e",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs is/are correctly matched?<br />\n<ol>\n<li>Rise in Temperature - Pressure Decreases</li>\n<li>Increase in Altitude - Pressure Increases</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "A change in either temperature or density will cause a corresponding change in the air pressure. The air pressure is proportional to density as well as temperature. The rise in temperature leads to decrease in the pressure. As we go at higher latitude, the pressure decreases."
+}

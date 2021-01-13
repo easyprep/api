@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:54:14.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "ed34e488-6cc1-42cf-8a93-fa69513cc1af",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the growth rate of agrochemicals in India for the last 3 years?",
+  "option1": 0.05,
+  "option2": 0.06,
+  "option3": 0.07,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.08,
+  "explanation": "The growth rate of agrochemicals in India for the last 3 years is 8% per annum on an average. It is a very important chemical type in India."
+}

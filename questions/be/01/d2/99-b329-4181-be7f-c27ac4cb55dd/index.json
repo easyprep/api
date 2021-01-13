@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:38:02.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "be01d299-b329-4181-be7f-c27ac4cb55dd",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is India's share in world's electronic hardware production?",
+  "option1": 0.015,
+  "option2": 0.03,
+  "option3": 0.02,
+  "option4": 0.025,
+  "option5": "",
+  "answer": 0.015,
+  "explanation": "India’s electronics hardware output accounts for just 1.5% of world output. The value of the industry has increased from $37 billion in 2014-15 to $53 billion in 2017-18."
+}

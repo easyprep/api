@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-26T01:10:34.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "19719188-5886-4af6-9d36-9fe6894e102a",
+  "labels": "current-affairs,2020-07-27",
+  "question": "How many Industries are there in schedule B of the Industrial act of 1956?",
+  "option1": 10,
+  "option2": 12,
+  "option3": 17,
+  "option4": 19,
+  "option5": "",
+  "answer": 12,
+  "explanation": "In the Schedule B of Industrial act of 1956, there are 12 industries. They were open to both the private and public sectors but most were owned only by Public sectors. Schedule A which are exclusively for Public sector are 17 industries. The rest of the industries are under Schedule C."
+}

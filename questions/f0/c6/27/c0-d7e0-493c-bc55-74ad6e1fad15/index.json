@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:43.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "f0c627c0-d7e0-493c-bc55-74ad6e1fad15",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct ?<br />\n<ol>\n<li>The specific heat of land is more than that of water.</li>\n<li>Diurnal and annual range of temperatures are least in oceans.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Distribution of land and sea is an important control of the distribution of temperature. The specific heat .i.e. heat required to increase the temperature of one gram of substance by one degree Celsius, of water is more than that of land. And the Diurnal and annual range of temperatures are least in oceans because of high specific heat of water and mixing of water keep the range low."
+}

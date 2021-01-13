@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:43:09.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "9dd60c92-0101-41b5-ad5c-f3a46671371f",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the maximum investment in a manufacturing company to be considered as a Small company?",
+  "option1": "10 crores",
+  "option2": "5 crores",
+  "option3": "20 crores",
+  "option4": "1 crores",
+  "option5": "",
+  "answer": "10 crores",
+  "explanation": "According to the new definition, a manufacturing company is a micro company if its investment is less than 1 crore, small company investment is less than 10 crore and medium industries investment is 20 crores."
+}

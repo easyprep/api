@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "dd1a49d3-13d9-47d1-a4b9-4f32bda6e871",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which formula is used to calculate the weighted mean of the sectors in the Index of Industrial Production (IIP)?",
+  "option1": "Paasche's formulae",
+  "option2": "Laspeyres' formula",
+  "option3": "Lucke formulae",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Laspeyres' formula",
+  "explanation": "Laspeyres' formula is used to calculate the weighted mean of the sectors in the Index of Industrial Production (IIP)."
+}

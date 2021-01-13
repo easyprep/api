@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:54:09.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "b76098ff-fc1e-4112-95f9-4cff6872a1dc",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the contribution of the chemical industry to Indian GDP?",
+  "option1": 0.04,
+  "option2": 0.03,
+  "option3": 0.06,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.03,
+  "explanation": "The chemical industry contributes about 3 percent of the GDP. The industry output is estimated at US$ 35 billion, with a total investment of approximately US$ 60 billion."
+}

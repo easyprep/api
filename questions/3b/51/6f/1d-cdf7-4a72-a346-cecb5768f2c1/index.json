@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:43.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "3b516f1d-cdf7-4a72-a346-cecb5768f2c1",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the ozone layer?<br />\n<ol>\n<li>It is present in the at a height of around 30 - 60 km in the stratosphere</li>\n<li>This layer reflects the harmful ultraviolet radiation.</li>\n<li>The temperature in this layer decreases at the rate of 5 degree celsius per kilometre. </li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The Ozone lies at an altitude between 30 km and 60 km from the earth’s surface. It spans the stratosphere and lower mesosphere. This layer reflects the harmful ultraviolet radiation. The Ozone layer or the ozonosphere is also called chemosphere because a lot of chemical activity takes place here. The temperature rises at a rate of 5 degree celsius per kilometer through this layer."
+}

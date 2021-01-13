@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:52:57.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "b4e56375-0ecf-4641-a002-eb9e3bc3dfdc",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about atmospheric pressure?<br />\n<ol>\n<li>The air at the surface is denser and hence has lower pressure</li>\n<li>The air pressure is proportional to density as well as temperature</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Due to the influence of gravity, the air at the surface is denser and hence has higher pressure. A change in either temperature or density will cause a corresponding change in the air pressure. The air pressure is proportional to density as well as temperature."
+}

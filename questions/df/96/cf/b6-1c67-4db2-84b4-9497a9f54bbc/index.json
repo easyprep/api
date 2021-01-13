@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:44:26.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "df96cfb6-1c67-4db2-84b4-9497a9f54bbc",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is Original Equipment Manufacturer (OEM)?",
+  "option1": "Who manufactures original parts of an automobile",
+  "option2": "Who manufactures goods to be used by another company",
+  "option3": "Who assembles the finished good",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Who manufactures goods to be used by another company",
+  "explanation": "An original equipment manufacturer (OEM) is a company whose goods are used as components in the products of another company, which then sells the finished item to users."
+}

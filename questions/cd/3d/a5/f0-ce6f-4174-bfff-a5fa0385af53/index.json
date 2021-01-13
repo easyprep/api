@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "cd3da5f0-ce6f-4174-bfff-a5fa0385af53",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which sectors growth was positive during the lockdown in March 2020 among the core sectors ?",
+  "option1": "Electricity",
+  "option2": "Steel",
+  "option3": "Coal",
+  "option4": "Petroleum",
+  "option5": "",
+  "answer": "Coal",
+  "explanation": "The output of the core industries has reduced by 6.5% in the month of March during lockdown. This is the sharpest reduction since 2012. The petroleum sector slid by 0.5%, demand of electricity decreased by 7.2%, cement industry saw 25% drop, steel production demand reduced by 13%. The only sector that saw a positive figure was coal."
+}

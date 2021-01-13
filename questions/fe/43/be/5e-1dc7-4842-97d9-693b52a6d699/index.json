@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "fe43be5e-1dc7-4842-97d9-693b52a6d699",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the time lag for the publication of IIP of a particular month?",
+  "option1": "2 weeks",
+  "option2": "6 weeks",
+  "option3": "8 weeks",
+  "option4": "None",
+  "option5": "",
+  "answer": "6 weeks",
+  "explanation": "The time lag for the publication of IIP of a particular month is 6 weeks. For a particular month, the data produced is with a delay of 6 weeks."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:46.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "67571381-fbd0-44f1-84bf-231050c9d86c",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about Mesosphere?<br />\n<ol>\n<li>It is an intermediate layer beyond the ozone layer.</li>\n<li>It lies upto an altitude of 50 km from the earth’s surface.</li>\n<li>The temperature gradually increases to 100°C  in this layer.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The Mesosphere is the layer of the earth's atmosphere which is an intermediate layer beyond the ozone layer. It lies upto an altitude of 80 km from the earth’s surface. The temperature gradually falls to -100°C at 80 km altitude in this layer. The meteorites burn up in this layer on entering from the space."
+}

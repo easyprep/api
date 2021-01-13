@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:44:26.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "a5191f34-3cb2-4f1e-a6e9-da3bbae96577",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the contribution of auto components to Indian GDP?",
+  "option1": 0.041,
+  "option2": 0.023,
+  "option3": 0.032,
+  "option4": 0.054,
+  "option5": "",
+  "answer": 0.023,
+  "explanation": "The Auto-components industry contributes about 2.3 percent to India’s Gross Domestic Product (GDP). It employs as many as 1.5 million people directly and indirectly each."
+}

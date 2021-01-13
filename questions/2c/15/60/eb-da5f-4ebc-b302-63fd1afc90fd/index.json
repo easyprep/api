@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:52.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "2c1560eb-da5f-4ebc-b302-63fd1afc90fd",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which is the outermost layer of the Earth's atmosphere?",
+  "option1": "Troposphere",
+  "option2": "Stratosphere",
+  "option3": "Thermosphere",
+  "option4": "Exosphere",
+  "option5": "",
+  "answer": "Exosphere",
+  "explanation": "The Exosphere is the outermost layer of the Earth's atmosphere. It extends beyond the ionosphere above a height of about 400 km. The air is extremely rarefied in this layer. The temperature gradually increases through this layer as it is exposed to direct sunlight. This layer coincides with space."
+}

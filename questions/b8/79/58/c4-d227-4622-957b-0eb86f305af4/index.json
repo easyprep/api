@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:41:46.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "b87958c4-d227-4622-957b-0eb86f305af4",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs of volcanoes is/are correctly matched?<br />\n<ol>\n<li>Mount Fuji - Japan</li>\n<li>Volcan Sangay - Mexico</li>\n<li>Mount Agung - Indonesia</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "Volcan Sangay also known as Macas is an active stratovolcano in central Ecuador. It exhibits strombolian activity. It is the most active volcano in Ecuador, despite erupting only four times in recorded history."
+}

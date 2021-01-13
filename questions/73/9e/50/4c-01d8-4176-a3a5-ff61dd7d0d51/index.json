@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:40:33.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "739e504c-01d8-4176-a3a5-ff61dd7d0d51",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the 'Great Plains'?<br />\n<ol>\n<li>The Great Plains is located in United States and Canada.</li>\n<li>It lies east of the Mississippi River and west of the Rocky Mountains.</li>\n<li>They are famous for cattle ranching and dry land farming.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 3",
+  "explanation": "The Great Plains is located in United States and Canada. It lies<strong> west</strong> of the Mississippi River and <strong>east</strong> of the Rocky Mountains in the U.S. and Canada. The Great Plains is famous for extensive cattle ranching and dry farming. The Canadian portion of the Plains is known as the Canadian Prairies."
+}

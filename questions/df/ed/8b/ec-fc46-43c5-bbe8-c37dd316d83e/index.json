@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "dfed8bec-fc46-43c5-bbe8-c37dd316d83e",
+  "labels": "current-affairs,2020-07-26",
+  "question": "In what form does the earth receive the sun’s radiation?<br />\n<ol>\n<li>Short wave</li>\n<li>Long wave</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The atmosphere of the earth is not heated directly by the sun. The incoming energy  .i.e. insolation is mostly in the form of short-wave radiation. The earth absorbs short wave radiation during daytime and reflects back the heat received into space as long-wave radiation which is mostly infrared radiation during night."
+}

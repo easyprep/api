@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:08.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "abc3cc33-faa3-4898-9a3e-f44d2d7beabf",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about atmospheric pressure?<br />\n<ol>\n<li>Low pressure system is enclosed by one or more isobars with the highest pressure in the centre</li>\n<li>High-pressure system is enclosed by one or more isobars with the lowest pressure in the centre.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "The force exerted on the surface by the column of air above it is called atmospheric pressure or air pressure. Low pressure system is enclosed by one or more isobars with the lowest pressure in the centre. Whereas, high pressure system is enclosed by one or more isobars with the highest pressure in the centre."
+}

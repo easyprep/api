@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "e501e6b6-8787-450d-89fa-cfb64fc1564d",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which process is important in heating the lower layers of the atmosphere?",
+  "option1": "Insolation",
+  "option2": "Radiation",
+  "option3": "Conduction",
+  "option4": "Convection",
+  "option5": "",
+  "answer": "Conduction",
+  "explanation": "Conduction is the heat transfer through matter by molecular activity. The air in contact with the land gets heated slowly and the upper layers in contact with the lower layers also get heated. This process is called conduction. Conduction takes place when two bodies of unequal temperature are in contact with one another; there is a flow of energy from the warmer to cooler body."
+}

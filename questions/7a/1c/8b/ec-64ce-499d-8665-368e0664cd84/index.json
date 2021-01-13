@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:50:06.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "7a1c8bec-64ce-499d-8665-368e0664cd84",
+  "labels": "current-affairs,2020-07-29",
+  "question": "How much carbon dioxide emissions is because of cement production?",
+  "option1": 0.1,
+  "option2": 0.15,
+  "option3": 0.07,
+  "option4": 0.19,
+  "option5": "",
+  "answer": 0.07,
+  "explanation": "The production of cement is a cause of 7 % of global carbon dioxide emissions. Cement’s contribution to emissions is especially immense because of the chemical process required to make it."
+}

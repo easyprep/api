@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:57:26.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "600c3ff7-72da-4796-a19b-ed82076675b0",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the default room temperatures for air conditioners in India?",
+  "option1": "32 deg cel",
+  "option2": "22 deg cel",
+  "option3": "17 deg cel",
+  "option4": "24 deg cel",
+  "option5": "",
+  "answer": "24 deg cel",
+  "explanation": "The Bureau of Energy Efficiency (BEE) made it mandatory for all room air conditioners to have a default temperature of 24 degrees Celsius."
+}

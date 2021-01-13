@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:17.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "51c91aed-acd2-4a27-97f6-4d303a6f7fea",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the Coriolis Force?<br />\n<ol>\n<li>It is the effect of rotation of earth on direction of winds</li>\n<li>The winds blowing in the Northern Hemisphere are deflected to their left</li>\n<li>The winds blowing in the Southern Hemisphere are deflected to their right</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The effect of rotation of earth on direction of winds is called the Coriolis effect. It causes deflection in the direction of winds. The winds blowing in the Northern Hemisphere are deflected to their right and those blowing in the Southern Hemisphere to their left under the Coriolis effect. This principle of deflection is called Ferrel's Law."
+}

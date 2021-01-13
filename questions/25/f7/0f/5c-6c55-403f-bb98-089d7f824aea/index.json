@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:38:02.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "25f70f5c-6c55-403f-bb98-089d7f824aea",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the percentage of e-waste that is recycled?",
+  "option1": 0.015,
+  "option2": 0.05,
+  "option3": 0.03,
+  "option4": 0.07,
+  "option5": "",
+  "answer": 0.015,
+  "explanation": "Out of the total e-waste that is generated only 1.5% is recycled. Poor infrastructure, legislation and framework are the main reasons."
+}

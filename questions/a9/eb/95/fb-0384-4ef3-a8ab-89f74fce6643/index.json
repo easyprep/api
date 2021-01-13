@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:45:09.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "a9eb95fb-0384-4ef3-a8ab-89f74fce6643",
+  "labels": "current-affairs,2020-07-26",
+  "question": "The Syrian desert covers which among the following countries?<br />\n<ol>\n<li>Iran</li>\n<li>Iraq</li>\n<li>Jordan</li>\n<li>Syria</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 4",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 2, 3 & 4",
+  "option4": "Only 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "The Syrian desert also known as the Jordanian Steppe or the Badia, is a region of desert, semi-desert and steppe covering 500,000 square kilometers. It covers the countries: Iraq, Jordan and Syria."
+}

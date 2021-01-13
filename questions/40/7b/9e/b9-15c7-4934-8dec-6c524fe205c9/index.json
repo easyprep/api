@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:44:26.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "407b9eb9-15c7-4934-8dec-6c524fe205c9",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the import tax by India on foreign imported cars?",
+  "option1": 0.5,
+  "option2": 1,
+  "option3": 1.25,
+  "option4": 0.25,
+  "option5": "",
+  "answer": 1.25,
+  "explanation": "India charges an import tax of 125% in the foreign imported cars. It charges 10% for the imported components."
+}

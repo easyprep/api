@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:17.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "6ae0d311-c804-45d1-a3cd-5e868915fa7f",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the effect of rotation of earth on the direction of the winds called?",
+  "option1": "Pressure Gradient Effect",
+  "option2": "Coriolis Effect",
+  "option3": "Frictional Effect",
+  "option4": "Centripetal Effect",
+  "option5": "",
+  "answer": "Coriolis Effect",
+  "explanation": "The effect of rotation of earth on direction of winds is called the Coriolis effect. It causes deflection in the direction of<br />winds. The winds blowing in the Northern Hemisphere are deflected to their right and those blowing in the Southern Hemisphere to their left under the Coriolis effect. This principle of deflection is called Ferrel's Law."
+}

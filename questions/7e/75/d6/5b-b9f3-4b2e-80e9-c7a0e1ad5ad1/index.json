@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:43:08.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "7e75d65b-b9f3-4b2e-80e9-c7a0e1ad5ad1",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the maximum loan under the Kishor type of loan for MSME under Mudra Yojna?",
+  "option1": 50000,
+  "option2": "5 Lakhs",
+  "option3": "10 Lakhs",
+  "option4": "3 Lakhs",
+  "option5": "",
+  "answer": "5 Lakhs",
+  "explanation": "There are 3 types of loans under PM Mudra Yojna:<br />1. Sishu - &gt;50,000<br />2. Kishor - 50,000 - 5 lakhs<br />3. Tarun - 5 lakhs-10 lakhs"
+}

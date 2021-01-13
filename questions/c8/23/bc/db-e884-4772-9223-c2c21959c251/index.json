@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:43:08.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "c823bcdb-e884-4772-9223-c2c21959c251",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the maximum employees in a small business in China?",
+  "option1": 200,
+  "option2": 300,
+  "option3": 250,
+  "option4": 175,
+  "option5": "",
+  "answer": 300,
+  "explanation": "In China, a small business has less than 300 employees and medium-sized business has employees between 301 and 2,000."
+}

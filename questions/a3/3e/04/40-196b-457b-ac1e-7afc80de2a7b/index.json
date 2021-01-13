@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:17.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "a33e0440-196b-457b-ac1e-7afc80de2a7b",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is a law stating that Coriolis forces deflect winds to the right in the northern hemisphere and to the left in the southern hemisphere called?",
+  "option1": "Boyle's Law",
+  "option2": "Zeroth Law",
+  "option3": "Ferrel's Law",
+  "option4": "Hooke's Law",
+  "option5": "",
+  "answer": "Ferrel's Law",
+  "explanation": "The effect of rotation of earth on direction of winds is called the Coriolis effect. It causes deflection in the direction of winds. The winds blowing in the Northern Hemisphere are deflected to their right and those blowing in the Southern Hemisphere to their left under the Coriolis effect. This principle of deflection is called Ferrel's Law."
+}

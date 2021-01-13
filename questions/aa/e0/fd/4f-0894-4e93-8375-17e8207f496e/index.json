@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "aae0fd4f-0894-4e93-8375-17e8207f496e",
+  "labels": "current-affairs,2020-07-29",
+  "question": "The consumer price index is based on which price?",
+  "option1": "Retail price",
+  "option2": "Wholesale price",
+  "option3": "Both Wholesale and retail price",
+  "option4": "None of the price",
+  "option5": "",
+  "answer": "Retail price",
+  "explanation": "CPI covers only consumer goods and consumer services. It is based on the retail price."
+}

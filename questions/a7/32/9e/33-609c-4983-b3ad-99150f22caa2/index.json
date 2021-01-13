@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:52:54.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "a7329e33-609c-4983-b3ad-99150f22caa2",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about atmospheric pressure?<br />\n<ol>\n<li>The atmospheric pressure increases with height</li>\n<li>It is measured by means of an instrument called barometer</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The force exerted on the surface by the column of air above it is called atmospheric pressure or air pressure. It is measured by means of an instrument called barometer. The atmospheric pressure decreases on an average at the rate of about 34 millibars every 300 metres of height."
+}

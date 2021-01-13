@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "f7ee27ef-ca0f-43a5-b565-79ae18e0896b",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the value of base year in IIP?",
+  "option1": 100,
+  "option2": 1000,
+  "option3": 10,
+  "option4": 0,
+  "option5": "",
+  "answer": 100,
+  "explanation": "The base year value in IIP is always 100. The base year is 2011-12."
+}

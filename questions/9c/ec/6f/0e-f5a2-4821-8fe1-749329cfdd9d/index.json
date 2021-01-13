@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "9cec6f0e-f5a2-4821-8fe1-749329cfdd9d",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the frequency of the Consumer Price Index (CPI)?",
+  "option1": "Monthly",
+  "option2": "Weekly",
+  "option3": "Yearly",
+  "option4": "Daily",
+  "option5": "",
+  "answer": "Monthly",
+  "explanation": "The Consumer Price Index (CPI) is released monthly by CSO. It has both headline and core inflation measured."
+}

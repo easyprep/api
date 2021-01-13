@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:31.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "5db99d38-98c9-4399-ae75-6ecddf622661",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the constituents of the atmosphere?<br />\n<ol>\n<li>Higher concentration of dust particles is found in the sub tropical and temperate regions.</li>\n<li>Amount of water vapour decrease with altitude</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Dust particles are generally found in the lower layers of the atmosphere. They are found in the form of sand, smoke-soot, oceanic salt, ash, pollen, etc. Higher concentration of dust particles is found in the sub tropical and temperate regions due to dry winds.<br /><br />Water Vapour is formed in the atmosphere due to evaporation from surface water bodies. It is the source of all kinds of precipitation. It acts as a blanket, allowing the earth to neither become too hot or too cold. Amount of water vapour decreases with altitude."
+}

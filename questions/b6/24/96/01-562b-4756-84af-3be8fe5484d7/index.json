@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-26T05:36:48.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "b6249601-562b-4756-84af-3be8fe5484d7",
+  "labels": "current-affairs,2020-07-27",
+  "question": "Which Indian institution has developed a new portable device that gives result in an hour?",
+  "option1": "IIT Kharagpur",
+  "option2": "IIT Madras",
+  "option3": "IIT Bombay",
+  "option4": "IIT Guwahati",
+  "option5": "",
+  "answer": "IIT Kharagpur",
+  "explanation": "Researchers at IIT Kharagpur have developed a new low-cost, portable device that can test for Covid-19 and give results in an hour.\r\nThe new technology has accuracy similar to the RT-PCR test, which is now considered the standard for testing. The device uses a disposable paper strip for analysing the sample and the results are made available in a mobile application."
+}

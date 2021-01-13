@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-26T01:07:17.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "2396adfe-14ce-411b-827b-21393b8deabc",
+  "labels": "current-affairs,2020-07-27",
+  "question": "Which instrument is used to measure the wind speed?",
+  "option1": "Wind vane",
+  "option2": "Barometer",
+  "option3": "Hygrometer",
+  "option4": "Anemometer",
+  "option5": "",
+  "answer": "Anemometer",
+  "explanation": "Wind is an air movement having both direction and speed. The direction of the wind is measured by a conventional instrument called weather vane. The wind speed is measure by the instrument called Anemometer."
+}

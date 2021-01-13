@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:02.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "3f7ed30e-0d18-4136-9bd0-10fc71a74115",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What are lines connecting places having equal pressure called?",
+  "option1": "Isotherms",
+  "option2": "Isohalines",
+  "option3": "Isobars",
+  "option4": "Eurytherm",
+  "option5": "",
+  "answer": "Isobars",
+  "explanation": "The force exerted on the surface by the column of air above it is called atmospheric pressure or air pressure. It is measured by means of an instrument called barometer. Isobars are lines connecting places having equal pressure. It is measured at any station after being reduced to sea level."
+}

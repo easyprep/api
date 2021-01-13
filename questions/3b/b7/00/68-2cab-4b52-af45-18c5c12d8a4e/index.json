@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:10.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "3bb70068-2cab-4b52-af45-18c5c12d8a4e",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which among the following is not a core industry in IIP calculation?",
+  "option1": "Coal",
+  "option2": "Electricity",
+  "option3": "Automobile",
+  "option4": "Fertilizers",
+  "option5": "",
+  "answer": "Automobile",
+  "explanation": "The 8 core industries of IIP are:<br />1. Coal <br />2. Crude oil<br />3. Natural gas<br />4. Refinery product<br />5. Fertilizer<br />6. Steel<br />7. Cement<br />8. Electricity"
+}

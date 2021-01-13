@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-26T01:07:36.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "b6534f87-a5ed-4b7b-b499-06d33f02b787",
+  "labels": "current-affairs,2020-07-27",
+  "question": "Which among the following are hot local winds?<br />\n<ol>\n<li>Chinook </li>\n<li>Harmattan </li>\n<li>Mistral</li>\n<li>Sirocco</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 4",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "Hot Local winds are produced generally by the mechanism of downslope compressional heating which is also known as adiabatic heating.<br />Examples of Hot winds include:<br />Chinook, Harmattan, Foehn, Sirocco, Norwester, Brickfielder, Khamsin, Santa Ana, Loo, etc."
+}

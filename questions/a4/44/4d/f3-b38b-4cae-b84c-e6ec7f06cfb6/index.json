@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "a4444df3-b38b-4cae-b84c-e6ec7f06cfb6",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which Index is used to calculate inflation?",
+  "option1": "CPI",
+  "option2": "WPI",
+  "option3": "IIP",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "WPI",
+  "explanation": "The wholesale price index is used for the calculation of Inflation in India. It tells us whether inflation exists or not."
+}

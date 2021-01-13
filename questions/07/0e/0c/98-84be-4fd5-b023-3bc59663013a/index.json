@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "070e0c98-84be-4fd5-b023-3bc59663013a",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the heating of the earth's atmosphere?<br />\n<ol>\n<li>The atmosphere acts as a transparent medium for the incoming radiation.</li>\n<li>The atmosphere acts as an opaque body for the long-wave radiation.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The incoming energy .i.e. insolation is mostly in the form of short-wave radiation. The earth absorbs short wave radiation during daytime and reflects back the heat received into space as long-wave radiation which is mostly infrared radiation during night. <br />The Earth's atmosphere acts as a transparent medium for the incoming radiation and an opaque body for the long wave radiation."
+}

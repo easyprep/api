@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:52:54.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "f79a6411-6db3-42e4-9ff2-c512c9c20bd3",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which instrument is used to measure atmospheric pressure?",
+  "option1": "Wind vane",
+  "option2": "Thermometer",
+  "option3": "Barometer",
+  "option4": "Hygrometer",
+  "option5": "",
+  "answer": "Barometer",
+  "explanation": "The force exerted on the surface by the column of air above it is called atmospheric pressure or air pressure. It is measured by means of an instrument called barometer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:03:07.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "fde0c961-c1da-42bf-86ad-1fbbf37bc3c7",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the export growth of engineering goods in the year 2019?",
+  "option1": 0.0345,
+  "option2": 0.0453,
+  "option3": 0.0632,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0.0632,
+  "explanation": "The export of engineering goods of India grew 6.32 % to reach US$ 81 billion in FY2019."
+}

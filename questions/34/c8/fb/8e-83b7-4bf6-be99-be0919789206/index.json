@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "34c8fb8e-83b7-4bf6-be99-be0919789206",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following has the highest albedo?",
+  "option1": "Forests",
+  "option2": "Deserts",
+  "option3": "Fresh snow",
+  "option4": "Land surface",
+  "option5": "",
+  "answer": "Fresh snow",
+  "explanation": "The proportion of insolation that is reflected back by the surface is called its albedo. <br />Albedos of different bodies:<br />land surface - 8 and 40% <br />forests - 9 to 18% <br />desert sands - 30 to 40% <br />Fresh snow - 85%"
+}

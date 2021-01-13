@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "da6f236f-f6c3-460d-ab2d-201f00c0e70f",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the albedo of the earth as a whole?",
+  "option1": "55 %",
+  "option2": "25 %",
+  "option3": "15 %",
+  "option4": "35 %",
+  "option5": "",
+  "answer": "35 %",
+  "explanation": "The proportion of insolation that is reflected back by the surface is called its albedo. It depends upon the nature of the surface upon which the solar radiation is incident and the angle of incidence of the solar beam. The albedo for the earth as a whole is called the planetary albedo and it is 35%."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:42.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "abdadc51-66d6-4c38-8bdd-e42624ee4ad5",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following important factors affect the atmospheric temperature?<br />\n<ol>\n<li>Cloud cover</li>\n<li>Distribution of land and Sea</li>\n<li>Elevation</li>\n<li>Aspect</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 1, 2 & 3",
+  "option3": "1, 2, 3 & 4",
+  "option4": "Only 1",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Temperature of a place depends primarily on the amount of insolation received. <br />The important factors which affect the atmospheric temperature include:<br />Cloud cover<br />Distribution of land and Sea<br />Elevation<br />Aspect"
+}

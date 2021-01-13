@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:40:58.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "561b37ea-6f89-4fc5-aadb-efe24700df21",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the maximum turnover for a company to be considered as a Medium-scale industry?",
+  "option1": "250 crore",
+  "option2": "150 crore",
+  "option3": "75 crores",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "150 crore",
+  "explanation": "The turnover for a medium Industry should be in between 75-250 crores. The turnover for a small industry is 5-75 crores and for a micro-industry is up to 5 crores."
+}

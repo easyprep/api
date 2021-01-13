@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:20.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "8544477a-64bf-4fdd-bf6a-1333a520995c",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is<strong> not</strong> correct about the Coriolis Force?",
+  "option1": "It is caused due to revolution of the Earth around the Sun",
+  "option2": "It causes deflection in the direction of winds",
+  "option3": "It deflects the wind rightward in northern hemisphere and leftward in southern hemisphere",
+  "option4": "The quantity of the force keeps increasing with increasing distances from the equatorial belt.",
+  "option5": "",
+  "answer": "It is caused due to revolution of the Earth around the Sun",
+  "explanation": "The effect of rotation of earth on direction of winds is called the Coriolis effect. It causes deflection in the direction of winds. The quantity of the force keeps increasing with increasing distances from the equatorial belt. The winds blowing in the Northern Hemisphere are deflected to their right and those blowing in the Southern Hemisphere to their left under the Coriolis effect. This principle of deflection is called Ferrel's Law."
+}

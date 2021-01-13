@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:38:02.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "bae67c60-6b52-47e5-bd43-69f7c24147a8",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Under the revised e-waste rules what is the minimum quantity that should be collected?",
+  "option1": 0.1,
+  "option2": 0.2,
+  "option3": 0.3,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "Under the revised e-waste rules 10% of quantity produced should be collected by the producers. This should be increased by 10% every year from 2017 to 2023."
+}

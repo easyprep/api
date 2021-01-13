@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:58.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "d4b65088-775a-431b-9d7e-642b5bfc08f0",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the position of the Earth when it is at the greatest distance from the sun called?",
+  "option1": "Aphelion",
+  "option2": "Perihelion",
+  "option3": "Apogee",
+  "option4": "Perigee",
+  "option5": "",
+  "answer": "Aphelion",
+  "explanation": "The position of the Earth when it is at the greatest distance from the sun is called the Aphelion. <br />The closest point to the Sun in a planet's orbit is called perihelion."
+}

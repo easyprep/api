@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "4262b543-b8b6-49ba-9d36-b6212012c953",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which among the following sector doesn't feature in the IIP calculation?",
+  "option1": "Agricultural sector",
+  "option2": "Manufacturing sector",
+  "option3": "Steel sector",
+  "option4": "Petroleum sector",
+  "option5": "",
+  "answer": "Agricultural sector",
+  "explanation": "The agricultural sector doesn't feature in the calculation of IIP. The other sectors like manufacturing,Steel and petroleum feature in the IIP."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:16.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "f01b2dc5-d903-42a8-a703-84c8a270dc83",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs is/are correctly matched?<br />\n<ol>\n<li>Equatorial low pressure belt - Horse Latitudes</li>\n<li>Sub Tropical High Pressure Belt - Doldrums</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "The equatorial low pressure belt lies between 10 degree N and 10 degree S latitudes. This belt is also called the Doldrums because of the extremely calm air movements.<br />The Sub Tropical High Pressure Belt extend near the tropics to about 35 degree North and South Latitudes. In early days, the sailing vessels with cargo of horses found it difficult to sail under calm conditions of this high pressure belt.They used to throw horses into the sea when fodder ran out. Hence the name horse latitudes."
+}

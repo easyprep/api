@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "8cd39fe7-374f-4ed6-87fb-c4653ad1650c",
+  "labels": "current-affairs,2020-07-26",
+  "question": "In which form does the earth radiate all energy absorbed by it?<br />\n<ol>\n<li>Long wave terrestrial radiation</li>\n<li>Short wave terrestrial radiation</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The earth radiates all the energy absorbed by it in the form of long wave terrestrial radiation. This long-wave radiation from the earth gets absorbed in the atmosphere. Water vapour and carbon dioxide are the chief atmospheric components absorbing this energy."
+}

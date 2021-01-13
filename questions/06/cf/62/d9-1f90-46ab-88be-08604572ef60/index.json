@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T15:42:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "06cf62d9-1f90-46ab-88be-08604572ef60",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the share of Industry in GDP?",
+  "option1": 0.27,
+  "option2": 0.16,
+  "option3": 0.35,
+  "option4": 0.5,
+  "option5": "",
+  "answer": 0.27,
+  "explanation": "The share of Industry in GDP is 27%. Industry includes Manufacturing,Electricity, Mining and much more. The share of manufacturing in GDP is 17%."
+}

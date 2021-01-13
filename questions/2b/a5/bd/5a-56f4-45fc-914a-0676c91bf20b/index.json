@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "2ba5bd5a-56f4-45fc-914a-0676c91bf20b",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the proportion of insolation that is reflected back by the surface called?",
+  "option1": "Radiation",
+  "option2": "Conduction",
+  "option3": "Albedo",
+  "option4": "Scattering",
+  "option5": "",
+  "answer": "Albedo",
+  "explanation": "Albedo is the proportion of insolation that is reflected back by the surface. It depends upon the nature of the surface upon which the solar radiation is incident and the angle of incidence of the solar beam."
+}

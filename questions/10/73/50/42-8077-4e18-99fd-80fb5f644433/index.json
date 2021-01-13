@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:53:08.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "10735042-8077-4e18-99fd-80fb5f644433",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the force that results when there is a difference in pressure across a surface?",
+  "option1": "Frictional force",
+  "option2": "Coriolis Force",
+  "option3": "Pressure Gradient force",
+  "option4": "Gravitational force",
+  "option5": "",
+  "answer": "Pressure Gradient force",
+  "explanation": "Pressure Gradient is the change in the rate and direction of pressure. Close spacing of isobars indicates a steep or strong pressure gradient whereas wide spacing indicates weak gradient."
+}

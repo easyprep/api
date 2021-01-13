@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:43:29.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "54fbe82e-a32f-4eab-a94a-ea808f651c75",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the constituents of the atmosphere?<br />\n<ol>\n<li>Nitrogen and hydrogen are the two main gases that make up 99 % of the atmosphere.</li>\n<li>Oxygen will be almost negligible at the heights of 90 km</li>\n<li>Carbon Dioxide is found only up to the height of 120 km.</li>\n</ol>\nSelect the correct code from options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "Nitrogen and Oxygen are the two main gases in the atmosphere. they make up 99 % of the atmosphere.<br /><br />The portion of the gases changes in the higher layers of the atmosphere. Oxygen will be almost negligible at the heights of 120 km. Similarly Carbon Dioxide and Water Vapour is found only up to the height of 90 km."
+}

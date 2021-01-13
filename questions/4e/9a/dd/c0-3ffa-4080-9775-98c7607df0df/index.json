@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T19:48:40.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "4e9addc0-3ffa-4080-9775-98c7607df0df",
+  "labels": "current-affairs,2020-07-26",
+  "question": "The amount of insolation received by the earth is effected by which among the following factors?<br />\n<ol>\n<li>Distance from the Sun</li>\n<li>Solar Constant</li>\n<li>Altitude of the Sun </li>\n<li>Length of the day</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1, 3 & 4",
+  "option2": "Only 1 & 4",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Insolation is the proportion of Solar energy received or intercepted by earth.The amount of energy received by the earth and its atmosphere in the form of insolation varies over space and time. Earth intercepts only one in two billion parts of solar radiation. <br />Amount of insolation received by the earth is effected by<br />the following four factors:<br />Solar constant<br />Distance from the Sun<br />Altitude of the Sun<br />Length of the day"
+}

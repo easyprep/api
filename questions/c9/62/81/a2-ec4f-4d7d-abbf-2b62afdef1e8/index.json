@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-26T01:10:35.000Z",
+  "updated_at": "2021-01-06T08:25:02.925Z",
+  "id": "c96281a2-ec4f-4d7d-abbf-2b62afdef1e8",
+  "labels": "current-affairs,2020-07-27",
+  "question": "Which among the following industries require a license under compulsory licensing?<br />1. Electronic aerospace and defence equipment<br />2. Specified hazardous chemicals<br />3. Industrial explosives<br />4. Cigars and cigarettes of tobacco and manufactured tobacco substitutes<br />Choose the correct option from the codes given below:",
+  "option1": "1,2 and 3 only",
+  "option2": "1,2 and 4 only",
+  "option3": "2,3 and 4 only",
+  "option4": "1,2,3 and 4",
+  "option5": "",
+  "answer": "1,2,3 and 4",
+  "explanation": "The industries require a license under compulsory licensing are:<br />1. Electronic aerospace and defence equipment<br />2. Specified hazardous chemicals<br />3. Industrial explosives<br />4. Cigars and cigarettes of tobacco and manufactured tobacco substitutes"
+}
