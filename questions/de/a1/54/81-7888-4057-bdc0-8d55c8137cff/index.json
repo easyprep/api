@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-02-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:16:27.409Z",
+  "id": "dea15481-7888-4057-bdc0-8d55c8137cff",
+  "labels": "current-affairs,2017-02-10",
+  "question": "Which facility was developed by ISRO to design, integrate and test novel satellite technologies?",
+  "option1": "Field Programmable Gate Array",
+  "option2": "Telemetry & Telecommand Processor",
+  "option3": "Pulse Code Modulation",
+  "option4": "Geostationary Radiation Spectrometer",
+  "option5": "",
+  "answer": "Telemetry & Telecommand Processor",
+  "explanation": "No answer description available for this question. Let us discuss.",
+  "verified_at": ""
+}
