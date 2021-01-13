@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:15:12.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "ce6c664e-34e7-4043-8218-f65b42d0ad09",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding Atmospheric aerosols?<br />1) They can scatter and absorb solar and infrared radiation.<br />2) There are two types of aerosols – Natural aerosols and Anthropogenic aerosols.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Atmospheric aerosol can scatter and absorb the solar and infrared radiation. They can change the microphysical properties of the clouds. There are two types of aerosols – Natural aerosols and Anthropogenic aerosols."
+}

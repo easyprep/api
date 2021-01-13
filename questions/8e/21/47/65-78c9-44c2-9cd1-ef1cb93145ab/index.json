@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:15:07.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "8e214765-78c9-44c2-9cd1-ef1cb93145ab",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following gas acts as the baseline for other Global warming potential values?",
+  "option1": "Methane",
+  "option2": "Carbon dioxide",
+  "option3": "Sulfur hexafluoride",
+  "option4": "Water vapour",
+  "option5": "",
+  "answer": "Carbon dioxide",
+  "explanation": "The concept of Global Warming Potential (GWP) was developed to allow comparisons of the global warming impacts of different gases. Carbon dioxide (CO2) has a GWP of 1 and it serves as a baseline for other GWP values."
+}

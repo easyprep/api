@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:15:01.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "395ede1c-cdfb-4770-9990-3e60277f82b4",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding Climate forcings?<br />1) Negative forcings warm the earth<br />2) Positive forcings cool the earth.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Climate “forcings” are the factors that either increase the effects on the climate system or decrease the effects on the climate system. Positive forcings warm the earth while negative forcings actually cool the earth."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:35.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "0fbd2165-79e2-4d7a-9a45-476960c6070f",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the full form of LIBOR?",
+  "option1": "London Interbank offered Rate",
+  "option2": "Listed Indian bank offered Rate",
+  "option3": "London Indian Banks Official Rate",
+  "option4": "Listed Indian Banks Official Rate",
+  "option5": "",
+  "answer": "London Interbank offered Rate",
+  "explanation": "LIBOR is London Interbank offered rate is the average rate estimated by the leading banks in London that they would be charging for what they would be borrowing from other banks."
+}

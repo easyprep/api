@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-05T03:56:49.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "511e8766-b5e8-4df9-8fd0-f04a18f45e30",
+  "labels": "current-affairs,2020-09-06",
+  "question": "Which institute along with IISER, Tirupati has developed a Hybrid sterilization system that decontaminates PPEs?",
+  "option1": "IIT Tirupati",
+  "option2": "IIT Hyderabad",
+  "option3": "IIT Guwahati",
+  "option4": "IIT Bhilai",
+  "option5": "",
+  "answer": "IIT Tirupati",
+  "explanation": "IIT Tirupati (IITT) in collaboration with Indian Institute of Science Education and Research, Tirupati, have developed a new technology named the ‘Hybrid sterilization system’.<br />It can decontaminate the Personal Protective Equipment (PPE) that are used by the Health workers to contain the spread of COVID 19. This Portable Optical Cavity Sterilization Unit (POSCU) sterilises the PPEs and other items which can be reused."
+}

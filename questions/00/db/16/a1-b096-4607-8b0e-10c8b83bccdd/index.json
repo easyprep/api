@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:54:28.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "00db16a1-b096-4607-8b0e-10c8b83bccdd",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct?<br />1. Biodegradable Pollutants are usually waste products, which are degraded by microbial action. <br />2. Non-biodegradable Pollutants are those Pollutants, which cannot be decomposed by microbial action.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Biodegradable Pollutants are usually waste products, which are degraded by microbial action whereas Non-biodegradable Pollutants are those Pollutants, which cannot be decomposed by microbial action."
+}

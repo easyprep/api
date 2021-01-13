@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:15:07.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "2dbede4c-8f74-46b1-8d3e-eb2ed2d9219e",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Arrange the following events associated with Sea level rise in correct chronological sequence:<br />1) Combustion of Fossil Fuels<br />2) Global Warming<br />3) Sea level rise<br />4) Melting of Glaciers<br />5) Increase in Green house Gasses <br />Select the correct option from the codes given below:",
+  "option1": "1, 2, 3, 4, 5",
+  "option2": "1, 2, 5, 3, 4",
+  "option3": "1, 5, 2, 4, 3",
+  "option4": "5, 1, 2, 4, 3",
+  "option5": "",
+  "answer": "1, 5, 2, 4, 3",
+  "explanation": "The correct sequence of the events related to the sea-level rise will be:<br />1) Combustion of Fossil Fuels<br />2) Increase in Greenhouse Gasses<br />3) Global Warming<br />4) Melting of Glaciers<br />5) Sea level rise"
+}

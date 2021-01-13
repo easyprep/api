@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:11.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "037842a2-2427-4f19-adf2-2d5116fb2ca8",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the percentage of sales that is spent by the public sector?",
+  "option1": 0.012,
+  "option2": 0.0061,
+  "option3": 0.0029,
+  "option4": 0.0015,
+  "option5": "",
+  "answer": 0.0029,
+  "explanation": "The Public sector R&amp;D units spent 0.29% of their sales turnover on R&amp;D as compared to 1.48% by Private sector. India spends about 0.7% of GDP on R&amp;D."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-13T01:02:31.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "f7cff78f-da27-4f35-bfb1-db866c961762",
+  "labels": "current-affairs,2020-09-14",
+  "question": "Which regulator in India is set to revamp its IT infrastructure network and communication systems?",
+  "option1": "RBI",
+  "option2": "NABARD",
+  "option3": "SEBI",
+  "option4": "IRDAI",
+  "option5": "",
+  "answer": "SEBI",
+  "explanation": "Security and Exchange Board of India (SEBI) has proposed to revamp its IT infrastructure network and communication systems. <br />Also, SEBI has proposed to have a centralised control over its network. In this regard, SEBI has shortlisted 8 companies which includes Bharti Airtel, Wipro, TCS, HP, IBM, NTT India, Orange Business Services India Technology and Sify Technologies."
+}

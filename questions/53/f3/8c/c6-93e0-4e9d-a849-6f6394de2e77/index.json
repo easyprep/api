@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:15:06.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "53f38cc6-93e0-4e9d-a849-6f6394de2e77",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding the Global Warming Potential?<br />1) It describes the impact of each gas on global warming.<br />2) Gases which has higher GWP absorb more energy.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Global warming potential also termed as GWP provides information about the impact of each gas on global warming. Gases which has higher GWP absorb more energy resulting in more warming of the atmosphere."
+}

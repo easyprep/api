@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:14:56.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "8d55f4c0-c101-4174-9319-a2323f01bfff",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Sulfur hexafluoride is used in which of the following industries?<br />1) Magnesium processing<br />2) Semiconductor manufacturing<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Sulfur hexafluoride also called SF6 is one of the types of Fluorinated gas that has very high global warming potentials (GWPs) relative to other greenhouse gases. Sulfur hexafluoride is used in magnesium processing and semiconductor manufacturing industries."
+}

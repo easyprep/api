@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "318a5874-4fda-4b85-91c0-e4e6d35f36c8",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who manages the government securities in India?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "Ministry of Finance",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "RBI managest the securities issued by the government of India. They comprise of the dated securities issued by both state and central government."
+}

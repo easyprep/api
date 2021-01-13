@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:12.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "be997869-7bec-48b5-abe2-d469633701a3",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which subject contributed the maximum to India's research publication?",
+  "option1": "Physics",
+  "option2": "Engineering",
+  "option3": "Chemistry",
+  "option4": "None",
+  "option5": "",
+  "answer": "Chemistry",
+  "explanation": "India’s largest share of global research publications was in Chemistry (7.2%), Agricultural Sciences (6.6%), Pharmacology and Toxicology (6.3%), Material Science (6.2%), Physics (5.2%), Biology and Biochemistry (4.9%), Engineering (4.7%) and Microbiology (4.6%)."
+}

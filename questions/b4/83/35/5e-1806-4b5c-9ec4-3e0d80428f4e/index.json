@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-02T04:13:13.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "b483355e-1806-4b5c-9ec4-3e0d80428f4e",
+  "labels": "current-affairs,2020-09-03",
+  "question": "Which organization released a survey that finds over half of the 25 kinds of health services is disrupted due to COVID-19?",
+  "option1": "WEF",
+  "option2": "WHO",
+  "option3": "UNICEF",
+  "option4": "IMF",
+  "option5": "",
+  "answer": "WHO",
+  "explanation": "According to a survey by World Health Organization (WHO), countries have witnessed disruptions in at least half of the 25 kinds of health services, due to Covid-19 pandemic. <br />Immunisation services were the most affected while diagnosis and treatment of non-communicable diseases (NCD) was the second-most impacted. The report states that 94% of the countries in survey concentrated their efforts only on tackling Covid-19."
+}

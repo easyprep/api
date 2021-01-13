@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:54:27.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "bccd1efd-7aa8-46ea-81c5-420299798155",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding quantitative and qualitative pollutants?<br />1. Qualitative Pollutants are those which occur in nature and become pollutant when their concentration reaches beyond a threshold level. <br />2. Quantitative Pollutants are those which do not occur in nature and are created by man.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Quantitative Pollutants are those which occur in nature and become pollutant when their concentration reaches beyond a threshold level whereas Qualitative Pollutants are those which do not occur in nature and are created by man."
+}

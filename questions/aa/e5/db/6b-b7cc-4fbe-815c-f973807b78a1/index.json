@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "aae5db6b-b7cc-4fbe-815c-f973807b78a1",
+  "labels": "current-affairs,2020-09-16",
+  "question": "On Which day of the week are the T-bills auctioned in India?",
+  "option1": "Monday",
+  "option2": "Wednesday",
+  "option3": "Friday",
+  "option4": "Saturday",
+  "option5": "",
+  "answer": "Wednesday",
+  "explanation": "The T-bills are issued for a very short period by the government of India.They are auctioned on alternate week on Wednesdays."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:09:04.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "f9ab1d4b-bc26-4708-91fa-50fa47eebf00",
+  "labels": "current-affairs,2020-08-31",
+  "question": "The Atomic Energy Act of 1982 was introduced to deal with which of the following types of wastes?",
+  "option1": "Electronic waste",
+  "option2": "Non-biodegradable waste",
+  "option3": "Radioactive waste",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Radioactive waste",
+  "explanation": "The Atomic Energy Act of 1982 was introduced to deal with radioactive wastes. \"Atomic Energy\" refers to energy released from atomic nuclei as a result of any process, including the fission and fusion processes."
+}

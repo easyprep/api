@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:42:07.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "9250786a-6922-4472-89a5-a4d9433eb911",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the Ozone Depleting Substances are produced in India?<br />1) CFC-11<br />2) CFC-12<br />3) CFC-13<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Some of the Ozone Depleting Substances which are produced in India are CFC-11, CFC-12, CFC-113, Halon-1211, HCFC-22, Halon-1301, Carbon tetrachloride, methyl chloroform and methyl bromide. These are used in refrigeration and air conditioning, fire fighting, electronics, etc."
+}

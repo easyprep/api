@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "f1fd00f3-cfb5-47ea-9bb5-539d98b91fbc",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Where does the auction for T-bills take place in India?",
+  "option1": "Negotiated Dealing system",
+  "option2": "SEBI Website",
+  "option3": "RBI",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Negotiated Dealing system",
+  "explanation": "The T-bills are issued by the government of India for the short term funds. They are auctioned on alternated Wednesdays on the Negotiated Dealing system(NDS) and the members electronically submit their bids."
+}

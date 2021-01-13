@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-11T02:30:38.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "5a931911-3426-44d8-b2b1-f87307a8f992",
+  "labels": "current-affairs,2020-09-12",
+  "question": "Which organization has decided to formulate Digital Payment Index?",
+  "option1": "NITI Aayog",
+  "option2": "RBI",
+  "option3": "NPCI",
+  "option4": "SBI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Reserve Bank of India (RBI) has decided to measure the extent of digital payment in India by devising Digital Payment Index. <br />The index would also assess innovation in existing modes and will help bridge digital divide. The development of the Digital Payment Index is based on the recommendations made by Nandan Nilekani Committee on Digital Payments."
+}

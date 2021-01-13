@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:12.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "abd56717-8eb1-42c0-b2a2-849bc3ae64bf",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which country files the maximum patents in India?",
+  "option1": "USA",
+  "option2": "Japan",
+  "option3": "China",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "Out of the total patents filed nearly 62% of the foreign patents filed in India in the previous year were from four countries. They are USA (31.5%), Japan (13.9%), Germany (8.6%) and China (8.0%)."
+}

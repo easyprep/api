@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:55:30.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "58cf038d-d4aa-4693-8462-a0ab48f6cebc",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following units is used for measuring the turbidity of water?<br />1) NTU – Nephelometric Turbidity Units<br />2) FNU- Formazin Nephelometric Unit<br />3) EAU Formazin Attenuation Units<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Turbidity is the measure of relative clarity of a liquid. The units which are used for measuring the turbidity of water are:<br />(a) NTU – Nephelometric Turbidity Units<br />(b) FNU- Formazin Nephelometric Unit<br />(c) EAU Formazin Attenuation Units"
+}

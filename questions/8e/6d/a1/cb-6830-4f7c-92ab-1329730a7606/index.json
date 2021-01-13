@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:43:21.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "8e6da1cb-6830-4f7c-92ab-1329730a7606",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct about Vertebrates?<br />1. They are animals with backbones and spinal columns.<br />2. They are the most advanced organisms on Earth.<br />3. They represent huge percentage of all animals present on Earth.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Vertebrates are animals with backbones and spinal columns and they are the most advanced organisms on Earth. However, they represent very small percentage of all animals present on Earth."
+}

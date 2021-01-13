@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:14:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "117caf2f-2a32-42fa-b76c-0e32dea19a96",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following is the primary greenhouse gas emitted through human activities?",
+  "option1": "Methane",
+  "option2": "Carbon dioxide",
+  "option3": "Carbon Monoxide",
+  "option4": "Water vapour",
+  "option5": "",
+  "answer": "Carbon dioxide",
+  "explanation": "Carbon dioxide is naturally present in the atmosphere as a part of the Earth’s carbon cycle. It is also the primary greenhouse gas which is emitted through human activities."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:14:56.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "ca8b579c-e509-405b-bca0-68077a25c6c0",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following shows the percentage of the global greenhouse gas emission due to the transportation sector?",
+  "option1": 0.1,
+  "option2": 0.12,
+  "option3": 0.14,
+  "option4": 0.18,
+  "option5": "",
+  "answer": 0.14,
+  "explanation": "In the transportation sector the major emission of green house gas results from the combustion of fossil fuels in the different modes of transportation like air, rail, bus, ships, etc. The transportation sector emits 14% of the global green house gas emissions."
+}

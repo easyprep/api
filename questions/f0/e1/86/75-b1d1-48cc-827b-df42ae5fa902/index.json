@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-05T04:05:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "f0e18675-b1d1-48cc-827b-df42ae5fa902",
+  "labels": "current-affairs,2020-09-06",
+  "question": "Which organization has developed solar-based water sprayers to be used in agricultural field?",
+  "option1": "ICAR",
+  "option2": "DRDO",
+  "option3": "CSIR",
+  "option4": "HAL",
+  "option5": "",
+  "answer": "CSIR",
+  "explanation": "Researchers at CSIR’s Central Mechanical Engineering Research Institute (CMERI) have developed solar based spray systems to tackle water crisis in agriculture. <br />Two variants of the equipment have been developed - one for “marginal famers” and other for “small farmers”. These sprayers are equipped with two separate tanks, flow control and pressure regulator to handle different water requirements of the crops."
+}

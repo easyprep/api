@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-02T04:12:20.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "45f11b59-91e4-4ca3-bc9e-cfd36ba50455",
+  "labels": "current-affairs,2020-09-03",
+  "question": "By what percentage the Indian Economy has contracted in Q1 of 2020-21, compared to the same quarter of 2019-20?",
+  "option1": 0.05,
+  "option2": 0.102,
+  "option3": 0.113,
+  "option4": 0.239,
+  "option5": "",
+  "answer": 0.239,
+  "explanation": "Indian Economy has contracted by 23.9% in the Q1 of FY 2020-21 compared to the same quarter of previous FY. This is supposed to be the worst performance since quarterly measurement began in 1996.<br />The prime reason for economic slowdown and contraction is the COVID 19 pandemic and the nationwide lockdown that followed it."
+}

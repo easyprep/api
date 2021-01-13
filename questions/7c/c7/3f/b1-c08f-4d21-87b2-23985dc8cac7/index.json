@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:42:54.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "7cc73fb1-c08f-4d21-87b2-23985dc8cac7",
+  "labels": "current-affairs,2020-08-31",
+  "question": "According to IUCN, the protected areas of India are categorized in which of the following units?<br />1) National Parks<br />2) Wildlife Sanctuaries<br />3) Private protected areas<br />4) Special Protection Areas<br />Select the correct answer from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2 & 4",
+  "option4": "1, 2, 3, & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 3",
+  "explanation": "According to the provisions of Wildlife ( Protection) ACT, 1972, the Protected areas in India are categorized into following categories:<br />National Parks, Wildlife sanctuaries, Biosphere reserves, Reserved and protected forests, Conservation reserves and community reserves, Private protected areas, and Conservation areas."
+}

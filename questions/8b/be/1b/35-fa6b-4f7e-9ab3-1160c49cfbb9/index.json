@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:43:18.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "8bbe1b35-fa6b-4f7e-9ab3-1160c49cfbb9",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct about Indian Biodiversity?<br />1. India accounts for nearly 10% of the recorded species.<br />2. India ranks seventh in mammals, ninth in birds and fifth in reptiles in case of species richness.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Only statement 2 is correct. India accounts for nearly 7% of the recorded species all over the world. India ranks seventh in mammals, ninth in birds and fifth in reptiles in case of species richness."
+}

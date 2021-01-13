@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-01T04:34:23.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "c93f6458-f263-4e43-937d-33a7f8e120e4",
+  "labels": "current-affairs,2020-09-02",
+  "question": "Which body has directed Banks to refund charges collected by them on electronic transactions after January 1?",
+  "option1": "Finance Ministry",
+  "option2": "Supreme Court of India",
+  "option3": "Central Board of Direct Taxes",
+  "option4": "Reserve Bank of India",
+  "option5": "",
+  "answer": "Central Board of Direct Taxes",
+  "explanation": "The Central Board of Direct Taxes (CBDT) has issued a direction to Banks stating to refund charges collected by them on electronic transactions made by customers after January 1.<br />The CBDT has directed the Banks not to charge any fee for any transaction carried out through electronic modes like RuPay, BHIM – UPI, QR Code etc. Such practice by Banks is a breach of section 10A of Payment and Settlement Systems (PSS) Act and section 269SU of the IT Act."
+}

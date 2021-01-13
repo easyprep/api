@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:54:28.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "24f4ede9-eb75-49bc-a792-cd4bee28a9b4",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following pollutants are biodegradable in nature?<br />1. DDT<br />2. Salts of heavy metals<br />3. Radioactive substances<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "Biodegradable Pollutants are usually waste products, which are easily degraded by microbial action. Plastics, glass, DDT, salts of heavy metals and radioactive substances are all non-biodegradable in nature."
+}

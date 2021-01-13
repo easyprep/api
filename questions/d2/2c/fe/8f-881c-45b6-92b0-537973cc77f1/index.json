@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:15:35.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "d22cfe8f-881c-45b6-92b0-537973cc77f1",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding REDD?<br />1) REDD means Reducing Emissions from Deforestation and Forest Degradation<br />2) the secondary objective is biodiversity conservation and poverty alleviation. <br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "REDD means Reducing Emissions from Deforestation and Forest Degradation. The original objective of REDD is to reduce greenhouse gases but it can also deliver \"co-benefits\" such as biodiversity conservation and poverty alleviation."
+}

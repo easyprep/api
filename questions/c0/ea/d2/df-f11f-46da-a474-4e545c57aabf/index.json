@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:34.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "c0ead2df-f11f-46da-a474-4e545c57aabf",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following is an instrument of Liquid Adjustment facility?<br />1. Repo Rate<br />2. Reverse Repo Rate<br />3. MCLR<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3",
+  "option2": "1 and 2 only",
+  "option3": "3 only",
+  "option4": "1 and 3 only",
+  "option5": "",
+  "answer": "1 and 2 only",
+  "explanation": "Liquid Adjustment facility is composed of Repo and the Reverse repo rate."
+}

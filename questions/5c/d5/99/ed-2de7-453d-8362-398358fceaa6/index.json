@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:15:07.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "5cd599ed-2de7-453d-8362-398358fceaa6",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following is the result of rising levels of atmospheric carbon dioxide in oceanic chemistry?",
+  "option1": "Salinity will increase",
+  "option2": "salinity will decrease",
+  "option3": "pH will increase",
+  "option4": "pH will decrease",
+  "option5": "",
+  "answer": "pH will decrease",
+  "explanation": "When the uptake of atmospheric carbon dioxide by the ocean increases, the concentration of hydrogen ions in the ocean increases which results in the lowering of the pH of the oceans. This process is known as ocean acidification."
+}

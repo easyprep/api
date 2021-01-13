@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "8b1b66cd-97ee-41d2-870e-59d4dc39325d",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the minimum amount of T-bill in India?",
+  "option1": 2000,
+  "option2": 20000,
+  "option3": 25000,
+  "option4": 50000,
+  "option5": "",
+  "answer": 25000,
+  "explanation": "T-bills are issued by the government of India for raising short term funds. The minimum amount is Rs 25,000."
+}

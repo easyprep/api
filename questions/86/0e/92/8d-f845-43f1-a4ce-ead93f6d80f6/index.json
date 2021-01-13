@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:42:53.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "860e928d-f845-43f1-a4ce-ead93f6d80f6",
+  "labels": "current-affairs,2020-08-31",
+  "question": "To qualify as a hot spot, a region must meet which of the following criterias?<br />1) The region must contain at least 1,500 species of vascular plants.<br />2) It has to have lost at least 70% of its original habitat.<br />Select the correct answers from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "To qualify as a hot spot, a region must meet the following criteria:<br />1) The region must contain at least 1,500 species of vascular plants.<br />2) It has to have lost at least 70% of its original habitat."
+}

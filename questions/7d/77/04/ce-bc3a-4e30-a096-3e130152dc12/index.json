@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:55:30.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "7d7704ce-bc3a-4e30-a096-3e130152dc12",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following is the health effects of excess fluoride in drinking water?",
+  "option1": "Toothaches",
+  "option2": "Lung disease",
+  "option3": "Fluorosis",
+  "option4": "Mouth Cancer",
+  "option5": "",
+  "answer": "Fluorosis",
+  "explanation": "Exposure to high concentrations of fluoride is the reason for a serious disease called fluorosis. It is a public health problem caused by excess intake of fluoride through drinking water, food products, and industrial pollutants over a long period."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "5e3d6e1b-f3b6-4f7e-b5d4-0b296735f176",
+  "labels": "current-affairs,2020-09-16",
+  "question": "In what multiples are the T-Bills issued in India by RBI?",
+  "option1": 10000,
+  "option2": 5000,
+  "option3": 25000,
+  "option4": 1000,
+  "option5": "",
+  "answer": 25000,
+  "explanation": "The T-bills are issued by the government for raising short term funds. They are generally issued in multiples of 25,000. The minimum bill amount is Rs 25000."
+}

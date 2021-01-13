@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:17:01.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "c07e2284-5d2f-4a79-9524-9ca04d5e7afb",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following are the sources of bio-energy?<br />1. organic residue<br />2. farm organic residue<br />3. forest residue<br />4. organic urban residue<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Bioenergy is defined as renewable energy which is made available from materials derived from biological. The sources the sources of bio-energy include:<br />1. organic residue<br />2. farm organic residue<br />3. forest residue<br />4. organic urban residue<br />5. Algal residues"
+}

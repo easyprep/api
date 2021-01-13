@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-03T03:51:19.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "b653eb18-c4bd-43b5-afc6-76ae833665c5",
+  "labels": "current-affairs,2020-09-04",
+  "question": "Which organization has released an annual report on the deaths caused by accident and suicides in India?",
+  "option1": "Interpol",
+  "option2": "Ministry of Home Affairs",
+  "option3": "National Crime Records Bureau",
+  "option4": "National Institute of Road Safety",
+  "option5": "",
+  "answer": "National Crime Records Bureau",
+  "explanation": "According to an annual report released by the National Crime Records Bureau (NCRB), around 1.39 lakh people died by suicide and 4.21 lakh people were killed in accidents in India last year. <br />The report also noted that traffic accidents were the single biggest contributor to accidental deaths which amounted to 43% of all fatalities."
+}

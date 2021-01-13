@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:11.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "203df366-ab3b-4006-b5d1-83e250dddfda",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which Industry has spent the maximum on R&amp;D in the previous year?",
+  "option1": "Pharmaceuticals",
+  "option2": "Automobile",
+  "option3": "Transportation",
+  "option4": "Chemicals",
+  "option5": "",
+  "answer": "Pharmaceuticals",
+  "explanation": "Pharmaceuticals spent the maximum on R&amp;D in the previous year. It is followed by Transportation and Information Technology."
+}

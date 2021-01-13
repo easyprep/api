@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:11.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "a47ad065-cc29-4575-b31f-042483b033d3",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the percentage spending of Higher Educational Institutions on R&amp;D out of the total R&amp;D Expenditure?",
+  "option1": 0.054,
+  "option2": 0.068,
+  "option3": 0.0945,
+  "option4": 0.034,
+  "option5": "",
+  "answer": 0.068,
+  "explanation": "The spending of Higher Educational Institutions on R&amp;D is 6.8%. The state spending on R&amp;D is 6.4% and the central government is 45.4%."
+}

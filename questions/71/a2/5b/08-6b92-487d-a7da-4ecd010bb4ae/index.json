@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:55:00.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "71a25b08-6b92-487d-a7da-4ecd010bb4ae",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding Ground-level ozone?<br />1. Formation of ground level ozone takes place when vehicle emissions containing nitrogen oxides  and volatile organic compounds interact in the presence of sunlight.<br />2. Ground level is not harmful to humans.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Formation of ground level ozone takes place when vehicle emissions containing nitrogen oxides  and volatile organic compounds interact in the presence of sunlight. Ground level is not harmful to humans."
+}

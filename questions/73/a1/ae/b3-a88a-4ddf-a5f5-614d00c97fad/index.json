@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-09T10:07:10.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "73a1aeb3-a88a-4ddf-a5f5-614d00c97fad",
+  "labels": "current-affairs,2020-09-10",
+  "question": "Which organization has stated that rainfall received in August 2020 in India is highest since 1926?",
+  "option1": "ISRO",
+  "option2": "IMD",
+  "option3": "NASA",
+  "option4": "WMD",
+  "option5": "",
+  "answer": "IMD",
+  "explanation": "As per a statement by Indian Meteorological Department (IMD), the rainfall received by the country in August 2020 is the highest since 1926. <br />August 1926 recorded a rainfall of 34.8 cm exceeding normal by 33%, whereas August 2020 recorded 32.7 cm rainfall exceeding normal by 27%. Also, IMD has stated that in June’20 to 6th September’20, India had registered 7% more rainfall than what is normal for this period."
+}

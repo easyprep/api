@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-04T04:32:50.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "23245bc1-23db-4f71-9d85-01ca8fd69e0c",
+  "labels": "current-affairs,2020-09-05",
+  "question": "Which institution has developed a method to detect corona virus infection using mass spectrometer?",
+  "option1": "ICAR",
+  "option2": "IGIB",
+  "option3": "ICMR",
+  "option4": "AIIMS",
+  "option5": "",
+  "answer": "IGIB",
+  "explanation": "Researchers of the Institute of Genomics and Integrative Biology (IGIB) have developed a method to detect corona virus infection using mass spectrometer. <br />In this method, the virus detection can be done with sensitivity of 90 % and specificity of 100 %. The time taken from sample to result is 30 minutes. IGIB is an institute under the Council for Scientific and Industrial Research (CSIR)."
+}

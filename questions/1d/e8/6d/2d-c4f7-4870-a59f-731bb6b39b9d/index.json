@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:12.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "1de86d2d-c4f7-4870-a59f-731bb6b39b9d",
+  "labels": "current-affairs,2020-09-16",
+  "question": "How many patents filed by Indians are the ones filed by residents?",
+  "option1": 0.25,
+  "option2": 0.28,
+  "option3": 0.32,
+  "option4": 0.41,
+  "option5": "",
+  "answer": 0.32,
+  "explanation": "Indians file a total of 47,854 patents . Out of which 15,550 (32%) patents were filed by Indian residents in the previous year."
+}

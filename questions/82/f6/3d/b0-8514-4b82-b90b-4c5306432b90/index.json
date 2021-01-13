@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:14:56.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "82f63db0-8514-4b82-b90b-4c5306432b90",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following is/are the sources of Black carbon?<br />1) Biomass burning,<br />2) Cooking with solid fuels, and<br />3) Diesel exhaust<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Black carbon is a component of fine particulate matter which is produced by the incomplete combustion. Some of the prominent sources of Balck carbon are:<br />1) Biomass burning,<br />2) Cooking with solid fuels, and<br />3) Diesel exhaust"
+}

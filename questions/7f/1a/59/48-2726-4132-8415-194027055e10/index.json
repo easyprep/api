@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:35.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "7f1a5948-2726-4132-8415-194027055e10",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following rate is used by Indian Banks when dealing with Short term loans?",
+  "option1": "MIBOR",
+  "option2": "LIBOR",
+  "option3": "Repo",
+  "option4": "Reverse Repo",
+  "option5": "",
+  "answer": "MIBOR",
+  "explanation": "MIBOR- Mumbai Interbank offer rate is the rate used by the Indian Debt market for overnight money. LIBOR is the primary benchmark for short term interest rates across the world."
+}

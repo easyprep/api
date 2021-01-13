@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-02T04:04:40.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "992a1676-5c5a-48aa-803c-50ae820a4f6d",
+  "labels": "current-affairs,2020-09-03",
+  "question": "As per the recent data from NPCI, which mode of payment clocked 1.62 billion transactions in August 2020?",
+  "option1": "UPI",
+  "option2": "IMPS",
+  "option3": "AePS",
+  "option4": "FASTag",
+  "option5": "",
+  "answer": "UPI",
+  "explanation": "As per the recent data released by National Payments Corporation of India (NPCI), the Unified Payments Interface (UPI)-based payments clocked 1.62 billion transactions in August.<br />This mode of payment has been rising around 8 per cent and during the same month last year, there were 918 million transactions. The transaction recorded last month was worth Rs 2.98 trillion which is also greater than Rs 1.54 trillion a year ago."
+}

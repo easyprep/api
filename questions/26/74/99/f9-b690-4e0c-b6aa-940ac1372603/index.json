@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:34.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "267499f9-b690-4e0c-b6aa-940ac1372603",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who among the following is a lender in call money market?",
+  "option1": "UTI",
+  "option2": "DFHI",
+  "option3": "STCI",
+  "option4": "SBI",
+  "option5": "",
+  "answer": "UTI",
+  "explanation": "In Money market when money is borrowed for a short period upto 14 days is called call market. In this commercial banks,cooperative banks, DHFI,STCI are the net borrowers. LIC,UTI,NABARD are the lenders in the market."
+}

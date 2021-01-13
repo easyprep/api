@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:55.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "bc303aa9-def4-47bc-af35-62643a10948a",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which of the following are correct regarding  T-bills?<br />1. They are short term securities<br />2. They dont pay any interest rates<br />3. They are not issued by state government<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3",
+  "option2": "1 and 3 only",
+  "option3": "1 and 2 only",
+  "option4": "3 only",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "The T-bills are short term securities. They dont pay any interest rates as the are issued at a discount price and redeemed at par. They are not issued by state government."
+}

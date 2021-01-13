@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:34.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "2199c702-3dd8-46c6-a6d2-9755e4b5ca1a",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the maximum maturity term of a commercial paper?",
+  "option1": "91 days",
+  "option2": "14 days",
+  "option3": "1 year",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 year",
+  "explanation": "The commercial papers are short term unsecured promissory notes issued by top rated corporated, primary dealers, satellite dealers and All India Financial Insitutions. They can be issued for maturities between a minimum of 7 days and maximum of 1 year."
+}

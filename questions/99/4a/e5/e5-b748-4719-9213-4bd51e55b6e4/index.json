@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-09T10:11:31.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "994ae5e5-b748-4719-9213-4bd51e55b6e4",
+  "labels": "current-affairs,2020-09-10",
+  "question": "Which state has topped in literacy rate as per a recent report by NSO?",
+  "option1": "Gujarat",
+  "option2": "Uttar Pradesh",
+  "option3": "Kerala",
+  "option4": "Madhya Pradesh",
+  "option5": "",
+  "answer": "Kerala",
+  "explanation": "Recently National Statistical Office (NSO) has released a report on 'Household Social Consumption: Education in India’ as part of 75th round of National Sample Survey.<br />As per the report, Kerala ranks No.1 in literacy with 96.2% literacy rate. It is followed by Delhi with 88.7% and Uttarakhand with 87.6%. Andhra Pradesh featured at the bottom with a rate of 66.4%."
+}

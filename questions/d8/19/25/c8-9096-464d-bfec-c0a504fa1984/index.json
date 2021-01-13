@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:34.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "d81925c8-9096-464d-bfec-c0a504fa1984",
+  "labels": "current-affairs,2020-09-16",
+  "question": "In which year Reverse Repo was introduced?",
+  "option1": 1991,
+  "option2": 1996,
+  "option3": 1994,
+  "option4": 1990,
+  "option5": "",
+  "answer": 1996,
+  "explanation": "In 1996, Reverse Repo was introduced. Reverse Repo means buying a security on a spot basis with a commitment to resell on a forward basis. Reverse Repo transactions are affected with scheduled commercial banks and primary dealers."
+}

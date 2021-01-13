@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:14:56.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "11da8493-bbd8-4ccd-bd6c-048f5961d542",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following sectors emits the largest percentage of Greenhouse gases?",
+  "option1": "Transportation",
+  "option2": "Cement Industry",
+  "option3": "Electricity production",
+  "option4": "Construction Sector",
+  "option5": "",
+  "answer": "Electricity production",
+  "explanation": "Among all the given sectors the Electricity and the heat producing sector emits the largest percentage of the global green house emissions. According to the 2010 global greenhouse gas emissions report, Electricity and Heat Production accounts for 25% of the global greenhouse emissions."
+}

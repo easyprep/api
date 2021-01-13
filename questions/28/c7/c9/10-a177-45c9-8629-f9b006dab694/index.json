@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:34.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "28c7c910-a177-45c9-8629-f9b006dab694",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who among the following determines interest rates in call market?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "NABARD",
+  "option4": "Market",
+  "option5": "",
+  "answer": "Market",
+  "explanation": "The money borrowed for a short period is called as call market. In this the interest rates are market determined. Primary dealers buy them with an intention of reselling."
+}

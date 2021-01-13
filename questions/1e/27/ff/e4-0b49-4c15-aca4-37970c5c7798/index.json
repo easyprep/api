@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-10T10:54:00.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "1e27ffe4-0b49-4c15-aca4-37970c5c7798",
+  "labels": "current-affairs,2020-09-11",
+  "question": "SEBI has approved which organisation to undertake e-KYC Aadhaar authentication?",
+  "option1": "BSE",
+  "option2": "NSE",
+  "option3": "NABARD",
+  "option4": "NHB",
+  "option5": "",
+  "answer": "NSE",
+  "explanation": "Markets regulator SEBI has added National Stock Exchange (NSE) to the list of entities that can carry out e-KYC Aadhaar authentication. <br />Earlier in May 2020, SEBI had rolled out a list of 8 entities that permitted to undertake e-KYC (Electronic-Know Your Customer) Aadhaar authentication. SEBI has stated that NSE can undertake Aadhaar authentication service of the UIDAI subject to compliance certain terms and conditions."
+}

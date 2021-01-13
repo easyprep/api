@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T17:17:34.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "727fa71b-f4df-4b02-9ce0-97040edab3db",
+  "labels": "current-affairs,2020-08-31",
+  "question": "GRIHA rating system consists of which of the following categories?<br />1. Site Selection and Site Planning<br />2. Conservation and efficient utilization of resources<br />3. Building operation and maintenance<br />4. Innovation points<br />Select the correct option from the codes give below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Green Rating for Integrated Habitat Assessment (GRIHA) rating system consists of the following 4 categories:<br />1. Site Selection and Site Planning<br />2. Conservation and efficient utilization of resources<br />3. Building operation and maintenance<br />4. Innovation points"
+}

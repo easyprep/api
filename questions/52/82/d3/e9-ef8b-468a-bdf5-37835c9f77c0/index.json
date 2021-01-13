@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-12T03:15:52.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "5282d3e9-ef8b-468a-bdf5-37835c9f77c0",
+  "labels": "current-affairs,2020-09-13",
+  "question": "Which Indian bank has launched a programme for start-ups named ‘iStartup 2.0’?",
+  "option1": "State Bank of India",
+  "option2": "ICICI Bank",
+  "option3": "HDFC Bank",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "Leading Private sector bank of India, ICICI Bank has launched an exclusive programme for start-ups named ‘iStartup2.0’.<br />Under this programme, a Current Account can be created for new businesses that are up to ten years old seamlessly. The Bank has integrated its APIs with the website of the Ministry of Corporate Affairs (MCA) and the account number is obtained at the time of incorporation."
+}

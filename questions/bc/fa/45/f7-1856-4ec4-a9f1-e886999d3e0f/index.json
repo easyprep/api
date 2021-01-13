@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-02T04:02:22.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "bcfa45f7-1856-4ec4-a9f1-e886999d3e0f",
+  "labels": "current-affairs,2020-09-03",
+  "question": "Which Insurance company has launched AI-based chatbot service named ‘LiGo’?",
+  "option1": "HDFC Ergo",
+  "option2": "ICICI Prudential",
+  "option3": "Life Insurance Corporation",
+  "option4": "Canara-HSBC OBC",
+  "option5": "",
+  "answer": "ICICI Prudential",
+  "explanation": "ICICI Prudential Life Insurance has recently launched an AI-powered voice chatbot named ‘LiGo’, on Google Assistant.<br />The customers and policy holders can use this service to resolve their queries on products by giving simple voice commands. As per the company, customers can activate 'Google Assistant' on their Android smartphones and say their policy number or mobile number for details on their policies."
+}

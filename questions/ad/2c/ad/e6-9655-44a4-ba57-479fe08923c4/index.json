@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:34.000Z",
+  "updated_at": "2021-01-06T08:25:08.012Z",
+  "id": "ad2cade6-9655-44a4-ba57-479fe08923c4",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who among the following are the main borrowers in the money market?",
+  "option1": "Government",
+  "option2": "LIC",
+  "option3": "IDBI",
+  "option4": "None",
+  "option5": "",
+  "answer": "Government",
+  "explanation": "Money market refers to lending and borrowing of funds with a maturity of less than one year. Banks and financial institutions (IDBI, LIC etc) are the main lenders and borrowers while individuals, companies, Government and others are the main borrowers."
+}
