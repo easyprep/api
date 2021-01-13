@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:47.462Z",
+  "updated_at": "2021-01-09T03:42:47.462Z",
+  "id": "93f0900a-a932-41f6-81c6-0f770e1b793f",
+  "labels": "general-knowledge,inventions",
+  "question": "In which decade was the transistor invented?",
+  "option1": "1940s",
+  "option2": "1950s",
+  "option3": "1960s",
+  "option4": "1980s",
+  "option5": "",
+  "answer": "1940s",
+  "explanation": "On December 23, 1947, William Shockley, Walter Brattain and John Bardeen, of Bell Labs, announced their discovery of the point-contact germanium transistor to management.",
+  "verified_at": ""
+}

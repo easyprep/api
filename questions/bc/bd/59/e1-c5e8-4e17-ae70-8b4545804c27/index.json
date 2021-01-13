@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:47.795Z",
+  "updated_at": "2021-01-09T03:42:47.795Z",
+  "id": "bcbd59e1-c5e8-4e17-ae70-8b4545804c27",
+  "labels": "general-knowledge,inventions",
+  "question": "When were bar code scanners invented?",
+  "option1": "1940s",
+  "option2": "1950s",
+  "option3": "1970s",
+  "option4": "1960s",
+  "option5": "",
+  "answer": "1970s",
+  "explanation": "The scanner reads the bar code label on something at a supermarket, and translates it into a number which the computer reads.",
+  "verified_at": ""
+}

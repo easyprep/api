@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:43:19.964Z",
+  "updated_at": "2021-01-09T03:43:19.964Z",
+  "id": "8a328222-405a-448c-8042-f2e1dbb6a488",
+  "labels": "general-knowledge,sports",
+  "question": "In what year was the first international cricket match held?",
+  "option1": "1892 between England and India",
+  "option2": "1869 between England and Australia",
+  "option3": "1883 between Australia and Wales",
+  "option4": "1844 between Canada and the USA",
+  "option5": "",
+  "answer": "1844 between Canada and the USA",
+  "explanation": "The first international cricket match was held between Canada and the USA on September 25, 1844, at the St George Cricket Club ground, Manhattan. Canada won by 23 runs.",
+  "verified_at": ""
+}

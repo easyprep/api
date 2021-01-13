@@ -1,0 +1,15 @@
+{
+  "created_at": "2016-11-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:09:18.027Z",
+  "id": "15fa04fc-35a7-4519-8901-ec012034776e",
+  "labels": "current-affairs,2016-11-19",
+  "question": "Which of the following machines was recently named as the world's fastest supercomputer in the TOP500 list?",
+  "option1": "Sunway TaihuLight",
+  "option2": "Cori",
+  "option3": "IBM Sequoia Supercomputer",
+  "option4": "Tianhe-2",
+  "option5": "",
+  "answer": "Sunway TaihuLight",
+  "explanation": "No answer description available for this question. Let us discuss.",
+  "verified_at": ""
+}

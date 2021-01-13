@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:55.965Z",
+  "updated_at": "2021-01-09T03:42:55.965Z",
+  "id": "d2b57cb2-b646-498e-8f38-6721cf124809",
+  "labels": "general-knowledge,biology",
+  "question": "Movement of cell against concentration gradient is called",
+  "option1": "osmosis",
+  "option2": "active transport",
+  "option3": "diffusion",
+  "option4": "passive transport",
+  "option5": "",
+  "answer": "active transport",
+  "explanation": "Active transport, this is the only transport method that can move species against their concentration gradient (from low to high concentration). Facilitated diffusion only moves species down their concentration gradient from high to low concentration.",
+  "verified_at": ""
+}

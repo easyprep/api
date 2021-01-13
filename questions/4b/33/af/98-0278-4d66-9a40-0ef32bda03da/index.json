@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:48.121Z",
+  "updated_at": "2021-01-09T03:42:48.121Z",
+  "id": "4b33af98-0278-4d66-9a40-0ef32bda03da",
+  "labels": "general-knowledge,inventions",
+  "question": "What did cardiologist Dr. Paul Zoll invent in Massachusetts in 1952?",
+  "option1": "EKG",
+  "option2": "Artificial heart valve",
+  "option3": "Artificial heart",
+  "option4": "Pacemaker",
+  "option5": "",
+  "answer": "Pacemaker",
+  "explanation": "The pacemaker is an electrical device that regulates the heartbeat.",
+  "verified_at": ""
+}

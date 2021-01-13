@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:48.981Z",
+  "updated_at": "2021-01-09T03:42:48.981Z",
+  "id": "ac2ced32-959f-4c9c-a398-53f288c91fde",
+  "labels": "general-knowledge,inventions",
+  "question": "In the 1700s, who would pay the postage fee for letters before the stamp was invented?",
+  "option1": "The sender",
+  "option2": "There was no fee",
+  "option3": "The receiver of the letter",
+  "option4": "The post office",
+  "option5": "",
+  "answer": "The receiver of the letter",
+  "explanation": "Later in 1840, Rowland Hill invented the stamp, which was paid for by the sender, not the receiver.",
+  "verified_at": ""
+}

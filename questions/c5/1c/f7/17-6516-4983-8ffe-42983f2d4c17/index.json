@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:43:23.047Z",
+  "updated_at": "2021-01-09T03:43:23.047Z",
+  "id": "c51cf717-6516-4983-8ffe-42983f2d4c17",
+  "labels": "general-knowledge,sports",
+  "question": "Javagal Srinath took no wicket in his last ODI match.What were his bowling figures in that match? [Format : Overs bowled - Maidens - Runs given - Wickets taken]",
+  "option1": "7 - 0 - 67 - 0",
+  "option2": "10 - 0 - 87 - 0",
+  "option3": "10 - 0 - 57 - 0",
+  "option4": "7 - 0 - 39 - 0",
+  "option5": "",
+  "answer": "10 - 0 - 87 - 0",
+  "explanation": "Javagal Srinath played his last ODI match against Australia in the World Cup 2003.",
+  "verified_at": ""
+}

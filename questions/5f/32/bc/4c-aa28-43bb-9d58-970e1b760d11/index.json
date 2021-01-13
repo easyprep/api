@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:49.628Z",
+  "updated_at": "2021-01-09T03:42:49.628Z",
+  "id": "5f32bc4c-aa28-43bb-9d58-970e1b760d11",
+  "labels": "general-knowledge,inventions",
+  "question": "Who invented the phonograph?",
+  "option1": "Thomas Edison",
+  "option2": "John Kruesi",
+  "option3": "Jules Levy",
+  "option4": "Alexander Graham Bell",
+  "option5": "",
+  "answer": "John Kruesi",
+  "explanation": "John Kruesi was a mechanic for Edison, and Kruesi built the phonograph. Edison designed it, and later improved the phonograph.",
+  "verified_at": ""
+}

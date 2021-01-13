@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:48.971Z",
+  "updated_at": "2021-01-09T03:42:48.971Z",
+  "id": "90d3ca90-5a30-4f77-8e19-cadc9e06bffc",
+  "labels": "general-knowledge,inventions",
+  "question": "In which decade was the AEEE (now the IEEE) founded?",
+  "option1": "1850s",
+  "option2": "1880s",
+  "option3": "1930s",
+  "option4": "1950s",
+  "option5": "",
+  "answer": "1880s",
+  "explanation": "The IEEE (Institute of Electrical and Electronics Engineers) was formed in 1963 by the merger of the Institute of Radio Engineers (IRE, founded 1912) and the American Institute of Electrical Engineers (AIEE, founded 1884).",
+  "verified_at": ""
+}

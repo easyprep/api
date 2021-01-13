@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:47.799Z",
+  "updated_at": "2021-01-09T03:42:47.799Z",
+  "id": "4a0819ce-93c7-4ee8-9f40-e9c1919c5109",
+  "labels": "general-knowledge,inventions",
+  "question": "This English inventor is known as the 'Father of Computing.'",
+  "option1": "Philo Farnsworth",
+  "option2": "J. Presper Eckert",
+  "option3": "John Mauchly",
+  "option4": "Charles Babbage",
+  "option5": "",
+  "answer": "Charles Babbage",
+  "explanation": "Mauchly and Eckert invented the ENIAC computer. Farnsworth was a pioneer of early television.",
+  "verified_at": ""
+}
