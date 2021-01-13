@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:07.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "f6bea4cd-1ff7-4db0-9e2b-83d549a7d76b",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) Firs Past the Post System is a Majoritarian system.\r\nReason (R) It is also described as simple plurality system.",
+  "option1": "Both A and R are true and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "Both A and R are true and R is the correct explanation of A",
+  "explanation": "First Past the Post System is type of Majoritarian electoral system. It is commonly known as the simple plurality system because the winner receives the maximum number of votes."
+}

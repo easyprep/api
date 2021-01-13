@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:05.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "239eb1ce-d35f-408e-afca-51f6abb7a278",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Arrange the following books as per the year of their publication in chronological order?\r\n(a) Modern Democracies\r\n(b) Constitutional Government and Democracy\r\n(c) Public Opinion and Popular Government\r\n(d) The American Commonwealth\r\nChoose the correct answer from the options given below.",
+  "option1": "(a), (b), (c) and (d)",
+  "option2": "(d), (c), (a) and (b)",
+  "option3": "(d), (a), (b) and (c)",
+  "option4": "(a), (c), (d) and (b)",
+  "option5": "",
+  "answer": "(d), (c), (a) and (b)",
+  "explanation": "Modern Democracies was written by James Bryce published in 1921.\r\nConstitutional Government and Democracy was written by Carl J. Friedrich in 1941.\r\nPublic Opinion and Popular Government was written by Lawrence Lowell in 1913.\r\nThe American Commonwealth was written James Bryce in 1888."
+}

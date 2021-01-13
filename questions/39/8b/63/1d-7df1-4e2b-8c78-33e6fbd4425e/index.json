@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-06T03:32:54.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "398b631d-7df1-4e2b-8c78-33e6fbd4425e",
+  "labels": "current-affairs,2020-11-07",
+  "question": "Visa has partnered with which bank, to deploy PCI certified Tap to Phone card acceptance solution?",
+  "option1": "ICICI Bank",
+  "option2": "HDFC Bank",
+  "option3": "Axis Bank",
+  "option4": "Yes Bank",
+  "option5": "",
+  "answer": "HDFC Bank",
+  "explanation": "Visa has recently partnered with Indian leading private sector bank HDFC Bank and Digit Secure, to deploy PCI certified Tap to Phone card acceptance solution.<br />DigitSecure has become the first company based in Asia-Pacific to receive PCI security certification for deploying this technology. India has also joined a list of over 15 markets that provide Visa Tap to Phone technology for merchants."
+}

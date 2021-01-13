@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:07.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "b16275cf-fbd5-4506-802f-62ccc0176d8f",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Which among the following electoral system is peculiarly used in the elections of American President's Electoral College election?",
+  "option1": "Cumulative Vote System",
+  "option2": "Slate System",
+  "option3": "List System",
+  "option4": "Semi-proportional Method",
+  "option5": "",
+  "answer": "Slate System",
+  "explanation": "Slate System is used in the election of American President's Electoral College election in which each State different parties put up their lists (called Slates) and Voters vote for a Slate, not individual candidates."
+}

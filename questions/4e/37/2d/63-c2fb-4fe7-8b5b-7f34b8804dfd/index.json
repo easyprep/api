@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-27T22:47:09.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "4e372d63-c2fb-4fe7-8b5b-7f34b8804dfd",
+  "labels": "current-affairs,2020-10-28",
+  "question": "As per a recent study, long term exposure to which pollution is linked to increased fatalities of Covid-19?",
+  "option1": "Water pollution",
+  "option2": "Air pollution",
+  "option3": "Soil pollution",
+  "option4": "Thermal Pollution",
+  "option5": "",
+  "answer": "Air pollution",
+  "explanation": "As per a recent study published in Cardiovascular Research, long-term exposure to air pollution has been linked to an increased risk of dying from Covid-19.<br />For the first time, the study has estimated that about 15% of deaths worldwide from Covid-19 could be attributed to long-term exposure to air pollution."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-30T02:44:56.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "8cfc7fc9-eb54-4cdc-b4d0-48dfbe133974",
+  "labels": "current-affairs,2020-10-31",
+  "question": "Which Armed Force has developed a messaging application named ‘Secure Application for Internet’ (SAI)?",
+  "option1": "Indian Navy",
+  "option2": "Indian Army",
+  "option3": "Indian Air Force",
+  "option4": "Indian Coast Guard",
+  "option5": "",
+  "answer": "Indian Army",
+  "explanation": "Indian Army has recently developed a simple messaging application named the Secure Application for Internet (SAI). <br />The application supports end to end secure voice, text and video calling services for Android platform over the internet. It is similar to messaging applications including WhatsApp and Telegram. It is expected to facilitate secure messaging within the service."
+}

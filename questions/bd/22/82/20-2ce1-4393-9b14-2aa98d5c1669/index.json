@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:11.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "bd228220-2ce1-4393-9b14-2aa98d5c1669",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) System approach in political science was developed by David Easton.\r\nReason (R) System approach called for the inter disciplinary approach.",
+  "option1": "Both A and R are true and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "Both A and R are true and R is the correct explanation of A",
+  "explanation": "System approach was firstly used by Talcott Parson in sociology and David Easton developed this approach in the field of political science. It was a result of movement in political science which called for the adoption of inter disciplinary approach."
+}

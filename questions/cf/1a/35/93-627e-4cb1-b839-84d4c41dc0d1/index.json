@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:51:33.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "cf1a3593-627e-4cb1-b839-84d4c41dc0d1",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Given below are two statements, one labelled as Assertion (A) and other labelled as Reason (R). Select the correct answer from the codes given below. \r\n\r\nAssertion(A) Herbert Simon is the foremost decision theorist.\r\nReason (R) He defined decision making as optimal rational choice.",
+  "option1": "Both A and R are true and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, but R is false",
+  "option4": "A is false, but R is true",
+  "option5": "",
+  "answer": "Both A and R are true and R is the correct explanation of A",
+  "explanation": "Herbert A. Simon is considered as the foremost decision theorist and he defined decision making as \"the optimum rational choice between alternative courses of action\"."
+}

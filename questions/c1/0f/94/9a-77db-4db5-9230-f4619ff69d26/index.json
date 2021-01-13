@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-06T21:20:34.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "c10f949a-77db-4db5-9230-f4619ff69d26",
+  "labels": "current-affairs,2020-11-07",
+  "question": "How many team members are there in each team of a cricket game?",
+  "option1": "Ten",
+  "option2": "Eleven",
+  "option3": "Twelve",
+  "option4": "Thirteen",
+  "option5": "",
+  "answer": "Eleven",
+  "explanation": "There are eleven team members in each team of a cricket game. Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps."
+}

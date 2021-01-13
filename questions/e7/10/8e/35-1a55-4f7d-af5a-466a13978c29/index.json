@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-31T02:51:30.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "e7108e35-1a55-4f7d-af5a-466a13978c29",
+  "labels": "current-affairs,2020-11-01",
+  "question": "Which technology major has announced to launch a virtual private networks (VPN) service for consumers?",
+  "option1": "Microsoft",
+  "option2": "Google",
+  "option3": "Apple",
+  "option4": "Amazon",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Alphabet Inc's Google has recently announced that it is set to launch a virtual private networks (VPN) service for its consumers.<br />The VPN service would be available for its Google One cloud storage services. VPN is used by individuals in countries where access to certain sites and services have been banned by governments."
+}

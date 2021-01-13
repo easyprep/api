@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:51:32.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "afe0d231-8ab5-4cab-ac92-46b042a20601",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Who among the following is considered as the pioneer of cybernetics?",
+  "option1": "Herbert Simon",
+  "option2": "Nobert Weiner",
+  "option3": "Ludwig Von Bertalanffy",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Nobert Weiner",
+  "explanation": "Nobert Weiner is considered as the pioneer in the field of cybernetics because he gave the first clear view of an organisation as a system consisting of inputs, process, outputs, feedback and environment."
+}

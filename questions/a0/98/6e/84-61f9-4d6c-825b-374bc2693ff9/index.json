@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:51:33.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "a0986e84-61f9-4d6c-825b-374bc2693ff9",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Who wrote the book, 'The Practice of Management'?",
+  "option1": "Peter Drucker",
+  "option2": "Herbert Simon",
+  "option3": "Fred Luthans",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Peter Drucker",
+  "explanation": "Peter Drucker wrote the book, 'The Practice of Management' in which he classified decisions into generic and unique decisions which also resembles programmed and non-programmed decisions respectively."
+}

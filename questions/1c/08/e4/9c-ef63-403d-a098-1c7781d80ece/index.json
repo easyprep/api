@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-05T02:51:11.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "1c08e49c-ef63-403d-a098-1c7781d80ece",
+  "labels": "current-affairs,2020-11-06",
+  "question": "As per a study by researchers of Washington University School of Medicine, which part of human body is resistant to SARS-CoV-2 infection?",
+  "option1": "Kidneys",
+  "option2": "Lungs",
+  "option3": "Heart",
+  "option4": "Cornea",
+  "option5": "",
+  "answer": "Cornea",
+  "explanation": "As per the study by a team of researchers at the Washington University School of Medicine, cornea of the human eyes resists SARS-CoV-2 infection. <br />Other viruses like herpes simplex and Zika virus are found to affect the cornea. The reason remains unknown and also, it is not clearly known whether the tissues around the cornea also remain unaffected by the COVID virus."
+}

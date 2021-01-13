@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-27T02:23:54.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "aad79527-3bb4-41f0-a7f8-b4c0541d5844",
+  "labels": "current-affairs,2020-10-28",
+  "question": "IIT Kharagpur in association with which technology major has developed an Industry 4.0 solution for remotely controlled factory operations ?",
+  "option1": "Oracle",
+  "option2": "Infosys",
+  "option3": "TCS",
+  "option4": "Microsoft",
+  "option5": "",
+  "answer": "TCS",
+  "explanation": "IIT Kharagpur and Tata Consultancy Services (TCS) have jointly developed a technology for remotely controlled factory operations. This is an Industry 4.0 solution that enables real-time quality correction during industrial production. <br />The project was supported by the Department of Heavy Industries. Through this development, IIT Kharagpur aims to stimulate innovation in advanced manufacturing to boost the capital goods sector."
+}

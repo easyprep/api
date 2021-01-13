@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:51:28.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "7ae5a42b-24d2-4b72-a02a-133e4a108cdd",
+  "labels": "current-affairs,2020-10-24",
+  "question": "According to the Scientific Management theory, a worker is supervised by how many functional foreman?",
+  "option1": "Four",
+  "option2": "Six",
+  "option3": "Eight",
+  "option4": "Ten",
+  "option5": "",
+  "answer": "Eight",
+  "explanation": "A worker is supervised by Eight functional foreman in which four are responsible for planning and other four are responsible for execution which are as follows-\r\nPlanning \r\n1. Order-of-Work and Route-clerk\r\n2. Instruction card-clerk\r\n3. Time-and-cost-clerk\r\n4. Shop discilpinarian\r\nExecution\r\n1. Gang Boss\r\n2. Speed Boss\r\n3. Inspector\r\n4. Repair Boss"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:14.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "8bdeaf90-73b8-478c-b587-5cae98f4ef0f",
+  "labels": "current-affairs,2020-10-24",
+  "question": "From which among the following methods public opinion is not measured?",
+  "option1": "Opinion Poll",
+  "option2": "Sample Survey",
+  "option3": "Citizen's Jury",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "Public Opinion is measured by the following methods-\r\n1. Opinion Poll\r\n2. Sample Survey\r\n3. Deliberative Opinion Poll or Citizen's Jury\r\n4. Focus Group"
+}

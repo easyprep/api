@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-24T00:45:18.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "5959e51e-8945-4da0-a466-97eb1f8d735f",
+  "labels": "current-affairs,2020-10-25",
+  "question": "Which country has given complete approval for using Antiviral Drug Remdesivir to treat COVID-19?",
+  "option1": "India",
+  "option2": "United States",
+  "option3": "Japan",
+  "option4": "New Zealand",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The US Food and Drug Administration has recently granted full approval to the antiviral drug Remdesivir as a treatment for patients hospitalized with Covid-19.<br />The organisation had given conditional authorization in May. USFDA also announced that the drug, sold under the brand name Veklury, was the only specific treatment for Covid-19 approved so far."
+}

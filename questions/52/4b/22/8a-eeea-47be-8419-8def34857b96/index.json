@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-25T02:13:03.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "524b228a-eeea-47be-8419-8def34857b96",
+  "labels": "current-affairs,2020-10-26",
+  "question": "Government e-Marketplace (GeM) portal has been recently integrated with which portal?",
+  "option1": "SWAYAM Portal",
+  "option2": "IRCTC Portal",
+  "option3": "Central Public Procurement Portal",
+  "option4": "CHAMPIONS Portal",
+  "option5": "",
+  "answer": "Central Public Procurement Portal",
+  "explanation": "Recently, the Government e Marketplace (GeM) has been successfully integrated with Central Public Procurement Portal (CPPP). <br />By doing so, the entire process of public procurement of goods and services have been brought under a single platform. The function of ''custom bid'' is also created in the platform, which will allow a buyer to float a bid on GeM."
+}

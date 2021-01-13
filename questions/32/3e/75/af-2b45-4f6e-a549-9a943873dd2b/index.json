@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-29T00:54:14.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "323e75af-2b45-4f6e-a549-9a943873dd2b",
+  "labels": "current-affairs,2020-10-30",
+  "question": "Which organisation has launched the facility to file NIL GST statement through SMS?",
+  "option1": "Finance Commission",
+  "option2": "GSTN",
+  "option3": "Central Board of Indirect Taxes and Customs",
+  "option4": "Central Board of Direct Taxes",
+  "option5": "",
+  "answer": "GSTN",
+  "explanation": "The Goods and Services Tax Network (GSTN) has launched the facility, whereby composition tax payers can file NIL GST in form GST CMP-08 through SMS mode without logging in to GST Portal. <br />As per a GSTN statistics, total of 17.11 lakh taxpayers have opted for Composition Scheme. Out of the 17.11 lakh, 20% taxpayers are the ones who file NIL statement."
+}

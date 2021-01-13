@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-27T22:53:31.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "cc4e4ada-e8cf-4225-acb6-11d51b23a21f",
+  "labels": "current-affairs,2020-10-28",
+  "question": "Which space agency has confirmed the presence of water on the surface of moon?",
+  "option1": "ISRO",
+  "option2": "European Space Agency",
+  "option3": "NASA",
+  "option4": "China National Space Administration",
+  "option5": "",
+  "answer": "NASA",
+  "explanation": "The NASA’s Stratospheric Observatory for Infrared Astronomy (SOFIA) has confirmed the presence of water on the sunlit surface of moon. <br />The water particles have been discovered in Clavius Crater, one of the largest craters of moon visible from Earth. The crater is located in the Moon’s southern hemisphere."
+}

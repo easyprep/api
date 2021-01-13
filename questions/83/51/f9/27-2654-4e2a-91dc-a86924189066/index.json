@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-05T02:58:51.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "8351f927-2654-4e2a-91dc-a86924189066",
+  "labels": "current-affairs,2020-11-06",
+  "question": "Which Insurance company has launched the AI based tool called IDEAS?",
+  "option1": "Life Insurance Corporation of India",
+  "option2": "HDFC ERGO General Insurance",
+  "option3": "Bajaj Allianz",
+  "option4": "Universal Sompo Insurance",
+  "option5": "",
+  "answer": "HDFC ERGO General Insurance",
+  "explanation": "India’s third largest non-life private insurer, HDFC ERGO General Insurance has launched the Artificial Intelligence (AI) based tool called IDEAS (Intelligent Damage detection Estimation and Assessment Solution) motor insurance claims. <br />The AI tool uses Neural Network image processing and Analytics, Machine Learning and Natural Language for assessment damage and calculations of motor claims."
+}

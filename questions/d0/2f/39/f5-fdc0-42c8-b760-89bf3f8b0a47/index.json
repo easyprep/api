@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-06T21:20:35.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "d02f39f5-fdc0-42c8-b760-89bf3f8b0a47",
+  "labels": "current-affairs,2020-11-07",
+  "question": "Which sport's competition series is known as \"The Ashes\"?",
+  "option1": "Tennis",
+  "option2": "Football",
+  "option3": "Baseball",
+  "option4": "Cricket",
+  "option5": "",
+  "answer": "Cricket",
+  "explanation": "\"The Ashes\" is a cricket competition series. The Ashes is a Test cricket series played between England and Australia. The Ashes are regarded as being held by the team that most recently won the series. If the series is drawn, the team that currently holds the Ashes retains the trophy. An Ashes series traditionally consists of five Tests, hosted in turn by England and Australia at least once every two years. There have been 71 Ashes series: Australia have won 33, England 32 and six series have been drawn."
+}

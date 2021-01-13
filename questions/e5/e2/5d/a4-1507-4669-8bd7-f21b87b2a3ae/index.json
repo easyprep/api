@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:07.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "e5e25da4-1507-4669-8bd7-f21b87b2a3ae",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Which among the following voting method asks the voters to choose between each of the possible pairs of candidates.",
+  "option1": "Condorcet Method",
+  "option2": "List System",
+  "option3": "Semi-proportional Method",
+  "option4": "Both 1 and 2",
+  "option5": "",
+  "answer": "Condorcet Method",
+  "explanation": "Marquis de Condorcet invented the Condorcet Method in which voters has to choose between pairs of candidates and the winner is one who defeats all other candidates in these pairwise contests."
+}

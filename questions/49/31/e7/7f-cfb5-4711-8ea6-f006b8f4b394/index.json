@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-29T00:57:50.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "4931e77f-cfb5-4711-8ea6-f006b8f4b394",
+  "labels": "current-affairs,2020-10-30",
+  "question": "India Post has signed an agreement for Exchange of Customs data related to postal shipments with which country?",
+  "option1": "Ireland",
+  "option2": "Finland",
+  "option3": "Japan",
+  "option4": "USA",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "The India Post and the United States Postal Service (USPS) have entered into an agreement for Exchange of Customs data related to postal shipments. <br />This enabled the two countries to exchange electronic data of international postal items prior to their physical arrival at the destination. Exchange of Electronic Advance Data (EAD) as per the Agreement would enable to promote mutual trade between the two countries."
+}

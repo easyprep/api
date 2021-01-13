@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-27T22:48:58.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "15f2fdad-e4ea-4d42-bfbf-00cdb15b2599",
+  "labels": "current-affairs,2020-10-28",
+  "question": "Which automobile manufacturer has developed a smartphone-based technology named HAMS?",
+  "option1": "Tata Motors",
+  "option2": "Hyundai Motors",
+  "option3": "Kia Motors",
+  "option4": "Maruti Suzuki",
+  "option5": "",
+  "answer": "Maruti Suzuki",
+  "explanation": "The leading automobile manufacturer Maruti Suzuki India has developed a Smartphone based technology called HAMS (Harnessing Automobile for Safety). <br />The development has been made in association with Microsoft Research India. The technology would be used to test the applicants who are appearing for Driving Licence Test. The new technology has already been deployed at ADTC (Automated Driving Test Centre), Dehradun."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:07.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "13107e9c-1af6-4b59-8fca-43f47434ed60",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Which among the following is not a type of Majoritarian Electoral System?",
+  "option1": "Limited Vote Plan",
+  "option2": "Condorcet Method",
+  "option3": "Second Ballot System",
+  "option4": "List System",
+  "option5": "",
+  "answer": "List System",
+  "explanation": "List System is a type of Proportional Representation Electoral System not Majoritarian Electoral System."
+}

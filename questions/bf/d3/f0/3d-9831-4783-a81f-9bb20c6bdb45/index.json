@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:47:09.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "bfd3f03d-9831-4783-a81f-9bb20c6bdb45",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) Edward Said gave the theory of 'Orientalism'.\r\nReason (R) It held that cultural representation are economically constructed.",
+  "option1": "Both A and R are true and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "A is true, R is False",
+  "explanation": "Edward Said gave the theory of Orientalism and held that the Cultural representation generated with us – and - them are socially constructed."
+}

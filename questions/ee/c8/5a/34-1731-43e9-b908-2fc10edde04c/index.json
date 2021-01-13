@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-24T11:15:00.000Z",
+  "updated_at": "2021-01-06T08:25:11.356Z",
+  "id": "eec85a34-1731-43e9-b908-2fc10edde04c",
+  "labels": "current-affairs,2020-10-25",
+  "question": "How much percentage of Viability Gap Funding will be provided by the Government for social infrastructure projects?",
+  "option1": 0.4,
+  "option2": 0.2,
+  "option3": 0.1,
+  "option4": 0.3,
+  "option5": "",
+  "answer": 0.3,
+  "explanation": "Viability Gap Funding is a financial support provided by the Ministry of Finance to those infrastructure projects that are socially important, but financially not viable. In May 2020, the Government revised the VGF funding rate to 30% of total project costs, which was earlier 20%."
+}
