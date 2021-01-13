@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-12T05:11:11.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "20b97b05-c8da-460c-b07b-537a3282a157",
+  "labels": "current-affairs,2020-12-13",
+  "question": "Which Indian telecom company has rolled out world’s first satellite-based narrowband-IoT network?",
+  "option1": "Jio Networks",
+  "option2": "BSNL",
+  "option3": "Airtel",
+  "option4": "Vi",
+  "option5": "",
+  "answer": "BSNL",
+  "explanation": "Indian state-owned telecommunications company BSNL in partnership with machine connectivity solutions company Skylotech India, to launch a satellite-based narrowband IoT network in India.<br />The solution will connect with the satellite ground infrastructure of BSNL. This is the world’s first satellite-based narrowband-IoT network. The IoT connectivity is already tested in Indian Railways and fishing vessels among others."
+}

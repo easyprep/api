@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:50:32.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "199a6d36-856e-44e3-a058-a319747ea679",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) United Nations Security Council is responsible for the maintenance of International Peace and Security.\r\nReason (R) The Security Council consists of 20 members.",
+  "option1": "Both A and R are true, and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "A is true, R is False",
+  "explanation": "UNSC has the prime responsibility for the maintenance of international peace and security and the council has 15 members – 5 Permanent Members i.e. US, UK, China, Russia and France and 10 non-permanent members elected by UNGA for 2-year term."
+}

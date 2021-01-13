@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-11T03:29:36.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "624a4f85-a707-4857-a07e-f25ff08831d2",
+  "labels": "current-affairs,2020-12-12",
+  "question": "Which country under its ‘Data Sonification' program, extracted the sound of important phenomena of the universe?",
+  "option1": "India",
+  "option2": "China",
+  "option3": "United States",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The NASA is implementing a program for \"Data sonification\", which involves the use of non-speech data to be translated into sound.\r\nRecently, the Researchers at the Chandra X-ray center have used three important phenomenon of the universe and translated the frequencies of light into different pitches of sound. Crab Nebula, Bullet Cluster and Super nova are the three iconic images."
+}

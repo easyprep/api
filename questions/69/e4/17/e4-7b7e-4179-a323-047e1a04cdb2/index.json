@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-05T03:48:02.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "69e417e4-7b7e-4179-a323-047e1a04cdb2",
+  "labels": "current-affairs,2020-12-06",
+  "question": "What is the new limit of transaction made using contactless card, as per the recent statement of the RBI?",
+  "option1": "Rs 1000",
+  "option2": "Rs 2000",
+  "option3": "Rs 5000",
+  "option4": "Rs 10000",
+  "option5": "",
+  "answer": "Rs 5000",
+  "explanation": "The Reserve Bank of India (RBI) has proposed to increase the limit for contactless card transactions to Rs 5,000 from Rs 2,000 per transaction from January 1, 2021.<br />This announcement was part of the RBI's Statement on Developmental and Regulatory Policies, announced during the RBI's bi-monetary policy announcement. The limit for e-mandates for recurring transactions using cards and UPI is also raised to Rs 5000."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:50:47.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "6a4fe9aa-3953-41e8-876b-c47ba863e3a6",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Given below are two statements, one labelled as Assertion (A) and the other labelled as Reason (R). Select the correct answer from the code given below:\r\nAssertion (A) India is seeking permanent membership of Security Council of UNO.\r\nReason (R) India is a nuclear power.",
+  "option1": "Both (A) and (R) are true, and (R) is the correct explanation of (A)",
+  "option2": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+  "option3": "(A) is true, but (R) is false",
+  "option4": "(A) is false, but (R) is true",
+  "option5": "",
+  "answer": "Both (A) and (R) are true, but (R) is not the correct explanation of (A)",
+  "explanation": "India is seeking permanent membership of Security Council of UNO but having nuclear weapons does not mean you should have a permanent seat on the security council because the permanent members of the UN security council were not the states that had nuclear weapons at the time, nor were they the states that were legally allowed to have nuclear weapons, nor is nuclear capability a requirement to be a permanent member on the Security Council. When the UN was formed in 1945, only the United States had nuclear weapons; the Soviet Union didn’t explode their first bomb till 1949, the UK till 1952, France till 1960, and China till 1964."
+}

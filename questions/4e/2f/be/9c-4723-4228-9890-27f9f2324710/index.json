@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-10T05:01:09.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "4e2fbe9c-4723-4228-9890-27f9f2324710",
+  "labels": "current-affairs,2020-12-11",
+  "question": "Which institution has created a technology to harvest water from air?",
+  "option1": "IIT Guwahati",
+  "option2": "IIT Madras",
+  "option3": "NIT Trichy",
+  "option4": "NIT Warangal",
+  "option5": "",
+  "answer": "IIT Guwahati",
+  "explanation": "Researchers at Indian Institute of Technology, Guwahati claimed to have developed a new technology to harvest water from the air.<br />The researchers have used the concept of hydrophobicity, which is the property of a material to repel water. Slippery liquid-infused porous surfaces or SLIPS material is chemically patterned and used."
+}

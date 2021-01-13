@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:50:35.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "59f200c4-51f8-491e-a08a-4d04ff4f9842",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) The Trusteeship Council was suspended in the 1994.\r\nReason (R) By 1994, all Trust Territories had attained self-government or independence.",
+  "option1": "Both A and R are true, and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "Both A and R are true, and R is the correct explanation of A",
+  "explanation": "The Trusteeship Council of United Nations was suspended in operation on 1 November 1994 because by 1994, all Trust Territories had attained self-government or independence."
+}

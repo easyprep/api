@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-11T03:30:10.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "9f2fc2da-0ab0-463f-8eae-18feb75de30f",
+  "labels": "current-affairs,2020-12-12",
+  "question": "What is the name of the new health research application launched by Google?",
+  "option1": "Google Health Studies",
+  "option2": "Google Research",
+  "option3": "Google Discover",
+  "option4": "Google Medico",
+  "option5": "",
+  "answer": "Google Health Studies",
+  "explanation": "Google launched a new health research app called the ‘Google Health Studies’. It enables the research institutions to connect with potential study participants.\r\nThrough this app, android users can take part in health studies by answering survey questions and providing relevant data. Its first study will focus on respiratory illnesses like COVID-19."
+}

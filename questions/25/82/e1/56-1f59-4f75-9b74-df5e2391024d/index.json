@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:50:36.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "2582e156-1f59-4f75-9b74-df5e2391024d",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) International Finance Corporation is a specialised agency of the United Nations.\r\nReason (R) It was founded on 1976.",
+  "option1": "Both A and R are true, and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "A is true, R is False",
+  "explanation": "International Finance Corporation is a specialised agency of the United nations and was formed in 1956 which provides various forms of finances to the private sector."
+}

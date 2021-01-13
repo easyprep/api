@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-12T05:22:44.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "856683d4-2395-4a86-a04e-5a28ecc23060",
+  "labels": "current-affairs,2020-12-13",
+  "question": "In which year RTGS was introduced in India?",
+  "option1": 2000,
+  "option2": 2004,
+  "option3": 2010,
+  "option4": 2019,
+  "option5": "",
+  "answer": 2004,
+  "explanation": "The Real Time Gross Settlement System (RTGS) transaction was introduced in India in the year 2004. Presently, RTGS handles a transaction volume of Rs 4.17 lakh crore per day and it is used by 237 participant banks.<br />Recently, Reserve Bank of India has permitted for round the clock RTGS facility in India, which makes India one among the very few countries offering this service."
+}

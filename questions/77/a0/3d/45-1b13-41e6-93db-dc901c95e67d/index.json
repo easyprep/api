@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:52:36.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "77a03d45-1b13-41e6-93db-dc901c95e67d",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Which one of the following statements is not correct regarding Certiorari?",
+  "option1": "A High Court can issue a writ against itself in its administrative capacity.",
+  "option2": "A bench of a High Court can issue a writ to another bench of the same High Court.",
+  "option3": "A High Court cannot issue a writ to another High Court.",
+  "option4": "A High Court can issue certiorari to a tribunal situated within its jurisdiction.",
+  "option5": "",
+  "answer": "A bench of a High Court can issue a writ to another bench of the same High Court.",
+  "explanation": "A bench of a High Court can issue a writ to another bench of the same High Court is not correct regarding certiorari because it is issued by a higher court to a lower court or tribunal either to transfer a case pending with the latter to itself or to equash the order of the latter in a case."
+}

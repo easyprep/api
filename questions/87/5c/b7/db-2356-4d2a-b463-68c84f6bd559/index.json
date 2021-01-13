@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-04T11:57:22.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "875cb7db-2356-4d2a-b463-68c84f6bd559",
+  "labels": "current-affairs,2020-12-05",
+  "question": "CBIC has mandated HSN Code while issuing GST invoice. What does HSN stand for?",
+  "option1": "Harmonised System of Notification",
+  "option2": "Harmonised System of Nomenclature",
+  "option3": "Horizontal System of Notification",
+  "option4": "Horizontal System of Nomenclature",
+  "option5": "",
+  "answer": "Harmonised System of Nomenclature",
+  "explanation": "The Central Board of Indirect Taxes and Customs (CBIC) has mandated to mention the 8- digit HSN code or tariff code for 49 chemical-based products.<br />The HSN (Harmonised System of Nomenclature) code should be mentioned while issuing the Goods and Services Tax (GST) invoice. At present, businesses mention up to 4-digit tariff code, while issuing invoice. This new direction is expected to curb tax evasion."
+}

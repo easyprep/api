@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "e6444fe1-fda6-4aac-8857-cc9b218dc0ee",
+  "labels": "current-affairs,2020-12-08",
+  "question": "The sequencing of communication process in organisation is?",
+  "option1": "Sender, message, receiver, encoding",
+  "option2": "Message, channel, feedback, encoding",
+  "option3": "Sender, encoding, decoding, receiver",
+  "option4": "Sender, encoding, message, channel",
+  "option5": "",
+  "answer": "Sender, encoding, message, channel",
+  "explanation": "Communications is a continuous process which mainly involves three elements viz. sender, message, and receiver. The elements involved in the communication process are explained below in detail:\r\n1. Sender\r\n2. Message\r\n3. Encoding\r\n4. Media\r\n5. Decoding\r\n6. Receiver\r\n7. Feedback\r\n8. Noise"
+}

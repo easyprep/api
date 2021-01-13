@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-12T05:21:34.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "ec487eb5-6bff-4581-81ab-375f2acdf7a4",
+  "labels": "current-affairs,2020-12-13",
+  "question": "Which country has launched two satellites for detecting gravitational waves?",
+  "option1": "India",
+  "option2": "Japan",
+  "option3": "USA",
+  "option4": "China",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The Chinese Space Agency has launched two satellites for detecting gravitational waves. The two satellites form a part of Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor (GECAM) mission. These two satellites were launched using Long March-11 carrier rocket. <br />These satellites would be used for monitoring and studying high-energy radiation, gamma-rays and gravitational waves."
+}

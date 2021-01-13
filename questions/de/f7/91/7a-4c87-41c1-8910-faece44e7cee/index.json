@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "def7917a-4c87-41c1-8910-faece44e7cee",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Two statements are given below. One is Assertion (A) and other is Reason (R): \r\nAssertion (A): Herbert Simon rejected Principles of Administration.\r\nReason (R): For Simon, these are merely proverbs\r\nChoose the correct options:",
+  "option1": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+  "option2": "Both (A) and (R) are true, but (R) is not correct explanation of (A)",
+  "option3": "(A) is true, but (R) is false",
+  "option4": "(A) is false, but (R) is true",
+  "option5": "",
+  "answer": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+  "explanation": "Simon on theory criticizes the classical theory of administration, “As being mere proverbs, or myths, so gains and pompous entities”."
+}

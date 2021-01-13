@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:54:20.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "f72c4c1f-9f8b-459f-aefd-a5044be2a837",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Make a sequence of Decision-making approach:\r\n(a) Search for information\r\n(b) Problem recognition\r\n(c) Selection of alternative\r\n(d) Definition of alternative\r\nSelect the right option:",
+  "option1": "(a), (c), (d), (b)",
+  "option2": "(b), (d), (a), (c)",
+  "option3": "(b), (a), (c), (d)",
+  "option4": "(b), (a), (d), (c)",
+  "option5": "",
+  "answer": "(b), (a), (d), (c)",
+  "explanation": "The decision-making process involves the steps which are as follows:\r\n1. Define the problem.\r\n2. Identify limiting factors.\r\n3. Develop potential alternatives.\r\n4. Analyze the alternatives.\r\n5. Select the best alternative.\r\n6. Implement the decision.\r\n7. Establish a control and evaluation system."
+}

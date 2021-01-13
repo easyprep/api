@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:52:37.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "e2f19d11-4a7e-4b02-a666-1b9207ee4f0d",
+  "labels": "current-affairs,2020-12-08",
+  "question": "What is the percentage fixed by the constitution regarding the strength of the Ministers including the chief minister in a state?",
+  "option1": 0.1,
+  "option2": 0.12,
+  "option3": 0.15,
+  "option4": 0.16,
+  "option5": "",
+  "answer": 0.15,
+  "explanation": "The Constitution (91st Amendment) Act, 2003, which limits the size of all ministries in India, comes into force on July 7. This Act stipulates that the strength of a council of ministers should not exceed 15 per cent of the total number of members in the Lok Sabha (in case of the central government) or the relevant state assembly."
+}

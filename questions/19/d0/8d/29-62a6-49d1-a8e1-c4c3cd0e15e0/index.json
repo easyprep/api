@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-13T04:51:09.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "19d08d29-62a6-49d1-a8e1-c4c3cd0e15e0",
+  "labels": "current-affairs,2020-12-14",
+  "question": "Which pharma company has developed India’s first mRNA vaccine?",
+  "option1": "Gennova Biopharmaceuticals",
+  "option2": "Serum Institute",
+  "option3": "Cipla Pharma",
+  "option4": "Ranbaxy",
+  "option5": "",
+  "answer": "Gennova Biopharmaceuticals",
+  "explanation": "Gennova Biopharmaceuticals has developed India’s first Covid-19 vaccine candidate based on mRNA. It has recently received approval from drug regulators of the country for entrusting it to clinical trials.<br />HGCO19 is the name of the mRNA vaccine candidate developed by the Pune based institution, using the seed grant received under Ind-CEPI mission of the department of biotechnology of the Union Ministry of science and technology"
+}

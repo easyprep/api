@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-10T05:02:08.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "575ed911-4a54-45d4-9b84-7f6deccb0f31",
+  "labels": "current-affairs,2020-12-11",
+  "question": "‘Starship’, which was seen in the news recently, is the rocket-ship of which space company/ organisation?",
+  "option1": "Blue Moon",
+  "option2": "SpaceX",
+  "option3": "NASA",
+  "option4": "ISRO",
+  "option5": "",
+  "answer": "SpaceX",
+  "explanation": "Starship is the futuristic rocket-ship of SpaceX, the private space company owned by billionaire Elon Musk. It is being designed to carry people to Mars.<br />The first high-altitude test flight of the Starship was aborted at the last second, due to an automatic engine abort just ahead of the count-down. SpaceX has conducted five Starship test flights but not at high altitude."
+}

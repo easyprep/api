@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-08T15:36:53.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "20ed17e0-194c-405a-a925-7290c1db3c76",
+  "labels": "current-affairs,2020-12-09",
+  "question": "Gaofen-14 earth observation satellite has been sent to space by China using which launch vehicle?",
+  "option1": "PSLV C 51",
+  "option2": "GSLV Mark 3",
+  "option3": "Long March 3B",
+  "option4": "Fat Boy 1A",
+  "option5": "",
+  "answer": "Long March 3B",
+  "explanation": "The Chinese space agency has recently launched an optical stereo mapping Earth Observation satellite named Gaofen-14. <br />The satellite was placed in its designated orbit using Long March-3B carrier rocket. The satellite can capture high resolution images of ground objects across the globe."
+}

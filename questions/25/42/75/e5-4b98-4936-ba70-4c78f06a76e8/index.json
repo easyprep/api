@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:40.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "254275e5-4b98-4936-ba70-4c78f06a76e8",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the handball throw. \"This throw restarts the play after an interruption by the referees. It takes places from the spot where the interruption was caused, as long as this spot is outside of this throw line of the opposing team. In the latter case, the throw is deferred to the nearest spot on this throw line.\"?",
+  "option1": "Throw-off",
+  "option2": "Throw-in",
+  "option3": "Free throw",
+  "option4": "Seven-meter throw",
+  "option5": "",
+  "answer": "Free throw",
+  "explanation": "A free-throw restarts the play after an interruption by the referees. It takes places from the spot where the interruption was caused, as long as this spot is outside of the free-throw line of the opposing team. In the latter case, the throw is deferred to the nearest spot on the free-throw line. Free-throws are the equivalent to free-kicks in association football."
+}

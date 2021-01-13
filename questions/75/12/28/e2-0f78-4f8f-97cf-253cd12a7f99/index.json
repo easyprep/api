@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-02T10:55:44.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "751228e2-0f78-4f8f-97cf-253cd12a7f99",
+  "labels": "current-affairs,2020-12-03",
+  "question": "Which is the world’s most polluted city, as per the US Air Quality Index?",
+  "option1": "Delhi",
+  "option2": "Lahore",
+  "option3": "New York",
+  "option4": "Beijing",
+  "option5": "",
+  "answer": "Lahore",
+  "explanation": "As per the US Air Quality Index released recently, Lahore is named the most polluted city in the world, followed by Delhi and Kathmandu.<br />Lahore, the cultural capital of Pakistan, has reported a particulate matter (PM) rating of 423. The The United States Environmental Protection Agency registers air quality as ‘satisfactory’ if the AQI is under 50."
+}

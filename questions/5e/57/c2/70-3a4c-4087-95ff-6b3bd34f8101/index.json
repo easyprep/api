@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-12T05:20:48.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "5e57c270-3a4c-4087-95ff-6b3bd34f8101",
+  "labels": "current-affairs,2020-12-13",
+  "question": "HIMS - Hospital Management Information System has been launched by which organisation?",
+  "option1": "Indian Railways",
+  "option2": "Indian Air Force",
+  "option3": "Indian Navy",
+  "option4": "AIIMS",
+  "option5": "",
+  "answer": "Indian Railways",
+  "explanation": "The Indian Railways has recently launched Hospital Management Information System (HMIS). This aims to provide enhanced health care facilities to its employees. <br />The trial version of the project has been launched in South Central Railway. This is expected to improve the health care system of the Railways and improve the utilisation of resources."
+}

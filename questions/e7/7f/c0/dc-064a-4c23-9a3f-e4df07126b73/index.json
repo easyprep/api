@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:40.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "e77fc0dc-064a-4c23-9a3f-e4df07126b73",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the handball throw. \"The team which did not touch the ball last is awarded this throw when the ball fully crosses the sideline or touches the ceiling. If the ball crosses the outer goal line, this throw is awarded only if the defending field players touched the ball last.\"?",
+  "option1": "Throw-in",
+  "option2": "Throw-off",
+  "option3": "Free throw",
+  "option4": "Seven-meter throw",
+  "option5": "",
+  "answer": "Throw-in",
+  "explanation": "The team which did not touch the ball last is awarded a throw-in when the ball fully crosses the sideline or touches the ceiling. If the ball crosses the outer goal line, a throw-in is awarded only if the defending field players touched the ball last."
+}

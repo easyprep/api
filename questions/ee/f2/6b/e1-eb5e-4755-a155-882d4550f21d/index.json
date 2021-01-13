@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:40.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "eef26be1-eb5e-4755-a155-882d4550f21d",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the handball throw. \"This throw takes place from the centre of the court. The thrower must touch the middle line with one foot, and all the other offensive players must stay in their half until the referee restarts the game. The defending players must keep a distance of at least three meters from the thrower until the ball leaves his hand. \"?",
+  "option1": "Throw-in",
+  "option2": "Throw-off",
+  "option3": "Free throw",
+  "option4": "Seven-meter throw",
+  "option5": "",
+  "answer": "Throw-off",
+  "explanation": "A throw-off takes place from the centre of the court. The thrower must touch the middle line with one foot, and all the other offensive players must stay in their half until the referee restarts the game. The defending players must keep a distance of at least three meters from the thrower until the ball leaves his hand. A throw-off occurs at the beginning of each period and after the opposing team scores a goal. It must be cleared by the referees."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:52:48.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "a6f568d9-9453-4906-a414-89c89f559e98",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) During a national emergency, the Parliament becomes empowered to make laws on any subject mentioned in the State List.\r\nReason (R) The legislative power of a state legislature is suspended during a national emergency.",
+  "option1": "Both A and R are true, and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "A is true, R is False",
+  "explanation": "During a national emergency, the Parliament becomes empowered to make laws on any subject mentioned in the State List because  legislative power of a state legislature is not suspended, it becomes subject to the overriding power of the Parliament."
+}

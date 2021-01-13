@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-05T03:49:42.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "41747fa6-66e4-45ab-9a51-902c4baf461e",
+  "labels": "current-affairs,2020-12-06",
+  "question": "As per a recent study by the IIT-Kharagpur, which region of India is named as the global hot-spot of atmospheric ammonia (NH3)?",
+  "option1": "Southern Coastal region",
+  "option2": "Indo-Gangetic Plain",
+  "option3": "Deccan Plateau",
+  "option4": "Western Ghats",
+  "option5": "",
+  "answer": "Indo-Gangetic Plain",
+  "explanation": "According to researchers at the Indian Institute of Technology (IIT) Kharagpur, the Indo-Gangetic Plain (IGP) is the global hot-spot of atmospheric ammonia (NH3).<br />This is due to concentrated agricultural activities and fertilizer production in the region. The satellite data of agricultural emissions show that atmospheric ammonia is related with total fertilizer consumption and temperature."
+}

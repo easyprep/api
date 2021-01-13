@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-01T03:05:21.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "d7a4fa3b-4262-473b-a2d7-a706f4ad3e87",
+  "labels": "current-affairs,2020-12-02",
+  "question": "Which method of COVID-19 testing developed by CSIR- CCMB, without viral transport medium, has been approved by ICMR?",
+  "option1": "Dry Swab RT-PCR",
+  "option2": "Gold standard RT-PCR",
+  "option3": "VTM RT- PCR",
+  "option4": "RNA RT-PCR",
+  "option5": "",
+  "answer": "Dry Swab RT-PCR",
+  "explanation": "The Indian Council for Medical Research (ICMR) has approved the Dry Swab RT-PCR for COVID-19 testing, which was developed by CSIR's Centre for Cellular and Molecular Biology, Hyderabad.<br />In this simple and fast method, nasal swab is collected and transported in dry state, as against the using the viral transport medium used in conventional testing. It does not require RNA isolation from the sample."
+}

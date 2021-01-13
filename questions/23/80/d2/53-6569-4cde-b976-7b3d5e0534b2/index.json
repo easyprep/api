@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:52:46.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "2380d253-6569-4cde-b976-7b3d5e0534b2",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) Article 1 of the Constitution of India describes India as a ‘Union of States’.\r\nReason (R) The Indian federation is not the result of an agreement among the states.",
+  "option1": "Both A and R are true, and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "Both A and R are true, and R is the correct explanation of A",
+  "explanation": "Article 1 of the Constitution describes India as a ‘Union of States’ instead of 'Federation of States' because the Indian federation is not the result of an agreement among the states like the American federation."
+}

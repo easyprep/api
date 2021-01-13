@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:54:23.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "87a7c91b-3cca-4cf9-8a37-dbde91c67533",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Given below are two statements, one labelled as Assertion (A) and other labelled as Reason (R). Select the correct answer from the code given below:\r\nAssertion (A): Herbert Simon has ridiculed the classical theory of organisation as a machine model theory.\r\nReason (R) : Classicists are too much preoccupied with the formal structural part of organisation and that too at the cost of human factors.",
+  "option1": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+  "option2": "Both (A) and (R) are true, but (R) is not the correct explanation of (A).",
+  "option3": "(A) is true, but (R) is false",
+  "option4": "(A) is false, but (R) is true",
+  "option5": "",
+  "answer": "Both (A) and (R) are true and (R) is the correct explanation of (A).",
+  "explanation": "Herbert Simon has ridiculed the classical theory of organisation as a machine model theory because classicists are too much preoccupied with the formal structural part of organization and that too at the cost of human factors."
+}

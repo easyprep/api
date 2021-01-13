@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-09T04:23:36.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "45fdb6e1-d43a-4589-afe5-e0e797cbda6b",
+  "labels": "current-affairs,2020-12-10",
+  "question": "Which Indian bank has launched a new mobile banking application for customers of all banks, named ‘iMobile Pay’?",
+  "option1": "Yes Bank",
+  "option2": "ICICI Bank",
+  "option3": "HDFC Bank",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "ICICI Bank has recently launched a new mobile banking application named ‘iMobile Pay’, which can offer payments and banking services to customers of any bank.<br />Through the app, customers can pay to any UPI (Unified Payments Interface) ID or merchants, pay bills and do online recharges among others. It also enables users to access instant banking services like loans, credit cards, gift cards, travel cards and more."
+}

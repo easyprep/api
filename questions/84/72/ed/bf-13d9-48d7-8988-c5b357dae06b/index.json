@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-01T03:25:07.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "8472edbf-13d9-48d7-8988-c5b357dae06b",
+  "labels": "current-affairs,2020-12-02",
+  "question": "Hayabusa2, which was making news recently, is a spacecraft of which country?",
+  "option1": "China",
+  "option2": "Japan",
+  "option3": "South Korea",
+  "option4": "UAE",
+  "option5": "",
+  "answer": "Japan",
+  "explanation": "Japan’s spacecraft named ‘Hayabusa2’ is approaching the Earth after a year-long journey from an asteroid Ryugu, about 300 million kilometers from earth.<br />As per the Japan Aerospace Exploration Agency, the spacecraft will bring soil samples and data that could provide clues to the origins of the solar system and life on Earth. The agency would drop the capsule containing the samples, in southern Australia."
+}

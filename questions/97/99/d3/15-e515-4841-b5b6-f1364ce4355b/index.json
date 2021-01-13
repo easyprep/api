@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-07T18:50:35.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "9799d315-e515-4841-b5b6-f1364ce4355b",
+  "labels": "current-affairs,2020-12-08",
+  "question": "Which among the following organization is not a part of World Bank Group?",
+  "option1": "International Bank for Reconstruction and Development (IBRD)",
+  "option2": "International Finance Corporation (IFC)",
+  "option3": "International Centre for Settlement of Investment Disputes (ICSID)",
+  "option4": "World Trade Organisation",
+  "option5": "",
+  "answer": "World Trade Organisation",
+  "explanation": "World Bank Group comprises of the following organizations are:\r\na. International Bank for Reconstruction and Development (IBRD).\r\nb. International Development Association (IDA).\r\nc. International Finance Corporation (IFC).\r\nd. Multilateral Investment Guarantee Agency (MIGA).\r\ne. International Centre for Settlement of Investment Disputes (ICSID)."
+}

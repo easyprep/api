@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-04T11:59:48.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "5de1b5b0-4c50-4d1a-9068-a8f6bf6a7f10",
+  "labels": "current-affairs,2020-12-05",
+  "question": "Which organization has released the provisional <strong>2020 State of the Global Climate</strong> report?",
+  "option1": "UNFCC",
+  "option2": "WMO",
+  "option3": "IMF",
+  "option4": "UNESCO",
+  "option5": "",
+  "answer": "WMO",
+  "explanation": "As per the provisional 2020 State of the Global Climate report released by U.N.'s World Meteorological Organization (WMO), the last 6 years from 2015 to 2020 are the hottest years on record. <br />The report has stated that the average global temperature in 2020 would be 1.2 degrees Celsius above the pre-industrial level"
+}

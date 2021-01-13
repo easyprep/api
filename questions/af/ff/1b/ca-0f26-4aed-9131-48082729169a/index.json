@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-09T04:33:07.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "afff1bca-0f26-4aed-9131-48082729169a",
+  "labels": "current-affairs,2020-12-10",
+  "question": "LiDAR technology is set to be used for conducting ground survey in which upcoming project?",
+  "option1": "Parliament building",
+  "option2": "Delhi-Varanasi Rail corridor",
+  "option3": "Chennai Airport Terminal",
+  "option4": "Haldia Port",
+  "option5": "",
+  "answer": "Delhi-Varanasi Rail corridor",
+  "explanation": "The Indian Railways is going to use the Light Detection and Ranging Technique (LiDAR) to conduct ground survey for the Delhi Varanasi high speed rail corridor. <br />It provides accurate and high-quality data in a short span of time. This technology was first used in Mumbai-Ahmedabad high-speed rail corridor project."
+}

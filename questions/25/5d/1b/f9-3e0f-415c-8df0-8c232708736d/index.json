@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-06T01:49:32.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "255d1bf9-3e0f-415c-8df0-8c232708736d",
+  "labels": "current-affairs,2020-12-07",
+  "question": "“Jiuzhang” is the quantum computer developed by which country?",
+  "option1": "New Zealand",
+  "option2": "Japan",
+  "option3": "China",
+  "option4": "Thailand",
+  "option5": "",
+  "answer": "China",
+  "explanation": "Chinese scientists have developed a quantum computer named Jiuzhang. China has claimed it to be the world’s first light-based quantum computer. <br />It is said that the computer can solve extremely esoteric calculations called Gaussian boson sampling in 200 seconds, which a conventional supercomputer would take 600 million years to provide result."
+}

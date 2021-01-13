@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-02T11:10:14.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "d2ed41dd-f296-4bbe-8714-fd5e7c037f44",
+  "labels": "current-affairs,2020-12-03",
+  "question": "Which PSU has delivered a cryogenic propellant tank to Indian Space Research Organisation (ISRO)?",
+  "option1": "BHEL",
+  "option2": "NTPC",
+  "option3": "ONGC",
+  "option4": "HAL",
+  "option5": "",
+  "answer": "HAL",
+  "explanation": "The state-owned PSU Hindustan Aeronautics Limited (HAL) has delivered a cryogenic propellant tank (C32 LH2) to the Indian Space Research Organisation (ISRO). <br />The component has been delivered by HAL much ahead of its scheduled delivery time. This is supposed to be the biggest ever component fabricated by HAL and is to be used in GSLV Mk 3 launch vehicle."
+}

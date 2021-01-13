@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-10T04:56:43.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "6aad59f7-c7ab-4c77-8dc4-51e3b6b3f2b2",
+  "labels": "current-affairs,2020-12-11",
+  "question": "The “Go for Zero” policy, which was seen in the news recently, is associated with which country?",
+  "option1": "United Kingdom",
+  "option2": "New Zealand",
+  "option3": "Australia",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "Australia",
+  "explanation": "“Go for zero” is a policy proposal released by Grattan Institute, a non-profit think tank that advises the government.<br />As a part of the policy, the Australian Government introduced several measures with the goal of eventually reaching zero new cases and not just to flatten the curve. As a result, the country passed three weeks without any local transmission of Covid-19."
+}

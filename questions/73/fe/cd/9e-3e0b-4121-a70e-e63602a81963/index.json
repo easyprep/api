@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-02T11:03:38.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "73fecd9e-3e0b-4121-a70e-e63602a81963",
+  "labels": "current-affairs,2020-12-03",
+  "question": "Which regulator has launched an asset restructuring web module for MSMEs named ARM-MSME?",
+  "option1": "RBI",
+  "option2": "NABARD",
+  "option3": "NHB",
+  "option4": "SIDBI",
+  "option5": "",
+  "answer": "SIDBI",
+  "explanation": "Small Industries Development Bank of India (SIDBI) has recently launched an asset restructuring web module for the Micro Small and Medium Enterprises (MSME). <br />The module named ARM-MSME would assist MSMEs to get benefitted from RBI’s MSME restructuring guideline. MSMEs will be able to prepare restructuring proposals by inputting only the most essential data. This service is being offered by SIDBI at no cost to the MSMEs."
+}

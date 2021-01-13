@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-09T04:32:30.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "1f01ee44-0e42-4024-bd39-dedbe006f4b2",
+  "labels": "current-affairs,2020-12-10",
+  "question": "Which technology major has been named to lead EU’s project Hexa-X?",
+  "option1": "Microsoft",
+  "option2": "Google",
+  "option3": "Facebook",
+  "option4": "Nokia",
+  "option5": "",
+  "answer": "Nokia",
+  "explanation": "The technology major Nokia is set to lead the project Hexa X which is the European Commission’s 6G initiative. <br />The project aims to establish next generation wireless networks. It project would create a 6G network a unique capability to understand human intentions, anticipate needs, make interactions."
+}

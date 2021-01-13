@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-09T04:34:53.000Z",
+  "updated_at": "2021-01-06T08:25:13.110Z",
+  "id": "215a7e26-9807-4c26-b247-435858681786",
+  "labels": "current-affairs,2020-12-10",
+  "question": "Which space agency has launched the new Dragon resupply mission?",
+  "option1": "ISRO",
+  "option2": "NASA",
+  "option3": "ESA",
+  "option4": "Space X",
+  "option5": "",
+  "answer": "Space X",
+  "explanation": "The private space agency SpaceX has successfully launched a new Dragon resupply mission. Under the mission, the company sent a cargo space craft to the International Space Station, on behalf of NASA. <br />After the launch, the first stage booster of the rocket returned to Earth and landed on the company’s ship placed in Atlantic Ocean."
+}
