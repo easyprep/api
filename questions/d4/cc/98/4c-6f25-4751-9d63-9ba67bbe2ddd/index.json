@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-06T21:20:38.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "d4cc984c-6f25-4751-9d63-9ba67bbe2ddd",
+  "labels": "current-affairs,2020-11-07",
+  "question": "Which of the following is correct, in the context of a cricket game, in which the loser of each match-up is immediately eliminated from the tournament?",
+  "option1": "Double Elimination Tournament",
+  "option2": "Triple Elimination Tournament",
+  "option3": "Single Elimination Tournament",
+  "option4": "Compass Draw Tournament",
+  "option5": "",
+  "answer": "Single Elimination Tournament",
+  "explanation": "Single Elimination Tournament, in the context of a cricket game, is in which the loser of each match-up is immediately eliminated from the tournament. A single-elimination, knockout, or sudden death tournament is a type of elimination tournament where the loser of each match-up is immediately eliminated from the tournament. Each winner will play another in the next round, until the final match-up, whose winner becomes the tournament champion."
+}

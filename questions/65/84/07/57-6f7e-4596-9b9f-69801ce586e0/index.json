@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-16T19:39:42.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "65840757-6f7e-4596-9b9f-69801ce586e0",
+  "labels": "current-affairs,2020-11-17",
+  "question": "Which sport's scoring format is \"albatross/double eagle\"?",
+  "option1": "Polo",
+  "option2": "Golf",
+  "option3": "Basketball",
+  "option4": "Tennis",
+  "option5": "",
+  "answer": "Golf",
+  "explanation": "Albatrosses have been scored in important golf tournaments. An albatross, also called a double eagle, is a score of three-under-par on a single hole. This is most commonly achieved with two shots on a par-5 but can be done with a hole-in-one on a par-4."
+}

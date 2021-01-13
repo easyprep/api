@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:16.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "14c150b9-5208-4b95-97c2-b808c4de6c56",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the Volleyball serve type. \"An overhand serve where the ball is tossed high enough that the player may jump before hitting it similarly to a standing float serve. The ball is tossed lower than a topspin jump serves, but contact is still made while in the air.\"?",
+  "option1": "Skyball serve",
+  "option2": "Jump float serve",
+  "option3": "Underhand serve",
+  "option4": "Blackcourt serve",
+  "option5": "",
+  "answer": "Jump float serve",
+  "explanation": "Jump float is an overhand serve where the ball is tossed high enough that the player may jump before hitting it similarly to a standing float serve. The ball is tossed lower than a topspin jump serves, but contact is still made while in the air."
+}

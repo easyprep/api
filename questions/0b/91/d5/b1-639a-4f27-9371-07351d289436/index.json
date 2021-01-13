@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:15.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "0b91d5b1-639a-4f27-9371-07351d289436",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the Volleyball serve type. \"An overhand serve where the player tosses the ball high and hits it with a wrist snap, giving it topspin which causes it to drop faster than it would otherwise and helps maintain a straight flight path.\"?",
+  "option1": "Underhand serve",
+  "option2": "Skyball serve",
+  "option3": "Topspin serve",
+  "option4": "Float serve",
+  "option5": "",
+  "answer": "Topspin serve",
+  "explanation": "Topspin serve is an overhand serve where the player tosses the ball high and hits it with a wrist snap, giving it topspin which causes it to drop faster than it would otherwise and helps maintain a straight flight path. Topspin serves are generally hit hard and aimed at a specific returner or part of the court."
+}

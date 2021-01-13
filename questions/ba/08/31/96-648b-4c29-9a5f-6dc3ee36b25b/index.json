@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:16.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "ba083196-648b-4c29-9a5f-6dc3ee36b25b",
+  "labels": "current-affairs,2020-11-27",
+  "question": "How many team members are present in each team of a beach volleyball game?",
+  "option1": 2,
+  "option2": 4,
+  "option3": 6,
+  "option4": 8,
+  "option5": "",
+  "answer": 2,
+  "explanation": "Beach volleyball is a team sport played by two teams of two players on a sand court divided by a net. Similar to indoor volleyball, the objective of the game is to send the ball over the net and to ground it on the opponent's side of the court."
+}

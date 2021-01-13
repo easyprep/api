@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-16T19:39:42.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "eb91eed3-92a7-4f94-82a1-13221fe5168e",
+  "labels": "current-affairs,2020-11-17",
+  "question": "Which sports tournament is the \"Seve Trophy\"?",
+  "option1": "Tennis",
+  "option2": "Cricket",
+  "option3": "Basketball",
+  "option4": "Golf",
+  "option5": "",
+  "answer": "Golf",
+  "explanation": "The Seve Trophy was a biennial golf tournament between teams of professional male golfers; one team representing Great Britain and Ireland, the other team representing Continental Europe. The tournament was played in years when there is no Ryder Cup. The competition was held eight times from 2000 to 2013."
+}

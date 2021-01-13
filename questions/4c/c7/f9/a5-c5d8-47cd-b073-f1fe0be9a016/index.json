@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-12T01:45:34.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "4cc7f9a5-c5d8-47cd-b073-f1fe0be9a016",
+  "labels": "current-affairs,2020-11-13",
+  "question": "What is ‘ORF3d’, that was seen in the news recently?",
+  "option1": "Covid-19 vaccine",
+  "option2": "Coronavirus Gene",
+  "option3": "Missile",
+  "option4": "Satellite",
+  "option5": "",
+  "answer": "Coronavirus Gene",
+  "explanation": "Researchers have recently discovered a new hidden gene in the novel coronavirus named ORF3d.<br />The new overlapping gene is expected to contribute to the unique biology and pandemic potential. This may also lead to the development of new vaccines against the virus. The study has been published in the journal ‘eLife’."
+}

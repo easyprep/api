@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-06T21:21:05.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "6a3122d8-abfb-4386-9469-b8612a1ed772",
+  "labels": "current-affairs,2020-11-07",
+  "question": "How many team members are there in each team of a Field Hockey game?",
+  "option1": 5,
+  "option2": 7,
+  "option3": 9,
+  "option4": 11,
+  "option5": "",
+  "answer": 11,
+  "explanation": "Eleven team members are there in each team of a Field Hockey game."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:16.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "41ae4fc1-a9ab-4160-9be7-f7d1864ea2d5",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the Volleyball attack technique. \"The player does not hit the ball hard, reducing its speed and thus confusing the opponent's defence.\"?",
+  "option1": "Backcourt",
+  "option2": "Line and Cross-court shot",
+  "option3": "Block-abuse",
+  "option4": "Off-speed hit",
+  "option5": "",
+  "answer": "Off-speed hit",
+  "explanation": "Off-speed hit is a volleyball attack technique in which the player does not hit the ball hard, reducing its speed and thus confusing the opponent's defence."
+}

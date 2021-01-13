@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-24T04:49:17.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "6c61683c-81db-40a0-8b9c-a9b3aa38ff34",
+  "labels": "current-affairs,2020-11-25",
+  "question": "Which institution has developed a solar-powered Unmanned Autonomous Survey Craft for Indian ports?",
+  "option1": "IIT Madras",
+  "option2": "IIT Kharagpur",
+  "option3": "IISc Bengaluru",
+  "option4": "IIT Guwahati",
+  "option5": "",
+  "answer": "IIT Madras",
+  "explanation": "Researchers from the Indian Institute of Technology (IIT) Madras have developed a solar-powered Unmanned Autonomous Survey Craft for Indian ports and inland waterways.<br />It would help to conduct autonomous hydrographic and oceanographic surveys and provide real-time data transmission over long distances. It had a successful field-test recently off the Chennai coast at Kamarajar port."
+}

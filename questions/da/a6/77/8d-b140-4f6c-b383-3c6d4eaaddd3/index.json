@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:15.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "daa6778d-b140-4f6c-b383-3c6d4eaaddd3",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the Volleyball serve type. \"A serve in which the player strikes the ball below the waist instead of tossing it up and striking it with an overhand throwing motion\"?",
+  "option1": "Underhand",
+  "option2": "Skyball serve",
+  "option3": "Topspin",
+  "option4": "Float",
+  "option5": "",
+  "answer": "Underhand",
+  "explanation": "Underhand is a serve in which the player strikes the ball below the waist instead of tossing it up and striking it with an overhand throwing motion. Underhand serves are considered very easy to receive and are rarely employed in high-level competitions."
+}

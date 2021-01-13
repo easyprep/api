@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-25T06:16:03.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "385490df-c5c5-44f7-b243-7d51308a54c5",
+  "labels": "current-affairs,2020-11-26",
+  "question": "Which organisation has launched a new digital application named ‘ANANDA’?",
+  "option1": "LIC",
+  "option2": "PFRDA",
+  "option3": "IRDAI",
+  "option4": "SIDBI",
+  "option5": "",
+  "answer": "LIC",
+  "explanation": "Life Insurance Corporation of India has launched a digital application named ‘ANANDA’, which is an acronym for Atma Nirbhar Agents New Business Digital Application.<br />Using the Digital application, life insurance policy can be applied through a paperless module with the help of the agent or intermediary. The application is developed based on paperless KYC process using Aadhaar-based e-authentication."
+}

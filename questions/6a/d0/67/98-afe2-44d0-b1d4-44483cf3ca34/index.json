@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-16T19:40:16.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "6ad06798-afe2-44d0-b1d4-44483cf3ca34",
+  "labels": "current-affairs,2020-11-17",
+  "question": "Which boxing punch style is a quick, straight punch thrown with the lead hand from the guard position?",
+  "option1": "Cross",
+  "option2": "Jab",
+  "option3": "Hook",
+  "option4": "Uppercut",
+  "option5": "",
+  "answer": "Jab",
+  "explanation": "Jab is a quick, straight punch thrown with the lead hand from the guard position. The jab extends from the side of the torso and typically does not pass in front of it. It is accompanied by a small, clockwise rotation of the torso and hips, while the fist rotates 90 degrees, becoming horizontal upon impact."
+}

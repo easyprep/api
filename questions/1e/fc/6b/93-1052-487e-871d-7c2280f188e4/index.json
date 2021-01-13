@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-06T21:20:47.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "1efc6b93-1052-487e-871d-7c2280f188e4",
+  "labels": "current-affairs,2020-11-07",
+  "question": "How many team members are there on each side of a Kabaddi match?",
+  "option1": 5,
+  "option2": 7,
+  "option3": 9,
+  "option4": 11,
+  "option5": "",
+  "answer": 7,
+  "explanation": "There are seven team members on each side of a Kabaddi match. Kabaddi is a contact team sport played between two teams of seven players each. The objective of the game is for a single player on offence, referred to as a \"raider\", to run into the opposing team's half of a court, tag out as many of their defenders as possible, and return to their own half of the court, all without being tackled by the defenders, and in a single breath."
+}

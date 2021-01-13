@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:39.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "33a657dc-5986-448c-8ee8-73849c2e0fa5",
+  "labels": "current-affairs,2020-11-27",
+  "question": "How many team members are present in each team of a handball game?",
+  "option1": 4,
+  "option2": 5,
+  "option3": 6,
+  "option4": 7,
+  "option5": "",
+  "answer": 7,
+  "explanation": "Handball is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team."
+}

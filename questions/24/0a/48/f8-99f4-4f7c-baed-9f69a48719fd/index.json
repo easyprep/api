@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-16T19:40:17.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "240a48f8-99f4-4f7c-baed-9f69a48719fd",
+  "labels": "current-affairs,2020-11-17",
+  "question": "Identify the boxing style. \"A boxer shifts back and forth between a right-handed (orthodox) stance and a left-handed (southpaw) stance on purpose to confuse their opponents in a fight\"?",
+  "option1": "Switch-hitter",
+  "option2": "Counterpuncher",
+  "option3": "Slugger",
+  "option4": "Swarmer",
+  "option5": "",
+  "answer": "Switch-hitter",
+  "explanation": "A switch-hitter switches back and forth between a right-handed (orthodox) stance and a left-handed (southpaw) stance on purpose to confuse their opponents in a fight. Right-handed boxers would train in the left-handed (southpaw) stance, while southpaws would train in a right-handed (orthodox) stance, gaining the ability to switch back and forth after much training. A truly ambidextrous boxer can naturally fight in the switch-hitter style without as much training."
+}

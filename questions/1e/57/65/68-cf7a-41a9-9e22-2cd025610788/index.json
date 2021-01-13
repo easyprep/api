@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-25T06:09:47.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "1e576568-cf7a-41a9-9e22-2cd025610788",
+  "labels": "current-affairs,2020-11-26",
+  "question": "The National Stock Exchange has terminated the broking license of which company and declared it as ‘Defaulter’?",
+  "option1": "Karvy Stock Broking Ltd",
+  "option2": "Zerodha",
+  "option3": "Angel Broking",
+  "option4": "CAMS",
+  "option5": "",
+  "answer": "Karvy Stock Broking Ltd",
+  "explanation": "The National Stock Exchange (NSE) has declared the Indian Financial services company Karvy Stock Broking Ltd as a defaulter. <br />The membership of Karvy was also terminated by NSE under NSEIL Rules. In November 2019, Karvy had transferred securities worth Rs 2,300 crore into its account by misusing power of attorney given by its clients. SEBI has also found that Karvy indulged in trades that were not authorized by clients."
+}

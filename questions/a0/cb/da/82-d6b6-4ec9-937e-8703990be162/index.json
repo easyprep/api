@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-19T03:38:07.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "a0cbda82-d6b6-4ec9-937e-8703990be162",
+  "labels": "current-affairs,2020-11-20",
+  "question": "Which country has approved the first self-testing kit to detect coronavirus?",
+  "option1": "China",
+  "option2": "India",
+  "option3": "United States",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The US Food and Drug Administration has approved the first coronavirus diagnostic kit for self-testing at home.<br />The Lucira Covid-19 All-In-One Test Kit is a molecular single-use test. It is also the first test that can be fully self-administered and provide results in 30 minutes or less. It can be self-administered for those who are above 14 years old."
+}

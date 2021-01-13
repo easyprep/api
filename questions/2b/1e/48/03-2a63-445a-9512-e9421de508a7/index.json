@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:16.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "2b1e4803-2a63-445a-9512-e9421de508a7",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the Volleyball serve type. \"An overhand serve where the ball is hit with no spin so that its path becomes unpredictable, akin to a knuckleball in baseball.\"?",
+  "option1": "Underhand serve",
+  "option2": "Skyball serve",
+  "option3": "Topspin serve",
+  "option4": "Float serve",
+  "option5": "",
+  "answer": "Float serve",
+  "explanation": "Float is an overhand serve where the ball is hit with no spin so that its path becomes unpredictable, akin to a knuckleball in baseball."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:16.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "fa3e9b35-6260-424e-acda-e679aecd4228",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the Volleyball serve type. \"An overhand serve where the ball is first tossed high in the air, then the player makes a timed approach and jumps to make contact with the ball, hitting it with much pace and topspin.\"?",
+  "option1": "Jump serve",
+  "option2": "Jump float serve",
+  "option3": "Underhand serve",
+  "option4": "Skyball serve",
+  "option5": "",
+  "answer": "Jump serve",
+  "explanation": "Jump serve is an overhand serve where the ball is first tossed high in the air, then the player makes a timed approach and jumps to make contact with the ball, hitting it with much pace and topspin."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-13T02:26:44.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "13f64018-a914-4e34-8cab-57203ea3d275",
+  "labels": "current-affairs,2020-11-14",
+  "question": "How much subsidy has been announced by the Government for Air Transport of fruits and vegetables from North-Eastern and Himalayan states?",
+  "option1": 0.1,
+  "option2": 0.25,
+  "option3": 0.4,
+  "option4": 0.5,
+  "option5": "",
+  "answer": 0.5,
+  "explanation": "The Union Ministry of Food Processing and Industries has announced to provide a subsidy of 50% on air transportation of fruits and vegetables from North-Eastern and Himalayan states. <br />This subsidy is given under the Atmanirbhar Bharat – Operation Greens – TOP to TOTAL scheme. This subsidy is applicable for air transportation to 41 notified destinations."
+}

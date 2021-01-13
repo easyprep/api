@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-13T02:14:56.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "795298ba-0103-41c7-8e41-deab53120c48",
+  "labels": "current-affairs,2020-11-14",
+  "question": "Which country has recently launched the world’s first 6G communication satellite?",
+  "option1": "India",
+  "option2": "USA",
+  "option3": "Russia",
+  "option4": "China",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China has become the world's first country to have successfully launched the 6G communications test satellite.<br />It was launched using Long March 6 rocket from the Taiyuan Satellite Launch Center in the Shanxi Province. The 6G technology is expected to be over 100 times faster than the 5G technology."
+}

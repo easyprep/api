@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-26T01:53:16.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "bec7d736-1a1b-43c4-81be-3cbfe088514f",
+  "labels": "current-affairs,2020-11-27",
+  "question": "Identify the Volleyball attack technique. \"The player does not try to make a hard spike, but hits the ball so that it touches the opponent's block and then bounces off-court.\"?",
+  "option1": "Backcourt",
+  "option2": "Line and Cross-court shot",
+  "option3": "Block-abuse",
+  "option4": "Off-speed limit",
+  "option5": "",
+  "answer": "Block-abuse",
+  "explanation": "Tool/Wipe/Block-abuse is a volleyball attack technique in which the player does not try to make a hard spike, but hits the ball so that it touches the opponent's block and then bounces off-court."
+}

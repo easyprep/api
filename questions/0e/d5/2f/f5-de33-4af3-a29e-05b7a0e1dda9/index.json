@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-21T04:35:11.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "0ed52ff5-de33-4af3-a29e-05b7a0e1dda9",
+  "labels": "current-affairs,2020-11-22",
+  "question": "Which Technology major has unveiled its Rich Communication Services (RCS) messaging globally?",
+  "option1": "Apple",
+  "option2": "Google",
+  "option3": "Xiaomi",
+  "option4": "Huawei",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Technology Giant Google has recently rolled out its Rich Communication Services (RCS) messaging globally.<br />The RCS chat services, which are an upgrade to the basic SMS features, by which Google aims to match the standalone messaging services like WhatsApp. It includes improved quality photos and videos, chat over Wi-Fi or data etc."
+}

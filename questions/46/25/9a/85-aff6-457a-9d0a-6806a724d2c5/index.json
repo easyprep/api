@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-07T02:32:55.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "46259a85-aff6-457a-9d0a-6806a724d2c5",
+  "labels": "current-affairs,2020-11-08",
+  "question": "Which social media platform has received approval from the National Payments Corporation of India (NPCI), to enter UPI market?",
+  "option1": "Telegram",
+  "option2": "WhatsApp",
+  "option3": "WeChat",
+  "option4": "Facebook Messenger",
+  "option5": "",
+  "answer": "WhatsApp",
+  "explanation": "WhatsApp has received the National Payments Corporation of India's (NPCI) approval to enter Unified Payment Interface (UPI) in phased manner.<br />The Social-media giant, owned by Facebook has over 400 million users in India. The UPI payments service is expected to be launched to 2 crore WhatsApp users initially. NPCI stated that a 30% cap will be implemented on total payment volumes via every third-party payment app."
+}

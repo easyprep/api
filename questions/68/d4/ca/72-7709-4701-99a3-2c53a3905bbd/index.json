@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-11T02:22:04.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "68d4ca72-7709-4701-99a3-2c53a3905bbd",
+  "labels": "current-affairs,2020-11-12",
+  "question": "Megascope, which was seen in news recently, has been launched by which organisation?",
+  "option1": "NITI Aayog",
+  "option2": "IIT Alumni Council",
+  "option3": "Reserve Bank of India",
+  "option4": "NABARD",
+  "option5": "",
+  "answer": "IIT Alumni Council",
+  "explanation": "The IIT Alumni Council has launched MegaScope, which includes data analysis, testing and genomics to diagnose infections accurately. It would also be used to prescribe personalised medicine.<br />The MegaScope aims to improve accuracy of testing and predict the disease severity thereby enhancing treatment effectiveness."
+}

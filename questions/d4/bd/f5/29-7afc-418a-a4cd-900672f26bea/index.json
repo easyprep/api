@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-20T06:01:12.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "d4bdf529-7afc-418a-a4cd-900672f26bea",
+  "labels": "current-affairs,2020-11-21",
+  "question": "Which regulating body has amended the regulations on transferring of assets by liquidator of a stressed firm?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "IBBI",
+  "option4": "NCLT",
+  "option5": "",
+  "answer": "IBBI",
+  "explanation": "The Insolvency and Bankruptcy Board of India (IBBI) has recently amended regulations to fast-track the resolution process.<br />Under the new regulations, the liquidator of a stressed firm can assign or transfer an asset, which is not readily realisable, to any person after consulting consultation committee of stakeholders. With NCLT’s approval, they may also distribute the undisposed of assets amongst stakeholders."
+}

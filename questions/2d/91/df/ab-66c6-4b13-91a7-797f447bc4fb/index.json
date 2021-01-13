@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-14T05:12:37.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "2d91dfab-66c6-4b13-91a7-797f447bc4fb",
+  "labels": "current-affairs,2020-11-15",
+  "question": "After WhatsApp, which social media platform introduced disappearing feature of message?",
+  "option1": "Facebook Messenger",
+  "option2": "Twitter",
+  "option3": "Snapchat",
+  "option4": "Telegram",
+  "option5": "",
+  "answer": "Facebook Messenger",
+  "explanation": "Facebook has recently announced to launch the feature of ‘Vanishing messages’ in its Messenger platform.<br />A similar feature of disappearing messages was first introduced in WhatsApp. Under the new mode, the messages would disappear once the receiver read it in their chat and closed the window. The feature has to be activated in both the sender and the receiver."
+}

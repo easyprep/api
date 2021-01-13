@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-18T04:09:07.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "fabf395d-9c6b-4cc2-98fe-9bbdd28a7518",
+  "labels": "current-affairs,2020-11-19",
+  "question": "Which organisation has commenced the testing of its Regulatory Sandbox on Retail Payment?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "NPCI",
+  "option4": "SBI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "Two entities namely Natural Support Consultancy Services, based at Jaipur Ltd and Nucleus Software Exports Ltd based at New Delhi commenced the testing of their products in Reserve Bank of India's regulatory sandbox on Retail Payment.<br />“e-Rupaya” is the product being developed by Natural Support Consultancy Services which is a Near-Field Communication (NFC) based prepaid card. “Payse” is the product being developed by Nucleus Software Exports."
+}

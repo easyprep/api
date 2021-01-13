@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-08T02:35:47.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "3db9260e-3f19-43d0-91cd-1a14a260031b",
+  "labels": "current-affairs,2020-11-09",
+  "question": "Which team has bagged the first prize in Gov-Tech-Thon 2020 that concluded recently?",
+  "option1": "Tech Teamz",
+  "option2": "Tech for India",
+  "option3": "Fit for Future",
+  "option4": "Nature for India",
+  "option5": "",
+  "answer": "Fit for Future",
+  "explanation": "The Gov Tech Thon 2020 is a virtual hackathon that was organized by IEEE, National Informatics Centre (NIC) and Oracle, under the aegis of the Ministry of Electronics and Information Technology. <br />The team from Robert Bosch Engineering and Business Solutions Private Limited named “Fit For Future” has bagged the first position in the hackathon for demonstrating prototype for automating vehicle fitness checks."
+}

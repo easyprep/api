@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-06T21:25:52.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "79b80070-a727-469f-9322-4fc7ba9b58de",
+  "labels": "current-affairs,2020-11-07",
+  "question": "How many team members are there in each team of a basketball game?",
+  "option1": 5,
+  "option2": 7,
+  "option3": 9,
+  "option4": 11,
+  "option5": "",
+  "answer": 5,
+  "explanation": "Five team members are there in each team of a basketball game. Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop while preventing the opposing team from shooting through their own hoop."
+}

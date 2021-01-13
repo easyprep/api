@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-16T19:39:42.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "c5ccf814-b277-4eee-bec5-b23f32c6bbe5",
+  "labels": "current-affairs,2020-11-17",
+  "question": "Which sport's playing format is \"Stableford\"?",
+  "option1": "Tennis",
+  "option2": "Badminton",
+  "option3": "Polo",
+  "option4": "Golf",
+  "option5": "",
+  "answer": "Golf",
+  "explanation": "Stableford is a scoring system used in the sport of golf. Rather than counting the total number of strokes taken, as in stroke play, it involves scoring points based on the number of strokes taken at each hole. Unlike traditional scoring methods, where the aim is to have the lowest score, under Stableford rules, the objective is to have the highest score."
+}

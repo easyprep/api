@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-08T02:29:02.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "cc28944e-5fb1-4c8f-969c-df2609e81da3",
+  "labels": "current-affairs,2020-11-09",
+  "question": "The India Meteorological Department (IMD) is to issue forecast for the outbreak of which disease?",
+  "option1": "Malaria",
+  "option2": "Dengue",
+  "option3": "Covid-19",
+  "option4": "Chikungunya",
+  "option5": "",
+  "answer": "Malaria",
+  "explanation": "As per the recent statement from the Ministry of Earth Sciences, the India Meteorological Department (IMD) is set to issue forecast for malaria outbreaks from next monsoon.<br />India has also planned to increase the high-performance computing (HPC) facility from the current capacity of 10 petaflops to 40 petaflops. India is at fourth place after the US, the UK and Japan in HPC, at present."
+}

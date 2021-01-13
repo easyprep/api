@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-16T19:39:42.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "44828f4b-547c-4a07-b123-56fe01e2276e",
+  "labels": "current-affairs,2020-11-17",
+  "question": "Which sport's scoring format is \"Par and Bogey\"?",
+  "option1": "Tennis",
+  "option2": "Badminton",
+  "option3": "Cricket",
+  "option4": "Golf",
+  "option5": "",
+  "answer": "Golf",
+  "explanation": "Par, or Bogey, is a scoring system used mostly in amateur and club golf. It is a match play format played against the course, with scoring based on the number of strokes taken compared to the par or bogey of each hole."
+}

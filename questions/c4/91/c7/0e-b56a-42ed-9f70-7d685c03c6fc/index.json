@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-11T03:29:09.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "c491c70e-b56a-42ed-9f70-7d685c03c6fc",
+  "labels": "current-affairs,2020-11-12",
+  "question": "Which IT major is set to acquire 100% stake in Postbank Systems AG?",
+  "option1": "Infosys",
+  "option2": "Accenture",
+  "option3": "TCS",
+  "option4": "IBM",
+  "option5": "",
+  "answer": "TCS",
+  "explanation": "Tata Consultancy Services (TCS) is set to acquire 100% of the shares of Postbank Systems AG, which provides IT services to Deutsche Bank.<br />Postbank Systems AG is a German based IT firm. By this acquisition, around 1500 employees of Postbank System would become a part of Tata Consultancy Services (TCS)."
+}

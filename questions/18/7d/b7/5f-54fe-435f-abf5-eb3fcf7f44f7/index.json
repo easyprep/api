@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-16T19:39:42.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "187db75f-54fe-435f-abf5-eb3fcf7f44f7",
+  "labels": "current-affairs,2020-11-17",
+  "question": "Which sport's playing format is \"Foursomes/ alternate shot\"?",
+  "option1": "Badminton",
+  "option2": "Golf",
+  "option3": "Tennis",
+  "option4": "Basketball",
+  "option5": "",
+  "answer": "Golf",
+  "explanation": "Foursomes, also known as alternate shot, is a pair playing format in the sport of golf. Golfers compete in teams of two, using only one ball per team, and taking alternate shots until the hole is completed. Team members take turns in teeing off on each hole, i.e. one player will take the tee shot on odd-numbered holes, and the other on even-numbered holes."
+}

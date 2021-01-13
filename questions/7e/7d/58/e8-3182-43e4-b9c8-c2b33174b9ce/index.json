@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-11-08T02:40:11.000Z",
+  "updated_at": "2021-01-06T08:25:12.208Z",
+  "id": "7e7d58e8-3182-43e4-b9c8-c2b33174b9ce",
+  "labels": "current-affairs,2020-11-09",
+  "question": "What is the name of the earth observation satellite to be launched by ISRO aboard PSLV-C49?",
+  "option1": "Aryabhatta 01",
+  "option2": "EOS 01",
+  "option3": "Cryosat",
+  "option4": "Lunarsat",
+  "option5": "",
+  "answer": "EOS 01",
+  "explanation": "India’s latest earth observation satellite named EOS-01 will be launched by the Indian Space Research Organisation (ISRO). <br />The satellite along with 9 other customer satellites would be carried to space by ISRO using its PSLV-C49 rocket. The rocket would be launched from the first launch pad of Satish Dhawan Space Centre, Sriharikota in Andhra Pradesh."
+}
