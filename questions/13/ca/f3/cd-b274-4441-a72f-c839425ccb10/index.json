@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-21T14:47:21.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "13caf3cd-b274-4441-a72f-c839425ccb10",
+  "labels": "current-affairs,2020-08-22",
+  "question": "Which among the following statements is/are correct about Rice?<br />\r\n<ol>\r\n<li>It is a tropical crop requiring a warm humid environment.</li>\r\n<li>The average temperature should remain above 22°C throughout the growing season of 4 to 6 months.</li>\r\n<li>Deep alluvial soils underlain by clayey subsoil preventing rapid seepage of water are ideal.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 2 & 3",
+  "option2": "Only 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Rice is typically a tropical crop requiring a warm humid environment. The average temperature should remain above 22°C throughout the growing season of 4 to 6 months. Rice is generally not grown in areas of less than 120 cm unless irrigation is assured. Deep alluvial soils underlain by clayey subsoil preventing rapid seepage of water are ideal."
+}

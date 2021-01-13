@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:05.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "95777b80-62e1-4ffc-b5da-50094a8fd4ff",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the contribution of Tourism to Indian GDP?",
+  "option1": 0.08,
+  "option2": 0.04,
+  "option3": 0.07,
+  "option4": 0.09,
+  "option5": "",
+  "answer": 0.08,
+  "explanation": "As per Tourism Satellite Account (TSA) data , the contribution of tourism to India’s GDP was 8% (3.7% direct and 3.1% indirect) and its contribution to total employment generation was 10.2% (direct 4.4% and indirect 5.8%)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:03.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "009b4a7a-b2c5-48f3-a12d-4cabfeb0626a",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the population of India employed in the service sector?",
+  "option1": 0.2954,
+  "option2": 0.3145,
+  "option3": 0.2035,
+  "option4": 0.1542,
+  "option5": "",
+  "answer": 0.3145,
+  "explanation": "The population of India employed in the service sector is 31.25%. The service sector contribution is maximum to the GDP of the country."
+}

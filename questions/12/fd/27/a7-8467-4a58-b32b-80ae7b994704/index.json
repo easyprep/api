@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:46:15.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "12fd27a7-8467-4a58-b32b-80ae7b994704",
+  "labels": "current-affairs,2020-08-19",
+  "question": "Which among the following is/are criteria for classifying an area as urban?<br />\r\n<ol>\r\n<li>population density</li>\r\n<li>minimum population threshold</li>\r\n<li>proportion employed in non-agricultural sectors</li>\r\n<li>presence of education or health services</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The criteria for classifying an area as urban may be based on one or a combination of characteristics, such as:<br />minimum population threshold;<br />population density;<br />proportion employed in non-agricultural sectors;<br />presence of infrastructure such as paved roads, electricity, piped water or sewers;<br />presence of education or health services."
+}

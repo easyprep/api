@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T03:29:52.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "6eed75e0-b969-49db-b1e3-ee01365ef90b",
+  "labels": "current-affairs,2020-08-19",
+  "question": "The famous computer scientist Russel Kirsch, who died recently, is associated with which invention?",
+  "option1": "RAM",
+  "option2": "Pixels",
+  "option3": "Optical Mouse",
+  "option4": "Bluetooth",
+  "option5": "",
+  "answer": "Pixels",
+  "explanation": "The famous computer scientist Russel Kirsch who is celebrated for invention of Pixel died at the age of 91. <br />Russel Kirsch created a small 2 by 2 inch black and white image of his son in digital form in 1957. This was also the world’s first photograph that was scanned into a computer using a device created by his research team. That was the basis for satellite imaging, medical scans, virtual reality and other imaging technology being used recently."
+}

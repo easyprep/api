@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:04.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "190fce1e-d447-4c26-84ad-89e245373101",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the contribution of Service sector to GDP of India?",
+  "option1": 0.6543,
+  "option2": 0.5539,
+  "option3": 0.3654,
+  "option4": 0.4064,
+  "option5": "",
+  "answer": 0.5539,
+  "explanation": "The service sector contributes about 55.39% to the GDP of the country. The service sector employs about 31.45% of the employed population."
+}

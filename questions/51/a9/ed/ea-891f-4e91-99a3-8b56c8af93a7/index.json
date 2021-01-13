@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:53.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "51a9edea-891f-4e91-99a3-8b56c8af93a7",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the share private sector in the total beds available for the treatment of patients?",
+  "option1": 0.3,
+  "option2": 0.4,
+  "option3": 0.5,
+  "option4": 0.6,
+  "option5": "",
+  "answer": 0.4,
+  "explanation": "The private sector has a share of 40% in terms of the total number of beds available for the treatment of people."
+}

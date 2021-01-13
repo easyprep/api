@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:05.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "1de4a5a0-c9dd-4ca2-9498-728c99dac990",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the share of FDI came into IT industry in the last 2 decades?",
+  "option1": 0.095,
+  "option2": 0.2,
+  "option3": 0.15,
+  "option4": 0.14,
+  "option5": "",
+  "answer": 0.095,
+  "explanation": "The share of FDI in IT industry of India is 9.5% in the last 2 decades. The total FDI from 2000-20 is US$ 44.9 billion."
+}

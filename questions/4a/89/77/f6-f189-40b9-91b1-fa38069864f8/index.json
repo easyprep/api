@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-16T02:29:09.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "4a8977f6-f189-40b9-91b1-fa38069864f8",
+  "labels": "current-affairs,2020-08-17",
+  "question": "Microsoft Research Lab has developed a Machine Translation tool for which tribal language?",
+  "option1": "Santali",
+  "option2": "Gondi",
+  "option3": "Savara",
+  "option4": "Mundari",
+  "option5": "",
+  "answer": "Gondi",
+  "explanation": "An application called the ‘Interactive Neural Machine Translation (INMT) tool’, has been developed by the Microsoft Research Lab.<br />Microsoft Lab has collaborated with CGNet Swara, an Indian voice-based online portal and IIIT Naya Raipur for developing this tool. It translates sentences from Hindi to South-Central Dravidian language Gondi and vice-versa. The application aims to motivate youth from the Gond tribal community to learn the language."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-20T18:12:09.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "c65833a9-9205-4059-806e-c96bd708f598",
+  "labels": "current-affairs,2020-08-21",
+  "question": "Which among the following pairs of types of fish is/are correctly matched?<br />\r\n<ol>\r\n<li>Pelagic fish - live and feed on or near the seabed.</li>\r\n<li>Demersal fish - live at or near the surface and feed on plankton.</li>\r\n</ol>\r\nSelect the correct code from the options give below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Fish are of numerous types and may be grouped in various ways. On the basis of their feeding habits fish can be called pelagic or demersal.<br />Pelagic Fish - such as herring, sardine and mackerel live at or near the surface and feed on plankton.<br />Demersal Fish - such as cod, haddock, plaice and sale live and feed on or near the seabed."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:44:09.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "056b81a1-15de-4c6c-9e6d-e7a62b0bbd7c",
+  "labels": "current-affairs,2020-08-19",
+  "question": "Which among the following pairs of human settlements is/are correctly matched?<br />\r\n<ol>\r\n<li>Linear - houses are constructed along a road, railway line, river, canal edge of a valley.</li>\r\n<li>Circular - found in plain areas or/and in wide inter-montane valley.</li>\r\n<li>Rectangular - found around lakes, tanks, or a planned village.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The settlement in which houses are constructed along a road, railway line, river, canal edge of a valley, or along a levee -  Linear Pattern.<br />The settlements in which houses are constructed in a rectangular shape - Rectangular Pattern. These settlements are found in plain areas or in wide inter-montane valley.<br />The settlements in which houses are constructed in a circular shape - Circular Pattern. <br />These settlements are found around lakes, tanks, or a planned village."
+}

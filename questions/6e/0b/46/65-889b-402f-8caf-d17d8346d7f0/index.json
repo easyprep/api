@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:53.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "6e0b4665-889b-402f-8caf-d17d8346d7f0",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the annual growth of inpatient market in health industry in the last 5 years?",
+  "option1": 0.13,
+  "option2": 0.1,
+  "option3": 0.2,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.13,
+  "explanation": "The in-patient market is expected to grow at a CAGR of 13% during the last 5 years i.e from 2015-20. THe Indian health Industry is a very robust industry with demand beating the supply."
+}

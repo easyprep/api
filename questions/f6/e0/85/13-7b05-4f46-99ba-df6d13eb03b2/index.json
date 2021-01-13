@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:57:32.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "f6e08513-7b05-4f46-99ba-df6d13eb03b2",
+  "labels": "current-affairs,2020-08-20",
+  "question": "The total forest cover of the country is what percentage of the geographical area of the country?",
+  "option1": 0.2467,
+  "option2": 0.2287,
+  "option3": 0.2167,
+  "option4": 0.1721,
+  "option5": "",
+  "answer": 0.2167,
+  "explanation": "All the patches of land with a tree canopy density of more than 10% and more than 1 hectare in area comes under the forest area. The total forest cover of the country is 7,12,249 sq km which is 21.67% of the geographical area of the country."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-15T16:24:30.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "7fba1c5e-9cb1-4822-afb5-aacbcf31346d",
+  "labels": "current-affairs,2020-08-16",
+  "question": "Which of the following invented the printing machine?",
+  "option1": "Macro Polo",
+  "option2": "John Gutenberg",
+  "option3": "Peter Abelard",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "John Gutenberg",
+  "explanation": "John Gutenberg invented the printing machine. The machine was modelled on the design of existing screw presses. A single Renaissance printing press was able to produce up to 3,600 pages per workday."
+}

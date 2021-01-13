@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-20T18:12:01.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "2051617a-eaf9-45ed-8334-3a906357195d",
+  "labels": "current-affairs,2020-08-21",
+  "question": "Which among the following pairs of types of fishing and the varieties is/are correctly matched?<br />\r\n<ol>\r\n<li>Inland Fishery - Sardines, mackerel, hilsa, tuna, Pomfret, mussels, prawns, oysters, etc</li>\r\n<li>Marine Fishery - Rohu, Catla, Grass Carp, Common Carp, etc.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Fishery is divided into:<br />Inland Fishery - fishing is done in freshwater bodies, such as lakes, ponds, rivers, and tanks. Common varieties reared are Rohu, Catla, Grass Carp, Common Carp, etc.<br />Marine Fishery - done in marine waters- the sea and the ocean. Sardines, mackerel, hilsa, tuna, Pomfret, mussels, prawns, oysters, etc. are some common types."
+}

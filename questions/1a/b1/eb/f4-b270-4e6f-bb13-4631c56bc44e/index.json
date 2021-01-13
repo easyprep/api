@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:53.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "1ab1ebf4-b270-4e6f-bb13-4631c56bc44e",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the growth rate observed by the health industry in the last 5 years?",
+  "option1": 0.1565,
+  "option2": 0.34,
+  "option3": 0.225,
+  "option4": 0.09,
+  "option5": "",
+  "answer": 0.225,
+  "explanation": "The health industry of India is growing at a robust pace of 22.5% per annum during the last 5 years from 2015-20. It has been a major investment sector as well. It still has a lot of untapped potential."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-21T14:45:08.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "03aba834-b2d8-4684-9647-4638eac43894",
+  "labels": "current-affairs,2020-08-22",
+  "question": "Which among the following pairs of forests and the types of wood found is/are correctly matched?<br />\r\n<ol>\r\n<li>Tropical Forests - Hardwood Timber</li>\r\n<li>Temperate Forests - Softwood Timber</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Trees in the tropical and temperate forests differ from each other in terms of size and the nature of wood. While the tropical trees generally provide hardwood timber, the temperate forests provide generally softwood."
+}

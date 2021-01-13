@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-15T16:24:32.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "0209a15e-8c3d-4039-aa64-c19dc3c2111e",
+  "labels": "current-affairs,2020-08-16",
+  "question": "Which of the following is the political body of France?",
+  "option1": "Duma",
+  "option2": "Lok Sabha",
+  "option3": "Estates General",
+  "option4": "Reichstag",
+  "option5": "",
+  "answer": "Estates General",
+  "explanation": "Estates General is the political body of France. It was a general assembly representing the French estates of the realm: the clergy (First Estate), the nobility (Second Estate), and the commoners (Third Estate) in 1789."
+}

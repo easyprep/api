@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:55:03.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "5eb24286-88b8-4633-9388-6f602384c159",
+  "labels": "current-affairs,2020-08-20",
+  "question": "Which of the following statements are correct?<br />1. The pyramid of biomass may assume an inverted form in many aquatic ecosystems.<br />2. Producers in the aquatic ecosystems are tiny phytoplanktons that grow and reproduce rapidly.<br />3. The pyramid of biomass (inverted) has a small base, with the consumer biomass at any instant actually exceeding the producer biomass.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The pyramid of biomass may assume an inverted form in many aquatic ecosystems. Producers in the aquatic ecosystems are tiny phytoplanktons that grow and reproduce rapidly. The pyramid of biomass (inverted) has a small base, with the consumer biomass at any instant actually exceeding the producer biomass."
+}

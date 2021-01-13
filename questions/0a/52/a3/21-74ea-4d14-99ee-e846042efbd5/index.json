@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:54:55.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "0a52a321-74ea-4d14-99ee-e846042efbd5",
+  "labels": "current-affairs,2020-08-20",
+  "question": "Which of the following statements are correct regarding food chain and food web?<br />1. A food web shows all possible transfers of energy and nutrients among the organisms in an ecosystem, whereas<br />a food chain traces only a single pathway of the food.<br />2. If any of the intermediate food chain is removed, there is no major effect on the succeeding links.<br />Select the correct option form the codes given below:",
+  "option1": "only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "only 1",
+  "explanation": "A food web shows all possible transfers of energy and nutrients among the organisms in an ecosystem, whereas<br />a food chain traces only a single pathway of the food. If any of the intermediate food chain is removed, it can have devastating effects on succeeding links."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:53.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "1e59d7ff-a871-4537-94e6-0224b18a0d72",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the share of the organized sector in the diagnostics industry?",
+  "option1": 0.3,
+  "option2": 0.25,
+  "option3": 0.2,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.25,
+  "explanation": "The share of the organized sector in the diagnostic industry is almost 25% in this segment (15% in labs and 10% in radiology). The diagnostics industry in India is currently valued at $4 bn."
+}

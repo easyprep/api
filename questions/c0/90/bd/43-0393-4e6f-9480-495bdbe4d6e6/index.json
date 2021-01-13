@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:54:32.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "c090bd43-0393-4e6f-9480-495bdbe4d6e6",
+  "labels": "current-affairs,2020-08-20",
+  "question": "Which of the following statements are correct with respect to the term ecology?<br />1. Ecology is the scientific study of interaction between the organisms and their environment.<br />2. Environment refers to everything that surrounds an organism.<br />Select the correct option from the code given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Ecology is the scientific study of interaction between the organisms and their environment. Environment refers to everything that surrounds an organism."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:26.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "baf59767-63f7-4140-bdb7-26ea6d7ac573",
+  "labels": "current-affairs,2020-08-19",
+  "question": "As per census 2011 what is the literacy rate of India?",
+  "option1": 0.74,
+  "option2": 0.6,
+  "option3": 0.8,
+  "option4": 0.83,
+  "option5": "",
+  "answer": 0.74,
+  "explanation": "As per census 2011 the literacy rate of India in 74%. Kerala is the top literate state in India."
+}

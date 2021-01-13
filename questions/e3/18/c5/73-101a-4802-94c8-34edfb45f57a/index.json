@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-21T04:25:13.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "e318c573-101a-4802-94c8-34edfb45f57a",
+  "labels": "current-affairs,2020-08-22",
+  "question": "As per the recent survey by NCERT, what percent of students cannot access smart phones or laptops to attend online classes?",
+  "option1": 0.07,
+  "option2": 0.27,
+  "option3": 0.47,
+  "option4": 0.67,
+  "option5": "",
+  "answer": 0.27,
+  "explanation": "A recent survey by the National Council of Educational Research and Training (NCERT) has revealed that, over 27 % students do not have access to smart phones or laptops to attend online classes.<br />The survey also pointed out that lack of electricity was an obstacle in the learning process for nearly 28 % students and parents. Over 34,000 participants participated in the survey by the NCERT on the challenges of online education."
+}

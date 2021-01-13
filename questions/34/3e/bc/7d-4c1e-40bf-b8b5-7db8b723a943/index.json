@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:57:32.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "343ebc7d-4c1e-40bf-b8b5-7db8b723a943",
+  "labels": "current-affairs,2020-08-20",
+  "question": "Which of the following states are among the top five states to have shown an increase in forest cover?<br />1) Assam<br />2) Uttar Pradesh<br />3) Karnataka<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 3",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "The top five states to have shown an increase in forest cover include:<br />1) Karnataka (1,025 sq km) <br />2) Andhra Pradesh (990 sq km)<br />3) Kerala (823 sq km)<br />4) J&amp;K (371 sq km)<br />5) Himachal Pradesh (334 sq km)."
+}

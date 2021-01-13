@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:57:13.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "3e181edb-9308-4f76-8e2d-34687c19a507",
+  "labels": "current-affairs,2020-08-20",
+  "question": "Which of the following statements are correct regarding desert biomes?<br />1. Even irrigation cannot convert deserts into productive agricultural land.<br />2. Salts may be left behind by irrigation can gradually accumulate over the years until they become a limiting factor.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Irrigation can convert deserts into productive agricultural land where the soils are suitable. Salts may be left behind by irrigation can gradually accumulate over the years until they become a limiting factor."
+}

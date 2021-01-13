@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-15T16:24:31.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "72fda1ec-7c62-41fa-afc8-f866bf9aecca",
+  "labels": "current-affairs,2020-08-16",
+  "question": "Which of the following invented in 1878 the electric light?",
+  "option1": "Graham Bell",
+  "option2": "Thomas Alva Edison",
+  "option3": "John Macadam",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Thomas Alva Edison",
+  "explanation": "In 1878, electric light was invented by Thomas Alva Edison. Although he is said to have created the first commercially practical incandescent light but he was neither the first nor the only person trying to invent an incandescent light bulb."
+}

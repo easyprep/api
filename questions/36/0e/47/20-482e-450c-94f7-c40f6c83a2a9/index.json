@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:53.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "360e4720-482e-450c-94f7-c40f6c83a2a9",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the growth rate experienced by the hospital industry in India in the past few years?",
+  "option1": 0.165,
+  "option2": 0.203,
+  "option3": 0.25,
+  "option4": 0.097,
+  "option5": "",
+  "answer": 0.165,
+  "explanation": "The hospital industry accounts for 80% of the total health care industry. It is growing at a growth rate of 16.5% CAGR in the past few years."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:54:49.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "c37180fb-b257-4e2a-852e-86b70d982972",
+  "labels": "current-affairs,2020-08-20",
+  "question": "Which of the following statements are correct about aquatic ecosystems?<br />1. In an aquatic ecosystem, phytoplanktons are the primary producers.<br />2. Phytoplanktons are eaten by zoo planktons which is eaten by fishes and fishes are eaten by pelicans.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "In an aquatic ecosystem, phytoplanktons are the primary producers. Phytoplanktons are eaten by zoo planktons which is eaten by fishes and fishes are eaten by pelicans."
+}

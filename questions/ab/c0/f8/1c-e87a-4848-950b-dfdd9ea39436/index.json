@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:53.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "abc0f81c-e87a-4848-950b-dfdd9ea39436",
+  "labels": "current-affairs,2020-08-19",
+  "question": "What is the increase in the health expenditure of people in the last 10 years?",
+  "option1": 3.7,
+  "option2": 2,
+  "option3": 2.5,
+  "option4": 1.8,
+  "option5": "",
+  "answer": 3.7,
+  "explanation": "The health expenditure of people has increased many folds in the past decade. The new lifestyle diseases have increased a lot. There has been an increase of 370% in health expenditure of the people in the last 10 years."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:41:05.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "c97705ee-2b8a-42e7-876f-e7114e5696d7",
+  "labels": "current-affairs,2020-08-19",
+  "question": "Which country has the largest share of GDP in its economy?",
+  "option1": "Germany",
+  "option2": "China",
+  "option3": "USA",
+  "option4": "Japan",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "The share of services in the GDP is 80% in USA. China and Japan comes after USA."
+}

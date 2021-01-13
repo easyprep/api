@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-18T10:44:02.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "34ac66da-0901-40c7-8c14-5b584f984651",
+  "labels": "current-affairs,2020-08-19",
+  "question": "Which among the following is the correct definition of Urban Settlement?<br />\r\n<ol>\r\n<li>Having a minimum population of 10000 persons.</li>\r\n<li>At least 75 % of male workers are engaged in non-agricultural pursuits </li>\r\n<li>Density of population is at least 400 persons per square kilometers are urban.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "The 1991 census of India defines urban settlements as -  <br />- Places which have municipality, corporation, cantonment board or notified town area committee.<br />- Have a minimum population of 5000 persons, <br />- At least 75 per cent of male workers are engaged in non-agricultural pursuits and<br />- A density of population of at least 400 persons per square kilometers are urban."
+}

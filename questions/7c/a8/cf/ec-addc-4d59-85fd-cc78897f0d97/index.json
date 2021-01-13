@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-19T01:55:01.000Z",
+  "updated_at": "2021-01-06T08:25:05.781Z",
+  "id": "7ca8cfec-addc-4d59-85fd-cc78897f0d97",
+  "labels": "current-affairs,2020-08-20",
+  "question": "In which of the following type of ecological pyramids the individuals in each trophic level are weighed?",
+  "option1": "Pyramid of numbers",
+  "option2": "Pyramid of biomass",
+  "option3": "Pyramid of energy",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Pyramid of biomass",
+  "explanation": "In the pyramid of biomass the individuals in each trophic level are weighed instead of being counted as in pyramid of numbers. It gives us the total dry weight of all organisms at each trophic level at a particular time."
+}
