@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:36.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "16b1e378-80e1-49f5-a339-3fa7d5104579",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following can be issued by state governments?<br />1. G-secs<br />2. T-bills<br />Choose the correct option from the choices given below:",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both 1 and 2",
+  "option4": "None",
+  "option5": "",
+  "answer": "1 only",
+  "explanation": "The state governments can issue only G-secs which are long term. The central government can issue both T-bills and G-Secs."
+}

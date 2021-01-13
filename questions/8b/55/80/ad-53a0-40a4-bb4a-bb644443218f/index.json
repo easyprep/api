@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T03:03:30.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "8b5580ad-53a0-40a4-bb4a-bb644443218f",
+  "labels": "current-affairs,2020-09-20",
+  "question": "Which bacterial disease has hit China affecting over 3000 people?",
+  "option1": "Anthrax",
+  "option2": "Brucellosis",
+  "option3": "Foot and Mouth Disease",
+  "option4": "Plague",
+  "option5": "",
+  "answer": "Brucellosis",
+  "explanation": "China has recently reported the spread of Brucellosis, a bacterial infection. It is often caused by close contact with infected animals or animal products.<br />The disease causes fevers, joint pain and headaches. The Health authorities of China have said there has been no evidence of person-to-person transmission of Brucellosis so far in the country. It is said to have spread among people working in a state-owned biopharmaceutical plant in Lanzhou."
+}

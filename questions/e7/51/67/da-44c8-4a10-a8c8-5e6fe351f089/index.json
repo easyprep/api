@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T17:20:19.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "e75167da-44c8-4a10-a8c8-5e6fe351f089",
+  "labels": "current-affairs,2020-09-20",
+  "question": "What is \"Dassault nEUROn\"?",
+  "option1": "An experimental unmanned space station.",
+  "option2": "An experimental unmanned satellite launch vehicle.",
+  "option3": "An experimental unmanned combat aerial vehicle.",
+  "option4": "An experimental unmanned mars orbiter mission",
+  "option5": "",
+  "answer": "An experimental unmanned combat aerial vehicle.",
+  "explanation": "The Dassault nEUROn is an experimental unmanned combat aerial vehicle (UCAV) being developed with international cooperation, led by the French company Dassault Aviation. Countries involved in this project include France, Greece, Italy, Spain, Sweden and Switzerland. The design goal is to create a stealthy, autonomous UAV that can function in medium- to high-threat combat zones. The industrial goal is to give European firms experience designing and building high-end UAVs and associated technologies, in order to keep them competitive in the global marketplace. The first flight took place on December 1, 2012"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T17:20:18.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "4891e1ba-9343-4398-832e-f2e81bb3ce1b",
+  "labels": "current-affairs,2020-09-20",
+  "question": "Which country houses the \"Modane Underground Laboratory\"?",
+  "option1": "Italy",
+  "option2": "France",
+  "option3": "Netherlands",
+  "option4": "Belgium",
+  "option5": "",
+  "answer": "France",
+  "explanation": "Modane Underground Laboratory, also known as the Frejus Underground Laboratory, is a subterranean particle physics laboratory located within the Frejus Road Tunnel of France. It is the deepest laboratory in the European Union. It was constructed to host the \"Frejus\" iron tracking calorimeter proton decay experiment, which also houses the Neutrino Ettore Majorana Observatory (NEMO)."
+}

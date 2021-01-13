@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:56.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "09817bc9-5369-475a-85df-f2d6738c9969",
+  "labels": "current-affairs,2020-09-16",
+  "question": "In which year was the Clearing corporation of India was established?",
+  "option1": 2000,
+  "option2": 1999,
+  "option3": 2001,
+  "option4": 2002,
+  "option5": "",
+  "answer": 2001,
+  "explanation": "Clearing Corporation of India Ltd (CCIL) is a Central Counterparty (CCP) which was set up in April 2001 to provide clearing and settlement for transactions in Government securities, foreign exchange and money markets in the country."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:37.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "0ec3c9ae-c557-43d5-b766-5b014bc7e5ee",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the maximum age of a company to take investment from an Angel Investor?",
+  "option1": "2 years",
+  "option2": "3 years",
+  "option3": "4 years",
+  "option4": "5 years",
+  "option5": "",
+  "answer": "3 years",
+  "explanation": "A company that can investment from an angel investor should not be older than 3 years. The maximum investment is 5 crores and the minimum investment is 50 lakhs."
+}

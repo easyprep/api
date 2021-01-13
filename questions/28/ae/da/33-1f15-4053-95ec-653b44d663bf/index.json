@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:18.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "28aeda33-1f15-4053-95ec-653b44d663bf",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which of the following is a short term money management technique of RBI?",
+  "option1": "SLR",
+  "option2": "CRR",
+  "option3": "Repo",
+  "option4": "None",
+  "option5": "",
+  "answer": "CRR",
+  "explanation": "The CRR is the instrument used by RBI for the short term or immediate management of money. SLR is a long term thing. 100% CRR was asked by RBI fro the deposits during demonetisation."
+}

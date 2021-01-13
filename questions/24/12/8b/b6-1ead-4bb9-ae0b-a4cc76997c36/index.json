@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "24128bb6-1ead-4bb9-ae0b-a4cc76997c36",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is Bank Rate?",
+  "option1": "Rate at which RBI lends to people",
+  "option2": "Rate at which bank lends to people",
+  "option3": "Rate at which RBI lends to banks",
+  "option4": "Rate at which RBI lends to Financial Institutions",
+  "option5": "",
+  "answer": "Rate at which RBI lends to banks",
+  "explanation": "Bank Rate is the rate at which RBI lends to commercial banks. It is tool to manage money supply in the market. Currently it is not in use."
+}

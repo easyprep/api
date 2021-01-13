@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:37.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "3d12a80e-1176-40fa-a52e-e6cd8f7cfcef",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who among the following is part of the management of the company to make it profitable?",
+  "option1": "Angel Investor",
+  "option2": "Venture capitalist",
+  "option3": "Private Equity",
+  "option4": "None",
+  "option5": "",
+  "answer": "Private Equity",
+  "explanation": "Private Equity is the company that buys a share in a company and take over the management of the company. They make the company profitable in a few years or so after which the private equity firm exits."
+}

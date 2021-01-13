@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-24T02:14:13.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "76652e6a-029b-407b-ae32-a7ed48b137e2",
+  "labels": "current-affairs,2020-09-25",
+  "question": "Recently, The Government of India integrated which portal with the Geographic Information System (GIS) system of six states to provide an update on land availability?",
+  "option1": "Industrial Information System",
+  "option2": "Agricultural Information System",
+  "option3": "Land and Revenue Information System",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "Industrial Information System",
+  "explanation": "The Government of India has integrated the Industrial Information System (IIS) portal with the Geographic Information System(GIS) of six states to provide information and updates on land availability and plot level information to investors anywhere in the world on real time bass and help them to make informed decisions. Industrial Information System (IIS) portal is a GIS-enabled database of industrial areas/clusters across the country."
+}

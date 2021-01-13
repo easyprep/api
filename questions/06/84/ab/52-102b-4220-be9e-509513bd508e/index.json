@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:36.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "0684ab52-102b-4220-be9e-509513bd508e",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the payment interval in Dated Securities?",
+  "option1": "Monthly",
+  "option2": "Yearly",
+  "option3": "Half Yearly",
+  "option4": "Bi-Monthly",
+  "option5": "",
+  "answer": "Half Yearly",
+  "explanation": "Dated securities have fixed maturity and fixed coupon rates payable half-yearly. They are identified by their year of maturity."
+}

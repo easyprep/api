@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:36.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "25353c9c-37f4-4715-a7b7-f27e6eeac5b6",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is capital Indexed Bonds?",
+  "option1": "The interest rate in fixed",
+  "option2": "The interest rate depends on Bank rate",
+  "option3": "The interest rate depends on WPI or CPI",
+  "option4": "The interest rate depends on Repo Rate",
+  "option5": "",
+  "answer": "The interest rate depends on WPI or CPI",
+  "explanation": "The capital Indexed bonds are the bonds where the interest rates is a fixed percentage over the inflation rate. It is depending on either WPI or CPI depending on the terms."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T17:19:45.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "becfaa4c-539d-43e1-9ee8-dfa89b1f2d24",
+  "labels": "current-affairs,2020-09-20",
+  "question": "Which country ranked \"third\" in the Corruption Perceptions Index, 2019?",
+  "option1": "Norway",
+  "option2": "Sweden",
+  "option3": "Finland",
+  "option4": "Denmark",
+  "option5": "",
+  "answer": "Finland",
+  "explanation": "Finland ranked third in the Corruption Perceptions Index of 2019. The Corruption Perceptions Index (CPI) is an index published annually by Transparency International since 1995 which ranks 180 countries and territories by their perceived levels of public sector corruption. It uses a scale of zero to 100, where zero is highly corrupt and 100 is very clean. The top countries are New Zealand and Denmark, with a score of 87 each, followed by Finland (86), Singapore (85), Sweden (85), and Switzerland."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "34091bfd-5729-478a-a668-68d180af24f2",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is a Put option?",
+  "option1": "It has an obligation to buy",
+  "option2": "It have an obligation to sell",
+  "option3": "Owner has the right to sell but not obligation to sell",
+  "option4": "None",
+  "option5": "",
+  "answer": "Owner has the right to sell but not obligation to sell",
+  "explanation": "Options are the class of futures where the buyer or seller has the option of whether to buy or not. The put option is where Owner has the right to sell but not obligation to sell."
+}

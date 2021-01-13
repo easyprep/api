@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T17:20:22.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "18aa72a6-34c7-4ff7-8266-d653c69aef5e",
+  "labels": "current-affairs,2020-09-20",
+  "question": "What field in which \"Nicolas Bourbaki\" group is famous for?",
+  "option1": "Mathematics",
+  "option2": "Architecture",
+  "option3": "Philosophy",
+  "option4": "Biology",
+  "option5": "",
+  "answer": "Mathematics",
+  "explanation": "Nicolas Bourbaki is the collective pseudonym of a group of mathematicians, predominantly French alumni of the Ecole normale superieure (ENS). Founded in 1934–1935, the Bourbaki group originally intended to prepare a new textbook in the analysis. Over time the project became much more ambitious, growing into a large series of textbooks published under the Bourbaki name, meant to treat modern pure mathematics. The series is known collectively as the Elements of Mathematics, the group's central work. Topics treated in the series include set theory, abstract algebra, topology, analysis, Lie groups and Lie algebras."
+}

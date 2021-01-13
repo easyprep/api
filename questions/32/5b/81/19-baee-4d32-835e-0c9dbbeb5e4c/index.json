@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "325b8119-baee-4d32-835e-0c9dbbeb5e4c",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is Repo rate?",
+  "option1": "Banks lending money to RBI",
+  "option2": "RBI buying securites from Banks",
+  "option3": "RBI selling securities to Banks",
+  "option4": "None",
+  "option5": "",
+  "answer": "RBI buying securites from Banks",
+  "explanation": "Repo rate is the short term interest rate for the purchase of securities by the RBI. It is set by RBI in its Monetary policy. It is used to meet the temporary mismatches of the banks."
+}

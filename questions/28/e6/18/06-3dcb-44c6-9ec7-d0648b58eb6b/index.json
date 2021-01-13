@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:37.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "28e61806-3dcb-44c6-9ec7-d0648b58eb6b",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who among the following are Angel Investors?",
+  "option1": "Investors who invest public money in startups",
+  "option2": "Investors who invest their own money in startups",
+  "option3": "Investors who ivnest money in Stocks",
+  "option4": "Investors who invest money in Secondary Bonds",
+  "option5": "",
+  "answer": "Investors who invest their own money in startups",
+  "explanation": "Angel Investors are the investors who invest their own money in the startups for debt or ownership equity. They are regulated by SEBI."
+}

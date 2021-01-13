@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-21T22:26:24.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "4644f97b-ff73-4c60-9821-e8f82ba87d65",
+  "labels": "current-affairs,2020-09-22",
+  "question": "What is the approximate gap between solar year and lunar year, which results into Adhik Mas in Hindu Calender after certain years?",
+  "option1": "9 days",
+  "option2": "11 days",
+  "option3": "13 days",
+  "option4": "15 days",
+  "option5": "",
+  "answer": "11 days",
+  "explanation": "There is a gap of 11 days, 1 hour, 31 minutes and 12 seconds(approx 11 days) between solar year and lunar year because the solar year is of 365 days and about 6 hours and the lunar year is of 354 days which results into Adhik Mas in Hindu Calender after 32 months."
+}

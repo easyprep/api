@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "b288d143-4014-4d1f-bedd-38e5da5efe83",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is MSF stands for?",
+  "option1": "Marginal standing funds",
+  "option2": "Marginal stauatory funds",
+  "option3": "Marginal standing facility",
+  "option4": "Mean statuatory facility",
+  "option5": "",
+  "answer": "Marginal standing facility",
+  "explanation": "MSF stands for Marginal standing facility. It is the peal rate for the banks as it allows them to borrow by breaching SLR and CRR rates."
+}

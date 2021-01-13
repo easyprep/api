@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "460bc92d-f112-4cbd-832a-86043605067e",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which is the clearing house of NSE?",
+  "option1": "RBI",
+  "option2": "National securities clearing corporation",
+  "option3": "National clearing house",
+  "option4": "None",
+  "option5": "",
+  "answer": "National securities clearing corporation",
+  "explanation": "The national securities clearing corporation is the clearinghouse of NSE. It is an organization that registers, monitors, matches, and guarantees the trades of its members and carries out the final settlement of all future transactions."
+}

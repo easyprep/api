@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:00.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "af1ebf15-a328-4815-95b4-f86dbea0edaa",
+  "labels": "current-affairs,2020-09-16",
+  "question": "How many stock exchanges are there in India?",
+  "option1": 2,
+  "option2": 4,
+  "option3": 5,
+  "option4": 7,
+  "option5": "",
+  "answer": 5,
+  "explanation": "There are 5 stock exchanges in India. They are BSE, NSE, United stock Exchange,MCX stock Exchange(MCX-SX) and India International Exchange(INX)."
+}

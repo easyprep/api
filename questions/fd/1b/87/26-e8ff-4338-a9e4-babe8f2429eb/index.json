@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "fd1b8726-e8ff-4338-a9e4-babe8f2429eb",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is a Mutual Fund?",
+  "option1": "A fund set up by Union government",
+  "option2": "A fund given by global Financial Institutions",
+  "option3": "A fund that mops up money from a group of investors",
+  "option4": "None",
+  "option5": "",
+  "answer": "A fund that mops up money from a group of investors",
+  "explanation": "Mutual Fund is a fund that mops up money from a group of investors to invest in capital markets so as to generate returns for the investors."
+}

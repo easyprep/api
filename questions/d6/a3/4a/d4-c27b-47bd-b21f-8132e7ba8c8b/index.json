@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "d6a34ad4-c27b-47bd-b21f-8132e7ba8c8b",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who among the following sets the reserve ratio limits for the banks?",
+  "option1": "Banks borad bureau",
+  "option2": "RBI",
+  "option3": "Department of Economic affairs",
+  "option4": "Monetary policy committee",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "In India RBI sets the reserve ratio limits for the banks. The reserve ratios are SLR and CRR."
+}

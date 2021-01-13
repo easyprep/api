@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-17T01:17:56.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "043fa4fd-7508-4d28-88f6-343b80cc931d",
+  "labels": "current-affairs,2020-09-18",
+  "question": "Which national regulator has issued guidelines on Interest Rate Derivatives?",
+  "option1": "NABARD",
+  "option2": "RBI",
+  "option3": "SEBI",
+  "option4": "IRDAI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "India’s central Bank, t he Reserve Bank of India has issued draft guidelines on Interest Rate Derivatives (IDRs).<br />IRDs are contracts whose value is derived from one or more interest rates, prices of interest rate instruments, or interest rate indices. RBI has allowed foreign portfolio investors (FPIs) to undertake exchange traded rupee IRD transactions subject to an overall ceiling of Rs.5,000 crore."
+}

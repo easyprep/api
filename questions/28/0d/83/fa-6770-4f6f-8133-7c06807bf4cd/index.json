@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "280d83fa-6770-4f6f-8133-7c06807bf4cd",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is a Follow on public offer(FPO)?",
+  "option1": "Issuance of new shares by a company",
+  "option2": "Issuance of new shares after issuing already existing shares",
+  "option3": "Issuance of debt of the company",
+  "option4": "None",
+  "option5": "",
+  "answer": "Issuance of new shares after issuing already existing shares",
+  "explanation": "Companies can get investment through sale of securities in the market. The issuance of new shares is called initial public offer(IPO). Issuance of shares again on top of the already existing shares is the Follow on public offer(FPO)."
+}

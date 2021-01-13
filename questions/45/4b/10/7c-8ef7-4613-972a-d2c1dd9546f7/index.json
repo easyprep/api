@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:37.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "454b107c-8ef7-4613-972a-d2c1dd9546f7",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following is not a legal instrument in India?",
+  "option1": "Mutual Fund",
+  "option2": "Hundi",
+  "option3": "Private Equity",
+  "option4": "Chit funds",
+  "option5": "",
+  "answer": "Hundi",
+  "explanation": "Hundi were legal instruments that evolved in India. These were used to trade earlier. But now they are no more legal under the Negotiable instruments act,1881."
+}

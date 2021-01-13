@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "c7a11fa2-8126-4092-9168-c0394d246c10",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is a Bear?",
+  "option1": "Investor who beleives market will grow",
+  "option2": "Investor who beleives market will fall",
+  "option3": "Investor who beleives market will crash",
+  "option4": "None",
+  "option5": "",
+  "answer": "Investor who beleives market will fall",
+  "explanation": "Bear is the Investor who believes the market will fall. Bull is an investor who believes market will go up."
+}

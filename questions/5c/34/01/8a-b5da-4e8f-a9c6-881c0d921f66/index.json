@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:37.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "5c34018a-b5da-4e8f-a9c6-881c0d921f66",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which act regulated NBFC?",
+  "option1": "Banking regulation act,1949",
+  "option2": "NBFC act,1987",
+  "option3": "Companies act,1956",
+  "option4": "Companes act,2013",
+  "option5": "",
+  "answer": "Companies act,1956",
+  "explanation": "The NBFC are the non banking finance corporations which are registered as company under the Companies act,1956. They are engaged in various financial activities."
+}

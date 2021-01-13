@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "2562da19-f037-4f24-8771-4882831b8a11",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is a derivative?",
+  "option1": "Finanacial instrument deriving value from an asset",
+  "option2": "Financial Instrument which already has a value",
+  "option3": "A debt issued by a company",
+  "option4": "None",
+  "option5": "",
+  "answer": "Finanacial instrument deriving value from an asset",
+  "explanation": "A derivative is a Financial instrument that derive value from an asset. The asset may be a security, share, commodities etc."
+}

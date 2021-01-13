@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T02:10:51.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "fcbd7e40-f8f5-4610-9fc2-c11770f004be",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which astronomical observatory of India has completed five years of mapping stars?",
+  "option1": "Astrosat",
+  "option2": "Risat",
+  "option3": "Cartosat",
+  "option4": "South Asian Satellite",
+  "option5": "",
+  "answer": "Astrosat",
+  "explanation": "India’s first multi-wavelength astronomical observatory named ‘Astrosat’ has recently completed five years of imaging objects in space.<br />The satellite was launched by the Indian Space Research Organisation (ISRO) in 2015. It has successfully carried out over 1000 observations of 800 unique celestial sources. A discovery of a galaxy located at a distance of about 10 billion light-years from Earth has been made using it."
+}

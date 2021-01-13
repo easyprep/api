@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:18.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "4aaa37dd-7ac0-4d3b-9408-590017576939",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following is a nominal anchor for the inflation targeting?",
+  "option1": "General inflation",
+  "option2": "Core inflation",
+  "option3": "CPI inflation",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "CPI inflation",
+  "explanation": "The RBI uses Headline CPI inflation as the nominal anchor of the inflation as the anchor of inflation targeting. This is because the headline CPI inflation closely reflects the cost of living."
+}

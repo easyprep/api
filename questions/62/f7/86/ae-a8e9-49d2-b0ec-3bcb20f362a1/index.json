@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T17:20:21.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "62f786ae-a8e9-49d2-b0ec-3bcb20f362a1",
+  "labels": "current-affairs,2020-09-20",
+  "question": "What field in which \"Nicolas Leonard Sadi Carnot\" is famous for?",
+  "option1": "Ancient European Archaeology",
+  "option2": "Thermodynamics",
+  "option3": "Gothic Architecture",
+  "option4": "Ballet Singing",
+  "option5": "",
+  "answer": "Thermodynamics",
+  "explanation": "Nicolas Leonard Sadi Carnot was a French mechanical engineer in the French Army, military scientist and physicist, often described as the \"father of thermodynamics.\" Like Copernicus, he published only one book, the Reflections on the Motive Power of Fire (Paris, 1824), in which he expressed, at the age of 27 years, the first successful theory of the maximum efficiency of heat engines. In this work, he laid the foundations of an entirely new discipline, thermodynamics. Carnot's work attracted little attention during his lifetime, but it was later used by Rudolf Clausius and Lord Kelvin to formalize the second law of thermodynamics and define the concept of entropy."
+}

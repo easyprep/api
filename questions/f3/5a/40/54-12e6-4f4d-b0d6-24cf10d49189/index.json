@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:56.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "f35a4054-12e6-4f4d-b0d6-24cf10d49189",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following is a primary benchmark for short term interest rates across the world?",
+  "option1": "LIBOR",
+  "option2": "MIBOR",
+  "option3": "BBS",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "LIBOR",
+  "explanation": "LIBOR is London Interbank offered rate is the average rate estimated by the leading banks in London that they would be charging for what they would be borrowing from other banks. It is the primary benchmark for short term interest rates across the world."
+}

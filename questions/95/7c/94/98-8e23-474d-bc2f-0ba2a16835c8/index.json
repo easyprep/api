@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-17T01:15:09.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "957c9498-8e23-474d-bc2f-0ba2a16835c8",
+  "labels": "current-affairs,2020-09-18",
+  "question": "The Lok Sabha has passed ‘Salary, Allowances and Pension of MPs’ Bill which seeks to reduce the salaries of MPs by what per cent?",
+  "option1": 0.1,
+  "option2": 0.2,
+  "option3": 0.25,
+  "option4": 0.3,
+  "option5": "",
+  "answer": 0.3,
+  "explanation": "The Lok Sabha has passed the Salary, Allowances and Pension of MPs (Amendment) Bill, 2020. <br />The Bill would reduce the salaries of Members of Parliament by 30 % for a period of 1 year to meet the exigencies arising out of the COVID-19 pandemic. Earlier this year, the government had brought an ordinance in this regard."
+}

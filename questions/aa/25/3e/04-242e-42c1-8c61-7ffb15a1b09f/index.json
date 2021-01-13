@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:56.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "aa253e04-242e-42c1-8c61-7ffb15a1b09f",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which institution launched MIBOR?",
+  "option1": "BSE",
+  "option2": "RBI",
+  "option3": "NSE",
+  "option4": "IBA",
+  "option5": "",
+  "answer": "NSE",
+  "explanation": "NSE- National Stock Exchange has launched the MIBOR for the overnight money market of India. It is used as benchmark for the deals. It was developed in 1998."
+}

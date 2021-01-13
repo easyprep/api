@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:37.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "87c155aa-f763-4659-9747-1bf1fc5703df",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What are Mutual Funds?",
+  "option1": "Money raised to invest in Infrastructure projects",
+  "option2": "Money raised use for infrastructure projects",
+  "option3": "Money raised as collective investment",
+  "option4": "Money pooled to invest in securities",
+  "option5": "",
+  "answer": "Money pooled to invest in securities",
+  "explanation": "Mutual Funds are the funds that are pooled from the public to invest in stocks, bonds etc. SEBI regulates the Mutual Funds."
+}

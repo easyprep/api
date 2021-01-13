@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "a49a76fc-cd38-48e1-b96b-84c11b127d4d",
+  "labels": "current-affairs,2020-09-16",
+  "question": "When was the Liquidity adjustment facility introduced?",
+  "option1": 1999,
+  "option2": 1995,
+  "option3": 2000,
+  "option4": 2003,
+  "option5": "",
+  "answer": 2000,
+  "explanation": "The Liquidity adjustment facility was introduced in 2000. It was introduced by RBI. It is used by the banks for the day to day mismatches in the funds. Repo and reverse repo are part of LAF."
+}

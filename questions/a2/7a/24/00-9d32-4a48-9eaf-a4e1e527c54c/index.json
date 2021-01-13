@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:36.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "a27a2400-9d32-4a48-9eaf-a4e1e527c54c",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which institution Manages G-Secs?",
+  "option1": "Government of India",
+  "option2": "State Government",
+  "option3": "RBI",
+  "option4": "NABARD",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The central government of India as well as the state governments issues G-Secs for long term financial needs. It is the RBI which handles the G-secs for the central as well as the state government."
+}

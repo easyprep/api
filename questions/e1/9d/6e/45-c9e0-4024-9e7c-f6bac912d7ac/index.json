@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:18.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "e19d6e45-c9e0-4024-9e7c-f6bac912d7ac",
+  "labels": "current-affairs,2020-09-16",
+  "question": "When did RBI introduce MCLR?",
+  "option1": 2016,
+  "option2": 2015,
+  "option3": 2014,
+  "option4": 2017,
+  "option5": "",
+  "answer": 2016,
+  "explanation": "RBI introduced MCLR in 2016. It is to improve the monetary transmission from RBI to the customer. This is used to set the interest rates by the banks."
+}

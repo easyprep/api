@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "8c46eb4d-035d-4321-9aa9-32dc2a19f762",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following are part of FPI?<br />1. FII<br />2. Sub Account<br />3. QFI<br />choose the correct option from the choices given below:",
+  "option1": "1 and 2 only",
+  "option2": "2 and 3 only",
+  "option3": "1 and 3 only",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "FII's,Sub Accounts and QFI are merged in 2014 to form FPI. The FPI has an aggregate investment limit of 24%. THe portfolio investment by any single investor cannot exceed 10% of the equity of an Indian company."
+}

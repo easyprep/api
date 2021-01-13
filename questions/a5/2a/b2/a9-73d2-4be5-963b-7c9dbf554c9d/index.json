@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "a52ab2a9-73d2-4be5-963b-7c9dbf554c9d",
+  "labels": "current-affairs,2020-09-16",
+  "question": "BOLT is the online trading platform of which stock exchange?",
+  "option1": "BSE",
+  "option2": "NSE",
+  "option3": "MCX",
+  "option4": "INX",
+  "option5": "",
+  "answer": "BSE",
+  "explanation": "BOLT is the online trading platform of the Bombay Stock Exchange(BSE). It is to ensure an efficient and transparent market for trading in equity, debt instruments, and derivatives."
+}

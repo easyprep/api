@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "61fa6406-21b7-4f14-8b88-e848822e2f26",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the maximum investment by any single investor in an Indian compnay?",
+  "option1": 0.1,
+  "option2": 0.15,
+  "option3": 0.2,
+  "option4": 0.25,
+  "option5": "",
+  "answer": 0.1,
+  "explanation": "FII's,Sub Accounts and QFI are merged in 2014 to form FPI. The FPI has an aggregate investment limit of 24%. The portfolio investment by any single investor cannot exceed 10% of the equity of an Indian company."
+}

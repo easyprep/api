@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-21T22:26:24.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "350a37b4-eea3-46f7-b741-0ad2dc93f7c3",
+  "labels": "current-affairs,2020-09-22",
+  "question": "The term FELUDA, which was making news recently, is closely related to which of the following?",
+  "option1": "Covid",
+  "option2": "Farming",
+  "option3": "Seed Development",
+  "option4": "MSMEs",
+  "option5": "",
+  "answer": "Covid",
+  "explanation": "FELUDA is a test for Covid-19 powered by CSIR-Institute of Genomics and Integrative Biology (IGIB) which recently got approval for its commercial launch by Drug Controller Of India. The test met high quality benchmarks with 96 per cent sensitivity and 98 per cent specificity for detecting the Novel Corona virus."
+}

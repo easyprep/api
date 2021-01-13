@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "af4fce00-4f15-4070-8fdc-07a4e7143b96",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the minimum aggregate limit for foreign portfolio investors?",
+  "option1": 0.25,
+  "option2": 0.24,
+  "option3": 0.26,
+  "option4": 0.19,
+  "option5": "",
+  "answer": 0.24,
+  "explanation": "FII's,Sub Accounts and QFI are merged in 2014 to form FPI. The FPI has an aggregate investment limit of 24%. THe portfolio investment by any single investor cannot exceed 10% of the equity of an Indian company."
+}

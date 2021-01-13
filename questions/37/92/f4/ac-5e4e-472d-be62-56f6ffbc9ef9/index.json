@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:33:56.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "3792f4ac-5e4e-472d-be62-56f6ffbc9ef9",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following denoted M3 in the money aggregates?",
+  "option1": "Currency with the public + Demand Deposits of public in Banks",
+  "option2": "M1 + Post Office Savings",
+  "option3": "Narrow money + Time Deposits of public with banks",
+  "option4": "none of the above",
+  "option5": "",
+  "answer": "Narrow money + Time Deposits of public with banks",
+  "explanation": "M3 is known as the broad money. It is equal to <br />M3 = Narrow money + Time Deposits of public with banks"
+}

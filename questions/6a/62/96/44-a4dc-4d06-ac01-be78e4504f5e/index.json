@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "6a629644-a4dc-4d06-ac01-be78e4504f5e",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the interest rate the the banks get for the CRR money deposited with RBI?",
+  "option1": 0.05,
+  "option2": "equal to Repo Rate",
+  "option3": "equal to bank rate",
+  "option4": "no interest rate",
+  "option5": "",
+  "answer": "no interest rate",
+  "explanation": "The CRR is the reserve ratio that the banks have to keep with the RBI. It earn no interest rate. It should be kept in the cash form."
+}

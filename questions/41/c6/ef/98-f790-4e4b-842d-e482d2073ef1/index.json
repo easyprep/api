@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:36.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "41c6ef98-f790-4e4b-842d-e482d2073ef1",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is a State development loans(SDL)?",
+  "option1": "Loans given by World bank for state development",
+  "option2": "Money raised by states by issuing short term loans",
+  "option3": "Loan given by central government to state government",
+  "option4": "Money raised by states by issuing long term bonds",
+  "option5": "",
+  "answer": "Money raised by states by issuing long term bonds",
+  "explanation": "State development loans(SDL) is the Money raised by states by issuing long term bonds. It is done via RBI.The interest rates is serviced half-yearly."
+}

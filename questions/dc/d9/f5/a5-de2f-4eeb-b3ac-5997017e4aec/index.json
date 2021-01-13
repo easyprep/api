@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T17:20:11.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "dcd9f5a5-de2f-4eeb-b3ac-5997017e4aec",
+  "labels": "current-affairs,2020-09-20",
+  "question": "Which country forms the location of the yacht race \"Route du Rhum\"?",
+  "option1": "Italy",
+  "option2": "France",
+  "option3": "United Kingdom",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "France",
+  "explanation": "The Route du Rhum is a transatlantic single-handed yacht race, which takes place every four years in November. The starting point of the race is Saint-Malo, a port in the Brittany cultural region of France. The ending point is Pointe-a-Pitre, a city of Guadeloupe an overseas territory of France."
+}

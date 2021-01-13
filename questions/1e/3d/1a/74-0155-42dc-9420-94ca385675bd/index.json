@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "1e3d1a74-0155-42dc-9420-94ca385675bd",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who holds the CRR deposits of banks?",
+  "option1": "RBI",
+  "option2": "Department of Economic affairs",
+  "option3": "SBI",
+  "option4": "NABARD",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The CRR is the reserve ratio that the banks have to keep with the RBI. It earn no interest rate. It should be kept in the cash form."
+}

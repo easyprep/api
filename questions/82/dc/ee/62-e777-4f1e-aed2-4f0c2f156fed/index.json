@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-19T17:20:22.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "82dcee62-e777-4f1e-aed2-4f0c2f156fed",
+  "labels": "current-affairs,2020-09-20",
+  "question": "Which country houses the \"Institut Laue-Langevin\", one of the world centres for research using neutrons?",
+  "option1": "Switzerland",
+  "option2": "Germany",
+  "option3": "France",
+  "option4": "Denmark",
+  "option5": "",
+  "answer": "France",
+  "explanation": "The Institut Laue–Langevin (ILL) is an internationally financed scientific facility, situated on the Polygone Scientifique in Grenoble, France. It is one of the world centres for research using neutrons. Founded in 1967 and honouring the physicists' Max von Laue and Paul Langevin, the ILL provides one of the most intense neutron sources in the world and the most intense continuous neutron flux in the world in the moderator region: 1.5×1015 neutrons per second per cm2, with thermal power of typically 58.3 MW. The ILL neutron scattering facilities allow the analysis of the structure of conducting and magnetic materials for future electronic devices, the measurement of stresses in mechanical materials. It also allows investigations into macromolecular assemblies, particularly protein dynamics and biomolecular structure. It is a world-renowned centre for nanoscale science."
+}

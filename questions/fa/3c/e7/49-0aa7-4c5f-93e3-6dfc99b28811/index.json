@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:35:01.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "fa3ce749-0aa7-4c5f-93e3-6dfc99b28811",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is a future?",
+  "option1": "A debt payable in future",
+  "option2": "A contract based on a physical asset",
+  "option3": "A share going to be issued by a company",
+  "option4": "none",
+  "option5": "",
+  "answer": "none",
+  "explanation": "A future is a financial instrument based on physical underlying commodities and equities. It is a contract between 2 parties to buy or sell an asset at a certain time in the future for a certain price."
+}

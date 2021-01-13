@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-20T03:26:16.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "87aee246-b728-45fc-a644-49f6b8aad162",
+  "labels": "current-affairs,2020-09-21",
+  "question": "Which country has introduced penalties on companies in its “Unreliable entity list”?",
+  "option1": "India",
+  "option2": "China",
+  "option3": "USA",
+  "option4": "Italy",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China has introduced a system of penalizing companies that appears on its “Unreliable entity list”. <br />As per an official statement, the country will impose penalties including restricting trade, investment and visas to any company that pose a threat to China’s sovereignty, national security, development and business interests. The list also contains list of firms that discriminate against or harm Chinese businesses."
+}

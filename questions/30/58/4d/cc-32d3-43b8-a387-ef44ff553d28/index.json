@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "30584dcc-32d3-43b8-a387-ef44ff553d28",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Who among the following sets the Repo rate?",
+  "option1": "RBI",
+  "option2": "Ministry of Finance",
+  "option3": "SBI",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "Repo rate is the short term interest rate for the purchase of securities by the RBI. IT is set by RBI in its Monetary policy."
+}

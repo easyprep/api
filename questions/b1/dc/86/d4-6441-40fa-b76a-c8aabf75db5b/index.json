@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:36.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "b1dc86d4-6441-40fa-b76a-c8aabf75db5b",
+  "labels": "current-affairs,2020-09-16",
+  "question": "Which among the following are called risk free bonds?",
+  "option1": "Commercial bills",
+  "option2": "Mutual funds",
+  "option3": "QIP",
+  "option4": "G-secs",
+  "option5": "",
+  "answer": "G-secs",
+  "explanation": "The G-secs are backed by the government. So they are considered risk free."
+}

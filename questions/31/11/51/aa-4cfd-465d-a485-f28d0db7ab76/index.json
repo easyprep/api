@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-15T19:34:17.000Z",
+  "updated_at": "2021-01-06T08:25:09.400Z",
+  "id": "311151aa-4cfd-465d-a485-f28d0db7ab76",
+  "labels": "current-affairs,2020-09-16",
+  "question": "What is the reverse repo rate?",
+  "option1": "Rate at which RBI buys securities from market",
+  "option2": "Rate at which banks buys securities from market",
+  "option3": "Rate at which RBI sells securities in market",
+  "option4": "Rate at which banks sellssecurities from market",
+  "option5": "",
+  "answer": "Rate at which RBI sells securities in market",
+  "explanation": "The reverse repo rate at which RBI sells securities in the market. It is to absorb excess liquidity in the market. When RBI sells securities it takes the money from the market."
+}
