@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "b1e82045-3e52-4c64-af77-97936fa5d7bc",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What percent of the total population of the World lives in India?",
+  "option1": 0.0932,
+  "option2": 0.1125,
+  "option3": 0.177,
+  "option4": 0.213,
+  "option5": "",
+  "answer": 0.177,
+  "explanation": "About 17.7% of the total population of the World lives in India (year 2020). The Indo-Gangetic plains region is one of the densely populated areas of India."
+}

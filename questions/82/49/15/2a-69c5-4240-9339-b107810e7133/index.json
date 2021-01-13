@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "8249152a-69c5-4240-9339-b107810e7133",
+  "labels": "current-affairs,2020-07-08",
+  "question": "As per Census 2011, which of the following is the female literacy rate in India?",
+  "option1": 0.7536,
+  "option2": 0.72,
+  "option3": 0.6546,
+  "option4": 0.5965,
+  "option5": "",
+  "answer": 0.6546,
+  "explanation": "As per Census 2011, the female literacy rate in India is 65.46%."
+}

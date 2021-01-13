@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:47:27.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "4a3daae4-b1af-41eb-8c6a-16ce7a7d9cc1",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs of islands and the rivers is/are correctly matched?<br />\n<ol>\n<li>Lulu Island - River Elbe</li>\n<li>Csepel Island - River Danube</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The Lulu island is the largest island situated on the river Fraser in the Richmond city of Canada.<br />The Csepel island is the largest island situated on the banks of river Danube in Hungary."
+}

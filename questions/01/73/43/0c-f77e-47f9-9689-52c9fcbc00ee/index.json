@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:37.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "0173430c-f77e-47f9-9689-52c9fcbc00ee",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What percent of the population of India belongs to the Hindu community?",
+  "option1": 0.52,
+  "option2": 0.6123,
+  "option3": 0.6812,
+  "option4": 0.798,
+  "option5": "",
+  "answer": 0.798,
+  "explanation": "About 79.80% of the population of India belong to the Hindu community. A growth of 16.8% is evident in the Census 2011. The literacy rate among Hindus is 73.3%. The work participation of the Hindu community is 41.0%."
+}

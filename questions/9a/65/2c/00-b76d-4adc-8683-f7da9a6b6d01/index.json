@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:43:44.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "9a652c00-b76d-4adc-8683-f7da9a6b6d01",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following arrangement of the languages in decreasing order of their speakers in India is correct?",
+  "option1": "Urdu, Tamil, Marathi, Telugu, Bengali, Hindi",
+  "option2": "Hindi, Marathi, Bengali, Urdu, Telugu, Tamil",
+  "option3": "Hindi, Tamil Telugu, Marathi, Bengali, Urdu",
+  "option4": "Hindi, Bengali, Telugu, Marathi, Tamil, Urdu",
+  "option5": "",
+  "answer": "Hindi, Bengali, Telugu, Marathi, Tamil, Urdu",
+  "explanation": "Speakers of languages Hindi (53.60%), Bengali (8.86%), Telugu (8.26%), Marathi (8.16%), Tamil (6.49%), Urdu (5.74%)."
+}

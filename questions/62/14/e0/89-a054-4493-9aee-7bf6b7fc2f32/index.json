@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:44:58.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "6214e089-a054-4493-9aee-7bf6b7fc2f32",
+  "labels": "current-affairs,2020-07-08",
+  "question": "As per the census 2011, which one of the following is the correct ascending sequence of States with regard to percentage of urban population?",
+  "option1": "Goa-Mizoram-Maharashtra-Kerala",
+  "option2": "Maharashtra-Kerala-Mizoram-Goa",
+  "option3": "Mizoram-Goa-Maharashtra-Kerala",
+  "option4": "Tamil Nadu-Mizoram-Goa-Maharashtra",
+  "option5": "",
+  "answer": "Maharashtra-Kerala-Mizoram-Goa",
+  "explanation": "Maharashtra (45.23), Kerala (47.72%), Mizoram(51.51%), Goa (62.17%)."
+}

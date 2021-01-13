@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:18:15.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "dcbdf501-d288-4ab0-96dd-8cd9cb974147",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following statements is/are correct about caves?<br />\n<ol>\n<li>The formation and development of caves is known as speleogenesis.</li>\n<li>Caves often form by the deposition of rock and often extend deep underground.</li>\n<li>Most caves are formed in granite by dissolution.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "1,2 & 3",
+  "option3": "Only 2",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Karst topography is a result of the dissolution of soluble rocks like limestone, dolomite and gypsum. <br />Caves are formed due to <strong>weathering</strong> of rock deep underground. Cave or cavern is a natural void and is a space large enough so that a human can enter. The study of the formation and development of caves is called as Speleogenesis. Most caves are formed in limestone by dissolution."
+}

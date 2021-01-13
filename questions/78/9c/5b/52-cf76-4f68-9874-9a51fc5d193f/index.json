@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "789c5b52-cf76-4f68-9874-9a51fc5d193f",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is the correct arrangement of the following cities in descending order as per their population size as per the census 2011?",
+  "option1": "Kolkata-Chennai-Mumbai-Delhi",
+  "option2": "Delhi-Mumbai-Kolkata-Chennai",
+  "option3": "Mumbai-Delhi-Kolkata-Chennai",
+  "option4": "Mumbai-Kolkata-Delhi-Chennai",
+  "option5": "",
+  "answer": "Mumbai-Delhi-Kolkata-Chennai",
+  "explanation": "The correct arrangement of the following cities in descending order as per their population size- Mumbai-Delhi-Kolkata-Chennai."
+}

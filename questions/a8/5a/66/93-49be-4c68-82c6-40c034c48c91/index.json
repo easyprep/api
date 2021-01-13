@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:28:37.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "a85a6693-49be-4c68-82c6-40c034c48c91",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs is/are correctly matched?<br />\n<ol>\n<li>Crevasse - Deep crack or fracture formed in a rock</li>\n<li>Crevice - deep crack or fracture formed in a glacier or ice sheet.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Crevasse is a deep crack or fracture specifically found in an ice sheet or glacier. They often have vertical or near vertical walls.<br />Crevice is a deep crack or fracture formed in a rock."
+}

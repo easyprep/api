@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T18:37:26.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "ebb00175-0a38-4be6-a362-fd0f2106c824",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following nation does not share borders with Angola?",
+  "option1": "Democratic Republic of Congo",
+  "option2": "Namibia",
+  "option3": "Zambia",
+  "option4": "Gabon",
+  "option5": "",
+  "answer": "Gabon",
+  "explanation": "The Democratic Republic of Congo lies to the north; Namibia lies to the south; Zambia lies to the east of Angola, sharing its borders. Gabon lies furthermore north to the Angola, which does not share its borders."
+}

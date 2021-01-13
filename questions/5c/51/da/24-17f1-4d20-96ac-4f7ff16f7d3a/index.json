@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-08T12:35:06.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "5c51da24-17f1-4d20-96ac-4f7ff16f7d3a",
+  "labels": "current-affairs,2020-07-09",
+  "question": "The total budget allocation of Uttar Pradesh for FY 2020-21 is what percent higher than the previous year allocation?",
+  "option1": 0.06,
+  "option2": 0.08,
+  "option3": 0.11,
+  "option4": 0.13,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "The total budget allocation of Uttar Pradesh for FY 2020-21 is Rs 5.12 lakh crores which is 6% higher than the previous year allocation."
+}

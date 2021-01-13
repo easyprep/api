@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:55.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "eeac38d9-c2da-4685-a5d0-37e803b53a36",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following are the benefits of chlorine treatment of water?<br />\n<ol>\n<li>Remove suspended partticles</li>\n<li>Remove hardness of water</li>\n<li>Kill germs</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1,2,3 only",
+  "option2": "1 and 3 only",
+  "option3": "2 and 3 only",
+  "option4": "1 and 2 only",
+  "option5": "",
+  "answer": "1,2,3 only",
+  "explanation": "Contaminated water is treated with chlorine which removes suspended solid particles in water, remove the hardness of water and kill germs."
+}

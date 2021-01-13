@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "f0f5ed71-a59b-4a6c-a68e-85279b1412a4",
+  "labels": "current-affairs,2020-07-08",
+  "question": "As per the census 2011, which of the following is the percentage of decadal growth of population during 2001-2011?",
+  "option1": 0.1764,
+  "option2": 0.1834,
+  "option3": 0.1959,
+  "option4": 0.2123,
+  "option5": "",
+  "answer": 0.1764,
+  "explanation": "As per the census 2011, the decadal growth of population during 2001-2011 is 17.64%."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "b149b787-9579-4c88-a078-3323a1e068e6",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following States has the smallest Gender gap percentage between male and female literacy (As per Census 2011)?",
+  "option1": "Kerala",
+  "option2": "Meghalaya",
+  "option3": "Nagaland",
+  "option4": "Mizoram",
+  "option5": "",
+  "answer": "Meghalaya",
+  "explanation": "Gender gap percentage as per Census 2011- Meghalaya : 3.10, Mizoram : 4.00, Kerala : 4.00, Nagaland : 6.70"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "dd9e7f6c-63c9-448f-9759-a2bb4e9a3151",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What percentage of the total population of the world is the population in India (As per census 2011)?",
+  "option1": 0.12,
+  "option2": 0.135,
+  "option3": 0.175,
+  "option4": 0.22,
+  "option5": "",
+  "answer": 0.175,
+  "explanation": "Around 17% of the total population of the world is the population in India (As per census 2011)."
+}

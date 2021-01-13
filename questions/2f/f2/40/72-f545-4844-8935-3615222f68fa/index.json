@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:37.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "2ff24072-f545-4844-8935-3615222f68fa",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Arrange the following Union Territories of India as per the descending order of their population density (Census 2011)<br />1. Puducherry<br />2. Delhi<br />3. Chandigarh<br />4. Daman and Diu<br />Choose the correct option from the codes given below :",
+  "option1": "2, 1, 4, 3",
+  "option2": "2, 3, 1, 4",
+  "option3": "3, 2, 1, 4",
+  "option4": "4, 1, 2, 3",
+  "option5": "",
+  "answer": "2, 3, 1, 4",
+  "explanation": "The correct descending order- Delhi (11,320), Chandigarh (9,258), Puducherry (2,547), Daman and Diu (2,191).<br />"
+}

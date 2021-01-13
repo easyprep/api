@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:31:26.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "7038a4ad-aa80-4de9-8056-2b6bafe96b8b",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What percent of the total transport in India is provided by water transport?",
+  "option1": 0.01,
+  "option2": 0.05,
+  "option3": 0.07,
+  "option4": 0.11,
+  "option5": "",
+  "answer": 0.01,
+  "explanation": "Though water transport is very cheap (50 paise/ km) and transportation of heavy bulky goods is also possible but it accounts for only about 1% of the total transport in India."
+}

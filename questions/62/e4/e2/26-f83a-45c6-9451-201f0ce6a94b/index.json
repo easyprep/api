@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:33:14.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "62e4e226-f83a-45c6-9451-201f0ce6a94b",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs of slope landforms is/are correctly matched?<br />\n<ol>\n<li>Cliff - A vertical or near vertical rock face of substantial height.</li>\n<li>Col - Land between two converging, or confluent rivers.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Col is the lowest point on a mountain ridge between two peaks.<br />Doab is a land between two converging, or confluent rivers."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:44:59.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "d95a9b8b-d1aa-410c-af9a-591f68001869",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What is the average density of the villages in India (Per 100 sq km)?",
+  "option1": 18,
+  "option2": 25,
+  "option3": 28,
+  "option4": 32,
+  "option5": "",
+  "answer": 18,
+  "explanation": "The average density of villages in India is 18 per 100 sq. km. The average size of the population per village is 1248 (2001 data)."
+}

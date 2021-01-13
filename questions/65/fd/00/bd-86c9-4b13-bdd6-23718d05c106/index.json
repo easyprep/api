@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:55.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "65fd00bd-86c9-4b13-bdd6-23718d05c106",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about Species Diversity",
+  "option1": "It refers to the species richness only",
+  "option2": "It refers to the species evenness only",
+  "option3": "It is a combination of both species richness and evenness",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It is a combination of both species richness and evenness",
+  "explanation": "Species Diversity refers to the number of different species present in a region and the abundance of the particular species."
+}

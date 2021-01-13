@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-08T12:35:08.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "3cc92c80-47a0-4d95-88d7-1cc4ccd17d52",
+  "labels": "current-affairs,2020-07-09",
+  "question": "The fiscal deficit of Uttar Pradesh is estimated What percent of the GSDP in FY 2020-21?",
+  "option1": 0.0297,
+  "option2": 0.051,
+  "option3": 0.0565,
+  "option4": 0.061,
+  "option5": "",
+  "answer": 0.0297,
+  "explanation": "The fiscal deficit of Uttar Pradesh is estimated at 2.97% of the GSDP in FY 2020-21 (Rs 53,195 crore)."
+}

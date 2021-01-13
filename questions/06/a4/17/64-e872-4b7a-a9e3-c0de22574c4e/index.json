@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-08T12:35:07.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "06a41764-e872-4b7a-a9e3-c0de22574c4e",
+  "labels": "current-affairs,2020-07-09",
+  "question": "Which among the following cities of Uttar Pradesh has been ranked on the WHO's list of 15 most polluted cities?<br />1. Kanpur<br />2. Varanasi<br />3. Agra<br />4. Lucknow<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Kanpur, Varanasi, Agra, Lucknow are the four cities of Uttar Pradesh on the WHO's list of 15 most polluted cities. Out of 15, a total number of 14 cities are in India."
+}

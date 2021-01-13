@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-08T12:35:06.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "4e8ee679-0fa8-4e5a-b283-1d8171833faa",
+  "labels": "current-affairs,2020-07-09",
+  "question": "What percent of the geographical area of Uttar Pradesh have very high rates of stunting?",
+  "option1": 0.23,
+  "option2": 0.35,
+  "option3": 0.46,
+  "option4": 0.52,
+  "option5": "",
+  "answer": 0.46,
+  "explanation": "About 46% of the geographical area of Uttar Pradesh have very high rates of stunting. As per the National Nutrition Strategy of 2017, India is looking forward to achieving a malnutrition-free India by 2022."
+}

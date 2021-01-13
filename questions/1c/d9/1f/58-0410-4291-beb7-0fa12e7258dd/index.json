@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:30:04.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "1cd91f58-0410-4291-beb7-0fa12e7258dd",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs are correct?<br />1. Broad Gauge- 1.676 meter<br />2. Meter Gauge- 1 meter<br />3. Narrow Gauge- 0.762 meter<br />4. Lift Gauge- 0.610 meter<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The correct pairs are Broad Gauge- 1.676 meter, Meter Gauge- 1 meter, Narrow Gauge- 0.762 meter, Lift Gauge- 0.610 meters."
+}

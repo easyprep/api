@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "5dbaf885-56ab-4903-8ba8-571656f58619",
+  "labels": "current-affairs,2020-07-08",
+  "question": "As per the Census 2011, which of the following States has the highest density of population?",
+  "option1": "West Bengal",
+  "option2": "Uttar Pradesh",
+  "option3": "Mizoram",
+  "option4": "Bihar",
+  "option5": "",
+  "answer": "Bihar",
+  "explanation": "As per the Census 2011, Bihar has the highest density of population (1106 per sq km)."
+}

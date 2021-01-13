@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "6fae4c74-f530-4eaf-bdae-6b3d2074b18d",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is the Total Fertility Rate (TFR) of India (As per Census 2011)?",
+  "option1": 0.031,
+  "option2": 0.03,
+  "option3": 0.024,
+  "option4": 0.018,
+  "option5": "",
+  "answer": 0.024,
+  "explanation": "Total Fertility Rate (TFR) is the number of children who would be born per woman. In the case of India (As per Census 2011) it is 2.4%."
+}

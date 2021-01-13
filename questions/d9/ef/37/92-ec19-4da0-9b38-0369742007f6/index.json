@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:18:20.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "d9ef3792-ec19-4da0-9b38-0369742007f6",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following statements is/are correct about sinkholes?<br />\n<ol>\n<li>They are a type of fluvial landform.</li>\n<li>They are also called as swallet or swallow hole.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Karst landforms are a type of topography formed due to dissolution of soluble rocks like limestone, dolomite and gypsum.<br />A sinkhole is a karst landscape.<br />It is also known as swallet, doline, cenote, or swallow hole. It is a depression in the ground caused by the surface layer."
+}

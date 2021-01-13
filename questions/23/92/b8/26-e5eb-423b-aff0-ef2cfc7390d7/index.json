@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:37.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "2392b826-e5eb-423b-aff0-ef2cfc7390d7",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What percent of the population of India is below the age group of 25?",
+  "option1": 0.5,
+  "option2": 0.42,
+  "option3": 0.35,
+  "option4": 0.16,
+  "option5": "",
+  "answer": 0.5,
+  "explanation": "About more than 50% of the population of India is below the age group of 25 and about more than 65% below the age group of 35."
+}

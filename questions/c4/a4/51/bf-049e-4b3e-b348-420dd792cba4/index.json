@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-08T12:35:08.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "c4a451bf-049e-4b3e-b348-420dd792cba4",
+  "labels": "current-affairs,2020-07-09",
+  "question": "World Bank decided to contribute what percent of the total cost of the Pro-Poor Tourism Development Project in Uttar Pradesh?",
+  "option1": 0.25,
+  "option2": 0.46,
+  "option3": 0.58,
+  "option4": 0.7,
+  "option5": "",
+  "answer": 0.7,
+  "explanation": "World Bank approved 57.14 million dollars for the Pro-Poor Tourism Development Project in Uttar Pradesh and decided to contribute 70% of it (40 million US dollars). The rest will be contributed by the UP government. The main objective of this project is to uplift job-oriented economic activities related to tourism."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:22:58.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "ba615fe8-609c-4308-b211-ebdc5d5527e1",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following statements is/are correct about Terraces?<br />\n<ol>\n<li>A terrace is a step-like landform.</li>\n<li>Fluvial terraces are formed on the side of a glacial valley.</li>\n<li>Kame terrace is a terrace created by the differential erosion of flat-lying or nearly flat-lying layered strata.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "1, 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Terraces are step like landform. They are lacustrine landforms.<br />Fluvial terraces are remnants of former floodplain of a river or stream.<br />Kame terraces are terraces formed on the sides of a glacial valley."
+}

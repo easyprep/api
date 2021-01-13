@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "50732050-7b45-44b1-a5f8-9692f69ab8d7",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following states of India has the lowest density of population as per the census 2011?",
+  "option1": "Sikkim",
+  "option2": "Meghalaya",
+  "option3": "Arunachal Pradesh",
+  "option4": "Himachal Pradesh",
+  "option5": "",
+  "answer": "Arunachal Pradesh",
+  "explanation": "Arunachal Pradesh has the lowest population density (17 per sq km) as per the census 2011."
+}

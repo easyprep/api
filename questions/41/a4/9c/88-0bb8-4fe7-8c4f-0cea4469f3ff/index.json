@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "41a49c88-0bb8-4fe7-8c4f-0cea4469f3ff",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following methods can not remove sulphur dioxide pollutant?",
+  "option1": "Precombustion Desulphurisation",
+  "option2": "Post combustion desulphurisation",
+  "option3": "Photochemical oxidants",
+  "option4": "Electrochemical reaction",
+  "option5": "",
+  "answer": "Photochemical oxidants",
+  "explanation": "Photochemical oxidants are the pollutants fouund in smog thus can not remove sulpher dioxide."
+}

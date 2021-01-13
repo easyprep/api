@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:37:53.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "8af6d4ce-1060-4a22-8cc6-0f0b0df06f3f",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What percent of the total population of India is constituted by the Scheduled tribe?",
+  "option1": 0.086,
+  "option2": 0.0963,
+  "option3": 0.151,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0.086,
+  "explanation": "About 8.6% of the total population of India is constituted by the Scheduled tribe. There are more than 425 scheduled tribes in India. The state of Madhya Pradesh has the highest number of scheduled tribe population."
+}

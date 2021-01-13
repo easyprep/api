@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "e0adba7a-77dc-4ded-9225-ca65a2657b08",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following statements is true about Biochemical Oxygen Demand?",
+  "option1": "It shows the amount of oxygen required to oxidize the organic wate into inorganic material",
+  "option2": "It shows the amount of oxygen required to remove both degradable and non degradable waste in the water",
+  "option3": "It shows the amount of oxygen required to decompose the organic waste in the water",
+  "option4": "None of the above is true",
+  "option5": "",
+  "answer": "It shows the amount of oxygen required to decompose the organic waste in the water",
+  "explanation": "Biochemical Oxygen Demand is the amount of oxygen required by the bacterias and microorganism present in water to decompose the organic waste"
+}

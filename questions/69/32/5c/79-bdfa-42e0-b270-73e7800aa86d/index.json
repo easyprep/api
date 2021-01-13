@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:28:16.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "69325c79-bdfa-42e0-b270-73e7800aa86d",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs are correct?<br />1. NH 44- Srinagar to Kanyakumari<br />2. NH 16- Kolkata to Chennai<br />3. NH 27- Porbandar to Silchar<br />4. NH 19- Kolkata to Delhi<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "2 & 4",
+  "option3": "1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The correct pairs are NH 44- Srinagar to Kanyakumari, NH 16- Kolkata to Chennai, NH 27- Porbandar to Silchar, NH 19- Kolkata to Delhi."
+}

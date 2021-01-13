@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-08T03:42:59.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "805f2c31-3133-4d45-8a8e-249d46b0a7d7",
+  "labels": "current-affairs,2020-07-09",
+  "question": "Which country has launched a new military surveillance satellite named ‘Ofek 16’?",
+  "option1": "United States",
+  "option2": "Israel",
+  "option3": "Germany",
+  "option4": "UAE",
+  "option5": "",
+  "answer": "Israel",
+  "explanation": "Israel has launched a new surveillance satellite named ‘Ofek 16’, that will provide high-quality surveillance for its military activities\r\nThe satellite was launched into space by its indigenously developed Shavit rocket, which was used to launch the previous versions of Ofek satellites. It is an advanced electro-optical surveillance satellite developed by Israel Aerospace Industries."
+}

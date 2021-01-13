@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:37.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "8afac027-4262-45cb-8d16-8c68cabf3733",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What is the literacy rate of the transgenders of India as per the census 2011?",
+  "option1": 0.7423,
+  "option2": 0.6512,
+  "option3": 0.5607,
+  "option4": 0.3216,
+  "option5": "",
+  "answer": 0.5607,
+  "explanation": "The literacy rate of the transgenders of India as per the census 2011 is 56.07%. The highest literacy rate of transgenders is found in the state of Mizoram (87.14%)."
+}

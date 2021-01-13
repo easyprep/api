@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:53.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "930e5d80-40fd-477a-bdcc-b5aea13f0441",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about lakes?<br />\n<ol>\n<li>They are the permanent body of standing water</li>\n<li>Like wetland they have no stratification in water</li>\n<li>They have low productivity as compared to wetlands</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 and 2 only",
+  "option2": "1 and 3 only",
+  "option3": "2 and 3 only",
+  "option4": "1,2 and 3 only",
+  "option5": "",
+  "answer": "1 and 3 only",
+  "explanation": "Lakes are the permanent body of standing water having sufficient water and depth. They are formed by various processes like fluvial, geomorphological, artificial etc. There is stratification of water on the basis of temperature which is absent in wetland but as compared to wetlands they have less nutrition"
+}

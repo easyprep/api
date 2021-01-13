@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:40:06.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "a406e079-a050-48c5-965f-584bb87ed851",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs of tectonic landforms is/are correctly matched?<br />\n<ol>\n<li>Fault scarp – A small offset on the ground surface where one side of a fault has moved vertically with respect to the other.</li>\n<li>Faceted spur – A ridge that descends towards a valley floor or coastline that is cut short</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Fault scarp is an offset on the ground surface where one side of a fault has moved vertically with respect to the other. It is a topographic feature associated with tectonic landforms.<br />Faceted Spur or truncated spur is a spur which is a ridge that descends towards a valley floor. It ends in an inverted V-face. They are formed by active faulty especially normal faulting producing triangular facets."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:55.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "4305ab72-1b5f-4894-8633-dcc49dba956a",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about dead zones?<br />\n<ol>\n<li>It occurs naturally in water</li>\n<li>It is sign of eutrophication in the water</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both",
+  "explanation": "Dead zones are the regions in the water body devoid of oxygen. It can occur naturally in water. However human activities are also responsible for it. Nitrogen run-off in the water leads to water enrichment called Eutrophication thus leading to algal bloom which can cut odd the supply of oxygen from atmosphere to aquatic organisms. This can lead to death of organisms and decomposition further can reduce the oxygen level thus leading to dead zones."
+}

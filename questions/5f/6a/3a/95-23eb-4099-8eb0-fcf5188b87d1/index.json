@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:44:59.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "5f6a3a95-23eb-4099-8eb0-fcf5188b87d1",
+  "labels": "current-affairs,2020-07-08",
+  "question": "The population of 50,000 to 99,999 falls under which of the following class as specified by the census department?",
+  "option1": "Class I",
+  "option2": "Class II",
+  "option3": "Class IV",
+  "option4": "Class V",
+  "option5": "",
+  "answer": "Class II",
+  "explanation": "Classes and population specified by the census department are Class I- 100,000 and more. Class II- 50,000 to 99,999. Class III- 20,000 to 49,999. Class IV- 10,000 to 19,999. Class V- 5000 to 9999. Class VI- Less 5000."
+}

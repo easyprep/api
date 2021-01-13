@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:55.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "5f3a0853-dfe1-4de4-911f-172b39c09a28",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is not one of the tiger range countries?<br />\n<ol>\n<li>Bangladesh</li>\n<li>Combodia</li>\n<li>India</li>\n<li>Maldives</li>\n<li>Myanmar</li>\n</ol>\nSelect the correct answer from the codes given below",
+  "option1": "1 and 2 only",
+  "option2": "3 and 4 only",
+  "option3": "4 only",
+  "option4": "4 and 5 only",
+  "option5": "",
+  "answer": "4 only",
+  "explanation": "There are 13 tiger range countries which are- Bangladesh, Bhutan, Cambodia, China, India, Indonesia, Lao PDR, Malaysia, Myanmar, Nepal, Russia, Thailand and Viet Nam."
+}

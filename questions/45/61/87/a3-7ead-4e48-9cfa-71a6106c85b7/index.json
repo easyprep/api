@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "456187a3-7ead-4e48-9cfa-71a6106c85b7",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following matches of terms and their definitions are correct?<br />1. Crude birth rate- Ratio between the number of births and total population<br />2. Natural increase of Population- Births over deaths per thousand of Population<br />3. General fertility rate- Ratio between number of births and number of females in productive age<br />4. Death rate- Number of deaths per thousand of Population<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "Crude birth rate- It is the ratio between the number of births and the total population.<br />Natural increase of Population- Births over deaths per thousand of Population.<br />General fertility rate- It is the ratio between the number of births and the number of females in the productive age.<br />Death rate- Number of deaths per thousand of Population."
+}

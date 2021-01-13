@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "4e35d7f4-8b36-405f-a709-e83851c611bf",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Arrange the following states of India as per the descending order of their population density (Census 2011)<br />1. Bihar<br />2. Kerala<br />3. West Bengal<br />4. Uttar Pradesh<br />Choose the correct option from the codes given below :",
+  "option1": "1, 3, 2, 4",
+  "option2": "2, 1, 3 ,4",
+  "option3": "2, 4, 1, 3",
+  "option4": "1, 3, 4, 2",
+  "option5": "",
+  "answer": "1, 3, 2, 4",
+  "explanation": "The correct descending order- Bihar (1,106), West Bengal (1,028), Kerala (860), Uttar Pradesh (829)."
+}

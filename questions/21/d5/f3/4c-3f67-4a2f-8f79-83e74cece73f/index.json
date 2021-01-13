@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "21d5f34c-3f67-4a2f-8f79-83e74cece73f",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What is the urban population percentage to the total population of India as per the census 2011?",
+  "option1": 31,
+  "option2": 33,
+  "option3": 35,
+  "option4": 39,
+  "option5": "",
+  "answer": 31,
+  "explanation": "As per the census 2011, the urban population percentage to the total population of India is 31.16%."
+}

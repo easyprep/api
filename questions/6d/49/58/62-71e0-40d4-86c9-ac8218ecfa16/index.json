@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "6d495862-71e0-40d4-86c9-ac8218ecfa16",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true with regard to the Global Warming Potential (GWP) of gases?<br />\n<ol>\n<li>Carbon Dioxide has the largest greenhouse warming potential</li>\n<li>Methane has insignificant GWP as they remain in environment for short period of time</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "The Global warming Potential is the warming potential of different gases as compared to carbon dioxide. Gases like Methane, SF6 has much higher GWP than carbon dioxide."
+}

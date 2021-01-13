@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:33:15.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "8a5c13c0-8535-41ea-8d3b-f1b0f7d23731",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs of slope landforms is/are correctly matched?<br />\n<ol>\n<li>Rock shelter – A shallow cave-like opening at the base of a cliff.</li>\n<li>Plain – Extensive flat region that generally does not vary much in elevation</li>\n<li>Ravine – An area of a highland, usually of relatively flat terrain</li>\n<li>Col – The lowest point on a mountain ridge between two peaks</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1, 2 & 4",
+  "option2": "Only 1 & 2",
+  "option3": "Only 1, 2 & 3",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2 & 4",
+  "explanation": "Ravine is a small valley often the product of stream cutting erosion. It is larger than gullies but smaller than valleys.<br />Plateau is an area of a highland, usually of relatively flat terrain."
+}

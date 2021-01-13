@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:52.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "27b3ac6a-0c78-492b-b967-55b59a6406d5",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is the correct sequence in ecological level from the lowest to the highest?",
+  "option1": "Individual- Population –Community- Ecosystem-Biosphere",
+  "option2": "Individual- Population- Community- Ecosystem- Biosphere",
+  "option3": "Individual- Community-Population- Ecosystem-Biosphere",
+  "option4": "Individual-Community-Population- Ecosystem-Biosphere",
+  "option5": "",
+  "answer": "Individual- Population- Community- Ecosystem- Biosphere",
+  "explanation": "<p>Organism id the lowest level in the ecological levels as it is an individual being having the ability to act and function independently\n<p>Population is a group of organisms usually of same species occupying a defined area at a particular time.\n<p>A community is a group of different species living and interacting with each other in the same geographical area at the same time.\n<p>Ecosystem is a set of living organism living together while interacting with biotic and abiotic components of their environment. It consist of different communities.\n<p>Biosphere is the sum of all the global ecosystems."
+}

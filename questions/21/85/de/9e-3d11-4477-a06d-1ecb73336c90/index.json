@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:40:03.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "2185de9e-3d11-4477-a06d-1ecb73336c90",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following statements is/are correct about Horsts?<br />\n<ol>\n<li>They are tectonic landforms.</li>\n<li>They are a depressed block of planetary crust.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Horst is a raised fault block bounded by normal faults. The word Horst in Dutch and German means 'heap'. It is a raised block of earth's crust that has been lifted. It is a tectonic landform."
+}

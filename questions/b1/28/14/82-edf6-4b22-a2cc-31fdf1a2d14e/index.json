@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "b1281482-edf6-4b22-a2cc-31fdf1a2d14e",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following statements is true about Ozone?<br />\n<ol>\n<li>The ozone in troposphere can reach to stratosphere and deplete the ozone there</li>\n<li>The stratospheric ozone is called good ozone</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "Ozone in troposphere is formed by the mixture of sunlight, nitrogen oxide and VOCs. It is an harmful pollutant against the stratospheric ozone which protects the earth from harful UV radiations. The stratospheric ozone is called good ozone. The lower ozone is found in troposphere only and does not reach upto the stratosphere"
+}

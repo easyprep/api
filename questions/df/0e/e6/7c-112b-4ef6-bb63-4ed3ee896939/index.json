@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:47:28.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "df0ee67c-112b-4ef6-bb63-4ed3ee896939",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs of islands and the rivers is/are correctly matched?<br />\n<ol>\n<li>Manhattan Island - Hudson river</li>\n<li>Salsette Island - Ulhas river</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Manhattan Island is located on the banks of the river Hudson in the New York city of United States.<br />The Salsette island is situated on the banks of the river Ulhas in the state of Maharashtra, India."
+}

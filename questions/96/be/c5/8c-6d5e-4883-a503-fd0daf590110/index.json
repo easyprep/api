@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:53.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "96bec58c-6d5e-4883-a503-fd0daf590110",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following nutrient cycle is a sedimentary cycle?<br />\n<ol>\n<li>Hydrological cycle</li>\n<li>Carbon cycle</li>\n<li>Phosphorous cycle</li>\n<li>Nitrogen cycle</li>\n</ol>\n<p>Select the correct answer from the codes given below-",
+  "option1": "1,2,3,4",
+  "option2": "1,2 and 4 only",
+  "option3": "3 only",
+  "option4": "2 and 3 only",
+  "option5": "",
+  "answer": "3 only",
+  "explanation": "<p>Sedimentary cycle refers to that cycle in which nutrients does not flow through atmosphere but follows a pattern i.e through erosion, sedimentation, mountain building and through the biological transportation. Phosphorous occurs in large amount in rocks unlike nitrogen and carbon dioxide which is obtained through atmosphere."
+}

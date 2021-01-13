@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:34.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "8607a833-f8af-4d4a-aa59-386a4c5dac04",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is the correct descending order of the three most populous states of India (As per census 2011)?",
+  "option1": "Maharashtra, Bihar, West Bengal",
+  "option2": "Uttar Pradesh, Bihar, West Bengal",
+  "option3": "Uttar Pradesh, West Bengal, Bihar",
+  "option4": "Uttar Pradesh, Maharashtra, Bihar",
+  "option5": "",
+  "answer": "Uttar Pradesh, Maharashtra, Bihar",
+  "explanation": "As per the State Census 2011, the most populated state in India is Uttar Pradesh (19.96 crores). Maharashtra ranked second (112,374,333) and Bihar ranked third (104,099,452)."
+}

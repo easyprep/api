@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "de2795c2-bce9-4975-ae19-4f3a1c5bdd89",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about Noise pollution?<br />\n<ol>\n<li>It can cause air and water pollution</li>\n<li>According to WHO indoor sound level should not be more than 30 db</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "Air and water pollution occurs by the contaminated air and water. Noise pollution refers to the exposure to excessive noise which effects the living organisms. According to WHO indoor sound levels should not be more than 30 db."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "d854f4c0-7126-4459-9f6f-185baff6cc69",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about Greenhouse gases?<br />\n<ol>\n<li>Chloroflorus gases are greenhouse gases which also facilitates the brreakdown of ozone</li>\n<li>Fluorinated gases are not ozone depleting but have high greenhouse potential</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both",
+  "explanation": "Chloroflorus gases are both greenhouse gases and leads to the breakdown of ozone while fluorinated gases like HFC, SF6 does not lead to the ozone breakdown but have high greenhouse potential"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "5ba876f6-1cb0-4d29-8359-52e7f7b10859",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following age group is considered as the working-age population in India?",
+  "option1": "15-64",
+  "option2": "14-60",
+  "option3": "18-60",
+  "option4": "18-64",
+  "option5": "",
+  "answer": "15-64",
+  "explanation": "The working-age group is from the age of 15 to 64. The age of 14 and less than that and the age of 65 and above are considered as a non-working group of population."
+}

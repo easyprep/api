@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-08T12:35:08.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "ac69aab0-dbce-48e2-ac3b-b5411e809ed1",
+  "labels": "current-affairs,2020-07-09",
+  "question": "What is the contribution of the Agricultural sector in 2018-19 to the economy of Uttar Pradesh?",
+  "option1": 0.24,
+  "option2": 0.32,
+  "option3": 0.41,
+  "option4": 0.48,
+  "option5": "",
+  "answer": 0.24,
+  "explanation": "The contribution of the Agricultural sector in 2018-19 to the economy of Uttar Pradesh is 24%. For Manufacturing and Services, it is 26% and 50% respectively."
+}

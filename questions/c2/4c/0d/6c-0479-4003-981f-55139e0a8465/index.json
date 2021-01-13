@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "c24c0d6c-0479-4003-981f-55139e0a8465",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about oil spills?<br />\n<ol>\n<li>Oil spills increase the Biological Oxygen Demand</li>\n<li>Oil spill reduces the oxygen in the sea water</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both",
+  "explanation": "Oil spills in sea increase the Biological oxygen Demand in the sea water as it increase the activity of the hydrocarbon bacteria to facilitate decomposition and also because the oil spill blocks the supply of oxygen. It also reduce the amount of oxygen in the sea water."
+}

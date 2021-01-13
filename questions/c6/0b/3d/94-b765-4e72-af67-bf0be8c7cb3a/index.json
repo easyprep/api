@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:37.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "c60b3d94-b765-4e72-af67-bf0be8c7cb3a",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What percent of the population of India belongs to the Muslim community?",
+  "option1": 0.1423,
+  "option2": 0.1867,
+  "option3": 0.1952,
+  "option4": 0.2116,
+  "option5": "",
+  "answer": 0.1423,
+  "explanation": "About 14.23% of the population of India belong to the Muslim community. A growth of 24.6% is evident in the Census 2011. The literacy rate among Muslims are 68.5%. The work participation of the Muslim community is 32.6%."
+}

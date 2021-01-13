@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:47:27.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "2b922aa0-251a-47e4-b90b-e9029f7070bb",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs of islands and the rivers is/are correctly matched?<br />\n<ol>\n<li>Island Mosqueiro - Amazon River</li>\n<li>Island Wilhemsburg - Han River</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The river island Wilhemsburg is situated on the banks of the river Elbe in the Hamburg city of Germany."
+}

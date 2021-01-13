@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:43:53.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "07279c65-525c-4052-82ed-31c34581550d",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following are the classical languages of India?<br />1. Tamil<br />2. Sanskrit<br />3. Kannada<br />4. Telegu<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "2 & 4",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The classical languages of India are Tamil, Sankrit, Telegu, Kannada, Malayalam, Odia"
+}

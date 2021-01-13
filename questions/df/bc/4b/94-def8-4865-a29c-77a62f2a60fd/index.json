@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:52.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "dfbc4b94-def8-4865-a29c-77a62f2a60fd",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following statements is true?",
+  "option1": "A food chain is always unidirectional",
+  "option2": "A food web is never unidirectional",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "Both",
+  "explanation": "<p>A food chain refers to linear link among species that depend on each other for their food. It moves from lower tropic level to higher trophic level. Thus it is unidirectional. A food web is made up of many food chains connected together. Thus it is multi- directional"
+}

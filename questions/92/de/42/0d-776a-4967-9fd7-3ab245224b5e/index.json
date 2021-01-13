@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "92de420d-776a-4967-9fd7-3ab245224b5e",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about the Suspended Particulate Matter?<br />\n<ol>\n<li>These consist of solid particles only that remain suspended in the air</li>\n<li>These particles can be removed by wet scrubbers</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "Suspended Particulate Matters are the hazardous substances that includes solid and liquid particles being suspended in the air. These includes both organic and inorganic matters. Wet scrubbers can remove the SPMs as the particles are dissolved in the liquid and ultimately released to be reused."
+}

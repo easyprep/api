@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:40:06.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "ee8eaa86-e01f-42ff-8051-f5adf4a84c8d",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following pairs of tectonic landforms is/are correctly matched?<br />\n<ol>\n<li>Rift valley – Linear lowland created by a tectonic rift or fault</li>\n<li>Sand boil – A cone of sand formed by the ejection of sand onto a surface from a central point by water under pressure</li>\n<li>Mid-ocean ridge – Landform created by the eruption of mud or slurries, water and gases</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The underwater mountain system formed by plate tectonic spreading is called the Mid oceanic ridge. They are formed by plate tectonics due to the process of sea floor spreading. They are formed at divergent plate boundaries. They are the longest mountain ranges of the world."
+}

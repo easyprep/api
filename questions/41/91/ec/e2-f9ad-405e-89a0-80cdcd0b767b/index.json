@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "4191ece2-f9ad-405e-89a0-80cdcd0b767b",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about nuclear waste?<br />\n<ol>\n<li>It can be kept underwater permanently for its safe storage</li>\n<li>It does not decay for a long time</li>\n</ol>\nSelect the correct answer from the codes given below",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "Nuclear waste is the waste released from the nuclear reactor. It is the radioactive waste that does not decay for a long period of time. It can be stored underwater temporarily. For its long term safe storage it is to be stored in deep geological formations"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "070ee62b-d8f1-4ef9-a6d7-df1d64455a87",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about blue baby syndrome?",
+  "option1": "It occurs due to excess nitrogen in water",
+  "option2": "It occurs due to excess arsenic in the water",
+  "option3": "It occurs due to presence of cadmium in the water",
+  "option4": "None of the above is true",
+  "option5": "",
+  "answer": "It occurs due to excess nitrogen in water",
+  "explanation": "Blue baby syndrome occurs when excess nitrogen in the water reacts with hemoglobin to form methaemoglobin and impairs oxygen transport. This is called blue baby syndrome."
+}

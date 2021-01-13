@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:56.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "9c145654-5893-483b-b405-310706108de5",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following statements is true about Wildlife Sanctuary/ National Parks?<br />\n<ol>\n<li>They can not be notified by the state government.</li>\n<li>While wildlife sanctuary can be created for a single species, the national park is not for particular species.</li>\n</ol>\nSelect the correct answer from the codes given below",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "Both",
+  "option4": "None",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "Wildlife Sanctuary/National Park can be notified both by state and central government. The basic difference between national park and wildlife sanctuary is that while wildlife sanctuary can be declared for a specific species national park can not be for a single species."
+}

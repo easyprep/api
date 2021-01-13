@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:35.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "3774b904-0034-4f83-9a80-02e7c0430eda",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is the percentage of the population of the age group 20 years and above out of the total population of India (as per the 2011 Census)?",
+  "option1": 0.5929,
+  "option2": 0.6051,
+  "option3": 0.6232,
+  "option4": 0.6503,
+  "option5": "",
+  "answer": 0.5929,
+  "explanation": "The population of the age group 20 years and above out of the total population of India (as per the 2011 Census) is 59.29%."
+}

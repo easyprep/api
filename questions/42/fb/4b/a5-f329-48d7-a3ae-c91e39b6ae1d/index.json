@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:54.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "42fb4ba5-f329-48d7-a3ae-c91e39b6ae1d",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following can be classified under Primary pollutants?<br />\n<ol>\n<li>Plastic</li>\n<li>Sulphur Dioxide</li>\n<li>Nitrogen oxide</li>\n<li>Ozone</li>\n</ol>\nSelect the correct answer from the codes given below-",
+  "option1": "1,2,3,4",
+  "option2": "1,2 and 3 only",
+  "option3": "2,3 and 4 only",
+  "option4": "1 and 4 only",
+  "option5": "",
+  "answer": "1,2 and 3 only",
+  "explanation": "Primary pollutants are those pollutants that effect the environment in their unmodified form. Example- Carbon monoxide, sulphur dioxide, nitrogen oxide etc.<br />Secondary pollutants are those pollutants that effect the environment in their modified forms. Example- Troposphere ozone is formed after the reaction of Volatile Organic Compound and nitrogen oxides."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:13:56.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "df89e358-6101-4dfd-bc92-ed146cd68947",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following is true about Alpha diversity?",
+  "option1": "It is the species diversity within a specified habitat",
+  "option2": "It is the diversity between two communities",
+  "option3": "It is the diversity among two or more ecological communities",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "It is the species diversity within a specified habitat",
+  "explanation": "Alpha diversity is the species diversity that is found within a specified habitat. It is the lowest level of community."
+}

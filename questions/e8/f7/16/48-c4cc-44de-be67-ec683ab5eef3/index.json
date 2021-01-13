@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:45:00.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "e8f71648-c4cc-44de-be67-ec683ab5eef3",
+  "labels": "current-affairs,2020-07-08",
+  "question": "As per the census 2001, the maximum number of urban centers falls under which category of cities specified by the census department?",
+  "option1": "Class I",
+  "option2": "Class II",
+  "option3": "Class IV",
+  "option4": "Class VI",
+  "option5": "",
+  "answer": "Class IV",
+  "explanation": "As per the census 2011, the maximum number of urban centers falls under the Class IV (1660) category. Class IV category population 10,000 to 19,999."
+}

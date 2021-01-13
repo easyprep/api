@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T17:22:55.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "cb0d40d1-b01a-4891-96bc-a47a054f515f",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which among the following lakes do not flow into the sea?",
+  "option1": "Caspian sea",
+  "option2": "Aral sea",
+  "option3": "Black sea",
+  "option4": "Dead sea",
+  "option5": "",
+  "answer": "Black sea",
+  "explanation": "Endorheic basins are basins which have a limited drainage and which normally retains water. It does not allow the outflow to other external bodies like rivers or oceans. <br />Endorheic lakes do not flow into the sea. These include: Dead sea, caspian sea, aral sea , sambhar lake, etc."
+}

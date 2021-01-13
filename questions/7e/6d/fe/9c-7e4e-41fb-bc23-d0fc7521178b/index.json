@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:36:36.000Z",
+  "updated_at": "2021-01-06T08:24:59.355Z",
+  "id": "7e6dfe9c-7e4e-41fb-bc23-d0fc7521178b",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Which of the following statements are matched correctly?<br />1. The area of the highest growth rate of the population - Nagaland<br />2. The area with the lowest sex ratio - Haryana<br />3. The area with the lowest density of population - Rajasthan <br />4. The area with the highest density of population - Delhi<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 4",
+  "explanation": "The area with the lowest density of population is in Arunachal Pradesh."
+}
