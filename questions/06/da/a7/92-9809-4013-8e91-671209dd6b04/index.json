@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-19T05:24:53.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "06daa792-9809-4013-8e91-671209dd6b04",
+  "labels": "current-affairs,2020-07-20",
+  "question": "Which state has announced that its Covid-19 clusters have more than 50% of Community transmission?",
+  "option1": "Maharashtra",
+  "option2": "Kerala",
+  "option3": "Tamil Nadu",
+  "option4": "Karnataka",
+  "option5": "",
+  "answer": "Kerala",
+  "explanation": "The Health Minister of Kerala KK Shailaja has recently announced that the rate of community transmission in Covid-19 clusters in the state is more than 50%.\r\nIn the 84 clusters in the state, local transmission is more than 50%. However, the rate of transmission is less than 10% outside the clusters. The Chief Minister Pinarayi Vijayan also confirmed that community transmission was detected in two coastal villages of Thiruvananthapuram."
+}

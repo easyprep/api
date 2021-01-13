@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:16.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "8ae94a9b-2ece-4b66-845b-3a16b3ee72da",
+  "labels": "current-affairs,2020-07-17",
+  "question": "What is the percentage of milk processed in India?",
+  "option1": 0.1,
+  "option2": 0.15,
+  "option3": 0.25,
+  "option4": 0.35,
+  "option5": "",
+  "answer": 0.35,
+  "explanation": "In spite of a large production base, the level of processing in Indian agriculture is 2%. Approximately 2% of fruits and vegetables, 8% marine, 35% milk, 6% poultry are processed."
+}

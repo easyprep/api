@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:17.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "8fb5e076-9944-482b-a7fd-952795ac7bae",
+  "labels": "current-affairs,2020-07-17",
+  "question": "How may cultivated species contribute to food production globally?",
+  "option1": 200,
+  "option2": 400,
+  "option3": 1000,
+  "option4": 900,
+  "option5": "",
+  "answer": 200,
+  "explanation": "According to FAO's report \"The State of the World’s Biodiversity for Food and Agriculture\", of more than 6,000 plant species cultivated for food production, fewer than 200 contribute significantly to food production globally, regionally or nationally. Only 9 plant species account for almost two-thirds of total crop production."
+}

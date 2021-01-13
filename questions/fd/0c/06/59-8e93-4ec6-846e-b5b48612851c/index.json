@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:17.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "fd0c0659-8e93-4ec6-846e-b5b48612851c",
+  "labels": "current-affairs,2020-07-17",
+  "question": "What is the contribution of food processing industry to Agriculture GVA?",
+  "option1": 0.094,
+  "option2": 0.0839,
+  "option3": 0.081,
+  "option4": 0.0754,
+  "option5": "",
+  "answer": 0.0839,
+  "explanation": "The food processing industry contributes around 8.80 and 8.39 percent of Gross Value Added (GVA) in Manufacturing and Agriculture respectively."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:17.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "238712b6-60a8-419a-b4fa-7a14b23db067",
+  "labels": "current-affairs,2020-07-17",
+  "question": "Which commodity processing can be considered as primary processing?",
+  "option1": "Rice",
+  "option2": "Chocolate",
+  "option3": "Bakery",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Rice",
+  "explanation": "Processing can be delineated into primary and secondary processing. Rice, sugar, edible oil, and flour mills are examples of primary processing. Secondary processing includes the processing of fruits and vegetables, dairy, bakery, chocolates and other items."
+}

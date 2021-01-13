@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:17.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "3f404073-ac25-4dd0-ab6c-d32495bac846",
+  "labels": "current-affairs,2020-07-17",
+  "question": "What is the percentage of processed food industry in the Indin food market?",
+  "option1": 0.32,
+  "option2": 0.1,
+  "option3": 0.5,
+  "option4": 0.46,
+  "option5": "",
+  "answer": 0.32,
+  "explanation": "The Indian food processing industry accounts for 32 percent of the country’s total food market, one of the largest industries in India and is ranked fifth in terms of production, consumption, export and expected growth."
+}

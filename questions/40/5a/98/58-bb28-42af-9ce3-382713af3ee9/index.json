@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:08:52.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "405a9858-bb28-42af-9ce3-382713af3ee9",
+  "labels": "current-affairs,2020-07-17",
+  "question": "Which of the following is correct regarding eNAM?",
+  "option1": "eNAM is a fertilizer distribution app",
+  "option2": "eNAM is a direct benefit transfer scheme for farmers",
+  "option3": "eNAM is an electronic trading portal for farmers",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "eNAM is an electronic trading portal for farmers",
+  "explanation": "National Agriculture Market (eNAM) is a pan-India electronic trading portal which networks the existing APMC mandis to create a unified national market for agricultural commodities."
+}

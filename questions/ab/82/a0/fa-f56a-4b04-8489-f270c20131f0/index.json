@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:08:52.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "ab82a0fa-f56a-4b04-8489-f270c20131f0",
+  "labels": "current-affairs,2020-07-17",
+  "question": "What is the contribution of agriculture to Indian GDP?",
+  "option1": 0.32,
+  "option2": 0.41,
+  "option3": 0.29,
+  "option4": 0.17,
+  "option5": "",
+  "answer": 0.17,
+  "explanation": "The Primary Sector of the economy i.e. Agriculture and the allied sector contributes 17.32% to the Indian GDP. The services sector accounts for 53.66% of total India's. The industrial sector contributes 29.02% ."
+}

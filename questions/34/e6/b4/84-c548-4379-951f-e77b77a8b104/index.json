@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:22:58.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "34e6b484-c548-4379-951f-e77b77a8b104",
+  "labels": "current-affairs,2020-07-17",
+  "question": "Which organization funds Krishi Vignan Kendras?",
+  "option1": "Government of India",
+  "option2": "ICAR",
+  "option3": "NABARD",
+  "option4": "State Government",
+  "option5": "",
+  "answer": "ICAR",
+  "explanation": "Krishi Vignan Kendras are the extension centres providing link between farmers and ICAR. The Indian council for agriculture reasearch(ICAR) funds the Krishi Vignan Kendras."
+}

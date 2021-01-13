@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:17.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "40c343be-4ec1-44f0-a7ea-718a4f611852",
+  "labels": "current-affairs,2020-07-17",
+  "question": "Which among the following is not under the priority sector lending scheme of RBI?",
+  "option1": "Agriculture",
+  "option2": "MSME",
+  "option3": "Food processing",
+  "option4": "Real Estate",
+  "option5": "",
+  "answer": "Real Estate",
+  "explanation": "Priority Sector scheme of RBI includes the following categories:<br />(i) Agriculture<br />(ii) Micro, Small and Medium Enterprises<br />(iii) Export Credit<br />(iv) Education<br />(v) Housing<br />(vi) Social Infrastructure<br />(vii) Renewable Energy<br />(viii) Others<br />The food processing and horticulture comes under agriculture as they are allied activities under agriculture.."
+}

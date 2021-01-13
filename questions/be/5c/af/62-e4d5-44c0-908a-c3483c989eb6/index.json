@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-18T17:57:35.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "be5caf62-e4d5-44c0-908a-c3483c989eb6",
+  "labels": "current-affairs,2020-07-19",
+  "question": "Which of the following statements are correct regarding the state of Assam?<br />1. The province of Assam was created in the year 1911.<br />2. Eleven districts comprising Assam were separated from the Lieutenant Governorship of Bengal and established as an independent administration under a Chief Commissioner in the year 1874.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Assam Province was constituted in the year 1874-1875, when eleven districts comprising it were separated from the Lt. Governorship of Bengal. It was established as an independent administration under a chief commissioner."
+}

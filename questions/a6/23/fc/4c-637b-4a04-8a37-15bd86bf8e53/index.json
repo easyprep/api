@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:16.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "a623fc4c-637b-4a04-8a37-15bd86bf8e53",
+  "labels": "current-affairs,2020-07-17",
+  "question": "What is the quantity of meat processed out of the quantity produced in India?",
+  "option1": "2%`",
+  "option2": 0.01,
+  "option3": 0.05,
+  "option4": 0.07,
+  "option5": "",
+  "answer": 0.01,
+  "explanation": "India's livestock population is largest in the world with 50% of the world's buffaloes and 20% of cattle, but only about 1% of total meat production is converted to value-added products."
+}

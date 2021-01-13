@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:08:53.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "6cf226eb-1fd1-455a-adcf-7587091ca43f",
+  "labels": "current-affairs,2020-07-17",
+  "question": "Who notifies a good as an essential commodity under the essential commodities act, 1955?",
+  "option1": "Parliament",
+  "option2": "State Government",
+  "option3": "Central Government",
+  "option4": "State Legislature",
+  "option5": "",
+  "answer": "Central Government",
+  "explanation": "The central government states a commodity as an essential commodity. When the Centre finds that a certain commodity is in short supply and its price is spiking, it can notify stock-holding limits on it for a specified period."
+}

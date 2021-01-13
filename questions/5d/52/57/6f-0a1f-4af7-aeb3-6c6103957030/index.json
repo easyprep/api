@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T20:10:17.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "5d52576f-0a1f-4af7-aeb3-6c6103957030",
+  "labels": "current-affairs,2020-07-17",
+  "question": "What is the limit of trans fat content in fats and oils?",
+  "option1": 0.1,
+  "option2": 0.05,
+  "option3": 0.25,
+  "option4": 0.19,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "The Food Safety and Standards Authority of India (FSSAI) had notified regulations on Trans fats. The trans fat content in fats and oils has been limited to 5 percent."
+}

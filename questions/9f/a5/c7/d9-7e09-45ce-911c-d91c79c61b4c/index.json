@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-14T14:19:23.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "9fa5c7d9-7e09-45ce-911c-d91c79c61b4c",
+  "labels": "current-affairs,2020-07-15",
+  "question": "Which of the following statements are correct about the Ryotwari settlement?<br />1. The rent was paid directly by the peasants to the Government.<br />2. The Government gave Pattas to the Ryots.<br />3. The lands were surveyed and assessed before being taxed.<br />Select the correct answer from the codes given below:",
+  "option1": "1 only",
+  "option2": "1 and 2",
+  "option3": "2 and 3",
+  "option4": "1, 2 and 3",
+  "option5": "",
+  "answer": "1, 2 and 3",
+  "explanation": "Under the Ryotwari system, every registered holder of land was recognised as its proprietor and paid directly to the government. The registered agreement called pattas were given to the Ryots to recognize their ownership rights. The lands were surveyed and assessed before being taxed."
+}

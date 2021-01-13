@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-16T12:15:22.000Z",
+  "updated_at": "2021-01-06T08:25:01.106Z",
+  "id": "c3bcd49e-e994-4620-b06c-65761451a932",
+  "labels": "current-affairs,2020-07-17",
+  "question": "Which nation's benchmark index is \"S&amp;P/TSX Composite Index\"?",
+  "option1": "USA",
+  "option2": "India",
+  "option3": "United Kingdom",
+  "option4": "Canada",
+  "option5": "",
+  "answer": "Canada",
+  "explanation": "S&amp;P/TSX Composite Index is the benchmark index of Canada. It holds 70% of the total market capitalization on the Toronto Stock Exchange. It is the world's fourth-largest exchange by the market cap."
+}
