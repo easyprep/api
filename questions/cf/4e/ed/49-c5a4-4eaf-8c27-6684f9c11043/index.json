@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:37.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "cf4eed49-c5a4-4eaf-8c27-6684f9c11043",
+  "labels": "current-affairs,2020-07-06",
+  "question": "As per the national forest policy of 1952, what percent of the geographical area should be under forest cover?",
+  "option1": 0.33,
+  "option2": 0.25,
+  "option3": 0.18,
+  "option4": 0.13,
+  "option5": "",
+  "answer": 0.33,
+  "explanation": "As per the national forest policy of 1952, 33% of the total geographical area should be under forest cover to maintain the ecological balance."
+}

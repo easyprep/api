@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:37.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "bfcb3bc6-91b9-4b25-a3ed-f48da18e8216",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Which among the following statements about the national park are correct?<br />1. It is a large area of one or more ecosystems<br />2. It is used for conservation purpose and for special scientific education<br />3. It is dedicated to one particular species<br />4. Human intervention is prohibited<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 3",
+  "option3": "1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 4",
+  "explanation": "National Park is a large area of one or more ecosystems. It is used for conservation purposes and for special scientific education. Human intervention is prohibited inside a national park."
+}

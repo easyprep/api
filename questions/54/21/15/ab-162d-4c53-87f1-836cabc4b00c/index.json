@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:00:13.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "542115ab-162d-4c53-87f1-836cabc4b00c",
+  "labels": "current-affairs,2020-07-08",
+  "question": "What of the following are the chief cause of low yields of crops in India? <br />1. The small size of holdings<br />2. Traditional methods of farming<br />3. Mass illiteracy among farmers<br />4. Low level of farm mechanization<br />Choose the correct option from the codes given below:",
+  "option1": "1 & 2",
+  "option2": "1, 2 & 4",
+  "option3": "2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2 & 4",
+  "explanation": "Reasons for the low productivity in India:<br />The average size of land holdings is very small (&lt; 2 hectares).<br />Inadequate use of technology.<br />Inadequate infrastructure and services.<br />Lack of proper government policy and irrigation facilities."
+}

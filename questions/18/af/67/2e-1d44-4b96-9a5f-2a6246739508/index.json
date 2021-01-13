@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:56:42.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "18af672e-1d44-4b96-9a5f-2a6246739508",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Arrange the following soil as per the descending order of their percentage of area cover?<br />1. Black Soil<br />2. Laterite Soil<br />3. Red Soil<br />4. Alluvial Soil<br />Choose the correct option from the codes given below :",
+  "option1": "4, 3, 1, 2",
+  "option2": "2, 3, 1, 4",
+  "option3": "3, 2, 1, 4",
+  "option4": "4, 1, 3, 2",
+  "option5": "",
+  "answer": "4, 3, 1, 2",
+  "explanation": "The correct descending order of the soils are- Alluvial soil (43.36%), Red Soil (18.49%), Black Soil (15.09%), Laterite Soil (4.42%)."
+}

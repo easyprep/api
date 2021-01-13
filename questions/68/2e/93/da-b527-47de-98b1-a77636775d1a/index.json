@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:00:15.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "682e93da-b527-47de-98b1-a77636775d1a",
+  "labels": "current-affairs,2020-07-08",
+  "question": "A farmer has been using excess quantities of chemical fertilizers for a long time. The crop yield began to reduce in spite of using chemical fertilizers. Which of the following could be the possible reasons and solutions?<br />1. The soil has become more acidic<br />2. The soil has become more alkaline<br />3. The yield can be improved by adding slaked lime to the soil<br />4. The yield can be improved by adding some organic matter<br />5. The yields can be improved by adding common salt<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1 & 3",
+  "option3": "1, 3 & 4",
+  "option4": "2, 3 & 5",
+  "option5": "",
+  "answer": "1 & 3",
+  "explanation": "The use of excessive quantities of chemical fertilizers for a long time makes the soil acidic. Lime can be used to increase the pH of the soil."
+}

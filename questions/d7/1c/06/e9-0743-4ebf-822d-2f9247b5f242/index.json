@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T22:05:45.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "d71c06e9-0743-4ebf-822d-2f9247b5f242",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent of the total electricity is produced by the Thermal Power Plant in India?",
+  "option1": 0.7,
+  "option2": 0.62,
+  "option3": 0.53,
+  "option4": 0.45,
+  "option5": "",
+  "answer": 0.7,
+  "explanation": "A thermal power station generates electrical energy by driving a turbine through hot steam. About 70% of the total electricity is produced by the Thermal Power Plant in India."
+}

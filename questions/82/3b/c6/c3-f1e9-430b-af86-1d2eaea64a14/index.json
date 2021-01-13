@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:35.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "823bc6c3-f1e9-430b-af86-1d2eaea64a14",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Which among the following statements are correct?<br />1. National parks are a special category of protected areas of land and sea coasts where people are an integral part of the system<br />2. Sanctuaries are concerned with the conservation of particular species<br />3. Biosphere reserves are connected with the habitat of a particular wild animal<br />Choose the correct option from the codes given below :",
+  "option1": "2 only",
+  "option2": "1 & 2",
+  "option3": "1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "2 only",
+  "explanation": "A national park is used for conservation purposes.  The biosphere is termed as the global ecological system integrating all living beings and their relationships, including their interaction with the elements of the lithosphere, geosphere, hydrosphere, and atmosphere."
+}

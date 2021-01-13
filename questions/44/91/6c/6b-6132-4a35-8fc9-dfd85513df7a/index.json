@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T22:05:45.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "44916c6b-6132-4a35-8fc9-dfd85513df7a",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Which among the following is/ are used as a fuel in thermal power plant?<br />1. Coal<br />2. Natural Gas<br />3. Petroleum<br />Choose the correct option from the codes given below :",
+  "option1": "1 only",
+  "option2": "1 & 2",
+  "option3": "1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Coal, Natural Gas and Petroleum is used to generate electric energy in Thermal power plant."
+}

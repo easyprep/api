@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:20:43.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "24e5fc52-2b33-4bc2-b77a-ea8eba18baa8",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent of the total geographical area of India is cover by the Thar desert?",
+  "option1": 0.0132,
+  "option2": 0.0253,
+  "option3": 0.035,
+  "option4": 0.05,
+  "option5": "",
+  "answer": 0.05,
+  "explanation": "About 5% of the total geographical area of India is cover by the Thar desert. The state of Rajasthan has more than 60% of the desert."
+}

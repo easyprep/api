@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:24:18.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "e2161c51-5538-4bfa-9c89-c62ec6ed012d",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent of the total geographical area of India is under Mangrove cover?",
+  "option1": 0.0015,
+  "option2": 0.005,
+  "option3": 0.013,
+  "option4": 0.021,
+  "option5": "",
+  "answer": 0.0015,
+  "explanation": "About 0.15% of the total geographical area of India is under Mangrove cover. The total mangrove cover in India is 4,975 sq km."
+}

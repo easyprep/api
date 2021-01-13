@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:56:42.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "7412346b-59ed-4e61-af51-d748673d0b5e",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent area of India is affected by soil erosion?",
+  "option1": 0.35,
+  "option2": 0.42,
+  "option3": 0.51,
+  "option4": 0.6,
+  "option5": "",
+  "answer": 0.6,
+  "explanation": "About 60% area of India is affected by soil erosion. The important agent of soil erosion is water."
+}

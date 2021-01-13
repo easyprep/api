@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-07T16:00:16.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "09a544d2-f337-48b0-9904-2470f8984ecf",
+  "labels": "current-affairs,2020-07-08",
+  "question": "Arrange the following states as per the descending order of their percentage of silk production<br />1. Andhra Pradesh<br />2. Tamil Nadu<br />3. Karnataka<br />4. West Bengal<br />Choose the correct option from the codes given below :",
+  "option1": "3, 2, 1, 4",
+  "option2": "2, 1, 4, 3",
+  "option3": "3, 1, 4, 2",
+  "option4": "2, 3, 1, 4",
+  "option5": "",
+  "answer": "3, 1, 4, 2",
+  "explanation": "The correct descending order- Karnataka (65%), Andhra Pradesh (17%), West Bengal (8%), Tamil Nadu (5%)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:42:39.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "2941bedb-1c43-41cf-92f9-6a1be252fe66",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent of the total area of India is occupied by the river Ganga?",
+  "option1": 0.0587,
+  "option2": 0.1062,
+  "option3": 0.213,
+  "option4": 0.263,
+  "option5": "",
+  "answer": 0.263,
+  "explanation": "About 26.3% area of the total area of India is occupied by the river Ganga. The total length of the river Ganga is about 2500 kilometers."
+}

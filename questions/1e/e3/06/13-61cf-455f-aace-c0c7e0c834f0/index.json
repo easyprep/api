@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:38.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "1ee30613-61cf-455f-aace-c0c7e0c834f0",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Mangrove cover in India has increased by what percent as per ISFR 2019?",
+  "option1": 0.0056,
+  "option2": 0.011,
+  "option3": 0.0267,
+  "option4": 0.0523,
+  "option5": "",
+  "answer": 0.011,
+  "explanation": "Mangrove cover in India has increased by 1.10% (54 sq.km.)."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:24:19.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "1703f517-0ceb-4da2-bd0a-89c60b927d40",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent of the Sundarban mangrove cover is under the territory of India?",
+  "option1": 0.2,
+  "option2": 0.32,
+  "option3": 0.4,
+  "option4": 0.6,
+  "option5": "",
+  "answer": 0.4,
+  "explanation": "About 40% of the Sundarban mangrove cover is under the territory of India (4,260 sq. km.). And the rest 60% is under Bangladesh (6,017 sq. km.)."
+}

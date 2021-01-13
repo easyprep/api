@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:42:38.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "f5ad04b5-1cb0-4553-bd65-eb50253a1335",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent of the total drainage area of India is occupied by the major river basin?",
+  "option1": 0.5,
+  "option2": 0.62,
+  "option3": 0.84,
+  "option4": 0.91,
+  "option5": "",
+  "answer": 0.84,
+  "explanation": "About 84% of the total drainage area of India is occupied by the major river basin."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:56:41.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "13953ad9-6cb0-4d4c-a554-e71b7df53f4e",
+  "labels": "current-affairs,2020-07-06",
+  "question": "For which among the following reason, the water holding capacity of the clayey soil is more than sandy soil?<br />1. Space between clay particles is wider<br />2. The surface of the clay particle is more<br />3. Space between sand particles is wider<br />4. Clay particle has the ability to absorb more water<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "2 & 3",
+  "option3": "3 & 4",
+  "option4": "1 & 3",
+  "option5": "",
+  "answer": "3 & 4",
+  "explanation": "The ability of a soil to absorb water depends on its permeability and surface area. The sandy soil has low water holding capacity because the space between sand particles is wider."
+}

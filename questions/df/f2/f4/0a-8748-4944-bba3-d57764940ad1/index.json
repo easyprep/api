@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:37.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "dff2f40a-8748-4944-bba3-d57764940ad1",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Which among the following matches of type of forests and the amount of rainfall are correct?<br />1. Evergreen forest- Above 200 cm<br />2. Monsoon forest- 100-200 cm<br />3. Dry forest- 50-100 cm<br />4. Desert forest- Below 50<br />Choose the correct option from the codes given below :",
+  "option1": "1 & 2",
+  "option2": "1 & 4",
+  "option3": "3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The correct pairs are Evergreen forest- Above 200 cm, Monsoon forest- 100-200 cm, Dry forest- 50-100 cm, Desert forest- Below 50."
+}

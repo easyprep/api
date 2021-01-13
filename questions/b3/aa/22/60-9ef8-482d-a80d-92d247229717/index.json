@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:38.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "b3aa2260-9ef8-482d-a80d-92d247229717",
+  "labels": "current-affairs,2020-07-06",
+  "question": "What percent of the geographical area of India is covered under dense forest?",
+  "option1": 0.0302,
+  "option2": 0.0519,
+  "option3": 0.0715,
+  "option4": 0.0982,
+  "option5": "",
+  "answer": 0.0302,
+  "explanation": "3.02% of the geographical area of India is covered under dense forest. 9.38% is the moderately dense forest and 9.26% is open forest."
+}

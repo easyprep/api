@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:35.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "261a62cc-f3f1-433e-99f3-e3d167e20406",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Arrange the following tropical forest groups in the correct descending order of their covered area: <br />1. Moist deciduous<br />2. Dry deciduous<br />3. Wet evergreen<br />4. Semi-evergreen<br />Choose the correct option from the codes given below :",
+  "option1": "2, 1, 3, 4",
+  "option2": "1, 2, 3, 4",
+  "option3": "3, 1, 2, 4",
+  "option4": "4, 2, 3, 1",
+  "option5": "",
+  "answer": "1, 2, 3, 4",
+  "explanation": "Correct descending order Moist deciduous, Dry deciduous, Wet evergreen, Semi-evergreen"
+}

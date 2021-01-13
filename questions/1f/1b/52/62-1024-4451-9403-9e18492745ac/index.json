@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:38.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "1f1b5262-1024-4451-9403-9e18492745ac",
+  "labels": "current-affairs,2020-07-06",
+  "question": "As per the India State of Forest Report (ISFR) what percent of the total geographical area of India is covered with forest and tree?",
+  "option1": 0.2167,
+  "option2": 0.2456,
+  "option3": 0.2915,
+  "option4": 0.3312,
+  "option5": "",
+  "answer": 0.2456,
+  "explanation": "As per the India State of Forest Report (ISFR) 24.56% of the total geographical area of India is covered with forest and tree (8,07,276 sq. km.). The tree cover of the country is 2.89% of the total geographical area."
+}

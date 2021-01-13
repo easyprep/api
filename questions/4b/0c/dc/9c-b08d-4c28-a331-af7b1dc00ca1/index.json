@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T19:52:36.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "4b0cdc9c-b08d-4c28-a331-af7b1dc00ca1",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Which of the following states has the largest percentage of forest area cover to its total land area?",
+  "option1": "Madhya Pradesh",
+  "option2": "Sikkim",
+  "option3": "Arunachal Pradesh",
+  "option4": "Mizoram",
+  "option5": "",
+  "answer": "Mizoram",
+  "explanation": "As per the 2011 Forest Survey of India, Mizoram has the highest percentage area (90.68%) covered by forests."
+}

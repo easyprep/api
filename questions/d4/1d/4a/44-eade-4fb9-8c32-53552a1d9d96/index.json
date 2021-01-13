@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T22:05:45.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "d41d4a44-eade-4fb9-8c32-53552a1d9d96",
+  "labels": "current-affairs,2020-07-06",
+  "question": "Which of the following is the correct sequence of energy sources in order of their share in the power sector in India",
+  "option1": "Nuclear > hydro > wind > thermal",
+  "option2": "Thermal > nuclear > hydro > wind",
+  "option3": "Thermal > hydro > nuclear > wind",
+  "option4": "Hydro > nuclear > thermal > wind",
+  "option5": "",
+  "answer": "Thermal > nuclear > hydro > wind",
+  "explanation": "The correct order is Thermal &gt; nuclear &gt; hydro &gt; wind."
+}

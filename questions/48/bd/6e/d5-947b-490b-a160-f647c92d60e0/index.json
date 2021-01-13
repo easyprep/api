@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-05T17:56:41.000Z",
+  "updated_at": "2021-01-06T08:24:58.553Z",
+  "id": "48bd6ed5-947b-490b-a160-f647c92d60e0",
+  "labels": "current-affairs,2020-07-06",
+  "question": "The alluvial soil covers what percent of the total area of India?",
+  "option1": 0.4336,
+  "option2": 0.3215,
+  "option3": 0.2152,
+  "option4": 0.1525,
+  "option5": "",
+  "answer": 0.4336,
+  "explanation": "The alluvial soil covers about 43.36% (143.1 million sq. km.) of the total area of India. It mainly occurs in the northern plain (Sutlej, Brahmaputra and Ganga plain)."
+}
