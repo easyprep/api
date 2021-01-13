@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:32:55.290Z",
+  "updated_at": "2021-01-09T03:32:55.290Z",
+  "id": "0a0ab5af-10b5-44fd-87d9-9de04b252ba7",
+  "labels": "general-knowledge,indian-politics",
+  "question": "The members of the Rajya Sabha are elected by",
+  "option1": "the people",
+  "option2": "Lok Sabha",
+  "option3": "elected members of the legislative assembly",
+  "option4": "elected members of the legislative council",
+  "option5": "",
+  "answer": "elected members of the legislative assembly",
+  "explanation": "Members of Rajya Sabha are elected by the elected members of the Assemblies of States and Union territories in accordance with the system of proportional representation by means of the single transferable vote.\n\nRef: http://rajyasabha.nic.in/rsnew/faq/freaq1.asp",
+  "undefined": ""
+}
