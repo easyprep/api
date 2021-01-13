@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:48.793Z",
+  "id": "32013497-70f2-4185-b0dc-ddd110f23389",
+  "labels": "current-affairs,2017-07-01",
+  "question": "Which of the following government applications has won the GSMA Asia Mobile Award 2017?",
+  "option1": "eVIN",
+  "option2": "MyGov",
+  "option3": "Pinakin",
+  "option4": "CBEC Mitra",
+  "option5": "",
+  "answer": "eVIN",
+  "explanation": "Union Health Ministry's mobile app Electronic Vaccine Intelligence Network (EVIN) wins GSMA Asia Mobile Award recently. The Electronic Vaccine Intelligence Network (EVIN) is an online real-time vaccine logistics management system developed and implemented by the Ministry of Health and the United Nations Development Programme (UNDP).",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:42.173Z",
+  "id": "c1fe8d0a-6692-42c2-8d82-2d19ba9fba8c",
+  "labels": "current-affairs,2017-06-28",
+  "question": "Which company acquired Senso Motoric Instruments (SMI) recently?",
+  "option1": "Nokia",
+  "option2": "Apple",
+  "option3": "HP",
+  "option4": "Volfoni",
+  "option5": "",
+  "answer": "Apple",
+  "explanation": "Apple acquired Senso Motoric Instruments (SMI) according to a report from MacRumors, it is specialized in eye-tracking technology. SMI has also offered eye-trackers for desktop applications as well as measurement-only head-worn devices for data collection and analysis.",
+  "verified_at": ""
+}

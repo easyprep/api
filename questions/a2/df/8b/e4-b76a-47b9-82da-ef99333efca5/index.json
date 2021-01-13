@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:53.719Z",
+  "id": "a2df8be4-b76a-47b9-82da-ef99333efca5",
+  "labels": "current-affairs,2017-05-03",
+  "question": "Which rocket lands in Florida, US after military satellite?",
+  "option1": "Lergo",
+  "option2": "Chandrayaan",
+  "option3": "Mangalyaan",
+  "option4": "Falcon 9",
+  "option5": "",
+  "answer": "Falcon 9",
+  "explanation": "SpaceX successfully landed its Falcon 9 rocket on solid ground after launching the vehicle from Cape Canaveral, Florida. It was the 34th mission for SpaceX, but its first flight for the Department of Defense.",
+  "verified_at": ""
+}

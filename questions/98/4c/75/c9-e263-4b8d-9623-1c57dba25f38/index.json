@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:59.044Z",
+  "id": "984c75c9-e263-4b8d-9623-1c57dba25f38",
+  "labels": "current-affairs,2017-06-10",
+  "question": "How many evets are included in the 2020 Olympics, Tokyo?",
+  "option1": 20,
+  "option2": 19,
+  "option3": 15,
+  "option4": 13,
+  "option5": "",
+  "answer": 15,
+  "explanation": "The International Olympic Committee's (IOC) Executive Board added 15 new events for the 2020 Olympics to be held in Tokyo. It would include 321 events, up from 306 at Rio 2016.",
+  "verified_at": ""
+}

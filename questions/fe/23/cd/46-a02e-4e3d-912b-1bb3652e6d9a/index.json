@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:37.082Z",
+  "id": "fe23cd46-a02e-4e3d-912b-1bb3652e6d9a",
+  "labels": "current-affairs,2017-06-26",
+  "question": "Which coutry's scientists designed the world's most powerful submarine detector?",
+  "option1": "United States of America",
+  "option2": "Japan",
+  "option3": "China",
+  "option4": "India",
+  "option5": "",
+  "answer": "China",
+  "explanation": "Chinese scientists have claimed a major breakthrough in magnetic detection technology which could find hidden metallic objects, including minerals and submarines. It works from the air, could be used to pinpoint the location of minerals buried deep beneath the earth in Inner Mongolia, for example, with a level of precision as high as anything currently available around the world, the experts were quoted as saying by the report.",
+  "verified_at": ""
+}

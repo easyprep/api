@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:54.460Z",
+  "id": "c1fd9939-df36-4542-a49a-05e1016f9edd",
+  "labels": "current-affairs,2017-06-08",
+  "question": "This bank opens APIs for a hackathon, Code for Bank, to tap into the larger developer talent pool for new tech innovations.",
+  "option1": "Union Bank of India",
+  "option2": "Corporation Bank",
+  "option3": "State Bank of India",
+  "option4": "Indian Bank",
+  "option5": "",
+  "answer": "State Bank of India",
+  "explanation": "State Bank of India has opened up their APIs (Application program interface) for a hackathon, Code for Bank, to tap into the larger developer talent pool for new tech innovations. This hackathon, supported by online platform for hackers HackerEarth, is open to developers and startups from India with the idea of taking the platform to global developers in the near future.",
+  "verified_at": ""
+}

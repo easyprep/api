@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-24T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:13.588Z",
+  "id": "c02d22cc-20fd-447e-9e6c-a28b1c6c752b",
+  "labels": "current-affairs,2017-05-24",
+  "question": "Which app is launched by the Union Minister Piyush Goyal to monitor the coal dispatch?",
+  "option1": "URJA",
+  "option2": "Vidhyut Pravah",
+  "option3": "SEVA",
+  "option4": "GARV-II",
+  "option5": "",
+  "answer": "SEVA",
+  "explanation": "The Coal Minister Piyush Goyal launched the Saral Eindhan Vitaran Application (SEVA) the mobile app and the online dashboard monitor the movement of coal from mines allocated to the power sector. The app tracks coal dispatch to 118 power plants through fuel supply agreement (FSA) of around 500 MT.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:57.413Z",
+  "id": "ac904719-8ae4-4910-9ae9-cd8a845a097d",
+  "labels": "current-affairs,2017-05-19",
+  "question": "Which country is topped in the International Cricket Council test team rankings?",
+  "option1": "South Africa",
+  "option2": "New Zealand",
+  "option3": "Australia",
+  "option4": "India",
+  "option5": "",
+  "answer": "India",
+  "explanation": "India hold on to top spot in ICC Test rankings with 123 points. Australia has been placed at the third place with 100 points followed by England at 4th (99 points), New Zealand at 5th (97 points), Pakistan at 6th (93 points), Sri Lanka at 7th (91 points).",
+  "verified_at": ""
+}

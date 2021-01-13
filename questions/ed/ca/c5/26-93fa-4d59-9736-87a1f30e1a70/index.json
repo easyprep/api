@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:39.423Z",
+  "id": "edcac526-93fa-4d59-9736-87a1f30e1a70",
+  "labels": "current-affairs,2017-06-27",
+  "question": "Which feature opportunity did Mars Rover finds evidence recently?",
+  "option1": "Ancient Planet",
+  "option2": "Ancient Lake",
+  "option3": "Ancient satellite",
+  "option4": "Ancient Eroded Valley",
+  "option5": "",
+  "answer": "Ancient Lake",
+  "explanation": "NASA's Opportunity Mars rover is examining the edge of a crater on the red planet that may once have been a lake of liquid water. It found rocks at the edge of Endeavour Crater that were either transported by a flood or eroded in place by wind. The Opportunity mission has been investigating sites on and near the western rim of Endeavour Crater since 2011.",
+  "verified_at": ""
+}

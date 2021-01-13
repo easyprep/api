@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:24.833Z",
+  "id": "8c9945c1-b0a3-4c14-8b1c-e104ae146ad7",
+  "labels": "current-affairs,2017-05-27",
+  "question": "Which university honoured the Mark Zuckerberg with doctorate degree?",
+  "option1": "Harvard University",
+  "option2": "University of Cambridge",
+  "option3": "National University of Singapore",
+  "option4": "University of Oxford",
+  "option5": "",
+  "answer": "Harvard University",
+  "explanation": "Harvard University honoured the Mark Zuckerberg with doctorate degree. He dropped out of the Ivy League school to focus on Facebook. He started Facebook in his Harvard dorm room in 2004.",
+  "verified_at": ""
+}

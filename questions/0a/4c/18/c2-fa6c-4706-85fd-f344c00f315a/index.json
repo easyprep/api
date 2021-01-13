@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:25.093Z",
+  "id": "0a4c18c2-fa6c-4706-85fd-f344c00f315a",
+  "labels": "current-affairs,2017-06-21",
+  "question": "With which company IDBI Federal Life Insurance partnered to facilitate in computing and invoicing of debit tax and credit tax?",
+  "option1": "HCL Technologies",
+  "option2": "Oracle",
+  "option3": "SunTec Business Solutions",
+  "option4": "Netsuite",
+  "option5": "",
+  "answer": "SunTec Business Solutions",
+  "explanation": "IDBI Federal Life Insurance partnered with SunTec company. Under the agreement, for the debt tax mandate, SunTec will help in analyzing data from various sources for computation and invoicing purposess.",
+  "verified_at": ""
+}

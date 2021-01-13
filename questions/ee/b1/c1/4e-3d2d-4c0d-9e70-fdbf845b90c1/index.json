@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:54.469Z",
+  "id": "eeb1c14e-3d2d-4c0d-9e70-fdbf845b90c1",
+  "labels": "current-affairs,2017-06-08",
+  "question": "Which bank introduced charges on UPI recently?",
+  "option1": "SBI",
+  "option2": "Kotak Mahindra",
+  "option3": "Axis",
+  "option4": "HDFC",
+  "option5": "",
+  "answer": "HDFC",
+  "explanation": "HDFC Bank has introduced charges on UPI. These charges make small value payments over UPI more expensive than those on national electronic fund transfer (NEFT). Transactions from Rs 1 to Rs 25,000 will be charged Rs 3 plus taxes while those above Rs 25,000 to Rs 1 lakh will be charged Rs 5. As against this the NEFT charges are Rs 2.5 for transactions up to Rs 10,000 and Rs 5 for transactions above Rs 10,000. It will be charged from July 10.",
+  "verified_at": ""
+}

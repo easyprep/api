@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-17T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:30.102Z",
+  "id": "b7809ed9-292b-464f-b717-56a2de8efabe",
+  "labels": "current-affairs,2017-05-17",
+  "question": "Which city airport has been crowned the world's busiest among the single-runway facilities?",
+  "option1": "Chennai",
+  "option2": "Delhi",
+  "option3": "Mumbai",
+  "option4": "Goa",
+  "option5": "",
+  "answer": "Mumbai",
+  "explanation": "GVK group's Mumbai airport has been crowned the world's busiest among the single-runway facilities which handle 757 flights a day. Mumbai airport flew 45.2 million people in 2017. Of this, 12.4 million were international travellers. Mumbai handled only 18.6% of total air traffic in the country.",
+  "verified_at": ""
+}

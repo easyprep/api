@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:01.191Z",
+  "id": "5cb802d0-2153-4282-abe0-ddefc7bca40a",
+  "labels": "current-affairs,2017-05-20",
+  "question": "What is the position of India in healthcare index according to the Global Burden of Disease Study?",
+  "option1": 114,
+  "option2": 124,
+  "option3": 154,
+  "option4": 144,
+  "option5": "",
+  "answer": 154,
+  "explanation": "India has ranked 154th among 195 countries on healthcare index in Lancet medical journal's report titled 'Global Burden of Disease'. The study points that despite the country's socio-economic development, India has failed to achieve in healthcare goals and the gap between the score and predicted score has widened in the last 25 years.",
+  "verified_at": ""
+}

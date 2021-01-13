@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-29T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:33.503Z",
+  "id": "9ca49dd2-a42f-475f-8547-69884ec11d83",
+  "labels": "current-affairs,2017-04-29",
+  "question": "An android App for the computation of solar energy potential has been developed by?",
+  "option1": "ISRO",
+  "option2": "IIM",
+  "option3": "ITPO",
+  "option4": "MMTC",
+  "option5": "",
+  "answer": "ISRO",
+  "explanation": "An android App for the computation of solar energy potential has been developed by Space Applications Centre (SAC), ISRO, Ahmedabad at the behest of Ministry of New and Renewable Energy, Govt. of India. It provides solar energy potential gives monthly and yearly solar potential processed using Indian Geostationary Satellite data.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:56.569Z",
+  "id": "3bfaa2b7-5df4-4e86-9eb2-92ebeb24c265",
+  "labels": "current-affairs,2017-06-09",
+  "question": "What is the rank of India in terms of internet data speed?",
+  "option1": "52nd",
+  "option2": "65th",
+  "option3": "74th",
+  "option4": "70th",
+  "option5": "",
+  "answer": "74th",
+  "explanation": "India's ranking in terms of data speed also dropped to 74th, below Pakistan and Sri Lanka, as download speed dropped more than one megabit per second in the last six months as traffic has surged post Reliance Jio launch. According to data released by TRAI, India had 217.95 million data subscribers at the end of 2016 while average data usage has risen from 236 MB a month in September to 884 MB in December 2016. While Bharti Airtel tops in download speed, Reliance Jio helped India to rank 15 among 75 countries in the State of LTE report.",
+  "verified_at": ""
+}

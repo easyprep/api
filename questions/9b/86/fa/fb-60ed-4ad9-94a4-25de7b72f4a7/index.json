@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:42.160Z",
+  "id": "9b86fafb-60ed-4ad9-94a4-25de7b72f4a7",
+  "labels": "current-affairs,2017-06-28",
+  "question": "How many billion Euros are fined by the European Union to Google?",
+  "option1": 2.42,
+  "option2": 3,
+  "option3": 5,
+  "option4": 1.58,
+  "option5": "",
+  "answer": 2.42,
+  "explanation": "The European Union's competition watchdog fined Google a record 2.42 Billion Euro for breaching the anti-trust rules by illegally favoring its shopping service.",
+  "verified_at": ""
+}

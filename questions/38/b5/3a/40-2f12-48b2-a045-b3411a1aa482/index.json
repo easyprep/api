@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:25.091Z",
+  "id": "38b53a40-2f12-48b2-a045-b3411a1aa482",
+  "labels": "current-affairs,2017-06-21",
+  "question": "Which airways won the World's Best Airline award?",
+  "option1": "Emirates",
+  "option2": "Qatar Airways",
+  "option3": "Singapore Airlines",
+  "option4": "EVA Air",
+  "option5": "",
+  "answer": "Qatar Airways",
+  "explanation": "Qatar Airways won the wordl's Best Airline title at SKYTRAX 2017 World Airline Awards. Skytrax (originally known as Inflight Research Services) is a United Kingdom-based consultancy which runs an airline and airport review and ranking site.",
+  "verified_at": ""
+}

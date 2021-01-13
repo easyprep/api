@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:37.087Z",
+  "id": "d2fbb7d8-a164-4541-b48d-789e520b8257",
+  "labels": "current-affairs,2017-06-26",
+  "question": "Which organisation made the Satellite-based chip system to alert users at unmanned level crossings?",
+  "option1": "Vikram Sarabhai Space Centre",
+  "option2": "ISRO",
+  "option3": "National environmental engineering research institute",
+  "option4": "National Geophysics Research Institute",
+  "option5": "",
+  "answer": "ISRO",
+  "explanation": "ISRO-made system to alert users at unmanned level crossings. The Satellite-based chip systems will now alert road users at unmanned level crossings about approaching trains and also help in tracking train movement on a real-time basis. Road users will be warned by hooters once a train approaches an unmanned level crossing as railways are installing ISRO-developed integrated circuit (IC) chips on locomotives of trains.",
+  "verified_at": ""
+}

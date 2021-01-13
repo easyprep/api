@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:42.684Z",
+  "id": "9a9150de-6bd8-4f0e-86ac-668189f40da5",
+  "labels": "current-affairs,2017-06-03",
+  "question": "Indian Institute of Technology, Kharagpur has recently developed a wireless technology for _________.",
+  "option1": "Police",
+  "option2": "Engineer",
+  "option3": "Lawyer",
+  "option4": "Doctor",
+  "option5": "",
+  "answer": "Doctor",
+  "explanation": "Indian Institute of Technology, Kharagpur has come up with a wireless technology for remote monitoring of patients' condition ferried in ambulances. Christened 'AmbuSens', the technology has been developed in the SWAN lab of the Department of Computer Science and Engineering (CSE) of the institute. It is is capable of wireless monitoring of various physiological parameters like ECG, heart-rate, temperature and blood-pressure.",
+  "verified_at": ""
+}

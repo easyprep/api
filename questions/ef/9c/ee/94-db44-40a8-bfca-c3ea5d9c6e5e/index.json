@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:08.131Z",
+  "id": "ef9cee94-db44-40a8-bfca-c3ea5d9c6e5e",
+  "labels": "current-affairs,2017-05-09",
+  "question": "Which company signs MoU with Jharkhand for cloud-based citizen services?",
+  "option1": "Oracle",
+  "option2": "IBM",
+  "option3": "Wipro",
+  "option4": "Tata Consultancy",
+  "option5": "",
+  "answer": "Oracle",
+  "explanation": "Jharkhand and Oracle signed a Memorandum of Understanding (MoU) to improve cloud-based citizen services and to make Jharkhand an attractive destination for start-ups. Oracle's cloud services will be used to support the State by providing transparent governance and adding the tech giant's expertise in areas of ICT infrastructure, real estate, health, education, housing for Ranchi smart city project.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:59.051Z",
+  "id": "6afd3154-8b87-4902-83f9-df1df137f1f5",
+  "labels": "current-affairs,2017-06-10",
+  "question": "Which of the following company launched the BaNCS app to help banks?",
+  "option1": "Tata Consultancy Services",
+  "option2": "Wipro",
+  "option3": "Infosys",
+  "option4": "Tech Mahindra",
+  "option5": "",
+  "answer": "Tata Consultancy Services",
+  "explanation": "Tata Consultancy Services (TCS) has announced the launch of the BaNCS app development kit that will help financial institutions develop their own apps and deploy it across devices. It aims to expand to become a chief deliverer of core systems for banking, insurance and capitals markets industries worldwide.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:28.299Z",
+  "id": "569e09f2-734c-469c-be3b-ce56d418f2f5",
+  "labels": "current-affairs,2017-04-27",
+  "question": "AIIMS becomes India's first public hospital for ______ Tumours.",
+  "option1": "Brain",
+  "option2": "Cell",
+  "option3": "Eye",
+  "option4": "Breast",
+  "option5": "",
+  "answer": "Eye",
+  "explanation": "All India Institute of Medical Sciences (AIIMS) is India's first public hospital to start plaque brachytherapy facility for the treatment of eye tumours. The facility is a form of local radiation delivered to the eye through a radioactive device which is attached to the eye for a temporary period of time.",
+  "verified_at": ""
+}

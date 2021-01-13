@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:51.559Z",
+  "id": "0423a8a7-3362-4f09-934b-c449240fb4e5",
+  "labels": "current-affairs,2017-05-02",
+  "question": "What is the name of the web portal launched by the Department of Telecommunications to know the information on Mobile Tower Radiation?",
+  "option1": "EMF",
+  "option2": "NPTEL",
+  "option3": "Tarang Sanchar",
+  "option4": "TAMRA",
+  "option5": "",
+  "answer": "Tarang Sanchar",
+  "explanation": "The Department of Telecommunications has launched 'Tarang Sanchar' web portal for tracking the radiation emitted from mobile towers and check their compliance with the Electromagnetic field (EMF) emission norms defined by the government.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:30.341Z",
+  "id": "3b24408c-62cd-441b-bb58-066581aef1c2",
+  "labels": "current-affairs,2017-06-23",
+  "question": "ISRO's PSLV-C38 can able to carry this much of satellite.",
+  "option1": 30,
+  "option2": 28,
+  "option3": 25,
+  "option4": 31,
+  "option5": "",
+  "answer": 31,
+  "explanation": "Indian Space Research Organisation (ISRO) workhorse rocket Polar Satellite Launch Vehicle (PSLV-38) blasted off from the spaceport carrying the Cartosat-2 series satellite a dedicated satellite for the defense forces along with 30 co-passenger satellites. The 30 satellites will together weigh 243 kg and the total weight of all the 31 satellites, including Cartosat, is about 955 kilograms.",
+  "verified_at": ""
+}

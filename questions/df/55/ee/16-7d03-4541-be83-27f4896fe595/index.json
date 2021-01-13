@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-12T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:15.995Z",
+  "id": "df55ee16-7d03-4541-be83-27f4896fe595",
+  "labels": "current-affairs,2017-05-12",
+  "question": "Which department launched a new e-facility to link a person's Aadhaar with the PAN?",
+  "option1": "Department of Revenue",
+  "option2": "Central Bureau of Narcotics",
+  "option3": "Income Tax department",
+  "option4": "Reserve Bank of India (RBI)",
+  "option5": "",
+  "answer": "Income Tax department",
+  "explanation": "The Income Tax department launched a new e-facility to link a person's Aadhaar with the Permanent Account Number (PAN). The department's e-filing website incometaxindiaefiling.gov.in has created a new link on its homepage making it \"easy\" to link the two unique identities of an individual. It requires a person to punch in his PAN number, Aadhaar number and the \" exact name as given in the Aadhaar card.",
+  "verified_at": ""
+}

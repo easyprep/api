@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:58.121Z",
+  "id": "3a17360b-a61e-4099-860a-5f9a5d8241a4",
+  "labels": "current-affairs,2017-05-05",
+  "question": "What is the total weight of GSAT-9 or the \"South Asia\" satellite?",
+  "option1": "2,320 kg",
+  "option2": "2,230 kg",
+  "option3": "2,130 kg",
+  "option4": "2,310 kg",
+  "option5": "",
+  "answer": "2,230 kg",
+  "explanation": "India launched the Geosynchronous Satellite Launch Vehicle (GSLV-F09) carrying the GSAT-9 or the \"South Asia\" satellite on 5 May with the total weight of 2,230 kg. Initially, it was to be named \"SAARC Satellite\" but its name was changed to South Asia Satellite after Pakistan refused to join the project. It was launched from the Satish Dhawan Space Centre in Sriharikota in Andhra Pradesh. The satellite is meant for providing communication and disaster support and connectivities among the countries of South Asia region.",
+  "verified_at": ""
+}

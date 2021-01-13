@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:21.136Z",
+  "id": "66563d6b-5851-4ece-bd1e-d4a6f0d2acca",
+  "labels": "current-affairs,2017-05-26",
+  "question": "For which bank, the Reserve Bank of India allows mobile wallet?",
+  "option1": "Regional Rural Banks",
+  "option2": "Cooperative Banks",
+  "option3": "Foreign banks",
+  "option4": "None of the Above",
+  "option5": "",
+  "answer": "Cooperative Banks",
+  "explanation": "Reserve Bank of India decided to permit all licensed cooperative banks having their own ATM network to issue semi-closed prepaid payment instruments (PPI)s like mobile wallets. This enlists strict norms and conditions to be followed by cooperative banks before permitting them to issue wallets for utility bill payments and other activities up to a limit of Rs 10,000.",
+  "verified_at": ""
+}

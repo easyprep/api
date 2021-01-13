@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:19.055Z",
+  "id": "9f1ad97d-2685-4ec9-80dd-33ce34b640ab",
+  "labels": "current-affairs,2017-05-13",
+  "question": "What are the names of the two missiles in the Spyder missile?",
+  "option1": "Python and Derby",
+  "option2": "Solid rocket motor",
+  "option3": "Minuteman ICBM",
+  "option4": "Anti tank missile",
+  "option5": "",
+  "answer": "Python and Derby",
+  "explanation": "Surface-to-air PYthon and DERby(Spyder) missile system was test fired from the mobile launching complex-III of the Integrated Test Range (ITR) at Chandipur, Odisha. The defence system comprises two missiles - Python and Derby with an active onboard radar which makes the Spyder system more lethal. Both the missiles are smokeless which makes it harder to detect them visually and the launch position.",
+  "verified_at": ""
+}

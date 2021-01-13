@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:32.769Z",
+  "id": "46de91eb-8af7-4b89-afa2-7094fc279587",
+  "labels": "current-affairs,2017-05-30",
+  "question": "Which malware attacked more than 3.65 crores of Android users through the simple fashion and cooking game apps on the Google Play Store?",
+  "option1": "Ransomware",
+  "option2": "Rootkit",
+  "option3": "Skelky",
+  "option4": "Judy",
+  "option5": "",
+  "answer": "Judy",
+  "explanation": "A malware which is named as 'Judy' has been attacked more than 3.65 crores of Android users through the simple fashion and cooking game apps on the Google Play Store, as per the security company of Check Point. It is an auto-clicking adware found on 41 apps developed by a Korean company, which were available for download on Google Play Store. It generates large amounts of fraudulent clicks on advertisements, generating revenues for the people behind it.",
+  "verified_at": ""
+}

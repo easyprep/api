@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-14T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:08.283Z",
+  "id": "fcc51ef0-1ab5-4ba7-83d3-5b408703581a",
+  "labels": "current-affairs,2017-06-14",
+  "question": "India's first top solar PV System was opened in ______________.",
+  "option1": "Pune",
+  "option2": "Patna",
+  "option3": "Mouda",
+  "option4": "Jaipur",
+  "option5": "",
+  "answer": "Mouda",
+  "explanation": "It is Mouda, the National Thermal Power Corporation (NTPC) developed India's first 150 kW canal top solar PV System on cooling water (CW) channel inside power station premises at its 2,320 MW, Mouda Thermal Power Project. This PV system makes use of side walls of CW channels as load bearing structure thereby significantly decreasing the cost of the civil and mounting structure.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:19.058Z",
+  "id": "dfa3a87e-92b1-42a9-abc8-c8309537f715",
+  "labels": "current-affairs,2017-05-13",
+  "question": "Which organization launched the National Contact Centre with a toll-free No 1800111950?",
+  "option1": "Planning Commission",
+  "option2": "Election Commission of India",
+  "option3": "Aadhaar",
+  "option4": "Reserve Bank of India",
+  "option5": "",
+  "answer": "Election Commission of India",
+  "explanation": "The Election Commission of India launched National Contact Centre with a toll-free No. 1800111950. It is operated on a National Grievance Redressal System Software, a single window platform to manage complaints and feedback received through calls, emails, SMS and website access in an integrated and time-bound manner.",
+  "verified_at": ""
+}

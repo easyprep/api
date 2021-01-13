@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:51.568Z",
+  "id": "9499918b-34a9-46d8-bd45-ba7233306529",
+  "labels": "current-affairs,2017-05-02",
+  "question": "FATCA stands for __________.",
+  "option1": "Fully Authorised Tax Compliance Act",
+  "option2": "Financial Account Transaction Compliance Act",
+  "option3": "Foreign Account Transaction Compliance Act",
+  "option4": "Foreign Account Tax Compliance Act",
+  "option5": "",
+  "answer": "Foreign Account Tax Compliance Act",
+  "explanation": "FATCA stands for Foreign Account Tax Compliance Act. It is an agreement signed between India and United States (US). FATCA compliance is basically a 'self-declaration' to provide details about account holder's tax residency to the financial entity.",
+  "verified_at": ""
+}

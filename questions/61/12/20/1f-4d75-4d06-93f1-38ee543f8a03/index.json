@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:48.905Z",
+  "id": "6112201f-4d75-4d06-93f1-38ee543f8a03",
+  "labels": "current-affairs,2017-05-01",
+  "question": "MIT scientists have designed a robotic system for 3D printing the basic structure of _________.",
+  "option1": "An entire building",
+  "option2": "The human body",
+  "option3": "Computer machine",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "An entire building",
+  "explanation": "MIT scientists have designed a new robotic system that can 3D print the basic structure of an entire building, an advance that would make building houses a faster, less expensive process. The system consists of a tracked vehicle that carries a large, industrial robotic arm, which has a smaller, precision-motion robotic arm at its end.",
+  "verified_at": ""
+}

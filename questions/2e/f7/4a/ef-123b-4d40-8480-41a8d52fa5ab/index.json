@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-14T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:08.265Z",
+  "id": "2ef74aef-123b-4d40-8480-41a8d52fa5ab",
+  "labels": "current-affairs,2017-06-14",
+  "question": "Who permits options trading in commodity futures?",
+  "option1": "The Board for Industrial and Financial Reconstruction (BIFR)",
+  "option2": "The Financial Accounting Standards Board (FASB)",
+  "option3": "The Securities and Exchange Board of India (SEBI)",
+  "option4": "Poverty And Economic Reforms",
+  "option5": "",
+  "answer": "The Securities and Exchange Board of India (SEBI)",
+  "explanation": "The Securities and Exchange Board of India (SEBI) has allowed options trading on futures contract of commodities. It has put in place strict eligibility criteria for the commodity exchanges to start trading in options contract of commodities. The average daily turnover of an underlying futures contract of such commodities in the previous 12 months should be minimum Rs 200 crore for agricultural and agri-processed commodities, and Rs1,000 crore for other commodities.",
+  "verified_at": ""
+}

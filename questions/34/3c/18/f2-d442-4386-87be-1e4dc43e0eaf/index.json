@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:38.296Z",
+  "id": "343c18f2-d442-4386-87be-1e4dc43e0eaf",
+  "labels": "current-affairs,2017-06-01",
+  "question": "Which of the following service was introduced by the Indian Railways for the reservations recently?",
+  "option1": "Reservation booking and refunds of tickets",
+  "option2": "Enquiry and dissemination of information",
+  "option3": "Vikalp Scheme",
+  "option4": "Buy Now, Pay Later",
+  "option5": "",
+  "answer": "Buy Now, Pay Later",
+  "explanation": "The Indian Railways introduced 'Buy Now, Pay Later' service for passengers to book tickets online first and make payment for the reservations within a window of 15 days. It allows passengers to travel after five days of booking the ticket, is available for confirmed, waitlisted, and Reservation Against Cancellation (RAC) berths.",
+  "verified_at": ""
+}

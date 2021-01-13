@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:01.193Z",
+  "id": "b262a864-f88f-4cd1-af9d-5c13db9d9737",
+  "labels": "current-affairs,2017-05-20",
+  "question": "The scientist has discovered the first natural human antibodies aganist ____________ virus.",
+  "option1": "Ectropis",
+  "option2": "Ebola",
+  "option3": "Elapid herpes",
+  "option4": "Ellidaey",
+  "option5": "",
+  "answer": "Ebola",
+  "explanation": "After analysing the blood of a survivor of the 2013-16 Ebola outbreak,a team of scientists from academia, industry and the government has discovered the first natural human antibodies that can neutralize and protect animals against all three major disease-causing ebolaviruses. It could lead to the first broadly effective ebolavirus therapies and vaccines.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:48.912Z",
+  "id": "fec679c7-7780-4e4f-b11d-bfce5981870b",
+  "labels": "current-affairs,2017-05-01",
+  "question": "Which technology is used by the Indian Railways for tracking of wagons, coaches and locomotives to ensure the effective and transparent functioning of the system?",
+  "option1": "RFID",
+  "option2": "Infrared Technology",
+  "option3": "ZigBee Wireless Technology",
+  "option4": "Wi-Fi Technology",
+  "option5": "",
+  "answer": "RFID",
+  "explanation": "Indian Railways is set to make use of the radio-frequency identification tags (RFID) for tracking of wagons, coaches and locomotives to ensure the effective and transparent functioning of the system. For this purpose, the RFID tags have been designed by the Centre for Railway Information System (CRIS) at an estimated cost of Rs 1000 per tag.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:24.869Z",
+  "id": "f782e3b6-4286-41bf-8a42-f8812675cce5",
+  "labels": "current-affairs,2017-06-21",
+  "question": "Which country announced publicly for the first time train that runs on Virtual Tracks?",
+  "option1": "Saudi Arabia",
+  "option2": "Russia",
+  "option3": "China",
+  "option4": "England",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China announced publicly about world's first train that runs on a virtual track making use of sensor technology instead of metal rails. The train is capable of reaching a top speed of 70 kilometers per hour and can travel a distance of 25 km by just charging for 10 minutes. They are fitted with sensors which are capable of detecting the dimensions of the road permitting it to follow the routes without the need for metal rails.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:40.477Z",
+  "id": "c050dff4-d734-43a4-9e71-fe079b479651",
+  "labels": "current-affairs,2017-06-02",
+  "question": "Which country launched a new satellite to improve Global Positioning System?",
+  "option1": "Russia",
+  "option2": "Spain",
+  "option3": "Iraq",
+  "option4": "Japan",
+  "option5": "",
+  "answer": "Japan",
+  "explanation": "Japan launched a new satellite to improve the global positioning system's (GPS) accuracy and establish an efficient communication system in the event of natural disasters. The Japan Aerospace Exploration Agency (JAXA) and Mitsubishi Heavy Industries launched the latest version of the H-IIA rocket with the Michibiki 2 communications satellite on board from the Tanegashima Island space centre in Kagoshima.",
+  "verified_at": ""
+}

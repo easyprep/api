@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:56.557Z",
+  "id": "31f368b8-9a8c-46c4-87b7-a67da9674736",
+  "labels": "current-affairs,2017-06-09",
+  "question": "Which company topped in the Fortune 500 list recently?",
+  "option1": "Amazon",
+  "option2": "Samsung",
+  "option3": "Apple",
+  "option4": "Walmart",
+  "option5": "",
+  "answer": "Walmart",
+  "explanation": "Walmart topped the Fortune's annual list of Americas top 500 companies for the fifth consecutive year with the revenue of $ 485.8 million. Walmart is followed by oil and gas company Exxon Mobil and Apple, the top tech company on the list. While Amazon has been ranked 18th, Facebook has jumped 85 spots to be ranked 157th.",
+  "verified_at": ""
+}

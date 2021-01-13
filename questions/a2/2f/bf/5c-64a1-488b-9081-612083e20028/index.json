@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:11.590Z",
+  "id": "a22fbf5c-64a1-488b-9081-612083e20028",
+  "labels": "current-affairs,2017-05-10",
+  "question": "RBI is going to introduce new batches for settlement of payments through this transaction.",
+  "option1": "RTGS",
+  "option2": "NEFT",
+  "option3": "IMPS",
+  "option4": "Mobile wallet",
+  "option5": "",
+  "answer": "NEFT",
+  "explanation": "The Reserve Bank of India (RBI) will introduce new batches for settlement of payments through the National Electronic Funds Transfer (NEFT) to ensure better service for customers. The aditional 11 settlement batches at half- hourly intervals will be introduced from 10 July, beginning from 8.30 am till 6.30 pm.",
+  "verified_at": ""
+}

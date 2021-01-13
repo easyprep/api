@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:47.469Z",
+  "id": "598e2da1-d397-47af-8c91-6dfa69a303b0",
+  "labels": "current-affairs,2017-06-05",
+  "question": "Which rocket was launched by the Space X recently?",
+  "option1": "Falcon 9",
+  "option2": "Orion",
+  "option3": "Skylab",
+  "option4": "Kilper",
+  "option5": "",
+  "answer": "Falcon 9",
+  "explanation": "SpaceX's Falcon 9 rocket successfully launched a Dragon spacecraft for the company's eleventh Commercial Resupply Services mission (CRS-11) to the International Space Station. This is Space X's 11 mission under a National Aeronautics and Space Administration (NASA) contract.",
+  "verified_at": ""
+}

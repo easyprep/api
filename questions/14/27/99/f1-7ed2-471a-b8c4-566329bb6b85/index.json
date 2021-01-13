@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:47.941Z",
+  "id": "142799f1-7ed2-471a-b8c4-566329bb6b85",
+  "labels": "current-affairs,2017-05-18",
+  "question": "Kotak Mahindra Bank has enabled end to end trade financing for one of its clients by utilising which of the given technology?",
+  "option1": "Artificial Intelligence",
+  "option2": "Oculus Rift",
+  "option3": "Robotics",
+  "option4": "Blockchain",
+  "option5": "",
+  "answer": "Blockchain",
+  "explanation": "The Private sector lender Kotak Mahindra Bank has enabled end to end trade financing for one of its clients by utilising the blockchain technology thereby reducing the time taken for a letter of credit (LC) to few hours from 20 to 30 days. The time involved in completing the process deprives exporters from from utilising their sale proceeds efficiently. In a first of its kind transaction in India, Kotak partnered with Deloitte and used the blockchain technology to complete LC transactions.",
+  "verified_at": ""
+}

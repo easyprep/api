@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:19.060Z",
+  "id": "53b4b5f5-88f5-4eb3-bdd6-ac8e777b71ba",
+  "labels": "current-affairs,2017-05-13",
+  "question": "Which country tests a \"Lunar Palace\" for simulating a lunar-like environment on earth?",
+  "option1": "Japan",
+  "option2": "India",
+  "option3": "China",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China has set up a 160-square-meter (1,720-square-foot) laboratory called as \"Yuegong-1\", or \"Lunar Palace\" for simulating a lunar-like environment to test a life-support system that may allow future astronauts to spend longer periods of time in space.",
+  "verified_at": ""
+}

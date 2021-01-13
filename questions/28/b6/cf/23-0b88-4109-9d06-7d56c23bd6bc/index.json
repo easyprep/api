@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-24T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:13.586Z",
+  "id": "28b6cf23-0b88-4109-9d06-7d56c23bd6bc",
+  "labels": "current-affairs,2017-05-24",
+  "question": "Which city introduced the world's first robot police officer recently?",
+  "option1": "Singapore",
+  "option2": "London",
+  "option3": "Dubai",
+  "option4": "Tokyo",
+  "option5": "",
+  "answer": "Dubai",
+  "explanation": "The world's first operational robot police officer was officially inducted into the Dubai police force at the 4th Gulf Information Security Expo and Conference (GISEC). Robocop 70 inches tall and weighing nearly 220 pounds and can recognize a person's gestures and body language from nearly five feet away.",
+  "verified_at": ""
+}

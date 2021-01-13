@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-06T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:49.995Z",
+  "id": "fe87c06f-d4e6-494f-b127-42438817cf23",
+  "labels": "current-affairs,2017-06-06",
+  "question": "Which bank introduced the 200 solar-powered ATMs?",
+  "option1": "SBI",
+  "option2": "HDFC",
+  "option3": "Axis",
+  "option4": "ICICI",
+  "option5": "",
+  "answer": "ICICI",
+  "explanation": "ICICI Bank commissioned over 200 solar powered ATM sites in the last one year as part of its efforts to reduce carbon footprint and use more clean energy. This reduced its overall energy consumption in large offices and branches from 198 million units in 2013-14 to 164 million units in 2016-17.",
+  "verified_at": ""
+}

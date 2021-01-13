@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:40.462Z",
+  "id": "c1aefe3d-d377-4997-84b8-a04ea18e980b",
+  "labels": "current-affairs,2017-06-02",
+  "question": "What is the name of the third Hole detected by the Laser Interferometer Gravitational-Wave Observatory (LIGO)?",
+  "option1": "GW 150914",
+  "option2": "GW 170104",
+  "option3": "GW 10256",
+  "option4": "GW 36567",
+  "option5": "",
+  "answer": "GW 170104",
+  "explanation": "The Laser Interferometer Gravitational-Wave Observatory (LIGO) in the U.S. detected merger of two black holes. The third Hole named GW170104 marks the detection of gravitational waves coming from a binary black hole merger.",
+  "verified_at": ""
+}

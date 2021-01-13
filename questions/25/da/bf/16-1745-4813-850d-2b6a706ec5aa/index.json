@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:38.288Z",
+  "id": "25dabf16-1745-4813-850d-2b6a706ec5aa",
+  "labels": "current-affairs,2017-06-01",
+  "question": "Which probe does the National Aeronautics and Space Administration (NASA) planned to launch in 2018?",
+  "option1": "Surveyor program",
+  "option2": "Mariner Program",
+  "option3": "Landsat program",
+  "option4": "Parker Solar Probe",
+  "option5": "",
+  "answer": "Parker Solar Probe",
+  "explanation": "The National Aeronautics and Space Administration (NASA) Parker Solar Probe launched in the summer of 2018 to explore the sun's atmosphere. The satellite is named as the Parker Solar Probe in honour of astrophysicist Eugene Parker. This will be NASA's first mission to the sun and its outermost atmosphere corona. The 10-feet high Parker Solar Probe will fly within 6.4 million km of the sun's surface right into the solar atmosphere.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:20.082Z",
+  "id": "5196e028-d875-4476-af42-ad5b596f3971",
+  "labels": "current-affairs,2017-06-19",
+  "question": "For which satellite the Electric Propulsion (EP) technology is used recently?",
+  "option1": "Brahmos - II",
+  "option2": "Agni - III",
+  "option3": "GSLV - III",
+  "option4": "Geostationary Communication satellite (GSAT-9)",
+  "option5": "",
+  "answer": "Geostationary Communication satellite (GSAT-9)",
+  "explanation": "Indian Space Research Organisation (ISRO) working on a new propulsion system known as the Electric Propulsion (EP) system that is set to usher for cost effective satellite launches. This technology was first used as a technology demonstrator in Geostationary Communication satellite (GSAT-9) or the South Asia Satellite.",
+  "verified_at": ""
+}

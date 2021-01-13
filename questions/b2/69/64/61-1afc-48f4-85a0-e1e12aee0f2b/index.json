@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:51.299Z",
+  "id": "b2696461-1afc-48f4-85a0-e1e12aee0f2b",
+  "labels": "current-affairs,2017-07-02",
+  "question": "Which bank going to block all Maestro Debit Cards?",
+  "option1": "Indian Overseas Bank",
+  "option2": "Karnataka Bank",
+  "option3": "Punjab National Bank",
+  "option4": "Canara Bank",
+  "option5": "",
+  "answer": "Punjab National Bank",
+  "explanation": "Punjab National Bank (PNB) Maestro debit cards holders will face a card blockage if they fail to replace it with a more secure EMV chip based card by the end of July. It will not charge anything for the replacement and it will be provided free of cost. As per RBI advisory, existing magnetic stripe only cards need to be replaced with EMV chip and pin based cards by December 31, 2018, irrespective of the validity period of the cards.",
+  "verified_at": ""
+}

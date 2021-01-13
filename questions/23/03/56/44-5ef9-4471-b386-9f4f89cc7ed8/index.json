@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-06T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:20:00.720Z",
+  "id": "23035644-5ef9-4471-b386-9f4f89cc7ed8",
+  "labels": "current-affairs,2017-05-06",
+  "question": "The world's biggest X-ray laser generated its first light in ___________.",
+  "option1": "Italy",
+  "option2": "Denmark",
+  "option3": "Germany",
+  "option4": "Algeria",
+  "option5": "",
+  "answer": "Germany",
+  "explanation": "The world's biggest X-ray laser generated its first light in Hamburg, Germany. It was the \"last major milestone\" for the European X-ray free electron laser (XFEL). The light produced at the European XFEL has a wavelength of about 0.8 nanometers, which is 500 times shorter than visible light wavelength and corresponds to the size of an atom. The repetition rate at first lasing was one pulse a second, but that will eventually go up to 27,000 pulses every second, according to the plan for the facility.",
+  "verified_at": ""
+}

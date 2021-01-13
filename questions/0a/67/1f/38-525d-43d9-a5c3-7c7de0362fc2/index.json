@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:18.406Z",
+  "id": "0a671f38-525d-43d9-a5c3-7c7de0362fc2",
+  "labels": "current-affairs,2017-05-25",
+  "question": "Whicne mobile network started satellite phone service through International Maritime Satellite Organisation?",
+  "option1": "BSNL",
+  "option2": "Airtel",
+  "option3": "Aircel",
+  "option4": "Vodafone",
+  "option5": "",
+  "answer": "BSNL",
+  "explanation": "Bharat Sanchar Nigam Limited (BSNL) started satellite phone service through International Maritime Satellite Organisation (INMARSAT). It opened a new Indian GSPS gateway to enable satellite phone services through Inmarsat's fourth-generation constellation. The service will cover areas where no networks are present and are provided by INMARSAT which has 14 satellite.",
+  "verified_at": ""
+}

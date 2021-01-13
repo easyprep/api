@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:42.163Z",
+  "id": "6a815a37-6f33-4b4e-a692-f35875125549",
+  "labels": "current-affairs,2017-06-28",
+  "question": "Which country test fired a submarine-launched Intercontinental Ballistic Missile?",
+  "option1": "China",
+  "option2": "India",
+  "option3": "Japan",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "Russia",
+  "explanation": "The Russian military has successfully test-fired a submarine-launched Intercontinental Ballistic Missile (IBM). The Yuri Dolgoruky is the first in a series of Borei-class submarines carrying the Bulava.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:10.185Z",
+  "id": "6f5264d3-94f3-4759-8844-5262055d6e05",
+  "labels": "current-affairs,2017-05-23",
+  "question": "Which banks launches the SPOK application to read customer queries?",
+  "option1": "Bank of Baroda",
+  "option2": "HDFC",
+  "option3": "Axis",
+  "option4": "Canara",
+  "option5": "",
+  "answer": "HDFC",
+  "explanation": "HDFC Life launches its first life insurance AI based email bot, named SPOK to automatically read, understand, categorise, prioritise and respond to customer emails that are sent to HDFC Life, within milliseconds. It will enable HDFC Life to respond to user queries faster and more efficiently and consistently.",
+  "verified_at": ""
+}

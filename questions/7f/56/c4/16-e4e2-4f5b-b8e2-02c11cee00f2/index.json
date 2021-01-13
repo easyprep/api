@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:27.467Z",
+  "id": "7f56c416-e4e2-4f5b-b8e2-02c11cee00f2",
+  "labels": "current-affairs,2017-05-28",
+  "question": "Which institute student developed a wearable technology wristband which has significant potential to recognise changes in human emotions, the brain, and human behaviour?",
+  "option1": "Visvesvaraya National Institute of Technology,",
+  "option2": "National Institute of Technology, Calicut.",
+  "option3": "Motilal Nehru National Institute of Technology",
+  "option4": "Massachusetts Institute of Technology",
+  "option5": "",
+  "answer": "Massachusetts Institute of Technology",
+  "explanation": "The wristwatch-like wearable technology was developed by an MIT engineer. It has a significant potential to recognise changes in human emotions, the brain, and human behaviour. The wristband has an automated machine learning method. It can detect compulsive seizures by combining measures of electrodermal activity on the wrist with measures of motion through a response to sweat.",
+  "verified_at": ""
+}

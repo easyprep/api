@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-05-29T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:30.283Z",
+  "id": "b7593e11-d1eb-4476-b065-1af55c16679c",
+  "labels": "current-affairs,2017-05-29",
+  "question": "Which social network awarded 3.25 lakh for the Indian ethical hacker Anand Prakash?",
+  "option1": "Snapchat",
+  "option2": "LiveChat",
+  "option3": "Twitter",
+  "option4": "Facebook",
+  "option5": "",
+  "answer": "Twitter",
+  "explanation": "Indian ethical hacker Anand Prakash awarded with 3.25 lakh by Twitter for discovering a bug that let him tweet from any account on the microblogging platform. The bug also allowed him to post videos, photos and delete the ones already posted from any Twitter account.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:34.768Z",
+  "id": "017ccac3-8014-4d12-a45f-7fb678a2585b",
+  "labels": "current-affairs,2017-06-25",
+  "question": "Which document is not valid for Indians travelling to Nepal and Bhutan?",
+  "option1": "Driving License",
+  "option2": "Income Tax PAN",
+  "option3": "Aadhaar",
+  "option4": "Voter's card",
+  "option5": "",
+  "answer": "Aadhaar",
+  "explanation": "According to the Union home ministry Aadhaar is not a valid identification document for Indians travelling to Nepal and Bhutan. Indians can travel to Nepal and Bhutan-both countries for which they don't need visas-if they possess a valid national passport or election ID card issued by the Election Commission. For ease travelling the persons over 65 and below 15 years can show documents with photographs to confirm their age and identity.",
+  "verified_at": ""
+}

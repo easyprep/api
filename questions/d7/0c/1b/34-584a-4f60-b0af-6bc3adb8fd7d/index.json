@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-06T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:21:49.988Z",
+  "id": "d70c1b34-584a-4f60-b0af-6bc3adb8fd7d",
+  "labels": "current-affairs,2017-06-06",
+  "question": "How many mobile apps are launched by TRAI to help the customers?",
+  "option1": 4,
+  "option2": 3,
+  "option3": 5,
+  "option4": 2,
+  "option5": "",
+  "answer": 3,
+  "explanation": "Telecom Regulatory Authority of India (TRAI) launched three new apps to help customers rate quality of services, speed, and performance. The three new apps are My call app, MySpeed app and 'Do not disturb (DND 2.0)' app. These three apps provides more transparency between the consumers and the service providers.",
+  "verified_at": ""
+}

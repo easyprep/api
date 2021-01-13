@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:28.276Z",
+  "id": "38e5088c-27e2-49f2-9218-d0b3ab0f0e17",
+  "labels": "current-affairs,2017-04-27",
+  "question": "NASA scientists have discovered a new planet 'iceball' through ___________.",
+  "option1": "Microlensing",
+  "option2": "Transit method",
+  "option3": "Radial Velocity Method",
+  "option4": "Coronographs",
+  "option5": "",
+  "answer": "Microlensing",
+  "explanation": "NASA Scientists have discovered a new planet through Microlensing The planet referred as 'iceball' due to its probable cold state. The newly discovered planet is nearly 13,000 light-years away and orbits a small star. Microlensing is a technique that aids the discovery of distant objects by using background stars as flashlights.",
+  "verified_at": ""
+}

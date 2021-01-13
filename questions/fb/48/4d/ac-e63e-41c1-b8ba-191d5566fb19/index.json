@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:46.686Z",
+  "id": "fb484dac-e63e-41c1-b8ba-191d5566fb19",
+  "labels": "current-affairs,2017-06-30",
+  "question": "NALSA launched a Web Application for free Legal Services to ________.",
+  "option1": "Prisoners",
+  "option2": "Criminals",
+  "option3": "Lawers",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Prisoners",
+  "explanation": "The National Legal Services Authority (NALSA) launched a Web Application for free Legal Services to prisoners, and the Legal Services Management System developed through the NIC. Through the Web Application, the information regarding legal representation of individual prison inmates will be fed by the State Legal Services Authorities and District Legal Services Authorities.",
+  "verified_at": ""
+}

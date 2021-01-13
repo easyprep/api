@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:20.091Z",
+  "id": "923e816d-a581-4b93-9b97-d7cb88e1dd93",
+  "labels": "current-affairs,2017-06-19",
+  "question": "Which Institute passes key Safety Tests for Orion Spacecraft recently?",
+  "option1": "Indian Institute of Technology",
+  "option2": "Kerala University",
+  "option3": "National Aeronautics and Space Administration (NASA)",
+  "option4": "All India Institute Of Technology",
+  "option5": "",
+  "answer": "National Aeronautics and Space Administration (NASA)",
+  "explanation": "NASA engineers tested the abort motor for Orion's Launch Abort System (LAS). National Aeronautics and Space Administration (NASA) Orion spacecraft, designed to take astronauts to deep space destinations successfully completed a series of tests for its critical safety systems.",
+  "verified_at": ""
+}

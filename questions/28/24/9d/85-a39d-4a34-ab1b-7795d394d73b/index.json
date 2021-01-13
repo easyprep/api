@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-06-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:22:25.078Z",
+  "id": "28249d85-a39d-4a34-ab1b-7795d394d73b",
+  "labels": "current-affairs,2017-06-21",
+  "question": "Which satellite is being tested by the National Aeronautics and Space Administration (NASA) ?",
+  "option1": "Brahmos - III",
+  "option2": "Roll-Out Solar Array (ROSA)",
+  "option3": "Agni -II",
+  "option4": "GSLV - II",
+  "option5": "",
+  "answer": "Roll-Out Solar Array (ROSA)",
+  "explanation": "National Aeronautics and Space Administration (NASA) testing the effectiveness of a flexible solar array, the Roll-Out Solar Array (ROSA) on the space station for the very first time. ROSA is smaller and lighter than the traditional panels and has a center wing build of a flexible material containing photovoltaic cells to convert light into electricity.",
+  "verified_at": ""
+}
