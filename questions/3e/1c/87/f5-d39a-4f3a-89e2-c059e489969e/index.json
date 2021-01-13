@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-12T11:56:15.000Z",
+  "updated_at": "2021-01-06T08:25:00.110Z",
+  "id": "3e1c87f5-d39a-4f3a-89e2-c059e489969e",
+  "labels": "current-affairs,2020-07-13",
+  "question": "Which of the following are the features of Alai Darwaza?<br />1. This gate was built by Alauddin Khilji in 1311 CE.<br />2. It is the first building to employ Islamic principles of accurate construction and geometric ornamentation.<br />3. The darwaza is a square, domed building with intricate carvings in red sandstone and marble.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Alai Darwaza was built by Alauddin Khilji in 1311 CE and is the first building to employ Islamic principles of accurate construction and geometric ornamentation. It is a square, domed building with intricate carvings in red sandstone and marble."
+}

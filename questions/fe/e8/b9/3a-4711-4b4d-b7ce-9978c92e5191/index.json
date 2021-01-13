@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-09T19:11:05.000Z",
+  "updated_at": "2021-01-06T08:25:00.110Z",
+  "id": "fee8b93a-4711-4b4d-b7ce-9978c92e5191",
+  "labels": "current-affairs,2020-07-10",
+  "question": "Which are the only two land-locked South American countries?",
+  "option1": "Bolivia and Uruguay",
+  "option2": "Bolivia and Paraguay",
+  "option3": "Paraguay and Guyana",
+  "option4": "Venezuela and Columbia",
+  "option5": "",
+  "answer": "Bolivia and Paraguay",
+  "explanation": "Bolivia is landlocked by Brazil to north and north-east, Paraguay to the south-east, Argentina to the south, Peru to the north-west and Chile to the south-west. Paraguay is landlocked by Brazil to the west, Bolivia to the north and north-west and Argentina to the south and south-west."
+}

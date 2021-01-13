@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-09T19:11:05.000Z",
+  "updated_at": "2021-01-06T08:25:00.110Z",
+  "id": "6ffe6cd5-8560-42d5-852f-fb9cf0ef82bf",
+  "labels": "current-affairs,2020-07-10",
+  "question": "Which country does not share a border with Bolivia?",
+  "option1": "Chile",
+  "option2": "Peru",
+  "option3": "Brazil",
+  "option4": "Uruguay",
+  "option5": "",
+  "answer": "Uruguay",
+  "explanation": "Uruguay does not share a border with Bolivia. Five nations shares border with Bolivia. Chile lies to the south-west of Bolivia. Peru lies to the north-west of Bolivia. Brazil lies to the north-east and east of Bolivia. Paraguay lies to the south-east of Bolivia. Argentina lies to the south of Bolivia."
+}

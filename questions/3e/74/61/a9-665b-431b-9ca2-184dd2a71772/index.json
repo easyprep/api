@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-10T05:10:44.000Z",
+  "updated_at": "2021-01-06T08:25:00.110Z",
+  "id": "3e7461a9-665b-431b-9ca2-184dd2a71772",
+  "labels": "current-affairs,2020-07-11",
+  "question": "As per the ‘Clean air counter’ online tool, which city had a maximum loss due to air pollution, during the first half of 2020?",
+  "option1": "New York",
+  "option2": "Tokyo",
+  "option3": "New Delhi",
+  "option4": "Beijing",
+  "option5": "",
+  "answer": "New Delhi",
+  "explanation": "An online tool named ‘Clean air counter’ has been launched by major environmental groups, which calculates the economic impact of air pollution, by measuring smog in 28 major global cities. \r\nAs per the tool, New Delhi has suffered a maximum loss of 25,000 lives due to air pollution, measured on a per capita basis. It has also lost 5.8% of its total GDP, from January to June 2020. While Shanghai lost 27000 lives, Beijing lost 22000 lives."
+}

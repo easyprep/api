@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-11T04:48:44.000Z",
+  "updated_at": "2021-01-06T08:25:00.110Z",
+  "id": "9c49a80f-ca83-4271-a51f-ea6193673c72",
+  "labels": "current-affairs,2020-07-12",
+  "question": "A commercial communication satellite named ‘APStar-6D’ was launched from which country, using its flagship Long March rocket?",
+  "option1": "United States",
+  "option2": "China",
+  "option3": "Russia",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "China",
+  "explanation": "A commercial communication satellite named ‘APStar-6D’ has been recently launched by China Great Wall Industry Corporation (CGWIC).\r\nIt is developed by the China Academy of Space Technology and was launched using the variant of the country’s Long March rocket. This new satellite can provide a communication capacity of at least 50Gbps, as per sources."
+}

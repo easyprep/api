@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-10T01:56:02.000Z",
+  "updated_at": "2021-01-06T08:25:00.110Z",
+  "id": "9f2c8be7-283c-4480-be5d-8afd4568dbee",
+  "labels": "current-affairs,2020-07-11",
+  "question": "Which among the following breeds of cow belong to India?<br />1. Gir<br />2. Saahiwal<br />3. Jersey<br />4. Rathi<br />choose the correct option from the codes given below:",
+  "option1": "1 and 3 only",
+  "option2": "2 and 3 only",
+  "option3": "1,2 and 4 only",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "1,2 and 4 only",
+  "explanation": "Gir,Saahiwal and Rathi are Indian breeds. Jersey is not an Indian cow breed."
+}

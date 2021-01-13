@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-12T04:14:53.000Z",
+  "updated_at": "2021-01-06T08:25:00.110Z",
+  "id": "a5d78c1f-cc28-4e83-9e79-7663c0696160",
+  "labels": "current-affairs,2020-07-13",
+  "question": "Which country suffered a failure in its launch of the ‘Kuaizhou-11’ carrier rocket?",
+  "option1": "Japan",
+  "option2": "China",
+  "option3": "South Korea",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The Kuaizhou-11 carrier rocket, that was launched by China, has recently suffered a failure during its maiden flight.\r\nKuaizhou means ‘fast ship’ in Chinese. It is a low-cost solid-fuelled carrier rocket, that was designed to launch low-Earth orbit satellites. A malfunction occurred during the flight though the exact reason for the failure is not yet known."
+}
