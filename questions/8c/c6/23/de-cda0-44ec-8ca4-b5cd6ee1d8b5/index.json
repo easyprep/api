@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-22T05:05:16.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "8cc623de-cda0-44ec-8ca4-b5cd6ee1d8b5",
+  "labels": "current-affairs,2020-12-23",
+  "question": "A new powerful mutation of the coronavirus named ‘B.1.1.7’, has been found in which country?",
+  "option1": "China",
+  "option2": "United Kingdom",
+  "option3": "Italy",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "United Kingdom",
+  "explanation": "‘B.1.1.7’, a new powerful mutation of the coronavirus, has been found in the United Kingdom. This lineage has unusually large number of genetic changes.\r\nThe variant carries 14 defining mutations including seven in the spike protein, which is often responsible for how the virus interacts with a human cell. This is a relatively large number of changes compared to various variants found in circulation globally."
+}

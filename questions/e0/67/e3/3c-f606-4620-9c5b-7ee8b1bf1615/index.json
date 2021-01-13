@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-14T20:02:39.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "e067e33c-f606-4620-9c5b-7ee8b1bf1615",
+  "labels": "current-affairs,2020-12-15",
+  "question": "According to Economic Survey 2020, what is the share of the recognized startup's in the Renewable Energy Sector in India?",
+  "option1": 0.018,
+  "option2": 0.028,
+  "option3": 0.057,
+  "option4": 0.03,
+  "option5": "",
+  "answer": 0.028,
+  "explanation": "According to Economic Survey 2020, the share of recognized startup's in India account for 2.8% in renewable energy sector"
+}

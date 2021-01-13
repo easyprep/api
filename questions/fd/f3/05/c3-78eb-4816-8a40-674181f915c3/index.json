@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-08T16:29:54.000Z",
+  "updated_at": "2021-01-08T16:29:55.000Z",
+  "id": "fdf305c3-78eb-4816-8a40-674181f915c3",
+  "labels": "current-affairs,2021-01-09",
+  "question": "Which is the first Indian airline to use robotic technology to disinfect aircraft interiors?",
+  "option1": "Vistara",
+  "option2": "Air India Express",
+  "option3": "Spice Jet",
+  "option4": "IndiGo",
+  "option5": "",
+  "answer": "Air India Express",
+  "explanation": "The Air India Express has become the first airline in India to use robotic technology to clean and disinfect the interiors of aircrafts.<br />It used an ultraviolet Robotic device, fitted with UV disinfection lamping system to disinfect its Boeing 737-800 aircraft. This technology was launched in India in association with ground handling agency AISATS."
+}

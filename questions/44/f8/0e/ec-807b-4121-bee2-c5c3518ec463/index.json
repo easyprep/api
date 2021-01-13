@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:23:55.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "44f80eec-807b-4121-bee2-c5c3518ec463",
+  "labels": "current-affairs,2021-01-02",
+  "question": "What new name has recently been given to Libra which is a facebook-backed cryptocurrency?",
+  "option1": "Diem",
+  "option2": "Tether",
+  "option3": "Dai",
+  "option4": "Paxos Standard",
+  "option5": "",
+  "answer": "Diem",
+  "explanation": "Facebook-backed cryptocurrency Libra has been rebranded as “Diem” to gain regulatory approval by emphasising that the project has “organisational independence”. Unlike other cryptocurrencies, Diem is to use Permissioned blockchain. Majority of the other cryptocurrencies use Permissionless blockchain."
+}

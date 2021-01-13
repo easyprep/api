@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:23:56.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "520be485-dd48-4f74-9eaa-0fda0c55a239",
+  "labels": "current-affairs,2021-01-02",
+  "question": "What is the current repo rate in India?",
+  "option1": 0.035,
+  "option2": 0.02,
+  "option3": 0.03,
+  "option4": 0.04,
+  "option5": "",
+  "answer": 0.04,
+  "explanation": "The RBI recently held its Monetary Policy Committee meet. During the meet, the Reserve Bank of India has kept the repo rate unchanged at 4%. Repo rate is the rate at which RBI lends to banks. The Reverse Repo Rate is to continue at 3.35%."
+}

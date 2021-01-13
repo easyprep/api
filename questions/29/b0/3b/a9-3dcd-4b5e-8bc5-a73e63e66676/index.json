@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:32:22.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "29b03ba9-3dcd-4b5e-8bc5-a73e63e66676",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which chemical present in the car tires is responsible for killing fishes?",
+  "option1": "6PPD",
+  "option2": "5PPD",
+  "option3": "4PPD",
+  "option4": "3PPD",
+  "option5": "",
+  "answer": "6PPD",
+  "explanation": "6PPD is the chemical which is present in the car tires and is responsible for killing fishes. It is the toxic substance which has been killing a large number of coho salmon. Nearly all tires world wide contain 6PPD and shed the toxic 6PPD-quinone which acts as a poison for the fishes."
+}

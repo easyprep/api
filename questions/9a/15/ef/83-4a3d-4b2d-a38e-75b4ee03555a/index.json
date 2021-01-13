@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-24T12:28:24.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "9a15ef83-4a3d-4b2d-a38e-75b4ee03555a",
+  "labels": "current-affairs,2020-12-25",
+  "question": "Ransomware Task Force, which was making news recently, has been launched by which major tech company?",
+  "option1": "Google",
+  "option2": "Microsoft",
+  "option3": "Facebook",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Leading Tech company Microsoft along with other tech companies, security firms and non-profits have launched a new group, called the ‘Ransomware Task Force’ (RTF).<br />The task force, which also includes McAfee, will assess technical solutions to provide protections during a ransomware attack. It will create a comprehensive solution to work together across industries, to tackle ransomware."
+}

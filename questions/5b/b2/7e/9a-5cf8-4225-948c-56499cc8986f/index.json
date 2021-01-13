@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-15T05:15:33.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "5bb27e9a-5cf8-4225-948c-56499cc8986f",
+  "labels": "current-affairs,2020-12-16",
+  "question": "Which stock exchange has launched an electronic spot platform for agricultural commodities?",
+  "option1": "NSE",
+  "option2": "BSE",
+  "option3": "Madras Stock Exchange",
+  "option4": "Calcutta Stock Exchange",
+  "option5": "",
+  "answer": "BSE",
+  "explanation": "Asia’s oldest stock exchange, BSE Limited, has launched an electronic spot platform for agricultural commodities through its subsidiary BSE Investments.<br />The platform is named as BSE E-Agricultural Markets Ltd (BEAM). It is to function as a national level, electronic, commodity spot trading platform. Through this, farmers of one state will get access to markets in other states."
+}

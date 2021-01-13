@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-18T12:05:39.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "f7933764-71b0-45fb-9417-91f8585b90e9",
+  "labels": "current-affairs,2020-12-19",
+  "question": "Which organization has added a new feature in RuPay cards that will allow offline contactless transactions?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "NPCI",
+  "option4": "IBRDT",
+  "option5": "",
+  "answer": "NPCI",
+  "explanation": "A new feature has been added in the RuPay cards that will allow offline contactless transactions even in areas with limited internet connectivity. \r\nThis has been introduced by the National Payments Corporation of India (NPCI). Additionally, the facility of reloadable wallet facility has also be introduced to boost retail transactions."
+}

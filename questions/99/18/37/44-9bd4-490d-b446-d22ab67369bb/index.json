@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:19:11.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "99183744-9bd4-490d-b446-d22ab67369bb",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below.\r\n\r\nAssertion (A) The 73rd Constitutional Amendment act provides for the reservation of seats.\r\nReason (R) Reservation of seats for scheduled castes and scheduled tribes.",
+  "option1": "Both A and R are true, and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "Both A and R are true, and R is the correct explanation of A",
+  "explanation": "The 73rd Constitutional Amendment Act provides for the reservation of seats for scheduled castes and scheduled tribes in every panchayat (i.e., at all the three levels) in proportion of their population to the total population in the panchayat area."
+}

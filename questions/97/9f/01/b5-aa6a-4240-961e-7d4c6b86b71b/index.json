@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-17T13:39:12.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "979f01b5-aa6a-4240-961e-7d4c6b86b71b",
+  "labels": "current-affairs,2020-12-18",
+  "question": "The economic report named “Ecowrap” is released by which organization?",
+  "option1": "World Bank",
+  "option2": "NITI Aayog",
+  "option3": "IMF",
+  "option4": "State Bank of India",
+  "option5": "",
+  "answer": "State Bank of India",
+  "explanation": "The State Bank of India in its recent Ecowrap report has lowered India’s GDP contraction for FY 21 from earlier 10.9% to 7.4%.<br />The report states that it would take nearly 7 quarters from Q4 for the current financial year, to reach the pre-COVID output and growth levels."
+}

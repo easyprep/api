@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:32:01.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "8faa3236-0675-49fb-8618-288f94f2799b",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which is the China’s largest and most advanced nuclear fusion experimental device?",
+  "option1": "Novillo",
+  "option2": "JT-60",
+  "option3": "Alcator C-Mod",
+  "option4": "HL-2M Tokamak reactor",
+  "option5": "",
+  "answer": "HL-2M Tokamak reactor",
+  "explanation": "The HL-2M Tokamak reactor is China’s largest and most advanced nuclear fusion experimental device. Located in southwestern Sichuan province, the reactor is often called an “artificial sun” because of the enormous heat and power it produces. It was completed last year and it has the potential to unlock a powerful clean energy source."
+}

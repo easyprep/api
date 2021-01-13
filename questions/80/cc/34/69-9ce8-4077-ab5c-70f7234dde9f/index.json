@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-16T13:33:21.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "80cc3469-9ce8-4077-ab5c-70f7234dde9f",
+  "labels": "current-affairs,2020-12-17",
+  "question": "What is the name of the digital platform that would be used to track the beneficiaries for COVID vaccination in India?",
+  "option1": "Atmanirbhar System",
+  "option2": "Arogya Setu System",
+  "option3": "CO WIN System",
+  "option4": "Serum System",
+  "option5": "",
+  "answer": "CO WIN System",
+  "explanation": "The Union Ministry of health and Family welfare has recently issued guidelines on mass Covid-19 vaccination drive in the country.<br />The Ministry has stated that COVID Vaccine Intelligence Network (Co-WIN) system would be used track the beneficiaries for COVID vaccination. In the first phase of vaccination, the Government has decided to vaccinate nearly 30 crore people."
+}

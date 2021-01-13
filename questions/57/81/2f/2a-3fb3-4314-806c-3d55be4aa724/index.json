@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-22T05:04:39.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "57812f2a-3fb3-4314-806c-3d55be4aa724",
+  "labels": "current-affairs,2020-12-23",
+  "question": "What is ‘Tau Bootes’, which was making news recently?",
+  "option1": "Covid Vaccine",
+  "option2": "Coronavirus strain",
+  "option3": "Star System",
+  "option4": "High Speed Train",
+  "option5": "",
+  "answer": "Star System",
+  "explanation": "An international team of scientists has recently collected the first possible radio signal from a planet beyond our solar system.\r\nEmission bursts have been observed which are originating from exoplanet ‘Tau Bootes’ star-system, which is about 51 light-years away. This was observed using the Low Frequency Array (LOFAR), a radio telescope in the Netherlands."
+}

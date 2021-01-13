@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-03T01:30:29.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "7883e7e8-1cd4-40fe-9273-f63e0027589f",
+  "labels": "current-affairs,2021-01-04",
+  "question": "Which financial institution has launched “Digital Payments Index (DPI)”?",
+  "option1": "RBI",
+  "option2": "NPCI",
+  "option3": "Finance Ministry",
+  "option4": "State Bank of India",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Reserve Bank of India (RBI) has developed the Digital Payments Index (DPI), to record the expansion of digitisation of payments across the country.<br />The index has been constructed with March 2018 as the base period. As per the RBI, the DPI for March 2019 and March 2020 stand at 153.47 and 207.84 respectively. The index includes 5 parameters with the highest weightage for Payment Performance."
+}

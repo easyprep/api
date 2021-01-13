@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-19T04:51:34.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "082cffa2-9b1d-4bc5-a7ee-ccbb5b798b6d",
+  "labels": "current-affairs,2020-12-20",
+  "question": "Chinese spacecraft Chang’e 5 has returned to the Earth, carrying samples from which astronomical body?",
+  "option1": "Jupiter",
+  "option2": "Saturn",
+  "option3": "Moon",
+  "option4": "Sun",
+  "option5": "",
+  "answer": "Moon",
+  "explanation": "Chinese lunar capsule of the Chang’e 5 probe has returned to Earth with the first samples of rock and debris from the moon.\r\nThe modules of the probe landed on the moon and collected about 2 kilograms of samples by drilling the surface of the moon. After Soviet Union’s Luna 24 robot probe in 1976, only this probe brought fresh samples of lunar rocks."
+}

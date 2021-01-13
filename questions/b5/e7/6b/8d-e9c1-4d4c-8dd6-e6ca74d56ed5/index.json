@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:32:43.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "b5e76b8d-e9c1-4d4c-8dd6-e6ca74d56ed5",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which antiviral drug has recently been reported to stop Covid-19 spread within 24 hours?",
+  "option1": "Adefovir",
+  "option2": "Xofluza",
+  "option3": "Combivir",
+  "option4": "Molnupiravir",
+  "option5": "",
+  "answer": "Molnupiravir",
+  "explanation": "Molnupiravir' is an antiviral drug that has recently been reported to stop Covid-19 spread within 24 hours. According to the data, this drug curb the transmission of SARS-COV-2 in 24 hours. This antiviral drug is taken orally."
+}

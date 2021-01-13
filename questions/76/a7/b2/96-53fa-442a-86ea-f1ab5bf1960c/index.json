@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-07T16:23:18.000Z",
+  "updated_at": "2021-01-07T16:23:18.000Z",
+  "id": "76a7b296-53fa-442a-86ea-f1ab5bf1960c",
+  "labels": "current-affairs,2021-01-08",
+  "question": "Which organisation releases the World Food Price Index?",
+  "option1": "UNICEF",
+  "option2": "FAO",
+  "option3": "WWF",
+  "option4": "WFP",
+  "option5": "",
+  "answer": "FAO",
+  "explanation": "The United Nations food agency, the Food and Agriculture Organization releases the World Food Price Index.<br />As per the latest edition, the World food prices increased for a seventh consecutive month in December at 107.5 points against 105.2 in November. All major categories of the food index recorded rise, except sugar."
+}

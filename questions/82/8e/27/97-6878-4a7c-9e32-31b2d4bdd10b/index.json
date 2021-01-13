@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T04:10:55.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "828e2797-6878-4a7c-9e32-31b2d4bdd10b",
+  "labels": "current-affairs,2021-01-02",
+  "question": "What is 'SAHAYAK-NG', which was seen in the news recently?",
+  "option1": "Surface to Surface Missile",
+  "option2": "Fighter jet",
+  "option3": "Air droppable container",
+  "option4": "Unmanned Aerial Vehicle",
+  "option5": "",
+  "answer": "Air droppable container",
+  "explanation": "The Defence Research and Development Organisation (DRDO) along with the Indian Navy has conducted a successful trial of the SAHAYAK-NG.<br />It is the country’s first indigenously designed and developed air droppable container. The container, aided by GPS can carry a payload of up to 50 kg and can be dropped from a heavy aircraft. It is designed and developed by two DRDO labs and a private company ‘Avantel’."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T04:08:35.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "a70c05b8-9548-4317-af71-801fd49ce030",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which country’s space agency has recently approved two Sun-exploration heliophysics missions?",
+  "option1": "India",
+  "option2": "United States",
+  "option3": "Russia",
+  "option4": "China",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The United States’ space agency National Aeronautics and Space Administration (NASA) has announced that it has given approval to two Sun exploration heliophysics missions.<br />Under these missions, researchers study the Sun and relate them to the events taking place in the solar system. The missions include NASA-led Electrojet Zeeman Imaging Explorer (EZIE) mission and Japan-led Extreme Ultraviolet High-Throughput Spectroscopic Telescope Epsilon Mission (EUVST) mission."
+}

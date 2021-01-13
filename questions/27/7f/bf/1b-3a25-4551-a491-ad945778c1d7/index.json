@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:18:34.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "277fbf1b-3a25-4551-a491-ad945778c1d7",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Given below are two statements, one labelled as Assertion(A) and the other labelled as Reason(R). Select the correct answer from the codes given below. \r\n\r\nAssertion (A) Central Vigilance Commission set up Governance Knowledge Centre (GKC).  \r\nReason (R) It is a web-based repository of good governance initiatives.",
+  "option1": "Both A and R are true, and R is the correct explanation of A",
+  "option2": "Both A and R are true, but R is not the correct explanation of A",
+  "option3": "A is true, R is False",
+  "option4": "A is false, R is true",
+  "option5": "",
+  "answer": "A is false, R is true",
+  "explanation": "The Department of Administrative Reforms and Public Grievances has taken up the initiative to design and develop a web-based repository of good governance initiatives and best practices known as Governance Knowledge Centre."
+}

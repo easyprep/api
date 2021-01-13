@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:36:28.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "67b16609-3f91-4b24-9bb1-77fa8a625a10",
+  "labels": "current-affairs,2021-01-02",
+  "question": "People with which allergic reaction are not eligible to get Pfizer Covid-19 vaccine?",
+  "option1": "Anaphylaxis",
+  "option2": "Angiodema",
+  "option3": "Atopic Dermatitis",
+  "option4": "Contact  Dermatitis",
+  "option5": "",
+  "answer": "Anaphylaxis",
+  "explanation": "Any person with history of Anaphylaxis should not receive Pfizer Covid-19 vaccine. Anaphylaxis is an overreaction of immune system of a body and it is life-threatening allergic reaction. The reaction can occur within seconds of exposure to an allergen."
+}

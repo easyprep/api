@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-06T17:36:11.000Z",
+  "updated_at": "2021-01-06T17:36:11.000Z",
+  "id": "85c2975f-650f-45d3-9721-523022c3eaff",
+  "labels": "current-affairs,2021-01-07",
+  "question": "The Oxford University has developed a survey of which animals using satellite imagery and artificial intelligence (AI)?",
+  "option1": "African Elephants",
+  "option2": "Pandas",
+  "option3": "Sloths",
+  "option4": "Mountain Gorillas",
+  "option5": "",
+  "answer": "African Elephants",
+  "explanation": "An international team of researchers led by the University of Oxford has developed a new method to survey the African Elephants.<br />In the paper published in a leading academic journal, the survey uses satellite imagery and artificial intelligence (AI). A satellite captures over 5,000 square kilometres of imagery, from space, which can eliminate double counting."
+}

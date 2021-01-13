@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:32:42.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "0eecc852-c569-4f76-9c3b-644e9b7a84fb",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which digital platform has recently been introduced by central government for Covid-19 vaccine delivery?",
+  "option1": "CO-WIN",
+  "option2": "Trace Together",
+  "option3": "Covid Watch",
+  "option4": "NHS smartphone app",
+  "option5": "",
+  "answer": "CO-WIN",
+  "explanation": "CO-WIN is a digital platform which has recently been introduced by central government for Covid-19 vaccine delivery. This platform will be used for recording vaccine data. All covid-19 related updates will be uploaded on CO-WIN platform."
+}

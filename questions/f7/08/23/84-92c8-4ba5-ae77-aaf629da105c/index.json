@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:29:04.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "f7082384-92c8-4ba5-ae77-aaf629da105c",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which of the following is NOT a correct statement with regard to Liquidity Adjustment Facility?",
+  "option1": "RBI makes separate announcements for Repo and Reverse Repo Rates.",
+  "option2": "Only Government securities are used as collateral.",
+  "option3": "Regional Rural Banks are not eligible to participate in Repo auctions",
+  "option4": "Repo Inject liquidity in the system, while reverse repo absorbs liquidity from the system",
+  "option5": "",
+  "answer": "RBI makes separate announcements for Repo and Reverse Repo Rates.",
+  "explanation": "RBI only announces Repo Rate. The Reverse Repo Rate is linked to Repo Rate and is 100 basis points (1%) below repo rate. RBI makes decision regarding Repo Rate on the basis of prevalent market conditions and relevant factors."
+}

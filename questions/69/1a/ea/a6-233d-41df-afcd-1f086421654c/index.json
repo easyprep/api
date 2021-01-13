@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-19T04:56:37.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "691aeaa6-233d-41df-afcd-1f086421654c",
+  "labels": "current-affairs,2020-12-20",
+  "question": "Which e-commerce site has partnered with National Payments Corporation of India (NPCI), to enable doorstep digital payments?",
+  "option1": "Amazon",
+  "option2": "Flipkart",
+  "option3": "Snapdeal",
+  "option4": "Jiomart",
+  "option5": "",
+  "answer": "Snapdeal",
+  "explanation": "E-commerce platform Snapdeal has partnered with National Payments Corporation of India (NPCI) to allow buyers to make digital payments at the time delivery.\r\nThis QR-based facility aims to assist new or first-time users who are not comfortable in pre-paying for the goods. The delivery executive will generate a UPI-linked QR code, which will be scanned by the customer for payment."
+}

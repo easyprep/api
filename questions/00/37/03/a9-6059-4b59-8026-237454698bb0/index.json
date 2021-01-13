@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-24T12:30:35.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "003703a9-6059-4b59-8026-237454698bb0",
+  "labels": "current-affairs,2020-12-25",
+  "question": "Which international organisation launched “Covid-19 vaccine market dashboard”?",
+  "option1": "World Bank",
+  "option2": "IMF",
+  "option3": "UNICEF",
+  "option4": "FAO",
+  "option5": "",
+  "answer": "UNICEF",
+  "explanation": "The UNICEF has recently launched a Covid-19 vaccine market dashboard. It is an interactive tool to display the developments of the coronavirus vaccine market.<br />It also showcases the global research and development overview, the projected production capacity and supply agreements. It will also provide details on status of procurement by the UNICEF and others participating in the COVAX Facility, in 2021."
+}

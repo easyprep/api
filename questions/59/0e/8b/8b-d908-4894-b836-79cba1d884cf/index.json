@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:37:35.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "590e8b8b-d908-4894-b836-79cba1d884cf",
+  "labels": "current-affairs,2021-01-02",
+  "question": "From which sea the divers have recently discovered an Enigma encryption machine?",
+  "option1": "Red sea",
+  "option2": "Baltic sea",
+  "option3": "North sea",
+  "option4": "Caspian sea",
+  "option5": "",
+  "answer": "Baltic sea",
+  "explanation": "Recently, the divers discovered an Enigma encryption machine used by Nazis in Baltic sea. The divers discovered the machine while searching the seabed with sonar devices for abandoned fishing nets that might harm the sea life.Enigma is an encryption device that was used by the German Nazis during the 2<sup>nd</sup> World War to encode secret messages."
+}

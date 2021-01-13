@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:37:07.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "7a9132a2-7932-4399-aedb-cbc52b62b94a",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Many court complexes across India have been connected by which network under e-courts project?",
+  "option1": "Personal Area Networks (PAN)",
+  "option2": "Global Area Networks (GAN)",
+  "option3": "Metropolitan Area Networks (MAN)",
+  "option4": "Wide Area Networks (WAN)",
+  "option5": "",
+  "answer": "Wide Area Networks (WAN)",
+  "explanation": "Around 2927 court complexes across India have been connected  by a high-speed network, WAN under e-Courts Project. Department of Justice along with BSNL is working persistently on connecting the remaining sites."
+}

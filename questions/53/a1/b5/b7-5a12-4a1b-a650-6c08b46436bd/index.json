@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-07T16:20:07.000Z",
+  "updated_at": "2021-01-07T16:20:07.000Z",
+  "id": "53a1b5b7-5a12-4a1b-a650-6c08b46436bd",
+  "labels": "current-affairs,2021-01-08",
+  "question": "Legal Entity Identifier (LEI), which was seen in the news recently, has how many digits?",
+  "option1": 10,
+  "option2": 12,
+  "option3": 15,
+  "option4": 20,
+  "option5": "",
+  "answer": 20,
+  "explanation": "The Reserve Bank of India (RBI) has decided to introduce the Legal Entity Identifier (LEI) system for the payment transactions of value of Rs 50 crore and above.<br />The transactions undertaken by the entities using the Centralised Payment Systems run by the RBI including the NEFT and RTGS. The change is to be introduced with effect from April 1. LEI is a 20-digit number, which is used globally to identify entities doing financial transactions."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-14T19:55:54.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "272152e1-da96-464d-a828-b4f5d74bd048",
+  "labels": "current-affairs,2020-12-15",
+  "question": "What is the minimum networth of the sponsor of an Infrastructure Investment<br />Trust?",
+  "option1": "Rs 100 crores",
+  "option2": "Rs 200 crores",
+  "option3": "Rs 250 crores",
+  "option4": "Rs 150 crores",
+  "option5": "",
+  "answer": "Rs 100 crores",
+  "explanation": "Infrastructure Investment Trusts (InvITs) are like mutual funds, where the investments are directly made in infrastructure projects either through direct financing or by establishing a Special Purpose Vechicle (SPV). According to SEBI guidelines, the minimum networth of the sponsor of an InvIT should be Rs 100 crores."
+}

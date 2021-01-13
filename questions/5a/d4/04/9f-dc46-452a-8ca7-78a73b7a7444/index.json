@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-08T16:36:32.000Z",
+  "updated_at": "2021-01-08T16:36:32.000Z",
+  "id": "5ad4049f-dc46-452a-8ca7-78a73b7a7444",
+  "labels": "current-affairs,2021-01-09",
+  "question": "Which organisation announced to provide offer a free Domain Name in any of the 22 official Indian language?",
+  "option1": "ICANN",
+  "option2": "NIXI",
+  "option3": "DSCI",
+  "option4": "APNIC",
+  "option5": "",
+  "answer": "NIXI",
+  "explanation": "The National Internet Exchange of India, NIXI is a leading not-for-profit organization. It has been working to provide improved internet services, since 2003.<br />Recently NIXI has announced that it would provide a free Internationalized Domain Name (IDN) in any of the 22 official Indian language. Along with every IN domain booked, the applicant Applicant will also get a free email in local language."
+}

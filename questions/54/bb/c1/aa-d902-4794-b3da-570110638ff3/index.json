@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-14T19:55:55.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "54bbc1aa-d902-4794-b3da-570110638ff3",
+  "labels": "current-affairs,2020-12-15",
+  "question": "Government will cover up to how much percentage of project costs through National Clean Energy Fund?",
+  "option1": 0.5,
+  "option2": 0.2,
+  "option3": 0.6,
+  "option4": 0.4,
+  "option5": "",
+  "answer": 0.4,
+  "explanation": "The National Clean Energy Fund was started with the carbon tax collected through clean energy cess. The proceeds are used for funding clean energy projects. Government will provide financial support upto 40% of the total project cost"
+}

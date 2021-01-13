@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:21:21.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "44e63e38-f726-4516-a6e4-2e226cfd2218",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which organization has given its nod for Indian Regional Navigation Satellite System to be used for navigation in the Indian Ocean Region?",
+  "option1": "International Maritime Organization",
+  "option2": "World Bank",
+  "option3": "International Chamber of Commerce",
+  "option4": "International Chamber of Commerce",
+  "option5": "",
+  "answer": "International Maritime Organization",
+  "explanation": "The Indian Regional Navigation Satellite System (IRNSS) has been accepted as a component of the World-Wide Radio Navigation System by the International Maritime Organization for its operation in the Indian Ocean Region. This will enable the vessels to use IRNSS to obtain position information similar to GLONASS and GPS."
+}

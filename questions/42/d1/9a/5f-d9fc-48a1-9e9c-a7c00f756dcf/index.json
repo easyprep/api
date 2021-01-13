@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:19:06.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "42d19a5f-d9fc-48a1-9e9c-a7c00f756dcf",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which among the following is not a kind of question asked in a Question Hour in a parliamentary sitting?",
+  "option1": "Starred",
+  "option2": "Unstarred",
+  "option3": "Legal",
+  "option4": "Short Notice",
+  "option5": "",
+  "answer": "Legal",
+  "explanation": "The first hour of every parliamentary sitting is slotted for Question Hour during which, the MPs ask questions and the ministers usually give answers. The questions are of three kinds, viz. starred, unstarred and short notice."
+}

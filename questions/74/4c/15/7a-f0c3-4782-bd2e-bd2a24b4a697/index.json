@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-16T04:59:05.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "744c157a-f0c3-4782-bd2e-bd2a24b4a697",
+  "labels": "current-affairs,2020-12-17",
+  "question": "‘Project Loon’, which was seen in the news recently, is a subsidiary of which technology company?",
+  "option1": "Amazon",
+  "option2": "Microsoft",
+  "option3": "Google",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Project Loon is the subsidiary of Technology giant Google. It undertakes the project of delivering internet access to remote parts of the world.<br />The project uses helium-filled balloons for this purpose. In the month of October, the company has announced that the balloons set a new record for the longest stratospheric flight by staying in air for 312 days."
+}

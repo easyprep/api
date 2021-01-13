@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-03T01:20:26.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "95737e8f-4542-423a-a92d-d4d6d4970b3b",
+  "labels": "current-affairs,2021-01-04",
+  "question": "What is the expansion of ‘IUC’, which was recently seen in the news recently?",
+  "option1": "Internet usage charges",
+  "option2": "Intermediate usage charges",
+  "option3": "Interconnect usage charges",
+  "option4": "Interconnect utility charges",
+  "option5": "",
+  "answer": "Interconnect usage charges",
+  "explanation": "As per the Telecom Regulatory Authority of India (TRAI), the Interconnect usage charges (IUC) has been made zero from January 1, 2021.<br />IUC is the charge paid by a telecom company, for every call made from its network to different service providers. Prior to this move, the telecom company has been paying 6 paise per minute as the IUC."
+}

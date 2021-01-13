@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-05T05:46:18.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "10aa2559-98a0-48dd-9ab5-810be0bbfd90",
+  "labels": "current-affairs,2021-01-06",
+  "question": "Which Indian city has the maximum CCTV coverage, according to recent report published in South Asia Journal?",
+  "option1": "Mumbai",
+  "option2": "Chennai",
+  "option3": "Delhi",
+  "option4": "Hyderabad",
+  "option5": "",
+  "answer": "Chennai",
+  "explanation": "According to a recent report published in South Asia Journal, Chennai has the maximum CCTV coverage per square kilometre and per 1,000 population.<br />The report records the prevalence of CCTV cameras in 130 of the most populous cities in the world. The report also highlights that China and India have the highest densities of CCTV surveillance cameras in urban areas."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-05T05:47:52.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "ff5106ef-2ec7-48e3-8c89-b3c6cce0e74c",
+  "labels": "current-affairs,2021-01-06",
+  "question": "What is the cap imposed on trans fatty acids (TFA) in oils and fats for the year 2021?",
+  "option1": 0.1,
+  "option2": 0.05,
+  "option3": 0.03,
+  "option4": 0.01,
+  "option5": "",
+  "answer": 0.03,
+  "explanation": "India’s food regulator Food Safety and Standards Authority of India (FSSAI) has capped the quantum of trans fatty acids (TFA) in oils and fats to 3% for 2021. The cap is further reduced to 2% for 2022. <br />Trans fat are found to increase the risk of heart attacks and death from coronary heart disease. The WHO has called all its members to eliminate trans-fat by 2023."
+}

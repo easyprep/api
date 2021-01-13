@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-30T00:51:11.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "21647115-50de-4e36-a6a7-74ba3ce844f2",
+  "labels": "current-affairs,2020-12-31",
+  "question": "The US-ESA Solar Orbiter recently completed its closest encounter with which planet?",
+  "option1": "Mercury",
+  "option2": "Venus",
+  "option3": "Mars",
+  "option4": "Jupiter",
+  "option5": "",
+  "answer": "Venus",
+  "explanation": "NASA and the European Space Agency (ESA) jointly launched the Solar Orbiter probe in February 2020, to study the Sun.<br />Recently, the spacecraft has completed its first flyby of Venus, registering its closest encounter. With this, the probe is approaching closer to the Sun and tilting its orbit to observe the Sun from different angles."
+}

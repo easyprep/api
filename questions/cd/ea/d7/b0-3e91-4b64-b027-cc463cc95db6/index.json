@@ -1,0 +1,14 @@
+{
+  "created_at": "2021-01-01T18:29:05.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "cdead7b0-3e91-4b64-b027-cc463cc95db6",
+  "labels": "current-affairs,2021-01-02",
+  "question": "Which of the following is available to banks to borrow overnight funds from RBI against the approved government securities?",
+  "option1": "Marginal Standing Facility",
+  "option2": "Repo Rate",
+  "option3": "Base Rate",
+  "option4": "Bank Rate",
+  "option5": "",
+  "answer": "Marginal Standing Facility",
+  "explanation": "MSF is the rate at which the banks are able to borrow overnight funds from RBI against the approved government securities. The overall idea behind the MSF is to contain volatility in the overnight inter-bank rates."
+}

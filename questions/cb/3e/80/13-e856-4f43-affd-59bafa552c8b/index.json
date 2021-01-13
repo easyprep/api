@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-18T11:42:23.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "cb3e8013-e856-4f43-affd-59bafa552c8b",
+  "labels": "current-affairs,2020-12-19",
+  "question": "What is the rank of India in the Human Development Index, if the new metric ‘PHDI’ is taken into account?",
+  "option1": 97,
+  "option2": 101,
+  "option3": 123,
+  "option4": 138,
+  "option5": "",
+  "answer": 123,
+  "explanation": "The United Nations Development Programme introduced a new measure named called the Planetary Pressures-adjusted HDI, or PHDI.\r\nIt assesses the impact caused by each country’s per-capita carbon emissions and its material footprint. While India stands at 131st rank in the Human Development Index, when this metric is considered, India is placed at 123rd rank in the list, which is topped by Ireland."
+}

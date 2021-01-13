@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-23T12:48:07.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "54b79273-f215-4263-8b44-17bf23fa27db",
+  "labels": "current-affairs,2020-12-24",
+  "question": "A fungal disease named ‘Mucormycosis’ is registered in Covid-19 patients of which state?",
+  "option1": "Kerala",
+  "option2": "Gujarat",
+  "option3": "Bihar",
+  "option4": "Assam",
+  "option5": "",
+  "answer": "Gujarat",
+  "explanation": "Some Covid-19 patients in the state of Gujarat were affected by Mucormycosis, a rare fungal infection.<br />In response to that, the state Government issued an advisory about the risk of contraction. Mucormycosis is caused by a group of molds called mucormycetes. It infects people with a weak immune system and existing illness. It is said to have a mortality rate of 50%."
+}

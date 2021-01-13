@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-14T19:55:55.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "13871e9b-fb86-4af7-8d31-6719ab79e0ed",
+  "labels": "current-affairs,2020-12-15",
+  "question": "Under the Hybrid Annuity Model, Government pays how much percentage of the project cost during the initial stage?",
+  "option1": 0.6,
+  "option2": 0.4,
+  "option3": 0.7,
+  "option4": 0.65,
+  "option5": "",
+  "answer": 0.4,
+  "explanation": "Under the Hybrid Annuity Model, Government pays 40% of the project cost as fixed amount in five equal installments during the construction stage. The remaining 60% is paid in the form of annuities, based on the value of the project after its completion. Hybrid Annuity Model is used by NHAI."
+}

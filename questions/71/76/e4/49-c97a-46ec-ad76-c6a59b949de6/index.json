@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-12-20T05:11:54.000Z",
+  "updated_at": "2021-01-06T08:25:13.847Z",
+  "id": "7176e449-c97a-46ec-ad76-c6a59b949de6",
+  "labels": "current-affairs,2020-12-21",
+  "question": "Which Government co-owns ‘OneWeb’, a Low Earth Orbit (LEO) satellite communications operator?",
+  "option1": "India",
+  "option2": "United Kingdom",
+  "option3": "Canada",
+  "option4": "Switzerland",
+  "option5": "",
+  "answer": "United Kingdom",
+  "explanation": "The Low Earth Orbit (LEO) satellite communications operator is co-owned by Bharti Global and the United Kingdom government.\r\nThe Operator has recently launched 36 satellites from a cosmodrome in Russia. This step will expedite the launch of high-speed internet services in India by mid-2022. At present, a foreign satellite operator should go through Antrix (ISRO’s commercial arm), for selling bandwidth capacity to users in India."
+}
