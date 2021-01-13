@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:15.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "3636b9be-6441-45a1-8f9a-44d731a4ec4b",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Lake Ontario is situated in which among the following countries?<br />\n<ol>\n<li>United States</li>\n<li>Canada</li>\n<li>Greenland</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Lake Ontario is one of the five Great Lakes of North America. It is bordered by the Canada and United States. It is the only Great Lake not to border the state of Michigan."
+}

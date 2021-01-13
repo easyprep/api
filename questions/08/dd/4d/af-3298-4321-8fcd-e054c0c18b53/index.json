@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "08dd4daf-3298-4321-8fcd-e054c0c18b53",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which is the deepest lake in North America?",
+  "option1": "Great Bear Lake",
+  "option2": "Lake Superior",
+  "option3": "Lake Ontario",
+  "option4": "Great Slave Lake",
+  "option5": "",
+  "answer": "Great Slave Lake",
+  "explanation": "The Great Slave Lake is located in Canada. <br />It is the deepest lake in North America at 614 metres<br />It is the tenth-largest lake in the world"
+}

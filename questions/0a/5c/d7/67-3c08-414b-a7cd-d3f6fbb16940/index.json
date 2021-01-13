@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:32:06.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "0a5cd767-3c08-414b-a7cd-d3f6fbb16940",
+  "labels": "current-affairs,2020-07-26",
+  "question": "The government of Maharashtra approved the auto-rickshaws “happy hours” by reducting what percent of fare prices from 12 pm to 4 pm?",
+  "option1": 0.05,
+  "option2": 0.15,
+  "option3": 0.25,
+  "option4": 0.5,
+  "option5": "",
+  "answer": 0.15,
+  "explanation": "A reduction of 15% of fare prices is approved by the government of Maharashtra during auto-rickshaws “happy hours” from 12 pm to 4 pm. The provision was recommended by the Khatua panel. The panel had also recommended the same discount for conventional taxis and app-based cabs but it was not approved."
+}

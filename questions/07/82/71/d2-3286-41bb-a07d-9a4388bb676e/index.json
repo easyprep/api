@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:38:23.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "078271d2-3286-41bb-a07d-9a4388bb676e",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs of mountain ranges and their peaks is/are correctly matched?<br />\n<ol>\n<li>Caucasus Mountain - Mt. Elbrus</li>\n<li>Ural Mountains - Mt. Trich Mir</li>\n<li>Hindukush Mountains - Mt. Narodnaya </li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The Ural Mountains in Russia, act as a boundary between Europe and Asia. Mt. Narodnaya is the highest peak in the Urals.<br /><br />The Hindukush mountains, located in Pakistan and Afghanistan are a folded mountain range. Mt. Trich Mir is the highest peak in the Hindukush Mountains."
+}

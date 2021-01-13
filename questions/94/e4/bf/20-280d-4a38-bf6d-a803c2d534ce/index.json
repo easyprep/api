@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:32:05.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "94e4bf20-280d-4a38-bf6d-a803c2d534ce",
+  "labels": "current-affairs,2020-07-26",
+  "question": "As per the India State of Forest Report 2019, what percent of the total geographical area of Maharashtra is covered under forest?",
+  "option1": 0.1323,
+  "option2": 0.165,
+  "option3": 0.2113,
+  "option4": 0.2416,
+  "option5": "",
+  "answer": 0.165,
+  "explanation": "As per the India State of Forest Report 2019, 16.50% of the total geographical area of Maharashtra is covered under forest (50,777.56 sq km). Very dense forest covers 2.83%, Moderately dense forest covers 6.69% and Open forest covers 6.98%."
+}

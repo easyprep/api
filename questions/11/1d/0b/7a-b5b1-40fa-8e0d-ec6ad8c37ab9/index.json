@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:23:42.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "111d0b7a-b5b1-40fa-8e0d-ec6ad8c37ab9",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following mountains and the associated continents is/are correctly matched?<br />\n<ol>\n<li>Mount  Kosciuszko - Antarctica </li>\n<li>Mount Vinson Massif - Australia</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Mount Kosciuszko is the highest mountain in the Australian continent. It's summit is 2228 metres above sea level. It is located in New South Wales, Australia. <br /><br />Mount Vinson Massif is the highest mountain in Antarctic continent. Its summit is 4897 metres above sea level. It is located in Antarctica."
+}

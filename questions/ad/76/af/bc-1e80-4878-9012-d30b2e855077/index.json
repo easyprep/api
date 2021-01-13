@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:24.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "ad76afbc-1e80-4878-9012-d30b2e855077",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs of lakes and their features is/are correctly matched?<br />\n<ol>\n<li>The Caspian sea -  Largest lakes in the world</li>\n<li>Superior Lake - largest freshwater lake in the world by surface area.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Caspian sea despite its name, is one of the largest lakes in the world. It is surrounded by the following countries: -Kazakhstan, Russia, Turkmenistan, Azerbaijan, Iran<br /><br />The Superior lake is largest of the Great Lakes by volume. It is bordered by United States and Canada. It is the largest freshwater lake in the world by surface area."
+}

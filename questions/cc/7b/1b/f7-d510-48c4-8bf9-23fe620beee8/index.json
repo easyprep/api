@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:24.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "cc7b1bf7-d510-48c4-8bf9-23fe620beee8",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs of lakes and their features is/are correctly matched?<br />\n<ol>\n<li>Lake Victoria - Largest of the Great Lakes</li>\n<li>Lake Superior - Largest lake in Africa</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Lake Victoria is bordered by Uganda, Kenya and Tanzania. It is the largest lake by area in Africa.<br /><br />The Superior lake is largest of the Great Lakes by volume. It is bordered by United States and Canada. It is the largest freshwater lake in the world by surface area."
+}

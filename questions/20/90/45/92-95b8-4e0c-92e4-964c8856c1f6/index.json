@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:24.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "20904592-95b8-4e0c-92e4-964c8856c1f6",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs of lakes and their features is/are correctly matched?<br />\n<ol>\n<li>Lake Tanganyika - Longest freshwater lake in the world</li>\n<li>Lake Michigan - Deepest lake in the world</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Lake Tanganyika is the longest freshwater lake in the world. It is second largest by volume. It is bordered by the following countries: Burundi, Tanzania, Zambia, Democratic Republic of the Congo.<br /><br />Lake Michigan is part of the Great Lakes. It is located in Unites States. Michigan lake is the largest lake located entirely in one country.<br /><br />Lake Baikal in Russia is the deepest lake in the world. It is the largest volume freshwater lake in the world."
+}

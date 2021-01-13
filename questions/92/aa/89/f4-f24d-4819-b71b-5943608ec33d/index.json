@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:15.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "92aa89f4-f24d-4819-b71b-5943608ec33d",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs of lakes and the countries associated is/are correctly matched?<br />\n<ol>\n<li>Lake Malawi - Bangladesh</li>\n<li>Lake Winnipeg - Canada</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Lake Malawi has more species of fish than any other lake in the world. It is bordered by following countries: <br />Malawi<br />Mozambique<br />Tanzania<br /><br />Lake Winnipeg is located in Canada. It is Canada's sixth largest freshwater lake."
+}

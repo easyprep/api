@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:32:06.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "c28236c7-2de7-4a63-9992-104fc7db1c4c",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the name of the explosive detection device which was launched in the National Workshop on Explosive Detection 2020?",
+  "option1": "RaIDer-X",
+  "option2": "IEDd-I",
+  "option3": "RaEd-IV",
+  "option4": "EdRad-I",
+  "option5": "",
+  "answer": "RaIDer-X",
+  "explanation": "The National Workshop on Explosive Detection (NWED-2020) was organized in Pune, Maharashtra. During the event, an explosive detection device named RaIDer-X was launched. It is capable of detect explosives from a stand-off distance. The device is developed by HEMRL, Pune and IISc, Bangalore."
+}

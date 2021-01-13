@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:38:21.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "47ca25d9-f12a-4775-889c-31d5520c104c",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following mountain ranges and their peaks is/are correctly matched?<br />\n<ol>\n<li>Rockies - Mt. Mitchell</li>\n<li>Alps - Mt. Blanc</li>\n<li>Appalachians - Mt. Elbert </li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Mt.Elbert is the highest peak in the Rockies. The Rocky Mountains are located in North America. They are the longest fold mountains in the world. They extend from Canada to Western US.<br /><br />Alps are a folded mountain ranges in Europe. Mount Blanc is one of the important peaks in Alps. Alps are a source for the rivers Danube, Rhine, etc.<br /><br />The Appalachian mountain range is located in North America. It is a fold mountain rich in mineral resources. Mt. Mitchell, North Carolina, US is the highest peak of the Appalachian mountains."
+}

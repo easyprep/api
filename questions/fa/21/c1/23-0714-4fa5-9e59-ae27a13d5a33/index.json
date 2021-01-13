@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:38:21.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "fa21c123-0714-4fa5-9e59-ae27a13d5a33",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following pairs of Mountain ranges and their peaks is/are correctly matched?<br />\n<ol>\n<li>Altai Mountains - Belukha</li>\n<li>Andes Mountains - Mt. Aconcagua</li>\n<li>Atlas Mountains - Mt. Lesotho</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The Atlas Mountains in Northwestern Africa, are a young fold mountains spreading over Morocco and Tunisia. Mt. Toubkal is the highest peak in the Atlas Mountains.<br /><br />The Drakensberg Mountains in South Africa, are young folded mountains. Mt. Lesotho is the highest peak in the Drakensberg Mountains."
+}

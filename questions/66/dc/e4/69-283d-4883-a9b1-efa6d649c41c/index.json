@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-22T04:29:44.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "66dce469-283d-4883-a9b1-efa6d649c41c",
+  "labels": "current-affairs,2020-07-23",
+  "question": "Which Union Ministry has signed a Memorandum of Understanding (MoU) with the Central Board of Direct Taxes (CBDT) for data sharing?",
+  "option1": "Ministry of Finance",
+  "option2": "Ministry of MSME",
+  "option3": "Ministry of Commerce and Industry",
+  "option4": "Ministry of Corporate Affairs",
+  "option5": "",
+  "answer": "Ministry of MSME",
+  "explanation": "The Ministry of Micro, Small and Medium Enterprises (MoMSME) has signed a Memorandum of Understanding (MoU) with the Central Board of Direct Taxes (CBDT) for sharing of data.\r\nUnder the MoU, certain Income-tax Return (ITR) related information will be seamlessly shared by the Income Tax Department to Ministry of MSME. With this data, the Ministry will be able to check and classify the enterprises, as per the MSME category."
+}

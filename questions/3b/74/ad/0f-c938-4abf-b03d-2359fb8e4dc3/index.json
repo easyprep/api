@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-24T15:24:39.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "3b74ad0f-c938-4abf-b03d-2359fb8e4dc3",
+  "labels": "current-affairs,2020-07-25",
+  "question": "Which is the world's largest filled-aperture (full dish) radio telescope?",
+  "option1": "RATAN-600 of Russia",
+  "option2": "FAST of China",
+  "option3": "Arecibo Observatory of Puerto Rico",
+  "option4": "Green Bank Telescope of USA",
+  "option5": "",
+  "answer": "FAST of China",
+  "explanation": "Five-hundred-meter Aperture Spherical radio Telescope (FAST), also known as Tianyan, built by China is the world's largest filled-aperture (full dish) radio telescope. It is also the second-largest single-dish aperture radio telescope after the RATAN 600 of Russia. It achieved its first light (first use of a telescope to take an astronomical image after it has constructed) in 2016."
+}

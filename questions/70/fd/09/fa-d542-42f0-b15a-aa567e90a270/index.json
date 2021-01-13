@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:32:05.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "70fd09fa-d542-42f0-b15a-aa567e90a270",
+  "labels": "current-affairs,2020-07-26",
+  "question": "As per the Indian State of Forest Report 2019, what percent of the total mangrove cover of India is found in Maharashtra?",
+  "option1": 0.0233,
+  "option2": 0.0324,
+  "option3": 0.0644,
+  "option4": 0.0712,
+  "option5": "",
+  "answer": 0.0644,
+  "explanation": "As per the Indian State of Forest Report 2019, 6.44% of the total mangrove cover of India is found in Maharashtra (320 sq. km). Total mangrove cover is highest in the state of West Bengal (42.45%)."
+}

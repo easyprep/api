@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:38:21.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "0d0de64e-999f-47c8-babd-6f13d28eac79",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the Himalayas?<br />\n<ol>\n<li>They are block mountains in Asia separating Indian sub-continent from the Asian plains</li>\n<li>Mt. Everest is the highest peak in the Himalayas</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The Himalayas are fold mountains in Asia separating Indian sub-continent from the Asian plains. Mt.Everest is the highest peak in the Himalayas."
+}

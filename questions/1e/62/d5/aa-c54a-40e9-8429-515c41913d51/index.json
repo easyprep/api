@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:10.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "1e62d5aa-c54a-40e9-8429-515c41913d51",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements about Lake Baikal is/are correct?<br />\n<ol>\n<li>It is located in Russia</li>\n<li>It is the longest freshwater lake in the world</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Lake Baikal in Russia is the deepest lake in the world. It is the <strong>largest</strong> volume freshwater lake in the world."
+}

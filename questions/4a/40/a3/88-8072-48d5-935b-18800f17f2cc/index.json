@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:32:02.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "4a40a388-8072-48d5-935b-18800f17f2cc",
+  "labels": "current-affairs,2020-07-26",
+  "question": "The government of Maharashtra launched the Automated Multi-modal Biometric Identification System for which of the following purpose?",
+  "option1": "Instant Aadhar Generation",
+  "option2": "Rationing system",
+  "option3": "Crime Detection",
+  "option4": "Cashless Payment",
+  "option5": "",
+  "answer": "Crime Detection",
+  "explanation": "The government of Maharashtra launched Automated Multi-modal Biometric Identification System (AMBIS) for detecting crime. The system is first of its kind in India. It has helped to solve 85 cases so far."
+}

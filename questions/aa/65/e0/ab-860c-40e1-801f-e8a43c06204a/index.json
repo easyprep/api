@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T03:44:39.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "aa65e0ab-860c-40e1-801f-e8a43c06204a",
+  "labels": "current-affairs,2020-07-26",
+  "question": "‘ASTHROS’ mission, that was seen in news recently, is associated with the Space Agency of which country?",
+  "option1": "France",
+  "option2": "Russia",
+  "option3": "United States",
+  "option4": "India",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The National Aeronautics and Space Administration (NASA) announced that it has started to work on a new mission named ‘ASTHROS’.\r\nIt stands for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Sub millimeter-wavelengths (ASTHROS). The mission aims to send a telescope on a football stadium-sized balloon into the stratosphere to observe far-infrared light, that is invisible from the Earth. It is proposed to be launched in 2023 from Antarctica."
+}

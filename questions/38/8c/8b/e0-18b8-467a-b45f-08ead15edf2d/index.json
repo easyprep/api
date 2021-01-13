@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "388c8be0-18b8-467a-b45f-08ead15edf2d",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following lakes has more species of fish than any other lake in the world?",
+  "option1": "Lake Michigan",
+  "option2": "Lake Baikal",
+  "option3": "The Great Bear Lake",
+  "option4": "Lake Malawi",
+  "option5": "",
+  "answer": "Lake Malawi",
+  "explanation": "Lake Malawi has more species of fish than any other lake in the world. It is bordered by following countries:<br />Malawi<br />Mozambique<br />Tanzania"
+}

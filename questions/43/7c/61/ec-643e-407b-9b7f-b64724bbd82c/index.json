@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:23:42.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "437c61ec-643e-407b-9b7f-b64724bbd82c",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following mountains and their continents is/are correctly matched?<br />\n<ol>\n<li>Mount Everest - Asia</li>\n<li>Mount Kilimanjaro - Europe</li>\n<li>Mount Mckinley - Africa</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Mount Kilimajaro, Tanzania is the tallest mountain in Africa. It is the highest single free-standing mountain in the world. It is made up of extinct volcanoes. <br /><br />Mt. Mckinley, also known as Denali is the highest mountain in North American continent. It is 6168 metres. It is located on USA in the state of Alaska. <br />"
+}

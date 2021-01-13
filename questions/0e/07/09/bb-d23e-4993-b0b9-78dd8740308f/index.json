@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-23T04:46:08.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "0e0709bb-d23e-4993-b0b9-78dd8740308f",
+  "labels": "current-affairs,2020-07-24",
+  "question": "Which feature has been added by the National Payments Corporation of India (NCPI) in Unified Payments Interface (UPI)?",
+  "option1": "Autopay",
+  "option2": "Near Field Communication",
+  "option3": "Mutual Fund Investment",
+  "option4": "NPS investment",
+  "option5": "",
+  "answer": "Autopay",
+  "explanation": "National Payments Corporation of India (NCPI) has recently added the ‘UPI Autopay’ feature in its Unified Payments Interface (UPI).\r\nThis solution has been launched during the virtual event of Global Fintech Fest. The e-mandate can be used in recurring payments and for multiple payment scenarios including booking train tickets, paying DTH subscriptions among others."
+}

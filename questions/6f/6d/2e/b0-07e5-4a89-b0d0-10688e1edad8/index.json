@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:19.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "6f6d2eb0-07e5-4a89-b0d0-10688e1edad8",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Lake Titicaca is situated on the borders of which among the following countries?<br />\n<ol>\n<li>Argentina</li>\n<li>Bolivia</li>\n<li>Peru</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "1, 2 & 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Lake Titicaca is the largest lake in South America<br />It is the highest navigable lake in the world<br />It borders the countries Bolivia and Peru."
+}

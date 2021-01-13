@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:06.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "e6e5e40f-4013-4b73-badc-cee276faa5c3",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following lakes are a part of the Great Lakes of North America?<br />\n<ol>\n<li>Lake Erie</li>\n<li>Lake Superior</li>\n<li>Lake Michigan</li>\n<li>Lake Ontario</li>\n<li>Lake Winnipeg</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 2, 3 & 4",
+  "option2": "Only 2 & 4",
+  "option3": "1, 2, 3, 4 & 5",
+  "option4": "Only 1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 2, 3 & 4",
+  "explanation": "The Great Lakes are a series of inter connected fresh water lakes in North America. The Great Lakes include: <br />Lake Superior <br />Lake Michigan <br />Lake Huron <br />Lake Erie  <br />Lake Ontario"
+}

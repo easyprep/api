@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:06.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "538051df-395c-494f-a66d-afb05aff003e",
+  "labels": "current-affairs,2020-07-26",
+  "question": "The Superior lake is bordered by which among the following countries?<br />\n<ol>\n<li>United States</li>\n<li>Canada</li>\n<li>Russia</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 3",
+  "option2": "Only 1",
+  "option3": "Only 2",
+  "option4": "Only 1 & 2",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The Superior lake is largest of the Great Lakes by volume. It is bordered by United States and Canada. It is the largest freshwater lake in the world by surface area."
+}

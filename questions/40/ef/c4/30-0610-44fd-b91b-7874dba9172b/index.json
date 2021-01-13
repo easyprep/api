@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:08.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "40efc430-0610-44fd-b91b-7874dba9172b",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about lake Tanganyika?<br />\n<ol>\n<li>It is the largest freshwater lake by volume.</li>\n<li>It is the longest freshwater lake in the world.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Lake Tanganyika is the longest freshwater lake in the world. It is second largest by volume. It is bordered by the following countries: <br />Burundi <br />Tanzania<br />Zambia <br />Democratic Republic of the Congo"
+}

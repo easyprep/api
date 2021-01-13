@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:11.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "41ad1250-1fb5-47c9-8cb8-a9786efe434e",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the statements is/are correct about Lake Malawi?<br />\n<ol>\n<li>It is bordered by Rwanda, Tanzania and Malawi</li>\n<li>It has more species of fish than any other lake in the world</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Lake Malawi has more species of fish than any other lake in the world. It is bordered by following countries: <br />Malawi <br />Mozambique <br />Tanzania"
+}

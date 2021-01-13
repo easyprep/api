@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-24T15:24:39.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "4d6724b3-464c-4cf4-b43d-d4dcb7f22e04",
+  "labels": "current-affairs,2020-07-25",
+  "question": "Which country's satellite navigation system is \"BeiDou\"?",
+  "option1": "Japan",
+  "option2": "South Korea",
+  "option3": "China",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "China",
+  "explanation": "BeiDou is China's satellite navigation system. China launched its own satellite navigation system in 2000. On 23rd June 2020, China launched its final BeiDou satellite. Thereby, BeiDou became an alternative global navigation satellite system to United States Global Positioning System (GPS), Russia's GLONASS and European Union's Galileo."
+}

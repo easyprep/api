@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:22:13.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "99fcf36d-6ec9-416b-987f-9e76643dabb7",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about Lake Erie?<br />\n<ol>\n<li>It is bordered by United States and Canada</li>\n<li>It is a part of the Great Lakes in North America</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Lake Erie is bordered by United States and Canada. It is the fourth largest lake among the five Great Lakes."
+}

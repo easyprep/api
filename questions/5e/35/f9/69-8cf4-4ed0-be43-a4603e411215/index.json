@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:32:06.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "5e35f969-8cf4-4ed0-be43-a4603e411215",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the name of the low-cost mechanical ventilator which was developed by IIT Bombay?",
+  "option1": "Covent",
+  "option2": "Torque",
+  "option3": "Prasant",
+  "option4": "Rudhaar",
+  "option5": "",
+  "answer": "Rudhaar",
+  "explanation": "The name of the low-cost mechanical ventilator which was developed by IIT Bombay is Rudhaar. Indian Council of Medical Research funded this project. The ventilator was developed using locally available materials."
+}

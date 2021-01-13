@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T18:32:06.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "ba699d8d-9851-4831-9cf6-923bb0efe965",
+  "labels": "current-affairs,2020-07-26",
+  "question": "What is the name of the app which has been developed by IIT Bombay to track COVID-19 quarantine violations?",
+  "option1": "Corontine",
+  "option2": "Coviolate",
+  "option3": "Cosafety",
+  "option4": "Cotrack",
+  "option5": "",
+  "answer": "Corontine",
+  "explanation": "IIT Bombay developed two apps named \"Corontine\" and \"Safe\" to track COVID-19 quarantine violations. Corontine app will alert through SMS whenever someone tries to move out of the quarantine zone."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-25T16:38:26.000Z",
+  "updated_at": "2021-01-06T08:25:02.082Z",
+  "id": "afa7cd2b-dc46-449a-a674-114d1f8f44d4",
+  "labels": "current-affairs,2020-07-26",
+  "question": "Which among the following statements is/are correct about the Vosges mountain range?<br />\n<ol>\n<li>It is located in western France, Europe.</li>\n<li>Mt. Kennedy is the highest peak. </li>\n<li>It is famous for cultivation of grapes and manufacture of wines.</li>\n</ol>\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 2",
+  "option3": "1, 2 & 3",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "The Vosges mountain range is located in the Eastern France, Europe. Mt. Grand Ballon is the highest peak in the Vosges. The Vosges mountain range is famous for cultivation of grapes and manufacture of wines."
+}
