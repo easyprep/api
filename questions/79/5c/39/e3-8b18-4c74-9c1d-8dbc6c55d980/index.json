@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.624Z",
+  "updated_at": "2021-01-09T03:41:52.624Z",
+  "id": "795c39e3-8b18-4c74-9c1d-8dbc6c55d980",
+  "labels": "general-knowledge,technology",
+  "question": "The most common format for a home video recorder is VHS. VHS stands for...?",
+  "option1": "Video Home System",
+  "option2": "Very high speed",
+  "option3": "Video horizontal standard",
+  "option4": "Voltage house standard",
+  "option5": "",
+  "answer": "Video Home System",
+  "explanation": "JVC (Japan Victor Corporation) and Matsushita (Panasonic) developed the VHS format to compete with Sony which developed the Beta format as the first home video cassette recorder. VHS originally stood for Vertical Helical Scan, but now means Video Home System.",
+  "verified_at": ""
+}

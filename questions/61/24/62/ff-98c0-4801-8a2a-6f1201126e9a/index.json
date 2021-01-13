@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:00.956Z",
+  "updated_at": "2021-01-09T03:42:00.956Z",
+  "id": "612462ff-98c0-4801-8a2a-6f1201126e9a",
+  "labels": "general-knowledge,technology",
+  "question": "In which decade was the Internet first implemented?",
+  "option1": "1940s",
+  "option2": "1950s",
+  "option3": "1960s",
+  "option4": "1980s",
+  "option5": "",
+  "answer": "1960s",
+  "explanation": "The first message ever sent over what is now called the Internet took place at 10:30PM on October 29, 1969. Back then, the Department of Defense called it ARPAnet (Advanced Research Projects Agency network).",
+  "verified_at": ""
+}

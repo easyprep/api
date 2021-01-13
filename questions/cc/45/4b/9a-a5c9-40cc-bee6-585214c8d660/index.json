@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.803Z",
+  "updated_at": "2021-01-09T03:42:03.803Z",
+  "id": "cc454b9a-a5c9-40cc-bee6-585214c8d660",
+  "labels": "general-knowledge,technology",
+  "question": "Which Intel chip was the first to support a 32-bit bus architecture?",
+  "option1": "486SI",
+  "option2": "Pentium",
+  "option3": 286,
+  "option4": "386DX",
+  "option5": "",
+  "answer": "386DX",
+  "explanation": "The 386 chip was the first to offer a possible 32- or 64-bit access to data. OS-2 2.x or higher and Windows 95 required at least a 386 CPU while Windows NT 4.x required at least a 486 CPU to run.",
+  "verified_at": ""
+}

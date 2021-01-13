@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:55.088Z",
+  "updated_at": "2021-01-09T03:41:55.088Z",
+  "id": "8f14a49f-429f-4d7e-a3f8-61404ade007d",
+  "labels": "general-knowledge,technology",
+  "question": "What are three types of lasers?",
+  "option1": "Gas, metal vapor, rock",
+  "option2": "Pointer, diode, CD",
+  "option3": "Diode, inverted, pointer",
+  "option4": "Gas, solid state, diode",
+  "option5": "",
+  "answer": "Gas, solid state, diode",
+  "explanation": "The first laser was a solid state laser. Solid state refers to any solid material like a glass rod. Diode lasers are very common because they are used to read compact disks and digital video disks in computers, CD players, and DVD players. Before diode lasers, the most common type of laser may have been the helium-neon laser, in which the active medium is a combination of the two gasses helium and neon.",
+  "verified_at": ""
+}

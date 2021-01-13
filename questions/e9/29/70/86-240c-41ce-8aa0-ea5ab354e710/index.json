@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.622Z",
+  "updated_at": "2021-01-09T03:41:52.622Z",
+  "id": "e9297086-240c-41ce-8aa0-ea5ab354e710",
+  "labels": "general-knowledge,technology",
+  "question": "Made from a variety of materials, such as carbon, which inhibits the flow of current...?",
+  "option1": "Choke",
+  "option2": "Inductor",
+  "option3": "Resistor",
+  "option4": "Capacitor",
+  "option5": "",
+  "answer": "Resistor",
+  "explanation": "So named because it resists (or inhibits) the flow of current.",
+  "verified_at": ""
+}

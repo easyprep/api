@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:46.226Z",
+  "updated_at": "2021-01-09T03:42:46.226Z",
+  "id": "0bca15da-e537-40db-a808-f8df1413d2c5",
+  "labels": "general-knowledge,inventions",
+  "question": "When was the first lawn mower invented?",
+  "option1": 1830,
+  "option2": 1854,
+  "option3": 1835,
+  "option4": 1849,
+  "option5": "",
+  "answer": 1830,
+  "explanation": "The first lawn mowers were not engine powered. Invented in 1830 by Edwin Budding of England, the mowers were turning blades on wooden sticks used to cut grass. Engine powered mowers were not invented until 1919 by an American Army colonel, who used the motor from a washing machine.",
+  "verified_at": ""
+}

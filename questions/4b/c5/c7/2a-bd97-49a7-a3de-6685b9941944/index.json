@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.124Z",
+  "updated_at": "2021-01-09T03:42:04.124Z",
+  "id": "4bc5c72a-bd97-49a7-a3de-6685b9941944",
+  "labels": "general-knowledge,technology",
+  "question": "What is FMD?",
+  "option1": "FastEthernet Measuring Device",
+  "option2": "Flashing Media Diode",
+  "option3": "Fluorescent Multi-Layer Disc",
+  "option4": "Flash Media Driver",
+  "option5": "",
+  "answer": "Fluorescent Multi-Layer Disc",
+  "explanation": "A new type of disc developed by Constellation 3D Inc. These discs can hold up to to 140 GB of data.",
+  "verified_at": ""
+}

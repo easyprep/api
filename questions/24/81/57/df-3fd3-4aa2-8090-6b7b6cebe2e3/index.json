@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.796Z",
+  "updated_at": "2021-01-09T03:42:03.796Z",
+  "id": "248157df-3fd3-4aa2-8090-6b7b6cebe2e3",
+  "labels": "general-knowledge,technology",
+  "question": "This virus activated every Friday the 13th, affects both .EXE and .COM files and deletes any programs run on that day. What is the name of that virus?",
+  "option1": "Chernobyl",
+  "option2": "Jerusalem",
+  "option3": "Melissa",
+  "option4": "I Love You",
+  "option5": "",
+  "answer": "Jerusalem",
+  "explanation": "This was one of the most common viruses unleashed in 1988.",
+  "verified_at": ""
+}

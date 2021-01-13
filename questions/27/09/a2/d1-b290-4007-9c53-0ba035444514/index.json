@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.123Z",
+  "updated_at": "2021-01-09T03:42:04.123Z",
+  "id": "2709a2d1-b290-4007-9c53-0ba035444514",
+  "labels": "general-knowledge,technology",
+  "question": "What does ICMP stand for?",
+  "option1": "Internet Connection Modem Protocol",
+  "option2": "Intranet Control Message Program",
+  "option3": "Internal Conflict Management Program",
+  "option4": "Internet Control Message Protocol",
+  "option5": "",
+  "answer": "Internet Control Message Protocol",
+  "explanation": "ICMP Packets are used to send control messages including errors.",
+  "verified_at": ""
+}

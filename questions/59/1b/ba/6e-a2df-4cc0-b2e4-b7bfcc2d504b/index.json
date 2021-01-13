@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:10.609Z",
+  "updated_at": "2021-01-09T03:42:10.609Z",
+  "id": "591bba6e-a2df-4cc0-b2e4-b7bfcc2d504b",
+  "labels": "general-knowledge,world-organisations",
+  "question": "Which of the following is not associated with the UNO?",
+  "option1": "ILO",
+  "option2": "WHO",
+  "option3": "ASEAN",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "ASEAN",
+  "explanation": "UNO: United Nations Organization\nILO: International Labor Organization\nWHO: World Health Organization\nASEAN: Association of Southeast Asian Nations",
+  "verified_at": ""
+}

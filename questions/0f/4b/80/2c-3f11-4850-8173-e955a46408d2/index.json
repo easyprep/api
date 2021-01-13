@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.120Z",
+  "updated_at": "2021-01-09T03:42:04.120Z",
+  "id": "0f4b802c-3f11-4850-8173-e955a46408d2",
+  "labels": "general-knowledge,technology",
+  "question": "What is RISC?",
+  "option1": "Remodeled Interface System Computer",
+  "option2": "Remote Intranet Secured Connection",
+  "option3": "Runtime Instruction Set Compiler",
+  "option4": "Reduced Instruction Set Computer",
+  "option5": "",
+  "answer": "Reduced Instruction Set Computer",
+  "explanation": "Reduced Instruction Set Computer - a type of microprocessor that relies on simple instructions which can be used to build more complicated ones.",
+  "verified_at": ""
+}

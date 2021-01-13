@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.295Z",
+  "updated_at": "2021-01-09T03:41:52.295Z",
+  "id": "4193e039-3d85-4eee-bf09-413296eb7f8a",
+  "labels": "general-knowledge,technology",
+  "question": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+  "option1": "Sound",
+  "option2": "Remote control",
+  "option3": "Color balance",
+  "option4": "High voltage",
+  "option5": "",
+  "answer": "Remote control",
+  "explanation": "Some authorities are recommending TV's, VCR's and Stereo's be connected to power strips with switches and turned off when not in use to save energy. Your remote will not work until power is switched back on.",
+  "verified_at": ""
+}

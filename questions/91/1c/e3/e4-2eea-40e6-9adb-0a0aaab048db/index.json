@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:45.735Z",
+  "updated_at": "2021-01-09T03:41:45.735Z",
+  "id": "911ce3e4-2eea-40e6-9adb-0a0aaab048db",
+  "labels": "general-knowledge,honours-and-awards",
+  "question": "Who among the following has received a Nobel Prize in literature 1953?",
+  "option1": "Pablo Neruda",
+  "option2": "Derek Walcott",
+  "option3": "Ernest Hemingway",
+  "option4": "Winston Churchill",
+  "option5": "",
+  "answer": "Winston Churchill",
+  "explanation": "http://www.nobelprize.org/nobel_prizes/literature/laureates/1953/churchill-bio.html",
+  "verified_at": ""
+}

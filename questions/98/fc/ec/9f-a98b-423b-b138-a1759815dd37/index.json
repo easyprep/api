@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:56.394Z",
+  "updated_at": "2021-01-09T03:41:56.394Z",
+  "id": "98fcec9f-a98b-423b-b138-a1759815dd37",
+  "labels": "general-knowledge,technology",
+  "question": "Larger buildings may be supplied with a medium voltage electricity supply, and will required a substation or mini-sub. What is the main item of equipment contained in these?",
+  "option1": "Transformer",
+  "option2": "Transponder",
+  "option3": "Transducer",
+  "option4": "Converter",
+  "option5": "",
+  "answer": "Transformer",
+  "explanation": "The transformer is used to transform a medium voltage supply to a low voltage supply, e.g. from 11 000 V to 400 V. A transformer is rated in kVA, kilo-Volt-Amps, which is a measurement of electrical power.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.786Z",
+  "updated_at": "2021-01-09T03:41:53.786Z",
+  "id": "ee3a80e3-8980-4aa9-8745-532d97798717",
+  "labels": "general-knowledge,technology",
+  "question": "Who created Pretty Good Privacy (PGP)?",
+  "option1": "Phil Zimmermann",
+  "option2": "Tim Berners-Lee",
+  "option3": "Marc Andreessen",
+  "option4": "Ken Thompson",
+  "option5": "",
+  "answer": "Phil Zimmermann",
+  "explanation": "Phil Zimmermann created the first version of PGP encryption in 1991. Pretty Good Privacy (PGP) is a data encryption and decryption computer program that provides cryptographic privacy and authentication for data communication. PGP is often used for signing, encrypting and decrypting texts, E-mails, files, directories and whole disk partitions to increase the security of e-mail communications.",
+  "verified_at": ""
+}

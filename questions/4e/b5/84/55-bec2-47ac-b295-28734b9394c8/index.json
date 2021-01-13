@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:58.345Z",
+  "updated_at": "2021-01-09T03:41:58.345Z",
+  "id": "4eb58455-bec2-47ac-b295-28734b9394c8",
+  "labels": "general-knowledge,technology",
+  "question": "What do you call a computer on a network that requests files from another computer?",
+  "option1": "A client",
+  "option2": "A host",
+  "option3": "A router",
+  "option4": "A web server",
+  "option5": "",
+  "answer": "A client",
+  "explanation": "No answer description available for this question. Let us discuss.",
+  "verified_at": ""
+}

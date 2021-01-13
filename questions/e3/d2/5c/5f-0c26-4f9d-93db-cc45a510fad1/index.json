@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:56.398Z",
+  "updated_at": "2021-01-09T03:41:56.398Z",
+  "id": "e3d25c5f-0c26-4f9d-93db-cc45a510fad1",
+  "labels": "general-knowledge,technology",
+  "question": "What was the active medium used in the first working laser ever constructed?",
+  "option1": "A diamond block",
+  "option2": "Helium-neon gas",
+  "option3": "A ruby rod",
+  "option4": "Carbon dioxide gas",
+  "option5": "",
+  "answer": "A ruby rod",
+  "explanation": "Theodore Maiman built the first working laser using a ruby rod while working at Hughes Research Laboratories in Malibu, California. It lased for the first time on May 16, 1960.",
+  "verified_at": ""
+}

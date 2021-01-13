@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:01.897Z",
+  "updated_at": "2021-01-09T03:42:01.897Z",
+  "id": "33a67703-6937-4a52-beb8-76e79d6bd38d",
+  "labels": "general-knowledge,technology",
+  "question": "What is VCM?",
+  "option1": "Virtual Connection Manager",
+  "option2": "Virtual Channel Memory",
+  "option3": "Voice Controlled Modem",
+  "option4": "Voice Communications Module",
+  "option5": "",
+  "answer": "Virtual Channel Memory",
+  "explanation": "VCM was designed by NEC Corp. It is supposed to be faster than normal SDRAM, and it is, but it never caught on.",
+  "verified_at": ""
+}

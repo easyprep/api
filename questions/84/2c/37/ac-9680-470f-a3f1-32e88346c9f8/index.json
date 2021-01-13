@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.792Z",
+  "updated_at": "2021-01-09T03:41:53.792Z",
+  "id": "842c37ac-9680-470f-a3f1-32e88346c9f8",
+  "labels": "general-knowledge,technology",
+  "question": "After the first photons of light are produced, which process is responsible for amplification of the light?",
+  "option1": "Blackbody radiation",
+  "option2": "Stimulated emission",
+  "option3": "Planck's radiation",
+  "option4": "Einstein oscillation",
+  "option5": "",
+  "answer": "Stimulated emission",
+  "explanation": "The word \"laser\" is actually an acronym for light amplification by stimulated emission of  radiation. Atoms or molecules of the active medium that have been excited to a higher energy level are stimulated by a passing photon to relax to a lower energy level and emit a photon that is indistinguishable from the passing photon, thereby increasing the number of photons like the incident one.",
+  "verified_at": ""
+}

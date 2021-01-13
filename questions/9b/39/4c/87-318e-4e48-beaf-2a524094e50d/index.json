@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:32.961Z",
+  "updated_at": "2021-01-09T03:42:32.961Z",
+  "id": "9b394c87-318e-4e48-beaf-2a524094e50d",
+  "labels": "general-knowledge,physics",
+  "question": "Lux is the SI unit of",
+  "option1": "intensity of illumination",
+  "option2": "luminous efficiency",
+  "option3": "luminous flux",
+  "option4": "luminous intensity",
+  "option5": "",
+  "answer": "intensity of illumination",
+  "explanation": "The SI unit of intensity of illumination (illuminance) is the lux. An illuminance of 1.0 lux is produced by 1.0 lumen of light shining on an area of 1.0 m^2.",
+  "verified_at": ""
+}

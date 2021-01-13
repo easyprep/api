@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.805Z",
+  "updated_at": "2021-01-09T03:42:03.805Z",
+  "id": "e0751916-c799-4a9c-af11-b9f0332fedcc",
+  "labels": "general-knowledge,technology",
+  "question": "What does ECP stand for?",
+  "option1": "Extended Capabilities Port",
+  "option2": "Extra Compatible Part",
+  "option3": "Extended Connection Port",
+  "option4": "External Cordless Peripheral",
+  "option5": "",
+  "answer": "Extended Capabilities Port",
+  "explanation": "An Extended Capabilities Port is about 10 times faster than the old standard one, but it is used the same way a regular parallel port is.",
+  "verified_at": ""
+}

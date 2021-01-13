@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:45.220Z",
+  "updated_at": "2021-01-09T03:42:45.220Z",
+  "id": "b4f6b76f-ec55-40d8-a9c6-43b8b976aa61",
+  "labels": "general-knowledge,inventions",
+  "question": "What Galileo invented?",
+  "option1": "Barometer",
+  "option2": "Pendulum clock",
+  "option3": "Microscope",
+  "option4": "Thermometer",
+  "option5": "",
+  "answer": "Thermometer",
+  "explanation": "Various authors have credited the invention of the thermometer to Cornelius Drebbel, Robert Fludd, Galileo Galilei or Santorio Santorio. The thermometer was not a single invention, however, but a development.\n\nGalileo Galilei also discovered that objects (glass spheres filled with aqueous alcohol) of slightly different densities would rise and fall, which is nowadays the principle of the Galileo thermometer (shown). Today such thermometers are calibrated to a temperature scale.",
+  "verified_at": ""
+}

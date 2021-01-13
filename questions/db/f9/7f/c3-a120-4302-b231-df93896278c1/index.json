@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:01.895Z",
+  "updated_at": "2021-01-09T03:42:01.895Z",
+  "id": "dbf97fc3-a120-4302-b231-df93896278c1",
+  "labels": "general-knowledge,technology",
+  "question": "What is LCP?",
+  "option1": "Local Connection Protocol",
+  "option2": "Lost Connection Problem",
+  "option3": "Link Control Protocol",
+  "option4": "Laggy Connection Problem",
+  "option5": "",
+  "answer": "Link Control Protocol",
+  "explanation": "LCP is a part of PPP(Point-Point Protocol).",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.483Z",
+  "updated_at": "2021-01-09T03:42:03.483Z",
+  "id": "2e01b3a7-e4b2-453a-81d7-0cafbd5c0521",
+  "labels": "general-knowledge,technology",
+  "question": "What is the World Wide Web?",
+  "option1": "A computer game",
+  "option2": "A software program",
+  "option3": "The part of the Internet that enables information-sharing via interconnected pages",
+  "option4": "Another name for the Internet",
+  "option5": "",
+  "answer": "The part of the Internet that enables information-sharing via interconnected pages",
+  "explanation": "The World Wide Web is a subset of the Internet. Specifically, the Web is a collection of documents and applications residing on Internet servers around the world.",
+  "verified_at": ""
+}

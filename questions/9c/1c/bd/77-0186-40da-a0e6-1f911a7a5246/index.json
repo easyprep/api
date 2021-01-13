@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:55.086Z",
+  "updated_at": "2021-01-09T03:41:55.086Z",
+  "id": "9c1cbd77-0186-40da-a0e6-1f911a7a5246",
+  "labels": "general-knowledge,technology",
+  "question": "\"FET\" is a type of transistor, Its full name is ________ Effect Transistor...?",
+  "option1": "Field",
+  "option2": "Factor",
+  "option3": "Flash",
+  "option4": "Force",
+  "option5": "",
+  "answer": "Field",
+  "explanation": "The terminals of FETs are called gate, drain and source. You might be more familiar with bipolar junction transistors (BJTs), which have terminals called base, collector and emitter. FETs were conceptualized first, but BJTs were easier to produce and so developed sooner.",
+  "verified_at": ""
+}

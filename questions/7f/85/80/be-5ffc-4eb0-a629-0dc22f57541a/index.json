@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.292Z",
+  "updated_at": "2021-01-09T03:41:52.292Z",
+  "id": "7f8580be-5ffc-4eb0-a629-0dc22f57541a",
+  "labels": "general-knowledge,technology",
+  "question": "In which decade was the SPICE simulator introduced?",
+  "option1": "1950s",
+  "option2": "1960s",
+  "option3": "1970s",
+  "option4": "1980s",
+  "option5": "",
+  "answer": "1970s",
+  "explanation": "SPICE (Simulation Program with Integrated Circuit Emphasis) was introduced in May 1972 by the University of Berkeley, California.",
+  "verified_at": ""
+}

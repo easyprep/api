@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.943Z",
+  "updated_at": "2021-01-09T03:41:52.943Z",
+  "id": "9b9f48cb-926f-417f-94e3-7d5b056f4630",
+  "labels": "general-knowledge,technology",
+  "question": "What is the relationship between resistivity r and conductivity s?",
+  "option1": "R = s2",
+  "option2": "R = s",
+  "option3": "R > s",
+  "option4": "R = 1/s",
+  "option5": "",
+  "answer": "R = 1/s",
+  "explanation": "No answer description available for this question. Let us discuss.",
+  "verified_at": ""
+}

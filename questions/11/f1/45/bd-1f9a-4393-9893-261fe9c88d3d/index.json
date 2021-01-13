@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:46.930Z",
+  "updated_at": "2021-01-09T03:42:46.930Z",
+  "id": "11f145bd-1f9a-4393-9893-261fe9c88d3d",
+  "labels": "general-knowledge,inventions",
+  "question": "What invention is credited to the Russian born American inventor Vladimir Kosma Zworykin?",
+  "option1": "Telegraph",
+  "option2": "Radio",
+  "option3": "Television",
+  "option4": "Dishwasher",
+  "option5": "",
+  "answer": "Television",
+  "explanation": "Zworykin invented both the tube (iconoscope) for transmission and the receiver (kinescope) in 1923 and 1924, respectively.",
+  "verified_at": ""
+}

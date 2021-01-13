@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.432Z",
+  "updated_at": "2021-01-09T03:42:04.432Z",
+  "id": "6ca0dc57-b23a-4fed-b92f-c487be7535af",
+  "labels": "general-knowledge,technology",
+  "question": "What is a NIC?",
+  "option1": "Netware Intranet Controller",
+  "option2": "No Internet Connection",
+  "option3": "Network Interface Card",
+  "option4": "Network Interference Control",
+  "option5": "",
+  "answer": "Network Interface Card",
+  "explanation": "A NIC is a Network Interface Card. Usually a card that is plugged into a computer's expansion slot.",
+  "verified_at": ""
+}

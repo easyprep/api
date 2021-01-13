@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:01.578Z",
+  "updated_at": "2021-01-09T03:42:01.578Z",
+  "id": "2eb09795-596e-4798-916d-85514d98df87",
+  "labels": "general-knowledge,technology",
+  "question": "Which of the following is NOT a type of expansion slot or bus design used in Advanced-Technology class systems?",
+  "option1": "PCMCIA",
+  "option2": "ISA",
+  "option3": "PROM",
+  "option4": "EISA",
+  "option5": "",
+  "answer": "PROM",
+  "explanation": "PROM stands for Programmable Read Only Memory and is not a type of expansion slot or bus design. Today, PCI has become the most used expansion slot design in PCs. Older PCs incorporated both PCI and ISA slots for computability with older expanssion devices.",
+  "verified_at": ""
+}

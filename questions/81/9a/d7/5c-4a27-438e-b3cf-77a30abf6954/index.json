@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.459Z",
+  "updated_at": "2021-01-09T03:41:53.459Z",
+  "id": "819ad75c-4a27-438e-b3cf-77a30abf6954",
+  "labels": "general-knowledge,technology",
+  "question": "When measuring the characteristics of a small-signal amplifier, say for a radio receiver, one might be concerned with its \"Noise...\"?",
+  "option1": "Fundamental",
+  "option2": "Fall",
+  "option3": "Force",
+  "option4": "Figure",
+  "option5": "",
+  "answer": "Figure",
+  "explanation": "\"Noise figure\" is one critical parameter for determining the \"quality\" of a low-noise, small-signal, amplifier, and perhaps more importantly, the sensitivity of the overall receiver system. It is especially important for VHF (very high frequency) - and higher frequency - designs where most of the undesired \"noise\" (noise that masks or overpowers the desired signals) is generated internal to the electronics itself. In HF (high frequency) applications, atmospheric noise plays a much larger role in determining overall useful sensitivity, so a circuit's \"noise figure\" is less important.",
+  "verified_at": ""
+}

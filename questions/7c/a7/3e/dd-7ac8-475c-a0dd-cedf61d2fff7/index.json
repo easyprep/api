@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:45.555Z",
+  "updated_at": "2021-01-09T03:42:45.555Z",
+  "id": "7ca73edd-7ac8-475c-a0dd-cedf61d2fff7",
+  "labels": "general-knowledge,inventions",
+  "question": "In which decade was the telephone invented?",
+  "option1": "1850s",
+  "option2": "1860s",
+  "option3": "1870s",
+  "option4": "1880s",
+  "option5": "",
+  "answer": "1870s",
+  "explanation": "Alexander Graham Bell's notebook entry of 10 March 1876 describes his successful experiment with the telephone. Speaking through the instrument to his assistant, Thomas A. Watson, in the next room, Bell utters these famous first words, \"Mr. Watson -- come here -- I want to see you\".",
+  "verified_at": ""
+}

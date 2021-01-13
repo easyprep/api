@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.139Z",
+  "updated_at": "2021-01-09T03:41:53.139Z",
+  "id": "a336a672-edbc-46ad-9d49-48e575801f5a",
+  "labels": "general-knowledge,technology",
+  "question": "Which motor is NOT suitable for use as a DC machine?",
+  "option1": "Permanent magnet motor",
+  "option2": "Series motor",
+  "option3": "Squirrel cage motor",
+  "option4": "Synchronous motor",
+  "option5": "",
+  "answer": "Squirrel cage motor",
+  "explanation": "The squirrel cage motor is the only one without any connection to the armature.",
+  "verified_at": ""
+}

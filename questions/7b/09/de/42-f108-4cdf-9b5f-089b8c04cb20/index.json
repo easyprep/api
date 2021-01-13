@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:54.436Z",
+  "updated_at": "2021-01-09T03:41:54.436Z",
+  "id": "7b09de42-f108-4cdf-9b5f-089b8c04cb20",
+  "labels": "general-knowledge,technology",
+  "question": "In a color television set using a picture tube a high voltage is used to accelerate electron beams to light the screen. That voltage is about...?",
+  "option1": "500 volts",
+  "option2": "5 thousand volts",
+  "option3": "25 thousand volts",
+  "option4": "100 thousand volts",
+  "option5": "",
+  "answer": "25 thousand volts",
+  "explanation": "This voltage often remains in storage even if the set is unplugged. Although the voltage is very high it has very low power but it can be dangerous because your body jumps if brought in contact.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.936Z",
+  "updated_at": "2021-01-09T03:41:52.936Z",
+  "id": "9f757d06-a66e-41c1-afe9-496c5df5c6a6",
+  "labels": "general-knowledge,technology",
+  "question": "What frequency range is the High Frequency band?",
+  "option1": "100 kHz",
+  "option2": "1 GHz",
+  "option3": "30 to 300 MHz",
+  "option4": "3 to 30 MHz",
+  "option5": "",
+  "answer": "3 to 30 MHz",
+  "explanation": "The HF band is based on frequencies 3 to 30 Mhz. AM radio stations are in the HF band but normally are stated in kilohertz.",
+  "verified_at": ""
+}

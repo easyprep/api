@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:58.343Z",
+  "updated_at": "2021-01-09T03:41:58.343Z",
+  "id": "27c6ed24-911c-4527-8574-3ce2982ae7b5",
+  "labels": "general-knowledge,technology",
+  "question": "Name the terminals of a BJT.",
+  "option1": "Drain, Gate, Source",
+  "option2": "Positive, Negative, Neutral",
+  "option3": "Anode, Cathode, Triode",
+  "option4": "Emitter, Base, Collector",
+  "option5": "",
+  "answer": "Emitter, Base, Collector",
+  "explanation": "No answer description available for this question. Let us discuss.",
+  "verified_at": ""
+}

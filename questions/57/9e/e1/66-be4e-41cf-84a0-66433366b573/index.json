@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:46.231Z",
+  "updated_at": "2021-01-09T03:42:46.231Z",
+  "id": "579ee166-be4e-41cf-84a0-66433366b573",
+  "labels": "general-knowledge,inventions",
+  "question": "In which decade were the first successful diode and triode vacuum tubes invented?",
+  "option1": "1800s",
+  "option2": "1880s",
+  "option3": "1890s",
+  "option4": "1900s",
+  "option5": "",
+  "answer": "1900s",
+  "explanation": "In 1904, John Ambrose Fleming invented the first practical electron tube called the 'Fleming Valve', which is a diode rectifier. In 1906, Lee de Forest invented the audion later called the triode, which provided signal amplification.",
+  "verified_at": ""
+}

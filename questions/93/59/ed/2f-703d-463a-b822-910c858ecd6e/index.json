@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.142Z",
+  "updated_at": "2021-01-09T03:41:53.142Z",
+  "id": "9359ed2f-703d-463a-b822-910c858ecd6e",
+  "labels": "general-knowledge,technology",
+  "question": "A given signal's second harmonic is twice the given signal's __________ frequency...?",
+  "option1": "Fourier",
+  "option2": "Foundation",
+  "option3": "Fundamental",
+  "option4": "Field",
+  "option5": "",
+  "answer": "Fundamental",
+  "explanation": "A given signal's second harmonic is twice the given signal's fundamental frequency. Harmonics are generated when there are non-linearities in an amplifier (there are always non-linearities). The worse the non-linearities, the more harmonics. A signal at 27.5 MHz (approximate frequency for US citizen's band) would have a second harmonic at 55.0 MHz (on US channel 2!). Can you see why there might be problems? A CB operator might do well to place a low-pass filter on his radio.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:55.091Z",
+  "updated_at": "2021-01-09T03:41:55.091Z",
+  "id": "258e7899-3196-46a4-9861-7afcd8bbdb86",
+  "labels": "general-knowledge,technology",
+  "question": "What will a UPS be used for in a building?",
+  "option1": "To provide power to essential equipment",
+  "option2": "To monitor building electricity use",
+  "option3": "To carry messages between departments",
+  "option4": "To control lighting and power systems",
+  "option5": "",
+  "answer": "To provide power to essential equipment",
+  "explanation": "UPS stands for Uninterruptible Power Supply. Examples of equipment that may require a UPS supply are computers, fire detection systems, hospital operating theatre equipment and escape route lighting.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.426Z",
+  "updated_at": "2021-01-09T03:42:04.426Z",
+  "id": "5a197c00-6b61-4c24-9e7f-87a9675ac1b0",
+  "labels": "general-knowledge,technology",
+  "question": "What does SSL stand for?",
+  "option1": "Secure Socket Layer",
+  "option2": "System Socket Layer",
+  "option3": "Superuser System Login",
+  "option4": "Secure System Login",
+  "option5": "",
+  "answer": "Secure Socket Layer",
+  "explanation": "A protocol developed by Netscape to allow secure connections over the net.",
+  "verified_at": ""
+}

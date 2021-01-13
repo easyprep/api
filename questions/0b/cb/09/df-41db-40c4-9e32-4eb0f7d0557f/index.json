@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.798Z",
+  "updated_at": "2021-01-09T03:42:03.798Z",
+  "id": "0bcb09df-41db-40c4-9e32-4eb0f7d0557f",
+  "labels": "general-knowledge,technology",
+  "question": "A program that neither replicates or copies itself, but does damage or compromises the security of the computer. Which 'Computer Virus' it is?",
+  "option1": "Joke Program",
+  "option2": "Worm",
+  "option3": "Trojan",
+  "option4": "Hoax",
+  "option5": "",
+  "answer": "Trojan",
+  "explanation": "Typically it relies on someone emailing it to you, it does not email itself, it may arrive in the form of a joke program or software of some sort.",
+  "verified_at": ""
+}

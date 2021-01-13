@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:46.938Z",
+  "updated_at": "2021-01-09T03:42:46.938Z",
+  "id": "a248f563-c576-4927-99d1-1772d2c331be",
+  "labels": "general-knowledge,inventions",
+  "question": "What Elisha Otis invented?",
+  "option1": "The brake used in modern elevators",
+  "option2": "Jet Engine",
+  "option3": "Turbine",
+  "option4": "Hydraulic Crane",
+  "option5": "",
+  "answer": "The brake used in modern elevators",
+  "explanation": "In 1853, American inventor Elisha Otis demonstrated a freight elevator equipped with a safety device to prevent falling in case a supporting cable should break. This increased public confidence in such devices. Otis established a company for manufacturing elevators and patented (1861) a steam elevator.\n\nMany people think that he invented the elevator, but the truth is, he invented the elevator brake. He also invented the railway safety brake.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:54.759Z",
+  "updated_at": "2021-01-09T03:41:54.759Z",
+  "id": "f58ce10d-1135-4973-88b9-1cdce1af2b26",
+  "labels": "general-knowledge,technology",
+  "question": "What does AM mean?",
+  "option1": "Angelo marconi",
+  "option2": "Anno median",
+  "option3": "Amplitude modulation",
+  "option4": "Amperes",
+  "option5": "",
+  "answer": "Amplitude modulation",
+  "explanation": "Amplitude modulation was the first type to be used in radio. It works well with HF and morse code.",
+  "verified_at": ""
+}

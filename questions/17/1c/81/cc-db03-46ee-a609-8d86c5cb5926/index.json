@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:01.580Z",
+  "updated_at": "2021-01-09T03:42:01.580Z",
+  "id": "171c81cc-db03-46ee-a609-8d86c5cb5926",
+  "labels": "general-knowledge,technology",
+  "question": "What is a GPU?",
+  "option1": "Grouped Processing Unit",
+  "option2": "Graphics Processing Unit",
+  "option3": "Graphical Performance Utility",
+  "option4": "Graphical Portable Unit",
+  "option5": "",
+  "answer": "Graphics Processing Unit",
+  "explanation": "It is a chip dedicated to performing 3D calculations.",
+  "verified_at": ""
+}

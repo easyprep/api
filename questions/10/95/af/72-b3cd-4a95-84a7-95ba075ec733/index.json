@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.126Z",
+  "updated_at": "2021-01-09T03:42:04.126Z",
+  "id": "1095af72-b3cd-4a95-84a7-95ba075ec733",
+  "labels": "general-knowledge,technology",
+  "question": "Which of these is a documented hoax virus?",
+  "option1": "McDonalds screensaver",
+  "option2": "Alien.worm",
+  "option3": "Merry Xmas",
+  "option4": "Adolph",
+  "option5": "",
+  "answer": "McDonalds screensaver",
+  "explanation": "A virus hoax is usually an email that gets mailed in chain letter fashion describing some devastating highly unlikely type of virus, you can usually spot a hoax because there's no file attachment, no reference to a third party who can validate the claim and the general 'tone' of the message.",
+  "verified_at": ""
+}

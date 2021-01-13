@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.456Z",
+  "updated_at": "2021-01-09T03:41:53.456Z",
+  "id": "d103f42d-ab16-4ba6-88d5-b8a0636f5dec",
+  "labels": "general-knowledge,technology",
+  "question": "What does the term PLC stand for?",
+  "option1": "Programmable Lift Computer",
+  "option2": "Program List Control",
+  "option3": "Programmable Logic Controller",
+  "option4": "Piezo Lamp Connector",
+  "option5": "",
+  "answer": "Programmable Logic Controller",
+  "explanation": "Used in manufacturing, engineering, and process operations.",
+  "verified_at": ""
+}

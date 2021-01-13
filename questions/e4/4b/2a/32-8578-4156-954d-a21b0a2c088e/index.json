@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:02.523Z",
+  "updated_at": "2021-01-09T03:42:02.523Z",
+  "id": "e44b2a32-8578-4156-954d-a21b0a2c088e",
+  "labels": "general-knowledge,technology",
+  "question": "On what date was the debut of the first IBM Personal Computer?",
+  "option1": "August 12, 1981",
+  "option2": "January 21 1979",
+  "option3": "August 21, 1980",
+  "option4": "January 12, 1982",
+  "option5": "",
+  "answer": "August 12, 1981",
+  "explanation": "Before IBM created its personal computer, two types of computer systems, Apple II and CP-M, dominated the microcomputer world. Neither of these systems were PC compatible, or Mac-compatible (the two primary standards in place today). The original IBM PC became a new standard in the microcomputer industry. Since then, hundreds of millions of PC-compatible systems have been sold, as the original PC grew into a large family of computers and peripherals. More software has been written for this computer family than for any other system on the market.",
+  "verified_at": ""
+}

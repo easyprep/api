@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:45.209Z",
+  "updated_at": "2021-01-09T03:42:45.209Z",
+  "id": "3f2242b6-2d67-446b-943d-1d560223845b",
+  "labels": "general-knowledge,inventions",
+  "question": "In which decade was the first solid state integrated circuit demonstrated?",
+  "option1": "1950s",
+  "option2": "1960s",
+  "option3": "1970s",
+  "option4": "1980s",
+  "option5": "",
+  "answer": "1950s",
+  "explanation": "On September 12, 1958, Jack Kilby demonstrated the first working IC while working for Texas Instruments, although the U.S. patent office awarded the first patent for an integrated circuit to Robert Noyce of Fairchild.",
+  "verified_at": ""
+}

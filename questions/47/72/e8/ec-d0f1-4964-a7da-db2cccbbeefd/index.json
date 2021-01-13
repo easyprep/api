@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.430Z",
+  "updated_at": "2021-01-09T03:42:04.430Z",
+  "id": "4772e8ec-d0f1-4964-a7da-db2cccbbeefd",
+  "labels": "general-knowledge,technology",
+  "question": "The Central Processing Unit is an embeded chip that acts as the 'brains' of a computer. What Intel chip was used in the Altair (the first real personal computer)?",
+  "option1": 6502,
+  "option2": 8080,
+  "option3": 6400,
+  "option4": 8286,
+  "option5": "",
+  "answer": 8080,
+  "explanation": "The Intel 8080 was a jazzed-up calculator chip. It was included in microcomputer kits which were little more than demonstration tools and did little except blink lights. Besides the 8080 chip, the Altair included a power supply, a front panel with a large number of lights and 256 bytes (not kilobytes) of memory. The kit sold for {$395} and had to be assembled.",
+  "verified_at": ""
+}

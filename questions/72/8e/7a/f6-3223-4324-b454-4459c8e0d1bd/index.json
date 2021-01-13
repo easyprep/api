@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.481Z",
+  "updated_at": "2021-01-09T03:42:03.481Z",
+  "id": "728e7af6-3223-4324-b454-4459c8e0d1bd",
+  "labels": "general-knowledge,technology",
+  "question": "In 1983, which person was the first to offer a definition of the term 'computer virus'?",
+  "option1": "McAfee",
+  "option2": "Smith",
+  "option3": "Cohen",
+  "option4": "Norton",
+  "option5": "",
+  "answer": "Cohen",
+  "explanation": "1983 Fred Cohen, while working on his dissertation, formally defines a computer virus as 'a computer program that can affect other computer programs by modifying them in such a way as to include a (possibly evolved)copy of itself.'",
+  "verified_at": ""
+}

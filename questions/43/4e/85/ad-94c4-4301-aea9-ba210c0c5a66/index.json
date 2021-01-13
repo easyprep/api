@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.940Z",
+  "updated_at": "2021-01-09T03:41:52.940Z",
+  "id": "434e85ad-94c4-4301-aea9-ba210c0c5a66",
+  "labels": "general-knowledge,technology",
+  "question": "The first step to getting output from a laser is to excite an active medium. What is this process called?",
+  "option1": "Pumping",
+  "option2": "Exciting",
+  "option3": "Priming",
+  "option4": "Raising",
+  "option5": "",
+  "answer": "Pumping",
+  "explanation": "A collection of atoms or molecules that can be excited to a higher energy state is called an active medium. Before lasing can occur, the active media is \"pumped\". The process of raising the atoms in the active media from a lower energy state to a higher state is like pumping water up from a well.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:41.192Z",
+  "updated_at": "2021-01-09T03:42:41.192Z",
+  "id": "87420de7-d5f0-402d-9110-d7dff0b06f4d",
+  "labels": "general-knowledge,indian-economy",
+  "question": "Reserve Bank of India was nationalized in the year",
+  "option1": 1935,
+  "option2": 1945,
+  "option3": 1949,
+  "option4": 1969,
+  "option5": "",
+  "answer": 1949,
+  "explanation": "RBI established in 1935 and nationalized in 1949.\n\nRef: http://en.wikipedia.org/wiki/Reserve_Bank_of_India",
+  "verified_at": ""
+}

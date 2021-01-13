@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:55.423Z",
+  "updated_at": "2021-01-09T03:41:55.423Z",
+  "id": "9f01758e-809b-4aff-bbff-8a8620e87ba6",
+  "labels": "general-knowledge,technology",
+  "question": "Once the active medium is excited, the first photons of light are produced by which physical process?",
+  "option1": "Blackbody radiation",
+  "option2": "Spontaneous emission",
+  "option3": "Synchrotron radiation",
+  "option4": "Planck�s oscillation",
+  "option5": "",
+  "answer": "Spontaneous emission",
+  "explanation": "Spontaneous emission is what you see with most \"glow in the dark\" toys. You excite the toy by exposing it to bright light, then the toy glows in the dark by spontaneously emitting photons as the excited atoms relax back down to their normal state.",
+  "verified_at": ""
+}

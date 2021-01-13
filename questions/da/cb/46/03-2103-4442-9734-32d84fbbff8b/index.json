@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:54.120Z",
+  "updated_at": "2021-01-09T03:41:54.120Z",
+  "id": "dacb4603-2103-4442-9734-32d84fbbff8b",
+  "labels": "general-knowledge,technology",
+  "question": "In the UK, what type of installation requires a fireman's switch?",
+  "option1": "Neon Lighting",
+  "option2": "High Pressure Sodium Lighting",
+  "option3": "Water Features",
+  "option4": "Hotel Rooms",
+  "option5": "",
+  "answer": "Neon Lighting",
+  "explanation": "Neon lighting runs at a high voltage, typically above 1000 Volts. A fireman's switch protects a fireman from receiving a shock when a water jet is sprayed onto the installation. The switches are red, and mounted in a conspicuous position. (This is specified by IEE Regulations (Europe), SANS (South Africa), UK Electricity regulations and many Asian countries. I am unable to confirm other countries' requirements, so feel free to let me know.)",
+  "verified_at": ""
+}

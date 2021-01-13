@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.160Z",
+  "updated_at": "2021-01-09T03:42:03.160Z",
+  "id": "7803384c-df1f-405f-9010-99e8884d55f3",
+  "labels": "general-knowledge,technology",
+  "question": "The invention of the transistor, or semiconductor, was one of the most important developments leading to the personal computer revolution. What company invented the transistor in 1947?",
+  "option1": "International Business Machines",
+  "option2": "MITS",
+  "option3": "Xerox",
+  "option4": "Bell Laboratories",
+  "option5": "",
+  "answer": "Bell Laboratories",
+  "explanation": "The transistor, which essentially is a solid-state electronic switch, replaced the much less suitable vacuum tube. Because the transistor consumed significantly less power, a computer system built with transistors was much smaller, faster and more efficient than a computer system built with vacuum tubes.",
+  "verified_at": ""
+}

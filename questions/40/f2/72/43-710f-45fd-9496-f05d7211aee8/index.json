@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.299Z",
+  "updated_at": "2021-01-09T03:41:52.299Z",
+  "id": "40f27243-710f-45fd-9496-f05d7211aee8",
+  "labels": "general-knowledge,technology",
+  "question": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+  "option1": "Flash",
+  "option2": "Flange",
+  "option3": "Fury",
+  "option4": "FRAM",
+  "option5": "",
+  "answer": "Flash",
+  "explanation": "It's commonly used for MP3 players, computer BIOS code and \"thumb\" drives. Originally developed in Japan by Toshiba, it has become quite popular for products requiring non-volatile erasable memory. Flash devices have a limited number of erase cycles (typically 10,000 to 1,000,000 cycles) so they're not as good a choice for applications in which the data changes constantly. However, since it has no moving parts (unlike a hard disk) it is an excellent choice for storing the operating code for small personal electronics like PDAs, cell phones, digital cameras, and the data in items like MP3 players.",
+  "verified_at": ""
+}

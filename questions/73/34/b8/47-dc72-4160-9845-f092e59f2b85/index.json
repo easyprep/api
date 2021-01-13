@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:57.692Z",
+  "updated_at": "2021-01-09T03:41:57.692Z",
+  "id": "7334b847-dc72-4160-9845-f092e59f2b85",
+  "labels": "general-knowledge,technology",
+  "question": "Which device can be used to store charge?",
+  "option1": "Transistor",
+  "option2": "Diode",
+  "option3": "Capacitor",
+  "option4": "Resistor",
+  "option5": "",
+  "answer": "Capacitor",
+  "explanation": "Can be used in filtering circuits, also.",
+  "verified_at": ""
+}

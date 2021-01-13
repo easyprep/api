@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:56.723Z",
+  "updated_at": "2021-01-09T03:41:56.723Z",
+  "id": "f4c25c14-ff91-4679-9a0a-f35c17597d0e",
+  "labels": "general-knowledge,technology",
+  "question": "http://www.indiabix.com - is an example of what?",
+  "option1": "A URL",
+  "option2": "An access code",
+  "option3": "A directory",
+  "option4": "A server",
+  "option5": "",
+  "answer": "A URL",
+  "explanation": "A URL (Uniform {or Universal} Resource Locator) is an address for a specific document found on the Web. It is made up of several components: a domain name, the directories and subdirectories of the site, and the extension. To learn about these parts of a URL, visit the Evaluating Web Sites tutorial.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:34:28.293Z",
+  "updated_at": "2021-01-09T03:34:28.293Z",
+  "id": "fd8d48e6-c755-4517-9619-9d21360ec93c",
+  "labels": "general-knowledge,chemistry",
+  "question": "The number of electrons presents in H+ is",
+  "option1": "zero",
+  "option2": "one",
+  "option3": "two",
+  "option4": "three",
+  "option5": "",
+  "answer": "zero",
+  "explanation": "H+ is a hydrogen ion, and it is an ion because it LOST an electron. Electrons are negatively charged. When an atom gains electrons it will have NEGATIVE charges.\n\nSo it has zero electron.",
+  "verified_at": ""
+}

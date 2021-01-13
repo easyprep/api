@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.157Z",
+  "updated_at": "2021-01-09T03:42:03.157Z",
+  "id": "0a16ae25-c276-4d5f-98a9-576e17d3c372",
+  "labels": "general-knowledge,technology",
+  "question": "Which of the following word processors came first?",
+  "option1": "WordPerfect",
+  "option2": "Lotus Notes",
+  "option3": "MS Word",
+  "option4": "WordStar",
+  "option5": "",
+  "answer": "WordStar",
+  "explanation": "Before the invention of word processing and spreadsheet software, personal computers had little value in the mainstream business world. WordStar was used before the days of function keys and the mouse. It, instead, used a set of Ctrl and Alt key combinations to navigate and edit text documents.",
+  "verified_at": ""
+}

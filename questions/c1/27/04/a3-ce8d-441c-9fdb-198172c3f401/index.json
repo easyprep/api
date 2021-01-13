@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:01.576Z",
+  "updated_at": "2021-01-09T03:42:01.576Z",
+  "id": "c12704a3-ce8d-441c-9fdb-198172c3f401",
+  "labels": "general-knowledge,technology",
+  "question": "Which of the following operating systems is produced by IBM?",
+  "option1": "OS-2",
+  "option2": "Windows",
+  "option3": "DOS",
+  "option4": "UNIX",
+  "option5": "",
+  "answer": "OS-2",
+  "explanation": "IBM also created it's own version of DOS called PC-DOS.nn",
+  "verified_at": ""
+}

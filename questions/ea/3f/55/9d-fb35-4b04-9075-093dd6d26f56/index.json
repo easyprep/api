@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:33:37.706Z",
+  "updated_at": "2021-01-09T03:33:37.706Z",
+  "id": "ea3f559d-fb35-4b04-9075-093dd6d26f56",
+  "labels": "general-knowledge,world-geography",
+  "question": "The planet with the maximum number of natural satellites (moons), so far discovered is",
+  "option1": "Jupiter",
+  "option2": "Neptune",
+  "option3": "Saturn",
+  "option4": "Uranus",
+  "option5": "",
+  "answer": "Jupiter",
+  "explanation": "Jupiter\t63\nSaturn\t60\nUranus\t27\nNeptune\t13\nPluto\t3\nMars\t2\nEarth\t1\nVenus\t0\nMercury\t0",
+  "verified_at": ""
+}

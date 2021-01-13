@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:34:24.919Z",
+  "updated_at": "2021-01-09T03:34:24.919Z",
+  "id": "5a8dddc2-e733-4a18-bea0-b525e0ac0696",
+  "labels": "general-knowledge,chemistry",
+  "question": "What are the number of moles of CO2 which contains 16 g of oxygen?",
+  "option1": "0.5 mole",
+  "option2": "0.2 mole",
+  "option3": "0.4 mole",
+  "option4": "0.25 mole",
+  "option5": "",
+  "answer": "0.5 mole",
+  "explanation": "One mole of CO2 has mass of 44 g and 32 g of O2. So 16 g of O2 have 22 g of CO2 or 0.5 moles of it.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:03.486Z",
+  "updated_at": "2021-01-09T03:42:03.486Z",
+  "id": "6fc1058a-9f2d-418b-a0f3-e336a2077eb1",
+  "labels": "general-knowledge,technology",
+  "question": "What is a MAC?",
+  "option1": "A Computer made by Apple",
+  "option2": "Memory Address Corruption",
+  "option3": "Mediocre Apple Computer",
+  "option4": "Media Access Control",
+  "option5": "",
+  "answer": "Media Access Control",
+  "explanation": "MAC is short for Media Access Control address, an address unique to every piece of network hardware.",
+  "verified_at": ""
+}

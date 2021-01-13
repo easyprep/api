@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:57.373Z",
+  "updated_at": "2021-01-09T03:41:57.373Z",
+  "id": "20b8b6a5-08ac-4696-bbac-8c975a279106",
+  "labels": "general-knowledge,technology",
+  "question": "Which of these is a valid e-mail address?",
+  "option1": "professor.at.learnthenet",
+  "option2": "www.learnthenet.com",
+  "option3": "professor@learnthenet.com",
+  "option4": "professor@learnthenet",
+  "option5": "",
+  "answer": "professor@learnthenet.com",
+  "explanation": "No answer description available for this question. Let us discuss.",
+  "verified_at": ""
+}

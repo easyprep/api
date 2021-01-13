@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:56.072Z",
+  "updated_at": "2021-01-09T03:41:56.072Z",
+  "id": "3311db95-b672-4072-91d1-a8159cac99f2",
+  "labels": "general-knowledge,technology",
+  "question": "Voltage is sometimes referred to as EMF, or Electromotive...?",
+  "option1": "Field",
+  "option2": "Factor",
+  "option3": "Flash",
+  "option4": "Force",
+  "option5": "",
+  "answer": "Force",
+  "explanation": "The term EMF, or Electromotive Force, its use now in decline, is attributed to Italian physicist Alessandro Volta (1745-1827). Today we generally use the term \"voltage\" - can you guess why we call it that?",
+  "verified_at": ""
+}

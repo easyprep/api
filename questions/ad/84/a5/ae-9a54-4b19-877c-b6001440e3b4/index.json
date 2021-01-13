@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:52.627Z",
+  "updated_at": "2021-01-09T03:41:52.627Z",
+  "id": "ad84a5ae-9a54-4b19-877c-b6001440e3b4",
+  "labels": "general-knowledge,technology",
+  "question": "What does VVVF stand for?",
+  "option1": "Variant Voltage Vile Frequency",
+  "option2": "Variable Velocity Variable Fun",
+  "option3": "Very Very Vicious Frequency",
+  "option4": "Variable Voltage Variable Frequency",
+  "option5": "",
+  "answer": "Variable Voltage Variable Frequency",
+  "explanation": "It is a method of controlling the speed of an AC induction motor, whereby speed, current and torque can all be accurately controlled.",
+  "verified_at": ""
+}

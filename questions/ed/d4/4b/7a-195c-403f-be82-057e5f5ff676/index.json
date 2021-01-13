@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.784Z",
+  "updated_at": "2021-01-09T03:41:53.784Z",
+  "id": "edd44b7a-195c-403f-be82-057e5f5ff676",
+  "labels": "general-knowledge,technology",
+  "question": "The sampling rate, (how many samples per second are stored) for a CD is...?",
+  "option1": "48.4 kHz",
+  "option2": "22,050 Hz",
+  "option3": "44.1 kHz",
+  "option4": "48 kHz",
+  "option5": "",
+  "answer": "44.1 kHz",
+  "explanation": "CDs reproduce 44,100 samples per second. Which has a maximum frequency reproduction of 22,050 Hz, or just a hair past the upper limit of human hearing. In this way CDs can theoretically reproduce any frequency in the human hearing range.",
+  "verified_at": ""
+}

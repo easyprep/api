@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:53.789Z",
+  "updated_at": "2021-01-09T03:41:53.789Z",
+  "id": "92f0ce4a-2605-4b5e-8ddb-4ba0cd4903ff",
+  "labels": "general-knowledge,technology",
+  "question": "What do we call a network whose elements may be separated by some distance? It usually involves two or more small networks and dedicated high-speed telephone lines.",
+  "option1": "URL (Universal Resource Locator)",
+  "option2": "LAN (Local Area Network)",
+  "option3": "WAN (Wide Area Network)",
+  "option4": "World Wide Web",
+  "option5": "",
+  "answer": "WAN (Wide Area Network)",
+  "explanation": "No answer description available for this question. Let us discuss.",
+  "verified_at": ""
+}

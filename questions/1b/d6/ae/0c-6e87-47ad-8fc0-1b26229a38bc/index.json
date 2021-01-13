@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:31.449Z",
+  "updated_at": "2021-01-09T03:42:31.449Z",
+  "id": "1bd6ae0c-6e87-47ad-8fc0-1b26229a38bc",
+  "labels": "general-knowledge,physics",
+  "question": "Nuclear sizes are expressed in a unit named",
+  "option1": "Fermi",
+  "option2": "angstrom",
+  "option3": "newton",
+  "option4": "tesla",
+  "option5": "",
+  "answer": "Fermi",
+  "explanation": "Fermi - A unit of length equal to 10-15 meter (one femtometer), used in nuclear physics. It is similar to the diameter of a proton.",
+  "verified_at": ""
+}

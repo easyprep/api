@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:04.428Z",
+  "updated_at": "2021-01-09T03:42:04.428Z",
+  "id": "2e2a949e-86a7-4332-a24f-a8ed8e9d36e9",
+  "labels": "general-knowledge,technology",
+  "question": "What is a URL?",
+  "option1": "A computer software program",
+  "option2": "A type of UFO",
+  "option3": "The address of a document or \"page\" on the World Wide Web",
+  "option4": "An acronym for Uniform Resources Learning",
+  "option5": "",
+  "answer": "The address of a document or \"page\" on the World Wide Web",
+  "explanation": "URL stands for Uniform Resource Locator. It is an address for a specific document found on the Web.",
+  "verified_at": ""
+}

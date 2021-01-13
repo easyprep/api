@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:41.515Z",
+  "updated_at": "2021-01-09T03:42:41.515Z",
+  "id": "99fa566c-b3ca-4a76-be30-341ab1895719",
+  "labels": "general-knowledge,indian-economy",
+  "question": "In India, inflation measured by the",
+  "option1": "Wholesale Price Index number",
+  "option2": "Consumers Price Index for urban non-manual workers",
+  "option3": "Consumers Price Index for agricultural workers",
+  "option4": "National Income Deflation",
+  "option5": "",
+  "answer": "Wholesale Price Index number",
+  "explanation": "Two major measures for inflation, which are widely used, are Wholesale Price Index (WPI) and Consumer Price Index (CPI).  WPI measures the increase in the prices of a fixed basket of goods prevailing in the wholesale market while CPI measures the increase in the prices of essential commodities purchased by an average consumer prevailing in the retail market. Measured weekly, WPI is the primary inflation measure in India.",
+  "verified_at": ""
+}

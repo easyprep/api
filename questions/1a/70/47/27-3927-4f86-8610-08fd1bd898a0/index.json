@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:56.401Z",
+  "updated_at": "2021-01-09T03:41:56.401Z",
+  "id": "1a704727-3927-4f86-8610-08fd1bd898a0",
+  "labels": "general-knowledge,technology",
+  "question": "What does EPROM stand for?",
+  "option1": "Electric Programmable Read Only Memory",
+  "option2": "Erasable Programmable Read Only Memory",
+  "option3": "Evaluable Philotic Random Optic Memory",
+  "option4": "Every Person Requires One Mind",
+  "option5": "",
+  "answer": "Erasable Programmable Read Only Memory",
+  "explanation": "A chip found in alomst every microprocessor...",
+  "verified_at": ""
+}

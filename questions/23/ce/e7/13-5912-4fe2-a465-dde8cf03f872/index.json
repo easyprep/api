@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:42:01.582Z",
+  "updated_at": "2021-01-09T03:42:01.582Z",
+  "id": "23cee713-5912-4fe2-a465-dde8cf03f872",
+  "labels": "general-knowledge,technology",
+  "question": "What does DOCSIS stand for?",
+  "option1": "Data Over Cable Service Interface Specification",
+  "option2": "Data Over Cable Security Internet Std",
+  "option3": "Data Over Cable Secure International Stds",
+  "option4": "Data Over Cable Service Internet Standard",
+  "option5": "",
+  "answer": "Data Over Cable Service Interface Specification",
+  "explanation": "DOCSIS was developed by CableLabs. A standard set for Cable equipment to ensure compatibility across all DOCSIS networks.",
+  "verified_at": ""
+}

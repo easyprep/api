@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:55.432Z",
+  "updated_at": "2021-01-09T03:41:55.432Z",
+  "id": "6541673d-9f62-4d0f-bab2-c08092163f22",
+  "labels": "general-knowledge,technology",
+  "question": "What does AC and DC stand for in the electrical field?",
+  "option1": "Alternating Current and Direct Current",
+  "option2": "A Rock Band from Australia",
+  "option3": "Average Current and Discharged Capacitor",
+  "option4": "Atlantic City and District of Columbia",
+  "option5": "",
+  "answer": "Alternating Current and Direct Current",
+  "explanation": "Electricity is voltage and current. Voltage is electrical pressure, and current is the flow of charged particles. The difference between alternating current (AC) and direct current (DC) is that the electrons in an AC circuit regularly reverse their direction. In a DC circuit electrons always flow in the same direction.",
+  "verified_at": ""
+}

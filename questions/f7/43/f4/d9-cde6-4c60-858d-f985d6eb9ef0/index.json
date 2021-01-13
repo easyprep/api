@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-09T03:41:54.441Z",
+  "updated_at": "2021-01-09T03:41:54.441Z",
+  "id": "f743f4d9-cde6-4c60-858d-f985d6eb9ef0",
+  "labels": "general-knowledge,technology",
+  "question": "Which consists of two plates separated by a dielectric and can store a charge?",
+  "option1": "Inductor",
+  "option2": "Capacitor",
+  "option3": "Transistor",
+  "option4": "Relay",
+  "option5": "",
+  "answer": "Capacitor",
+  "explanation": "Useful in tuning and filtering circuits, it blocks DC while passing AC. How much charge a capacitor can store is its capacitance, measured in farads.nn",
+  "verified_at": ""
+}
