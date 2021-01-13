@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:01.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "cdd39e52-64ad-43b9-9e54-bfa7f47b407e",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which ocean is the saltiest of all oceans?",
+  "option1": "Pacific",
+  "option2": "Indian",
+  "option3": "Arctic",
+  "option4": "Atlantic",
+  "option5": "",
+  "answer": "Atlantic",
+  "explanation": "Surface waters in the Atlantic have the highest salinity, higher than 37 parts per thousand in some areas.<br />There is more evaporation than combined rainfall and river runoff into the Atlantic Ocean, maintaining higher salinity than in the other basins."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:53.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "563149c0-2b9e-4620-a375-ac59a1f38b4f",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the share of over the counter (OTC) medicines in Indian market?",
+  "option1": 0.11,
+  "option2": 0.22,
+  "option3": 0.21,
+  "option4": 0.3,
+  "option5": "",
+  "answer": 0.21,
+  "explanation": "The Indian pharmaceuticals market is dominated by generic drugs which constitute nearly 70 percent of the market, whereas over the counter (OTC) medicines and patented drugs makeup to 21 percent and 9 percent, respectively."
+}

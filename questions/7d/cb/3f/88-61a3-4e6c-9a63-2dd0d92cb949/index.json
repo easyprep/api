@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:07:59.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "7dcb3f88-61a3-4e6c-9a63-2dd0d92cb949",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Ocean Temperature?<br />\r\n<ol>\r\n<li>The rate of decrease of temperature with in­creasing depth from equator towards the poles is not uniform.</li>\r\n<li>The polar seas have only one layer of cold water mass from the ocean surface to the deep ocean floor.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Though the surface temperature of the seas decreases from equator towards the poles but the temperature at the ocean bottoms is uniform from the equator towards the pole, which means that the rate of decrease of tem­perature with increasing depth is more rapid near the equator than towards the poles.<br />The polar seas have only one layer of cold water mass from the ocean surface to the deep ocean floor."
+}

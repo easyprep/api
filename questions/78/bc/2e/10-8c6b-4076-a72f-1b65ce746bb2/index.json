@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:52.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "78bc2e10-8c6b-4076-a72f-1b65ce746bb2",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is India's contribution to the generic medicines demand in US?",
+  "option1": 0.4,
+  "option2": 0.3,
+  "option3": 0.5,
+  "option4": 0.6,
+  "option5": "",
+  "answer": 0.4,
+  "explanation": "India is the largest provider of generic drugs globally. Indian pharmaceutical sector supplies over 50 percent of global demand for various vaccines, 40 percent of generic demand in the US and 25 percent of all medicine in the UK."
+}

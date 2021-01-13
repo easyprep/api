@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:26.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "cd44b113-576f-4ce1-94e0-ffb2cf75faf3",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which company operates the largest gas pipeline in the country?",
+  "option1": "ONGC",
+  "option2": "IOCL",
+  "option3": "GAIL",
+  "option4": "Reliance petrochemical ltd",
+  "option5": "",
+  "answer": "GAIL",
+  "explanation": "Government-owned Gas Authority of India Limited (GAIL) owns and operates India’s largest gas pipeline network, spanning over 12,000 km. Currently, the pipeline infrastructure necessary for the transportation of natural gas is controlled by the companies that own the network."
+}

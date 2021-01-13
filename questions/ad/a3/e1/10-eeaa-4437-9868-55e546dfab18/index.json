@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:16.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "ada3e110-eeaa-4437-9868-55e546dfab18",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following factors lead to the cooling of the ocean water?<br />\r\n<ol>\r\n<li>Exchange of heat between the sea and the atmosphere</li>\r\n<li>Evaporation</li>\r\n<li>Convectional Currents</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "Following factors lead to the cooling of the ocean:<br />Back radiation in the form of long wave radiation, from the sea surface.<br />Exchange of heat between the sea and the atmosphere if there is temperature difference.<br />Evaporation: Heat is lost in the form of latent heat of evaporation<br />The Convectional Currents present in the earth's interior heat the waters at the depth very fast. Thus leading to the increase in the temperature of the oceans."
+}

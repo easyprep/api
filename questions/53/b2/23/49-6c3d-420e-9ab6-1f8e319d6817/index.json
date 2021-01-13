@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:53.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "53b22349-6c3d-420e-9ab6-1f8e319d6817",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about cyclonic direction?<br />\r\n<ol>\r\n<li>The direction of circulation of air in a cyclone is clockwise in the Northern Hemisphere.</li>\r\n<li>The direction of circulation of air in a cyclone is anti-clockwise in the Southern Hemisphere.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "A cyclonic pressure system is an area of low pressure surrounded by high pressure all around. The direction of circulation of air in a cyclone is anti-clockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere."
+}

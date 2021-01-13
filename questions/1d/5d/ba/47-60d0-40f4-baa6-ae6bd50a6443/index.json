@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:08.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "1d5dba47-60d0-40f4-baa6-ae6bd50a6443",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which current lowers the temperature near the north-east coast of North America?",
+  "option1": "Labrador",
+  "option2": "Canary",
+  "option3": "Gulf Stream",
+  "option4": "Benguela",
+  "option5": "",
+  "answer": "Labrador",
+  "explanation": "Warm ocean currents raise the temperature in cold areas while the cold currents decrease the temperature in warm ocean areas.<br />The Labrador current which is a cold current, lowers the temperature near the north-east coast of North America."
+}

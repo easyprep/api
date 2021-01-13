@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:38:34.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "33e33733-5c79-4d17-b086-dd054085b4d6",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about cyclones?<br />\r\n<ol>\r\n<li>The tropical cyclones have a thermal origin</li>\r\n<li>They develop over tropical seas during winters</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The tropical cyclones have a thermal origin. They develop over tropical seas during late summers .i.e. during August to mid-November."
+}

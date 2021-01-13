@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:06:43.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "928e20a4-79ea-45db-b37f-0075717642d8",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Ocean Deposits?<br />\r\n<ol>\r\n<li>Muds - These are terrigenous deposits as they are derived from land</li>\r\n<li>Clays  - These are pelagic deposits as they are derived from the oceans</li>\r\n<li>Oozes - These are an accumulation of volcanic dust blown out from volcanoes during volcanic eruptions</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Only 1 & 3",
+  "option4": "Only 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Muds : These are terrigenous deposits as they are derived from land. These are mainly deposited on the continental shelves.<br />Oozes : These are pelagic deposits as they are derived from the oceans. They are made of shelly &amp; skeletal remains of marine micro-organisms with calcareous or siliceous parts<br />Clays : These occur mainly as red clays in the deeper parts of ocean basins. These are particularly abundant in Pacific Ocean. Red clay is believed to be an accumulation of volcanic dust blown out from volcanoes during volcanic eruptions"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:01.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "1830769e-1dd5-43db-a608-bc1989490ddd",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Salinity of ocean water?<br />\r\n<ol>\r\n<li>Salinity is highest in partly landlocked seas.</li>\r\n<li>Lowest salinities are found where rainfall is heavy</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Salinity means the total content of dissolved salts in Sea or Ocean.<br />The salinity of Ocean water in the surface layer of oceans depend mainly on evaporation and precipitation.<br />Lowest salinities are found where rainfall is heavy and near the mouths of major rivers. Salinity is highest in partly landlocked seas in dry, hot regions because here the evaporation rate is high and stream discharge is minimal."
+}

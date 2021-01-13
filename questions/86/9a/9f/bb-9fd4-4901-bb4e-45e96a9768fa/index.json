@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:36:24.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "869a9fbb-9fd4-4901-bb4e-45e96a9768fa",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Air mass?<br />\r\n<ol>\r\n<li>Air mass is a large body of air whose physical properties especially temperature and moisture content are relatively uniform vertically.</li>\r\n<li>The temperature, pressure and humidity are uniform and the whole area of air or the mass of air behaves like a single unit.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Air mass is a large body of air whose physical properties especially temperature and moisture content are relatively uniform <strong>horizontally</strong>. The temperature, pressure and humidity are uniform and the whole area of air or the mass of air behaves like a single unit."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:13:11.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "8d721762-55e8-4e59-8c00-7092483bfc90",
+  "labels": "current-affairs,2020-07-29",
+  "question": "<p>Which has the largest share in Indian Textile export?</p>",
+  "option1": "Readymade garments",
+  "option2": "Carpets",
+  "option3": "Yarn",
+  "option4": "Jute",
+  "option5": "",
+  "answer": "Readymade garments",
+  "explanation": "The share of different items:<br />Readymade garments – 43.74%<br />Yarn – 40.87%<br />Carpets - 4.06%<br />Jute – 1.03%"
+}

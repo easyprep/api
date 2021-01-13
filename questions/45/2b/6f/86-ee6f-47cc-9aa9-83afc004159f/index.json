@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:43.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "452b6f86-ee6f-47cc-9aa9-83afc004159f",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the unit to measure the amount of visible sky that is covered by clouds?",
+  "option1": "Hygrometer",
+  "option2": "Dobson unit",
+  "option3": "Oktas",
+  "option4": "Weather Vane",
+  "option5": "",
+  "answer": "Oktas",
+  "explanation": "An Okta is a unit of measurement used to describe the amount of cloud cover at any given location such as a weather station.<br />Clear sky is measured as 0 oktas.<br />An overcast or grey sky is measured as 8 oktas."
+}

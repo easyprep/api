@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:01.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "35a48999-4285-41ac-a66e-114e215f6efd",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is<strong> not</strong> correct about the salinity of ocean?",
+  "option1": "The average salinity of seawater is about 35 parts per thousand",
+  "option2": "Salinity is high in equatorial regions",
+  "option3": "Where the evaporation rate is high, so is salinity",
+  "option4": "Salinity is highest in partly landlocked seas in dry, hot regions",
+  "option5": "",
+  "answer": "Salinity is high in equatorial regions",
+  "explanation": "Salinity is low in equatorial regions because of heavy rainfall, cloudiness, and humidity, all of which inhibit evaporation, and also because of considerable river discharge."
+}

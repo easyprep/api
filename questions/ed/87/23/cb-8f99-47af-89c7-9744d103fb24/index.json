@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:19.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "ed8723cb-8f99-47af-89c7-9744d103fb24",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is <strong>not</strong> correct about the salinity of ocean?",
+  "option1": "More saline water freezes slower than lesser saline water",
+  "option2": "Salinity decreases the density of sea water",
+  "option3": "The boiling point of saline water is higher than fresh water",
+  "option4": "Evaporation is lower over more saline water",
+  "option5": "",
+  "answer": "Salinity decreases the density of sea water",
+  "explanation": "Salinity is defined as ‘the total amount of solid material in grams contained in 1 kg of sea water and is expressed in parts per thousand’.<br />Salinity is directly positively related to seawater density. Salinity increases the density of sea water."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T17:17:20.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "7b30f864-2d1a-4cb4-9488-d1354fd6f21e",
+  "labels": "current-affairs,2020-07-29",
+  "question": "In which year Venki Ramakrishnan won a Nobel Prize?",
+  "option1": 2019,
+  "option2": 2009,
+  "option3": 1999,
+  "option4": 1989,
+  "option5": "",
+  "answer": 2009,
+  "explanation": "Venki Ramakrishnan won a Nobel Prize in 1999 in the field of chemistry with regards to his work on the structure and function of the ribosome and macromolecular crystallography."
+}

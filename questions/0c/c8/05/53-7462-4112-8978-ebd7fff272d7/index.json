@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:03.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "0cc80553-7462-4112-8978-ebd7fff272d7",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about snowfall?<br />\r\n<ol>\r\n<li>It occurs when condensation takes place above freezing point.</li>\r\n<li>Precipitation occurs in forms of fine flakes of snow.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Condensation of water vapor in air in form of water droplets or ice is called Precipitation. <br />Precipitation occurs in the form of: <br />\r\n<ul>\r\n<li>Snowfall</li>\r\n<li>Sleet</li>\r\n<li>Hail</li>\r\n<li>Rainfall</li>\r\n</ul>\r\nSnowfall is when condensation takes place below freezing point. Precipitation occurs in forms of fine flakes of snow"
+}

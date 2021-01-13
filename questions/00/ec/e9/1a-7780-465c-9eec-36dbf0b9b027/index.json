@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:40:04.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "00ece91a-7780-465c-9eec-36dbf0b9b027",
+  "labels": "current-affairs,2020-07-30",
+  "question": "On what basis did Koeppen classified the climates of different regions of the world?<br />\r\n<ol>\r\n<li>Latitude</li>\r\n<li>Altitude</li>\r\n<li>Vegetation</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Koeppen's classification of Climatic Regions is an empirical classification based on mean annual and mean monthly temperature and precipitation data. He identified a close relationship between the distribution of vegetation and climate. He selected certain values of temperature and precipitation and related them to the distribution of vegetation and used these values for classifying the climates."
+}

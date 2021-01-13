@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:08.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "1efccfe4-e05f-47d9-a7f3-e74b6b993594",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following seas does <strong>not</strong> record high bottom temperature?",
+  "option1": "Mediterranean Sea",
+  "option2": "Arabian Sea",
+  "option3": "Sargasso Sea",
+  "option4": "Red Sea",
+  "option5": "",
+  "answer": "Arabian Sea",
+  "explanation": "The enclosed seas in both the lower and higher latitudes record higher temperatures at the bottom. The enclosed seas of low latitudes like the Sargasso Sea, the Red Sea and the Mediterranean Sea have high bottom temperatures due to high insolation throughout the year and lesser mixing of the warm and cold’ waters.<br />Arabian Sea is an open sea, therefore does not record high bottom temperature."
+}

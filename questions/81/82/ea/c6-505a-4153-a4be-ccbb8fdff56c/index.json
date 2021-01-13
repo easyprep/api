@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:36:45.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "8182eac6-505a-4153-a4be-ccbb8fdff56c",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about stationary fronts?<br />\r\n<ol>\r\n<li>Stationary front is formed when two contrasting air masses converge.</li>\r\n<li>The wind motion on both sides of the front is parallel to the front.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Stationary front is formed when two contrasting air masses converge in such a way that they become parallel to each other and there is no ascent of air. Warm or cold front stops moving, so the name stationary front."
+}

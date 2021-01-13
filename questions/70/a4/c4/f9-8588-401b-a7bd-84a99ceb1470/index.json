@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:34:50.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "70a4c4f9-8588-401b-a7bd-84a99ceb1470",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Dew?<br />\r\n<ol>\r\n<li>It forms on solid surfaces when condensation takes place below freezing point.</li>\r\n<li>It forms when dew point is at or below the freezing point.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Dew is formed when moisture is deposited in form of water droplets on cooler surfaces of solid objects such as stone, glass, blades, plant leaves. It forms when temperature of air falls below dew point but above freezing point."
+}

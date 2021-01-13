@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:03.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "71e89d1a-79ec-45a0-85f0-e11340c00c84",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Ocean Temperature?<br />\r\n<ol>\r\n<li>The northern Pacific and northern Atlantic oceans have a greater range of temperature than their southern parts.</li>\r\n<li>The diurnal range of temperature is lowest in oceans if the sky is free of clouds and the atmosphere is calm.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The northern Pacific and northern Atlantic oceans have a greater range of temperature than their southern parts due to a difference in the force of prevailing winds from the land and more extensive ocean currents in the southern parts of oceans.<br />The diurnal range of temperature is <strong>highest</strong> in oceans if the sky is free of clouds and the atmosphere is calm."
+}

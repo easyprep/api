@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:38:30.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "998c5d3a-eb3c-43bb-a54c-bc0f03000af2",
+  "labels": "current-affairs,2020-07-30",
+  "question": "In which among the following latitudes does 65 % of the cyclonic activity occur?",
+  "option1": "At the Equator",
+  "option2": "5° to 10°",
+  "option3": "10° to 20°",
+  "option4": "40° to 50°",
+  "option5": "",
+  "answer": "10° to 20°",
+  "explanation": "The Coriolis force is zero at the equator hence there are no cyclones at equator. About 65 per cent of cyclonic activity occurs between 10° and 20° latitude."
+}

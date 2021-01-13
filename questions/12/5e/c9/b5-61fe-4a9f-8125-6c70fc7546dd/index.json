@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:04.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "125ec9b5-61fe-4a9f-8125-6c70fc7546dd",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is correct about isothermal lines?",
+  "option1": "They join places of equal atmospheric pressure",
+  "option2": "They join places of equal salinity",
+  "option3": "They join places of equal temperature",
+  "option4": "They join places of equal length",
+  "option5": "",
+  "answer": "They join places of equal temperature",
+  "explanation": "The horizontal temperature distribution is shown by isothermal lines. These are lines joining places of equal temperature.<br />Isotherms are closely spaced when the temperature difference is high and vice versa."
+}

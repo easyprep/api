@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:34:47.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "42157b32-8b96-4a40-b0a5-2e717f23e844",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Relative Humidity?<br />\r\n<ol>\r\n<li>It is the weight of actual amount of water vapour present in unit volume of air.</li>\r\n<li>It is expressed in %</li>\r\n<li>It is not affected by change in pressure or temperature</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 3",
+  "option3": "Only 2",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Relative Humidity is the Ratio of water vapour in air at a particular temp. to total amount of water vapour required to saturate the same air at same temperature. It is expressed in %. Relative humidity increases with increase in water vapour in air &amp; decreases with increase in temperature.<br /><br />Absolute Humidity is the weight of actual amount of water vapour present in unit volume of air."
+}

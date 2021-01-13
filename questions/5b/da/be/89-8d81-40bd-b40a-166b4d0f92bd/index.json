@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:43.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "5bdabe89-8d81-40bd-b40a-166b4d0f92bd",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which clouds bring continuous rainfall or snowfall that may continue for a very duration?",
+  "option1": "Cirrus",
+  "option2": "Cumulus",
+  "option3": "Nimbostratus",
+  "option4": "Altocumulus",
+  "option5": "",
+  "answer": "Nimbostratus",
+  "explanation": "Nimbostratus clouds are low clouds. They are associated with continuous rainfall or snowfall that may continue for a very duration."
+}

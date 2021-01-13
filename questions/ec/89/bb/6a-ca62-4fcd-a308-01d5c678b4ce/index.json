@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:07:30.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "ec89bb6a-ca62-4fcd-a308-01d5c678b4ce",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is <strong>not</strong> correct about ocean temperature?",
+  "option1": "The uppermost 10 percent of the oceans contain more heat than the entire atmosphere.",
+  "option2": "The temperature of the oceans is always uniform",
+  "option3": "The density of ocean water is mostly a function of its temperature and salinity",
+  "option4": "The oceans of the Northern are warmer than that of the Southern Oceans.",
+  "option5": "",
+  "answer": "The temperature of the oceans is always uniform",
+  "explanation": "The uppermost 10 percent of the oceans contain more heat than the entire atmosphere. The temperature of the oceans is not uniform.<br />It differs from latitude to latitude and from the surface to the bottom."
+}

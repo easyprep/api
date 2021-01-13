@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:53.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "87ee981c-c455-4d00-a0d6-784bfc1122d7",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the FDI received by Indian Pharma industry in the last 5 years?",
+  "option1": "$5.4 billion",
+  "option2": "$4.39 billion",
+  "option3": "$3.4 billion",
+  "option4": "$2.31 billion",
+  "option5": "",
+  "answer": "$4.39 billion",
+  "explanation": "India received $4.39 billion FDI in the last 5 years from 2014-19."
+}

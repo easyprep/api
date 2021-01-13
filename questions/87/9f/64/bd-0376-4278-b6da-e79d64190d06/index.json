@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:38:27.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "879f64bd-0376-4278-b6da-e79d64190d06",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following conditions is/are favourable for the formation of Cyclone?<br />\r\n<ol>\r\n<li>Low sea surface with temperature lower than 27° C.</li>\r\n<li>Presence of the Coriolis force </li>\r\n<li>Small variations in the vertical wind speed</li>\r\n<li>Upper divergence above the sea level system</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1, 2 & 3",
+  "option2": "Only 2, 3, & 4",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3, & 4",
+  "explanation": "Cyclone is any low-pressure area with winds spiralling inwards.<br />Conditions Favourable for Tropical Cyclone Formation include:<br />Large sea surface with temperature higher than 27° C,<br />Presence of the Coriolis force enough to create a cyclonic vortex,<br />Small variations in the vertical wind speed,<br />A pre-existing weak low-pressure area or low-level-cyclonic circulation,<br />Upper divergence above the sea level system."
+}

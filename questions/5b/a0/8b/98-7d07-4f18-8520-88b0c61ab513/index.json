@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:40:11.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "5ba08b98-7d07-4f18-8520-88b0c61ab513",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following groups in Koeppen's climate classification is referred as areas of very low temperature?",
+  "option1": "A",
+  "option2": "H",
+  "option3": "E",
+  "option4": "B",
+  "option5": "",
+  "answer": "E",
+  "explanation": "The Koeppen climate classification system recognizes five major climatic types and each type is designated by a capital letter- A, B, C, D, E, and H. <br />A, C, D, E are considered as Humid whereas B is considered as Dry. <br />H is referred to as the climate of Highland regions.<br />E is the group of very low temperatures."
+}

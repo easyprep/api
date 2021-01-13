@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T03:29:33.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "38f19e97-2d8a-437a-9258-90c2240565eb",
+  "labels": "current-affairs,2020-07-30",
+  "question": "The Consumer regulator of Australia has accused which technology company of privacy breaches?",
+  "option1": "Facebook",
+  "option2": "Google",
+  "option3": "Microsoft",
+  "option4": "Amazon",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Australia’s consumer regulator, the Australian Competition and Consumer Commission has accused Google of privacy breaches.\r\nIt has alleged that Google has misled millions of Australians in collecting their personal information. To target advertising, Google is alleged to have obtained consent and expanded the scope of personal information collected on internet activity of the users."
+}

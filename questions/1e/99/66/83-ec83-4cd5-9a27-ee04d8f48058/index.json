@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:40:12.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "1e996683-ec83-4cd5-9a27-ee04d8f48058",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What does the letter code Aw in the Koeppen's climate classification refer to?",
+  "option1": "Tropical Rainforest",
+  "option2": "Tropical Savannah",
+  "option3": "Tropical Monsoon",
+  "option4": "Desert climate",
+  "option5": "",
+  "answer": "Tropical Savannah",
+  "explanation": "The Koeppen climate classification system recognizes five major climatic types and each type is designated by a capital letter- A, B, C, D, E, and H.<br />The group A is recognised as Tropical climate.<br />The letter code Aw represents Tropical Savannah climate."
+}

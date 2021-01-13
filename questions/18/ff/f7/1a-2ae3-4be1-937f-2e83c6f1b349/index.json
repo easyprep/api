@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:07:38.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "18fff71a-2ae3-4be1-937f-2e83c6f1b349",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Ocean Temperature?<br />\r\n<ol>\r\n<li>Both energy and sunlight decrease with depth in the oceans.</li>\r\n<li>The upper layer of the ocean is called the Photic Ocean</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Surface Zone is also called as the Photic zone or the Euphoric Zone. It is the upper layer of the ocean. In this layer, the temperature and salinity are relatively constant. It contains about 2 percent of the total volume of water in the ocean."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:19.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "89f68af7-3174-456a-94d2-49d653b7b75f",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Density of ocean water?<br />\r\n<ol>\r\n<li>Salinity is inversely related to seawater density.</li>\r\n<li>Seawater density decreases with increasing salinity and vice versa.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Salinity is directly positively related to seawater density.<br />On an average, seawater density increases with increasing salinity and vice versa.<br />E.g. Density of pure water is 1.00 g/cm3 and density of water with 35% salinity is 1.028 g/cm3."
+}

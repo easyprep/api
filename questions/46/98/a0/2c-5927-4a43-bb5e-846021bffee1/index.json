@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:26.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "4698a02c-5927-4a43-bb5e-846021bffee1",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the share of Natural gas in India's petroleum products consumption?",
+  "option1": 0.1,
+  "option2": 0.15,
+  "option3": 0.06,
+  "option4": 0.09,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "The share of natural gas in India's energy mix is 6%. It accounts for 1.5% of global consumption. The total consumption is 132,290,211 MMcf."
+}

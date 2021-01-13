@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:36:35.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "066e141a-068e-4979-b269-af5d063469c5",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following region is <strong>not</strong> associated with polar air masses?",
+  "option1": "Northern Canada",
+  "option2": "Sahara Desert",
+  "option3": "Arctic Ocean",
+  "option4": "Southern Ocean",
+  "option5": "",
+  "answer": "Sahara Desert",
+  "explanation": "A cold air mass is one which is colder than the underlying surface and is associated with instability and atmospheric turbulence. <br />Cold source regions or polar air masses include:<br />Arctic Ocean<br />Siberia<br />Northern Canada<br />Southern Ocean <br />Sahara Desert is associated with warm air mass."
+}

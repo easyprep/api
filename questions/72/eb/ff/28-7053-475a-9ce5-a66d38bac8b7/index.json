@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:52.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "72ebff28-7053-475a-9ce5-a66d38bac8b7",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is India's contribution of APIs to the prequalified list of the WHO?",
+  "option1": 0.4,
+  "option2": 0.57,
+  "option3": 0.6,
+  "option4": 0.7,
+  "option5": "",
+  "answer": 0.57,
+  "explanation": "The API industry is ranked third largest in the world. It contributes 57% of APIs to prequalified list of the WHO. India is ranked 3 in the consumption of API."
+}

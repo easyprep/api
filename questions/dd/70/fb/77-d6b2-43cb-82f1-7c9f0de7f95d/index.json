@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:38:41.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "dd70fb77-d6b2-43cb-82f1-7c9f0de7f95d",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following pairs of cyclones and their associated names is/are correctly matched?<br />\r\n<ol>\r\n<li>Western Australia - Willy-willies</li>\r\n<li>South China Sea - Hurricanes</li>\r\n<li>Atlantic - Typhoons</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Cyclone are called by different names in different regions:<br />Indian Ocean - Cyclones<br />Atlantic -  Hurricanes<br />Western Pacific and South China Sea -  Typhoons<br />Western Australia -  Willy-willies"
+}

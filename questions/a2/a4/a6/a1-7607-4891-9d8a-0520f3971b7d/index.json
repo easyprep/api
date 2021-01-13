@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:38:30.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "a2a4a6a1-7607-4891-9d8a-0520f3971b7d",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is<strong> not</strong> correct about cyclones?",
+  "option1": "Cyclones rotate anti-clockwise in Northern Hemisphere and clockwise in Southern Hemisphere.",
+  "option2": "Cyclone is any low-pressure area with winds spiralling inwards",
+  "option3": "About 65 per cent of cyclonic activity occurs between 10° and 20° latitude.",
+  "option4": "They are mostly formed in eastern tropical oceans",
+  "option5": "",
+  "answer": "They are mostly formed in eastern tropical oceans",
+  "explanation": "Tropical cyclones form mostly on the western margins of the oceans. <br />They don’t form in the eastern tropical oceans because the cold currents lower the surface temperatures of the eastern parts of the tropical oceans making them unfit for the breeding of cyclonic storms."
+}

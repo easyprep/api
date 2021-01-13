@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:34:47.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "d8b62d57-50c4-45e4-83ad-167d2dbcb772",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is <strong>not</strong> correct about Relative Humidity?",
+  "option1": "It is Ratio of water vapour in air at a particular temp. to total amount of water vapour required to saturate the same air at same temperature.",
+  "option2": "It is measured by Hygrometer",
+  "option3": "It is expressed in gm/kg",
+  "option4": "It increases with increase in water vapour in air & decreases with increase in temperature",
+  "option5": "",
+  "answer": "It is expressed in gm/kg",
+  "explanation": "Relative Humidity is the Ratio of water vapour in air at a particular temp. to total amount of water vapour required to saturate the same air at same temperature. <br />It is expressed in %. <br />Relative humidity increases with increase in water vapour in air &amp; decreases with increase in temperature.<br />It is measured by Hygrometer."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T03:24:36.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "9d0b5eae-8cfe-4eab-8d26-1c2c00aeac89",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the name of the weather forecast application launched by the India Meteorological Department?",
+  "option1": "Weather Check",
+  "option2": "IMD Forecast",
+  "option3": "Mausam",
+  "option4": "IMD Check",
+  "option5": "",
+  "answer": "Mausam",
+  "explanation": "India Meteorological Department, Union Ministry of Earth Sciences launched a weather forecast application for general public.\r\nNamed as Mausam, the application offers information on five details including current temperature, humidity, wind speed and wind direction for 200 cities. The information is updated eight times a day. While this app is meant for everyone, IMD already has another app meant only for farmers and agriculturists called Meghdoot."
+}

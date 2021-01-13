@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:16.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "60141fe5-9767-4f4f-b71a-ae14c83bb69e",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Ocean Temperature?<br />\r\n<ol>\r\n<li>The latitudinally extensive seas in low latitude regions have warmer surface water than longitudinally extensive sea </li>\r\n<li>The Mediterranean Sea records higher temperature than the longitudinally extensive Gulf of California.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The Shape of the ocean affects the Temperature Distribution in the water.<br />The latitudinally extensive seas in low latitude regions have warmer surface water than longitudinally extensive sea.<br />Therefore the Mediterranean Sea records higher temperature than the longitudinally extensive Gulf of California."
+}

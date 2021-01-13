@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:08.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "e75a376e-b907-432b-bff9-e84ddbbbb31e",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which zone of ocean water does not receive adequate sunrays?",
+  "option1": "Photic",
+  "option2": "Euphotic",
+  "option3": "Aphotic",
+  "option4": "Surface",
+  "option5": "",
+  "answer": "Aphotic",
+  "explanation": "The Aphotic zone extends from 200 m to the ocean bottom. This zone does not receive adequate sunrays.<br />Photic or euphotic zone extends from the upper surface to ~200 m. The photic zone receives adequate solar insolation."
+}

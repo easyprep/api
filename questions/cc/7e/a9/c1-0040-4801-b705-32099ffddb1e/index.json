@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:34:41.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "cc7ea9c1-0040-4801-b705-32099ffddb1e",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the temperature at which saturation occurs called?",
+  "option1": "Evaporation",
+  "option2": "Dew Point",
+  "option3": "Absolute Humidity",
+  "option4": "Relative Humidity",
+  "option5": "",
+  "answer": "Dew Point",
+  "explanation": "At any specific temp., amount of water vapour that can be held by air has a definite limit known as saturation point. Air at saturation point is known as saturated air. Dew Point is the temperature at which saturation occurs."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:13:31.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "4c1517f5-b2b6-4d4f-bc06-b3f21241a655",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the contribution of raw sugar to the International sugar trade?",
+  "option1": 0.4,
+  "option2": 0.45,
+  "option3": 0.6,
+  "option4": 0.55,
+  "option5": "",
+  "answer": 0.6,
+  "explanation": "World sugar trade averages about 64 mln tonnes/year. Raw sugar accounts for around 60% of international trade volumes."
+}

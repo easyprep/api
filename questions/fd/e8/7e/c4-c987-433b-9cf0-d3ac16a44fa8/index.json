@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:04.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "fde87ec4-c987-433b-9cf0-d3ac16a44fa8",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following is not affected by changes in pressure or temperature?",
+  "option1": "Precipitation",
+  "option2": "Specific Humidity",
+  "option3": "Condensation",
+  "option4": "Relative Humidity",
+  "option5": "",
+  "answer": "Specific Humidity",
+  "explanation": "Specific Humidity is the Weight of water vapour present in per unit weight of air. Since it is measured in units of weight (usually grams per kilogram), the specific humidity is not affected by changes in pressure or temperature."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:38:30.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "c14982bc-cd38-4834-b2c7-f46b7bd1846d",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about cyclones?<br />\r\n<ol>\r\n<li>There are no cyclones at the equator</li>\r\n<li>About 65 per cent of cyclonic activity occurs between 0° and 5° latitude.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Cyclone is any low-pressure area with winds spiralling inwards. Cyclones rotate anti-clockwise in Northern Hemisphere and clockwise in Southern Hemisphere. <br />The Coriolis force is zero at the equator hence there are no cyclones at equator.<br />About 65 per cent of cyclonic activity occurs between 10° and 20° latitude."
+}

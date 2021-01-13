@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:13:32.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "c2c9fb9c-cc87-4290-94c0-1e853750a589",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the percentage of Ethanol blending being done in brazil?",
+  "option1": 0.27,
+  "option2": 0.45,
+  "option3": 0.15,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.27,
+  "explanation": "In brazil, mandatory ethanol blending is 27%. In India, it is currently 6.5%. Ethanol is one of the purest form of fuels available."
+}

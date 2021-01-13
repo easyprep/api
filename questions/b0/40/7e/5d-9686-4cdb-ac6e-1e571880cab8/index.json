@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:31.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "b0407e5d-9686-4cdb-ac6e-1e571880cab8",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which cloud is also known as an Anvil cloud?",
+  "option1": "Stratus",
+  "option2": "Cirrus",
+  "option3": "Cumulonimbus",
+  "option4": "Nimbostratus",
+  "option5": "",
+  "answer": "Cumulonimbus",
+  "explanation": "Cumulonimbus clouds are dense towering vertical clouds. It’s top acquires an ‘Anvil Shape’. Hence known as an Anvil cloud. They are associated with thunderstorms and atmospheric instability."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:36:42.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "51511ec7-1c6e-4588-ab82-178c79ffc631",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Fronts?<br />\r\n<ol>\r\n<li>Frontogenesis involves convergence of two distinct air masses.</li>\r\n<li>Frontolysis involves overriding of one of the air mass by another.</li>\r\n<li>In northern hemisphere Frontogenesis happens in clockwise direction and in southern hemisphere, anti-clockwise direction.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "1, 2 & 3",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Only 1 & 2",
+  "explanation": "The boundary zone when two different type of air masses meet is called a Front. The process of its formation is known as frontogenesis.<br />Frontogenesis involves convergence of two distinct air masses.<br />Frontolysis involves overriding of one of the air mass by another.<br />In northern hemisphere Frontogenesis happens in anti-clockwise direction and in southern hemisphere, clockwise direction."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:40:04.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "6fe19f18-0f07-4277-bdf1-532522d0b3f7",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Who identified a close relationship between the distribution of vegetation and climate?",
+  "option1": "Hoyle",
+  "option2": "Henry Hess",
+  "option3": "Laplace",
+  "option4": "Koeppen",
+  "option5": "",
+  "answer": "Koeppen",
+  "explanation": "Koeppen's classification of Climatic Regions is an empirical classification based on mean annual and mean monthly temperature and precipitation data. He identified a close relationship between the distribution of vegetation and climate. He selected certain values of temperature and precipitation and related them to the distribution of vegetation and used these values for classifying the climates. He recognized five major climatic groups, four of them are based on temperature and one on precipitation."
+}

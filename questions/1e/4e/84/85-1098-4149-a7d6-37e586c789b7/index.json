@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:43.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "1e4e8485-1098-4149-a7d6-37e586c789b7",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following clouds is <strong>not</strong> classified as a Low cloud?<br />\r\n<ol>\r\n<li>Altostratus</li>\r\n<li>Cirrocumulus</li>\r\n<li>Stratocumulus</li>\r\n<li>Nimbostratus</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 4",
+  "option3": "Only 3 & 4",
+  "option4": "Only 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 3 & 4",
+  "explanation": "Clouds are classified on the basis of their formation at different heights:<br />Low clouds include:<br />Stratocumulus<br />Nimbostratus"
+}

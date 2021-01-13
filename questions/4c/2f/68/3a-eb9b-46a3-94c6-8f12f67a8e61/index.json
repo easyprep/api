@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:13:32.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "4c2f683a-eb9b-46a3-94c6-8f12f67a8e61",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is second generation of ethanol?",
+  "option1": "ethanol produced from corn",
+  "option2": "ethanol prouced from sugarcane",
+  "option3": "ethanol produced from molasses",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "ethanol produced from molasses",
+  "explanation": "The first generation ethanol deals with the production of ethanol from food crops like corn and sugarcane. Whereas second-generation deals with ethanol production from non-food crops like molasses."
+}

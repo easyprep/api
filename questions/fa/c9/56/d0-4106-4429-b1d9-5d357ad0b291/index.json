@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:05:56.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "fac956d0-4106-4429-b1d9-5d357ad0b291",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which ocean has the lowest average salinity?",
+  "option1": "Indian Ocean",
+  "option2": "Pacific Ocean",
+  "option3": "Arctic Ocean",
+  "option4": "Southern Ocean",
+  "option5": "",
+  "answer": "Arctic Ocean",
+  "explanation": "The Arctic Ocean is the smallest and shallowest of the world's five major oceans. It is also known as the coldest of all the oceans. Its salinity is the lowest on average of the five major oceans, due to low evaporation, heavy fresh water inflow from rivers and streams, and limited connection and outflow to surrounding oceanic waters with higher salinities."
+}

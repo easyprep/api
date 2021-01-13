@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:53.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "9dec4f62-8c93-42f9-a47d-9bacd8281411",
+  "labels": "current-affairs,2020-07-29",
+  "question": "Which country is the largest pharma exporter in the world?",
+  "option1": "India",
+  "option2": "Germany",
+  "option3": "USA",
+  "option4": "Belgium",
+  "option5": "",
+  "answer": "Germany",
+  "explanation": "The top 5 pharma exporters in the world are:<br />1. Germany: $84.7 billion<br />2. Switzerland: $71.7 billion<br />3. United States: $49.7 billion<br />4. Belgium: $45.7 billion<br />5. Ireland: $40 billion"
+}

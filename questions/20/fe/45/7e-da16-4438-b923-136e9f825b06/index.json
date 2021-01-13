@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:35:53.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "20fe457e-da16-4438-b923-136e9f825b06",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which kind of precipitation occurs when a front or boundary line is formed between two air masses of contrasting temperature?",
+  "option1": "Convectional",
+  "option2": "Cyclonic",
+  "option3": "Orographic",
+  "option4": "Frontal",
+  "option5": "",
+  "answer": "Frontal",
+  "explanation": "Frontal precipitation occurs when a front or boundary line is formed between two air masses of contrasting temperature. Along the fronts, the warm air rises above the denser cold air. The mid-latitude regions experiencing the convergence of warm tropical and cold polar air masses are important areas receiving frontal precipitation."
+}

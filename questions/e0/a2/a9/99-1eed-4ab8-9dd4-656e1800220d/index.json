@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:05:52.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "e0a2a999-1eed-4ab8-9dd4-656e1800220d",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following continents border the Pacific Ocean?<br />\r\n<ol>\r\n<li>Asia</li>\r\n<li>North America</li>\r\n<li>South America</li>\r\n<li>Africa</li>\r\n<li>Australia</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1, 3 & 5",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 1, 2, 3 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "Only 1, 2, 3 & 5",
+  "explanation": "The Pacific Ocean is the largest ocean in the Earth covering one-third area. It is bounded by the continents of Asia and Australia in the west and the North and South America in the east."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:08:52.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "2942849f-7715-4f68-b532-46e4bfc1e042",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the average salinity of sea water?",
+  "option1": "55 parts per thousand",
+  "option2": "35 parts per thousand",
+  "option3": "25 parts per thousand",
+  "option4": "75 parts per thousand",
+  "option5": "",
+  "answer": "35 parts per thousand",
+  "explanation": "The salinity of ocean water is a measure of the concentration of dissolved salts, which are mostly – sodium chloride but also include salts containing magnesium, sulfur, calcium, and potassium.<br />The average salinity of seawater is about 35 parts per thousand"
+}

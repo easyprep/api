@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:09:53.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "8d417c79-c576-42fa-900b-254d7a411601",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the share government expenditure on health (as a percentage of GDP)?",
+  "option1": 0.025,
+  "option2": 0.016,
+  "option3": 0.012,
+  "option4": 0.02,
+  "option5": "",
+  "answer": 0.016,
+  "explanation": "As per Economic Survey 2019-20, Government expenditure (as a percentage of GDP) is 1.6 percent of GDP in FY20. It increased from 1.2 percent in FY15 on health."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:06.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "c3e0931f-2225-4485-8afa-a9ea3006dedf",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the average salinity of the brackish water?",
+  "option1": "Below 0.5 ppt",
+  "option2": "Above 35 ppt",
+  "option3": "0.5 to 35 ppt",
+  "option4": "35 to 50 ppt",
+  "option5": "",
+  "answer": "0.5 to 35 ppt",
+  "explanation": "The salinity of water in the ocean averages about 35 parts per thousand (ppt). <br />The mixture of seawater and fresh water in estuaries is called brackish water and its salinity can range from 0.5 to 35 ppt."
+}

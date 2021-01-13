@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:34:44.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "e5bd7ce1-11dd-411c-a7fa-98e0f543ee6b",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the ratio of water vapour in air at a particular temperature to total amount of water vapour required to saturate the same air at same temperature called?",
+  "option1": "Absolute Humidity",
+  "option2": "Relative Humidity",
+  "option3": "Specific Humidity",
+  "option4": "Evaporation",
+  "option5": "",
+  "answer": "Relative Humidity",
+  "explanation": "Relative Humidity is the Ratio of water vapour in air at a particular temperature to total amount of water vapour required to saturate the same air at same temperature. It is expressed in %"
+}

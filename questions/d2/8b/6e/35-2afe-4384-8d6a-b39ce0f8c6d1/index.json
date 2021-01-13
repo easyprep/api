@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:40:12.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "d28b6e35-2afe-4384-8d6a-b39ce0f8c6d1",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following pairs of Koeppen's climate classification is<strong> not</strong> correctly matched?",
+  "option1": "W - Desert Climate",
+  "option2": "S - Steppe Climate",
+  "option3": "F - Tundra climate",
+  "option4": "B - Dry climate",
+  "option5": "",
+  "answer": "F - Tundra climate",
+  "explanation": "The Koeppen climate classification system recognizes five major climatic types and each type is designated by a capital letter- A, B, C, D, E, and H.<br />The capital letters S and W are employed to designate the two subdivisions of dry climate:<br />S - Semi arid or Steppe<br />W - arid or desert<br />Capital letters T and F are used to designate the two subdivisions of polar climate:<br />tundra - T <br />icecap - F"
+}

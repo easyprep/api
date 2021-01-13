@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:10:22.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "9c745311-9a08-4408-88bf-bd094a404746",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the growth rate experienced in office space leasing in major cities of India?",
+  "option1": 0.07,
+  "option2": 0.27,
+  "option3": 0.18,
+  "option4": 0.15,
+  "option5": "",
+  "answer": 0.27,
+  "explanation": "During 2019, the office leasing space reached 60.6 msf across eight major cities, registering a growth of 27 percent. Office space has been driven mostly by growth in ITeS/IT, BFSI, consulting and manufacturing sectors."
+}

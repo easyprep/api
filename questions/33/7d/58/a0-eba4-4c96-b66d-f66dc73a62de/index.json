@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:05:56.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "337d58a0-eba4-4c96-b66d-f66dc73a62de",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following pairs of oceans is/are correct?<br />\r\n<ol>\r\n<li>Factorian Deep - Arctic Ocean </li>\r\n<li>Sirena Deep - Pacific Ocean </li>\r\n<li>Challenger Deep - Atlantic Ocean</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 3",
+  "option3": "Only 2",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The deepest point in the Southern Ocean is the \"Factorian Deep\"with a depth of 7,434 meters.<br />Sirena Deep is the third deepest point on Earth, next to the Challenger Deep and Horizon Deep. It lies along the Mariana Trench, western pacific Ocean.<br />Challenger Deep in the Mariana Trench, located in the western north Pacific, is the deepest point in the world, reaching a depth of 10,928 meters."
+}

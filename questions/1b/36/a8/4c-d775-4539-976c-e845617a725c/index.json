@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:19.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "1b36a84c-d775-4539-976c-e845617a725c",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following layers of ocean and density is/are correctly matched?<br />\r\n<ol>\r\n<li>Surface Layer - Highest density</li>\r\n<li>Pynocline Layer - Sharp density gradient</li>\r\n<li>Deep or bottom layer -  Lowest but uniform density.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Only 1 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Salinity is directly positively related to seawater density.<br />There are 3 layers in seawater from sea surface to the ocean bottoms. They are<br />Surface Layer of Lowest density<br />Pynocline Layer of sharp density gradient<br />Deep or bottom layer of highest but uniform density."
+}

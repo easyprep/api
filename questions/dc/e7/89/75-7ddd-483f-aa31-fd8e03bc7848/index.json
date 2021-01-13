@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:34:44.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "dce78975-7ddd-483f-aa31-fd8e03bc7848",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the weight of actual amount of water vapour present in unit volume of air called?",
+  "option1": "Absolute Humidity",
+  "option2": "Relative Humidity",
+  "option3": "Condensation",
+  "option4": "Specific Humidity",
+  "option5": "",
+  "answer": "Absolute Humidity",
+  "explanation": "Humidity is the amount of water vapour present in air. <br />Absolute Humidity is the weight of actual amount of water vapour present in unit volume of air.<br />Relative Humidity is the Ratio of water vapour in air at a particular temp. to total amount of water vapour required to saturate the same air at same temperature. It is expressed in %<br />Specific Humidity is the Weight of water vapour present in per unit weight of air. It is not affected by change in pressure or temperature."
+}

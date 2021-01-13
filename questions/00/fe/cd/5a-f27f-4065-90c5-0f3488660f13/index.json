@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:06.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "00fecd5a-f27f-4065-90c5-0f3488660f13",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following factors affect the density of sea water?<br />\r\n<ol>\r\n<li>Temperature</li>\r\n<li>Pressure</li>\r\n<li>Salinity</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 1 & 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Density refers to the amount of mass per unit volume of substance and it is generally measured in g/cm3.<br />The density of sea water is related to following 3 factors:<br />Temperature<br />Pressure<br />Salinity"
+}

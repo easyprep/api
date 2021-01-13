@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:13:11.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "aeab2138-c7fb-4e8c-bb46-d500f5f75528",
+  "labels": "current-affairs,2020-07-29",
+  "question": "<p>What is the contribution of Textiles and apparel to Indian GDP ?</p>",
+  "option1": 0.023,
+  "option2": 0.053,
+  "option3": 0.034,
+  "option4": 0.064,
+  "option5": "",
+  "answer": 0.023,
+  "explanation": "<p>Textiles and apparel contribute 2.3% to Indian GDP, accounts for 13% of industrial production and 12% of India’s export earnings.</p>"
+}

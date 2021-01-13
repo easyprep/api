@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:03:08.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "b1cb2bfb-0a1c-4de9-aa37-0b6090f0f2b9",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the maximum size of the boiler that Indian Industries can currently manufacture?",
+  "option1": "500 MW",
+  "option2": "1000 MW",
+  "option3": "10000 MW",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1000 MW",
+  "explanation": "According to the Indian brand equity foundation, the Indian boiler industry has the capability to manufacture boilers with supercritical parameters up to 1000 MW unit size."
+}

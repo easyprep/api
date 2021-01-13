@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-28T16:10:22.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "6f0763fb-a857-47c8-8c1f-e4ce3ba3befc",
+  "labels": "current-affairs,2020-07-29",
+  "question": "What is the interest subsidy provided on housing loans under PM Awas Yojna?",
+  "option1": 0.065,
+  "option2": 0.045,
+  "option3": 0.035,
+  "option4": 0.05,
+  "option5": "",
+  "answer": 0.065,
+  "explanation": "The government of India is providing an interest subsidy of 6.5% on housing loans which can be availed by beneficiaries under PM Awas Yojan - Urban for 15 years from start of loan date."
+}

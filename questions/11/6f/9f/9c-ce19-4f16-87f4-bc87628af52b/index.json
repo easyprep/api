@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:19.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "116f9f9c-ce19-4f16-87f4-bc87628af52b",
+  "labels": "current-affairs,2020-07-30",
+  "question": "How is the density of ocean water expressed?",
+  "option1": "Parts per hundred",
+  "option2": "Parts per thousand",
+  "option3": "Parts per million",
+  "option4": "Parts per billion",
+  "option5": "",
+  "answer": "Parts per thousand",
+  "explanation": "Salinity is defined as ‘the total amount of solid material in grams contained in 1 kg of sea water and is expressed in parts per thousand’.<br />Salinity is also defined as the ratio between weight of the dissolved materials and the weight of the sample sea water."
+}

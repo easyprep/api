@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:06.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "dbfd9b0b-9a7b-4567-9e2e-9318ac337a45",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the the amount of mass per unit volume of substance called?",
+  "option1": "Temperature",
+  "option2": "Acceleration",
+  "option3": "Density",
+  "option4": "Salinity",
+  "option5": "",
+  "answer": "Density",
+  "explanation": "Density refers to the amount of mass per unit volume of substance. It is generally measured in g/cm3.<br />Since the salt water has some dissolved substances in it, its density is slightly higher than pure water.<br />The density of sea water gradually increases with decreasing temperature and highest density is recorded at the temperature of -1.3° C."
+}

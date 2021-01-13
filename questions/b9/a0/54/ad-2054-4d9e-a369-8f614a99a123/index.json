@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:05:52.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "b9a054ad-2054-4d9e-a369-8f614a99a123",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which is the saltiest major Ocean?",
+  "option1": "Atlantic",
+  "option2": "Pacific",
+  "option3": "Indian",
+  "option4": "Arctic",
+  "option5": "",
+  "answer": "Atlantic",
+  "explanation": "Of all the major oceans in the world, the Atlantic Ocean is the saltiest. The high surface salinity in the Atlantic is maintained by two processes:<br />the Agulhas Leakage/Rings, which brings salty Indian Ocean waters into the South Atlantic and <br />\"Atmospheric Bridge\", which evaporates subtropical Atlantic waters and exports it to the Pacific"
+}

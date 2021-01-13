@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T11:34:40.000Z",
+  "updated_at": "2021-01-06T08:25:04.032Z",
+  "id": "dc5961e2-405f-45bc-8f5e-5a3624b0a8ed",
+  "labels": "current-affairs,2020-07-30",
+  "question": "What is the amount of water vapour present in air called?",
+  "option1": "Evaporation",
+  "option2": "Precipitation",
+  "option3": "Humidity",
+  "option4": "Condensation",
+  "option5": "",
+  "answer": "Humidity",
+  "explanation": "Humidity is the amount of water vapour present in air. The capacity of air to absorb water vapour increases with increase in temperature. Absolute Humidity is the weight of actual amount of water vapour present in unit volume of air."
+}
