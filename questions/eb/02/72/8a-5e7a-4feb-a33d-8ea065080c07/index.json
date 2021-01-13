@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T23:41:50.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "eb02728a-5e7a-4feb-a33d-8ea065080c07",
+  "labels": "current-affairs,2020-08-03",
+  "question": "Which among the following is/are warm ocean currents in the Pacific Ocean?<br />\r\n<ol>\r\n<li>California current</li>\r\n<li>Oyashio current</li>\r\n<li>North Pacific Drift</li>\r\n<li>Humboldt current</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2, & 3",
+  "option3": "Only 3 & 4",
+  "option4": "Only 3",
+  "option5": "",
+  "answer": "Only 3",
+  "explanation": "Warm Ocean Currents in Pacific Ocean:<br />North Equatorial Current <br />South Equatorial Current <br />Counter Equatorial Current <br />Kuroshio System <br />East Australia Current <br />North Pacific Drift<br />Cold Ocean Currents in pacific ocean:<br />Oyashio Current <br />California Current<br />Peruvian or Humboldt Current"
+}

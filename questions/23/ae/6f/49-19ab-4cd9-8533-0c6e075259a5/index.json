@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-12T18:01:54.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "23ae6f49-19ab-4cd9-8533-0c6e075259a5",
+  "labels": "current-affairs,2020-08-13",
+  "question": "Who argued that while food production could only increase in arithmetic progression, human population grow exponentially?",
+  "option1": "Frank W Notestein",
+  "option2": "Amartya Sen",
+  "option3": "Thomas Robert Malthus",
+  "option4": "Charles Darwin",
+  "option5": "",
+  "answer": "Thomas Robert Malthus",
+  "explanation": "Thomas Robert Malthus gave his ideas regarding population in his book ‘Essay, on the principle of Population. He argued that while food production could only increase in arithmetic progression, human population grow exponentially. Thus, he predicted a future when humans would have no resources to survive on."
+}

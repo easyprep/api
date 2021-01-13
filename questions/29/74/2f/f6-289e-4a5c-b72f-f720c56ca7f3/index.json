@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-12T18:02:02.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "29742ff6-289e-4a5c-b72f-f720c56ca7f3",
+  "labels": "current-affairs,2020-08-13",
+  "question": "What is the population per sq km of arable land available in a country called?",
+  "option1": "Real Population Density",
+  "option2": "Physiological Density",
+  "option3": "Absolute Density",
+  "option4": "Density",
+  "option5": "",
+  "answer": "Physiological Density",
+  "explanation": "Physiological Density - It measures the population per sq km of arable land available in a country. It measures the feeding potential of the country to its citizens."
+}

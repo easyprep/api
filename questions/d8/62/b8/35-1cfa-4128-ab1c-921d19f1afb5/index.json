@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-14T01:29:42.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "d862b835-1cfa-4128-ab1c-921d19f1afb5",
+  "labels": "current-affairs,2020-08-15",
+  "question": "Which among the following statements is/are correct about the population composition of the world?<br />\r\n<ol>\r\n<li>The world population illustrates a sex ratio of 102 males per 100 females.</li>\r\n<li>Latvia has the highest sex ratio in the world</li>\r\n<li>The sex ratio is favorable for females in about 139 countries of the world and unfavorable in rest of the countries.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 2",
+  "option2": "Only 1 & 3",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "The world population illustrates a sex ratio of 102 males per 100 females.<br />With record 85 males per 100 females, Latvia has the highest sex ratio in the world; on the other hand, in Qatar, there are 311 males per 100 females.<br />The sex ratio is favorable for females in (about) 139 countries of the world and unfavorable in rest of the countries."
+}

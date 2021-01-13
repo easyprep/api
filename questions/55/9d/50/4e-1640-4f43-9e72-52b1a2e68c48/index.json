@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T19:47:39.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "559d504e-1640-4f43-9e72-52b1a2e68c48",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Darwin's Coral Reef origin theory?<br />\r\n<ol>\r\n<li>He assumed that all coral reefs began as barrier reefs.</li>\r\n<li>They began to grow near the shorelines of new islands as ecological conditions became ideal for hard coral growth.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The basic coral reef classification scheme described above was first proposed by Charles Darwin.<br />He assumed that all coral reefs began as Barrier Reefs. He theorized that fringing reefs began to grow near the shorelines of new islands as ecological conditions became ideal for hard coral growth."
+}

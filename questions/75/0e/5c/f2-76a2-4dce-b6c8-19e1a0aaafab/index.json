@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T15:51:44.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "750e5cf2-76a2-4dce-b6c8-19e1a0aaafab",
+  "labels": "current-affairs,2020-08-08",
+  "question": "Which among the following pairs of temperate grassland biome is/are correctly matched?<br />\r\n<ol>\r\n<li>Prairies - America</li>\r\n<li>Pampas - Russia </li>\r\n<li>Pustaz - Hungary</li>\r\n<li>Canterbury - New Zealand</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 3 & 4",
+  "option3": "Only 1, 2 & 3",
+  "option4": "Only 3 & 4",
+  "option5": "",
+  "answer": "Only 1, 3 & 4",
+  "explanation": "Temperate grasslands are characterized as having grasses as the dominant vegetation. Trees and large shrubs are absent.<br />Prairie – America<br />Pampas – Argentina<br />Pustaz – Hungary<br />Steppe – Russia<br />Veld – South Africa<br />Downs – Australia<br />Canterbury – NZ"
+}

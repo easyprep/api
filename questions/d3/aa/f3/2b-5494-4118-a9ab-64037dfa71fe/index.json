@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T15:49:42.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "d3aaf32b-5494-4118-a9ab-64037dfa71fe",
+  "labels": "current-affairs,2020-08-08",
+  "question": "Which among the following factors does the texture of the soil directly affect?<br />\r\n<ol>\r\n<li>The soil water content</li>\r\n<li>Water flow</li>\r\n<li>Retention of nutrients</li>\r\n<li>Extent of aeration</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 1, 2 & 4",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The texture of the soil is determined by the proportion of the sand, silt and clay particles.<br />The soil texture directly affects:<br />The soil water content<br />Water flow<br />Retention of nutrients<br />Extent of aeration"
+}

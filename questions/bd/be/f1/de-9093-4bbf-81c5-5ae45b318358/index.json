@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T06:14:00.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "bdbef1de-9093-4bbf-81c5-5ae45b318358",
+  "labels": "current-affairs,2020-08-03",
+  "question": "Which fin tech company launched a UPI payment link service that allows transactions from any payment app?",
+  "option1": "PhonePe",
+  "option2": "MobiKwik",
+  "option3": "BharatPe",
+  "option4": "Freecharge",
+  "option5": "",
+  "answer": "MobiKwik",
+  "explanation": "FinTech company MobiKwik launched a UPI payment link service, mpay.me, that allows users to send and receive money from any UPI payment app.\r\nThrough the new service, users and merchants can set up a mini personal payment gateways with their mobile number and share them. With the link, users can send and receive money through any UPI app. This service works on mobile as well as computer."
+}

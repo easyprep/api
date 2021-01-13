@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:28.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "83de1662-918c-4b98-9d49-865b242e9973",
+  "labels": "current-affairs,2020-07-30",
+  "question": "In which among the following latitudes is the highest salinity observed?",
+  "option1": "Equator",
+  "option2": "Tropical zone",
+  "option3": "Temperate zone",
+  "option4": "Polar zone",
+  "option5": "",
+  "answer": "Tropical zone",
+  "explanation": "Latitudinal distribution of salinity classified into 4 zones as<br />Equatorial zones – relatively low salinity (excessive rainfall)<br />Tropical zone (20° – 30°) of maximum salinity (low rainfall and high evaporation)<br />Temperate zone – low salinity <br />Sub polar and polar zone – minimum"
+}

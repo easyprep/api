@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T03:21:21.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "cc999641-a4f5-4f79-9250-a323e7e9595a",
+  "labels": "current-affairs,2020-08-08",
+  "question": "Which telecom company of India has partnered with Amazon Web Services to provide cloud solutions to businesses?",
+  "option1": "Jio",
+  "option2": "Airtel",
+  "option3": "BSNL",
+  "option4": "Vodafone Idea",
+  "option5": "",
+  "answer": "Airtel",
+  "explanation": "India’s leading telecom operator Bharti Airtel Ltd and the cloud services subsidiary of Amazon, Amazon Web Services (AWS), entered into a strategic partnership to provide a range of cloud solutions to large, small and medium businesses.\r\nThe partnership aims to develop products that provides security to remote working. Under the partnership, Airtel Cloud will build an Amazon Web Services (AWS) Cloud Practise and develop Airtel Cloud products."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-04T11:23:49.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "ad88644f-bcf3-4799-a043-e142a53eaf4b",
+  "labels": "current-affairs,2020-08-05",
+  "question": "What is the flame colour of “Strontium Salt” metal ion?",
+  "option1": "Bluish-Green",
+  "option2": "Apple-Green",
+  "option3": "Brick Red",
+  "option4": "Crimson Red",
+  "option5": "",
+  "answer": "Crimson Red",
+  "explanation": "<p>A flame test is performed by introducing a sample into the blue flame of a bunsen burner and noting any change in the colour of the flame. The tests can be used to detect the presence of some metallic elements in salts. The flame test is an analytical chemistry method used to help identify metal ions. While it's a useful qualitative analysis test—and a lot of fun to perform—it can't be used to identify all metals because not all metal ions yield flame colours. Also, some metal ions display colours that are similar to each other making it hard to tell them apart. Nevertheless, the test is still useful for identifying numerous metals and metalloids. The flame test is all about thermal energy, electrons, and the energy of photons. The colours observed during the flame test result from the excitement of the electrons caused by the increased temperature. The electrons \"jump\" from their ground state to a higher energy level. As they return to their ground state, they emit visible light. The colour of the light is connected to the location of the electrons and the affinity the outer-shell electrons have to the atomic nucleus. The colour emitted by larger atoms is lower in energy than the light emitted by smaller atoms. So, strontium (atomic number 38) produces a crimson reddish colour. With strontium salt, the colour of Bunsen flame ranges from crimson to red.</p>"
+}

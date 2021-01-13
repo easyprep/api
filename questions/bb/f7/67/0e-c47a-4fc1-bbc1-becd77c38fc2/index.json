@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-04T11:23:49.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "bbf7670e-c47a-4fc1-bbc1-becd77c38fc2",
+  "labels": "current-affairs,2020-08-05",
+  "question": "Which component is used to harden the rubber in the vulcanization process?",
+  "option1": "Nitrogen",
+  "option2": "Silicon",
+  "option3": "Sulphur",
+  "option4": "Alcohol",
+  "option5": "",
+  "answer": "Sulphur",
+  "explanation": "<p>Vulcanization is a chemical process that converts natural rubber and other polydiene elastomers into cross-linked polymers. The most common vulcanization agent is sulfur. It forms bridges between individual polymer molecules when heated with rubber. Often a catalyst and initiator are added to accelerate the vulcanization process. The cross-linked elastomers have many improved mechanical properties. In fact, unvulcanized rubber has poor mechanical properties and is not very durable. In order to give more strength and more elasticity, natural rubber is heated with sulphur or sulphur compounds at 150°C temperature. Vulcanized rubber has good tensile strength.</p>"
+}

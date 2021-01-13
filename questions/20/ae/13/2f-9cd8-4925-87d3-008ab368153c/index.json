@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-04T11:23:49.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "20ae132f-9cd8-4925-87d3-008ab368153c",
+  "labels": "current-affairs,2020-08-05",
+  "question": "<p>What is the pH value of a neutral solution?</p>",
+  "option1": "0-7",
+  "option2": 7,
+  "option3": "2021-07-13T18:30:00.000Z",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 7,
+  "explanation": "<p>The pH of a neutral solution is 7. Values less than 7 on the pH scale represent an acidic solution. As the pH value increases from 7 to 14, the solution turns more basic. Pure water is neutral. But when chemicals are mixed with water, the mixture can become either acidic or basic. Examples of acidic substances are vinegar and lemon juice. Lye, milk of magnesia, and ammonia are examples of basic substances. In water and neutral solutions, the concentration of hydrogen ions is equal to the concentration of hydroxide ions. All acidic solutions contain more hydrogen ions than hydroxide ions. All alkaline solutions contain more hydroxide ions than hydrogen ions.</p>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-11T23:55:23.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "7258e552-2cb4-4528-a9b8-625eacadff44",
+  "labels": "current-affairs,2020-08-12",
+  "question": "Which country is to offer military airwaves for 5G wireless networks?",
+  "option1": "China",
+  "option2": "United States",
+  "option3": "Russia",
+  "option4": "India",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The United States has planned to provide its military airwaves for high-speed internet service of 5G wireless networks.\r\nUS authorities announced that radio spectrum used for radar defence systems were identified, which can be shared with commercial telecom providers. This is expected to push the United States ahead of China in deploying 5G wireless technology."
+}

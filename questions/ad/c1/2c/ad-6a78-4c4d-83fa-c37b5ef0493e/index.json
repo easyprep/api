@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-04T11:23:49.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "adc12cad-6a78-4c4d-83fa-c37b5ef0493e",
+  "labels": "current-affairs,2020-08-05",
+  "question": "<p>What is the status of total energy at any time during the interconversion of energy from one form to other forms?</p>",
+  "option1": "The total energy remains constant.",
+  "option2": "The total energy remains zero.",
+  "option3": "The total energy remain increasing.",
+  "option4": "The total energy remain decreasing.",
+  "option5": "",
+  "answer": "The total energy remains constant.",
+  "explanation": "<p>During interconversion of energy from one form to other forms, total energy at any time remains constant. First Law of Thermodynamics: Energy can be changed from one form to another, but it cannot be created or destroyed. The total amount of energy and matter in the Universe remains constant, merely changing from one form to another. The First Law of Thermodynamics (Conservation) states that energy is always conserved, it cannot be created or destroyed. In essence, energy can be converted from one form into another.</p>"
+}

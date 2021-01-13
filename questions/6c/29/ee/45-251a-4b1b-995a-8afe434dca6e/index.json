@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-09T11:00:58.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "6c29ee45-251a-4b1b-995a-8afe434dca6e",
+  "labels": "current-affairs,2020-08-10",
+  "question": "Which among the following statements is/are correct about the Evolution of Humans?<br />\r\n<ol>\r\n<li>Humans are believed to have developed from complex forms.</li>\r\n<li>The evolution is hypothesized to have begun in the oceans billions of years ago.</li>\r\n<li>Darwin has mentioned that evolution has occurred through a series of natural selection.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "Evolution involves the gradual changes from simple to more complex forms. Humans are believed to have developed from simpler forms. The evolution is hypothesized to have begun in the oceans billions of years ago. Darwin gave the theory of evolution. In his book -The Origin of Species, Darwin has mentioned that evolution has occurred through a series of natural selection."
+}

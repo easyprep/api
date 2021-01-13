@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T23:42:13.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "83fec77c-eb8f-4be3-bcd1-cfa740cddf57",
+  "labels": "current-affairs,2020-08-03",
+  "question": "Which among the following statements is/are correct about Ocean Currents?<br />\r\n<ol>\r\n<li>Cold currents flow parallel to the east coasts of the continents in tropical and subtropical latitudes.</li>\r\n<li>Warm ocean currents have a direct effect on desert formation in west coast regions of the tropical and subtropical continents.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Cold ocean currents have a direct effect on desert formation in west coast regions of the tropical and subtropical continents.<br />Warm currents flow parallel to the east coasts of the continents in tropical and subtropical latitudes. This results in warm and rainy climates. These areas lie in the western margins of the subtropical anti-cyclones."
+}

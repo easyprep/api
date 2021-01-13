@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T23:40:47.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "3358f63b-356e-492b-a371-de71d1421f4d",
+  "labels": "current-affairs,2020-08-03",
+  "question": "What is the point in the Moon's orbit that is closest to the Earth called?",
+  "option1": "Apogee",
+  "option2": "Perigee",
+  "option3": "Aphelion",
+  "option4": "Perihelion",
+  "option5": "",
+  "answer": "Perigee",
+  "explanation": "Perigee: When the moon’s orbit is closest to the earth, it is called as perigee. During this period, unusually high and low tide occur.<br />Apogee: When the moon’s orbit is farthest from the earth, it is called as apogee. Tidal ranges will be much less than the average during this period."
+}

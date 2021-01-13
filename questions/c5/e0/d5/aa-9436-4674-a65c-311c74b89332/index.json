@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-14T01:30:08.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "c5e0d5aa-9436-4674-a65c-311c74b89332",
+  "labels": "current-affairs,2020-08-15",
+  "question": "Which among the following statements is/are correct about Population Growth?<br />\r\n<ol>\r\n<li>Crude Death Rate is the number of death in particular year per 1000 of population.</li>\r\n<li>Mortality Rate are affected by demographic structure, social advancement and economic development.</li>\r\n<li>Crude Birth Rate is the number of live births in a year per thousand of women.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2",
+  "option3": "Only 2 & 3",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "1, 2 & 3",
+  "explanation": "Change in number of inhabitants of a territory during a specific period of time. Change may be both positive and negative.<br />Components of population change: - <br />Crude Birth Rate is the number of live births in a year per thousand of women.<br />Crude Death Rate is the number of death in particular year per 1000 of population.<br />Mortality rate are affected by demographic structure, social advancement and economic development."
+}

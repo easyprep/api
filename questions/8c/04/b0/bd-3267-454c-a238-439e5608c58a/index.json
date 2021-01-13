@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-12T18:01:54.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "8c04b0bd-3267-454c-a238-439e5608c58a",
+  "labels": "current-affairs,2020-08-13",
+  "question": "What is a statistical study of human population called?",
+  "option1": "Human Geography",
+  "option2": "Biogeography",
+  "option3": "Demography",
+  "option4": "Pedology",
+  "option5": "",
+  "answer": "Demography",
+  "explanation": "Demography is a statistical study of human population. It studies a variety of variables related to population like size, growth, distribution, density, composition and their spatial and temporal variations.<br />Demographics are the quantifiable statistics of the given population based on the study of demography."
+}

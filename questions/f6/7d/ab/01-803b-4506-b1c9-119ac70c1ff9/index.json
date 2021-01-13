@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T12:09:41.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "f67dab01-803b-4506-b1c9-119ac70c1ff9",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following joins places of equal salinity at the sea surface?",
+  "option1": "Isobar",
+  "option2": "Isocline",
+  "option3": "Isohaline",
+  "option4": "Isotherm",
+  "option5": "",
+  "answer": "Isohaline",
+  "explanation": "The spatial distribution of surface salinity of the oceans and the seas is represented by Isohalines which are the lines that join the places of equal salinity at the sea surface."
+}

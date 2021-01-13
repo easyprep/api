@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-31T04:56:06.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "c0682330-26d9-4bc6-a0e7-755af6496f8d",
+  "labels": "current-affairs,2020-08-01",
+  "question": "What will be the effective contribution by the employees and employers to the Employee's Provident Fund (EPF) from August 2020?",
+  "option1": 0.25,
+  "option2": 0.24,
+  "option3": 0.2,
+  "option4": 0.18,
+  "option5": "",
+  "answer": 0.24,
+  "explanation": "In the month of May, the Union Finance Minister Nirmala Sitharaman had reduced EPF contribution by 4% for three months of May, June and July.\r\n2% of employer's contribution and 2% of employee's contribution were reduced. This step was taken as a part of relief measures announced by the Government during the Covid-19 pandemic. From the month of August, the effective contribution will come back to the old deduction rate of 24%."
+}

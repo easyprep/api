@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T15:49:11.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "9d770bb4-afac-4485-955c-604249d1d42d",
+  "labels": "current-affairs,2020-08-08",
+  "question": "How is the climate of the marine west coast represented in Koeppen's climate classification?",
+  "option1": "ET",
+  "option2": "Cfc",
+  "option3": "Cfb",
+  "option4": "Cwc",
+  "option5": "",
+  "answer": "Cfb",
+  "explanation": "The climate of a coastal region is characterized by several weather conditions, which combine to form atmospheric conditions that are unique to areas in and around the coast. Temperate oceanic climates, also known as \"marine mild winter\" climates or simply oceanic climates, are found either at middle latitudes. They are often found on or near the west coast of continents; hence another name for Cfb, \"marine west coast climates\"."
+}

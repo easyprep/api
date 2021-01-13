@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T22:47:09.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "14d194cc-eab6-4aa2-a8b0-f08c56de322c",
+  "labels": "current-affairs,2020-08-08",
+  "question": "Which Institute won the first prize in the Smart India Hackathon-2020?",
+  "option1": "Defence Institute of Advanced Technology (DIAT)",
+  "option2": "IIT- Delhi",
+  "option3": "IIM- Ahmedabad",
+  "option4": "IISC, Bangalore",
+  "option5": "",
+  "answer": "Defence Institute of Advanced Technology (DIAT)",
+  "explanation": "Pune-based Defence Institute of Advanced Technology (DIAT), a deemed university under the Defence Ministry’s Department of Defence Research and Development, has won the first prize in the Smart India Hackathon (SIH) 2020.\r\nSIH is a national-level digital product building competition, jointly organised by the Ministry of Education and AICTE. The DIAT team developed a technology called ‘DRISHTI’ to recognise face, expression and gesture using artificial intelligence (AI)."
+}

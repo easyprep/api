@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T15:49:59.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "550a4859-94c5-45de-89e2-3248be6a2db4",
+  "labels": "current-affairs,2020-08-08",
+  "question": "Which among the following statements is/are correct about the soil chemistry?<br />\r\n<ol>\r\n<li>High pH values indicate an acidic soil.</li>\r\n<li>A low pH indicates alkaline conditions.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "An important aspect of soil chemistry is acidity, alkalinity (baseness), or neutrality.<br />Low pH values indicate an acidic soil, and a high pH indicates alkaline conditions. Most complex plants grow only in the soils with levels between pH 4 and pH 10 but optimum pH varies with the plant species."
+}

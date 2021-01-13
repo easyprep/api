@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T15:49:41.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "1414982b-f055-4c8e-923f-e78d1490c52c",
+  "labels": "current-affairs,2020-08-08",
+  "question": "Which among the following statements is/are correct about the soil and its color?<br />\r\n<ol>\r\n<li>Soils rich in humus tend to be dark because decomposed organic matter is black or brown.</li>\r\n<li>Red or yellow soils typically indicate the presence of magnesium.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "A soil’s colour is generally related to its physical and chemical characteristics. Soils rich in humus tend to be dark because decomposed organic matter is black or brown. Soils with high humus content are usually very fertile, so dark brown or black soils are often referred to as ‘rich’.<br />Red or yellow soils typically indicate the presence of iron."
+}

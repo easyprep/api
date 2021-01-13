@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T23:41:04.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "4a0a08c6-dc75-425e-833a-d13763fa1164",
+  "labels": "current-affairs,2020-08-03",
+  "question": "Which among the following statements is/are correct about Tides?<br />\r\n<ol>\r\n<li>Southampton, a place in London, experiences tides 6-8 times a day.</li>\r\n<li>This happens because the North Sea and the English Channel push the water at different intervals.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "A place in England—Southampton—experiences tides 6-8 times a day [ 2 high tides from North Sea + 2 high tides from English Channel + 2 neap tides from North Sea + 2 neap tides from English Channel]. <br />This happens because the North Sea and the English Channel push the water at different intervals."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-01T05:06:20.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "aeaff89a-509a-4d95-a138-965c2e7b2045",
+  "labels": "current-affairs,2020-08-02",
+  "question": "Which major Technology Company is to launch ‘Project Kuiper’, for building satellite infrastructure?",
+  "option1": "Google",
+  "option2": "Amazon",
+  "option3": "Facebook",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Amazon",
+  "explanation": "Technology giant Amazon recently announced that it will invest more than USD 10 billion to build a network of over 3000 satellites.\r\n The network is expected to provide high-speed broadband internet services to people around the world.  Named as ‘Project Kuiper’, the plan aims to build a network of low-Earth orbit (LEO) satellites. This will compete with the SpaceX’s Starlink network."
+}

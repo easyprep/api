@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-04T11:23:49.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "bd5b3ee1-7ad6-4fcd-8272-b013c07fe2dd",
+  "labels": "current-affairs,2020-08-05",
+  "question": "<p>Biogas is composed of Oxygen, Carbon dioxide, Nitrogen, Hydrogen, Methane and Hydrogen Sulphide compounds. Which one of the following compounds forms the majority?</p>",
+  "option1": "Carbon dioxide",
+  "option2": "Carbon monoxide",
+  "option3": "Hydrogen sulphide",
+  "option4": "Methane",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "<p>Biogas or Gobar gas is produced by the anaerobic digestion or fermentation of biodegradable materials such as biomass, manure, sewage, municipal waste, green waste, plant material, and crops. It comprises primarily methane (CH4) and carbon dioxide (CO2) and may have small amounts of hydrogen sulphide (H2S), moisture and siloxanes. The composition of biogas varies depending upon the substrate composition, as well as the conditions within the anaerobic reactor (temperature, pH, and substrate concentration). Landfill gas typically has methane concentrations around 50%. Advanced waste treatment technologies can produce biogas with 55%–75% methane, which for reactors with free liquids can be increased to 80%–90% methane using in-situ gas purification techniques. As produced, biogas contains water vapour. The fractional volume of water vapour is a function of biogas temperature; correction of measured gas volume for water vapour content and thermal expansion is easily done via simple mathematics which yields the standardized volume of dry biogas.</p>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-31T21:46:33.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "6eb891e8-ff45-47d1-abba-5a882f75f621",
+  "labels": "current-affairs,2020-08-01",
+  "question": "Which country is the largest importer of paper and paper products?",
+  "option1": "USA",
+  "option2": "Germany",
+  "option3": "France",
+  "option4": "Italy",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "The top 3 paper products importers are:<br />1.United States: US$17.3 billion (10.3% of total imported paper)<br />2.Germany: $14 billion (8.3%)<br />3.France: $8.5 billion (5%)"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-04T11:23:49.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "5e5b212e-9256-4802-8b24-d84b4bd98122",
+  "labels": "current-affairs,2020-08-05",
+  "question": "Which particle is the most essential component to continue the chain reaction during the uranium fission?",
+  "option1": "Electron",
+  "option2": "Proton",
+  "option3": "Neutron",
+  "option4": "Positron",
+  "option5": "",
+  "answer": "Neutron",
+  "explanation": "<p>Nuclear fission is either a nuclear reaction or a radioactive decay process in which the nucleus of an atom splits into smaller parts (lighter nuclei), often producing free neutrons and photons (in the form of gamma rays), and releasing a very large amount of energy, even by the energetic standards of radioactive decay. Fission, as encountered in the modern world, is usually a deliberately produced man-made nuclear reaction induced by a neutron. In nuclear fission, a large nucleus is split into two medium-sized nuclei. Only a few nuclei are known to undergo fission. Nuclear power plants currently in use depend primarily on the fission of uranium-235 and plutonium-239. When a nucleus of uranium-235 undergoes fission, it splits into two smaller atoms and, at the same time, releases neutrons ( n) and energy. Some of these neutrons are absorbed by other atoms of uranium-235. In turn, these atoms split apart, releasing more energy and more neutrons. In nuclear power plants, the energy released by the controlled fission of uranium-235 is collected in the reactor and used to produce steam in a heat exchanger. The steam then drives a turbine to produce electricity. Energy generation can be regulated by inserting control rods between the fuel rods in the reactor to absorb excess neutrons, thereby controlling the rate of the chain reaction. A typical nuclear power plant in operation today uses about 2 kg uranium-235 to generate 1000 megawatts of electricity. About 5600 tons (5.1 X 106 kg) of coal is required to produce the same amount of electricity in a conventional power plant.Uranium-235 (natural abundance 0.71%) is very scarce and difficult to separate from uranium-238 (natural abundance 99.28%). The much more abundant uranium-238 does not undergo fission and therefore cannot be used as a fuel for nuclear reactors. However, if uranium-238 is bombarded with neutrons (from uranium-235, for example), it absorbs a neutron and is transformed into uranium-239. This isotope undergoes beta emission to generate neptunium-239, which, in turn, undergoes another beta emission to produce plutonium-239. Plutonium-239 also undergoes fission, with the production of more energy and more neutrons. These neutrons can then be used to breed more plutonium-239 from uranium-238. Thus, a so-called breeder reactor can produce its own supply of fissionable material. Several breeder reactors are now functioning in Europe.</p>"
+}

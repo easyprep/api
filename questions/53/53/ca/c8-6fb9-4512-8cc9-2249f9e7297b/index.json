@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-06T12:12:44.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "5353cac8-6fb9-4512-8cc9-2249f9e7297b",
+  "labels": "current-affairs,2020-08-07",
+  "question": "Which Union Ministry signed MoU with DARPG and IIT Kanpur for analysis of grievances using Artificial Intelligence?",
+  "option1": "Ministry of Finance",
+  "option2": "Ministry of Defence",
+  "option3": "Ministry of Tourism",
+  "option4": "Ministry of Home Affairs",
+  "option5": "",
+  "answer": "Ministry of Defence",
+  "explanation": "Union Ministry of Defence, IIT Kanpur and the Department of Administrative Reforms and Public Grievances (DARPG) signed a tripartite memorandum of understanding.\r\nThe MoU is for developing Artificial Intelligence and Machine Learning techniques to analyse public grievances. The grievances received on the web-based Centralised Public Grievances Redress and Monitoring System of the Ministry would be subjected to predictive analysis."
+}

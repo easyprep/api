@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-12T18:01:54.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "9aab0dbe-ac9b-48ef-9b26-9c0072107a6d",
+  "labels": "current-affairs,2020-08-13",
+  "question": "What is the annual number of deaths per 1,000 people called?",
+  "option1": "Crude fertility rate",
+  "option2": "Infant mortality rate",
+  "option3": "Crude death rate",
+  "option4": "Life expectancy",
+  "option5": "",
+  "answer": "Crude death rate",
+  "explanation": "Demography is a statistical study of human population. It studies a variety of variables related to population like size, growth, distribution, density, composition and their spatial and temporal variations.<br />Crude Death Rate: The annual number of deaths per 1,000 people."
+}

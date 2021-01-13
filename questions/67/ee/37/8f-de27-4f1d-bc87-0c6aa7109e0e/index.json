@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-29T19:47:34.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "67ee378f-de27-4f1d-bc87-0c6aa7109e0e",
+  "labels": "current-affairs,2020-07-30",
+  "question": "Which among the following statements is/are correct about Corals?<br />\r\n<ol>\r\n<li>The zooxanthellae supply the coral with organic products of photosynthesis, like carbohydrates.</li>\r\n<li>The zooxanthellae are responsible for the unique and beautiful colors of corals.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "The coral provides the zooxanthellae with the compounds necessary for photosynthesis.<br />The zooxanthellae supply the coral with organic products of photosynthesis, like carbohydrates, which are utilized by the coral polyps for synthesis of their calcium carbonate skeletons.<br />In addition to providing corals with essential nutrients, zooxanthellae are responsible for the unique and beautiful colors of corals."
+}

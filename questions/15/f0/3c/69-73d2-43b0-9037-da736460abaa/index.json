@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-12T18:01:54.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "15f03c69-73d2-43b0-9037-da736460abaa",
+  "labels": "current-affairs,2020-08-13",
+  "question": "What is the annual number of live births per 1,000 people called?",
+  "option1": "General Fertility rate",
+  "option2": "Crude birth rate",
+  "option3": "Total fertility rate",
+  "option4": "Gross reproduction rate",
+  "option5": "",
+  "answer": "Crude birth rate",
+  "explanation": "Demography is a statistical study of human population. It studies a variety of variables related to population like size, growth, distribution, density, composition and their spatial and temporal variations.<br />Crude Birth Rate: The annual number of live births per 1,000 people."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-31T21:46:33.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "e9bc8d42-6cf3-4119-8c56-6b2ae202fff0",
+  "labels": "current-affairs,2020-08-01",
+  "question": "Which continent exports the maximum quantity of paper in 2019?",
+  "option1": "Asia",
+  "option2": "Africa",
+  "option3": "Europe",
+  "option4": "North America",
+  "option5": "",
+  "answer": "Europe",
+  "explanation": "European countries sold the most paper exports during 2019 with shipments valued at $94.7 billion (55.5% of globally exported paper). In second place were Asian exporters at 26.5% of worldwide paper shipments ahead of North America at 14.3%. Smaller percentages came from Latin America (2.4%) excluding Mexico but including the Caribbean, Oceania (0.6%) led by Australia and New Zealand and Africa (also 0.6%)."
+}

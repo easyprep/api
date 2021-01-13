@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-07T15:48:20.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "903a2689-0a0e-40e1-be01-d984aac41547",
+  "labels": "current-affairs,2020-08-08",
+  "question": "What disturbance is represented by the El Nino?<br />\r\n<ol>\r\n<li>Disturbance of ocean and atmospheric conditions.</li>\r\n<li>Disturbance of land and atmospheric conditions.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "EI Nino represents a disturbance of ocean and atmospheric conditions. It occurs at intervals of 3 to 8 years. Occurring in the eastern Pacific Ocean, the effect of the EI Nino spreads widely over the globe."
+}

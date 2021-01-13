@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-09T11:00:59.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "a07ed648-586b-489b-85c9-1d12bef38f42",
+  "labels": "current-affairs,2020-08-10",
+  "question": "Which among the following ancestors was more human-like?<br />\r\n<ol>\r\n<li>Dryopethicus</li>\r\n<li>Ramapethicus</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Dryopethicus was the earliest known ancestor of man. At the same time as his existence, Ramapethicus existed who was more human-like than Dryopethicus. After Dryopethicus and Ramapethicus came to the genus Australopethicus which preceded the genus Homo."
+}

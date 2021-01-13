@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T23:42:08.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "07968673-ad2e-409b-bc87-21f3de49ae73",
+  "labels": "current-affairs,2020-08-03",
+  "question": "Which among the following statements is/are correct about Warm Currents?<br />\r\n<ol>\r\n<li>Warm currents bring warm water into cold water areas.</li>\r\n<li>They are usually observed on the west coast of continents in the low and middle latitudes.</li>\r\n<li>In the northern hemisphere they are found on the east coasts of continents in high latitudes.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 1",
+  "option3": "Only 1 & 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Warm currents bring warm water into cold water areas[low to high latitudes].<br />They are usually observed on the east coast of continents in the low and middle latitudes (true in both hemispheres). <br />In the northern hemisphere they are found on the west coasts of continents in high latitudes."
+}

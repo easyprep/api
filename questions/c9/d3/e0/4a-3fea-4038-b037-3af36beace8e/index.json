@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-07-31T04:54:41.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "c9d3e04a-3fea-4038-b037-3af36beace8e",
+  "labels": "current-affairs,2020-08-01",
+  "question": "What is the modified deadline for filing income tax returns, as announced by the Union Government after July 31?",
+  "option1": "2021-08-30T18:30:00.000Z",
+  "option2": "2021-09-29T18:30:00.000Z",
+  "option3": "2021-10-30T18:30:00.000Z",
+  "option4": "2021-12-30T18:30:00.000Z",
+  "option5": "",
+  "answer": "2021-09-29T18:30:00.000Z",
+  "explanation": "The Union Government has extended the deadline for filing income tax returns for 2018-19 fiscal by two months till September 30.\r\nThe reason for the extension is constraints due to the Covid-19 induced lockdown. The Central Board of Direct Taxes has extended the deadline for the third time to September 30. Earlier it was postponed from March 31 to June 30 and then to July 31."
+}

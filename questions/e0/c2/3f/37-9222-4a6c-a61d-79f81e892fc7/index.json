@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-09T11:02:47.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "e0c23f37-9222-4a6c-a61d-79f81e892fc7",
+  "labels": "current-affairs,2020-08-10",
+  "question": "Which among the following factors is/are involved in the formation of Race?<br />\r\n<ol>\r\n<li>Mutation</li>\r\n<li>Natural Selection</li>\r\n<li>Genetic Drift</li>\r\n<li>Migration</li>\r\n<li>Isolation</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1, 2, 4 & 5",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 3, 4 & 5",
+  "option4": "1, 2, 3, 4 & 5",
+  "option5": "",
+  "answer": "1, 2, 3, 4 & 5",
+  "explanation": "Race formation is a complex process where several factors are involved:<br />Mutation<br />Natural Selection<br />Genetic Drift<br />Migration<br />Isolation<br />Hybridization<br />Sexual Selection<br />Social Selection"
+}

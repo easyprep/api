@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-06T12:13:19.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "56bfba15-61a2-4d7d-9226-8e751a591457",
+  "labels": "current-affairs,2020-08-07",
+  "question": "Which mode of payment clocked its highest monthly transactions since its inception in July, at 1.49 billion?",
+  "option1": "UPI",
+  "option2": "FASTag",
+  "option3": "BBPS",
+  "option4": "IMPS",
+  "option5": "",
+  "answer": "UPI",
+  "explanation": "The Unified Payments Interface (UPI) has touched a record high transaction of 1.49 billion in the month of July.\r\nThis is its highest count of transactions since its inception and a 11% growth over that of the previous month. The monthly transactions were worth Rs 2.9 trillion. IMPS recorded 222.1 million transactions in July while Bharat Bill Payment Services hit 20.16 million transactions."
+}

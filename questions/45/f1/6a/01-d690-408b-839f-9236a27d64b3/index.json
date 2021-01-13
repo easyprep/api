@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-04T11:23:49.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "45f16a01-d690-408b-839f-9236a27d64b3",
+  "labels": "current-affairs,2020-08-05",
+  "question": "Which material is used in the making of the “Solar Cells”?",
+  "option1": "Tin",
+  "option2": "Silicon",
+  "option3": "Caesium",
+  "option4": "Thallium",
+  "option5": "",
+  "answer": "Silicon",
+  "explanation": "<p>A solar cell (also called a photovoltaic cell) is an electrical device that converts the energy of light directly into electricity by the photovoltaic effect. Materials presently used for photovoltaic solar cells include mono-crystalline silicon, polycrystalline silicon, amorphous silicon, cadmium telluride, and copper iridium selenide/sulfide. A number of the earliest photovoltaic (PV) devices have been manufactured using silicon as the solar cell material and it is still the most popular material for solar cells today. The molecular structure of single-crystal silicon is uniform. This uniformity is ideal for the transfer of electrons efficiently through the material. However, in order to make an effective photovoltaic cell, silicon needs to be \"doped\" with other elements. Multi-crystalline silicon is normally considered less efficient than single-crystal silicon. On the other hand, multi-crystalline silicon devices are less expensive to produce. The casting process is the most common means of producing multi-crystalline silicon on a commercial scale. Amorphous silicon can absorb 40 times more solar radiation than single-crystal silicon. This is one of the main reasons why amorphous silicon can reduce the cost of photovoltaics. Amorphous silicon can be coated on low-cost substrates such as plastics and glass. This makes amorphous silicon ideal for building-integrated photovoltaic products.</p>"
+}

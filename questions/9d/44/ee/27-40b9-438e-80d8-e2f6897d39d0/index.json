@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T23:40:58.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "9d44ee27-40b9-438e-80d8-e2f6897d39d0",
+  "labels": "current-affairs,2020-08-03",
+  "question": "What is the time interval between two successive wave crests or troughs as they pass a fixed point called?",
+  "option1": "Wave Height",
+  "option2": "Wave Amplitude",
+  "option3": "Wave Period",
+  "option4": "Wavelength",
+  "option5": "",
+  "answer": "Wave Period",
+  "explanation": "The highest point of a wave is called crest.<br />The lowest point of a wave is called trough.<br />Wave period is merely the time interval between two successive wave crests or troughs as they pass a fixed point."
+}

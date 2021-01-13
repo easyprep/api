@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-02T23:41:51.000Z",
+  "updated_at": "2021-01-06T08:25:04.832Z",
+  "id": "5524d64f-d3be-43a3-88bf-734128128c4d",
+  "labels": "current-affairs,2020-08-03",
+  "question": "Which among the following is <strong>not</strong> an ocean current in the Indian Ocean?",
+  "option1": "Gulf Stream",
+  "option2": "Somali current",
+  "option3": "Agulhas current",
+  "option4": "Madagascar current",
+  "option5": "",
+  "answer": "Gulf Stream",
+  "explanation": "The Gulf Stream current is a warm ocean current in the Atlantic Ocean.<br />The Somali Current (Cold), Madagascar Current (Warm), Agulhas Current (Warm) are ocean currents in the Indian Ocean."
+}
