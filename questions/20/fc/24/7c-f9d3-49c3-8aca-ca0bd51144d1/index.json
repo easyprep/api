@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-17T19:42:53.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "20fc247c-f9d3-49c3-8aca-ca0bd51144d1",
+  "labels": "current-affairs,2020-10-18",
+  "question": "As per the recent publication in Lancet journal, what is the life expectancy of India in 2019?",
+  "option1": "65 years",
+  "option2": "66.6 years",
+  "option3": "70.8 years",
+  "option4": "80.8 years",
+  "option5": "",
+  "answer": "70.8 years",
+  "explanation": "As per a recent publication by the Lancet journal, life expectancy in India has risen from 59.6 years in 1990 to 70.8 years in 2019. The value ranges between 77.3 years in Kerala to 66.9 years in Uttar Pradesh. <br />The report has however pointed out that, in India, people are living more years with illness and disability. High Blood pressure, use of tobacco, air pollution and COVID pandemic has resulted in acute health emergencies."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:38:14.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "44d8f846-c704-4da2-a09a-a779fbabfdf2",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Which is not a method of Majoritarian System?",
+  "option1": "Alternative Vote",
+  "option2": "Second Ballot System",
+  "option3": "Single Transferable Vote",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Single Transferable Vote",
+  "explanation": "Under Majoritarian System, a candidate is usually required to obtain an absolute majority, that is more than 50% of the Valid otes cast, to win the election. If there are only two candidates in the field for one seat, there will be no problem in deciding the winner. But when there are three or more contestants in a single member constituency, and no candidate wins an absolute majority, some method must be evolved to decide the winner.\r\nAccording to the prevalent practice, two methods can be adopted for this purpose -\r\n1. Alternative vote\r\n2. Second Ballot System\r\nWhereas the Single Transferable vote is a method adopted for Proportional Representation."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-01T03:45:50.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "364d15c5-8b61-42cf-aa46-64185ba71093",
+  "labels": "current-affairs,2020-10-02",
+  "question": "Which organization in India conducts the Sero survey?",
+  "option1": "AIIMS",
+  "option2": "IIT Bombay",
+  "option3": "ICMR",
+  "option4": "ICAR",
+  "option5": "",
+  "answer": "ICMR",
+  "explanation": "The (Indian Council of Medical Research) ICMR's second sero-survey findings state that one in 15 individuals aged 10 years and above were estimated to be exposed to corona virus infection. <br />It shows that, there is a large section of population still susceptible to COVID-19. The report has also stated that containment and behavioural change among the people have effectively checked the potential spread of Covid 19."
+}

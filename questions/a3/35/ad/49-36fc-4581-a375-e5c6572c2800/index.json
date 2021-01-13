@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:20:01.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "a335ad49-36fc-4581-a375-e5c6572c2800",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following statements are correct regarding Algal bloom?<br />1. It refers to a rapid increase or accumulation in the population of algae in an aquatic ecosystem.<br />2. Algal blooms can occur in freshwater as well as marine environments.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Algal bloom refers to a rapid increase or accumulation in the population of algae in an aquatic ecosystem.<br />Algal blooms can occur in freshwater as well as marine environments."
+}

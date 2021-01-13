@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:20:30.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "4c04e66a-9c6b-4556-bfec-e9035a982375",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following is a vehicle that doesn't emit tailpipe pollutants from the onboard source of power?",
+  "option1": "BS VI vehicles",
+  "option2": "Electric Vehicles",
+  "option3": "ZEV vehicles",
+  "option4": "Power vehicles",
+  "option5": "",
+  "answer": "ZEV vehicles",
+  "explanation": "Zero emission vehicles which are also called as ZEV's are those vehicles that do not emit any tailpipe pollutants such as carbon monoxide, carbon dioxide from the onboard source of power."
+}

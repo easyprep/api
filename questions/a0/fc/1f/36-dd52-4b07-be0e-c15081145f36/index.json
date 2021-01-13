@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-22T02:21:03.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "a0fc1f36-dd52-4b07-be0e-c15081145f36",
+  "labels": "current-affairs,2020-10-23",
+  "question": "Which country has recently banned China's Huawei and ZTE in its 5G network?",
+  "option1": "USA",
+  "option2": "India",
+  "option3": "Sweden",
+  "option4": "Denmark",
+  "option5": "",
+  "answer": "Sweden",
+  "explanation": "The use of telecom equipment from China's Huawei and ZTE for 5G network has been banned by Sweden on security grounds. This announcement comes ahead of the spectrum auction scheduled for next month in the country. <br />The decision has been made in accordance to the advice rendered by the country’s armed forces which has described China as a biggest security threat to Sweden."
+}

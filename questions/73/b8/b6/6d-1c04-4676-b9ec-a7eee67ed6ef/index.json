@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-08T00:08:22.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "73b8b66d-1c04-4676-b9ec-a7eee67ed6ef",
+  "labels": "current-affairs,2020-10-09",
+  "question": "Which Indian company has partnered with Ericsson to deploy 5G radio and transport solutions?",
+  "option1": "Jio",
+  "option2": "Airtel",
+  "option3": "BSNL",
+  "option4": "Tata",
+  "option5": "",
+  "answer": "Airtel",
+  "explanation": "Indian Telecom operator Bharti Airtel has extended its contract with Ericsson for deployment of 5G-ready radio and transport solutions.<br />The Made-in-India 5G-ready Ericsson Radio System products are expected to enhance the network capacity and customer experience. India has the highest usage per smartphone per month."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-22T02:23:09.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "18478e3a-64be-4469-be2e-56eefdf91124",
+  "labels": "current-affairs,2020-10-23",
+  "question": "Microsoft has partnered with which space agency recently related to cloud computing?",
+  "option1": "NASA",
+  "option2": "ISRO",
+  "option3": "European Space Agency",
+  "option4": "Space X",
+  "option5": "",
+  "answer": "Space X",
+  "explanation": "Microsoft Corporation has recently announced its partnership with SpaceX, a space agency founded by billionaire entrepreneur Elon Musk. <br />The association would enable Microsoft to establish a connection between its Cloud Computing Platform “Azure” to SpaceX’s network of Low Earth satellites. This partnership would help the integration of cloud computing with space technology."
+}

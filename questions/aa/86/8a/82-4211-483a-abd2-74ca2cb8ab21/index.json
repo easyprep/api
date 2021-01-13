@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-13T02:11:20.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "aa868a82-4211-483a-abd2-74ca2cb8ab21",
+  "labels": "current-affairs,2020-10-14",
+  "question": "‘Next generation treasury application (NGTA)’, that was seen in the news recently, is to be deployed by which organisation?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "PFRDA",
+  "option4": "IRDAI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Reserve Bank has decided to move to the Next Generation Treasury Application (NGTA) for managing the country's foreign exchange and gold reserves.<br />NGTA is a web-based application, which would provide flexibility to introduce new products and securities. It can also support multi-currency transactions, settlements and various transactions in asset classes like Fixed Income, Forex, Money Market and Gold."
+}

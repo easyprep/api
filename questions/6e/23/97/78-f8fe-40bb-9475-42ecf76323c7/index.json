@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-04T03:43:29.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "6e239778-f8fe-40bb-9475-42ecf76323c7",
+  "labels": "current-affairs,2020-10-05",
+  "question": "Which organization initiated live trading and other operations successfully from its Disaster Recovery Site?",
+  "option1": "State Bank of India",
+  "option2": "National Stock Exchange",
+  "option3": "Bombay Stock Exchange",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "National Stock Exchange",
+  "explanation": "The National Stock Exchange of India Ltd (NSE) has completed its live trading and other business operations from a Disaster Recovery (DR) site.<br />As per a release from NSE, all commercial operations of the exchange were executed from the DR site which is located in another city, which is a replica of the main production site located in Mumbai. After successful testing of the DR site, the operations were reverted to the original site."
+}

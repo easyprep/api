@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:07:43.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "97bd68fd-4ca8-43ff-9928-b18e610ef8cb",
+  "labels": "current-affairs,2020-10-22",
+  "question": "Which Institution mints the coins in India?",
+  "option1": "Commerce and Industry Ministry",
+  "option2": "Ministry of Finance",
+  "option3": "Reserve Bank of India",
+  "option4": "Prime Minister's Office",
+  "option5": "",
+  "answer": "Ministry of Finance",
+  "explanation": "RBI is responsible for the printing of currency notes. But this is not the same for coins.The work of printing one rupee note and all the minting of coins is done by the Finance Ministry."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:15:18.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "be15c301-3ce8-4614-96ca-499ac2d60e1e",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following is referred to as a disease that becomes unusually widespread globally?",
+  "option1": "Endemic",
+  "option2": "Pandemic",
+  "option3": "Epidemic",
+  "option4": "Outbreak",
+  "option5": "",
+  "answer": "Pandemic",
+  "explanation": "Endemic is something that belongs to a particular person or country, an epidemic is a disease that affects a large number of people within a community, population, or region and Pandemic is when it becomes widespread spreading to different countries."
+}

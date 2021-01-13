@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:07:42.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "c18ce898-0ef5-4dff-934a-654479ac2a27",
+  "labels": "current-affairs,2020-10-22",
+  "question": "Which among the following is a credit rating agency?<br />1. Fitch<br />2. Standards and poor<br />3. Moody<br />4. Goldman sacs<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3 only",
+  "option2": "1 and 4 only",
+  "option3": "3 and 4 only",
+  "option4": "1,3 and 4 only",
+  "option5": "",
+  "answer": "1,2 and 3 only",
+  "explanation": "A credit rating agency (CRA, also called a ratings service) is a company that assigns credit ratings, which rate a debtor's ability to pay back debt by making timely principal and interest payments and the likelihood of default. The top 3 is a credit rating agencies are Fitch, Standards and poor, Moody. Goldman sacs is an investment bank."
+}

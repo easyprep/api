@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-14T23:14:56.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "9f1b5372-214a-4d1e-ab42-2816ca0a0119",
+  "labels": "current-affairs,2020-10-15",
+  "question": "Which transport company is conducting an online survey to study the travel pattern of commuters?",
+  "option1": "Indian Railways",
+  "option2": "Indigo Airlines",
+  "option3": "Delhi Metro Rail Corporation",
+  "option4": "Brihanmumbai Electric Supply and Transport",
+  "option5": "",
+  "answer": "Delhi Metro Rail Corporation",
+  "explanation": "An online survey is conducted by Delhi Metro Rail Corporation (DMRC) to study the travel pattern of the commuters using the metro trains in NCR. <br />The survey is aimed to avoid overcrowding at metro stations. It would help commuters to plan their travel during peak and off-peak times of the day."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-17T19:34:19.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "05ee0eca-b6ed-4e96-8ad7-cb029062705e",
+  "labels": "current-affairs,2020-10-18",
+  "question": "BepiColombo, which was in news recently, is a spacecraft launched to explore which planet/ celestial body?",
+  "option1": "Saturn",
+  "option2": "Mars",
+  "option3": "Mercury",
+  "option4": "Venus",
+  "option5": "",
+  "answer": "Mercury",
+  "explanation": "BepiColombo is a joint mission of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA), which aims to explore Mercury.<br />Recently, the spacecraft has crossed Venus for the first time and captured an image of Venus from a distance of 17,000 kilometres. The spacecraft was launched in 2018 to undergo a seven-year trip to Mercury."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:20:46.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "1d280a5c-20ee-4235-83d3-9d4a51142ff7",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following statements is/are correct regarding the Land Use, Land-Use Change, and Forestry?<br />1) It is a greenhouse gas inventory sector.<br />2) It can provide a relatively cost-effective way of offsetting emissions.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Land Use, Land-Use Change, and Forestry, which is also termed as LULUCF is a green house inventory sector. It provides us a relatively cost-effective way of offsetting the green house emissions."
+}

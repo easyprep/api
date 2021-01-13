@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-08T00:06:56.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "d8dc070b-bd01-4af3-994d-b12bab863f5e",
+  "labels": "current-affairs,2020-10-09",
+  "question": "The 2020 Nobel Prize in Chemistry has been awarded to two Scientists for which field of Chemistry?",
+  "option1": "Genome editing",
+  "option2": "Bio Chemistry",
+  "option3": "Electro Chemistry",
+  "option4": "Quantum Chemistry",
+  "option5": "",
+  "answer": "Genome editing",
+  "explanation": "The Royal Swedish Academy of Sciences awarded the 2020 Nobel Prize in Chemistry to Emmanuelle Charpentier and Jennifer A. Doudna for development of a method for genome editing.<br />The two scientists have discovered one of gene technology’s sharpest toolsnamed the CRISPR/Cas9 genetic scissors, using which the DNA of animals, plants, and microorganisms can be changed precisely. Charpentier and Doudna became the sixth and seventh women to win a Nobel for chemistry."
+}

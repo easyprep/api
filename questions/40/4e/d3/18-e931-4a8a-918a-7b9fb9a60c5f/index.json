@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:07:43.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "404ed318-e931-4a8a-918a-7b9fb9a60c5f",
+  "labels": "current-affairs,2020-10-22",
+  "question": "What is the main function of the monetary policy committee?",
+  "option1": "Set the interest rates",
+  "option2": "Set the capital requirements for banks",
+  "option3": "Appoint chairman to public sector banks",
+  "option4": "None",
+  "option5": "",
+  "answer": "Set the interest rates",
+  "explanation": "The MPC is entrusted with the responsibility of deciding the different policy rates including MSF, Repo Rate, Reverse Repo Rate, and Liquidity Adjustment Facility."
+}

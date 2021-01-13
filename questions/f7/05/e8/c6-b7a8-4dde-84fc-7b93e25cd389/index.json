@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:08:17.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "f705e8c6-b7a8-4dde-84fc-7b93e25cd389",
+  "labels": "current-affairs,2020-10-22",
+  "question": "What is the share of the central government in the National Infrastructure Pipeline?",
+  "option1": 0.4,
+  "option2": 0.39,
+  "option3": 0.45,
+  "option4": 0.5,
+  "option5": "",
+  "answer": 0.39,
+  "explanation": "The National Infrastructure pipeline has outlined plans to invest more than ₹102 lakh crore on infrastructure projects by 2024-25. In this the share of the Centre, States and the private sector in the capital expenditure is 39:39:22 formula."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-14T23:13:41.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "239b3982-c5a5-4b3b-88e9-b0cf922b34c4",
+  "labels": "current-affairs,2020-10-15",
+  "question": "Which type of Identity card issued by the Government is set to be printed in PVC cards?",
+  "option1": "Voter ID",
+  "option2": "Freedom Fighter Identity Card",
+  "option3": "Aadhaar Card",
+  "option4": "Passport",
+  "option5": "",
+  "answer": "Aadhaar Card",
+  "explanation": "UIDAI (Unique Identification Authority of India) has stated that Aadhaar cards would be printed on PVC cards, similar to ATM cards. <br />This would enable the holders to store the card in wallets. UIDAI has stated that the new PVC card would be loaded with the latest security features, and would be now more durable, convenient to carry and instantly verifiable offline."
+}

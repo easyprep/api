@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:07:43.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "8d62e1ef-131e-44c8-a0ba-6e64f905e5f5",
+  "labels": "current-affairs,2020-10-22",
+  "question": "Which among the following is qualitative instrument of RBI's policy?<br />1. Repo Rate<br />2. Moral Suasion<br />3. Change in marginal money<br />4. CRR<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3 only",
+  "option2": "2 and 3 only",
+  "option3": "2,3 and 4 only",
+  "option4": "1 and 4 only",
+  "option5": "",
+  "answer": "2 and 3 only",
+  "explanation": "Qualitative Instruments of RBI refer to direct action, change in the margin money and moral suasion. The list of quantitative instruments used by RBI includes Open Market Operations, Bank Rate, Repo Rate, Reverse Repo Rate, Cash Reserve Ratio, Statutory Liquidity Ratio, Marginal standing facility and Liquidity Adjustment Facility (LAF)."
+}

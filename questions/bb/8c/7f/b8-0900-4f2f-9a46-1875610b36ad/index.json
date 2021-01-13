@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:07:43.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "bb8c7fb8-0900-4f2f-9a46-1875610b36ad",
+  "labels": "current-affairs,2020-10-22",
+  "question": "Which among the following is not the work of RBI?",
+  "option1": "Custodian of foreign currency",
+  "option2": "Allocation funds to MSME",
+  "option3": "Credit controller",
+  "option4": "Set interest rates",
+  "option5": "",
+  "answer": "Allocation funds to MSME",
+  "explanation": "RBI allocates funds to NABARD and Mudra for development.It doesnt involve directly in the distribution of funds to people. NABARD further allocates funds to farmers for agricultural development through rural banks and commercial banks. MUDRA bank allocates fund to MSME's."
+}

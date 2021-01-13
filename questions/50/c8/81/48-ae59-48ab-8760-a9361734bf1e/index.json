@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T11:14:15.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "50c88148-ae59-48ab-8760-a9361734bf1e",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Which is the base year of the Consumer Price Index for Industrial Workers (CPI-IW), as per the recent announcement of Labour Ministry?",
+  "option1": 2010,
+  "option2": 2012,
+  "option3": 2016,
+  "option4": 2018,
+  "option5": "",
+  "answer": 2016,
+  "explanation": "The Labour and Employment Ministry has recently revised the base year of the Consumer Price Index for Industrial Workers (CPI-IW) from 2001 to 2016.<br />This has been done to reflect the changing consumption pattern, to give more weightage to spending on health, education and other miscellaneous expenses, while reducing the weight of food and beverages. However, this will not affect the DA of government employees."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-22T02:14:19.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "fa7c2bb6-6055-4081-9f5d-a368da4a368c",
+  "labels": "current-affairs,2020-10-23",
+  "question": "What is ‘OSIRIS-Rex’ that was seen in news recently?",
+  "option1": "Space craft",
+  "option2": "Submarine",
+  "option3": "Covid-19 vaccine",
+  "option4": "Anti-tank missile",
+  "option5": "",
+  "answer": "Space craft",
+  "explanation": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer (OSIRIS-REx) is a space craft of the NASA.<br />It was seen in news recently as the space craft touched an asteroid using its robotic arm to collect dust and pebbles from the surface to deliver to Earth in 2023. The asteroid known as Bennu, is currently more than 321 million kilometers from Earth."
+}

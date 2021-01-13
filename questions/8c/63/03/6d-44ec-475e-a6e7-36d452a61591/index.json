@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:16:08.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "8c63036d-44ec-475e-a6e7-36d452a61591",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following statements are correct regarding Environment Impact Assessment?<br />1. Screening is done based on type and location of development only.<br />2. The state of ecosystem as it exists prior to the project and its potential effects is known as Baseline Data.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "The screening criteria is based upon the scale of investment, type of development and location of development. The state of ecosystem as it exists prior to the project and its potential effects is known as Baseline Data."
+}

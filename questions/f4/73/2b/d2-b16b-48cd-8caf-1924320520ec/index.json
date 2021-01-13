@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:39:46.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "f4732bd2-b16b-48cd-8caf-1924320520ec",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Who wrote the book, History of Florence?",
+  "option1": "Hegel",
+  "option2": "John Rawls",
+  "option3": "Robert Nozick",
+  "option4": "Machiavelli",
+  "option5": "",
+  "answer": "Machiavelli",
+  "explanation": "Machiavelli wrote the book, <em>History of Florence</em> in 1525 in which he analyzed and attributed the endemic social conflict and violence in the city state of Florence to a natural class war between the people and the ruling nobility."
+}

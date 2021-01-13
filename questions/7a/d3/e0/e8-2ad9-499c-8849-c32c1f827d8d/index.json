@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-17T19:44:01.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "7ad3e0e8-2ad9-499c-8849-c32c1f827d8d",
+  "labels": "current-affairs,2020-10-18",
+  "question": "The rocket named New Shepard that is in news recently is associated with which space agency?",
+  "option1": "ISRO",
+  "option2": "NASA",
+  "option3": "Blue Origin",
+  "option4": "Virgin Atlantic",
+  "option5": "",
+  "answer": "Blue Origin",
+  "explanation": "The rocket named New Shepard has been test launched recently by Blue Origin. It was an unscrewed test. The New Shepard launch vehicle consists of a reusable rocket and space capsule. <br />During the test, both the capsule and the rocket boosters were brought down to earth successfully. Blue Origin is a private spaceflight company founded in 2000 by Amazon CEO Jeff Bezos."
+}

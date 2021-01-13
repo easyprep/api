@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-03T01:37:59.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "93fc94bd-ec2b-4026-82e3-8d24cc2ad2ce",
+  "labels": "current-affairs,2020-10-04",
+  "question": "Which firm has developed R-Green Kit for diagnosis of COVID-19 infection in 2 hours?",
+  "option1": "AIIMS",
+  "option2": "ICMR",
+  "option3": "Reliance Life Sciences",
+  "option4": "Tata Institute of Fundamental Sciences",
+  "option5": "",
+  "answer": "Reliance Life Sciences",
+  "explanation": "Reliance Life Sciences, a subsidiary of Reliance India Limited has developed a Real Time PCR kit named R-Green Kit. The kit can be used for diagnosis of COVID-19 infection in about 2 hours. <br />At present, the PCR kits used in India takes about 24 hours to diagnose the infection. The R Green Kit developed by Reliance has been validated by ICMR for its performance."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T10:58:31.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "e636218f-5f67-45b3-a6b3-7d2b1c4e8ef5",
+  "labels": "current-affairs,2020-10-24",
+  "question": "Which country recorded highest air pollution exposure globally in 2019, as per the State of Global Air 2020 report?",
+  "option1": "China",
+  "option2": "United States",
+  "option3": "India",
+  "option4": "Singapore",
+  "option5": "",
+  "answer": "India",
+  "explanation": "The State of Global Air 2020 (SOGA 2020) report was released by US-based Health Effects Institute and Global Burden of Disease (GBD).<br />As per the report, India recorded the highest annual average PM 2.5 concentration exposure in the world last year. People in India are exposed to the highest PM 2.5 concentrations globally and the country has been recording an increase in PM 2.5 pollution since 2010."
+}

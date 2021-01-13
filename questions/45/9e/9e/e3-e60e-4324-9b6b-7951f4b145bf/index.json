@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:19:55.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "459e9ee3-e60e-4324-9b6b-7951f4b145bf",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following statements are correct regarding BioWeb?<br />1. It is a network of web-enabled biological devices which extends an internet of things to the Internet of Living Things of natural sensory devices.<br />2. These devices provide insights to real-time ecological data and feedback to changes in the environment. <br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "BioWeb is a network of web-enabled biological devices which expands an internet of things to the Internet of Living Things of natural sensory devices. These devices provide insights to real-time ecological data and feedback to changes in the environment."
+}

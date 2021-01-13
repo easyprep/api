@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:15:18.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "5b1b690a-66ca-42df-9415-aa29385c27a2",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following instrument is used to record the earthquake wave?",
+  "option1": "Hydrograph",
+  "option2": "Seismograph",
+  "option3": "Richter scale",
+  "option4": "Pycnometer",
+  "option5": "",
+  "answer": "Seismograph",
+  "explanation": "A seismograph which is also called as a seismometer, is an instrument which is used to detect and record the earthquake waves. The first seismograph was invented in 132 A.D."
+}

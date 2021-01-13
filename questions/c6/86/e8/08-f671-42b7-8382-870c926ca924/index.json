@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-20T00:44:41.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "c686e808-f671-42b7-8382-870c926ca924",
+  "labels": "current-affairs,2020-10-21",
+  "question": "Which company has been awarded the contract by NASA for deploying 4G network on Moon?",
+  "option1": "Airtel",
+  "option2": "Nokia",
+  "option3": "Intel",
+  "option4": "Vodafone",
+  "option5": "",
+  "answer": "Nokia",
+  "explanation": "The US space agency NASA has awarded a contract to Nokia for deploying 4G network on Moon. The proposed communication system in moon would be used for lunar surface communications at greater distances. <br />This is a part of USD 370 million worth of contracts signed under NASA's \"Tipping Point\" selections, aimed at advanced space research and exploration."
+}

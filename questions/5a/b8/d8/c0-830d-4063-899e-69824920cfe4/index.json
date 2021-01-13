@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-15T23:42:31.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "5ab8d8c0-830d-4063-899e-69824920cfe4",
+  "labels": "current-affairs,2020-10-16",
+  "question": "A drug named ‘Inmazeb’ has been approved as the first drug for treating which disease?",
+  "option1": "Covid-19",
+  "option2": "Ebola",
+  "option3": "Dengue",
+  "option4": "Measles",
+  "option5": "",
+  "answer": "Ebola",
+  "explanation": "The United States regulator body Food and Drug Administration (FDA) has approved the first drug for the treatment of Ebola.<br />The drug named ‘Inmazeb’ has been developed by Regeneron Pharmaceuticals increased the survival rate in participants than other treatments. The drug was tested during an outbreak in Congo that killed over 2000 people."
+}

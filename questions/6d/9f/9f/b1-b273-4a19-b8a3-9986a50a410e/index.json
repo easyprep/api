@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:08:17.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "6d9f9fb1-b273-4a19-b8a3-9986a50a410e",
+  "labels": "current-affairs,2020-10-22",
+  "question": "Which among the following are the types of funds available under the NIIF?<br />1. Master Fund<br />2. Funds of Funds<br />3. Strategic Fund<br />Choose the correct option from the choice given below:",
+  "option1": "1 only",
+  "option2": "1 and 3 only",
+  "option3": "1 and 2 only",
+  "option4": "1,2 and 3",
+  "option5": "",
+  "answer": "1,2 and 3",
+  "explanation": "The three types of funds under the NIIF are:\r\n<ol>\r\n<li>Master Fund: Is an infrastructure fund with the objective of primarily investing in operating assets in the core infrastructure sectors such as roads, ports, airports, power etc.</li>\r\n<li>Fund of Funds: Managed by fund managers who have good track records in infrastructure and associated sectors in India. Some of the sectors of focus include Green Infrastructure, Mid-Income &amp; Affordable Housing, Infrastructure services and allied sectors.</li>\r\n<li>Strategic Investment Fund: Is registered as an Alternative Investment Fund II under SEBI in India. The objective is to invest largely in equity and equity-linked instruments. It will focus on green field and brown field investments in the core infrastructure sectors.</li>\r\n</ol>"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:20:45.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "40a764c3-a126-405e-9708-71320d2dad40",
+  "labels": "current-affairs,2020-10-01",
+  "question": "A Kyoto Protocol unit is equal to how much amount of CO2 equivalent?",
+  "option1": "1 metric tonne",
+  "option2": "1 cubic tonne",
+  "option3": "1 Hepta tonne",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1 metric tonne",
+  "explanation": "An Assigned Amount Unit (AAU) is a tradable 'Kyoto protocol unit' or 'carbon credit' which can be used as the allowance to emit greenhouse gases comprising one metric tonne of carbon dioxide equivalents. It can be earned by achieving a greater reduction than called for in the Kyoto Protocol."
+}

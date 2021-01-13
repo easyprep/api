@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-06T05:00:15.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "924790e8-9032-4852-b760-dd2abb01ab82",
+  "labels": "current-affairs,2020-10-07",
+  "question": "Which fin-tech company has launched its own Mini app store?",
+  "option1": "PhonePe",
+  "option2": "PayTm",
+  "option3": "BharatPe",
+  "option4": "FreeCharge",
+  "option5": "",
+  "answer": "PayTm",
+  "explanation": "Digital payments firm Paytm has recently launched a mini-app store, with an aim to support Indian developers.<br />This initiative is seen as a direct challenge to Google in the App store system. The payment app was earlier temporarily removed from Google’s Play Store for violating developer guidelines. Paytm provides listing and distribution of these mini-apps within its application."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:20:08.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "c69fad37-d6e6-41f8-896d-2ff0b5a270e5",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following is a cryogenic storage facility used to archive biological samples for use in research and experiments?",
+  "option1": "Gene banks",
+  "option2": "Biobank",
+  "option3": "Carbon credit",
+  "option4": "Biocapacity",
+  "option5": "",
+  "answer": "Biobank",
+  "explanation": "A cryogenic storage facility which is used to archive biological samples for use in research and experiments is known as Biobank. Biobanks are an important resource in medical research which support many types of contemporary research like genomics and personalized medicine."
+}

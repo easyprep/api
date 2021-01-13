@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:20:01.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "73b5a419-834b-45a5-9952-88448315b6dd",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following is a measurement of all greenhouse gases we individually produce and has units of tonnes (or kg) of carbon dioxide equivalent?",
+  "option1": "Carbon footprint",
+  "option2": "Primary footprint",
+  "option3": "Secondary footprint",
+  "option4": "Carbon diet",
+  "option5": "",
+  "answer": "Carbon footprint",
+  "explanation": "Carbon Footprint is a measurement of all greenhouse gases that we produce individually and has units of tonnes (or kg) of carbon dioxide equivalent. It is made up of the sum of two parts, i.e., the primary footprint and the secondary footprint."
+}

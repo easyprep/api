@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-08T00:05:23.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "60c239d5-8647-4312-b418-d77a6f7a9933",
+  "labels": "current-affairs,2020-10-09",
+  "question": "Which financial institution has issued guidelines for Product labelling in Mutual Funds?",
+  "option1": "RBI",
+  "option2": "SEBI",
+  "option3": "IRDAI",
+  "option4": "PFRDA",
+  "option5": "",
+  "answer": "SEBI",
+  "explanation": "The Securities and Exchange Board of India (SEBI) has announced detailed guidelines for product labelling in mutual funds.<br />Earlier, there were five categories to measure the level of risks in mutual fund schemes. Now SEBI, which is the regulator, has introduced one more category known as ‘very high risk’. These new guidelines shall be in force with effect from January 1, 2021."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-20T00:38:41.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "4ec8f553-fd3b-46c2-b633-ac4b9e55eb26",
+  "labels": "current-affairs,2020-10-21",
+  "question": "Which company has launched the “Mask verification feature” in India?",
+  "option1": "Zomato",
+  "option2": "Amazon",
+  "option3": "Uber",
+  "option4": "Ola",
+  "option5": "",
+  "answer": "Uber",
+  "explanation": "The Ride hailing company Uber has introduced a new safety feature named “Mask verification feature” in India. <br />This new feature will request users and riders booking a ride in Uber, to take a selfie of themselves wearing a mask, if they were tagged for not wearing mask on a previous trip in Uber. The feature was rolled out in the US and Canada initially."
+}

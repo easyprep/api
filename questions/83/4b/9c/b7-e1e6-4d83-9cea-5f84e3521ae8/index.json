@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-13T02:42:24.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "834b9cb7-e1e6-4d83-9cea-5f84e3521ae8",
+  "labels": "current-affairs,2020-10-14",
+  "question": "Paul R. Milgrom and Robert B. Wilson are the recipients of which award?",
+  "option1": "Noble Prize for Physics",
+  "option2": "Noble Prize for Economics",
+  "option3": "Noble Prize for Peace",
+  "option4": "Indira Gandhi Peace Prize",
+  "option5": "",
+  "answer": "Noble Prize for Economics",
+  "explanation": "Paul R. Milgrom and Robert B. Wilson have been awarded the Nobel Prize in Economics for their contribution to auction theory and inventions of new auction formats.<br />Mr Wilson developed a theory for auctions of items with a common value and Mr Milgrom came up with a theory in which private values vary from bidder to bidder in an auction."
+}

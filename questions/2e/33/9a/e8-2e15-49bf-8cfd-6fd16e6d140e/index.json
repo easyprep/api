@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-09-30T18:19:49.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "2e339ae8-2e15-49bf-8cfd-6fd16e6d140e",
+  "labels": "current-affairs,2020-10-01",
+  "question": "Which of the following are organisms that obtain energy by the oxidation of electron donors in their environments?",
+  "option1": "Photoheterotrophs",
+  "option2": "Chemotrophs",
+  "option3": "Phototrophs",
+  "option4": "Hemotrophs",
+  "option5": "",
+  "answer": "Chemotrophs",
+  "explanation": "Organisms that obtain energy by the oxidation of electron donors in their environments are known as Chemotrophs. These molecules can be both organic (chemoorganotrophs) or inorganic (chemolithotrophs)."
+}

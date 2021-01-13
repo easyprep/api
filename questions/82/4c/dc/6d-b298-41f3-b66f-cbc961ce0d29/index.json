@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-21T19:07:42.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "824cdc6d-b298-41f3-b66f-cbc961ce0d29",
+  "labels": "current-affairs,2020-10-22",
+  "question": "How many members exist on the board of SEBI?",
+  "option1": 5,
+  "option2": 7,
+  "option3": 9,
+  "option4": 10,
+  "option5": "",
+  "answer": 9,
+  "explanation": "The SEBI is managed by 9 board members, which consists of the following:<br />1. The chairman is nominated by the Union Government of India.<br />2. Two members, i.e., Officers from the Union Finance Ministry.<br />3. One member from the Reserve Bank of India.<br />4. The remaining five members are nominated by the Union Government of India, out of them at least three shall be whole-time members."
+}

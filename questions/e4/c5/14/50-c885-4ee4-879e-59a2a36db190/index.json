@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-17T19:36:13.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "e4c51450-c885-4ee4-879e-59a2a36db190",
+  "labels": "current-affairs,2020-10-18",
+  "question": "ENFUSER and SILAM, that were in news recently, is associated with which field?",
+  "option1": "Defence",
+  "option2": "Environment",
+  "option3": "Education",
+  "option4": "Culture",
+  "option5": "",
+  "answer": "Environment",
+  "explanation": "The Indian Meteorological Department (IMD) has operationalized an advanced high-resolution air quality early warning system for the national capital named ENFUSER (Environmental Information Fusion Service).<br />Another model has also been made operationalized for the rest of the country. IMD has also improved the air quality forecast model ‘System for Integrated Modelling of Atmospheric Composition (SILAM)’, by implementing global emission inventories."
+}

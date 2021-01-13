@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-23T19:38:08.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "2cbfb6e0-eb5e-4535-b4fc-9f0ad36f732d",
+  "labels": "current-affairs,2020-10-24",
+  "question": "<p><span data-contrast=\"auto\"> Select the correct answer from the codes given below.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\"> </span></p>\r\n<p><b><span data-contrast=\"auto\">Assertion (A) </span></b><span data-contrast=\"auto\">According to John Rawls, Justice is the first and necessary virtue of a good society.</span><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\"> </span></p>\r\n<p><b><span data-contrast=\"auto\">Reason (R) </span></b><span data-contrast=\"auto\">Because Justice consists in ensuring a just distribution of primary goods.</span></p>",
+  "option1": "Both A and R are true and R is the correct explanation of A.",
+  "option2": "Both A and R are true but R is not the correct explanation of A.",
+  "option3": "A is true, but R is false.",
+  "option4": "A is false, but R is true.",
+  "option5": "",
+  "answer": "Both A and R are true and R is the correct explanation of A.",
+  "explanation": "<span data-contrast=\"auto\">John Rawls held that justice is the first virtue of good society but not only required virtue of a good society. Further, he held that justice is about ensuring just distribution of primary goods such as rights and </span><span data-contrast=\"auto\">liberties, income</span><span data-contrast=\"auto\"> and </span><span data-contrast=\"auto\">wealth</span><span data-contrast=\"auto\">, etc.</span><span data-ccp-props=\"{&quot;134233279&quot;:true,&quot;201341983&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\"> </span><br />\r\n<p><span data-ccp-props=\"{&quot;201341983&quot;:0,&quot;335559685&quot;:360,&quot;335559739&quot;:160,&quot;335559740&quot;:259}\"> </span></p>"
+}

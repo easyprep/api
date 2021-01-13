@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-10-07T11:12:25.000Z",
+  "updated_at": "2021-01-06T08:25:10.525Z",
+  "id": "5e4f0b8b-71ee-4887-90ca-4792054f166b",
+  "labels": "current-affairs,2020-10-08",
+  "question": "What is ‘PARAM Siddhi – AI’, that was seen in news recently?",
+  "option1": "Super computer",
+  "option2": "Robot",
+  "option3": "Drone",
+  "option4": "Missile",
+  "option5": "",
+  "answer": "Super computer",
+  "explanation": "The Centre for Development of Advanced Computing (C-DAC) is set to commission India’s largest HPC-AI supercomputer, ‘PARAM Siddhi – AI’.<br />The initiative has been led by Scientist and Program Director at CDAC Abhishek Das. The same has been approved by the Union Minister of Electronics and IT Ravi Shankar Prasad. The supercomputer will have 210 AI Petaflops and will be based on NVIDIA DGX SuperPOD reference architecture."
+}
