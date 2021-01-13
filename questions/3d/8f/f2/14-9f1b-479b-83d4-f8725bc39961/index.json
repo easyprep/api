@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:32:49.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "3d8ff214-9f1b-479b-83d4-f8725bc39961",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct?<br />1. Mangroves grow in oxygen rich water logged soil which consist of Hydrogen Sulphide.<br />2. Some of the mangroves are included in IUCN Red List.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Mangroves grow in oxygen rich water logged soil which consist of Hydrogen Sulphide. So far none of the mangroves are included in IUCN Red List."
+}

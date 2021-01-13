@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-24T17:07:44.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "54f3d784-af4e-4279-b83e-b7ada17edd07",
+  "labels": "current-affairs,2020-08-25",
+  "question": "Which among the following statements is/are correct about dairy farming in Denmark?<br />\r\n<ol>\r\n<li>Among the European countries, Denmark is the most outstanding country in dairy farming.</li>\r\n<li>Danish dairy farms are typically large and about a quarter of them occupy an area of more than fifty acres.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Among the European countries, Denmark is the most outstanding country in dairy farming. Danish dairy farms are typically small and about a quarter of them occupy an area of less than two acres. There are very few dairy farms here with an area exceeding 50 acres."
+}

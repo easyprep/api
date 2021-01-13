@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:32:56.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "e3f91978-2c75-41a7-9b8d-12d309de48fb",
+  "labels": "current-affairs,2020-08-31",
+  "question": "The coral reefs are classified depending on their locations into which of the following types?<br />1) Fringing,<br />2) Patch, <br />3) Barrier<br />4) Atoll<br />Select the correct option from the codes given below:",
+  "option1": "Only 1 & 2",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1 , 2 & 4",
+  "option4": "1, 2 ,3, & 4",
+  "option5": "",
+  "answer": "1, 2 ,3, & 4",
+  "explanation": "Depending upon the locations of the coral reefs in the ocean, they are classified into the following four types:<br />1) Fringing Reef<br />2) Patch Reef<br />3) Barrier Reef<br />4) Atoll"
+}

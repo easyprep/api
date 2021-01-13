@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:52:28.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "415f2896-fe84-4bd1-b7cd-46149460a2d5",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following pairs of industries is/are correctly matched?<br />\r\n<ol>\r\n<li>Raw material oriented industries - the industry is weight gaining.</li>\r\n<li>Market-oriented industries - the industry is weight losing</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Since all industries need raw materials, the distance from which they have to be obtained is an important consideration.<br />If the amount of raw materials required is more than the amount of finished product, i.e. the industry is weight losing, it will tend to be located near the sources of raw materials. Such industries are called raw material oriented industries.<br />In case the industry is weight gaining or the product is perishable, the attractive locations are the ones near the market or the point of consumption. Such industries are called market-oriented industries."
+}

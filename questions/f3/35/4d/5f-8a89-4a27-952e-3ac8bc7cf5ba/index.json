@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-25T05:39:34.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "f3354d5f-8a89-4a27-952e-3ac8bc7cf5ba",
+  "labels": "current-affairs,2020-08-26",
+  "question": "Train the Trainer’ program, that was seen in in news recently, is associated with which technology company?",
+  "option1": "Google",
+  "option2": "Microsoft",
+  "option3": "Amazon",
+  "option4": "IBM",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Technology major Microsoft has launched a new program to teach quantum computing skills to train around 900 faculty from across the country.<br />As a part of this initiative, Microsoft is organizing a ‘Train the Trainer’ program in association with Electronics and ICT Academies at Malaviya National Institute of Technology (MNIT), Jaipur and National Institute of Technology, Patna."
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T19:59:09.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "35b98ab3-0486-4561-8cd7-ef95a9d5e9f8",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following is part of telecom indsutry?<br />1. Mobile Virtual Network Operators (MNVO)<br />2. White Space Spectrum<br />3. Broadband<br />4. 5G<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 4 only",
+  "option2": "1,2 and 3 only",
+  "option3": "1 and 4 only",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "The Telecommunications industry is divided into various subsectors like Infrastructure, Equipment, Mobile Virtual Network Operators (MNVO), White Space Spectrum, 5G, Telephone service providers and Broadband."
+}

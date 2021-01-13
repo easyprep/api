@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:51:27.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "2f3daf30-3c88-4ee9-822b-9ecec58e2a79",
+  "labels": "current-affairs,2020-08-29",
+  "question": "From which mineral is the metal Aluminium obtained from?",
+  "option1": "Steel",
+  "option2": "Iron",
+  "option3": "Bauxite",
+  "option4": "Copper",
+  "option5": "",
+  "answer": "Bauxite",
+  "explanation": "Metal aluminium is obtained from bauxite. Bauxite is first converted into alumina and alumina is further processed to obtain the final metal. Bauxite occurs widely in clay deposits but not all deposits are economically workable."
+}

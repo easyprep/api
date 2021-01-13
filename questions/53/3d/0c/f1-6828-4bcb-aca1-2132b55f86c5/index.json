@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-25T05:28:23.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "533d0cf1-6828-4bcb-aca1-2132b55f86c5",
+  "labels": "current-affairs,2020-08-26",
+  "question": "Which is the most downloaded Covid-19 contact tracing application in the world, as on date?",
+  "option1": "COVIDSafe",
+  "option2": "Stopp Corona",
+  "option3": "eRouška",
+  "option4": "Aarogya Setu",
+  "option5": "",
+  "answer": "Aarogya Setu",
+  "explanation": "With more than 15 crore users and more than 6.6 million Bluetooth traced contacts, the official contact tracing application of India, Aarogya Setu is the most downloaded contact tracing app in the world, as on date.<br />The application team has recently introduced 'Open API Service’, which is used to obtain answers for real-time queries about the health status of their employees or any other Aarogya Setu User who has consented to share their health status."
+}

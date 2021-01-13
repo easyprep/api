@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T19:58:10.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "534b7c1b-0361-4918-a228-89b070b056b0",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which sector exports the most among the IT and ITeS  ?",
+  "option1": "IT services",
+  "option2": "BPM",
+  "option3": "R&D software products",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "IT services",
+  "explanation": "The contribution of different sectors to IT and ITeS are:<br />1. IT services - 54%<br />2. BPM - 23%<br />3. R&amp;D products - 23%"
+}

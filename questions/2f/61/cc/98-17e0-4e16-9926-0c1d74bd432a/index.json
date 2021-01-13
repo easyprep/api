@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:32:17.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "2f61cc98-17e0-4e16-9926-0c1d74bd432a",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding Wetlands?<br />1) India has totally 27,403 wetlands<br />2) Inland wetlands are 3,959 and coastal wetlands are 23,444.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "India has a total number of 27,403 wetlands, of which 3,959 are coastal wetlands and 23,444 are inland wetlands. The Wetlands occupy 18.4% of the country’s area of which 70% are under paddy cultivation."
+}

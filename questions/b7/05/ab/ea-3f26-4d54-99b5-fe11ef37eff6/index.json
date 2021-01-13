@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-25T05:49:22.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "b705abea-3f26-4d54-99b5-fe11ef37eff6",
+  "labels": "current-affairs,2020-08-26",
+  "question": "As per the newly activated Aadhaar based GST registration, what is the time taken for GST registration by an entity?",
+  "option1": "3 working days",
+  "option2": "5 working days",
+  "option3": "7 working days",
+  "option4": "21 working days",
+  "option5": "",
+  "answer": "3 working days",
+  "explanation": "In order to enhance the ease of doing business, the Aadhaar authentication has been activated by the Government for registration to GST. The Aadhaar based GST registration of an entity would be completed in 3 working days and there is no requirement for physical verification. <br />Those not opting for Aadhaar based registration will be subjected to physical verification of place of business activity and other related documentary verification. The time required for non-Aadhaar registration would be up to 21 days."
+}

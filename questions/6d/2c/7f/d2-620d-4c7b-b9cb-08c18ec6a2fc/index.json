@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-24T16:11:47.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "6d2c7fd2-620d-4c7b-b9cb-08c18ec6a2fc",
+  "labels": "current-affairs,2020-08-25",
+  "question": "Which among the following statements is/are correct about Commercial Livestock Ranching?<br />\r\n<ol>\r\n<li>Tropical regions with a combination of high temperature and humidity are considered good for commercial livestock ranching.</li>\r\n<li>Parts of Africa, Venezuela, Brazil, Paraguay, Bolivia and northern Argentina are areas where commercial livestock ranching is widely practiced. </li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Neither 1 & 2",
+  "explanation": "Tropical regions with a combination of high temperature and humidity are not considered good for commercial livestock ranching. Parts of Africa, Venezuela, Brazil, Paraguay, Bolivia and northern Argentina suffer from this climatic handicap. These regions also suffer from a number of animal diseases caused by pests flourishing there."
+}

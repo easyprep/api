@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:32:00.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "39faba45-f29b-445b-9e6f-03739e67a860",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following includes both microscopic plants like algae and animals like crustaceans and protozoans found in all aquatic ecosystems, except certain swift moving waters?",
+  "option1": "Periphyton",
+  "option2": "Benthos",
+  "option3": "Nekton",
+  "option4": "Plankton",
+  "option5": "",
+  "answer": "Plankton",
+  "explanation": "Plankton includes both microscopic plants like algae (phytoplankton) and animals like crustaceans and protozoans<br />(zooplankton). They are found in all aquatic ecosystems, except in certain swift moving waters."
+}

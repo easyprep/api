@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:55:42.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "16b9d746-2b2a-4e52-a180-50c3ec94a22f",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following countries is/are the leading nations in the field of engineering industries?<br />\r\n<ol>\r\n<li>US</li>\r\n<li>UK</li>\r\n<li>Japan</li>\r\n<li>Russia</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 2 & 3",
+  "option3": "Only 1, 2 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "1, 2, 3 & 4",
+  "explanation": "The engineering industry has developed largely in countries with a developed iron and steel industry. An advanced level of technology is also necessary for the development of this industry. The US, UK, Germany, Japan and Russia are the leading nations in the field of these industries."
+}

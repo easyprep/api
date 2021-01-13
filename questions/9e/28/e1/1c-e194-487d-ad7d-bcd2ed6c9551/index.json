@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:33:43.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "9e28e11c-e194-487d-ad7d-bcd2ed6c9551",
+  "labels": "current-affairs,2020-08-31",
+  "question": "What is the IUCN status of Galápagos Penguin?",
+  "option1": "Endangered",
+  "option2": "Critically endangered",
+  "option3": "Vulnerable",
+  "option4": "Threatened",
+  "option5": "",
+  "answer": "Endangered",
+  "explanation": "The IUCN status of Galápagos Penguin is endangered. They reside in the volcanic islands of the Galápagos and are the only penguins which are found north of the equator."
+}

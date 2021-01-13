@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:51:44.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "b4ec86fd-62d3-4fc9-b5f1-49fb03a50f7e",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following statements is/are correct about Petroleum?<br />\r\n<ol>\r\n<li>Petroleum is an inflammable mixture of oily hydrocarbons.</li>\r\n<li>Most of the oil comes from synclines rather than anticlines.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "Petroleum is called mineral oil. It is an inflammable mixture of oily hydrocarbons. Like coal, petroleum is also a fossil fuel. It is generally taken that the oil has been derived from buried marine organisms. In areas where the sedimentary strata have been folded, most of the oil comes from anticlines rather than synclines."
+}

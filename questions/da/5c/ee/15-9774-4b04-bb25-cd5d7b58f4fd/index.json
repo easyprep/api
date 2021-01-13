@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:32:14.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "da5cee15-9774-4b04-bb25-cd5d7b58f4fd",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct regarding Lakes as defined by the National Lake Conservation Programme (NLCP)?<br />1) Minimum water depth of 5 m.<br />2) Cover a water spread of more than ten hectares.<br />3) Have no or very little macrophytes.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2 & 3",
+  "option3": "Only 2",
+  "option4": "1, 2 & 3",
+  "option5": "",
+  "answer": "Only 2 & 3",
+  "explanation": "According to the National Lake Conservation Programme considers lakes as standing water bodies which have a minimum water depth of 3 m. They have no or very little aquatic vegetation which is also called as macrophages. They generally cover a water spread of more than ten hectares."
+}

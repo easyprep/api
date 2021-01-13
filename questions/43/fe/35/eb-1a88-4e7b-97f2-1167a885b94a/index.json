@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:32:49.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "43fe35eb-1a88-4e7b-97f2-1167a885b94a",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following statements are correct?<br />1. The level of organic matter present in water is known as biological oxygen demand.<br />2. Greater BOD, lesser is the polluting potential.<br />Select the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 1",
+  "explanation": "The level of organic matter present in water is known as Biological Oxygen Demand. The greater the Biological Oxygen Demand, greater is the polluting potential."
+}

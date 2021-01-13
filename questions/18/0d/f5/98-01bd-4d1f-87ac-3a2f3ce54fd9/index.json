@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T20:00:32.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "180df598-01bd-4d1f-87ac-3a2f3ce54fd9",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following regions is/are the leading regions in the field of civil aviation?<br />\r\n<ol>\r\n<li>West Asia</li>\r\n<li>US</li>\r\n<li>Western Europe</li>\r\n<li>Japan</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 1, 2 & 3",
+  "option3": "Only 2, 3 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "The US, West European countries and Japan are the leading regions in the field of civil aviation. It is the economic<br />prosperity of these regions that makes this means of transport viable there."
+}

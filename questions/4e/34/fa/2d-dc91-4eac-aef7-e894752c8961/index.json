@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:51:27.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "4e34fa2d-dc91-4eac-aef7-e894752c8961",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following countries is/are the leading importers of Iron ore?<br />\r\n<ol>\r\n<li>Australia</li>\r\n<li>Japan</li>\r\n<li>US</li>\r\n<li>Germany</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1 & 3",
+  "option2": "Only 2, 3 & 4",
+  "option3": "Only 1 & 4",
+  "option4": "1, 2, 3 & 4",
+  "option5": "",
+  "answer": "Only 2, 3 & 4",
+  "explanation": "The leading exporters of iron ore in the world are Brazil, Australia, Canada, Sweden, Liberia, Venezuela, India, Chile and Peru. <br />The principal importers are Japan, US, Germany, Belgium, Netherlands, Luxembourg, UK and Italy"
+}

@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:52:37.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "655c83cb-d942-437f-b715-1358480080ba",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following statements is/are correct about the location of Coal industries?<br />\r\n<ol>\r\n<li>Generally a strong correlation is found between the location of heavy industrial plants and the availability of coal.</li>\r\n<li>Coal being a bulky and cheap industrial input, industrial plants are in close proximity of sources of coal supply.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Since all industries need raw materials, the distance from which they have to be obtained is an important consideration.  Generally a strong correlation is found between the location of heavy industrial plants and the availability of coal. Coal being a bulky and cheap industrial input, an effort is made to establish industrial plants in close proximity of sources of coal supply."
+}

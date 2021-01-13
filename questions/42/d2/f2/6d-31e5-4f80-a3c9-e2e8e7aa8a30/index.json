@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:52:28.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "42d2f26d-31e5-4f80-a3c9-e2e8e7aa8a30",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following statements is/are correct about Manufacturing?<br />\r\n<ol>\r\n<li>Manufacturing or industrial production is included in the group of Tertiary economic activities.</li>\r\n<li>More the share of industrial production in the gross domestic production (GDP) of a country higher is considered the level of economic development.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Manufacturing or industrial production is included in the group of secondary economic activities. It involves processing of the products of primary activity so that they become more useful. <br />The share of manufacturing activity in the national income of an economy is therefore taken as an important yardstick to measure its level of economic development. More the share of industrial production in the gross domestic production (GDP) of a country higher is considered the level of economic development."
+}

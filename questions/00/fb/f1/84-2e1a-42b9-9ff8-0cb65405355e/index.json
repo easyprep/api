@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-30T16:32:00.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "00fbf184-2e1a-42b9-9ff8-0cb65405355e",
+  "labels": "current-affairs,2020-08-31",
+  "question": "Which of the following contains animals which are swimmers?",
+  "option1": "Plankton",
+  "option2": "Nekton",
+  "option3": "Benthos",
+  "option4": "Periphyton",
+  "option5": "",
+  "answer": "Nekton",
+  "explanation": "Nekton are animals which are swimmers.  They are relatively large and powerful as they have to overcome the water currents. They range in size from the swimming insects (about 2 mm long) to the largest animals, the blue whale."
+}

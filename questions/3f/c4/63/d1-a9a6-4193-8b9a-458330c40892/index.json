@@ -1,0 +1,14 @@
+{
+  "created_at": "2020-08-28T11:51:18.000Z",
+  "updated_at": "2021-01-06T08:25:06.818Z",
+  "id": "3fc463d1-a9a6-4193-8b9a-458330c40892",
+  "labels": "current-affairs,2020-08-29",
+  "question": "Which among the following statements is/are correct about the Mining activity?<br />\r\n<ol>\r\n<li>It is the activity of obtaining minerals only from the rocks below the surface.</li>\r\n<li>It is an activity which controlled to the greatest extent by the natural environmental conditions.</li>\r\n</ol>\r\nSelect the correct code from the options given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 & 2",
+  "option5": "",
+  "answer": "Only 2",
+  "explanation": "Mining is the activity of obtaining minerals from the surface of the earth or from the rocks from below the surface. It is an activity which controlled to the greatest extent by the natural environmental conditions in that no mining is possible in areas that do not have the deposits of the desired minerals."
+}
