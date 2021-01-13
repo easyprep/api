@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:20.383Z",
+  "id": "cdf4f354-7f9e-4d43-86b5-dd4627ef6b1b",
+  "labels": "current-affairs,2017-04-25",
+  "question": "Which is the world's largest military spender, as per the report of Stockholm International Peace Research Institute (SIPRI)?",
+  "option1": "India",
+  "option2": "China",
+  "option3": "United States",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "As per SIPRI military expenditure database, the United States is the largest military spender in the world with an expenditure of $611 billion, followed by China, Russia and Saudi Arabia. India has acquired the 5th position as largest military spender in 2016 with expenditure of $55.9 billion for 2016-17.",
+  "verified_at": ""
+}

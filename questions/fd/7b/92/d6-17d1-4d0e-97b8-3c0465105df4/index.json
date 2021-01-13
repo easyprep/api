@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:15.691Z",
+  "id": "fd7b92d6-17d1-4d0e-97b8-3c0465105df4",
+  "labels": "current-affairs,2017-04-23",
+  "question": "Mastercard creates credit card with __________ scanner.",
+  "option1": "Fingerprint",
+  "option2": "Retina",
+  "option3": "Voice",
+  "option4": "Eye",
+  "option5": "",
+  "answer": "Fingerprint",
+  "explanation": "MasterCard has unveiled its brand new payment card that has a built-in biometric fingerprint scanner, allowing customers to authorize payments with their fingerprint, without requiring a PIN code or a signature.",
+  "verified_at": ""
+}

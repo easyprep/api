@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:12.122Z",
+  "id": "b589b432-3234-4fe6-92dd-64c37f55bb97",
+  "labels": "current-affairs,2017-04-21",
+  "question": "Which country's former president has been disqualified from running in the upcoming presidential elections?",
+  "option1": "France",
+  "option2": "Iran",
+  "option3": "India",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "Iran",
+  "explanation": "Iran's former President Mahmoud Ahmadinejad has been disqualified from running in next month's presidential election. The decision was taken by the Guardian Council, a clerical body charged with vetting candidates for the May 19 election.",
+  "verified_at": ""
+}

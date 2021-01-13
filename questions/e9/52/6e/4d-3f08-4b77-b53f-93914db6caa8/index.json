@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:26.152Z",
+  "id": "e9526e4d-3f08-4b77-b53f-93914db6caa8",
+  "labels": "current-affairs,2017-04-26",
+  "question": "The new technology created by the Google to translate English and 9 Indian languages is",
+  "option1": "Neutral machine translation technology",
+  "option2": "Neural machine translation technology",
+  "option3": "Natural machine translation technology",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Neural machine translation technology",
+  "explanation": "Google Translate use a new 'Neural Machine Translation Technology' to translate between English and nine widely-used Indian languages. These include Tamil, Kannada, Malayalam and Telugu. Other languages are Hindi, Punjabi, Bengali, Marathi and Gujarati.",
+  "verified_at": ""
+}

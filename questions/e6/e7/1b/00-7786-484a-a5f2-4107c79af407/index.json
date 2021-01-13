@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-04-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:19:12.116Z",
+  "id": "e6e71b00-7786-484a-a5f2-4107c79af407",
+  "labels": "current-affairs,2017-04-21",
+  "question": "Which airline became the world's first airline to adopt new satellite-based airplane tracking system?",
+  "option1": "Malaysia Airlines",
+  "option2": "Japan Airlines",
+  "option3": "Singapore Airlines",
+  "option4": "Asiana Airlines",
+  "option5": "",
+  "answer": "Malaysia Airlines",
+  "explanation": "Malaysia Airlines is first to sign up to a new service that will track its airplanes anywhere in the world using orbiting satellites. The company's planes will be tracked minute-by-minute using the new system, which boasts complete worldwide coverage,even over \"ocean, polar, and remote regions\".",
+  "verified_at": ""
+}
