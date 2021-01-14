@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-04T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:44.590Z",
+  "id": "19599176-bd16-469c-af5b-271ddd3be7cb",
+  "labels": "current-affairs,2017-09-04",
+  "question": "How many radio bursts from Dwarf galaxy obtained in Breakthrough Mission Project?",
+  "option1": 15,
+  "option2": 13,
+  "option3": 10,
+  "option4": 9,
+  "option5": "",
+  "answer": 15,
+  "explanation": "Breakthrough Listen project detected 15 Fast Radio Bursts (FRBs) coming from a dwarf galaxy about 3 million light years away from earth. The new detection was made with help of Green Bank Telescope (GBT) in West Virginia. FRBs are radio signals from somewhere in deep space that last for just milliseconds and a bright pulse of radio emission from distant galaxies.",
+  "verified_at": ""
+}

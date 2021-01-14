@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:35.167Z",
+  "id": "11b21e32-2281-4f6e-81be-a9e2ebd3af53",
+  "labels": "current-affairs,2017-07-20",
+  "question": "What is the name of the mobile application launched by the The Unique Identification Authority of India (UIDAI) recently?",
+  "option1": "Pusa Krishi app",
+  "option2": "My BSNL app",
+  "option3": "Kisan Suvidha app",
+  "option4": "mAadhaar app",
+  "option5": "",
+  "answer": "mAadhaar app",
+  "explanation": "The Unique Identification Authority of India (UIDAI) launched 'mAadhaar', a new mobile application for syncing Aadhaar data on mobile phones. It allows users to carry their unique Aadhaar information including name, date of birth, gender, address, and the linked photograph, on their smartphones. The app also allows users to lock or unlock biometrics data.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:53.335Z",
+  "id": "5eaafc79-0e0e-4428-a35f-c0ed4d2a5dbe",
+  "labels": "current-affairs,2017-09-08",
+  "question": "Which network combined with Coriant Tie up to Chart 5G?",
+  "option1": "Jio",
+  "option2": "BSNL",
+  "option3": "Idea",
+  "option4": "Airtel",
+  "option5": "",
+  "answer": "BSNL",
+  "explanation": "State-owned Bharat Sanchar Nigam Limited (BSNL) entered into an agreement with US-based networking solutions provider Coriant to chart the path to 5G and Internet of Things (IoT) in India. The MoU was signed between BSNL and Coriant for laying the foundation for innovation in network architectures and services leveraging 5G, IoT, Software Defined Networking/Network Functions Virtualization (SDN/NFV) and mobile edge computing technologies.",
+  "verified_at": ""
+}

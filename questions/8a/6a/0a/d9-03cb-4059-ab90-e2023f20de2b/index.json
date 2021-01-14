@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:05.836Z",
+  "id": "8a6a0ad9-03cb-4059-ab90-e2023f20de2b",
+  "labels": "current-affairs,2017-07-07",
+  "question": "Which bank limited the Customer liability in Online Banking Services recently?",
+  "option1": "Karnataka Bank",
+  "option2": "Dena Bank",
+  "option3": "South Indian Bank",
+  "option4": "Reserve Bank of India",
+  "option5": "",
+  "answer": "Reserve Bank of India",
+  "explanation": "Reserve Bank Of India (RBI) issued directions on 'Customer Protection - Limiting Liability of Customers in unauthorized Electronic Banking Transactions'. If the customers report to the banks regarding the loss they suffer through online banking transactions within three days, then the amount involved will be credited to their accounts within a time period of 10 days.",
+  "verified_at": ""
+}

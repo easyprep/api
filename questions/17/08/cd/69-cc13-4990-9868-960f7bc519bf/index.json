@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-04T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:44.598Z",
+  "id": "1708cd69-cc13-4990-9868-960f7bc519bf",
+  "labels": "current-affairs,2017-09-04",
+  "question": "RBI includes __________ bank as India's third most critical financial body.",
+  "option1": "Karnataka Bank",
+  "option2": "Axis Bank",
+  "option3": "HDFC Bank",
+  "option4": "IDFC Bank",
+  "option5": "",
+  "answer": "HDFC Bank",
+  "explanation": "RBI has included HDFC in the list of 'too big to fail' lenders, referred to as D-SIB or domestic systemically important bank. India's largest lender SBI and private sector major ICICI Bank were classified as D-SIBs in 2015. With the inclusion of HDFC Bank in the list, there will now be three 'too big to fail' financial entities in the country. SIBs are subjected to higher levels of supervision so as to prevent disruption in financial services in the event of any failure.",
+  "verified_at": ""
+}

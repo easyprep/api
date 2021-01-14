@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:24:49.867Z",
+  "id": "0ad8f555-b539-49e9-87a8-dc8165f5aa9e",
+  "labels": "current-affairs,2017-08-10",
+  "question": "Which institute to develop full-fledged Hyperspectral Imaging Earth observation satellite?",
+  "option1": "Indian Institute of Technology",
+  "option2": "Anna University",
+  "option3": "Indian Space Research Organisation",
+  "option4": "Nagaland university",
+  "option5": "",
+  "answer": "Indian Space Research Organisation",
+  "explanation": "The Indian Space Research Organisation (ISRO) plans to launch a full-fledged niche Earth observation (EO) satellite called the Hyper spectral Imaging Satellite or HySIS using a critical chip it has developed. The HySIS satellite critical chip called an \"optical imaging detector array\" indigenously developed by ISRO.",
+  "verified_at": ""
+}

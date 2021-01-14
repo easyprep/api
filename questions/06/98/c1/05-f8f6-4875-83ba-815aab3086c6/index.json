@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:39.128Z",
+  "id": "0698c105-f8f6-4875-83ba-815aab3086c6",
+  "labels": "current-affairs,2017-07-21",
+  "question": "Who signed agreement with the ESMA for information exchange on CCPs?",
+  "option1": "Securities and Exchange Board of India (SEBI)",
+  "option2": "National Institute of Technology",
+  "option3": "Tata Steels Authority",
+  "option4": "Lakshmi Ceramics",
+  "option5": "",
+  "answer": "Securities and Exchange Board of India (SEBI)",
+  "explanation": "Securities and Exchange Board of India (SEBI) entered into a Memorandum of Understanding (MoU) with the European Securities and Markets Authority (ESMA). The MoU was signed for the exchange of information concerning Central Counterparties (CCPs) under the European Markets Infrastructure Regulation (EMIR). CCPs are entities that help facilitate clearing and settlement activities.",
+  "verified_at": ""
+}

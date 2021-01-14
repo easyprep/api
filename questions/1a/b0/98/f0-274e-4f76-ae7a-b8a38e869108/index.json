@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-17T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:28.086Z",
+  "id": "1ab098f0-274e-4f76-ae7a-b8a38e869108",
+  "labels": "current-affairs,2017-07-17",
+  "question": "Which e-wallet service joined with the Samsung Pay to enable one-tap payment solution for e-wallet users?",
+  "option1": "Free Charge",
+  "option2": "Paytm",
+  "option3": "MobiKwik",
+  "option4": "Oxiygen",
+  "option5": "",
+  "answer": "MobiKwik",
+  "explanation": "MobiKwik and Samsung Pay enable one-tap payment solution for e-wallet users. According to the digital payments firm MobiKwik wallet is now integrated with Samsung Pay Mini to enable one-tap payments at more than 1.4 million MobiKwik-powered merchants across the country.",
+  "verified_at": ""
+}

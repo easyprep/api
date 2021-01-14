@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-15T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:11.298Z",
+  "id": "58e2a1ea-ce6e-435a-aaa8-427de4c1e7ff",
+  "labels": "current-affairs,2017-09-15",
+  "question": "Indian Railways permits ___________ as ID proof for travellers recently.",
+  "option1": "UTS app",
+  "option2": "M-Aadhar",
+  "option3": "Rail SAARTHI",
+  "option4": "IRCTC App",
+  "option5": "",
+  "answer": "M-Aadhar",
+  "explanation": "M-Aadhar is a mobile app launched by unique identification authority of India on which a person can download his/her Aadhar card.",
+  "verified_at": ""
+}

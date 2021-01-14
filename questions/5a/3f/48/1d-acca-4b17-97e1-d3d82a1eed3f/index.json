@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:39.133Z",
+  "id": "5a3f481d-acca-4b17-97e1-d3d82a1eed3f",
+  "labels": "current-affairs,2017-07-21",
+  "question": "Which company introduced the mobile app 'Hire' for businesses.",
+  "option1": "iMOBDEV Technologies",
+  "option2": "Lochbridge",
+  "option3": "Google",
+  "option4": "Microsoft",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Google launched 'Hire', a recruiting app for small- and medium-sized businesses that also integrates seamlessly with G Suite. They planned to compete with the Microsoft owned LinkedIn. It is designed to build strong candidate relationships and efficiently manage the interview process end-to-end.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-11T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:24:52.620Z",
+  "id": "07014ac0-d7a4-4acf-85e5-8015828f1ca2",
+  "labels": "current-affairs,2017-08-11",
+  "question": "Which institute allows MCX to launch options trading in gold?",
+  "option1": "The International Bank for Reconstruction and Development",
+  "option2": "The Multilateral Investment Guarantee Agency",
+  "option3": "Securities and Exchange Board of India's (SEBI)",
+  "option4": "The International Finance Corporation",
+  "option5": "",
+  "answer": "Securities and Exchange Board of India's (SEBI)",
+  "explanation": "The Multi Commodity Exchange Limited (MCX), the country's largest commodity exchange has received capital markets regulator Securities and Exchange Board of India's (SEBI) approval to launch options trading in gold. It will allow investors and hedgers to minimize their price risk at a fraction of the cost compared to currently available futures trading.",
+  "verified_at": ""
+}

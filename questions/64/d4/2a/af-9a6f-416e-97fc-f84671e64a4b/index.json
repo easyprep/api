@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:14.610Z",
+  "id": "64d42aaf-9a6f-416e-97fc-f84671e64a4b",
+  "labels": "current-affairs,2017-08-21",
+  "question": "This country scientists developed the worlds smallest surgical robot to transform daily operations.",
+  "option1": "UK",
+  "option2": "USA",
+  "option3": "Swedan",
+  "option4": "China",
+  "option5": "",
+  "answer": "UK",
+  "explanation": "British scientists have developed the worlds smallest surgical robot which could transform daily operations for tens of thousands of patients. A team of 100 scientists and engineers have used low-cost technology originally developed for mobile phones and space industry. The robot, called Versius, mimics the human arm can be used to carry out a wide range of laparoscopic procedures.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:55.794Z",
+  "id": "4115b30b-e188-474a-a952-aeff505fffd6",
+  "labels": "current-affairs,2017-07-28",
+  "question": "Which metro launch India's First Mobile Ticketing System recently?",
+  "option1": "Chennai Metro",
+  "option2": "Delhi Metro",
+  "option3": "Mumbai Metro",
+  "option4": "Lucknow Metro",
+  "option5": "",
+  "answer": "Mumbai Metro",
+  "explanation": "Mumbai Metro has announced the launch of India's first Mobile Ticketing System 'OnGo' which will help commuters cross the AFC gates using their mobile phones. The commuters will be able to buy tickets or monthly passes using the Mumbai Metro app on their smartphone. Once they make the payment using their mobile wallet or e-wallet, a QR code will be generated.",
+  "verified_at": ""
+}

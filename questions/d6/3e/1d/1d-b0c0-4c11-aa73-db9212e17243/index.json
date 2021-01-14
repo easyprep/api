@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:40.494Z",
+  "id": "d63e1d1d-b0c0-4c11-aa73-db9212e17243",
+  "labels": "current-affairs,2017-09-02",
+  "question": "This group launched Ryzen Pro processors for Business Personal Computer.",
+  "option1": "AMD",
+  "option2": "Amazon",
+  "option3": "Testla",
+  "option4": "Google",
+  "option5": "",
+  "answer": "AMD",
+  "explanation": "Chipmaker AMD presented a new line of microprocessor chips called 'Ryzen Pro' for commercial desktop workstations to be available in India and other countries by end of 2017. At the global launch of Ryzen Pro leading PC makers HP, Dell and Lenovo introduced new high-end workstations using Ryzen Pro to meet the demand of present scenario toughest computing-tasks. The Ryzen Pro desktop processor is an 8 core and 16 thread CPU and much faster than the rival Intel's 'Core i7' which is of 4 core and 8 thread.",
+  "verified_at": ""
+}

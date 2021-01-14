@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:07.324Z",
+  "id": "f8346cc8-8eb0-4fa0-b1ba-eff9f5589e3b",
+  "labels": "current-affairs,2017-09-13",
+  "question": "Which company partners with NPCI?",
+  "option1": "Free Charge",
+  "option2": "Mobikwik",
+  "option3": "Grabon",
+  "option4": "Paytm",
+  "option5": "",
+  "answer": "Paytm",
+  "explanation": "Paytm Payments Bank (PPB) partnered with the National Payments Corporation of India (NPCI) to launch a RuPay-powered digital debit card. The customers will now be able to transact at all merchants who accept credit and debit cards.",
+  "verified_at": ""
+}

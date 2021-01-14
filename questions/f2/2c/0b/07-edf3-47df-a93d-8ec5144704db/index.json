@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:08.086Z",
+  "id": "f22c0b07-edf3-47df-a93d-8ec5144704db",
+  "labels": "current-affairs,2017-08-18",
+  "question": "Which mobile App was launched by NHAI to facilitate the availability of FASTags for Electronic Toll Collection.",
+  "option1": "MyFASTag and FASTag Partner",
+  "option2": "YourHighway",
+  "option3": "RAMS",
+  "option4": "HighwayRoute",
+  "option5": "",
+  "answer": "MyFASTag and FASTag Partner",
+  "explanation": "The National Highways Authority of India launched two mobile Apps namely MyFASTag and FASTag Partner in New Delhi, to facilitate the availability of FASTags for Electronic Toll Collection. MyFASTag is a consumer App can be downloaded from the App Store for both Android and iOS systems. FASTag Partner is a merchant App agencies like Common Services Centre, banking partners, and vehicle dealers can sell and enroll FASTag through this App.",
+  "verified_at": ""
+}

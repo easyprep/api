@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:42.658Z",
+  "id": "d5c8b8e9-9fdd-4234-8445-3866240d62da",
+  "labels": "current-affairs,2017-09-03",
+  "question": "Which company has introduced a new vision processing unit (VPU) called Movidius Myriad X?",
+  "option1": "Dell",
+  "option2": "HTC",
+  "option3": "Intel",
+  "option4": "Lenovo",
+  "option5": "",
+  "answer": "Intel",
+  "explanation": "Intel has introduced a new vision processing unit (VPU) called Movidius Myriad X. The new Intel VPU is aimed at providing end-to-end artificial intelligence (AI) solutions to a wide range of product categories such as smart cameras, virtual reality (VR) devices, robotics and even drones. Myriad X is the world's first system-on-chip (SOC) shipping with a dedicated neural compute engine for accelerating deep learning inferences at the edge.",
+  "verified_at": ""
+}

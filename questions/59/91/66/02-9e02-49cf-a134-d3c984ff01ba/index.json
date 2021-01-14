@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:12.593Z",
+  "id": "59916602-9e02-49cf-a134-d3c984ff01ba",
+  "labels": "current-affairs,2017-08-20",
+  "question": "Which satellite was launched by NASA for ensuring that astronauts at the International Space Station can communicate with Earth?",
+  "option1": "Tracking and Data Relay Satellite (TDRS-M)",
+  "option2": "Testing and Data Relay Satellite (TDRS-M)",
+  "option3": "Tracking and Diagnostic Relay Satellite (TDRS-M)",
+  "option4": "Testing and Diagnostic Relay Satellite (TDRS-M)",
+  "option5": "",
+  "answer": "Tracking and Data Relay Satellite (TDRS-M)",
+  "explanation": "NASA has launched TDRS-M satellite on 18th of August 2017. It aimed at ensuring astronauts at the International Space Station can communicate with Earth. The satellite will support critical space communication into the mid-2020s. The $408 million Boeing-made Tracking and Data Relay Satellite (TDRS-M) rose into space atop an Atlas V rocket that launched from Cape Canaveral, Florida.",
+  "verified_at": ""
+}

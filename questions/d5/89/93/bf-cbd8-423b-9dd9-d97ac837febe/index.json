@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:30.356Z",
+  "id": "d58993bf-cbd8-423b-9dd9-d97ac837febe",
+  "labels": "current-affairs,2017-07-18",
+  "question": "Which country scientists developed the 3D-printed soft silicone Heart?",
+  "option1": "Switzerland",
+  "option2": "Swedish",
+  "option3": "India",
+  "option4": "United States of America",
+  "option5": "",
+  "answer": "Switzerland",
+  "explanation": "Scientists from ETH Zurich in Switzerland have developed a 3D-printed soft silicone heart that closely resembles and functions like the human organ. It is not an exact biological replica of the actual but can help to save lives of people who suffer from cardiac failure. The 3D-printed soft artificial heart is a silicone monoblock with complex inner structure. It weighs 390 gms and has a volume of 679 cubic centimetres.",
+  "verified_at": ""
+}

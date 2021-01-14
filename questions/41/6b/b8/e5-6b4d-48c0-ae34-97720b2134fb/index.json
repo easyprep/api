@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:01.232Z",
+  "id": "416bb8e5-6b4d-48c0-ae34-97720b2134fb",
+  "labels": "current-affairs,2017-07-05",
+  "question": "Which country conducted a successful Intercontinental Ballistic Missile test?",
+  "option1": "South Africa",
+  "option2": "North America",
+  "option3": "Canada",
+  "option4": "North Korea",
+  "option5": "",
+  "answer": "North Korea",
+  "explanation": "North Korea has successfully tested an Intercontinental ballistic missile (ICBM). United States Pacific Command tracked \"the single launch of a land-based, intermediate range ballistic missile\" lifted off from an airfield north-west of Pyongyang. The missile could reach a maximum range of roughly 6,700 km on a standard trajectory.",
+  "verified_at": ""
+}

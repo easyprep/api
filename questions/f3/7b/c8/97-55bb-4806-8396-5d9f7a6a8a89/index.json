@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-31T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:36.461Z",
+  "id": "f37bc897-55bb-4806-8396-5d9f7a6a8a89",
+  "labels": "current-affairs,2017-08-31",
+  "question": "Which IIT institutes have developed biosensor to detect kidney disorders?",
+  "option1": "IIT Bombay and IIT Indore",
+  "option2": "IIT Kanpur and IIT Bombay",
+  "option3": "IIT Indore and IIT Delhi",
+  "option4": "IIT Delhi and IIT Kanpur",
+  "option5": "",
+  "answer": "IIT Bombay and IIT Indore",
+  "explanation": "The Indian Institutes of Technology, Bombay and Indore, have jointly developed a biosensor that makes it possible to detect kidney disorders in less than 8 minutes. The biosensor can accurately measure both the pH and urea concentration with a single drop of urine. The researchers who developed it say that it will help make a point-of-care test to determine whether the kidneys are functioning normally. The biosensor is made by encapsulating an enzyme urease and a molecule FITC-dextran in alginate microspheres. The combination glows in response to a chemical reaction with urea and changes in pH when urine is added.",
+  "verified_at": ""
+}

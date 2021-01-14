@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:27.831Z",
+  "id": "77d2baa4-8f3d-4d87-a7c5-efaa5e6e6414",
+  "labels": "current-affairs,2017-08-27",
+  "question": "Which satellite has been scheduled by ISRO for its next launch using the rocket PSLV-C39 from Sriharikota on the 31st of August?",
+  "option1": "IRNSS-1G",
+  "option2": "IRNSS-1H",
+  "option3": "IRNSS-1I",
+  "option4": "IRNSS-1J",
+  "option5": "",
+  "answer": "IRNSS-1H",
+  "explanation": "PSLV-C39 will launch IRNSS-1H navigation satellite, on August 31, 2017. IRNSS-1H will augment the existing seven satellites of NavIC constellation. The NavIC constellation provides spatial information on moving and non-moving objects in and around the country.",
+  "verified_at": ""
+}

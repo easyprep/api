@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:51.098Z",
+  "id": "19727f0e-6990-4e60-8fce-f9a837f41824",
+  "labels": "current-affairs,2017-09-07",
+  "question": "Which Indian organisation has developed an artificial leaf to create fuel from sunlight?",
+  "option1": "Defence Research and Development Organisation (DRDO)",
+  "option2": "Indian Space Research Organisation (ISRO)",
+  "option3": "IIT Kharagpur",
+  "option4": "Council of Scientific and Industrial Research (CSIR) Pune",
+  "option5": "",
+  "answer": "Council of Scientific and Industrial Research (CSIR) Pune",
+  "explanation": "The researchers at the Council of Scientific and Industrial Research (CSIR)-National Chemical Laboratory in Pune have developed an artificial leaf that absorbs sunlight to generate hydrogen fuel from water, an advance that may provide clean energy for powering eco-friendly cars in the future. The device consists of semiconductors stacked in a manner to simulate the natural leaf system. When visible light strikes the semiconductors, electrons move in one direction, producing electric current.",
+  "verified_at": ""
+}

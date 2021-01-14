@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:38.520Z",
+  "id": "7ce26ecc-43d8-4a5b-9536-0d74a0f51be2",
+  "labels": "current-affairs,2017-09-01",
+  "question": "WikiLeaks website was hacked by __________.",
+  "option1": "Dragonfly",
+  "option2": "Morpho",
+  "option3": "Chaos Computer Club",
+  "option4": "OurMine",
+  "option5": "",
+  "answer": "OurMine",
+  "explanation": "WikiLeaks' website appears to have been hacked by a group called OurMine, whose previous hacks have targeted tech CEOs, companies, and news sites.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:25.766Z",
+  "id": "8ff3d8ed-00d8-4eb0-bb60-fea8c5e1b82f",
+  "labels": "current-affairs,2017-07-16",
+  "question": "How many solar panels are fitted in the trailer coaches of the India's first solar-powered DEMU train?",
+  "option1": 10,
+  "option2": 18,
+  "option3": 16,
+  "option4": 13,
+  "option5": "",
+  "answer": 16,
+  "explanation": "Indian Railways launched India's first solar powered diesel multiple units (DEMU) broad gauge trains. It is 1600 Horse Power (HP) train with all solar powered coaches. The train has six trailer coaches, with 16 solar panels fitted in each of them. The solar panels will power all the electrical appliances inside.",
+  "verified_at": ""
+}

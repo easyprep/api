@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:51.081Z",
+  "id": "db1bb49a-0b59-498b-b85a-04a54a10a107",
+  "labels": "current-affairs,2017-07-26",
+  "question": "Which mobile app has been launched by the Union Government for road maintenance?",
+  "option1": "RoadBHIM",
+  "option2": "Kartavya",
+  "option3": "Aarambh",
+  "option4": "Prarambh",
+  "option5": "",
+  "answer": "Aarambh",
+  "explanation": "The Union Government has launched the mobile phone app \"Aarambh\" to simplify the maintenance management of rural roads. The purpose of the app is to use of Geographic Information System (GIS) based mapping for making road inventories, condition surveys and producing cost estimates and other relevant data for preparation and monitoring of annual road maintenance plans. Its usage would greatly enhance the service delivery of the state level institutions in planning and implementing performance based rural roads maintenance contracts.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-14T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:24:59.174Z",
+  "id": "8b3e793d-c61e-46a3-9b88-e8a11282d9db",
+  "labels": "current-affairs,2017-08-14",
+  "question": "Which country is declared as the Polio free by the World Health Organisation?",
+  "option1": "Venice",
+  "option2": "Iran",
+  "option3": "Iraq",
+  "option4": "Somalia",
+  "option5": "",
+  "answer": "Somalia",
+  "explanation": "The United Nations World Health Organisation (WHO) declared no record of any case of polio disease in Somalia in the last three years declaring the country polio free. Somalia is still responding to an outbreak of acute watery diarrhea/cholera which began in January 2017.",
+  "verified_at": ""
+}

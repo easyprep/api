@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-15T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:11.302Z",
+  "id": "af9ed192-6268-4f83-9ce1-3cddc8f1fec8",
+  "labels": "current-affairs,2017-09-15",
+  "question": "Which service did the google planned to launch soon?",
+  "option1": "Mobile Phone",
+  "option2": "DTH",
+  "option3": "Sim Facility",
+  "option4": "Mobile Payment Service",
+  "option5": "",
+  "answer": "Mobile Payment Service",
+  "explanation": "Google announced to unveil a digital payment service in India that has been developed for the local market. National Payments Corporation of India (NPCI) stated that Google had completed the testing of its UPI payment service and was awaiting Reserve Bank of India's approval to launch its service in the country. Google is looking at launching a payment service 'Google Tez', which will include support for Unified Payments Interface (UPI) as well as mobile wallets like Paytm and MobiKwik.",
+  "verified_at": ""
+}

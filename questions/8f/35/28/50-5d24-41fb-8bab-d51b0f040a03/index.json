@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-17T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:05.827Z",
+  "id": "8f352850-5d24-41fb-8bab-d51b0f040a03",
+  "labels": "current-affairs,2017-08-17",
+  "question": "Which country has the fastest mobile Internet in the world according to the global leader in broadband testing Ookla?",
+  "option1": "USA",
+  "option2": "Singapore",
+  "option3": "Norway",
+  "option4": "Hong Kong",
+  "option5": "",
+  "answer": "Norway",
+  "explanation": "According to global leader in broadband testing Ookla, Norway has the fastest mobile Internet in the world. In only 13 months, Norway has jumped from 11th to first place on the list of world best providers of fast Internet connection, Xinhua reported. Ookla created the popular application Speedtest.net, where the users can measure the speed of their Internet connection at any time. The average Internet connection speed of Norwegians' mobile phones has the speed of 52.6 megabits per second.",
+  "verified_at": ""
+}

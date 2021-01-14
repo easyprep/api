@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:10.154Z",
+  "id": "4092af6a-9d80-418f-b2cd-7a2683fe0f91",
+  "labels": "current-affairs,2017-07-09",
+  "question": "Which city intoduced the H-Bots Robotics to manage traffic?",
+  "option1": "Bangalore",
+  "option2": "New Delhi",
+  "option3": "Chennai",
+  "option4": "Hyderabad",
+  "option5": "",
+  "answer": "Hyderabad",
+  "explanation": "H-Bots Robotics, a startup from Telangana's T-Hub incubator, is developing 'police robots' priced at about Rs.3.5 lakh, while similar robots in countries like Dubai cost Rs.23 lakh each. The first set of H-Bots' robots could be deployed to manage traffic by December in Hyderabad. It will be able to register complaints, detect bombs, and recognise missing persons.",
+  "verified_at": ""
+}

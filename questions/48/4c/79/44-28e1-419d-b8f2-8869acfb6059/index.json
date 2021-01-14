@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:24:00.184Z",
+  "id": "484c7944-28e1-419d-b8f2-8869acfb6059",
+  "labels": "current-affairs,2017-07-30",
+  "question": "What is the name of World's Smallest spacecraft launched by the Indian Rocket?",
+  "option1": "Aryabhatta",
+  "option2": "Bhaskara II",
+  "option3": "Sprites",
+  "option4": "INSAT - 1 A",
+  "option5": "",
+  "answer": "Sprites",
+  "explanation": "The world's smallest spacecraft ever launched have successfully been placed in low Earth orbit by Indian Space Research Organisation (ISRO) PSLV rocket. It is named as Sprites, the 3.5cmx3.5cm space probes weigh 4 grams each and run on sunlight.",
+  "verified_at": ""
+}

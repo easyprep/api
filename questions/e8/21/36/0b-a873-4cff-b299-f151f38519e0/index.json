@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:18.848Z",
+  "id": "e821360b-a873-4cff-b299-f151f38519e0",
+  "labels": "current-affairs,2017-08-23",
+  "question": "Which company announced the acquisition of Cycle Computing for customers to use High Performance Computing recently?",
+  "option1": "IBM",
+  "option2": "Google",
+  "option3": "Microsoft",
+  "option4": "TCS",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Microsoft has announced the acquisition of Cycle Computing on 21st of August 2017. It will help it easier for Azure customers to use High Performance Computing (HPC) and other Big Computing capabilities in the cloud and help them accelerate their movement to the cloud. Cycle Computing makes optimizing Hybrid HPC workloads easier and the process of bursting or migrating HPC clusters to the cloud more productive. It offers tools that help companies orchestrate and manage large scale compute jobs across hybrid environments.",
+  "verified_at": ""
+}

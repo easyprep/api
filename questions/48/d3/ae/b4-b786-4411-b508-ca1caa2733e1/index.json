@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:55.307Z",
+  "id": "48d3aeb4-b786-4411-b508-ca1caa2733e1",
+  "labels": "current-affairs,2017-09-09",
+  "question": "Which institute artificial develops leaf creates fuel from sunlight, water.",
+  "option1": "CSIR",
+  "option2": "ISRO",
+  "option3": "IISc",
+  "option4": "GSSI",
+  "option5": "",
+  "answer": "CSIR",
+  "explanation": "CSIR scientists have developed an artificial leaf that absorbs sunlight to generate hydrogen fuel from water. It is an advance technology that may provide clean energy for powering eco-friendly cars in the future. The ultra-thin wireless device mimics plant leaves to produce energy using water and sunlight. The device consists of semiconductors stacked in a manner to simulate the natural leaf system.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:53.139Z",
+  "id": "1f71c42a-df5d-4ed1-b9d4-8a101222395d",
+  "labels": "current-affairs,2017-09-08",
+  "question": "The new tool of Whatsapp is __________.",
+  "option1": "WhatsApp chat locker",
+  "option2": "WhatsApp status copy",
+  "option3": "Whatsapp business",
+  "option4": "WhatsApp Hibernate",
+  "option5": "",
+  "answer": "Whatsapp business",
+  "explanation": "WhatsApp is launching a new app to help businesses communicate with their customers. WhatsApp Business gives users a verified green checkmark badge next to their names. It will be able to create a company profile with information such as address, business hours, description of product or service offered, it also helps to manage consumer chats. It is building and testing new tools via a free WhatsApp Business app for small companies and an enterprise solution for bigger companies operating at a large scale with a global base of customers, like airlines, e-commerce sites and banks.",
+  "verified_at": ""
+}

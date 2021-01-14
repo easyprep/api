@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:22.374Z",
+  "id": "3c7adedb-c176-4e52-9704-92b633d2d41a",
+  "labels": "current-affairs,2017-09-18",
+  "question": "Which Payments Bank launches UPI enabled digital payments in India?",
+  "option1": "FINO payment bank",
+  "option2": "Paytm Payments Bank",
+  "option3": "India Post Payments Bank",
+  "option4": "Airtel Payments Bank",
+  "option5": "",
+  "answer": "Airtel Payments Bank",
+  "explanation": "Airtel Payments Bank become the first payments bank in India to integrate the Unified Payments Interface (UPI) on its digital platform. It adds to customer choice and convenience for making secure digital payments to online/offline merchants and making instant money transfers to any bank account in India. For UPI-based payments and transfers, the customers are not required to furnish their bank details to enable transactions and can create easy to remember IDs, ensuring optimal data security.",
+  "verified_at": ""
+}

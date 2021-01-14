@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:46.551Z",
+  "id": "8b047c81-c481-48ce-ae63-22baf62d6fb2",
+  "labels": "current-affairs,2017-09-05",
+  "question": "Which government makes Child Lock stickers mandatory for cabs?",
+  "option1": "Delhi",
+  "option2": "Mumbai",
+  "option3": "Kolkata",
+  "option4": "Pune",
+  "option5": "",
+  "answer": "Delhi",
+  "explanation": "The Delhi govt made it mandatory for all the cabs to have at least 4 stickers informing passengers to disable the Child Lock System before the journey starts. The Delhi Commission for Women observed that the possibility of crime against women increases as they cannot open the doors once the lock is activated.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:55.305Z",
+  "id": "45167e97-d2f8-460a-889d-5a554d01c3e7",
+  "labels": "current-affairs,2017-09-09",
+  "question": "Which University ranks top in 2018 World University Rankings?",
+  "option1": "Harvard University",
+  "option2": "University of Oxford",
+  "option3": "University of Cambridge",
+  "option4": "Stanford University",
+  "option5": "",
+  "answer": "University of Oxford",
+  "explanation": "The World University Rankings 2018 was published by the Times Higher Education (THE).Oxford University have topped the world rankings. IISc, Bangalore has been named the top university in India followed by Cambridge University.",
+  "verified_at": ""
+}

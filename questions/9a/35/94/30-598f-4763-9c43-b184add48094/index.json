@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:08.088Z",
+  "id": "9a359430-598f-4763-9c43-b184add48094",
+  "labels": "current-affairs,2017-08-18",
+  "question": "Which mobile network lainches a mobile payment App to make Bill payments recently?",
+  "option1": "Docomo",
+  "option2": "JIO",
+  "option3": "BSNL",
+  "option4": "Aircel",
+  "option5": "",
+  "answer": "BSNL",
+  "explanation": "Bharat Sanchar Nigam Limited (BSNL) went digital by launching a bespoke mobile wallet (mobile payment App) that would enable its existing 100 million customers to make Bill payments. The wallet has been developed and issued by MobiKwik on behalf of BSNL. It was launched at an event by Manoj Sinha, Minister for Telecommunications in the capital.",
+  "verified_at": ""
+}

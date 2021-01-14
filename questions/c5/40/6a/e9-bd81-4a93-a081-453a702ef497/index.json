@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:39.124Z",
+  "id": "c5406ae9-bd81-4a93-a081-453a702ef497",
+  "labels": "current-affairs,2017-07-21",
+  "question": "Which bank offers a personal loans for their customer at ATMs?",
+  "option1": "HDFC",
+  "option2": "ICICI",
+  "option3": "SBI",
+  "option4": "Axis",
+  "option5": "",
+  "answer": "ICICI",
+  "explanation": "ICICI Bank has launched a facility whereby its existing salaried customers can avail personal loans at ATMs. These customers can get pre-qualified personal loans up to 15 lakhs in their savings account instantly based on pre-checked CIBIL scores and instant transfer of the money to the customer's account. The facility also incorporates an additional level of authentication to make the security of the offering robust.",
+  "verified_at": ""
+}

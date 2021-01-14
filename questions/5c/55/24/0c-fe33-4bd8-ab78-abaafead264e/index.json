@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:10.164Z",
+  "id": "5c55240c-fe33-4bd8-ab78-abaafead264e",
+  "labels": "current-affairs,2017-07-09",
+  "question": "Which of the following company launched its first Digital Hub in Bengaluru?",
+  "option1": "Oracle",
+  "option2": "IBM",
+  "option3": "Cisco",
+  "option4": "Microsoft",
+  "option5": "",
+  "answer": "Oracle",
+  "explanation": "Oracle has launched its first Digital Hub in Asia Pacific region in Bengaluru. The digital hub would provide cloud computing technology & resources to small & medium businesses to empower them in their digital transformation.",
+  "verified_at": ""
+}

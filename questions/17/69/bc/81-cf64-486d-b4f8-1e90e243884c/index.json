@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-22T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:16.767Z",
+  "id": "1769bc81-cf64-486d-b4f8-1e90e243884c",
+  "labels": "current-affairs,2017-08-22",
+  "question": "Who released Android Oreo?",
+  "option1": "Google",
+  "option2": "Microsoft",
+  "option3": "Infosys",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Google launched its version 8.0 of the operating system as Android Oreo. The Oreo boasts of a two times faster boot speed, autofill option, and a longer battery life. The new update comes with a Picture-in-Picture feature that allows the user to see two apps simultaneously. Google is also making it easier to log into different apps, extending the autofill feature currently available on the website, to apps.",
+  "verified_at": ""
+}

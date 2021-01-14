@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:08.091Z",
+  "id": "385f83a7-7931-4d8b-beb7-fe6528cbf55f",
+  "labels": "current-affairs,2017-08-18",
+  "question": "HDFC Bank cut interest rates on most of its savings accounts to __________.",
+  "option1": 0.032,
+  "option2": 0.3,
+  "option3": 0.038,
+  "option4": 0.035,
+  "option5": "",
+  "answer": 0.035,
+  "explanation": "HDFC Bank Ltd cut interest rates on most of its savings accounts to 3.5% from 4%. Customers with savings bank account balance of 5 million rupees and above will continue to earn interest at 4 percent per annum.",
+  "verified_at": ""
+}

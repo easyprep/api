@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:53.334Z",
+  "id": "90e394f3-7cbd-4f64-af6e-b7bf8371ed5b",
+  "labels": "current-affairs,2017-09-08",
+  "question": "Which company announced the acquisition of automation-driven data management platform Datawave to accelerate data integration and migration for their clients?",
+  "option1": "HCL",
+  "option2": "IBM",
+  "option3": "Infosys",
+  "option4": "Accenture",
+  "option5": "",
+  "answer": "HCL",
+  "explanation": "HCL Technologies announced the acquisition of automation-driven data management platform Datawave to accelerate data integration and migration for their clients. It has agreed to buy Datawave a business unit of ETL Factory Limited, a UK-based company. Datawave has created an innovative data automation platform which enables enterprise customers to execute large scale, complex data-migration and data-integration projects in a leaner, faster and smarter way.",
+  "verified_at": ""
+}

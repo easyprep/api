@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:53.517Z",
+  "id": "ef4077cc-25bd-4909-97f5-9e8cc792067c",
+  "labels": "current-affairs,2017-07-27",
+  "question": "Which company launched the \"Kaizala\" app to enhance the collaboration and communication experience for Indian enterprises?",
+  "option1": "Apple",
+  "option2": "Infosys",
+  "option3": "Google",
+  "option4": "Microsoft",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Technology giant Microsoft has officially launched 'Kaizala', a productivity app that has been designed to enhance the collaboration and communication experience for Indian enterprises. The 'Made for India' app is designed for large group communications and work management, and works even on 2G networks. Microsoft Kaizala has been optimised to work on 2G networks to enable connectivity in remote locations and offers features with offline support.",
+  "verified_at": ""
+}

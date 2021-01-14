@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:48.865Z",
+  "id": "0bf3840b-dca8-4617-9a13-37da0b462c45",
+  "labels": "current-affairs,2017-07-25",
+  "question": "Which country's scientist recently announced the discovery of potential drug to fight Zika virus infection?",
+  "option1": "Sweden",
+  "option2": "Spain",
+  "option3": "Switzerland",
+  "option4": "Singapore",
+  "option5": "",
+  "answer": "Spain",
+  "explanation": "Researchers from a south eastern Spanish university announced the discovery of a molecule that could be used as a potential drug to fight the effects of a Zika virus infection.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-12T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:05.117Z",
+  "id": "b6ac64ee-22a1-4e06-bb8e-a0ffd7fbadac",
+  "labels": "current-affairs,2017-09-12",
+  "question": "Which company has launched a digital assistance robot named ELEKTRA?",
+  "option1": "MedPlus",
+  "option2": "Tata Motors",
+  "option3": "Reliance",
+  "option4": "Bharti Airtel",
+  "option5": "",
+  "answer": "Reliance",
+  "explanation": "Reliance Energy has launched a digital assistance robot named ELEKTRA. This system provides automated responses to customers for their queries and requests. It is powered by Artificial Intelligence.This robot comes into action whenever a customer logs in to Reliance Energy's Facebook page or website. his digital assistance robot takes help of SCADA and GIS systems to provide real-time responses to the customers.",
+  "verified_at": ""
+}

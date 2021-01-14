@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:24:18.251Z",
+  "id": "179ffc11-1577-4d54-a278-591090f2f97c",
+  "labels": "current-affairs,2017-08-07",
+  "question": "Which researchers develop low-cost, sensitive CO sensor?",
+  "option1": "World Agroforestry Center",
+  "option2": "World Zoological Center",
+  "option3": "Indian Institute of Science (IISc)",
+  "option4": "International Centre for Research in Agroforestry",
+  "option5": "",
+  "answer": "Indian Institute of Science (IISc)",
+  "explanation": "Indian Institute of Science (IISc) researchers from Bengaluru have developed a highly sensitive, low-cost nanometre-scale carbon monoxide (CO) sensor. The nanometer-sized sensor was made using zinc-oxide (ZnO) nanostructure on a silicon wafer substrate.",
+  "verified_at": ""
+}

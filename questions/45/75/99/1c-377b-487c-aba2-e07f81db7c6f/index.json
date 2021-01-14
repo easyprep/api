@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-06T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:48.602Z",
+  "id": "4575991c-377b-487c-aba2-e07f81db7c6f",
+  "labels": "current-affairs,2017-09-06",
+  "question": "This bank listed in Domestic Systemically Important Banks.",
+  "option1": "Canara Bank",
+  "option2": "Karnataka Bank",
+  "option3": "Dena Bank",
+  "option4": "HDFC Bank",
+  "option5": "",
+  "answer": "HDFC Bank",
+  "explanation": "The Reserve Bank of India listed HDFC Bank as a domestic systemically important bank (DSIB) under the bucketing structure identified last year. The additional Common Equity Tier 1 (CET1) requirement for D-SIBs already been phased-in from April 1, 2016, and will become fully effective from April 1, 2019.",
+  "verified_at": ""
+}

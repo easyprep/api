@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-07-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:23:05.837Z",
+  "id": "c7bbd9d0-55e1-4333-965b-14bad4bc61df",
+  "labels": "current-affairs,2017-07-07",
+  "question": "What is the growth rate of India according to the BMI Research report?",
+  "option1": 0.081,
+  "option2": 0.055,
+  "option3": 0.072,
+  "option4": 0.069,
+  "option5": "",
+  "answer": 0.069,
+  "explanation": "According to BMI Research, a Fitch group company, India is expected to register a growth of 6.9% in this financial year. The report has observed that the Real GDP growth has slowed to 6.1 % year-on-year in the fourth quarter of 2016-17. BMI Research was founded in 1984 by Business Monitor International and later in 2014, it was acquired by Fitch Group",
+  "verified_at": ""
+}

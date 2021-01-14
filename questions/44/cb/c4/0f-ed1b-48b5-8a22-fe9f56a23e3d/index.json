@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-29T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:25:31.840Z",
+  "id": "44cbc40f-ed1b-48b5-8a22-fe9f56a23e3d",
+  "labels": "current-affairs,2017-08-29",
+  "question": "Which RBI committee has recently recommended that banks should link home loan rates to repo rate?",
+  "option1": "Viral Acharya",
+  "option2": "H R Khan",
+  "option3": "Tarun Ramadorai",
+  "option4": "Amitav Ghosh",
+  "option5": "",
+  "answer": "Tarun Ramadorai",
+  "explanation": "The Reserve Bank of India (RBI) appointed committee on Household Finance has recently recommended that banks should link their home loan rates to the RBI's repo rate, the rate at which it lends to banks. The committee, whose recommendations are not binding, suggests that this will allow for better and more transparent transmission of interest rates in the economy to individuals. As per recommendations, banks should quote loans to customers using the RBI repo rate rather than based on their own MCLR rates. This would make it easier for customers to compare rates at the time of purchase. The committee was chaired by Dr Tarun Ramadorai, who is Professor of Financial Economics, Imperial College Business School in London. The committee has also recommended that all banks use the same reset period of one month for loans. Under the current system, floating rate loans have a fixation period of roughly one year.",
+  "verified_at": ""
+}

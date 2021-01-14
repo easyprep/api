@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-08-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:24:20.549Z",
+  "id": "07cf26b9-d938-49a3-b684-619bd1baba1e",
+  "labels": "current-affairs,2017-08-08",
+  "question": "Mastercard and __________ have extended their partnership into Asia Pacific to enhance the consumer experience.",
+  "option1": "Google Wallet",
+  "option2": "PayPal",
+  "option3": "Braintree",
+  "option4": "WePay",
+  "option5": "",
+  "answer": "PayPal",
+  "explanation": "Mastercard and PayPal have extended their partnership into Asia Pacific to enhance the consumer experience and make Mastercard a clear payment option with PayPal. The deal will expand PayPal's presence at the point of sale and enable Masterpass for Braintree merchants in the region. Additionally,both companies will collaborate to create opportunities to leverage Mastercard's new payment flow technologies.",
+  "verified_at": ""
+}
