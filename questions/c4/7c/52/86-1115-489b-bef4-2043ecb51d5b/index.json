@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:56.516Z",
+  "id": "c47c5286-1115-489b-bef4-2043ecb51d5b",
+  "labels": "current-affairs,2018-04-02",
+  "question": "Which country successfully launched a Long March 3B rocket, carrying two Beidou-3MEO satellites: Beidou-30 and Beidou-31?",
+  "option1": "Japan",
+  "option2": "Canada",
+  "option3": "Sweden",
+  "option4": "China",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China successfully launched a Long March 3B rocket carrying two Beidou-3MEO satellites: Beidou-30 and Beidou-31 from the LC2 Launch Complex of the Xichang Satellite Launch Center, Sichuan province, China. The Long March 3B rocket flew with a Yuanzheng-1 (YZ-1) upper stage attached. This ignited its YF-50D engine after launch. It will burn out for nearly four hours, and the two BeIDou-3 satellites will be released into MEO. The MEO satellites are the Medium Earth Orbit entity of the third phase of the Chinese Beidou (Compass) satellite navigation system. The BeiDou-3 M5 and M6 satellites are based on dedicated satellite bus. Their weight is nearly one metric ton a piece. Both satellites have two deployable solar arrays.",
+  "verified_at": ""
+}

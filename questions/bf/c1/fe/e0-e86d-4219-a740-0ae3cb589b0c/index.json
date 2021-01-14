@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:41.852Z",
+  "id": "bfc1fee0-e86d-4219-a740-0ae3cb589b0c",
+  "labels": "current-affairs,2018-02-27",
+  "question": "Which network joins global 'Seamless Alliance' for in-flight connectivity?",
+  "option1": "Vodafone",
+  "option2": "BSNL",
+  "option3": "Bharti Airtel",
+  "option4": "Jio",
+  "option5": "",
+  "answer": "Bharti Airtel",
+  "explanation": "Bharti Airtel announced that it has joined 'Seamless Alliance', a new global collaboration to bring high-speed and uninterrupted in-flight data connectivity to mobile customers. Objective of this alliance is to work towards leveraging satellite technology to offer high-speed data connectivity to mobile users even when they are up in the air. Along with Bharti Airtel, OneWeb, Airbus, Delta and Sprint are the other founding members of this alliance. The founding members will jointly work to minimise cost and eliminate hurdles associated with acquisition, installation and operation of data access infrastructure by streamlining system integration and certification.",
+  "verified_at": ""
+}

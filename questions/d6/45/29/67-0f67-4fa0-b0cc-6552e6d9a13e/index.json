@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:13.912Z",
+  "id": "d6452967-0f67-4fa0-b0cc-6552e6d9a13e",
+  "labels": "current-affairs,2018-04-10",
+  "question": "NASA's Parker Probe is aimed at which of the following celestial bodies?",
+  "option1": "Sun",
+  "option2": "Moon",
+  "option3": "Venus",
+  "option4": "Jupiter",
+  "option5": "",
+  "answer": "Sun",
+  "explanation": "Answer: NASA's Parker Solar Probe - humanity's first mission to the Sun - is undergoing final preparations.The mission is scheduled for launch on July 31, 2018. Parker Solar will orbit directly through the solar atmosphere - the corona - closer to the surface than any human-made object has ever gone.",
+  "verified_at": ""
+}

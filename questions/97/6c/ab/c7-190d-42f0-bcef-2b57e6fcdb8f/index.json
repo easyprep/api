@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:58.761Z",
+  "id": "976cabc7-190d-42f0-bcef-2b57e6fcdb8f",
+  "labels": "current-affairs,2018-04-03",
+  "question": "Recently, This bank has changed the methodology used by debt market players for their valuation.",
+  "option1": "HDFC",
+  "option2": "ICICI",
+  "option3": "SBI",
+  "option4": "RBI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "To prevent the possibility of manipulation in the prices of securities, especially government securities, the RBI has changed the methodology used by debt market players for their valuation. Security/bond valuation will be based on the weighted average price of the last half-an-hour of trading. The methodology as to how the bonds are valued is crucial for mark-to-market purposes.",
+  "verified_at": ""
+}

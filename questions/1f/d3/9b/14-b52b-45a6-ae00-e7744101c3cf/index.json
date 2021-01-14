@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:32.827Z",
+  "id": "1fd39b14-b52b-45a6-ae00-e7744101c3cf",
+  "labels": "current-affairs,2018-04-19",
+  "question": "Which social network has started rolling out changes to how it handles private data this week to comply with forthcoming EU rules?",
+  "option1": "Twitter",
+  "option2": "Facebook",
+  "option3": "Whatsapp",
+  "option4": "Instagram",
+  "option5": "",
+  "answer": "Facebook",
+  "explanation": "Facebook would begin rolling out changes to how it handles private data this week to comply with forthcoming EU rules. Under the new policy, FB users will be asked to review & make choices about ads they receive, including whether they want Facebook to use data from third parties. FB has recently been rocked by disclosures about hijacking of personal data on tens of millions of its users.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:46.523Z",
+  "id": "b2e6b079-719e-4682-be7a-05b9c2ca3b62",
+  "labels": "current-affairs,2018-03-01",
+  "question": "The Reserve Bank of India (RBI) has raised currency derivative trade limit to __________ amount for residents and foreign portfolio investors?",
+  "option1": "$150 million",
+  "option2": "$200 million",
+  "option3": "$50 million",
+  "option4": "$100 million",
+  "option5": "",
+  "answer": "$100 million",
+  "explanation": "The Reserve Bank of India (RBI) has raised exposure limit under Exchange Traded Currency Derivatives (ETCD) trading for residents and foreign portfolio investors (FPIs) to $100 million across all currency pairs involving the Indian rupee. The RBI's decision to raise the limit will help entities engaged in forex transactions to maintain their currency risks in a better manner. The ETCD is a financial instrument that trades on a regulated exchange, and whose value is based on the value of another asset. These are derivatives that are traded in a regulated fashion. These derivatives can be used to hedge exposure or speculate on a wide range of financial assets like commodities, equities, currencies, and even interest rates. Earlier, the RBI had imposed a limit of $15 million for USD-INR and $5 million for other currency pairs of Indian rupee with Euro, Japanese Yen and British Pound.",
+  "verified_at": ""
+}

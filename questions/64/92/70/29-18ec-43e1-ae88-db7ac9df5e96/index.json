@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:45.676Z",
+  "id": "64927029-18ec-43e1-ae88-db7ac9df5e96",
+  "labels": "current-affairs,2018-03-28",
+  "question": "Which search engine acquires GIF Search Platform Tenor recently?",
+  "option1": "Bing",
+  "option2": "Yahoo",
+  "option3": "Google",
+  "option4": "Qwant",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Technology giant Google acquired US-based Tenor, a GIF platform for Android, iOS, and desktop. Tenor's GIF-searching functionality will be integrated into Google Images and Gboard, the company's virtual keyboard. However, Tenor will continue to operate as a separate brand and Google will invest in their technology.",
+  "verified_at": ""
+}

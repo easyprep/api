@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:54.450Z",
+  "id": "a94b406a-baad-4615-a770-c9f750fcb3b6",
+  "labels": "current-affairs,2018-04-01",
+  "question": "Which of the following plans to introduce mPoS across India?",
+  "option1": "Aditya Birla",
+  "option2": "Paytm",
+  "option3": "Aditya Birla Nuvo",
+  "option4": "Fino Payments Bank",
+  "option5": "",
+  "answer": "Fino Payments Bank",
+  "explanation": "Fino Payments Bank is planning to deploy multi-utility Android-based mPOS devices across 10000 banking points across India in a phased manner. In context of this news, abbreviation mPOS stands for mobile Point Of Sale. Android-based mPOS is a handheld device with in-built finger print scanner, card reader, camera, printer and tablet. It thus eliminates the need for multiple devices that are currently used to facilitate finger print authentication and digital transactions. Through mPOS devices, Fino representatives will be able to provide all banking services viz, account opening, deposit, withdrawal, money transfer, insurance sales and Aadhaar-enabled payment systems (AEPS) to customers at their doorstep.",
+  "verified_at": ""
+}

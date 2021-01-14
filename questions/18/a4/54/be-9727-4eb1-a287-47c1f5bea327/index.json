@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:09.687Z",
+  "id": "18a454be-9727-4eb1-a287-47c1f5bea327",
+  "labels": "current-affairs,2018-04-08",
+  "question": "ISRO launched sounding rocket for atmospheric studies, what is the name of the rocket?",
+  "option1": "CartoSat",
+  "option2": "Agni - IV",
+  "option3": "RH300",
+  "option4": "Brahmos - II",
+  "option5": "",
+  "answer": "RH300",
+  "explanation": "The RH-300 MKII sounding rocket developed by IRSO's Vikram Sarabhai Space Centre (VSSC) was successfully launched from Thumba Equatorial Rocket Launch. The rocket was launched by VSSC under Sounding Rocket Experiment (SOUREX) programme for atmospheric studies. It utilizes this rocket to study the Equator.",
+  "verified_at": ""
+}

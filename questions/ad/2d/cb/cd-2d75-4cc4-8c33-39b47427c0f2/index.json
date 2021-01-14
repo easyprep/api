@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-22T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:31.914Z",
+  "id": "ad2dcbcd-2d75-4cc4-8c33-39b47427c0f2",
+  "labels": "current-affairs,2018-03-22",
+  "question": "Which has been certified as the world's first Trusted Digital Repository?",
+  "option1": "PTAB",
+  "option2": "NCAA",
+  "option3": "ICPSR",
+  "option4": "CRL",
+  "option5": "",
+  "answer": "NCAA",
+  "explanation": "India's National Cultural Audiovisual Archives (NCAA) has been certified as the world's first Trusted Digital Repository as per ISO 16363:2012 standard, granted by Primary Trustworthy Digital Repository Authorisation Body Ltd. (PTAB), United Kingdom. NCAA is a project of the Union Ministry of Culture, implemented by Indira Gandhi National Centre for the Arts (IGNCA). Objective of NCAA is to identify and preserve India's cultural heritage available in audiovisual form through a process of digitization and making it accessible to the people. By end of March 2018, a corpus of 30000 hours of unpublished, non-commercial audio & video recordings will be made online at NCAA repository.",
+  "verified_at": ""
+}

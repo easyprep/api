@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:59.777Z",
+  "id": "d2c5a6cf-e392-4e37-8331-876379b9c37c",
+  "labels": "current-affairs,2018-03-07",
+  "question": "Which became the 1st state in US to pass its own net-neutrality rules?",
+  "option1": "Washington",
+  "option2": "New York",
+  "option3": "Oregon",
+  "option4": "California",
+  "option5": "",
+  "answer": "Washington",
+  "explanation": "Washington became the 1st state in US to pass its own net-neutrality law after US regulator, Federal Communications Commission's (FCC) repealed rules set during Obama administration that banned internet providers from blocking content or interfering with online traffic. Washington's bill for its own net-neutrality laws was signed by Goernor Jay Inslee. The bill forbids internet service providers from blocking or slowing the flow of web content, or from charging websites for higher delivery speeds. Provisions of this bill may technically be in contravention to FCC's order of repealing net neutrality rules which forbid states from filling the void with their own rules.",
+  "verified_at": ""
+}

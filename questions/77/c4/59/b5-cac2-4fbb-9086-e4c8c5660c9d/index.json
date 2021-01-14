@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:41.850Z",
+  "id": "77c459b5-cac2-4fbb-9086-e4c8c5660c9d",
+  "labels": "current-affairs,2018-02-27",
+  "question": "As per RISE Scheme, IIT get __________% of Government loans for higher education institutes.",
+  "option1": 0.18,
+  "option2": 0.25,
+  "option3": 0.3,
+  "option4": 0.1,
+  "option5": "",
+  "answer": 0.25,
+  "explanation": "The Indian Institutes of Technology (IITs) will get the largest chunk of loans on offer under Revitalising Infrastructure and Systems in Education (RISE). This shifts funding mechanism to CFIs in higher education from grant assistance to loans to assure more funds, greater accountability. RISE scheme was announced in Union Budget 2017-18. It aims to lend low-cost funds to government higher educational institutions.",
+  "verified_at": ""
+}

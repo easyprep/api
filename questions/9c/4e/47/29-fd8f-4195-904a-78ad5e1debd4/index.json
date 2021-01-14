@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:50.770Z",
+  "id": "9c4e4729-fd8f-4195-904a-78ad5e1debd4",
+  "labels": "current-affairs,2018-03-03",
+  "question": "The world's first 5G commercial chip is unveiled by ___________.",
+  "option1": "Toshiba",
+  "option2": "Qualcomm",
+  "option3": "Intel",
+  "option4": "Huawei",
+  "option5": "",
+  "answer": "Huawei",
+  "explanation": "Huawei launched Huawei Balong 5G01, claimed to be world's first 5G commercial chip. Huawei Balong 5G01 having peak rate of 2.3 GBPS (gigabit per second). Huawei is collaborating with 30 operators all over the world to deploy products based on Huawei Balong 5G01. Vodafone is also collaborating with Huawei for this. Huawei launched world's first 5G CPE (consumer premise equipment or router) which will deliver broadband speed up to 2 Gbps on 5G network. It will also support 4G network.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:23.629Z",
+  "id": "adf18db6-16f0-4a94-ab93-e9fb0a310db1",
+  "labels": "current-affairs,2018-03-18",
+  "question": "SEBI Raises Currency Derivative Trade Limit to __________ Million.",
+  "option1": 110,
+  "option2": 120,
+  "option3": 100,
+  "option4": 150,
+  "option5": "",
+  "answer": 100,
+  "explanation": "Capital markets regulator SEBI raised the exposure limit under exchange-traded currency derivatives trading for residents and FPIs to USD 100 million across all currency pairs involving the Indian rupee. The move will help entities engaged in forex transactions to maintain their currency risks in a better manner.",
+  "verified_at": ""
+}

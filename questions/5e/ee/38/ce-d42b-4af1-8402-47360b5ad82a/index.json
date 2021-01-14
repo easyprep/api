@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-17T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:28.624Z",
+  "id": "5eee38ce-d42b-4af1-8402-47360b5ad82a",
+  "labels": "current-affairs,2018-04-17",
+  "question": "The Ministry of Electronics and IT has tied up with ________ to work on a switch-based device in cars and buses to aid safety of women.",
+  "option1": "IIT Kanpur",
+  "option2": "IIT Bengaluru",
+  "option3": "IIT Bombay",
+  "option4": "IIT Delhi",
+  "option5": "",
+  "answer": "IIT Delhi",
+  "explanation": "The Ministry of Electronics and IT in partnership with IIT-Delhi is working on a switch-based device in cars and buses to aid safety of women. The proposed panic switch system when invoked will generate a loud alarm in the vehicle which will attract public attention. The system will include features such as authenticating the driver of the vehicles and a camera interface.",
+  "verified_at": ""
+}

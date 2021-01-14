@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-06T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:57.672Z",
+  "id": "0de6e328-40de-4a34-8b1a-7f198567e2f0",
+  "labels": "current-affairs,2018-03-06",
+  "question": "Which bank launches home loans linked to Treasury bills?",
+  "option1": "Citi Bank",
+  "option2": "Axis Bank",
+  "option3": "Kotak Mahindra Bank",
+  "option4": "Yes Bank",
+  "option5": "",
+  "answer": "Citi Bank",
+  "explanation": "Citibank introduced a new variable interest rate mortgage product that will be linked to the 90-day Treasury bills and will change every quarter.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:59.760Z",
+  "id": "ec174e36-3a80-46d5-a652-889a208ea876",
+  "labels": "current-affairs,2018-03-07",
+  "question": "What is the name of the new malware which take over electronic devices and make them as 'bots'?",
+  "option1": "Ransomware",
+  "option2": "ComboJack malware",
+  "option3": "Saposhi",
+  "option4": "Xafecopy Trojan",
+  "option5": "",
+  "answer": "Saposhi",
+  "explanation": "A new malware named Saposhi has been detected, which can take over electronic devices and make them as 'bots' that can be exploited for any purpose. Saposhi has been detected recently by cyber security agencies. It is being monitored and studied currently. So far, the Computer Emergency Response Team (CERT) has not released any alert about Saposhi. It has been said that, alerts and guidelines about protecting devices from Saposhi will be launched soon. Saposhi can take over electronic devices and can create a Distributed Denial Of Service attack.",
+  "verified_at": ""
+}

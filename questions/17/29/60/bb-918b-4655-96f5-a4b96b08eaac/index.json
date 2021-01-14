@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:19.444Z",
+  "id": "172960bb-918b-4655-96f5-a4b96b08eaac",
+  "labels": "current-affairs,2018-03-16",
+  "question": "Which city tops in fixed broadband speed in India as per the report of Ookla?",
+  "option1": "Delhi",
+  "option2": "Visakhapatnam",
+  "option3": "Bengaluru",
+  "option4": "Chennai",
+  "option5": "",
+  "answer": "Chennai",
+  "explanation": "According to a study titled 'India's digital divide: how broadband speed splits the nation' by Ookla, With fixed broadband average download speed at 32.67 Megabits per second (Mbps) Chennai has topped the list and has clocked 57.7% faster download speed than the average for the rest of the country. Ookla's study on India is based on February 2018 data from real consumer-initiated tests taken using Speedtest. Chennai is followed by Bengaluru with average download speed of 31.09 Mbps. India's capital Delhi ranked fifth with average download speed of 23.57 Mbps.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-31T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:52.377Z",
+  "id": "9540dd9b-9b19-4850-93d5-7dcd6d82fedb",
+  "labels": "current-affairs,2018-03-31",
+  "question": "ISRO's GSLV rocket injects GSAT-6A communication satellite into orbit with the mission life of how many years?",
+  "option1": 15,
+  "option2": 10,
+  "option3": 5,
+  "option4": 12,
+  "option5": "",
+  "answer": 10,
+  "explanation": "Indian Space Research Organisation (ISRO) successfully launched India's latest communication satellite GSAT-6A on board Geosynchronous rocket GSLV-F08 from Satish Dhawan Space Centre at Sriharikota in Andhra Pradesh. GSAT-6A weighs 2140 kg and has mission life of 10 years. The major change was High-thrust Vikas engine, which enhanced the performance capacity of the second stage by around six per cent as compared to previous version. The rocket weighed about 415.6 tonnes and measured 49.1 metre tall. It has a six-metre wide antenna that would unfurl once it is in space. It is a high power S-band communication satellite built on I-2K satellite bus. It will provide mobile communication to India through, multi-beam coverage facility.",
+  "verified_at": ""
+}

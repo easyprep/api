@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:45.674Z",
+  "id": "948daa92-8c87-40b0-bf6a-b579b389006c",
+  "labels": "current-affairs,2018-03-28",
+  "question": "Who of the following introduces Universal Real-Time Payment Tracking?",
+  "option1": "SWIFT",
+  "option2": "Hyundai",
+  "option3": "Maruti Suzuki",
+  "option4": "Ford",
+  "option5": "",
+  "answer": "SWIFT",
+  "explanation": "SWIFT (Society for World Interbank Financial Telecommunication System platform) has announced the extension of its gpi (Global Payment Innovation) Tracker to cover all payment instructions sent across the network. SWIFT system is used by banks across the world to transmit messages relating to cross border financial transactions. gpi Tracker, developed by SWIFT, gives end-to-end visibility on the status of a payment transaction from the moment it is sent until it is confirmed. gpi tracker was introduced in May 2017 and now accounts for 10 per cent of entire SWIFT cross border payment traffic. Extending the tracker to cover all payment instructions sent across the network will enhance the transparency and reliability of the process.",
+  "verified_at": ""
+}

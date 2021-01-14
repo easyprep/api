@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:44.374Z",
+  "id": "b120d360-fecf-4c2f-9468-b9d2498c2af7",
+  "labels": "current-affairs,2018-02-28",
+  "question": "What is the position of India in the Inclusive Internet Index by the Economist Intelligence Unit (EIU)?",
+  "option1": 35,
+  "option2": 21,
+  "option3": 47,
+  "option4": 58,
+  "option5": "",
+  "answer": 47,
+  "explanation": "India ranked 47th out of 86 countries on the Inclusive Internet Index by the Economist Intelligence Unit (EIU), which was commissioned by Facebook. Sweden took the first place, followed by Singapore and the US. The scores on the index, which covered 91% of the world's population, is based on the scores of Availability, Affordability, Relevance and Readiness categories.",
+  "verified_at": ""
+}

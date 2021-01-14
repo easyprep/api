@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:56.514Z",
+  "id": "9a95dffd-3aef-459f-94a5-e1efdba0855a",
+  "labels": "current-affairs,2018-04-02",
+  "question": "Which bank launched country's first artificial intelligence-powered voice-bot?",
+  "option1": "Canara Bank",
+  "option2": "Yes Bank",
+  "option3": "Kotak Mahindra Bank",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "Kotak Mahindra Bank",
+  "explanation": "Kotak Mahindra Bank has launched the country's first artificial intelligence-powered voice-bot 'Keya' in the banking sector. Keya uses automatic speech recognition, natural language understanding and text-to-speech technology. The voice-bot uses natural language understanding to navigate the customer directly to the destination where he can get his issue resolved.",
+  "verified_at": ""
+}

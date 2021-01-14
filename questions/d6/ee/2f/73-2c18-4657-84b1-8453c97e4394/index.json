@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:09.682Z",
+  "id": "d6ee2f73-2c18-4657-84b1-8453c97e4394",
+  "labels": "current-affairs,2018-04-08",
+  "question": "Which bank become the first Indian client of SWIFT to go live with an improved cross-border payments service?",
+  "option1": "SBI Bank",
+  "option2": "ICICI Baank",
+  "option3": "Axis Bank",
+  "option4": "Yes Bank",
+  "option5": "",
+  "answer": "ICICI Baank",
+  "explanation": "The global financial messaging cooperative, SWIFT (Society for World Interbank Financial Telecommunication System platform) announced that ICICI Bank has become its first Indian client to go live with an improved cross-border payments service. The improved cross-border payments service which is being referred to is the gpi (Global Payment Innovation) Tracker, which has been extended to cover all payment instructions sent across the SWIFT network. SWIFT's gpi tracker enables real-time payments tracking across correspondent banks and has a facility to track the payments instructions across the correspondent banks globally. At a later stage, SWIFT is also planning to add another feature that has an ability to stop and recall payment in case of a fraud or when a duplicate payment has been sent erroneously.",
+  "verified_at": ""
+}

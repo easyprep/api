@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-22T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:46.636Z",
+  "id": "1b9656ee-c359-4def-8ddb-8703ed1000a8",
+  "labels": "current-affairs,2018-02-22",
+  "question": "Which country ranked 7th position in the Most Targeted Nation for Web Application Attacks: Report by Akamai Technologies?",
+  "option1": "Japan",
+  "option2": "Uk",
+  "option3": "China",
+  "option4": "India",
+  "option5": "",
+  "answer": "India",
+  "explanation": "As per a report from content delivery network services Akamai Technologies, India has ranked 7th on the list of targeted countries for Web Application Attacks (WAA). It outlined that during 2017, nearly 40 per cent of over 53000 cyber attacks in India occurred in Banking, Financial services and Insurance (BFSI) sector. The attacks were in the form of phishing attempts, website intrusions, defacements, virus and ransomware. A sharp increase in the threat of credential abuse has also been found. Based on analysis of 7.3 trillion bot requests per month, it was found that more than 40 per cent of login attempts were malicious.",
+  "verified_at": ""
+}

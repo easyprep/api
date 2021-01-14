@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:23.637Z",
+  "id": "80623b39-9e2e-4ea4-96e0-5345044e067f",
+  "labels": "current-affairs,2018-03-18",
+  "question": "Which bank has launched a robotics-based 'Digital export Import' payments solution?",
+  "option1": "Kvb Bank",
+  "option2": "Yes Bank",
+  "option3": "Axis Bank",
+  "option4": "Lakshmi Vilas Bank",
+  "option5": "",
+  "answer": "Yes Bank",
+  "explanation": "Yes Bank has launched a robotics-based 'Digital export Import' payments solution as a part of its Yes Transact Smart Trade product suite. It aims to bring over 1 lakh trade transactions going entirely digital, across major geographies including China, US. The product uses robotics process automation & helps in eliminating the requirement of documents submission for import & export payments.",
+  "verified_at": ""
+}

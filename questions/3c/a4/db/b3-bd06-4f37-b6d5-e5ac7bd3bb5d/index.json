@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:38.655Z",
+  "id": "3ca4dbb3-bd06-4f37-b6d5-e5ac7bd3bb5d",
+  "labels": "current-affairs,2018-03-25",
+  "question": "The Name of the instrument which is developed by Department of Atomic Energy (DAE) that measures the traces of uranium in water is;",
+  "option1": "Uraniumeter",
+  "option2": "Atometer",
+  "option3": "Energymeter",
+  "option4": "Fluorimeter",
+  "option5": "",
+  "answer": "Fluorimeter",
+  "explanation": "Department of Atomic Energy (DAE) has developed \"Fluorimeter\", an instrument that measures traces of uranium in water. Fluorimeter has been developed by the Raja Ramanna Centre for Advanced Technology (RRCAT). RRCAT is a unit of DAE based in Indore. Cost of the fluorimeter is Rs 1 lakh. It will detect traces of uranium in water. It will be highly useful in regions like Punjab where uranium traces have been detected in water at dangerous levels. DAE has transferred its technology to another one of its unit, Electronics Corporation of India Ltd (ECIL), for mass production of Fluorimeter,. Fluorimeter can examine traces of uranium in a sample of water from 0.1 PPB (Parts-per-billion) unit to 100 PPB. The permissible radiological limit of uranium concentration for drinking water has been fixed at 60 PPB by the Atomic Energy Regulatory Board. High levels of uranium traces present in drinking water will increase radiological and chemical risks to human health.",
+  "verified_at": ""
+}

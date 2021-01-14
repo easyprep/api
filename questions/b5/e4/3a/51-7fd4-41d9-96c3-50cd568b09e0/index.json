@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-29T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:47.996Z",
+  "id": "b5e43a51-7fd4-41d9-96c3-50cd568b09e0",
+  "labels": "current-affairs,2018-03-29",
+  "question": "India ranks ___________ globally in data speed.",
+  "option1": "109th",
+  "option2": "100th",
+  "option3": "112th",
+  "option4": "120th",
+  "option5": "",
+  "answer": "109th",
+  "explanation": "India, the largest consumer of mobile data in the world, ranks 109th when it comes to mobile Internet download speeds according to Ookla's Speedtest index. Norway is positioned at the top with an average download speed of 62.07 Mbps. Singapore leads in the fixed broadband front, with a download speed of 161.53 Mbps.",
+  "verified_at": ""
+}

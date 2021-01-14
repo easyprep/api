@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:03.346Z",
+  "id": "78a790f6-d97e-4646-9c06-c2f763ae0208",
+  "labels": "current-affairs,2018-04-05",
+  "question": "How many Falcon rockets were launched by SpaceX recently?",
+  "option1": 6,
+  "option2": 12,
+  "option3": 10,
+  "option4": 9,
+  "option5": "",
+  "answer": 9,
+  "explanation": "SpaceX Falcon 9 rocket successfully launched its Dragon spacecraft - SpaceX's 14th commercial resupply services mission to the International Space Station (ISS). The spacecraft carries 2,630 kg of research, crew supplies and hardware. It took off from Space Launch Complex 40 at Cape Canaveral Air Force Station in Florida on 2nd April 2018. Ten minutes after the take-off, the second stage engine burned out completely and Dragon separated from its Falcon 9 second-stage rocket. Later, the solar arrays were deployed. It is expected to reach the International Space Station on 4th April 2018. It will return to Earth in May 2018 with results of a few completed experiments. Flight Engineers Norishege Kanai of the Japan Aerospace Exploration Agency and NASA astronaut Scoot Tingle will overlook the operation of the Canadarm2 robotic arm for Dragon's capture. This mission will focus on scientific investigations such as a study on severe thunderstorms on Earth, effects of microgravity on production of high-performance products from metal powders, and food growth in space.",
+  "verified_at": ""
+}

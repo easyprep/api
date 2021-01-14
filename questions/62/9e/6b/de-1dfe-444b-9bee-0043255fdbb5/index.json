@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:25.638Z",
+  "id": "629e6bde-1dfe-444b-9bee-0043255fdbb5",
+  "labels": "current-affairs,2018-03-19",
+  "question": "Whih country has become the first country in the world to deploy blockchain technology in election process?",
+  "option1": "Seychelles",
+  "option2": "Liberia",
+  "option3": "Mauritania",
+  "option4": "Sierra Leone",
+  "option5": "",
+  "answer": "Sierra Leone",
+  "explanation": "Sierra Leone, a West African country has become the first country in the world to deploy blockchain technology in election process. Sierra Leone attained this distinction by deploying blockchain-based solution to count the votes and provide proof in the recently held Presidential elections. The blockchain based solution used in Sierra Leone's election was developed by a Switzerland based voting technology company, Agora. Total 16 candidates contested this election, and Agora used a proprietary blockchain distributed ledger to keep track of the votes. Based on this news, it can be inferred that blockchain-based solution that uses a publicly visible ledger for keeping track of elections has potential to complement and eventually replace electronic voting machines.",
+  "verified_at": ""
+}

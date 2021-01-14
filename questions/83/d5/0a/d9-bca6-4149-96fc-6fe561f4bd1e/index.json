@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:32.825Z",
+  "id": "83d50ad9-bca6-4149-96fc-6fe561f4bd1e",
+  "labels": "current-affairs,2018-04-19",
+  "question": "Which Bank announced that it has on-boarded over 250 corporates on its blockchain platform for domestic and international trade finance?",
+  "option1": "Axis Bank",
+  "option2": "HDFC Bank",
+  "option3": "ICICI Bank",
+  "option4": "SBI",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "India's largest private sector bank, ICICI Bank announced that it has on-boarded over 250 corporates on its blockchain platform for domestic and international trade finance. In August 2016, ICICI Bank became the first bank in India to successfully undertake pilot transactions on its blockchain platform for international trade finance. Since then, more than 250 Indian corporate, including the leading ones are now undertaking domestic/international trade finance transactions on this platform. ICICI Bank's blockchain platform digitises the paper-intensive international trade finance process as an electronic, distributed and unalterable ledger, which is accessible to all the participating entities including banks. This is not just more time and cost efficient but also a secure way of undertaking domestic and international trade transactions.",
+  "verified_at": ""
+}

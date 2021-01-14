@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:19.440Z",
+  "id": "c6ae3e4a-87a7-4696-bd30-a2087bbe3fc8",
+  "labels": "current-affairs,2018-03-16",
+  "question": "India ranks __________ in the World Happiness Report 2018.",
+  "option1": 78,
+  "option2": 100,
+  "option3": 141,
+  "option4": 133,
+  "option5": "",
+  "answer": 133,
+  "explanation": "India has ranked 133rd out of 156 countries in the World Happiness Report 2018. World Happiness report is an annual report published by the U.N. Sustainable Development Solutions Network. The World Happiness Report 2018 ranks 156 countries by their happiness levels and 117 countries by the happiness of their immigrants.",
+  "verified_at": ""
+}

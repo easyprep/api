@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:03.355Z",
+  "id": "71dcc6a4-983e-4515-b35a-24c09cedbc8a",
+  "labels": "current-affairs,2018-04-05",
+  "question": "Who has launched digital payments services on its enterprise social network app \"Kaizala\" in India?",
+  "option1": "Paytm",
+  "option2": "Google",
+  "option3": "Microsoft",
+  "option4": "Mobiwik",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Microsoft enabled digital payments services on its enterprise social network app \"Kaizala\" in India. Microsoft has integrated payment services of YES BANK and MobiKwik. Payment integration with Microsoft Kaizala will enable users to quickly send or receive money without having to leave the Kaizala application.",
+  "verified_at": ""
+}

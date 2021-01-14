@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:07.564Z",
+  "id": "6137eb65-4ceb-4b6c-b463-15e58fe10661",
+  "labels": "current-affairs,2018-04-07",
+  "question": "UIDAI has unveiled the beta version of ____ , which will soon be accepted by service providers in lieu of Aadhaar number?",
+  "option1": "Primary ID",
+  "option2": "Virtual ID",
+  "option3": "Bio ID",
+  "option4": "Universal ID",
+  "option5": "",
+  "answer": "Virtual ID",
+  "explanation": "The UIDAI has unveiled the beta version of 'Virtual ID', which will soon be accepted by service providers in lieu of Aadhaar number. In January 2018, UIDAI had announced that it will come up with a 'Virtual ID' for Aadhaar Card-holders in order to address privacy concerns related to quoting Aadhaar. Virtual ID (VID), which an Aadhaar-card holder can generate from UIDAI's website is a random 16-digit number mapped to a person's Aadhaar number and biometrics. VID of the user would give any authorised agency like a mobile company, limited details such as name, address and photograph, which are enough for any verification. Thus VID will do away with the need of disclosing 12-digit Aadhaar number for authentication or verification purposes. UIDAI had stated that all authorised agency/service providers will have to compulsory accept VID for undertaking authentication from June 1, 2018.",
+  "verified_at": ""
+}

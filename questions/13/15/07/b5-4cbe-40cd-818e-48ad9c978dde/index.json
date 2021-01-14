@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:11.931Z",
+  "id": "131507b5-4cbe-40cd-818e-48ad9c978dde",
+  "labels": "current-affairs,2018-04-09",
+  "question": "Which bank has announced a collaboration with Samsung Electronics to enable its MasterCard and Visa credit card customers to use 'Samsung Pay'?",
+  "option1": "Axis Bank",
+  "option2": "Canara Bank",
+  "option3": "Indusland Bank",
+  "option4": "KVB Bank",
+  "option5": "",
+  "answer": "Indusland Bank",
+  "explanation": "IndusInd Bank announced a collaboration with Samsung Electronics to enable its MasterCard and Visa credit card customers to use 'Samsung Pay'. The Samsung Pay allows customers to simply tap and 'pay on the go' using their registered IndusInd Bank credit cards. The platform works with patented Magnetic Secure Transmission (MST) technology as well as Near Field Communication (NFC).",
+  "verified_at": ""
+}

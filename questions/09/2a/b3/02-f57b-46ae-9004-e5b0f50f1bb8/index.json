@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:12.607Z",
+  "id": "092ab302-f57b-46ae-9004-e5b0f50f1bb8",
+  "labels": "current-affairs,2018-03-13",
+  "question": "This bank launches online service to send money globally recently.",
+  "option1": "IDBI Bank",
+  "option2": "Yes Bank",
+  "option3": "RBL Bank",
+  "option4": "DCB Bank",
+  "option5": "",
+  "answer": "DCB Bank",
+  "explanation": "DCB Bank has launched \"DCB Remit\", a remittance service to enable customers to send money online globally. Using DCB Remit, any resident Indian can register online and send money to 20 countries such as the US, Canada, Australia, the UK, the UAE and Germany. Once the exchange rate of money is fixed, customer can transfer money from any account to DCB Bank account. This in turn can be transferred to the beneficiary account present in another country on or within the next business day. DCB Remit has been introduced in collaboration with Avenues Payments. Avenues Payments specialises in providing cross border payments.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:38.755Z",
+  "id": "709e8f48-84ed-4bb2-a1bd-57b01a9c2332",
+  "labels": "current-affairs,2018-02-26",
+  "question": "Which color represents the Bal Aadhaar of UIADI?",
+  "option1": "Green",
+  "option2": "Pink",
+  "option3": "Blue",
+  "option4": "Yellow",
+  "option5": "",
+  "answer": "Blue",
+  "explanation": "Unique Identification Authority of India (UIDAI), the nodal authority for issuing Aadhaar cards has rollout 'Bal Aadhaar', meant for kids under 5 years of age. Bal Aadhaar literally means Kid's Aadhaar. It will have blue colour to differentiate it with regular Aadhaar. It will be linked with one of parent's Aadhaar card. No biometric details will be captured. Biometrics are not developed for children before 5 years of age. Hence, during Aadhar enrolment child's Aadhaar data does not include biometric info like fingerprints and Iris scan. Bal Aadhaar will have no biometric identification, like Iris scan or fingerprint scans, as their parents will be accompany their ward when such identification is required. However, once the kid crosses 5 years of age, then regular Aadhaar will be issued, which will have the biometric details. Bal Aadhaar will not abe necessity per se, but it may be required when kid grows up, and applies for Government scholarships or grants for higher education. Aadhaar rules mandate compulsory conversion of all Bal Aadhaar cards into proper Aadhaar card with biometric details once the kid turns 5 years.",
+  "verified_at": ""
+}

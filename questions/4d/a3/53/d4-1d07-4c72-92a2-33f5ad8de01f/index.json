@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:39.636Z",
+  "id": "4da353d4-1d07-4c72-92a2-33f5ad8de01f",
+  "labels": "current-affairs,2018-02-19",
+  "question": "How many new exoplanet are discovered by the Scientist using K2 mission data?",
+  "option1": 78,
+  "option2": 110,
+  "option3": 100,
+  "option4": 92,
+  "option5": "",
+  "answer": 100,
+  "explanation": "Scientists have confirmed discovery of nearly 100 new exoplanets outside our solar system based on data from second mission of NASA's Kepler Space Telescope (K2 mission) released in 2014. With this total number of exoplanets found using NASA's K2 mission has reached almost 300. The discovery had started out by analysing 275 candidates of which 149 were validated as real exoplanets. In turn, 95 of these planets have proved to be new discoveries. One of planets detected was orbiting a very bright star called HD 212657 with 10-day orbit period. HD 212657, is now the brightest star found by either the Kepler or K2 missions to host validated planet.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-12T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:18.188Z",
+  "id": "954d29ff-7e29-4ce0-9404-ffc4b76be1c2",
+  "labels": "current-affairs,2018-04-12",
+  "question": "Balbix and this company launch AI-powered predictive cyber risk platform.",
+  "option1": "Tech Mahindra",
+  "option2": "Infosys",
+  "option3": "IBM",
+  "option4": "Microsoft",
+  "option5": "",
+  "answer": "Tech Mahindra",
+  "explanation": "ech Mahindra has partnered with Balbix, a breach avoidance platform provider, to launch the security industry's first AI (Artificial intelligence)-powered continuous threat assessment and prioritised actionable risk intelligence platform. It intelligent security operations center (iSOC). Using this, cyber-breaches can be predicted and proactively avoided by continuously monitoring IT inventories. An iSOC can prioritise actionable intelligence for proactive handling of identified critical risks. It also prevents security incidents and decreases compliance verification cycles from months to minutes. The Tech Mahindra and Balbix platform uses deep learning and specialised AI algorithms to predict how attacks can occur and propagate. It offers actionable insights to reduce breach.",
+  "verified_at": ""
+}

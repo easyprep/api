@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-22T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:31.916Z",
+  "id": "1f18322e-5d1f-4a4f-8df0-139b8d42ace4",
+  "labels": "current-affairs,2018-03-22",
+  "question": "Which bank introduced Erica, a chatbot to help customers check balances, remind about bills and answer bank-related questions?",
+  "option1": "PayPal",
+  "option2": "Citibank",
+  "option3": "Capital One",
+  "option4": "Bank of America",
+  "option5": "",
+  "answer": "Bank of America",
+  "explanation": "Bank of America has started rolling out Erica, its chatbot that can help customers check balances, remind about bills and answer bank-related questions. Erica has been rolled out to customers in Rhode Island. Bank of America had first introduced Erica at fintech and payments conference Money 2020 in October 2016. Testing of Erica was conducted during 2017. Customers of Bank of America will be able to interact with Erica via voice or text and it will help them with routine day to day banking transactions.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:50.364Z",
+  "id": "79edd66c-a6a0-4f56-97fc-08566dff8b7e",
+  "labels": "current-affairs,2018-03-30",
+  "question": "ISRO has successfully launched GSAT-6A satellite from this rocket vehicle.",
+  "option1": "GSLV-F07",
+  "option2": "GSLV-F09",
+  "option3": "GSLV-F05",
+  "option4": "GSLV-F08",
+  "option5": "",
+  "answer": "GSLV-F08",
+  "explanation": "ISRO has successfully launched GSAT-6A telecommunication satellite using the Geosynchronous Satellite Launch Vehicle (GSLV-F08) from the Satish Dhawan Space Centre (SDSC) in Sriharikota, about 110km from Chennai on March 29, 2018. The 49.1-metre tall GSLV F 08 is a three-stage rocket weighing 415.6 ton. The core of first stage is fired with solid fuel while the four strap-on motors by liquid fuel. The second is the liquid fuel and the third is the cryogenic engine. The purpose of the satellite is to provide mobile communication applications in S-band in five spot beams and C-band in one beam during its 10-year life span. This is also the first GSLV rocket launch after Director Sivan took over as Chairman of ISRO.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:33.889Z",
+  "id": "756da48b-7877-438e-8968-6c97176b0c07",
+  "labels": "current-affairs,2018-03-23",
+  "question": "With which bank Swiggy patners and Launches UPI-Based Digital Payment Service?",
+  "option1": "HDFC Bank",
+  "option2": "ICICI Bank",
+  "option3": "SBI Bank",
+  "option4": "Axis Bank",
+  "option5": "",
+  "answer": "ICICI Bank",
+  "explanation": "Online food ordering and delivery platform, Swiggy and India's largest private bank, ICICI Bank have partnered to roll out two innovative digital solutions to facilitate a convenient and hassle-free way for delivery partners to transfer funds to Swiggy. The first one is a Unified Payment Interface (UPI) based solution which enables instant fund transfers on-the-go while the other is a facility for depositing cash at automated Cash Deposit Machines (CDM) available at ICICI Bank branches and ATMs across India. Swiggy has integrated the UPI solution with ICICI Bank, which offers a secure and scalable mode to enable collection of funds from its delivery partners. Under this arrangement, Swiggy's delivery partners will have their own UPI handle, to which they can link their savings bank account and start transacting by using any UPI-enabled app like ICICI Bank 'Pockets', 'Google Tez', 'BHIM',etc.",
+  "verified_at": ""
+}

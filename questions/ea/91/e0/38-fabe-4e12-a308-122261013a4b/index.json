@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:33:34.697Z",
+  "id": "ea91e038-fabe-4e12-a308-122261013a4b",
+  "labels": "current-affairs,2018-02-25",
+  "question": "This networ conducted India's 1st 5G network trial recently.",
+  "option1": "Airtel",
+  "option2": "BSNL",
+  "option3": "Vodafone",
+  "option4": "Jio",
+  "option5": "",
+  "answer": "Airtel",
+  "explanation": "Airtel & Huawei have conducted India's 1st 5G network trial which took place at Airtel's Network Experience Centre. User throughput speed of 3Gbps was achieved during the trial, which companies claim is the highest for 3.5GHz band. 5G services based on 3rd generation partnership project, are expected to offer enhanced mobile broadband. India plans to roll out 5G services for consumers by 2020.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:58.752Z",
+  "id": "ebe179b3-7a3e-4c74-831a-c29364d0f78f",
+  "labels": "current-affairs,2018-04-03",
+  "question": "ISRO recently lost its contact with the __________ , India's most powerful communication satellite, in less than 48 hours after it was launched.",
+  "option1": "GSAT-6A",
+  "option2": "GSAT-19",
+  "option3": "GSAT-5P",
+  "option4": "INSAT-4CR",
+  "option5": "",
+  "answer": "GSAT-6A",
+  "explanation": "ISRO has lost contact with the GSAT-6A, India's most powerful communication satellite, in less than 48 hours after it was launched. The GSAT-6A, the 2nd in the series of GSAT-6 satellites to provide high-speed broadband on mobile phones was designed for a life of 10 years. This is the second mission failure for Isro in six months, with the previous one being the PSLV-C39.",
+  "verified_at": ""
+}

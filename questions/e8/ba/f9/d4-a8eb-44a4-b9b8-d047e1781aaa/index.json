@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:37.163Z",
+  "id": "e8baf9d4-a8eb-44a4-b9b8-d047e1781aaa",
+  "labels": "current-affairs,2018-04-21",
+  "question": "Which mobile network tops in 4G download speed as per a report of OpenSignal?",
+  "option1": "Vodafone",
+  "option2": "BSNL",
+  "option3": "Relaince Jio",
+  "option4": "Bharathi Airtel",
+  "option5": "",
+  "answer": "Bharathi Airtel",
+  "explanation": "As per a report of OpenSignal (a London-based company that specialises in wireless coverage mapping), Bharti Airtel has the highest 4G download speed among all Indian telecom operators. Airtel is followed by Idea Cellular (7.27 mbps), Vodafone (6.98 mbps) and Jio (5.13mbps). Based on the tests conducted by OpenSignal between December 2017 to February 2018, Bharti Airtel has topped the chart of 4G service providers with 9.31 mbps download speed. However, Jio topped the list in terms of 4G network coverage. OpenSignals's 4G network coverage refers to how often users can access a 4G network during the test period. For test period from December 2017 to February 2018, testers were able to access Jio 4G network signal 96.4 per cent of the time.",
+  "verified_at": ""
+}

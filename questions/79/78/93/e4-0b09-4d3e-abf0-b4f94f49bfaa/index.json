@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:20.330Z",
+  "id": "797893e4-0b09-4d3e-abf0-b4f94f49bfaa",
+  "labels": "current-affairs,2018-04-13",
+  "question": "Who Launched Navigation Satellite IRNSS-1L recently?",
+  "option1": "ISRO",
+  "option2": "NASA",
+  "option3": "Japan Aerospace Exploration Agency",
+  "option4": "Space Studies Institute",
+  "option5": "",
+  "answer": "ISRO",
+  "explanation": "The Indian Space Research Organisation(ISRO) launched the Indian Regional Navigation Satellite System-1L, the eighth such satellite to be a part of a constellation. It was launched from the first launch pad at the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. IRNSS-1L is expected to replace IRNSS-1A, the first of the seven navigation satellites that were rendered ineffective after its three rubidium atomic clocks failed. The seven satellites are part of the NavIC navigation satellite constellation.",
+  "verified_at": ""
+}

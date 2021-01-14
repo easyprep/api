@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:38.656Z",
+  "id": "f6355574-b4ed-4703-8000-d86cd21529be",
+  "labels": "current-affairs,2018-03-25",
+  "question": "ISRO and __________ has tied up for the production of space-grade lithium-ion cells.",
+  "option1": "NTPC",
+  "option2": "SAIL",
+  "option3": "BHEL",
+  "option4": "GAIL",
+  "option5": "",
+  "answer": "BHEL",
+  "explanation": "ISRO has signed a Technology Transfer Agreement (TTA) with Bharat Heavy Electricals Ltd (BHEL) to transfer the technology for the manufacture of space-grade Li-Ion cells. The TTA was signed at ISRO headquarters in Bengaluru on 23rd March 2018 in the presence of Dr K. Sivan, Chairman of ISRO, and Atul Sobti, Chairman & Managing Director of BHEL. ISRO uses Li-Ion batteries as the power source for satellite and launch vehicle applications due to their high energy density, reliability and long cycle life. This Li-ion cell Technology Transfer will enable BHEL to produce space grade Li-Ion cells which can meet the country's space programme requirements. This technology can also be adopted to cater to the Li-Ion cell requirement for other national needs.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:30.850Z",
+  "id": "53fe2df3-411c-4692-af5f-2d72c051e9bb",
+  "labels": "current-affairs,2018-04-18",
+  "question": "This company plans to provide 'confidential mode' soon on its mailing service.",
+  "option1": "Google",
+  "option2": "MSN",
+  "option3": "Yahoo",
+  "option4": "LinkedIn",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Tech giant Google is set to launch a new security layer for its mailing service Gmail that will help users to purge a mail or text after a period of time. The 'confidential mode' will enable users to set a passcode to open emails, which will be generated through text message. In addition, one can set an expiration date for sent emails. The new Gmail mode will available after its revamp. Google will offer Gmail users the ability to try the redesign through an early access program soon.",
+  "verified_at": ""
+}

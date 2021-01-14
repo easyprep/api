@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-03-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:34:12.609Z",
+  "id": "48dc3284-ec04-4aa0-97b9-1cd8a4755eea",
+  "labels": "current-affairs,2018-03-13",
+  "question": "India placed __________ worldwide in web-borne threats: Kaspersky Labs.",
+  "option1": "25th",
+  "option2": "33rd",
+  "option3": "18th",
+  "option4": "20th",
+  "option5": "",
+  "answer": "33rd",
+  "explanation": "As per cybersecurity and anti-virus provider, Kaspersky Labs, India ranks 33rd worldwide on the list of countries facing web-borne threats. This revelation was done by Kaspersky Lab at the recent Chief Information Security Officer (CISO) Summit in Mumbai, through a presentation on the threat management and defense landscape in India. CISO added that India secured 37th place worldwide in attacks by local threats and 13th in incidents with malicious hosts located within the country. As per the data, 27.4 percent Indian users were affected by web-borne threats, while 62.7 percent users were attacked by local threats.",
+  "verified_at": ""
+}
