@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:48.774Z",
+  "id": "528b20c5-b988-471a-8c6e-860441509af3",
+  "labels": "current-affairs,2017-09-30",
+  "question": "Which network signed pact with VNL recently?",
+  "option1": "Jio",
+  "option2": "Airtel",
+  "option3": "BSNL",
+  "option4": "Idea",
+  "option5": "",
+  "answer": "BSNL",
+  "explanation": "Telecom equipment and solutions provider VNL signed a MoU with BSNL to provide solutions for disaster management. The 'Relief 123' service will restore connectivity at disaster sites, help locate the affected and integrate information across platforms to enable informed decision-making for quick relief. It is service which is an integrated disaster response solution for first responders and public safety agencies.",
+  "verified_at": ""
+}

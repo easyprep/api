@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-11-15T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:28:31.345Z",
+  "id": "e0b8530d-d040-41fb-ad12-512aa8e36b70",
+  "labels": "current-affairs,2017-11-15",
+  "question": "Which city is hosting the 15th Asia Pacific Computer Emergency Response Team (APCERT) Conference?",
+  "option1": "Kolkata",
+  "option2": "Jaipur",
+  "option3": "New Delhi",
+  "option4": "Pune",
+  "option5": "",
+  "answer": "New Delhi",
+  "explanation": "The 15th edition of Asia Pacific Computer Emergency Response Team (APCERT) Conference has started in New Delhi with theme \"Building Trust in the Digital Economy\" from November 12-15, 2017.",
+  "verified_at": ""
+}

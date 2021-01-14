@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-17T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:25.991Z",
+  "id": "0c94c938-f5e7-439e-ac56-54a6d51ee9b1",
+  "labels": "current-affairs,2017-10-17",
+  "question": "BNP Paribas Securities Services has teamed up to deliver an innovative blockchain based platform.",
+  "option1": "Accenture",
+  "option2": "Infosys",
+  "option3": "IBM",
+  "option4": "TCS",
+  "option5": "",
+  "answer": "TCS",
+  "explanation": "BNP Paribas Securities Services has teamed up with Tata Consultancy Services (TCS) to deliver an innovative blockchain based platform, Corporate Event Connect. This will provide fast, accurate and secure corporate event announcements to clients around the world. By using TCS' Quartz blockchain technology, BNP Paribas will not only be able to capture and store corporate action information in a structured format but will be able to disseminate the same to its clients in a speedy way without compromising on the accuracy.",
+  "verified_at": ""
+}

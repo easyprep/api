@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:42.150Z",
+  "id": "500da590-90a6-4ce5-919b-90f96acc537c",
+  "labels": "current-affairs,2017-09-27",
+  "question": "SBI cuts minimum average balance from Rs 5,000 to ___________.",
+  "option1": 2000,
+  "option2": 4000,
+  "option3": 2500,
+  "option4": 3000,
+  "option5": "",
+  "answer": 3000,
+  "explanation": "SBI has lowered the average minimum balance requirement under its savings account for metro customers to Rs 3,000 from Rs 5,000 earlier following protests. Minimum balance for urban, semi-urban and rural centres continues to be at Rs 3,000, Rs 2,000 and Rs 1,000, respectively. For non-maintenance of Minimum Average Balance (MAB), the charges have been revised downward, ranging from 20% to 50% across all population groups and categories. The new charges at semi-urban and rural centres range from Rs 20 to Rs 40, and at urban and metro centres from Rs 30 to Rs 50.",
+  "verified_at": ""
+}

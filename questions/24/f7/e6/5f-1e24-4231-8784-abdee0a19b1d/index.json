@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:30.611Z",
+  "id": "24f7e65f-1e24-4231-8784-abdee0a19b1d",
+  "labels": "current-affairs,2017-10-19",
+  "question": "Kotak Bank ties up with __________ to make a digital payment.",
+  "option1": "Redmi Xiaomi",
+  "option2": "Lenovo",
+  "option3": "Samsung",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Samsung",
+  "explanation": "Kotak Mahindra Bank has tied up with Samsung, under which its credit and debit cardholders will be able to tap and pay using Samsung smart phones at merchant establishments. Currently, Samsung Pay works on 2.9 million points-of-sale card machines across India. It uses the Magnetic Secure Transmission (MST) technology which enables consumers to make in-store payments without the need for a physical card.",
+  "verified_at": ""
+}

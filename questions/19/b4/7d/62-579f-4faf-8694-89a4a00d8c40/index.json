@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:17.560Z",
+  "id": "19b47d62-579f-4faf-8694-89a4a00d8c40",
+  "labels": "current-affairs,2017-10-13",
+  "question": "According to the Safe Cities Index 2017, which city is the Safest in World?",
+  "option1": "Tokyo",
+  "option2": "Mumbai",
+  "option3": "Singapore",
+  "option4": "New York",
+  "option5": "",
+  "answer": "Tokyo",
+  "explanation": "Japanese capital city Tokyo has topped The Economist Intelligence Unit's Safe Cities Index 2017 which ranked 60 cities on parameters including personal and health security. Singapore and Japanese city Osaka have ranked second and third, while Indian cities Delhi and Mumbai have ranked 43rd and 45th respectively.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:48.781Z",
+  "id": "f163e2d2-9169-481e-b693-db44f8dcc9e9",
+  "labels": "current-affairs,2017-09-30",
+  "question": "Which mobile network signed a MoU with Chinese firm, ZTE for 5G Technology in New Delhi?",
+  "option1": "BSNL",
+  "option2": "Jio",
+  "option3": "Airtel",
+  "option4": "Vodafone",
+  "option5": "",
+  "answer": "BSNL",
+  "explanation": "Bharat Sanchar Nigam Limited (BSNL) signed a Memorandum of Understanding (MoU) with Chinese firm, ZTE, at India Mobile Congress (IMC), in New Delhi. BSNL and ZTE would work together on technologies like Pre5G and 5G wireless systems, in order to make a virtual network architecture of a 5G eco system, for research and commercialization in India. Department of Telecom (DoT) expects that 5G will help the digital transformation of E-governance, education, finance, smart city and many other sectors.",
+  "verified_at": ""
+}

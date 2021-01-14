@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-11-14T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:28:28.840Z",
+  "id": "b6ef49ef-afa3-468e-8d0b-33ab2e050114",
+  "labels": "current-affairs,2017-11-14",
+  "question": "Scientists created a new organic material that generates electricity when stressed and it works on what effect?",
+  "option1": "Photo-electric effect",
+  "option2": "Fission reaction",
+  "option3": "Fusion reaction",
+  "option4": "Piezo-electric effect",
+  "option5": "",
+  "answer": "Piezo-electric effect",
+  "explanation": "A flexible new material has been developed by researchers from Empa, the Swiss Federal Laboratories for Materials Science and Technology, which generates electricity when stressed. The researchers have created a thin, flexible, rubbery material that generates electricity when stretched and compressed. This works using Piezo-electric effect.",
+  "verified_at": ""
+}

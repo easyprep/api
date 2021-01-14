@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:17.549Z",
+  "id": "e09e624c-fc6a-4da2-9efd-d88cfb89d65e",
+  "labels": "current-affairs,2017-10-13",
+  "question": "Which company introduce the Food delivery service through the app?",
+  "option1": "Fasttrack",
+  "option2": "Uber",
+  "option3": "Ola",
+  "option4": "Flyblast",
+  "option5": "",
+  "answer": "Uber",
+  "explanation": "Uber, the ride sharing app, is bringing its restaurant delivery service. The UberEats app, which is a separate download from the Uber ride sharing app, allows diners to order food and have it delivered wherever they may be by Uber drivers. UberEats currently operates in 120 cities around the world, compared to 734 for its ride sharing app.",
+  "verified_at": ""
+}

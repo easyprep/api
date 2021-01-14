@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-11-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:28:25.393Z",
+  "id": "63826273-5f52-4a8e-a803-d1a66feb0b85",
+  "labels": "current-affairs,2017-11-13",
+  "question": "Which Indian city is the most polluted one, according to Central Pollution Control Board (CPCB) data?",
+  "option1": "Amritsar",
+  "option2": "Delhi",
+  "option3": "Varanasi",
+  "option4": "Lucknow",
+  "option5": "",
+  "answer": "Varanasi",
+  "explanation": "According to Central Pollution Control Board (CPCB) data, Varanasi's Air Quality Index (AQI) at 4pm on 10th November 2017 was at 491 at Ardhali Bazar monitoring station, making it the most polluted city of India.",
+  "verified_at": ""
+}

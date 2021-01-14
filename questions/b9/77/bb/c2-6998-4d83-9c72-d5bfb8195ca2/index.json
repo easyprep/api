@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:11.101Z",
+  "id": "b977bbc2-6998-4d83-9c72-d5bfb8195ca2",
+  "labels": "current-affairs,2017-10-10",
+  "question": "Who has won the 2017 China Open Tennis tournament?",
+  "option1": "Roger Federer",
+  "option2": "Nick Kyrgios",
+  "option3": "Rafael Nadal",
+  "option4": "Novak Djokovic",
+  "option5": "",
+  "answer": "Rafael Nadal",
+  "explanation": "Spanish tennis player Rafael Nadal won the men's singles title at China Open 2017. He defeated Australia's Nick Kyrgios in the final match.",
+  "verified_at": ""
+}

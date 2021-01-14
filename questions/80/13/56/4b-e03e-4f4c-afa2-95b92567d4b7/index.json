@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:55.344Z",
+  "id": "8013564b-e03e-4f4c-afa2-95b92567d4b7",
+  "labels": "current-affairs,2017-10-03",
+  "question": "What is the name of the new breast cancer test which may spare patients from chemotherapy?",
+  "option1": "EndoPredict Test",
+  "option2": "Mammograms",
+  "option3": "Chest X-Rays",
+  "option4": "Oncotype DX",
+  "option5": "",
+  "answer": "Oncotype DX",
+  "explanation": "Researchers developed a new test 'Oncotype DX', that predicts the return of cancer, thus sparing breast cancer patients from unnecessary chemotherapy, in London. The Oncotype DX test, analyses the samples of tumour that is removed during surgery. It provides a score between 1 and 100 on the chances of the cancer returning. This helps to prevent breast cancer patients from undergoing unwanted chemotherapy.",
+  "verified_at": ""
+}

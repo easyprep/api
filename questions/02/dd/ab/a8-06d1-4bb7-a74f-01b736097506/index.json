@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:34.942Z",
+  "id": "02ddaba8-06d1-4bb7-a74f-01b736097506",
+  "labels": "current-affairs,2017-10-21",
+  "question": "Which of the following introduce live location sharing for its users?",
+  "option1": "Instagram",
+  "option2": "Twitter",
+  "option3": "Facebook",
+  "option4": "Whatsapp",
+  "option5": "",
+  "answer": "Whatsapp",
+  "explanation": "WhatsApp rolled out the option to share \"live location\" for its users. The \"live location\" sharing feature of WhatsApp enables a user to let a contact or a group trace his/her location or movement on a map in real time for a defined window of time. This is different from the current \"share location\" feature which shares a static location. Like the static location, live location also will be visible only to the contacts or groups the user chooses to share it with.",
+  "verified_at": ""
+}

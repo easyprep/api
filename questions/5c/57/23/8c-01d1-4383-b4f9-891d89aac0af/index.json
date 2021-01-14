@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:34.950Z",
+  "id": "5c57238c-01d1-4383-b4f9-891d89aac0af",
+  "labels": "current-affairs,2017-10-21",
+  "question": "As per the Levels and Trends in Child Mortality 2017 report how many countries are responsible for 50% newborn deaths?",
+  "option1": 8,
+  "option2": 5,
+  "option3": 3,
+  "option4": 2,
+  "option5": "",
+  "answer": 5,
+  "explanation": "As per a report titled \"Levels and Trends in Child Mortality 2017\", India along with Pakistan, Nigeria, Congo and Ethiopia is responsible for half of all new-born deaths in the world. This report has been authored by United Nations Children's Fund (UNICEF), World Health Organization (WHO), World Bank Group and United Nations. As per the report, 6 million children died before reaching the age of five in 2016. This marks a decrease as compared to year 2000 in which 9.9 million children had died before turning five.",
+  "verified_at": ""
+}

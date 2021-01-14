@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:17.561Z",
+  "id": "a5c93f23-27f8-4e3c-a8d0-eba20fffe990",
+  "labels": "current-affairs,2017-10-13",
+  "question": "This company tied up with Microsoft to Launch Deep Learning Platform?",
+  "option1": "Ebay",
+  "option2": "Snapdeal",
+  "option3": "Flipkart",
+  "option4": "Amazon",
+  "option5": "",
+  "answer": "Amazon",
+  "explanation": "Amazon Web Services (AWS) and Microsoft have teamed up to launch an open-source and deep learning interface 'Gluon' that will help developers to deploy machine learning models across several platforms. The interface would give developers a place where they can prototype, build, train and deploy machine learning models.",
+  "verified_at": ""
+}

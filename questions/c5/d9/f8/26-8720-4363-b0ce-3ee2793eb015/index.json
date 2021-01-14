@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-11-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:28:53.862Z",
+  "id": "c5d9f826-8720-4363-b0ce-3ee2793eb015",
+  "labels": "current-affairs,2017-11-20",
+  "question": "With which company Ericsson ties for the 5G technology?",
+  "option1": "Jio",
+  "option2": "Airtel",
+  "option3": "BSNL",
+  "option4": "Aircel",
+  "option5": "",
+  "answer": "Airtel",
+  "explanation": "Multinational networking and telecommunications company Ericsson headquartered in Stockholm, Sweden partnered with India's largest telecom operator Bharti Airtel for deploying 5G technology in the country. Apart from Ericsson, Airtel has similar partnership with Nokia for 5G technology standard and management of connected devices.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:39.195Z",
+  "id": "5fb5ffd4-bb11-4b24-aac7-81a08d776bd8",
+  "labels": "current-affairs,2017-10-23",
+  "question": "This company signs deal to set up manufacturing factory in China.",
+  "option1": "Ford",
+  "option2": "Hyundai",
+  "option3": "Tesla",
+  "option4": "Scoda",
+  "option5": "",
+  "answer": "Tesla",
+  "explanation": "Electric carmaker Tesla signed a deal with the Shanghai government to set up its own manufacturing facility in the city's free-trade zone in China. The agreement could enable Tesla to slash production costs while incurring China's 25% import tarif. China recently worked to encourage the development of a robust market for EVs.",
+  "verified_at": ""
+}

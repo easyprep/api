@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:22.394Z",
+  "id": "0a116d52-40f5-491f-82d3-d19c5334d8ec",
+  "labels": "current-affairs,2017-09-18",
+  "question": "According to DBS India's GDP growth likely to slip below how much % this financial year?",
+  "option1": 0.078,
+  "option2": 0.072,
+  "option3": 0.07,
+  "option4": 0.075,
+  "option5": "",
+  "answer": 0.07,
+  "explanation": "India's GDP growth is likely to reduce below 7 % this financial year. According to DBS, two main reasons for the downfall are demonetisation in November 2016 and GST implementation in July 2017. These added to the already slow growth in manufacturing and investment sectors.",
+  "verified_at": ""
+}

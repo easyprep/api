@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:32.566Z",
+  "id": "6b720f32-399c-46f3-90ce-3ed837bcd6f2",
+  "labels": "current-affairs,2017-12-05",
+  "question": "Which payments bank Unveils Paytm FASTag Across India?",
+  "option1": "Paytm Payments Bank",
+  "option2": "Airtel Payments Bank",
+  "option3": "Vodafone M-Pesa Payments Bank",
+  "option4": "Sun pharmaceutical Payments Bank",
+  "option5": "",
+  "answer": "Paytm Payments Bank",
+  "explanation": "Paytm Payments Bank rolled out Paytm FASTag to enable electronic toll fee collection on highways across the country, in line with the government's move to make FASTag mandatory on every new vehicle sold from December 1. The Paytm FASTag - which is a simple and reusable tag based on radio-frequency identification technology (RFID) that can be placed on a vehicle's windscreen - will allow commuters to pass through 380 toll plazas across India covering 55,000 km without having to stop.",
+  "verified_at": ""
+}

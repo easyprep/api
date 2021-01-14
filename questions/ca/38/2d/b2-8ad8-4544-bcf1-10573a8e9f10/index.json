@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:33.465Z",
+  "id": "ca382db2-8ad8-4544-bcf1-10573a8e9f10",
+  "labels": "current-affairs,2017-09-23",
+  "question": "Which of the following country has re-launched World's fastest bullet train?",
+  "option1": "Japan",
+  "option2": "USA",
+  "option3": "China",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China has increased the maximum speed of bullet trains on the Beijing-Shanghai line to 350 kilometres (217 miles) per hour, six years after a fatal accident led to a speed cap.",
+  "verified_at": ""
+}

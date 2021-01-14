@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:40.108Z",
+  "id": "65ea72f9-5e4d-4dcb-9e92-dc9546bc1594",
+  "labels": "current-affairs,2017-09-26",
+  "question": "Which bank launched a Chabot to help customers in banking activities recently?",
+  "option1": "State bank of India",
+  "option2": "Vijaya Bank",
+  "option3": "Canara Bank",
+  "option4": "Dena Bank",
+  "option5": "",
+  "answer": "State bank of India",
+  "explanation": "SBI (State bank of India) launched a Chatbot (chat assistant) to respond and answer customer enquiries. The chat assistant is named as SBI Intelligent Assistant (SIA). It uses Artificial Intelligence technology. Payjo, an Artificial Intelligence Banking Platform developed the Chatbot in collaboration with SBI.",
+  "verified_at": ""
+}

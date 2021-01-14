@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:32.540Z",
+  "id": "3060a089-7b92-4920-ab28-9100ad9018d7",
+  "labels": "current-affairs,2017-12-05",
+  "question": "Which company launches Android Oreo Go edition for low-end phones?",
+  "option1": "Google",
+  "option2": "Samsung",
+  "option3": "Apple",
+  "option4": "Yahoo",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Google launched a lightweight Android Oreo Go edition operating system designed for devices with RAM up to 1 GB.According to Google, the Android Go offers 30% faster startup time and up to 2 times optimisation of storage space. There's also a Go version of the Play store with lightweight apps including YouTube Go and Gmail Go.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:25.733Z",
+  "id": "cdf44d33-7e9c-4c90-9eb7-099760546507",
+  "labels": "current-affairs,2017-12-02",
+  "question": "Which of the following introduced 'Datally' app for quick data usage in real time?",
+  "option1": "IBM",
+  "option2": "Infosys",
+  "option3": "Facebook",
+  "option4": "Google",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Google launched Datally App to understand,control and save users mobile data themselves. Datally App available on the Google Play Store, will enable users to track their data usage in real time, and get personalized recommendations on saving data along with notifications of nearby available public Wi-Fi spots.",
+  "verified_at": ""
+}

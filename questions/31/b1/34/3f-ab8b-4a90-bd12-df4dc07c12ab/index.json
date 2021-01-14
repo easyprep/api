@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-11-24T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:05.130Z",
+  "id": "31b1343f-ab8b-4a90-bd12-df4dc07c12ab",
+  "labels": "current-affairs,2017-11-24",
+  "question": "Indian railways has installed Asia's largest Solid State Interlocking (SSI) system in __________.",
+  "option1": "Tamil Nadu",
+  "option2": "West Bengal",
+  "option3": "Madhya Pradesh",
+  "option4": "Punjab",
+  "option5": "",
+  "answer": "West Bengal",
+  "explanation": "Indian railways has installed Asia's largest Solid State Interlocking (SSI) system at Kharagpur in West Bengal, which will enable station masters to set 800 different routes for trains in a matter of minutes. Interlocking is a railway signal apparatus that prevents conflicting movements of trains through an arrangement of tracks such as junctions or crossings. The cutting-edge technology is installed at a cost of Rs 39 crore, which replaces the pre-1989 route relay system that only allowed operators to set maximum 423 routes, ensures that no cross-movement takes place. The SSI software will also detect the routes a particular train can take and inform the station masters working at the panel, bringing down the operation time and the possibility of human error. It will reduce the possibility of accidents.",
+  "verified_at": ""
+}

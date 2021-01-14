@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-14T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:19.749Z",
+  "id": "d72d8bef-7cd7-463e-ae04-02b184630f7c",
+  "labels": "current-affairs,2017-10-14",
+  "question": "Which of the following launched a mobile health App named 'MedWatch'?",
+  "option1": "ISRO",
+  "option2": "Indian Air Force",
+  "option3": "Indian Institutes of Management",
+  "option4": "Indian Railways",
+  "option5": "",
+  "answer": "Indian Air Force",
+  "explanation": "Indian Air Force (IAF) launched an innovative mobile health App named 'MedWatch'. The concept and content of the App were developed by the Directorate General of Medical Services (Air). It was developed in-house without any financial support by the Directorate of Information Technology (DIT). 'MedWatch' is available on the IAF's AFCEL (Air Force Cellular) network. It consists of features that will provide authentic health information to all IAF personnel.",
+  "verified_at": ""
+}

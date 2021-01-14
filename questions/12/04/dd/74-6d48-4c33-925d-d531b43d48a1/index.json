@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-11-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:28:12.146Z",
+  "id": "1204dd74-6d48-4c33-925d-d531b43d48a1",
+  "labels": "current-affairs,2017-11-07",
+  "question": "Which country launched BeiDou-3 satellites, aiming to build its own global positioning network with more than 30 satellites?",
+  "option1": "China",
+  "option2": "Russia",
+  "option3": "Pakistan",
+  "option4": "Afghanistan",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China successfully launched two navigation satellites, named BeiDou-3 satellites, aimed to build its own global positioning network with more than 30 satellites. The BeiDou-3 satellites were launched with Long March-3B carrier rocket from Xichang Satellite Launch Center in the southwestern province of Sichuan, China.",
+  "verified_at": ""
+}

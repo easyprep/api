@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:37.152Z",
+  "id": "68eb1099-c977-45b2-916b-2939c986b93c",
+  "labels": "current-affairs,2017-12-07",
+  "question": "Which country's airline, Avior Airlines, has been banned from European Union skies?",
+  "option1": "Greece",
+  "option2": "Chile",
+  "option3": "Venezuela",
+  "option4": "Mexico",
+  "option5": "",
+  "answer": "Venezuela",
+  "explanation": "Venezuela's Avior Airlines has been banned from European Union skies after a commission determined it no longer meets international safety standards. The European Commission announced that Avior had been added to a list of international airlines prohibited from flying within the union because the European Aviation Safety Agency detected unaddressed safety deficiencies.",
+  "verified_at": ""
+}

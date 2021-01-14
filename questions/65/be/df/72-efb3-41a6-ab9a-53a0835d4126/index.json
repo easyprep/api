@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-11-22T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:28:59.371Z",
+  "id": "65bedf72-efb3-41a6-ab9a-53a0835d4126",
+  "labels": "current-affairs,2017-11-22",
+  "question": "Which Space institute tests Supersonic Parachute for Mars 2020 mission?",
+  "option1": "Indian Institute of Technology",
+  "option2": "Indian Space Research Organisation (ISRO)",
+  "option3": "National Aeronautics and Space Administration (NASA)",
+  "option4": "Nagaland university",
+  "option5": "",
+  "answer": "National Aeronautics and Space Administration (NASA)",
+  "explanation": "The National Aeronautics and Space Administration (NASA) successfully tested supersonic landing parachute that will be deployed in its Mars rover mission set to launch in 2020. The mission will rely on a special parachute to slow spacecraft down as it enters Martian atmosphere at over 5.4 kilometers per second.",
+  "verified_at": ""
+}

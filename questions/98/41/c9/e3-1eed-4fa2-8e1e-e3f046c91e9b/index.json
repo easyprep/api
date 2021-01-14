@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:32.704Z",
+  "id": "9841c9e3-1eed-4fa2-8e1e-e3f046c91e9b",
+  "labels": "current-affairs,2017-10-20",
+  "question": "RBI plans to provide __________ to women SHGs under DAY-NRLM.",
+  "option1": 0.03,
+  "option2": 0.08,
+  "option3": 0.05,
+  "option4": 0.07,
+  "option5": "",
+  "answer": 0.07,
+  "explanation": "Reserve Bank of India (RBI) issued revised guidelines on Interest Subvention Scheme under Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM), stating that banks will provide funds to women Self Help Groups (SHGs) in rural areas at 7 per cent under the DAY-NRLM in current fiscal, 2017-18. These guidelines will be implemented by 21 public sector banks and 19 private banks. Women SHGs availing credit up to Rs. 3 lakh rupees will be eligible for this interest subvention scheme.",
+  "verified_at": ""
+}

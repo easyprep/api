@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-10-21T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:27:34.949Z",
+  "id": "d25919b5-9452-4259-9260-da2e0c33e977",
+  "labels": "current-affairs,2017-10-21",
+  "question": "Who launched excel-based offline tool to file initial GSTR-3B Returns?",
+  "option1": "Goods and Services Tax Network (GSTN)",
+  "option2": "Telenor India",
+  "option3": "Tata Teleservices",
+  "option4": "MTS India",
+  "option5": "",
+  "answer": "Goods and Services Tax Network (GSTN)",
+  "explanation": "Goods and Services Tax Network (GSTN) launched an Excel-based offline tool for businesses to file initial GSTR- 3B returns. They stated that taxpayers can download the offline utility from the GSTN portal and after fill in the data the file can be uploaded on GST portal. After uploading of the return to the GST Portal, the taxpayer has to preview the form, complete formalities like submit, offset the liability and file their GSTR-3B Return using a digital signature or electronic verification code.",
+  "verified_at": ""
+}

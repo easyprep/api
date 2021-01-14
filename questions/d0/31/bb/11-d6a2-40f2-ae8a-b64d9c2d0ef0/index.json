@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:37.150Z",
+  "id": "d031bb11-d6a2-40f2-ae8a-b64d9c2d0ef0",
+  "labels": "current-affairs,2017-12-07",
+  "question": "Which picture was created using DNA origami recently?",
+  "option1": "Cleopatra",
+  "option2": "Monalisa",
+  "option3": "Princess Elsa",
+  "option4": "Tajmahal",
+  "option5": "",
+  "answer": "Monalisa",
+  "explanation": "Caltech scientists have made the world's smallest recreation of Leonardo da Vinci's Mona Lisa, the size of a bacterium, out of DNA. The technique, dubbed DNA origami, enabled scientists to fold DNA into desired self-assembling structures using 64 tiles, which were 100 nanometers wide. The team also created a life-sized portrait of a bacterium and a bacterium-sized portrait of a rooster.",
+  "verified_at": ""
+}

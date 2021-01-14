@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:45.817Z",
+  "id": "7db2b911-1fd8-45f1-a803-5335470d1213",
+  "labels": "current-affairs,2017-12-09",
+  "question": "Who has been named the top Indian actor of 2017 by Internet Movie Data Base (IMDb)?",
+  "option1": "Shah Rukh Khan",
+  "option2": "Aamir Khan",
+  "option3": "Salman Khan",
+  "option4": "Prabhas",
+  "option5": "",
+  "answer": "Shah Rukh Khan",
+  "explanation": "Actor Shah Rukh Khan has been named the top Indian actor of 2017 by Internet Movie Data Base (IMDb). The list is based on IMDb's StarMeter stats and pageviews, and also takes into consideration which actor stayed at the top and for how long. Aamir Khan and Salman Khan occupied the second and third spots.",
+  "verified_at": ""
+}

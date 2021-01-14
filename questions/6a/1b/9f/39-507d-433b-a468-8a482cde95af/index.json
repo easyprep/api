@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-09-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:26:40.098Z",
+  "id": "6a1b9f39-507d-433b-a468-8a482cde95af",
+  "labels": "current-affairs,2017-09-26",
+  "question": "India ranked __________ in nuclear power installations as per World Nuclear Industry Status Report 2017.",
+  "option1": 3,
+  "option2": 5,
+  "option3": 6,
+  "option4": 4,
+  "option5": "",
+  "answer": 3,
+  "explanation": "India has been ranked third in the world with respect to number of nuclear reactors being installed, by the World Nuclear Industry Status Report 2017. In 2016, nuclear power generation increased by 1.4% globally. Wind power generation increased by 16% and solar power generation by 30%.",
+  "verified_at": ""
+}

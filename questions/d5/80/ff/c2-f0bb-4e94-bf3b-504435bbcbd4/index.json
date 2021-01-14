@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:23.125Z",
+  "id": "d580ffc2-f0bb-4e94-bf3b-504435bbcbd4",
+  "labels": "current-affairs,2017-12-01",
+  "question": "India's first crypto-currency exchange \"Coinome\" has launched by __________.",
+  "option1": "Instamojo",
+  "option2": "Citrus Pay",
+  "option3": "PayUMoney",
+  "option4": "Billdesk",
+  "option5": "",
+  "answer": "Billdesk",
+  "explanation": "India's first crypto-currency exchange \"Coinome\" has been launched by Mumbai-based payment gateway Billdesk. Coinome is incorporated under Hatio Innovations Pvt. Ltd, a wholly owned subsidiary of BillDesk. It will allow users to be on-boarded via Instant e-KYC. It means that users can start transacting in crypto-currencies almost immediately upon registering. The exchange supports instant deposits using payment gateway and instant withdrawals, thereby allowing transactions even on weekends or business holidays. Currently, Coinome offers the trading of Bitcoin and Bitcoin Cash, but the exchange plans to support 20 mainstream crypto-currencies by 2018.",
+  "verified_at": ""
+}
