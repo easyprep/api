@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:32.371Z",
+  "id": "8b89b49e-d4b6-421b-b099-f35fe5caa469",
+  "labels": "current-affairs,2018-05-16",
+  "question": "ISRO scientists are developing a green propellant to replace which conventional rocket fuel?",
+  "option1": "Hydrazine",
+  "option2": "Liquid Oxygen",
+  "option3": "Liquid Hydrogen",
+  "option4": "Liquid Nitrogen",
+  "option5": "",
+  "answer": "Hydrazine",
+  "explanation": "Scientists at the Indian Space Research Organisation have reported progress in the development of an environment-friendly propellant to power satellites and spacecraft. The effort is to replace the conventional hydrazine rocket fuel, a highly toxic and carcinogenic chemical, with a greener propellant. ISRO has started working on propellant blend based on hydroxylammonium nitrate.",
+  "verified_at": ""
+}

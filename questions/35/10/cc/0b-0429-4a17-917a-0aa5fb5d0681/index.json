@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:55.878Z",
+  "id": "3510cc0b-0429-4a17-917a-0aa5fb5d0681",
+  "labels": "current-affairs,2018-05-27",
+  "question": "The Union Government notifies ___________ interest on PF for 2017-18.",
+  "option1": 0.09,
+  "option2": 0.081,
+  "option3": 0.073,
+  "option4": 0.0855,
+  "option5": "",
+  "answer": 0.0855,
+  "explanation": "Employees' Provident Fund Organisation (EPFO) asked its field offices to credit 8.55% rate of interest for 2017-18 into the Provident Fund accounts of around 5 crore subscribers. According to an order issued by the EPFO, the Labour Ministry conveyed approval to credit 8.55% rate of interest for last fiscal. The finance ministry had ratified 8.55%rate of interest on EPF for the last fiscal, but it could not be implemented because of model code of conduct for Karnataka elections.",
+  "verified_at": ""
+}

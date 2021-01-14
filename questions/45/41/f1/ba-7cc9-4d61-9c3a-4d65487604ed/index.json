@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-12T02:55:01.000Z",
+  "updated_at": "2021-01-12T02:55:01.000Z",
+  "id": "4541f1ba-7cc9-4d61-9c3a-4d65487604ed",
+  "labels": "current-affairs,2021-01-13",
+  "question": "Which country raised USD 1 billion to fund Covid-19 vaccination campaigns in developing countries?",
+  "option1": "United States",
+  "option2": "Germany",
+  "option3": "France",
+  "option4": "United Kingdom",
+  "option5": "",
+  "answer": "United Kingdom",
+  "explanation": "The United Kingdom has raised USD 1 billion from global donors to fund COVID-19 vaccination campaigns in developing countries.<br />This fund is including the USD 744.5 million of the pledged UK aid, with the remaining fund from global donors, under COVAX Advance Market Commitment (AMC). It aims to distribute one billion doses of coronavirus vaccines to 92 developing countries.",
+  "verified_at": ""
+}

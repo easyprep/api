@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:16.350Z",
+  "id": "733ca45f-17e0-4670-8f08-5c25deb21e36",
+  "labels": "current-affairs,2018-05-08",
+  "question": "Name the spacecraft launched by NASA aboard an Atlas V rocket to study \"Marsquakes\", from Vandenberg Air Force Base in California, United States, on 5th May 2018?",
+  "option1": "InTouch",
+  "option2": "Marsee",
+  "option3": "InOrbit",
+  "option4": "InSight",
+  "option5": "",
+  "answer": "InSight",
+  "explanation": "InSight has been designed to stay on the surface of Mars and listen to \"Marsquakes\". The project costs $993 million. The US spent $813.8 million on the spacecraft and rocket launch. France and Germany spent $180 million on the instruments. A pair of mini-spacecraft named Mars Cube One, or MarCO are also launching on the rocket. It cost NASA $18.5 million. The MarCO are briefcase-sized satellites. They will fly on their own path to Mars behind InSight. They will test tiny new deep space communications equipment. InSight aims to explore interior conditions on Mars, inform efforts to send human explorers to Mars, find out how rocky planets like Earth formed, etc. InSight is expected to settle on Mars on 26th November 2018. InSight is the short form for Interior Exploration using Seismic Investigations, Geodesy and Heat Transport.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:55.935Z",
+  "id": "7a7bb1bd-2e8d-4330-9b12-18b97b96f465",
+  "labels": "current-affairs,2018-04-28",
+  "question": "With which department, Council of Scientific and Industrial Research -National Physical Laboratory sign MoU for nationwide Time Stamping & Time Synchronization network?",
+  "option1": "Department of Telecommunications",
+  "option2": "Department of Agriculture and Co-operation",
+  "option3": "Department of Public Enterprises",
+  "option4": "Department of Science and Technology (DST)",
+  "option5": "",
+  "answer": "Department of Telecommunications",
+  "explanation": "Council of Scientific and Industrial Research -National Physical Laboratory (CSIR-NPL) and Department of Telecommunications (DoT) under Union Ministry of Communications have signed a Memorandum of Understanding (MoU) on technical knowledge sharing for establishing a nationwide Time Stamping & Time Synchronization network. Recording date and time of an event is referred to as time stamping. As per the terms of the MoU, DoT will be setting up Nationwide, Time Stamping & Time Synchronization network consisting of 22 Time Synchronization Centers (TSC's) with technical assistance from CSIR-NPL. This network will provide synchronizing pulse in Indian Standard Time(IST) to all Telecom & Internet Service providers across India. Synchronizing the telecom network with IST time stamp will enable the security agencies to overcome the difficulty in analyzing and correlating the cyber events and will also improve the telecom network efficiency by reducing the Voice over Internet Protocol (VOIP) call drop.",
+  "verified_at": ""
+}

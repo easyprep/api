@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:18.353Z",
+  "id": "ad0a6096-9845-4908-9cdc-8046506611b0",
+  "labels": "current-affairs,2018-05-09",
+  "question": "BrahMos, the world's fastest supersonic cruise missile to attain __________ localisation for the next 6 months.",
+  "option1": 0.8,
+  "option2": 0.78,
+  "option3": 0.75,
+  "option4": 0.83,
+  "option5": "",
+  "answer": 0.75,
+  "explanation": "BrahMos, the world's fastest supersonic cruise missile, will be achieving 75% localisation in the next six months. As of today 65% of the value (in BrahMos) is created in India. The Quad launcher is designed for supersonic cruise missiles in an inclined configuration on-board our navy ships. The launcher provides superior firepower as compared to the twin cannister.",
+  "verified_at": ""
+}

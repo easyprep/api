@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:16.335Z",
+  "id": "d5078ee9-ba0e-48da-ae93-4612502a2bb3",
+  "labels": "current-affairs,2018-05-08",
+  "question": "Who developed an atomic clock to be used in navigation satellites?",
+  "option1": "Indian Space Research Organization",
+  "option2": "Hindustan Aeronautics Limited",
+  "option3": "Space Applications center",
+  "option4": "Bhabha Atomic Research Centre",
+  "option5": "",
+  "answer": "Indian Space Research Organization",
+  "explanation": "The Indian Space Research Organization developed an atomic clock to be used in navigation satellites. It is supposed to measure precise location data. Once it successfully clears all tests, the desi atomic clock will be used in an experimental navigation satellite to test its accuracy and durability in space. At present, ISRO imports atomic clocks from European aerospace manufacturer Astrium (EAMA) for its navigation satellites. With the development of indigenous atomic clocks, the space agency sure gets a mark of technological advancement.",
+  "verified_at": ""
+}

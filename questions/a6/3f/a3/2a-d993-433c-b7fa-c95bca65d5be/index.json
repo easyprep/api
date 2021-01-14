@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-13T19:57:32.000Z",
+  "updated_at": "2021-01-13T19:57:32.000Z",
+  "id": "a63fa32a-d993-433c-b7fa-c95bca65d5be",
+  "labels": "current-affairs,2021-01-14",
+  "question": "As per the RBI’s Financial Stability Report, what is the average time taken for resolution of corporate insolvency?",
+  "option1": "330 days",
+  "option2": "300 days",
+  "option3": "400 days",
+  "option4": "433 days",
+  "option5": "",
+  "answer": "433 days",
+  "explanation": "The Reserve Bank of India had recently released its Financial Stability Report. The report states that, as of September 2020, it took an average of 433 days for resolution of corporate insolvency, under the IBC. <br />As per Insolvency and Bankruptcy Code (IBC) launched in 2019, the maximum time within which insolvency has to be resolved is 330 days.",
+  "verified_at": ""
+}

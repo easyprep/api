@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:55.884Z",
+  "id": "718f1f1a-29fa-4801-bbcc-04923c36f313",
+  "labels": "current-affairs,2018-05-27",
+  "question": "Which among the following is the top targeting country for Phishing and malware-based attacks as per the RSA Quarterly Fraud Report?",
+  "option1": "US",
+  "option2": "Canada",
+  "option3": "India",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "Canada",
+  "explanation": "According to the RSA Quarterly Fraud Report for the period between January 1 to March 31, 2018, phishing accounted for 48 per cent of all cyber-attacks.\n\nThe report that contains fraud attack and consumer fraud data and analysis, noted that Canada, the United States, India and Brazil were the countries most targeted by phishing.\n\nOther most phishing-targeted countries include Brazil in the fourth place, Netherlands (5th), Colombia (6th), Spain (7th), Mexico (8th), Germany (9th) and South Africa (10th).",
+  "verified_at": ""
+}

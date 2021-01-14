@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-13T19:58:30.000Z",
+  "updated_at": "2021-01-13T19:58:30.000Z",
+  "id": "427908f6-7860-44cd-ae8b-f4ed7715dc44",
+  "labels": "current-affairs,2021-01-14",
+  "question": "Which company has been ranked at the top in the “2020 Hurun Global 500” list?",
+  "option1": "Apple",
+  "option2": "Amazon",
+  "option3": "Walmart",
+  "option4": "Space X",
+  "option5": "",
+  "answer": "Apple",
+  "explanation": "As per the ‘2020 Hurun Global 500’ list, Apple is the world’s most valuable company with a value of USD 2.1 trillion followed by Microsoft and Amazon with USD 1.6 trillion each. <br />The 2020 Hurun Global 500 is a list of 500 most valuable non-state-controlled companies in the world. 11 Indian firms are a part of the list, which is led by Reliance Industries worth USD 169 billion.",
+  "verified_at": ""
+}

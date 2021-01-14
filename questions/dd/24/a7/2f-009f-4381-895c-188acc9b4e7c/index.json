@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:58.044Z",
+  "id": "dd24a72f-009f-4381-895c-188acc9b4e7c",
+  "labels": "current-affairs,2018-05-28",
+  "question": "Which country has conducted the world's longest surface-to-air missile test?",
+  "option1": "Russia",
+  "option2": "France",
+  "option3": "USA",
+  "option4": "India",
+  "option5": "",
+  "answer": "Russia",
+  "explanation": "World's longest surface-to-air missile test was conducted by Russia quietly. This S-500 surface-to-air missile successfully struck a target that was 299 miles away. Russia claims that this missile system is capable of destroying objects flying in space 62 miles above the Earth's surface. It is also capable of intercepting aircrafts, drones and hypersonic missile.",
+  "verified_at": ""
+}

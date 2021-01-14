@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:36.692Z",
+  "id": "52a01835-fc4b-4f66-b626-eb76b770fc20",
+  "labels": "current-affairs,2018-05-18",
+  "question": "Which Organisation has published its first 'essential diagnostics list', a list of tests needed to diagnose the most common conditions as well as a number of global priority diseases?",
+  "option1": "UNICEF",
+  "option2": "WHO",
+  "option3": "UNESCO",
+  "option4": "UNDP",
+  "option5": "",
+  "answer": "WHO",
+  "explanation": "Objective behind publishing this list is to address the problem of people's inability to access diagnostic services. WHO outlined that an estimated 46 percent of adults with Type 2 diabetes worldwide were undiagnosed, thereby facing serious health risks and complications. WHO's essential diagnostics list concentrates on in-vitro tests like tests of blood and urine. tests have been enlisted for detection and diagnosis of a wide range of common conditions while 55 tests are designed for the detection, diagnosis and monitoring of 'priority' diseases such as HIV, malaria, tuberculosis, hepatitis B and C, human papillomavirus and syphilis.",
+  "verified_at": ""
+}

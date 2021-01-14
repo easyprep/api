@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-12T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:24.357Z",
+  "id": "5b6adffd-3206-45b0-8d6a-3333a55f8c34",
+  "labels": "current-affairs,2018-05-12",
+  "question": "Which country cuts funding to NASA system that monitors greenhouse gases?",
+  "option1": "USA",
+  "option2": "Pakistan",
+  "option3": "Indonesia",
+  "option4": "Saudi Arabia",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "US President Donald Trump's administration has cut off the funding for the National Aeronautics and Space Administration's (NASA) Carbon Monitoring System (CMS). The move comes at a time when the world is struggling to combat climate change. According to Science Magazine, the United States has repeatedly proposed cuts to NASA's earth science budget, including NASA's Carbon Monitoring System (CMS). The NASA system monitors the flow of greenhouse gases. The system had till now used satellite and aircraft instruments to monitor carbon dioxide and methane levels remotely, spending $10m each year. However, it had been an obvious target considering Trump's decision to withdraw the United States from the landmark 2015 Paris agreement to fight climate change.",
+  "verified_at": ""
+}

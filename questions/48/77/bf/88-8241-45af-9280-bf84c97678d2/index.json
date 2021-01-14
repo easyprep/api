@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:41.344Z",
+  "id": "4877bf88-8241-45af-9280-bf84c97678d2",
+  "labels": "current-affairs,2018-05-20",
+  "question": "The Department of Telecommunications has enhanced ___________ e-SIMs connections per user.",
+  "option1": 20,
+  "option2": 15,
+  "option3": 18,
+  "option4": 10,
+  "option5": "",
+  "answer": 18,
+  "explanation": "The Department of Telecommunications (DoT) has allowed the use of e-SIMs while issuing guidelines for the same. The eSIMs will be installed in the device and details of service providers can be updated in it when buying a new connection. The DoT has enhanced the number of connections per user to 18.",
+  "verified_at": ""
+}

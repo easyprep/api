@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-24T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:49.867Z",
+  "id": "ee77c2e2-12b1-4a25-92e8-8e79b765ced6",
+  "labels": "current-affairs,2018-05-24",
+  "question": "Which financial services platform launches UPI On Platform, Offers Own VPA Handle recently?",
+  "option1": "Mobikwik",
+  "option2": "Paytm",
+  "option3": "Payzapp",
+  "option4": "Phonepe",
+  "option5": "",
+  "answer": "Mobikwik",
+  "explanation": "Leading digital financial services platform, MobiKwik, announced the launch of Unified Payments Interface (UPI) on its platform via its own Virtual payment address (VPA) handle @ikwik. MobiKwik's users can, by default, use their mobile number as their own VPA which will be '@ikwik'. MobiKwik is the first in the industry to offer UPI access to a huge base of three million merchants on its app. It also be able to link multiple bank accounts with just one VPA and users can change primary account as per their requirements.",
+  "verified_at": ""
+}

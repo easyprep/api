@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-29T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:37:00.165Z",
+  "id": "442da444-cc48-4b5e-adec-f6d4df4e945c",
+  "labels": "current-affairs,2018-05-29",
+  "question": "EPFO cuts administrative charges decided to cut the administrative charges to ___________ of total wage paid by employers.",
+  "option1": 0.004,
+  "option2": 0.007,
+  "option3": 0.005,
+  "option4": 0.008,
+  "option5": "",
+  "answer": 0.005,
+  "explanation": "Employees' Provident Fund Organisation's trustees had decided to cut the administrative charges to 0.50% from 0.65% of total wage paid by employers in its meeting this year. EPFO decided to cut the administrative charges in view of its expanding business and high recovery of such fees. According to EPFO estimates, the employers would save in total around Rs.900 crore annually after this move.",
+  "verified_at": ""
+}

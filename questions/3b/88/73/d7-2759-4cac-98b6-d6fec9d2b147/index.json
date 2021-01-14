@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:32.385Z",
+  "id": "3b8873d7-2759-4cac-98b6-d6fec9d2b147",
+  "labels": "current-affairs,2018-05-16",
+  "question": "NASA programme which cost $10 million per year to track carbon and methane that was cancelled on 10th May 2018. The name of the program is;",
+  "option1": "Carbon Monitoring System",
+  "option2": "Carbon & Methane Control System",
+  "option3": "Green House Control System",
+  "option4": "Green House Emission Control",
+  "option5": "",
+  "answer": "Carbon Monitoring System",
+  "explanation": "The Carbon Monitoring System (CMS) programme tracked sources and sinks for carbon and developed high-resolution models of earth's flows of carbon. NASA said that, United States has cancelled the CMS project due to budget constraints and higher priorities within the science budget.",
+  "verified_at": ""
+}

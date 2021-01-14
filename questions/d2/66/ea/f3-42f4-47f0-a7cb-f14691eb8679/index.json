@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:14.401Z",
+  "id": "d266eaf3-42f4-47f0-a7cb-f14691eb8679",
+  "labels": "current-affairs,2018-05-07",
+  "question": "NASA has developed a new kind of reactor to be used for space exploration missions. The name of the reactor is?",
+  "option1": "Lightpower",
+  "option2": "Kilopower",
+  "option3": "Superpower",
+  "option4": "Megapower",
+  "option5": "",
+  "answer": "Kilopower",
+  "explanation": "NASA has developed a new kind of reactor to be used for space exploration missions. NASA's Kilopower project works to build the kind of technology that could be used for an affordable fission nuclear power system so astronauts can have longer trips to planets. Kilopower is a small, lightweight fission power system that can deliver 10 kilowatts of electrical power.",
+  "verified_at": ""
+}

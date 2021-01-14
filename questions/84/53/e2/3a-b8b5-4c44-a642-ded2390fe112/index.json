@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:47.691Z",
+  "id": "8453e23a-b8b5-4c44-a642-ded2390fe112",
+  "labels": "current-affairs,2018-05-23",
+  "question": "Which of the following has launched country's first copper options contracts recently.",
+  "option1": "NSE",
+  "option2": "BSE",
+  "option3": "MCX",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "MCX",
+  "explanation": "India's Multi Commodity Exchange had launched the country's first copper options contracts. Three contracts with a lot size of 1 tonne were launched. The option contract will provide physical market participants an additional instrument to hedge their risk.",
+  "verified_at": ""
+}

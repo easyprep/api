@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:38.889Z",
+  "id": "ff79329f-71f3-4ef4-b36b-e664d64da074",
+  "labels": "current-affairs,2018-05-19",
+  "question": "Infosys formed a blockchain-based trade finance network with how many Banks?",
+  "option1": 5,
+  "option2": 7,
+  "option3": 4,
+  "option4": 8,
+  "option5": "",
+  "answer": 7,
+  "explanation": "Infosys has formed a blockchain-based trade finance network with 7 private-sector banks, to increase security and efficiency in the banking sector. Blockchain allows all stages of transactions to be securely shared between network members, as opposed to each bank working independently. Lenders currently testing its trade finance network are ICICI, Axis and Yes Bank among others.",
+  "verified_at": ""
+}

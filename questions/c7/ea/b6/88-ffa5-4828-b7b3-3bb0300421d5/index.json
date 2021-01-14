@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-27T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:55.887Z",
+  "id": "c7eab688-ffa5-4828-b7b3-3bb0300421d5",
+  "labels": "current-affairs,2018-05-27",
+  "question": "This country tested its first drone-carried meteorological data monitor to undertake atmospheric observations recently.",
+  "option1": "USA",
+  "option2": "India",
+  "option3": "UK",
+  "option4": "China",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China has successfully tested its first drone-carried meteorological data monitor to undertake atmospheric observations. Dropsonde also known as meteorological data monitor will gather data such as temperature, humidity, and wind direction and transmit them to ground receiving devices in real time. Dropsondes can be widely used in meteorological emergency, disaster & ecological monitoring.",
+  "verified_at": ""
+}

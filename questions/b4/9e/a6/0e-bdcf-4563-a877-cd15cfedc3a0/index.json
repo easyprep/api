@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:59.866Z",
+  "id": "b49ea60e-bdcf-4563-a877-cd15cfedc3a0",
+  "labels": "current-affairs,2018-04-30",
+  "question": "Which online payment service company introduces 'Tap Card' offline payments solution for the non-internet customers?",
+  "option1": "Paytm",
+  "option2": "FreeCharge",
+  "option3": "PhonePe",
+  "option4": "PayU",
+  "option5": "",
+  "answer": "Paytm",
+  "explanation": "One97 Communications Limited, the owner of Paytm, announced the launch of Paytm Tap Card, its offline payments solution to provide easy payments solutions for non-internet customers. The Tap Card utilises Near Field Communication (NFC) technology to enable safe and convenient digital payments, totally offline at Paytm-issued, NFC PoS terminals, within a second. In order to make payments, users can add money from their Paytm account by scanning the QR code on the Tap Card and by authenticating it at any add value machines (AVM). This will be a solution that also addresses network-related issues at the consumer's or merchant's side. Paytm is tying up with events, educational institutes and corporates in the first phase to ensure quick digital payments using the Tap card.",
+  "verified_at": ""
+}

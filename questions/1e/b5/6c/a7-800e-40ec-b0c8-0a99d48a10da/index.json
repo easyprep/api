@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-18T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:36.698Z",
+  "id": "1eb56ca7-800e-40ec-b0c8-0a99d48a10da",
+  "labels": "current-affairs,2018-05-18",
+  "question": "Name the NASA spacecraft which is about the size of a loaf of bread and has developed the first global map of ice clouds?",
+  "option1": "IceCube",
+  "option2": "IcePod",
+  "option3": "Cloudrop",
+  "option4": "TinyCloud",
+  "option5": "",
+  "answer": "IceCube",
+  "explanation": "The IceCube spacecraft was deployed from the International Space Station (ISS) in 2017. It is testing instruments for their ability to make space-based measurements of the small, frozen crystals that create ice clouds. Ice clouds start as tiny particles high in the atmosphere. They absorb moisture, and become heavier. This make them to fall to lower altitudes. The ice clouds affect Earth's energy budget by reflecting or absorbing the Sun's energy and by affecting the emission of heat from Earth into space. Ice clouds are major variables in weather and climate models. IceCube was equipped with a sub-millimetre radiometer that links the missing sensitivity between infrared and microwave wavelengths.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-04-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:35:49.810Z",
+  "id": "1cbe4e99-8127-4859-8b7f-b789dcbc5962",
+  "labels": "current-affairs,2018-04-25",
+  "question": "This company has set up the country's first \"Cyber Security Operations Centre\" (APCSOC) in Vijayawada, in collaboration with the Andhra Pradesh government.",
+  "option1": "Wipro",
+  "option2": "Tech Mahindra",
+  "option3": "HCL",
+  "option4": "Cpgemini",
+  "option5": "",
+  "answer": "Tech Mahindra",
+  "explanation": "Tech Mahindra has set up the country's first \"Cyber Security Operations Centre\" (APCSOC) in Vijayawada, in collaboration with the Andhra Pradesh government. The APCSOC will leverage Tech Mahindra's global expertise in cyber security and risk management. The Cyber Security Operations Centre is equipped with traditional SOC and predictive threat analytics capabilities.",
+  "verified_at": ""
+}

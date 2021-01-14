@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-20T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:41.347Z",
+  "id": "ff22a873-9e18-4090-8ee8-62f1ce817396",
+  "labels": "current-affairs,2018-05-20",
+  "question": "Which Indian Institute announced a device that would help detect and remove arsenic from water?",
+  "option1": "Indian Institute Of Tropical Meteorology",
+  "option2": "Indian Institute of Water Sciences",
+  "option3": "Indian Institute Of Science (IISC)",
+  "option4": "Institute Indian Institute of Science and Research (IISER)",
+  "option5": "",
+  "answer": "Institute Indian Institute of Science and Research (IISER)",
+  "explanation": "The device called 'Arsenic Sensor and Removal Media' is a cost effective product. On detection of arsenic the sensor will show immediate change in color This has been created by IISER in collaboration with a private company called 'ADO Additive'. As per reports, 83 blocks in eight districts of West Bengal- Burdwan, Malda, Hooghly, Howrah, Murshidabad, Nadia, North and South 24 Parganas - were hit by arsenic contamination.",
+  "verified_at": ""
+}

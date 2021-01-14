@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-15T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:30.337Z",
+  "id": "1189ec2b-3a57-4d2b-964a-78ff2d59c233",
+  "labels": "current-affairs,2018-05-15",
+  "question": "Which of the following has introduced automatic recurring payments to pay for periodic recurring expenses automatically?",
+  "option1": "Paytm",
+  "option2": "Phonepe",
+  "option3": "Mobiwik",
+  "option4": "Airtel Payment Bank",
+  "option5": "",
+  "answer": "Paytm",
+  "explanation": "Paytm has introduced automatic recurring payments, a new feature that lets users configure the payments app to pay for periodic recurring expenses automatically. Similar to standing instructions for bank accounts, the 'My Payments' feature can be used for high-value payments for a variety of cases. Company expects the feature to significantly boost bank-to-bank transactions on the Paytm app.",
+  "verified_at": ""
+}

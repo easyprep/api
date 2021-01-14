@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:16.348Z",
+  "id": "d5ec41fb-623f-4756-9a97-cd9853491dec",
+  "labels": "current-affairs,2018-05-08",
+  "question": "Who launched Android Things for IoT platform recently?",
+  "option1": "Redme Mi",
+  "option2": "Apple",
+  "option3": "Microsoft",
+  "option4": "Google",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Alphabet Inc's Google launched Android Things (codenamed Brillo), a variant (or spinoff) of an Android Operating System for the Internet of Things (IoT) devices. Its goal is to enable IoT machines developers to be built faster, cheaper and more secure. Its goal is to enable IoT machines developers to be built faster, cheaper and more secure. Android Things It is Android-based embedded operating system Android Things as an IoT OS it is designed to work as low as 32-64 MB of RAM. It will support Bluetooth Low Energy and Wi-Fi.",
+  "verified_at": ""
+}

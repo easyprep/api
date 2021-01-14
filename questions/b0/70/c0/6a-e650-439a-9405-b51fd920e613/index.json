@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-12T03:02:46.000Z",
+  "updated_at": "2021-01-12T03:02:46.000Z",
+  "id": "b070c06a-e650-439a-9405-b51fd920e613",
+  "labels": "current-affairs,2021-01-13",
+  "question": "Which country’s space agency is to test fire the Space Launch System (SLS), the most powerful rocket ever built?",
+  "option1": "Japan",
+  "option2": "China",
+  "option3": "United States",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The U.S space agency NASA is set to ignite the most powerful rocket it's ever built on January 17, 2021. <br />This is also the first test-fire of the Space Launch System (SLS), the rocket ship to be used for non-commercial human space flight. It is the core system of NASA's Artemis program, which aims to land a man-woman duo on the moon. The SLS can carry over 27 tons to the moon.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:32.383Z",
+  "id": "ce6c6101-c017-42bd-bcaf-059a0e8cc41c",
+  "labels": "current-affairs,2018-05-16",
+  "question": "This company filed patent applications relating to e-currency technology recently.",
+  "option1": "IBM",
+  "option2": "Barclays",
+  "option3": "Google",
+  "option4": "Facebook",
+  "option5": "",
+  "answer": "Barclays",
+  "explanation": "Barclays has filed two patent applications relating to the transfer of digital currency and data storage with the Indian Patent Office. The bank has filed a patent application titled 'secure digital data operations' & it is a method and system for transferring digital currency from a payer to the recipient. The other patent filed is 'data validation and storage' & is about cryptography.",
+  "verified_at": ""
+}

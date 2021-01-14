@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-25T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:51.873Z",
+  "id": "daa5fe0a-a153-49ac-8abe-535707235221",
+  "labels": "current-affairs,2018-05-25",
+  "question": "India's rank in terms of Healthcare Access and Quality (HAQ) index, as per latest study by Lancet.",
+  "option1": 102,
+  "option2": 150,
+  "option3": 132,
+  "option4": 145,
+  "option5": "",
+  "answer": 145,
+  "explanation": "India has been ranked 145th among 195 countries with score of 41.2 in terms of Healthcare Access and Quality (HAQ) index of 2016, as per Lancet's latest study \"Global Burden Of Disease\". According to the study, India performed poorly in tackling cases of tuberculosis, rheumatic heart diseases, Ischaemic heart diseases, stroke, testicular cancer, colon cancer and chronic kidney disease among others. The five countries with the highest levels of healthcare access and quality in 2016 were Iceland (97.1 points), Norway (96.6), the Netherlands (96.1), Luxembourg (96.0), and Finland and Australia (each with 95.9).",
+  "verified_at": ""
+}

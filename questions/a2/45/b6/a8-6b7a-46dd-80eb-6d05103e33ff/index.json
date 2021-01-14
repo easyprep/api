@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-11T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:22.414Z",
+  "id": "a245b6a8-6b7a-46dd-80eb-6d05103e33ff",
+  "labels": "current-affairs,2018-05-11",
+  "question": "Who introduces 'managed co-location services' recently?",
+  "option1": "BSE",
+  "option2": "NSE",
+  "option3": "SEBI",
+  "option4": "RBI",
+  "option5": "",
+  "answer": "NSE",
+  "explanation": "In order to facilitate small and medium-sized trading members, NSE introduced a facility of 'managed co-location service'. In this facility, space will be provided to vendors along with provision for receiving market data. This facility enables the co-located entities to access the trade/order related data before other non-co-located entities.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:32.387Z",
+  "id": "18c3f67b-ee6b-4783-9be5-ad25001a1030",
+  "labels": "current-affairs,2018-05-16",
+  "question": "Indian government plan to install e-Gates at airport immigration counters for whom?",
+  "option1": "Low-risk foreign travellers",
+  "option2": "High-risk foreign travellers",
+  "option3": "Government dignitaries",
+  "option4": "NRIs",
+  "option5": "",
+  "answer": "Low-risk foreign travellers",
+  "explanation": "From January 2019, low-risk foreign travellers will not have to wait in long queues at airport immigration counters. The Indian government plans to install special automated kiosks - e-Gates - for speedy document and identity verification. At the e-Gates, foreigners can present their machine-readable passports, place their fingerprints on the scanner and complete a customs declaration.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-05-04T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:36:08.338Z",
+  "id": "137b5bdd-0297-42c2-b7a7-c3052eb4a5a2",
+  "labels": "current-affairs,2018-05-04",
+  "question": "How many Indian cities are marked as the World's 20 most polluted cities list as per data released by World Health Organisation (WHO)?",
+  "option1": 7,
+  "option2": 10,
+  "option3": 14,
+  "option4": 5,
+  "option5": "",
+  "answer": 14,
+  "explanation": "As per data released by World Health Organisation (WHO), 14 Indian cities have figured in a list of 20 most polluted cities in the world. 'Polluted Cities' in context of this news, implies particulate matter (PM) 2.5 concentrations in air in 2016. It includes pollutants like sulphate, nitrate and black carbon. 14 Indian cities that have figured in the list are: Kanpur, Faridabad, Gaya, Patna, Agra, Muzaffarpur, Srinagar, Gurgaon, Jaipur, Jodhpur, Patiala, Lucknow, Delhi and Varanasi. The WHO data measured levels of fine particulate matter (PM10 and PM2.5) from more than 4300 cities in 108 countries. As per WHO's estimates, around 7 million people die every year from exposure to fine particles in polluted air. Continuous exposure to fine particles causes several diseases including lung cancer, stroke, heart disease and respiratory infections, including pneumonia.",
+  "verified_at": ""
+}
