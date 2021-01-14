@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-12T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:06.715Z",
+  "id": "831d8913-f06e-4058-a095-579c6d28763c",
+  "labels": "current-affairs,2018-01-12",
+  "question": "The Ministry of Railways has recently launched which app for freight managers?",
+  "option1": "SFOORTI app",
+  "option2": "SKOORTI app",
+  "option3": "SNOORTI app",
+  "option4": "SMOORTI app",
+  "option5": "",
+  "answer": "SFOORTI app",
+  "explanation": "In a major digital initiative to help plan the traffic flows and optimize freight operations, Ministry of Railways has launched Smart Freight Operation Optimisation and Real Time Information (SFOORTI) App for freight managers. The app provides features for monitoring and managing freight business using Geographic Information System (GIS) Views and Dashboard. With this application both passenger and freight trains can be tracked over Zones, Divisions and Sections in single GIS View. The app provides a bird's eye view of all freight assets in a single window and end to end rake movement on Geospatial view. Expected traffic at interchange points can be viewed to evaluate daily performance. Position of rakes for specific type of stock can be viewed through this application.",
+  "verified_at": ""
+}

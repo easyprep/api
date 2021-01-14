@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:09.803Z",
+  "id": "2c15f6cc-ea5f-4d87-9b22-37885ec063d4",
+  "labels": "current-affairs,2017-12-19",
+  "question": "Upto which amount Union Government to Bear MDR Charges on Digital Transactions?",
+  "option1": "Rs 1500",
+  "option2": "Rs 2000",
+  "option3": "Rs 3500",
+  "option4": "Rs 4000",
+  "option5": "",
+  "answer": "Rs 2000",
+  "explanation": "s per the IT Ministry, the government will bear the Merchant Discount Rate (MDR) charges on transactions up to Rs 2,000 made through debit cards, BHIM UPI or Aadhaar-enabled payment systems to promote digital transactions. MDR is charged on payments made to merchants through BHIM UPI platform and AePS (Aadhaar enabled Payment System). The merchant discount rate (MDR) will be borne by the government for two years with effect from January 1, 2018 by reimbursing the same to the banks.",
+  "verified_at": ""
+}

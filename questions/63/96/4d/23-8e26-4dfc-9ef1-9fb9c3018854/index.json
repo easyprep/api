@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-09T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:59.606Z",
+  "id": "63964d23-8e26-4dfc-9ef1-9fb9c3018854",
+  "labels": "current-affairs,2018-01-09",
+  "question": "Indian Railways has announced to use __________ for various railway activities, especially project monitoring and maintenance of tracks and other railway infrastructure.",
+  "option1": "Drone Camera",
+  "option2": "Nest Cam",
+  "option3": "Arlo Wire-Free",
+  "option4": "Uniden",
+  "option5": "",
+  "answer": "Drone Camera",
+  "explanation": "Indian Railways has announced that it will start using drone Cameras (UAV/NETRA) for various railway activities, especially project monitoring and maintenance of tracks and other railway infrastructure. All railway zones have been directed to procure these drone cameras. Drone/ Unmanned Aerial Vehicle (UAV) is a kind of a flying robot which can be remotely handled through software-controlled flight plans embedded in its system. It works in conjunction with Global Positioning System (GPS). NETRA is an Indian, light-weight, autonomous UAV jointly developed by the Defence Research and Development Organisation (DRDO) and IdeaForge, a Mumbai-based private firm.",
+  "verified_at": ""
+}

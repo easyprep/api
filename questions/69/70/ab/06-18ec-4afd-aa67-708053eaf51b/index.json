@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-12T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:53.515Z",
+  "id": "6970ab06-18ec-4afd-aa67-708053eaf51b",
+  "labels": "current-affairs,2017-12-12",
+  "question": "Which ministry Launched First NIC-CERT recently?",
+  "option1": "Ministry of Telecommunication",
+  "option2": "Ministry of External Affairs",
+  "option3": "Ministry of Electronics and IT Ministry",
+  "option4": "Ministry of Commerce",
+  "option5": "",
+  "answer": "Ministry of Electronics and IT Ministry",
+  "explanation": "Electronics and Information Technology Minister Ravi Shankar Prasad launched first NIC-CERT, a setup of National Informatics Centre to prevent and predict cyber attacks on government utilities. They launched in New Delhi. NIC-CERT has been set up with the objective of creating a comprehensive framework that integrates world-class security components and inbuilt threat intelligence for detection, prevention and incident response.",
+  "verified_at": ""
+}

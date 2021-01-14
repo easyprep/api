@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-16T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:16.006Z",
+  "id": "809f7e05-b6b5-4abe-9024-122639db9b60",
+  "labels": "current-affairs,2018-01-16",
+  "question": "This bans funds from buying cryptocurrencies.",
+  "option1": "HSBC",
+  "option2": "Brazil regulator",
+  "option3": "BNP Paribas",
+  "option4": "Credit Agricole Group",
+  "option5": "",
+  "answer": "Brazil regulator",
+  "explanation": "Brazil's securities regulator prohibited local investment funds from buying cryptocurrencies. The prohibition has been imposed, citing the reason that Cryptocurrencies cannot be considered financial assets. Owing to this decision, Brazilian funds cannot directly invest in cryptocurrencies such as Bitcoin. However, funds considering to indirect investment in cryptocurrencies by acquiring a stake in foreign funds have been advised to await further clarification from the regulator.",
+  "verified_at": ""
+}

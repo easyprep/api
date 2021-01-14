@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-15T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:27.219Z",
+  "id": "fb894c9d-87ca-4c0e-86b5-3faeaa9c3d87",
+  "labels": "current-affairs,2018-02-15",
+  "question": "This country introduced a new technology to fight extremist content online recently.",
+  "option1": "India",
+  "option2": "China",
+  "option3": "US",
+  "option4": "UK",
+  "option5": "",
+  "answer": "UK",
+  "explanation": "British government introduced a new technology to remove extremist material from social media. Home Secretary Amber Rudd made an announcement about this new technology to remove extremist material from social media. The software has been developed by ASI Data Science. It was funded by the UK government. This system is said to use advanced machine learning to study the sound and visual of videos for \"subtle signals\" to check if they are extremist content like Islamic State propaganda. This software will be provided to small companies that are not able to develop such technologies.",
+  "verified_at": ""
+}

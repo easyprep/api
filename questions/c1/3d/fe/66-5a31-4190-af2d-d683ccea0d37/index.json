@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:10.063Z",
+  "id": "c13dfe66-5a31-4190-af2d-d683ccea0d37",
+  "labels": "current-affairs,2018-02-08",
+  "question": "Which company Develops First Hawk-I Flight developed indigenous Real Time Operating System (RTOS)?",
+  "option1": "Go Air",
+  "option2": "SpiceJet",
+  "option3": "IndiGo",
+  "option4": "Hindustan Aeronautics Limited",
+  "option5": "",
+  "answer": "Hindustan Aeronautics Limited",
+  "explanation": "The Hindustan Aeronautics Limited developed the first flight of Hawk-i with indigenous Real Time Operating System (RTOS). Hawk-i is the first indigenous RTOS developed in India from scratch and certified by Center for Military Airworthiness and Certification (CEMILAC). The RTOS is the system software which provides a standard run-time environment for real-time applications execution in a safe and reliable manner.",
+  "verified_at": ""
+}

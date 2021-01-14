@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:02.041Z",
+  "id": "4a60db23-d2ed-47ce-a895-097fa8c50a23",
+  "labels": "current-affairs,2018-01-10",
+  "question": "How many million cars on roads building HD maps this year?",
+  "option1": 2,
+  "option2": 4,
+  "option3": 6,
+  "option4": 10,
+  "option5": "",
+  "answer": 2,
+  "explanation": "Intel Corp (INTC.O) Chief Executive Brian Krzanich said on Monday 2 million vehicles from BMW (BMWG.DE), Nissan Motor Co Ltd (7201.T) and Volkswagen AG (VOWG_p.DE) would use its unit Mobileye's autonomous vehicle technology to crowdsource data for building maps that enable autonomous driving. The world's largest chipmaker bought Israeli firm Mobileye last year to compete with peers such as Qualcomm Inc (QCOM.O) and Nvidia Corp (NVDA.O) and tap the fast-growing market of driverless cars. Intel will also tie up with SAIC Motor Corp Ltd (600104.SS), which will use Mobileye technology to develop cars in China, the chipmaker said. Krzanich also said Intel had not received any information of customer data being compromised so far after the company confirmed last week that the security issues reported by researchers in its widely used microprocessors could allow hackers to steal sensitive information from computers, phones and other devices.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-13T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:09.135Z",
+  "id": "15a33fa4-b341-446d-8695-d733e3e40dfc",
+  "labels": "current-affairs,2018-01-13",
+  "question": "Which country became 2nd internet service provider for Nepal, breaking India's Internet monopoly in Nepal?",
+  "option1": "Malaysia",
+  "option2": "Singapore",
+  "option3": "Japan",
+  "option4": "China",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The Hong Kong and Beijing based China Telecom Global (CTG) - a company formed in 2012 - has teamed up with Nepal Telecom to provide alternate cyber-connectivity to Nepal. So far, Nepal had been linked to the global internet network through Indian telecom operators, using optical fiber connections in Biratnagar, Bhairahawa and Birgunj, among others. But a new terrestrial fiber cable launched in 2016 by CTG will now connect Nepal and China through the Jilong (Rasuwagadhi) border gateway.",
+  "verified_at": ""
+}

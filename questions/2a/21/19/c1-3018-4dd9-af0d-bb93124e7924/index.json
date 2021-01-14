@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-22T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:30.713Z",
+  "id": "2a2119c1-3018-4dd9-af0d-bb93124e7924",
+  "labels": "current-affairs,2018-01-22",
+  "question": "How many banks have suspended some accounts of major Bitcoin exchanges in India on suspicious transactions recently?",
+  "option1": 3,
+  "option2": 5,
+  "option3": 7,
+  "option4": 8,
+  "option5": "",
+  "answer": 5,
+  "explanation": "The top banks of the country including State Bank of India (SBI), HDFC Bank, Axis Bank, ICICI Bank and YES Bank have suspended some accounts of major Bitcoin exchanges in India on suspicious transactions. The legal action has been initiated against top ten cryptocurrency exchanges in the country, including - Zebpay, Unocoin, CoinSecure and BtcxIndia. The total estimated revenue of these exchanges in India stands at Rs 400 billion.",
+  "verified_at": ""
+}

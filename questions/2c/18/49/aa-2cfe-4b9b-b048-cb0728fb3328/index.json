@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-10T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:15.467Z",
+  "id": "2c1849aa-2cfe-4b9b-b048-cb0728fb3328",
+  "labels": "current-affairs,2018-02-10",
+  "question": "For this NH, the National Highways Authority of India (NHAI) has planned to launch a pilot project, to analyse the feasibility of \"Pay as you use\" tolling system in India.",
+  "option1": "Delhi Mumbai National Highway (NH8)",
+  "option2": "Srinagar Kanniyakumari National Highway (NH44)",
+  "option3": "Delhi Chennai National Highway (NH48)",
+  "option4": "Assam Arunachal Pradesh National Highway (NH15)",
+  "option5": "",
+  "answer": "Delhi Mumbai National Highway (NH8)",
+  "explanation": "National Highways Authority of India (NHAI) is launching a pilot project on Delhi Mumbai national highway (NH8) to analyse the feasibility of \"Pay as you use\" tolling system in India. The pilot project includes developing a satellite based electronic toll collection system that works on GPS/GSM technology for nearly 500 commercial vehicles on the Delhi Mumbai national highway. This project will be carried out for 1 year. It will work using mobile telecommunications technology (GSM) and the satellite-based Global Positioning System (GPS). This system will deduct money from a vehicle account and credit money to the concessionaire in 1 day and open the toll gate. In case of transaction failure, toll operator will be alerted, and money will be collected manually before opening the gate.",
+  "verified_at": ""
+}

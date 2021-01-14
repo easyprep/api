@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:10.070Z",
+  "id": "e7258965-9457-4f25-a210-00898c565981",
+  "labels": "current-affairs,2018-02-08",
+  "question": "What is the current repo rate, according to 6th Bi-monthly Monetary policy statement for 2017-18?",
+  "option1": 0.0655,
+  "option2": 0.0625,
+  "option3": 0.06,
+  "option4": 0.0575,
+  "option5": "",
+  "answer": 0.06,
+  "explanation": "In the 6th Bi-monthly Monetary policy statement for 2017-18, the Reserve Bank of India (RBI) has kept the key interest rate \"repo rate\" unchanged at 6% and reverse repo at 5.75%. Also, the Marginal Standing Facility (MSF) rate and the Bank Rate kept at 6.25%. The decision of the Monetary Policy Committee (MPC) is consistent with the neutral stance of monetary policy in consonance with the objective of achieving the medium-term target for consumer price index (CPI) inflation of 4% within a band of +/- 2%, while supporting growth.",
+  "verified_at": ""
+}

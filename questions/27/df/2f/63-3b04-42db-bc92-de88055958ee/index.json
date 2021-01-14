@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-30T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:36.965Z",
+  "id": "27df2f63-3b04-42db-bc92-de88055958ee",
+  "labels": "current-affairs,2017-12-30",
+  "question": "This country has launched the world's largest human genome research project.",
+  "option1": "UK",
+  "option2": "China",
+  "option3": "US",
+  "option4": "India",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China has launched the world's largest human genome research project to document the genetic makeup of one lakh people. The objective of this project is to detect the genetic links between health and sickness and use that information to generate precision medicines for the future. The project envisages to decode the hereditary information contained in each of the 25000 known human genes. The project will be executed in four stages viz. collecting, sequencing gene samples, gathering the data and sharing the findings.",
+  "verified_at": ""
+}

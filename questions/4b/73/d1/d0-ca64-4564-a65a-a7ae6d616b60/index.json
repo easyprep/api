@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-04T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:00.522Z",
+  "id": "4b73d1d0-ca64-4564-a65a-a7ae6d616b60",
+  "labels": "current-affairs,2018-02-04",
+  "question": "Which ministry may introduce dynamic pricing system?",
+  "option1": "Railway ministry",
+  "option2": "Telecom Ministry",
+  "option3": "External Affairs ministry",
+  "option4": "Ministry of Defence",
+  "option5": "",
+  "answer": "Railway ministry",
+  "explanation": "The Railways Ministry the current flex-fare system and is considering introducing a dynamic pricing system for train tickets, Railway Minister Piyush Goyal has said. Under dynamic pricing system, fares will be decided as per the season and demand. The Fares will be automatically adjusted via artificial intelligence, algorithms or technology, to help trains have more occupancy.",
+  "verified_at": ""
+}

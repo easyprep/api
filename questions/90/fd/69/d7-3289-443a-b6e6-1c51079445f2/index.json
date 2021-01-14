@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-03T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:58.280Z",
+  "id": "90fd69d7-3289-443a-b6e6-1c51079445f2",
+  "labels": "current-affairs,2018-02-03",
+  "question": "Name the India's first integrated mobility platform launched by a Health-tech startup 'mCURA'.",
+  "option1": "Smart Card",
+  "option2": "Smart Cura",
+  "option3": "Smart OPD",
+  "option4": "Smart Service",
+  "option5": "",
+  "answer": "Smart OPD",
+  "explanation": "mCURA, a Health-tech startup, launched 'Smart OPD', India's first integrated mobility platform that reduces waiting time in counters and provides e-prescriptions. 'Smart OPD' helps patients to escape long queues at admission and billing counters, labs, pharmacies and hospitals. Labs, pharmacy, doctors and patients are integrated through the mobile platform. By carrying the 'Smart OPD' card, patients can experience fast and smooth movement in the hospitals. Patients can avail Near-field communication (NFC) based \"Tap and Pay\" card (registration plus cash card) at the registration counter. They will be instructed to download the patient app. This app contains medical records, medical bills, payment transactions, etc.",
+  "verified_at": ""
+}

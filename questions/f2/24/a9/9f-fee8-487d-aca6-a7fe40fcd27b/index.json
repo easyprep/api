@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-11T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:17.815Z",
+  "id": "f224a99f-fee8-487d-aca6-a7fe40fcd27b",
+  "labels": "current-affairs,2018-02-11",
+  "question": "According to a global traffic scorecard which city is most congested cities in the world, 2017?",
+  "option1": "New York",
+  "option2": "Los Angeles",
+  "option3": "San Francisco",
+  "option4": "London",
+  "option5": "",
+  "answer": "Los Angeles",
+  "explanation": "According to a global traffic scorecard published annually by Inrix, a company that aggregates and analyzes traffic data collected from vehicles and highway infrastructure, the top 10 most congested cities in the world, 2017 are: 1. Los Angeles 2. New York City (tie) 2. Moscow (tie) 4. Sao Paulo, Brazil 5. San Francisco 6. Bogota 7. London 8. Atlanta 9. Paris 10. Miami The most congested country in the world is Thailand, with drivers spending an average of 56 hours in peak-hour congestion. The top 10 most congested countries, 2017 are: 1. Thailand 2. Indonesia 3. Colombia 4. Venezuela 5. United States (tie) 5. Russia (tie) 7. Brazil (tie) 7. South Africa (tie) 9.Turkey 10. United Kingdom",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-28T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:44.482Z",
+  "id": "47720d47-8af3-4959-8111-d73100aab9d4",
+  "labels": "current-affairs,2018-01-28",
+  "question": "How many millions go missing in largest cryptocurrency hack ever?",
+  "option1": 500,
+  "option2": 250,
+  "option3": 380,
+  "option4": 650,
+  "option5": "",
+  "answer": 500,
+  "explanation": "Japanese cryptocurrency exchange Coincheck has confirmed it lost about $524 million after suffering a hack which stole 500 million NEM tokens It is the biggest cryptocurrency hack ever. NEM, the 10th-largest cryptocurrency by market value, fell 11% over a 24-hour period following the hack. The previous largest theft was pegged at $450 million in 2014 from a Tokyo-based exchange.",
+  "verified_at": ""
+}

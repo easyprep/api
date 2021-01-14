@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-02T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:56.115Z",
+  "id": "5b0f4290-252a-424a-9de2-d9a03b216ae6",
+  "labels": "current-affairs,2018-02-02",
+  "question": "What is the GDP rate of India in 2016-17 from 8.2% in 2015-16?",
+  "option1": 0.071,
+  "option2": 0.072,
+  "option3": 0.075,
+  "option4": 0.078,
+  "option5": "",
+  "answer": 0.071,
+  "explanation": "According to the CSO's revised estimates of national income released on January 31, 2018, gross domestic product (GDP) growth rate for 2015-16 stood at 8.2% from the earlier estimates of 8% while for 2016-17, revised GDP growth remained unchanged at 7.1%. For 2015-16, this is the second revised estimate, while for 2016-17, this is the first revised estimate. Revised estimates are arrived at by taking into consideration a wider range of numbers, including employment data.",
+  "verified_at": ""
+}

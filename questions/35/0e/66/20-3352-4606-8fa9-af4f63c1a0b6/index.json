@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-17T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:05.321Z",
+  "id": "350e6620-3352-4606-8fa9-af4f63c1a0b6",
+  "labels": "current-affairs,2017-12-17",
+  "question": "The name of Nasa's planet Which is discovered using a Google neural network.",
+  "option1": "Kuiper Belts",
+  "option2": "Kepler-90i",
+  "option3": "Dwarf",
+  "option4": "Ceres",
+  "option5": "",
+  "answer": "Kepler-90i",
+  "explanation": "NASA revealed the discovery of Kepler-90i planet using a Google neural network trained to identify planets from the NASA Kepler space telescope's data. Kepler-90i is the eighth planet discovered in the Kepler-90 system. Kepler-90 is a sun-like star located around 2,545 light-years from us. NASA's Kepler was launched in 2009 on a mission to seek out exoplanets and it has since gathered evidence of planets that may be able to host alien life.",
+  "verified_at": ""
+}

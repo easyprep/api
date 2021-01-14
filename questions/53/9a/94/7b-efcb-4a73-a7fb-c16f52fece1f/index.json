@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:09.809Z",
+  "id": "539a947b-efcb-4a73-a7fb-c16f52fece1f",
+  "labels": "current-affairs,2017-12-19",
+  "question": "For which bank Union Government Ropes to Enable Cashless Payments on e-NAM?",
+  "option1": "SBI",
+  "option2": "HDFC",
+  "option3": "ICICI",
+  "option4": "South Indian Bank",
+  "option5": "",
+  "answer": "ICICI",
+  "explanation": "The government has engaged private lender ICICI Bank to enable online payments at 470 mandis integrated with the national portal of electronic National Agriculture Market (e-NAM). At present, e-NAM participants are doing payments through traditional ways via bank branches, debit cards, and net banking. ICICI Bank will enable BHIM (Bharat Interface for Money) and Unified Payments Interface (UPI) on the e-NAM portal for making cashless payments.",
+  "verified_at": ""
+}

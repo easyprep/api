@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-01T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:41.569Z",
+  "id": "405091e2-7840-42e7-a299-da3679746733",
+  "labels": "current-affairs,2018-01-01",
+  "question": "How many Satellites will be launched by ISRO in a single mission on-board its Polar rocket on 10th January 2018?",
+  "option1": 28,
+  "option2": 42,
+  "option3": 31,
+  "option4": 50,
+  "option5": "",
+  "answer": 31,
+  "explanation": "ISRO announced that it will launch 31 satellites in a single mission on-board its Polar rocket on 10th January 2018. This mission will be the first 'Polar Satellite Launch Vehicle' (PSLV) mission after the failure of IRNSS-1H launch in August 2017. Main payload of this mission is India's Cartosat-2 series earth observation satellite. The launch will be carried out from the spaceport at Sriharikota and PSLV-C40 will be used for the launch. The mission consists of 28 nano satellites from other countries, one micro and one nano satellite, and one Cartosat satellite from India.",
+  "verified_at": ""
+}

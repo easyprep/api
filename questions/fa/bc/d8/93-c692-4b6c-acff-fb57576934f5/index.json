@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-23T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:33.005Z",
+  "id": "fabcd893-c692-4b6c-acff-fb57576934f5",
+  "labels": "current-affairs,2018-01-23",
+  "question": "This introduces India's first augmented reality feature for Train Passengers.",
+  "option1": "IRCTC",
+  "option2": "ixigo",
+  "option3": "Wego",
+  "option4": "Kayak",
+  "option5": "",
+  "answer": "ixigo",
+  "explanation": "ixigo, has launched AR Coach Position feature, India's first augmented reality (AR) feature on its trains app. Using the AR Coach Position feature, train travellers can locate their coach positions exactly, for more than 13,000 passenger trains at nearly 7,000 railway stations in India. Using iPhone 6+ or latest versions of iPhone, users can get their coaches categorized and labeled and find out how far they are from their coach. ixigo has also released Station Alarm and Rescheduled trains features. The Station Alarm feature alerts users when they approach their destination station.",
+  "verified_at": ""
+}

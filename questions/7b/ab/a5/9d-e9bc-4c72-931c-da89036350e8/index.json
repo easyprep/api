@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-07T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:07.833Z",
+  "id": "7baba59d-e9bc-4c72-931c-da89036350e8",
+  "labels": "current-affairs,2018-02-07",
+  "question": "Which rocket Launches Its Most Powerful Rocket Towards Mars?",
+  "option1": "CartoSat",
+  "option2": "SpaceX",
+  "option3": "Agni VI",
+  "option4": "Aryabhatta",
+  "option5": "",
+  "answer": "SpaceX",
+  "explanation": "The US-based SpaceX successfully launched the world's most powerful operational rocket Falcon Heavy towards Mars. The rocket, carrying a Tesla Roadster car, will revolve around the Sun in a way that will repeatedly bring it close to the Earth and Mars. The Falcon Heavy's thrust and capacity are the highest since NASA's Saturn V, which carried astronauts to the Moon. Falcon Heavy successfully lifted off from Launch Complex 39A at Kennedy Space Center in Florida.",
+  "verified_at": ""
+}

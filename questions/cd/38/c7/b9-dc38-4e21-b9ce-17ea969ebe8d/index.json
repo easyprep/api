@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-14T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:58.151Z",
+  "id": "cd38c7b9-dc38-4e21-b9ce-17ea969ebe8d",
+  "labels": "current-affairs,2017-12-14",
+  "question": "Which organisation introduces Online Bill tracking system for Vendors & Contractors?",
+  "option1": "Indian Airways",
+  "option2": "Indian Railways",
+  "option3": "Indian Navy",
+  "option4": "Reserve Bank of India",
+  "option5": "",
+  "answer": "Indian Railways",
+  "explanation": "Indian Railways have introduced a bill tracking system for contractors/vendors of Indian Railways to track the status of their bills. This is in line with the emphasis given by Minister of Railways & Coal, Piyush Goyal on increased use of information technology to go digital and online with a view to promoting transparency and efficiency in the system. The vendor/contractor need to register with the online IT platform developed in-house by CRIS, New Delhi called Indian Railways E-Procurement System (IREPS). The registration enables the vendor/agencies to see their bill status with dates through various stages of processing of bills, the stage at which it is lying, the amount for which it is passed and other details.",
+  "verified_at": ""
+}

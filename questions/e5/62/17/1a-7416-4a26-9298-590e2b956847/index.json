@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-22T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:30.725Z",
+  "id": "e562171a-7416-4a26-9298-590e2b956847",
+  "labels": "current-affairs,2018-01-22",
+  "question": "China launched __________ high-resolution optical remote sensing satellites from the Jiuquan Satellite Launch Center.",
+  "option1": 2,
+  "option2": 5,
+  "option3": 8,
+  "option4": 12,
+  "option5": "",
+  "answer": 2,
+  "explanation": "China launched two high-resolution optical remote sensing satellites from the Jiuquan Satellite Launch Center, located in northwest China. The satellites that were launched were commercial satellites named 'Jilin-1 Video 07 and 08', independently developed by Chang Guang Satellite Technology Co. Ltd. Jilin-1 Video 07 and 08 were launched onboard Long March-11 rocket along with four other small commercial satellites, including one satellite of Canada. Jilin-1 Video 07 and 08 will provide remote sensing data. Its services will not only be used by government but also by industry users along with eight previously launched Jilin-1 satellites.",
+  "verified_at": ""
+}

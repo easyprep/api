@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-06T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:05.400Z",
+  "id": "510c96ea-460d-441d-8cef-bf80d4d470b2",
+  "labels": "current-affairs,2018-02-06",
+  "question": "This company has launched '#SecurityCheckKiya' campaign in India to create awareness around Internet safety recently.",
+  "option1": "Twitter",
+  "option2": "IBM",
+  "option3": "Facebook",
+  "option4": "Google",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Search engine giant Google launched '#SecurityCheckKiya' campaign in India to create awareness around Internet safety. It was launched on the ocean. The campaign aims to protect first-time web users from account hijacking, safeguard Android devices from malicious apps and secure all their personal time. Under the campaign, Google recommended three simple steps for Internet safety. It includes reviewing security settings and Google account activity. Moreover 'Google Play Protect' service scans and checks Android devices for any harmful apps. Find My Device app from Google helps a user to easily long away.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-26T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:39.916Z",
+  "id": "b51ee2e3-d3db-4d1e-80f9-8b3425e87aad",
+  "labels": "current-affairs,2018-01-26",
+  "question": "Which company AI to enhance translations of Indian languages?",
+  "option1": "Microsoft",
+  "option2": "Apple",
+  "option3": "Samsung",
+  "option4": "Honour",
+  "option5": "",
+  "answer": "Microsoft",
+  "explanation": "Microsoft will use Deep Neural Networks to enable high-quality Indian language translations. It recognizes speech to convert into text, eliminates errors in the data, translates it to the target language, and synthesizes the text-based translation into speech. It also puts every word within the context of other words in the sentence to better the translation.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:31:23.014Z",
+  "id": "7f6cae32-7389-4b8d-a566-67ad2f11992d",
+  "labels": "current-affairs,2018-01-19",
+  "question": "Google awarded __________ for finding bugs in Pixel phone.",
+  "option1": "60 lakh",
+  "option2": "10 lakh",
+  "option3": "72 lakh",
+  "option4": "80 lakh",
+  "option5": "",
+  "answer": "72 lakh",
+  "explanation": "Google awarded nearly 72 lakh to researcher Guang Gong for finding bugs in its Pixel devices. The exploit chain consisted of two bugs which together could inject arbitrary code into system server by accessing a malicious URL in Chrome. Around 67 lakh of the reward was given from Google's Android Security Rewards program, the highest in the program's history.",
+  "verified_at": ""
+}

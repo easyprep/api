@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-14T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:24.782Z",
+  "id": "2347fa2b-0cad-4e99-829a-600e38f008dc",
+  "labels": "current-affairs,2018-02-14",
+  "question": "World's first robot ski competition held in ___________.",
+  "option1": "Denmark",
+  "option2": "South Korea",
+  "option3": "Brazil",
+  "option4": "Canada",
+  "option5": "",
+  "answer": "South Korea",
+  "explanation": "World's first robot ski competition \"The Edge of Robot: Ski Robot Challenge\" was held near PyeongChang at Welli Hilli ski resort in South Korea. Eight humanoid robots from universities and other organisations participated in this robot ski competition. The robots had sensors, batteries and deep learning algorithms to move and ski on their own. Prize money of the competition was said to be $10,000.",
+  "verified_at": ""
+}

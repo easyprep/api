@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-15T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:00.749Z",
+  "id": "09a4361c-38e6-4ba4-8de6-6339a949db49",
+  "labels": "current-affairs,2017-12-15",
+  "question": "Which company opens 1st Machine Learning Research Lab in Asia with Google AI China Center?",
+  "option1": "Infosys",
+  "option2": "IBM",
+  "option3": "Facebook",
+  "option4": "Google",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "In an apparent move to rebuild its presence in China, Google announced that it will open a research lab focused on Artificial Intelligence (AI) in Beijing, China. It will be its first such centre in Asia. The \"Google AI China Centre\" will join the other AI research groups that the company has in other parts of the world, including in New York, Toronto, London and Zurich. The main Focused on basic AI research, the lab will consist of a team of AI researchers in Beijing, supported by the company's engineering teams.",
+  "verified_at": ""
+}

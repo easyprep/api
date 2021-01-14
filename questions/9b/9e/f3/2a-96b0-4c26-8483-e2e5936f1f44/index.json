@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-12T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:29:53.505Z",
+  "id": "9b9ef32a-96b0-4c26-8483-e2e5936f1f44",
+  "labels": "current-affairs,2017-12-12",
+  "question": "Which of the following bank won the Best Mobile Banking Application in the FE Best Banks Awards 2015-16 ceremony?",
+  "option1": "HDFC",
+  "option2": "ICICI",
+  "option3": "Kotak Mahindra Bank",
+  "option4": "City Union Bank",
+  "option5": "",
+  "answer": "ICICI",
+  "explanation": "FE Best Banks Awards are considered as India's most coveted banking awards. These awards are presented annually to banks that have delivered outstanding performance on various parameters including growth, profitability and soundness. ICICI won the Best Mobile Banking Application in the FE Best Banks Awards 2015-16 ceremony.",
+  "verified_at": ""
+}

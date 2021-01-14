@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-08T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:57.255Z",
+  "id": "c327b875-e02a-42ce-862d-ed5d7aaacc13",
+  "labels": "current-affairs,2018-01-08",
+  "question": "NASA planned to launch __________ mission to explore nearest space.",
+  "option1": 8,
+  "option2": 5,
+  "option3": 4,
+  "option4": 2,
+  "option5": "",
+  "answer": 2,
+  "explanation": "National Aeronautics and Space Administration (NASA) has announced that it would launch two missions - GOLD and ICON - during 2018 to explore the little-understood area of 96 km above Earth's surface. Global-scale Observations of the Limb and Disk (GOLD) mission and the Ionospheric Connection Explorer (ICON) are complementary missions to explore ionosphere, a boundary area between Earth and the space (from about 60 km to 1000 km altitude) which is like a sea of particles that have been ionised by solar radiation. Ionosphere holds special significance for humans as it influences radio signals used to guide airplanes, ships and Global Positioning System (GPS) satellites. GOLD mission, which will be in a geostationary orbit over the Western Hemisphere, about 35398 km above Earth's surface will be launched in January 2018 while ICON which will be in low-Earth orbit, at 560 km above Earth will be launched in later part of 2018.",
+  "verified_at": ""
+}

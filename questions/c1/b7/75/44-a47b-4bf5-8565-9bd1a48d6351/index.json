@@ -1,0 +1,15 @@
+{
+  "created_at": "2017-12-19T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:09.786Z",
+  "id": "c1b77544-a47b-4bf5-8565-9bd1a48d6351",
+  "labels": "current-affairs,2017-12-19",
+  "question": "UIDAI has temporarily barred ___________ from conducting Aadhaar-based SIM verification of mobile customers.",
+  "option1": "Idea",
+  "option2": "Reliance Jio",
+  "option3": "Bharti Airtel",
+  "option4": "BSNL",
+  "option5": "",
+  "answer": "Bharti Airtel",
+  "explanation": "Unique Identification Authority of India (UIDAI) has temporarily barred Bharti Airtel from conducting Aadhaar-based SIM verification of mobile customers using eKYC process. It also barred Airtel Payments Bank for processing e-KYC of clients. This action is in response to complaints that Bharti Airtel has been using Aadhaar-eKYC based SIM verification process to open payments bank accounts of its subscribers without their consent. UIDAI has also considered allegations that such Airtel Payments Bank accounts are being linked to receive LPG subsidy.",
+  "verified_at": ""
+}

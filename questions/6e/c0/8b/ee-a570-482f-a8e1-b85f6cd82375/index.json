@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-02-05T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:32:03.145Z",
+  "id": "6ec08bee-a570-482f-a8e1-b85f6cd82375",
+  "labels": "current-affairs,2018-02-05",
+  "question": "What is the name of India's first sentiment index for micro and small enterprises (MSEs)?",
+  "option1": "CriSidIndex",
+  "option2": "SidCriEx",
+  "option3": "CriSidEx",
+  "option4": "SidCriIndex",
+  "option5": "",
+  "answer": "CriSidEx",
+  "explanation": "Union Minister for Finance and Corporate Affairs, Arun Jaitley launched CriSidEx , India's first sentiment index for micro and small enterprises ( MSEs). This index has been developed jointly by CRISIL & Small Industries Development Bank of India (SIDBI). It is based on 8 parameters and measures MSE business sentiment on a scale of 0 to 200, wherein 0 is 'extremely negative' while 200 is 'extremely positive'.",
+  "verified_at": ""
+}

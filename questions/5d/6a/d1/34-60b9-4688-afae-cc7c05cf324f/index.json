@@ -1,0 +1,15 @@
+{
+  "created_at": "2018-01-06T00:00:00.000Z",
+  "updated_at": "2021-01-09T09:30:53.005Z",
+  "id": "5d6ad134-60b9-4688-afae-cc7c05cf324f",
+  "labels": "current-affairs,2018-01-06",
+  "question": "This launches World's first biometric card for contactless payments.",
+  "option1": "IBM",
+  "option2": "Gemalto",
+  "option3": "Cisco",
+  "option4": "Raytheon",
+  "option5": "",
+  "answer": "Gemalto",
+  "explanation": "Bank of Cyprus has selected Gemalto, an international digital security company to supply world's first biometric payment card for both chip and contactless payments. These cards will use fingerprint recognition instead of a personal identification number (PIN) to authenticate the cardholder. For authentication, the cardholder will have to place his/her fingerprint on the sensor embedded on the card. A comparison will be performed between the scanned fingerprint and the reference biometric data securely stored in the card. The biometric sensor on the card is powered by the payment terminal and does not require an embedded battery.",
+  "verified_at": ""
+}
