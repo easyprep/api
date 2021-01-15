@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-15T15:53:29.000Z",
+  "updated_at": "2021-01-15T15:53:29.000Z",
+  "id": "e35bcbcd-f94c-46b8-87d0-b4a24538877c",
+  "labels": "current-affairs,2021-01-16",
+  "question": "Which Indian Armed Force signed a contract with a private company to procure high-altitude SWITCH Drones, for USD 20 mn?",
+  "option1": "Indian Air Force",
+  "option2": "Indian Army",
+  "option3": "Indian Navy",
+  "option4": "Indian Coast Guard",
+  "option5": "",
+  "answer": "Indian Army",
+  "explanation": "The Indian Army has signed a contract with ideaForge to procure the high-altitude version of SWITCH unmanned aerial vehicles (UAVs).<br />The UAVs, also called as Drones are expected to be delivered to the Indian Army within a year, at a cost of approximately USD 20 million. ideaForge is a Mumbai-based private company, which has been working on Research and Product Development.",
+  "verified_at": ""
+}

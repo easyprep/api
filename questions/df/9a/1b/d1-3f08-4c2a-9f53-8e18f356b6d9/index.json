@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-15T16:54:49.000Z",
+  "updated_at": "2021-01-15T16:54:49.000Z",
+  "id": "df9a1bd1-3f08-4c2a-9f53-8e18f356b6d9",
+  "labels": "current-affairs,2021-01-16",
+  "question": "Google has removed the Personal Loan applications in which country, amid safety concerns?",
+  "option1": "China",
+  "option2": "India",
+  "option3": "Pakistan",
+  "option4": "Bangladesh",
+  "option5": "",
+  "answer": "India",
+  "explanation": "Technology major Google has reviewed hundreds of personal loan apps in India that were flagged by users and government agencies.<br />It has also removed those apps which were found to violate its user safety policies. Earlier, the RBI had warned the public not to fall prey to the unauthorised digital lending platforms and mobile apps. Google mandates the developers of financial services app to disclose all key information.",
+  "verified_at": ""
+}
