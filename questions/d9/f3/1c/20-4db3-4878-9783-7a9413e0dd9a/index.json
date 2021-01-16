@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-16T15:37:48.000Z",
+  "updated_at": "2021-01-16T15:45:16.000Z",
+  "id": "d9f31c20-4db3-4878-9783-7a9413e0dd9a",
+  "labels": "current-affairs,2021-01-17",
+  "question": "What amount of funds (in Rupees) has been sucked out of the financial system by RBI through its recent Reverse REPO operation?",
+  "option1": "1 Million",
+  "option2": "1 Trillion",
+  "option3": "2 Trillion",
+  "option4": "2 Billion",
+  "option5": "",
+  "answer": "2 Trillion",
+  "explanation": "The Reserve Bank of India (RBI) has recently drained Rs 2 trillion of liquidity from the system using its 14-day reverse repo auction. <br />This is a part of Reserve Bank’s process of normalising liquidity operations. The present Reverse Repo rate is 3.35%, while the cut off rate for the said auction was set at 3.55%. RBI has stated that it has got bids worth Rs 3.06 trillion.",
+  "verified_at": ""
+}
