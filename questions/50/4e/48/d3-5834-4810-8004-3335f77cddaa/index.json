@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-18T15:09:28.000Z",
+  "updated_at": "2021-01-18T15:09:28.000Z",
+  "id": "504e48d3-5834-4810-8004-3335f77cddaa",
+  "labels": "current-affairs,2021-01-19",
+  "question": "Which social media giant has delayed the implementation of a new privacy policy by 3 months?",
+  "option1": "Telegram",
+  "option2": "WhatsApp",
+  "option3": "Instagram",
+  "option4": "Twitter",
+  "option5": "",
+  "answer": "WhatsApp",
+  "explanation": "The Facebook owned social communication giant “WhatsApp” has announced that, the implementation of its new privacy policy has been delayed by 3 months. The privacy policy was to originally come into force on Feb 8, 2021. <br />The new privacy policy has come under severe criticism from public and has led to massive migration of users from WhatsApp to other platforms like Signal and Telegram.",
+  "verified_at": ""
+}
