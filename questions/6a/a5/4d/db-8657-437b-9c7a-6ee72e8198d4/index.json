@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-19T15:39:42.000Z",
+  "updated_at": "2021-01-19T15:39:42.000Z",
+  "id": "6aa54ddb-8657-437b-9c7a-6ee72e8198d4",
+  "labels": "current-affairs,2021-01-20",
+  "question": "In which Indian train, the concept of “Push-Pull mode” has been implemented recently?",
+  "option1": "Shatabdi",
+  "option2": "Rajdhani",
+  "option3": "Tejas",
+  "option4": "Uday",
+  "option5": "",
+  "answer": "Rajdhani",
+  "explanation": "Indian Railways has introduced the technology of “Push-Pull mode” in Central Railway’s Rajdhani Express that connects New Delhi with Mumbai.<br />The train will be run with one engine at the front and one in the rear. This setup saves time and fuel by eliminating the need to attach and detach bankers in the ghat section.",
+  "verified_at": ""
+}

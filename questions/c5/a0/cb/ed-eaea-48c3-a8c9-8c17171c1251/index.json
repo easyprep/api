@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-19T15:52:54.000Z",
+  "updated_at": "2021-01-19T15:52:55.000Z",
+  "id": "c5a0cbed-eaea-48c3-a8c9-8c17171c1251",
+  "labels": "current-affairs,2021-01-20",
+  "question": "Which Indian IT major has recently obtained Google Cloud Partner status?",
+  "option1": "HCL",
+  "option2": "Wipro",
+  "option3": "Infosys",
+  "option4": "TCS",
+  "option5": "",
+  "answer": "Infosys",
+  "explanation": "The Indian technology major ‘Infosys’ has been accredited with the Google as Cloud Partner with specialization in the data and analytics space. The company has successfully demonstrated end to end capabilities on Google Cloud. <br />By this, Infosys become one among the top global players to be accredited with this specialization.",
+  "verified_at": ""
+}
