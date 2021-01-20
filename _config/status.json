@@ -1,9 +1,9 @@
 {
     "fetch": {
         "excludeFirst": true,
-        "startDate": "2021-01-19T15:59:17.000Z",
+        "startDate": "2021-01-20T17:15:50.000Z",
         "limit": 1000,
-        "startId": "a00539f1-fb90-46d2-b12c-ff61d2f63281"
+        "startId": "d2e95d65-12b3-44c8-ac52-12b82c43a8ab"
     },
     "index": {
         "limit": 10

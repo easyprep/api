@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-20T17:08:58.000Z",
+  "updated_at": "2021-01-20T17:08:58.000Z",
+  "id": "f96a51a5-4957-461e-91db-c67f5a2cd817",
+  "labels": "current-affairs,2021-01-21",
+  "question": "The Ministry of Electronics and IT has asked which company to withdraw its privacy policy?",
+  "option1": "Google",
+  "option2": "WhatsApp",
+  "option3": "Microsoft",
+  "option4": "Amazon",
+  "option5": "",
+  "answer": "WhatsApp",
+  "explanation": "The Ministry of Electronics and Information technology (MeitY) has recently asked WhatsApp to withdraw its new privacy policy.<br />The Ministry has termed the policy as unilateral, unfair and unacceptable and asked the firm to reconsider its approach to data privacy and data security. Detailed information about the data sharing protocols was also sought.",
+  "verified_at": ""
+}
