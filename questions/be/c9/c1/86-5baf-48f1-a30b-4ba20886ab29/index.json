@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-21T18:09:32.000Z",
+  "updated_at": "2021-01-21T18:09:32.000Z",
+  "id": "bec9c186-5baf-48f1-a30b-4ba20886ab29",
+  "labels": "current-affairs,2021-01-22",
+  "question": "Which Indian lender is the first to execute deals with pricing linked to SOFR (Secured Overnight Financing Rate)?",
+  "option1": "ICICI Bank",
+  "option2": "SBI",
+  "option3": "Axis Bank",
+  "option4": "Yes Bank",
+  "option5": "",
+  "answer": "SBI",
+  "explanation": "State Bank of India (SBI) has recently executed two inter-bank money market deals with pricing linked to SOFR (Secured Overnight Financing Rate).<br />SOFR is a replacement for London Inter-bank Offered Rate (LIBOR), which is global reference rate for unsecured short-term borrowing in the interbank market.",
+  "verified_at": ""
+}
