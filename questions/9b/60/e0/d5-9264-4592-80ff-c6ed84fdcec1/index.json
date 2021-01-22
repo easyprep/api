@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-22T13:43:20.000Z",
+  "updated_at": "2021-01-22T13:43:21.000Z",
+  "id": "9b60e0d5-9264-4592-80ff-c6ed84fdcec1",
+  "labels": "current-affairs,2021-01-23",
+  "question": "Electronics and IT Ministry is to collaborate with which company to set up a Quantum Computing Applications Lab?",
+  "option1": "Microsoft",
+  "option2": "Amazon",
+  "option3": "Apple",
+  "option4": "Google",
+  "option5": "",
+  "answer": "Amazon",
+  "explanation": "The Ministry of Electronics and Information Technology (MeitY) has announced to set up a Quantum Computing Applications Lab in association with Amazon Web Services (AWS).<br />Through this step, the researchers in educational institutions or start-up ecosystem, will get access to quantum computing hardware, simulators, and programming tools through Amazon Braket service, at no cost.",
+  "verified_at": ""
+}
