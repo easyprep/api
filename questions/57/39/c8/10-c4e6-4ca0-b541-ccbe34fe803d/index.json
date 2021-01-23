@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-23T16:22:14.000Z",
+  "updated_at": "2021-01-23T16:22:14.000Z",
+  "id": "5739c810-c4e6-4ca0-b541-ccbe34fe803d",
+  "labels": "current-affairs,2021-01-24",
+  "question": "The Reserve Bank of India (RBI) proposed a four-tier regulatory framework for which type of financial institutions?",
+  "option1": "Payment Banks",
+  "option2": "NBFCs",
+  "option3": "Small Finance Banks",
+  "option4": "Foreign Banks",
+  "option5": "",
+  "answer": "NBFCs",
+  "explanation": "Reserve Bank of India recently released a discussion paper on revised regulatory framework for Non-Banking Financial Companies (NBFCs).<br />As per the paper, the regulatory and supervisory framework of NBFCs shall be based on a four-layered structure namely Base Layer, Middle Layer, Upper Layer and a possible Top Layer. RBI also recommended more power for the NBFC Boards on capital and risk management.",
+  "verified_at": ""
+}

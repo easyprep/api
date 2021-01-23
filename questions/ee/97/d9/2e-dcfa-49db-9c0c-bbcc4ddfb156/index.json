@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-23T16:45:04.000Z",
+  "updated_at": "2021-01-23T16:45:04.000Z",
+  "id": "ee97d92e-dcfa-49db-9c0c-bbcc4ddfb156",
+  "labels": "current-affairs,2021-01-24",
+  "question": "The train named 'Vasuki', that is seen in news recently, is associated with railway zone?",
+  "option1": "Southern Railway",
+  "option2": "Konkan Railway",
+  "option3": "South East Central Railway",
+  "option4": "Northern Railway",
+  "option5": "",
+  "answer": "South East Central Railway",
+  "explanation": "The freight train named 'Vasuki' operated by South East Central Railway has created a new record for longest ever freight train. This train has been formed by amalgamation five rakes of goods trains as a single unit of around 3.5 km.<br />The train has covered a total distance of 224 km between Bhilai and Korba.",
+  "verified_at": ""
+}

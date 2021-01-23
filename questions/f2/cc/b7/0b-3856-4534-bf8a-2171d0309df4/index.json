@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-23T17:00:06.000Z",
+  "updated_at": "2021-01-23T17:00:06.000Z",
+  "id": "f2ccb70b-3856-4534-bf8a-2171d0309df4",
+  "labels": "current-affairs,2021-01-24",
+  "question": "As per the release by Department of Science and Technology, what is India’s position in number of scientific publications?",
+  "option1": "First",
+  "option2": "Third",
+  "option3": "Fifth",
+  "option4": "Tenth",
+  "option5": "",
+  "answer": "Third",
+  "explanation": "Department of Science and Technology has stated recently that the number of scientific publications from India has increased exponentially over the last 10 years and that India stands at 3rd position globally in number of scientific publications.<br />China and USA are ahead of India in the list. In the year 2017-18, 1,937 out of the total 13,045 patents were filed by Indians.",
+  "verified_at": ""
+}
