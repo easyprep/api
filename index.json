@@ -1,5 +1,5 @@
 {
-  "err": false,
-  "msg": "OK",
-  "ts": 1611483303999
+  "err": true,
+  "msg": "Network Error",
+  "ts": 1611486874175
 }
