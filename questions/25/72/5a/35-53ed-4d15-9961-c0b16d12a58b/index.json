@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-26T17:08:04.000Z",
+  "updated_at": "2021-01-26T17:08:04.000Z",
+  "id": "25725a35-53ed-4d15-9961-c0b16d12a58b",
+  "labels": "current-affairs,2021-01-27",
+  "question": "What type of missile is “Akash-NG”, which was test-fired recently?",
+  "option1": "Surface to Surface Missile",
+  "option2": "Air to Air Missile",
+  "option3": "Anti-Tank Missile",
+  "option4": "Surface to Air Missile",
+  "option5": "",
+  "answer": "Surface to Air Missile",
+  "explanation": "The Defence Research Development Organisation (DRDO) has successfully conducted the maiden launch of Akash-NG (New Generation) Missile. It is a New Generation Surface to Air Missile designed to be used in Indian Air Force.<br />It has the capacity to intercept high maneuvering low RCS aerial threats. The test was carried out at the Integrated Test Range off the coast of Odisha.",
+  "verified_at": ""
+}

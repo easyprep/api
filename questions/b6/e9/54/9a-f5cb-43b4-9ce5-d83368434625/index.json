@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-26T17:06:52.000Z",
+  "updated_at": "2021-01-26T17:06:52.000Z",
+  "id": "b6e9549a-f5cb-43b4-9ce5-d83368434625",
+  "labels": "current-affairs,2021-01-27",
+  "question": "Which Indian organisation is examining about the need and operationalization of digital currencies in India?",
+  "option1": "SEBI",
+  "option2": "RBI",
+  "option3": "NPCI",
+  "option4": "NITI Aayog",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The nation’s central bank - Reserve Bank of India (RBI) has stated that it is examining the need to introduce central bank digital currency (CBDC) in the country. Also, if the need is felt, RBI is also working on the means to operationalize the digital currency in India. <br />This move comes against the back of increase in private digital currencies, virtual currencies.",
+  "verified_at": ""
+}
