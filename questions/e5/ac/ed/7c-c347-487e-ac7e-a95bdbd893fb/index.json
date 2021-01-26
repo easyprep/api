@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-26T02:21:23.000Z",
+  "updated_at": "2021-01-26T02:21:23.000Z",
+  "id": "e5aced7c-c347-487e-ac7e-a95bdbd893fb",
+  "labels": "current-affairs,2021-01-27",
+  "question": "The rocket of which space organisation has made a record for carrying the highest number of satellites in a single mission?",
+  "option1": "NASA",
+  "option2": "ISRO",
+  "option3": "JAXA",
+  "option4": "Space X",
+  "option5": "",
+  "answer": "Space X",
+  "explanation": "Recently, the Falcon 9 rocket of Space X set a record for carrying the maximum number of satellites in a single space mission. The rocket carried and deployed 143 spacecraft into their respective orbits successfully. <br />The rocket was launched from the Space Launch Complex 40 in Florida. Falcon 9 rocket of Space X is a reusable in nature.",
+  "verified_at": ""
+}

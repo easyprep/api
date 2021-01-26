@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-26T02:22:08.000Z",
+  "updated_at": "2021-01-26T02:22:08.000Z",
+  "id": "7e669c7b-38f8-48db-9656-efaad1347862",
+  "labels": "current-affairs,2021-01-27",
+  "question": "Which organisation has released the report titled “The Inequality Virus”?",
+  "option1": "WHO",
+  "option2": "NITI Aayog",
+  "option3": "IMF",
+  "option4": "Oxfam International",
+  "option5": "",
+  "answer": "Oxfam International",
+  "explanation": "The report titled “The Inequality Virus” has been released recently by Oxfam International. The report has found that the Covid pandemic has deepened the existing inequalities. <br />The report has made a comparison that during the national lockdown in India its top 100 billionaires saw their fortunes increase by Rs 12.97 trillion while 70,000 people lost their jobs every hour in the month of April 2020.",
+  "verified_at": ""
+}
