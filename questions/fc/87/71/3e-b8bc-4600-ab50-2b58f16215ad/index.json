@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-29T03:05:11.000Z",
+  "updated_at": "2021-01-29T03:05:11.000Z",
+  "id": "fc87713e-b8bc-4600-ab50-2b58f16215ad",
+  "labels": "current-affairs,2021-01-30",
+  "question": "Which country has launched “New Variant Assessment Platform”?",
+  "option1": "USA",
+  "option2": "UK",
+  "option3": "China",
+  "option4": "Brazil",
+  "option5": "",
+  "answer": "UK",
+  "explanation": "The United Kingdom (UK) has launched a New Variant Assessment Platform, which will be used to identify new variants COVID-19 viruses. <br />It uses genomics expertise possessed by UK and has been dedicated for use by countries which does not have sufficient resources for identifying the new Covid virus strains.",
+  "verified_at": ""
+}

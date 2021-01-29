@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-29T03:02:25.000Z",
+  "updated_at": "2021-01-29T03:02:25.000Z",
+  "id": "be6faedb-128f-4f02-8dbf-d27b956ef3a4",
+  "labels": "current-affairs,2021-01-30",
+  "question": "What is Melatonin?",
+  "option1": "Covid-19 drug candidate",
+  "option2": "Plant based chemical",
+  "option3": "Hormone secreted in humans",
+  "option4": "By-product of fractional distillation",
+  "option5": "",
+  "answer": "Hormone secreted in humans",
+  "explanation": "A recent research by University of Sao Paulo has revealed that Melatonin hormone secreted in the lungs of human beings act as an effective barrier against Covid-19 infection.<br />It has been identified that the hormone secretion inhibits the expression of genes that are entry points for the virus.",
+  "verified_at": ""
+}
