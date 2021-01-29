@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-29T18:15:20.000Z",
+  "updated_at": "2021-01-29T18:15:20.000Z",
+  "id": "4b16ea22-b6fc-46d6-b61e-3a043cd64481",
+  "labels": "current-affairs,2021-01-30",
+  "question": "Which tech major has announced the proprietary technology of charging multiple electronic devices in wireless mode?",
+  "option1": "Samsung",
+  "option2": "Nokia",
+  "option3": "Xiaomi",
+  "option4": "Sony",
+  "option5": "",
+  "answer": "Xiaomi",
+  "explanation": "China-based technology major Xiaomi has announced “Mi Air Charge”. It is a new wireless charging technology that has been patented by the company. <br />This device lets users to charge multiple electronic devices without any cables, pads, or wireless charging stands. But Xiaomi has stated that this device is still in the concept phase and will not be available commercially in the near future.",
+  "verified_at": ""
+}

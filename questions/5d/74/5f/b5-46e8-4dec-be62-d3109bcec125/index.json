@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-29T18:04:01.000Z",
+  "updated_at": "2021-01-29T18:04:01.000Z",
+  "id": "5d745fb5-46e8-4dec-be62-d3109bcec125",
+  "labels": "current-affairs,2021-01-30",
+  "question": "What is the rank of India, in the Covid-19 performance index released by the Sydney-based Lowy Institute?",
+  "option1": 42,
+  "option2": 64,
+  "option3": 86,
+  "option4": 98,
+  "option5": "",
+  "answer": 86,
+  "explanation": "According to the performance index compiled by the Sydney-based Lowy Institute, New Zealand handled the pandemic the most effectively.<br />India is ranked 86th in the index comprising 98 countries, which measures several key indicators including confirmed cases, deaths, cases per million people and deaths per million people. New Zealand is followed by Vietnam and Taiwan while Brazil is the worst performing country.",
+  "verified_at": ""
+}
