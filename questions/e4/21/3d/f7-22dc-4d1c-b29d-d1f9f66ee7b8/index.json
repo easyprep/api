@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-30T15:47:53.000Z",
+  "updated_at": "2021-01-30T15:47:53.000Z",
+  "id": "e4213df7-22dc-4d1c-b29d-d1f9f66ee7b8",
+  "labels": "current-affairs,2021-01-31",
+  "question": "Which organization has released the framework for strengthening the grievance redress mechanism in banks?",
+  "option1": "SEBI",
+  "option2": "RBI",
+  "option3": "Ministry of Finance",
+  "option4": "IBBI",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Reserve Bank of India has recently announced a framework to strengthen the grievance redress mechanism in Banks. The framework mandates all banks (excluding regional rural banks) to have enhanced disclosures on complaints.<br />This move of Reserve Bank comes at the back drop of increase in customer complaints in the banking industry in the recent years.",
+  "verified_at": ""
+}

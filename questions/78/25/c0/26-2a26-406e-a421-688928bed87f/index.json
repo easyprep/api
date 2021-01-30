@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-30T15:45:28.000Z",
+  "updated_at": "2021-01-30T15:45:28.000Z",
+  "id": "7825c026-2a26-406e-a421-688928bed87f",
+  "labels": "current-affairs,2021-01-31",
+  "question": "As per a recent research, by what percentage the number of oceanic sharks and rays have declined in Indian Ocean?",
+  "option1": 0.153,
+  "option2": 0.264,
+  "option3": 0.397,
+  "option4": 0.847,
+  "option5": "",
+  "answer": 0.847,
+  "explanation": "As per a recent research published in the journal “Nature”, the number of shark and ray in Indian ocean have declined by 84.7% and has been falling continuously since 1970.<br />The research noted that oceanic sharks and rays worldwide has fallen by 71% since the last 50 years. Also, 24 out of 31 oceanic shark and ray species are presently classified as vulnerable, endangered or critically endangered on the IUCN Red List.",
+  "verified_at": ""
+}

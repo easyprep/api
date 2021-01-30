@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-30T15:46:23.000Z",
+  "updated_at": "2021-01-30T15:46:23.000Z",
+  "id": "9bb9d25c-2993-4baa-a919-b0d350589b15",
+  "labels": "current-affairs,2021-01-31",
+  "question": "Which country recently commenced operations in its ‘Hualong One unit’ nuclear reactor?",
+  "option1": "Russia",
+  "option2": "China",
+  "option3": "Israel",
+  "option4": "UAE",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The China National Nuclear Corporation has stated that it has begun commercial electricity production from its “Hualong One unit” which are the third-generation pressurised water nuclear reactors of the country.<br />The reactor constructed for more than five years at Fuqing in Fujian province was first connected to the grid in November.",
+  "verified_at": ""
+}
