@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:44.000Z",
+  "updated_at": "2021-01-31T10:49:44.000Z",
+  "id": "dde86d9f-b20c-4868-baa5-6ebcb96b2d33",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which sport's rule book and scoring system are known as the \"Code of Points\"?",
+  "option1": "Swimming",
+  "option2": "Archery",
+  "option3": "Gymnastics",
+  "option4": "Tennis",
+  "option5": "",
+  "answer": "Gymnastics",
+  "explanation": "The Code of Points is a rulebook that defines the scoring system for each level of competition in gymnastics. There is not a universal international Code of Points, and every oversight organization — such as the FIG, NCAA Gymnastics, and most national gymnastics federations — designs and employs its own unique Code of Points.",
+  "verified_at": ""
+}

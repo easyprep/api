@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:46.000Z",
+  "updated_at": "2021-01-31T10:49:46.000Z",
+  "id": "c7a714bd-88c1-4c05-8f9c-6dae39771a7c",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country holds the record of winning the most number of medals in taekwondo at the Summer Olympics?",
+  "option1": "China",
+  "option2": "United States of America",
+  "option3": "Mexico",
+  "option4": "South Korea",
+  "option5": "",
+  "answer": "South Korea",
+  "explanation": "South Korea holds the record of winning the most number of medals in taekwondo at the Summer Olympics with 19 medals as of 2016 Summer Olympics.",
+  "verified_at": ""
+}

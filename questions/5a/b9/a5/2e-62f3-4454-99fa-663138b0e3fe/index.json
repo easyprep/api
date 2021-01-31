@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:50:18.000Z",
+  "updated_at": "2021-01-31T10:50:18.000Z",
+  "id": "5ab9a52e-62f3-4454-99fa-663138b0e3fe",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the \"Bui Dam\"?",
+  "option1": "Chile",
+  "option2": "Ghana",
+  "option3": "Honduras",
+  "option4": "Vietnam",
+  "option5": "",
+  "answer": "Ghana",
+  "explanation": "The Bui Dam is a 400-megawatt hydroelectric project in Ghana. It is built on the Black Volta river at the Bui Gorge, at the southern end of Bui National Park. Bui will be the second-largest hydroelectric generating plant in the country after the Akosombo Dam.",
+  "verified_at": ""
+}

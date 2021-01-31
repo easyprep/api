@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:45.000Z",
+  "updated_at": "2021-01-31T10:49:45.000Z",
+  "id": "1a0b9a0a-6d42-4934-959c-40b774205af5",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country is the \"country of origin\" of taekwondo?",
+  "option1": "Korea",
+  "option2": "China",
+  "option3": "Japan",
+  "option4": "Philippines",
+  "option5": "",
+  "answer": "Korea",
+  "explanation": "Taekwondo is a Korean martial art, characterized by its emphasis on head-height kicks, jumping spinning kicks, and fast kicking techniques first played during the 1940s in Korea.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:45.000Z",
+  "updated_at": "2021-01-31T10:49:45.000Z",
+  "id": "3ea319d9-decc-4435-a1a4-a8df85e9552e",
+  "labels": "current-affairs,2021-02-01",
+  "question": "The \"Currie Cup\" tournament is South Africa's premier domestic competition of which sport?",
+  "option1": "Baseball",
+  "option2": "Basketball",
+  "option3": "Softball",
+  "option4": "Rugby Union",
+  "option5": "",
+  "answer": "Rugby Union",
+  "explanation": "The Currie Cup tournament is South Africa's premier domestic rugby union competition, played each winter and spring (June to October).",
+  "verified_at": ""
+}

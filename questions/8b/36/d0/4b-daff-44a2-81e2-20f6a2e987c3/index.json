@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:50:18.000Z",
+  "updated_at": "2021-01-31T10:50:18.000Z",
+  "id": "8b36d04b-daff-44a2-81e2-20f6a2e987c3",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the Kpong Dam?",
+  "option1": "Cambodia",
+  "option2": "Uruguay",
+  "option3": "Honduras",
+  "option4": "Ghana",
+  "option5": "",
+  "answer": "Ghana",
+  "explanation": "The Kpong Dam, also known as the Akuse Dam, is a hydroelectric power generating dam on the lower Volta River near Akuse in Ghana. It is owned and operated by Volta River Authority.",
+  "verified_at": ""
+}

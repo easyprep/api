@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:44.000Z",
+  "updated_at": "2021-01-31T10:49:44.000Z",
+  "id": "10f5d00e-5775-4833-b062-43b74805c1c1",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Identify the swimming event/style. \"This swimming stroke is swum on the chest, with both arms moving symmetrically, accompanied by the \"dolphin kick\". This style is a more difficult stroke that requires a good technique as well as strong muscles. It is the newest swimming style swum in competition, first swum in 1933.\"?",
+  "option1": "Butterfly stroke swimming style",
+  "option2": "Backstroke swimming style",
+  "option3": "Breaststroke swimming style",
+  "option4": "Freestyle swimming style",
+  "option5": "",
+  "answer": "Butterfly stroke swimming style",
+  "explanation": "The butterfly is a swimming stroke swum on the chest, with both arms moving symmetrically, accompanied by the butterfly kick (also known as the \"dolphin kick\"). While other styles like the breaststroke, front crawl, or backstroke can be swum adequately by beginners, the butterfly is a more difficult stroke that requires a good technique as well as strong muscles. It is the newest swimming style swum in competition, first swum in 1933 and originating out of the breaststroke.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:44.000Z",
+  "updated_at": "2021-01-31T10:49:44.000Z",
+  "id": "2d296813-ca51-4af8-91a1-8c7921e08259",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Identify the swimming style/event. \"This is one of the four swimming styles used in competitive events regulated by FINA, and the only one of these styles swum on the back. This swimming style has the advantage of easy breathing, but the disadvantage of swimmers not being able to see where they are going. It also has a different start from the other three competition swimming styles.\"?",
+  "option1": "Butterfly stroke swimming style",
+  "option2": "Backstroke swimming style",
+  "option3": "Breaststroke swimming style",
+  "option4": "Freestyle swimming style",
+  "option5": "",
+  "answer": "Backstroke swimming style",
+  "explanation": "Backstroke or back crawl is one of the four swimming styles used in competitive events regulated by FINA, and the only one of these styles swum on the back. This swimming style has the advantage of easy breathing, but the disadvantage of swimmers not being able to see where they are going. It also has a different start from the other three competition swimming styles.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:44.000Z",
+  "updated_at": "2021-01-31T10:49:44.000Z",
+  "id": "1fd4ac84-fd26-44f6-a6dd-47f422d47fe4",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Identify the swimming style/event. \"This is a category of swimming competition, defined by the rules of the International Swimming Federation (FINA), in which competitors are subject to a few limited restrictions on their swimming stroke. These are the most common of all swimming competitions, with distances beginning with 50 meters and reaching 1500 meters, also known as the mile.\"?",
+  "option1": "Butterfly stroke swimming style",
+  "option2": "Backstroke swimming style",
+  "option3": "Breaststroke swimming style",
+  "option4": "Freestyle swimming style",
+  "option5": "",
+  "answer": "Freestyle swimming style",
+  "explanation": "Freestyle is a category of swimming competition, defined by the rules of the International Swimming Federation (FINA), in which competitors are subject to a few limited restrictions on their swimming stroke. Freestyle races are the most common of all swimming competitions, with distances beginning with 50 meters (50 yards) and reaching 1500 meters (1650 yards), also known as the mile.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:50:17.000Z",
+  "updated_at": "2021-01-31T10:50:17.000Z",
+  "id": "42c7bbe9-3b86-48be-bd05-980f52a8b639",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country was the location of the event \"Operation Cold Chop\"?",
+  "option1": "Ethiopia",
+  "option2": "Ghana",
+  "option3": "Sudan",
+  "option4": "Libya",
+  "option5": "",
+  "answer": "Ghana",
+  "explanation": "Ghana was the location of the event \"Operation Cold Chop\". The government of Kwame Nkrumah was overthrown by a coup by the Ghana Armed Forces codenamed \"Operation Cold Chop\" on 24 February 1966. This occurred while Nkrumah was abroad with Zhou Enlai in the People's Republic of China.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:50:17.000Z",
+  "updated_at": "2021-01-31T10:50:17.000Z",
+  "id": "5fd2f2dd-828f-4476-b383-ccd93dff045f",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country's UNESCO World Heritage Site is \"Elmina Castle\"?",
+  "option1": "Czech Republic",
+  "option2": "Peru",
+  "option3": "Ghana",
+  "option4": "Tanzania",
+  "option5": "",
+  "answer": "Ghana",
+  "explanation": "Elmina Castle was erected by the Portuguese in 1482 as St. George of the Mine Castle in present-day Elmina, Ghana (formerly the Gold Coast). It was the first trading post built on the Gulf of Guinea and the oldest European building in existence south of the Sahara. First established as a trade settlement, the castle later became one of the most important stops on the route of the Atlantic slave trade.",
+  "verified_at": ""
+}

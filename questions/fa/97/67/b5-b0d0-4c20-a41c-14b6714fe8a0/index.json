@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:45.000Z",
+  "updated_at": "2021-01-31T10:49:45.000Z",
+  "id": "fa9767b5-b0d0-4c20-a41c-14b6714fe8a0",
+  "labels": "current-affairs,2021-02-01",
+  "question": "How many team members are present in each team of a netball game?",
+  "option1": 7,
+  "option2": 9,
+  "option3": 11,
+  "option4": 13,
+  "option5": "",
+  "answer": 7,
+  "explanation": "Netball is a ball sport played by two teams of seven players. Netball is most popular in many Commonwealth nations, specifically in schools, and is predominantly played by women.",
+  "verified_at": ""
+}

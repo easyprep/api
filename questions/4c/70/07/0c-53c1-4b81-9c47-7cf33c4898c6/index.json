@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:45.000Z",
+  "updated_at": "2021-01-31T10:49:45.000Z",
+  "id": "4c70070c-53c1-4b81-9c47-7cf33c4898c6",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the headquarters of the \"World Taekwondo\"?",
+  "option1": "China",
+  "option2": "Japan",
+  "option3": "South Korea",
+  "option4": "Philippines",
+  "option5": "",
+  "answer": "South Korea",
+  "explanation": "World Taekwondo is the international federation governing the sport of taekwondo, headquartered in Seoul, South Korea.",
+  "verified_at": ""
+}

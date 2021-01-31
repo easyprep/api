@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:44.000Z",
+  "updated_at": "2021-01-31T10:49:44.000Z",
+  "id": "cbd6e6b4-3f17-4b2c-97da-e14853d51c28",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Identify the swimming style/event. \"This is a swimming style in which the swimmer is on their chest and the torso does not rotate. It is the most popular recreational style due to the swimmer's head being out of the water a large portion of the time, and that it can swim comfortably at slow speeds.\"?",
+  "option1": "Butterfly stroke swimming style",
+  "option2": "Backstroke swimming style",
+  "option3": "Breaststroke swimming style",
+  "option4": "Freestyle swimming style",
+  "option5": "",
+  "answer": "Breaststroke swimming style",
+  "explanation": "Breaststroke is a swimming style in which the swimmer is on their chest and the torso does not rotate. It is the most popular recreational style due to the swimmer's head being out of the water a large portion of the time, and that it can swim comfortably at slow speeds.",
+  "verified_at": ""
+}

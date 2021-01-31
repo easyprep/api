@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:45.000Z",
+  "updated_at": "2021-01-31T10:49:45.000Z",
+  "id": "c63b167c-1399-468e-be63-57a8232813f6",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country is the \"country of origin\" of the Rugby Union sport?",
+  "option1": "England",
+  "option2": "Canada",
+  "option3": "France",
+  "option4": "Denmark",
+  "option5": "",
+  "answer": "England",
+  "explanation": "Rugby union, widely known as rugby, is a full-contact team sport that originated in England in the first half of the 19th century. In its most common form, a game is played between two teams of 15 players each, using an oval-shaped ball on a rectangular field called a pitch.",
+  "verified_at": ""
+}

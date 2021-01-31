@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:50:19.000Z",
+  "updated_at": "2021-01-31T10:50:19.000Z",
+  "id": "c1490d9e-6773-4921-b0ba-6f86af1e931b",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country's highest waterfall is \"Wli Waterfalls\"?",
+  "option1": "Argentina",
+  "option2": "Mexico",
+  "option3": "Ethiopia",
+  "option4": "Ghana",
+  "option5": "",
+  "answer": "Ghana",
+  "explanation": "Wli Waterfalls is the highest waterfall in Ghana and the tallest in West Africa. It has a lower and an upper fall.",
+  "verified_at": ""
+}

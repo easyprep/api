@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:49:45.000Z",
+  "updated_at": "2021-01-31T10:49:45.000Z",
+  "id": "c44c2333-1f44-47d3-936b-8ac1303cb3a4",
+  "labels": "current-affairs,2021-02-01",
+  "question": "How many team members are present in each team of a Rugby Union game?",
+  "option1": 11,
+  "option2": 13,
+  "option3": 15,
+  "option4": 17,
+  "option5": "",
+  "answer": 15,
+  "explanation": "Rugby union, widely known as rugby, is a full-contact team sport that originated in England in the first half of the 19th century. In its most common form, a game is played between two teams of 15 players each, using an oval-shaped ball on a rectangular field called a pitch. The field has H-shaped goalposts at both ends.",
+  "verified_at": ""
+}
