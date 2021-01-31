@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:49:53.000Z",
+  "updated_at": "2021-01-31T11:49:53.000Z",
+  "id": "7074fe70-ce1b-4cab-8622-317813599501",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the stratovolcano \"Volcan Ipala\"?",
+  "option1": "Panama",
+  "option2": "Guatemala",
+  "option3": "Mexico",
+  "option4": "Honduras",
+  "option5": "",
+  "answer": "Guatemala",
+  "explanation": "Volcan Ipala is a stratovolcano in south-eastern Guatemala. It has a 1,000 metres wide summit crater which contains a crater lake (Lake Ipala). Volcan Ipala is part of a cluster of small stratovolcanoes and cinder cone fields in south-eastern Guatemala.",
+  "verified_at": ""
+}

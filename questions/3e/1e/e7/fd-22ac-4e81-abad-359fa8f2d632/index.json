@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:29.000Z",
+  "updated_at": "2021-01-31T10:51:29.000Z",
+  "id": "3e1ee7fd-22ac-4e81-abad-359fa8f2d632",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country was the venue of the \"Panathenaic Games\"?",
+  "option1": "Italy",
+  "option2": "Greece",
+  "option3": "France",
+  "option4": "Portugal",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Panathenaic Games were held every four years in Athens in Ancient Greece from 566 BC to the 3rd century AD. These Games incorporated religious festival, ceremony (including prize-giving), athletic competitions, and cultural events hosted within a stadium.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:27.000Z",
+  "updated_at": "2021-01-31T10:51:27.000Z",
+  "id": "b2e8faee-49a6-46a5-abe8-b9176909f8fe",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country was the location of the event \"Viannos massacres\"?",
+  "option1": "Austria",
+  "option2": "Italy",
+  "option3": "Russia",
+  "option4": "Greece",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Viannos massacres were a mass extermination campaign launched by Nazi forces against the civilian residents of around 20 villages located in the areas of east Viannos and west Ierapetra provinces on the Greek island of Crete during World War II.",
+  "verified_at": ""
+}

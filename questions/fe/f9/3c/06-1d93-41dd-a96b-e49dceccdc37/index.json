@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:28.000Z",
+  "updated_at": "2021-01-31T10:51:28.000Z",
+  "id": "fef93c06-1d93-41dd-a96b-e49dceccdc37",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which is the longest river in Greece?",
+  "option1": "Dnieper River",
+  "option2": "Meuse River",
+  "option3": "Haliacmon River",
+  "option4": "Daugava River",
+  "option5": "",
+  "answer": "Haliacmon River",
+  "explanation": "The Haliacmon is the longest river in Greece, with a total length of 297 km. In Greece, there are three rivers longer than Haliakmon, Maritsa, Struma, both coming from Bulgaria, and the Vardar, but the length of each one of them in Greek territory is less than that of Haliakmon, which flows entirely in Greece.",
+  "verified_at": ""
+}

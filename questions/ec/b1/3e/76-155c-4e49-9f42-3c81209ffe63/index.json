@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:24.000Z",
+  "updated_at": "2021-01-31T10:51:24.000Z",
+  "id": "ecb13e76-155c-4e49-9f42-3c81209ffe63",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which three countries constitute the geographical region \"Thrace\"?",
+  "option1": "Greece, Albania and North Macedonia",
+  "option2": "Greece, Bulgaria and Turkey",
+  "option3": "Greece, North Macedonia and Bulgaria",
+  "option4": "Greece, Bulgaria and Romania",
+  "option5": "",
+  "answer": "Greece, Bulgaria and Turkey",
+  "explanation": "Thrace is a geographical and historical region in Southeast Europe, now split among Bulgaria, Greece, and Turkey, which is bounded by the Balkan Mountains to the north, the Aegean Sea to the south, and the Black Sea to the east. It comprises southeastern Bulgaria (Northern Thrace), northeastern Greece (Western Thrace), and the European part of Turkey (East Thrace).",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:49:51.000Z",
+  "updated_at": "2021-01-31T11:49:51.000Z",
+  "id": "4ee2fea9-f9e5-4c24-98a4-bef73a101ac5",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country is the location of the event \"La Linea corruption case\"?",
+  "option1": "Costa Rica",
+  "option2": "Guatemala",
+  "option3": "Panama",
+  "option4": "Honduras",
+  "option5": "",
+  "answer": "Guatemala",
+  "explanation": "La Linea corruption case began in Guatemala on April 16, 2015, when the International Commission against Impunity in Guatemala and State prosecutors accused a number of politicians in the administration of President Otto Perez Molina of setting up a customs corruption ring with the help of high-ranking officials in the tax and customs administration. Several demonstrations ensued, calling for the resignation of Perez Molina and his vice-president Roxana Baldetti.",
+  "verified_at": ""
+}

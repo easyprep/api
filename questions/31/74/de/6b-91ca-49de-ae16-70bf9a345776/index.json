@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:25.000Z",
+  "updated_at": "2021-01-31T10:51:25.000Z",
+  "id": "3174de6b-91ca-49de-ae16-70bf9a345776",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country boasted of the scientific and technological advancement of the \"Antikythera mechanism\"?",
+  "option1": "Norway",
+  "option2": "Russia",
+  "option3": "Italy",
+  "option4": "Greece",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Antikythera mechanism is an ancient Greek hand-powered orrery, described as the first analogue computer, the oldest known example of such a device used to predict astronomical positions and eclipses for calendar and astrological purposes decades in advance. It could also be used to track the four-year cycle of athletic games which was similar to an Olympiad, the cycle of the ancient Olympic Games.",
+  "verified_at": ""
+}

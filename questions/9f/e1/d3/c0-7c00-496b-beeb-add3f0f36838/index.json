@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:24.000Z",
+  "updated_at": "2021-01-31T10:51:24.000Z",
+  "id": "9fe1d3c0-7c00-496b-beeb-add3f0f36838",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the \"Acropolis Museum\"?",
+  "option1": "Italy",
+  "option2": "Vatican",
+  "option3": "Greece",
+  "option4": "Austria",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Acropolis Museum is an archaeological museum, located in Greece, focused on the findings of the archaeological site of the Acropolis of Athens. The museum was built to house every artefact found on the rock and on the surrounding slopes, from the Greek Bronze Age to Roman and Byzantine Greece. It also lies over the ruins of a part of Roman and early Byzantine Athens.",
+  "verified_at": ""
+}

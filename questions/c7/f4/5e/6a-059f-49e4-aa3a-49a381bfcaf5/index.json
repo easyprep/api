@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:28.000Z",
+  "updated_at": "2021-01-31T10:51:28.000Z",
+  "id": "c7f45e6a-059f-49e4-aa3a-49a381bfcaf5",
+  "labels": "current-affairs,2021-02-01",
+  "question": "What is Constantin Caratheodory famous for?",
+  "option1": "As a Greek scientist",
+  "option2": "As a Greek novelist",
+  "option3": "As a Greek politician",
+  "option4": "As a Greek mathematician",
+  "option5": "",
+  "answer": "As a Greek mathematician",
+  "explanation": "Constantin Caratheodory was a Greek mathematician who spent most of his professional career in Germany. He made significant contributions to real and complex analysis, the calculus of variations, and measure theory. He also created an axiomatic formulation of thermodynamics.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:49:53.000Z",
+  "updated_at": "2021-01-31T11:49:53.000Z",
+  "id": "7a0775eb-80ef-44fe-91ff-957d222297c0",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country's largest Pacific Ocean port is \"Puerto Quetzal\"?",
+  "option1": "Mexico",
+  "option2": "Honduras",
+  "option3": "Costa Rica",
+  "option4": "Guatemala",
+  "option5": "",
+  "answer": "Guatemala",
+  "explanation": "Puerto Quetzal is Guatemala's largest Pacific Ocean port. It is important for both cargo traffic and as a stop-off point for cruise liners.",
+  "verified_at": ""
+}

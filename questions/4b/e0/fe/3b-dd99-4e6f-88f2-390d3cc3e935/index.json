@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:15.000Z",
+  "updated_at": "2021-01-31T10:51:15.000Z",
+  "id": "4be0fe3b-dd99-4e6f-88f2-390d3cc3e935",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the historic defensive wall \"Hexamilion wall\"?",
+  "option1": "Greece",
+  "option2": "Albania",
+  "option3": "Macedonia",
+  "option4": "Bulgaria",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Hexamilion wall was a defensive wall constructed across the Isthmus of Corinth, guarding the only land route onto the Peloponnese peninsula from mainland Greece.",
+  "verified_at": ""
+}

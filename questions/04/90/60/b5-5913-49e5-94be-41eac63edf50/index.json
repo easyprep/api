@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:49:52.000Z",
+  "updated_at": "2021-01-31T11:49:52.000Z",
+  "id": "049060b5-5913-49e5-94be-41eac63edf50",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which two countries share the location of the mountain range \"Sierra del Merendon\"?",
+  "option1": "Guatemala and Honduras",
+  "option2": "Guatemala and Nicaragua",
+  "option3": "Guatemala and Mexico",
+  "option4": "Guatemala and Belize",
+  "option5": "",
+  "answer": "Guatemala and Honduras",
+  "explanation": "Sierra del Merendon is a mountain range extending on the eastern border of Guatemala and Honduras. Its south-western border is marked by the Lempa River valley, its northern border by the Motagua River valley. The mountain range has several different biomes and habitats, including cloud forests.",
+  "verified_at": ""
+}

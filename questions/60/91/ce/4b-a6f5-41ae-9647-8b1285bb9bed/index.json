@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:51:37.000Z",
+  "updated_at": "2021-01-31T11:51:37.000Z",
+  "id": "6091ce4b-a6f5-41ae-9647-8b1285bb9bed",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country does share a land border with Guinea?",
+  "option1": "Burkina Faso",
+  "option2": "Gambia",
+  "option3": "Sierra Leone",
+  "option4": "Niger",
+  "option5": "",
+  "answer": "Sierra Leone",
+  "explanation": "Sierra Leone does share a land border with Guinea. Guinea shares a border with Guinea-Bissau to the north-west, Senegal to the north, Mali to the north-east, Ivory Coast to the east, Sierra Leone to the south-west and Liberia to the south.",
+  "verified_at": ""
+}

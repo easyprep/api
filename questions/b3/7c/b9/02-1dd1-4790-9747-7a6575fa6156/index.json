@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:16.000Z",
+  "updated_at": "2021-01-31T10:51:16.000Z",
+  "id": "b37cb902-1dd1-4790-9747-7a6575fa6156",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the UNESCO World Heritage Site the \"Acropolis of Athens\"?",
+  "option1": "Italy",
+  "option2": "Vatican",
+  "option3": "Greece",
+  "option4": "France",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Acropolis of Athens, a UNESCO World Heritage Site, is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon.",
+  "verified_at": ""
+}

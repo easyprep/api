@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:49:49.000Z",
+  "updated_at": "2021-01-31T11:49:49.000Z",
+  "id": "480f6036-8e6d-4404-9933-1d36df89ad1c",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which is the official currency of Guatemala?",
+  "option1": "Lempira",
+  "option2": "Quetzal",
+  "option3": "Cordoba",
+  "option4": "Colon",
+  "option5": "",
+  "answer": "Quetzal",
+  "explanation": "The quetzal is the currency of Guatemala, named after the national bird of Guatemala, the resplendent quetzal. In ancient Mayan culture, the quetzal bird's tail feathers were used as currency.",
+  "verified_at": ""
+}

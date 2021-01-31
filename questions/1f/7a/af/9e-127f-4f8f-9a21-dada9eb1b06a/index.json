@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:28.000Z",
+  "updated_at": "2021-01-31T10:51:28.000Z",
+  "id": "1f7aaf9e-127f-4f8f-9a21-dada9eb1b06a",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country's main tourist destination is \"Santorini\"?",
+  "option1": "Italy",
+  "option2": "France",
+  "option3": "Greece",
+  "option4": "Austria",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "Santorini is the main tourist destination of Greece. Santorini, officially Thira, is an island in the southern Aegean Sea, about 200 km southeast from Greece. Its the largest island of a small, circular archipelago, which bears the same name and is the remnant of a volcanic caldera.",
+  "verified_at": ""
+}

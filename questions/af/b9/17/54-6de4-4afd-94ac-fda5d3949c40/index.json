@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:51:37.000Z",
+  "updated_at": "2021-01-31T11:51:37.000Z",
+  "id": "afb91754-6de4-4afd-94ac-fda5d3949c40",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country does not share a land border with Guinea?",
+  "option1": "Ghana",
+  "option2": "Senegal",
+  "option3": "Mali",
+  "option4": "Ivory Coast",
+  "option5": "",
+  "answer": "Ghana",
+  "explanation": "Ghana does not share a land border with Guinea. Guinea shares a land border with Guinea-Bissau to the north-west, Senegal to the north, Mali to the north-east, Ivory Coast to the east, Sierra Leone to the south-west and Liberia to the south.",
+  "verified_at": ""
+}

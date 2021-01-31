@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:29.000Z",
+  "updated_at": "2021-01-31T10:51:29.000Z",
+  "id": "b5ef9f23-4892-4b97-8005-dde03bf6e1aa",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country's oldest literary society is \"Parnassos Literary Society\"?",
+  "option1": "Russia",
+  "option2": "Greece",
+  "option3": "Italy",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Parnassos Literary Society was founded in 1865 in Athens and has published various magazines. The oldest literary society in mainland Greece, it continues to be active today.",
+  "verified_at": ""
+}

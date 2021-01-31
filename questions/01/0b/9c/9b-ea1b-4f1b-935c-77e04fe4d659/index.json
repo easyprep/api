@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T11:49:52.000Z",
+  "updated_at": "2021-01-31T11:49:52.000Z",
+  "id": "010b9c9b-ea1b-4f1b-935c-77e04fe4d659",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which two countries share the location of the fault zone \"Chixoy-Polochic Fault\"?",
+  "option1": "Guatemala and Honduras",
+  "option2": "Guatemala and Nicaragua",
+  "option3": "Guatemala and Mexico",
+  "option4": "Guatemala and Costa Rica",
+  "option5": "",
+  "answer": "Guatemala and Mexico",
+  "explanation": "The Chixoy-Polochic Fault, also known as Cuilco-Chixoy-Polochic Fault, is a major fault zone in Guatemala and southwestern Mexico. It runs in a light arc from the east coast of Guatemala to Chiapas, following the deep valleys of the Polochic River, Chixoy River and Cuilco River.",
+  "verified_at": ""
+}

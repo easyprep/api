@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:26.000Z",
+  "updated_at": "2021-01-31T10:51:26.000Z",
+  "id": "128f2a8e-7194-4370-891f-fd1ebe594908",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country was the location of the event \"23 October 1862 Revolution\"?",
+  "option1": "Italy",
+  "option2": "Turkey",
+  "option3": "Greece",
+  "option4": "Romania",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The 23 October 1862 Revolution was a popular insurrection which led to the overthrow of King Otto of Greece. Starting on 18 October in Vonitsa, it soon spread to other cities and reached Athens on 22 October.",
+  "verified_at": ""
+}

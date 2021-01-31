@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:30.000Z",
+  "updated_at": "2021-01-31T10:51:30.000Z",
+  "id": "c106cf91-27fb-4cc1-b721-8fb4d8bf5428",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which is the country of origin of the poem \"Iliad\"?",
+  "option1": "Russia",
+  "option2": "Ukraine",
+  "option3": "Greece",
+  "option4": "Jordan",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Iliad is an ancient Greek epic poem in dactylic hexameter, traditionally attributed to Homer. Set during the Trojan War, the ten-year siege of the city of Troy (Ilium) by a coalition of Mycenean Greek states (Achaeans), it tells of the battles and events during the weeks of a quarrel between King Agamemnon and the warrior Achilles.",
+  "verified_at": ""
+}

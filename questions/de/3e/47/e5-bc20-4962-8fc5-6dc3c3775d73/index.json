@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-01-31T10:51:20.000Z",
+  "updated_at": "2021-01-31T10:51:20.000Z",
+  "id": "de3e47e5-bc20-4962-8fc5-6dc3c3775d73",
+  "labels": "current-affairs,2021-02-01",
+  "question": "Which country houses the UNESCO World Heritage Site the \"Monastery of Saint-John the Theologian\"?",
+  "option1": "Italy",
+  "option2": "Greece",
+  "option3": "Vatican",
+  "option4": "France",
+  "option5": "",
+  "answer": "Greece",
+  "explanation": "The Monastery of Saint John the Theologian (also called Monastery of Saint John the Divine) is a Greek Orthodox monastery founded in 1088 in Chora on the island of Patmos, Greece. UNESCO has declared it a World Heritage site. It is named after St. John of Patmos.",
+  "verified_at": ""
+}
