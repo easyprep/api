@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-01T18:09:38.000Z",
+  "updated_at": "2021-02-01T18:09:38.000Z",
+  "id": "3c5abc99-5a84-408e-b09d-6a768cac3e70",
+  "labels": "current-affairs,2021-02-02",
+  "question": "What is the new FDI limit in insurance companies, as proposed in Union Budget 2021-22?",
+  "option1": 0.26,
+  "option2": 0.51,
+  "option3": 0.74,
+  "option4": 1,
+  "option5": "",
+  "answer": 0.74,
+  "explanation": "The Union Budget 2021-22 contain that the permissible Foreign Direct Investment (FDI) limit in Insurance Companies would be increased from 49% to 74%. Foreign ownership with safeguard would be allowed in this segment. <br />Insurance Act of 1938 would be amended to make effect to the proposed hike in FDI limit.",
+  "verified_at": ""
+}

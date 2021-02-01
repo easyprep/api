@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-01T18:09:08.000Z",
+  "updated_at": "2021-02-01T18:09:08.000Z",
+  "id": "c7865dac-19b2-496d-b957-f702a8b8b739",
+  "labels": "current-affairs,2021-02-02",
+  "question": "As per the Budget 2021-22, what is the estimated Fiscal Deficit for the current financial year?",
+  "option1": 0.095,
+  "option2": 0.07,
+  "option3": 0.04,
+  "option4": 0.02,
+  "option5": "",
+  "answer": 0.095,
+  "explanation": "As per the latest Budget presented by the Union Finance Minister, the Fiscal Deficit of our economy is estimated at 9.5% of GDP for the current financial year. The same is expected to be at 6.8% of GDP for FY 2021-22. <br />The budget estimate of expenditure for next FY (2021-22) is Rs.34.83 lakh crore.",
+  "verified_at": ""
+}
