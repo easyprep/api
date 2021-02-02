@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-02T15:40:00.000Z",
+  "updated_at": "2021-02-02T15:40:00.000Z",
+  "id": "eba1eb1f-284e-4dca-bbd3-a50697222c06",
+  "labels": "current-affairs,2021-02-03",
+  "question": "Which Technology company has launched a new initiative called ‘Startup School’?",
+  "option1": "Microsoft",
+  "option2": "Google",
+  "option3": "Amazon",
+  "option4": "Apple",
+  "option5": "",
+  "answer": "Google",
+  "explanation": "Tech major Google has launched a new initiative named ‘Startup School’ to train start-up founders and their teams across the Asia Pacific region.<br />It is a virtual programme which provides a series of free virtual courses for start-up founders and their teams. Courses on digital marketing, product knowledge and business strategy would be the focus areas.",
+  "verified_at": ""
+}

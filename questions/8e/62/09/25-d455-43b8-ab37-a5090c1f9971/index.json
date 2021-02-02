@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-02T15:39:32.000Z",
+  "updated_at": "2021-02-02T15:39:32.000Z",
+  "id": "8e620925-d455-43b8-ab37-a5090c1f9971",
+  "labels": "current-affairs,2021-02-03",
+  "question": "RBI has appointed an external firm to audit HDFC Bank under the provisions of which act?",
+  "option1": "RBI Act",
+  "option2": "Banking Regulation Act",
+  "option3": "Negotiable Instruments Act",
+  "option4": "Information Technology Act",
+  "option5": "",
+  "answer": "Banking Regulation Act",
+  "explanation": "The Reserve Bank of India (RBI) has appointed an external professional IT firm to carry out a special audit of the entire IT infrastructure of the bank<br />Earlier, the RBI had penalised the HDFC bank for repeated service failures in internet banking, mobile banking, and payment utilities. This step has been taken by the RBI using the powers conferred under the Banking regulation act, 1949.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-02T15:45:00.000Z",
+  "updated_at": "2021-02-02T15:45:00.000Z",
+  "id": "78f4b33f-1f1b-429a-9c8b-160d6b1c94e4",
+  "labels": "current-affairs,2021-02-03",
+  "question": "As per a recent research, protein-bases devices have been designed to detect which disease?",
+  "option1": "Covid-19",
+  "option2": "Tuberculosis",
+  "option3": "Pneumonia",
+  "option4": "Polio",
+  "option5": "",
+  "answer": "Covid-19",
+  "explanation": "According to a recent research published in the journal Nature, Scientists have developed a new protein-based biosensor to detect the novel coronavirus.<br />These devices recognise the unique molecules on the surface of the virus and bind to them. Subsequently, they emit light through a biochemical reaction. This technique does not rely on genetic amplification as used in the RT-PCR method and saves time.",
+  "verified_at": ""
+}
