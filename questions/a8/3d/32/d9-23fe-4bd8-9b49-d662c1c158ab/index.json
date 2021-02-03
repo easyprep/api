@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-03T18:06:21.000Z",
+  "updated_at": "2021-02-03T18:06:22.000Z",
+  "id": "a83d32d9-23fe-4bd8-9b49-d662c1c158ab",
+  "labels": "current-affairs,2021-02-04",
+  "question": "Which country launched satellites using the world’s first rocket powered by bio-fuel?",
+  "option1": "China",
+  "option2": "United States",
+  "option3": "Germany",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The world’s first commercial launch vehicle powered by bio-fuel was successfully used for a space launch in the United states.<br />Stardust 1.0, the first such rocket was launched from Loring Commerce Centre in Maine, US. The rocket is manufactured by bluShift, a US- based aerospace company. The 250-kg launch vehicle is vehicle suited for student and budget payloads.",
+  "verified_at": ""
+}
