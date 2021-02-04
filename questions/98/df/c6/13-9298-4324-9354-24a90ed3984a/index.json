@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-04T17:17:39.000Z",
+  "updated_at": "2021-02-04T17:17:39.000Z",
+  "id": "98dfc613-9298-4324-9354-24a90ed3984a",
+  "labels": "current-affairs,2021-02-05",
+  "question": "What is India’s rank in the 2020 Democracy Index?",
+  "option1": 53,
+  "option2": 57,
+  "option3": 61,
+  "option4": 67,
+  "option5": "",
+  "answer": 53,
+  "explanation": "In the 2020 Democracy Index's global ranking released by the Economist Intelligence Unit, India has slipped two positions and stood at 53rd position.<br />India’s score has declined from 7.92 in 2014 to 6.61 in 2020 and its ranking fell from 27 in 2014 to 53 in 2020.",
+  "verified_at": ""
+}

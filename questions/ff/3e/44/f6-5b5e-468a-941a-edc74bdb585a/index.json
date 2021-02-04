@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-04T18:10:02.000Z",
+  "updated_at": "2021-02-04T18:10:02.000Z",
+  "id": "ff3e44f6-5b5e-468a-941a-edc74bdb585a",
+  "labels": "current-affairs,2021-02-05",
+  "question": "As of February 2020, how many green zone sites have been approved for operating drones?",
+  "option1": 12,
+  "option2": 32,
+  "option3": 52,
+  "option4": 72,
+  "option5": "",
+  "answer": 32,
+  "explanation": "The Ministry of Home Affairs and Ministry of Defence have recently approved 26 green zone sites across the country, to operate Drones. With this, the total green sites stand at 32.<br />Under the No-Permission-No-Takeoff (NPNT) compliance regulations, the drones are not authorised to fly without the NPNT automated green signal. The Government is also developing the Digital Sky platform, for automatic authorisations.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-04T17:16:09.000Z",
+  "updated_at": "2021-02-04T17:16:09.000Z",
+  "id": "d2128549-7e76-487b-86ac-494a06f9c1be",
+  "labels": "current-affairs,2021-02-05",
+  "question": "Which institution has launched a new risk-based internal audit (RBIA) system for non-banking finance companies?",
+  "option1": "SEBI",
+  "option2": "RBI",
+  "option3": "Ministry of Finance",
+  "option4": "Bombay Stock Exchange",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Reserve Bank of India (RBI) has recently launched the risk-based internal audit (RBIA) system for some non-bank lenders and urban co-operative banks.<br />As per the notification, all deposit-taking NBFCs and NBFCs with an asset size of over Rs 5,000 crore, and urban co-operatives banks with assets of over Rs 500 crore will have to migrate to the new system.",
+  "verified_at": ""
+}

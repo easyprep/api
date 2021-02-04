@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-04T18:08:18.000Z",
+  "updated_at": "2021-02-04T18:19:03.000Z",
+  "id": "a8c53555-e560-4e17-bfb3-b0a3d50b59cf",
+  "labels": "current-affairs,2021-02-05",
+  "question": "As per the WHO, which Cancer is the world’s most commonly diagnosed?",
+  "option1": "Lung Cancer",
+  "option2": "Breast Cancer",
+  "option3": "Cervical Cancer",
+  "option4": "Blood Cancer",
+  "option5": "",
+  "answer": "Breast Cancer",
+  "explanation": "As per the recent notification of the World Health Organisation, Breast cancer is now the world’s most commonly diagnosed cancer. <br />Earlier, Lung cancer was the most commonly diagnosed. According to statistics released by the International Agency for Research on Cancer (IARC), one out of every six deaths in the total 10 million deaths in 2020 was due to Cancer.",
+  "verified_at": ""
+}
