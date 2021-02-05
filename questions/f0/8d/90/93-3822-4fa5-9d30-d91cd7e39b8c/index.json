@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-05T18:26:23.000Z",
+  "updated_at": "2021-02-05T18:26:23.000Z",
+  "id": "f08d9093-3822-4fa5-9d30-d91cd7e39b8c",
+  "labels": "current-affairs,2021-02-06",
+  "question": "Which Indian company has partnered with UNICEF to distribute vaccines around the world?",
+  "option1": "Biocon",
+  "option2": "Serum Institute of India",
+  "option3": "Bharat Biotech",
+  "option4": "Dr Reddys",
+  "option5": "",
+  "answer": "Serum Institute of India",
+  "explanation": "The Serum Institute of India (SII) and UNICEF have recently entered into a long-term supply agreement.<br />Under the agreement, the UNICEF will have access to 1.1 billion doses of AstraZeneca/Oxford and the Novavax vaccines to distribute around 100 countries.",
+  "verified_at": ""
+}

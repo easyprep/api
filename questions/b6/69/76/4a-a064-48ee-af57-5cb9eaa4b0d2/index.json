@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-05T18:30:01.000Z",
+  "updated_at": "2021-02-05T18:30:01.000Z",
+  "id": "b669764a-a064-48ee-af57-5cb9eaa4b0d2",
+  "labels": "current-affairs,2021-02-06",
+  "question": "Which institution announced a scheme which enables retail participation in Government Securities market?",
+  "option1": "SEBI",
+  "option2": "RBI",
+  "option3": "IRDAI",
+  "option4": "NITI Aayog",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Reserve Bank of India (RBI) has announced that it will provide access to retail investors to participate in the Government Securities market.<br />The retail investors shall have the facility to open a gilt securities account with the RBI. The RBI also announced to set up a 24x7 helpline for digital payment services. It directed all bank branches to participate in CTS clearing.",
+  "verified_at": ""
+}
