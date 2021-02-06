@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-06T16:58:50.000Z",
+  "updated_at": "2021-02-06T16:58:50.000Z",
+  "id": "222eeade-103c-4c87-b76f-723d8e104887",
+  "labels": "current-affairs,2021-02-07",
+  "question": "Tianwen-1, is a Mars probe launched by which country?",
+  "option1": "Russia",
+  "option2": "China",
+  "option3": "Japan",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "China",
+  "explanation": "China launched the Tianwen-1 Mars probe in July 2020. The space craft is expected to enter the Mars orbit around February 10 and to touch down the planet later this year.<br />The probe has recently sent back its first image of Mars, with the geological features including the Schiaparelli crater and the Valles Marineris stretch of canyons. As per the country’s space agency CNSA, the photograph was taken about 2.2 million kilometres from Mars.",
+  "verified_at": ""
+}

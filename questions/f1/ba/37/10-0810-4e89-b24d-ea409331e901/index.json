@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-06T16:53:44.000Z",
+  "updated_at": "2021-02-06T16:53:44.000Z",
+  "id": "f1ba3710-0810-4e89-b24d-ea409331e901",
+  "labels": "current-affairs,2021-02-07",
+  "question": "As per CERT-In, what is the number of cyber security incidents related to digital banking, were reported in 2020?",
+  "option1": "29, 000",
+  "option2": "2.9 Lakh",
+  "option3": 67000,
+  "option4": "6.7 lakh",
+  "option5": "",
+  "answer": "2.9 Lakh",
+  "explanation": "As per the information tracked by Indian Computer Emergency Response Team (CERT-In), as many as 2,90,445 cyber security incidents related to digital banking, were reported in 2020.<br />In 2018 and 2019, the number of security incidents were 1.59 lakhs and 2.46 lakhs respectively. As per the Electronics and IT Ministry, the cyber security incidents include viruses, phishing attacks, network scanning and probing, and website hacking.",
+  "verified_at": ""
+}
