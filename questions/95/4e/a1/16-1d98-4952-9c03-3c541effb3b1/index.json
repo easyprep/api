@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-07T06:34:07.000Z",
+  "updated_at": "2021-02-07T06:34:07.000Z",
+  "id": "954ea116-1d98-4952-9c03-3c541effb3b1",
+  "labels": "current-affairs,2021-02-08",
+  "question": "What is the income elasticity of demand for inferior goods?",
+  "option1": "equal to 1",
+  "option2": "greater than 1",
+  "option3": "less than 0",
+  "option4": "greater than 0",
+  "option5": "",
+  "answer": "less than 0",
+  "explanation": "Inferior goods have a negative(less than 0) income elasticity of demand meaning that demand falls as income rises. Inferior goods demand drops when the income of people drops.",
+  "verified_at": ""
+}

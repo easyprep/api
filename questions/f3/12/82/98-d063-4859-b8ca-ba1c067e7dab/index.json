@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-07T06:34:07.000Z",
+  "updated_at": "2021-02-07T06:34:07.000Z",
+  "id": "f3128298-d063-4859-b8ca-ba1c067e7dab",
+  "labels": "current-affairs,2021-02-08",
+  "question": "An increase in the consumer income leads to a decrease in demand of which type of good?",
+  "option1": "normal good",
+  "option2": "complementary good",
+  "option3": "inferior good",
+  "option4": "substitute good",
+  "option5": "",
+  "answer": "inferior good",
+  "explanation": "An inferior good is a good whose demand decreases when consumer income rises, unlike normal goods, for which the opposite is observed. Normal goods are those goods for which the demand rises as consumer income rises.",
+  "verified_at": ""
+}

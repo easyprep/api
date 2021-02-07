@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-07T06:34:06.000Z",
+  "updated_at": "2021-02-07T06:34:06.000Z",
+  "id": "f6db256c-9a89-4834-8d52-6bf9258dc14b",
+  "labels": "current-affairs,2021-02-08",
+  "question": "What kind of the cost is emplying a lawyer to seek help in getting a contract drafted and enforced between two parties?",
+  "option1": "opportunity cost",
+  "option2": "implicit cost",
+  "option3": "sunk cost",
+  "option4": "transaction cost",
+  "option5": "",
+  "answer": "transaction cost",
+  "explanation": "Transaction cost is the cost incurred when buying or selling goods or services. It represents the costs that do not have returns. The fee of lawyers come under this.",
+  "verified_at": ""
+}

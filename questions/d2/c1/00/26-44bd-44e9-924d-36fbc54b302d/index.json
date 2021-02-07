@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-07T06:34:07.000Z",
+  "updated_at": "2021-02-07T06:34:07.000Z",
+  "id": "d2c10026-44bd-44e9-924d-36fbc54b302d",
+  "labels": "current-affairs,2021-02-08",
+  "question": "If marginal revenue exceeds marginal cost, what should a monopolist do?",
+  "option1": "increase output",
+  "option2": "decrease output and increase price",
+  "option3": "raise the price without decreasing price",
+  "option4": "do nothing",
+  "option5": "",
+  "answer": "increase output",
+  "explanation": "If a firm is producing at a level where marginal revenue is greater than marginal cost, then by producing one more unit the firm can gain more revenue than it loses in cost and thereby makes a marginal profit.",
+  "verified_at": ""
+}

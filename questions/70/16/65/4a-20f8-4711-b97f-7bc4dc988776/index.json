@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-07T06:34:06.000Z",
+  "updated_at": "2021-02-07T06:34:06.000Z",
+  "id": "7016654a-20f8-4711-b97f-7bc4dc988776",
+  "labels": "current-affairs,2021-02-08",
+  "question": "In which of the following conditions, the domestic price a product will be equal to the world price in a country?",
+  "option1": "trade restrictions are imposed on the product in that country",
+  "option2": "the country chooses to import, but not export, the product",
+  "option3": "the country chooses to export, but not import, the product",
+  "option4": "the country allows free trade",
+  "option5": "",
+  "answer": "the country allows free trade",
+  "explanation": "When a country allows free trade then the domestic price will be equal to the price elsewhere in the world. This is called a trade regime with no restrictions. In rest of the places, the prices will not be equal.",
+  "verified_at": ""
+}
