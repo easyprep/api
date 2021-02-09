@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T03:58:54.000Z",
+  "updated_at": "2021-02-09T03:58:54.000Z",
+  "id": "ecd7ad4e-4ef6-4b3d-a7bb-acf8059b7ab3",
+  "labels": "current-affairs,2021-02-10",
+  "question": "Which place does not have a Navy command headquarter?",
+  "option1": "Visakhapatanam",
+  "option2": "Goa",
+  "option3": "Kochi",
+  "option4": "Mumbai",
+  "option5": "",
+  "answer": "Goa",
+  "explanation": "Goa doesn't have a Navy command headquarter. Eastern command HQ at Visakhapatanam, Western command at Mumbai, and southern Command HQ at Kochi.",
+  "verified_at": ""
+}

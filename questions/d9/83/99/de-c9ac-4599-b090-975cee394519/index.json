@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T03:58:52.000Z",
+  "updated_at": "2021-02-09T03:58:52.000Z",
+  "id": "d98399de-c9ac-4599-b090-975cee394519",
+  "labels": "current-affairs,2021-02-10",
+  "question": "What is Daksh?",
+  "option1": "Robot",
+  "option2": "Drone",
+  "option3": "LMG",
+  "option4": "Tank",
+  "option5": "",
+  "answer": "Robot",
+  "explanation": "DRDO Daksh is a remote controlled bomb disposal robot. It is fully automatic, can climb staircases, navigate row lanes, steep slopes and two vehicles to find the bombs. If it finds a Bomb, it would simply throw water on it and diffuse it.",
+  "verified_at": ""
+}

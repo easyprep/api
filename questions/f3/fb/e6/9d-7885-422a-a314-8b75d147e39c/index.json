@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T03:58:51.000Z",
+  "updated_at": "2021-02-09T03:58:51.000Z",
+  "id": "f3fbe69d-7885-422a-a314-8b75d147e39c",
+  "labels": "current-affairs,2021-02-10",
+  "question": "With which country does India share the largest land Border?",
+  "option1": "Bangladesh",
+  "option2": "Myanmar",
+  "option3": "China",
+  "option4": "Pakistan",
+  "option5": "",
+  "answer": "Bangladesh",
+  "explanation": "India shares largest land border with Bangladesh. The order of countries with respect to the length of border shared is <br />1. Bangladesh<br />2. China<br />3. Pakisthan<br />4. Nepal",
+  "verified_at": ""
+}

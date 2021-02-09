@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T03:58:51.000Z",
+  "updated_at": "2021-02-09T03:58:51.000Z",
+  "id": "3bc4a211-c8e0-4988-8197-0151641777b3",
+  "labels": "current-affairs,2021-02-10",
+  "question": "Which border of India is guarded by BSF?",
+  "option1": "India-Bangladesh",
+  "option2": "India-Pakistan",
+  "option3": "India-Nepal",
+  "option4": "Both 1 and 2",
+  "option5": "",
+  "answer": "Both 1 and 2",
+  "explanation": "The Indo Tibet Border is guarded by ITBP. BSF guards India Pakistan border and India Bangladesh border. SSB guards Indo Nepal and Indo Bhutan Border.",
+  "verified_at": ""
+}
