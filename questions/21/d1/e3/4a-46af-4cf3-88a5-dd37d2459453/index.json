@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T03:58:58.000Z",
+  "updated_at": "2021-02-09T03:58:58.000Z",
+  "id": "21d1e34a-46af-4cf3-88a5-dd37d2459453",
+  "labels": "current-affairs,2021-02-10",
+  "question": "Which multinational company manufactures Apache helicopters?",
+  "option1": "Lockheed Martin",
+  "option2": "Boeing",
+  "option3": "Dassault",
+  "option4": "DRDO",
+  "option5": "",
+  "answer": "Boeing",
+  "explanation": "Boeing manufactures Apache attack helicopters. They also manufacture various other military aircraft like Chinook aircraft.",
+  "verified_at": ""
+}

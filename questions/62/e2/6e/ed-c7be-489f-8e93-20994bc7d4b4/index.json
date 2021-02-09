@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T03:58:57.000Z",
+  "updated_at": "2021-02-09T03:58:57.000Z",
+  "id": "62e26eed-c7be-489f-8e93-20994bc7d4b4",
+  "labels": "current-affairs,2021-02-10",
+  "question": "What is the maximum payload of a missile that an MTCR country can export to a non-MTCR country?",
+  "option1": "300Kg",
+  "option2": "200Kg",
+  "option3": "500Kg",
+  "option4": "450Kg",
+  "option5": "",
+  "answer": "500Kg",
+  "explanation": "MTCR(Missile Technology Control Regime) is a multilateral missile export regime. It seeks to limit the proliferation of missiles and missile technology to 300km and a payload of 500kg. India joined in 2016.",
+  "verified_at": ""
+}

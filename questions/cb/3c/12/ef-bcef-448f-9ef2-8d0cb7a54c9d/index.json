@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T03:58:57.000Z",
+  "updated_at": "2021-02-09T03:58:57.000Z",
+  "id": "cb3c12ef-bcef-448f-9ef2-8d0cb7a54c9d",
+  "labels": "current-affairs,2021-02-10",
+  "question": "Which among the countries are part of Wassennar arrangement?<br />1. India<br />2. China<br />3. Russia<br />4. Pakistan<br />Choose the correct option from the choices given below:",
+  "option1": "1 and 3 only",
+  "option2": "1,2 and 3 only",
+  "option3": "1 and 4 only",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "1 and 3 only",
+  "explanation": "China and Pakistan are not part of the Wassenaar arrangement. Israel also is not a part of this group.",
+  "verified_at": ""
+}
