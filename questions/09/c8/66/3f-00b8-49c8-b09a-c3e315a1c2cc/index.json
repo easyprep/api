@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-09T17:45:11.000Z",
+  "updated_at": "2021-02-09T17:45:11.000Z",
+  "id": "09c8663f-00b8-49c8-b09a-c3e315a1c2cc",
+  "labels": "current-affairs,2021-02-10",
+  "question": "Which top populous country recorded over 15% dip in registered births year on year?",
+  "option1": "India",
+  "option2": "China",
+  "option3": "Indonesia",
+  "option4": "Pakistan",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The number of registered births in 2020 was 10.04 million, which is over 15 percent down from the number of registered births of the last year.<br />As per the data, this is the fourth consecutive year to register a decline in birth rate. China launched the one-child policy in the late 1970s to slow rapid population growth. It was reversed only in the year 2016.",
+  "verified_at": ""
+}
