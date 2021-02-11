@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T04:30:53.000Z",
+  "updated_at": "2021-02-11T04:30:53.000Z",
+  "id": "1e6f5fa3-7847-426c-8096-50da72fd055c",
+  "labels": "current-affairs,2021-02-12",
+  "question": "What is the GDP growth forecast for the current fiscal year, as per SBI Research?",
+  "option1": -0.012,
+  "option2": -0.056,
+  "option3": "- 7.0 %",
+  "option4": -0.114,
+  "option5": "",
+  "answer": "- 7.0 %",
+  "explanation": "As per the recent report by SBI Research, the GDP forecast for the current fiscal year is expected to contract 7 per cent.<br />Earlier, the agency had forecasted a contraction of 7.4 per cent for 2020-21. Q4 growth will record positive growth at around 2.5 per cent.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T04:28:56.000Z",
+  "updated_at": "2021-02-11T04:28:56.000Z",
+  "id": "22b0df24-1a7d-45aa-a40a-46d35301c595",
+  "labels": "current-affairs,2021-02-12",
+  "question": "Which country has recently launched a 10-year space program?",
+  "option1": "Israel",
+  "option2": "China",
+  "option3": "USA",
+  "option4": "Turkey",
+  "option5": "",
+  "answer": "Turkey",
+  "explanation": "The Turkish President Recep Tayyip Erdogan recently unveiled an ambitious 10-year space program for the nation. <br />This program includes missions to the moon, manned mission to space and developing internationally viable satellite systems.",
+  "verified_at": ""
+}
