@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T18:09:33.000Z",
+  "updated_at": "2021-02-11T18:09:33.000Z",
+  "id": "8f4678fc-e5db-4dfa-bcd6-c85bd405a718",
+  "labels": "current-affairs,2021-02-12",
+  "question": "The ‘NPCI PayAuth Challenge’ global hackathon, is supported by which international platform?",
+  "option1": "APIX",
+  "option2": "SoFi",
+  "option3": "Coinbase",
+  "option4": "Stripe",
+  "option5": "",
+  "answer": "APIX",
+  "explanation": "National Payments Corporation of India (NPCI) is set to launch ‘NPCI PayAuth Challenge’, a global-level hackathon.<br />The hackathon is supported by the world’s first open architecture API marketplace, APIX. It is a cross-border sandbox platform. The hackathon aims to get alternatives for the authentication of Unified Payments Interface (UPI) transactions.",
+  "verified_at": ""
+}

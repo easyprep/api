@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T14:29:35.000Z",
+  "updated_at": "2021-02-11T14:29:35.000Z",
+  "id": "f3d98fa6-d796-482e-afd4-3925ef2fa33f",
+  "labels": "current-affairs,2021-02-12",
+  "question": "Which of the following is / are correct statements regarding agriculture in India?\r\n<ol>\r\n<li>Agriculture is the biggest private sector in India</li>\r\n<li>Agriculture income bears no income tax burden</li>\r\n</ol>\r\nSelect the correct option from the codes given below:",
+  "option1": "Only 1",
+  "option2": "Only 2",
+  "option3": "Both 1 & 2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Both 1 & 2",
+  "explanation": "Agriculture is not only the biggest sector of the economy, but also the biggest private sector too. It is the only profession which still carries no burden of individual income tax. At the same time, agriculture is also the biggest unorganised sector of the economy accounting for more than\r\n90 per cent share in the total unorganised labour-force.",
+  "verified_at": ""
+}

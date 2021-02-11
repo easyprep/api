@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T18:08:32.000Z",
+  "updated_at": "2021-02-11T18:08:32.000Z",
+  "id": "19bfaa5d-4c8a-429b-b12c-7b7716d0911e",
+  "labels": "current-affairs,2021-02-12",
+  "question": "Tianwen-1, which was making news recently, is the spacecraft of which country?",
+  "option1": "Russia",
+  "option2": "China",
+  "option3": "South Korea",
+  "option4": "Israel",
+  "option5": "",
+  "answer": "China",
+  "explanation": "As per the China National Space Administration (CNSA), the Tianwen-1 spacecraft successfully entered the Mars orbit.<br />Tianwen, ‘Questions to Heaven’ in Chinese, is the first independent mission to the Mars. In future, the probe will launch a landing capsule to the planet, which will explore the Martian surface for 90 days and study its soil.",
+  "verified_at": ""
+}

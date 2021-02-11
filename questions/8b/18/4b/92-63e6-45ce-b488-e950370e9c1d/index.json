@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T18:06:03.000Z",
+  "updated_at": "2021-02-11T18:06:03.000Z",
+  "id": "8b184b92-63e6-45ce-b488-e950370e9c1d",
+  "labels": "current-affairs,2021-02-12",
+  "question": "Which payment major announced that it would add cryptocurrency to its network?",
+  "option1": "Pay Pal",
+  "option2": "Mastercard",
+  "option3": "VISA",
+  "option4": "Maestro",
+  "option5": "",
+  "answer": "Mastercard",
+  "explanation": "Global payment major Mastercard has announced that it will support some select cryptocurrency directly on its network.<br />It highlighted that it will give preference to 'stable coins' or cryptocurrencies that are linked to fiat currencies like the dollar. It also laid down four conditions for stable coins to be accepted including consumer protection, compliance among others.",
+  "verified_at": ""
+}

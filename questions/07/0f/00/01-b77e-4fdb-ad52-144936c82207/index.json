@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T14:29:35.000Z",
+  "updated_at": "2021-02-11T14:29:35.000Z",
+  "id": "070f0001-b77e-4fdb-ad52-144936c82207",
+  "labels": "current-affairs,2021-02-12",
+  "question": "What is India's rank in the world in Egg Production?",
+  "option1": "First",
+  "option2": "Second",
+  "option3": "Third",
+  "option4": "Fourth",
+  "option5": "",
+  "answer": "Third",
+  "explanation": "According to FAOSTAT production data (2019), India ranks 3rd in egg production in the world. The egg production in the country was 114.38 billion in 2019-20.",
+  "verified_at": ""
+}

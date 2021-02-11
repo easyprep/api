@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T14:29:35.000Z",
+  "updated_at": "2021-02-11T14:29:35.000Z",
+  "id": "5c813c5c-22f8-42f5-9c0e-d261f911eba7",
+  "labels": "current-affairs,2021-02-12",
+  "question": "Approximately, what fraction of contribution is made by Livestock sector in India's total Gross Value Added(GVA)?",
+  "option1": 0.04,
+  "option2": 0.05,
+  "option3": 0.06,
+  "option4": 0.07,
+  "option5": "",
+  "answer": 0.04,
+  "explanation": "As per the estimates of National Accounts Statistics (NAS) 2020, the contribution of livestock in total agriculture and allied sector GVA\r\n(at constant prices) has increased from 24.32 per cent (2014-15) to 28.63 per cent (2018-19). Livestock sector contributed 4.2 per cent of total GVA in 2018-19.",
+  "verified_at": ""
+}

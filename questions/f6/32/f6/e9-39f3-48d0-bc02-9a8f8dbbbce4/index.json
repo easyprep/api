@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-11T14:29:35.000Z",
+  "updated_at": "2021-02-11T14:29:35.000Z",
+  "id": "f632f6e9-39f3-48d0-bc02-9a8f8dbbbce4",
+  "labels": "current-affairs,2021-02-12",
+  "question": "What is approximate contribution of Fish Production in total Gross Value Added (GVA) of India?",
+  "option1": 0.0124,
+  "option2": 0.0224,
+  "option3": 0.0335,
+  "option4": 0.04,
+  "option5": "",
+  "answer": 0.0124,
+  "explanation": "The fisheries sector contributes 1.24 per cent to the GVA and 7.28 per cent to the agricultural GVA.",
+  "verified_at": ""
+}
