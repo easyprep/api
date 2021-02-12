@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T12:23:10.000Z",
+  "updated_at": "2021-02-12T12:23:10.000Z",
+  "id": "e19cbdde-53b0-4006-b62e-9073227c93eb",
+  "labels": "current-affairs,2021-02-13",
+  "question": "Which country houses the saltwater lake \"Trou Caiman\"?",
+  "option1": "Costa Rica",
+  "option2": "Peru",
+  "option3": "Nicaragua",
+  "option4": "Haiti",
+  "option5": "",
+  "answer": "Haiti",
+  "explanation": "Trou Caiman is a saltwater lake in Haiti known for its excellent birdwatching opportunities. The lake is semi-endorheic as seasonally it overflows into a straightened channel which is shallow to the east into endorheic Lake Azuei.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T12:23:09.000Z",
+  "updated_at": "2021-02-12T12:23:09.000Z",
+  "id": "3edd24bb-2a21-45d5-8a7f-c1b455b259d9",
+  "labels": "current-affairs,2021-02-13",
+  "question": "Which country's highest peak is \"Pic la Selle\"?",
+  "option1": "Dominican Republic",
+  "option2": "Haiti",
+  "option3": "Jamaica",
+  "option4": "The Bahamas",
+  "option5": "",
+  "answer": "Haiti",
+  "explanation": "Pic la Selle, also called Morne La Selle, is the highest peak in Haiti with a height of 2,680 metres above sea level. The mountain is part of the Chaine de la Selle mountain range.",
+  "verified_at": ""
+}

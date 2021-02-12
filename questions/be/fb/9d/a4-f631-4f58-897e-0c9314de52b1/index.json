@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T12:23:10.000Z",
+  "updated_at": "2021-02-12T12:23:10.000Z",
+  "id": "befb9da4-f631-4f58-897e-0c9314de52b1",
+  "labels": "current-affairs,2021-02-13",
+  "question": "Which country houses the mountain range \"Chaine de la Selle\"?",
+  "option1": "Dominican Republic",
+  "option2": "Haiti",
+  "option3": "The Bahamas",
+  "option4": "Jamaica",
+  "option5": "",
+  "answer": "Haiti",
+  "explanation": "Chaine de la Selle is a mountain range in Haiti, on the island of Hispaniola. The range's Pic la Selle is the highest point of Haiti, at a height of 2,680 meters above sea level.",
+  "verified_at": ""
+}

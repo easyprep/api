@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T12:24:43.000Z",
+  "updated_at": "2021-02-12T12:24:43.000Z",
+  "id": "6b89fdeb-31fe-4ec5-b987-ab75dc5e16c3",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does F denote in the term DFDR?",
+  "option1": "Flight",
+  "option2": "Fast",
+  "option3": "Fabriculated",
+  "option4": "Flexible",
+  "option5": "",
+  "answer": "Flight",
+  "explanation": "The Digital Flight Data Recorder( DFDR) is a system designed which collects and records data from a number of sensors which are mounted throughout the aircraft structure.",
+  "verified_at": ""
+}

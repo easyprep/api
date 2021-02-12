@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T12:23:10.000Z",
+  "updated_at": "2021-02-12T12:23:10.000Z",
+  "id": "1c4c8d61-e180-410d-ab54-1a98f5fa7963",
+  "labels": "current-affairs,2021-02-13",
+  "question": "Which country houses the \"Lake Peligre\"?",
+  "option1": "Cuba",
+  "option2": "Haiti",
+  "option3": "Peru",
+  "option4": "Costa Rica",
+  "option5": "",
+  "answer": "Haiti",
+  "explanation": "Lake Peligre is the second largest lake in Haiti. It was created as a result of the construction of the Peligre Hydroelectric Dam on the Artibonite River in 1956–1957. The project was designed by the U.S. Army Corps of Engineers and financed by the Export-Import Bank of the United States.",
+  "verified_at": ""
+}
