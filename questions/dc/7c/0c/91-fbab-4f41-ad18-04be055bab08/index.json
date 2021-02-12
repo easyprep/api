@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "dc7c0c91-fbab-4f41-ad18-04be055bab08",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does E stand for in the popular term E-Mail?",
+  "option1": "Encrypted",
+  "option2": "Enhanced",
+  "option3": "Erasable",
+  "option4": "Electronic",
+  "option5": "",
+  "answer": "Electronic",
+  "explanation": "The popular term E-Mail means Electronic mail. E-mail is a kind of system in which two users can send mails to each other being on different devices. Ray Tomlinson is given the credit of creating E-mail in the year 1971.",
+  "verified_at": ""
+}

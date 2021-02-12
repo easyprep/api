@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "56b648df-4695-44a2-b4d6-babf048ce4ec",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What is the correct full form of EDA?",
+  "option1": "Electronic Design Automation",
+  "option2": "European Design Automobiles",
+  "option3": "Enhanced Device Automobiles",
+  "option4": "Electronic Device Automation",
+  "option5": "",
+  "answer": "Electronic Design Automation",
+  "explanation": "The Electronic Design Automation (EDA) is a system of software tools made to design electronic systems such as the Integrated and Printed circuit boards. The EDA is also referred as electronic computer-aided design.",
+  "verified_at": ""
+}

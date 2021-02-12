@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "27b55f07-6144-493e-9b73-281f917ccbbc",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does V denote in EVM?",
+  "option1": "Vending",
+  "option2": "Voting",
+  "option3": "Voice",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Voting",
+  "explanation": "Electronic voting Machine (EVM) was introduced in the 1980s by the Election Commission of India(ECI) to put a check on the fraud of ballot papers in the elections.",
+  "verified_at": ""
+}

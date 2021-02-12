@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "7aab2e70-4794-487e-96e4-db8d3e22ff4a",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does I stand for in the term EPID?",
+  "option1": "Imagery",
+  "option2": "Imaging",
+  "option3": "Image",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Imaging",
+  "explanation": "The Electronic Portal Imaging Devices (EPIDs) is a device which is used to measure the x-ray intensity transmitted through a patient's body during the treatment session.",
+  "verified_at": ""
+}

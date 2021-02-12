@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:13.000Z",
+  "updated_at": "2021-02-12T13:12:13.000Z",
+  "id": "4f06cad1-a37f-47ce-a3e8-c31d876532a1",
+  "labels": "current-affairs,2021-02-13",
+  "question": "The Education Satellite (EDUSAT) was launched by which organization?",
+  "option1": "ISRO",
+  "option2": "NASA",
+  "option3": "ESA",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "ISRO",
+  "explanation": "The Education Satellite also called- GSAT was launched by Indian Space Research Organization (ISRO) in the year 2004. This is the first ever Education-dedicated satellite launched by ISRO.",
+  "verified_at": ""
+}

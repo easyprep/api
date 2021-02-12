@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:13.000Z",
+  "updated_at": "2021-02-12T13:12:13.000Z",
+  "id": "73a41e95-6cc2-4025-a019-4472781e2a4d",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does G denote in the term EIGRP?",
+  "option1": "Great",
+  "option2": "Grade",
+  "option3": "Gateway",
+  "option4": "Grain",
+  "option5": "",
+  "answer": "Gateway",
+  "explanation": "The Enhanced Interior Gateway Routing Protocol (EIGRP) is an advanced distance-Vector routing protocol. The protocol was designed by Cisco systems as a proprietary protocol which is used on a computer network for automating routing decisions.",
+  "verified_at": ""
+}

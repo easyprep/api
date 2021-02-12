@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "2a132b4a-2c9e-424a-aace-e6355dbb881e",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does E denote in the term EUC?",
+  "option1": "Electronic",
+  "option2": "Enlarged",
+  "option3": "Extended",
+  "option4": "Exterior",
+  "option5": "",
+  "answer": "Extended",
+  "explanation": "Extended Unix Code (EUC) is a multibyte character encoding system. The EUC is primarily used for Japanese, Korean and simplified Chinese.",
+  "verified_at": ""
+}

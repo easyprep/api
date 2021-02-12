@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "97a7fd11-dff1-4a8a-86a6-caef53a74558",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does I denote in the term EDI?",
+  "option1": "Intersection",
+  "option2": "Interchange",
+  "option3": "Internet",
+  "option4": "India",
+  "option5": "",
+  "answer": "Interchange",
+  "explanation": "The Electronic Data Interchange (EDI) is a concept of communicating business data through electronic mediums. EDIFACT, ODETTE, etc. are some of the basic standards for EDI.",
+  "verified_at": ""
+}

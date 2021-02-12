@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:13.000Z",
+  "updated_at": "2021-02-12T13:12:13.000Z",
+  "id": "558a7d5b-e1fe-48ac-8912-8105f2db70ea",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What is the correct full form of EIC?",
+  "option1": "Electronic Information Card",
+  "option2": "Electronic Identification Card",
+  "option3": "Electronic information Criteria",
+  "option4": "Electronic Identification Criteria",
+  "option5": "",
+  "answer": "Electronic Identification Card",
+  "explanation": "Electronic Identification Card (EIC) is form of electronic identification which is a digital proof of identity of a citizen or organization. EIC is a physical card that can be used for personal identification in both offline and online modes.",
+  "verified_at": ""
+}

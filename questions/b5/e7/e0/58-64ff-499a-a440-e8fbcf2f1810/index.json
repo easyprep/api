@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "b5e7e058-64ff-499a-a440-e8fbcf2f1810",
+  "labels": "current-affairs,2021-02-13",
+  "question": "The term ENIAC is related to which of the following?",
+  "option1": "Computer",
+  "option2": "Organization",
+  "option3": "Scheme",
+  "option4": "Institute",
+  "option5": "",
+  "answer": "Computer",
+  "explanation": "The Electronic Numerical Integrator And Computer (ENIAC) was the first programmable, electronic, general purpose digital computer. It was completed in 1945 and primarily used to calculate artillery firing tables for US's Army's Ballistic Research Laboratory.",
+  "verified_at": ""
+}

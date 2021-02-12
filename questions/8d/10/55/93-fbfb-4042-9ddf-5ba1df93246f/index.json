@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-12T13:12:14.000Z",
+  "updated_at": "2021-02-12T13:12:14.000Z",
+  "id": "8d105593-fbfb-4042-9ddf-5ba1df93246f",
+  "labels": "current-affairs,2021-02-13",
+  "question": "What does E stand for in the term EPROM?",
+  "option1": "Electronic",
+  "option2": "Erasable",
+  "option3": "Enhanced",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Erasable",
+  "explanation": "The Erasable Programmable Read Only Memory (EPROM) is a type of Programmable read-only memory chip famous for retaining its data even when the supply of power is off.",
+  "verified_at": ""
+}
