@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-13T01:52:40.000Z",
+  "updated_at": "2021-02-13T01:52:40.000Z",
+  "id": "d223b051-1406-4da5-90c9-b1e702bb0a79",
+  "labels": "current-affairs,2021-02-14",
+  "question": "As per a recent study, tap water access in which state/UT is a predictor of Dengue infection risk?",
+  "option1": "Bihar",
+  "option2": "Uttar Pradesh",
+  "option3": "New Delhi",
+  "option4": "Madhya Pradesh",
+  "option5": "",
+  "answer": "New Delhi",
+  "explanation": "As per a study published in the PLOS Neglected Tropical Diseases journal, tap water access in densely populated parts of Delhi is a strong predictor of Dengue contraction risk.<br />As per the study, 7.6 per cent of the surveyed individuals were positive for dengue virus antibodies. Areas with less than 61 per cent of houses having access to tap water, were associated with a higher risk of virus exposure.",
+  "verified_at": ""
+}
