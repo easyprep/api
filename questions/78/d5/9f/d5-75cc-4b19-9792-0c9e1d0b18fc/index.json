@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T05:52:01.000Z",
+  "updated_at": "2021-02-14T05:52:01.000Z",
+  "id": "78d59fd5-75cc-4b19-9792-0c9e1d0b18fc",
+  "labels": "current-affairs,2021-02-15",
+  "question": "In which year, the Financial Action Task Force (FATF) was established?",
+  "option1": 1989,
+  "option2": 1992,
+  "option3": 2001,
+  "option4": 1997,
+  "option5": "",
+  "answer": 1989,
+  "explanation": "The Financial Action Task Force (FATF), an intergovernmental organization, was founded in 1989 to puta check on money laundering. It is headquartered at Paris, France.",
+  "verified_at": ""
+}

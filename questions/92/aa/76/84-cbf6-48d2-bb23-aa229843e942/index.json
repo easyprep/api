@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T05:52:00.000Z",
+  "updated_at": "2021-02-14T05:52:00.000Z",
+  "id": "92aa7684-cbf6-48d2-bb23-aa229843e942",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What does R stand for in FDR?",
+  "option1": "Research",
+  "option2": "Record",
+  "option3": "Recorder",
+  "option4": "Regulation",
+  "option5": "",
+  "answer": "Recorder",
+  "explanation": "The Term FDR stands for Flight Data Recorder. It is a device used in aircrafts to collect and record data from aircrafts centers and to record aircraft performance  parameters.",
+  "verified_at": ""
+}

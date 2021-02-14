@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T05:52:01.000Z",
+  "updated_at": "2021-02-14T05:52:01.000Z",
+  "id": "000e8455-1de5-4219-a9db-e272c661dda5",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What does A denote in the term FRA ?",
+  "option1": "Association",
+  "option2": "Agreement",
+  "option3": "Accord",
+  "option4": "Account",
+  "option5": "",
+  "answer": "Agreement",
+  "explanation": "The Forward Rate Agreement (FRA) is a cash-settled OTC contract b/w two counterparties. Acc. to this agreement, the buyer is borrowing a national sum for a fixed period of time at a fixed interest rate.",
+  "verified_at": ""
+}

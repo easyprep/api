@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T05:52:00.000Z",
+  "updated_at": "2021-02-14T05:52:00.000Z",
+  "id": "50763ae8-fabb-4ab5-bf5d-0a5b01a1ffb1",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What is correct full form of FCS?",
+  "option1": "Fluorescence Correlation Spectroscopy",
+  "option2": "Fluorescence Collection Spectroscopy",
+  "option3": "Fluorescence Correction Spectroscopy",
+  "option4": "Fluorescence Co-reaction Spectroscopy",
+  "option5": "",
+  "answer": "Fluorescence Correlation Spectroscopy",
+  "explanation": "The term FCS stands for Fluorescence Correlation Spectroscopy. It is a statistical  analysis, via time correlation, of stationary fluctuations of the fluorescence intensity. FCS is a sensitive analytical tool because it observes small  molecules.",
+  "verified_at": ""
+}

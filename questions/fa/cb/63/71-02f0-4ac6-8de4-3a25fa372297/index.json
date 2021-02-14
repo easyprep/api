@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T05:52:01.000Z",
+  "updated_at": "2021-02-14T05:52:01.000Z",
+  "id": "facb6371-02f0-4ac6-8de4-3a25fa372297",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which Organization publishes the Financial Stability Report (FSR) in India?",
+  "option1": "RBI",
+  "option2": "SBI",
+  "option3": "FSDC",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "The Financial Stability Report (FSR) is published by the Reserve Bank of India (RBI). The FSR represents the collective assessment of Financial Stability and Development Council.",
+  "verified_at": ""
+}
