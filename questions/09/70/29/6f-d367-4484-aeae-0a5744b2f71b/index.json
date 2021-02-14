@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:35:00.000Z",
+  "updated_at": "2021-02-14T11:35:00.000Z",
+  "id": "0970296f-d367-4484-aeae-0a5744b2f71b",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What is the average annual growth rate experienced by the logistics sector in the past decade(2010-2020)?",
+  "option1": 0.105,
+  "option2": 0.034,
+  "option3": 0.061,
+  "option4": 0.147,
+  "option5": "",
+  "answer": 0.105,
+  "explanation": "The average annual growth rate experienced by the logistics sector in the past decade(2010-2020) is 10.5%.It reached $215 bn in 2020.",
+  "verified_at": ""
+}

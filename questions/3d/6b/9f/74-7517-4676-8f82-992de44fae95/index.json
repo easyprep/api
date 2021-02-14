@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T17:16:10.000Z",
+  "updated_at": "2021-02-14T17:16:10.000Z",
+  "id": "3d6b9f74-7517-4676-8f82-992de44fae95",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which country has banned BBC News from broadcasting in its nation?",
+  "option1": "United Kingdom",
+  "option2": "USA",
+  "option3": "China",
+  "option4": "Pakistan",
+  "option5": "",
+  "answer": "China",
+  "explanation": "The Government of China has banned BBC World News from broadcasting in the country. This announcement has been made by the country’s television regulator.<br />China has accused BBC for making derogatory reports on the country about coronavirus and the persecution of ethnic minority Uighurs.",
+  "verified_at": ""
+}

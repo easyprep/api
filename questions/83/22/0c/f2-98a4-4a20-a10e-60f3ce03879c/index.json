@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:35:00.000Z",
+  "updated_at": "2021-02-14T11:35:00.000Z",
+  "id": "83220cf2-98a4-4a20-a10e-60f3ce03879c",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Education, health, and housing are related to which field?",
+  "option1": "Manufacturing",
+  "option2": "Infrastructure",
+  "option3": "Construction",
+  "option4": "Insurance",
+  "option5": "",
+  "answer": "Infrastructure",
+  "explanation": "Education, health, and housing are related to Infrastructure. They come under the social infrastructure. They are the foundational structures of society.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T16:55:13.000Z",
+  "updated_at": "2021-02-14T16:55:13.000Z",
+  "id": "e331b120-0ae9-4386-a77a-ca7a2214ac43",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which country records the world’s highest number of Road crash deaths?",
+  "option1": "United States",
+  "option2": "Indonesia",
+  "option3": "India",
+  "option4": "Pakistan",
+  "option5": "",
+  "answer": "India",
+  "explanation": "India records the highest number of Road crash deaths, across the world. The World Bank recently released a report titled “Traffic Crash Injuries and Disabilities: The Burden on Indian Society”.<br />Union Transport minister Nitin Gadkari released the report, which highlights the unequal impact of a road crash on poor households. Over 75% of the poor households in India reported a decline in their income after a road traffic crash.",
+  "verified_at": ""
+}

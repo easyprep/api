@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:35:00.000Z",
+  "updated_at": "2021-02-14T11:35:00.000Z",
+  "id": "eee4ebb2-f556-4f5e-ad2a-11a71c489403",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is a type of transport infrastructure?<br />1.Highways<br />2.Railways<br />3.Canals<br />4.Seaport<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3",
+  "option2": "2,3 and 4",
+  "option3": "1 and 4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "The various types of transport infrastructure are:<br />1.Highways<br />2.Railways<br />3.Canals<br />4.Seaport<br />5.Mass transit system",
+  "verified_at": ""
+}

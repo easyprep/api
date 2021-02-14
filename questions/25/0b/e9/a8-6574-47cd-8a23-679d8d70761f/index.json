@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:39.000Z",
+  "updated_at": "2021-02-14T11:34:39.000Z",
+  "id": "250be9a8-6574-47cd-8a23-679d8d70761f",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What is the growth rate experienced by the insurance sector in the last decade(2010-2020)?",
+  "option1": 0.1,
+  "option2": 0.15,
+  "option3": 0.2,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.15,
+  "explanation": "During FY10-FY20, the life insurance companies in India increased at a CAGR of 15% to reach Rs. 2.13 trillion (US$ 37 billion) in FY20.",
+  "verified_at": ""
+}

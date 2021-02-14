@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:35:00.000Z",
+  "updated_at": "2021-02-14T11:35:00.000Z",
+  "id": "b8c7f4d1-4c94-4478-a28b-5f113dbe38d6",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is not a function of NCIIPC?",
+  "option1": "Protect critical infrastructure of the country",
+  "option2": "Reduce vulnerability in cyber Infrastructure",
+  "option3": "Frame Strategy for international cooperation for protection of infrastrcture",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "None of the above",
+  "explanation": "NCIIPC stands for National critical Information Infrastrcture Protection Centre(NCIIPC). It is created under IT act,2000. It is to Protect critical infrastructure of the country.",
+  "verified_at": ""
+}

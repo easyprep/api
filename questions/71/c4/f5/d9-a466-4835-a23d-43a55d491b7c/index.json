@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T17:08:15.000Z",
+  "updated_at": "2021-02-14T17:08:15.000Z",
+  "id": "71c4f5d9-a466-4835-a23d-43a55d491b7c",
+  "labels": "current-affairs,2021-02-15",
+  "question": "As per recent Government data, what percent of India’s prison inmates are illiterate?",
+  "option1": 0.1,
+  "option2": 0.15,
+  "option3": 0.2737,
+  "option4": 0.4737,
+  "option5": "",
+  "answer": 0.2737,
+  "explanation": "The Union Ministry of Home Affairs have recently released the data pertaining to the literacy levels of prison inmates in India.<br />As per the data, 1,32,729 out of 4,78,600 prison inmates in the country are illiterate. This constitutes 27.37 per cent of the total inmates.",
+  "verified_at": ""
+}

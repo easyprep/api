@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:35:00.000Z",
+  "updated_at": "2021-02-14T11:35:00.000Z",
+  "id": "b6584caf-3f5b-4ba6-aa8f-d7923cd3c371",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What is India's rank in the world bank's Logistics performance Index?",
+  "option1": 32,
+  "option2": 44,
+  "option3": 28,
+  "option4": 40,
+  "option5": "",
+  "answer": 44,
+  "explanation": "India's rank in the world bank's Logistics performance Index is 44. Germany is at 1.",
+  "verified_at": ""
+}
