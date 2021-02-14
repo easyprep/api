@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "1dc79feb-160b-4c5d-95fd-0bbcf7972dae",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is a promoter bank for NPCI?<br />1. SBI<br />2. PNB<br />3. RBI<br />4. ICICI<br />Choose the correct option from the choices given below:",
+  "option1": "1 and 4",
+  "option2": "3 only",
+  "option3": "1,2 and 4",
+  "option4": "1 and 3",
+  "option5": "",
+  "answer": "1,2 and 4",
+  "explanation": "NPCI is the umbrella organization for retail payments in India. Presently, there are 10 crore promoter banks (SBI, PNB, BOB, BOI, Canara Bank, Union Bank of India, ICICI, HDFC, Citi Bank &amp; HSBC).",
+  "verified_at": ""
+}

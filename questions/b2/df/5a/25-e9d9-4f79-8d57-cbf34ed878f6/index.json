@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T08:20:31.000Z",
+  "updated_at": "2021-02-14T08:20:31.000Z",
+  "id": "b2df5a25-e9d9-4f79-8d57-cbf34ed878f6",
+  "labels": "current-affairs,2021-02-15",
+  "question": "National Food Security Act provides legal food security to what fraction of Indian Population?",
+  "option1": 0.35,
+  "option2": 0.5,
+  "option3": 0.67,
+  "option4": 0.78,
+  "option5": "",
+  "answer": 0.67,
+  "explanation": "National Food Security Act provides legal food security to 67% of population of India. The eligible person gets Rice @Rs. 3 per Kg, Wheat @Rs. 2 per Kg and Coarse Grains @Rs. 1 Kg per month subject to maximum 5Kg per month. These prices are fixed in the schedule of the act and can be amended after three years.",
+  "verified_at": ""
+}

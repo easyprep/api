@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:03.000Z",
+  "updated_at": "2021-02-14T11:34:03.000Z",
+  "id": "06f4d8be-e85e-4a6e-9131-cd4cf58f29ae",
+  "labels": "current-affairs,2021-02-15",
+  "question": "In which year RBI was established?",
+  "option1": 1949,
+  "option2": 1935,
+  "option3": 1944,
+  "option4": 1939,
+  "option5": "",
+  "answer": 1935,
+  "explanation": "Reserve Bank of India(RBI) was established in 1935 under RBI Act 1934 as a private sector entity. In 1949 after independence it was nationalized.",
+  "verified_at": ""
+}

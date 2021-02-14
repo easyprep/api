@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "a100537a-a299-4776-b003-417e70288d40",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What is the full form of UPI?",
+  "option1": "Unified Payment Interface",
+  "option2": "Unidentified Payment Interface",
+  "option3": "Unified Payment Infrastructure",
+  "option4": "Uni Payment Institute",
+  "option5": "",
+  "answer": "Unified Payment Interface",
+  "explanation": "UPI stands for Unified Payment Interface. This application allows users to transfer money between bank accounts. It is launched by NPCI.",
+  "verified_at": ""
+}

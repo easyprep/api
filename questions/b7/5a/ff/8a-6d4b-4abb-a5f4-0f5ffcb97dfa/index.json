@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "b75aff8a-6d4b-4abb-a5f4-0f5ffcb97dfa",
+  "labels": "current-affairs,2021-02-15",
+  "question": "In which city headquarters of SEBI is located?",
+  "option1": "Mumbai",
+  "option2": "Hyderabad",
+  "option3": "Delhi",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Mumbai",
+  "explanation": "SEBI-Security Exchange Board of India was established in 1988.  It became a statutory body in 1992. Its headquarters is located in Mumbai.",
+  "verified_at": ""
+}

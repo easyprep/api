@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:21.000Z",
+  "updated_at": "2021-02-14T11:34:21.000Z",
+  "id": "e5962c44-ce3c-47ca-873e-b1803b341655",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which government institution regulatess SIDBI?",
+  "option1": "RBI",
+  "option2": "NABARD",
+  "option3": "Department of Finance",
+  "option4": "NHB",
+  "option5": "",
+  "answer": "RBI",
+  "explanation": "SIDBI stands for Small Industries development bank of India. It was established in 1990. It is regulated by RBI.",
+  "verified_at": ""
+}

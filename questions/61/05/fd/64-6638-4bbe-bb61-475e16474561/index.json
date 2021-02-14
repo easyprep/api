@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "6105fd64-6638-4bbe-bb61-475e16474561",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is the largest electronic securities depository of India?",
+  "option1": "NSDL",
+  "option2": "CDSL",
+  "option3": "BSE",
+  "option4": "None",
+  "option5": "",
+  "answer": "NSDL",
+  "explanation": "NSDL(National securities depository limited) is the first and largest electronic depository in India. It was founded in 1996. It is promoted by IDBI, UTI, NSE, and NSDL.",
+  "verified_at": ""
+}

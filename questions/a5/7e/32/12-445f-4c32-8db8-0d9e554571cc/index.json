@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:21.000Z",
+  "updated_at": "2021-02-14T11:34:21.000Z",
+  "id": "a57e3212-445f-4c32-8db8-0d9e554571cc",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following financial institutions are regulated by RBI?<br />1. Exim bank<br />2. NABARD<br />3. National Housing bank<br />4. SIDBI<br />Choose the correct option from the choices given below:",
+  "option1": "1 and 2",
+  "option2": "1,2 and 4",
+  "option3": "2,3 and 4",
+  "option4": "All of the above",
+  "option5": "",
+  "answer": "All of the above",
+  "explanation": "RBI regulates and supervises All India Financial Institutions. They are SIDBI, National Housing Bank, NABARD, and Exim bank.",
+  "verified_at": ""
+}

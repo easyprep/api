@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T07:42:04.000Z",
+  "updated_at": "2021-02-14T07:42:04.000Z",
+  "id": "1f28ec60-34ee-483a-81c7-30b18ae698d4",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which country does not share a land border with Honduras?",
+  "option1": "Guatemala",
+  "option2": "El Salvador",
+  "option3": "Nicaragua",
+  "option4": "Costa Rica",
+  "option5": "",
+  "answer": "Costa Rica",
+  "explanation": "Costa Rica does not share a land border with Honduras. Honduras is a country in Central America. The republic of Honduras is bordered to the west by Guatemala, to the southwest by El Salvador, to the southeast by Nicaragua, to the south by the Pacific Ocean at the Gulf of Fonseca, and to the north by the Gulf of Honduras, a large inlet of the Caribbean Sea.",
+  "verified_at": ""
+}

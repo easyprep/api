@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "4fa0b909-2ce0-43e7-baa3-66cbd8cd22f4",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What is IFSC?",
+  "option1": "Code for using UPI",
+  "option2": "Code to identify bank branches",
+  "option3": "Code to enable internet banking",
+  "option4": "None",
+  "option5": "",
+  "answer": "Code to identify bank branches",
+  "explanation": "IFSC (Indian Financial System Code) is an 11-digit alphanumeric code. It helps to identify bank branches that deal with online fund transfers either via NEFT (National Electronic Funds Transfer), IMPS (Immediate Payment Service) or RTGS (Real Time Gross Settlement).",
+  "verified_at": ""
+}

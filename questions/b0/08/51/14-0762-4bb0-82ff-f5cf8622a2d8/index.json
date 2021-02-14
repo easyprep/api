@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:03.000Z",
+  "updated_at": "2021-02-14T11:34:03.000Z",
+  "id": "b0085114-0762-4bb0-82ff-f5cf8622a2d8",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which of the following statements are correct?<br />1. Fiat money is a term used for gold coins<br />2. Currency deposit ratio is the proportion of total deposits that a commercial bank has to keep as a reserve.<br />Choose the correct option from the options given below:",
+  "option1": "1 only",
+  "option2": "2 only",
+  "option3": "1 and 2",
+  "option4": "None",
+  "option5": "",
+  "answer": "None",
+  "explanation": "Currency notes and coins are called fiat money. They don’t have intrinsic value like gold or silver coin. The currency-deposit ratio measures the relationship between the cash people have on hand and what they have in their accounts.",
+  "verified_at": ""
+}

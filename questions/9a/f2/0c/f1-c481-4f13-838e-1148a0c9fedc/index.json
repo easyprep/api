@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "9af20cf1-c481-4f13-838e-1148a0c9fedc",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is correct for NBFC(Non-Banking Finance Company)?<br />1. NBFC can accept demand deposit<br />2.NBFC can give loan to retail consumers<br />3. NBFC cant lend more than 25000 in cash against gold<br />4. They are registered under the companies act<br />Choose the correct option from the choices given below:",
+  "option1": "1 and 2",
+  "option2": "3 and 4",
+  "option3": "1,2 and 3",
+  "option4": "1,2,3 and 4",
+  "option5": "",
+  "answer": "3 and 4",
+  "explanation": "NBFC(Non-Banking Finance Company) is a company registered under the companies act. It was es It cant accept demand deposits. It cant lend more than 25000 in cash against gold.",
+  "verified_at": ""
+}

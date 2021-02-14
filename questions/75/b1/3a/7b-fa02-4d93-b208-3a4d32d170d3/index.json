@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "75b13a7b-fa02-4d93-b208-3a4d32d170d3",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following a domestic payment system?",
+  "option1": "VISA",
+  "option2": "MasterCard",
+  "option3": "Rupay",
+  "option4": "American Express",
+  "option5": "",
+  "answer": "Rupay",
+  "explanation": "Rupay is the Indian domestic card payment network. It is being set up by NPCI on the behalf of banks in India. It is launched in 2012.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "bb44405f-2902-42c8-be3f-43badec75f03",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Who among the following developed NFS(National Financial Switch)?",
+  "option1": "NPCI",
+  "option2": "RBI",
+  "option3": "Institute of Development & Research in Banking Technology",
+  "option4": "None",
+  "option5": "",
+  "answer": "Institute of Development & Research in Banking Technology",
+  "explanation": "NFS(National Financial Switch) is the ATM connecting facility. It is developed by the Institute of Development &amp; Research in Banking Technology and handed over to NPCI in 2009.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:03.000Z",
+  "updated_at": "2021-02-14T11:34:03.000Z",
+  "id": "e1e40286-c95d-4b5e-9cca-d62107b5dfbf",
+  "labels": "current-affairs,2021-02-15",
+  "question": "What is the full form of RTGS?",
+  "option1": "Ready Transaction and Gross Settlement",
+  "option2": "Real Transaction and General Settlement",
+  "option3": "Real Time Gross Settlement",
+  "option4": "Real Transaction Gross Settlement",
+  "option5": "",
+  "answer": "Real Time Gross Settlement",
+  "explanation": "<p>RTGS (Real Time Gross Settlement) is a fund transfer system. In this, the transfer of money or securities takes place from one bank to any other bank on a \"real-time\" and on a \"gross\" basis.</p>",
+  "verified_at": ""
+}

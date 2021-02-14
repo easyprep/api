@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:03.000Z",
+  "updated_at": "2021-02-14T11:34:03.000Z",
+  "id": "c4435cc3-a328-49c9-9433-d7259158762c",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is a function of RBI?<br />1. Print currency<br />2. Banker to banks<br />3. Regulate stock exchange<br />4. Stabilize rupee<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3",
+  "option2": "1,2 and 4",
+  "option3": "2,3 and 4",
+  "option4": "1 and 4",
+  "option5": "",
+  "answer": "1,2 and 4",
+  "explanation": "The RBI is the central bank of India. It is a banker to the banks as well as the government. It regulates the financial system but not the stock exchange. The stock exchange is regulated by SEBI.",
+  "verified_at": ""
+}

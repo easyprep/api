@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T07:42:07.000Z",
+  "updated_at": "2021-02-14T07:42:07.000Z",
+  "id": "79a03b45-0ff5-49ff-aaaf-0133f1892110",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which country houses the hydroelectric power plant \"Central Hidroelectrica Francisco Morazan\"?",
+  "option1": "Guatemala",
+  "option2": "Nicaragua",
+  "option3": "Honduras",
+  "option4": "Panama",
+  "option5": "",
+  "answer": "Honduras",
+  "explanation": "The El Cajon Dam, officially known as Central Hidroelectrica Francisco Morazan, is a hydroelectric power plant located in Western Honduras. The dam impounds the Comayagua River, which derives its large volume from two large tributaries, the Humuya River and the Sulaco River. El Cajon is a double arch dam, which uses parabolic geometry in horizontal and vertical axes to spread the weight of the impounded water to canyon walls which act as buttresses. Overall, the dam is the fifth-highest dam in the Americas and the 16th highest in the world, as well as the highest arch dam in the western hemisphere, and the sixth-highest worldwide.",
+  "verified_at": ""
+}

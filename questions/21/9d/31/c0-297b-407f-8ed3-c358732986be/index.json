@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:22.000Z",
+  "updated_at": "2021-02-14T11:34:22.000Z",
+  "id": "219d31c0-297b-407f-8ed3-c358732986be",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is introduced by NPCI?<br />1. Phone Pay<br />2. UPI<br />3. Bhim app<br />4. Bharat QR<br />Choose the correct option from the choices given below:",
+  "option1": "1,2 and 3",
+  "option2": "1 and 3",
+  "option3": "2,3 and 4",
+  "option4": "1,2,3 and 4",
+  "option5": "",
+  "answer": "2,3 and 4",
+  "explanation": "NPCI is the umbrella organization for retail payments in India. It introduced UPI, USSD, BHIM App, Bharat QR CODE, IMPS, National Financial Switch, CTS, BBPS, Rupay, NACH, AEPS.",
+  "verified_at": ""
+}

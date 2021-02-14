@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-14T11:34:03.000Z",
+  "updated_at": "2021-02-14T11:34:03.000Z",
+  "id": "b8280ecf-5b46-49b1-b9a6-4305a137a8b5",
+  "labels": "current-affairs,2021-02-15",
+  "question": "Which among the following is the effect of currency devaluation?",
+  "option1": "Increase in imports",
+  "option2": "decrease in inflation",
+  "option3": "increase in exports",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "increase in exports",
+  "explanation": "Currency devaluation leads to a decrease in the value of a currency. It will lead to an increase in exports and a decrease in imports as imports become costlier.",
+  "verified_at": ""
+}
