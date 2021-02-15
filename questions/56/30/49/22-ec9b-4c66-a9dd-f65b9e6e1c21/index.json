@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-15T17:15:52.000Z",
+  "updated_at": "2021-02-15T17:15:52.000Z",
+  "id": "56304922-ec9b-4c66-a9dd-f65b9e6e1c21",
+  "labels": "current-affairs,2021-02-16",
+  "question": "Which country has launched cargo ship with supplies to International Space Station?",
+  "option1": "China",
+  "option2": "United States",
+  "option3": "Russia",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "Russia",
+  "explanation": "An unmanned Russian cargo ship launched successfully loaded with supplies for the International Space Station.<br />Named as ‘Progress MS-16’, the cargo ship blasted off from the Russia’s Baikonur launch facility in Kazakhstan. The ship is carrying water, propellant and other supplies. It is set to dock at the space outpost two days after the launch.",
+  "verified_at": ""
+}
