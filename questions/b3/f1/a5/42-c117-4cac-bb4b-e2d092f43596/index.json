@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-17T16:17:10.000Z",
+  "updated_at": "2021-02-17T16:17:10.000Z",
+  "id": "b3f1a542-c117-4cac-bb4b-e2d092f43596",
+  "labels": "current-affairs,2021-02-18",
+  "question": "Which micro-blogging platform has commenced its testing of voice Direct messages in India?",
+  "option1": "Koo",
+  "option2": "Twitter",
+  "option3": "Facebook",
+  "option4": "Google Hangout",
+  "option5": "",
+  "answer": "Twitter",
+  "explanation": "Twitter has started rolling out the voice messages feature, under which recorded voice message can be sent via Direct Message in India.<br />This new voice message feature is being launched in select countries in a phased manner. The voice message feature is already present in various instant messaging apps like WhatsApp, Messenger, Telegram, and others.",
+  "verified_at": ""
+}
