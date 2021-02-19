@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:38:35.000Z",
+  "updated_at": "2021-02-19T07:38:35.000Z",
+  "id": "06f99b48-206f-43d2-839f-ed4ffc3c8e32",
+  "labels": "current-affairs,2021-02-20",
+  "question": "Which cities are connected by NH-1?",
+  "option1": "Mumbai-Delhi",
+  "option2": "Delhi-Kolkata",
+  "option3": "Delhi-Amritsar",
+  "option4": "Chennai-Kolkata",
+  "option5": "",
+  "answer": "Delhi-Amritsar",
+  "explanation": "The National Highway - 1 connects Delhi to Amritsar. The strip from Amritsar to Jalandhar is four-lane and from Jalandhar to Delhi.",
+  "verified_at": ""
+}

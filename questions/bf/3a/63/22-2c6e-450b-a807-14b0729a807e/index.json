@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:38:36.000Z",
+  "updated_at": "2021-02-19T07:38:36.000Z",
+  "id": "bf3a6322-2c6e-450b-a807-14b0729a807e",
+  "labels": "current-affairs,2021-02-20",
+  "question": "Which highway connects Delhi to Kolkata directly?",
+  "option1": "NH 2",
+  "option2": "NH 4",
+  "option3": "NH 5",
+  "option4": "NH 8",
+  "option5": "",
+  "answer": "NH 2",
+  "explanation": "NH2 connects New Delhi to Kolkata.NH-1 and NH-2 are collectively called as the Grand Trunk Road.",
+  "verified_at": ""
+}

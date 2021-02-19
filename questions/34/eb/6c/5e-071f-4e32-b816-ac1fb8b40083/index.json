@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:07.000Z",
+  "updated_at": "2021-02-19T07:39:07.000Z",
+  "id": "34eb6c5e-071f-4e32-b816-ac1fb8b40083",
+  "labels": "current-affairs,2021-02-20",
+  "question": "Which country's major companies stock market index is \"BUX\"?",
+  "option1": "Hungary",
+  "option2": "Austria",
+  "option3": "Poland",
+  "option4": "Czech Republic",
+  "option5": "",
+  "answer": "Hungary",
+  "explanation": "Hungary's major companies stock market index is \"BUX\". BUX is a blue-chip stock market index consisting of up to 25 major Hungarian companies trading on the Budapest Stock Exchange. Prices are taken from the electronic Xetra trading system. According to the operator Budapest Stock Exchange, the BUX measures the performance of the Equities Prime Market’s 12 to 25 largest Hungarian companies in terms of order book volume and market capitalization. It is the equivalent of the Dow Jones Industrial Average and DAX.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:02.000Z",
+  "updated_at": "2021-02-19T07:39:02.000Z",
+  "id": "c1c000e4-8e3d-4198-8384-37430260c457",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the official currency of Hungary?",
+  "option1": "Lek",
+  "option2": "Forint",
+  "option3": "Dram",
+  "option4": "Manat",
+  "option5": "",
+  "answer": "Forint",
+  "explanation": "The forint is the currency of Hungary. The introduction of the forint on 1 August 1946 was a crucial step in the post-World War II stabilisation of the Hungarian economy, and the currency remained relatively stable until the 1980s.",
+  "verified_at": ""
+}

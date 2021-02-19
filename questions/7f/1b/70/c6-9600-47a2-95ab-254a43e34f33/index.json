@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:08.000Z",
+  "updated_at": "2021-02-19T07:39:08.000Z",
+  "id": "7f1b70c6-9600-47a2-95ab-254a43e34f33",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What was \"Rudolf E. Kalman\" famous for?",
+  "option1": "As a Hungarian-American electrical engineer",
+  "option2": "As a Hungarian-American mathematician",
+  "option3": "As a Hungarian-American politician",
+  "option4": "As a Hungarian-American novelist",
+  "option5": "",
+  "answer": "As a Hungarian-American electrical engineer",
+  "explanation": "Rudolf E. Kalman was a Hungarian-American electrical engineer, mathematician, and inventor. He is most noted for his co-invention and development of the Kalman filter, a mathematical algorithm that is widely used in signal processing, control systems, and guidance, navigation and control. For this work, U.S. President Barack Obama awarded Kalman the National Medal of Science on October 7, 2009.",
+  "verified_at": ""
+}

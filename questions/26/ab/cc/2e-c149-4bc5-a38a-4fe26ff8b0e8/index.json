@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:08.000Z",
+  "updated_at": "2021-02-19T07:39:08.000Z",
+  "id": "26abcc2e-c149-4bc5-a38a-4fe26ff8b0e8",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What was \"Janos Bolyai\" famous for?",
+  "option1": "As a Hungarian biologist",
+  "option2": "As a Hungarian physicist",
+  "option3": "As a Hungarian chemist",
+  "option4": "As a Hungarian mathematician",
+  "option5": "",
+  "answer": "As a Hungarian mathematician",
+  "explanation": "Janos Bolyai was a Hungarian mathematician, who developed absolute geometry—a geometry that includes both Euclidean geometry and hyperbolic geometry. The discovery of a consistent alternative geometry that might correspond to the structure of the universe helped to free mathematicians to study abstract concepts irrespective of any possible connection with the physical world.",
+  "verified_at": ""
+}

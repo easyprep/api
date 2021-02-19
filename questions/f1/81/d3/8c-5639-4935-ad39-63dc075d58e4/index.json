@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:38:35.000Z",
+  "updated_at": "2021-02-19T07:38:35.000Z",
+  "id": "f181d38c-5639-4935-ad39-63dc075d58e4",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the share of the National highway among the total road network?",
+  "option1": 0.034,
+  "option2": 0.019,
+  "option3": 0.026,
+  "option4": 0.045,
+  "option5": "",
+  "answer": 0.019,
+  "explanation": "National highways account for 1.9% of the total road network in India. India has the second-largest road network in the world.",
+  "verified_at": ""
+}
