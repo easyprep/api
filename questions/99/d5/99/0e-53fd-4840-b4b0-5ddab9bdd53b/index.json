@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "99d5990e-53fd-4840-b4b0-5ddab9bdd53b",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does V denote in the term HVAC ?",
+  "option1": "Velocity",
+  "option2": "Volume",
+  "option3": "Ventilation",
+  "option4": "Vernacular",
+  "option5": "",
+  "answer": "Ventilation",
+  "explanation": "The term HVAC denotes Heating, Ventilation, and Air Conditioning (HVAC). The HVAC is a technology which is used to provide indoor and vehicular environmental comfort.",
+  "verified_at": ""
+}

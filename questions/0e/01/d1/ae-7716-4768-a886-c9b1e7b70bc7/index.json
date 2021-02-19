@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "0e01d1ae-7716-4768-a886-c9b1e7b70bc7",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the full form of the term GPS ?",
+  "option1": "Global Positioning System",
+  "option2": "Global Poverty System",
+  "option3": "General Positional System",
+  "option4": "Global Position System",
+  "option5": "",
+  "answer": "Global Positioning System",
+  "explanation": "The Global Positioning System (GPS) is a global-level navigation satellite system. The GPS provides location, velocity and time synchronization.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "c1596d00-ef2a-456c-b4bd-ec415342c36e",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the correct full form of the term GIF ?",
+  "option1": "Geographical Information Function",
+  "option2": "Graphics Interchange Format",
+  "option3": "Global Information Functionary",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Graphics Interchange Format",
+  "explanation": "The Graphics Interchange Format (GIF) is a bitmap image format was developed by Steve Wilhite in 1987. Its usage has been increased in modern times due to its wide support and portability between applications.",
+  "verified_at": ""
+}

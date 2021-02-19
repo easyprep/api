@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "2a007a97-7c6a-4217-9031-fdbe954d9fb4",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does M denote in the term HTML?",
+  "option1": "Machine",
+  "option2": "Memory",
+  "option3": "Makeup",
+  "option4": "Markup",
+  "option5": "",
+  "answer": "Markup",
+  "explanation": "The term HTML stands for Hypertext Markup Language. The HTML is  a Makeup language which is used to interpret and compose text, images and other material into visual and audible web pages by the web browsers.",
+  "verified_at": ""
+}

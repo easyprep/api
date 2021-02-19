@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:46.000Z",
+  "updated_at": "2021-02-19T07:39:46.000Z",
+  "id": "de7bf8e0-47e8-4712-a5fa-ed5db268dcd0",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does G stand for in the term GUI ?",
+  "option1": "Global",
+  "option2": "Graphic",
+  "option3": "Graphical",
+  "option4": "Geographic",
+  "option5": "",
+  "answer": "Graphical",
+  "explanation": "The Graphical User Interface (GUI) is a user interface which allows the users to interact with electronic devices. The GUI provides this facility to the user through graphical icons and audio indicator.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "9bb3fbd1-364b-4f62-a75a-1fe96714560a",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does M stand for in the term HTM ?",
+  "option1": "Memorial",
+  "option2": "Management",
+  "option3": "Machine",
+  "option4": "Memory",
+  "option5": "",
+  "answer": "Memory",
+  "explanation": "The Hierarchical Temporal Memory is a biologically constrained machine intelligence technology. The technology is based on neuro-science and the physiology and interaction of pyramidal neurons in the neo cortex of the mammalian brain.",
+  "verified_at": ""
+}

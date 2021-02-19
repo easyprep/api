@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "f93e142c-5c6f-4e72-ba5d-28f21d867344",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does D denote in GDI ?",
+  "option1": "Development",
+  "option2": "Demand",
+  "option3": "Direct",
+  "option4": "Device",
+  "option5": "",
+  "answer": "Device",
+  "explanation": "The Graphics Device Interface (GDI) is a Microsoft windows application programming interface and core operating system which is responsible to represent graphical objects and transmits them to monitors and printers.",
+  "verified_at": ""
+}

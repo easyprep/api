@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "50fd359d-6c96-4117-b97f-50cadd10e9b1",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does D stand for in the famous term GMT ?",
+  "option1": "Gross",
+  "option2": "Great",
+  "option3": "Greenwich",
+  "option4": "Grey",
+  "option5": "",
+  "answer": "Greenwich",
+  "explanation": "The Greenwich Mean Time (GMT) is the mean solar time at the royal observatory in Greenwich, London. The term GMT is popularly used in countries of Middle East, Africa, and commonwealth countries like India, Australia, South Africa etc.",
+  "verified_at": ""
+}

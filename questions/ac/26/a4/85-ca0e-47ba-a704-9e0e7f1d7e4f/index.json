@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "ac26a485-ca0e-47ba-a704-9e0e7f1d7e4f",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the full form of the most popular term HCF ?",
+  "option1": "High Control Feature",
+  "option2": "Highest Central Figure",
+  "option3": "Highest Common Factor",
+  "option4": "High Common Factor",
+  "option5": "",
+  "answer": "Highest Common Factor",
+  "explanation": "The full form of the term HCF is Highest Common Factor. The highest common factor is found by multiplying all the factors which appear in both lists of numbers given.",
+  "verified_at": ""
+}

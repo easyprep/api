@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "457c8272-d7a4-4e36-a971-3476e418f580",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the correct full form of the term HT which is related to Intel ?",
+  "option1": "High Technology",
+  "option2": "Hyper Threading",
+  "option3": "Higher Threading",
+  "option4": "Hyper Technology",
+  "option5": "",
+  "answer": "Hyper Threading",
+  "explanation": "The term HT stands for Hyper Threading which was introduced by Intel as a form of simultaneous multi-threading technology. The concept behind the technology was patented by sun microsystems.",
+  "verified_at": ""
+}

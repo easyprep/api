@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "ed2d10af-2351-4243-9945-dabf9ca40435",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does P denote in the term GPL ?",
+  "option1": "Provident",
+  "option2": "Photo",
+  "option3": "Public",
+  "option4": "Population",
+  "option5": "",
+  "answer": "Public",
+  "explanation": "The General Public License (GPL) is a series of widely used free software licenses that guaranties end users the freedom to run, study, share and modify the software.",
+  "verified_at": ""
+}

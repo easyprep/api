@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "76e6dbf5-bb67-4022-8fe0-8452016dde82",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does U stand for in the term GPU ?",
+  "option1": "Unit",
+  "option2": "Unitary",
+  "option3": "Union",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Unit",
+  "explanation": "The Graphics Processing Unit (GPU) is specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device.",
+  "verified_at": ""
+}

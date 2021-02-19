@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "69b79daa-245f-48be-9c60-26fea4d4f981",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the correct full form of the term HHD ?",
+  "option1": "Hybrid Hard Drive",
+  "option2": "Human Hybrid Device",
+  "option3": "Human Hybrid Drive",
+  "option4": "Hybrid Hard Device",
+  "option5": "",
+  "answer": "Hybrid Hard Drive",
+  "explanation": "The Hybrid Hard Drive (HHD) is a logical or physical storage device that combines a faster storage medium such as Solid State Drive (SSD) with a higher capacity Hard Disk Drive (HDD).",
+  "verified_at": ""
+}

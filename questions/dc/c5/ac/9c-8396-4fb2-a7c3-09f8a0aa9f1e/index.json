@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:08.000Z",
+  "updated_at": "2021-02-19T07:39:08.000Z",
+  "id": "dcc5ac9c-8396-4fb2-a7c3-09f8a0aa9f1e",
+  "labels": "current-affairs,2021-02-20",
+  "question": "Which language's oldest written words are included in the document \"Establishing charter of the abbey of Tihany\"?",
+  "option1": "Polish",
+  "option2": "German",
+  "option3": "Hungarian",
+  "option4": "French",
+  "option5": "",
+  "answer": "Hungarian",
+  "explanation": "The establishing charter of the abbey of Tihany is a document known for including the oldest written words in the Hungarian language. The document, dated 1055, lists the lands the king donated to the newly founded Tihany Abbey. It is mostly in Latin but contains several Hungarian words and expressions.",
+  "verified_at": ""
+}

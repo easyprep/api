@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:41:10.000Z",
+  "updated_at": "2021-02-19T07:41:10.000Z",
+  "id": "6c04790e-5dcb-41d6-a0bf-04ffc4e101cb",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does G denote in the popular term JPEG ?",
+  "option1": "Graphics",
+  "option2": "Group",
+  "option3": "Graphic",
+  "option4": "Gigabyte",
+  "option5": "",
+  "answer": "Group",
+  "explanation": "The Joint Photographic Experts Group (JPEG) is a method of lossy compression which is used commonly for digital images mainly for those which are produced by digital photography.",
+  "verified_at": ""
+}

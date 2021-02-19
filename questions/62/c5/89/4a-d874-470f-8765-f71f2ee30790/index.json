@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:44.000Z",
+  "updated_at": "2021-02-19T07:39:44.000Z",
+  "id": "62c5894a-d874-470f-8765-f71f2ee30790",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does R denote in the term GDR ?",
+  "option1": "Receipt",
+  "option2": "Return",
+  "option3": "Ratio",
+  "option4": "Rate",
+  "option5": "",
+  "answer": "Receipt",
+  "explanation": "The Global Depository Receipt (GDR) is a depository receipt where a certificate issued by a depository bank creates a security on a local exchange backed by those shares.",
+  "verified_at": ""
+}

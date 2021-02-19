@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "6a1c0f6d-e6cd-4074-ae9c-ef95a1dbaaf6",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does C denote in the term HCL ?",
+  "option1": "Competition",
+  "option2": "Compatibility",
+  "option3": "Carbon",
+  "option4": "Credit",
+  "option5": "",
+  "answer": "Compatibility",
+  "explanation": "The Hardware Compatibility List (HCL) is a list of computer hardware which is compatible with a special operating system. The HCL provides the database of hardware models and their compatibility within particular operating system.",
+  "verified_at": ""
+}

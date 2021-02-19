@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "5bcbe9cf-d79d-482c-8a51-efecbbbaa5b9",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does G denote in the term HIG ?",
+  "option1": "Government",
+  "option2": "Guidelines",
+  "option3": "Guardian",
+  "option4": "Greater",
+  "option5": "",
+  "answer": "Guidelines",
+  "explanation": "The Human Interface Guidelines (HIG) are software development documents which offer application developers a set of recommendations. The central aim of HIG is to create a consistent experience in the environment including the applications and other tools being used.",
+  "verified_at": ""
+}

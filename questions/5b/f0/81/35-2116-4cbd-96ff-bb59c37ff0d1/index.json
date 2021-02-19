@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "5bf08135-2116-4cbd-96ff-bb59c37ff0d1",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does R stand for in the term GPRS ?",
+  "option1": "Radiation",
+  "option2": "Radio",
+  "option3": "Ratio",
+  "option4": "Rate",
+  "option5": "",
+  "answer": "Radio",
+  "explanation": "The General Packet Radio Service (GPRS) is a packet oriented mobile data standard available for only 2G or 3G cellular communication network's global system for mobile communications.",
+  "verified_at": ""
+}

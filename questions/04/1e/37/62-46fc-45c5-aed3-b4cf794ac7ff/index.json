@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:39:45.000Z",
+  "updated_at": "2021-02-19T07:39:45.000Z",
+  "id": "041e3762-46fc-45c5-aed3-b4cf794ac7ff",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the correct full form of G-Sec ?",
+  "option1": "Geographical sector",
+  "option2": "Government Sector",
+  "option3": "Global Security",
+  "option4": "Government Security",
+  "option5": "",
+  "answer": "Government Security",
+  "explanation": "The Global Security (G- Sec) is a tradable instrument issued by both central and state governments. In India, Central govt. issues treasury bills and dated or bonds securities whereas state govt issues only bonds or dated securities.",
+  "verified_at": ""
+}

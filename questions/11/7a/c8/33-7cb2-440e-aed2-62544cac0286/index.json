@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "117ac833-7cb2-440e-aed2-62544cac0286",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the correct full form of the term HT ?",
+  "option1": "Hyper Transactions",
+  "option2": "Hyper Transport",
+  "option3": "Higher Transport",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Hyper Transport",
+  "explanation": "The Hyper Transport (HT) is a technology for interconnection of computer processors. It is also known as Lightning Data Transport (LDT). The HT was introduced in the year 2001.",
+  "verified_at": ""
+}

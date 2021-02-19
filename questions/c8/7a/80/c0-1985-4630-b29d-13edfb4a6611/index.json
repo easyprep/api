@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "c87a80c0-1985-4630-b29d-13edfb4a6611",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the correct full form of the term HID ?",
+  "option1": "Human Interface Device",
+  "option2": "Human Information Device",
+  "option3": "High Information Disk",
+  "option4": "Human Interface Disk",
+  "option5": "",
+  "answer": "Human Interface Device",
+  "explanation": "The Human Interface Device (HID) is a type of computer device which can used by humans to take inputs from humans and give output to humans.",
+  "verified_at": ""
+}

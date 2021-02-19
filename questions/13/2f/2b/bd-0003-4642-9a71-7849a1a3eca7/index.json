@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:06.000Z",
+  "updated_at": "2021-02-19T07:40:06.000Z",
+  "id": "132f2bbd-0003-4642-9a71-7849a1a3eca7",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What does D denote in the term HTTPD ?",
+  "option1": "Direction",
+  "option2": "Distribution",
+  "option3": "Direct",
+  "option4": "Daemon",
+  "option5": "",
+  "answer": "Daemon",
+  "explanation": "The Hypertext Transfer Protocol Daemon (HTTPD) runs in the background of a web server and waits for the server requests. The daemon is responsible to answer the requests automatically and serves the hypertext and multimedia.",
+  "verified_at": ""
+}

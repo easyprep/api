@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T14:19:51.000Z",
+  "updated_at": "2021-02-19T14:19:51.000Z",
+  "id": "0c541d7e-ccf1-41a9-bc6c-497b491d0f66",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the name of the Mars rover of the U.S. space agency NASA, which has recently landed on the red planet?",
+  "option1": "Discovery",
+  "option2": "Perseverance",
+  "option3": "Grit",
+  "option4": "Ingenuity",
+  "option5": "",
+  "answer": "Perseverance",
+  "explanation": "Perseverance is the name of the rover sent by NASA to the Mars. The rover, which has been a nearly 300-million-mile journey since it left the Earth over 6 months ago, safely landed at the Martian surface.<br />The rover is set to experiment a series of activities for the first time: the search for signs of ancient life on Mars, the first helicopter fly on another planet and yhe first recordings of sound on the Mars, etc.",
+  "verified_at": ""
+}

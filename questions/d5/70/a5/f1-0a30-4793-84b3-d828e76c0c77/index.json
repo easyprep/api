@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T14:18:44.000Z",
+  "updated_at": "2021-02-19T14:18:44.000Z",
+  "id": "d570a5f1-0a30-4793-84b3-d828e76c0c77",
+  "labels": "current-affairs,2021-02-20",
+  "question": "Tech Giant Facebook has blocked which country from accessing news on the platform?",
+  "option1": "Germany",
+  "option2": "Italy",
+  "option3": "Australia",
+  "option4": "South Africa",
+  "option5": "",
+  "answer": "Australia",
+  "explanation": "Facebook announced that it has blocked Australians from viewing and sharing news on the platform. This is on account of the proposed laws in the country to make the digital giants pay for journalism.<br />Though the Australian publishers can continue to publish news content on Facebook, the links and posts cannot be viewed or shared by Australian audiences. Both Australian users and International users cannot share Australian news.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-19T07:40:39.000Z",
+  "updated_at": "2021-02-19T07:40:39.000Z",
+  "id": "d79f4baa-7cfd-4237-b369-960df1596313",
+  "labels": "current-affairs,2021-02-20",
+  "question": "What is the correct full form IFSC ?",
+  "option1": "India's Finance System Code",
+  "option2": "Indian Financial System Code",
+  "option3": "Indian Finance Systematical Code",
+  "option4": "Indian Finances Systems Code",
+  "option5": "",
+  "answer": "Indian Financial System Code",
+  "explanation": "The Indian Financial System Code (IFSC) is an alpha-numeric code which facilitates electronic funds transfer in India. The IFSC is a 11 character code with first four characters being letters which represent bank's name and the last six represents the branch code.",
+  "verified_at": ""
+}
