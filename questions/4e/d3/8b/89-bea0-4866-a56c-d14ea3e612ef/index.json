@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:00.000Z",
+  "updated_at": "2021-02-21T03:06:00.000Z",
+  "id": "4ed38b89-bea0-4866-a56c-d14ea3e612ef",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What is the correct full form of LCD?",
+  "option1": "Liquified Crystal  Device",
+  "option2": "Liquified Crystal Display",
+  "option3": "Liquid-Crystal Display",
+  "option4": "Liquid-Crystal Device",
+  "option5": "",
+  "answer": "Liquid-Crystal Display",
+  "explanation": "The term LCD stands for Liquid Crystal Device (LCD). LCD is a flat panel display that uses the light modulating properties of liquid crystals combined with polarizers.",
+  "verified_at": ""
+}

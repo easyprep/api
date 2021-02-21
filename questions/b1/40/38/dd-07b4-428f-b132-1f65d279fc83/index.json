@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:03:50.000Z",
+  "updated_at": "2021-02-21T03:03:50.000Z",
+  "id": "b14038dd-07b4-428f-b132-1f65d279fc83",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does S denote in the popular term KBPS ?",
+  "option1": "Secondary",
+  "option2": "Seconds",
+  "option3": "Second",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Second",
+  "explanation": "The popular term KBPS stands for Kilobit Per Second. It is a kind of measurement which shows the speed of an internet connection unit per second.",
+  "verified_at": ""
+}

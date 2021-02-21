@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:01.000Z",
+  "updated_at": "2021-02-21T03:06:01.000Z",
+  "id": "e0ea9f07-8e1b-44fe-b990-a680945337bb",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does P stand for in the term LDPC code ?",
+  "option1": "Partial",
+  "option2": "Parity",
+  "option3": "Partly",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Parity",
+  "explanation": "The Low Density Parity Check (LDPC) code is a linear error correcting code. The LDPC code is a method of transmitting a message over a noisy transmission channel.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:05:59.000Z",
+  "updated_at": "2021-02-21T03:05:59.000Z",
+  "id": "3c0854df-3985-46ea-b413-6ce222023dbd",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What is the correct full form of the term LTV?",
+  "option1": "Low Term Value",
+  "option2": "Loan To Value",
+  "option3": "Large Term Value",
+  "option4": "Liquidity To Value",
+  "option5": "",
+  "answer": "Loan To Value",
+  "explanation": "The Loan To Value (LTV) is a financial term which used by the lenders to show the ratio of a loan to the value of a asset purchased. The term is popularly used by banks and building societies.",
+  "verified_at": ""
+}

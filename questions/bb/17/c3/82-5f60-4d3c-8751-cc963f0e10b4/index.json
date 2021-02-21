@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:05:59.000Z",
+  "updated_at": "2021-02-21T03:05:59.000Z",
+  "id": "bb17c382-5f60-4d3c-8751-cc963f0e10b4",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does R denote in the term LIBOR?",
+  "option1": "Rate",
+  "option2": "Remote",
+  "option3": "Recorded",
+  "option4": "Result",
+  "option5": "",
+  "answer": "Rate",
+  "explanation": "The term LIBOR means London Inter- Bank Offered Rate. The LIBOR is an interest rate average which is calculated from the estimates submitted by the leading banks in London.",
+  "verified_at": ""
+}

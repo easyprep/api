@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:00.000Z",
+  "updated_at": "2021-02-21T03:06:00.000Z",
+  "id": "06bf8d0d-9b3e-4809-a6ed-7bd6d838eca3",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does T denote in the term LATA ?",
+  "option1": "Tariff",
+  "option2": "Tax",
+  "option3": "Transport",
+  "option4": "Telecommunication",
+  "option5": "",
+  "answer": "Transport",
+  "explanation": "The Local Access and Transport Area (LATA) is a geographical area covered by one or more local telephone companies which are legally referred to as local exchange carriers.",
+  "verified_at": ""
+}

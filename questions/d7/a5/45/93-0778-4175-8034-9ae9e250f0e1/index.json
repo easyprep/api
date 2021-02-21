@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:00.000Z",
+  "updated_at": "2021-02-21T03:06:00.000Z",
+  "id": "d7a54593-0778-4175-8034-9ae9e250f0e1",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What is the correct full form of LBA ?",
+  "option1": "Liquified Base Address",
+  "option2": "Logical Block Addressing",
+  "option3": "Local Base Address",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Logical Block Addressing",
+  "explanation": "The Logical Block Addressing (LBA) is a scheme used for specification of location of blocks of data stored on computer storage systems.",
+  "verified_at": ""
+}

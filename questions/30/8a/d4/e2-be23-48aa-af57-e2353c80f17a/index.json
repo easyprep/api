@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:03:45.000Z",
+  "updated_at": "2021-02-21T03:03:45.000Z",
+  "id": "308ad4e2-be23-48aa-af57-e2353c80f17a",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does V denote in KVM ?",
+  "option1": "Visual",
+  "option2": "Vision",
+  "option3": "Virtual",
+  "option4": "Verbal",
+  "option5": "",
+  "answer": "Virtual",
+  "explanation": "The Kernel Based Virtual Machine (KVM) is a virtualization module in the linux kernel which allows the kernel to function as a hyper-visor.",
+  "verified_at": ""
+}

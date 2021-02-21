@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:03:43.000Z",
+  "updated_at": "2021-02-21T03:03:43.000Z",
+  "id": "0c6ab07d-baa7-4c11-8056-bc2ad6f276df",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does P denote in the term KPO ?",
+  "option1": "Processing",
+  "option2": "Process",
+  "option3": "Processed",
+  "option4": "Proceedings",
+  "option5": "",
+  "answer": "Process",
+  "explanation": "The term KPO stands for Knowledge Process Outsourcing (KPO) which describes the outsourcing of core information related business activities which form an integral part of a company's value chain.",
+  "verified_at": ""
+}

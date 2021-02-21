@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:03:45.000Z",
+  "updated_at": "2021-02-21T03:03:45.000Z",
+  "id": "f087f183-b1dc-43f3-89d4-ffbbd5c2c83d",
+  "labels": "current-affairs,2021-02-22",
+  "question": "In which country, the headquarters of KPMG are situated ?",
+  "option1": "USA",
+  "option2": "Japan",
+  "option3": "Netherlands",
+  "option4": "Belgium",
+  "option5": "",
+  "answer": "Netherlands",
+  "explanation": "The Klynveld Peat Marwick Goerdeler (KPMG) is an Anglo-Dutch multinational professional services network. It was founded in 1987 when the KMG merged with Peat Marwick.",
+  "verified_at": ""
+}

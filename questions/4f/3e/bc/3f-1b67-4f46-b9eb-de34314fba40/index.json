@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:05:59.000Z",
+  "updated_at": "2021-02-21T03:05:59.000Z",
+  "id": "4f3ebc3f-1b67-4f46-b9eb-de34314fba40",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What is the correct full form of LLP?",
+  "option1": "Least Liability Partnership",
+  "option2": "Lowest Liability Partnership",
+  "option3": "Limited Liability Partnership",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Limited Liability Partnership",
+  "explanation": "The term LLP stands for Limited Liability Partnership. The LLP is a partnership in which partners have limited liabilities. In a LLP, each partner is not responsible of the other.",
+  "verified_at": ""
+}

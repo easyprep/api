@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:03:50.000Z",
+  "updated_at": "2021-02-21T03:03:50.000Z",
+  "id": "5555ae79-c363-40e5-acae-025cff340e9e",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does the symbol (KH) denote which is related to frequency ?",
+  "option1": "Kilo Hertz",
+  "option2": "Killo Hertz",
+  "option3": "Kilo Heartz",
+  "option4": "Kilo Heartz",
+  "option5": "",
+  "answer": "Kilo Hertz",
+  "explanation": "The Hertz (Hz) is the S.I. unit to measure the frequency which is one unit equal to one cycle. Thus Kilohertz (KH) is equal to 1000 Hz. The Kilohertz is used to measure the frequencies of sound waves.",
+  "verified_at": ""
+}

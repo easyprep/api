@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:05:59.000Z",
+  "updated_at": "2021-02-21T03:05:59.000Z",
+  "id": "c54156e5-ddb7-42ab-84d3-16ba745ed8bc",
+  "labels": "current-affairs,2021-02-22",
+  "question": "In which year, the first Light Amplification by Stimulated Emission of Radiation (LASER) was built?",
+  "option1": 1962,
+  "option2": 1965,
+  "option3": 1971,
+  "option4": 1960,
+  "option5": "",
+  "answer": 1960,
+  "explanation": "The Light Amplification by Stimulated Emission of Radiation (LASER) is a device which emits ;ight through a process of optical amplification of electromagnetic radiation. The first LASER was built in 1960 by T.H. Maiman.",
+  "verified_at": ""
+}

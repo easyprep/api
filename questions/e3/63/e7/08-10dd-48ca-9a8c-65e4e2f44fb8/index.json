@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:01.000Z",
+  "updated_at": "2021-02-21T03:06:01.000Z",
+  "id": "e363e708-10dd-48ca-9a8c-65e4e2f44fb8",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does L stand for in the term LEO ?",
+  "option1": "Low",
+  "option2": "Laser",
+  "option3": "Light",
+  "option4": "Label",
+  "option5": "",
+  "answer": "Low",
+  "explanation": "The term LEO stands for Low Earth Orbit which is at an altitude of 2000 km with at least 11.25 periods per day. Most of the artificial objects in outer space are in LEO.",
+  "verified_at": ""
+}

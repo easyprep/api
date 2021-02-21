@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:00.000Z",
+  "updated_at": "2021-02-21T03:06:00.000Z",
+  "id": "490cfbb5-0f29-4ec9-8cb1-e03692769494",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What is the correct full form of LLL?",
+  "option1": "Language Level Low",
+  "option2": "Low Level Listening",
+  "option3": "Least Level Listening",
+  "option4": "Low Level Language",
+  "option5": "",
+  "answer": "Low Level Language",
+  "explanation": "The Low Level Language is a programming language which provides little abstraction from a computer's instruction set architecture.",
+  "verified_at": ""
+}

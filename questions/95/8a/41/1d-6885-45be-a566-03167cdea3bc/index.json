@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:00.000Z",
+  "updated_at": "2021-02-21T03:06:00.000Z",
+  "id": "958a411d-6885-45be-a566-03167cdea3bc",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does L denote in LAN?",
+  "option1": "Loan",
+  "option2": "Local",
+  "option3": "Lending",
+  "option4": "Laboratory",
+  "option5": "",
+  "answer": "Local",
+  "explanation": "The Local Area Network (LAN) is a computer network which interconnects the computers within a limited area such as schools, universities, office buildings etc.",
+  "verified_at": ""
+}

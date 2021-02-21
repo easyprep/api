@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:00.000Z",
+  "updated_at": "2021-02-21T03:06:00.000Z",
+  "id": "9cab8964-f447-4ad8-b2e0-e937967cd19d",
+  "labels": "current-affairs,2021-02-22",
+  "question": "In which year, the Light Emitting Diode (LED) was produced?",
+  "option1": 1957,
+  "option2": 1935,
+  "option3": 1960,
+  "option4": 1962,
+  "option5": "",
+  "answer": 1962,
+  "explanation": "The Light Emitting Diode (LED) is a semiconductor light source that emits light when current flows through it. The LED was invented at first in 1907 and refined in 1927,1961 and finally in 1962 Nick Holonyak an American scientist produced the LED.",
+  "verified_at": ""
+}

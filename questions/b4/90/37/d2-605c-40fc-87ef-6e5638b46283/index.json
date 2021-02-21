@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:06:01.000Z",
+  "updated_at": "2021-02-21T03:06:01.000Z",
+  "id": "b49037d2-605c-40fc-87ef-6e5638b46283",
+  "labels": "current-affairs,2021-02-22",
+  "question": "What does D denote in LDP ?",
+  "option1": "Development",
+  "option2": "Density",
+  "option3": "Distribution",
+  "option4": "Dissolution",
+  "option5": "",
+  "answer": "Distribution",
+  "explanation": "The Label Distribution Protocol (LDP) is a protocol in which routers capable of multi-protocol label switching exchange label mapping information.",
+  "verified_at": ""
+}

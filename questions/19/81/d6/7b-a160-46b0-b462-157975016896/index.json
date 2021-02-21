@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-21T03:03:47.000Z",
+  "updated_at": "2021-02-21T03:03:47.000Z",
+  "id": "1981d67b-a160-46b0-b462-157975016896",
+  "labels": "current-affairs,2021-02-22",
+  "question": "The Kilovolt Ampere (KVA) is related with which of the following terms ?",
+  "option1": "Current",
+  "option2": "Voltage",
+  "option3": "Sound",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Current",
+  "explanation": "The term Kilovolt Current Ampere (KVA) is usually used to measure the apparent power in an electric circuit. Volt Amperes are usually used in alternating current (AC) circuits.",
+  "verified_at": ""
+}
