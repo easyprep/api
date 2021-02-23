@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:29:51.000Z",
+  "updated_at": "2021-02-23T06:29:51.000Z",
+  "id": "4fab7f35-63cc-411d-838c-95befdc482c4",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which among the following is the cheapest mode of transport?",
+  "option1": "Roadways",
+  "option2": "Railways",
+  "option3": "Inland waterways",
+  "option4": "Airways",
+  "option5": "",
+  "answer": "Inland waterways",
+  "explanation": "Inland waterways are the cheapest mode of transport. It costs about Rs1.06 per tonne per km for Inland waterways whereas Railways cost Rs 1.35 and Roadways cost Rs 2.50.",
+  "verified_at": ""
+}

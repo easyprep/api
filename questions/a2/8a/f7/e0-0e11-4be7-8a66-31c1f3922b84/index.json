@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:30.000Z",
+  "updated_at": "2021-02-23T06:31:30.000Z",
+  "id": "a28af7e0-0e11-4be7-8a66-31c1f3922b84",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which government agency launched UTTAM portal for coal?",
+  "option1": "Coal Ministry",
+  "option2": "NITI Aayog",
+  "option3": "Department of Science",
+  "option4": "Ministry of Earth Sciences",
+  "option5": "",
+  "answer": "Coal Ministry",
+  "explanation": "Coal Ministry has launched the UTTAM portal for coal. UTTAM (Unlocking Transparency by Third Party Assessment of Mined Coal) Application for coal quality monitoring. The app aims to ensure transparency and efficiency in the coal quality monitoring process and bring coal governance closer to people.",
+  "verified_at": ""
+}

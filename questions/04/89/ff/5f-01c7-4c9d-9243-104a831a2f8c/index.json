@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:08.000Z",
+  "updated_at": "2021-02-23T06:31:08.000Z",
+  "id": "0489ff5f-01c7-4c9d-9243-104a831a2f8c",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which is the world's first airlines to use Taxibot?",
+  "option1": "Air India",
+  "option2": "Indigo",
+  "option3": "Etihad",
+  "option4": "British Airways",
+  "option5": "",
+  "answer": "Air India",
+  "explanation": "Air India is the world's first airlines to use Taxibot on an A-320 aircraft with passengers on board. Taxibot is a robot-used aircraft tractor for taxiing an aircraft from parking bay to runway and vice-versa.",
+  "verified_at": ""
+}

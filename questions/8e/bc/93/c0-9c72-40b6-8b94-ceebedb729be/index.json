@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:07.000Z",
+  "updated_at": "2021-02-23T06:31:07.000Z",
+  "id": "8ebc93c0-9c72-40b6-8b94-ceebedb729be",
+  "labels": "current-affairs,2021-02-24",
+  "question": "In which year Airport Authority of India was set up?",
+  "option1": 1995,
+  "option2": 1990,
+  "option3": 1991,
+  "option4": 1999,
+  "option5": "",
+  "answer": 1995,
+  "explanation": "Airport Authority of India was set up in 1995 by merging the International Airport Authority of India and the National Airports Authority.",
+  "verified_at": ""
+}

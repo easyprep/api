@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:30.000Z",
+  "updated_at": "2021-02-23T06:31:30.000Z",
+  "id": "61ce6371-cb42-465e-91c7-ea78ec41c663",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which type of coal is mostly used for electricity generation in India?",
+  "option1": "Anthracite",
+  "option2": "Bituminous",
+  "option3": "Liginite",
+  "option4": "Peat",
+  "option5": "",
+  "answer": "Bituminous",
+  "explanation": "Bituminous coal is largely consumed in India. It is a medium grade of coal having high heating capacity. It is the most commonly used type of coal for electricity generation in India. Most of the bituminous coal is found in Jharkhand, Odisha, West Bengal, Chhattisgarh, and Madhya Pradesh.",
+  "verified_at": ""
+}

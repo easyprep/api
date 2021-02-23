@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:08.000Z",
+  "updated_at": "2021-02-23T06:31:08.000Z",
+  "id": "15aacf95-5130-44ce-b4d3-fe25b5911b4a",
+  "labels": "current-affairs,2021-02-24",
+  "question": "What is the growth rate experienced by the passenger air traffic in India in the last decade?",
+  "option1": 0.23,
+  "option2": 0.18,
+  "option3": 0.11,
+  "option4": 0.08,
+  "option5": "",
+  "answer": 0.11,
+  "explanation": "The growth rate experienced by the passenger air traffic in India in the last decade is about 11%.",
+  "verified_at": ""
+}

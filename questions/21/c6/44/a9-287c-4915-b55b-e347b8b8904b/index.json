@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:31.000Z",
+  "updated_at": "2021-02-23T06:31:31.000Z",
+  "id": "21c644a9-287c-4915-b55b-e347b8b8904b",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which among the following is the highest quality of coal?",
+  "option1": "Anthracite",
+  "option2": "Bituminous",
+  "option3": "Lignite",
+  "option4": "Peat",
+  "option5": "",
+  "answer": "Anthracite",
+  "explanation": "Anthracite is the highest quality coal. The other types of coal have more amount of Ash quantity.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:30.000Z",
+  "updated_at": "2021-02-23T06:31:30.000Z",
+  "id": "3774b616-015e-4a86-9d8b-acafbe111b54",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which industry is the largest coal consumer in India?",
+  "option1": "Steel Production",
+  "option2": "Electricity generation",
+  "option3": "Cement Industry",
+  "option4": "Sponge Iron Industry",
+  "option5": "",
+  "answer": "Electricity generation",
+  "explanation": "The largest consumers of coal in India are electricity generation (637.95 MT), the steel and washery industries (69.50 MT), the sponge iron industry (12.23 MT) and the cement industry (8.82 MT). Consumption of lignite stood at 45.81 MT which is the highest. Electricity generation alone accounts for 82.23% of the total lignite consumption.",
+  "verified_at": ""
+}

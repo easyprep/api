@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:31:30.000Z",
+  "updated_at": "2021-02-23T06:31:30.000Z",
+  "id": "14a7c98a-7143-405b-9828-ec3af55a9007",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which agency developed PRAKASH portal?",
+  "option1": "Ministry of Earth Sciences",
+  "option2": "Coal India Limited",
+  "option3": "NTPC",
+  "option4": "Power Grid",
+  "option5": "",
+  "answer": "NTPC",
+  "explanation": "PRAKASH stands for Power Rail Koyla Availability through Supply Harmony. It is developed by NTPC with a view to improving coordination between the power, coal and railway ministries to ensure coal supplies to power plants.",
+  "verified_at": ""
+}
