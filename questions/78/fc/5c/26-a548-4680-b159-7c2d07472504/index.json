@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T17:53:08.000Z",
+  "updated_at": "2021-02-23T17:53:08.000Z",
+  "id": "78fc5c26-a548-4680-b159-7c2d07472504",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which is the first country to have captured and released the audio from Mars?",
+  "option1": "China",
+  "option2": "United States",
+  "option3": "UAE",
+  "option4": "Russia",
+  "option5": "",
+  "answer": "United States",
+  "explanation": "The US space agency NASA released the first audio from Mars, captured by the Perseverance rover. The audio sounded like a faint crackling recording of a gust of wind in the red planet.<br />Though a microphone did not work during the rover's descent to the surface, it could capture audio after it landed on Mars. NASA also released the first video of the landing of the rover.",
+  "verified_at": ""
+}
