@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:14:16.000Z",
+  "updated_at": "2021-02-23T06:14:16.000Z",
+  "id": "d440f369-84f3-4f20-9430-52f8c223075b",
+  "labels": "current-affairs,2021-02-24",
+  "question": "What does M denote in the popular term MICR Code ?",
+  "option1": "Magnet",
+  "option2": "Mutual",
+  "option3": "Magnetic",
+  "option4": "Monetary",
+  "option5": "",
+  "answer": "Magnetic",
+  "explanation": "The Magnetic Ink Character Recognizing Code (MICR) is a character recognition technology which is mainly used by the banking industry to streamline the processing and clearance of cheque and other documents.",
+  "verified_at": ""
+}

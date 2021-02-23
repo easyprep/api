@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:14:16.000Z",
+  "updated_at": "2021-02-23T06:14:16.000Z",
+  "id": "78ca7bb6-d2d8-45c3-92a3-0ed087ecc732",
+  "labels": "current-affairs,2021-02-24",
+  "question": "What is the correct full form of the term MA ?",
+  "option1": "Moving Average",
+  "option2": "Mean Average",
+  "option3": "Moto Average",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Moving Average",
+  "explanation": "The Moving Average (MA) is a circulation to analyze data points by creating a series of averages of different subsets of full data sets.",
+  "verified_at": ""
+}

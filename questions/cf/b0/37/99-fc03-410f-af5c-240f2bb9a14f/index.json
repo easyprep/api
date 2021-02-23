@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:14:15.000Z",
+  "updated_at": "2021-02-23T06:14:15.000Z",
+  "id": "cfb03799-fc03-410f-af5c-240f2bb9a14f",
+  "labels": "current-affairs,2021-02-24",
+  "question": "What does T denote in the term MTA ?",
+  "option1": "Transaction",
+  "option2": "Transport",
+  "option3": "Transfer",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Transfer",
+  "explanation": "The Mail Transfer Agent (MTA) is a software that transfers electronic mail messages from one computer to the other computer by using SMTP. It is also known as Message Transfer Agent or Mail Relay.",
+  "verified_at": ""
+}

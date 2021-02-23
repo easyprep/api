@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:28:06.000Z",
+  "updated_at": "2021-02-23T06:28:06.000Z",
+  "id": "bab5ed84-b1d1-49d3-b8e5-15dc1d72ca0c",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Which is the fastest train in India?",
+  "option1": "Tejas Express",
+  "option2": "Rajdhani Express",
+  "option3": "Shatabdi Express",
+  "option4": "Duronto Express",
+  "option5": "",
+  "answer": "Tejas Express",
+  "explanation": "Tejas Express is the fastest train in India. It can reach speeds up to 160kmph.",
+  "verified_at": ""
+}

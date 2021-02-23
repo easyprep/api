@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:29:24.000Z",
+  "updated_at": "2021-02-23T06:29:24.000Z",
+  "id": "a652d79a-1c07-43c1-a0b8-6403c83aa4ba",
+  "labels": "current-affairs,2021-02-24",
+  "question": "What is the share of maritime transport in India's trade by volume?",
+  "option1": 0.7,
+  "option2": 0.85,
+  "option3": 0.95,
+  "option4": "None of the above",
+  "option5": "",
+  "answer": 0.95,
+  "explanation": "According to the Ministry of Shipping, around 95% of India's trading by volume and 70% by value is done through maritime transport. In 2020, the Ministry of Shipping is renamed as the Ministry of Ports, Shipping and Waterways.",
+  "verified_at": ""
+}

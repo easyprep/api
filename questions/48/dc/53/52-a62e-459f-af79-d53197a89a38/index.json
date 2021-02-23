@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:14:16.000Z",
+  "updated_at": "2021-02-23T06:14:16.000Z",
+  "id": "48dc5352-a62e-459f-af79-d53197a89a38",
+  "labels": "current-affairs,2021-02-24",
+  "question": "What is the correct full form of the term MEP ?",
+  "option1": "Maximum Exportable Price",
+  "option2": "Minimum Exchange Price",
+  "option3": "Minimum Export Price",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Minimum Export Price",
+  "explanation": "The term MEP stands for Minimum Export Price which is a limit of price below which an exporter is not allowed to export the commodity from India.",
+  "verified_at": ""
+}

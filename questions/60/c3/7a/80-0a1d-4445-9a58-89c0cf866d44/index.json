@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:14:16.000Z",
+  "updated_at": "2021-02-23T06:14:16.000Z",
+  "id": "60c37a80-0a1d-4445-9a58-89c0cf866d44",
+  "labels": "current-affairs,2021-02-24",
+  "question": "What does O stand for in the term MIBOR ?",
+  "option1": "Office",
+  "option2": "Offers",
+  "option3": "Offer",
+  "option4": "Offend",
+  "option5": "",
+  "answer": "Offer",
+  "explanation": "The term MIBOR stands for Mumbai Interbank Offer Rate. The MIBOR is used currently for forward contracts and floating rate debentures. It was launched in 1998 by the committee of development of the debt market.",
+  "verified_at": ""
+}

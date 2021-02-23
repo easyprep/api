@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-23T06:28:06.000Z",
+  "updated_at": "2021-02-23T06:28:06.000Z",
+  "id": "6f3489e0-d1a6-45d9-a4ef-68c5e8ab3d37",
+  "labels": "current-affairs,2021-02-24",
+  "question": "Where is the railway disaster management center located?",
+  "option1": "Chennai",
+  "option2": "Kolkata",
+  "option3": "Bangalore",
+  "option4": "Varanasi",
+  "option5": "",
+  "answer": "Bangalore",
+  "explanation": "The railway disaster management center is located in Bangalore. It will be used to replicate train accidents to improve rescue operation efforts.",
+  "verified_at": ""
+}
