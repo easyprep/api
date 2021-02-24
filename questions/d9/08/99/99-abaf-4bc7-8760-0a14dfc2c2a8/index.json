@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-24T05:54:58.000Z",
+  "updated_at": "2021-02-24T05:54:58.000Z",
+  "id": "d9089999-abaf-4bc7-8760-0a14dfc2c2a8",
+  "labels": "current-affairs,2021-02-25",
+  "question": "What does N denote in the term NAV ?",
+  "option1": "Non",
+  "option2": "Net",
+  "option3": "New",
+  "option4": "Nation",
+  "option5": "",
+  "answer": "Net",
+  "explanation": "The term NAV stands for Net Asset Value which can be described as the value of an entities assets minus the value of its liabilities.",
+  "verified_at": ""
+}

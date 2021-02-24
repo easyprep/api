@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-24T05:54:59.000Z",
+  "updated_at": "2021-02-24T05:54:59.000Z",
+  "id": "65a23202-14b4-4ac1-b115-a36ba4578352",
+  "labels": "current-affairs,2021-02-25",
+  "question": "Which of the following organizations operates Negotiated Dealing System - Order Matching (NDS-OM) ?",
+  "option1": "RBI",
+  "option2": "CBI",
+  "option3": "CCIL",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "CCIL",
+  "explanation": "The Negotiated Dealing System - Order Matching (NDS-OM) is an electronic screen based order driven trading system for dealing in govt. securities. It was introduced in 2005 and is owned by RBI. CCIL operates it on the behalf of RBI.",
+  "verified_at": ""
+}
