@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-25T01:59:23.000Z",
+  "updated_at": "2021-02-25T01:59:23.000Z",
+  "id": "09f675c0-c7cd-4831-b2c4-8688705f0067",
+  "labels": "current-affairs,2021-02-26",
+  "question": "As per the recent study by NASA and German Aerospace Center, some microbes are found on the Earth may survive in which planet?",
+  "option1": "Jupiter",
+  "option2": "Venus",
+  "option3": "Mars",
+  "option4": "Mercury",
+  "option5": "",
+  "answer": "Mars",
+  "explanation": "As per the recent study by NASA and German Aerospace Center, some microbes are found on the Earth may survive in the Mars.<br />The researchers tested a new way to expose the bacteria and fungi to Mars-like conditions by launching them in a scientific balloon up to Earth’s stratosphere. This is significant in the success of future missions to the Mars.",
+  "verified_at": ""
+}

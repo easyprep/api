@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-25T02:25:37.000Z",
+  "updated_at": "2021-02-25T02:25:37.000Z",
+  "id": "70ac1456-8741-401a-9680-26901fb30b5c",
+  "labels": "current-affairs,2021-02-26",
+  "question": "What is the secret code written in the parachute of the NASA’s Perseverance rover?",
+  "option1": "Hello Red Planet",
+  "option2": "Perseverance",
+  "option3": "Dare Mighty Things",
+  "option4": "Journey to Mars",
+  "option5": "",
+  "answer": "Dare Mighty Things",
+  "explanation": "As per the Scientists at the NASA, the Perseverance rover deployed its parachute through the atmosphere of the Mars.<br />During the process, it flashed a secret code of red-and-white stripes across the sky, which was seen as random pattern of concentric circles. It was decoded in some hours and found that it is a message written in binary computer code, which spelt “Dare Mighty Things”.",
+  "verified_at": ""
+}
