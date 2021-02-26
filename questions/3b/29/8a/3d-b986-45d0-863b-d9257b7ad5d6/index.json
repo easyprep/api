@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-26T02:56:15.000Z",
+  "updated_at": "2021-02-26T02:56:15.000Z",
+  "id": "3b298a3d-b986-45d0-863b-d9257b7ad5d6",
+  "labels": "current-affairs,2021-02-27",
+  "question": "As per the Finance Ministry, which type of banks are allowed to participate in government related business?",
+  "option1": "Regional Rural Banks",
+  "option2": "Private sector banks",
+  "option3": "Cooperative Banks",
+  "option4": "Foreign Banks",
+  "option5": "",
+  "answer": "Private sector banks",
+  "explanation": "As per a Finance ministry communication, all private sector banks are allowed to participate in government-related business.<br />At present, only a select few large private sector are allowed to conduct government-related business, like collection of taxes, pension payments and small savings schemes. The Government has also conveyed its decision to RBI.",
+  "verified_at": ""
+}
