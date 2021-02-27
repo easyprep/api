@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:58.000Z",
+  "updated_at": "2021-02-27T12:33:58.000Z",
+  "id": "ffb58463-ad2b-4fc5-938e-48a44b4a48e7",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which ministry manages Small hydropower plant?",
+  "option1": "Ministry of Power",
+  "option2": "Ministry of water resources",
+  "option3": "Ministry of New and Renewable energy",
+  "option4": "Ministry of Agriculture",
+  "option5": "",
+  "answer": "Ministry of New and Renewable energy",
+  "explanation": "A small hydropower plant is a power plant with a capacity of less than 25 MW. It comes under the Ministry of New and Renewable energy.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:29.000Z",
+  "updated_at": "2021-02-27T11:23:29.000Z",
+  "id": "eba7d8d2-5ea1-4dd1-b2d5-d2030c580f4c",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the correct full form of QoS ?",
+  "option1": "Quad of Service",
+  "option2": "Quality of Service",
+  "option3": "Quantity of Service",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Quality of Service",
+  "explanation": "The Quality of Service (QoS) is the measurement of all performance of service such as telephony or computer network or a clouding computing service.",
+  "verified_at": ""
+}

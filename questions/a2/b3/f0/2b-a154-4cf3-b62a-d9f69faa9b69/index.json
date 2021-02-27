@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:28.000Z",
+  "updated_at": "2021-02-27T11:22:28.000Z",
+  "id": "a2b3f02b-a154-4cf3-b62a-d9f69faa9b69",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does R denote in the term OMR ?",
+  "option1": "Research",
+  "option2": "Reorganization",
+  "option3": "Recognition",
+  "option4": "Recognized",
+  "option5": "",
+  "answer": "Recognition",
+  "explanation": "The Optical Mark Recognition (OMR) is a process of capturing human mark data from documents, forms such as surveys and tests. The Optical Mark Recognition is also known as Optical Mark Reading.",
+  "verified_at": ""
+}

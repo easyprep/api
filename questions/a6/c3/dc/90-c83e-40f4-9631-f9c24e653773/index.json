@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:30.000Z",
+  "updated_at": "2021-02-27T11:23:30.000Z",
+  "id": "a6c3dc90-c83e-40f4-9631-f9c24e653773",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What dies Q denote in the term QED which is related to Physics ?",
+  "option1": "Qualitative",
+  "option2": "Quantitative",
+  "option3": "Quod",
+  "option4": "Quantum",
+  "option5": "",
+  "answer": "Quantum",
+  "explanation": "The term QED means Quantum Electrodynamics is the relativistic quantum field theory of electrodynamics. The QED is the first theory in which full agreement between quantum mechanics and special relativity is achieved.",
+  "verified_at": ""
+}

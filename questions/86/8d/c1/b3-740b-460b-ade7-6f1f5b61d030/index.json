@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:29.000Z",
+  "updated_at": "2021-02-27T11:23:29.000Z",
+  "id": "868dc1b3-740b-460b-ade7-6f1f5b61d030",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which of the following thing  are purchased by a Qualified Institutional Buyer (QIB) ?",
+  "option1": "Weapon",
+  "option2": "Securities",
+  "option3": "Both 1&2",
+  "option4": "Neither 1 nor 2",
+  "option5": "",
+  "answer": "Securities",
+  "explanation": "The Qualified Institutional Buyer (QIB) is a purchaser of Securities that is deemed financially sophisticated and is legally recognized by securities market regulators.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:02.000Z",
+  "updated_at": "2021-02-27T11:23:02.000Z",
+  "id": "ab0a3a5e-5849-4093-a797-e2973b71be65",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the correct full form of the term PAN ?",
+  "option1": "Primary Accountable Number",
+  "option2": "Private Account Number",
+  "option3": "Permanent Account Number",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Permanent Account Number",
+  "explanation": "The term PAN stands for Permanent Account Number which is issued by the Income Tax Department of India to an individual whosoever applies for it. It is a 10 character alphanumeric number.",
+  "verified_at": ""
+}

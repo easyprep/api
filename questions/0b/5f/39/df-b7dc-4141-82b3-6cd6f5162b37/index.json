@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:30.000Z",
+  "updated_at": "2021-02-27T11:23:30.000Z",
+  "id": "0b5f39df-b7dc-4141-82b3-6cd6f5162b37",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does A stand for in the term QAM ?",
+  "option1": "Access",
+  "option2": "Amplitude",
+  "option3": "Aptitude",
+  "option4": "Assent",
+  "option5": "",
+  "answer": "Amplitude",
+  "explanation": "The Quadrature Amplitude Modulation (QAM) is a method of combining 2 amplitude modulated signals into a single channel.",
+  "verified_at": ""
+}

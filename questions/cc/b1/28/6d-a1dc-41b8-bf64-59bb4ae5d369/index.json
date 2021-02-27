@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "ccb1286d-a1dc-41b8-bf64-59bb4ae5d369",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which is the largest nuclear power plant in India?",
+  "option1": "Tarapur",
+  "option2": "Kudankulam",
+  "option3": "Kalpakkam",
+  "option4": "Kakrapar",
+  "option5": "",
+  "answer": "Kudankulam",
+  "explanation": "Kudankulam nuclear power plant in Tamil Nadu is the single largest power generating unit in India. It generates about 1000 MWe.",
+  "verified_at": ""
+}

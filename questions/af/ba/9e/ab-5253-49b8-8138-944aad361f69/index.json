@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:58.000Z",
+  "updated_at": "2021-02-27T12:33:58.000Z",
+  "id": "afba9eab-5253-49b8-8138-944aad361f69",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the minimum capacity for a large hydropower plant?",
+  "option1": "25 MW",
+  "option2": "<25 MW",
+  "option3": "<20 MW",
+  "option4": "<15 MW",
+  "option5": "",
+  "answer": "<25 MW",
+  "explanation": "The minimum capacity for a large hydropower plant is &lt;25MW. Power plants with a capacity above 25MW are managed by the Ministry of Power.",
+  "verified_at": ""
+}

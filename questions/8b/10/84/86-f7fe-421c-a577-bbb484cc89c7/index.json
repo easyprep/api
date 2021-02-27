@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "8b108486-f7fe-421c-a577-bbb484cc89c7",
+  "labels": "current-affairs,2021-02-28",
+  "question": "In which year Chernobyl nuclear disaster took place?",
+  "option1": 1986,
+  "option2": 1988,
+  "option3": 1984,
+  "option4": 1990,
+  "option5": "",
+  "answer": 1986,
+  "explanation": "The Chernobyl disaster in 1986 is one of the major nuclear disasters in the history of mankind. The Chernobyl reactor is there in Ukraine.",
+  "verified_at": ""
+}

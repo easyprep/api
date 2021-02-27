@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:03.000Z",
+  "updated_at": "2021-02-27T11:23:03.000Z",
+  "id": "df1c4991-308b-42ed-a3de-45995ba968bf",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does P stand for in the term PSS ?",
+  "option1": "Primary",
+  "option2": "Private",
+  "option3": "Payment",
+  "option4": "Paid",
+  "option5": "",
+  "answer": "Payment",
+  "explanation": "The PSS stands for Payment and Settlement Systems in India which are used for making transactions. The PSS were introduced by Payment and Settlement Act, 2007 and comes under the authority of RBI.",
+  "verified_at": ""
+}

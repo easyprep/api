@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:29.000Z",
+  "updated_at": "2021-02-27T11:23:29.000Z",
+  "id": "54e3364f-7632-4cf9-a361-265e9ad8f5b8",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does E denote in the popular term QED ?",
+  "option1": "Establishing",
+  "option2": "Eracted",
+  "option3": "Erat",
+  "option4": "Enforced",
+  "option5": "",
+  "answer": "Erat",
+  "explanation": "The term QED stands for Quod Eract Demonstrandum (QED) which literally means ' what was to be shown'. The term is used at the end of a mathematical proof or Philosophical argument to indicate that the proof or argument is completed.",
+  "verified_at": ""
+}

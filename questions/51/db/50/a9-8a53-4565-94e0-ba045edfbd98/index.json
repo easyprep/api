@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "51db50a9-8a53-4565-94e0-ba045edfbd98",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which power plant requires a minimum amount of fuel?",
+  "option1": "Nuclear power plant",
+  "option2": "Hydro power plant",
+  "option3": "Thermal power plant",
+  "option4": "None",
+  "option5": "",
+  "answer": "Nuclear power plant",
+  "explanation": "A nuclear power plant is a power plant that requires a minimum quantity of fuel.",
+  "verified_at": ""
+}

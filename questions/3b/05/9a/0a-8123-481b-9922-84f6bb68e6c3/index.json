@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:31.000Z",
+  "updated_at": "2021-02-27T12:33:31.000Z",
+  "id": "3b059a0a-8123-481b-9922-84f6bb68e6c3",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is CNG is made of?",
+  "option1": "Butane",
+  "option2": "Methane",
+  "option3": "Ethane",
+  "option4": "Propane",
+  "option5": "",
+  "answer": "Methane",
+  "explanation": "CNG stands for Compressed Natural Gas. It is made of methane.",
+  "verified_at": ""
+}

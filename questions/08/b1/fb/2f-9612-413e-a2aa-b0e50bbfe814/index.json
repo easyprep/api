@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "08b1fb2f-9612-413e-a2aa-b0e50bbfe814",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country has the largest number of nuclear reactors?",
+  "option1": "Russia",
+  "option2": "USA",
+  "option3": "UK",
+  "option4": "France",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "USA has the largest number of nuclear reactors. It has 95 reactors followed by France and China.",
+  "verified_at": ""
+}

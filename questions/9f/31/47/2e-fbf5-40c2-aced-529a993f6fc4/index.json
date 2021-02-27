@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:03.000Z",
+  "updated_at": "2021-02-27T11:23:03.000Z",
+  "id": "9f31472e-fbf5-40c2-aced-529a993f6fc4",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does I stand for in the term PKI ?",
+  "option1": "Interest",
+  "option2": "Infrastructure",
+  "option3": "Interstate",
+  "option4": "Intrastate",
+  "option5": "",
+  "answer": "Infrastructure",
+  "explanation": "The Public Key Infrastructure (PKI) is a set of roles, policies and procedures which are used to create, manage or distribute digital certificates and manages public key encryptions.",
+  "verified_at": ""
+}

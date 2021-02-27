@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:03.000Z",
+  "updated_at": "2021-02-27T11:23:03.000Z",
+  "id": "68edae87-3f52-4116-9d4e-312a8e2fec81",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does B stand for in the term PBX ?",
+  "option1": "Bank",
+  "option2": "Banking",
+  "option3": "Branch",
+  "option4": "Broadcast",
+  "option5": "",
+  "answer": "Branch",
+  "explanation": "The Private Branch Exchange (PBX) is a telephone system in an enterprises which is used for switching calls between users on local lines.",
+  "verified_at": ""
+}

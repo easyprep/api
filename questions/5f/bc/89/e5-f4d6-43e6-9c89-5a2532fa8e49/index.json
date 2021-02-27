@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:31.000Z",
+  "updated_at": "2021-02-27T12:33:31.000Z",
+  "id": "5fbc89e5-f4d6-43e6-9c89-5a2532fa8e49",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which is the main gas that is present in LPG?",
+  "option1": "methane",
+  "option2": "propane",
+  "option3": "butane",
+  "option4": "heptane",
+  "option5": "",
+  "answer": "propane",
+  "explanation": "Propane is the main gas that is present in LPG. LPG is liquified petroleum gas.",
+  "verified_at": ""
+}

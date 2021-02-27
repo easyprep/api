@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:59.000Z",
+  "updated_at": "2021-02-27T12:33:59.000Z",
+  "id": "6fad2c82-617d-45da-9829-92eb7090c085",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the maximum capacity of a Mini Hydropower plant?",
+  "option1": "100 MW",
+  "option2": "2 MW",
+  "option3": "25 MW",
+  "option4": "10 MW",
+  "option5": "",
+  "answer": "2 MW",
+  "explanation": "The Hydropower plants are classified into 4 types- Micro(upto 100 KW), Mini(101KW to 2MW), Small(2 MW to 25 MW), and Mega(500MW).",
+  "verified_at": ""
+}

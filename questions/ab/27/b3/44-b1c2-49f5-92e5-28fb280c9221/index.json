@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:29.000Z",
+  "updated_at": "2021-02-27T11:23:29.000Z",
+  "id": "ab27b344-b1c2-49f5-92e5-28fb280c9221",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does F denote in the term QFR ?",
+  "option1": "Flat",
+  "option2": "Force",
+  "option3": "Functional",
+  "option4": "Formation",
+  "option5": "",
+  "answer": "Flat",
+  "explanation": "The term QFR means Quad Flat Surface which is a surface mounted integrated circuit package with \"gull wings\" which are extended from all four sides.",
+  "verified_at": ""
+}

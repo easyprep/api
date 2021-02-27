@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:03.000Z",
+  "updated_at": "2021-02-27T11:23:03.000Z",
+  "id": "1e6811c8-1baa-4e1b-817c-090cf5e8bfb4",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does A stand for in the term PAP ?",
+  "option1": "Authentic",
+  "option2": "Authentication",
+  "option3": "Associated",
+  "option4": "Assent",
+  "option5": "",
+  "answer": "Authentication",
+  "explanation": "The Password Authentication Protocol (PAP) is a password based authentication protocol which is used to validate users by point to point protocol.",
+  "verified_at": ""
+}

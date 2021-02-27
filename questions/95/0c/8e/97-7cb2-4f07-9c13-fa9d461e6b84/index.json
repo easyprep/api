@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:06.000Z",
+  "updated_at": "2021-02-27T12:33:06.000Z",
+  "id": "950c8e97-7cb2-4f07-9c13-fa9d461e6b84",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is India's crude oil import dependence?",
+  "option1": 0.4745,
+  "option2": 0.8259,
+  "option3": 0.7134,
+  "option4": 0.5034,
+  "option5": "",
+  "answer": 0.8259,
+  "explanation": "Crude oil is one of the largest importing items of India. India imports 82.59% of the crude oil it uses.",
+  "verified_at": ""
+}

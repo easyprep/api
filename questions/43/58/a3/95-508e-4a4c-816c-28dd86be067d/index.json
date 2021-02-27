@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:58.000Z",
+  "updated_at": "2021-02-27T12:33:58.000Z",
+  "id": "4358a395-508e-4a4c-816c-28dd86be067d",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which ministry manages a Large hydropower plant?",
+  "option1": "Ministry of Power",
+  "option2": "Ministry of New and Renewable Energy",
+  "option3": "Ministry of Agriculture",
+  "option4": "Ministry of water resources",
+  "option5": "",
+  "answer": "Ministry of Power",
+  "explanation": "The minimum capacity for a large hydropower plant is &lt;25MW. Power plants with a capacity above 25MW are managed by the Ministry of Power.",
+  "verified_at": ""
+}

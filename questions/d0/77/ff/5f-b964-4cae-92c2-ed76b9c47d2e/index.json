@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "d077ff5f-b964-4cae-92c2-ed76b9c47d2e",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is India's rank in Uranium consumption in the world?",
+  "option1": 3,
+  "option2": 5,
+  "option3": 6,
+  "option4": 8,
+  "option5": "",
+  "answer": 6,
+  "explanation": "India is ranked 6 in uranium consumption. The top 3 countries are USA, France and China.",
+  "verified_at": ""
+}

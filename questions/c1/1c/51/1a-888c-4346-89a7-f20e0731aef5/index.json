@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:29.000Z",
+  "updated_at": "2021-02-27T11:23:29.000Z",
+  "id": "c11c511a-888c-4346-89a7-f20e0731aef5",
+  "labels": "current-affairs,2021-02-28",
+  "question": "In which year, Quantitative Finance (QF) was started ?",
+  "option1": 1903,
+  "option2": 1900,
+  "option3": 1907,
+  "option4": 1095,
+  "option5": "",
+  "answer": 1900,
+  "explanation": "The Quantitative Finance (QF) was started in 1900 with Louis Bachelier's Doctoral thesis \"Theory Of Speculation\", which provided a model to price options under a normal distribution.",
+  "verified_at": ""
+}

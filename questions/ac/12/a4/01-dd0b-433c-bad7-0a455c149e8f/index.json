@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:28.000Z",
+  "updated_at": "2021-02-27T11:22:28.000Z",
+  "id": "ac12a401-dd0b-433c-bad7-0a455c149e8f",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does O stand for in the term OIS ?",
+  "option1": "Operations",
+  "option2": "Operated",
+  "option3": "Optics",
+  "option4": "Optical",
+  "option5": "",
+  "answer": "Optical",
+  "explanation": "The Optical IP Switching (OIS) is a method of creating transparent optical connections between network nodes using a flow based approach.",
+  "verified_at": ""
+}

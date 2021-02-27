@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:16.000Z",
+  "updated_at": "2021-02-27T12:34:16.000Z",
+  "id": "b3b71c45-6d3b-47c5-87db-e82f62907aad",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which state has the largest Thorium reserves in India?",
+  "option1": "Karnataka",
+  "option2": "Andhra Pradesh",
+  "option3": "Tamil Nadu",
+  "option4": "Kerala",
+  "option5": "",
+  "answer": "Kerala",
+  "explanation": "Kerala has the largest Thorium reserves in India. Thorium is best suited in the FBR reactors.",
+  "verified_at": ""
+}

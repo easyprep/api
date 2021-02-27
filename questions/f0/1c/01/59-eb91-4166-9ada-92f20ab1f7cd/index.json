@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:31.000Z",
+  "updated_at": "2021-02-27T12:33:31.000Z",
+  "id": "f01c0159-eb91-4166-9ada-92f20ab1f7cd",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country is the world's largest LNG importer?",
+  "option1": "India",
+  "option2": "Japan",
+  "option3": "USA",
+  "option4": "Australia",
+  "option5": "",
+  "answer": "Japan",
+  "explanation": "Japan is the world's largest LNG importer. Australia is the world's largest exporter.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "0c1b530f-391e-49aa-a811-bf0f549a6be4",
+  "labels": "current-affairs,2021-02-28",
+  "question": "In which country Fukushima nuclear power plant is located?",
+  "option1": "Japan",
+  "option2": "Germany",
+  "option3": "London",
+  "option4": "South Korea",
+  "option5": "",
+  "answer": "Japan",
+  "explanation": "Fukushima nuclear power plant is located in Japan. The nuclear accident happened in 2011. The event was caused by the 2011 T?hoku earthquake and tsunami. It was the most severe nuclear accident since the Chernobyl disaster in 1986.",
+  "verified_at": ""
+}

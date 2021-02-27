@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:31.000Z",
+  "updated_at": "2021-02-27T12:33:31.000Z",
+  "id": "417d96bb-4319-45bb-806e-647c3565346d",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does CNG stands for?",
+  "option1": "Combined Natural Gas",
+  "option2": "Clean Natural Gas",
+  "option3": "Combined Nitrous Gas",
+  "option4": "Compressed Natural Gas",
+  "option5": "",
+  "answer": "Compressed Natural Gas",
+  "explanation": "CNG stands for Compressed Natural Gas. It is made of methane.",
+  "verified_at": ""
+}

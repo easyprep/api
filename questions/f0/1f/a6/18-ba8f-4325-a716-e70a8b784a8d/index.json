@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:23:03.000Z",
+  "updated_at": "2021-02-27T11:23:03.000Z",
+  "id": "f01fa618-ba8f-4325-a716-e70a8b784a8d",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the correct full form of PD ?",
+  "option1": "Private Dealer",
+  "option2": "Premier Deals",
+  "option3": "Primary Dealer",
+  "option4": "Private Dealing",
+  "option5": "",
+  "answer": "Primary Dealer",
+  "explanation": "The term PD stands for Primary Dealer which is firm which buys govt. securities directly from the government.",
+  "verified_at": ""
+}

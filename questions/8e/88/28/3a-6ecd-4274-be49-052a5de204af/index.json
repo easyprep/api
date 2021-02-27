@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:16.000Z",
+  "updated_at": "2021-02-27T12:34:16.000Z",
+  "id": "8e88283a-6ecd-4274-be49-052a5de204af",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the unit of Radio acitivity?",
+  "option1": "MeV",
+  "option2": "Curie",
+  "option3": "Candella",
+  "option4": "AMU",
+  "option5": "",
+  "answer": "Curie",
+  "explanation": "The units of measurement for radioactivity are the becquerel (Bq, international unit) and the curie (Ci, common unit).",
+  "verified_at": ""
+}

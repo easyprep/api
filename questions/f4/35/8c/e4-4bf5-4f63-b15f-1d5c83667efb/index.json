@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:16.000Z",
+  "updated_at": "2021-02-27T12:34:16.000Z",
+  "id": "f4358ce4-4bf5-4f63-b15f-1d5c83667efb",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which among the following is the most commonly used Moderator in a nuclear reactor?",
+  "option1": "Heavy Water",
+  "option2": "Sodium",
+  "option3": "Graphite",
+  "option4": "Deuterium",
+  "option5": "",
+  "answer": "Graphite",
+  "explanation": "Neutron moderators are a type of material in a nuclear reactor that work to slow down the fast neutrons. Graphite is the most commonly used Moderator in a nuclear reactor.",
+  "verified_at": ""
+}

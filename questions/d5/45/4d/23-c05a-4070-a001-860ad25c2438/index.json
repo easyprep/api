@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:33:32.000Z",
+  "updated_at": "2021-02-27T12:33:32.000Z",
+  "id": "d5454d23-c05a-4070-a001-860ad25c2438",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What percentage of LNG India import for its use?",
+  "option1": 0.8454,
+  "option2": 0.4589,
+  "option3": 0.5354,
+  "option4": 0.2343,
+  "option5": "",
+  "answer": 0.4589,
+  "explanation": "India is the 4th largest LNG importer in the world. It imports about 45.89% of LNG it uses.",
+  "verified_at": ""
+}

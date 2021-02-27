@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "8bcadd96-5342-4d97-8fb0-2d53cd652939",
+  "labels": "current-affairs,2021-02-28",
+  "question": "In which country Chernobyl city is located?",
+  "option1": "Japan",
+  "option2": "Poland",
+  "option3": "Ukraine",
+  "option4": "Moldova",
+  "option5": "",
+  "answer": "Ukraine",
+  "explanation": "Chernobyl city is located in Ukraine. Chernobyl nuclear disaster happened in 1986.",
+  "verified_at": ""
+}

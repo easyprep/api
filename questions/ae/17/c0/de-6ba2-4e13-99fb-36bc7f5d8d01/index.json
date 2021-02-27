@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T12:34:15.000Z",
+  "updated_at": "2021-02-27T12:34:15.000Z",
+  "id": "ae17c0de-6ba2-4e13-99fb-36bc7f5d8d01",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country has the largest installed nuclear power capacity?",
+  "option1": "Russia",
+  "option2": "USA",
+  "option3": "Japan",
+  "option4": "Germany",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "The USA has the largest installed nuclear power capacity. The top 3 countries are USA, France, China.",
+  "verified_at": ""
+}
