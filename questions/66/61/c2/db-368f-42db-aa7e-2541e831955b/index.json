@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:28.000Z",
+  "updated_at": "2021-02-27T11:22:28.000Z",
+  "id": "6661c2db-368f-42db-aa7e-2541e831955b",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the correct full form of ODF ?",
+  "option1": "Open Document File",
+  "option2": "Opened Documentary File",
+  "option3": "Open Document Format",
+  "option4": "Openable Document Format",
+  "option5": "",
+  "answer": "Open Document Format",
+  "explanation": "The Open Document Format (ODF) is a Zip compressed XML based file format for spreadsheets, charts, presentations and word processing documents. It was developed by OASIS.",
+  "verified_at": ""
+}

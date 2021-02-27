@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:15:41.000Z",
+  "updated_at": "2021-02-27T11:15:41.000Z",
+  "id": "ac71ff32-812b-400a-912b-b6c5a4bd0f69",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country's national anthem is \"Lofsongur\"?",
+  "option1": "Denmark",
+  "option2": "Iceland",
+  "option3": "Sweden",
+  "option4": "Norway",
+  "option5": "",
+  "answer": "Iceland",
+  "explanation": "\"Lofsongur\" is the national anthem of Iceland. Sveinbjorn Sveinbjornsson composed the music, while the lyrics were authored by Matthias Jochumsson. This was adopted as the national anthem in 1944 when the country voted to end its personal union with Denmark and become a republic. It is notorious for being extremely challenging to sing and its strong religious theme has been the source of dispute in contemporary Iceland.",
+  "verified_at": ""
+}

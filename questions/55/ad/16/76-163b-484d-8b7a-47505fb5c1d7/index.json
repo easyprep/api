@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:27.000Z",
+  "updated_at": "2021-02-27T11:22:27.000Z",
+  "id": "55ad1676-163b-484d-8b7a-47505fb5c1d7",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does O denote in OUI ?",
+  "option1": "Organizations",
+  "option2": "Organizationally",
+  "option3": "Organized",
+  "option4": "Organization",
+  "option5": "",
+  "answer": "Organizationally",
+  "explanation": "The Organizationally Unique Identifier (OUI) is a 24 bit number which uniquely identifies a vendor, manufacturer or other organizations.",
+  "verified_at": ""
+}

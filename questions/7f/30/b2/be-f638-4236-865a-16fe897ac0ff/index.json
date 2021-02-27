@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:15:40.000Z",
+  "updated_at": "2021-02-27T11:15:40.000Z",
+  "id": "7f30b2be-f638-4236-865a-16fe897ac0ff",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country houses the third-largest geothermal power station in the world \"Hellisheidi Power Station\"?",
+  "option1": "Denmark",
+  "option2": "Iceland",
+  "option3": "Latvia",
+  "option4": "Sweden",
+  "option5": "",
+  "answer": "Iceland",
+  "explanation": "Iceland houses the third-largest geothermal power station in the world \"Hellisheidi Power Station\". The facility is located in Hengill, southwest Iceland. The plant has a capacity of 303 MW of electricity and 133 MWth of hot water for Reykjavik's district heating. Reykjavik is the capital city of Iceland.",
+  "verified_at": ""
+}

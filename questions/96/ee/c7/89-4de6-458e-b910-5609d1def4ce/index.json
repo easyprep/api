@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:27.000Z",
+  "updated_at": "2021-02-27T11:22:27.000Z",
+  "id": "96eec789-4de6-458e-b910-5609d1def4ce",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does R denote in the term OARE ?",
+  "option1": "Return",
+  "option2": "Research",
+  "option3": "Restricted",
+  "option4": "Road",
+  "option5": "",
+  "answer": "Research",
+  "explanation": "The Online Access to Research in the Environment (OARE) is led by the United Nations Environment Program. The Program enables developing countries to gain access to one of the world's largest collection of Environmental Science Research.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:15:38.000Z",
+  "updated_at": "2021-02-27T11:15:38.000Z",
+  "id": "f76e495c-25d3-4f95-9e5d-38d129f3e880",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country's highest mountain peak is \"Hvannadalshnukur\"?",
+  "option1": "Norway",
+  "option2": "Sweden",
+  "option3": "Iceland",
+  "option4": "Finland",
+  "option5": "",
+  "answer": "Iceland",
+  "explanation": "Hvannadalshnukur is a pyramidal peak on the northwestern rim of the summit crater of the Oaefajokull volcano in Vatnajokull National Park, Iceland. Its summit is the highest point in the country Iceland.",
+  "verified_at": ""
+}

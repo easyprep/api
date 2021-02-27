@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:28.000Z",
+  "updated_at": "2021-02-27T11:22:28.000Z",
+  "id": "ca0e6209-ed17-4523-a69a-0bc2139d8e66",
+  "labels": "current-affairs,2021-02-28",
+  "question": "The Ozone-Depleting Substances (ODS) are found in which of the following layer of atmosphere ?",
+  "option1": "Troposphere",
+  "option2": "Stratosphere",
+  "option3": "Mesosphere",
+  "option4": "Ionosphere",
+  "option5": "",
+  "answer": "Stratosphere",
+  "explanation": "The Ozone-Depleting Substances are Chlorofluorocarbons, HCFCs and Halons which are responsible for the depletion of ozone layer. These substances when transferred to Stratosphere cause the depletion of ozone layer.",
+  "verified_at": ""
+}

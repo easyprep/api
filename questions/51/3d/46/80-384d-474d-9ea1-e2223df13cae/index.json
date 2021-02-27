@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:15:37.000Z",
+  "updated_at": "2021-02-27T11:15:37.000Z",
+  "id": "513d4680-384d-474d-9ea1-e2223df13cae",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country has the highest trade union membership in the world?",
+  "option1": "Cuba",
+  "option2": "Iceland",
+  "option3": "Belgium",
+  "option4": "Denmark",
+  "option5": "",
+  "answer": "Iceland",
+  "explanation": "Iceland has the highest trade union membership in the world. The prevalence of unions in various countries can be measured by the concept of \"union density\", which is expressed as a percentage of the total number of workers in a given location who are trade union members. The trade union density of Iceland is 90.4%",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:27.000Z",
+  "updated_at": "2021-02-27T11:22:27.000Z",
+  "id": "440d7f07-7fd1-4320-baa4-0919e53a933b",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does I denote in the term OSI Model ?",
+  "option1": "International",
+  "option2": "Interconnecting",
+  "option3": "Interconnection",
+  "option4": "Intercommunication",
+  "option5": "",
+  "answer": "Interconnection",
+  "explanation": "The term OSI stands for Open Systems Interconnection model (OSI model) which is a conceptual method that characterizes and standardizes the communication function of a telecommunication.",
+  "verified_at": ""
+}

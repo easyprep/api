@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:28.000Z",
+  "updated_at": "2021-02-27T11:22:28.000Z",
+  "id": "1a37da96-c025-4f90-a309-158454c980b4",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does P denote in the popular term OTP ?",
+  "option1": "Process",
+  "option2": "Processing",
+  "option3": "Password",
+  "option4": "Partial",
+  "option5": "",
+  "answer": "Password",
+  "explanation": "The term OPT stands for One Time Password which is a password that is valid for only one time login or transaction on a computer or digital device.",
+  "verified_at": ""
+}

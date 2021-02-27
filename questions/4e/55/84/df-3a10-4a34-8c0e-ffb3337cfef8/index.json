@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:15:37.000Z",
+  "updated_at": "2021-02-27T11:15:37.000Z",
+  "id": "4e5584df-3a10-4a34-8c0e-ffb3337cfef8",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country ranked as the fourth-most developed country in the world by the United Nations' Human Development Index, 2020?",
+  "option1": "Norway",
+  "option2": "Ireland",
+  "option3": "Switzerland",
+  "option4": "Iceland",
+  "option5": "",
+  "answer": "Iceland",
+  "explanation": "Iceland ranked as the fourth-most developed country in the world by the United Nations' Human Development Index, 2020. The Human Development Index (HDI) is a statistic composite index of life expectancy, education (literacy rate, gross enrollment ratio at different levels and net attendance ratio), and per capita income indicators, which are used to rank countries into four tiers of human development.",
+  "verified_at": ""
+}

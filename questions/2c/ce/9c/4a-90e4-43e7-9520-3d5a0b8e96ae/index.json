@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:28.000Z",
+  "updated_at": "2021-02-27T11:22:28.000Z",
+  "id": "2cce9c4a-90e4-43e7-9520-3d5a0b8e96ae",
+  "labels": "current-affairs,2021-02-28",
+  "question": "In which country, the OASIS is located ?",
+  "option1": "Saudi Arabia",
+  "option2": "Iran",
+  "option3": "USA",
+  "option4": "Mexico",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "The Organization for the Advancement of Structured Information Standards (OASIS) is a global non profit consortium. The OASIS works on the development convergence and adoption of open standards.",
+  "verified_at": ""
+}

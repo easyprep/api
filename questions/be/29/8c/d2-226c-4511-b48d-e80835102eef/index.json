@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:28.000Z",
+  "updated_at": "2021-02-27T11:22:28.000Z",
+  "id": "be298cd2-226c-4511-b48d-e80835102eef",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What does P stand for in the term OOP ?",
+  "option1": "Programming",
+  "option2": "Progress",
+  "option3": "Program",
+  "option4": "Processing",
+  "option5": "",
+  "answer": "Programming",
+  "explanation": "The Object-Oriented Programming (OOP) is a programming which is based on the concept of objects. The OOP can be used to contain data and code.",
+  "verified_at": ""
+}

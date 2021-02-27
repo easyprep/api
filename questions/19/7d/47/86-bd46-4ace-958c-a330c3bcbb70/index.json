@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:22:27.000Z",
+  "updated_at": "2021-02-27T11:22:27.000Z",
+  "id": "197d4786-bd46-4ace-958c-a330c3bcbb70",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the correct full form of OSS ?",
+  "option1": "Open Sources Software",
+  "option2": "Open Source Software",
+  "option3": "Open Sourcing Software",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Open Source Software",
+  "explanation": "The Open Source Software (OSS) is a type of computer software in which a source code is released by the copyright owner which allows its users to use the software for study, change and distribution.",
+  "verified_at": ""
+}

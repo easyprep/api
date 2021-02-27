@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T11:15:37.000Z",
+  "updated_at": "2021-02-27T11:15:37.000Z",
+  "id": "3dd6e5db-b354-4d92-b56e-e2f5663c7669",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which country ranked third in the list of countries of the world by wealth per adult, as per Credit Suisse's annual Global Wealth Databook?",
+  "option1": "Switzerland",
+  "option2": "Australia",
+  "option3": "Luxembourg",
+  "option4": "Iceland",
+  "option5": "",
+  "answer": "Iceland",
+  "explanation": "Iceland ranked third in the list of countries of the world by wealth per adult, as per Credit Suisse's annual Global Wealth Databook. Wealth includes both financial and non-financial assets.",
+  "verified_at": ""
+}
