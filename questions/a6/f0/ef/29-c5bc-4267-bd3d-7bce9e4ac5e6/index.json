@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T02:04:50.000Z",
+  "updated_at": "2021-02-27T02:04:50.000Z",
+  "id": "a6f0ef29-c5bc-4267-bd3d-7bce9e4ac5e6",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is the name of the messaging platform to be used by the Indian Army shortly?",
+  "option1": "Secure Application for Internet",
+  "option2": "Safe Messaging Service",
+  "option3": "Secure Instant Messaging",
+  "option4": "Safe Communication Network",
+  "option5": "",
+  "answer": "Secure Application for Internet",
+  "explanation": "As per the recent statement of the Indian Army chief General M M Naravane, the Indian Army is set to start using a messaging platform called SAI (Secure Application for Internet), for internal communications.<br />The application, which was developed by Colonel Sai Shankar, is undergoing the process of obtaining cybersecurity clearance and data testing. After getting clearance, the platform will be used from April 1, this year.",
+  "verified_at": ""
+}

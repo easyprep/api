@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T02:15:09.000Z",
+  "updated_at": "2021-02-27T02:15:09.000Z",
+  "id": "33e69338-161d-4deb-b58e-6c635d69054d",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which international organisation has released the World Employment and Social Outlook 2021?",
+  "option1": "IMF",
+  "option2": "ILO",
+  "option3": "WEF",
+  "option4": "UNICEF",
+  "option5": "",
+  "answer": "ILO",
+  "explanation": "The World Employment and Social Outlook 2021 is released by the International Labour Organisation.<br />This report is one of ILO’s flagship publications that gives details on transformation of way work is organised. It also depicts the experience of workers and businesses on online web-based and location-based platforms.",
+  "verified_at": ""
+}

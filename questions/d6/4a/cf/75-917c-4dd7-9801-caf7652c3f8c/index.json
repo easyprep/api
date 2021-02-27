@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T02:15:36.000Z",
+  "updated_at": "2021-02-27T02:15:37.000Z",
+  "id": "d64acf75-917c-4dd7-9801-caf7652c3f8c",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which regulator has proposed to introduce a concept called ‘accredited investors’?",
+  "option1": "RBI",
+  "option2": "NABARD",
+  "option3": "IRDAI",
+  "option4": "SEBI",
+  "option5": "",
+  "answer": "SEBI",
+  "explanation": "The market regulator Securities and Exchange Board of India (SEBI) has proposed to introduce a concept called ‘accredited investors’.<br />SEBI has noted that accredited investors, (also known as qualified investors or professional investors) are those who have an understanding of various financial products, the risks and returns associated with them. They can take informed decisions regarding investments and are recognised by many securities and financial market regulators globally.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T02:01:41.000Z",
+  "updated_at": "2021-02-27T02:01:41.000Z",
+  "id": "6bb421eb-8c04-4776-b91c-50cf69eb0fbb",
+  "labels": "current-affairs,2021-02-28",
+  "question": "As per the new Information Technology Rules, digital platforms will have to provide required information within how many hours?",
+  "option1": "12 hours",
+  "option2": "24 hours",
+  "option3": "48 hours",
+  "option4": "72 hours",
+  "option5": "",
+  "answer": "72 hours",
+  "explanation": "The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules 2021 has been framed recently, which was released by the Electronics and IT Ministry.<br />Under the rules, platforms such as WhatsApp will have to provide information on identity verification to the authorised agencies within 72 hours. The originator of unlawful messages would be zeroed on and the platforms will have to set up grievance redressal mechanism.",
+  "verified_at": ""
+}

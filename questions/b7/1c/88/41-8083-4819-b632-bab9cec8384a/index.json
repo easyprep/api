@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T02:07:32.000Z",
+  "updated_at": "2021-02-27T02:07:32.000Z",
+  "id": "b71c8841-8083-4819-b632-bab9cec8384a",
+  "labels": "current-affairs,2021-02-28",
+  "question": "Which organisation regulates a Nidhi company in its operational matters and deployment of funds?",
+  "option1": "Reserve Bank of India",
+  "option2": "Ministry of Finance",
+  "option3": "Ministry of Corporate Affairs",
+  "option4": "Securities Exchange Board of India",
+  "option5": "",
+  "answer": "Ministry of Corporate Affairs",
+  "explanation": "A Nidhi company is classified as \"Mutual Benefit Financial Company\" by the Reserve Bank of India. It is regulated by the Department of Corporate Affairs for its operational matters and the deployment of funds. RBI can issue directions to the companies on its deposit taking activities.<br />Recently, the Corporate Affairs Ministry warned that investors must check the status of the Nidhi company before investing.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-02-27T02:18:36.000Z",
+  "updated_at": "2021-02-27T02:18:36.000Z",
+  "id": "28fc6398-879a-48a4-8ad6-153e9dc7f91a",
+  "labels": "current-affairs,2021-02-28",
+  "question": "What is objective of 'E-Daakhil' portal, which was making news recently?",
+  "option1": "Database on Schools",
+  "option2": "COVID 19 vaccination management",
+  "option3": "Power consumption dashboard",
+  "option4": "Consumer grievance redressal",
+  "option5": "",
+  "answer": "Consumer grievance redressal",
+  "explanation": "E-Daakhil portal was launched on 7th September, 2020 by the National Consumer Dispute Redressal Commission. The portal has been designed for Consumer grievance redressal and is presently operating in 15 States and Union Territories.<br />It has been now decided to integrate the Common Service Centres with the e-daakhil portal.",
+  "verified_at": ""
+}
