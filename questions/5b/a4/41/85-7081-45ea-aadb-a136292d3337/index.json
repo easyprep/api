@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-01T19:32:26.000Z",
+  "updated_at": "2021-03-01T19:32:26.000Z",
+  "id": "5ba44185-7081-45ea-aadb-a136292d3337",
+  "labels": "current-affairs,2021-03-02",
+  "question": "Which mapping company has integrated into the Government’s Co-WIN portal?",
+  "option1": "Google Maps",
+  "option2": "Yahoo Find",
+  "option3": "MapMyIndia",
+  "option4": "Zee Maps",
+  "option5": "",
+  "answer": "MapMyIndia",
+  "explanation": "MapMyIndia, the Indian Digital Mapping company has integrated into the government’s Co-WIN portal. This aimed to help people locate nearest COVID vaccination centres around them.<br />The company has also stated that it has launched new maps and nearby search features in its website.",
+  "verified_at": ""
+}

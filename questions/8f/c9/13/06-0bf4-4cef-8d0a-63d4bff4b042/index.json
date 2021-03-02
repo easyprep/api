@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-01T19:24:56.000Z",
+  "updated_at": "2021-03-01T19:24:56.000Z",
+  "id": "8fc91306-0bf4-4cef-8d0a-63d4bff4b042",
+  "labels": "current-affairs,2021-03-02",
+  "question": "How many satellites were launched by the ISRO using its PSLV- C51 rocket?",
+  "option1": 12,
+  "option2": 16,
+  "option3": 19,
+  "option4": 23,
+  "option5": "",
+  "answer": 19,
+  "explanation": "The Polar Satellite Launch Vehicle-C51 (PSLV-C51) rocket of India successfully lifted off from Sriharikota launch pad.<br />It was carrying 19 satellites from Brazil, USA and India with the Brazil's 637-kilogram optical earth observation satellite Amazonia 1, as its primary passenger. This is the first commercial mission of New space India limited.",
+  "verified_at": ""
+}

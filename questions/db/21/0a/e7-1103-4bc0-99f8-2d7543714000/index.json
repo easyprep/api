@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-01T19:36:14.000Z",
+  "updated_at": "2021-03-01T19:36:14.000Z",
+  "id": "db210ae7-1103-4bc0-99f8-2d7543714000",
+  "labels": "current-affairs,2021-03-02",
+  "question": "Which company has made first ever PC using plastic waste in ocean?",
+  "option1": "HP",
+  "option2": "Dell",
+  "option3": "Intel",
+  "option4": "Sony",
+  "option5": "",
+  "answer": "HP",
+  "explanation": "The leading computer manufacturer HP, has made its first ever personal computer using plastic found in oceans.<br />The company’s Pavilion 13, Pavilion 14, and Pavilion 15 series of laptops have been manufactured using ocean plastic wastes materials. The company estimates that nearly 92,000 plastic bottles are pulled out of the oceans to manufacture these computers",
+  "verified_at": ""
+}
