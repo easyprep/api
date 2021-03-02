@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:52:42.000Z",
+  "updated_at": "2021-03-02T00:52:42.000Z",
+  "id": "944d5675-bd8f-40b1-94a0-f048629e06cc",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What does M denote in the term RUM ?",
+  "option1": "Monetary",
+  "option2": "Monitor",
+  "option3": "Monitoring",
+  "option4": "Mountaineering",
+  "option5": "",
+  "answer": "Monitoring",
+  "explanation": "The Real User Monitoring (RUM) is a technology that records all user interaction with a website or client interacting with a server or cloud based application.",
+  "verified_at": ""
+}

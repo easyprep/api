@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:52:42.000Z",
+  "updated_at": "2021-03-02T00:52:42.000Z",
+  "id": "580812c1-3ca1-4b30-afa9-ae49611ca5b0",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What does S denote in the term RTSP ?",
+  "option1": "Service",
+  "option2": "Stream",
+  "option3": "Streaming",
+  "option4": "Standards",
+  "option5": "",
+  "answer": "Streaming",
+  "explanation": "The Real Time Streaming Protocol (RTSP) is a network control protocol which is designed for use in entertainment and communications systems to control streaming media servers.",
+  "verified_at": ""
+}

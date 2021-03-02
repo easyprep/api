@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:00.000Z",
+  "updated_at": "2021-03-02T00:53:00.000Z",
+  "id": "f7fa2aef-9bcf-4ebc-b2b3-fada8cc65a94",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What does D denote in the term SDSL ?",
+  "option1": "Development",
+  "option2": "Digital",
+  "option3": "Description",
+  "option4": "Direction",
+  "option5": "",
+  "answer": "Digital",
+  "explanation": "The Symmetric Digital Subscriber Line (SDSL) is a digital subscriber line that transmits digital data over the copper wire of telephone network.",
+  "verified_at": ""
+}

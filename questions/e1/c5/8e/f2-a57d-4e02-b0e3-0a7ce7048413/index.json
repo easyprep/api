@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:00.000Z",
+  "updated_at": "2021-03-02T00:53:00.000Z",
+  "id": "e1c58ef2-a57d-4e02-b0e3-0a7ce7048413",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What is the correct full form of SDR ?",
+  "option1": "Software Defined Radio",
+  "option2": "Software Direction Ratio",
+  "option3": "Software Directive Ratio",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Software Defined Radio",
+  "explanation": "The Software Defined Radio (SDR) is a radio communication system where components that have been traditionally implemented in hardware are instead implemented by means of software on a personal computer.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:00.000Z",
+  "updated_at": "2021-03-02T00:53:00.000Z",
+  "id": "b219d3b3-5faf-4ee7-9b5c-37ac8db74cb6",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What does S denote in the term SIMM ?",
+  "option1": "Single",
+  "option2": "Signal",
+  "option3": "Service",
+  "option4": "Server",
+  "option5": "",
+  "answer": "Single",
+  "explanation": "The Single Inline Memory Module (SIMM) is a type of memory module containing RAM which is used in computers.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:00.000Z",
+  "updated_at": "2021-03-02T00:53:00.000Z",
+  "id": "b759a811-c701-4c7f-bf7b-dcca39ec03a7",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What is the correct full form of SAN ?",
+  "option1": "Service Area Network",
+  "option2": "Storage Area Network",
+  "option3": "Sewage Area Network",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Storage Area Network",
+  "explanation": "The Storage Area Network (SAN) is a computer network which provides access to consolidated block level data storage.",
+  "verified_at": ""
+}

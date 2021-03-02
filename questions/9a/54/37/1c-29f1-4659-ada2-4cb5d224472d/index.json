@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:52:42.000Z",
+  "updated_at": "2021-03-02T00:52:42.000Z",
+  "id": "9a54371c-29f1-4659-ada2-4cb5d224472d",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What is the correct full form the term ROM ?",
+  "option1": "Read Only Memory",
+  "option2": "Read Only Movement",
+  "option3": "Record Only Memory",
+  "option4": "Restore Only Memory",
+  "option5": "",
+  "answer": "Read Only Memory",
+  "explanation": "The term ROM stands for Read Only Memory. It is a non volatile memory which is used in computers and other electronic devices.",
+  "verified_at": ""
+}

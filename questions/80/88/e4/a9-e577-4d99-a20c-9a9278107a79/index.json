@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:01.000Z",
+  "updated_at": "2021-03-02T00:53:01.000Z",
+  "id": "8088e4a9-e577-4d99-a20c-9a9278107a79",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What does S stand for in the term SQL ?",
+  "option1": "Service",
+  "option2": "Simple",
+  "option3": "Structured",
+  "option4": "System",
+  "option5": "",
+  "answer": "Structured",
+  "explanation": "The Structured Query Language (SQL) is a domain specific language which is used in programming and is designed for managing data held in a relation database management system.",
+  "verified_at": ""
+}

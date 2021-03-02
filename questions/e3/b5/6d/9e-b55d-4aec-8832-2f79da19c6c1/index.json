@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:52:43.000Z",
+  "updated_at": "2021-03-02T00:52:43.000Z",
+  "id": "e3b56d9e-b55d-4aec-8832-2f79da19c6c1",
+  "labels": "current-affairs,2021-03-03",
+  "question": "In which year, the Remote Authentication Dial in User Service (RADIUS) was developed ?",
+  "option1": 1956,
+  "option2": 1991,
+  "option3": 1987,
+  "option4": 1962,
+  "option5": "",
+  "answer": 1991,
+  "explanation": "The Remote Authentication Dial in User Service (RADIUS) is a networking protocol that provides centralized authentication, authorization and accounting management for users who connect and use a network service.",
+  "verified_at": ""
+}

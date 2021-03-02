@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:52:43.000Z",
+  "updated_at": "2021-03-02T00:52:43.000Z",
+  "id": "8b9d1ce0-c884-4b2a-afd4-23df307c5be8",
+  "labels": "current-affairs,2021-03-03",
+  "question": "In which year, the Resource Description Framework (RDF) came into use ?",
+  "option1": 1996,
+  "option2": 1984,
+  "option3": 1978,
+  "option4": 1903,
+  "option5": "",
+  "answer": 1996,
+  "explanation": "The Resource Description Framework (RDF) is a family of World Wide Web (WWW) consortium specification. It was originally designed as a metadata data model. It came into use in 1996.",
+  "verified_at": ""
+}

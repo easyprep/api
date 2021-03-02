@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:52:41.000Z",
+  "updated_at": "2021-03-02T00:52:41.000Z",
+  "id": "3d70cf55-20fd-44e2-99fe-e869fe962e40",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What is the correct full form of RAM ?",
+  "option1": "Read Access Mode",
+  "option2": "Random Access Memory",
+  "option3": "Random Asses Memory",
+  "option4": "Read Assess Memory",
+  "option5": "",
+  "answer": "Random Access Memory",
+  "explanation": "The term RAM stands for Random Access Memory. It is a form of computer memory which can be read and changed in any order. It is used to store data and machine code.",
+  "verified_at": ""
+}

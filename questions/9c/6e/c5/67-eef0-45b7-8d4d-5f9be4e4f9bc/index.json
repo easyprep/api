@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:01.000Z",
+  "updated_at": "2021-03-02T00:53:01.000Z",
+  "id": "9c6ec567-eef0-45b7-8d4d-5f9be4e4f9bc",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What is the correct full form of SUS ?",
+  "option1": "Single UNIX Specification",
+  "option2": "Single Unit Specification",
+  "option3": "Simple UNIX Specification",
+  "option4": "Simple Unit Specification",
+  "option5": "",
+  "answer": "Single UNIX Specification",
+  "explanation": "The Single UNIX Specification (SUS) is the collective name of a family of standards for computer operating system, compliance with which is required to qualify for using the UNIX trademark.",
+  "verified_at": ""
+}

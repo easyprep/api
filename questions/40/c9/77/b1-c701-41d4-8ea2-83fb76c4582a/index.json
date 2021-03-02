@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:01.000Z",
+  "updated_at": "2021-03-02T00:53:01.000Z",
+  "id": "40c977b1-c701-41d4-8ea2-83fb76c4582a",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What does H denote in the term SHDSL ?",
+  "option1": "High",
+  "option2": "Hindrance",
+  "option3": "Height",
+  "option4": "Hollow",
+  "option5": "",
+  "answer": "High",
+  "explanation": "The Single Payer High Speed Digital Subscriber Line (SHDSL) is a form of symmetric digital subscriber line. The SHDSL employs trellis coded plus amplitude modulation.",
+  "verified_at": ""
+}

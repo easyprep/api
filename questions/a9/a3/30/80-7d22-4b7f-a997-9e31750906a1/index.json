@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-02T00:53:01.000Z",
+  "updated_at": "2021-03-02T00:53:01.000Z",
+  "id": "a9a33080-7d22-4b7f-a997-9e31750906a1",
+  "labels": "current-affairs,2021-03-03",
+  "question": "What is the correct full form of SP which is related to Computer ?",
+  "option1": "System Programming",
+  "option2": "Service Pack",
+  "option3": "System Pack",
+  "option4": "Server Programming",
+  "option5": "",
+  "answer": "Service Pack",
+  "explanation": "The Service Pack (SP) is a collection of updates fixes or enhancements to a software program delivered in the form of a single instable package.",
+  "verified_at": ""
+}
