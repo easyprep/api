@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-03T03:32:13.000Z",
+  "updated_at": "2021-03-03T03:32:13.000Z",
+  "id": "faf79822-0109-4c58-bf38-854aa75a276e",
+  "labels": "current-affairs,2021-03-04",
+  "question": "Which Union Ministry launched the real-time monitoring system of toll plazas at national highways across the country?",
+  "option1": "Ministry of Housing and Urban Affairs",
+  "option2": "Ministry of Finance",
+  "option3": "Ministry of Road Transport and Highways",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Ministry of Road Transport and Highways",
+  "explanation": "The Ministry of Road Transport and Highways launched the real-time monitoring system of toll plazas at national highways across the country. It will be used to measure the Daily Congestion Index for each plaza and overall congestion across national highway network in real time. <br />It will also collect real time data on high peak hours’ traffic. The purpose is to reduce congestion and improve efficiency of FASTag usage.",
+  "verified_at": ""
+}
