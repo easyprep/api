@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T17:02:33.000Z",
+  "updated_at": "2021-03-04T17:02:33.000Z",
+  "id": "58cc203e-9d6a-4886-852d-f74613503364",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What is the name of the unique type of specimen, which serves as the representation for the given species name?",
+  "option1": "Holotype",
+  "option2": "Nomenclature",
+  "option3": "Classification",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Holotype",
+  "explanation": "The term ‘holotype’ refers to an illustration or physical example of a species. It may also refer to one of several physical examples of the organism.<br />It is a unique type specimen that is designated by the original author and serves as the representation for the given species name.",
+  "verified_at": ""
+}

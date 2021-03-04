@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T16:56:55.000Z",
+  "updated_at": "2021-03-04T16:56:55.000Z",
+  "id": "1d7162d5-d2d1-4385-9e7a-ab30aad8842f",
+  "labels": "current-affairs,2021-03-05",
+  "question": "Epigraph algorithm was developed in which country?",
+  "option1": "China",
+  "option2": "UK",
+  "option3": "France",
+  "option4": "USA",
+  "option5": "",
+  "answer": "USA",
+  "explanation": "Epigraph algorithm is a novel computer algorithm that could predict vaccine candidate for various diseases.<br />It was developed by scientists at the Los Alamos National Lab in the USA. The software was recently used to predict HIV vaccine candidates.",
+  "verified_at": ""
+}

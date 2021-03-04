@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T16:40:16.000Z",
+  "updated_at": "2021-03-04T16:40:16.000Z",
+  "id": "8caf2a62-3086-4431-8a98-883bf5fcb808",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What is the full form of ICLED?",
+  "option1": "Inter-band cascade light emitting device",
+  "option2": "Interior-based cascade light emitting diode",
+  "option3": "Intern link- band inter-band cascade light emitting",
+  "option4": "None of the above",
+  "option5": "",
+  "answer": "Inter-band cascade light emitting device",
+  "explanation": "ICLED or inter-band cascade light emitting device is a new type of high-powered light emitting diode that are used in quantitative analysis of several chemicals.<br />It emits light in the mid IR wavelength regions. It was recently used to develop low-cost sensors to detect methane emission with high accuracy.",
+  "verified_at": ""
+}

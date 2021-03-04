@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T17:03:48.000Z",
+  "updated_at": "2021-03-04T17:03:48.000Z",
+  "id": "fc66784a-7e43-43f3-8aa2-437e8c8ff855",
+  "labels": "current-affairs,2021-03-05",
+  "question": "Which malware is alleged to be behind the October blackout in Mumbai?",
+  "option1": "Trojan Horse",
+  "option2": "Spyware",
+  "option3": "Blackware",
+  "option4": "ShadowPad",
+  "option5": "",
+  "answer": "ShadowPad",
+  "explanation": "ShadowPad is a malware that is alleged to be behind the October blackout in Mumbai. It has been linked to Chinese cyberattacks in the past too. <br />It was discovered in the year 2017. It was found injected into software updates by NetSarang, a legitimate software provider.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T16:55:01.000Z",
+  "updated_at": "2021-03-04T16:55:02.000Z",
+  "id": "bac89ddd-ac05-4db6-bec9-f121e656829b",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What is 'APT41', that was seen in news recently?",
+  "option1": "Submarine",
+  "option2": "Hacker Group",
+  "option3": "Super computer",
+  "option4": "Electric Vehicle",
+  "option5": "",
+  "answer": "Hacker Group",
+  "explanation": "APT41 (advanced persistent threat) is a cyber threat group that is known to carry out Chinese state sponsored cyber-attacks and other financially motivated cyber- attacks.<br />It is also known as the Double Dragon. Since 2012, the group has attacked organisations in some 14 countries to steal intellectual properties (cyber espionage activities).",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T17:05:02.000Z",
+  "updated_at": "2021-03-04T17:05:02.000Z",
+  "id": "34da78ea-8f9f-4876-b95a-855bb4d0c97e",
+  "labels": "current-affairs,2021-03-05",
+  "question": "The Starship mission was developed by which country?",
+  "option1": "UK",
+  "option2": "China",
+  "option3": "Russia",
+  "option4": "US",
+  "option5": "",
+  "answer": "US",
+  "explanation": "The Starship mission was developed by SpaceX, a firm based at the United States. SpaceX Starship system is a fully reusable, two-stage-to-orbit heavy-lift launch vehicle. <br />The system comprises of a booster stage called Super Heavy. The second stage of the vehicle is called as Starship.",
+  "verified_at": ""
+}
