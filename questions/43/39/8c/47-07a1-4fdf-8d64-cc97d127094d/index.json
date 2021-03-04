@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-03T20:00:33.000Z",
+  "updated_at": "2021-03-03T20:00:33.000Z",
+  "id": "43398c47-07a1-4fdf-8d64-cc97d127094d",
+  "labels": "current-affairs,2021-03-04",
+  "question": "Which mold was recently found to be capable of saving memories despite the absence of nervous system?",
+  "option1": "Acremonium",
+  "option2": "Penicillium",
+  "option3": "Cladosporium",
+  "option4": "Physarum polycephalum",
+  "option5": "",
+  "answer": "Physarum polycephalum",
+  "explanation": "Physarum polycephalum is a single-cell slime mold. It was recently found to be capable of saving memories despite the absence of nervous system. <br />This finding deviates from the traditional assumption that memories are held by only by those organisms with a nervous system.",
+  "verified_at": ""
+}
