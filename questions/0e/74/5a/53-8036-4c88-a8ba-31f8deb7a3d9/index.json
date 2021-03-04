@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:47.000Z",
+  "updated_at": "2021-03-04T02:55:47.000Z",
+  "id": "0e745a53-8036-4c88-a8ba-31f8deb7a3d9",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does A denote in the term TAN ?",
+  "option1": "Accounting",
+  "option2": "Accountant",
+  "option3": "Account",
+  "option4": "Accounted",
+  "option5": "",
+  "answer": "Account",
+  "explanation": "The Tax Deduction and Collection Account No. (TAN) is a ten-digit number which is issued to persons who are required to deduct or collect tax on payments made by them under the Indian Income Tax Act, 1961.",
+  "verified_at": ""
+}

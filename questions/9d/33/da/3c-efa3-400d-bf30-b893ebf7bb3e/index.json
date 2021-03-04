@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:47.000Z",
+  "updated_at": "2021-03-04T02:55:47.000Z",
+  "id": "9d33da3c-efa3-400d-bf30-b893ebf7bb3e",
+  "labels": "current-affairs,2021-03-05",
+  "question": "In which year, the Tenser Processing Unit (TPU) was introduced ?",
+  "option1": 2016,
+  "option2": 2014,
+  "option3": 2018,
+  "option4": 2019,
+  "option5": "",
+  "answer": 2016,
+  "explanation": "The Tenser Processing Unit (TPU) is an AL accelerator application specific integrated circuit which is developed by Google for Neural network machine learning.",
+  "verified_at": ""
+}

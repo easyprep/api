@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:47.000Z",
+  "updated_at": "2021-03-04T02:55:47.000Z",
+  "id": "44eb002b-16fd-4614-a409-b5d283ccc15b",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does P stand for in the term TAPI ?",
+  "option1": "Processing",
+  "option2": "Performing",
+  "option3": "Programming",
+  "option4": "Producing",
+  "option5": "",
+  "answer": "Programming",
+  "explanation": "The Telephony Application Programming Interface (TAPI) is a Microsoft windows API. The TAPI provides computer telephony integration and enables PCs running Microsoft windows.",
+  "verified_at": ""
+}

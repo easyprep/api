@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:47.000Z",
+  "updated_at": "2021-03-04T02:55:47.000Z",
+  "id": "c428f55c-50c1-462c-8964-e80538608756",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does L denote in the term TLS ?",
+  "option1": "Local",
+  "option2": "Layer",
+  "option3": "Label",
+  "option4": "Liability",
+  "option5": "",
+  "answer": "Layer",
+  "explanation": "The Transport Layer Security (TLS) is cryptographic protocol which is designed to provide communication security over a computer network.",
+  "verified_at": ""
+}

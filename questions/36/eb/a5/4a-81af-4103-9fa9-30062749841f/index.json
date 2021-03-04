@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:46.000Z",
+  "updated_at": "2021-03-04T02:55:46.000Z",
+  "id": "36eba54a-81af-4103-9fa9-30062749841f",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does A denote in the term TCAM ?",
+  "option1": "Access",
+  "option2": "Accept",
+  "option3": "Asset",
+  "option4": "Assess",
+  "option5": "",
+  "answer": "Access",
+  "explanation": "The Telecommunications Access Method (TCAM) is a method in IBM's OS/360 and successors computer operating systems. The TCAM is responsible to access terminals units within a teleprocessing network.",
+  "verified_at": ""
+}

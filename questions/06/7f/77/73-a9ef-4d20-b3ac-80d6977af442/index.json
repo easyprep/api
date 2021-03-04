@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:46.000Z",
+  "updated_at": "2021-03-04T02:55:46.000Z",
+  "id": "067f7773-a9ef-4d20-b3ac-80d6977af442",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does T denote in the term TDS ?",
+  "option1": "Tax",
+  "option2": "Taxation",
+  "option3": "Taxes",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Tax",
+  "explanation": "The term TDS stands for Tax Deduction at Source which is a type to collect taxes from the very salaries of the employees. Acc. to the Income Tax Act, 1961, the tax should be deducted at sources before paying the balance to the payee.",
+  "verified_at": ""
+}

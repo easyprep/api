@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:47.000Z",
+  "updated_at": "2021-03-04T02:55:47.000Z",
+  "id": "df38fc56-2266-4648-834b-a65c3221e462",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does M denote in the term TMN ?",
+  "option1": "Management",
+  "option2": "Managing",
+  "option3": "Managed",
+  "option4": "Manager",
+  "option5": "",
+  "answer": "Management",
+  "explanation": "The Telecommunication Management Network (TMN) is a protocol network designed by ITU-T for managing open system in a communication network.",
+  "verified_at": ""
+}
