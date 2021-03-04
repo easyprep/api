@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:56:07.000Z",
+  "updated_at": "2021-03-04T02:56:07.000Z",
+  "id": "4d617340-a2a2-466d-8c37-57c586a21338",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does E denote in the term UEFI ?",
+  "option1": "Extensive",
+  "option2": "Extensible",
+  "option3": "Extinguish",
+  "option4": "Extinct",
+  "option5": "",
+  "answer": "Extensible",
+  "explanation": "The Unified Extensible Firmware Interface (UEFI) is a specification that defines a software interface between an operating system and platform firmware.",
+  "verified_at": ""
+}

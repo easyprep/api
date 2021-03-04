@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:48.000Z",
+  "updated_at": "2021-03-04T02:55:48.000Z",
+  "id": "b408cd4e-fde3-4b21-8aab-d2f77b0305b6",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What is the correct full form of the term TT which is related to transfer of funds ?",
+  "option1": "Telephone Transfer",
+  "option2": "Telegraph Transfers",
+  "option3": "Telegraphic Transfer",
+  "option4": "Telephonic Transfer",
+  "option5": "",
+  "answer": "Telegraphic Transfer",
+  "explanation": "The Telegraphic Transfer (TT) is a term used to refer to an electronic means of transferring funds. A transfer charge is often charged by the sending bank.",
+  "verified_at": ""
+}

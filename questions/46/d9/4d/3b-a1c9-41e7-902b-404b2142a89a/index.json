@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:56:06.000Z",
+  "updated_at": "2021-03-04T02:56:06.000Z",
+  "id": "46d94d3b-a1c9-41e7-902b-404b2142a89a",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does I denote in the term UNI ?",
+  "option1": "Interchange",
+  "option2": "Interspace",
+  "option3": "Interface",
+  "option4": "Infrastructure",
+  "option5": "",
+  "answer": "Interface",
+  "explanation": "The User Network Interface (UNI) is a demarcation point between the responsibility of service provider and the responsibility of the subscriber.",
+  "verified_at": ""
+}

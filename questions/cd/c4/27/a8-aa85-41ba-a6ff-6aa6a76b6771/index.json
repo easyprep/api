@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:56:06.000Z",
+  "updated_at": "2021-03-04T02:56:06.000Z",
+  "id": "cdc427a8-aa85-41ba-a6ff-6aa6a76b6771",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What is the correct full form of the term UDP related to Computer networking ?",
+  "option1": "User Data Protocol",
+  "option2": "User Datagram Protocol",
+  "option3": "Users Data Protocol",
+  "option4": "Users Datagram Protocol",
+  "option5": "",
+  "answer": "User Datagram Protocol",
+  "explanation": "The term UDP stands for User Datagram Protocol which is one of the core members of the internet protocol suite in computer networking.",
+  "verified_at": ""
+}

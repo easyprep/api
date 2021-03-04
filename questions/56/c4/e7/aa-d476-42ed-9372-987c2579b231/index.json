@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:56:06.000Z",
+  "updated_at": "2021-03-04T02:56:06.000Z",
+  "id": "56c4e7aa-d476-42ed-9372-987c2579b231",
+  "labels": "current-affairs,2021-03-05",
+  "question": "In which year, the United Nations Atomic Energy Commission (UNAEC) was founded ?",
+  "option1": 1946,
+  "option2": 1947,
+  "option3": 1945,
+  "option4": 1948,
+  "option5": "",
+  "answer": 1946,
+  "explanation": "The United Nations Atomic Energy Commission (UNAEC) was founded in 1946 by a resolution of United Nations General Assembly.",
+  "verified_at": ""
+}

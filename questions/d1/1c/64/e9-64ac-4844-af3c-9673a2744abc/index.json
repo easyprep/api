@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:56:06.000Z",
+  "updated_at": "2021-03-04T02:56:06.000Z",
+  "id": "d11c64e9-64ac-4844-af3c-9673a2744abc",
+  "labels": "current-affairs,2021-03-05",
+  "question": "In which year, the United Nations (UN) was founded ?",
+  "option1": 1940,
+  "option2": 1945,
+  "option3": 1947,
+  "option4": 1946,
+  "option5": "",
+  "answer": 1945,
+  "explanation": "The United Nations (UN) is the world's largest and most powerful intergovernmental organization. It was founded in the year 1945 as the successor of League of Nations after the world war II.",
+  "verified_at": ""
+}

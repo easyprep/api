@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:56:06.000Z",
+  "updated_at": "2021-03-04T02:56:06.000Z",
+  "id": "1b6718b1-4bfc-4be8-86fa-3975112f525d",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does A denote in the term UAC ?",
+  "option1": "Access",
+  "option2": "Account",
+  "option3": "Assess",
+  "option4": "Asset",
+  "option5": "",
+  "answer": "Account",
+  "explanation": "The User Account Control (UAC) is a mandatory access control enforcement feature introduced with Microsoft's windows vista and windows server 2008 operating systems.",
+  "verified_at": ""
+}

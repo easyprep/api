@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:55:47.000Z",
+  "updated_at": "2021-03-04T02:55:47.000Z",
+  "id": "5c98f599-13b1-428e-869e-c1c8c4fb9866",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What is the correct full form of TSI ?",
+  "option1": "Time Slot Interchange",
+  "option2": "Time Slots Interchange",
+  "option3": "Time Slot Interchanging",
+  "option4": "Time Slots Interchanging",
+  "option5": "",
+  "answer": "Time Slot Interchange",
+  "explanation": "The Time Slot Interchange (TSI) is a network switch that stores data in RAM in one sequence and reads it out in different sequence.",
+  "verified_at": ""
+}

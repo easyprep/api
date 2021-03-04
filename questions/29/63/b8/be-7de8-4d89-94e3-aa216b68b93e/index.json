@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-04T02:56:06.000Z",
+  "updated_at": "2021-03-04T02:56:06.000Z",
+  "id": "2963b8be-7de8-4d89-94e3-aa216b68b93e",
+  "labels": "current-affairs,2021-03-05",
+  "question": "What does T denote in the term UART ?",
+  "option1": "Transmitter",
+  "option2": "Transport",
+  "option3": "Transverse",
+  "option4": "Transportation",
+  "option5": "",
+  "answer": "Transmitter",
+  "explanation": "The Universal Asynchronous Receiver Transmitter (UART) is a computer hardware device for synchronous serial communications in which the data format and transmission speeds are configurable.",
+  "verified_at": ""
+}
