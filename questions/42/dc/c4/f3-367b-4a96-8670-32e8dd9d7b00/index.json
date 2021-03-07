@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:18.000Z",
+  "updated_at": "2021-03-07T11:20:18.000Z",
+  "id": "42dcc4f3-367b-4a96-8670-32e8dd9d7b00",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does I denote in the term ZISC ?",
+  "option1": "Identify",
+  "option2": "Instruction",
+  "option3": "Indication",
+  "option4": "Identification",
+  "option5": "",
+  "answer": "Instruction",
+  "explanation": "The Zero Instruction Set Computer (ZISC) is a computer architecture based solely on pattern matching and absence of instructions in the classical sense.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T09:18:39.000Z",
+  "updated_at": "2021-03-07T09:18:39.000Z",
+  "id": "bbe90a1f-dc80-421a-bf83-51f031bb0118",
+  "labels": "current-affairs,2021-03-08",
+  "question": "Which organisation releases the ‘World food price Index’?",
+  "option1": "World Bank",
+  "option2": "Food and Agricultural Organisation",
+  "option3": "International Monetary Fund",
+  "option4": "IFAD",
+  "option5": "",
+  "answer": "Food and Agricultural Organisation",
+  "explanation": "The Food and Agriculture Organization (FAO) releases the Food price index, which measures monthly changes for a basket of cereals, oilseeds, dairy products, meat and sugar.<br />As per the recent January figure, the world food prices rose for a ninth consecutive month in February. The index hit its highest level since July 2014 and the rise is led by the rise in sugar and vegetable oils.",
+  "verified_at": ""
+}

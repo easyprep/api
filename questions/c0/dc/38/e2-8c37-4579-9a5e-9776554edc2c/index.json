@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:51.000Z",
+  "updated_at": "2021-03-07T11:19:51.000Z",
+  "id": "c0dc38e2-8c37-4579-9a5e-9776554edc2c",
+  "labels": "current-affairs,2021-03-08",
+  "question": "In which year, the Xerox Networking System (XNS) was introduced ?",
+  "option1": 1976,
+  "option2": 1977,
+  "option3": 1978,
+  "option4": 1981,
+  "option5": "",
+  "answer": 1977,
+  "explanation": "The Xerox Networking System (XNS) is a computer networking protocol suite developed by Xerox within the Xerox Networking System Architecture.",
+  "verified_at": ""
+}

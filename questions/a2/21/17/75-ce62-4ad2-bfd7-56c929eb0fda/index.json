@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:06.000Z",
+  "updated_at": "2021-03-07T11:20:06.000Z",
+  "id": "a2211775-ce62-4ad2-bfd7-56c929eb0fda",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does W denote in the term YAWL ?",
+  "option1": "Work",
+  "option2": "Workflow",
+  "option3": "Worksflow",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Workflow",
+  "explanation": "The term YAWL stands for Yet Another Workflow Language which is a workflow language based on workflow patterns.",
+  "verified_at": ""
+}

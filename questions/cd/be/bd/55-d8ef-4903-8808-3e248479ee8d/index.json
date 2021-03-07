@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:20.000Z",
+  "updated_at": "2021-03-07T11:19:20.000Z",
+  "id": "cdbebd55-d8ef-4903-8808-3e248479ee8d",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What is the frequency range of Very High Frequency (VHF) ?",
+  "option1": "30MHz-300MHz",
+  "option2": "20MHz-350MHz",
+  "option3": "10MHz-150MHz",
+  "option4": "40MHz-250MHz",
+  "option5": "",
+  "answer": "30MHz-300MHz",
+  "explanation": "The Very High Frequency (VHF) is the ITU designation for the range of radio frequency electromagnetic waves from 30MHz-300MHz.",
+  "verified_at": ""
+}

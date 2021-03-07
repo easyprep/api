@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T10:19:01.000Z",
+  "updated_at": "2021-03-07T10:19:01.000Z",
+  "id": "ecea868c-2542-46ae-900a-d59f825d4759",
+  "labels": "current-affairs,2021-03-08",
+  "question": "Which payment provider along with the National Payments Corporation of India, has launched “RuPay SoftPoS”?",
+  "option1": "SBI Payments",
+  "option2": "CC Avenue",
+  "option3": "Razorpay",
+  "option4": "Instamojo",
+  "option5": "",
+  "answer": "SBI Payments",
+  "explanation": "The SBI Cards &amp; Payment Services has joined hands with the National Payments Corporation of India (NPCI) to launch “RuPay SoftPoS”.<br />The solution aims to offer all-in-one and cost-effective acceptance infrastructure to retailers. The platform. The merchants can convert their existing android smartphone devices into a payment terminal by downloading a supported application.",
+  "verified_at": ""
+}

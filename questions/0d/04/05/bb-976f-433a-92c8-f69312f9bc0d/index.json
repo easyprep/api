@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:20.000Z",
+  "updated_at": "2021-03-07T11:19:20.000Z",
+  "id": "0d0405bb-976f-433a-92c8-f69312f9bc0d",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does V denote in the term VAT ?",
+  "option1": "Value",
+  "option2": "Validity",
+  "option3": "Venture",
+  "option4": "Vocals",
+  "option5": "",
+  "answer": "Value",
+  "explanation": "The term VAT stands for Value-added Tax. It is imposed on goods and services on every stage of production etc. to the end consumer. In some countries, the VAT is also known as GST.",
+  "verified_at": ""
+}

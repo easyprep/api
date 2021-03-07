@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:52.000Z",
+  "updated_at": "2021-03-07T11:19:52.000Z",
+  "id": "a9cae072-57a5-49ad-b484-585246b4edfd",
+  "labels": "current-affairs,2021-03-08",
+  "question": "Which of the following developed XUL ?",
+  "option1": "Microsoft",
+  "option2": "W3C",
+  "option3": "Mozilla Foundation",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Mozilla Foundation",
+  "explanation": "The term XUL stands for XML User Interface Language (XUL) is a user interface markup language. The XUL is developed by Mozilla Foundation.",
+  "verified_at": ""
+}

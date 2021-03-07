@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:06.000Z",
+  "updated_at": "2021-03-07T11:20:06.000Z",
+  "id": "5975af25-4349-4ee5-9ec5-aa821f9b33c9",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does A denote in the term YACC ?",
+  "option1": "Account",
+  "option2": "Attention",
+  "option3": "Adoption",
+  "option4": "Another",
+  "option5": "",
+  "answer": "Another",
+  "explanation": "The term YACC stands for Yet Another Compiler-Compiler. It is a computer program which was developed by Stephen C. Johnson.",
+  "verified_at": ""
+}

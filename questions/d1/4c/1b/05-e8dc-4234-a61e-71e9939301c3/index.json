@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T09:15:31.000Z",
+  "updated_at": "2021-03-07T09:15:31.000Z",
+  "id": "d14c1b05-e8dc-4234-a61e-71e9939301c3",
+  "labels": "current-affairs,2021-03-08",
+  "question": "Which country has launched the satellite Arktika-M?",
+  "option1": "US",
+  "option2": "Russia",
+  "option3": "UK",
+  "option4": "France",
+  "option5": "",
+  "answer": "Russia",
+  "explanation": "The Russian Space Agency has launched its satellite Arktika-M. This satellite is intended to monitor the climate in the Arctic region.<br />A Soyuz rocket took off from the Russian cosmodrome in Kazakhstan carrying Russia's first satellite launched for monitoring the Arctic's climate. Russia seeks to utilise the energy-rich region for the nation’s developmental interest.",
+  "verified_at": ""
+}

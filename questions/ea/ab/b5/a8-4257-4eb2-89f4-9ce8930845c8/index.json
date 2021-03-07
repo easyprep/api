@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:52.000Z",
+  "updated_at": "2021-03-07T11:19:52.000Z",
+  "id": "eaabb5a8-4257-4eb2-89f4-9ce8930845c8",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does L denote in the term XUL Runner ?",
+  "option1": "Lower",
+  "option2": "Language",
+  "option3": "Lowest",
+  "option4": "Loss",
+  "option5": "",
+  "answer": "Language",
+  "explanation": "The XML User Language (XUL) Runner is a discontinued packed version of the Mozilla platform to enable standalone desktop application development using XML.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T09:16:30.000Z",
+  "updated_at": "2021-03-07T09:16:30.000Z",
+  "id": "883b476b-0933-4ab5-a575-fd2c9b9a2523",
+  "labels": "current-affairs,2021-03-08",
+  "question": "Which banking company has successfully tested the world’s first blockchain transaction in space?",
+  "option1": "Goldman Sachs",
+  "option2": "JP Morgan",
+  "option3": "Wells Fargo",
+  "option4": "Bank of America",
+  "option5": "",
+  "answer": "JP Morgan",
+  "explanation": "JP Morgan has successfully tested the world’s first blockchain transaction in space using the satellites of the Danish space firm GomSpace.<br />GOMX-4 is GomSpace’s research and development mission, which includes two satellites – GOMX-4A and GOMX-4B. They were launched in 2018 at the low Earth orbit.",
+  "verified_at": ""
+}

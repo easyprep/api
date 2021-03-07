@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:52.000Z",
+  "updated_at": "2021-03-07T11:19:52.000Z",
+  "id": "7bccf541-4d60-4635-b71c-58e49cdaff3d",
+  "labels": "current-affairs,2021-03-08",
+  "question": "Which of the following, is the Developer of the Extensible Stylesheet Language Transformation (XSLT) ?",
+  "option1": "W3C",
+  "option2": "Microsoft",
+  "option3": "Sun Microsystems",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "W3C",
+  "explanation": "The Extensible Stylesheet Language Transformation (XSLT) is a language which is use for transforming XML documents into Other XML documents. It was developed by W3C.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:51.000Z",
+  "updated_at": "2021-03-07T11:19:51.000Z",
+  "id": "769c2160-8d5b-4a60-8d96-17f280591276",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does S denote in the term XMMS ?",
+  "option1": "Software",
+  "option2": "Setting",
+  "option3": "Smooth",
+  "option4": "System",
+  "option5": "",
+  "answer": "System",
+  "explanation": "The term XMMS stands for X Multimedia System. It is an audio player for Unix like system released under a free software license.",
+  "verified_at": ""
+}

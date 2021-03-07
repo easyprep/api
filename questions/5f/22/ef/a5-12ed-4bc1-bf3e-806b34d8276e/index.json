@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T10:18:32.000Z",
+  "updated_at": "2021-03-07T10:18:32.000Z",
+  "id": "5f22efa5-12ed-4bc1-bf3e-806b34d8276e",
+  "labels": "current-affairs,2021-03-08",
+  "question": "As per the survey of Amazon Web Services (AWS), what is the percentage of digitally skilled employees in India’s workforce?",
+  "option1": 4,
+  "option2": 12,
+  "option3": 35,
+  "option4": 52,
+  "option5": "",
+  "answer": 12,
+  "explanation": "According to a recent report commissioned by Amazon Web Services (AWS), India’s present workforce comprises only 12% digitally skilled employees.<br />It also highlighted that the number of employees requiring digital skills in the country will need to increase nine-times by 2025.",
+  "verified_at": ""
+}

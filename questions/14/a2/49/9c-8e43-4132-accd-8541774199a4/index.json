@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:36.000Z",
+  "updated_at": "2021-03-07T11:19:36.000Z",
+  "id": "14a2499c-8e43-4132-accd-8541774199a4",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does W denote in the term WAP ?",
+  "option1": "Wire",
+  "option2": "Window",
+  "option3": "Wireless",
+  "option4": "Wired",
+  "option5": "",
+  "answer": "Wireless",
+  "explanation": "The Wireless Application Protocol (WAP) is a technical standard for excessing information over a mobile wireless network.",
+  "verified_at": ""
+}

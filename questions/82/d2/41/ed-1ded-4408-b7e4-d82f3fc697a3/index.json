@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:52.000Z",
+  "updated_at": "2021-03-07T11:19:52.000Z",
+  "id": "82d241ed-1ded-4408-b7e4-d82f3fc697a3",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does L denote in the term XSL ?",
+  "option1": "Language",
+  "option2": "Lower",
+  "option3": "List",
+  "option4": "Loss",
+  "option5": "",
+  "answer": "Language",
+  "explanation": "The Extensible Stylesheet Language (XSL), in computers, is used to refer to a family of languages used to transform and render XML documents.",
+  "verified_at": ""
+}

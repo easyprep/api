@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:20.000Z",
+  "updated_at": "2021-03-07T11:19:20.000Z",
+  "id": "069dcbf8-5eb1-4728-9c97-594452419660",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does B stand for in the term VBS ?",
+  "option1": "Base",
+  "option2": "Basic",
+  "option3": "Basics",
+  "option4": "Bases",
+  "option5": "",
+  "answer": "Basic",
+  "explanation": "The term VBS stands for Virtual Basic Script which is an active scripting language developed by Microsoft. The VBS enables the user to have control over aspects of computing environment.",
+  "verified_at": ""
+}

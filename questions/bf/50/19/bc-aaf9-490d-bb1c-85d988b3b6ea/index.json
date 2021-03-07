@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T09:20:26.000Z",
+  "updated_at": "2021-03-07T09:20:26.000Z",
+  "id": "bf5019bc-aaf9-490d-bb1c-85d988b3b6ea",
+  "labels": "current-affairs,2021-03-08",
+  "question": "How many Indian institutions were ranked in the top 100 of the QS World University Rankings by Subject 2021?",
+  "option1": 5,
+  "option2": 8,
+  "option3": 12,
+  "option4": 19,
+  "option5": "",
+  "answer": 12,
+  "explanation": "In the QS World University Rankings by Subject 2021, only 12 Indian Institutions found place in the top-100 list.<br />Massachusetts Institute of Technology, USA has retained its top position. Three Indian Institutes of Technology have entered the group of the top 100 engineering institutes. IIT-Bombay is placed at the 49th position in the engineering and technology category.",
+  "verified_at": ""
+}

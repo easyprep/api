@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T10:13:36.000Z",
+  "updated_at": "2021-03-07T10:13:36.000Z",
+  "id": "9fd5fe7a-34d6-4649-bafb-136c9e6175d9",
+  "labels": "current-affairs,2021-03-08",
+  "question": "Which company launched a WhatsApp API enabled chatbot called ‘Mitra’, to provide employment opportunities?",
+  "option1": "Vahan",
+  "option2": "Mahindra",
+  "option3": "TCS",
+  "option4": "Infosys",
+  "option5": "",
+  "answer": "Vahan",
+  "explanation": "Start-up placement firm Vahan launched a WhatsApp API (application programming interface) enabled chatbot called ‘Mitra’.<br />Using the chatbot, the company has reached 1 lakh milestone in providing employment opportunities to over 1 lakh blue collared professionals and a large number of grey collared professionals.",
+  "verified_at": ""
+}

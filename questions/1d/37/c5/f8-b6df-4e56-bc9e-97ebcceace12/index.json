@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:20.000Z",
+  "updated_at": "2021-03-07T11:19:20.000Z",
+  "id": "1d37c5f8-b6df-4e56-bc9e-97ebcceace12",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does R stand for in the term VCR ?",
+  "option1": "Record",
+  "option2": "Recording",
+  "option3": "Recorder",
+  "option4": "Recorded",
+  "option5": "",
+  "answer": "Recorder",
+  "explanation": "The Video Cassette Recorder (VCR) is an electro-mechanical device that records analogue audio/video from broadcast television.",
+  "verified_at": ""
+}

@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:52.000Z",
+  "updated_at": "2021-03-07T11:19:52.000Z",
+  "id": "3ee6f3bd-883e-4922-8be2-31b24a1d1ac6",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does F stand for in the term XSL- FO ?",
+  "option1": "Foundation",
+  "option2": "Formatting",
+  "option3": "Force",
+  "option4": "Focus",
+  "option5": "",
+  "answer": "Formatting",
+  "explanation": "The Extensible Stylesheet Language formatting Objects (XSL-FO) is a markup language for XML document formatting that is most often used in creating PDF files.",
+  "verified_at": ""
+}

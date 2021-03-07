@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:06.000Z",
+  "updated_at": "2021-03-07T11:20:06.000Z",
+  "id": "cef72558-0219-4fe3-969a-c120ecb24c98",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does N denote in the term YAGNI ?",
+  "option1": "Need",
+  "option2": "Narrow",
+  "option3": "Neutral",
+  "option4": "Nuclear",
+  "option5": "",
+  "answer": "Need",
+  "explanation": "The term YAGNI stands for You Aren't Gonna Need It. It is a principle of extreme programming that states a programmer shouldn't add functionality until deemed necessary.",
+  "verified_at": ""
+}

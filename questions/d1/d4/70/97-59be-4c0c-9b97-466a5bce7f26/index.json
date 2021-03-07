@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:36.000Z",
+  "updated_at": "2021-03-07T11:19:36.000Z",
+  "id": "d1d47097-59be-4c0c-9b97-466a5bce7f26",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What is the correct full form of the term WAP ?",
+  "option1": "Wide Area Networking",
+  "option2": "Wide Area Network",
+  "option3": "World Area Networking",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Wide Area Network",
+  "explanation": "The term WAP stands for Wide Area Network which is a telecommunication networks which extends over a large geographic area for the primary purposes of computer networking.",
+  "verified_at": ""
+}

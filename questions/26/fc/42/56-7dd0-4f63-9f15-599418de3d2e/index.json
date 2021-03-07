@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:06.000Z",
+  "updated_at": "2021-03-07T11:20:06.000Z",
+  "id": "26fc4256-7dd0-4f63-9f15-599418de3d2e",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does M denote in the term YAML ?",
+  "option1": "Market",
+  "option2": "Maintenance",
+  "option3": "Markup",
+  "option4": "Management",
+  "option5": "",
+  "answer": "Markup",
+  "explanation": "The term YAML stands for YAML Ain't Markup Language. It is a human-readable data serialization language.",
+  "verified_at": ""
+}

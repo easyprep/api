@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T09:17:17.000Z",
+  "updated_at": "2021-03-07T09:17:17.000Z",
+  "id": "97c64d14-f570-45fd-b505-54adea9ac8d6",
+  "labels": "current-affairs,2021-03-08",
+  "question": "As per a recent report, which is the most affected country by stalkerware applications?",
+  "option1": "USA",
+  "option2": "China",
+  "option3": "Russia",
+  "option4": "India",
+  "option5": "",
+  "answer": "Russia",
+  "explanation": "The cybersecurity firm Kaspersky released the 'State of Stalkerware 2020' report. Stalkerware is a form of malicious app installed to secretly monitor their phone activities. <br />Russia was the most impacted country with 12,389 users, followed by Brazil (6,523) and US (4,745). India was the fourth most impacted nation targeted by stalkerware.",
+  "verified_at": ""
+}

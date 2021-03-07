@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:06.000Z",
+  "updated_at": "2021-03-07T11:20:06.000Z",
+  "id": "e470b793-0233-4f89-810c-bceec19a00ec",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does R denote in the term YARP ?",
+  "option1": "Research",
+  "option2": "Reform",
+  "option3": "Robot",
+  "option4": "Record",
+  "option5": "",
+  "answer": "Robot",
+  "explanation": "The term YARP stands for Yet Another Robot Platform which is an open source software package written in C++ for interconnecting sensors, procedures and actuators.",
+  "verified_at": ""
+}

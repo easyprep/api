@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:06.000Z",
+  "updated_at": "2021-03-07T11:20:06.000Z",
+  "id": "3b826789-34b0-4549-a710-449b4a8fa908",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What is the correct full form of Y2K ?",
+  "option1": "Year 200 Problem",
+  "option2": "Year 2000 Problem",
+  "option3": "Year 20000 Problem",
+  "option4": "Year 20 Problem",
+  "option5": "",
+  "answer": "Year 2000 Problem",
+  "explanation": "The term Y2K stands for Year 2000 Problem. It refers to an event which is related with formatting and storage of calendar data for dates beginning in the year 2000. It is also known as Millennium Bug and Y2K glitch.",
+  "verified_at": ""
+}

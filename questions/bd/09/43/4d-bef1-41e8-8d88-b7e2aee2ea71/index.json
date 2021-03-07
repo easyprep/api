@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:51.000Z",
+  "updated_at": "2021-03-07T11:19:51.000Z",
+  "id": "bd09434d-bef1-41e8-8d88-b7e2aee2ea71",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does X denote in the term XML ?",
+  "option1": "Extensible",
+  "option2": "Extent",
+  "option3": "Examine",
+  "option4": "NOTA",
+  "option5": "",
+  "answer": "Extensible",
+  "explanation": "The Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human readable and machine readable.",
+  "verified_at": ""
+}

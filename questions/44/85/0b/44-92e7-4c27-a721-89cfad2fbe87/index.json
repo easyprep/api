@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:20:18.000Z",
+  "updated_at": "2021-03-07T11:20:18.000Z",
+  "id": "44850b44-92e7-4c27-a721-89cfad2fbe87",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does M denote in the term ZMA ?",
+  "option1": "Multitude",
+  "option2": "Multiply",
+  "option3": "Multiple",
+  "option4": "Multicast",
+  "option5": "",
+  "answer": "Multicast",
+  "explanation": "The term ZMA stands for Zone Multicast Address which is a data link independent group address within the apple talk computer network protocol suite.",
+  "verified_at": ""
+}

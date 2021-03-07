@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T10:15:22.000Z",
+  "updated_at": "2021-03-07T10:15:23.000Z",
+  "id": "0b5c4eb9-db5d-4a4c-952e-2cdb88faa775",
+  "labels": "current-affairs,2021-03-08",
+  "question": "‘Non-fungible token (NFT)’, which was seen in the news recently, is related to which field?",
+  "option1": "Crypto Art",
+  "option2": "Malware",
+  "option3": "Supercomputer component",
+  "option4": "Virus component",
+  "option5": "",
+  "answer": "Crypto Art",
+  "explanation": "Crypto art refers to a genre of art which is related to blockchain technology. These artworks are tracked and traded through the distributed ledger system. The non-fungible token (NFT) art can be valued and purchased instead of cryptocurrencies, which can be converted into currencies like USD. <br />In February, Winkelmann's art piece \"Crossroad\" was sold for USD 6.6 million, which is the highest crypto art sale till date.",
+  "verified_at": ""
+}

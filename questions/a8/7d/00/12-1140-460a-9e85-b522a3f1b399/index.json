@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-07T11:19:51.000Z",
+  "updated_at": "2021-03-07T11:19:51.000Z",
+  "id": "a87d0012-1140-460a-9e85-b522a3f1b399",
+  "labels": "current-affairs,2021-03-08",
+  "question": "What does H stand for in the term XHTML ?",
+  "option1": "High",
+  "option2": "Hyper",
+  "option3": "Hight",
+  "option4": "Hinderance",
+  "option5": "",
+  "answer": "Hyper",
+  "explanation": "The Extensible Hyper Markup Language (XHTML) is a part of the family of XML markup languages. The XHTML is developed by World Wide Web Consortium.",
+  "verified_at": ""
+}
