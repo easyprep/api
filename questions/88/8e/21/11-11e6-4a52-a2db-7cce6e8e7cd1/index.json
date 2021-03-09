@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-09T02:36:28.000Z",
+  "updated_at": "2021-03-09T02:36:28.000Z",
+  "id": "888e2111-11e6-4a52-a2db-7cce6e8e7cd1",
+  "labels": "current-affairs,2021-03-10",
+  "question": "How many time zones are there in Ireland ?",
+  "option1": 1,
+  "option2": 3,
+  "option3": 2,
+  "option4": 4,
+  "option5": "",
+  "answer": 2,
+  "explanation": "The Ireland is known to have 2 different time zones for different seasons in the year. The first one being UTC which is used from end of October to end of March and second being UTC+1 which is used form end of March to end of October.",
+  "verified_at": ""
+}
