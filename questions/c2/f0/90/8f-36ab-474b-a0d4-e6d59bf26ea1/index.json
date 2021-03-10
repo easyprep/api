@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-10T02:04:37.000Z",
+  "updated_at": "2021-03-10T02:04:37.000Z",
+  "id": "c2f0908f-36ab-474b-a0d4-e6d59bf26ea1",
+  "labels": "current-affairs,2021-03-11",
+  "question": "SMS scrubbing', which was making news recently is related to which organisation?",
+  "option1": "TRAI",
+  "option2": "RBI",
+  "option3": "Telecom Ministry",
+  "option4": "Finance Ministry",
+  "option5": "",
+  "answer": "TRAI",
+  "explanation": "The Telecom Regulatory Authority of India (TRAI) issued a guideline that the verification process of every SMS content should be done before it is delivered. The process is known as SMS scrubbing.\r\nRecently, when the telecom service providers (TSPs) started implementing the second phase of SMS regulation, several unverified and unregistered SMS messages were blocked.",
+  "verified_at": ""
+}

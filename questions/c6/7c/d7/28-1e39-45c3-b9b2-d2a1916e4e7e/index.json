@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-10T02:00:25.000Z",
+  "updated_at": "2021-03-10T02:00:25.000Z",
+  "id": "c67cd728-1e39-45c3-b9b2-d2a1916e4e7e",
+  "labels": "current-affairs,2021-03-11",
+  "question": "NISAR Synthetic Aperture Radar which was making news recently, is a collaboration of ISRO with which space agency?",
+  "option1": "JAXA",
+  "option2": "NASA",
+  "option3": "SpaceX",
+  "option4": "ESA",
+  "option5": "",
+  "answer": "NASA",
+  "explanation": "ISRO has recently completed the development of a Synthetic Aperture Radar (SAR), which is capable of producing high-resolution images.\r\nNASA-ISRO SAR (NISAR) is a collaboration for a dual-frequency L and S-band SAR for a joint earth observation satellite mission. It will be the first satellite mission to use two different radar frequencies to observe the earth surface.",
+  "verified_at": ""
+}

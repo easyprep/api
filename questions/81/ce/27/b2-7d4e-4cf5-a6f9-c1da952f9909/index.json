@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-10T02:05:07.000Z",
+  "updated_at": "2021-03-10T02:05:07.000Z",
+  "id": "81ce27b2-7d4e-4cf5-a6f9-c1da952f9909",
+  "labels": "current-affairs,2021-03-11",
+  "question": "What is the threshold for mandatory e-invoicing, as per the CBIC?",
+  "option1": "Rs 20 crore",
+  "option2": "Rs 25 crore",
+  "option3": "Rs 50 crore",
+  "option4": "Rs 100 crore",
+  "option5": "",
+  "answer": "Rs 50 crore",
+  "explanation": "The Finance Ministry lowered the threshold for mandatory e-invoicing to Rs 50 crore, from the earlier limit of Rs 100 crore.\r\nAs per the Central Board of Indirect Taxes and Customs (CBIC) notification, the new rule will come into effect from April 1. E-invoicing involves reporting details of specified GST documents to a government-notified portal.",
+  "verified_at": ""
+}
