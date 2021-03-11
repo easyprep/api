@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-11T03:04:22.000Z",
+  "updated_at": "2021-03-11T03:04:22.000Z",
+  "id": "78355cf3-37cc-4f7e-b4e9-a29f487b1c1a",
+  "labels": "current-affairs,2021-03-12",
+  "question": "In which year, the headquarters of Aman (Israel's military intelligence agency) are formed?",
+  "option1": 1948,
+  "option2": 1950,
+  "option3": 1954,
+  "option4": 1980,
+  "option5": "",
+  "answer": 1950,
+  "explanation": "The Aman is the military intelligence agency of Israel which was formed in the year 1950 as a separate organization from the 3 forces of Israel.",
+  "verified_at": ""
+}

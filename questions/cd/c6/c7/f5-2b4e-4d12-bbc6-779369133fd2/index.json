@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-11T03:04:36.000Z",
+  "updated_at": "2021-03-11T03:04:36.000Z",
+  "id": "cdc6c7f5-2b4e-4d12-bbc6-779369133fd2",
+  "labels": "current-affairs,2021-03-12",
+  "question": "Which of the following is largest lake of Italy?",
+  "option1": "Lake Maggiore",
+  "option2": "Lake Idro",
+  "option3": "Lake Garda",
+  "option4": "Lake Como",
+  "option5": "",
+  "answer": "Lake Garda",
+  "explanation": "The Lake Garda is the largest lake in Italy which is about 51 km long and 16 km wide. The other important lakes are Lake Idro, Lake Como, Lake Maggiore etc.",
+  "verified_at": ""
+}

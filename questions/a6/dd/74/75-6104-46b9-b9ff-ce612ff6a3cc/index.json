@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-11T03:04:22.000Z",
+  "updated_at": "2021-03-11T03:04:22.000Z",
+  "id": "a6dd7475-6104-46b9-b9ff-ce612ff6a3cc",
+  "labels": "current-affairs,2021-03-12",
+  "question": "In which city of Israel, the headquarters of Shin Bet (Israel's internal security agency) are situated?",
+  "option1": "Tel Aviv",
+  "option2": "Haifa",
+  "option3": "Rammat Aviv",
+  "option4": "Jerusalem",
+  "option5": "",
+  "answer": "Rammat Aviv",
+  "explanation": "The Shin Bet is the internal security agency of Israel which was established in the year 1949 and is headquartered at Rammat Aviv.",
+  "verified_at": ""
+}

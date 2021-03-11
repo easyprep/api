@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-11T03:04:22.000Z",
+  "updated_at": "2021-03-11T03:04:22.000Z",
+  "id": "4305d2fd-06b2-48fe-8390-e9bef78a23fc",
+  "labels": "current-affairs,2021-03-12",
+  "question": "In which year, the Israel Defense Forces (IDF) were formed?",
+  "option1": 1967,
+  "option2": 1948,
+  "option3": 1950,
+  "option4": 1954,
+  "option5": "",
+  "answer": 1948,
+  "explanation": "The Israel Defense Forces (IDF) are consists of ground forces, Airforce and Navy. It was formed in 1948.",
+  "verified_at": ""
+}
