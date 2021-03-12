@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-12T18:43:52.000Z",
+  "updated_at": "2021-03-12T18:43:52.000Z",
+  "id": "ac3eb60d-6592-4087-9388-793c2ebb0f3b",
+  "labels": "current-affairs,2021-03-13",
+  "question": "What is “2001 FO32” that is seen in news recently?",
+  "option1": "Space Shuttle",
+  "option2": "Covid Vaccine Candidate",
+  "option3": "Asteroid",
+  "option4": "Rare Earth Metal",
+  "option5": "",
+  "answer": "Asteroid",
+  "explanation": "The American space agency NASA has stated that the largest asteroid 2001 FO32 would pass by the earth at a very close distance of 1.25 million miles, this year.\r\nThe asteroid is estimated to be 3,000 feet in diameter and was discovered 20 years ago.",
+  "verified_at": ""
+}
