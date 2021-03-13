@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-13T11:07:50.000Z",
+  "updated_at": "2021-03-13T11:07:50.000Z",
+  "id": "6f766ae0-797b-4399-960b-678eccafbb74",
+  "labels": "current-affairs,2021-03-14",
+  "question": "In which year, the railways started in Japan?",
+  "option1": 1853,
+  "option2": 1856,
+  "option3": 1871,
+  "option4": 1867,
+  "option5": "",
+  "answer": 1871,
+  "explanation": "The class 150 steam locomotive introduced in Japan in 1871. It ran between Tokyo and Yokohama.",
+  "verified_at": ""
+}
