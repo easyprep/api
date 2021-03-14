@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-14T02:40:22.000Z",
+  "updated_at": "2021-03-14T02:40:22.000Z",
+  "id": "f8bdfc9c-9025-4cd8-9201-6b3cf7b9fa00",
+  "labels": "current-affairs,2021-03-15",
+  "question": "Which bank has been recently moved out of the Prompt Corrective Action Framework?",
+  "option1": "Indian Overseas Bank",
+  "option2": "Central Bank of India",
+  "option3": "IDBI Bank",
+  "option4": "Oriental Bank of Commerce",
+  "option5": "",
+  "answer": "IDBI Bank",
+  "explanation": "The Board for Financial Supervision (BFS) has reviewed the performance of IDBI Bank recently. It was found that the Bank has not breached any PCA (Prompt Corrective Action) parameters in terms of regulatory capital, Net NPA and Leverage.\r\nHence, the bank has been taken out of the PCA framework, subject to some terms and conditions.",
+  "verified_at": ""
+}

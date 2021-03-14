@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-14T02:39:25.000Z",
+  "updated_at": "2021-03-14T02:39:25.000Z",
+  "id": "e935b466-00a4-46f3-9a5c-2e2d025a05df",
+  "labels": "current-affairs,2021-03-15",
+  "question": "What is RH 560 that is seen in the news recently?",
+  "option1": "Asteroid",
+  "option2": "Earth Metal",
+  "option3": "Indian Naval Ship",
+  "option4": "ISRO’s Sounding Rocket",
+  "option5": "",
+  "answer": "ISRO’s Sounding Rocket",
+  "explanation": "The Indian Space Research Organisation (ISRO) has recently launched a sounding rocket named RH-560 from Satish Dhawan Space Centre (SDSC), Sriharikota Range (SHAR). This rocket aims to study attitudinal variations in the neutral winds and plasma dynamics.\r\nSounding rockets are one or two-stage solid propellant rockets, which are generally used for probing the upper atmospheric regions for research.",
+  "verified_at": ""
+}
