@@ -1,0 +1,15 @@
+{
+  "created_at": "2021-03-16T03:56:34.000Z",
+  "updated_at": "2021-03-16T03:56:34.000Z",
+  "id": "ad463f38-ae07-47b3-84e4-cbf7ad1c29df",
+  "labels": "current-affairs,2021-03-17",
+  "question": "What is AEG12, which is in the news recently?",
+  "option1": "COVID 19 Vaccine candidate",
+  "option2": "Meteor",
+  "option3": "ISRO’s space shuttle",
+  "option4": "Mosquito Protein",
+  "option5": "",
+  "answer": "Mosquito Protein",
+  "explanation": "A mosquito protein, called AEG12 has been found to inhibit the viruses that cause yellow fever, dengue etc. It is also found to weakly inhibit coronaviruses.\r\nThis has been studied and found by a team of researchers at the US National Institutes of Health (NIH). It is seen that the protein works by destabilising the viral envelope of the disease-causing virus.",
+  "verified_at": ""
+}
